@@ -2,6 +2,40 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-05-04-stethoscopes-electronics-and-artificial-intelligence.md",
+      "title": "Stethoscopes, Electronics, And Artificial Intelligence",
+      "excerpt": "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
+      "originalUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-is-ai-the-history-eraser-button.md",
       "title": "Is AI The History Eraser Button?",
       "excerpt": "This iconic scene from the John Krisfaluchi’s Ren and Stimpy television series epitomizes man’s duality. Do we honor nature, protect the earth and everything we love, or impulsively sacrifice ourselves to the false god of progress and the legions of unintended consequences they unleash?",
@@ -1146,58 +1180,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming.md",
-      "title": "GamesBeat Summit 2023 will capture how generative AI is changing gaming",
-      "excerpt": "Generative AI is sweeping through the game industry and that's one of the can't-miss topics we'll discuss at GamesBeat Summit 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
-      "originalUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/ai-at-gamesbeat.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
-      "publishedDateTime": "2023-05-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

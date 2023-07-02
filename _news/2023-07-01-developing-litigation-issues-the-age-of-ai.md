@@ -98,15 +98,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
-  - title: "Artificial intelligence now being used in Grandparent Scam. What you need to know"
-    excerpt: "In a new twist, artificial intelligence is now being used to clone grandkids' voices in the Grandparent Scam. Here's how to protect yourself."
-    publishedDateTime: 2023-06-27T12:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?gnt-cfr=1"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 14
 
 secured: "U3QiTVrXSQ1/1bMxFx78MOLDDBskS/tsiKkkXl0aHj2b5A8FgSN6tPaXK6TqaRazhDh17FIQ905vs3utrVMP/bckAc0Xhu3oxvjd9kyi7E3y4JzbfxGj8Z9Ai34UobwFPvwv/cP4u0/JztrqUbUAipok9oBuS6XYfw3hcI31hrwNQFPL4IVOi+dax86hZvTru9cMMRkc89V1uwy2xaE7fwELu+I7qrdy5kVHp4+1DKo9544kQd9ovhz64QZRecQhuK+x6pi3XN6/iAOBj7CgA2VoUBeYdnNOWaQM2crvtTOPoUWoif6l10FxP9Z38WlkJu6exCUxm7SIYWSsrxp4PnxTStC+cxreSRhVf9B1eb8=;UXL3p08QebXpFE+M6oBI5w=="
 ---

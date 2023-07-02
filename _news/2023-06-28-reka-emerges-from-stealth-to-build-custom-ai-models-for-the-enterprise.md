@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "AI English Tutor Emerges From Stealth With Seed Funding In Hand"
-    excerpt: "An Israeli startup teaching English language using generative AI has emerged from stealth with $9.25 million in seed funding."
-    publishedDateTime: 2023-06-27T12:25:00Z
-    webUrl: "https://nocamels.com/2023/06/ai-english-tutor-emerges-from-stealth-with-seed-funding-in-hand/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 17
 
 secured: "gc8XZ1HZ0QutNJGFoEVonX72OhUiLlkcH0ep7XvwuwbhqrZdC0z8A79QYrnaGBhtrxrqvqFi+gsbkbZt8T4dheaRlJyd+cuCTQUe7co20TJ1cNWwkXpkOY0qb871TzSK7kiGcEBiCM8C+yAv4I7STjKUtHGFxcgWSm5EWd+bEO5zWjPXYFs7sCzwODv+WWlojbfDzsuC8/Q+G3GzduAchJS9jYGpAxRrjnjBRxCFqOGi1L/NJk86kIDWvReCOTKvAN4j4azGfGdPkl26y0ONzlCiPfsy/LrPkh5KVjVofhNkijyPFZJNgQKTewEKer6ZQiBuut/mjD2BWem93q+t59WcxLeHnmjqb9Z4ybX1fTENyvqXDhG1aW9z0qP40pJwLa04NClDm3IsE7EEfjeeOphZnH0QbvvuRbEC8Bq01hJ5RkPoPnXxju1hYWE/VvJ55zQLHHwyvagwDTz1M39+j4/Z8WWoxeUnIxRF7y2xh2JxqAEU+DrJWKflVr9YWvB8KDGBKljsq0p7dFAt/8s2Pg==;YGIzc9cyd8rmbqzOxnJMTg=="
 ---

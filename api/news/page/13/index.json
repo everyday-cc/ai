@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-06-22-take-the-lead-with-ai-and-machine-learning-skills-from-msoe.md",
+      "title": "Take the lead with AI and machine learning skills from MSOE",
+      "excerpt": "Today’s leading companies need professionals with machine learning and artificial intelligence (AI) experience to process data, make predictions, inform",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/",
+      "originalUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/2023/06/msoe_innovation_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/?amp",
+      "publishedDateTime": "2023-06-21T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-marvel-used-ai-to-create-secret-invasions-opening-credits-and-it-looks-awful.md",
       "title": "Marvel used AI to create Secret Invasion’s opening credits and it looks awful",
       "excerpt": "The first episode of Secret Invasion is getting good reviews, but Marvel has already invited a backlash over the show's AI-generated opening sequence.",
@@ -1140,58 +1183,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-a-new-accelerator-for-ai-first-startups-in-europe-and-israel.md",
-      "title": "A new accelerator for AI-first startups in Europe and Israel",
-      "excerpt": "This 10-week program supports startups using AI in their core business through tailored training and mentoring by making use of the best of Google and its network.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/",
-      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_GFS_CLIMACC23_2537.width-1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/",
-      "publishedDateTime": "2023-06-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

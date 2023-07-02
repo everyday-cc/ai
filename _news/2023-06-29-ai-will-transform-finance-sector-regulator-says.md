@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.co.uk/news/world-europe-guernsey-66041385.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-guernsey-66041385.amp"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -27,22 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Time running out for UK electoral system to keep up with AI, say regulators"
-    excerpt: "Watchdog calls for campaigners to behave responsibly amid fears over potential misuse of generative AI"
-    publishedDateTime: 2023-06-28T09:52:00Z
-    webUrl: "https://www.theguardian.com/politics/2023/jun/28/time-running-out-for-uk-electoral-system-to-keep-up-with-ai"
-    ampWebUrl: "https://amp.theguardian.com/politics/2023/jun/28/time-running-out-for-uk-electoral-system-to-keep-up-with-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/jun/28/time-running-out-for-uk-electoral-system-to-keep-up-with-ai"
+  - title: "Two Ways AI Can Be Used To Help Transform Insurance"
+    excerpt: "Whether insurers want to improve underwriting, risk management or both, AI is one solution to satisfying B2B customers while benefiting underwriters."
+    publishedDateTime: 2023-06-30T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.guim.co.uk/img/media/01714770f9facf56da3611d4b0c91c53d911029d/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=3adceb361125f90f17b497c46a044484"
-        width: 620
-        height: 372
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Catalyzing transformation: Augmenting human intelligence with AI"
+    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Mumbai brought together visionaries, experts and technology enthusiasts under one roof to explore the frontiers of artificial intelligence through keynotes,"
+    publishedDateTime: 2023-06-29T11:46:00Z
+    webUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai-11688038146836.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2019/01/30/600x338/HTBS-leadImage-Feb2018-FB-v2_1548835753634.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "The Transform AI Survey: Help discover the state of generative AI"
+    excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
+    publishedDateTime: 2023-06-29T13:11:00Z
+    webUrl: "https://venturebeat.com/ai/the-transform-ai-survey-help-discover-the-state-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "qyq00meyHddbYfHcXfIbf5sm920Rj8iUooQSLGQI6ejZptVexOLE/SMBKfi5ActXKHmrGMkj4hN79sVIvIolxdG9+6OlFgnKG2voZsNnWda7h/IZO75vzfqUaQfu9FPmzTNrMYvKXg3DEz+oTGXn1WEwwM160DhmbWHTBgNJPEnJSioEOU/wNqgNiy1W234F4n2rsKqXJHtoCWVId7b2qLErQx0Gytz/3zzHV9anRVV9wILjFbBMdvVSleDy49d7sLAqCIXcQyP3ywOxP9oUfmdsLVY3BvIdy3FPBVr31h6PgvLDkHPJwVImOw5r1Xv/yKtLYiSME9C0D4rrNbKi3kQTfOnjxZCgbppioO0dpoo=;HzfkwKJdKdKIOk1jwO33FA=="
 ---

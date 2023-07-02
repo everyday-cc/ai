@@ -203,15 +203,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
-    excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
-    publishedDateTime: 2023-06-27T11:29:00Z
-    webUrl: "https://analyticsindiamag.com/data-science-hiring-process-at-fiserv/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 4
   - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
     excerpt: "The API enables Fintech and lenders to access unique proprietary data and AI, machine learning scoring for accurate and speedy assessments of borrower first- and third-party risk."
     publishedDateTime: 2023-06-28T20:48:00Z

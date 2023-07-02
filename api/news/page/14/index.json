@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-06-21-a-new-accelerator-for-ai-first-startups-in-europe-and-israel.md",
+      "title": "A new accelerator for AI-first startups in Europe and Israel",
+      "excerpt": "This 10-week program supports startups using AI in their core business through tailored training and mentoring by making use of the best of Google and its network.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/",
+      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_GFS_CLIMACC23_2537.width-1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/",
+      "publishedDateTime": "2023-06-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-to-save-the-planet-start-digging.md",
       "title": "To Save the Planet, Start Digging",
       "excerpt": "Environmentalist Jamie Beard has been pushing her vision to tap into geothermal energy—by working with Big Oil. Can it ever work?",
@@ -1084,59 +1136,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators.md",
-      "title": "Reduce energy consumption of your machine learning workloads by up to 90% with AWS purpose-built accelerators",
-      "excerpt": "Machine learning (ML) engineers have traditionally focused on striking a balance between model training and deployment cost vs. performance. Increasingly, sustainability (energy efficiency) is becoming an additional objective for customers. This is important because training ML models and then using",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/ML-13388_inference_experiments-1122x630.png",
-          "width": 1122,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T14:38:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

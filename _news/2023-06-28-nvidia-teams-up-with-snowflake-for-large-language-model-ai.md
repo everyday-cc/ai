@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"
-    publishedDateTime: 2023-06-27T11:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/snowflake-and-nvidia-partner-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 23
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/nvidia-snowflake-300x207.png"
-        width: 300
-        height: 207
-        isCached: true
   - title: "NVIDIA Partners with Snowflake to Create Customized Generative AI Models"
     excerpt: "Snowflake and NVIDIA data collaboration will allow customers ranging from financial institutions to healthcare and retail to build AI models using their own data."
     publishedDateTime: 2023-06-27T13:15:00Z

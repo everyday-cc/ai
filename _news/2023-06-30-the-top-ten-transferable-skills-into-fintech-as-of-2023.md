@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
 type: article
 quality: 74
-heat: 242
+heat: 232
 published: true
 
 provider:
@@ -199,15 +199,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
-    excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
-    publishedDateTime: 2023-06-27T11:29:00Z
-    webUrl: "https://analyticsindiamag.com/data-science-hiring-process-at-fiserv/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 4
   - title: "‘Push-button scale’ a boon for fintech in the data transformation age"
     excerpt: "One of those disruptors is Current, the U.S.-based fintech that has leaned on the flexibility, speed and scalability of MongoDB Inc.’s Atlas to deliver outcomes and grow at a consistent, sustainable pace."
     publishedDateTime: 2023-06-27T18:04:00Z

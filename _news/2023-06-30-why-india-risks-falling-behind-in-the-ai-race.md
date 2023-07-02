@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race"
 type: article
 quality: 67
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
-  - title: "Rapid transformation. Artificial Intelligence in Indian healthcare: A promising future with challenges"
-    excerpt: "Artificial intelligence (AI) is rapidly transforming the healthcare industry in India, bringing unprecedented tools for diagnosis, treatment and patient care. AI expenditure in India is expected to reach $11.78 billion by 2025 and add $1 trillion to India ..."
-    publishedDateTime: 2023-06-27T11:49:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/science/artificial-intelligence-in-indian-healthcare-a-promising-future-with-challenges/article67015361.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 18
   - title: "Food Allergy Institute's Inderpal Randhawa, MD Discusses the Relationship Between Artificial Intelligence and Medicine in In-Depth Video Interview"
     excerpt: "Food Allergy Institute (FAI) founder Inderpal Randhawa, MD, was interviewed by an investigative reporter for an in-depth discussion on the current state of artificial intelligence (A.I.) and how he an"
     publishedDateTime: 2023-06-29T15:31:00Z

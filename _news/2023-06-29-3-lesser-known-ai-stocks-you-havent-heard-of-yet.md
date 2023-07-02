@@ -55,24 +55,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "3 AI Stocks to Target for Triple-Digit Returns in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) has received incredible attention this year due"
-    publishedDateTime: 2023-06-27T11:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-target-for-triple-digit-returns-in-2023-1032411950"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Big Tech on the Prowl: 3 Potential AI Stock Acquisition Targets"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the artificial intelligence boom gaining momentum, we’re likely to"
-    publishedDateTime: 2023-06-27T12:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/big-tech-on-the-prowl-3-potential-ai-stock-acquisition-targets-ai-stocks-to-watch-1032412292"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Don’t Fall for It! 3 Overhyped AI Stocks to Avoid."
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has been the talk of the town over the past few"
     publishedDateTime: 2023-06-29T10:50:00Z

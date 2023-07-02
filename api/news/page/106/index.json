@@ -2,6 +2,49 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2023-04-26-robots-manufactured-to-remove-risks-to-humans-during-emergencies-at-nuclear-plants.md",
+      "title": "Robots manufactured to remove risks to humans during emergencies at nuclear plants",
+      "excerpt": "The leading and longest established online Process Engineering publication serving the Process Manufacturing Industries REMOTELY operated rescue robots capable of withstanding hazardous environments will make emergency jobs across UK nuclear plants significantly safer and more cost effective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pandct.com/news/robots-manufactured-to-remove-risks-to-humans-during-emergencies-at-nuclear-plants",
+      "originalUrl": "https://www.pandct.com/news/robots-manufactured-to-remove-risks-to-humans-during-emergencies-at-nuclear-plants",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.pandct.com/uploads/news_images/Forth%2026423.jpg",
+          "width": 899,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Process Control Today",
+        "domain": "pandct.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half.md",
       "title": "SK Hynix expects memory chip market to begin recovering in second half",
       "excerpt": "Despite posting a record loss, SK Hynix expects lowered production output by memory chipmakers to start a rebound later in the year.",
@@ -1219,58 +1262,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-opera-shows-off-ai-and-tab-grouping-in-the-latest-browser-update.md",
-      "title": "Opera shows off AI and tab grouping in the latest browser update",
-      "excerpt": "Opera has announced Opera One, a redesign of its Web browser with AI features like Tab Islands and under-the-hood improvements to its performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/1798217/opera-one-is-operas-ai-powered-modular-new-browser.html",
-      "originalUrl": "https://www.pcworld.com/article/1798217/opera-one-is-operas-ai-powered-modular-new-browser.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2023/04/A_Opera-One-Dark-mode-16x9-1-1.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

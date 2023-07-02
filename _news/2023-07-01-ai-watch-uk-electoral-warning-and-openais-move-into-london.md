@@ -146,15 +146,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google DeepMind’s Gemini Can Rival ChatGPT, Claims DeepMind"
-    excerpt: "DeepMind CEO Demis Hassabis confirmed that Gemini could analyze text and plan and solve problems, along with some “pretty interesting” new innovations. Google’s DeepMind announced Gemini soon after making headlines with PaLM 2,"
-    publishedDateTime: 2023-06-27T12:21:00Z
-    webUrl: "https://techreport.com/news/google-deepminds-gemini-can-rival-chatgpt-claims-deepmind/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 34
 
 secured: "nTNlsOkzafFP4CcTx39ENYy4MQMR108hBBonfD/qnGyNDsYwKBYi9gFwo8xUTjKgyZVKJg0FGupp5ZmlZmbykJCXw8ltsdtFOzZw3E8Cm2NMU8lfHE8Jqkv0EGmImfiQqh7VXRHluiSTriTD08tX71x4CJ7kQpOon6H2h25qcYPHEfh+lJnG3DJn9kRZs1+MoD2ljctorV9pr+3XKZI4NTVSsjtprig4905gveWNuxdEPV7RMxI1Va642N6MZndEUxizlXMz6JvW/a8S9OOoFLK36xql/e2/eeUQw8B4E3m7PU99SmmD3ZmXvS2DSicKLXyE9isWcKRZ8rrqhTQZxbdfP+ZzY+fMintXrWzFOciocySg7UzDyattxMfdDo611ZYHE8WBZ6dPOm60HXcZw7TZSGIx7gK4KK6NOlpfGaM0NghIXhNP7+SiTGgY2KHW6iQTBVwMPAz0Z8OO2HrXFuTZuyI9c9hkdRtFcPxb7zbSNljOml1XInGZWnPITyQQV73TJXhLNv/U3belC8nP5g==;tp3sjeRKssrNDJRXkyksNg=="
 ---

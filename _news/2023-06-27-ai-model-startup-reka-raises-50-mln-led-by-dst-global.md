@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "AI English Tutor Emerges From Stealth With Seed Funding In Hand"
-    excerpt: "An Israeli startup teaching English language using generative AI has emerged from stealth with $9.25 million in seed funding."
-    publishedDateTime: 2023-06-27T12:25:00Z
-    webUrl: "https://nocamels.com/2023/06/ai-english-tutor-emerges-from-stealth-with-seed-funding-in-hand/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 17
 
 secured: "cYYjxU0dDdqEo1a6mTS7NscC8+uYAw+wh696nCvoc1nzmRt9XnF4gcA/SXDVCnrQjIC/erbQQKen9bKDrztjw/0PIZ1n3WANRAR5gxmCI1qb0k4yReTOQtlNpV7MggPLtSpZthHtPmZdJfIwoDCuXU8Vco1NiS0trp57ZJ68nd2m7xoV1uMeTA7y0P/kM21HD8rFeK7xwi756Gsvj3mQDyR/v5GnzIBa3/fzQnQHr532Z5SXHaEytm3EjmzTQL/smlhS2EHEBIMTuk1ePm87z9+QtH3jhUAwqUJQT6gCGNazAGyF92imDNucgQyFluuYTmscUTGIlr/YCBEH8hVYnL7rDD/irdaaIs80rjbrAKe9G0lhYO8ISIBuNYd62n7IMEIdbrSPfgDHDfV+unxx8SB2TQfiwZEaxPc0ZgMeX91/FhyQl+TWu2OIbzxjzJ2Og4VowT2BSneffvDHEYgpCHA5Kk9yhmWIrSFibM7hxNG9jEhH6T8WcsMO/tFnhQ1TMMUM8nEdl4ygTo/OiOd/UQ==;uiiEF+8K65ECNEnVyoec1w=="
 ---

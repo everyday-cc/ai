@@ -28,20 +28,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"
-    publishedDateTime: 2023-06-27T11:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/snowflake-and-nvidia-partner-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 23
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/nvidia-snowflake-300x207.png"
-        width: 300
-        height: 207
-        isCached: true
 
 secured: "3KnG2cZI5Ow6lsNsYW7e6ra28kvpfCNBc0QZNkosVxIfEMRZsCQAjpaz0Urr7M4juzE7Sj29bupkg2QnbJS2VV+aU9JgjesEwRR7WMZPf3axFLhYVJ1Ke8J/o0uqY1OcUBZH0FVP7cLY3Xp3JYr2yjC/aJYSPD/ZilkhYWMflCwHaCtIojiYlnuww8b6er4HHCeKmA1eZOp+ij+03nIbiUmDHsmVoLX3sAXjn9EoDYlms2ZSiQmNJMXBwR7bEWtUXPaqNhkwBG3zC8pYzlkB/1NIopxAnC+9+exbeVUbpjzxvz/u6y9jOqtC5luYNvlbBR1l849QRLvFJ3Npqok0/3/e9cAFrRLEufZYZ3ajowT876/33iBTOXuXJWqfUmWdHsN3jsGcHlqN2V4r9Yi+tE0caDCiRnUc2nQfN2pCIEyrm2yZDknfJ2WqmISdflu7IfEQUPiEtnmKDhdBOkfx60rN+rrJ/cvuXuMa+D2GyKoaj2cxYmntbsSeFwYmVeByInLhd1QRB2khAKsGwwEtwA==;dH2TDyYFIRQJrecYWrxThg=="
 ---

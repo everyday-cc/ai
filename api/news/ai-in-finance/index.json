@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -95,49 +95,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-will-transform-finance-sector-regulator-says.md",
-      "title": "AI will transform finance sector, regulator says",
-      "excerpt": "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9C2E/production/_130228993_mason2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
-      "publishedDateTime": "2023-06-28T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -1375,6 +1332,58 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech.md",
+      "title": "The Multidimensional Relationship Between AI And Cybersecurity And Its Impact On Fintech",
+      "excerpt": "The relationship between AI and cybersecurity has massive implications for the banking ecosystem and can be explained by looking at three different dimensions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/603e3db037a40065dd90c173/0x0.jpg?format=jpg&width=1200",
+          "width": 797,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/",
+      "publishedDateTime": "2023-06-08T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

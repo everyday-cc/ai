@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/"
 type: article
 quality: 102
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -139,15 +139,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google DeepMind’s Gemini Can Rival ChatGPT, Claims DeepMind"
-    excerpt: "DeepMind CEO Demis Hassabis confirmed that Gemini could analyze text and plan and solve problems, along with some “pretty interesting” new innovations. Google’s DeepMind announced Gemini soon after making headlines with PaLM 2,"
-    publishedDateTime: 2023-06-27T12:21:00Z
-    webUrl: "https://techreport.com/news/google-deepminds-gemini-can-rival-chatgpt-claims-deepmind/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 34
   - title: "AI watch: UK electoral warning and OpenAI’s move into London"
     excerpt: "This week in artificial intelligence"
     publishedDateTime: 2023-06-30T17:03:00Z

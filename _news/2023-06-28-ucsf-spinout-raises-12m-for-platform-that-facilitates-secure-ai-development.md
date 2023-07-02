@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "BeeKeeperAI Raises $12.1 Million Series A to Accelerate AI Development on Privacy Protected Healthcare Data"
+    excerpt: "BeeKeeperAI, Inc., a pioneer in zero-trust, collaboration software for the development and deployment of artificial intelligence (AI), today announced that it has closed $12.1 million in Series A financing."
+    publishedDateTime: 2023-06-27T15:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/27/9839844.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
   - title: "Metal Raises Raises $2.5M for its LLM Developer Platform That Makes Integrating AI Into Any Application Seamless"
     excerpt: "The rate of AI development is ushering in a new Moore’s law with the development doubling every few years according to some experts. According to Stanford, the rate of doubling is as frequent as every three months."
     publishedDateTime: 2023-06-27T13:29:00Z

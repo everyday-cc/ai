@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "After Bard, Google’s DeepMind hopes Gemini will truly surpass ChatGPT"
-    excerpt: "Google already has a ChatGPT-like AI chatbot called Bard, but users have said that it is not as impressive as OpenAI’s chatbot. Gemini could change that – and Google has high hopes for its development. In April, the company merged DeepMind with Google’s main AI lab, Brain, to form Google DeepMind."
-    publishedDateTime: 2023-06-27T11:55:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2023/06/google-deepmind-featured.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says Google CEO"
     excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
     publishedDateTime: 2023-06-28T06:01:00Z
@@ -187,15 +171,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
-  - title: "How Google DeepMind is planning to defeat ChatGPT"
-    excerpt: "AlphaGo was based on a technique called reinforcement learning. This technique involves training in which software learns to take on tough problems that require taking actions based on making repeated attempts and receiving feedback on its performance."
-    publishedDateTime: 2023-06-27T12:50:00Z
-    webUrl: "https://www.gadgetsnow.com/featured/how-google-deepmind-is-planning-to-defeat-chatgpt/articleshow/101312979.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 19
 
 secured: "p6/6EVsQ4rV/XW7nezqsGlpXC+HbNr01oYIbbntKH/8F3fR9fQlvbKVV9JNy0XHlLQuUNMGZof/WNmKcpMxX49hBCmqGmAIE5io7EqRxc8zITc4dpn3CByqqeC/Pj6xxKwn2pHL/1c47AsSRtFJCofHCzQiEV0lx47lZq71F0nWjbPm4O9UG1M4Ja+E24EiWxtgnxzj7U2V5JbRZIPpIWpw4SgmhHwQt91K5P3xeR0e5+NTTIDsreAXgqViz57Y1VgCn4dMZyee4QpeiOnlbw1MEeDQdupaOBws+8484Le/pWHfUUCC+0/A0QmMbTVBRmy5ps+2xbk66hCot2zNySFoi9Fq1IgNLJCy4aalFTNHaMn47kU0+U+kiY9rMNCorbYVUnto5q7hyIpBGKKWeKBC/gDRvcNigReAoAo2pXlrvh5XtgNnMeNxhwcjaglcmx/e5NTXlWE3inB4ziHUzfHzLj5FfAbl8msc2W5wss+3iq6MoWJE+y5TkEt+l0vSjtm0r7NHOPM8l5iBUAlQnUQ==;qYBkID2o/wOqpfKow9N4Xg=="
 ---

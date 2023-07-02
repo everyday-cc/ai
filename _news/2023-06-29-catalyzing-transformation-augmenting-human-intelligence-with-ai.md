@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Transformative Impact Of Artificial Intelligence In Medical Tech"
-    excerpt: "While potentially impeding progress, government regulations play a crucial role in protecting patients and society."
-    publishedDateTime: 2023-06-27T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6499961a621e4f04eafde972/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "How Generative AI Is Transforming Supply Chain And Procurement Roles"
-    excerpt: "While there are massive areas of potential, there are equally significant risks posed to privacy, algorithmic bias and even business continuity."
-    publishedDateTime: 2023-06-29T10:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6361241cedcf875a2cde53f3/0x0.jpg?format=jpg&crop=972,547,x0,y134,safe&width=1200"
-        width: 972
-        height: 547
-        isCached: true
   - title: "Two Ways AI Can Be Used To Help Transform Insurance"
     excerpt: "Whether insurers want to improve underwriting, risk management or both, AI is one solution to satisfying B2B customers while benefiting underwriters."
     publishedDateTime: 2023-06-30T11:15:00Z
@@ -75,15 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Transforming Healthcare With Generative AI"
-    excerpt: "Generative artificial intelligence (AI), a subset of deep learning that has enabled users to create content in multiple formats, is projected to help mitigate some of the issues in the healthcare industry. It has numerous transformative use cases across ..."
-    publishedDateTime: 2023-06-27T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/transforming-healthcare-with-generative-ai/"
+  - title: "AI will transform finance sector, regulator says"
+    excerpt: "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector."
+    publishedDateTime: 2023-06-29T05:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-europe-guernsey-66041385.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-guernsey-66041385.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C2E/production/_130228993_mason2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "The Transform AI Survey: Help discover the state of generative AI"
     excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
     publishedDateTime: 2023-06-29T13:11:00Z

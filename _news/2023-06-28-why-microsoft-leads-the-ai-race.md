@@ -360,20 +360,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 55
-  - title: "Snowflake and Microsoft expand partnership with AI"
-    excerpt: "Snowflake is strengthening its partnership with Microsoft through new product integrations and capabilities. In a press release, Snowflake announces"
-    publishedDateTime: 2023-06-27T11:18:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108171/snowflake-and-microsoft-expand-partnership-with-ai/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/Snowflake.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Rubrik integrates zero trust platform with Microsofts generative AI"
     excerpt: "Rubrik and Microsoft will collaborate on integrating generative AI functionality into the Rubrik Security Cloud platform. This should help security"
     publishedDateTime: 2023-06-29T11:20:00Z
@@ -418,29 +404,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Previews .NET Framework Custom Code for Azure Logic Apps Standard"
-    excerpt: "In this article, we will look at how to identify and fix performance issues in Go programs using the pprof and trace packages. We will begin by covering the fundamentals of the tools, then delving into practical examples of how to use them. By the end of ..."
-    publishedDateTime: 2023-06-27T11:13:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/logic-apps-custom-code/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 52
-    images:
-      - url: "https://res.infoq.com/news/2023/06/logic-apps-custom-code/en/headerimage/generatedHeaderImage-1687712825387.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Education helps to create AI-powered learning experiences"
-    excerpt: "Microsoft Education is collaborating with several organisations to create AI-powered experiences that save time for educators and improve learning experiences. For example, Microsoft is working with New York City Public Schools in the USA to support students and teachers with generative AI tools such as a chatbot that provides personalised IT support."
-    publishedDateTime: 2023-06-27T12:03:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-education-helps-to-create-ai-powered-learning-experiences"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 51
   - title: "Microsoft launches new AI skills training initiative with LinkedIn and GitHub"
     excerpt: "Microsoft is joining forces with LinkedIn and GitHub to launch a new artificial intelligence skills initiative to help people prepare for the digital workplace. The Microsoft AI Skills Initiative includes free coursework developed with LinkedIn that will cover introductory concepts of AI and responsible AI frameworks."
     publishedDateTime: 2023-06-29T09:48:00Z
@@ -703,15 +666,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 23
-  - title: "NowVertical Group Inc: NowVertical Announces New Partnership Program with Microsoft and Azure OpenAI for Secured, Enterprise AI Deployments"
-    excerpt: "NowVertical Group Inc. (TSX-V: NOW) (OTCQB: NOWVF) (the \"Company\"), the vertical intelligence (VI) software and solutions company, is pleased to announce the"
-    publishedDateTime: 2023-06-27T12:22:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59436497-nowvertical-group-inc-nowvertical-announces-new-partnership-program-with-microsoft-and-azure-openai-for-secured-enterprise-ai-deployments-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 15
   - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
     excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
     publishedDateTime: 2023-06-29T03:11:00Z

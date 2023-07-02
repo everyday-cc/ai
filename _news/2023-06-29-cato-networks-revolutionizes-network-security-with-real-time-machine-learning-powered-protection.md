@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/perimeter/cato-networks-revolutionizes
 webUrl: "https://www.darkreading.com/perimeter/cato-networks-revolutionizes-network-security-with-real-time-machine-learning-powered-protection"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - Machine Learning
   - AI
   - AI in Security
-
-related:
-  - title: "Cato Networks Revolutionizes Network Security with Real-Time, Machine Learning-Powered Protection"
-    excerpt: "The combination of data science expertise, cloud resources, and Cato's vast data lake enables real-time, ML-powered protection against evasive cyber-attacks, reducing risk and improving security. TEL"
-    publishedDateTime: 2023-06-27T12:49:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59436876-cato-networks-revolutionizes-network-security-with-real-time-machine-learning-powered-protection-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 23
 
 secured: "t1KJGXRTXuZfMyFGO33sdDthPniJUf+U2tfF6MFuy/XCKhKakFRgDGLJ2kypBCJaXqYUFxbmcV/m08cQPmXKFzZjvI2DpLbvn1h79E1EmpG1yUy/NZRN+gMH+ND03nvSmBSGhKWHK148b/Bs3g67MAY+sNIzrsv0vs6h3Iojb4vwyl32gN3z/5J5ji6Ya/IwB+BPh5R95UuIbdsGWP1iHxJaIROT9SFlikdPnD3C0828+KRcVmafVXOOz1lMQmHE/Ms77va9kc4tuZn3Nhdz21fA/NvXY0WvZCU9RSK3Bs5ljjRN3OkAKf4o6Sufa569lS1feGYQVb5Stf00nLHpREhJBvICIG9VSBrq3noYMDg=;aHfLh8cvpiSaSSuomw9Ytw=="
 ---

@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-23-national-artificial-intelligence-advisory-committee-releases-first-report.md",
+      "title": "National Artificial Intelligence Advisory Committee releases first report",
+      "excerpt": "The National Artificial Intelligence Advisory Committee (NAIAC) has delivered its first report to the president, established a Law Enforcement Subcommittee to address the use of AI technologies in the criminal justice system,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/national-artificial-in.jpg",
+          "width": 1916,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.amp",
+      "publishedDateTime": "2023-06-23T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-robocat-a-self-learning-agent-developed-by-google-deepmind-is-set-to-revolutionise-robotics.md",
       "title": "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics",
       "excerpt": "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself.",
@@ -724,49 +767,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-23-aws-announces-generative-ai-innovation-center.md",
-      "title": "Aws Announces Generative Ai Innovation Center",
-      "excerpt": "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
-      "originalUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-23-hacker-claims-to-discover-elon-mode-for-tesla-self-driving-cars.md",
       "title": "Hacker claims to discover “Elon Mode” for Tesla self-driving cars",
       "excerpt": "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these",
@@ -1007,6 +1007,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-23-aws-announces-generative-ai-innovation-center.md",
+      "title": "AWS Announces Generative AI Innovation Center",
+      "excerpt": "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/",
+      "originalUrl": "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-our-support-for-early-warning-systems.md",
       "title": "Our support for early warning systems",
       "excerpt": "Google’s Yossi Matias and WMO Director of Infrastructure Anthony Rea discuss the Early Warnings For All Initiative.",
@@ -1141,57 +1184,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan.md",
-      "title": "AI Wars: Google, ChatGPT And Pi On Creating The Ultimate Weight Loss Plan",
-      "excerpt": "Can AI help you lose weight? Google, ChatGPT and the newest chatbot Pi were prompted to create a 1200-calorie meal plan to optimize health and here's how they responded.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64947d5e189491462d8daaa4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/",
-      "publishedDateTime": "2023-06-22T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

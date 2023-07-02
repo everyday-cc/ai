@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Generative AI Is Transforming Supply Chain And Procurement Roles"
+    excerpt: "While there are massive areas of potential, there are equally significant risks posed to privacy, algorithmic bias and even business continuity."
+    publishedDateTime: 2023-06-29T10:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6361241cedcf875a2cde53f3/0x0.jpg?format=jpg&crop=972,547,x0,y134,safe&width=1200"
+        width: 972
+        height: 547
+        isCached: true
   - title: "How Generative AI is a Game Changer for Cloud Security"
     excerpt: "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap."
     publishedDateTime: 2023-06-29T16:34:00Z
@@ -190,6 +206,15 @@ related:
         width: 1028
         height: 685
         isCached: true
+  - title: "Transforming Healthcare With Generative AI"
+    excerpt: "Generative artificial intelligence (AI), a subset of deep learning that has enabled users to create content in multiple formats, is projected to help mitigate some of the issues in the healthcare industry. It has numerous transformative use cases across ..."
+    publishedDateTime: 2023-06-27T19:27:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/transforming-healthcare-with-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
     excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."
     publishedDateTime: 2023-07-01T00:07:00Z
@@ -234,15 +259,6 @@ related:
         width: 340
         height: 238
         isCached: true
-  - title: "Enterprises need to control their own generative AI, say data scientists"
-    excerpt: "New poll data from Domino Data Lab finds generative AI cannot be outsourced — enterprises need to fine-tune or control their own models."
-    publishedDateTime: 2023-06-27T12:30:00Z
-    webUrl: "https://venturebeat.com/ai/enterprises-need-to-control-their-own-generative-ai-say-data-scientists/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
   - title: "Axonify Evolves Artificial Intelligence Capabilities, Launching New Generative AI Tool"
     excerpt: "Axonify, a leader in frontline employee enablement, today announced the launch of Max, a new conversational generative AI tool that instantly answers on-the-job questions to better enable frontline workers to get the job done quickly and more accurately,"
     publishedDateTime: 2023-06-28T14:39:00Z

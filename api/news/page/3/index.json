@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-29-healthcare-moves-forward-in-the-cloud.md",
+      "title": "Healthcare moves forward in the cloud",
+      "excerpt": "How global healthcare and life sciences organizations can derive benefits working with AWS Partners on cloud projects",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/06/29/healthcare_aws_cloud_benefits/",
+      "originalUrl": "https://www.theregister.com/2023/06/29/healthcare_aws_cloud_benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/04/09/medical_wifi_shutterstock.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2023/06/29/healthcare_aws_cloud_benefits/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/29/healthcare_aws_cloud_benefits/",
+      "publishedDateTime": "2023-06-29T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-what-is-asset-reliability.md",
+      "title": "What is asset reliability?",
+      "excerpt": "Asset reliability is the ability of an asset to perform under certain conditions over a specified period without breaking down.\nThe post What is asset reliability? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T06:26:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-digital-twin-vs-digital-thread-two-complementary-ways-to-digitally-replicate-assets.md",
       "title": "Digital twin vs digital thread: Two complementary ways to digitally replicate assets",
       "excerpt": "As digital transformation accelerates in manufacturing and engineering, two concepts have gained significant traction: digital twins and digital threads.\nThe post Digital twin vs digital thread: Two complementary ways to digitally replicate assets appeared first on IBM Blog.\n",
@@ -472,49 +558,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-29-ai-will-transform-finance-sector-regulator-says.md",
-      "title": "AI will transform finance sector, regulator says",
-      "excerpt": "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9C2E/production/_130228993_mason2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
-      "publishedDateTime": "2023-06-28T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-06-29-executives-not-inclined-to-remove-humans-from-ai-decision-making.md",
       "title": "Executives Not Inclined To Remove Humans From AI Decision-Making",
       "excerpt": "Fear of losing control is justified, and will motivate executives to keep humans within any AI decisioning processes.",
@@ -818,7 +861,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -870,7 +913,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1162,59 +1205,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-aws-invests-100-million-in-generative-ai-innovation-center.md",
-      "title": "AWS invests $100 million in Generative AI Innovation Center",
-      "excerpt": "The head of the Generative AI Innovation Center reveals what customers can expect and explains which industries AWS is focused on first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/forrester-aws-cloud-computing-predictions.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

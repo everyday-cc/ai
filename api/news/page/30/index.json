@@ -2,6 +2,57 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-06-11-new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo.md",
+      "title": "New Trump Video Uses Matt Damon Monologue From ‘Air’ And Fake AI Photo",
+      "excerpt": "Trump’s campaign released a new video late Friday—the first since the former president was indicted on charges over his alleged mishandling of classified information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64853ab153c607d02d03689b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/amp/",
+      "publishedDateTime": "2023-06-10T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-11-how-could-ai-destroy-humanity.md",
       "title": "How Could A.I. Destroy Humanity?",
       "excerpt": "Researchers and industry leaders have warned that A.I. could pose an existential risk to humanity. But they’ve been light on the details.",
@@ -1159,49 +1210,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-why-advanced-api-security-is-critical-to-outsmarting-new-threats.md",
-      "title": "Why advanced API security is critical to outsmarting new threats",
-      "excerpt": "Noname Advanced API Security for IBM aims to further enhance the strength of solutions for monitoring and locking down APIs from evolving threats. \nThe post Why advanced API security is critical to outsmarting new threats appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/",
-      "originalUrl": "https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

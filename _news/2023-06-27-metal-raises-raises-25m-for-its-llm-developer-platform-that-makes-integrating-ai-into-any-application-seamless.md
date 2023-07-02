@@ -32,6 +32,15 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "BeeKeeperAI Raises $12.1 Million Series A to Accelerate AI Development on Privacy Protected Healthcare Data"
+    excerpt: "BeeKeeperAI, Inc., a pioneer in zero-trust, collaboration software for the development and deployment of artificial intelligence (AI), today announced that it has closed $12.1 million in Series A financing."
+    publishedDateTime: 2023-06-27T15:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/27/9839844.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "pTMKcS3294GOtaqlhvw6mBlWGvo1AtJvHBbyWnGf5BcGCySqD1i7to0+9lLMQJ/bAX2bCu1EH4MAscWM/6sijFyd/cdOaDsA0WqUPSjKdWv4Wp6f9+N1gXfIk0fmHflbnHqqLoNrlxTqJsLEpEdID3Ago7y5tip6+K/Jq7QyDd8a3OoJdnTc4RvmizaCrze/JSU7nt/ahrWs3CxZEAMhqu+RVJ2nb/ylkdh0xcbHyWPlQf71/U2N2Li+kNm28PenqY0OLLs9yaRqiqsIyYnLALoSy6pErBzLuf4nl3ZVG1zhNlaogeJxwJLVbA6Vv4u9H/ZDWbWuYrni72VPav54PDozayfU5wPZD2njQrBOeKT+2+/7BadF6DZfi7OwAAqTo0cCy2bf96CLRiU2mENzsTqwjTJXooBaDY61WsouO+GsmHY4d+cnlQHJEKUh96xmhcM5s5LnybJ0JxqgrmzkWWCLV3bm52YOqttwguuvULPY9utDXcaJC+0DEi5AcwY6osnNqVLD/qG1Epehbz49jA==;qearP73yYbqBg8XMovG6Vg=="
 ---

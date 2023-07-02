@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33082976"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33082976"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Mia-FinTech and Futurae partner to offer robust multi-factor authentication and transaction confirmation capabilities"
-    excerpt: "FinTech, has partnered with the passwordless authentication platform, Futurae, to give their customers access to advanced authentication and authorisation services"
-    publishedDateTime: 2023-06-27T12:33:00Z
-    webUrl: "https://www.sourcesecurity.com/news/mia-fintech-futurae-partner-offer-robust-multi-factor-authentication-transaction-confirmation-capabilities-co-1687862261-ga-co-1687862525-ga.1687863046.html?ref=nav"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 0
 
 secured: "FpWKrcJ+YxpWvaJJA53zd48EckjWeiUkByYmpj+rti7PSX/JXxZfH1t8yPydXu+PY1kzOAJcsCH5jeb1l6/FJSBuFynTU/tqRPrKxnO2YloVPyRHTqdN04PjEHHoiNm3POJ0EuBefWLuuk/WYr8kPgavs6V/2hP8nO8yJMGKaaf2yQ6ReOGke6Ht9coAyFis3cGSq5tdjT/fn82ghSnOwj03jfjwMWwFCSmhsf/I8WnSuZZfB7nK+qHOe7fo7TW+8fgg431VwDDRJR5FlwPbWw9RPVUp4t8kyr3QX+IwJKz104yB7tRZEk9L2aUih65Q7nsQk5i4TjWFlMkGBaYMz81g3BcC/eGHjNHcH4NNRKLNzqZSO1lgtPD9WjWY+f+PXWFss4jzGJPocxA0QUbqHcYMGB8lKzfo1zFcGRdQwG26cSoIJMhc/wy8PLKKKC1AT15a1FxMh5AlCNXqdQkP2P081W/T22rFkE1R5fUtPlXdcFiq6YiUhSep1NytoFb5bxT8rVwa9lyNxjb8Y+rneQ==;ZqNNnXSUuBc2JLmtyNYtoA=="
 ---

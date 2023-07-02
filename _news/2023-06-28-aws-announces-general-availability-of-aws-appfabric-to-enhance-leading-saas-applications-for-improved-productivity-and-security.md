@@ -1,29 +1,23 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security"
-excerpt: "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies’ existing investment in software as a service (SaaS) applications with improved security, management, and productivity."
-publishedDateTime: 2023-06-27T17:05:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity/article_c1b49bc1-6ec6-5a5c-9fb4-ff4afad1596d.html"
-webUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity/article_c1b49bc1-6ec6-5a5c-9fb4-ff4afad1596d.html"
+excerpt: "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies' existing investment in software as a service (SaaS) applications with improved security, management, and productivity."
+publishedDateTime: 2023-06-27T18:36:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/27/9840130.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/27/9840130.htm"
 type: article
-quality: 43
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
   - AI in Security
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Kyvos announces availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace"
@@ -68,6 +62,6 @@ related:
       domain: sportsbusinessjournal.com
     quality: 1
 
-secured: "YyKd412B/OOln9ese1MrrTKCRx0F/DOrvlZd0nC+54vPe3svO9qEPPoOwIdk35RPeNL2pWJq4mkRSdE9EVZIAOF0otEhPHwOwjxiBOYidkL0dnlZtNSS/qkFD2G3JnevfLw1kfAklL5h+oS6QF2G+kT0f4zj+jp/fbJxrEPcvWjP4QUWV8MzfwVvt+IS9L6nS4SUFlUbEGMD46tkMqovTqPnHhCoRqa/iXnMUNrZ1Ud3fDtmz35GLPeITDIbsSWAiXOPCAGCpuFVJ/RcaefLpmniGWoHNuCmfCJWb3ckW8vnV02+cj2EvF8EOxzhbob1v/wUqgncz0B7X9HS94ivPi65AkMhTqwamYeGTSk82Mg=;mFFkUVwMoo4IHAJFl6kPnQ=="
+secured: "kRinKZI2mj82zpxkJTyPrjrNoE38dK3UcZfK3t2TB1tSsFXvzmpGDOqqdOHQuvbV0mpIzbXgC5PhjlYiG7KvlVfpzqwvjZzJnOKPisIQ46lAcZPhz57xMPreCoCXwbb9yxF0LqdlKO5Z6RjEejQdZ9iIczQsSW25SdEQXaECIDNDLqM4sD0u407j4LqgVbkgwN0xXEa+AK/kU9a7w1AmMRFyt7lEPE1e2aMt0J011mCNB6Z5kp3utjnyrLk8yhHgjCIzv/0uxMRQ7cd1ESHtsMKePPY4FFj6K8lC1fjKLoo5iaHQhdu8KPU9cL+t1de3EFGgOmh06c7mZ0QQyF9APDMy51fAcgbmwptbmQ/iwNM=;tdKB3atw7BdBjzm01/3z/g=="
 ---
 

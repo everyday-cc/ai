@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-28-artificial-intelligence-and-the-future-of-sdgs.md",
+      "title": "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS",
+      "excerpt": "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1",
+      "publishedDateTime": "2023-06-27T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-zoox-headcount-grows-as-amazons-self-driving-unit-expands-testing-in-vegas.md",
       "title": "Zoox headcount grows as Amazon's self-driving unit expands testing in Vegas",
       "excerpt": "Amazon.com Inc's self-driving vehicle unit Zoox has grown its headcount by about 16% at a time when access to capital is tight and other large companies have exited the autonomous driving sector.",
@@ -345,7 +389,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-is-unlocking-major-wealth-potential-for-robotics-stocks-1032413268",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -367,49 +411,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-robotics-and-ai-at-automatica-practical-insights-into-leading-edge-research.md",
-      "title": "Robotics and AI at automatica: practical insights into leading-edge research",
-      "excerpt": "Robotics and AI at automatica: practical ... At this year’s automatica trade show, the munich_i high-tech platform will highlight robotics and AI developments for the third time. More than 30 demos will be on display in the AI.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/en/news816821",
-      "originalUrl": "https://idw-online.de/en/news816821",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
-          "width": 498,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -527,7 +528,7 @@
       "originalUrl": "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1130,7 +1131,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
