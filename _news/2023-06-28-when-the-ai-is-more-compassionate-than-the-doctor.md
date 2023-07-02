@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-mor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/cuttlefish-camouflage.jpg"
         width: 2637
         height: 2416
-        isCached: true
-  - title: "How Policymakers Can Tackle the Complexities of AI Models"
-    excerpt: "Diversity, precision regulation and governance are key to building responsible and trustworthy artificial intelligence (AI) models."
-    publishedDateTime: 2023-06-27T16:05:00Z
-    webUrl: "https://www.nextgov.com/sponsors/2023/06/how-policymakers-can-tackle-complexities-ai-models/387021/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/06/01/milad_fakurian_58Z17lnVS4U_unsplash/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "mOd7naEhOpsZV034vMfiQcndxvg9uVA7ofMH65cpZo/XIY3UUTdev6W5GHUVCRGkonDRWrDJL4pt85TR0eaofcWnSV/e7i+7RjoCnxJ2v/Pta7SHL6SdZtYPNHznMo7BzHA4Vq7XFBawmFjewHWl80HfohNfDxkeNyT19WgFoRFkoxpIC0flk3WQSSiaOltgqwRaspSi9pxXdOCpmlSUq2Hy8r0ObmYjSbYiNAnS/ylgQ4JTJsuBwVW2BCy/kMR+lklebKcL7AvezM7Nn1+DTDd3kzsdeh7Xo9zYad1jj0buEjw9MZIf7CKFLpRJ0KuKyTkSyfwMJg0e5yNWYENF8X52oci/O6FDa6eEWdJ6UYy+jC8lzdbqJ4GH3ZCjZPPfsswIaBrz1UgYGAPomtmoaNtUJDw5hIOcQjMcOCar43DjMax7t3OHjTbjcQ8BoHQ8P0x7fgbZRjIGaHd/SWYsVSlXn04JWwU2dW3B0p2s434rhQFCBYd3uXx0N7ZjvNDkWvqyfUGU1yn8wdckdJGeQg==;4LY4xW9M9RpmyfIoAmZIyA=="

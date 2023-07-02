@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
 type: article
 quality: 91
-heat: 331
+heat: 321
 published: true
 
 provider:
@@ -151,20 +151,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/28/safe-image-generation.jpg"
         width: 1023
         height: 513
-        isCached: true
-  - title: "Google’s AI Blitz Worked Too Well for Wall Street’s Liking"
-    excerpt: "Google stepped on the gas with its artificial intelligence efforts last month. Some on Wall Street are already trying to tap the brakes: Two high-profile brokers have downgraded"
-    publishedDateTime: 2023-06-27T16:45:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-27-2023/card/google-s-ai-blitz-worked-too-well-for-wall-street-s-liking-13uoYXJTrXa40TsEpOTw"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-807776?width=600"
-        width: 600
-        height: 800
         isCached: true
   - title: "Oracle taps generative AI to streamline HR workflows"
     excerpt: "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity."

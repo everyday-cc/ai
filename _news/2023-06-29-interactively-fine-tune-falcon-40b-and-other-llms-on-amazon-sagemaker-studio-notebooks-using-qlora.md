@@ -57,20 +57,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "How Earth.com and Provectus implemented their MLOps Infrastructure with Amazon SageMaker"
-    excerpt: "This blog post is co-written with Marat Adayev and Dmitrii Evstiukhin from Provectus. When machine learning (ML) models are deployed into production and employed to drive business decisions, the challenge often lies in the operation and management of multiple models. Machine Learning Operations (MLOps)"
-    publishedDateTime: 2023-06-27T16:26:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-earth-com-and-provectus-implemented-their-mlops-infrastructure-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/27/earth-provectus-sagemaker.jpg"
-        width: 1020
-        height: 508
-        isCached: true
   - title: "AI is making smart manufacturing faster, greener, virtual — and more real"
     excerpt: "Manufacturers today invest in intelligent technology as key foundations of \"smart manufacturing\" in the Fourth Industrial Revolution."
     publishedDateTime: 2023-06-28T13:50:00Z

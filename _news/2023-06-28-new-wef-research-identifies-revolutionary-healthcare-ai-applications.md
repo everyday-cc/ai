@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-r
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Assessment, By Component, By Technology, By Application, By End-User, By Region"
+    excerpt: "(globe newswire) -- reportlinker announces the release of the report artificial intelligence in healthcare market assessmen"
+    publishedDateTime: 2023-06-28T12:01:00Z
+    webUrl: "https://menafn.com/1106511691/Artificial-Intelligence-In-Healthcare-Market-Assessment-By-Component-By-Technology-By-Application-By-End-User-By-Region"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?598695"
+        width: 445
+        height: 249
         isCached: true
 
 secured: "+N2zGc2LuK8A7aWxOVzI6MhBkoDlG3hj9N0iTkp/9DXpBDv7a3oPZRHHvJvOwi6f1jPkexwwDQY1YJ/KkXQi+yZsY3TDIN/eKqLJzbXYY1mGJdseYP1QjOLUUIafpqhLFRW2YRwqwj22NncqlmbxscX1YtaFByJ5+9hmUYxCAHH6qWKkiuY+LYa08WJ5vELY3D4QlRpWw5QcYdKU724vHrMHH5mHwQzHEyid/a9REeR8cKttsAhVkzJtOsDK85bvFesgJAXywEPMSh60Ypm1zYV2SoG/QJ7xuRMl+xhvHKqgGIOecH+KfOOQLqyM37fNAjqX/7pGEquM+8Wb1aAwncyAHFBVhW8OSJRL/gEBQVY=;QUqnB/JUve1/l2es1ukaPw=="

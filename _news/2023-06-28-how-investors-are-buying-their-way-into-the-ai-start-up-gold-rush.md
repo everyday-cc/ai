@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Investors Spurn Dividend-Paying Stocks as AI Booms"
+    excerpt: "The shares have suffered their worst first-half performance relative to nonpayers since 2009."
+    publishedDateTime: 2023-07-02T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/investors-spurn-dividend-paying-stocks-as-ai-booms-344f431d"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-809630/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI news - All the latest in artificial intelligence"
     excerpt: "Allan Wong, co-founder of Hong Kong toymaker VTech, thinks the technology will arrive by 2028 - and could free up the parents to do other activities."
     publishedDateTime: 2023-06-28T10:46:00Z

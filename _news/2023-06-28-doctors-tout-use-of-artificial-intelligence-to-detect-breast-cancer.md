@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artific
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -36,17 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Teaching AI to Detect Specific Objects is a Game Changer"
-    excerpt: "According to a new AI tool created by researchers at the University of Surrey, it’s possible to train emerging AI tools to be more discerning in thei | Technology"
-    publishedDateTime: 2023-06-27T17:00:00Z
-    webUrl: "https://www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer"
-    ampWebUrl: "https://www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer/amp"
-    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer/amp"
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 39
   - title: "AI model can help doctors determine the extent of cancer within the prostate"
     excerpt: "A new study shows that an artificial intelligence (AI) model co-developed by researchers in the UCLA Jonsson Comprehensive Cancer Center and department of Urology at UCLA can help doctors determine the extent of cancer within the prostate."
     publishedDateTime: 2023-06-28T01:14:00Z

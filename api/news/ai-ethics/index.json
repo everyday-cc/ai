@@ -62,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -305,21 +305,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-28-unesco-advances-ai-support-for-member-states.md",
-      "title": "Unesco advances AI support for member states",
-      "excerpt": "The European Commission provides R82 million funding for low-income member states to develop AI ethics legislation.",
+      "path": "_news/2023-06-28-singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance.md",
+      "title": "Singapore Releases New AI Toolkit to Encourage Fair and Ethical Use in Finance",
+      "excerpt": "Furthermore, these repercussions of bias in AI become particularly pronounced within the banking and financial services sector. Rumman Chowdhury, Twitter’s ex-chief of machine learning ethics, transparency and accountability, said, “algorithmic ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/G98YdMLGDYy7X2PD",
-      "originalUrl": "https://www.itweb.co.za/content/G98YdMLGDYy7X2PD",
+      "webUrl": "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/",
+      "originalUrl": "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://www.itweb.co.za/static/pictures/2023/06/AI-data-hologram-2023.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://247wallst.com/wp-content/uploads/2021/09/imageForEntry21-tdI.jpg?w=400",
+          "width": 400,
+          "height": 224,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -327,13 +327,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD",
-      "publishedDateTime": "2023-06-28T03:38:00-07:00",
+      "ampWebUrl": "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/",
+      "publishedDateTime": "2023-06-27T19:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -344,7 +344,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {

@@ -50,17 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Teaching AI to Detect Specific Objects is a Game Changer"
-    excerpt: "According to a new AI tool created by researchers at the University of Surrey, it’s possible to train emerging AI tools to be more discerning in thei | Technology"
-    publishedDateTime: 2023-06-27T17:00:00Z
-    webUrl: "https://www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer"
-    ampWebUrl: "https://www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer/amp"
-    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer/amp"
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 39
 
 secured: "Kkmb4+fnqeuykbKtA99PPVJCWGOBFDK1sIw2BFMRiwxvIoXH00Abd4TjkhH7dVXHmKjfzNm7lIoXukZv2+Yy60l0SKOPzEtgQBv0nGv9lyE/VvXrTXuyJT6CMQA8K7ZksCnkp1wt2pHl8ZjhW19Jxn8Yfmj09BiIg5ksfeUHZ3NhsIcrhHckk3/4kb8e7hPHAVOoOymnOBstiqM6pVjVbMnZ/fCdEVP/rcJdowJNlhSrmKjzl+YuiOKjZpLwMTXhBibvqlEyYpwTir8swrwzwlUkCSxl8eFG0tSCV93G5DCMDLC1BoL8TfhK8hG0AIrZN84UCmX3AyBIWP36pG7xntXKYD1MwhMY5vr9VeR8jVA=;a2rhfiTXmNJAUvmPaJNclw=="
 ---

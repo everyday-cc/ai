@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/resistant-ai-extends-series-
 webUrl: "https://ibsintelligence.com/ibsi-news/resistant-ai-extends-series-a-to-27-6m-with-new-funding/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Resistant AI Extends Series A to $28M"
-    excerpt: "Resistant AI, an AI and machine learning security provider for the financial services sector, has expanded its Series A funding"
-    publishedDateTime: 2023-06-27T15:46:00Z
-    webUrl: "https://www.corporatecomplianceinsights.com/resistant-ai-funding/"
-    type: article
-    provider:
-      name: corporatecomplianceinsights.com
-      domain: corporatecomplianceinsights.com
-    quality: 39
-    images:
-      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2023/06/resistant-funding.jpg"
-        width: 1200
-        height: 629
-        isCached: true
 
 secured: "6J8Cn0SeIrgJXl2PPZ0VCZKUIqcS5hOG1Pxr9YDoFtLhM3LqZ26CY9tMgn5C87/ivJRIYXif1fSVjz7CHxNbUdUGWWiCbD/uKL09pE77ObZa5dXOkWxOJbSJovYY6b6RDshDkncjKdMx9DKDwMc2ptN4cItAbJ5orlMzNc3u9Sox9OKzY3vkjHJaP9uPKtfRhQR//yz+AZjV1EA2wlVi8YS8jW4K+RIigL7V3LjtcqSGT5aK1vEsholpAIWvhWyutZnbbnRgtgBfyOJQeU5XtczoLlQZ8Er/OFnTu4JY+XtmhZU38NswVgagq34hGHMIvUQ1Iv9RWVzxE7qM00wYpBx+P9Biv83uetoZojXKcXs=;6fo0SGNL8m8EfAwHeZOiOg=="
 ---

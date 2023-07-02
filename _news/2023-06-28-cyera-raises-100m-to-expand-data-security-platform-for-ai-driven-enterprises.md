@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 679
         isCached: true
-  - title: "BeeKeeperAI Platform for AI Development on Sensitive Data Receives $12M in Funding"
-    excerpt: "BeeKeeperAI has raised $12.1 million in Series A funding for a secure collaboration platform designed for AI development on sensitive data."
-    publishedDateTime: 2023-06-27T15:50:00Z
-    webUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/"
-    ampWebUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 53
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Robotics startup raises millions for AI, remote control applications"
     excerpt: "Contoro Robotics, which spun out of medical robotics startup Harmonic Bionics, has raised $6 million in venture backing. The company, led by founder and CEO Youngmok (Mok) Yun, was created last year when Harmonic Bionics,"
     publishedDateTime: 2023-06-29T01:22:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.motortrend.com/features/tesla-full-self-driving-ban-atte
 cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2023/06/Tesla-Self-Driving-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Live safety tests conducted by The Dawn Project show Tesla Full Self-Driving running a stop sign in ride-along with major Tesla investor Ross Gerber"
-    excerpt: "In response to Dan O'Dowd's harsh criticisms of the dangers of Tesla Full Self-Driving, the investor Ross Gerber challenged Dan to a ride-along in Santa Barbara in his Full Self-Driving Tesla with the investor supervising."
-    publishedDateTime: 2023-06-27T15:49:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840041.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/2142145/The_Dawn_Project.jpg"
-        width: 400
-        height: 225
         isCached: true
 
 secured: "m4COnHOZQi5r4j49xdkFnHwgzN31Oh5IJFQISk1kkXXt4o41jQ00Moo2ijPrST0jW7/ygpEn6DxO/JWaDaYZ0lGquD6Ebd48FaEVOv3QYmhIjW8JvNBbBdjAxkaS/M3nLrA86xJn264OxAlg2L6HD+EPGVXwxUgTUt2boGL1KmeiMKyTQacC86HAsuNI6Qe49P4rY7KKzpchbVb+qvSvGgu66qvDD32Jo0NvWTa+aqlQT3bl161rSsmu6S//YX+68nhUp+ImbhhTZKouKD2NEf53Jk0qrnTkITfh7I51BkNcN5oZVYGp+iXV53J278qqCsvJZE+BXxAAjbA3H/rA8dQQtTAi+hULqJOfwwjKQ9FdM4tHZJhKf7nazPKYy67HOw9PUSWyKTmOfFoglhbfDp3DzdI2v28jpa9Q9t87kJ9/tdWp149/0lajcF68Nx6dKQvgfSFFZ3N6LHgoqyoAGSPksyJ2LWUCGFfmWnQJymu97sO/QPLOQWTYFoWmtDI0BbzoTqbXSSuyWwJOtqX5DQ==;i9Crm+deDyBBvESDwPPRlg=="

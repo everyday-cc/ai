@@ -186,15 +186,6 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 21
-  - title: "What today’s banks need from commercial lending technology and fintech vendors"
-    excerpt: "Open, accessible and – once again – standardized APIs allow loan origination and servicing systems to exchange critical data in a more timely way with different parts of the bank. At FIS, we’re also building a real-time accounting engine to further accelerate  data delivery."
-    publishedDateTime: 2023-06-27T15:42:00Z
-    webUrl: "https://www.finextra.com/blogposting/24423/what-todays-banks-need-from-commercial-lending-technology-and-fintech-vendors"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 15
   - title: "‘Push-button scale’ a boon for fintech in the data transformation age"
     excerpt: "One of those disruptors is Current, the U.S.-based fintech that has leaned on the flexibility, speed and scalability of MongoDB Inc.’s Atlas to deliver outcomes and grow at a consistent, sustainable pace."
     publishedDateTime: 2023-06-27T18:04:00Z

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "MLPerf 3.0 benchmark adds LLMs and shows dramatic rise in AI training performance"
-    excerpt: "MLCommons announces the latest results for MLPerf training 3.0, which aims to provide a standard for AI and ML model training performance."
-    publishedDateTime: 2023-06-27T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/mlperf-3-0-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1164656566-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "MLCommons: MLPerf Results Show AI Performance Gains"
     excerpt: "ML Commons announced new results from two industry-standard MLPerf benchmark suites: Training v3.0, which measures the performance of training machine learning models, and Tiny v1.1, which measures how quickly a trained neural network can process new data for extremely low-power devices in the smallest form factors."
     publishedDateTime: 2023-06-27T18:04:00Z
@@ -46,6 +32,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/04/MLCommons-logo.jpg"
         width: 500
         height: 261
+        isCached: true
+  - title: "NVIDIA H100 Aces Generative AI, Breaks MLPerf Records"
+    excerpt: "NVIDIA’s flagship H100 chip has blown the competition out of the water yet again, demonstrating the best performance yet on a set of MLPerf training benchmarks. The GPU set new records across the board in a new attempt conducted in conjunction with CoreWeave and Inflection AI."
+    publishedDateTime: 2023-06-28T06:39:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-aces-generative-ai-breaks-mlperf-records/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/nvidia.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "jKtQWkDG8YRSfvLnMcqOLu5+7QG8+TLcAyLxrx32WWKlobzSQQmwIa85yV2Hg379EmRUes6RFHKoPnZq+adCPbg27DRV5u6z9u20E8P1kYPDvfjcaaS/2tHwRqIUkpQD3Jd3Apa7Zp30VHxHuUkkUuLNeTagT7Sn8gMhPxTLQBg4bZkOWQLtqv+YGF1okKZtuQhoiXdhQExlyvMUFiiqkuVgIupKTMBMwttjMEVKHSeCMO6WMJpw8VTlLmZZQ6Prcwxf043Q60nlmHt1LaYWGUfQksb8g2wA/iku4FnOV66lXitGNPShq8IDgC4NWsBzeRgHIfvYGqI/HWX2ngRIgo+gLar2bySEtiRlLeSz26g=;KNU119wjn+y9djnXqnNjvQ=="

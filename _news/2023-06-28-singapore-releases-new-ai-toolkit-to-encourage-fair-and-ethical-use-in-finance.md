@@ -9,8 +9,8 @@ ampWebUrl: "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai
 cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: 24/7 Wall St
@@ -28,35 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI ethics toolkit updated to include more assessment components"
-    excerpt: "The second iteration of the Veritas Toolkit includes assessment methodologies for accountability and transparency, to guide financial institutions on the 'responsible' use of artificial intelligence."
-    publishedDateTime: 2023-06-27T16:39:00Z
-    webUrl: "https://www.zdnet.com/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
+  - title: "Singapore and Asean to develop new regional guidelines on Artificial Intelligence, to be released in 2024"
+    excerpt: "No details were given on what kind of specific actions this guide would spell out, but the MCI spokesman said that Asean would be looking into how new technologies such as AI should be deployed safely."
+    publishedDateTime: 2023-06-28T11:46:00Z
+    webUrl: "https://www.straitstimes.com/asia/se-asia/singapore-and-asean-to-develop-new-regional-guidelines-on-artificial-intelligence-to-be-released-in-2024"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 22
     images:
-      - url: "https://www.zdnet.com/a/img/resize/67e8ddec8fbda08aa6aa41f56f4eebd3490ba09d/2023/06/27/21f0d05c-4499-4fbb-8397-0e776e3df381/gettyimages-1386663569.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Assessment, By Component, By Technology, By Application, By End-User, By Region"
-    excerpt: "(globe newswire) -- reportlinker announces the release of the report artificial intelligence in healthcare market assessmen"
-    publishedDateTime: 2023-06-28T12:01:00Z
-    webUrl: "https://menafn.com/1106511691/Artificial-Intelligence-In-Healthcare-Market-Assessment-By-Component-By-Technology-By-Application-By-End-User-By-Region"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?598695"
-        width: 445
-        height: 249
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/28/202305082687715420230507-img2477.jpg?VersionId=M3BrCzZ7sXeoB5JetVatzYsmarsl02Pz"
+        width: 860
+        height: 573
         isCached: true
 
 secured: "LZ55Gf9WTDFfPySEh771c9eUSyeshnG30En1GKb+qNuwddD3YgybxYqXFqHwNeUEH9G4Va1jDq6VzQnFDM42caPAUs/1Z54i9ABmI90QW7LmAYEhUJbZ6R7lQYeHsAPxkcgYU69Ocoom9crJ6PTmtAheVXQhkEO+shy62DDc3QVt2sC7lnm3t5VRK0YY5Q7T1HALSchtPZHlmy0NizCDlFHP6VDPv3lLGIXdblh/nQn9dAc1pkt7Z6cq0qdItIm8BVg5xDBGHRu78jGs53p5bYLtmWOsJHGX3Zsdo0YI+3ioFSNqJXVgpM2fTAargU9kuyh+F1svXWZo9V7ZT9SHZ1LqYy9dSxfCf8M4bYmTPYE=;iJvztb+YtSgzkmcbfBfjZg=="

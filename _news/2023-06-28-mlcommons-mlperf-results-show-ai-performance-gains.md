@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2023/06/mlcommons-mlperf-results-show-ai-per
 webUrl: "https://insidehpc.com/2023/06/mlcommons-mlperf-results-show-ai-performance-gains/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "MLPerf 3.0 benchmark adds LLMs and shows dramatic rise in AI training performance"
-    excerpt: "MLCommons announces the latest results for MLPerf training 3.0, which aims to provide a standard for AI and ML model training performance."
-    publishedDateTime: 2023-06-27T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/mlperf-3-0-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance/"
+  - title: "NVIDIA H100 Aces Generative AI, Breaks MLPerf Records"
+    excerpt: "NVIDIA’s flagship H100 chip has blown the competition out of the water yet again, demonstrating the best performance yet on a set of MLPerf training benchmarks. The GPU set new records across the board in a new attempt conducted in conjunction with CoreWeave and Inflection AI."
+    publishedDateTime: 2023-06-28T06:39:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-aces-generative-ai-breaks-mlperf-records/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1164656566-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/nvidia.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "MLPerf Results Show Rapid AI Performance Gains"
     excerpt: "The MLPerf Training benchmark suite comprises full system tests that stress machine learning models, software, and hardware for a broad range of applications. The open-source and peer-reviewed benchmark suite provides a level playing field for competition that drives innovation, performance, and energy-efficiency for the entire industry."

@@ -68,6 +68,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Inflection.AI Gets $1.3 Billion to Create Personal AI for Everyone"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2023-07-01T21:58:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/07/inflection-ai-gets-1-3-billion-to-create-personal-ai-for-everyone.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 39
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/Screen-Shot-2023-07-01-at-2.20.07-PM.jpg"
+        width: 1320
+        height: 768
+        isCached: true
 
 secured: "EomFAmoj+q/V7xLsM9npSxUD4mgVL4cNG4lcMS9WX4ci2M6V6csO1iBqFx4bpjUfMs78f0AzFnVZ4QRUZQY/60b4JmzKY/diTwoxaZnbNowoEBuPjPoKLg/gYj/v7TbZUpNCSlE6g+vMTsHElyghuzC5A0z0wFTXSuwsjmGJJyDH+zTaRxeCyVZDPC1N7vrKSnFijPYs2yQobmpvKTNI14H37Z00ENM2BORmzWwUgFwTiz9ijEycB2p04R+xsA/f9mJiExXgAU7B15euc1eFdqlec5uSQrP3i1y4vwUGqlfIuwH8x+ewIpVTTWg5pXOicZ5Y01k8Kn3PQAQiAzyfn7gYMajSgvS2Nksre5WP3Goy4QuosL1O4Dn7h7XvosfPBNrfp9iVNBETmwdrkBm/dYbKuWd3C38wh0jhjN8iLbiWyVC9izaBpSR73U1HJ0nH0mInpEuMfl+yFDMg2b3hcc7k8ZuRYlJGHnbe7Q/OCNE31vEwelti9zeEU9SvChvlMH28wsUo2zZC/JlCcZ3m7Q==;knnslzoDJDxePn2z49eBUg=="
 ---

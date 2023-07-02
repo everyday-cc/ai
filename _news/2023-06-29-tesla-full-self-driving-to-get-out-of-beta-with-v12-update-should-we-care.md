@@ -77,20 +77,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Live safety tests conducted by The Dawn Project show Tesla Full Self-Driving running a stop sign in ride-along with major Tesla investor Ross Gerber"
-    excerpt: "In response to Dan O'Dowd's harsh criticisms of the dangers of Tesla Full Self-Driving, the investor Ross Gerber challenged Dan to a ride-along in Santa Barbara in his Full Self-Driving Tesla with the investor supervising."
-    publishedDateTime: 2023-06-27T15:49:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840041.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/2142145/The_Dawn_Project.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "+DEwtCm/5PhyN+aHHjrkgOA4t+/pTeEFduyoZgKQsYEsIbSewXJI7AevYWFWa9fdIfdphpLhTpaF10fKCtgQVFp+EvYPn/uSLRKQztZ8Vm46uhwqaNyirRaCiS0Qkyhi7HvKGvqxQp4iU+gBO4bHr5PRVi1SmTv3M/BhoRWBf/56e78Xgg5wJle8LGDB1yc+cMW9WjXXIvoCe4eEiSb4pPZ3e9lNfZ/Vivrt4a7p0IuhAhnRuHAHdyh/MBPgFbqXKAnrL/KxirnACjLPWt9bcusCjHFPd2xsV5G4sJ0TJ01pVoITh7718ZoJTmQXPGrkJXkfB+90B9WkFzHPIhsf/xhRjB7mzVHnHVuBlyDqFq5Q3fVoenFGwqrQTKvKuK+m1JaaV0Slwx3l9QmD+lTzsAnqUuQUY7IvESR/nBQgJrTQAHYZK7UFl6H0oArVwWMqNyPmzRF5fO6ZioPqw0lblTbNcJ2wfLtFMlwR+C8vj1J/x+6Qz788tyo36YH9fNvJFZ2I22yXUxi7+2Wo+3Hx/A==;EkFwqsHrDHnIzKotnlsQWQ=="
 ---

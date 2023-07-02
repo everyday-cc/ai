@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investmen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Inflection.AI Gets $1.3 Billion to Create Personal AI for Everyone"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2023-07-01T21:58:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/07/inflection-ai-gets-1-3-billion-to-create-personal-ai-for-everyone.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 39
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/Screen-Shot-2023-07-01-at-2.20.07-PM.jpg"
+        width: 1320
+        height: 768
+        isCached: true
 
 secured: "880JASAM60PFtSaTAqxqKUV/RnJBuGVU9AmN3w1sV7rYwWvGP6AZI+gjQQnwkGm3ggwR9/XZ/ToPr93RSAo4KQd0D0Eal2yEuatIpBLtdNgFodGe6DrgwZvHjwFqpaoAK2W4PBVqNBVT2tM2R4k3dslgES8G7TTGyEuEbibaxDA/EyMQu4ZVysPkf5SZMnvzmOPN46JF/nAnSLvPxu/o2vGU1Z5wPK2D3MGBYY4JrhozCzdaGgk525Ans99zczEoWOkFjuromm/YFDuaMaTa+/UAdlnrsnRZqZfdOI1r/R5vGGH+n8gjqtUGNJ8T8MhmA7OCGkzBmLA3owG6CzvNbluydaBsIsrJGbF3ctNLrto8sYUsvTp3XiuyfuyANyQlqP6t1c4fUNJNYhwrX8GJEE3cVkahrp8xKXnfZqP889lky54rI0VhuhazQMMtqzB5mTR4Ek79apCmCkGMD7XcqSmOTHhTvnQZkSO6IKAVH4Et78GB7Yzj+9SVC8uAwFcO6+d5rM6NtSCaZ/YpqsKIAw==;MigzPtlowa23crcrCuPPQg=="
 ---

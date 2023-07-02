@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-computer
 webUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/"
 type: article
 quality: 93
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/21/ml-14481-image005-945x630.png"
         width: 945
         height: 630
-        isCached: true
-  - title: "How Earth.com and Provectus implemented their MLOps Infrastructure with Amazon SageMaker"
-    excerpt: "This blog post is co-written with Marat Adayev and Dmitrii Evstiukhin from Provectus. When machine learning (ML) models are deployed into production and employed to drive business decisions, the challenge often lies in the operation and management of multiple models. Machine Learning Operations (MLOps)"
-    publishedDateTime: 2023-06-27T16:26:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-earth-com-and-provectus-implemented-their-mlops-infrastructure-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/27/earth-provectus-sagemaker.jpg"
-        width: 1020
-        height: 508
         isCached: true
   - title: "Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA"
     excerpt: "Fine-tuning large language models (LLMs) allows you to adjust open-source foundational models to achieve improved performance on your domain-specific tasks. In this post, we discuss the advantages of using Amazon SageMaker notebooks to fine-tune state-of-the-art open-source models. We utilize Hugging"

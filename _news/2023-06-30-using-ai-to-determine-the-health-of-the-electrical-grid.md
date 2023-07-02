@@ -38,17 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Teaching AI to Detect Specific Objects is a Game Changer"
-    excerpt: "According to a new AI tool created by researchers at the University of Surrey, it’s possible to train emerging AI tools to be more discerning in thei | Technology"
-    publishedDateTime: 2023-06-27T17:00:00Z
-    webUrl: "https://www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer"
-    ampWebUrl: "https://www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer/amp"
-    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer/amp"
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 39
   - title: "AI model can help doctors determine the extent of cancer within the prostate"
     excerpt: "A new study shows that an artificial intelligence (AI) model co-developed by researchers in the UCLA Jonsson Comprehensive Cancer Center and department of Urology at UCLA can help doctors determine the extent of cancer within the prostate."
     publishedDateTime: 2023-06-28T01:14:00Z

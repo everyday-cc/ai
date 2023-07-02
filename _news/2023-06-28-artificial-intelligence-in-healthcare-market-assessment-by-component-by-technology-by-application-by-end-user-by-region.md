@@ -26,37 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI ethics toolkit updated to include more assessment components"
-    excerpt: "The second iteration of the Veritas Toolkit includes assessment methodologies for accountability and transparency, to guide financial institutions on the 'responsible' use of artificial intelligence."
-    publishedDateTime: 2023-06-27T16:39:00Z
-    webUrl: "https://www.zdnet.com/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
+  - title: "New WEF research identifies revolutionary healthcare AI applications"
+    excerpt: "World Economic Forum report released today highlights the transformative potential of artificial intelligence (AI) in healthcare and the importance of public-private collaboration in driving its global adoption."
+    publishedDateTime: 2023-06-28T08:02:00Z
+    webUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications"
+    ampWebUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
     images:
-      - url: "https://www.zdnet.com/a/img/resize/67e8ddec8fbda08aa6aa41f56f4eebd3490ba09d/2023/06/27/21f0d05c-4499-4fbb-8397-0e776e3df381/gettyimages-1386663569.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2023_08_02_07_2980727.jpg?width=1280"
+        width: 1280
+        height: 960
         isCached: true
-  - title: "Singapore Releases New AI Toolkit to Encourage Fair and Ethical Use in Finance"
-    excerpt: "Furthermore, these repercussions of bias in AI become particularly pronounced within the banking and financial services sector. Rumman Chowdhury, Twitter’s ex-chief of machine learning ethics, transparency and accountability, said, “algorithmic ..."
-    publishedDateTime: 2023-06-28T02:22:00Z
-    webUrl: "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/"
-    ampWebUrl: "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/"
+  - title: "The Revolution of AI in Music Production"
+    excerpt: "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups."
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://techround.co.uk/news/revolution-ai-music-production/"
+    ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
     type: article
     provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 87
+      name: TechRound
+      domain: techround.co.uk
+    quality: 59
     images:
-      - url: "https://247wallst.com/wp-content/uploads/2021/09/imageForEntry21-tdI.jpg?w=400"
-        width: 400
-        height: 224
+      - url: "https://techround.co.uk/wp-content/uploads/2023/06/marcela-laskoski-YrtFlrLo2DQ-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Healthcare leaders open to potential AI legislation"
+    excerpt: "Senate Majority Leader Chuck Schumer releases framework for potential legislation regulating AI; healthcare leaders express openness"
+    publishedDateTime: 2023-06-28T14:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-leaders-open-to-potential-ai-legislation.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "bg0gdf5R7phSU122TKW5gYh/uMkgoSwcJ3tjx1uUO63Un6bVU/bZ6LbAWslozxsnPLU0x0Bns3lNva51bn1BRyzPYP5G92OaTXoI++tkeq6L4yvgShhRNVzOGgv0vVUaJry+vA+AQf1yRPUTxz39pmEE95weKHA3G1XTDaMltyKQ0YLtfcVggZieZr3NkMxOyv+xp/yvbWnDcnHqxTtE1Q1ImEgVpWzkqr4e1KcvhMiG60Jo735vUP+Ap0BB99B6XsR0W/KhCuusR4ZP0XhqOkQgAwTLYcu9nCtcPTD3OsP8hREZklsrj9YyTes2vgnsWrPgUBm5SDCTUrP4q2eKlB24rHtbf5fAzM5frxuyKuQ=;/9QdsBrW1FqEZJfL/e1dog=="

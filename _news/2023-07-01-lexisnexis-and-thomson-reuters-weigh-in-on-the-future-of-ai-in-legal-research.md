@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/legaltechnews/2023/06/30/lexisnexis-and-thomso
 webUrl: "https://www.law.com/legaltechnews/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 768
     height: 633
     isCached: true
-
-related:
-  - title: "Thomson Reuters buys Casetext, an AI legal tech startup, for $650M in cash"
-    excerpt: "Thomson Reuters has agreed to acquire Casetext, a startup developing AI-powered legal workflows, for $650 million in cash."
-    publishedDateTime: 2023-06-27T16:01:00Z
-    webUrl: "https://techcrunch.com/2023/06/26/thomson-reuters-buys-casetext-an-ai-legal-tech-startup-for-650m-in-cash/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 45
 
 secured: "Ht0gdtHSMBir1OQgUKb1na1bDP0Ra+hpo4ab8HPoxMZZm+eD9Jfs8jYFLciQnT5be6m7Do4oUXvrNLFd/SJ/aACGZ/jsIlv3RQ1eFlmwUILCiOBx20TCaPPPRYfAf4PmGQTT3H04iWV0a/O8cw3qoCpSaRof3WB46YSj7dTkXTJDBMRgymQicTOuZiJcCwWQ0onf7Js4QwBVuzpWhvZlvqUgTLiaAhRsUpTXcu6dd9p5yOeSCtldiRDpX2O/2WAXlwQNhqqPMpyP1f+vylWsXD88+FZmSSUFfcjPiVEjDhlkY1lwF1r3LN/4CgYkFzSK14J6ZvhA3sMoHskNWPwB1iDn0ml+6shi1DOnm0W51jbhLWRVS84N2jSgT3oG6N8gUBoTsBtgI9+FP11KggD8O++3JbgWgJaXuWrZKr3sVHG1PTN0mBNzDPi0B32kJ3d087r/CEvrzGoqUH1aPUuqF/WMDsTQ4XMIZ/cI9eI0aqi2Rx92+vpL505eiktBcy2Gc8usEk/n6DDHcBotggXw8Q==;9TS5qvtu5BkM1cztnw28kA=="
 ---

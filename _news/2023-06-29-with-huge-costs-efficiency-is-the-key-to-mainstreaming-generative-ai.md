@@ -163,20 +163,6 @@ related:
         width: 1023
         height: 513
         isCached: true
-  - title: "Google’s AI Blitz Worked Too Well for Wall Street’s Liking"
-    excerpt: "Google stepped on the gas with its artificial intelligence efforts last month. Some on Wall Street are already trying to tap the brakes: Two high-profile brokers have downgraded"
-    publishedDateTime: 2023-06-27T16:45:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-27-2023/card/google-s-ai-blitz-worked-too-well-for-wall-street-s-liking-13uoYXJTrXa40TsEpOTw"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-807776?width=600"
-        width: 600
-        height: 800
-        isCached: true
   - title: "Oracle taps generative AI to streamline HR workflows"
     excerpt: "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity."
     publishedDateTime: 2023-06-28T21:19:00Z

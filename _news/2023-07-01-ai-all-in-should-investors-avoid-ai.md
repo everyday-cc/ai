@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-sho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Investors Spurn Dividend-Paying Stocks as AI Booms"
+    excerpt: "The shares have suffered their worst first-half performance relative to nonpayers since 2009."
+    publishedDateTime: 2023-07-02T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/investors-spurn-dividend-paying-stocks-as-ai-booms-344f431d"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-809630/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "How investors are buying their way into the AI start-up gold rush"
     excerpt: "Despite the broader tech market being subdued, investors are piling in to private AI start-ups like OpenAI and Anthropic through high-priced secondary sales."
     publishedDateTime: 2023-06-27T21:16:00Z

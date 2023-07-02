@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 679
         isCached: true
-  - title: "BeeKeeperAI Platform for AI Development on Sensitive Data Receives $12M in Funding"
-    excerpt: "BeeKeeperAI has raised $12.1 million in Series A funding for a secure collaboration platform designed for AI development on sensitive data."
-    publishedDateTime: 2023-06-27T15:50:00Z
-    webUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/"
-    ampWebUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 53
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Causely launches Causal AI for Kubernetes, Raises $8.8M in seed funding"
     excerpt: "Causely, a Boston-based AI startup, announced today that it has raised $8.8 million in seed funding, led by 645 Ventures."
     publishedDateTime: 2023-06-29T13:00:00Z

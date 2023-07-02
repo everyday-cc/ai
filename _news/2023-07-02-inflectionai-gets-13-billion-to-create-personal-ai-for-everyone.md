@@ -1,0 +1,86 @@
+---
+category: news
+title: "Inflection.AI Gets $1.3 Billion to Create Personal AI for Everyone"
+excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+publishedDateTime: 2023-07-01T21:58:00Z
+originalUrl: "https://www.nextbigfuture.com/2023/07/inflection-ai-gets-1-3-billion-to-create-personal-ai-for-everyone.html"
+webUrl: "https://www.nextbigfuture.com/2023/07/inflection-ai-gets-1-3-billion-to-create-personal-ai-for-everyone.html"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: NextBigFuture
+  domain: nextbigfuture.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/Screen-Shot-2023-07-01-at-2.20.07-PM.jpg"
+    width: 1320
+    height: 768
+    isCached: true
+
+related:
+  - title: "Inflection lands $1.3B investment to build more ‘personal’ AI"
+    excerpt: "Inflection AI, an AI startup aiming to build more 'personal' AI assistants, has raised $1.3 billion at a $4 billion valuation."
+    publishedDateTime: 2023-06-29T17:53:00Z
+    webUrl: "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1448152453.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Inflection AI sets off fireworks with $1.3B funding, highlighting surging interest in LLMs (and Nvidia H100s)"
+    excerpt: "Inflection AI announced that it has raised $1.3 billion in an eye-popping round that brings its valuation to $4 billion."
+    publishedDateTime: 2023-06-29T17:09:00Z
+    webUrl: "https://venturebeat.com/ai/inflection-ai-sets-off-fireworks-with-1-3-billion-funding-highlighting-power-of-llms-and-nvidia-h100s/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 50
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T122624.682.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Inflection AI Completes $1.3B Funding Round, Aims to Develop One of World’s Largest AI Models"
+    excerpt: "Inflection AI may have just completed a $1.3 billion funding round, according to a Thursday announcement by the company."
+    publishedDateTime: 2023-06-30T09:35:00Z
+    webUrl: "https://www.coinspeaker.com/inflection-ai-1-3b-funding-round/"
+    ampWebUrl: "https://www.coinspeaker.com/inflection-ai-1-3b-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/inflection-ai-1-3b-funding-round/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 48
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/06/inflection-ai-1-3b-funding-round.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Inflection AI Raises $1.3B From Hoffman, Gates and Nvidia"
+    excerpt: "Inflection AI, a startup that makes a “kind and supportive” chatbot called Pi, has raised $1.3 billion in one of the largest funding rounds of Silicon Valley’s current artificial intelligence frenzy."
+    publishedDateTime: 2023-06-30T17:29:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-06-30/inflection-ai-raises-1-3b-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+
+secured: "MCxLNdox+1nrJBU4fdAHcJ960S1ZrjQT6oTYLoSMTZixY9LAnYRZspXvUKqyYIxZRoq6PAQz7tMLE0id2gbDc1sIXtO8GkwQKV8ZonwjG7vKwf0XdN97F2OBGwitiNHDCS0TBvLF6DjuHnc2HT2r+LS2ldTJfu2NyXNrWRUYJLSntJo51QjG4zMdZD0lTezQ34PK6Ah5ZfLvJYl5GNDouftID+aE+RREfdAv8z0tli79M1DAaA0slkEgnwuG342cBNdgXOTT0keUGkLEmtt8VWACFmFdxe9bfGvpRL2cPY8XNFNjny4TV8SYQEgZ16+D9Xri2y7OM7XqmNymrOCIjx7fvfAmUlva9O0q2sh+V2A=;4sH8GjFx2i5kRWaVHEwbfQ=="
+---
+

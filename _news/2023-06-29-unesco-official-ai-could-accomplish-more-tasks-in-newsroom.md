@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "EU, Unesco to help developing countries shape AI rules"
-    excerpt: "The European Union will help fund a Unesco scheme supporting developing countries as they create laws regulating artificial intelligence, the UN cultural body said Tuesday (June 27)."
-    publishedDateTime: 2023-06-27T15:44:00Z
-    webUrl: "https://www.todayonline.com/world/eu-unesco-help-developing-countries-shape-ai-rules-2200641"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--HydQWz2b--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/06/27/20230627_afp_unesco.jpg?itok=qYdYlSpM"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "Lj9DkxHY475fZXw27v88PmsDmnAJ8uaf95zwuPZg9YeTlUclAIBtrG61wsWULZEIjAN4RRL5e8rTX35+cf0wsDmeN71kzE2yhDymnck7oMvzAHoHVAwWAeuHvI0/Y9WxC9OVXX90ngfWAaA2/pS7hK0nkCG0HKHjWImh/oeyFiWX/Cs2NiRYA9Lw539L3nglLhI09yx18/lrnAcEu7H/Jnm+4Ch2oAIFS0vX97xYQrDAVB1yQwD9pV93gQRPhPgGpT66oN66fMs/2nkgA6ADHv+viPZKQmMwaQp0KUm8SJsMrCcp5k9q5D7zas/rz0cR4Rr0Q8n1bYXS3gjQF7ZKLkjY5VHanQc0jYD+k0sMI70obE/euLrmMxOlZ41on/OZbRA12lPxSyXxjw8Su6HIVMWLLAgZHD8wSGgrJ1TW+nvyGNjw5McgFuiWfTobTAs0d4HerR/S6mz7PGiiGoL/sC60t9NbIqReXIXBTJzjCp/ZGVvbaY4jrBynZlE6xOe4jMoQUVRV13UgMP0l/l0mVQ==;guh1SLZ08wY+ax8T2Vu7Vw=="
 ---

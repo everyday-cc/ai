@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
     provider:
       name: Becker's Spine Review
       domain: beckersspine.com
+    quality: 34
+  - title: "Uncensored Chatbots Provoke a Fracas Over Free Speech"
+    excerpt: "A new generation of chatbots doesn’t have many of the guardrails put in place by companies like Google and OpenAI, presenting new possibilities — and risks."
+    publishedDateTime: 2023-07-02T09:01:00Z
+    webUrl: "https://www.nytimes.com/2023/07/02/technology/ai-chatbots-misinformation-free-speech.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
     quality: 34
   - title: "Complex AI Prompting: 'Putting the Prompt Last Helps the LLM to Stay on Task'"
     excerpt: "As AI takes hold in the enterprise, Microsoft is educating developers with guidance for more complex use cases in order to get the best out of advanced, generative machine language models like those that power ChatGPT and the company's Copilot assistants that are popping up all over."

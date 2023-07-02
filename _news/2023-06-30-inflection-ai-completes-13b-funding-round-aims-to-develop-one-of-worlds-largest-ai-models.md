@@ -66,6 +66,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Inflection.AI Gets $1.3 Billion to Create Personal AI for Everyone"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2023-07-01T21:58:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/07/inflection-ai-gets-1-3-billion-to-create-personal-ai-for-everyone.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 39
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/Screen-Shot-2023-07-01-at-2.20.07-PM.jpg"
+        width: 1320
+        height: 768
+        isCached: true
 
 secured: "d9/mPawDMgPu7oWpxj13WK90cSSEI2WZY1V33Ed/YYMsT/NzyU5Xu4QTk0b+OwF15WYzHH4nbAszf5OSWuPxfRAjPnTnUG1v7SZmeAH8q8jrUuxWmDkXGajLVIBQjdj9p8To2WA+eSsBDn44BWRKzvfPkvbh6pMTuOraCiBcPiOI7YPXAQ2Ra/QyhrcxhEyKsKinuW9MzeL8pJnN2FLp5z3aRPA4wiJDPL3yOthjmfgG/qu2U7kSZo8ewYZvtkySAq2cYzf2pcX/CwKZ71qdJ+vGK6BN9L8b3Bmg1Qb7wRXrH0Hqnyr9MHAO4nw++7EgJCx6j+/gzsmjs07Ry395Ab2s8ulvCaetlpuFvNBApIA=;p/2YxzTvka3W8fhQGibqmw=="
 ---

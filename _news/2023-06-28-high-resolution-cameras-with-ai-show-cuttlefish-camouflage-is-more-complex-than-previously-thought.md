@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How Policymakers Can Tackle the Complexities of AI Models"
-    excerpt: "Diversity, precision regulation and governance are key to building responsible and trustworthy artificial intelligence (AI) models."
-    publishedDateTime: 2023-06-27T16:05:00Z
-    webUrl: "https://www.nextgov.com/sponsors/2023/06/how-policymakers-can-tackle-complexities-ai-models/387021/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/06/01/milad_fakurian_58Z17lnVS4U_unsplash/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "6rld+ZtAinatCB9J2JlAFyahuGlTr+I3RolOcM99fKLrruknLSsbReT/BGheYBwVx+siloE05g6u0fFi2mCjj0rRPzrAX36KtvUoKFOjdX3EIfVzv3jpMKO33l23cg6Xnb4QpZKZ32ILhlHwnfnKhWf6wybQIFGGmYr2Z6i4wAtnCq8+ovwRV5O474j545lszBCmSuFnjnAV/TMzAYTc9E/W1E8zyk3WkCtkvIbWKOSlL3Uxo14v6YgLw3+CrTOniCua2OvsPgcJb+0eofEPVzSdiYI/CQXb5etyADdtj2K70+wrmdMrlMy70w88xLCmUUkuQ2u+pL8ZUylNXRwnDEdsj9oKR58KxjA46PMlae4=;IFQzVPg+FbjedbvS7cSYFA=="
 ---
