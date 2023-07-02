@@ -559,15 +559,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Why Microsoft Leads the AI Race"
-    excerpt: "The tech giant’s alliance with ChatGPT’s maker positions it to dominate the early AI market, says Morningstar – and competitors face a wide moat."
-    publishedDateTime: 2023-06-27T17:55:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/b8z7v6l4j2qzj7/Why-Microsoft-Leads-the-AI-Race"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 34
   - title: "Microsoft and Nvidia join $1.3bn fundraising for Inflection AI"
     excerpt: "With Nvidia joining its investment round, the San Francisco-based start-up, co-founded by LinkedIn creator Reid Hoffman, said it has access to 22,000 Nvidia H100 GPUs, the most in-demand resource in the AI industry today, costing $40,000 apiece."
     publishedDateTime: 2023-06-29T15:53:00Z

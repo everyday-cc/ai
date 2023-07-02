@@ -22,49 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Will The U.S. Government’s Latest Cyber Policy Actually Improve U.S. Security?"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead digs into EO 13984, which risks creating new problems for IaaS vendors without actually improving cybersecurity."
-    publishedDateTime: 2023-06-27T17:34:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/"
+  - title: "How advanced AI threatens banking security systems"
+    excerpt: "The future of payments promises to transform the fintech world as traditional friction barriers begin to disappear. Amid this innovation, concerns arise: could"
+    publishedDateTime: 2023-06-29T14:19:00Z
+    webUrl: "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649b18aa9dbdc4ceaf3c85e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 720
-        height: 402
-        isCached: true
-  - title: "Why healthcare in the cloud must move to zero trust cybersecurity"
-    excerpt: "To protect patient identities and health records, healthcare providers must adopt zero trust cybersecurity amid increasing cyberattacks."
-    publishedDateTime: 2023-06-30T14:07:00Z
-    webUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Central Banking
+      domain: centralbanking.com
     quality: 71
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/GettyImages-1251551602-e1634921639991.jpeg?w=1200&strip=all"
+      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-06/GettyImages-1490261842.jpg?itok=msI7us6j"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "AI-Driven Cybersecurity Startup Raises $100M"
-    excerpt: "The Cyera cybersecurity platform uses large language models to automatically discover, classify, and secure sensitive data."
-    publishedDateTime: 2023-06-28T10:09:00Z
-    webUrl: "https://nocamels.com/2023/06/ai-driven-cybersecurity-startup-raises-100m/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/06/CyeraFounders2-scaled.jpg"
-        width: 2560
-        height: 1440
+        height: 743
         isCached: true
 
 secured: "vssU+ogyOlNR6z2FpCZadn/vzq+M6Jf194mRklQrYi0gV3yDDjXB9HTaNJw9SwbjRVc+DGE8rM1wefYqTMiZsjyzTPWpStdAZaavKvh6hMK1l+AF6dFevsT6RItueDl84lhq9l/pqo1osZyNoBo2QurWATKQhNf5EV9P7NBWsLtU3NbK+TgT1Nru5sv5LIOGLL+/dIgwRShANhgSOzWTkNCDWQhMcGNUbezJbf28jpqIXPnajPWxGd3A2myYV/GfK8JPmc17e8Z4a4iFtN7UAXKd+TQW1P+jPiZaRIWg+EcXUia99acUaQHV/M50o2RMevBgWclWSkZbVc9F1rEq51sX/gqXyP4HXGpQdiY7UgJjjHbs/ZdAN/EnvzIv68F+id/OYbpK5Xr2Qd9jqK5GxmsJ7VX+wTpSJUAli7e3wHIkt4IRD+RxjaM0MODzHHPqGWMlyvzP2JKEnlpuB1nXVA/VI7EovDDnW/bSguYT6DcOiBRCqw6AjEQNddKaKzXgder9ZVwDuhn5vSAS4oOqgg==;MV/KuoEOwgUWqabcFMNhYQ=="

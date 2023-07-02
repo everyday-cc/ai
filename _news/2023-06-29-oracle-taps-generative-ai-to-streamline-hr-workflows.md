@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "CalypsoAI raises $23M to add guardrails to generative AI models"
-    excerpt: "CalypsoAI, a startup developing guardrail tech for generative AI models, has raised $23 million in venture capital."
-    publishedDateTime: 2023-06-27T18:38:00Z
-    webUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/"
-    ampWebUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Six Risks Of Generative AI"
     excerpt: "Advance on their generative AI journey with their eyes wide open to the technology's potential risks and take steps to mitigate those risks where needed."
     publishedDateTime: 2023-06-29T10:00:00Z
@@ -324,15 +308,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Generative AI is breaking all the rules"
-    excerpt: "With the right guardrails in place, artificial intelligence could help us push past the constraints of our own thinking."
-    publishedDateTime: 2023-06-27T18:15:00Z
-    webUrl: "https://www.thestar.com/business/mars/2023/06/27/generative-ai-is-breaking-all-the-rules.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 19
   - title: "Call for generative AI guardrails, responsible design"
     excerpt: "Researchers are cautiously optimistic about where generative artificial intelligence (GenAI) will lead humanity, but “we must develop more guardrails”. This is according to Pascale Fung, chair professor in the Department of Electronic and Computer Engineering of Hong Kong SAR,"
     publishedDateTime: 2023-06-29T09:44:00Z

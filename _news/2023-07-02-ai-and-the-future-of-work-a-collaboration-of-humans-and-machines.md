@@ -27,30 +27,83 @@ images:
     isCached: true
 
 related:
-  - title: "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS"
-    excerpt: "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g"
-    publishedDateTime: 2023-06-27T23:23:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
+  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
+    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
+    publishedDateTime: 2023-07-02T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
     type: article
     provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 61
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 67
     images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif"
-        width: 800
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
+        width: 1706
+        height: 2560
+        isCached: true
+  - title: "Artificial Intelligence to reshape deep science learning"
+    excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business—with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
+    publishedDateTime: 2023-06-30T17:25:00Z
+    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-57.jpg"
+        width: 1280
+        height: 1941
+        isCached: true
+  - title: "Artificial Intelligence to reshape deep science learning"
+    excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business – with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
+    publishedDateTime: 2023-06-29T21:29:00Z
+    webUrl: "https://news.ucr.edu/articles/2023/06/29/artificial-intelligence-reshape-deep-science-learning"
+    type: article
+    provider:
+      name: UCR Today
+      domain: ucr.edu
+    quality: 41
+    images:
+      - url: "https://news.ucr.edu/sites/default/files/2023-06/GettyImages-1466924677.jpg"
+        width: 6720
+        height: 3384
+        isCached: true
+  - title: "How machine learning development companies are redefining the business landscape"
+    excerpt: "Machine learning companies are driving tech innovation, empowering businesses in the digital era with cutting-edge solutions and expertise."
+    publishedDateTime: 2023-06-27T20:35:00Z
+    webUrl: "https://knowtechie.com/how-machine-learning-development-companies-are-redefining-the-business-landscape/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 34
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2023/06/Machine-learning-feature-1000x600.jpg"
+        width: 1000
         height: 600
         isCached: true
-  - title: "My Greener Future: The pros and cons of AI"
-    excerpt: "President Franklin D. Roosevelt said at the beginning of World War II, “The only thing we have to fear is fear itself.” Well, he wasn’t facing the arrival of artificial intelligence. So, should we"
-    publishedDateTime: 2023-07-01T11:46:00Z
-    webUrl: "https://www.dailypress.com/2023/07/01/my-greener-future-the-pros-and-cons-of-ai/"
+  - title: "Machine Learning is Revolutionizing Quantitative Trading"
+    excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."
+    publishedDateTime: 2023-06-30T16:34:00Z
+    webUrl: "https://www.bbntimes.com/financial/machine-learning-is-revolutionizing-quantitative-trading"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 19
+  - title: "Deep Learning in the Fine Arts: Expanding Creativity and Expression"
+    excerpt: "By merging the realms of technology and artistic creativity, deep learning is redefining traditional art forms and inspiring new avenues for artistic expression."
+    publishedDateTime: 2023-06-30T19:41:00Z
+    webUrl: "https://www.bbntimes.com/global-economy/deep-learning-in-the-fine-arts-expanding-creativity-and-expression"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
     quality: 19
 
 secured: "ecWRINQVNFiqHvc/RWRcnTOkbDDZkKB0KVhnImKFRrvqdWnsj9/08iYRdBzAxvRiXmZPCjT7OURjuAGGQC/hTPSytWaChu9PYfZrjgO/ycEPytedKPq/7bLWQsJBkdcPuLf8Dn6RFuYtnhCyJlxl8lYBfOjtIYGcannz6O2HWAxeh/hIF+a47IxLLEJPShI4vPhFtaXJk6d/ncyoMmXUWE8XM6T9Lilrd5fGJ1jMkLYFUGNM2tYjIbPgcmjwsfkGLL86MBdwBdl22kJKmtECLPXX6naRN86IhoLMUWM5DawVDkGe0vdKsLN6tXytAF/+trD7wsrC1vK0MBZZgBN5AMH2Q1kL6YyKQLFi2bWZeVs=;YzJWiuJAF8GRlOVl2BKYLw=="

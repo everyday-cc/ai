@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-03-co-founders-of-google-deepmind-and-linkedin-launch-chatbot.md",
+      "title": "Co-founders of Google DeepMind and LinkedIn launch chatbot",
+      "excerpt": "The co-founders of Google DeepMind and LinkedIn have launched an artificial intelligence chatbot called Pi, adding to the flood of similar products rolled out publicly this year by the likes of OpenAI, Google and Snap.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94?shareType=nongift",
+      "originalUrl": "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94?shareType=nongift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-8-emerging-entrepreneurs-you-need-to-know-about-in-2023.md",
+      "title": "8 emerging entrepreneurs you need to know about in 2023",
+      "excerpt": "New Delhi [India] April 29 ANIPNN From innovative startups to game-changing enterprises these 8 emerging entrepreneurs have carved their own paths to success Their journeys as leaders offer valuable i",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
+      "originalUrl": "https://www.bignewsnetwork.com/news/273795464/8-emerging-entrepreneurs-you-need-to-know-about-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/NzBmYTU1ZTMtZTN.jpg",
+          "width": 630,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-why-google-deepmind-may-be-bad-news-for-the-company.md",
       "title": "Why Google DeepMind may be 'bad news' for the company",
       "excerpt": "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,",
@@ -1312,101 +1389,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-as-elon-musk-calls-for-a-pause-on-ai-development-will-the-ai-wars-reach-a-temporary-truce.md",
-      "title": "As Elon Musk Calls For A ‘Pause’ On AI Development, Will The AI Wars Reach A Temporary Truce?",
-      "excerpt": "While responsibly slowing down AI might be on the cards, its development will continue to march forward. Take advantage of the trend with Q.ai’s Emerging Tech Kit, focusing on s",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/03/30/as-elon-musk-calls-for-a-pause-on-ai-development-will-the-ai-wars-reach-a-temporary-truce/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/30/as-elon-musk-calls-for-a-pause-on-ai-development-will-the-ai-wars-reach-a-temporary-truce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/30/as-elon-musk-calls-for-a-pause-on-ai-development-will-the-ai-wars-reach-a-temporary-truce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/30/as-elon-musk-calls-for-a-pause-on-ai-development-will-the-ai-wars-reach-a-temporary-truce/amp/",
-      "publishedDateTime": "2023-03-30T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-gpt-4-commotion-and-controversy.md",
-      "title": "GPT-4: Commotion And Controversy",
-      "excerpt": "GPT-4 is generating tremendous excitement and concern in AI circles. This excitement is not overdone. The model is a significant advance on any previous natural language processing system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2023/03/30/gpt-4-commotion-and-controversy/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/03/30/gpt-4-commotion-and-controversy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64254518f5e392062c81b689/0x0.jpg?format=jpg&width=1200",
-          "width": 987,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/03/30/gpt-4-commotion-and-controversy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/03/30/gpt-4-commotion-and-controversy/amp/",
-      "publishedDateTime": "2023-03-30T01:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

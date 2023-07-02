@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intellig
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and the future of work: A collaboration of humans and machines"
-    excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
-    publishedDateTime: 2023-07-02T04:27:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design2.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "My Greener Future: The pros and cons of AI"
     excerpt: "President Franklin D. Roosevelt said at the beginning of World War II, “The only thing we have to fear is fear itself.” Well, he wasn’t facing the arrival of artificial intelligence. So, should we"
     publishedDateTime: 2023-07-01T11:46:00Z

@@ -555,15 +555,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Why Microsoft Leads the AI Race"
-    excerpt: "The tech giant’s alliance with ChatGPT’s maker positions it to dominate the early AI market, says Morningstar – and competitors face a wide moat."
-    publishedDateTime: 2023-06-27T17:55:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/b8z7v6l4j2qzj7/Why-Microsoft-Leads-the-AI-Race"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 34
   - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
     excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
     publishedDateTime: 2023-06-28T18:02:00Z

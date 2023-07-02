@@ -70,15 +70,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 26
-  - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
-    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with Microsoft Azure OpenAI Service to extend Indico's Enterprise Large Language Model (LLM) capabilities using the latest in generative artificial intelligence (AI)."
-    publishedDateTime: 2023-06-27T18:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/27/9839505.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
 
 secured: "a40E0z5X7dLPPFZP8CGW6g7F5dbcnN+hOOSXhmvMzmvnqZe+YgobIXugUcPVaM56ze5qHOd7Yi1PGU5WzAlGo0pYq9louD0bCiW7YTLfffIcFl+IvPW1dZusCTJ/xZH4KH7SU4bNSPlwQ/sNZ4R65rfs4shxrmLE4oaIaeJIOwyS3f7m851OpQmU710/G/UZQ1i8kxfv5/c/DuIrzcxnIANiJi5fBpDjNUv85f+4U5j3odd+7mvMJuTBdyQsEbwReu8tTjTzsMvjpRcqLkmOhoO19kj9SWk9/BgsohdIju6PU2ahi3lBoTaUNb2jxOemNRSgVN1icxethJULL073eRmQ+ntauwmEIMR1Ci1skIv/YbSmM7ycNk8kMR/zKlPw0NE5vdjappUMqGMuNZiZkThU8Ocvt/fQ4lDWESQs4JiBsSFaIx206KkyjomafpZTmDgiGfsmdCd8KqYTZAmXP2+aYuK3nqJpTzgmqpC3j4+rTZ2AwQ61RJ8XeZUa1tDKPI81eopb7+RcAk3ZQEWoGA==;10nBsBR1upBXiTx4+tmslQ=="
 ---

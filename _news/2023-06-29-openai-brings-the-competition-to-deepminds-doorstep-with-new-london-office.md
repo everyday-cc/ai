@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/"
 type: article
 quality: 102
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/40d83fa3f7f39abc7905eca943ad42d809b54945/0_133_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=41088739393e55718565b145d1ec4156"
         width: 620
         height: 372
-        isCached: true
-  - title: "AI rivalry heats up as Baidu and DeepMind aim for OpenAI’s top spot"
-    excerpt: "At the front of the pack, Google DeepMind, Alphabet Inc.’s AI research lab, said its own large language model chatbot Gemini, which is still in development, is on track to eclipse ChatGPT and GPT-4, OpenAI’s newest and most powerful AI model."
-    publishedDateTime: 2023-06-27T17:10:00Z
-    webUrl: "https://siliconangle.com/2023/06/27/ai-rivalry-heats-baidu-deepmind-aim-openais-top-spot/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/chatbot-gd9fc1c034_1280.jpg"
-        width: 1280
-        height: 1106
         isCached: true
   - title: "Google DeepMind Will Eclipse OpenAI"
     excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."

@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Partnering With Nvidia, Snowflake Aims At $100 Billion + Generative AI Market"
-    excerpt: "Can Snowflake grow faster? Based on new products and a partnership to help companies benefit from large language models (LLMs), Snowflake has the potential to restore its rapid growth by gaining share in a generative AI market worth “hundreds of billions of dollars,” according to a Snowflake spokesperson."
-    publishedDateTime: 2023-06-27T18:07:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/27/partnering-with-nvidia-snowflake-aims-at-100-billion--generative-ai-market/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
 
 secured: "zXhkD5Dy6pljrnP3rrICJLrGrJ/Ab+ip+DvbLC0FlVH66HEf9al+gKe7urIxqzPGlooJoarMkPD7h1mDSPanFB0fygxhLlPvUNEHD28cR84tJyWZ0mm+Z7rjb7bcy4bUOofVploHpr4AjQXZO4viy06JsFTvDLJC7Uk1d68Aeu9le7a4Uun54wd0o15QMYx2aqtJcqgOSazrj32N172/+gAsZvTfH+Cz2m+tuKTUXbNr5Wnux/l7E0dzfXerme5o1nAuwM51waL0HnnFkzBYuWevNjk8aiacYrkNv1udl4g8ykEfiU8NxQ/pl+Ep+sE6qx5ABolSD+mT90smPbYGYpleJfCLkI+Sy+u4DOCmLwFrTcikzCNO2JFInoUBarle67qHCWvsHeE/3I88Deek9R8p447E21WNHNPyH14vpWjGfXbdBvHn6U9oS/0bxL3L7iLJ8jUzdArTTp6cvXzp/yT1qJT1iPBlvjfgQczHJHkzqal7/7Tab6H6olZqPjQDBSwMhe4NqetjLGRq1z8hVQ==;ap10Fss6SAcwJD11y4HovQ=="
 ---

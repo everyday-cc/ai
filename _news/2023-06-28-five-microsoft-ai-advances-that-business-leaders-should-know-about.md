@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/"
 type: article
 quality: 106
-heat: 626
+heat: 616
 published: true
 
 provider:
@@ -555,15 +555,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 34
-  - title: "Why Microsoft Leads the AI Race"
-    excerpt: "The tech giant’s alliance with ChatGPT’s maker positions it to dominate the early AI market, says Morningstar – and competitors face a wide moat."
-    publishedDateTime: 2023-06-27T17:55:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/b8z7v6l4j2qzj7/Why-Microsoft-Leads-the-AI-Race"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
     quality: 34
   - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
     excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"

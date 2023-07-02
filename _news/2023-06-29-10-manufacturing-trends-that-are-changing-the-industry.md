@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/10-manufacturing-trends-that-are-changing
 webUrl: "https://www.ibm.com/blog/10-manufacturing-trends-that-are-changing-the-industry/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -20,17 +20,6 @@ provider:
 
 topics:
   - IBM AI
-
-related:
-  - title: "Will Self-Driving Cars Change the Rideshare Industry"
-    excerpt: "As the world delves deeper into the 21st century, technological advancements become increasingly revolutionary. One of the most fascinating advancements is the rise of self-driving cars, also known as autonomous vehicles (AVs)."
-    publishedDateTime: 2023-06-27T17:57:00Z
-    webUrl: "https://techbullion.com/will-self-driving-cars-change-the-rideshare-industry/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
 
 secured: "d0LgQBnExg2TM8+Eq5eJ3I1puIS+QbTMS2UM6yfHEg+/vikpKz/BSFK51pvZbqQTZWMB6Q3AVrksE4lHPa/aYDciA6Cec79MaTB9Ei4uz88wOaVFXZm4R2cXFEiuGb2tSPYCfUB83IJKAlkhYeg4bSM9GdoVqStRlKEBFYLy2lFZsLAeEx3xa5Dkke57xMfgbtScMX12Knb6NoJ8PHSgJwO1XRegSG7U/24EBKITz32UOGS5DrZvKXv9fZH2CtycqYCF1kJ1vsvudmB2XELGAQocIJl0QMmO/DTz+wrw5FqYjIPQiX9sFlPyJiOcxawO5Marg/sbUK6wwJAXmqrsEmvxps4PcsWfMt5SFu/sBAk=;1VkJTRSNWT4TJkpbRFOvnQ=="
 ---

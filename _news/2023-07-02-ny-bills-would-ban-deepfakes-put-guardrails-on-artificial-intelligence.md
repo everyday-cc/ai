@@ -8,8 +8,8 @@ webUrl: "https://www.newsday.com/news/region-state/state-legislature-deepfakes-a
 ampWebUrl: "https://www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t"
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.newsday.com/ace/c:MTgxNzY1YzQtMmRiOS00:YzllNTEw/landscape/1280"
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "l6hjafF4ci7qXHug9EJiZnmz4QbTsVn3p/7JvBCzLO4fHvOCzRLZ+6hkQNe+Qn5rjBiOWsru8om9UQRSVOk+pyUsodWcKGSZBbIAERg61QFdIxW+6Gd/JlzJcnswVe2squLaJ5fwyO0KlOotREhtUcJ5xJFnvBoN4+jVRwFdU5kNwdEEHrWRwtywcSWYwdywOyFfThi/chody96g+JqGk8TdZuiRx05lIy0H9Xnu88/hjvHThnXBgpeWfvRAH8a9rB9PCtFG3AFtbMD5FMYpdFwkrCUgNdJsJjO4pPyUTRDMofiKzD4Hq4Ir//ayOVHF8jrx4Dm+8l60mdkbBI4RF1uwC8GIfugpTao8eUNqpLM=;mVgfqSseW2gOiaT9FLjDCg=="
+secured: "suFoe7uTrllNew8CWYxqKZHbKIJoMfqPMjANioMqspYFKMdY/e8XjWPzaXqu97ojHWJ+Xce+dxuwlrAdsa/TsSbFNRNXj8DXQx6llcgGjXj7b0p+RSwrBi12X12TY+7FG2Jr7D+L3YkcqqV6sFyuTO8pT6nkE7p/9xcAzv3WCYMl1X45CijLj+ctrWK7K/npbU6MZov6MLm2PjShA6a7TLwdQA08/DHuDUQx67oXZJbdSPNBAs2Ve/sGz6fMTSmWC4eTt5SnCQEB0VdJE33gjKPqutrVGKhgrgxEbiSPpxwMER65zjNilBZj2hFxCsesptlfiJ1i+xvM369QH/R1Ooe0IN/MbV+Iea033x4saH8jLk4l0iweD3qv18Xut+onDG17tm2foq4eBEwGT1Qi2VMzhK4aCJKOLaxvLc4PCpwAOhC1QDAw0qetpU+d2237Ibi0a5lAwB8jGwkxbNec/ahXm1CxfTzQNqC7LwNodGV4g542jInjzZGgnVLFhNg32IHMYJrFgFzP2nEq+htF2Q==;7tsKrJJDORjdPMQcyX1aZQ=="
 ---
 

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind CEO says that Google's next AI system called Gemini will outshine ChatGPT"
-    excerpt: "Gemini, the latest AI product DeepMind researchers are working on, will seemingly put ChatGPT to shame. Demis Hassabis, CEO and co-founder of the British AI research"
-    publishedDateTime: 2023-06-27T17:28:00Z
-    webUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 78
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-27-image-14.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Google DeepMind is developing a better AI than ChatGPT"
     excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
     publishedDateTime: 2023-06-29T13:36:00Z
@@ -55,6 +41,22 @@ related:
         width: 620
         height: 382
         isCached: true
+  - title: "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT."
+    excerpt: "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ..."
+    publishedDateTime: 2023-06-29T16:27:00Z
+    webUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google says its secret AI weapon could eventually outsmart ChatGPT"
     excerpt: "The AI is deep in development at the moment – “a process that will take a number of months”, according to Hassabis. It will also cost Google a ton of money as the project pr"
     publishedDateTime: 2023-06-28T05:00:00Z
@@ -68,6 +70,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/j2dgg7wUnxEbnBRwTJVzgg-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "EU AI-rule proposal could clip ChatGPT's wings, but likely won't"
+    excerpt: "Though the EU's heavy-handed approach to tech regulation looks likely to continue with the AI Act, we still see room for a middle ground on restrictions on generative AI like ChatGPT."
+    publishedDateTime: 2023-06-27T20:01:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/eu-ai-rule-proposal-could-clip-chatgpts-wings-but-likely-wont/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fclarification.png&width=684"
+        width: 684
+        height: 523
         isCached: true
   - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says Google CEO"
     excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
@@ -116,6 +132,43 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "AI recap this month: Drone 'kills' operator; DeepMind's speed up"
+    excerpt: "Research into AI is experiencing a boom, so we have rounded up the best of news from the past month to help you keep up to date"
+    publishedDateTime: 2023-06-29T09:32:00Z
+    webUrl: "https://www.newscientist.com/article/2379559-ai-recap-this-month-drone-kills-operator-deepminds-speed-up/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27154959/SEI_161948063.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
+    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
+  - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
+    excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
+    publishedDateTime: 2023-07-01T15:03:00Z
+    webUrl: "https://bgr.com/tech/clippy-is-back-as-a-chatgpt-powered-ai-assistant-for-windows-11/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1668
         isCached: true
   - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
     excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."

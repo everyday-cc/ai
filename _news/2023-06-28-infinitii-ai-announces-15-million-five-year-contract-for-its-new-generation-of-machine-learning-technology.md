@@ -179,20 +179,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Booming Venture Capital Investment in Generative AI: Considerations for Investors and Companies"
-    excerpt: "Accordingly, investors need to weigh these signals against the general consensus that generative AI has a staggering potential as a disruptive technology, leading to big winners and above average multiples. U.S. chip maker Nvidia and other large technology ..."
-    publishedDateTime: 2023-06-27T17:57:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/booming-venture-capital-investment-in-1740966/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14667_957.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "mCxz4PCPMbRplNHdBC1WEUCWwk69PTu0Hz+DJqxIkyfaS8GdAajggOv7BPElAZ4epHgxB9RRALSXj6qNQiwg666NKUU2Xued146EkifmpYE6K8GGint2YUAFsQrVeg+vd0ohg2p91TY/eL162gql+IOX47d08Jg+2lOMaD7yA/lzL68yCKreIV/0Z+d30cP5IB1iayrCoxpE3Fw1w2xyYoT+0r3xWtDi0NmL8ElWPUNrUzBd97htaKWHc40tx1cyhIOdRtzUdF8yh6JM05zibP9dxWVaw/l44ZjrPoDYGm/aW2WogItazSTF7dNZxVkJ++NzMPFiAnr3purX5sLE+GTmP79xrUOiuhIMihs5sWw=;uml9iTNMb3Q8thebjxdQ2Q=="
 ---

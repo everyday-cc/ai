@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will The U.S. Government’s Latest Cyber Policy Actually Improve U.S. Security?"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead digs into EO 13984, which risks creating new problems for IaaS vendors without actually improving cybersecurity."
-    publishedDateTime: 2023-06-27T17:34:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649b18aa9dbdc4ceaf3c85e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 720
-        height: 402
-        isCached: true
   - title: "Why healthcare in the cloud must move to zero trust cybersecurity"
     excerpt: "To protect patient identities and health records, healthcare providers must adopt zero trust cybersecurity amid increasing cyberattacks."
     publishedDateTime: 2023-06-30T14:07:00Z
@@ -54,15 +38,22 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Uncovering How AI's Dual Relationship With Cybersecurity Operates"
-    excerpt: "Cybersecurity has evolved and played a pivotal role in AI discussions due to threat feeds, AI platform protection and the need for rapid data analysis."
-    publishedDateTime: 2023-06-28T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/uncovering-how-ais-dual-relationship-with-cybersecurity-operates/"
+  - title: "Healthcare moves forward in the cloud"
+    excerpt: "How global healthcare and life sciences organizations can derive benefits working with AWS Partners on cloud projects"
+    publishedDateTime: 2023-06-29T14:01:00Z
+    webUrl: "https://www.theregister.com/2023/06/29/healthcare_aws_cloud_benefits/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/06/29/healthcare_aws_cloud_benefits/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/29/healthcare_aws_cloud_benefits/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: theregister
+      domain: theregister.com
+    quality: 61
+    images:
+      - url: "https://regmedia.co.uk/2021/04/09/medical_wifi_shutterstock.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ov//Mq76F3EnmDYiCy3fj4fVTX40aVuU1xluYPu0G683DVD3zGHeBK09nDEZWJ443LSjgFm3HFEuWefmP5c0tmaqSYd5VfKPju8l7G6Wqki7tRQQUtr4f7enVZR35TGg1KBka/9cAh1T+RPxBP26kkzKIDFFuUoC0GXtF3rm7v0fNyd4YUlIHdPXm76g0gEY2V3KBGvVdowhr6tfNiB5zsZCfbM5fB4QoJ4qx5RTEvqpeOZd60EXDuTDdgDyuQEdRZpxSCet6kuYqd8TZIffZzG2065s21PDW8NNq1lVT9swB5ZIk0M/sxmGZP/B8I0toTKnVJQnTNxaNDcz5ItWEaa1h/LrUR1857vfMu/qvj+6pvmJknwJDvCWEUTV2sPaQexp9UAadafWSX54Uc1jLfz07nKlc5+zW6Hdbgf8zVUR+gcgU6Fla0oYymreOdNO+Gw5q8X+iPJPXgRIoVojDVIAKkqQBWQSDX/AqjdkmynpbPIo2S+XYtI7pyWQyjxawA9TgECuftMChe59o5wCJw==;qdpmHab5VDmgwJcwv5OPdw=="
 ---

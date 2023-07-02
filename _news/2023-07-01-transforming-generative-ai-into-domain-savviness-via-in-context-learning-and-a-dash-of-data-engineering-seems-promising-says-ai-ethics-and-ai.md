@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 1077
         isCached: true
-  - title: "17 Important Things For Agencies Using AI In Marketing To Consider"
-    excerpt: "Balancing caution and innovation is going to be a challenge for many agencies and in-house marketers seeking to leverage AI in their operations this year."
-    publishedDateTime: 2023-06-27T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/17-important-things-for-agencies-using-ai-in-marketing-to-consider/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649b0beb43ebc67f995d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Big Tech Has a Troubling Stranglehold on Artificial Intelligence"
     excerpt: "Altman’s admission underscores a troubling dynamic in the growing generative AI business, where the power of incumbent tech firms is becoming more entrenched thanks to the value and scale of their infrastructure. Rather than create a thriving market for innovative new companies, the boom appears to be helping Big Tech consolidate its power."
     publishedDateTime: 2023-06-30T04:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://japantoday.com/category/features/opinions/will-ai-really-d
 webUrl: "https://japantoday.com/category/features/opinions/will-ai-really-destroy-humanity1"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Will AI really destroy humanity?"
-    excerpt: "Artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity? PAPE"
-    publishedDateTime: 2023-06-27T17:48:00Z
-    webUrl: "https://www.channelnewsasia.com/world/will-ai-really-destroy-humanity-3589001"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--rufyPV2I--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/a89bb75455985ebfe4237db09c27f3b5374ac12a.jpg?itok=EtV4Jhu7"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Will artificial intelligence really destroy humanity?"
     excerpt: "With the media, in particular, questioning the potential threat posed by AI, here’s a look at posited disaster scenarios, and why they could or couldn’t happen."
     publishedDateTime: 2023-07-01T04:31:00Z

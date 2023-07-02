@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/ai-model-startup-reka-rai
 webUrl: "https://www.channelnewsasia.com/business/ai-model-startup-reka-raises-us50-million-led-dst-global-partners-3590381"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,56 +22,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "Former DeepMind researchers founded AI startup Reka raises $50 mn"
-    excerpt: "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,"
-    publishedDateTime: 2023-06-27T17:24:00Z
-    webUrl: "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 74
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Google DeepMind calls for 'responsible' approach to AI amid 'eureka moment'"
-    excerpt: "The explosion of interest around AI has come from recent advances in the technology that have allowed people to use it with conversational language, rather than the programmers who predominantly dabbled with it before,"
-    publishedDateTime: 2023-06-29T19:32:00Z
-    webUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment"
-    ampWebUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/"
-    cdnAmpWebUrl: "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/"
-    type: article
-    provider:
-      name: The StarPhoenix
-      domain: thestarphoenix.com
-    quality: 72
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/06/chy143-the-canadian-press.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "AI startup Reka, with no revenue yet, raises $50 million: Report"
-    excerpt: "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,"
-    publishedDateTime: 2023-06-27T17:24:00Z
-    webUrl: "https://inshorts.com/en/news/ai-startup-reka-with-no-revenue-yet-raises-$50-million-report-1687886710404"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-reka-with-no-revenue-yet-raises-$50-million-report-1687886710404"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-reka-with-no-revenue-yet-raises-$50-million-report-1687886710404"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "tn+UifK8L1gwbqpxRbU6EcFGEZyohDN/5z0lmSHPDL6ULnYzx4OC4ovwPrJCn5R2EEqQd/WcBqzh5C5nAFe16rkA2LVj7tEZpdhVn7PX3KYTEt6QI2xUF+NE7aIYuv756qJe45bn7euoEm2Em5oG+dN30dN7O6p/REeSsI7UukVautLk8F7oR+uMtaQFgrrNNARA7ZiromuptG4p3eBrXD7Y61Dwx1eM+sIZFLd+uPhenXwe4SXwUyf+Rr+E/kT80IHgmm9TdHxVo2NTAMEv7MaEnPs3V8vEAP6z3j9hGUV7oNVZYBO+k91GMQUpL9CR7LhZNLyg6crwHkBrQE+e4PwXDOrEZBb9j1FrFNj2Cq1qifhx/EYrmWkmxiWo/P3FPJs4FIBIXK0LvfedGtLCMM2ZIKdWzJe1O+MwEsBW18xpN2hrYeQuPJveibJbv030ukjBlENYSpyZLvPUmXgYB69oCaB4tpuGNT3/J1zs6wnIDBFER0Sh+A/frOgkr+weiisSUjLtvfR36YKwf1MtTg==;tgRW5INSFcuxUC2XGS8y8w=="
 ---

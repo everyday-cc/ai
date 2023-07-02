@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2023/06/29/this-transformer-like-robot-ca
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Singularity Hub
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "New bioinspired robot flies, rolls, walks, and more"
-    excerpt: "A newly created real-life Transformer is capable of reconfiguring its body to achieve eight distinct types of motion and can autonomously assess the environment it faces to choose the most effective combination of motions to maneuver."
-    publishedDateTime: 2023-06-27T17:10:00Z
-    webUrl: "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-bioinspired-robot-flies.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-bioinspired-robot-flies.amp"
+  - title: "Caltech Team Builds Transforming Robot That Can Roll, Walk, and Fly"
+    excerpt: "Most robots have one means of locomotion—they might roll, fly, walk, or even swim. Rarely do they do more than one, though. Engineers at Caltech's Center for Autonomous Systems and Technologies (CAST) have built a robot that does (almost) everything."
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://www.extremetech.com/science/caltech-team-builds-transforming-robot-that-can-roll-walk-and-fly"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-bioinspired-robot.jpg"
-        width: 1600
-        height: 811
-        isCached: true
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Transformer inspired robot can walk, fly and tumble"
     excerpt: "Autonomously selecting from eight distinct types of motion, the Multi-Modal Mobility Morphobot (M4) can reportedly roll on four wheels, transform its wheels into rotors and fly, stand on two wheels to peer over large objects, use its wheels like feet to walk, use two rotors to help it roll up steep slopes, tumble and more."
     publishedDateTime: 2023-06-30T21:12:00Z

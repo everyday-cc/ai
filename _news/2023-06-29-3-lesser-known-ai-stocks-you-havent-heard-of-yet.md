@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-lesser-known-ai-
 webUrl: "https://markets.businessinsider.com/news/stocks/3-lesser-known-ai-stocks-you-havent-heard-of-yet-1032418209"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,29 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Is Unlocking Major Wealth Potential for Robotics Stocks"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Looking for the best AI stocks to buy to potentially make a small fortune over"
-    publishedDateTime: 2023-06-27T18:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-unlocking-major-wealth-potential-for-robotics-stocks-1032413268"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-  - title: "AI Offers an Epic Make-or-Break Moment for Investors"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “AI Offers an Epic Make-or-Break Moment for"
-    publishedDateTime: 2023-07-01T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/01/global-data-creation.png"
-        width: 847
-        height: 603
-        isCached: true
   - title: "Unlock the AI Boom with These 3 Top Stocks"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is no longer just a buzzword. The revolutionary"
     publishedDateTime: 2023-06-29T20:32:00Z
@@ -64,6 +41,38 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Don’t Let AI Steal Your Company’s Data"
+    excerpt: "Businesses can make the best use of it by bringing it in house."
+    publishedDateTime: 2023-06-28T17:33:00Z
+    webUrl: "https://www.wsj.com/articles/dont-let-ai-steal-your-data-private-algorithm-sensitive-tasks-companies-8948a392"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "AI Bubble, Fed Hike Fears Have Investors Fleeing Growth Stocks"
+    excerpt: "An artificial-intelligence frenzy has the US stock market captivated, powering the Nasdaq 100 Index to its best first half to a year ever. But with each tick higher traders are becoming increasingly skittish about soaring growth stocks."
+    publishedDateTime: 2023-06-30T11:37:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-30/ai-bubble-fed-hike-fears-have-investors-fleeing-growth-stocks"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "6 Ways You Didn’t Know AI Can Help With Your Side Gig"
+    excerpt: "As AI is gaining more popularity in the world of work, more people are concerned over the possibility of losing their jobs. The truth is that you can use AI to aid with side gigs. You can use AI"
+    publishedDateTime: 2023-06-29T19:01:00Z
+    webUrl: "https://www.aol.com/6-ways-didn-t-know-190004758.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/HTRB65PBcZTgoXWrYFVJlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/830fa60e94844d97ed0eeb4ac34f6f41"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "IVTFnNMvPBMjKmfw/aWmSqkuYWZLqT5PYB+DfrriwG6tkAxXPxn+cUNMtj4flJvIkUqVTsPcWHg3P+iBKGvnTPzlCHtRhXpmOYPS2hXe7ID+dO2jN766D4rUD5ZNGZdwpsgj1UL94KAtUQ6OfQUkNmgFYFsECKoRpQPhC/mBP38MkHkpb44IrjyxF24UMr1KKW86vvfKIGw/o7zTgaihLiHWF0Yg8ezZkATwsmBHxYw8rBJ1FVDkSTxYtuMz+3g11qZNl/B4gqBiWOGnHRS/+/nLOq/QUvtivA8fr624Dk1+J9x973CADCinEhegGxq3u3aWmQ+OwhkY0tihpKNcxPBcstkoA3+yVY/JZFAHvXA=;wdnpkTuZa51lUR52xUN45g=="
 ---

@@ -35,22 +35,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI and the future of work: A collaboration of humans and machines"
-    excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
-    publishedDateTime: 2023-07-02T04:27:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design2.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "o3E/Beb7qS5I/YRvpEj5fQvG/e9L23bUvT1UfqW+F/ic99SjaTFCHyPYF8dkPACHXqFwTRXIBdEFEV/Tp3AeDs1TLfU/datssMDmD5BoH4OP+3cI2JtShgiirdbmJr+wZ6MTo4UxzApu/Eglb0Cr1inyW4IglW0KmobvlogTU73nbKRjjiHeAChw85v9HWhg4Nge9v8kqIzpAdP+ZUK9b89WyvEYrHr1oecnBhgBBsnDX1K0RcJkafQqPrkmu3k45W4iYFNzevPDx/TKtJJHMIWgxx0ts0N9IDR4Ex2pXWUrXc8uqjHC2FmXwuYapxRrqud79SNyYqKZSeFFVSCB4BEHYli27VooytcfDMrw7uIJPFpPKm3isYzbnOTk6zLCiNYv5rhG8+ndBiPuxBIDUkWA+aAvscUW25L6UpHH56MsF4DEVsCbOBT4rEZzFOctoqjaLkT0ioBDyiClzuFQ8KJa1dcUOsDmPEcUy8k+jPU0L7RpcqEmblLId9TJ3zjoT3Zzm+wa0jvT+cYVX77rOQ==;1bPt1h2wQ7nJhYTZ9swcXw=="
 ---

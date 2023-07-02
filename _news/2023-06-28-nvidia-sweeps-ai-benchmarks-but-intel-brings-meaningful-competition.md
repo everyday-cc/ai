@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-sweeps-ai-benchmarks
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Partnering With Nvidia, Snowflake Aims At $100 Billion + Generative AI Market"
-    excerpt: "Can Snowflake grow faster? Based on new products and a partnership to help companies benefit from large language models (LLMs), Snowflake has the potential to restore its rapid growth by gaining share in a generative AI market worth “hundreds of billions of dollars,” according to a Snowflake spokesperson."
-    publishedDateTime: 2023-06-27T18:07:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/27/partnering-with-nvidia-snowflake-aims-at-100-billion--generative-ai-market/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
 
 secured: "zF8/a/HnXYbJOTczCLeuxZR+PpHrxNBgpN8648aCDnzrt2fF9FtqCrFpMiDtnkC9ot/iCGeYv8446i66ykCBdrUEH24kBUjL3lXh5xxum3DeONwiS1x6o6jr4vtK5pYqodgtjfTOYUuBziJ/hgUE+nf69DS/jj7tZ4trE0ezMgY19xxnz7wEmj751a+K6cQK8JpO805PfHaFbCOoT3wmMPxN3kv9Gqymrj1eLZg97oV0qoUsWHGsIBxkvaCMlDI2zYga00djWAPWjCnp1tijq3oWtKPhl4+G6OTTtEhldMwVgW6hThs0GrVNZzpgCXt3M2oM9M9SCBkB9VXImnrcM7GcN675eqSxuPTOZNPgTQcBsy8ypQ785KfErSd7XPTrLrDszpGHX+GhoU0QS4jcQ9zNCZkaWUPR8YrfDky6RObdgNHNL0LIx8q5/YaNxZrU/TA+FDWNcEEpb/8gL53rkPlS2hXAdqhdB/+pCFJ26CMJOgs6JOAYELvQ1YgzOa+xjZ4PmUcOmzZiCsje6tEZvA==;lpKuMzfjnQqnhDuZk+Pv+w=="
 ---

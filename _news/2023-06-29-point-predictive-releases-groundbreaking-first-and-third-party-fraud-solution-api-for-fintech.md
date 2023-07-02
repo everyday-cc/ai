@@ -194,15 +194,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "‘Push-button scale’ a boon for fintech in the data transformation age"
-    excerpt: "One of those disruptors is Current, the U.S.-based fintech that has leaned on the flexibility, speed and scalability of MongoDB Inc.’s Atlas to deliver outcomes and grow at a consistent, sustainable pace."
-    publishedDateTime: 2023-06-27T18:04:00Z
-    webUrl: "https://siliconangle.com/2023/06/27/push-button-scale-a-boon-for-fintech-in-the-data-transformation-age-mongodbnyc/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 4
 
 secured: "vqDGZJJbKTR6lezS4ZxxE1uxjff9+8WbS2QCLkSlIh+x5QbvDb1NQOS8tZnWV+ZBMNqd5IwMTHTvJjQRz1CPeaL5hhU/EhGStN1MkKH02/RD/IjGB/geqa3stwYVx4F+zwyPE70U0xumJmC2vUyHg4ORPqKJcje/AdMj+vmUW0Kw23/ik1IY6pAaoUN99IBaeYun9/4b/RfsrqgEfz2lFFXgXSoGwsEBRTzpYbMrbF1xLJ4S2Mt7fGnb8gQHcxQU2o5E4USL1T6cieRXke+23StsCvTNDutIu5Uxpo9lR4aDlITVc7c+6ywwvTg2Lng8UPSgs0ARP7+bUkOjj2GLrf1uWoZzsMuvoC8yk5z2TX8=;Ya56dEyzi7bP9Jf5WtAXbw=="
 ---

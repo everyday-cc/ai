@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
+    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
+    publishedDateTime: 2023-07-02T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 67
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
+        width: 1706
+        height: 2560
+        isCached: true
+  - title: "AI and the future of work: A collaboration of humans and machines"
+    excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
+    publishedDateTime: 2023-07-02T04:27:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design2.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence to reshape deep science learning"
     excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business – with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
     publishedDateTime: 2023-06-29T21:29:00Z
@@ -41,6 +73,38 @@ related:
         width: 6720
         height: 3384
         isCached: true
+  - title: "How machine learning development companies are redefining the business landscape"
+    excerpt: "Machine learning companies are driving tech innovation, empowering businesses in the digital era with cutting-edge solutions and expertise."
+    publishedDateTime: 2023-06-27T20:35:00Z
+    webUrl: "https://knowtechie.com/how-machine-learning-development-companies-are-redefining-the-business-landscape/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 34
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2023/06/Machine-learning-feature-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Machine Learning is Revolutionizing Quantitative Trading"
+    excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."
+    publishedDateTime: 2023-06-30T16:34:00Z
+    webUrl: "https://www.bbntimes.com/financial/machine-learning-is-revolutionizing-quantitative-trading"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 19
+  - title: "Deep Learning in the Fine Arts: Expanding Creativity and Expression"
+    excerpt: "By merging the realms of technology and artistic creativity, deep learning is redefining traditional art forms and inspiring new avenues for artistic expression."
+    publishedDateTime: 2023-06-30T19:41:00Z
+    webUrl: "https://www.bbntimes.com/global-economy/deep-learning-in-the-fine-arts-expanding-creativity-and-expression"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 19
 
 secured: "ssoAoHusMshXtmmZVb1tBohJJTDxkM24J2FytfG59ndWb5eQa4SGABdsbHXSvFkSLQd/4n5g/o22nCDTaSMW7ku5RSuE+0cfossG57oai4I7RaazuDvlhY1I7ZW/hypdVlqCFAgmIrtAE1qRjIsNJWQnFKN01EKNmiBTlxOiCGGoN7045I/TC3OFrsjq1C1XVUOPi9ce3qOyu2IqpOfi19BRHph1OgFbz+K7jDRsX9u3XyvdMOleZl+HqybBDfUCjcdQ+1qYU2BP4L+tC4s2BxMw5PKxKspcUncON838w/3mM4SgyMsFuiYNAsE+O/eT4Vgnku7MgpaLuuFFhk7ZIOjw0VJvIKvG9hkA/qQTLj7NKUo0tL9lHn10Fj/Ufb7xbunz/nLKEDGLEFiHi0jvYFjAz5gHy5ZhMfh/kFkYnQTh0rJcCOqpetGRymzTS1I8qLm/utk/R0IgrmVhcP13RVTVPD/vjZK4GlIGB8bZuf96/7XeF7ZV3JBwkfI3rzZ0pRdYm/xwg3GaiJiaoNGsHQ==;f+isXzW9bxc48uOBDHzpnw=="
 ---

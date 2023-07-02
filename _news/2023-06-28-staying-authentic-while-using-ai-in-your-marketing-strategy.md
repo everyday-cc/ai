@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649b09c9b461677db75d4179/0x0.jpg?format=jpg&crop=1981,1778,x231,y0,safe&width=1200"
         width: 1200
         height: 1077
-        isCached: true
-  - title: "17 Important Things For Agencies Using AI In Marketing To Consider"
-    excerpt: "Balancing caution and innovation is going to be a challenge for many agencies and in-house marketers seeking to leverage AI in their operations this year."
-    publishedDateTime: 2023-06-27T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/17-important-things-for-agencies-using-ai-in-marketing-to-consider/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649b0beb43ebc67f995d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Transforming Generative AI Into Domain-Savviness Via In-Context Learning And A Dash Of Data Engineering Seems Promising, Says AI Ethics And AI Law"
     excerpt: "Latest efforts to imbue generative AI with domain expertise makes use of data engineering and in-context model learning. This close look explores how this works."

@@ -24,6 +24,22 @@ topics:
   - AI Ethics
 
 related:
+  - title: "Google DeepMind is developing a better AI than ChatGPT"
+    excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
+    publishedDateTime: 2023-06-29T13:36:00Z
+    webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
+    ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 74
+    images:
+      - url: "https://technology.inquirer.net/files/2023/06/google-ai-projects-620x382.png"
+        width: 620
+        height: 382
+        isCached: true
   - title: "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT."
     excerpt: "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ..."
     publishedDateTime: 2023-06-29T16:27:00Z
@@ -40,6 +56,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google says its secret AI weapon could eventually outsmart ChatGPT"
+    excerpt: "The AI is deep in development at the moment – “a process that will take a number of months”, according to Hassabis. It will also cost Google a ton of money as the project pr"
+    publishedDateTime: 2023-06-28T05:00:00Z
+    webUrl: "https://www.techradar.com/computing/artificial-intelligence/google-says-its-secret-ai-weapon-could-eventually-outsmart-chatgpt"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/j2dgg7wUnxEbnBRwTJVzgg-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "EU AI-rule proposal could clip ChatGPT's wings, but likely won't"
     excerpt: "Though the EU's heavy-handed approach to tech regulation looks likely to continue with the AI Act, we still see room for a middle ground on restrictions on generative AI like ChatGPT."
     publishedDateTime: 2023-06-27T20:01:00Z
@@ -54,36 +84,80 @@ related:
         width: 684
         height: 523
         isCached: true
-  - title: "These two AI models claim to be better than ChatGPT. Here's what we know"
-    excerpt: "ChatGPT was the first AI chatbot to gain massive popularity, setting the standard for all future competitors and making it the one to beat. Now, two new chatbots claim to be better than ChatGPT, and one hasn't even been released yet."
-    publishedDateTime: 2023-06-27T18:01:00Z
-    webUrl: "https://www.zdnet.com/article/these-two-ai-chatbots-claim-to-be-better-than-chatgpt-heres-what-they-are/"
+  - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says Google CEO"
+    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
+    publishedDateTime: 2023-06-28T06:01:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-google-ceo-10870641.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-google-ceo-10870641.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-google-ceo-10870641.html/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 46
-  - title: "BEST Inc. enhances AI capabilities by integrating ChatGPT into Qianyi ERP software"
-    excerpt: "BEST Inc. announced today that it has integrated the natural language processing tool ChatGPT into its Qianyi ERP software, allowing cross-border sellers to generate multi-language product titles and descriptions using AI."
-    publishedDateTime: 2023-06-28T09:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/best-inc-enhances-ai-capabilities-by-integrating-chatgpt-into-qianyi-erp-software-1032414274"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-  - title: "Viewpoint: Why healthcare providers shouldn't ban ChatGPT"
-    excerpt: "Rather than banning ChatGPT, healthcare providers should make their employees aware of how to use it with patient privacy in mind."
-    publishedDateTime: 2023-06-30T16:53:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/viewpoint-why-healthcare-providers-shouldnt-ban-chatgpt.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
+    excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
+    publishedDateTime: 2023-06-29T22:22:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/openai-chatgpt-generative-ai-lawsuit-rcna91892"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says CEO Demis Hassabis"
+    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
+    publishedDateTime: 2023-06-28T06:01:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-ceo-demis-hassabis-10870641.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-ceo-demis-hassabis-10870641.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-ceo-demis-hassabis-10870641.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 55
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI recap this month: Drone 'kills' operator; DeepMind's speed up"
+    excerpt: "Research into AI is experiencing a boom, so we have rounded up the best of news from the past month to help you keep up to date"
+    publishedDateTime: 2023-06-29T09:32:00Z
+    webUrl: "https://www.newscientist.com/article/2379559-ai-recap-this-month-drone-kills-operator-deepminds-speed-up/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27154959/SEI_161948063.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
+    excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."
+    publishedDateTime: 2023-06-30T15:09:00Z
+    webUrl: "https://www.canadianmanufacturing.com/Y0iqA"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 54
+    images:
+      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
+        width: 300
         height: 600
         isCached: true
   - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
@@ -100,33 +174,52 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "ChatGPT has healthcare potential but needs guardrails, surgeon says"
-    excerpt: "Alan Reznik, MD, an orthopedic surgeon at Connecticut Orthopaedics in Hamden, connected with Becker's to discuss how ChatGPT and other artificial intelligence programs will evolve in healthcare. Editor's note: Responses have been lightly edited for clarity and length."
-    publishedDateTime: 2023-06-30T15:51:00Z
-    webUrl: "https://www.beckersspine.com/orthopedic/57251-chatgpt-has-healthcare-potential-but-needs-guardrails-surgeon-says.html"
+  - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
+    excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
+    publishedDateTime: 2023-06-30T21:02:00Z
+    webUrl: "https://bgr.com/tech/heres-why-google-thinks-its-gemini-ai-will-surpass-chatgpt/"
     type: article
     provider:
-      name: Becker's Spine Review
-      domain: beckersspine.com
-    quality: 34
-  - title: "Uncensored Chatbots Provoke a Fracas Over Free Speech"
-    excerpt: "A new generation of chatbots doesn’t have many of the guardrails put in place by companies like Google and OpenAI, presenting new possibilities — and risks."
-    publishedDateTime: 2023-07-02T09:01:00Z
-    webUrl: "https://www.nytimes.com/2023/07/02/technology/ai-chatbots-misinformation-free-speech.html"
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Gemini.jpg?quality=82&strip=all"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI Powerhouses Clash: DeepMind Unleashes Gemini, a Chatbot to Rival ChatGPT, as Industry Gold Rush Heats Up"
+    excerpt: "By applying reinforcement learning and drawing on their expertise in building complex systems like AlphaGo, the DeepMind team aims to develop a chatbot capable of not only understanding and generating human-like text but also planning and solving problems effectively."
+    publishedDateTime: 2023-06-28T17:32:00Z
+    webUrl: "https://techstory.in/ai-powerhouses-clash-deepmind-unleashes-gemini-a-chatbot-to-rival-chatgpt-as-industry-gold-rush-heats-up/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 34
-  - title: "Complex AI Prompting: 'Putting the Prompt Last Helps the LLM to Stay on Task'"
-    excerpt: "As AI takes hold in the enterprise, Microsoft is educating developers with guidance for more complex use cases in order to get the best out of advanced, generative machine language models like those that power ChatGPT and the company's Copilot assistants that are popping up all over."
-    publishedDateTime: 2023-06-27T19:50:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/06/27/complex-prompting.aspx"
+      name: tech
+      domain: techstory.in
+    quality: 36
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/Bing-ChatGPT.jpg"
+        width: 850
+        height: 425
+        isCached: true
+  - title: "Another AI sorcery in the making: Gemini by Google DeepMind to rival ChatGPT"
+    excerpt: "Demis Hassabis, Google DeepMind’s co-founder and CEO, announces that his team is working on a new AI system, called Gemini and aimed at getting the best of ChatGPT."
+    publishedDateTime: 2023-06-28T12:58:00Z
+    webUrl: "https://www.phonearena.com/news/gemini-by-google-deepmind-to-rival-chatgpt_id148484"
     type: article
     provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 18
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 31
+  - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
+    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
+    publishedDateTime: 2023-06-28T13:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-ai-leads-industry-gold-rush-deepmind-is-building-chatbot-to-rival-chatgpt-and-more-10874201.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 21
 
 secured: "Lb43meU0jV49DoYxm7eFmv0ASmHQMYRH4nbmKUgpv0S0kgwHu2Fmng6I9nnqdwHvFfZ+mAZUZnhF4rXVBA2CtTnPXkLHPg9//f9XB7llEoGY53NaICH+aZZbGrg9pZm3nd0EX7w8OqNccuhSrUGBYInY7Sx2pGyNOzIHEGZydlPAUxHgpB7PfT7jRXaTOhmKpGVIc2iTIFtxrlTVQhhGTEL9y3BU8VNEA+Nb9j4ZAFIDy605SXsYrcmKX4SpGvhk5SsUuefO+Efd0sF2LkM94nrzq+T9GRnVG6wWDuFn4Ypdb0Wyu6bPTvbaPUG6HODGEMXAJFenJf8lWvA12itbWiWS66rjFiOeqRO4pUTwU56RWqw98rmicIAIyBfTmyxnZq3aq6DLutDs3nDKPwntwwgxiHYrJKZPAV7gmknT/XhzxFTHvCOZ8QT7uYGeWgHYxVuytNQ/ZUDnZAdEbfKSUcG2wYi3ZG/8hWv7k1MOFeZiuLpGH7dJpiLbhBdB55VXcaQnwlHsFRERN0xEbt92wA==;T8ZJYlEOp/fWXRtcfiIIfQ=="
 ---

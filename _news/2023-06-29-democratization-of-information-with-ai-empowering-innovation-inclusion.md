@@ -171,20 +171,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Booming Venture Capital Investment in Generative AI: Considerations for Investors and Companies"
-    excerpt: "Accordingly, investors need to weigh these signals against the general consensus that generative AI has a staggering potential as a disruptive technology, leading to big winners and above average multiples. U.S. chip maker Nvidia and other large technology ..."
-    publishedDateTime: 2023-06-27T17:57:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/booming-venture-capital-investment-in-1740966/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14667_957.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "infinitii ai announces $1.5 million five-year contract for its new generation of Machine Learning technology"
     excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\" or the \"Company\") (CSE: IAI) (FSE:7C5) (OTC: CDTAF), a leader in AI-driven predictive analytics software for"
     publishedDateTime: 2023-06-28T13:56:00Z

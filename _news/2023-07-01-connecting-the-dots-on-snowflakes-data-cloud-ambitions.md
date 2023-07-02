@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/06/30/connecting-dots-snowflakes-dat
 webUrl: "https://siliconangle.com/2023/06/30/connecting-dots-snowflakes-data-cloud-ambitions/"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kumo empowers deep learning in Snowflake Data Cloud through Snowpark Container Services"
-    excerpt: "The new integration will run Kumo AI services directly on the Snowflake Data Cloud through Snowpark Container Services."
-    publishedDateTime: 2023-06-27T19:00:00Z
-    webUrl: "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 56
   - title: "Kumo Runs Deep Learning Securely in the Snowflake Data Cloud with New Snowpark Container Services"
     excerpt: "Kumo, a leading deep learning platform for relational data, today announced at Snowflake's annual user conference, Snowflake Summit 2023, that it can now run deep learning directly in the Data Cloud with Snowpark Container Services (private preview)."
     publishedDateTime: 2023-06-27T20:32:00Z
@@ -44,15 +35,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 21
-  - title: "Weights & Biases Accelerates Deep Learning, Large Language Models (LLMs), and Generative AI Securely in the Snowflake Data Cloud with New Snowpark Container Services"
-    excerpt: "Weights & Biases announced that it can now run the W&B Dedicated Cloud securely in the Snowflake Data Cloud with Snowpark Container Services."
-    publishedDateTime: 2023-06-27T19:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230627337396/en/Weights-Biases-Accelerates-Deep-Learning-Large-Language-Models-LLMs-and-Generative-AI-Securely-in-the-Snowflake-Data-Cloud-with-New-Snowpark-Container-Services"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "vSiG8U0GPbdxegYcujSBeghGBh+WVBB5vJYNXYrO3JuskunZKVw6B5hbJ2gob69YR28purUbgdam+AAcAmltQy3kV9UcpuNqpuhCLrkP+KkT+Fa5hrtuim/Wheucpj9K5m7Eu0TRRvvF1DLzwhTa1LLdrhUbdqIj2Nvc35VmVmbqtgZT/9ogEgCv2/mzcNC1ZxNEg8QZNaSvZNjneVEERL8aG6c3q7T4JhZVgg2b8YcoYVjLrrsJuR/CfSOGNeBQDK2d1ft88h8GMpgGlLuxFNAlKr4iflPQG/DM431qbrhl3pGoeDXiJfrAhHdbwn44YhXHl9PYQAYWbGbOmjJB3sCnRDzunjs3ugXtuyF1gofho14CRAessfZ4ov0t36Oomi+JP3FeyEnydkDJYKorAiXuOnarpzQjIuugETf2GVyA0hYbKkRO3fjobWtfzUsg/KJf4xJBgGQj8hA45VFXbzlqyf7xDOQWQVnMCtmnygP3Fkdb1R4iuVBdXA8Zu6aUEpofA9AICFpkflSuRpkhFQ==;BLU/7bBkLQdlmhC4iztm+Q=="
 ---

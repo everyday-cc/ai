@@ -64,15 +64,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 26
-  - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
-    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with Microsoft Azure OpenAI Service to extend Indico's Enterprise Large Language Model (LLM) capabilities using the latest in generative artificial intelligence (AI)."
-    publishedDateTime: 2023-06-27T18:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/27/9839505.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
   - title: "NHS England to roll out Microsoft 365 productivity tools for more efficient healthcare services"
     excerpt: "Healthcare provider NHS England will equip 1.5 million members of its workforce with Microsoft 365 productivity tools to enhance care and maximise time for care as part of a new five-year agreement with Microsoft."
     publishedDateTime: 2023-06-30T13:13:00Z

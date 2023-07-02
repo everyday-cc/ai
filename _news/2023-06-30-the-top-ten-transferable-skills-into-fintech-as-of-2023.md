@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
 type: article
 quality: 74
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -190,15 +190,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "‘Push-button scale’ a boon for fintech in the data transformation age"
-    excerpt: "One of those disruptors is Current, the U.S.-based fintech that has leaned on the flexibility, speed and scalability of MongoDB Inc.’s Atlas to deliver outcomes and grow at a consistent, sustainable pace."
-    publishedDateTime: 2023-06-27T18:04:00Z
-    webUrl: "https://siliconangle.com/2023/06/27/push-button-scale-a-boon-for-fintech-in-the-data-transformation-age-mongodbnyc/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 4
   - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
     excerpt: "The API enables Fintech and lenders to access unique proprietary data and AI, machine learning scoring for accurate and speedy assessments of borrower first- and third-party risk."
     publishedDateTime: 2023-06-28T20:48:00Z
