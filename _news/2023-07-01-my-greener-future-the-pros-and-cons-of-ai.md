@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS"
-    excerpt: "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g"
-    publishedDateTime: 2023-06-27T23:23:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 61
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif"
-        width: 800
-        height: 600
-        isCached: true
   - title: "The future? Artificial Intelligence and safety"
     excerpt: "Is safety a good fit for AI? Graham Sharp at Stanley thinks so. Here he shares how the technology is changing the landscape."
     publishedDateTime: 2023-06-29T05:45:00Z

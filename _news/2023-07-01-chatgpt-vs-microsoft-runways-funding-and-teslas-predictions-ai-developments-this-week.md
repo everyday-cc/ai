@@ -395,15 +395,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Azure: Our AI Platform – Stories – Microsoft"
-    excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
-    publishedDateTime: 2023-06-28T00:30:00Z
-    webUrl: "https://www.inferse.com/571220/azure-our-ai-platform-stories-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 49
   - title: "Microsoft’s Cloud Server Business in 2022 Was Less Than Half of AWS, New Document Reveals"
     excerpt: "For years Microsoft has kept a lid on details about the true size of its Azure cloud server rental business, making it impossible for investors to know how Microsoft’s cloud operations unit stacked up against industry leader Amazon Web Services."
     publishedDateTime: 2023-06-29T20:36:00Z

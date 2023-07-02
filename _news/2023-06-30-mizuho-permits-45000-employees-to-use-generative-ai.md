@@ -245,6 +245,20 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "Snowflake and NVIDIA Team on Generative AI in the Cloud"
+    excerpt: "Data cloud company Snowflake and NVIDIA have announced at Snowflake Summit 2023 that they are partnering to provide businesses an accelerated path to create customized generative AI applications using their own proprietary data,"
+    publishedDateTime: 2023-06-28T14:24:00Z
+    webUrl: "https://insidehpc.com/2023/06/snowflake-and-nvidia-team-on-generative-ai-in-the-cloud/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/06/PNY_NVIDIA_Infiniband_whitepaper.png"
+        width: 300
+        height: 387
+        isCached: true
   - title: "Study reveals generative artificial intelligence impact on job roles"
     excerpt: "A groundbreaking study on the impact of generative artificial intelligence (GenAI) on job roles – reveals skills gap and more"
     publishedDateTime: 2023-06-28T11:46:00Z

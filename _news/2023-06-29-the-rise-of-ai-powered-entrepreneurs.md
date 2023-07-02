@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-ri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The True Threat of Artificial Intelligence"
+    excerpt: "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions."
+    publishedDateTime: 2023-06-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 73
+    images:
+      - url: "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The Huge Power and Potential Danger of AI-Generated Code"
     excerpt: "Programming can be faster when algorithms help out, but there is evidence AI coding assistants also make bugs more common."
     publishedDateTime: 2023-06-29T16:00:00Z

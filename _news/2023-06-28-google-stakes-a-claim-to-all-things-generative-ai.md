@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
 type: article
 quality: 91
-heat: 291
+heat: 301
 published: true
 
 provider:
@@ -235,6 +235,20 @@ related:
       - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
         width: 800
         height: 480
+        isCached: true
+  - title: "Snowflake and NVIDIA Team on Generative AI in the Cloud"
+    excerpt: "Data cloud company Snowflake and NVIDIA have announced at Snowflake Summit 2023 that they are partnering to provide businesses an accelerated path to create customized generative AI applications using their own proprietary data,"
+    publishedDateTime: 2023-06-28T14:24:00Z
+    webUrl: "https://insidehpc.com/2023/06/snowflake-and-nvidia-team-on-generative-ai-in-the-cloud/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/06/PNY_NVIDIA_Infiniband_whitepaper.png"
+        width: 300
+        height: 387
         isCached: true
   - title: "Mizuho permits 45,000 employees to use generative AI"
     excerpt: "Some 45,000 employees of banking holding firm Mizuho Financial Group, Inc will be allowed access to generative artificial intelligence (AI) this week, according to reports."

@@ -31,52 +31,54 @@ images:
     isCached: true
 
 related:
-  - title: "When The AI Is More Compassionate Than The Doctor"
-    excerpt: "More physicians are using AI to help in the more “human” aspects of medical care, including communicating with empathy and compassion."
-    publishedDateTime: 2023-06-27T23:44:00Z
-    webUrl: "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/"
-    ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/"
+  - title: "The Rise Of AI-Powered Entrepreneurs"
+    excerpt: "In a recent speech, Yuval Harari called AI a groundbreaking \"non-biological agent,\" but business leaders are still trying to grasp how Bard, ChatGPT and other generative AI agents will help or hinder their success and humanity at-large."
+    publishedDateTime: 2023-06-29T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649b7397aa671b8e72c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1273
-        height: 900
-        isCached: true
-  - title: "How AI is affecting the patent system"
-    excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
-    publishedDateTime: 2023-06-28T13:34:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/how-ai-is-affecting-patent-system-2023-06-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/6RDiNFJaoYEgBXrTGH2tOWz9eA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKGXR6M5CRGCPIHXVCJVHX2RFI.JPG"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649ae712978637ce3c8d315d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
-  - title: "High-resolution cameras with AI show cuttlefish camouflage is more complex than previously thought"
-    excerpt: "Cuttlefish, along with other cephalopods like octopus and squid, are masters of disguise, changing their skin color and texture to blend in with their underwater surroundings."
-    publishedDateTime: 2023-06-28T15:00:00Z
-    webUrl: "https://phys.org/news/2023-06-high-resolution-cameras-ai-cuttlefish-camouflage.html"
-    ampWebUrl: "https://phys.org/news/2023-06-high-resolution-cameras-ai-cuttlefish-camouflage.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-high-resolution-cameras-ai-cuttlefish-camouflage.amp"
+  - title: "The Huge Power and Potential Danger of AI-Generated Code"
+    excerpt: "Programming can be faster when algorithms help out, but there is evidence AI coding assistants also make bugs more common."
+    publishedDateTime: 2023-06-29T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 43
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/cuttlefish-camouflage.jpg"
-        width: 2637
-        height: 2416
+      - url: "https://media.wired.com/photos/649cd8329ec11a2433532c08/191:100/w_1280,c_limit/AI-Coding-Assistants-Fast-Forward-Business-932736250.jpg"
+        width: 1280
+        height: 670
         isCached: true
+  - title: "Trusting Social brings AI-powered agents to enterprises"
+    excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
+    publishedDateTime: 2023-06-30T11:59:00Z
+    webUrl: "https://vir.com.vn/trusting-social-brings-ai-powered-agents-to-enterprises-103145.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 19
+  - title: "This AI-powered glove could help stroke patients play the piano again"
+    excerpt: "A customizable smart glove powered by artificial intelligence shows promise as an easy-to-use, wearable tutoring aide for musicians recovering from strokes. According to a study published with Frontiers in Robotics and AI,"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.popsci.com/technology/stroke-piano-smart-glove/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "LxXC5rY629C3671QWav3BzuPOgCD9GAWk6PanCf1jTWPdalaZGXiQE03AZ09/z98KkSqpfYop9OBfMSB8H5qwnbs3HW+ZDMqbqMPfQLbYR4sWqXVywZCGm1I9ZO/Nyg6eDaQYYF8hRAijEh3dvboEsw0KuNxsJVHOZPpddRKBhrT079yHmLkipd1mDc4dDFBq5PP9P5HAZctOQHTE3RvDlN96cRwTrzzJG+na2fRl0TElNtWb9+jpu8T3d+bmVreDafbkyJ9SPo5cb52ioliKt8mBmerS4O+DN2PJB0vJmwxOgNDEBFzWoBhijmW6ZFd9/TmqGbFpsqHtpnB0d19j5AIipNlM6pnOj+XfBAN+PjPRueaCyF3Y3HzHvH7nEiivoGact+cG5YDTSvbfHdyOzlt1UhpS2zrNffW3BTN1USY/mVbL5JR9F+V/rZij5rD4Gv5Q4HSRaopyl2hGnAUkaXINdY8D6Qw8eEr0QegE3wID0xMLfsBOFjZdjVCkW3Spd2ucpksf4pkTG6s7uxvTw==;/7NdehtmyUCXA9p+XiTMCw=="
 ---

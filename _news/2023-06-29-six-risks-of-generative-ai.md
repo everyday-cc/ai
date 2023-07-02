@@ -235,6 +235,20 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "Snowflake and NVIDIA Team on Generative AI in the Cloud"
+    excerpt: "Data cloud company Snowflake and NVIDIA have announced at Snowflake Summit 2023 that they are partnering to provide businesses an accelerated path to create customized generative AI applications using their own proprietary data,"
+    publishedDateTime: 2023-06-28T14:24:00Z
+    webUrl: "https://insidehpc.com/2023/06/snowflake-and-nvidia-team-on-generative-ai-in-the-cloud/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/06/PNY_NVIDIA_Infiniband_whitepaper.png"
+        width: 300
+        height: 387
+        isCached: true
   - title: "Mizuho permits 45,000 employees to use generative AI"
     excerpt: "Some 45,000 employees of banking holding firm Mizuho Financial Group, Inc will be allowed access to generative artificial intelligence (AI) this week, according to reports."
     publishedDateTime: 2023-06-30T16:37:00Z

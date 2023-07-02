@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-vision-image-recognition-generat
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-vision-image-recognition-generation.amp"
 type: article
 quality: 59
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -49,29 +49,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 39
-  - title: "Vehicle color recognition based on smooth modulation neural network with multi-scale feature fusion"
-    excerpt: "Vehicle Color Recognition (VCR) is vital in intelligent traffic management and criminal investigation assistance. However, the existing vehicle color datasets only cover 13 classes, which can not meet the current actual demand."
-    publishedDateTime: 2023-06-28T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/993796"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 25
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/511d1540-9f78-4af4-8065-eda6c4d29a37/Rendition/low-res/Content/Public"
-        width: 700
-        height: 296
-        isCached: true
-  - title: "Hikvision DS-K1T321EWX face recognition terminal"
-    excerpt: "500 faces, 3,000 cards, and 150,000 events Face recognition duration ＜ 0.2 s/User Face recognition distance: 0.3 m to 1.5 m Supports ISAPI and ISUP 5.0 protocols Configuration via the PC web client and mobile web client Supports wired network and Wi-Fi ..."
-    publishedDateTime: 2023-06-27T23:54:00Z
-    webUrl: "https://www.sourcesecurity.com/hikvision-ds-k1t321ewx-access-control-reader-technical-details.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 19
 
 secured: "K7qiFdrQE97X9lAWnAhjP1Ll80DkGT22CnEkX+nKadX1WaKNlTbz1g4ZOZYelFTVdSDtrSAxGZoJfu3noIJo6YggmJn0MdunQcxzoYZwf2+kcsVZsyvvfpq54Jdtu/AmZSFCrpcW6TZywxpUuUX0BEDFxkl26Ai6+lCRSALUJB7M6O2OS5UcQPvTLxl4rrfEQPK5DJgrR4y/k2JrvQ18nC/cdPOlFY4Mucc+tALKerWk5fJZrl7cZL6Fxc5FLuKekz2k3UDbM4A9zORr34L7JDgyIeYXo2MRlfGK+tkK1T7gLYhhK8h6MmbbTq8oqO1bymWWhynGxuY2cRq9rGEUmtCyV0neJZ8gxMn42gvqClqXsPGRCb0VyUT2tQ+xCgWEXZuMIzFcGMyqZXW2IuJNJR3+YgJtMINJqCFKKAKz+c315IhRDBs4oTbiAvEhx4gOgU1OmpQgY/kPb53PBPHAW26kqN9w8Pgy0Kd1hn4JPBTYdXJfMFXtotwbN5nmow0fRZIsNnk5xeTFg6t/ZnDs0g==;VdcjVHT+DiBljn1FyQDhDA=="
 ---

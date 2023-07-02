@@ -48,29 +48,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 39
-  - title: "Vehicle color recognition based on smooth modulation neural network with multi-scale feature fusion"
-    excerpt: "Vehicle Color Recognition (VCR) is vital in intelligent traffic management and criminal investigation assistance. However, the existing vehicle color datasets only cover 13 classes, which can not meet the current actual demand."
-    publishedDateTime: 2023-06-28T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/993796"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 25
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/511d1540-9f78-4af4-8065-eda6c4d29a37/Rendition/low-res/Content/Public"
-        width: 700
-        height: 296
-        isCached: true
-  - title: "Hikvision DS-K1T321EWX face recognition terminal"
-    excerpt: "500 faces, 3,000 cards, and 150,000 events Face recognition duration ＜ 0.2 s/User Face recognition distance: 0.3 m to 1.5 m Supports ISAPI and ISUP 5.0 protocols Configuration via the PC web client and mobile web client Supports wired network and Wi-Fi ..."
-    publishedDateTime: 2023-06-27T23:54:00Z
-    webUrl: "https://www.sourcesecurity.com/hikvision-ds-k1t321ewx-access-control-reader-technical-details.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 19
 
 secured: "pLodi1mte2SsOXI7MfJOImdGcTIytcTUE4pPgQBwkUEkfIgyQloc5OSHASsGqb2ujI4u8kvRKHx+tZDYSsl8pv9unIv8PeSs4olqp8l95zkerS6E9drF/ux4OUOiWL2OwOCvFpp+EO8kA2qSGFcfOU7XVCWC6a+8Voi9rO6Q4Pf4WSBl0NmLVf9SkydO+Ynu6x0e3+WdoxnPrb12IeT6xneAQ8a5hV/UekXLeN1aDsXBGLEHGGM45OlUF50vFoVw751cnIz5XyaBDX/QMGDDST4y6obkp2N1SqoAR7JJZHD3lLfEl6gmr+w8diXkrm92R5C457j371Tcyax11s7HWhiTqb6we3eS4U944k2izDs=;Kk0Z/dJX22Yqi3x1Mhi7pA=="
 ---

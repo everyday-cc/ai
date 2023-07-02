@@ -7,7 +7,7 @@ originalUrl: "https://www.shponline.co.uk/technology-2/the-future-artificial-int
 webUrl: "https://www.shponline.co.uk/technology-2/the-future-artificial-intelligence-and-safety/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS"
-    excerpt: "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g"
-    publishedDateTime: 2023-06-27T23:23:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 61
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif"
-        width: 800
-        height: 600
-        isCached: true
   - title: "My Greener Future: The pros and cons of AI"
     excerpt: "President Franklin D. Roosevelt said at the beginning of World War II, “The only thing we have to fear is fear itself.” Well, he wasn’t facing the arrival of artificial intelligence. So, should we"
     publishedDateTime: 2023-07-01T11:46:00Z

@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How new AI tools like ChatGPT can transform human productivity in the enterprise"
+    excerpt: "With AI, businesses can automate repetitive tasks, use intelligent data analysis, augment productivity, enhance collaboration and more."
+    publishedDateTime: 2023-07-02T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-new-ai-tools-like-chatgpt-can-transform-human-productivity-in-the-enterprise/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_artificial_intelligence_enhancing_human_productivity._C_42ae2946-beae-44e1-b10f-949d52a27c98.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says Google CEO"
     excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
     publishedDateTime: 2023-06-28T06:01:00Z

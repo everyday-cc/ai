@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "UCLA geologists are using artificial intelligence to predict landslides"
-    excerpt: "Many factors influence where a landslide will occur, including the shape of the terrain, its slope and drainage areas, the material properties of soil and bedrock, and environmental conditions like climate,"
-    publishedDateTime: 2023-06-28T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/994057"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
   - title: "How actors are losing their voices to AI"
     excerpt: "Performers forced to compete with themselves as companies’ use of technology for cloning prompts calls to update copyright law"
     publishedDateTime: 2023-07-01T13:00:00Z

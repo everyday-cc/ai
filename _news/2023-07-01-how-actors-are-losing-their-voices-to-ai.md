@@ -36,15 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "UCLA geologists are using artificial intelligence to predict landslides"
-    excerpt: "Many factors influence where a landslide will occur, including the shape of the terrain, its slope and drainage areas, the material properties of soil and bedrock, and environmental conditions like climate,"
-    publishedDateTime: 2023-06-28T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/994057"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "53YN5PXDNKt5T3GS1kvSoktLlZ8iLDJRHuUg4xV4csl+4PBZSx0dKM6RwU/hJmAh+w/8FFsGNEaiCCAWSfQ6xt+loI4Rxmif5K92mSheaApPw9ms+vgm/Oh35HAlFxg8QmWIx6M462mnRXALVAzw37N7I9mv8TEAsgTMaeFzsNqV0RGo6Czo5eijJGhyCaGdzU5EeN2RwQ0PUjiq/dBk4XFWf6iRUbL2LNgeaB1PoPvLwaq1JyNjUWlscWjOB34q7YAHa5Ek3sIg8lII6xG05VZj/DG3YgQ+xit+kPu6w0QzOw6pNoqaONKsrBIzrzxiCxTv6MbkmvnUaeZuVLyPCHXH5DniGiigNtBBV3DyUyWtn7g34s+YbhCts7r+BFd5gw/3St0/sgGqT3O0dJjUwChDaAm8FHEyTZhsuElezRJc2ryp9F2szbxBmvmd9bNdovnKe3uTHK17iO06nXVCkYiA1rq3fJbA+FSGsgiAKh0AcPOn+z+YOsS/J3UayLW7O5jra5jMSexn9GHA+4iaiw==;A9P88vLeS4E3Ft1tKFjeDg=="
 ---

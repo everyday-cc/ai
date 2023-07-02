@@ -2,6 +2,143 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-06-20-galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce-model-hallucinations.md",
+      "title": "Galileo Launches the First-Ever Large Language Model (LLM) Diagnostics and Explainability Platform to Reduce Model Hallucinations",
+      "excerpt": "The Galileo LLM Studio debugs the data and prompts to reduce hallucinations powered by powerful algorithms. Today, Galileo, the first-ever machine-learning (ML) data intelligence company for LLMs and Computer Vision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/1c/31c7a945-e802-54b0-8ef8-6a4703482f1c/6491c881081f3.image.jpg?crop=1890%2C992%2C0%2C52&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business.md",
+      "title": "Asset lifecycle management strategy: What’s the best approach for your business?",
+      "excerpt": "Each asset a company acquires goes through six main stages over the course of its life, requiring careful maintenance planning and management tactics.\nThe post Asset lifecycle management strategy: What’s the best approach for your business? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business/",
+      "originalUrl": "https://www.ibm.com/blog/asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/1z6_0227.xl_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T08:15:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-scientists-develop-magnetically-controlled-soft-medical-robot-inspired-by-the-pangolin.md",
+      "title": "Scientists develop magnetically controlled soft medical robot inspired by the pangolin",
+      "excerpt": "Pangolins are fascinating creatures. This animal looks like a walking pine cone, as it is the only mammal completely covered with hard scales. The scales are made of keratin, just like our hair and nails.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/pangolin-the-inspirati.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp",
+      "publishedDateTime": "2023-06-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-apples-machine-learning-head-departs-to-run-ai-thinktank.md",
       "title": "Apple's machine learning head departs to run AI thinktank",
       "excerpt": "The Allen Institute for Artificial Intelligence, a non-profit aimed to furthering AI research, has named Apple machine learning chief Ali Farhadi as its new CEO. Starting from July 31, Darhadi will become the CEO of the Allen Institute for Artificial ...",
@@ -1041,163 +1178,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-opera-one-offers-an-ai-based-web-browsing-experience.md",
-      "title": "Opera One Offers an AI-Based Web Browsing Experience",
-      "excerpt": "The Opera One web browser is now available to download complete with an integrated AI called Aria. Opera offered an early access developer build of Opera One back in April, but the focus was on demonstrating the modular,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsing-experience",
-      "originalUrl": "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsing-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03tWfDqRAoOVCWepnIXfbXQ-2.fit_lim.size_1200x630.v1687190420.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5.md",
-      "title": "AI Utopia And Dystopia. What Will The Future Have In Store? Artificial Intelligence Series 5 Of 5",
-      "excerpt": "Human Flourishing And A Utopian Future In a utopian future empowered by artificial intelligence ... Here are some ways AI could be beneficial to individuals and society: Healthcare spans beyond internal health. There are also companies such as Coralai ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
-      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6478245378a2f7a6b37b69d7/0x0.jpg?format=jpg&width=1200",
-          "width": 649,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/",
-      "publishedDateTime": "2023-06-19T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-amazon-and-the-ai-war-irobot-acquisition-in-focus.md",
-      "title": "Amazon And The AI War: iRobot Acquisition In Focus",
-      "excerpt": "Amazon is also in talks with AMD (NASDAQ: AMD) to use its new chips, the MI300X. The MI300X is the fastest production-quality AI-centric super chip on the market now. It has more processing power and memory than NVIDIA’s H100 and could dominate the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
-      "originalUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-454401.jpeg?format=pjeg&auto=webp",
-          "width": 1000,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

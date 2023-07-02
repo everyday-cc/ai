@@ -2,6 +2,151 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-05-18-check-your-artificial-intelligence-bossware-tools-for-bias-says-us-agency-head.md",
+      "title": "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head",
+      "excerpt": "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_48f2da9321a023aa102e636026667bb4_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
+      "publishedDateTime": "2023-05-18T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.md",
+      "title": "Meta pulls the curtain back on its A.I. chips for the first time",
+      "excerpt": "Meta revealed that it built a video-processing computer chip and another chip to help with A.I. tasks like recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/18/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/18/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106967423-16354576832021-10-28t214510z_116189434_rc29jq9owmq8_rtrmadp_0_facebook-connect.jpeg?v=1684425601",
+          "width": 1947,
+          "height": 1181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/18/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/18/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.html",
+      "publishedDateTime": "2023-05-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage.md",
+      "title": "IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage",
+      "excerpt": "With the launch of IBM Hybrid Cloud Mesh, application-centric connectivity helps you take back control of enterprise networking.\nThe post IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/blockorganicgrowth0186.lr_-1-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T08:53:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-will-artificial-intelligence-be-able-to-prepare-our-tax-returns.md",
       "title": "Will Artificial Intelligence Be Able to Prepare Our Tax Returns?",
       "excerpt": "In case you’ve somehow missed the flurry of articles describing the dramatic advance of artificial intelligence, we appear to be at the dawn of",
@@ -1043,144 +1188,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-ex-apple-employee-accused-of-stealing-self-driving-tech-secrets.md",
-      "title": "Ex-Apple employee accused of stealing self-driving tech secrets",
-      "excerpt": "Wang is the third employee from China to face charges of trade secrets theft is the third to hit the company. Last year Xiaolang Zhang pleaded guilty to stealing trade secrets from Apple’s autonomous division. Another man faces charges, but the trial is to be set at a later date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/news/ex-apple-employee-accused-of-stealing-self-driving-tech-secrets/",
-      "originalUrl": "https://www.just-auto.com/news/ex-apple-employee-accused-of-stealing-self-driving-tech-secrets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-teslas-optimus-robot-is-learning-to-navigate-sense-and-pick-things-up.md",
-      "title": "Tesla's Optimus robot is learning to navigate, sense and pick things up",
-      "excerpt": "At Tesla's 2023 shareholders meeting, Elon Musk showed some new video of the Optimus robot he believes will represent the vast majority of the company's value in the future – as well as the method through which the development team is training the AI.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/tesla-optimus-robot/",
-      "originalUrl": "https://newatlas.com/robotics/tesla-optimus-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/9bfd629/2147483647/strip/true/crop/1619x850+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F64%2F06%2F934b987f4684b1729a14cb45c697%2Fscreenshot-2023-05-18-at-7.37.54%20pm.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-us-senator-introduces-bill-to-create-a-federal-agency-to-regulate-ai.md",
-      "title": "US senator introduces bill to create a federal agency to regulate AI",
-      "excerpt": "Days after OpenAI CEO Sam Altman testified in front of Congress and proposed creating a new federal agency to regulate artificial intelligence, a US senator has introduced a bill to do just that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
-      "originalUrl": "https://www.cnn.com/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230517144152-senator-michael-bennet-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
-      "publishedDateTime": "2023-05-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

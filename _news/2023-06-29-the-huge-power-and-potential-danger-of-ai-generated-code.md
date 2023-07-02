@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The True Threat of Artificial Intelligence"
+    excerpt: "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions."
+    publishedDateTime: 2023-06-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 73
+    images:
+      - url: "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trusting Social brings AI-powered agents to enterprises"
     excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
     publishedDateTime: 2023-06-30T11:59:00Z

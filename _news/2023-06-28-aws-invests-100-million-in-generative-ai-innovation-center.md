@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-
 webUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/"
 type: article
 quality: 86
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -129,6 +129,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "Generative AI startup Typeface raises $100M to customize enterprise content creation"
+    excerpt: "Typeface helps enterprises create content using generative AI with machine learning training customized on an organization's content."
+    publishedDateTime: 2023-06-29T08:00:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-startup-typeface-raises-100m-customize-enterprise-content-creation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Regulation and talent: India’s catalysts for generative AI triumph"
     excerpt: "Generative AI has taken the world by storm; every business and sector is rushing to integrate it into their systems and make maximum use of the technology. Innovators in the US have pioneered their"

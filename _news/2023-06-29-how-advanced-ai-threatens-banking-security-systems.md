@@ -7,7 +7,7 @@ originalUrl: "https://www.centralbanking.com/technology/7959117/how-advanced-ai-
 webUrl: "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is affecting the patent system"
+    excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
+    publishedDateTime: 2023-06-28T13:34:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/how-ai-is-affecting-patent-system-2023-06-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/6RDiNFJaoYEgBXrTGH2tOWz9eA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKGXR6M5CRGCPIHXVCJVHX2RFI.JPG"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Uncovering How AI's Dual Relationship With Cybersecurity Operates"
     excerpt: "Cybersecurity has evolved and played a pivotal role in AI discussions due to threat feeds, AI platform protection and the need for rapid data analysis."
     publishedDateTime: 2023-06-28T13:45:00Z
