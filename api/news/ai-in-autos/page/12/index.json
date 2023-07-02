@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-03-27-new-chapter-in-intelligent-transport-baidu-begins-driverless-taxis-in-beijing.md",
+      "title": "New Chapter in Intelligent Transport: Baidu Begins Driverless Taxis in Beijing",
+      "excerpt": "A self-driving robotaxi developed by Chinese search provider and artificial intelligence (AI) heavyweight Baidu and Chinese carmaker FAW Hongqi participates in a test ride for seed passengers in Changsha,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484",
+      "originalUrl": "https://www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-99029484,updatedat-1679904667854,width-1280,height-720,resizemode-75/99029484.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484/amp",
+      "publishedDateTime": "2023-03-27T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-robotaxis-in-beijing-open-new-chapter-of-intelligent-transport.md",
       "title": "Robotaxis in Beijing open new chapter of intelligent transport",
       "excerpt": "CHINA DAILY Driverless cars ready for hire in suburb ... It then processes and judges through artificial intelligence algorithms to achieve autonomous driving. The robotaxi is also expected ...",

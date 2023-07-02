@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-i
 webUrl: "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Will Help Crypto Get To The Next Level"
+    excerpt: "AI is not a cure-all for the ills of the crypto space, but there are some ways that AI-based tools can – and will – improve the understandability, transparency, and comfort with which firms and investors can utilize crypto where effective."
+    publishedDateTime: 2023-07-02T12:39:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/07/02/ai-will-help-crypto-get-to-the-next-level/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "QfZAEjk6s2pm/TTXurafMjW2ryknHrEJo2wy8ygzAZI27GXLlrJdLkZ1b/W+sNvFOB9Mk+LxB37SF+62lbsE9t1hAPHWlKkPYuIv+wxM04/CB6G5GQZLDISuWS+ueWm/cZCJGf+tSzZnd295jHiJS5lY0FJCQcuW4vZTlM5nW1xSbGCf7QmEImdAeIVaFiMwnkg/bVn57kseDBnX2AVbPTgo15iupaXSeaQ8a6ACjG1oAMmywE4Os0p9q8M8fmwf3fzOAgItnJJCECIcQdH5C5UzILXKeu3gv/FApvDuKSDrI7mZpqqz/nVB8Y1crgtWdztQlovKF1WYGTWWKbRRki3cE84W4821+eYTpVKfEutFksLtG672SYIlzg2WFosU+aczs1SeVTC91h5AFbep57yLhvpG2p6UO2m5eikgy2nNABPgAbyh6+fh+Ys14vvUitouZw+SueLcdTfNMmHn7XKtDMEVlMthUKvaPN5EKzMOFPLTTHIAqPL5ojy8sIbw/QpNRb2GPaniefzf99dsEw==;nC+1yOQoDcbOBHcc1DlKKQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-sho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.wsj.net/im-809630/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "How investors are buying their way into the AI start-up gold rush"
-    excerpt: "Despite the broader tech market being subdued, investors are piling in to private AI start-ups like OpenAI and Anthropic through high-priced secondary sales."
-    publishedDateTime: 2023-06-27T21:16:00Z
-    webUrl: "https://www.afr.com/technology/how-investors-are-buying-their-way-into-the-ai-start-up-gold-rush-20230628-p5dk0a"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.1741%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e792f9305c6fcfa2bf821b0329ba4aed66236261"
-        width: 1200
-        height: 628
         isCached: true
   - title: "AI news - All the latest in artificial intelligence"
     excerpt: "Allan Wong, co-founder of Hong Kong toymaker VTech, thinks the technology will arrive by 2028 - and could free up the parents to do other activities."

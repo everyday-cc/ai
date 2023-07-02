@@ -3,16 +3,16 @@ category: news
 title: "AI makers must create, observe new laws of robotics | Thomas Elias"
 excerpt: "No one is controlling A.I. development, leaving it free to go in any direction, good or evil. Human survival demands limits on this, as Isaac Asimov foresaw. If"
 publishedDateTime: 2023-06-30T12:30:00Z
-originalUrl: "https://hanfordsentinel.com/opinion/columnists/ai-makers-must-create-observe-new-laws-of-robotics-thomas-elias/article_fef0872c-6200-5eeb-845c-a67bb24ba1b6.html"
-webUrl: "https://hanfordsentinel.com/opinion/columnists/ai-makers-must-create-observe-new-laws-of-robotics-thomas-elias/article_fef0872c-6200-5eeb-845c-a67bb24ba1b6.html"
+originalUrl: "https://santamariatimes.com/opinion/columnists/ai-makers-must-create-observe-new-laws-of-robotics-thomas-elias/article_15040ba9-b335-54a9-8a87-7110b1cef4f1.html"
+webUrl: "https://santamariatimes.com/opinion/columnists/ai-makers-must-create-observe-new-laws-of-robotics-thomas-elias/article_15040ba9-b335-54a9-8a87-7110b1cef4f1.html"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Hanford Sentinel
-  domain: hanfordsentinel.com
+  name: Santa Maria Times
+  domain: santamariatimes.com
 
 topics:
   - AI in Robotics
@@ -68,6 +68,6 @@ related:
         height: 692
         isCached: true
 
-secured: "67eLi0P/9MEzqyvLkWEiLKZjd3yJly6YNqEJL92BAs070hMBffQ6TH4E4BjkuxUdLIgC0VsJWxMt/mcCiIi9rEqUQ2eog/K/rX+pfKjAvjApjs3tpHqRh5fBxjjKCyJrfD3gzL7rPUOOVwj8BbnfzC/r9tcyoHTtx2EY1czHUP3gD3yycyHrnI4HLcZjN4cvg9HPWXTYeCUNc6XyCETslwfoSXXSWvYcIUQ146LoW83V/acMtlb8ubvD6fAy11ViI/AL9TqPKCSWRngYzeDI/djMYeGETQ9anHstkWHnFS1MQe9G4AEsEyH2ZS5gTDLAQckzWyLd5FSKCT4GUYuCXW71XEui6xr6D8yhK1c1rczDRjDw3ONozbdl8gke5zOGIjFnfepPiQ/5I4nSCOndIRyP/6zF3nt4uTO/pM02QjSzxY5WbSvIJA5V9GDPllvPoZfJnyzP7qMC8ED33ltVWa3LDTBwh60XmayRRCvkDFovqPVgu6IFZGyjzVwKEG4IOhu353kKbK1GquEZ61W3Bw==;DTZh9fyNZwQRqIbq2I4dkg=="
+secured: "IYKqk5lpGeFFQRbyBc0HNkcRH16Jn4sDm/izisZzzhr/LgxRpPyHTaPqXhdL4Uy6+/7vq3cWvwk37EMh8A++vOisWw2n/9ur9ldEWO0H+9tNHentg1U481G++ZW4crtuiCJq7hsEzSrJOS9BXrdpf6sYZeXSrre256mlsjxfNfQdwetEHz/yiYztgsjw1/Hhp+0jsUwZCIfWPSYZoTQb4u/jWg0NBX4vBgoXQwOZPQ+DrhCKzZOjHccakfy4axSDaQMU6G3rHojYCJWCI4XevZyg8caawDbEVM8fL53mZL39R5hok+KQM6nlS98pdsNE00ec7i1LF7aEBSDqwbq2PRwt3xJiQ4Z3eCAM8zV1UMKkmu9d7IGqwclaE3q3VcO2h/rIWIR7PDeMEsNisBQTEL3KhszqYnYe4XOm4ee5Fki+2KzpWFAWuVtfciTJlkTVkeGCglzMW8CzvHKEBzn7pBFhgy/3NYQE67QWrw9uoqfB6lr71FBFj1AMJJk2YcHx77Yk2JO/5dKL4nbgu04+pQ==;01/VWaIMx327s/FixIyLYw=="
 ---
 

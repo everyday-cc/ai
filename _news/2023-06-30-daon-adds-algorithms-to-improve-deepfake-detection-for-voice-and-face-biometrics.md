@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI And Web3 ID Tech Can Defeat Deepfake Frauds"
-    excerpt: "As exciting as this technology is, it’s brought with it a rise in frauds and deepfake duplicate accounts looking to steal our identities."
-    publishedDateTime: 2023-06-27T22:28:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/amp/"
+  - title: "Use of face biometrics sharply criticized in two US criminal cases"
+    excerpt: "A Minnesota man has filed a civil rights lawsuit against police alleging false arrest, which officials have blamed on facial recognition."
+    publishedDateTime: 2023-06-29T19:44:00Z
+    webUrl: "https://www.biometricupdate.com/202306/use-of-face-biometrics-sharply-criticized-in-two-us-criminal-cases"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649473a86aba405b693cb265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/08130639/police.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "R6HLsC5wzivfaXkuxG7CHzR9AHQYTFGhcIvlEiHEqhphORzQN+G0d2w1cxkMmPjJBFzK2qNH9A0UoksbbNYYLsaAvfiwkjkZu19CDgyhtY9yvt1/4wcmOxxmf+m+8PAJ6fTBikdxEvwWL/XB2BEv/mxbsrY4CcmWao9grqT9ALYn42sdPM4VI2H5kSrFuRnv06NtjLym6vpB7I/6mfsMvV/afgWVpErVk0KTNUQERyeeNxaVQpdO3A49pXaCAfqgSjYvSmjspD3U7J/yJfxkGQ8EIUxz4sTu/zr7qf1n7ItWE1ZylsLZqtc3WcMFEfB/sUAmcesVNSji+AOLa/wxsMsEtjJBO56jzvVgxXnNc431t/NzSmoWtyMyFvUDA5WVGvHn2x0bXLKEn28VLFnoDtgRhkz9Y01to6attsymu5Dm6D6SGZo38jPUb2O3/eY2iLL8FtDheb0UWj+8AatvOB7P9uXWVY4mzDKq85bVX5CXsC/D3tOMiIpw9pQTD4ltmWdqzzlhs36kOBCkqiQZhQ==;CZ6HeRgpCCFKsAYO7+SIjw=="

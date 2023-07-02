@@ -62,11 +62,11 @@ related:
   - title: "AI makers must create, observe new laws of robotics | Thomas Elias"
     excerpt: "No one is controlling A.I. development, leaving it free to go in any direction, good or evil. Human survival demands limits on this, as Isaac Asimov foresaw. If"
     publishedDateTime: 2023-06-30T12:30:00Z
-    webUrl: "https://hanfordsentinel.com/opinion/columnists/ai-makers-must-create-observe-new-laws-of-robotics-thomas-elias/article_fef0872c-6200-5eeb-845c-a67bb24ba1b6.html"
+    webUrl: "https://santamariatimes.com/opinion/columnists/ai-makers-must-create-observe-new-laws-of-robotics-thomas-elias/article_15040ba9-b335-54a9-8a87-7110b1cef4f1.html"
     type: article
     provider:
-      name: Hanford Sentinel
-      domain: hanfordsentinel.com
+      name: Santa Maria Times
+      domain: santamariatimes.com
     quality: 49
 
 secured: "vdnnyiJfOLwvK6YAyRlV7PTfh2k5kLFNkax4k5Egl/9borjyO55CN+eMFzA7JhTGdIan4e9NpoAfRG5qhCyUDIL8qU2gs4J3kdOTALh+etFuiVYqlDATxwZ84sebCeGQfS4hOx+fYSMN53iKZN6tgEdk64aRzO2ui3gDXkSpeiTfahu3QcCa/qbmSVdj18aUnvk8IGXAUxqupi15GwsFVOzxPnLHRGmBHxgQEKl8nhbtCv6FjPguKjGoYv3SMmQLuaExKhtSv+Wu2c8fMp5k/IgAPJgsZac7zwTbLoF+j0wE97rO8SNP5fH8pPk6uIo9aMPGi6dm71EHr53KLNkDJ5ZDBkFfsvYC0rtgyo8fnVVVgfc2+YlPRgFuVyRf22ctspxfLoeMjWQRZWSn6ClHw6GWaysTv7X8RdWscqkrVQNAZNjdk7V7Gy8qYL6HPoMay+T8J9pmoWl63cgm31Ck0IVr9l0UaP63yf1x9w+9VkWpGAgD10QXRP4vyNNQkEUZPxbGVjOenwcrd83kICzoOQ==;ritlOzdj9TIBrgjN/OCqqA=="

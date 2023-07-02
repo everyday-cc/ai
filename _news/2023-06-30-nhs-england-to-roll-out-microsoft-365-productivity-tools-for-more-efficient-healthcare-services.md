@@ -36,29 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
-    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
-    publishedDateTime: 2023-06-27T21:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/indico-data-launches-new-integration-with-microsoft-azure-openai-service-to-amplify-its-enterprise-llm-capabilities/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 47
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/indico-data-300x203.jpg"
-        width: 300
-        height: 203
-        isCached: true
-  - title: "Johnson Controls wins 2023 Microsoft Global Independent Software Vendor Partner of the Year"
-    excerpt: "Johnson Controls awarded for OpenBlue connected solutions for buildings, using cloud, edge, AI, and machine learning to achieve new levels of"
-    publishedDateTime: 2023-06-27T19:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-wins-2023-microsoft-global-independent-software-vendor-partner-of-the-year-1032413360"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Johnson Controls strengthens Microsoft partnership, accelerates net zero building transformation"
     excerpt: "Johnson Controls, a pioneer for smart, healthy, and sustainable buildings, announced it has won the 2023 Microsoft Global Independent Software Vendor (ISV) Partner of the Year Award."
     publishedDateTime: 2023-06-29T05:58:00Z

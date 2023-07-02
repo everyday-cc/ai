@@ -1,30 +1,26 @@
 ---
 category: news
 title: "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials"
-excerpt: "Novel materials for everything from wind turbines to carbon capture could help cut emissions. A small but growing number of startups want to use AI to develop them faster."
-publishedDateTime: 2023-06-30T10:36:00Z
-originalUrl: "https://www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985"
-webUrl: "https://www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985"
-ampWebUrl: "https://www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985.amp.html"
-cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985.amp.html"
+excerpt: "Ever since ChatGPT went viral last fall, companies have touted many ways artificial intelligence can make our lives easier. They’ve promised superhuman virtual assistants, tutors, lawyers and doctors."
+publishedDateTime: 2023-06-30T12:16:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2023-06-30/artificial-intelligence-startup-looks-to-develop-climate-friendly-materials"
+webUrl: "https://www.bloomberg.com/news/articles/2023-06-30/artificial-intelligence-startup-looks-to-develop-climate-friendly-materials"
 type: article
-quality: 73
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: bnnbloomberg
-  domain: bnnbloomberg.ca
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1939986!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/wind-turbines-at-sunset-in-germany-photographer-bloomberg-creative-photos-bloomberg-creative-collection.jpg"
-    width: 620
-    height: 349
-    isCached: true
 
 related:
   - title: "OpenAI brings the competition to DeepMind’s doorstep with new London office"
@@ -131,6 +127,6 @@ related:
       domain: theguardian.com
     quality: 17
 
-secured: "LB6QlYrQQY/A6CR8dmV9kO74+f9ULZvLwkpNnM/pVwP/mLSK6wV3DlC7LCwxzQkqWrkeFegFQGjhebUWTmeD1JcuwYY0uTiEzkJlxQuHkV6W7qAtzoHF4d0lgW+00yxtSwsnYOS/L3fVCsy2L7QL5Hyxq4DgQUydDxd/kb4pUfJn/T9ghnKAMyMmBwZB6JfMOcGPOmENqMxzdIKUwIhkuHE0GDS5nt9/8FNnHLr1DWkhn9Xe2pLnY8b0JXukPcxZZhSqj8PDzKMO+DkVj6yB8Nz/blPF2J+57K6H7rpiqYqIp/ukQSjRvVZGT+UIF6mkucYU3XuHIF+PdqhOjAH2iMe9VYNlCFvqMgk0SFEcfI833SwzUgFE94jfbtC7FV6rm4cgWymlaElhrmQBH3rCzQywdn0sO1uzdYaxOGF2InNjHNdxh/+tYhhIrki4P9cYhliFX0+Q78NXIFedTQ+MQCHvJdtahaqLUfndKBK6mAOa3IRaCffsIkjQ61C2hstwO1rPu2bnBHLagrMNOthVsQ==;gL02dIZNk4CrJJsczRl8Ww=="
+secured: "gamAhxMPvgyqnqSTEDWs8byR7gY5gLAoPkFwTIy8d3k0XRWJf3SxjNW+Y7uQaFzQHlVYGi15dAXTqZg5+kYHx1Z/qL07zrY7Oxq9rsrkS0PbSqSUWsTgXkNWHNYy1zSfSGypsr8A8okSeE/3JjSDgG6Ueg+gBWjXySwrLp5WOewZU0pDjUVPNppTpVgOXGIGkvXxlIgykG0d4kXcsOKkmRGvb7SkT8hja0VZ/rlEpXnyiX1FwZZYOx8+/x7Gcn2uR74FhoN7u81ZHmv/mQ2GUPzO51RNsMjD6ihBWEDDSM2Vy6wQeqwmlX10qZwJqs829ly3oEOpj4xWbEPH9Znv+wPqxb/Xgw6281kV0OMNhqo=;md+XxD1MDbBcDMBgg7j3rg=="
 ---
 

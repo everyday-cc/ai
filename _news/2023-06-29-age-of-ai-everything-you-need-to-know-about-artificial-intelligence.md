@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
-        isCached: true
-  - title: "This New Product Will Change How Nonprofits Think About AI"
-    excerpt: "CareerVillage announced the launch of Coach, its new generative AI tool making great career resources available to everyone."
-    publishedDateTime: 2023-06-27T20:48:00Z
-    webUrl: "https://www.forbes.com/sites/fastforward/2023/06/27/this-new-product-will-change-how-nonprofits-think-about-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/fastforward/2023/06/27/this-new-product-will-change-how-nonprofits-think-about-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2023/06/27/this-new-product-will-change-how-nonprofits-think-about-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649b4279c5e712976dc53940/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 667
         isCached: true
   - title: "Everything you need to know about AI but were too afraid to ask"
     excerpt: "What’s clear, however, is that AI is not going away, but it is changing very fast. Here’s everything you need to know to keep up."

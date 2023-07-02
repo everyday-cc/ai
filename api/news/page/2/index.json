@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-30-why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity.md",
+      "title": "Why healthcare in the cloud must move to zero trust cybersecurity",
+      "excerpt": "To protect patient identities and health records, healthcare providers must adopt zero trust cybersecurity amid increasing cyberattacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/",
+      "originalUrl": "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/GettyImages-1251551602-e1634921639991.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-signal-talks-privacy-encryption-ai-and-more-at-techcrunch-disrupt-2023s-security-stage.md",
       "title": "Signal talks privacy, encryption, AI and more at TechCrunch Disrupt 2023’s Security Stage",
       "excerpt": "Meredith Whittaker will discuss why encryption’s worth fighting for and why she calls AI “surveillance technology” at TechCrunch Disrupt 2023.",
@@ -706,7 +759,7 @@
       "originalUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -792,7 +845,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1103,7 +1156,7 @@
       "originalUrl": "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1187,50 +1240,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-advanced-ai-threatens-banking-security-systems.md",
-      "title": "How advanced AI threatens banking security systems",
-      "excerpt": "The future of payments promises to transform the fintech world as traditional friction barriers begin to disappear. Amid this innovation, concerns arise: could",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
-      "originalUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-06/GettyImages-1490261842.jpg?itok=msI7us6j",
-          "width": 1200,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Central Banking",
-        "domain": "centralbanking.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

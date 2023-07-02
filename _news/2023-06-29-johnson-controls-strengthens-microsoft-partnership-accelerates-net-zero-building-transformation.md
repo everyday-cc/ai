@@ -37,29 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
-    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
-    publishedDateTime: 2023-06-27T21:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/indico-data-launches-new-integration-with-microsoft-azure-openai-service-to-amplify-its-enterprise-llm-capabilities/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 47
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/indico-data-300x203.jpg"
-        width: 300
-        height: 203
-        isCached: true
-  - title: "Johnson Controls wins 2023 Microsoft Global Independent Software Vendor Partner of the Year"
-    excerpt: "Johnson Controls awarded for OpenBlue connected solutions for buildings, using cloud, edge, AI, and machine learning to achieve new levels of"
-    publishedDateTime: 2023-06-27T19:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-wins-2023-microsoft-global-independent-software-vendor-partner-of-the-year-1032413360"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "NHS England to roll out Microsoft 365 productivity tools for more efficient healthcare services"
     excerpt: "Healthcare provider NHS England will equip 1.5 million members of its workforce with Microsoft 365 productivity tools to enhance care and maximise time for care as part of a new five-year agreement with Microsoft."
     publishedDateTime: 2023-06-30T13:13:00Z

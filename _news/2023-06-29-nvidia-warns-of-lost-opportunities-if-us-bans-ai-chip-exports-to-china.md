@@ -175,22 +175,6 @@ related:
         width: 498
         height: 280
         isCached: true
-  - title: "US considering restrictions on AI chip exports to China"
-    excerpt: "The Biden administration may impose additional restrictions on the export of artificial intelligence (AI) chips to China, the Wall Street Journal reported, citing people familiar with the matter. The"
-    publishedDateTime: 2023-06-27T22:48:00Z
-    webUrl: "https://www.teletrader.com/us-considering-restrictions-on-ash-chip-exports-to-china/news/details/60231446"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/60231446"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/60231446"
-    type: article
-    provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 74
-    images:
-      - url: "https://cdn.ttweb.net/News/images/296042.jpg?preset=w800_q70"
-        width: 800
-        height: 450
-        isCached: true
   - title: "US Considers New Regulations on Export of AI Chips to China: Report"
     excerpt: "The United States is considering new restrictions on exports of artificial intelligence (AI) chips to China, the Wall Street Journal reported on Tuesday, citing people familiar with the matter. Shares of Nvidia fell more than 2 percent,"
     publishedDateTime: 2023-06-28T03:48:00Z

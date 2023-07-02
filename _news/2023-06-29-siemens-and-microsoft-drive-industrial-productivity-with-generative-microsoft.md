@@ -650,15 +650,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 23
-  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
-    excerpt: "India], June 27: Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-    publishedDateTime: 2023-06-27T21:40:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230627/4093494.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 5
 
 secured: "y8kQYHyW4IbccVzO3SSOBEYBlNsybsuzNwZ98c9LbzRDbljjyK4jdFe8cHHKk16JU0X7WIDFG3dXraOIf2WGbV5Oib/uCUtYC5x32C8V0LJZ3XJsdfw79nTursOKUFAtl7J0wUEDypmFA80rLwA5q++aHJ0jq7exqxb5+26KyhxPbvoabzw6/9yJt7oOVDHHnzNa+XnZI2eJgvLz4C5xbrJongpKZT4AJ/dHem9T2t217EI4/t2Th7gkc71MkLxLXx4h7Ghr+HOCdJGZp7KwBT14Uk/IbxIT1vIWP9JX2G0vuIag/BM3iYrT2OnV988XiAuC02XbriFcAXuoN1DiiOKthjVxBt5I/TCz14o+e5Y=;qC1Jbvi98II+42RxxIZGOQ=="
 ---

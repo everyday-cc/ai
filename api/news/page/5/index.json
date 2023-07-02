@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-28-nvidia-amd-stocks-fall-on-report-of-new-us-ban-on-ai-chip-exports-to-china.md",
+      "title": "Nvidia, AMD stocks fall on report of new U.S. ban on AI chip exports to China",
+      "excerpt": "Nvidia and AMD shares slumped in the extended session Tuesday following a report that the Biden administration might ban more AI chip sales to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 551,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-790609/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
+      "publishedDateTime": "2023-06-27T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-mongodb-loves-developers-at-mongodblocal-nyc.md",
+      "title": "MongoDB ‘Loves Developers’ At MongoDB.local NYC",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead highlights the new capabilities for MongoDB Atlas announced at the MongoDB.local event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b74e50a9a56279ec53940/0x0.jpg?format=jpg&crop=627,352,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/",
+      "publishedDateTime": "2023-06-27T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-when-the-ai-is-more-compassionate-than-the-doctor.md",
       "title": "When The AI Is More Compassionate Than The Doctor",
       "excerpt": "More physicians are using AI to help in the more “human” aspects of medical care, including communicating with empathy and compassion.",
@@ -112,7 +216,7 @@
       "originalUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1103,108 +1207,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes.md",
-      "title": "Can AI Reinvent Song Creation Without Cutting Out Humans? Music Sample Platform Splice Says ‘Yes’",
-      "excerpt": "One of the hottest sample libraries in the music biz is introducing AI that opens new avenues for song creation while keeping human-created loops at the forefront.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/",
-      "originalUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6499e4a91cfff1423c225776/0x0.jpg?format=jpg&crop=1722,876,x102,y53,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/amp/",
-      "publishedDateTime": "2023-06-27T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-faros-ai-raises-20m-to-bring-visibility-to-software-engineering-teams.md",
-      "title": "Faros AI raises $20M to bring visibility to software engineering teams",
-      "excerpt": "Faros AI, a startup building tools to increase visibility into software engineering processes, has raised $20 million in a venture round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/",
-      "originalUrl": "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/",
-      "publishedDateTime": "2023-06-27T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

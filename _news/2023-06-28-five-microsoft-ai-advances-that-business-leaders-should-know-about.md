@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/"
 type: article
 quality: 106
-heat: 616
+heat: 606
 published: true
 
 provider:
@@ -656,15 +656,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
-  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
-    excerpt: "India], June 27: Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-    publishedDateTime: 2023-06-27T21:40:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230627/4093494.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 5
 
 secured: "X4HMZVutK7obJj3MxaopqjjjjQ78udd8GRhOpKjtjMEtA3zCe0DhCsHxd1R2mM1ei0V2DYkPX66KXAFsLJzpOo5zzw2gNvKP/Mzs7u8bwB5WENEhTDr4KElf4FiXFDT7um4Lvxj1QLbfcYXsEoyzY9qpUb9WtKRkL23mXvLhhUV/rfWdb4u8u3fpj2kyy5DCZ/bzdH609yMQRHtnpI8P0b6iaWDpVVSizDP49RNi5SEmHUgLLHPrhU1QAQ17eOkjfBrDW6x5AAaC6Q0B6MTi3OagV35LpuOqtJTKxYipd9A8SSSj4ily3Kqmi0ciredOKBmI4rV1e8i1clCBvmUEQy8bnP0089ZY/l0k6RZOKfRXSwyTXdLgzPAYlR9bMWAYbhh30gohu3ZS462ma88A+69IMeecUw1zgewLx4AojplXiCbUd84EaZ+X8QKCFZsBL+hrVbQ2qYXZ0lXj2uSipaNF3PUA/va4k+aybGLVHZ+8UeOParecsj5XwJHNn6GBX3mSLvvymDDuEeDxwQRSHw==;gQR9/Riw1nRiV9BjrGN1oA=="
 ---

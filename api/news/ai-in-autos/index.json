@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-30-killer-robots-or-not-ais-threat-to-jobs-is-real-which-is-why-it-must-be-handled-wisely.md",
+      "title": "Killer robots or not, AI’s threat to jobs is real – which is why it must be handled wisely",
+      "excerpt": "In the Terminator series of films, the military AI Skynet becomes self-aware and decides to wipe out humanity ... Meanwhile, proponents point out that while AI can be deployed in autonomous driving, facial recognition, as a mobile phone assistant or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "originalUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/e39e9827-0a8e-4fa8-b8df-f872ee2dc323_0ecd43bf.jpg?itok=1IXbtR8s&v=1688021011",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "publishedDateTime": "2023-06-30T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks.md",
       "title": "Retail Leaderboard: Individual Investors Keep Buying Tesla, Tech, AI Stocks",
       "excerpt": "Individual investors' net purchases of U.S. stocks and ETFs stalled last week, but they kept buying certain favorite picks, according to Vanda Research. Tesla, Amazon.com, Apple, Nvidia and Advanced M",
@@ -285,8 +337,8 @@
       "title": "How artificial intelligence will help, or hinder, your workforce",
       "excerpt": "AI tools can boost productivity, but business owners also should be mindful of certain risks.",
       "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/baltimore/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
-      "originalUrl": "https://www.bizjournals.com/baltimore/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
+      "webUrl": "https://www.bizjournals.com/washington/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
+      "originalUrl": "https://www.bizjournals.com/washington/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1382,58 +1434,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-artificial-intelligence-may-eliminate-some-jobs-openai-executive-says.md",
-      "title": "Artificial Intelligence May Eliminate Some Jobs, OpenAI Executive Says",
-      "excerpt": "AI could potentially create some jobs too, the artificial-intelligence company’s chief operating officer, Brad Lightcap, said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-802734/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

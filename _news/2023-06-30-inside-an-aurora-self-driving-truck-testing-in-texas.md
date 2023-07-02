@@ -7,7 +7,7 @@ originalUrl: "https://www.ttnews.com/articles/inside-aurora-self-driving"
 webUrl: "https://www.ttnews.com/articles/inside-aurora-self-driving"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Zoox headcount grows as Amazon's self-driving unit expands testing in Vegas"
-    excerpt: "The assembly line for Zoox, a self-driving vehicle owned by Amazon, is seen at the company's factory in Fremont, California, U.S. July 19, 2022. REUTERS/Carlos Barria/File Photo"
-    publishedDateTime: 2023-06-27T23:00:00Z
-    webUrl: "https://www.reuters.com/news/picture/zoox-headcount-grows-as-amazons-self-dri-idUSKBN2YD18J"
+  - title: "Chinese Self-Driving Truck Startup TuSimple Dives on Plan to Sell US Business"
+    excerpt: "Shares in TuSimple Holdings plunged yesterday after the Chinese autonomous driving startup said it is considering selling its US operations to focus on the Asia-Pacific region. TuSimple [NASDAQ:TSP] closed down 20."
+    publishedDateTime: 2023-06-30T09:02:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230630-08-chinese-self-driving-truck-startup-tusimple-dives-on-plan-to-sell-us-business"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 52
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 21
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20230628&t=2&i=1637135895&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ5Q0PN"
-        width: 810
-        height: 540
+      - url: "http://img.yicaiglobal.com/src/image/2023/06/26746143288005.jpg"
+        width: 770
+        height: 510
         isCached: true
+  - title: "This Self-Driving Boat Maps Underwater Terrain"
+    excerpt: "Step aside self-driving cars, self-driving boats are here—and they can do more than take you on a cruise. Researchers at The (UTEP) have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans,"
+    publishedDateTime: 2023-06-28T18:06:00Z
+    webUrl: "https://www.labmanager.com/this-self-driving-boat-maps-underwater-terrain-30510"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 19
+  - title: "Arizona’s agility as self-driving vehicle testbed"
+    excerpt: "Arizona's leaders have enacted rules to authorize and establish guardrails for autonomous vehicles to operate while entrusting experts with the responsibility of ensuring safe testing."
+    publishedDateTime: 2023-06-30T20:26:00Z
+    webUrl: "https://azcapitoltimes.com/news/2023/06/30/arizonas-agility-as-self-driving-vehicle-testbed/"
+    type: article
+    provider:
+      name: Arizona Capitol Times
+      domain: azcapitoltimes.com
+    quality: 4
 
 secured: "f3cylBl7oXNssIEuCjNC3/gvgjD/XMuLi7ZoXJIfBhi365LUDvi3x9162J/OAFAFnwEiw1cEbJC25BxZxOptIglMTtdYtnnDQCdkQtcNYwEt/jSpLwVbn/KyfAbaJL4/E1ljERNV0htUThZlI7uwyuOKu7RHTOfo8EVyTWB1CalTWxPFIkZFDssKpRa5/5VPWQcw19vl48O/S8ykr3zXx8IOpTceFUbLA4ZmXcnfhJfSS5+7Ecc/Os7UEGLxUkmlO3oe0dtAhGGCM6vUsli9zFbxyn6+4wg+0zbok9AoBx3prb07Z40ULrDA86r+b4jBOcjGr49NzaAfkys9BPynCJuf7vSq29gpppXWDDhQskZNuyWK02Z5lLJVLz4tSc4rv0TpaA1ITqtFqyXZ+s23QBKMvRUGQG9btP9oY0U9kfKhV1J3PiqC+5o7UZ6phJr8wfymTxrYlCmit/DM+lbK0+OodVeMnfzHcsZBv6T1Ne2Ib/m6xNcPMH7GcBksaIbMWgRK3ibbjyZRUcRb+c7dhA==;QVs2ndcKMW277wEGSYnIRg=="
 ---

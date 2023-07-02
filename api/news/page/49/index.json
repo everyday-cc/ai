@@ -2,6 +2,144 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-05-30-ai-boom-dont-miss-out-but-avoid-the-frenzy.md",
+      "title": "AI boom: Don’t miss out, but avoid the frenzy",
+      "excerpt": "Investors must take a cautious approach to the Artificial Intelligence (AI) boom to avoid getting ‘burned says Nigel Green.",
+      "sourceUrl": null,
+      "webUrl": "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/",
+      "originalUrl": "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.traveldailymedia.com/assets/2023/05/shutterstock_1040657359.jpg",
+          "width": 1000,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/amp/",
+      "cdnAmpWebUrl": "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/amp/",
+      "publishedDateTime": "2023-05-29T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Travel Daily Media",
+        "domain": "traveldailymedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-retail-investors-arent-buying-into-the-ai-hype-yet-and-the-boom-pales-in-comparison-to-the-meme-stock-bubble.md",
+      "title": "Retail investors aren't buying into the AI hype yet, and the boom pales in comparison to the meme-stock bubble",
+      "excerpt": "So far this year, Nvidia stock has shot up 167%. Meanwhile, the Global X Robotics & Artificial Intelligence ETF has soared 33%, and the ROBO Global Robotics & Automation Index ETF is up 19%.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6470ccbc3be3b50019f6fcaa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5?amp",
+      "publishedDateTime": "2023-05-29T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-5-everyday-examples-of-cognitive-dissonance.md",
+      "title": "5 Everyday Examples of Cognitive Dissonance",
+      "excerpt": "Cognitive dissonance happens when you hold two conflicting thoughts in your mind at the same time — like loving both hamburgers and cows. Cognitive dissonance is a theory in social psychology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health/cognitive-dissonance-examples",
+      "originalUrl": "https://www.healthline.com/health/cognitive-dissonance-examples",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2018/11/Alcohol_Drink_Wine_Female-1200x628-Facebook.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-an-ai-challenge-balancing-open-and-closed-systems.md",
       "title": "An AI Challenge: Balancing Open and Closed Systems",
       "excerpt": "Technology debates are often a tug-of-war between open and closed systems. On one side, open allows interoperability, customization, and integration with third-party software or hardware. Champions highlight how openness promotes transparency,",
@@ -1010,153 +1148,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones.md",
-      "title": "Arm's New CPU, GPU Cores to Deliver Next-Gen AI Experiences on Phones",
-      "excerpt": "Arm says pairing its Armv9 Cortex-X4 compute cluster and Arm Immortalis-G720 GPU in a single package will bring powerful AI, 3D, and gaming performance to the top smartphones of 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
-      "originalUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00n6JF7PK0qozSLHl73N4AU-1.fit_lim.size_1200x630.v1685112823.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-10-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
-      "title": "10 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
-      "excerpt": "Find the course here. Artificial intelligence: ethics & societal challenges Class description: The class covers the ethical and societal aspects of artificial intelligence over four modules that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "publishedDateTime": "2023-05-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-google-deepmind-makes-youtube-shorts-more-searchable-with-ai.md",
-      "title": "Google Deepmind makes YouTube Shorts more searchable with AI",
-      "excerpt": "Google Deepmind has introduced a new visual language model for YouTube Shorts, making them more searchable with AI-generated metadata descriptions. The language model, Flamingo, also provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/09/AH-YouTube-Shorts-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html/amp",
-      "publishedDateTime": "2023-05-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

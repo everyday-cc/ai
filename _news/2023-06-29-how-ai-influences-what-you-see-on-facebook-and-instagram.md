@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-a
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
       name: iPhone in Canada
       domain: iphoneincanada.ca
     quality: 19
+  - title: "Meta’s system cards show how AI powers content recommendations on Facebook and Instagram"
+    excerpt: "Facebook and Instagram work. The move is designed to increase transparency about how AI surfaces content for individual users, based on their history of interactions, likes, interests and friends lists."
+    publishedDateTime: 2023-06-30T03:09:00Z
+    webUrl: "https://siliconangle.com/2023/06/29/metas-new-system-cards-explain-ai-powers-content-recommendations-facebook-instagram/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 10
   - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
     excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."
     publishedDateTime: 2023-06-29T18:41:00Z

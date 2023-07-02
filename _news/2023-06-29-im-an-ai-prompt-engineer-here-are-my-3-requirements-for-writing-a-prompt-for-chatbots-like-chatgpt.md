@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "EU AI-rule proposal could clip ChatGPT's wings, but likely won't"
-    excerpt: "Though the EU's heavy-handed approach to tech regulation looks likely to continue with the AI Act, we still see room for a middle ground on restrictions on generative AI like ChatGPT."
-    publishedDateTime: 2023-06-27T20:01:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/eu-ai-rule-proposal-could-clip-chatgpts-wings-but-likely-wont/"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fclarification.png&width=684"
-        width: 684
-        height: 523
-        isCached: true
   - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says Google CEO"
     excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
     publishedDateTime: 2023-06-28T06:01:00Z

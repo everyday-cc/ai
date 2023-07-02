@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-17-chatgpt-and-generative-artificial-intelligence-in-finance.md",
+      "title": "ChatGPT And Generative Artificial Intelligence In Finance",
+      "excerpt": "Drew Spaventa is the founder and CEO of The Spaventa Group, a leading investment company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 534,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6463b7dd624c546c1fc2ff1a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/amp/",
+      "publishedDateTime": "2023-05-17T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages.md",
       "title": "Latest 2023 \"Artificial Intelligence (AI) in Fintech Market\" Survey & Forecast by 2029 | With 75+ Pages",
       "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Artificial Intelligence",
@@ -1314,41 +1366,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review.md",
-      "title": "Mosaic Data Science has been named the Top AI & Machine Learning Services Company of 2023 By CIO Review",
-      "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space ... such as professional and financial services, retail, manufacturing, CPG, and oil ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentucky.com/press-releases/article274911516.html",
-      "originalUrl": "https://www.kentucky.com/press-releases/article274911516.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lexington Herald Leader",
-        "domain": "kentucky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,83 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-26-geologists-use-artificial-intelligence-to-predict-landslides.md",
+      "title": "Geologists use artificial intelligence to predict landslides",
+      "excerpt": "A new technique developed by UCLA geologists that uses artificial intelligence to better predict where and why landslides may occur could bolster efforts to protect lives and property in some of the world's most disaster-prone areas.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.html",
+      "originalUrl": "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ucla-geologists-are-us.jpg",
+          "width": 1920,
+          "height": 1082,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-geologists-artificial-intelligence-landslides.amp",
+      "publishedDateTime": "2023-06-26T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai-models-and-increased-machine-learning-capabilities-to-the-data.md",
+      "title": "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud",
+      "excerpt": "NYSE:SNOW) Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-how-to-boost-personalized-email-campaigns-with-ai-technology.md",
       "title": "How To Boost Personalized Email Campaigns With AI Technology",
       "excerpt": "There are several ways AI can be used to improve email marketing campaigns, such as: • Predictive analytics. AI can now analyze subscriber/website visitor data to predict how likely they are to open an email, click a link or make a purchase.",
@@ -1114,109 +1191,6 @@
         "name": "WHNT",
         "domain": "whnt.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-the-ai-revolution-is-here-why-you-should-buy-amazon-stock.md",
-      "title": "The AI Revolution Is Here: Why You Should Buy Amazon Stock",
-      "excerpt": "Amazon doesn't ever seem to be satisfied with where it is. It's the top e-commerce stock by far, with about 38% of the market. For comparison, second-place Walmart has around 6%, and it only goes down from there. It's still only the second-largest company in the U.S. by sales though, behind Walmart.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737024/amazon-worker-using-amazon-key.jpg",
-          "width": 2265,
-          "height": 1511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-25T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-the-ai-craze-is-blurring-these-4-serious-economic-threats-to-the-us-heres-a-closer-look.md",
-      "title": "The AI craze is blurring these 4 serious economic threats to the US. Here's a closer look.",
-      "excerpt": "Underneath all the mania around AI are serious economic risks facing the US – here's a closer look at the bleak realities pervading the nation.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/643819005f081b0019c0fea4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp",
-      "publishedDateTime": "2023-06-25T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

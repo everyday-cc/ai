@@ -36,20 +36,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "FTX Said to Halt Sale of Stake in Buzzy AI Startup Anthropic"
-    excerpt: "Bankrupt cryptocurrency exchange FTX has abruptly halted the sale of one of its most sought-after assets: a stake in artificial intelligence startup Anthropic."
-    publishedDateTime: 2023-06-27T20:14:00Z
-    webUrl: "https://news.bloomberglaw.com/crypto/ftx-said-to-halt-sale-of-stake-in-buzzy-ai-startup-anthropic"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 37
-    images:
-      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "iuvs54wbE6xtI0GD9HpGU6C/lnhPK9BkS3idXvDDOv8PMTFgUdOSgF3f/nxgnz3mfSuLHu4vvgLEgl+0OKHtjtN7kq68r4anL309QbUuy3Dnq0oPyIjaCb3WQy4ZVweX8ntpNXn3jxR4eQ4ukkcimzImpguXW3EMsYPWe51l36Eg0N100CvU86UsWFlomzOYZqPWWcJullEZus2XF7JjHff9WVmQoWICXeAXjXTvdfJ++3FAay/2FN1R7sZY+yTlh8qGkDJXnc9V0a9FHTZSghAw/knqAnsIG/13xjNa02XgkahSlaSiPVXBIE2JJd4SDssGGyTuL5KnkFg7SGXaTSnCTxycGjdTqua5mokBwew=;oN8em4yRH9wgv3Q5ScZKhA=="
 ---

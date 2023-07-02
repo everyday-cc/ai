@@ -46,11 +46,11 @@ related:
   - title: "AI makers must create, observe new laws of robotics | Thomas Elias"
     excerpt: "No one is controlling A.I. development, leaving it free to go in any direction, good or evil. Human survival demands limits on this, as Isaac Asimov foresaw. If"
     publishedDateTime: 2023-06-30T12:30:00Z
-    webUrl: "https://hanfordsentinel.com/opinion/columnists/ai-makers-must-create-observe-new-laws-of-robotics-thomas-elias/article_fef0872c-6200-5eeb-845c-a67bb24ba1b6.html"
+    webUrl: "https://santamariatimes.com/opinion/columnists/ai-makers-must-create-observe-new-laws-of-robotics-thomas-elias/article_15040ba9-b335-54a9-8a87-7110b1cef4f1.html"
     type: article
     provider:
-      name: Hanford Sentinel
-      domain: hanfordsentinel.com
+      name: Santa Maria Times
+      domain: santamariatimes.com
     quality: 49
   - title: "California shouldn’t get in the way of self-driving trucks. Reject Assembly Bill 316."
     excerpt: "Nevada, Arizona, New Mexico, and Texas have jumped to an early lead in the testing of driverless trucks, and California needs to choose now whether it wants to stay ahead of the curve."

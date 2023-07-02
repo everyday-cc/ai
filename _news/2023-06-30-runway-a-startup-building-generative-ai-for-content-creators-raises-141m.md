@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Cyera-Founders.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Scriptic raises $5.7M for user-generated games using generative AI"
-    excerpt: "Scriptic (formerly known as ElectricNoir) has raised $5.7 million in funding to create games based on generative AI."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://venturebeat.com/games/scriptic-raises-5-7m-for-user-generated-games-using-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/scriptic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 679
         isCached: true
   - title: "Robotics startup raises millions for AI, remote control applications"
     excerpt: "Contoro Robotics, which spun out of medical robotics startup Harmonic Bionics, has raised $6 million in venture backing. The company, led by founder and CEO Youngmok (Mok) Yun, was created last year when Harmonic Bionics,"

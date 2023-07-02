@@ -2,6 +2,154 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-06-18-tdra-launches-initiative-to-optimise-fednet-with-ai-services.md",
+      "title": "TDRA Launches Initiative To Optimise Fednet With AI Services",
+      "excerpt": "Commenting on this development, Majed Sultan Al Mesmar, TDRA Director-General, said,“AI services on AI-supported FedNet are a great step in the digital transformation process, and an important element in enhancing the ability of government entities to provide easy and fast services to all customers,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106452097/TDRA-Launches-Initiative-To-Optimise-Fednet-With-AI-Services",
+      "originalUrl": "https://menafn.com/1106452097/TDRA-Launches-Initiative-To-Optimise-Fednet-With-AI-Services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-06/18/ENA(_0a521image_story.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-18-data-and-ai-ethics-market-making-progress-with-tips-and-deceives-by-our-specialists.md",
+      "title": "Data and AI Ethics Market | Making Progress with Tips and Deceives by Our Specialists",
+      "excerpt": "In addition, the examination report gives definite information about the main considerations affecting the development of the Data and AI Ethics market at the public and neighbourhood level ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-making-progress-with-tips-and-deceives-by-our-specialists-2023-06-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-making-progress-with-tips-and-deceives-by-our-specialists-2023-06-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-18-aws-reinforce-2023-navigating-the-crossroads-of-security-diversity-and-ai-innovation.md",
+      "title": "AWS re:Inforce 2023: Navigating The Crossroads Of Security, Diversity, And AI Innovation",
+      "excerpt": "AWS announced an array of new services and capabilities—as they typically do at events like this—and there were many informative keynotes and breakout sessions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2023/06/17/aws-reinforce-2023-navigating-the-crossroads-of-security-diversity-and-ai-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2023/06/17/aws-reinforce-2023-navigating-the-crossroads-of-security-diversity-and-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648e60d917e52359703a1f58/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2023/06/17/aws-reinforce-2023-navigating-the-crossroads-of-security-diversity-and-ai-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/06/17/aws-reinforce-2023-navigating-the-crossroads-of-security-diversity-and-ai-innovation/amp/",
+      "publishedDateTime": "2023-06-17T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-autonomous-driving-ai-training-chip-market-research-2030.md",
       "title": "Autonomous Driving AI Training Chip Market Research | 2030",
       "excerpt": "Jun (The Expresswire) -- \"Autonomous Driving AI Training Chip Market\" Insights 2023 By Types (L3 Level, L4 Level, L5 Level, Other",
@@ -1069,160 +1217,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-elon-musk-backs-ai-regulation-but-offers-only-vague-solutions.md",
-      "title": "Elon Musk Backs AI Regulation, But Offers Only Vague Solutions",
-      "excerpt": "I’m in favor of AI regulation because...advanced AI is [a] risk to the public,' he says today. But when pushed for specifics, the Tesla CEO comes up empty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions",
-      "originalUrl": "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05DAz1A8aNpuSWJBng8gzvN-1.fit_lim.size_1200x630.v1686931162.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-funding-is-drying-up-for-ai-run-vertical-farms.md",
-      "title": "Funding Is Drying Up for AI-Run Vertical Farms",
-      "excerpt": "Industry experts still say that indoor farming is a crucial piece of agriculture’s future, especially as climate change spurs more destructive wildfires and floods. Nonetheless, the ability of vertical farms to carve out meaningful market share on a national scale could be years away, they note.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharvest-to-aerofarms-funding-is-drying-up-for-ai-run-vertical-farms",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharvest-to-aerofarms-funding-is-drying-up-for-ai-run-vertical-farms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isP5Xb70JjuU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-sambasafety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions.md",
-      "title": "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions",
-      "excerpt": "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/16/sambasafety-sagemaker-step-functions.jpg",
-          "width": 1213,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T08:08:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

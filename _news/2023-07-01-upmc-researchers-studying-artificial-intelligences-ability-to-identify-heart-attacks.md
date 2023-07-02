@@ -51,20 +51,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "7 Strategies to Prepare Educators to Teach With AI"
-    excerpt: "Some experts believe conversations around integrating AI into education should start with teacher preparation programs that ensure new educators are prepared to teach in the age of AI. In a June 27 panel discussion at the International Society for Technology in Education conference ,"
-    publishedDateTime: 2023-06-27T19:12:00Z
-    webUrl: "https://www.edweek.org/teaching-learning/7-strategies-to-prepare-educators-to-teach-with-ai/2023/06"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 39
-    images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/92dc984/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F61%2Fe6%2F5b0584994946b87bd5a5c770ae6d%2F011023-ai-lessonplans-1290349042-b.jpg"
-        width: 942
-        height: 630
-        isCached: true
   - title: "Körber Prize for German AI Researcher"
     excerpt: "Cordelia Schmid is awarded the Körber European Science Prize that is endowed with one million euros. The German computer scientist Cordelia Schmid is a pioneer in computer-aided image processing. Schmid developed revolutionary new procedures that enable computers to understand image content."
     publishedDateTime: 2023-06-28T07:26:00Z

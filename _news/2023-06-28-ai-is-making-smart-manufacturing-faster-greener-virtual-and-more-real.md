@@ -72,15 +72,6 @@ related:
         width: 1020
         height: 512
         isCached: true
-  - title: "Use proprietary foundation models from Amazon SageMaker JumpStart in Amazon SageMaker Studio"
-    excerpt: "Amazon SageMaker JumpStart is a machine learning (ML) hub that can help you accelerate your ML journey. With SageMaker JumpStart, you can discover and deploy publicly available and proprietary foundation models to dedicated Amazon SageMaker instances for your generative AI applications. SageMaker JumpStart"
-    publishedDateTime: 2023-06-27T19:38:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-proprietary-foundation-models-from-amazon-sagemaker-jumpstart-in-amazon-sagemaker-studio/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 58
 
 secured: "YNGID6RcTOItIPpK5Cg4RTXAHLO229Q7oYdI+KU82yKKwTZxkAQkcGQIkyF91B63vJuzAePFNA0CFH/mD4jHDcWOPSeK52cptr4qBKLSSgGQBNvFSriC6MKkf70644tI6pKGMlbao6Xj6VMMgOH9KUXskupiidmPD3xGOxS8+vfGb/fx34+sVsyqr1l8Ch2AyrwvVBwiiSo8K1wvtmhhLW86eTJDi0NTOke6Bx3SIlLo3k2uS97viEc8n3Hi3Pv37A+MpWQPODbvz8o239tUho0NjWd7vDgfV7uyndt/RGJk7xY5hNQrPHtUG+QR7Z8qbgN4PursLVbTrePP1YGqWJ45p05Vfq5uXfpRYjtWV/ZxCl3doagu+ZIkIiJkTu+BQv2yBg/LdPCPKRBNBNiT7mmD2Jg7wVxmpLRxmu/NOJlHLvyQ9naE6AWCk/cdv5/sZNV7KsdKiaBzVHAdqx91dhu6FPCxH8QEcuzfIV8w1A9LyoIXWTN6LlVjUNg3e828x3oMi8llAqDj0GkOmgbAzg==;Aao/2bDpzjS/RIM2Db5zHA=="
 ---

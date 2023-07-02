@@ -29,7 +29,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
         width: 1706
@@ -80,20 +80,6 @@ related:
       - url: "https://news.ucr.edu/sites/default/files/2023-06/GettyImages-1466924677.jpg"
         width: 6720
         height: 3384
-        isCached: true
-  - title: "How machine learning development companies are redefining the business landscape"
-    excerpt: "Machine learning companies are driving tech innovation, empowering businesses in the digital era with cutting-edge solutions and expertise."
-    publishedDateTime: 2023-06-27T20:35:00Z
-    webUrl: "https://knowtechie.com/how-machine-learning-development-companies-are-redefining-the-business-landscape/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 34
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2023/06/Machine-learning-feature-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Machine Learning is Revolutionizing Quantitative Trading"
     excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."

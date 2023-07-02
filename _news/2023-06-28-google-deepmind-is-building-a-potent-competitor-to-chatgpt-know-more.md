@@ -76,21 +76,14 @@ related:
         height: 2263
         isCached: true
   - title: "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials"
-    excerpt: "Novel materials for everything from wind turbines to carbon capture could help cut emissions. A small but growing number of startups want to use AI to develop them faster."
-    publishedDateTime: 2023-06-30T10:36:00Z
-    webUrl: "https://www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985"
-    ampWebUrl: "https://www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985.amp.html"
+    excerpt: "Ever since ChatGPT went viral last fall, companies have touted many ways artificial intelligence can make our lives easier. They’ve promised superhuman virtual assistants, tutors, lawyers and doctors."
+    publishedDateTime: 2023-06-30T12:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-30/artificial-intelligence-startup-looks-to-develop-climate-friendly-materials"
     type: article
     provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 73
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1939986!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/wind-turbines-at-sunset-in-germany-photographer-bloomberg-creative-photos-bloomberg-creative-collection.jpg"
-        width: 620
-        height: 349
-        isCached: true
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 63
   - title: "AI watch: UK electoral warning and OpenAI’s move into London"
     excerpt: "This week in artificial intelligence"
     publishedDateTime: 2023-06-30T07:43:00Z

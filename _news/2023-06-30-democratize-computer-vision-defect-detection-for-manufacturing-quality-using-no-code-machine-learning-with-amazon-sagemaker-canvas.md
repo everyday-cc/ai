@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-computer
 webUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/"
 type: article
 quality: 93
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1000
         height: 560
         isCached: true
-  - title: "Use proprietary foundation models from Amazon SageMaker JumpStart in Amazon SageMaker Studio"
-    excerpt: "Amazon SageMaker JumpStart is a machine learning (ML) hub that can help you accelerate your ML journey. With SageMaker JumpStart, you can discover and deploy publicly available and proprietary foundation models to dedicated Amazon SageMaker instances for your generative AI applications. SageMaker JumpStart"
-    publishedDateTime: 2023-06-27T19:38:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-proprietary-foundation-models-from-amazon-sagemaker-jumpstart-in-amazon-sagemaker-studio/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 58
 
 secured: "q/nA0SFHosOtMmklo0QYTfxiHsPt9LA02TUHGn8Prvqf7WSKb0nP61W8+271GpgPND3sT3kvnoh4/KfPmmNHtd4k3lOR61e1IYVjlTRfGy4c23chRUPpShsjo7OhJ4DdgZnA21eBr3wqlK3TWlS3agNgQSW4uCnzg2I41uZWBkykehBX21APKAydyfxpR2tOC8/KFAhaVR+gFvxgexshFsgVK7rhz6hxTSisWJximD5QUtPgYY5icUXd84R5IbK3OXQUNJyviTpWm2muQn5jCRPrz7gsUHBPvhobfeNYtD3rAelWqfCO5lXWWC9ekEcq109rLUecAmIvvGBi7gCz1e9+cIzJN453FkPiqCv/5W0=;hvOIEmvUrR6i8E5N9CRulw=="
 ---

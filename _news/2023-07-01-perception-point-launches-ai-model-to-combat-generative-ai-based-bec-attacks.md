@@ -190,15 +190,6 @@ related:
         width: 1028
         height: 685
         isCached: true
-  - title: "Transforming Healthcare With Generative AI"
-    excerpt: "Generative artificial intelligence (AI), a subset of deep learning that has enabled users to create content in multiple formats, is projected to help mitigate some of the issues in the healthcare industry. It has numerous transformative use cases across ..."
-    publishedDateTime: 2023-06-27T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/transforming-healthcare-with-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Artificial Intelligence Startup Cohere.io Joins Ramp to Bring Generative AI to Finance"
     excerpt: "At Ramp they’re dedicated \"to pushing the frontiers of AI to help businesses save time and money, with innovations like Ramp Intelligence.\"\""
     publishedDateTime: 2023-06-28T21:53:00Z

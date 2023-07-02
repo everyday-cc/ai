@@ -63,20 +63,6 @@ related:
         width: 1000
         height: 544
         isCached: true
-  - title: "Immuta updates its Data Security Platform for Databricks to strengthen AI workload protection"
-    excerpt: "Immuta said that the updates to the Databricks platform aim to unlock data value and maintain robust data security."
-    publishedDateTime: 2023-06-27T20:21:00Z
-    webUrl: "https://venturebeat.com/ai/immuta-updates-its-data-security-platform-for-databricks-to-strengthen-ai-workload-protection/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Immuta_Primary_Logo@3x.jpg?w=1200&strip=all"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Databricks Gains MosaicML and Its Generative AI for $1.3 Billion"
     excerpt: "Learn what the Databricks acquisition means for companies looking into public or private generative AI foundation models."
     publishedDateTime: 2023-06-28T20:52:00Z
@@ -104,20 +90,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/unnamed-e1687967517506.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Databricks and MosaicML CEOs say $1.3 billion deal is about helping enterprises create AI IP"
-    excerpt: "For the CEOs of Databricks and MosaicML, yesterday's acquisition news is all about helping speed up enterprise adoption of generative AI."
-    publishedDateTime: 2023-06-27T21:12:00Z
-    webUrl: "https://venturebeat.com/ai/databricks-and-mosaicml-ceos-say-1-3-billion-deal-is-about-helping-enterprises-create-ip/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 56
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-27T101016.621.png?w=1200&strip=all"
-        width: 1200
-        height: 750
         isCached: true
   - title: "Databricks AI Assistant Offers ‘Cemented’ Business Knowledge"
     excerpt: "An AI LLM trained on open data has broad knowledge drawn from publicly available resources, but the definition of a ‘customer’ or ‘fiscal year’ etc. always varies."
@@ -156,24 +128,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Databricks Purchases AI Startup MosaicML For $1.3 Billion"
-    excerpt: "Databricks' acquisition of MosaicML for $1.3 billion is one of the most significant transactions of its kind within the AI space. The acquisition took place amidst the tech industry's growing focus on AI. As noted above, tech giants such as Google and Microsoft, along with venture capital investors, are heavily investing in AI startups​."
-    publishedDateTime: 2023-06-27T19:20:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/33032655/databricks-purchases-ai-startup-mosaicml-for-1-3-billion"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "SqlDBM Attends the 2023 Data + AI Summit by Databricks"
-    excerpt: "The Data + AI Summit is renowned for its comprehensive program, featuring engaging sessions, workshops, and keynote presentations. Attendees will gain valuable insights into cutting-edge technologies,"
-    publishedDateTime: 2023-06-27T21:01:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/27/9840206.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Databricks Unleashes New Tools for Gen AI in the Lakehouse"
     excerpt: "Fresh off its announcement of the acquisition of MosaicML on Monday, Databricks today unleashed a torrent of new AI capabilities at its Data + AI Summit"
     publishedDateTime: 2023-06-28T18:19:00Z

@@ -22,22 +22,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "8 artificial intelligence tools for freelancers"
-    excerpt: "In the ever-evolving journalism landscape, artificial intelligence (AI) has emerged as a promising ally for creativity, efficiency and storytelling."
-    publishedDateTime: 2023-06-27T22:05:00Z
-    webUrl: "https://ijnet.org/en/story/8-artificial-intelligence-tools-freelancers"
-    type: article
-    provider:
-      name: IJNet
-      domain: ijnet.org
-    quality: 37
-    images:
-      - url: "https://ijnet.org/sites/default/files/styles/share_2_1/public/story/2023-06/gertruda-valaseviciute-xMObPS6V_gY-unsplash.jpg?h=d7b3a65f&itok=U-31pgNV"
-        width: 3888
-        height: 1944
-        isCached: true
-
 secured: "p161/UrRYPRPmjHy1vSwRaiAWu+4PZF4H4HGUOf0wlF9BkSAZwgMzBdyyN45tS6ozzsIc8x6yxjzjPhZD22JYRfmXk+OWTyOE7Fu1Ji/DDab2Z+2yfDr15CGtbjWa/CfsL8EcZtT+vuDYvwqtFdplHJiAQaJnuRuXEDewuho1ge8/5GEFsDSAsskA+qrZVs2JEve5K+u7jaMC9Glwty4sSQCEkVHWNY1mJs8WcCqhiCAH0ajetq5OJrX2msS/kPxrQ1Ipc181mOt+T28zEKQXfT5F5RAqQVaI2FMUgCrWnXqY+EhWkixxwEhxVxWuMmV2THpSPv3O+13pt8P6dg2ULSG6WPOGdXwdXBA0vLwkf4=;DFpEMoFFTomsA0xro9MYPA=="
 ---
 

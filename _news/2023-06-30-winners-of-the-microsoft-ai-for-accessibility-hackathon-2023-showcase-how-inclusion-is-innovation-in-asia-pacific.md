@@ -651,15 +651,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
-  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
-    excerpt: "India], June 27: Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-    publishedDateTime: 2023-06-27T21:40:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230627/4093494.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 5
 
 secured: "0snf59hpuSs+NvRy41LRYk7pbnQP8wtrSQ0cBHZLGF5JZQwlzigSI2+6SWsIjZBXEYKKONUfr4uKkOH5CdaHQhRdr0nBuO+ILlfz4IxK6ZO80okIOiXi2lHjGElQwc6hq8IYW19JbgXNryU7MumuwVKSV+zTBT5hqfe6+o9cso+Aqj37g+9UXyogSxvPGAQbo0Ple6tyd98hdUiR9u/2MqkbPccYuiICVro0fh/78nn7fWP3rPUTV1HTctevdRjQhoW/KfFex9u94PuGO8GLav+N+7ekzlZXOCo3G1lYwexK7O/Adyh+pxWGtoYAkPjGNEjYFKRGysSj+lw0W8tyFSRxS77wlcV82nL/rG3Ga2o=;Gkwub2i/LIEyQFDLX4BtAw=="
 ---
