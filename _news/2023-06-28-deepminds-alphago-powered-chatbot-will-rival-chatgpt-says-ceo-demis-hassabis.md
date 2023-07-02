@@ -41,22 +41,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Google DeepMind is apparently building a ChatGPT killer AI bot"
-    excerpt: "DeepMind’s CEO says that his engineers are working to use the techniques from AlphaGo to make Gemini more capable than ChatGPT."
-    publishedDateTime: 2023-06-27T06:27:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/deepmind-1.jpg"
-        width: 1286
-        height: 675
-        isCached: true
   - title: "Google DeepMind is developing a better AI than ChatGPT"
     excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
     publishedDateTime: 2023-06-29T13:36:00Z
@@ -134,20 +118,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
         width: 2500
         height: 1663
-        isCached: true
-  - title: "Google DeepMind's upcoming AI model, Gemini, might outshine ChatGPT"
-    excerpt: "DeepMind's Gemini AI model is expected to be better than GPT-4 The AI system Hassabis talked about is called Gemini. You probably heard this name for the first time at this year's Google I/O. Gemini is still in development."
-    publishedDateTime: 2023-06-27T05:49:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/google-s-deepmind-claims-its-next-llm-will-outclass-chatgpt/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l88520230627105623.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
     excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."

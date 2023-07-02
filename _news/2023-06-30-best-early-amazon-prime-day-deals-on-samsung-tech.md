@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-early-amazon-prime-day-d
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-early-amazon-prime-day-deals-on-samsung-tech/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,31 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Amazon Prime Day 2023: best early deals and when the sale starts"
-    excerpt: "Amazon Prime Day takes place on July 11 - 12 this year but the retailer already has a vast number of early Prime Day deals for you to shop now. We've searched through them and picked out the best ..."
-    publishedDateTime: 2023-06-29T16:43:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZefaoejrEEiKKo7pBmCaL6-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Best early Amazon Prime Day 2023 deals on robot vacuums"
-    excerpt: "It's almost Amazon Prime Day 2023. But you don't need to wait until Amazon's major sales event to score a deal on a top-rated robot vacuum. The experts at CBS Essentials have rounded up the best robot vacuum deals on the internet."
-    publishedDateTime: 2023-06-29T18:59:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-early-amazon-prime-day-2023-deals-on-robot-vacuums-2023-06-29/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 21
 
 secured: "mnJ3XfskWjI0aHXsz6ZmrnYMiFIPhHiZqK2bd3oZXZd9drr1/67OlDpoLaFs2kol+VwMCD2JEJUMuJtH9SIoFndk9fLFdd2/7rgod4rl/B2cVm57aulb7HpU7WGJgSlXTcrn8dnUtEgwF0BSmJXIwB5A956T+DPFGj/LYapT/0TAyaIK3fZo3EC+UogWb0pG7HP7UC3TzRUNKpscZ8VgKDoJuYBTkDvP7t1VNJDRHRCN82QcFGkZTZBPiLf2CJwqA9dcsOeNBkpNE7GW4MXc2kOFwi0J6yr7xvdLM+7RszQ7kV2Vu52ExFKdtbUiThjMjfQPL97BVUsjEIn7yNtY6bbfv0TeYJiM3GsNUboYbUU=;VD3bmGfOt3B4caiqbIE6RQ=="
 ---

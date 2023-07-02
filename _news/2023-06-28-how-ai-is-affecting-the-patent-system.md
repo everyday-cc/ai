@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 803
         isCached: true
-  - title: "Big tech companies want AI regulation - but on their own terms"
-    excerpt: "The remark prompted Internal Market Commissioner Thierry Breton to accuse Altman of “attempting blackmail.” Altman clarified his comments the next day, and when the CEO and commissioner met in person last week,"
-    publishedDateTime: 2023-06-27T05:44:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399311845.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "EU, Unesco to help developing countries shape AI rules"
     excerpt: "The European Union will help fund a Unesco scheme supporting developing countries as they create laws regulating artificial intelligence, the UN cultural body said Tuesday (June 27)."
     publishedDateTime: 2023-06-27T15:44:00Z

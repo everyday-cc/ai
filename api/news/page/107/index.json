@@ -2,6 +2,126 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2023-04-25-microsoft-earnings-preview-ai-azure-and-activision-takeover-in-focus.md",
+      "title": "Microsoft Earnings Preview: AI, Azure and Activision Takeover In Focus",
+      "excerpt": "Azure growth, which in the prior quarter slowed ... leadership bolstered by at-scale compute demand for emerging AI/generative AI data, training, and application deployment,” said KeyBanc ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/stocks/microsoft-earnings-preview-ai-azure-and-activision-deal-in-focus",
+      "originalUrl": "https://www.thestreet.com/investing/stocks/microsoft-earnings-preview-ai-azure-and-activision-deal-in-focus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-a-meta-executive-reportedly-warned-staff-last-year-that-we-have-a-significant-gap-when-it-comes-to-ai.md",
+      "title": "A Meta executive reportedly warned staff last year that 'we have a significant gap' when it comes to AI",
+      "excerpt": "Mark Zuckerberg and other execs had a five-hour discussion on how Meta could implement systems for cutting edge AI last year, Reuters reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4",
+      "originalUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6447d9cb90523900196fceb6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4?amp",
+      "publishedDateTime": "2023-04-25T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-maxon-partners-with-massrobotics-to-support-the-advancements-of-drive-technology-in-robotics.md",
+      "title": "maxon Partners with MassRobotics to Support the Advancements of Drive Technology in Robotics",
+      "excerpt": "MassRobotics and maxon announce a partnership to support the robotics innovation ecosystem through collaboration and exploration of motion control technologies around automation and manufacturing-related applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/april-2023/maxon-massrobotics-drive-technology-robotics",
+      "originalUrl": "https://www.automation.com/en-us/articles/april-2023/maxon-massrobotics-drive-technology-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-gigantor-technologies-announces-uspto-allowed-next-patent-for-artificial-intelligence-target-recognition-using-novel-synthetic-scaling-technique.md",
       "title": "Gigantor Technologies Announces USPTO Allowed Next Patent for Artificial Intelligence Target Recognition using Novel Synthetic Scaling Technique",
       "excerpt": "\"Our approach to processing multiple scales in parallel has significant implications for the field of AI, particularly in areas such as object recognition and target tracking. By applying the ...",
@@ -1026,143 +1146,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work.md",
-      "title": "Human values, as well as AI, must be at the core of the future of work",
-      "excerpt": "Automation too often erodes conditions and job quality creating anxiety and overwork. To build ‘good work’, we must invest in people as well as tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "originalUrl": "https://www.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d657064e917ca19ac473bf16b87b0cf90d851986/0_197_4736_2843/master/4736.jpg?width=620&quality=85&auto=format&fit=max&s=f33b3a001e254e0a4f65dfab06acb209",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "publishedDateTime": "2023-04-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-artificial-intelligenceai-security-market-to-witness-huge-growth-with-ibm-dataminr-sensetime-sentinelone.md",
-      "title": "Artificial Intelligence(AI) Security Market to Witness Huge Growth with IBM, Dataminr, SenseTime, SentinelOne",
-      "excerpt": "The market research carried out in this large scale Artificial Intelligence(AI) Security market report succors clients to forecast investment in an emerging market, expansion of market share or success of a new product.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-security-market-to-witness-huge-growth-with-ibm-dataminr-sensetime-sentinelone-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-security-market-to-witness-huge-growth-with-ibm-dataminr-sensetime-sentinelone-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-black-sesame-to-supply-soc-for-baidus-smart-driving-technology.md",
-      "title": "Black Sesame to supply SoC for Baidu's smart driving technology",
-      "excerpt": "Black Sesame to supply SoC for Baidu's smart driving technology Peng Chen, DIGITIMES Asia, Taipei Tuesday 25 April 2023 0 Black Sesame has become Baidus latest chip partner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230425VL205/adas+av-automotive-ic-news-china.html&chid=10",
-      "originalUrl": "https://www.digitimes.com/news/a20230425VL205/adas+av-automotive-ic-news-china.html&chid=10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

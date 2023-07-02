@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/"
 type: article
 quality: 87
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -128,20 +128,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Databricks Acquires MosaicML, a Generative AI Startup, in a $1.3 Billion Deal"
-    excerpt: "Databricks has announced its acquisition of MosaicML, a San Francisco-based generative artificial intelligence startup, for $1.3 billion"
-    publishedDateTime: 2023-06-27T06:57:00Z
-    webUrl: "https://techstory.in/databricks-acquires-mosaicml-a-generative-ai-startup-in-a-1-3-billion-deal/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/1200x0-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Databricks adds federation, generative AI front end and development tools to its lakehouse"
     excerpt: "Databricks Inc. is joining the generative AI parade today with a query engine that lets users ask questions and get contextually relevant answers in natural language. LakehouseIQ is integrated with the company’s Unity Catalog governance platform to ensure adherence to internal security and governance rules."
     publishedDateTime: 2023-06-28T15:59:00Z

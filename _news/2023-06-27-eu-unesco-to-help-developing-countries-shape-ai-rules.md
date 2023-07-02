@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Big tech companies want AI regulation - but on their own terms"
-    excerpt: "The remark prompted Internal Market Commissioner Thierry Breton to accuse Altman of “attempting blackmail.” Altman clarified his comments the next day, and when the CEO and commissioner met in person last week,"
-    publishedDateTime: 2023-06-27T05:44:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399311845.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Executives urge Europe to rethink its world-leading AI rules"
     excerpt: "More than 150 company executives are urging the European Union to rethink the world's most comprehensive rules for artificial intelligence, saying Friday that upcoming regulations will make it harder for companies in Europe to compete with rivals overseas,"
     publishedDateTime: 2023-06-30T16:17:00Z

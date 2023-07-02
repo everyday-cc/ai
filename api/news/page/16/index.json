@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-06-20-machine-learning-for-targeted-disease-treatment.md",
+      "title": "Machine Learning for Targeted Disease Treatment",
+      "excerpt": "Machine learning is a next generation technology and a sub-set of Artificial Intelligence (AI) now being used to navigate complex biological information in the search for specific patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/health/Machine-Learning-for-Targeted-Disease-Treatment.aspx",
+      "originalUrl": "https://www.news-medical.net/health/Machine-Learning-for-Targeted-Disease-Treatment.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23771_45097368410416678285.jpg",
+          "width": 2000,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-swiss-israeli-fintech-firm-okoora-launches-ai-integrated-platform.md",
       "title": "Swiss-Israeli fintech firm Okoora launches AI-integrated platform",
       "excerpt": "Okoora, a Swiss-Israeli fintech start-up, has introduced its new ... Okoora’s platform utilizes advanced AI technology to provide real-time insights into currency markets, streamline currency ...",
@@ -974,6 +1017,41 @@
       ]
     },
     {
+      "path": "_news/2023-06-20-machine-learning-helps-researchers-identify-hit-songs-with-97-accuracy.md",
+      "title": "Machine learning helps researchers identify hit songs with 97% accuracy",
+      "excerpt": "They also applied machine learning to the neural responses to the first minute of the songs. In this case, hits were correctly identified with a success rate of 82%. “This means that streaming services ... of any commercial or financial relationships ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/992481",
+      "originalUrl": "https://www.eurekalert.org/news-releases/992481",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-self-driving-revolution-hampered-by-a-lack-of-accurate-simulations-of-human-behavior.md",
       "title": "Self-driving revolution hampered by a lack of accurate simulations of human behavior",
       "excerpt": "Algorithms that accurately reflect the behaviour of road users - vital for the safe roll out of driverless vehicles - are still not available, warn scientists. They say there is “formidable complexity” in developing software that can predict the way people behave and interact on the roads,",
@@ -1115,109 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle.md",
-      "title": "Most US workers want to adopt emerging tech like AI but see senior leaders as obstacle",
-      "excerpt": "More than half of surveyed employees say the emerging technologies are outdated by the time their companies decide to implement them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "originalUrl": "https://www.zdnet.com/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a16dfd27ed152a0030faf7e421304699720e6e91/2023/06/19/36f8bdbd-2b8e-44f4-a7f3-cb6eebaa6952/gettyimages-1403176138.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "publishedDateTime": "2023-06-19T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets.md",
-      "title": "Parallel Domain’s API lets customers use generative AI to build synthetic datasets",
-      "excerpt": "Parallel Domain is putting the ability to generate synthetic datasets into the hands of its customers with its new API called Data Lab.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/",
-      "originalUrl": "https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Generative-AI.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/amp/",
-      "publishedDateTime": "2023-06-19T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

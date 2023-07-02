@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-repo
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751"
 type: article
 quality: 101
-heat: 551
+heat: 561
 published: true
 
 provider:
@@ -301,6 +301,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chip Stocks Drop as U.S. Mulls Fresh Curbs on AI Access to China"
+    excerpt: "Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credi"
+    publishedDateTime: 2023-06-28T10:23:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-06-28/chip-stocks-smacked-as-u-s-mulls-fresh-curbs-on-ai-access-to-china"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "New AI Chip Export Rules Put Semiconductor Firms in Spotlight"
     excerpt: "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China."
     publishedDateTime: 2023-06-29T12:15:00Z

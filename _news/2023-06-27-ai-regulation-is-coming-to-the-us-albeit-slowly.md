@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulatio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://www.reuters.com/resizer/6RDiNFJaoYEgBXrTGH2tOWz9eA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKGXR6M5CRGCPIHXVCJVHX2RFI.JPG"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Big tech companies want AI regulation - but on their own terms"
-    excerpt: "The remark prompted Internal Market Commissioner Thierry Breton to accuse Altman of “attempting blackmail.” Altman clarified his comments the next day, and when the CEO and commissioner met in person last week,"
-    publishedDateTime: 2023-06-27T05:44:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399311845.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "EU, Unesco to help developing countries shape AI rules"
     excerpt: "The European Union will help fund a Unesco scheme supporting developing countries as they create laws regulating artificial intelligence, the UN cultural body said Tuesday (June 27)."

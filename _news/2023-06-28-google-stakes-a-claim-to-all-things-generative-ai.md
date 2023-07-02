@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
 type: article
 quality: 91
-heat: 331
+heat: 321
 published: true
 
 provider:
@@ -235,20 +235,6 @@ related:
       - url: "http://www.nextplatform.com/wp-content/uploads/2015/02/machine-learning.jpg"
         width: 340
         height: 238
-        isCached: true
-  - title: "AWS announces generative AI innovation center"
-    excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
-    publishedDateTime: 2023-06-27T06:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20230626VL205/aws-generative-ai-innovation-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230626vl205_files/1_2b.jpg"
-        width: 1280
-        height: 852
         isCached: true
   - title: "Enterprises need to control their own generative AI, say data scientists"
     excerpt: "New poll data from Domino Data Lab finds generative AI cannot be outsourced — enterprises need to fine-tune or control their own models."

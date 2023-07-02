@@ -2,6 +2,143 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-06-01-how-artificial-intelligence-can-help-your-company-thrive.md",
+      "title": "How Artificial Intelligence Can Help Your Company Thrive",
+      "excerpt": "AI has become one of the most important technologies of our time. I believe it will undoubtedly have an impact that will revolutionize the way companies are managed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6438211dffe260fd7c13615b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/",
+      "publishedDateTime": "2023-06-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-self-driving-cars-could-clear-light-rails-troubles.md",
+      "title": "Self-driving cars could clear light rail’s troubles",
+      "excerpt": "We propose that large, building-shaking trains be replaced with 6-9 passenger self-driving vehicles, propelled with plug-in technology (just like a Volt or Tesla automobile). Such vehicles would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsobserver.com/opinion/article227311534.html",
+      "originalUrl": "https://www.newsobserver.com/opinion/article227311534.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-augmented-reality-is-already-changing-healthcare-for-the-better.md",
+      "title": "Augmented Reality Is Already Changing Healthcare For The Better",
+      "excerpt": "Ari Grobman is the Chief Executive Officer at Lumus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64776950a4d59f3c17a62ddd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/amp/",
+      "publishedDateTime": "2023-06-01T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-stable-diffusion-torch-is-not-able-to-use-gpu-can-you-fix.md",
       "title": "Stable Diffusion “Torch is not able to use GPU” – can you fix?",
       "excerpt": "Having issues with running Stable Diffusion? Need to resolve “Torch is not able to use GPU” error message? Take a read of this post which explains how to resolve ...",
@@ -965,144 +1102,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-cisco-aims-for-ai-first-security-with-armorblox-buy.md",
-      "title": "Cisco aims for AI-first security with Armorblox buy",
-      "excerpt": "Looking to bolster the AI support in its Security Cloud strategy Cisco announced plans to acquire Armorblox, a 6-year old predictive and generative AI vendor that specializes in attack prediction and rapid threat detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.html",
-      "originalUrl": "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/05/08/pcworld-infosec4tc-platinum-membership-cyber-security-training-lifetime-access-100939398-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.amp.html",
-      "publishedDateTime": "2023-05-31T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-while-parents-worry-teens-are-bullying-snapchat-ai.md",
-      "title": "While parents worry, teens are bullying Snapchat AI",
-      "excerpt": "Users can also personalize My AI with custom Bitmoji avatars, and chatting feels a bit more intimate than going back and forth with ChatGPT’s faceless interface. Not all users were happy with the new chatbot,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/",
-      "originalUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-3.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/",
-      "publishedDateTime": "2023-05-31T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-global-hiv-treatment-market-report-2023-advances-in-gene-therapy-present-significant-opportunities-for-sector-growth.md",
-      "title": "Global HIV Treatment Market Report 2023: Advances in Gene Therapy Present Significant Opportunities for Sector Growth",
-      "excerpt": "Analysis By Product, By Region Size and Trends with Impact of COVID-19 and Forecast up to 2030\" report has been added to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32661362/global-hiv-treatment-market-report-2023-advances-in-gene-therapy-present-significant-opportunities",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32661362/global-hiv-treatment-market-report-2023-advances-in-gene-therapy-present-significant-opportunities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32661362",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32661362",
-      "publishedDateTime": "2023-05-31T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

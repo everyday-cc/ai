@@ -242,20 +242,6 @@ related:
         width: 340
         height: 238
         isCached: true
-  - title: "AWS announces generative AI innovation center"
-    excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
-    publishedDateTime: 2023-06-27T06:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20230626VL205/aws-generative-ai-innovation-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230626vl205_files/1_2b.jpg"
-        width: 1280
-        height: 852
-        isCached: true
   - title: "Axonify Evolves Artificial Intelligence Capabilities, Launching New Generative AI Tool"
     excerpt: "Axonify, a leader in frontline employee enablement, today announced the launch of Max, a new conversational generative AI tool that instantly answers on-the-job questions to better enable frontline workers to get the job done quickly and more accurately,"
     publishedDateTime: 2023-06-28T14:39:00Z

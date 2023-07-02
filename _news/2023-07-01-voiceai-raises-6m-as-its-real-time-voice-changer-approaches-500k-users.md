@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-tim
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/amp/"
 type: article
 quality: 88
-heat: 90
+heat: 88
 published: true
 
 provider:

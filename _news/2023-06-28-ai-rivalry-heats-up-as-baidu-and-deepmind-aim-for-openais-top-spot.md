@@ -137,20 +137,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Google DeepMind Takes Back What it Lost to OpenAI"
-    excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
-    publishedDateTime: 2023-06-27T06:59:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-takes-back-what-it-lost-to-openai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google DeepMind Will Eclipse OpenAI"
     excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."
     publishedDateTime: 2023-06-29T07:30:00Z

@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Resistant AI Extends Series A to $27.6m with new Funding from Notion Capital to Boost Fight Against Rapidly-evolving Financial Crime"
-    excerpt: "Resistant AI, an artificial intelligence (AI) and machine learning security company that protects financial services from financial crime, today announced it has expanded its Series A funding to $27.6m,"
-    publishedDateTime: 2023-06-27T06:52:00Z
-    webUrl: "https://financialit.net/news/fundraising-news/resistant-ai-extends-series-276m-new-funding-notion-capital-boost-fight"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 8
-    images:
-      - url: "https://financialit.net/sites/default/files/resistant_ai_1.png"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "6J8Cn0SeIrgJXl2PPZ0VCZKUIqcS5hOG1Pxr9YDoFtLhM3LqZ26CY9tMgn5C87/ivJRIYXif1fSVjz7CHxNbUdUGWWiCbD/uKL09pE77ObZa5dXOkWxOJbSJovYY6b6RDshDkncjKdMx9DKDwMc2ptN4cItAbJ5orlMzNc3u9Sox9OKzY3vkjHJaP9uPKtfRhQR//yz+AZjV1EA2wlVi8YS8jW4K+RIigL7V3LjtcqSGT5aK1vEsholpAIWvhWyutZnbbnRgtgBfyOJQeU5XtczoLlQZ8Er/OFnTu4JY+XtmhZU38NswVgagq34hGHMIvUQ1Iv9RWVzxE7qM00wYpBx+P9Biv83uetoZojXKcXs=;6fo0SGNL8m8EfAwHeZOiOg=="
 ---

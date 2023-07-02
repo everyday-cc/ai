@@ -34,20 +34,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Nvidia, Snowflake announce partnership for custom generative AI models"
-    excerpt: "Nvidia and Snowflake are entering a partnership that will let Snowflake customers build custom generative AI models."
-    publishedDateTime: 2023-06-27T06:59:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-snowflake-announce-partnership-custom-000058515.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/LUDd2fPwcZFoKu.F9tIu_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/91ebdfd245b3934c569bc9119203d5d1"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "NVIDIA Partners with Snowflake to Create Customized Generative AI Models"
     excerpt: "Snowflake and NVIDIA data collaboration will allow customers ranging from financial institutions to healthcare and retail to build AI models using their own data."
     publishedDateTime: 2023-06-27T13:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/"
 type: article
 quality: 102
-heat: 212
+heat: 202
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/40d83fa3f7f39abc7905eca943ad42d809b54945/0_133_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=41088739393e55718565b145d1ec4156"
         width: 620
         height: 372
-        isCached: true
-  - title: "Google DeepMind Takes Back What it Lost to OpenAI"
-    excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
-    publishedDateTime: 2023-06-27T06:59:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-takes-back-what-it-lost-to-openai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "AI rivalry heats up as Baidu and DeepMind aim for OpenAI’s top spot"
     excerpt: "At the front of the pack, Google DeepMind, Alphabet Inc.’s AI research lab, said its own large language model chatbot Gemini, which is still in development, is on track to eclipse ChatGPT and GPT-4, OpenAI’s newest and most powerful AI model."

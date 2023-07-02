@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Best early Amazon Prime Day deals on Samsung tech"
-    excerpt: "The Samsung Galaxy S22+ includes all of the top-of-the-line features found in the S22, along with a few extras such as a larger display screen and more battery. The S22+ model also comes with an 8K camera -- so you can capture all of your memories in stunning quality. Save on a new Samsung Galaxy Watch ahead of Amazon Prime Day."
-    publishedDateTime: 2023-06-29T17:53:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-early-amazon-prime-day-deals-on-samsung-tech/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-early-amazon-prime-day-deals-on-samsung-tech/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-early-amazon-prime-day-deals-on-samsung-tech/"
+  - title: "The best movies on Amazon Prime Video (July 2023)"
+    excerpt: "As with other streamers, movies are always coming and going on Amazon Prime Video. And while Prime Video’s original films are picking up more momentum, Amazon is still largely dependent on ..."
+    publishedDateTime: 2023-06-30T11:31:00Z
+    webUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/"
+    ampWebUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/08/d3d0d5ff-f9e4-4dbb-bf81-1b02b3150c60/thumbnail/1200x630/6c8b6e6c38713df157a140b06c21385a/samsungheader.png?v=f3503a7856c58c20acab4eae8bb1f0f4"
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/american-sniper-1.jpg?resize=1200%2C630&p=1"
         width: 1200
         height: 630
         isCached: true
