@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-mor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "How AI is affecting the patent system"
+    excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
+    publishedDateTime: 2023-06-28T13:34:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/how-ai-is-affecting-patent-system-2023-06-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/6RDiNFJaoYEgBXrTGH2tOWz9eA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKGXR6M5CRGCPIHXVCJVHX2RFI.JPG"
+        width: 1200
+        height: 628
         isCached: true
   - title: "High-resolution cameras with AI show cuttlefish camouflage is more complex than previously thought"
     excerpt: "Cuttlefish, along with other cephalopods like octopus and squid, are masters of disguise, changing their skin color and texture to blend in with their underwater surroundings."

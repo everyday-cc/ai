@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk says self-driving technology is 'profound' but not as big a deal as the human-like AI that may emerge in the future"
-    excerpt: "In response to a Tesla fan account on Twitter, the CEO suggested AGI was more profound than full self-driving technology."
-    publishedDateTime: 2023-06-27T10:36:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/649ab231867d960019d9282d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Tesla’s Full Self-Driving Version 12 Will Leave “Beta” Behind"
     excerpt: "The brand's polarizing CEO Elon Musk says that when version 12 makes it to the masses that it won't be dubbed \"beta\""
     publishedDateTime: 2023-06-29T17:00:00Z

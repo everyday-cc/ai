@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3796,2530,x671,y0,safe&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Next-gen content farms are using AI-generated text to spin up junk websites"
-    excerpt: "Major brands are paying for ads on these sites and funding the latest wave of clickbait, according to a new report."
-    publishedDateTime: 2023-06-27T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/clickbait2.jpeg?w=3000"
-        width: 3000
-        height: 1688
         isCached: true
   - title: "Efforts to label AI content in influencer marketing are gaining steam, but industry insiders warn regulation will face hurdles"
     excerpt: "Ad agency Ogilvy launched an initiative to disclose the use of AI influencers. Creator-economy insiders discuss whether regulation is needed."

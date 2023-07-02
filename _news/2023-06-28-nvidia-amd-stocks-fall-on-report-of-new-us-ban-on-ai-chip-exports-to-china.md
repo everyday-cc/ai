@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-repo
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751"
 type: article
 quality: 101
-heat: 561
+heat: 551
 published: true
 
 provider:
@@ -512,20 +512,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Nvidia partners with Snowflake on AI"
-    excerpt: "Will help customers build their own products Cloudy Snowflake is partnering with the chipmaker named after a vengeance daemon Nvidia to allow customers to build AI models using their own data. The two companies announced the partnership at Snowflake Summit 2023."
-    publishedDateTime: 2023-06-27T09:53:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57152-nvidia-partners-with-snowflake-on-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/c6aabe27ba0a0222c0a19962d3fb8abe_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Snowflake and NVIDIA Team on Generative AI in the Cloud"
     excerpt: "Data cloud company Snowflake and NVIDIA have announced at Snowflake Summit 2023 that they are partnering to provide businesses an accelerated path to create customized generative AI applications using their own proprietary data,"
     publishedDateTime: 2023-06-28T14:24:00Z

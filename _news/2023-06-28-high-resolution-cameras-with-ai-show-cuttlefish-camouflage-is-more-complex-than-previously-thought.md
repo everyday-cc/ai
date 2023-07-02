@@ -56,6 +56,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How AI is affecting the patent system"
+    excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
+    publishedDateTime: 2023-06-28T13:34:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/how-ai-is-affecting-patent-system-2023-06-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/6RDiNFJaoYEgBXrTGH2tOWz9eA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKGXR6M5CRGCPIHXVCJVHX2RFI.JPG"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI Model More Accurate Than MRI at Predicting Tumor Margins"
     excerpt: "Scientists at UCLA developed an AI model that helps determine how extensive cancer is within the prostate gland."
     publishedDateTime: 2023-06-27T14:12:00Z

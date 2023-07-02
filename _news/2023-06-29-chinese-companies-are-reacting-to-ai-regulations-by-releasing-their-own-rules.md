@@ -30,64 +30,38 @@ images:
     isCached: true
 
 related:
-  - title: "AI Regulation Is Coming To The U.S., Albeit Slowly"
-    excerpt: "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming."
-    publishedDateTime: 2023-06-27T09:49:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/"
-    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
+  - title: "US Mulls Even Tighter Restrictions to Stop AI Chips From Reaching China"
+    excerpt: "The US is considering even harsher export restrictions to prevent China from obtaining cutting-edge chips used to power AI programs. The US Commerce Department could implement the new export controls as soon as next month,"
+    publishedDateTime: 2023-06-28T16:56:00Z
+    webUrl: "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://i.pcmag.com/imagery/articles/03eZtvy53D4cKCBx4QCDzan-1.fit_lim.size_1200x630.v1687964313.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "How AI is affecting the patent system"
-    excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
-    publishedDateTime: 2023-06-28T13:34:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/how-ai-is-affecting-patent-system-2023-06-28/"
+  - title: "China’s AI firms might further lose chip access in new US ban"
+    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month."
+    publishedDateTime: 2023-06-28T18:54:00Z
+    webUrl: "https://techcrunch.com/2023/06/28/chinas-ai-firms-might-further-lose-chip-access-in-new-us-ban/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/6RDiNFJaoYEgBXrTGH2tOWz9eA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKGXR6M5CRGCPIHXVCJVHX2RFI.JPG"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "EU, Unesco to help developing countries shape AI rules"
-    excerpt: "The European Union will help fund a Unesco scheme supporting developing countries as they create laws regulating artificial intelligence, the UN cultural body said Tuesday (June 27)."
-    publishedDateTime: 2023-06-27T15:44:00Z
-    webUrl: "https://www.todayonline.com/world/eu-unesco-help-developing-countries-shape-ai-rules-2200641"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+  - title: "The 3 Top Chinese AI Stocks to Buy Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips China has emerged as a strong force in the race for artificial intelligence"
+    publishedDateTime: 2023-06-28T11:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-top-chinese-ai-stocks-to-buy-now-1032414672"
     type: article
     provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--HydQWz2b--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/06/27/20230627_afp_unesco.jpg?itok=qYdYlSpM"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Executives urge Europe to rethink its world-leading AI rules"
-    excerpt: "More than 150 company executives are urging the European Union to rethink the world's most comprehensive rules for artificial intelligence, saying Friday that upcoming regulations will make it harder for companies in Europe to compete with rivals overseas,"
-    publishedDateTime: 2023-06-30T16:17:00Z
-    webUrl: "https://www.chron.com/news/world/article/executives-urge-europe-to-rethink-its-18178786.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/41/01/23990346/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "CvyFqVkpOIm9SGPXVoFPr6CgDqZsbTPDsilh1VZFS5hlt5HbGwYUxnuskN15U1Zsr8xlsq1Mx/GY3jRuhzNfyZeLCVY/E2jGKAzBuu7mWtSBR6wUVXxEj23n5evaSkQ020mx6s9rHNF8SEx+wy+TGh1kCJNTLASQy0eII+xj4akR7qc8wcuzCMiemRVBFIATmzXN9o4YO4kI7Y2SxH+rdvIDfTdkQYv7XgUPABrxg4psuyVrhI+qm5lQxBVU0vbvgup+9apUcj4YxsID3S9pXZVL+WxtVuEPNreLhepXgY8GuDGF5z7ehdPr2NhZlCQ4EyT0ptzdEcLEVhQlFglPISm1oZzUcTFTtQcK74pJ+/JgD88GAfGSSCk5jHTvtKVHMbrwtIQwe2fL76rdZb7nkDyJcyRhh0nMi5rAEZG8JGgE1L/yukG5GMVBkZWJYGb0G8C/78TjxYV7QdzBq/CpbqKVBYcnZSJQnWQVOxssOE+p+Xzy8BF3jbgPq0hwvcTT8nQVo2YK+yCPaSPi90hULg==;UlUlgARKzeY3e4x6EUrEkg=="
 ---

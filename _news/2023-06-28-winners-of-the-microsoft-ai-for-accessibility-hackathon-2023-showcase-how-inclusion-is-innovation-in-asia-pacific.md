@@ -695,20 +695,6 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 26
-  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
-    excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-    publishedDateTime: 2023-06-27T09:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hexaware-reinforces-ai-leadership-with-double-w-at-/2023/06/27/9839286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/530945/Hexaware.jpg"
-        width: 400
-        height: 240
-        isCached: true
   - title: "Moody’s and Microsoft Announce Partnership for Innovative AI-Based Research and Risk Analysis"
     excerpt: "Built on a combination of Moody’s robust data and analytical capabilities and the power and scale of Microsoft Azure OpenAI Service, the partnership creates innovative offerings that enhance insights into corporate intelligence and risk assessment,"
     publishedDateTime: 2023-06-29T18:35:00Z
@@ -746,6 +732,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "23GfQXGTQPSW+JCwSDrKBSz5Wmzwt4p1FxnrdWtJvhGJ2Kz3oBgcA9BIZ2nN144M9CywfXw95wIIq6CfTAsZWYmndlcSYfER3G8EJR3mbEuz3A0O4wKIu29zOtbp/2qjSp1BnUj9wnoy8Pcslu5G3DWPNz3Mf3nyBpZBNAWq7QpaTGrVRQaBEccI/fFkyXmscsDiJalIPguvlQjPYF9EmuSmgRoVQfejvpJSXUaVvpVuLdchMWJk1nJSJ4pYxv5mhb8sa7ri/qQtitRBkmRz9j77qfYSy0qpKQc8Gb6qFhKH3u5g2zh3jn2vlaZUkaZ1BYCuwfCA0nr4LaOYJgtQv77swJKvGYf59UiipSRK7XY=;jIfZC1u4xAlejKfOhw8YQw=="
+secured: "OZlVLP6AVvkuto8yu8BRF4gTdr+FsO5G0T2EXI15hMYbiW9BlPlSUb9/y6jKkZwVXCeJSWNujav2nr6vtkOuMWYiaoxAtR8ufYkuQ37CdoTTdlLuPohciHH6ymJY/W8t84vELfH1lljfoNgwdtQj8wFepQxXd3Kz4h9WQuJrxWuL/FeYufXdjaIsk3Ayn8nQnf4Ccv68v1AAMC0kOX4IQyXq9m535yBjXrpqTP/gOxXFdgpE58uUxMy7IeyahIXgvdamRTNBQ8qt9ft8gkpakaEb9caX+2pve5viCJBpieB6c/FUTNihf+asdMDcDxR37G+gT9Hn/IdqaOMRNoKMYfK3DPwcsQnb2rP3MQqPZkmEz/MeWf54qljEB9q6f4kTAKrb8THZd1kCSboHehQzZZOi4mIc6uOh5l4aNUUhh9PJ9igOG6JB8mZVIP/5Piki6vGGb2gCePbMhuygG6RCaasHg2MfyxnRRIovCFj+w0XlVZpGr/O/Xk8vIzf7yzYgKDAc1q0lKSjb5JEHHb7kZw==;FBGRllwn/IjrllquyvQ1gA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-i
 webUrl: "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/how-computers-and-arti.jpg"
         width: 660
         height: 441
-        isCached: true
-  - title: "Can the EU bring law and order to AI?"
-    excerpt: "As countries scramble to deal with the risks and rewards of AI, the European Union is way ahead on the first laws regulating artificial intelligence. Here’s what’s really in the new AI Act"
-    publishedDateTime: 2023-06-27T09:55:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/27/techscape-european-union-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/27/techscape-european-union-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/27/techscape-european-union-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/f4bdac59cb787d8865f0e5ea267c6636a65f903b/0_0_6041_3840/master/6041.jpg?width=620&quality=85&auto=format&fit=max&s=cef2f3f80987cb6bfcd6d3ce267f62fe"
-        width: 620
-        height: 394
         isCached: true
   - title: "Businesses and tech firms criticize proposed EU AI Act"
     excerpt: "EU business leaders worry that a perceived excess of regulation could derail efforts to make Europe one of the front-runners in AI technology development."

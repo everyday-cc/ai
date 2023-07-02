@@ -25,66 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "AI Regulation Is Coming To The U.S., Albeit Slowly"
-    excerpt: "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming."
-    publishedDateTime: 2023-06-27T09:49:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/"
-    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
+  - title: "Unesco advances AI support for member states"
+    excerpt: "The European Commission provides R82 million funding for low-income member states to develop AI ethics legislation."
+    publishedDateTime: 2023-06-28T10:38:00Z
+    webUrl: "https://www.itweb.co.za/content/G98YdMLGDYy7X2PD"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Chinese Companies Are Reacting To AI Regulations By Releasing Their Own Rules"
-    excerpt: "China is currently home to some of the most advanced AI regulations in the world. Its party-state government, free from the burden of compromise, can swiftly regulate AI as it sees fit. Beijing has in recent months and years crafted regulations that both (partially) protect citizens from tech companies’ greediest impulses and uphold the paternalistic impulse to preserve state power over individual expression and corporate interest."
-    publishedDateTime: 2023-06-29T15:37:00Z
-    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/"
-    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649da4c486456d34f90b96c9/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.itweb.co.za/static/pictures/2023/06/AI-data-hologram-2023.jpg"
         width: 1200
-        height: 803
+        height: 675
         isCached: true
-  - title: "How AI is affecting the patent system"
-    excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
-    publishedDateTime: 2023-06-28T13:34:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/how-ai-is-affecting-patent-system-2023-06-28/"
+  - title: "Artificial intelligence: Partnership between UNESCO, EU to speed up implementation of ethical rules"
+    excerpt: "At a moment where concerns over generative AI are growing, the partnership between UNESCO and the European Commission will help low-income countries to develop their"
+    publishedDateTime: 2023-06-27T14:38:00Z
+    webUrl: "https://www.securityinfowatch.com/industry-news/press-release/53064520/artificial-intelligence-partnership-between-unesco-eu-to-speed-up-implementation-of-ethical-rules"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Security
+      domain: securityinfowatch.com
+    quality: 40
     images:
-      - url: "https://www.reuters.com/resizer/6RDiNFJaoYEgBXrTGH2tOWz9eA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKGXR6M5CRGCPIHXVCJVHX2RFI.JPG"
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/06/16x9/Marco_etico_global_sobre_la_Inteligencia_artificial_.649af267bf04d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Executives urge Europe to rethink its world-leading AI rules"
-    excerpt: "More than 150 company executives are urging the European Union to rethink the world's most comprehensive rules for artificial intelligence, saying Friday that upcoming regulations will make it harder for companies in Europe to compete with rivals overseas,"
-    publishedDateTime: 2023-06-30T16:17:00Z
-    webUrl: "https://www.chron.com/news/world/article/executives-urge-europe-to-rethink-its-18178786.php"
+  - title: "Unesco official: AI could accomplish more tasks in newsroom"
+    excerpt: "He said that with more than 7,000 languages worldwide, of which 4,000 can be expressed in written form, AI through machine translation provides an opportunity for media to expand readership and inclusion with proper contextualization. Organized by the ..."
+    publishedDateTime: 2023-06-28T23:49:00Z
+    webUrl: "https://www.manilatimes.net/2023/06/29/campus-press/unesco-official-ai-could-accomplish-more-tasks-in-newsroom/1898327"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/41/01/23990346/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 21
 
 secured: "CtjpDd49fYIc4Z04sHlui4NtyfsBUWP4o05jkwdyAmF9sbtgtwEHaimxuT/pPulaGnWEUQ2teAQqovYV3bOFrKEcNkdEHoV/5X9qL5MbOK+diH9wFFz3hdp3medZYToCY78vxGIXejutiGufbV/OXORCJP4TL21Yvs8qY+nZQ+K852kAZBHomyq4WUVxbD7vF0j6A8LrcEpILyiNeBjBtpXa16qSaaCTfrAcVVY8wXCg1PlKA6J+rUVgvyOMG3yS1dYkV3Y7uuNa/OJ73+zARDWPjl1YZg+KsUkd5maaYn0TTyvl9P0e1lakPcJ0E5piKThknR4OPk/MZGjfclqDWgD3pMq/wABcpkFPhpIGVLI=;/hbiyInXt8WO6185HAjVOA=="
 ---

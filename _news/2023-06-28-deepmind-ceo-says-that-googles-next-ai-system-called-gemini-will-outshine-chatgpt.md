@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-p
 webUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html"
 type: article
 quality: 78
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -136,20 +136,6 @@ related:
       - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
         width: 300
         height: 600
-        isCached: true
-  - title: "Google DeepMind to power its AI with AlphaGo-like features to fight ChatGPT"
-    excerpt: "DeepMind's success in beating a human Go champion is a stellar example of its capabilities in AI. Can it apply these techniques to language models and outperform GPT?"
-    publishedDateTime: 2023-06-27T09:52:00Z
-    webUrl: "https://interestingengineering.com/culture/google-deepmind-ai-alphago-chatgpt"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 52
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/27/image/jpeg/51U1HcTsdW47Txd36NQ49l0LnzO7gI0DLaxc8SxW.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
     excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."

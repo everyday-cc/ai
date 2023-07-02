@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta releases clues on how AI is used on Facebook and Instagram"
-    excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on its apps."
-    publishedDateTime: 2023-06-29T10:01:00Z
-    webUrl: "https://www.wral.com/story/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/20933054/"
-    ampWebUrl: "https://www.wral.com/amp/20933054/"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20933054/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 59
-    images:
-      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wral_newcom_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Meta explains how its AI algorithms work on Instagram and Facebook"
     excerpt: "The social media giant has put out a post explaining how its AI Algorithms decide on the content you see on your feed."
     publishedDateTime: 2023-06-30T07:40:00Z
@@ -91,6 +75,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Meta releases clues on how AI is used on Facebook and Instagram"
+    excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on"
+    publishedDateTime: 2023-06-29T09:01:00Z
+    webUrl: "https://www.wsiltv.com/news/consumer/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/article_b7795e7c-51e2-532b-ae7a-0c1e8871edbe.html"
+    type: article
+    provider:
+      name: WSIL-TV
+      domain: wsiltv.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/1/ff/1fff1fee-3a93-53e1-b28c-a7fba804b3e9/649dad38086b2.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How Does AI Influence What You See On Facebook And Instagram? Meta Has Explained"
     excerpt: "Meta has published a blog post explaining how AI affects your feed on Facebook and Instagram and how you can control the same."

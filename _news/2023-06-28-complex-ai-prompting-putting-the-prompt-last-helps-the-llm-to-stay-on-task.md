@@ -114,15 +114,6 @@ related:
       name: Becker's Spine Review
       domain: beckersspine.com
     quality: 34
-  - title: "ChatGPT builds a tomato-harvesting robot"
-    excerpt: "Thanks to a prompt from researchers at Delft University of Technology (TU Delft) in the Netherlands and the Swiss technical university École polytechnique fédérale de Lausanne (EPFL ), ChatGPT, an artificial intelligence (AI) chatbot developed by OpenAI, has created its first robot."
-    publishedDateTime: 2023-06-27T09:33:00Z
-    webUrl: "https://insights.globalspec.com/article/20657/chatgpt-builds-a-tomato-harvesting-robot"
-    type: article
-    provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 19
 
 secured: "4ClbAgR9NaMJWgve8Bp+ORBAOE4YebUWPdQhMnY6PPU9lmwhMFtiljeouqq2gTneyg/YH+RSpDgFuNW51l1P/feLbFZf6cHdHz8WkdI5Yxegt3/YewnCsYLS+f5aEyM9s8Xz9KCUb+69lL37PYZTgp+PFtKeS48OvXW7I5hyhoflQ9vaLilFWwPuE5UpTaD/O8DMc+APMYpUiMXHqikKCfUyVVjuzdPmdQO7L/5wk6jKIFZ6QcMPSnk8zfGLRLZOE48vNI/vZZq93mUJm0149rAyXy9RkDTKB2oiXxI4dCcA7oIbNCQjGroowiIDwF30gSbRp+jTXr/WiDE6VyJkOrbvhNoME6mrAToUn8sMRsLdEF3mu/Oq/BUoGanGS9zu7fie127thKpab54C7nREuRA49Yw6+s1AB9wuGVjUdplPmiLjV3zntJGHcjvoj6vkvta8wu1H8s6XkJ/C3zGMMXUo8qrS1UzvWho0TVF8rEPrRUYvslL3GxI8ITGteb8ydkdvBXS0/NYkP0fyUwi1zQ==;APwS+ng6SONqkbx3ajjNwg=="
 ---

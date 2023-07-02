@@ -70,22 +70,6 @@ related:
         width: 660
         height: 441
         isCached: true
-  - title: "Can the EU bring law and order to AI?"
-    excerpt: "As countries scramble to deal with the risks and rewards of AI, the European Union is way ahead on the first laws regulating artificial intelligence. Here’s what’s really in the new AI Act"
-    publishedDateTime: 2023-06-27T09:55:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/27/techscape-european-union-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/27/techscape-european-union-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/27/techscape-european-union-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/f4bdac59cb787d8865f0e5ea267c6636a65f903b/0_0_6041_3840/master/6041.jpg?width=620&quality=85&auto=format&fit=max&s=cef2f3f80987cb6bfcd6d3ce267f62fe"
-        width: 620
-        height: 394
-        isCached: true
 
 secured: "iImH8cad9xnrBywTaYI6Wwdhh3RIA+WZ2lhEpu188QT8bMs3wSdxf6WV/WGcauy0LvwKAThaZciEKG3NZ+homfDyAoPd3wHXiwB0CBuLZIuVW1WVV3uWtvyJ/F5vL9zvMv2zSjUAQo4R/tTbzI5hnlThpkej08sXMBwFeHqQBfYxqm9Ca9gd9JKf+bn9J1oMnUKJSvpzD0sd6urzxB/P04D75ltKryW+ePR4CYzlXDOcBCLHPQ7QcMiLp+q4HW7+DbkSqblq+ms1zYJ8f4N1kbudJTE2Ih0Pz+5zIWa4rn8sroJQS9IIhMPGSCSMewEsSpjFUWbGLn/wt6XFCjFAjaWCRsWlhoXKw8RSVgZe5tQ=;BnDkALCMFZs7Do2iLQWMsQ=="
 ---

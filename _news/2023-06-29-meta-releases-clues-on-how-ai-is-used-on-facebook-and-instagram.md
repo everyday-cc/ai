@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Meta releases clues on how AI is used on Facebook and Instagram"
-excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on its apps."
-publishedDateTime: 2023-06-29T10:01:00Z
-originalUrl: "https://www.wral.com/story/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/20933054/"
-webUrl: "https://www.wral.com/story/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/20933054/"
-ampWebUrl: "https://www.wral.com/amp/20933054/"
-cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20933054/"
+excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on"
+publishedDateTime: 2023-06-29T09:01:00Z
+originalUrl: "https://www.wsiltv.com/news/consumer/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/article_b7795e7c-51e2-532b-ae7a-0c1e8871edbe.html"
+webUrl: "https://www.wsiltv.com/news/consumer/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/article_b7795e7c-51e2-532b-ae7a-0c1e8871edbe.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WRAL
-  domain: wral.com
+  name: WSIL-TV
+  domain: wsiltv.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wral_newcom_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/1/ff/1fff1fee-3a93-53e1-b28c-a7fba804b3e9/649dad38086b2.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -124,6 +122,6 @@ related:
       domain: searchengineland.com
     quality: 4
 
-secured: "skaTm3gzbjMn7xhBuo/oh3qoik6KboHeuwtc5SKfOw8zf1gb4ojaUQGi94fKKzBnmv0nBkI9s+QF8U39U8TuYINBCcpB1h3826+laqf4otRGt/j0CSOnvxHIE8LZmu57akDcXY/mD4v+bk3WAWCzDzh/x07VDGuStUHqpwv2CrrxZAjPaYx2GUyaOs0XRBO6RKQd5/79A7sIbl3YvbZJVMxgFoFu2eHZq2co8IulPJCp5J1TmZx7o4xBZ6HY7Z8rA91X97pWacHLxuj7lFLM9oONpEMD00McZ0wO51qWDNrc6vzatChs5bGUo5pENJUOZnFZNqF6XHkbSS/bQfLoWtroepg0pdFWwCxV8Runjlo=;we7oIc2aSgCEC9w+19UveQ=="
+secured: "NX4axNwild3XDaqBfVBW7iKMtSS4c/H5HeHSzZPIyZn2pWxqV+3KQeYHYJvsOl0eB/FVLYKSoDRUiprDtY0qef/IZx8jnmCJT7629K9kpby8SlWFfQdTKxr6XuZjXL23HqDx4Cp0UaN0ORZhbzEIeO+fAXUiozRa45AzPtLRrDUCe12PrW2AWpDjf9tX/Z5w4Z/gBnvXGlbHAFgcG7C44ETpgh/c9r8qckk3g776XjOvhpefPCFgGx9TEpf4pyf0togdGg2pBZxpgsOgsWgph9zTxWJbRCJfDGtg2QvTppxM4ZbROyEXumTGfdrZbreglVvQEHLfykYgsKZHjSpDE8vJORk8UT6sXZEJeHi+fRY=;X9aNBkCZjs3/l9rIP8f2kQ=="
 ---
 

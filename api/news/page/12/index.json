@@ -253,6 +253,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-22-this-startup-is-hoping-to-revolutionize-the-farming-industry-with-bringing-ai-to-small-farms.md",
+      "title": "This startup is hoping to revolutionize the farming industry with bringing AI to small farms",
+      "excerpt": "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php",
+      "originalUrl": "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T23:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-azure-services-continues-to-lead-the-industry-with-latest-trends-and-innovations.md",
       "title": "Azure Services Continues to Lead the Industry with Latest Trends and Innovations",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 21, 2023 (Alliance News via COMTEX) -- [UNITED STATE, 21-06-2023] - Azure Services, the cloud computing platform offered by Technanosoft, remains at the forefront of the ...",
@@ -842,49 +885,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-this-startup-is-hoping-to-revolutionize-the-farming-industry-with-bringing-ai-to-small-farms.md",
-      "title": "This startup is hoping to revolutionize the farming industry with bringing AI to small farms",
-      "excerpt": "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php",
-      "originalUrl": "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },

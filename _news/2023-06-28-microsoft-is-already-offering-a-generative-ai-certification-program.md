@@ -700,20 +700,6 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 26
-  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
-    excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-    publishedDateTime: 2023-06-27T09:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hexaware-reinforces-ai-leadership-with-double-w-at-/2023/06/27/9839286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/530945/Hexaware.jpg"
-        width: 400
-        height: 240
-        isCached: true
   - title: "Moody’s and Microsoft Announce Partnership for Innovative AI-Based Research and Risk Analysis"
     excerpt: "Built on a combination of Moody’s robust data and analytical capabilities and the power and scale of Microsoft Azure OpenAI Service, the partnership creates innovative offerings that enhance insights into corporate intelligence and risk assessment,"
     publishedDateTime: 2023-06-29T18:35:00Z

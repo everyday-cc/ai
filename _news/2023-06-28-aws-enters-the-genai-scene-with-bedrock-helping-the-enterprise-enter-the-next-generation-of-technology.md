@@ -171,20 +171,6 @@ related:
         width: 599
         height: 338
         isCached: true
-  - title: "AWS Announces $7.8 Billion Investment in Data Center Expansion"
-    excerpt: "Ohio's status as a technology and innovation center, attracting further investments and fostering collaboration between public and private entities."
-    publishedDateTime: 2023-06-27T10:53:00Z
-    webUrl: "https://techstory.in/aws-announces-7-8-billion-investment-in-data-center-expansion/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/aws-sign-v2.jpeg"
-        width: 609
-        height: 457
-        isCached: true
   - title: "Booming Venture Capital Investment in Generative AI: Considerations for Investors and Companies"
     excerpt: "Accordingly, investors need to weigh these signals against the general consensus that generative AI has a staggering potential as a disruptive technology, leading to big winners and above average multiples. U.S. chip maker Nvidia and other large technology ..."
     publishedDateTime: 2023-06-27T17:57:00Z

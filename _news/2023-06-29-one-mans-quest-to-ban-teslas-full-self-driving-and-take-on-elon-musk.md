@@ -9,7 +9,7 @@ ampWebUrl: "https://www.motortrend.com/features/tesla-full-self-driving-ban-atte
 cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Elon Musk says self-driving technology is 'profound' but not as big a deal as the human-like AI that may emerge in the future"
-    excerpt: "In response to a Tesla fan account on Twitter, the CEO suggested AGI was more profound than full self-driving technology."
-    publishedDateTime: 2023-06-27T10:36:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/649ab231867d960019d9282d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Tesla’s Full Self-Driving Version 12 Will Leave “Beta” Behind"
     excerpt: "The brand's polarizing CEO Elon Musk says that when version 12 makes it to the masses that it won't be dubbed \"beta\""

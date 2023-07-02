@@ -7,7 +7,7 @@ originalUrl: "https://mixmag.net/read/artists-boycott-venues-that-use-face-scann
 webUrl: "https://mixmag.net/read/artists-boycott-venues-that-use-face-scanning-tech-news"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "100+ artists pledge to boycott venues that employ facial recognition technology"
-    excerpt: "Business News Live Business 100+ artists pledge to boycott venues that employ facial recognition technology By Chris Cooke \\| Published on Tuesday 27 June 2023. A US-based campaign"
-    publishedDateTime: 2023-06-27T10:14:00Z
-    webUrl: "https://completemusicupdate.com/article/100-artists-pledge-to-boycott-venues-that-employ-facial-recognition-technology/"
-    type: article
-    provider:
-      name: completemusicupdate
-      domain: completemusicupdate.com
-    quality: 37
-    images:
-      - url: "https://completemusicupdate.com/wp-content/uploads/2019/09/fightthefuture1250-1024x410.jpg"
-        width: 1024
-        height: 410
-        isCached: true
 
 secured: "TcwZ0Z9dzlirZu0PXgXLnxdjcAh5Wgq2pFk6odbwFzPHwZqiIHyx/ypfTK92OZFEBQNx3Jaf4gvQLCxOLpz6o7bsRWIJjN3nIRXy657FQA32N2zpJrfX7YlsqdZGYyWP6Hetlo5ZWg3QI8yQ9sSmPRn6IQ4oU2YOlp4Xn2kOIrotV8SMfTWCyF+E/yWDiJpityWR9YRJc2DHfa9YMxiT/6cgtMtEZ/iEOGA01lg92wEGB6D+lu0hyoFbxzNBoeqeyk0X36PiWxgc5rYwZ1AV/TXr51MQIrox4WBZcOk5rH61W7javM8C10GGdVVNiDbpfY2bBl8fzWQK7jY8dpzUUJC/hThK/FWMoWOF0RkaG8R0F5YiWUY2ZwVeWV27A1jwvygAUH3NhgYWhQi1Ol70mjO6h3gCAcuNxoqm4pYYSRWbftR3Zs8M/T5LDPSeON17FTEIxfBCSMBASvYFPr5sTC5G0qe2BwI0E4HlxUjSgHCfTRG25H+h7H27UzspB0NTkh3Zr1V4BlrL/WQ6KV7AcA==;R8LfVco0fholA5vAjD6Ivw=="
 ---

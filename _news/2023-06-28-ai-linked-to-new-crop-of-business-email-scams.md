@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AI linked to new crop of business email scams"
-excerpt: "Firms can no longer count on bad spelling and grammar to red-flag problem emails: Fraudsters are using AI to craft well-written email messages at scale."
-publishedDateTime: 2023-06-28T13:10:00Z
-originalUrl: "https://www.constructiondive.com/news/ai-linked-new-crop-of-business-email-scams/654181/"
-webUrl: "https://www.constructiondive.com/news/ai-linked-new-crop-of-business-email-scams/654181/"
+excerpt: "Generative artificial intelligence tools such as ChatGPT could be aiding the proliferation of more convincing email scams aimed at stealing money from businesses, according to cybersecurity firm Fortra."
+publishedDateTime: 2023-06-28T13:18:00Z
+originalUrl: "https://www.ciodive.com/news/AI-business-email-compromised/654075/"
+webUrl: "https://www.ciodive.com/news/AI-business-email-compromised/654075/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Construction Dive
-  domain: constructiondive.com
+  name: CIO Dive
+  domain: ciodive.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.ciodive.com/imgproxy/UvNo1x7CIRoouHT7Rn6YdOY6MzKN20yrsRib9ftjeoY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgxNzQ4NjAyOC5qcGc.jpg"
+    width: 770
+    height: 435
+    isCached: true
 
 related:
   - title: "AI linked to new crop of business email scams"
@@ -34,6 +40,6 @@ related:
         height: 435
         isCached: true
 
-secured: "QyTMu+Oxx3VR0GUxL0KsBVoC6PuHZCZLQ56u4rgkyFhQjVpYG0P/k//zxvc4v0fe65fbod0BLxCgs7nxYMvcInbRgahuGN+EFY9svU4vNPRZOnmxJbPSRc3pc6oiB9qi9Snatx4IpRu7Y+XdyFtUhLO+kSyG5N8V5hJHuIfl3fPRrZ2AzptWn03o8hgKDk8Q15+Wwu3oe2vNuLy+2oWapgN/xNhcV9KINM9hqBnDfEqIZAO6MjiYXLefnZik7QUVCUB89TDtKK1CGXWZMk7Vq95NHcmULpHrj7Nu3jxd7+cQU8wE1ej2emFPAuxawfLhW4BylTqeXJA9e9FOYU4XxJ4ecy/H4ObtJ+9CVfN1k5A=;5egPTG4SsDcxGfZcXzsI5A=="
+secured: "AGbfd2XLEaSXq5aGzeWL0xsdULEJ1d4bqC/YDjT4qqZY59f2sFIgrCsQMyF3yEg7h1AKfDArBpJJ6q6CEgsQyt85WmQSNQsDQwsdP8Smw71QZGjciCssPGvrrTELoaiBvBx99kUvBaPafy0C9JSDSuLV6cKdcMP6Ft4X3QkvLv+K1JIUjU2Aqu+WqEEwli5AWgiOJVg0ZM2I3Kf9XqEzKuijeyYKoOxdziUa2wpOipHShPNh4FWXOmyKLOhxS3cYBrQW8xDxQfBPSqH5FkTQkzpWgYYYimEGKO7EnG1ZRp82IudmQyCyNy3IaacaRn0rijEA+ER+5T1m+U6BzR6txSiYnYRDplk3PD0jcI72Ze0=;g6HbV0yLuac+vO2U7IjfNg=="
 ---
 

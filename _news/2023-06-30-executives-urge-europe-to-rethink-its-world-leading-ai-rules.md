@@ -24,66 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "AI Regulation Is Coming To The U.S., Albeit Slowly"
-    excerpt: "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming."
-    publishedDateTime: 2023-06-27T09:49:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/"
-    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
+  - title: "AI Law Draws Pushback From Big Brands in Europe"
+    excerpt: "Executives from firms such as Heineken and Renault joined a lobbying effort as Europe negotiates the West’s first comprehensive rules."
+    publishedDateTime: 2023-06-30T10:36:00Z
+    webUrl: "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://images.wsj.net/im-809998/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Chinese Companies Are Reacting To AI Regulations By Releasing Their Own Rules"
-    excerpt: "China is currently home to some of the most advanced AI regulations in the world. Its party-state government, free from the burden of compromise, can swiftly regulate AI as it sees fit. Beijing has in recent months and years crafted regulations that both (partially) protect citizens from tech companies’ greediest impulses and uphold the paternalistic impulse to preserve state power over individual expression and corporate interest."
-    publishedDateTime: 2023-06-29T15:37:00Z
-    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/"
-    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649da4c486456d34f90b96c9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 803
-        isCached: true
-  - title: "How AI is affecting the patent system"
-    excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
-    publishedDateTime: 2023-06-28T13:34:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/how-ai-is-affecting-patent-system-2023-06-28/"
+  - title: "Draft EU artificial intelligence rules could hurt Europe, executives say"
+    excerpt: "The proposed EU Artificial Intelligence legislation would jeopardise Europe's competitiveness and technological sovereignty, according to an open letter signed by more than 160 executives at companies ranging from Renault to Meta ."
+    publishedDateTime: 2023-06-30T08:35:00Z
+    webUrl: "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 67
+    quality: 66
     images:
-      - url: "https://www.reuters.com/resizer/6RDiNFJaoYEgBXrTGH2tOWz9eA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKGXR6M5CRGCPIHXVCJVHX2RFI.JPG"
+      - url: "https://www.reuters.com/resizer/BZZiDdK2-b6MMPX1dKB_GnxGIg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRI4RJLDVJNYLKQZNAH2FSAF4Q.jpg"
         width: 1200
         height: 628
         isCached: true
-  - title: "EU, Unesco to help developing countries shape AI rules"
-    excerpt: "The European Union will help fund a Unesco scheme supporting developing countries as they create laws regulating artificial intelligence, the UN cultural body said Tuesday (June 27)."
-    publishedDateTime: 2023-06-27T15:44:00Z
-    webUrl: "https://www.todayonline.com/world/eu-unesco-help-developing-countries-shape-ai-rules-2200641"
+  - title: "European VCs and tech firms sign open letter warning against over-regulation of AI in draft EU laws"
+    excerpt: "Executives from 150 businesses highlighted the risks of tight regulation, saying the rules could threaten the ability of European companies to compete in AI."
+    publishedDateTime: 2023-06-30T19:57:00Z
+    webUrl: "https://techcrunch.com/2023/06/30/european-vcs-tech-firms-sign-open-letter-warning-against-over-regulation-of-ai-in-draft-eu-laws/"
     type: article
     provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--HydQWz2b--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/06/27/20230627_afp_unesco.jpg?itok=qYdYlSpM"
-        width: 1200
-        height: 676
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 33
+  - title: "European companies sound alarm over draft AI law"
+    excerpt: "EU politicians, after nearly two years of wrangling, recently agreed on the toughest set of rules on AI in the world. The draft text of the Artificial Intelligence Act will serve as the negotiating position between member states and the European Commission."
+    publishedDateTime: 2023-06-30T04:00:00Z
+    webUrl: "https://www.ft.com/content/9b72a5f4-a6d8-41aa-95b8-c75f0bc92465"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "ILeK3YEanfL+RssWe93hyYKoR/yEKWnbTngA4urWWaQSRLGaPT9BdWBrU1+AN4cwr35zaWiU5ZTuso/PGyf65xrqcKJ1wF0Wv1sJe15/WbJ9ICnXGXGPFEZL+oKwwU5PEd7cZ91JnL3OOCGDxU/c2Gjz9G8T64dEQfWc36ZUfGS/ikzYNEo/HW0rMgLJnolFu+Ftblg/b/S9OQ66biOmXdJoOp9VCDivkOTvtJFOsbEN+7iynV///S8VFhwpV5sb/ILs0oKQS/xY795ztyLn8Vpkr5VLpxjHEUFEQ+Qndtf5mX8DRbMNt5cztd+koCmQneKiA8GSG97FEghVBhhNNQGUYeMy4sKn+FED1K3pdmluoxScqJj9hNad+3QTsTHSvfj+KRZ6d1ULNUCjjcDaOaVUc9VYKFl9t2m2geUNhw2wowwRJyBsairdTOMX6hjLuI9n9AGKhONUy8b3Cc5nkEh1dBji11ttzZkx8HzFOyxgCjYGcut2yMrsUUyD1DRv6orwWJtosnwLsLqJOzd2Fw==;4SBNETzdDRmXq3/8r8bNBg=="
 ---

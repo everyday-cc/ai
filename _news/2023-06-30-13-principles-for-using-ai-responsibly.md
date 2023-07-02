@@ -3,8 +3,8 @@ category: news
 title: "13 Principles for Using AI Responsibly"
 excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
 publishedDateTime: 2023-06-30T12:14:00Z
-originalUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
-webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
+originalUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
+webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
 type: article
 quality: 39
 heat: -1
@@ -84,6 +84,6 @@ related:
         height: 315
         isCached: true
 
-secured: "d1gNzAPRD/I1MrhdkNVQb+TSbw9tIOAk4ihSMXvfIuDWDLwLZM/Tdai1f/UvpzZ1VQS97X0dDU63rtYpsBEy369CxJ5tocs5v1R2iV+3ZmktE9WTw5oGJ/4KdEwgPvKmZCd1KhrSBYN34X1bpzmAYjIP3vfylQKRD5KAEMZynbtd9WtBIQnenwXItOl70FlV1Hl2g75nxzcD/C/PEbq1IWLYY6Ws3AV24RIN5nDxXAAvEZBw0v0I/z8J13sk7OkjD+lqAU7oyUkYglX6Kxy1mP4P/N+jR7pliLcTDT5KjLrMXLXDdd5bzS8E0R2UsfIDIYfu9L6K2xANLbdiuMKaUGA5/hbFpF6gDQr32JHde/I=;Zn7YJ3yJntZ4YNpX2JDTjw=="
+secured: "VIlzSAKMN9D2jP4tF0fzIipEqfoDyhINFmh0/zmPql7johta+lW5MGAIYcKrfF5RrbDrzXvPPh3V3MAAeBVi33zzCLQ54BlfeSWaNjm7fDmhqMH98eWoLmgeLSWQMBSQaLv24GyAb8lQbxkT2J/J5JaPVwGm3uWaUwxqzKf/KsXbVZ98gZFiMjvvwYwjh2m+jkuBmIk2w/03+qr61eVn6cqgAIj5enwhqQspP6J+Mb+D4zzgAckKqlqpo8tv/Z4GaGmUFRgOpv5Mwlc4yUZmQsk+u9TaQ5hczAOuLTtrzWoSRoOm+TJv3m+RilhKzNLrApbbMYs9eHoeJLEUW07xREwNscSVBnwikAHghQyKlJs=;uO8R9kRDrAKlZA0X5y36yQ=="
 ---
 

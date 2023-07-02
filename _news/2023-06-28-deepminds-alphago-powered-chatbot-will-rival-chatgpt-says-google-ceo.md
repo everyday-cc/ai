@@ -133,20 +133,6 @@ related:
         width: 300
         height: 600
         isCached: true
-  - title: "Google DeepMind to power its AI with AlphaGo-like features to fight ChatGPT"
-    excerpt: "DeepMind's success in beating a human Go champion is a stellar example of its capabilities in AI. Can it apply these techniques to language models and outperform GPT?"
-    publishedDateTime: 2023-06-27T09:52:00Z
-    webUrl: "https://interestingengineering.com/culture/google-deepmind-ai-alphago-chatgpt"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 52
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/27/image/jpeg/51U1HcTsdW47Txd36NQ49l0LnzO7gI0DLaxc8SxW.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
     excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
     publishedDateTime: 2023-06-30T21:02:00Z

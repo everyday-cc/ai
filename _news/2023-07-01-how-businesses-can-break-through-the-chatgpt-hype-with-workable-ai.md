@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-businesses-can-break-through-the-ch
 webUrl: "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Executives urge Europe to rethink its world-leading AI rules"
+    excerpt: "More than 150 company executives are urging the European Union to rethink the world's most comprehensive rules for artificial intelligence, saying Friday that upcoming regulations will make it harder for companies in Europe to compete with rivals overseas,"
+    publishedDateTime: 2023-06-30T16:17:00Z
+    webUrl: "https://www.chron.com/news/world/article/executives-urge-europe-to-rethink-its-18178786.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/41/01/23990346/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "European companies sound alarm over draft AI law"
     excerpt: "EU politicians, after nearly two years of wrangling, recently agreed on the toughest set of rules on AI in the world. The draft text of the Artificial Intelligence Act will serve as the negotiating position between member states and the European Commission."
     publishedDateTime: 2023-06-30T04:00:00Z

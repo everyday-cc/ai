@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -109,15 +109,6 @@ related:
       name: Becker's Spine Review
       domain: beckersspine.com
     quality: 34
-  - title: "ChatGPT builds a tomato-harvesting robot"
-    excerpt: "Thanks to a prompt from researchers at Delft University of Technology (TU Delft) in the Netherlands and the Swiss technical university École polytechnique fédérale de Lausanne (EPFL ), ChatGPT, an artificial intelligence (AI) chatbot developed by OpenAI, has created its first robot."
-    publishedDateTime: 2023-06-27T09:33:00Z
-    webUrl: "https://insights.globalspec.com/article/20657/chatgpt-builds-a-tomato-harvesting-robot"
-    type: article
-    provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 19
   - title: "Complex AI Prompting: 'Putting the Prompt Last Helps the LLM to Stay on Task'"
     excerpt: "As AI takes hold in the enterprise, Microsoft is educating developers with guidance for more complex use cases in order to get the best out of advanced, generative machine language models like those that power ChatGPT and the company's Copilot assistants that are popping up all over."
     publishedDateTime: 2023-06-27T19:50:00Z

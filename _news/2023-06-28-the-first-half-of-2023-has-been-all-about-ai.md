@@ -24,22 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "From AI To SVB And Everything In Between — A Quick Look Back At The First Half Of 2023"
-    excerpt: "From crypto contagion to mass layoffs to a banking crisis to the neverending AI craze, the first half of 2023 has been a winding ride for venture and startups."
-    publishedDateTime: 2023-06-27T11:00:00Z
-    webUrl: "https://news.crunchbase.com/venture/artificial-intelligence-ftx-svb-layoffs-h1-2023/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 29
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Halftime-2023.jpg"
-        width: 900
-        height: 506
-        isCached: true
-
 secured: "VEciueSKaem6TUQRNKFkdklo3NBTZ06cnOvpC2SiUeu0HXMuOmxr+OCF2gOgkV3Bb/Vk2lUlJ06f6Pq81qc6+WuUWFCjSRWp96DP3N8kuV84AX4U8ecNOn2C8IbnykB9F7LIXV32Uj50/atPA7Vf99yHRlwKYPyGPT6qlzXjF+mwDE+ym+uwIcVezUsBXHyl6YHRv5xIUquElv0oaDmjLHZoUwMP+Olavf/Se76gSyZ0y9dam2qe7Watp54PGB/JV1xrArxllBmaaDJscHVFbx+6IqXs32cv4WA9pJrSH4b1/OQ2ZpR3TpUc/R7+sJT5sdail7YRLqULby0Nzto9CYbbIb+3GnTKOIEAxkjNRME=;oZmnz2tz3Kmkr/J18cvMqA=="
 ---
 

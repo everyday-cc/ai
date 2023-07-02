@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/world/will-ai-really-destroy-human
 webUrl: "https://www.channelnewsasia.com/world/will-ai-really-destroy-humanity-3589001"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will AI Really Destroy Humanity?"
-    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
-    publishedDateTime: 2023-06-27T09:14:00Z
-    webUrl: "https://www.barrons.com/news/will-ai-really-destroy-humanity-c7c6eb2e"
-    ampWebUrl: "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c6eb2e"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c6eb2e"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP1075391273045126903995874226896604482966---1.jpg"
-        width: 768
-        height: 511
-        isCached: true
   - title: "Can AI really destroy humanity?"
     excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity?"
     publishedDateTime: 2023-06-30T21:20:00Z

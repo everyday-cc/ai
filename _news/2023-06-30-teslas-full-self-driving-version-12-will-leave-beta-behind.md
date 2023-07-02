@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk says self-driving technology is 'profound' but not as big a deal as the human-like AI that may emerge in the future"
-    excerpt: "In response to a Tesla fan account on Twitter, the CEO suggested AGI was more profound than full self-driving technology."
-    publishedDateTime: 2023-06-27T10:36:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/649ab231867d960019d9282d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Live safety tests conducted by The Dawn Project show Tesla Full Self-Driving running a stop sign in ride-along with major Tesla investor Ross Gerber"
     excerpt: "In response to Dan O'Dowd's harsh criticisms of the dangers of Tesla Full Self-Driving, the investor Ross Gerber challenged Dan to a ride-along in Santa Barbara in his Full Self-Driving Tesla with the investor supervising."
     publishedDateTime: 2023-06-27T15:49:00Z

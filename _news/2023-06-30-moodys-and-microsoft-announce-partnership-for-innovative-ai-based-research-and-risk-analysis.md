@@ -703,20 +703,6 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 26
-  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
-    excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-    publishedDateTime: 2023-06-27T09:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hexaware-reinforces-ai-leadership-with-double-w-at-/2023/06/27/9839286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/530945/Hexaware.jpg"
-        width: 400
-        height: 240
-        isCached: true
   - title: "NowVertical Group Inc: NowVertical Announces New Partnership Program with Microsoft and Azure OpenAI for Secured, Enterprise AI Deployments"
     excerpt: "NowVertical Group Inc. (TSX-V: NOW) (OTCQB: NOWVF) (the \"Company\"), the vertical intelligence (VI) software and solutions company, is pleased to announce the"
     publishedDateTime: 2023-06-27T12:22:00Z

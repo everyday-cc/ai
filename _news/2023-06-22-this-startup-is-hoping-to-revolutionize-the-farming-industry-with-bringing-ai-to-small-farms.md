@@ -1,15 +1,15 @@
 ---
 category: news
 title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
-excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms ..."
-publishedDateTime: 2023-06-21T21:06:00Z
-originalUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
-webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
+publishedDateTime: 2023-06-22T06:48:00Z
+originalUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
 type: article
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Robotics
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uSUF2So4mnGfZzNGHnJUlm9scAYJgXDaBEbp5pXVaWaY3EX83N4lfV24J+H3SPLymX0iJGBx86n/IShHY1vT2wVDPOMJ5Fq6dnXd20L98jFrTO49Nv3CDX32eFFU60QBBkVM4tOoYeSotFX3BiLQT5umSGHU+hTyXwPCBzen5yUqxYmh9YDAxJoIwPPxGqaxbhQDNlbgXyiTF1gxzXxGAJGFB3G3d8ppEFsqSmuDWllFdwsuAu88m6OA7YbpFvOyGngGxrfHQEsMMq0KkGwzrKriRx/SZSSYAvy33O9AYop5midTzyg4fNJQwMCD+8o336zIPLPAWJnWtk1w31R2wjad5U5+C0LQZELq5PKVICc=;2ycfjFWvSwtnuW/H4G0hRg=="
+secured: "86nJq5wjS+2Ix7yPxvlngbw+JaMtYoF0MjqsVNrT7+jtda5aB/w2h/AztFGhyc42DsMwexRy+1OYE5jyUeygv0ZMciN9eBvTkaFhR6tZ8R7gGWBFt8G2PSmR0BxCQA3RzaohPVQZmkvRSuBQGpdkw6tD8udBEDQ8Pyf794PKNm2bANtrBUsVQj101U+IQc2zOYGs2jJNC2jSPRZ0OqQv4yjokFGrKZqoT+qb8rS7QyLd2JkPO1fhHkTxoPj+Yj41TZQd1VsDa81UbH8kKVA0CBdkcgcBTuZnvTdUJWUpGHvdAHXY053Oc0ajIrLXoch/UtwAvZc6jwugtZLB99phM83PnHOV/8vOYUQg0pByqOw=;2h+NMIeJ6ET7FROpyjNF3A=="
 ---
 

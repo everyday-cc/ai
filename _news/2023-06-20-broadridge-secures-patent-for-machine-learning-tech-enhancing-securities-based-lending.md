@@ -20,6 +20,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "Mw53HWvW3n6/pXb+hJVsxMfjFzKLzSY/UCEK+gpWKPz/6lAltv3WWbCR9n52Bva+7uea6G/DsAktiRiytL5+3f7incPsNUDBLVR/fqwadSD95qS/erMX9PtALx2AOp+EKJXOBtvn2uAHlZ6FIRegSJzUU0+cBGF+0zGctr0zG8VrJqvgBrbWihPROUD+rQueRnDRN/f7l8ovSYY8dgemJ12CD9fY/cJ4u5PPSfdCZJQy0O4Qnd5YtKec/ZeKY4W/NGGd7ArwYEGqTBzNdkWq3cVqp/pUzuTGmxW+lI1GGVrOvzADQjlk0P9pTjIXhsyn9ORUVYjpPfy4ydOkyUkm7AWyRqmH10O3/nKAwct8/DQ=;enlR6cXBYxYGPDsHNyZLQA=="
+secured: "ndIOeUuU6a2fsPKXlxNoMs6C39zvvJc5ajQ97rEU5dhPydYFzoXGDalAd4SjCqeWblPDlxga9joqAJAlGquiUMfVMXf8mw3+ZaU9JdFgekk09gkzJtDkBFLzgZJPiWHfGw4M2Z3/wktpt1bDm70UvVcy2aXfp2/9B6inh10GyspMvOCZCSEuG+M/j2pP20eZoN9hnTuTn61zqls9xQ8+ARFX5g7ZN/o9lLVqiHtctz7SMo5Tm92UHfrkwIwjubiiBht3YXCcxbL9uLci2bGkbnTfK0zUlGHdTZ1DbTafcIfxOMgkGQUrwV2+3+3FlbJy/yLaPyCOdtfnhcQToAJjtn18RqNv6rK2yQCJg4blhSg=;oMmmmzD15kjWxoUL4DQGQw=="
 ---
 

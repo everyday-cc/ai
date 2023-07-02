@@ -522,20 +522,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Nvidia partners with Snowflake on AI"
-    excerpt: "Will help customers build their own products Cloudy Snowflake is partnering with the chipmaker named after a vengeance daemon Nvidia to allow customers to build AI models using their own data. The two companies announced the partnership at Snowflake Summit 2023."
-    publishedDateTime: 2023-06-27T09:53:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57152-nvidia-partners-with-snowflake-on-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/c6aabe27ba0a0222c0a19962d3fb8abe_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "The US wants to restrict China's access to AI chips even more, and Nvidia could lose out as a result"
     excerpt: "The US government is weighing up plans to further restrict the export of AI processors to China. The Biden administration has heightened concerns about the access Chinese companies have to bleeding edge tech,"
     publishedDateTime: 2023-06-29T01:08:00Z

@@ -165,20 +165,6 @@ related:
         width: 599
         height: 338
         isCached: true
-  - title: "AWS Announces $7.8 Billion Investment in Data Center Expansion"
-    excerpt: "Ohio's status as a technology and innovation center, attracting further investments and fostering collaboration between public and private entities."
-    publishedDateTime: 2023-06-27T10:53:00Z
-    webUrl: "https://techstory.in/aws-announces-7-8-billion-investment-in-data-center-expansion/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/aws-sign-v2.jpeg"
-        width: 609
-        height: 457
-        isCached: true
   - title: "AWS enters the GenAI scene with Bedrock, helping the enterprise enter the next generation of technology"
     excerpt: "Artificial intelligence is taking society by storm ... to scramble to figure out how to take advantage of the emerging innovation. “What [AWS] is doing is trying to offer customers a lot of choices; we’re making the best foundation models available ..."
     publishedDateTime: 2023-06-28T14:36:00Z
