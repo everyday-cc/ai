@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "A.I. makers must create new laws of robotics | California Focus"
-    excerpt: "Not long ago, the artificial intelligence (A.I.) bot ChatGPT as a “courtesy ... set of major laws governing intelligent robots. In his 1942 short story “Runaround,” Asimov first put forward these three laws, which would become staples in his ..."
-    publishedDateTime: 2023-06-28T09:28:00Z
-    webUrl: "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/"
-    ampWebUrl: "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/"
-    cdnAmpWebUrl: "https://www-chicoer-com.cdn.ampproject.org/c/s/www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/"
-    type: article
-    provider:
-      name: Chico Enterprise-Record
-      domain: chicoer.com
-    quality: 74
-    images:
-      - url: "https://www.chicoer.com/wp-content/uploads/2018/05/chico-site-icon-1.png"
-        width: 450
-        height: 235
-        isCached: true
   - title: "A.I. makers must create and observe new ‘laws of robotics’"
     excerpt: "Yet, it got enough facts right to assure this was no mere phishing expedition, but a version of the new real thing. Attempts at correction were ignored. All along, I knew this could be dicey, both in providing information that – had it been used to correct – could have led to identity theft or,"
     publishedDateTime: 2023-06-30T13:59:00Z
@@ -51,21 +35,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "California shouldn’t get in the way of self-driving trucks. Reject Assembly Bill 316."
-    excerpt: "Nevada, Arizona, New Mexico, and Texas have jumped to an early lead in the testing of driverless trucks, and California needs to choose now whether it wants to stay ahead of the curve."
-    publishedDateTime: 2023-06-28T13:00:00Z
-    webUrl: "https://www.dailynews.com/2023/06/28/california-shouldnt-get-in-the-way-of-self-driving-trucks-reject-assembly-bill-316/"
-    ampWebUrl: "https://www.dailynews.com/2023/06/28/california-shouldnt-get-in-the-way-of-self-driving-trucks-reject-assembly-bill-316/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/28/california-shouldnt-get-in-the-way-of-self-driving-trucks-reject-assembly-bill-316/amp/"
+  - title: "Would you leave grandma with a companion robot? Care bots and robot pets find favor in Pacific NW"
+    excerpt: "Artificial intelligence is all the rage, and now it’s helping some Pacific Northwest seniors live in their own homes for longer. Twenty grandmas and grandpas on the Washington coast joined a pilot project that is trialing how AI-driven companion robots could reduce loneliness and social isolation among seniors — especially those living alone."
+    publishedDateTime: 2023-06-30T13:00:00Z
+    webUrl: "https://www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/"
+    ampWebUrl: "https://www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 37
+      name: OPB
+      domain: opb.org
+    quality: 46
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2023/06/OCR-L-NEWASSEMBLY-1224-2.jpg?w=1024&h=693"
-        width: 1024
-        height: 692
+      - url: "https://d3ac64bsgpdzxx.cloudfront.net/08-27-2021/t_4c9bad0c206d4ba48f81b667090d0397_name_Superabundant_Ep__4_Thumbnail_6.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "IYKqk5lpGeFFQRbyBc0HNkcRH16Jn4sDm/izisZzzhr/LgxRpPyHTaPqXhdL4Uy6+/7vq3cWvwk37EMh8A++vOisWw2n/9ur9ldEWO0H+9tNHentg1U481G++ZW4crtuiCJq7hsEzSrJOS9BXrdpf6sYZeXSrre256mlsjxfNfQdwetEHz/yiYztgsjw1/Hhp+0jsUwZCIfWPSYZoTQb4u/jWg0NBX4vBgoXQwOZPQ+DrhCKzZOjHccakfy4axSDaQMU6G3rHojYCJWCI4XevZyg8caawDbEVM8fL53mZL39R5hok+KQM6nlS98pdsNE00ec7i1LF7aEBSDqwbq2PRwt3xJiQ4Z3eCAM8zV1UMKkmu9d7IGqwclaE3q3VcO2h/rIWIR7PDeMEsNisBQTEL3KhszqYnYe4XOm4ee5Fki+2KzpWFAWuVtfciTJlkTVkeGCglzMW8CzvHKEBzn7pBFhgy/3NYQE67QWrw9uoqfB6lr71FBFj1AMJJk2YcHx77Yk2JO/5dKL4nbgu04+pQ==;01/VWaIMx327s/FixIyLYw=="

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 758
         isCached: true
-  - title: "Applications open for AWS' global fintech accelerator"
-    excerpt: "Amazon Web Services (AWS) is to launch its first Global Fintech Accelerator as fintech-focused businesses increase their reliance on artificial intelligence (AI) and machine learn"
-    publishedDateTime: 2023-06-28T09:15:00Z
-    webUrl: "https://www.itweb.co.za/content/mYZRX79gyaGqOgA8"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 61
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/06/fintech-Jun-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fintech Firm Brex Taps Jason Mok to Support Next Generation of Founders"
     excerpt: "Brex recently announced that Jason Mok has joined Brex to support the firm’s commitment to serving startups and their founders."
     publishedDateTime: 2023-07-01T10:24:00Z
@@ -86,20 +70,6 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2017/04/17796446_1260944837276212_8463288638094856859_n.jpg"
         width: 960
         height: 720
-        isCached: true
-  - title: "AWS opens up applications for Global Fintech Accelerator"
-    excerpt: "AWS plans to select as many as 150 fintech startups across multiple regions as part of its Global Fintech Accelerator, which is now open."
-    publishedDateTime: 2023-06-28T10:07:00Z
-    webUrl: "https://htxt.co.za/2023/06/28/aws-opens-up-applications-for-global-fintech-accelerator/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 41
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2022/12/aws-sign-header.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
     excerpt: "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;"

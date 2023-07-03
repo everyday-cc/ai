@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theoldhamtimes.co.uk/news/23624964.amp/"
 cdnAmpWebUrl: "https://www-theoldhamtimes-co-uk.cdn.ampproject.org/c/s/www.theoldhamtimes.co.uk/news/23624964.amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://www.efeedlink.com/cps/images/2023/june/2023062914191498243232.jpg"
         width: 900
         height: 450
+        isCached: true
+  - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
+    excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
+    publishedDateTime: 2023-07-02T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
+        width: 1100
+        height: 550
         isCached: true
   - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
     excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"

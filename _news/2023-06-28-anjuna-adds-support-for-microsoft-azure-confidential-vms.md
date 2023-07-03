@@ -598,15 +598,6 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 28
-  - title: "Celebal Technologies recognized as the winner of 2023 Microsoft AI Partner of the Year"
-    excerpt: "Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-    publishedDateTime: 2023-06-28T09:41:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230628/4093822.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 26
   - title: "Rubrik extends Microsoft collaboration around Sentinel to Azure OpenAI Service to add Generative AI to cyber recovery"
     excerpt: "The new collaboration will not be sold separately, but will be rolled into the existing offering around Rubrik and Microsoft Sentinel, meaning that partners will not have a new product to sell,"
     publishedDateTime: 2023-06-29T13:00:00Z

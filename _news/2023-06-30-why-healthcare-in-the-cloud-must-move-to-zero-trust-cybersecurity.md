@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-
 webUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://regmedia.co.uk/2021/04/09/medical_wifi_shutterstock.jpg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "AI-Driven Cybersecurity Startup Raises $100M"
-    excerpt: "The Cyera cybersecurity platform uses large language models to automatically discover, classify, and secure sensitive data."
-    publishedDateTime: 2023-06-28T10:09:00Z
-    webUrl: "https://nocamels.com/2023/06/ai-driven-cybersecurity-startup-raises-100m/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/06/CyeraFounders2-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
 
 secured: "l465DhIrHsquoHPEZqpaQ4Ot10zqtJ75o5CSU2f+b7bV+D2FIun6fyahWysauTgPhT/kkNuP4YJIoGpmkzy11miGU9rhAgJURqkQmxabr3fXPl+GfZ3b9p7XsFahxm8U2MswlzNhJkhFOFNFwlH6ftElF2TBL+Ypm+7f8NUOnPw/9efv0Y2yqgSireGIMEZ5Vs+gBMJaM05ZXP2fu7IFc/+A/L83ohove5/Ae09Mgr6WgeOqDhbP87sVxsPbYijgKgWWhLY7BzlFE2LEVcjSJQRb3FuX8zI8wqcVKtJPq0I5uXoX33e41eQKDygoIIQSKn0N4KDp2z+YC5rKz9kkEEd+3dWKzBTqJV7tEUVEEmv29kW57DP9uL0oseRrx28KoPuQAfPlQ/brZ9itjOdFzQBRmyc3XF8ZcOtUK/mHo6C15hy8LFWVA68CBiJtCAKD0x+X8dPuu5aUc6o6wvibTTqCoVBg1ZuxuRTkQagYKwrRQh4Fmot8K+umrQ4JB8QukdGsac2kGMi3JWLp4XxoVA==;2a4FF0Z8sMCJNqrY8UD7OA=="

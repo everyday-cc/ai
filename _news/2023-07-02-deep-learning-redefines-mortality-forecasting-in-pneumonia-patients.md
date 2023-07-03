@@ -7,7 +7,7 @@ originalUrl: "https://www.medindia.net/news/deep-learning-redefines-mortality-fo
 webUrl: "https://www.medindia.net/news/deep-learning-redefines-mortality-forecasting-in-pneumonia-patients-212521-1.htm"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Deep learning model could help identify high-risk patients with community-acquired pneumonia"
+    excerpt: "According to an accepted manuscript published in ARRS' own American Journal of Roentgenology (AJR), a deep learning-based model using initial chest radiographs predicted 30-day mortality in patients with community-acquired pneumonia (CAP),"
+    publishedDateTime: 2023-07-03T02:51:00Z
+    webUrl: "https://www.news-medical.net/news/20230630/Deep-learning-model-could-help-identify-high-risk-patients-with-community-acquired-pneumonia.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 28
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pneumonia-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Deep-learning chest radiograph model predicts mortality for community-acquired pneumonia"
     excerpt: "According to an accepted manuscript published in ARRS’ own American Journal of Roentgenology (AJR), a deep learning-based model using initial chest radiographs predicted 30-day mortality in patients with community-acquired pneumonia (CAP),"
     publishedDateTime: 2023-06-30T00:00:00Z

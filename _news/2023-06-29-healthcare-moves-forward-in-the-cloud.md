@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI-Driven Cybersecurity Startup Raises $100M"
-    excerpt: "The Cyera cybersecurity platform uses large language models to automatically discover, classify, and secure sensitive data."
-    publishedDateTime: 2023-06-28T10:09:00Z
-    webUrl: "https://nocamels.com/2023/06/ai-driven-cybersecurity-startup-raises-100m/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/06/CyeraFounders2-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "GVkzMD9zMMn4acY49SrkX5AW2FOXKVxyOmdN2v/iRedNr0n4ajbstQ1CwfBLR9vnqosFdE8V9I7YVknFh4eln1cClvdIdTuLdEPPwiKupfYuNkgpKXxWvQv2qIL70kA3WrPyNHWQYVZ2j+TOJx65jA1MO7wE8sDnMN9cVrYap1bVQyJVf6e2eBFeDXqSjbHUB10SzSPME2jM5KN97b6EJ2tAgfVQ3MSKQ5XX3nEHGLwCCbpEiNDd1jjteynz7vV5Gw5l0LsCJ1AH2sYna3NYDc2Rcu3s2Z89AZEpeH1ofJZZbk8iUVdQqySxJqJcml61wzCPKqA95wrywGbum0VpkfwD3k1fAjc6nGKZ56q56fh7Q4vcQNZlpqKDDyw/1BLYcrjP8wehBys1c9rTu7ncAyK3FL11zZN9PEQF4RXfMmCHdW+FvBqIAR6ZoY8NnhDfhR3xdQJkgzU/vjUznn3e7frrUKvO23SDKHMgfZDp5bR4SjscACRP1AsHQKrFBH/lT40xziaoBW3loUPv/YDygw==;SeUHT7M3yaM3ZV7zXlC6JA=="
 ---

@@ -101,6 +101,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "DeepMind alum wants to use AI to speed the development of green materials"
+    excerpt: "For the same idea to work in chemistry, an AI system would need to predict how a new molecule would behave, not just in a lab but in the real world."
+    publishedDateTime: 2023-07-03T02:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 53
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/02/2155848.JPG"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "AI watch: UK electoral warning and OpenAI’s move into London"
     excerpt: "This week in artificial intelligence"
     publishedDateTime: 2023-06-30T17:03:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-obse
 cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Los Angeles Daily News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A.I. makers must create new laws of robotics | California Focus"
-    excerpt: "Not long ago, the artificial intelligence (A.I.) bot ChatGPT as a “courtesy ... set of major laws governing intelligent robots. In his 1942 short story “Runaround,” Asimov first put forward these three laws, which would become staples in his ..."
-    publishedDateTime: 2023-06-28T09:28:00Z
-    webUrl: "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/"
-    ampWebUrl: "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/"
-    cdnAmpWebUrl: "https://www-chicoer-com.cdn.ampproject.org/c/s/www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/"
-    type: article
-    provider:
-      name: Chico Enterprise-Record
-      domain: chicoer.com
-    quality: 74
-    images:
-      - url: "https://www.chicoer.com/wp-content/uploads/2018/05/chico-site-icon-1.png"
-        width: 450
-        height: 235
-        isCached: true
   - title: "AI makers must create, observe new laws of robotics | Thomas Elias"
     excerpt: "No one is controlling A.I. development, leaving it free to go in any direction, good or evil. Human survival demands limits on this, as Isaac Asimov foresaw. If"
     publishedDateTime: 2023-06-30T12:30:00Z
@@ -52,21 +36,21 @@ related:
       name: Santa Maria Times
       domain: santamariatimes.com
     quality: 49
-  - title: "California shouldn’t get in the way of self-driving trucks. Reject Assembly Bill 316."
-    excerpt: "Nevada, Arizona, New Mexico, and Texas have jumped to an early lead in the testing of driverless trucks, and California needs to choose now whether it wants to stay ahead of the curve."
-    publishedDateTime: 2023-06-28T13:00:00Z
-    webUrl: "https://www.dailynews.com/2023/06/28/california-shouldnt-get-in-the-way-of-self-driving-trucks-reject-assembly-bill-316/"
-    ampWebUrl: "https://www.dailynews.com/2023/06/28/california-shouldnt-get-in-the-way-of-self-driving-trucks-reject-assembly-bill-316/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/28/california-shouldnt-get-in-the-way-of-self-driving-trucks-reject-assembly-bill-316/amp/"
+  - title: "Would you leave grandma with a companion robot? Care bots and robot pets find favor in Pacific NW"
+    excerpt: "Artificial intelligence is all the rage, and now it’s helping some Pacific Northwest seniors live in their own homes for longer. Twenty grandmas and grandpas on the Washington coast joined a pilot project that is trialing how AI-driven companion robots could reduce loneliness and social isolation among seniors — especially those living alone."
+    publishedDateTime: 2023-06-30T13:00:00Z
+    webUrl: "https://www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/"
+    ampWebUrl: "https://www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 37
+      name: OPB
+      domain: opb.org
+    quality: 46
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2023/06/OCR-L-NEWASSEMBLY-1224-2.jpg?w=1024&h=693"
-        width: 1024
-        height: 692
+      - url: "https://d3ac64bsgpdzxx.cloudfront.net/08-27-2021/t_4c9bad0c206d4ba48f81b667090d0397_name_Superabundant_Ep__4_Thumbnail_6.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "oIBUmmALw2p8Isbwmz9Q5jGGTa9TtpE01zw1udhbIlEdOpCtTmjUrtlz/quxCgHumkiIN2QcnMWKFIsNRm0aR1WYf7rgVSPIFj3Lk5IP91jEkC8NZg54TOocacx2nRkQgl1BplA//ZPF4JsiBq7R4SL1bYJVDVCE7hL524awYaB5zD8HG5mL14xwD4uLV74Vb/krSl/lpPMmL5LlmF6ckWmgL7L0GVE3Vw9rLAY5MgFmeo22BSnv0mW+RT6jSlhtWefiBHvTWaQTMbjtl7ZypwWELvVNnWBOJILrQ202cWhn8rDDGRMZLxW0tunDDsABLU4+PcsYcf97ccUCeQjnrV6k78ZgVdzgXrG0bhkSRSA=;guUSYpqF1Re3IA05Do1tig=="

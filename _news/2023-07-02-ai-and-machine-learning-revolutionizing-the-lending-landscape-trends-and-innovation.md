@@ -59,6 +59,20 @@ related:
         width: 900
         height: 450
         isCached: true
+  - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
+    excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
+    publishedDateTime: 2023-07-02T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
+        width: 1100
+        height: 550
+        isCached: true
   - title: "Mike Muse Breaks Down the Intersection of Music and Artificial Intelligence"
     excerpt: "SiriusXM host Mike Muse spoke to The Root about the connection artificial intelligence has with music and how it affects Black art."
     publishedDateTime: 2023-06-29T14:41:00Z

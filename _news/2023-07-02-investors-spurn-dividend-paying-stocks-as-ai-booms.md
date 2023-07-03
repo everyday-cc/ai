@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI news - All the latest in artificial intelligence"
-    excerpt: "Allan Wong, co-founder of Hong Kong toymaker VTech, thinks the technology will arrive by 2028 - and could free up the parents to do other activities."
-    publishedDateTime: 2023-06-28T10:46:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/ai/index.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 34
 
 secured: "Mq4fE9D4ZrpqQ/LMsOvDoz2v94xD/Bh3mLsyxYNkOXii0qkvTRNUCRa8tFT4eGsC+caqlKleOcK5k1Uw0ZNgLFS23hyPvlhRLhr3Jbw+HRakZGZRzlUnXN+O25ifXxiwDsETkKuzmubOcOdcnOYzgCiwxFHFv03bc1peGSedbZvWrC9PeEUP+cDOlQvqxJDsBG7SDIzxpcEtvSqdNWojwqT4V8MUimkW4mfTA+2tXyQvtjMC93i+/Uat6HYivd3F4BQSNoKu9iP8gaHDTqIUhuW+YhH99papkRw26wNwPBuba36bho0JCqXnta33R1s/cL3YoCoEEMrPF7u4YpTAyUPjv6c220/VdFtaUiXZFJfoCwp2AVbVf3Lw1w7FF3eSyphKUjontiDxOzbtbsBkzy3JOazlyCQ24m4RNR10UotnbIoqgFoQsUI61oUbqiEc6kR9kk43DKt48aclNlx1aJnpfgWzRQ60qDJpQFQXvA6PddzVul5XuzXUgkCs0kZ9E3miXMHPXnfg9QG8ndQeeA==;hrX6pnwobsYoOtEdHL+Elg=="
 ---

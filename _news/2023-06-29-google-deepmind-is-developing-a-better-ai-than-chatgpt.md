@@ -9,7 +9,7 @@ ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chat
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Vatican issues handbook to navigate AI ethics in the ChatGPT era"
+    excerpt: "Amid the call to regulate and create guardrails against the misuse of artificial intelligence (AI), The Vatican has now issued its own handbook for navigating the ethics of AI technology in the ChatGPT era."
+    publishedDateTime: 2023-06-29T06:32:00Z
+    webUrl: "https://www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/articleshow/101360880.cms"
+    ampWebUrl: "https://www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/amp_articleshow/101360880.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/amp_articleshow/101360880.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 74
+    images:
+      - url: "https://www.businessinsider.in/thumb/101360974.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
   - title: "How new AI tools like ChatGPT can transform human productivity in the enterprise"
     excerpt: "With AI, businesses can automate repetitive tasks, use intelligent data analysis, augment productivity, enhance collaboration and more."

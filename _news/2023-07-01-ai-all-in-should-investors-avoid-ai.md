@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-sho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI news - All the latest in artificial intelligence"
-    excerpt: "Allan Wong, co-founder of Hong Kong toymaker VTech, thinks the technology will arrive by 2028 - and could free up the parents to do other activities."
-    publishedDateTime: 2023-06-28T10:46:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/ai/index.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 34
 
 secured: "wWgRvnUqF8jS+/k9jk3zel572uAusXqe1i2fmGVP07Ngk6K0g1RKf6nKKIgXjv+Uk11wLvLmza1G/C8iX3n+0xcfCSla0+tydHdX31mpIPywlux3dR3AU/+S03h4+Dy5+7SuPPqaBoKkXSmg7l7xqBIBCyqzh3HoFgs+IiyloAJj+V4b1dmDAQOrqdJNCiJ7z8mgK0gYCJf/1weRJXGieugxhl/n59N6TTvBylmP1pNIr/pvR6D4iUJguzakuRxcldNocmgk5z9vutMaaWr1xT3tLlzwt+pGB3GNRJU5qVTWXWELKxQZNTPmZH3bIl2crFLHo0H6+OI9LiqYNgq2bxSzGTwb189pXiCpXR1Iw/91rgI7Z6pKfg6+w81G4HlJ3iiT56p0TlJXzGTTC3h88KWErkl9vRxLcicaz2zaP3x6338iMu+9Xyt9C/H1VY8laQn5OAlD5hyRPMm/LufWnLsWTOj/bxujmnTDyJBK3kPq6JneIuQtDy20NKQS6RxCKvlTZ69N2H22RsKe6TqCnQ==;jxueOcmWMPElz+TZ0VjkXA=="
 ---

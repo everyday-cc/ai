@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/"
 type: article
 quality: 102
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Will-Eclipse-OpenAI_.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "DeepMind alum wants to use AI to speed the development of green materials"
+    excerpt: "For the same idea to work in chemistry, an AI system would need to predict how a new molecule would behave, not just in a lab but in the real world."
+    publishedDateTime: 2023-07-03T02:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 53
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/02/2155848.JPG"
+        width: 1240
+        height: 826
         isCached: true
   - title: "AI watch: UK electoral warning and OpenAI’s move into London"
     excerpt: "This week in artificial intelligence"

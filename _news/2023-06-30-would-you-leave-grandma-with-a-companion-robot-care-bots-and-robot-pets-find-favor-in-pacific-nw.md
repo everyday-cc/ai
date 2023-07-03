@@ -9,7 +9,7 @@ ampWebUrl: "https://www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seni
 cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/?outputType=amp"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,29 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Would you leave grandma with a companion robot? Care bots and robot pets find favor in Pacific NW"
-    excerpt: "Twenty grandmas and grandpas on the Washington coast joined a pilot project that is trialing how artificial intelligence-driven companion robots could reduce loneliness and social isolation among seniors —especially those living alone."
-    publishedDateTime: 2023-07-01T14:08:00Z
-    webUrl: "https://www.ijpr.org/science-technology/2023-07-01/would-you-leave-grandma-with-a-companion-robot-care-bots-and-robot-pets-find-favor-in-pacific-nw"
+  - title: "A.I. makers must create and observe new ‘laws of robotics’"
+    excerpt: "Yet, it got enough facts right to assure this was no mere phishing expedition, but a version of the new real thing. Attempts at correction were ignored. All along, I knew this could be dicey, both in providing information that – had it been used to correct – could have led to identity theft or,"
+    publishedDateTime: 2023-06-30T13:59:00Z
+    webUrl: "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/"
+    ampWebUrl: "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
     type: article
     provider:
-      name: Jefferson Public Radio
-      domain: ijpr.org
-    quality: 26
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 74
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/33f900b/2147483647/strip/true/crop/3984x2092+0+282/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2F58%2F65%2Ff411a0294dc896d4e05587f50142%2F062723tb-jan-worrell-and-her-elliq.JPG"
-        width: 1200
-        height: 630
+      - url: "https://www.dailynews.com/wp-content/uploads/2023/06/OCR-Z-MICROSOFT-CHATGPT-2.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Would you leave grandma with a companion robot? Care bots and robot pets find favor in Pacific NW"
-    excerpt: "Artificial intelligence is all the rage, and now it’s helping some Pacific Northwest seniors live in their own homes for longer. Twenty grandmas and grandpas on the Washington coast joined a pilot project that is trialing how AI-driven companion robots could reduce loneliness and social isolation among seniors —especially those living alone."
-    publishedDateTime: 2023-06-28T23:05:00Z
-    webUrl: "https://www.knkx.org/public-health/2023-06-28/would-you-leave-grandma-with-a-companion-robot-care-bots-and-robot-pets-find-favor-in-pacific-nw"
+  - title: "AI makers must create, observe new laws of robotics | Thomas Elias"
+    excerpt: "No one is controlling A.I. development, leaving it free to go in any direction, good or evil. Human survival demands limits on this, as Isaac Asimov foresaw. If"
+    publishedDateTime: 2023-06-30T12:30:00Z
+    webUrl: "https://santamariatimes.com/opinion/columnists/ai-makers-must-create-observe-new-laws-of-robotics-thomas-elias/article_15040ba9-b335-54a9-8a87-7110b1cef4f1.html"
     type: article
     provider:
-      name: KNKX
-      domain: knkx.org
-    quality: 6
+      name: Santa Maria Times
+      domain: santamariatimes.com
+    quality: 49
 
 secured: "u6NWBHtMf3lOunAfXRhU8K5XaB+fU2EyGazs19grd5iq7sV8sd+I2auDKB19nf8ZT8WCFwxrdqa3WRK3HzNuwntoyjzZPHFPWhpcOCCO6zIysMO3cQXt5KSjpvtdR9/D/BPWG7RnBrnaJRGZz6su/3DBrT2g3xT0TqJDhNkI+IPdi2AaS97YCiqz/3IZiIFFPFb6E302apOBfO8Np9vPomqfky4ghTMOA6rRZ0jq5CEz2kk7pSb4zd2RPYHWxqcxI71teC+O5qsv4COsZipepvzI/LcZpVbzOW184+IDHJ+ZRDDNChiOerBY09Jvue00/E85cxbS9lhLN7OQV5yeHKSkIUQ2lX96owCDhkv8KIzAZ2uoymq/a959szuYFB++IKqNcRt3h+z7SKkmy0rA9WOYcnypObqu9QP4ivD7l8jHNjAxmZhMzo7jfSkcoJRoYiQw2q66BUWGkvZVemJXbB8GuICqQv8zuddSEcMxtRRSN5nKrGsPKiiZSOCMwZUAEzIfGZq2FsE9H2Kjtw3n7g==;r66Zd/z3uXZNYPTshjyBdQ=="
 ---
