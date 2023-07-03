@@ -51,6 +51,22 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "SKT sprinkles ChatGPT over AI chatbot"
+    excerpt: "SK Telecom upgraded its A. chatbot with new features it pledged deliver a smarter conversational AI, including ChatGPT elements."
+    publishedDateTime: 2023-07-03T10:53:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/"
+    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/05/MWL_SKT_AI_Service_A_650.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
     excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
     publishedDateTime: 2023-06-29T22:22:00Z
@@ -131,20 +147,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Gemini.jpg?quality=82&strip=all"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AI Powerhouses Clash: DeepMind Unleashes Gemini, a Chatbot to Rival ChatGPT, as Industry Gold Rush Heats Up"
-    excerpt: "By applying reinforcement learning and drawing on their expertise in building complex systems like AlphaGo, the DeepMind team aims to develop a chatbot capable of not only understanding and generating human-like text but also planning and solving problems effectively."
-    publishedDateTime: 2023-06-28T17:32:00Z
-    webUrl: "https://techstory.in/ai-powerhouses-clash-deepmind-unleashes-gemini-a-chatbot-to-rival-chatgpt-as-industry-gold-rush-heats-up/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 36
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/Bing-ChatGPT.jpg"
-        width: 850
-        height: 425
         isCached: true
 
 secured: "YEj5vqyXb2YZYM9BJfVGok5RMLHNe0SKRoZpvxSEOf8MGx83n9r3NEdBRjMCZ7l4C7y+w9ZPnWzSY5Dpx2zgBeVAC6ZVkDwt2Mtmx/9qmoxeA1IcyDvK/J1yKQ3USk7YU/yoeY+yxwNCKb+FzAQ3E/VBmEgVTyJ3jAneUCmw6u04CSk9f/2KRr6Rq5H4Wu2UyzhNdxAhozDk/1hsVd3fHlxRIrEGt4LoI+U8Lz15mQZf7C6FR+o3HnokY8OSq3J6kgZe91Sz9uMETNe9WFnMnjiG5apvaNhTPtCnU5dEqPZb2YCqu4G6eqV/3bkYSWC522fdklM9nYKsFMvq5zzSJhaqkExU0W4ze3JENcZhinxLeYRkg1ncIcf+OMri3t6WpOnar6o44IxSo+drKlKLe18nxO991YducU0efK2FsTGMrIC5RRHnwfru21+uOyZ+pWrdWt+asgMBkgF+243JRZaA3DNFg7F3U/LUx4MTc6CM1sWjHdAqMLoyFaUu/bcoFwTcyTk/T2SD91qmzt9c0Q==;ABt3IlcDc07GxuY/dTTlXQ=="

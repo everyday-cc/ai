@@ -27,29 +27,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "13 Principles for Using AI Responsibly"
-    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
-    publishedDateTime: 2023-06-30T12:14:00Z
-    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Men are using AI to land more dates with better profiles and personalized messages, study finds"
-    excerpt: "Men are using AI tools like ChatGPT to date, generate bios for their profiles, and craft personalized messages to their matches, a new study finds"
-    publishedDateTime: 2023-06-28T18:39:00Z
-    webUrl: "https://www.businessinsider.com/how-men-are-using-ai-for-dating-profiles-messaging-study-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
 
 secured: "53YN5PXDNKt5T3GS1kvSoktLlZ8iLDJRHuUg4xV4csl+4PBZSx0dKM6RwU/hJmAh+w/8FFsGNEaiCCAWSfQ6xt+loI4Rxmif5K92mSheaApPw9ms+vgm/Oh35HAlFxg8QmWIx6M462mnRXALVAzw37N7I9mv8TEAsgTMaeFzsNqV0RGo6Czo5eijJGhyCaGdzU5EeN2RwQ0PUjiq/dBk4XFWf6iRUbL2LNgeaB1PoPvLwaq1JyNjUWlscWjOB34q7YAHa5Ek3sIg8lII6xG05VZj/DG3YgQ+xit+kPu6w0QzOw6pNoqaONKsrBIzrzxiCxTv6MbkmvnUaeZuVLyPCHXH5DniGiigNtBBV3DyUyWtn7g34s+YbhCts7r+BFd5gw/3St0/sgGqT3O0dJjUwChDaAm8FHEyTZhsuElezRJc2ryp9F2szbxBmvmd9bNdovnKe3uTHK17iO06nXVCkYiA1rq3fJbA+FSGsgiAKh0AcPOn+z+YOsS/J3UayLW7O5jra5jMSexn9GHA+4iaiw==;A9P88vLeS4E3Ft1tKFjeDg=="
 ---

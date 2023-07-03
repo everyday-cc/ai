@@ -10,7 +10,7 @@
       "originalUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -231,48 +231,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-29T06:13:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-10-manufacturing-trends-that-are-changing-the-industry.md",
-      "title": "10 manufacturing trends that are changing the industry",
-      "excerpt": "To maintain their competitiveness and overcome today’s challenges, manufacturers have had to make agility and adaptability top priorities.\nThe post 10 manufacturing trends that are changing the industry appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/10-manufacturing-trends-that-are-changing-the-industry/",
-      "originalUrl": "https://www.ibm.com/blog/10-manufacturing-trends-that-are-changing-the-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T06:08:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1331,6 +1289,48 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-21T06:04:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-g2-summer-reports-name-ibm-a-leader.md",
+      "title": "G2 Summer Reports name IBM a Leader",
+      "excerpt": "IBM offerings were featured in more than 820 unique G2 reports, earning over 250 unique placements as a top-three product across various categories.\nThe post G2 Summer Reports name IBM a Leader appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/g2-summer-reports-name-ibm-a-leader/",
+      "originalUrl": "https://www.ibm.com/blog/g2-summer-reports-name-ibm-a-leader/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T06:02:58-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

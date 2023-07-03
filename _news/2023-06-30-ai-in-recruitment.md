@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ai-in-recruitment/"
 webUrl: "https://www.ibm.com/blog/ai-in-recruitment/"
 type: article
 quality: 99
-heat: 121
+heat: 109
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Is No Replacement for a Nurse’s Intuition"
-    excerpt: "Technology is a tool to aid human decision-making."
-    publishedDateTime: 2023-06-28T19:11:00Z
-    webUrl: "https://www.wsj.com/articles/ai-nursing-patient-health-care-c4e5191a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-808182/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Shanghai to host major artificial intelligence event in July"
     excerpt: "SHANGHAI - The World Artificial Intelligence Conference (WAIC) 2023 will be held from July 6 to 8 in Shanghai, according to a press conference held by the municipal government on Thursday. With the theme \"Intelligent Connectivity Generating Future,"
     publishedDateTime: 2023-06-29T07:31:00Z

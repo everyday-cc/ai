@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China accelerating commercial use of self-driving technology, expert says"
-excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years,"
-publishedDateTime: 2023-07-03T03:32:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
-webUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years, said Nikolaus Lang, managing director and senior partner at Boston Consulting Group."
+publishedDateTime: 2023-07-03T03:14:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+webUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
 type: article
 quality: 23
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
+  - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
     width: 544
     height: 362
     isCached: true
@@ -53,15 +53,6 @@ related:
         width: 770
         height: 510
         isCached: true
-  - title: "This Self-Driving Boat Maps Underwater Terrain"
-    excerpt: "Step aside self-driving cars, self-driving boats are here—and they can do more than take you on a cruise. Researchers at The (UTEP) have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans,"
-    publishedDateTime: 2023-06-28T18:06:00Z
-    webUrl: "https://www.labmanager.com/this-self-driving-boat-maps-underwater-terrain-30510"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 19
   - title: "Arizona’s agility as self-driving vehicle testbed"
     excerpt: "Arizona's leaders have enacted rules to authorize and establish guardrails for autonomous vehicles to operate while entrusting experts with the responsibility of ensuring safe testing."
     publishedDateTime: 2023-06-30T20:26:00Z
@@ -72,6 +63,6 @@ related:
       domain: azcapitoltimes.com
     quality: 4
 
-secured: "miXCDx+A8+oXK2+ATIwnJMrnrJObG+tnDlAeLSEH4g4gDQWVrKjD9Rt6ZWPKKmT9Wrd7SHDuglEsEYZmZqqEgYcntCwEjR7HKkT2GZJJAwhQOqZlnRErKl0LtUL1w/REOhOnyhF7+oojOG136uhTU6kFglkGl7cDyO/lp4kMboe91YaQMiy6aKphI+PthypNrE6N0HakPgMWNGC2qPR33UK/CaWW1Le7CZfGzd7UNzdPrWEqe3YHUd+Wsp2ceJ30WXd9hMMAMAtV+PE+S+puX4GpCdbErOddsU6RFkAm5DphvLWH8SxJNxo5zpS1N6A11KU9P0QJForMT0i9Aex7C3O2TBwO9yf7R+5Uiy9OWL4=;k9gZ7p7HXDeXU2PBJKEGsg=="
+secured: "ObqrDyBltMLL93Q7K/iL7p2RKnt1KGih1CCoFVnBatS5S1/7U2CirlGZnVi1SHQzude65bm1j9XpSH4mZQJeWy6R806u/qqbo4oL0y26NMT04TDOd4xVcHVRIHiFk9KflCVgmifarNQgGVV8wWmSSAHPys28pkGXU3tYLk3SxWrAnO7WnyxHvCdcqKk7EKKUe6P0gt1Q3nFTfutbXKWXLTfb04x7g/DqzwTMB1YDcJfLYFgwlf6egC/Knx6jVHtl+wILYnrwmdeAObKUg8sIe7eur4wcxGPL2s0ZsMzrV2sD6z8k28A+zpbRvRjhkWHmGx7q8VlRWj4BQ1M0VNtameXnMvKPJ0jzlu01foZfNoI=;Mj8oxm5TlCysEEgKEHE3wg=="
 ---
 

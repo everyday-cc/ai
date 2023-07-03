@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Databricks Unleashes New Tools for Gen AI in the Lakehouse"
-    excerpt: "Fresh off its announcement of the acquisition of MosaicML on Monday, Databricks today unleashed a torrent of new AI capabilities at its Data + AI Summit"
-    publishedDateTime: 2023-06-28T18:19:00Z
-    webUrl: "https://www.datanami.com/2023/06/28/databricks-unleashes-new-tools-for-gen-ai-in-the-lakehouse/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "vBGaFb357A+HlWC8/itbWlaMx39SOy9HG2M0cH2ejKeEX9Zi38RJYJvWAC9+8CVMGyxmQXMVp7EhZUw9tq6lFvX2gsPIOFwLClAkpphV4TfNnoDpHtw2W4O3KjsGx49sGiC95ZDu89PmSRu0v48SmrNnUVG7OK1ACVWvIbqPs5j9Zuv9q4f/8KnTa71N8LTwfk1n5DrDkGVdmIHNpKwfd5j5a/r69nHvFmcqNUq4L8hvRROjaX7aWQgfOCSRJbrcZNIQ9jXPuDp662C6uVEogVpAIDrt6TV6AUpUV9K7LpR0uY+2InaMX07+0hRbbpVVbdRIAznuRyhS4ofvzZFA4Qc0/ZtDWQYddqDaWCJad6Stm3ulE0UMGSP+rDHxLawV9FC9HKz+pVboYASsJUvLeb3CLwQsXuN2CqoBrKHfcMt8hvRDunwQiczoVI/GKZKqvd00UyIWgGshitSgodgEXay0cOcxOkvEIuJr/FOjJnGUlbmxCax69ZCmklOfvznGsbxLTTq+cUY75CJ6qpz9lw==;lZcinzIGWwwq2NcchlYrPg=="
 ---

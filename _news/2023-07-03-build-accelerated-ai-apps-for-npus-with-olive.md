@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for
 ampWebUrl: "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
@@ -41,6 +42,6 @@ related:
       domain: technotification.com
     quality: 19
 
-secured: "IZehxrUKEWpAbNUXMUvHUW739U7cZqkw6UGIg/82UoVFAFRaxMQn3AOt0HAc6Kjtc7UCuhMHBDbRHTnPX4IY2PMVLh8bE6btM1pN4ZhPfELI1IguynoGTVmMZV4QgBmadhj4r+XYAzwaLFTJ2BMhWOZEdj2CULL9xq/+CH10H9RJuUgaziBS9yMNiwt+PKai+M5OWGmcCVF+Ep+GT9xUAZG+Vf9hxu/P0JVKvFYxfj7hRtaN48DETtnzb3PMR/lrcq7Orpw5rDsH1uREtP9EMxOTRZwlulW/+sNNYsqYfBeA/NrXG+uTCUaaMkxPi6maQwhvT+m6idpzgfdFGe19985b/PJ2PPGZZckEreqHJuY=;C1zkxBuQAbXPXQUfBFmpSw=="
+secured: "FUWMjDm7fQ4GGaD497EJU/p3jlX42dDCD0pMs0FwhHkbeAMud1v2wIYCzvp1mpiQox5Q/5QUB1utgQTa8fcq8bOamtPonZuHKozPxC1BkreggxO5qe4TJ4wEh8LvzBn0MetHPXgxOHoqhYD5YLEv8WsZ1Vft6obfUn1gyqHHB1gfxSDHosX08nRxwtwhCUAPT+8YpDXfB4L+2wfQLNyt6mip3PtXi0NJjEoCvzzB91ojoOUffu4HMpmZja+UWhJBplfHPqTqB76/jBRLPTpjImW7B1Y+Xh2UZaUsk8QroBCL7+hP0pNpJqLZgAvY+ZvnEke87GbKsKgDwWCUP9DvCBlPgn49lB5wwThSn708WWtIH3w/VHLAZTCrwQlS/dVC86++4VGEwAhGi5okKoFjXbEb/0OOKpRZdj1CzdJtsttRYkJZeGShcnBdzFwu+pbDXX5k9ofy8SD49hzHIV8xDKvELIffAX8GG2NfYL9QHpU0+pEF6bJyBQZk7+KGfJdXx73AeScCDhUTSw79am1M5Q==;akyn1Gf1jjE04VCUwi7ijA=="
 ---
 

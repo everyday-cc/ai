@@ -25,33 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "Geologists are using artificial intelligence to predict landslides"
-    excerpt: "Many factors influence where a landslide will occur, including the shape of the terrain, its slope and drainage areas, the material properties of soil and bedrock, and environmental conditions like climate,"
-    publishedDateTime: 2023-06-29T12:49:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/06/230628130502.htm"
+  - title: "The Revolution of AI in Music Production"
+    excerpt: "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups."
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://techround.co.uk/news/revolution-ai-music-production/"
+    ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "Men are using AI to land more dates with better profiles and personalized messages, study finds"
-    excerpt: "Men are using AI tools like ChatGPT to date, generate bios for their profiles, and craft personalized messages to their matches, a new study finds"
-    publishedDateTime: 2023-06-28T18:39:00Z
-    webUrl: "https://www.businessinsider.com/how-men-are-using-ai-for-dating-profiles-messaging-study-2023-6"
+      name: TechRound
+      domain: techround.co.uk
+    quality: 59
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2023/06/marcela-laskoski-YrtFlrLo2DQ-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Psychologist’s Take: 2 Reasons Not To Fear The AI Revolution"
+    excerpt: "A mix of excitement and anxiety is natural, but here’s why artificial intelligence is likely going to enhance our lives."
+    publishedDateTime: 2023-06-29T19:18:00Z
+    webUrl: "https://www.forbes.com/sites/traversmark/2023/06/29/psychologists-take-2-reasons-not-to-fear-the-ai-revolution/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-  - title: "How actors are losing their voices to AI"
-    excerpt: "Performers forced to compete with themselves as companies’ use of technology for cloning prompts calls to update copyright law"
-    publishedDateTime: 2023-07-01T13:00:00Z
-    webUrl: "https://www.ft.com/content/07d75801-04fd-495c-9a68-310926221554"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "New computer-vision system aims to revolutionise shrimp farming practices"
+    excerpt: "The AI-based MonitorShrimp project, led by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in collaboration with shrimp farming companies Oceanloop and Sander Holding,"
+    publishedDateTime: 2023-06-29T06:25:00Z
+    webUrl: "https://www.efeedlink.com/contents/06-29-2023/5597ea33-5b8f-49f1-82e0-0e446dc51ce5-0001.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: efeedlink
+      domain: efeedlink.com
+    quality: 38
+    images:
+      - url: "https://www.efeedlink.com/cps/images/2023/june/2023062914191498243232.jpg"
+        width: 900
+        height: 450
+        isCached: true
+  - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
+    excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
+    publishedDateTime: 2023-07-02T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
+        width: 1100
+        height: 550
+        isCached: true
+  - title: "Mike Muse Breaks Down the Intersection of Music and Artificial Intelligence"
+    excerpt: "SiriusXM host Mike Muse spoke to The Root about the connection artificial intelligence has with music and how it affects Black art."
+    publishedDateTime: 2023-06-29T14:41:00Z
+    webUrl: "https://www.theroot.com/mike-muse-on-the-intersection-of-music-and-artificial-i-1850590641"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 15
 
 secured: "ojg+MjiJycD/P4mNq7PJIE4g3dn/SQu5+XyJKFYqmNyxHsjOzqjyNIDsp+NBYnu2eSNHnWG43RteNHWcthUcBjIaCQP+bH2bpqJd/LbsK87Q/g8JJDycELUZ5yrme1bUM0e6btlE9byY9W7oFHUeawvmyyp2YtK0p/VFZTxwgFs4r6VK0QzSSpDTrNeYA0VLVSfaBItB4nW3QVojePlAiBcGldBl+UuO1dbwUW2SRwyfBUJeUykdRCSJmj4MFP8CCyuyz73nv/kk1+yJCohxbP9xWwA15GgcvbJUZaMCviiGoL7SCqZsGk13vFK7K03aOqB0a09QvZ6ZsceUNVLKjuktJd7S7XZB3cuu774jq/8=;RxsjtYK3lQi+IeSHcM5uGQ=="
 ---

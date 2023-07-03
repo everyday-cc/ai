@@ -104,15 +104,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "China’s AI firms might further lose chip access in new US ban"
-    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month."
-    publishedDateTime: 2023-06-28T18:54:00Z
-    webUrl: "https://techcrunch.com/2023/06/28/chinas-ai-firms-might-further-lose-chip-access-in-new-us-ban/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
   - title: "New AI Chip Export Rules Put Semiconductor Firms in Spotlight"
     excerpt: "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China."
     publishedDateTime: 2023-06-29T12:15:00Z
@@ -156,20 +147,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "US Considers More Restrictions on AI Chips to China"
-    excerpt: "Nvidia was already required to make a weaker version of its flagship A100 for China, but even that weakened chip wouldn’t be allowed under the rules under ..."
-    publishedDateTime: 2023-06-28T17:33:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/06/us-considers-more-restrictions-on-ai-chips-to-china.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 56
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-28-at-10.14.52-AM.jpg"
-        width: 1024
-        height: 718
-        isCached: true
   - title: "US plans new AI chip export controls aimed at Nvidia"
     excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
     publishedDateTime: 2023-06-29T09:26:00Z
@@ -198,15 +175,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Nvidia knocks down concern over AI chip exports to China. The reason is why we own the stock"
-    excerpt: "Nvidia (NVDA) on Wednesday reassured investors that potential export restrictions on chips wouldn't hurt the semiconductor firm's bottom line."
-    publishedDateTime: 2023-06-28T17:25:00Z
-    webUrl: "https://www.cnbc.com/2023/06/28/nvidia-knocks-down-concern-over-ai-chip-exports-to-china.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 53
   - title: "The US wants to restrict China's access to AI chips even more, and Nvidia could lose out as a result"
     excerpt: "The US government is weighing up plans to further restrict the export of AI processors to China. The Biden administration has heightened concerns about the access Chinese companies have to bleeding edge tech,"
     publishedDateTime: 2023-06-29T01:08:00Z

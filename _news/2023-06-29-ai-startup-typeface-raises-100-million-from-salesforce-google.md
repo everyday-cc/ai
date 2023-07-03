@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-type
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google"
 type: article
 quality: 67
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -116,6 +116,22 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 49
+  - title: "All in for generative AI, but organizational jitters remain - Workday and Salesforce research airs the opportunities and the challenges"
+    excerpt: "Despite corporate enthusiasm around generative AI, business leaders are still nervous about incorporating this into their operations and feel there are many challenges ahead, not"
+    publishedDateTime: 2023-07-03T10:22:00Z
+    webUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities"
+    ampWebUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 27
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-07/Screenshot%202023-07-03%20at%2011.19.41.png"
+        width: 1124
+        height: 750
+        isCached: true
   - title: "AI startup Typeface valued at US$1 billion after Salesforce-led fundraise"
     excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday (Jun 29) that it was valued at US$1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
     publishedDateTime: 2023-06-29T13:10:00Z

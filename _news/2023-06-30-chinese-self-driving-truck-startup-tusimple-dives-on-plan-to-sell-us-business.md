@@ -40,28 +40,19 @@ related:
         height: 246
         isCached: true
   - title: "China accelerating commercial use of self-driving technology, expert says"
-    excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years,"
-    publishedDateTime: 2023-07-03T03:32:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+    excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years, said Nikolaus Lang, managing director and senior partner at Boston Consulting Group."
+    publishedDateTime: 2023-07-03T03:14:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 23
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
+      - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
         width: 544
         height: 362
         isCached: true
-  - title: "This Self-Driving Boat Maps Underwater Terrain"
-    excerpt: "Step aside self-driving cars, self-driving boats are here—and they can do more than take you on a cruise. Researchers at The (UTEP) have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans,"
-    publishedDateTime: 2023-06-28T18:06:00Z
-    webUrl: "https://www.labmanager.com/this-self-driving-boat-maps-underwater-terrain-30510"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 19
   - title: "Arizona’s agility as self-driving vehicle testbed"
     excerpt: "Arizona's leaders have enacted rules to authorize and establish guardrails for autonomous vehicles to operate while entrusting experts with the responsibility of ensuring safe testing."
     publishedDateTime: 2023-06-30T20:26:00Z

@@ -29,7 +29,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
         width: 1200

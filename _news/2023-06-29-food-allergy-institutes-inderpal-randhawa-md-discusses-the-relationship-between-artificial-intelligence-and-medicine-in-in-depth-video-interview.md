@@ -49,15 +49,20 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Why is AI the future of trading in India?"
-    excerpt: "AI is revolutionizing the capital markets, leading the second wave of innovation in finance. Before AI, traders relied on stock analysts and media coverage for investment decisions. The rise of online trading platforms democratized the sector,"
-    publishedDateTime: 2023-06-29T18:26:00Z
-    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/why-is-ai-the-future-of-trading-in-india/articleshow/101374538.cms"
+  - title: "Indigenizing artificial intelligence and programming"
+    excerpt: "The Lakota AI Camp has returned for a second year, from June 11-30, to bring Indigenous teens to the Black Hills for a three-week AI crash course camp while simultaneously"
+    publishedDateTime: 2023-07-03T11:31:00Z
+    webUrl: "https://rapidcityjournal.com/news/indigenizing-artificial-intelligence-and-programming/article_4e761cb4-1209-11ee-8a43-677bcecc3cc0.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
+      name: Rapid City Journal
+      domain: rapidcityjournal.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/4/e7/4e761cb4-1209-11ee-8a43-677bcecc3cc0/649f40bf75ea7.preview.jpg?crop=1810%2C950%2C0%2C97&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SmOQb0djjG6V2n5AoOR382/YXB6oIK9r/ibUjzJTZc1thYJkZCCcwL/UNl/Z7RbB9HBOUydppqFCF8Im03CAyxRhSuKHd9iysW2N4K4mBK/deZnQP6ncMQz6FZ1Xaobxjap1asI93KLQ1xai9MCbQllrfKxU7oCd7kYr0kOG0j9CFCC/XCVr0Mztlb/EI90QF/N4iXcLsCWRv3c66XqNXCAcetxN2bHL/xgoiDnore7soiKylQfyedoE7/r8ket308SqBd/0tDF5oVg+cYnP2mt8ihArDa71dHi9Dg4lkG0P3bVwGOVU9hLxQdulCLEmC6byrIK/r9C2ISmgxEzTMR37z6b9lBt9J7h4xJ6dBTA=;bCfXIL/mD60pffLLBVCZSA=="
 ---

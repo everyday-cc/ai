@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep-learning chest radiograph model predicts community-acquired pneumonia mortality"
+    excerpt: "According to an accepted manuscript published in ARRS' own American Journal of Roentgenology (AJR), a deep learning-based model using initial chest radiographs predicted 30-day mortality"
+    publishedDateTime: 2023-07-03T04:00:00Z
+    webUrl: "https://medicaldialogues.in/mdtv/radiology/videos/deep-learning-chest-radiograph-model-predicts-community-acquired-pneumonia-mortality-113826"
+    ampWebUrl: "https://medicaldialogues.in/amp/mdtv/radiology/videos/deep-learning-chest-radiograph-model-predicts-community-acquired-pneumonia-mortality-113826"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/radiology/videos/deep-learning-chest-radiograph-model-predicts-community-acquired-pneumonia-mortality-113826"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 37
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2023/07/03/213395-deep-learning-chest-radiograph-model-predicts-community-acquired-pneumonia-mortality.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "Deep learning model could help identify high-risk patients with community-acquired pneumonia"
     excerpt: "According to an accepted manuscript published in ARRS' own American Journal of Roentgenology (AJR), a deep learning-based model using initial chest radiographs predicted 30-day mortality in patients with community-acquired pneumonia (CAP),"
     publishedDateTime: 2023-07-03T02:51:00Z

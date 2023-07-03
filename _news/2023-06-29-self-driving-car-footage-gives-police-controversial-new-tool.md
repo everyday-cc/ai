@@ -50,15 +50,6 @@ related:
       name: Star Tribune
       domain: startribune.com
     quality: 4
-  - title: "Forget AI and self-driving cars - 2 of the S&P 500's 5 best-performing stocks this year are cruise lines"
-    excerpt: "Two of the five best performers in the S&P 500 this year have nothing to do with artificial intelligence, self-driving cars, or any other revolutionary technologies. They ferry people around the ..."
-    publishedDateTime: 2023-06-28T18:15:00Z
-    webUrl: "https://www.businessinsider.in/stock-market/news/forget-ai-and-self-driving-cars-2-of-the-sp-500s-5-best-performing-stocks-this-year-are-cruise-lines/articleshow/101342054.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 2
 
 secured: "lj5WDmsiBuGEVY/xEpgvg7XXZnIjTp9PdSF6/uozJPHzXtyxpRZcETIN2GPLAEiNgHG0hJOloktOmmU8qgfyUaWxwQ97QaXy5OYLnbO5skIuL5rhvSXs0yIc3Qt4si6qrP6OcMHTgeoIYkf+Yedbc45ZABCKy8rENjBBGbt1/HBNgYpDGdkyavFcBpfUFUJgXLMkHIkMIyxpyymBz1oBQhfu22jsoVv1neWEDtW9sAjq24vTVyxSA4KF0+FBlu90z8rcqgi3p8Dii4jO4CJA0Wq29TswZPPibqqYaNJ9gI4Nt3osOzn80jgdYjaXujdb/a3kcFiyFsKw+IObyC6SIJyVETj4UAFZ6VFrxPxcjhY=;WNxWxNV9QnOWGQ9xX/67FA=="
 ---

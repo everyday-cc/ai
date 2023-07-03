@@ -80,15 +80,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Databricks Unleashes New Tools for Gen AI in the Lakehouse"
-    excerpt: "Fresh off its announcement of the acquisition of MosaicML on Monday, Databricks today unleashed a torrent of new AI capabilities at its Data + AI Summit"
-    publishedDateTime: 2023-06-28T18:19:00Z
-    webUrl: "https://www.datanami.com/2023/06/28/databricks-unleashes-new-tools-for-gen-ai-in-the-lakehouse/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "/P+04P+y42N9dLUHj1RjxBkgAMbTNRUagak9ZmeoAngnReR/gVUSgvGJ73dTV9QFM+1mF/lXdgfmSsD714WQJg9yps6DKGCAqRz8VM5ZAzI3i6v6ozjtzkag19hG7q+DOMG7/Kyglga+e6eq85rJqqrNxaFgYQqaPH9ydxqDygTdTUSatu5Iv/FgQcmqS1ZQ4n794ZB+DX+wqmH1odLi10IfjdkGl1cJnQbqyStvZW0j3sqLIkUwOqiw66ryVcGMVPuVAeMv3HRXcOhgz1jCJ4mJKSD59lrpg9GNc5cvUYB8q/YIujR/wwFme/fQmLM73S78RdTKO8hybIOUNXabL0qDrGyhF+X/HIgg3JumKq4ia9KwWdQvAy2ih/7gyJcxW/TZzfQ0vgkGm3h0B6+gTuyhKJLfO/dhVuzhlc9UPdwehEr+C5reCGz+14kbbfPxis7CqwXHxA12zkDPzT/vTNzhw1htufWPTPRVbShrv+SUyQeOQ+3jK0BAHMdb3euT/plRcTdlqOsXC2S0ch78eQ==;IPjt5TNZUyXzdHQEvNxQLw=="
 ---

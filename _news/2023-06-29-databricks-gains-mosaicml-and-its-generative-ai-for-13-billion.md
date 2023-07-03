@@ -83,15 +83,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Databricks Unleashes New Tools for Gen AI in the Lakehouse"
-    excerpt: "Fresh off its announcement of the acquisition of MosaicML on Monday, Databricks today unleashed a torrent of new AI capabilities at its Data + AI Summit"
-    publishedDateTime: 2023-06-28T18:19:00Z
-    webUrl: "https://www.datanami.com/2023/06/28/databricks-unleashes-new-tools-for-gen-ai-in-the-lakehouse/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "UvnXLDZVcajCLgB79x4x039TFpeJG/9Z1wTDeXsWqveWA1PG8C4evb3wZ27v7x8UkB6MPDzOXIszrz0trt4F14VYfipTzEwNQJ/LcmB5OQPwVNUZALPQkHAxdfAEFM1JU31A4kfTF+GRdojhW/PCgpHce1voTTGQ6YPiTFY3TGsN1YEDG85DcpHUzQo1Gs/hSOLc3rNZnhSPeLmlGSDL1Z0jtan/n0vfBDCRb/8vpoLTuto2dRdi4HUNxVKoPWrayxKWNRr5rGM0ZrjyU6ivKulWs2kAr3Ls2mfBixiOCNuXeP4tQ67RRcwdLowONOAD+lrJ59tPf4BVRG/W1fltOmribacMjda5p0Y36R1k5uyRhJ5hyTtIX4AzYQLVzX7PflXOSEyfGsulUMoRETESVynrHuLiS+OIyTsIJetCv1X2vaSPLMvhvd/vjO+Cv1j0cI/ESi2Ni+252Ypru4bm2J1/zcwSaemR1JR2SMZyihHjpUpENOG1Xd9ZVW4NXyV3GgQNhbEjVunoQm6zxBAJHw==;Jt0IkhMvz23dHmNfaLVrMg=="
 ---

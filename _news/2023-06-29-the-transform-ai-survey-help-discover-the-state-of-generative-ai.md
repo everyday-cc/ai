@@ -304,6 +304,20 @@ related:
         width: 1028
         height: 685
         isCached: true
+  - title: "FOMO on Generative AI Breathes Life Into Listless Tech M&A"
+    excerpt: "Big Tech has swooped in to snatch up startups in the glitzy new form of AI, while other suitors try to keep pace. Stragglers may be punished down the road with higher prices and slimmer pickings, analysts say."
+    publishedDateTime: 2023-07-03T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/fomo-on-generative-ai-breathes-life-into-listless-tech-m-a-242ecf65"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-425674/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Exclusive with AWS sales chief Matt Garman: How Amazon aims to lead in generative AI"
     excerpt: "Amazon Web Services Inc. has been the undisputed leader of cloud computing, but with the recent eight-month surge towards artificial intelligence applications, rivals such as Microsoft Corp. are swiftly gaining ground."
     publishedDateTime: 2023-06-28T22:04:00Z

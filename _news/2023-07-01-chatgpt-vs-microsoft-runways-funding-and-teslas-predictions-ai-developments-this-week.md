@@ -190,6 +190,22 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
+    excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."
+    publishedDateTime: 2023-07-03T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.html"
+    ampWebUrl: "https://www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/02/usa_united_states_capitol_building_congress_by_uschools_gettyimages-607463592_abstract_digital_infrastructure_by_metamorworks_gettyimages-1129515465_2400x1600-100828810-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud"
     excerpt: "Trusting Social, a leading Asian fintech AI company, has announced the launch of Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
     publishedDateTime: 2023-07-01T03:15:00Z
@@ -420,15 +436,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 36
-  - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
-    excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
-    publishedDateTime: 2023-06-28T18:02:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840760.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Microsoft and Nvidia join $1.3bn fundraising for Inflection AI"
     excerpt: "With Nvidia joining its investment round, the San Francisco-based start-up, co-founded by LinkedIn creator Reid Hoffman, said it has access to 22,000 Nvidia H100 GPUs, the most in-demand resource in the AI industry today, costing $40,000 apiece."
     publishedDateTime: 2023-06-29T15:53:00Z

@@ -67,22 +67,6 @@ related:
         width: 1024
         height: 648
         isCached: true
-  - title: "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram"
-    excerpt: "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?"
-    publishedDateTime: 2023-06-30T09:11:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 51
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Meta releases clues on how AI is used on Facebook and Instagram"
     excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on"
     publishedDateTime: 2023-06-29T09:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/kyvos-announces-availability
 webUrl: "https://www.datanami.com/this-just-in/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Kyvos announces availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace"
-    excerpt: "Azure users can accelerate analytics on massive data without the hassle of managing software and infrastructure. SAN FRANCISCO, June 28, 2023"
-    publishedDateTime: 2023-06-28T17:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/2143384/Kyvos_Insights_Logo.jpg"
-        width: 395
-        height: 400
-        isCached: true
   - title: "Sports Info Solutions acquires basketball analytics provider Blueprint Stats"
     excerpt: "The acquisition will combine SIS advanced data, analytics and AI engines with Blueprint Stats’ stat-taking technologies to enable an end-to-end data and analytics offering."
     publishedDateTime: 2023-06-30T14:32:00Z

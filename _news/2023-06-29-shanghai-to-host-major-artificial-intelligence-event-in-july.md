@@ -34,20 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "AI Is No Replacement for a Nurse’s Intuition"
-    excerpt: "Technology is a tool to aid human decision-making."
-    publishedDateTime: 2023-06-28T19:11:00Z
-    webUrl: "https://www.wsj.com/articles/ai-nursing-patient-health-care-c4e5191a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-808182/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "FosmhmHxahtXyj7dTKlh1arBpxIRzT5nFHjOQUymjpIFhSvhBEdQJu7lDF2r2pSJwVE+1cWJp03STk5iHb6ZTzlFutNt7roWliWMAmuiit69T2W3S3v8wBRvQbP8z0mdrLgBv5cs7lPVtztnnVSCMQKgYN3WwT4JCnJ6WK0gyK9F8Ky3Ampo37pRNK7xPxJOJQYwYOPiz3XoaAkc9vrANwjwSWh7Hd9TtpNGSRQL3vEjiNQptAzZoW7v7kRwEjb913DS6nwU2FR5uRqLSv/wEUUaN1ORtZr3sphZFhBk7sIGqT27h0Gv9xZyaxIDe+g0OFBVJUJEDidKzsOzuUcj5ggpVtjrGfhOjVLQhqR7Vy+gvY2/MiL/FZlD6qs/Ue4q7IkmDqlgNIRwL5I2QhIh5QpY/UTVHXF5MsgsyH8uvWELlGYBBvBCuTRGLCFK4sRrtM5dWW8Kq1iKKSBAWvB/VzJTAlHehbU8hpzARfKR5FJpEiC9Vef6rglASUhyahAsjjzKViIWCQtgJcVd4YxBoA==;3UQPFvP0wMB8ukkFpWCi3A=="
 ---

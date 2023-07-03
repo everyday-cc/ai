@@ -9,8 +9,8 @@ ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: TechRound
@@ -27,111 +27,66 @@ images:
     isCached: true
 
 related:
-  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
-    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
-    publishedDateTime: 2023-07-02T09:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+  - title: "Psychologist’s Take: 2 Reasons Not To Fear The AI Revolution"
+    excerpt: "A mix of excitement and anxiety is natural, but here’s why artificial intelligence is likely going to enhance our lives."
+    publishedDateTime: 2023-06-29T19:18:00Z
+    webUrl: "https://www.forbes.com/sites/traversmark/2023/06/29/psychologists-take-2-reasons-not-to-fear-the-ai-revolution/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
-        width: 1706
-        height: 2560
-        isCached: true
-  - title: "Artificial Intelligence to reshape deep science learning"
-    excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business—with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
-    publishedDateTime: 2023-06-30T17:25:00Z
-    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "13 Principles for Using AI Responsibly"
+    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
+    publishedDateTime: 2023-06-30T12:14:00Z
+    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-57.jpg"
-        width: 1280
-        height: 1941
-        isCached: true
-  - title: "AI and the future of work: A collaboration of humans and machines"
-    excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
-    publishedDateTime: 2023-07-02T04:27:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design2.png"
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Bringing AI to the classroom: It’s time to start learning – and teaching – how to use it"
-    excerpt: "Many of us are going to be (or already are) expected to use these tools for our jobs. Students cannot leave educational institutions where AI is taboo and expect to be successful in a labor market where it is required."
-    publishedDateTime: 2023-06-29T13:47:00Z
-    webUrl: "https://wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/"
-    ampWebUrl: "https://wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/?amp=1"
+  - title: "New computer-vision system aims to revolutionise shrimp farming practices"
+    excerpt: "The AI-based MonitorShrimp project, led by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in collaboration with shrimp farming companies Oceanloop and Sander Holding,"
+    publishedDateTime: 2023-06-29T06:25:00Z
+    webUrl: "https://www.efeedlink.com/contents/06-29-2023/5597ea33-5b8f-49f1-82e0-0e446dc51ce5-0001.html"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 48
+      name: efeedlink
+      domain: efeedlink.com
+    quality: 38
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/06/artificial-intelligence-teacher-e1687532885604.jpg"
-        width: 1203
-        height: 678
+      - url: "https://www.efeedlink.com/cps/images/2023/june/2023062914191498243232.jpg"
+        width: 900
+        height: 450
         isCached: true
-  - title: "Artificial Intelligence to reshape deep science learning"
-    excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business – with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
-    publishedDateTime: 2023-06-29T21:29:00Z
-    webUrl: "https://news.ucr.edu/articles/2023/06/29/artificial-intelligence-reshape-deep-science-learning"
+  - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
+    excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
+    publishedDateTime: 2023-07-02T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
     type: article
     provider:
-      name: UCR Today
-      domain: ucr.edu
-    quality: 41
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
     images:
-      - url: "https://news.ucr.edu/sites/default/files/2023-06/GettyImages-1466924677.jpg"
-        width: 6720
-        height: 3384
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
+        width: 1100
+        height: 550
         isCached: true
-  - title: "Machine Learning is Revolutionizing Quantitative Trading"
-    excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."
-    publishedDateTime: 2023-06-30T16:34:00Z
-    webUrl: "https://www.bbntimes.com/financial/machine-learning-is-revolutionizing-quantitative-trading"
+  - title: "Mike Muse Breaks Down the Intersection of Music and Artificial Intelligence"
+    excerpt: "SiriusXM host Mike Muse spoke to The Root about the connection artificial intelligence has with music and how it affects Black art."
+    publishedDateTime: 2023-06-29T14:41:00Z
+    webUrl: "https://www.theroot.com/mike-muse-on-the-intersection-of-music-and-artificial-i-1850590641"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 19
-  - title: "Deep Learning in the Fine Arts: Expanding Creativity and Expression"
-    excerpt: "By merging the realms of technology and artistic creativity, deep learning is redefining traditional art forms and inspiring new avenues for artistic expression."
-    publishedDateTime: 2023-06-30T19:41:00Z
-    webUrl: "https://www.bbntimes.com/global-economy/deep-learning-in-the-fine-arts-expanding-creativity-and-expression"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 19
-  - title: "Artificial intelligence: Reimagining the technology landscape?"
-    excerpt: "The technology sector has rebounded strongly this year and Ben Rogoff, Fund manager of the Technology Trust, cites a better macro environment, robust fundamentals, and the arrival of artificial intelligence as the key drivers of this."
-    publishedDateTime: 2023-07-03T09:44:00Z
-    webUrl: "https://www.trustnet.com/fundswire/13382242/artificial-intelligence-reimagining-the-technology-landscape"
-    type: article
-    provider:
-      name: FE Trustnet
-      domain: trustnet.com
-    quality: 17
+      name: The Root
+      domain: theroot.com
+    quality: 15
 
 secured: "LRj7xA6Roh4HXVnX5pYt7/umQSsuLDUH07nQJX6U1zsLJhq5cES0elC+avNTwLmFonD48guXu4bS+CGi88JthA/LDgcGkOsCs+8vCEp5NSn4gdR9WaJq51G2egxCf9gBdBkXmeRjm3g7qwbyVWineXhDXIyPZZSjZTjNkRQ2FGzqwJPrIygb7CDqR2ZcDHePbo0ZB1Zhz9sCV0WuJT3f7Z18zQ9AODf3EyjcEj64DAT3Cvg4VNTOJcxiJIG0HV27WkRnCnkb/kdEWGfTlyFkHGk10HDXaMFvPDnxSDGaSVRqZVaWznUY1ka7WcJTIESFER73g1ob0KbVPCOYCb+w9eU2HTyZ2Q6LvrMzKRoTcLg=;n7NcwQCcUJbuxEIZQuxQaA=="
 ---
