@@ -32,6 +32,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The AI boom just powered tech stocks to their strongest start to a year since 1983"
+    excerpt: "Investors have piled into Big Tech stocks over the past six months, inspired by the explosion of interest in ChatGPT and AI."
+    publishedDateTime: 2023-07-03T09:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-chatgpt-tech-stocks-boom-nvidia-tesla-microsoft-nasdaq-composite-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
 
 secured: "qRWvNN183yfVtX9LlONFNKBV6CfrmoBZmJtVFrEK+rXpP7DjOZlEpijZJyCSX0yx2xZOGLL4th/skoCeLlgeBOcEVaki3UBtl3G2Qbt4AmC6XlXKORtPgVpekk2D714e/R2T1uxADjG5UHsFGZlrI6mVKv2UsUMR/aogMj/KU4aKdw1QLgxU/0syypCb2El3BvMhT3v+kwXj3/At4OlvFkv2BmBrR/MR6efmYGtnAIJ3FMNzqzKyyKK/FgKVNz4cL/l8ud3FNRbZN4QvnLCXeL5JwUjOuu7IEYchAm+g4RXry1TYKnxz4i3942lJWi0UkugETtsgsqu5v47cIyMweo2RFMXMHCEol3k1jJSDwSSrQWb6zvjzkPjPc7C42Hp0JXiNaK01beskopkhgFL9FL42C4JtrFgieDZtbY5GhmfESwEbA+u/yGKlDGAX1DqkN+MkGHYtNqmE6gQNg2JmvhxfM7c2kpFTi1/vuQBvK0lmQtyWuNQVuk7bjF4GNs8olBjoIpTBl9A4olEy+5AmjQ==;vaGjG3WAIBk2HfZPatUk/g=="
 ---

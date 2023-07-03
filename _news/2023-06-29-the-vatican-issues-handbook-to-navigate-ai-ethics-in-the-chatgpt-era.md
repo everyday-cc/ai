@@ -27,128 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind is developing a better AI than ChatGPT"
-    excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
-    publishedDateTime: 2023-06-29T13:36:00Z
-    webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
-    ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
+  - title: "17 Insights For Candidates Navigating The AI Job Application Era"
+    excerpt: "We encourage candidates to personalize their resumes, cover letters and applications. This shows genuine interest and helps you stand out in a competitive market."
+    publishedDateTime: 2023-07-03T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://technology.inquirer.net/files/2023/06/google-ai-projects-620x382.png"
-        width: 620
-        height: 382
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62913326f44d3e367ddf131d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 812
         isCached: true
-  - title: "SKT sprinkles ChatGPT over AI chatbot"
-    excerpt: "SK Telecom upgraded its A. chatbot with new features it pledged deliver a smarter conversational AI, including ChatGPT elements."
-    publishedDateTime: 2023-07-03T10:53:00Z
-    webUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/"
-    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
+  - title: "Developing Litigation Issues - The Age of AI"
+    excerpt: "The seventh Webinar in the “Age of AI” series focused on the risk factors at the intersection of litigation and AI. The presenters started with a brief background on AI and the practice of"
+    publishedDateTime: 2023-06-30T20:50:00Z
+    webUrl: "https://www.natlawreview.com/article/developing-litigation-issues-age-ai"
     type: article
     provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
     images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/05/MWL_SKT_AI_Service_A_650.jpg"
-        width: 650
-        height: 400
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/15527/banking%20financial%20planning%20accounts%20savings%20stock%20market%20dividents%20interest%20investments_2_0.jpg?itok=wAJLd1CK"
+        width: 500
+        height: 278
         isCached: true
-  - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
-    excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
-    publishedDateTime: 2023-06-29T22:22:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/openai-chatgpt-generative-ai-lawsuit-rcna91892"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+  - title: "In The Crosshairs: The Legal Industry Grapples With The Application And Ethics Of AI"
+    excerpt: "In May 2023, Steven Schwartz of Levidow, Levidow & Oberman admitted that he used a generative AI (GAI) platform to produce six non-existent court decisions as citations during his representation in a personal injury case against Avianca Airlines."
+    publishedDateTime: 2023-06-29T18:20:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/in-the-crosshairs-the-legal-industry-7541206/"
     type: article
     provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 57
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 27
+  - title: "All in for generative AI, but organizational jitters remain - Workday and Salesforce research airs the opportunities and the challenges"
+    excerpt: "Despite corporate enthusiasm around generative AI, business leaders are still nervous about incorporating this into their operations and feel there are many challenges ahead, not"
+    publishedDateTime: 2023-07-03T10:22:00Z
+    webUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities"
+    ampWebUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 27
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://diginomica.com/sites/default/files/images/2023-07/Screenshot%202023-07-03%20at%2011.19.41.png"
+        width: 1124
+        height: 750
         isCached: true
-  - title: "AI recap this month: Drone 'kills' operator; DeepMind's speed up"
-    excerpt: "Research into AI is experiencing a boom, so we have rounded up the best of news from the past month to help you keep up to date"
-    publishedDateTime: 2023-06-29T09:32:00Z
-    webUrl: "https://www.newscientist.com/article/2379559-ai-recap-this-month-drone-kills-operator-deepminds-speed-up/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27154959/SEI_161948063.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
-    excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."
-    publishedDateTime: 2023-06-30T15:09:00Z
-    webUrl: "https://www.canadianmanufacturing.com/Y0iqA"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 54
-    images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
-        width: 300
-        height: 600
-        isCached: true
-  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
-    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
-  - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
-    excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
-    publishedDateTime: 2023-07-01T15:03:00Z
-    webUrl: "https://bgr.com/tech/clippy-is-back-as-a-chatgpt-powered-ai-assistant-for-windows-11/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
-    excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
-    publishedDateTime: 2023-06-30T21:02:00Z
-    webUrl: "https://bgr.com/tech/heres-why-google-thinks-its-gemini-ai-will-surpass-chatgpt/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Gemini.jpg?quality=82&strip=all"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Here’s Why Google DeepMind’s Gemini Algorithm Could Be Next-Level AI"
-    excerpt: "Google DeepMind's CEO, Demis Hassabis, says their Gemini algorithm will use reinforcement learning to take AI beyond GPT-4."
-    publishedDateTime: 2023-07-02T18:11:00Z
-    webUrl: "https://singularityhub.com/2023/07/02/heres-why-google-deepminds-gemini-algorithm-could-be-next-level-ai/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 34
 
 secured: "tpSqo2aFAi/XrfUbr5e4Z/gQtuOe5yX2QnpoWG5DX/LGrF4kSBJqg50GHOwxs6oChbeMOEzH4wtbqzPcH9k0G3dOAuNEZ+hQdFoYQFMxz2EH/qLdK1lipB4xB5yve5oR7TG+ynqgi2vMCz9CLzv5lyp5kMx7I9AGwlL79cMf4iB+99dUaVR7u6BbZe6E8Zh1XYD699wI3xiN1GNggQKbC9wK/3nDVn8Ggp2nVkH1VA2awhGqTlXjN2eQ3XG/H4Pyrip2X8Mqpst06AumFMO7Kks68gyWfVQba5u1em779Lh24l1NLpZwIUmCffgbllvlHVA6MP2A3+julZYNlpeJP2Pct5emzmaU7ExlNtI4yiY=;yVPIdEVsUiB9CLx0ImzGbQ=="
 ---

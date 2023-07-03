@@ -444,6 +444,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "AI to tackle cybersecurity: Rubrik and Microsoft deepen collaborations"
+    excerpt: "Accelerating cyber recovery through generative AI and natural language processing (NLP) is the aim of a joint collaboration between zero-trust security vendor Rubrik, Microsoft and Azure OpenAI. This integration is hoped to offer a \"truly actionable use of AI\" to reduce the time required to investigate and determine responses to cyber events,"
+    publishedDateTime: 2023-07-03T12:05:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4119310/ai-tackle-cybersecurity-rubrik-microsoft-deepen-collaborations"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 34
   - title: "Microsoft-backed AI startup Inflection raises US$1.3 billion from Nvidia and others"
     excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday (Jun 29) it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
     publishedDateTime: 2023-06-29T19:08:00Z
@@ -501,6 +510,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "SP6f1A7+OfwmVnprEJ6L8braCXX/UkZMtpyVajYri/SavLCBSSRIujYcha3ohEdFGwLCFMj8tHRav4/MLt2ZaseK5nrpCmtZRBpF/Cqd+3hVlE6tysJPDasl65WZrJ94+tnEYv+i0tByZLTjOHx+EOSM8ZbtfGqyROQ5JaYiDWynMFrcUDl0cZBN+aPK6ydVbMAkA1R4A8Xj0EYdkVX2LE7kcm3dZKUHBtjNYrxgZ1ncjH3F9gld3A05qgnAQCXbx3S2R91g6yhq9BQBIAYAfdXKyBC3Vf/1HtPDgTY9BW+Hn1SEC7L1BltrS5qVShbO8dbRYptIyMn1MupO0hT8ykWWelhIfG+kxUzJw9l5yc0=;hjXlcshpBfmELy0onGa0kQ=="
+secured: "iqfeMzSI8A8nBNYE4qFxqMbOjLOwu9X1HdLOdUPpSbSWabn4+jZDNr8dM7y2KGopyTqGrJnSMq/MjiLqgbpM1YsSDhPqsqoePZIsQvmsAmJWZbrEQ5S91HNjTFR02qA3r7UNN3iKSi2ahBB7EbUi9iOAQrF9j1myftDcIxds5v0OWcPOG65RQCKSOwhvSxfmTEz3CWxvcvJMJc1Unl6KZoiCUgEYVih6zzENDkXXl1Lg7Aen86mZ5QPoXo43IiJZwhf/qmXqR4lld62S6Zjj3gMQvtl3JO5dF/KxNQPcRnPjHPPuTyxAbeK1jD/j9glyp5j551+SsmU43xAImJNEPAc4TKWO5cLhiucE0pNuFU/q03SyduJNFWRu8V5W/dnwXonUkgFyUB3AFA5tBtsEXchJIUKtawi5yZxGEDdXDHsJawbYEU+a9rudAvvvo+UDx+5T5JLABWWfqsK5OBJdNNEdwZ/MCzf03fokmlAJh5XeOzDt0X/eIIAM3hOnSkRokA9Nw7S5nx3gqRagzFIklA==;cymUBm31drryGKytyomLzw=="
 ---
 

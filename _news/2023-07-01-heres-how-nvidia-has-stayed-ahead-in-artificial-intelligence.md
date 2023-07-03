@@ -46,6 +46,15 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "Nvidia and AMD: Weapons of AI Chip War"
+    excerpt: "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy."
+    publishedDateTime: 2023-07-03T12:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "TSMC sees robust AI chip orders from Nvidia, Broadcom, AMD through 2024"
     excerpt: "TSMC is expected to see a significant revenue rebound in the second half of the year, which will be driven by not only the launch of new iPhones but also strong demand for AI chips from Nvidia, Broadcom and AMD, with robust wafer-start momentum from..."
     publishedDateTime: 2023-07-03T07:23:00Z
@@ -92,6 +101,15 @@ related:
       name: Financial Tribune
       domain: financialtribune.com
     quality: 34
+  - title: "Nvidia acquires OmniML for AI Edge workloads"
+    excerpt: "AI is so big today that Edge devices aren’t equipped to handle its computational power,” OmniML co-founder and CEO Di Wu said when the company raised $10 million last year."
+    publishedDateTime: 2023-07-03T12:17:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-acquires-omniml-for-ai-edge-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
 
 secured: "DRu/HMiDaEohhdVuAWuTDKejSUp1PGXRfDfj7DozFqHcvKN/e8gIv785KHoQtw4lqzFjHb3uEUUMXvVK7kuhR3FX7qpqErzsDy+YFptASdRobIs/oj60Q3osN79Ln27zGDL6yZYktweRdi96v8EGTQWvS8TScQp0FJ05DytPj8Aijv4z5luBL5dBuQF93zIGLWg5BIibFGOMz5duiYTdJHEpwdVjeQsy5AzHvGaPQUX9iwpekGsbO77uqY4aXTElh7rnDHA+sh6m14G6JlJ+/kGYHwFrnjGOO8HApHIzuYeRY3mJ7dEo13dtCytc4OJqVUmtEXKKjaki0822dI4nxCNaGOu1iM2pNOxMZRS8t2sx5PvtX3TljZ68cfZiBPTW8zOQGFomyl2wsa8X4nqhUr1+gK26bDDNj3lx1nYfqrKZwKER9dz9Lj0lmMzkrU88djPJZKa5Q30Bn1Hw4UjUeQBv9bB+I0EAqpZur4hzpNT58Tj0CbZ4YLgIF8UI/WJjeiw1OPC6D9OlmgZ3HjZv8g==;RhQllAfj/mAQkxAaSFqYfA=="
 ---

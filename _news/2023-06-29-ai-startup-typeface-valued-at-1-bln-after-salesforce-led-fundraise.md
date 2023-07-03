@@ -116,22 +116,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 49
-  - title: "All in for generative AI, but organizational jitters remain - Workday and Salesforce research airs the opportunities and the challenges"
-    excerpt: "Despite corporate enthusiasm around generative AI, business leaders are still nervous about incorporating this into their operations and feel there are many challenges ahead, not"
-    publishedDateTime: 2023-07-03T10:22:00Z
-    webUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities"
-    ampWebUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
+  - title: "AI video startup Runway raises $141M from Google, Nvidia, Salesforce"
+    excerpt: "The company plans to use the funding to conduct additional research into video- and image-generation AI models."
+    publishedDateTime: 2023-07-03T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-video-startup-runway-raises-141m-from-google-nvidia-salesforce/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 27
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-07/Screenshot%202023-07-03%20at%2011.19.41.png"
-        width: 1124
-        height: 750
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
   - title: "AI startup Typeface valued at US$1 billion after Salesforce-led fundraise"
     excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday (Jun 29) that it was valued at US$1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
     publishedDateTime: 2023-06-29T13:10:00Z

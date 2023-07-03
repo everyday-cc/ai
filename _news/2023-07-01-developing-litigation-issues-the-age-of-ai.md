@@ -25,63 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Age of AI: Everything you need to know about artificial intelligence"
-    excerpt: "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI."
-    publishedDateTime: 2023-06-28T20:57:00Z
-    webUrl: "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+  - title: "17 Insights For Candidates Navigating The AI Job Application Era"
+    excerpt: "We encourage candidates to personalize their resumes, cover letters and applications. This shows genuine interest and helps you stand out in a competitive market."
+    publishedDateTime: 2023-07-03T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62913326f44d3e367ddf131d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 812
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-06-28T20:10:00Z
-    webUrl: "https://techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+  - title: "The Vatican issues handbook to navigate AI ethics in the ChatGPT era"
+    excerpt: "Amid the call to regulate and create guardrails against the misuse of artificial intelligence (AI), The Vatican has now issued its own handbook for navigating the ethics of AI technology in the ChatGPT era."
+    publishedDateTime: 2023-06-29T06:32:00Z
+    webUrl: "https://www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/articleshow/101360880.cms"
+    ampWebUrl: "https://www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/amp_articleshow/101360880.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/amp_articleshow/101360880.cms"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
+      - url: "https://www.businessinsider.in/thumb/101360974.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
-  - title: "Three things to know about how the US Congress might regulate AI"
-    excerpt: "Last week, Senate majority leader Chuck Schumer (a Democrat from New York) announced his grand strategy for AI policymaking at a speech in Washington, DC, ushering in what might be a new era for US tech policy. He outlined some key principles for AI regulation and argued that Congress ought to introduce new laws quickly."
-    publishedDateTime: 2023-07-03T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
+  - title: "In The Crosshairs: The Legal Industry Grapples With The Application And Ethics Of AI"
+    excerpt: "In May 2023, Steven Schwartz of Levidow, Levidow & Oberman admitted that he used a generative AI (GAI) platform to produce six non-existent court decisions as citations during his representation in a personal injury case against Avianca Airlines."
+    publishedDateTime: 2023-06-29T18:20:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/in-the-crosshairs-the-legal-industry-7541206/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 27
+  - title: "All in for generative AI, but organizational jitters remain - Workday and Salesforce research airs the opportunities and the challenges"
+    excerpt: "Despite corporate enthusiasm around generative AI, business leaders are still nervous about incorporating this into their operations and feel there are many challenges ahead, not"
+    publishedDateTime: 2023-07-03T10:22:00Z
+    webUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities"
+    ampWebUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 27
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/ai_congress.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://diginomica.com/sites/default/files/images/2023-07/Screenshot%202023-07-03%20at%2011.19.41.png"
+        width: 1124
+        height: 750
         isCached: true
-  - title: "Meta Uses AI to Organize Your Feeds. Now It's Telling You How"
-    excerpt: "The company uses AI that incorporates your \"feedback\" (how you engage with content by liking, sharing or commenting on it) to refine which posts it serves up to you via your social feeds. In theory, this means that it should deliver content tailored to your own interests and preferences -- but that doesn't mean it always gets it right."
-    publishedDateTime: 2023-07-01T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/meta-uses-ai-to-organize-your-feeds-now-its-telling-you-how/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
 
 secured: "U3QiTVrXSQ1/1bMxFx78MOLDDBskS/tsiKkkXl0aHj2b5A8FgSN6tPaXK6TqaRazhDh17FIQ905vs3utrVMP/bckAc0Xhu3oxvjd9kyi7E3y4JzbfxGj8Z9Ai34UobwFPvwv/cP4u0/JztrqUbUAipok9oBuS6XYfw3hcI31hrwNQFPL4IVOi+dax86hZvTru9cMMRkc89V1uwy2xaE7fwELu+I7qrdy5kVHp4+1DKo9544kQd9ovhz64QZRecQhuK+x6pi3XN6/iAOBj7CgA2VoUBeYdnNOWaQM2crvtTOPoUWoif6l10FxP9Z38WlkJu6exCUxm7SIYWSsrxp4PnxTStC+cxreSRhVf9B1eb8=;UXL3p08QebXpFE+M6oBI5w=="
 ---

@@ -34,6 +34,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Valve says Steam games can’t use AI models trained on copyrighted works"
+    excerpt: "Last week, we shared an anonymous report that Valve was blocking from Steam at least some games that make use of AI-generated artwork. Over the weekend, Valve confirmed that report, telling Ars in an e-mailed statement that the company is blocking games that use AI-generated content unless developers can prove those AI models were trained with data that does not \"infringe on existing copyrights."
+    publishedDateTime: 2023-07-03T14:41:00Z
+    webUrl: "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/"
+    ampWebUrl: "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/steamvalve2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Chinese Companies Are Reacting To AI Regulations By Releasing Their Own Rules"
     excerpt: "China is currently home to some of the most advanced AI regulations in the world. Its party-state government, free from the burden of compromise, can swiftly regulate AI as it sees fit. Beijing has in recent months and years crafted regulations that both (partially) protect citizens from tech companies’ greediest impulses and uphold the paternalistic impulse to preserve state power over individual expression and corporate interest."
     publishedDateTime: 2023-06-29T15:37:00Z

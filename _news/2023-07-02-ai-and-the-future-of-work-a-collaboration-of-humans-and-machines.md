@@ -52,6 +52,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "The Integration of Artificial Intelligence and the Future of Education that is Still Taking Shape"
+    excerpt: "The future of education continues to take shape with the changing world and technological developments such as artificial intelligence. Education with technology is believed to still prioritize humans."
+    publishedDateTime: 2023-07-03T11:27:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/07/03/en-integrasi-kecerdasan-buatan-dan-masa-depan-pendidikan-yang-masih-mencari-bentuk"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 23
   - title: "Why is AI the future of trading in India?"
     excerpt: "AI is revolutionizing the capital markets, leading the second wave of innovation in finance. Before AI, traders relied on stock analysts and media coverage for investment decisions. The rise of online trading platforms democratized the sector,"
     publishedDateTime: 2023-06-29T18:26:00Z

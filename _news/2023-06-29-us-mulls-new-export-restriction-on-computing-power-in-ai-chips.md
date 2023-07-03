@@ -53,22 +53,6 @@ related:
         width: 5561
         height: 3708
         isCached: true
-  - title: "Chinese Internet Stocks Slip on Report U.S. to Tighten AI Chip Exports"
-    excerpt: "China internet stocks lost ground Wednesday following a report in The Wall Street Journal that the Biden Administration intends to make it harder for chip makers Nvidia and Advanced Micro Devices to sell their most advanced processors to Chinese companies ..."
-    publishedDateTime: 2023-06-28T20:12:00Z
-    webUrl: "https://www.barrons.com/articles/chinese-internet-chip-exports-6bb6c550"
-    ampWebUrl: "https://www.barrons.com/amp/articles/chinese-internet-chip-exports-6bb6c550"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/chinese-internet-chip-exports-6bb6c550"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-808733/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia warns tighter AI chip export restrictions to China risk permanent US industry losses"
     excerpt: "Nvidia's share price took a tumble yesterday following a report that the US government is considering tightening its export controls on AI chips to China as"
     publishedDateTime: 2023-06-29T14:34:00Z
@@ -108,15 +92,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Nvidia Warns of Lost Opportunities if U.S. Bans AI Chip Exports to China"
-    excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao Potential new ..."
-    publishedDateTime: 2023-06-28T19:29:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-warns-of-lost-opportunities-if-u-s-bans-ai-chip-exports-to-china-293fa911"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 63
   - title: "How New AI Restrictions May Throw a Wrench in Nvidia's Plans"
     excerpt: "This is why the U.S. Department of Commerce seeks to limit China’s access to AI chips further. According to the Wall Street Journal’s report on Tuesday, these new restrictions could come in as early as next month."
     publishedDateTime: 2023-06-29T02:43:00Z
@@ -209,15 +184,6 @@ related:
       name: Leadership
       domain: industryleadersmagazine.com
     quality: 34
-  - title: "Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals"
-    excerpt: "Looking for the latest Government Contracting News? Read about Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals."
-    publishedDateTime: 2023-06-28T21:17:00Z
-    webUrl: "https://executivegov.com/2023/06/report-us-eyes-new-restrictions-on-ai-chip-exports-to-geopolitical-rivals/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 32
 
 secured: "4JM8aWm8BQ/4p6hB55/3/uwis/3+hMsRKODXWVxj+V76E0KvVkYbfImIGY181qWzP9ApwALqD8WHHwIHAPUxAhXFWbpbQ5MduiCCOevK+SIniT+Ph82SWF88aDwMiBEpM1oInLYwJ9LIAiVbqV3P22n6hF60yz9/MyF5/nNEYTTem7j5SYcWq96+HT0INomTFE8/T4vmeN1x6IL39wsuXctvKtphT/lWcX4oOZAiKZDmrH0xVauHKiKBnsMKr42ALIe4LkjopnOkmMworwAL0jDmHKkYHXaqgMi7k1OxJHwngnVpfvNp39I0qQFzCb5U8n1f68g7nTbOP9NWVI+EI0yGnwaf99gIBKKIeqCcZy3pt+hT4w38cTDUXeXNv9sL6ZX41g/BNAZRyrcVACglRBBTzp1Ok/twsvWkfeMIlPjFsAOHzeYgK2jf+BJ2ao3auEG7UY/o2OoRmn5evwBaS0p6FQir96S+xzHu4eH7ZhKYySrT4ol4wC6qG41uOoDkw6IRcmoCq9hJqnaiImmoeA==;uMLz6QC00rad7DE+b+k3tA=="
 ---

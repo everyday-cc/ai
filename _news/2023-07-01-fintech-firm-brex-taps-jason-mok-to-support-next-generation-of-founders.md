@@ -103,14 +103,14 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
-    excerpt: "The API enables Fintech and lenders to access unique proprietary data and AI, machine learning scoring for accurate and speedy assessments of borrower first- and third-party risk."
-    publishedDateTime: 2023-06-28T20:48:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840834.htm"
+  - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
+    excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
+    publishedDateTime: 2023-07-03T11:24:00Z
+    webUrl: "https://techbullion.com/fintech-revolution-a-deep-dive-into-how-technology-is-transforming-payday-loans/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Impacts
+      domain: techbullion.com
     quality: 0
 
 secured: "uTQVGSaC4tz/r90ZEZGDBz0/8cjv7/UVTsU0G9SqOnPKv2I0w/L7uEce/uUMxF4KHFtH2FlmVS2gAAuaJi6JrJVdwzG+5ykvrQaF4cxEYBpynrVtR2hhWecc3x1MGvgRHMZXgks6DQ9de8Db8ZZETOAlMhnsEaU4WaIvn1/lil+K4Rb3e7AsIvmU3+/NtdB0aqTg5WZnQ9t/QhbxOF/H0/9MBcHqWbpmq1dZPy93oBQOTxQX1kTFTMSo24tQHVLH/Z1HLclR+uEisoE2NYim89fGQQKK7LWx0xrZDEagsZ5tBG4dEPWBI22TKGFgQYoBIdnRJP565FdpZfmIPT5WJgm+ArfWR4AzZQJnR1JHQJ7TN+il10prYtL3ia7729L5kcgVUAfPPM42VXYvj1Lp7/rmn5eQRV0bKFzwlkuzaCeXKhk0VZ2fBFcdhvqVXSiLVuOFVjBBx1Y7Y2O8ssEH4sW4V+BNU/mk3d/24JoDUNean+Zdryp/+9VVHGOkAV3OC2oepzRhMBsJInmLzR4c/w==;Jr1TGwq9LzDDYH/HTSBwCw=="

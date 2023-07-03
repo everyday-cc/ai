@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Japan embraces softened AI regulations to drive economic growth and chip leadership: Report"
-    excerpt: "Japan is reportedly considering adopting more lenient regulations on artificial intelligence (AI) compared to the European Union, aiming to enhance economic growth and establish itself as a frontrunner in advanced chips."
-    publishedDateTime: 2023-07-03T09:16:00Z
-    webUrl: "https://www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report-11688374599060.html"
-    ampWebUrl: "https://www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report/amp-11688374599060.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report/amp-11688374599060.html"
+  - title: "EU to Work with Japan on AI and Chip Supply Chain"
+    excerpt: "The European Union (EU) is set to work with Japan in a bid to boost its Artificial Intelligence (AI) and chip supply chain."
+    publishedDateTime: 2023-07-03T14:29:00Z
+    webUrl: "https://www.coinspeaker.com/eu-japan-ai-chip/"
+    ampWebUrl: "https://www.coinspeaker.com/eu-japan-ai-chip/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/eu-japan-ai-chip/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 64
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 74
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/03/600x338/TECH-AI-EUROPE-0_1688375295260_1688375347173.JPG"
-        width: 600
-        height: 338
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/07/eu-japan-ai-chip.jpg"
+        width: 1170
+        height: 780
         isCached: true
 
 secured: "XlkMmIv9crMU0kH11Lxxpn1RAtMx3p8zbhFTU7MMRjT1YqkhZdAbrCl98ZaUH3JfmadLmCSi2oBmqc0cwk2RkAvNHemqSV2IX4E8WXNI1VEMyADhV2E9GK4kRl1pffZCUjHRogO5Qc6XmbSPdCHztEbJF0Fh1Pt1dutDowcsjuy5IPTGsDshEsCcI1If+/2GMzmvOZg4hkGKgJgEPpgZCzRT2zVi42/dr1Tl1+KJR7PYgUFpX40YZBBlhho/EOmvuqgPaKXFLcBoqlLGOFZaZpNd2B0I+6kVUyM/FvWOMkXJXduNnJ1eGm6qcdQLqCyk6slRNCbzSbI9qeGWSWZ0UKGSgoOMIYxK2emMLq+dgrk=;ibEItthG2APwWfoDZ+b4dg=="

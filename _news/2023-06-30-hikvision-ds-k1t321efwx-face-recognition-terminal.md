@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Computer vision system marries image recognition and generation"
-    excerpt: "Computers possess two remarkable capabilities with respect to images: They can both identify them and generate them anew. Historically, these functions have stood separate, akin to the disparate acts of a chef who is good at creating dishes (generation),"
-    publishedDateTime: 2023-06-28T20:39:00Z
-    webUrl: "https://techxplore.com/news/2023-06-vision-image-recognition-generation.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-vision-image-recognition-generation.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-vision-image-recognition-generation.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/computer-vision-system.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Hikvision DS-K1T320MFWX face recognition terminal"
     excerpt: "500 faces, 1,000 cards, 1,000 fingerprints and 100,000 events Face recognition duration ＜ 0.2 s/User Face recognition distance: 0.3 m to 1.5 m Supports ISAPI and ISUP 5.0 protocols Configuration via the web client Can be applied in multiple scenarios ..."
     publishedDateTime: 2023-06-29T23:05:00Z

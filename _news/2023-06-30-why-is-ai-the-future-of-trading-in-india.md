@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Integration of Artificial Intelligence and the Future of Education that is Still Taking Shape"
+    excerpt: "The future of education continues to take shape with the changing world and technological developments such as artificial intelligence. Education with technology is believed to still prioritize humans."
+    publishedDateTime: 2023-07-03T11:27:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/07/03/en-integrasi-kecerdasan-buatan-dan-masa-depan-pendidikan-yang-masih-mencari-bentuk"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 23
 
 secured: "5olLOHF8Zj7GYSmheU8Suw12eMSEEeq0NbkoYvXjqWQWzOm2g5lSucehz9iSTMcPM5ZQ3/i8cVkEH4t2EOQ2uFv7QG06BBhIAk98PTvIqtxDGmSKrwLHnfSy0sfHxZ+bRAY0CAleq+mw+QNkyDsfxjZcBH17jSMUVdBcFh8DZo8Iw+OtBtQLOAyERfnPFr/RMWyABvZHIlnUdf4izTLiuN7R06vLXq2fCZYv7YvrL4RZi/1nyW/FQPuHAZUyS3V0UTvzuTK87fcWEShNlii+DQh0kYM5wFkzapveJ29nAAxHq9/WP6mtwCmC+NJMiNI0nPicLsi2eU5zw69vj2iAjdIo0BPeLBLXP8PhkVedm4uuoCs6asOoC297D7hM7rGngmtI+C7U0QRJOhnj7nH73AC0Pvd1yN2lN980+7PBkuCiUkLyEfW51ma65Pa4cYD//nHlPGK7J4UXnOi0Y4oaModcLu5tNyBAwyWmo6pA3mxgAjou2jg1GODZiYceyxIF3PQd3SWDvCumQEDxn0vgfg==;ZLPKj1h+NdYDFGddaGKmIA=="
 ---

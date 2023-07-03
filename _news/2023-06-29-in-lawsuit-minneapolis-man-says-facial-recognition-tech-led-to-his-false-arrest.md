@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Barred from grocery stores by facial recognition"
+    excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
+    publishedDateTime: 2023-07-03T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "si0GcfHa+qqkECS7094Hiq7AsxRwa6HTgjtKr1TGaRxPWrC78NsEXST1WMYjUvAYX7jgcEPcxKcg8Tnsl9wYA5lK39L3hd2KHuMcgdusG00Q/W6Ss4VuskT4C+Iwi3xMdbwkzi2NOMcDWGfqIByR9B1FPDbJ98QC+kQrqJBoCTKrXRRIatg+tMhoqZ/ER+Qj6jD58QAeermF6sF9AmUSTtVi/4YO1oodWuYaX4LDsDvf9rtIukqg5dlPVllXZXHQudtIJXzyhqByPy8wuTBuBf7M1RS/vq9OhSFhPl7Si3o4nIoqSQ+6ASHWOe+ZlhAkiONKoXXzxijP89oJM2YMRKGUKbhkIZegBHKWW6+7Eft47lNccKTkNI9arGdbt3Ruqh3A/XvBTxKuxAO+QkFwVm4LHbpbh0MdFzPRi3RlMID8LbheIxu9SnOt49jhaobEBdM4HsBbKocci9wIB2U3SVj/OxLzZu1t7Bc67jA5sgW2Pyfrd1RyM1shs2EEHka43CmOj2NRbb54qbX/yKgdxQ==;wkv7bnJA8OTyHdUpwTvqYQ=="
 ---

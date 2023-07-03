@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Automated deep learning AI tool with CT imaging facilitates screening for enlarged spleen: Study"
+    excerpt: "USA: A research team from the US has derived a weight-based volumetric threshold for splenomegaly (spleen enlargement) using an automated AI-based tool. In their study published in the American Journal of Roentgenology,"
+    publishedDateTime: 2023-07-03T14:30:00Z
+    webUrl: "https://medicaldialogues.in/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806"
+    ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 61
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2023/07/01/213288-splenomegaly.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "Artificial Intelligence to reshape deep science learning"
     excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business—with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
     publishedDateTime: 2023-06-30T17:25:00Z

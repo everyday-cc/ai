@@ -58,22 +58,6 @@ related:
         width: 5561
         height: 3708
         isCached: true
-  - title: "Chinese Internet Stocks Slip on Report U.S. to Tighten AI Chip Exports"
-    excerpt: "China internet stocks lost ground Wednesday following a report in The Wall Street Journal that the Biden Administration intends to make it harder for chip makers Nvidia and Advanced Micro Devices to sell their most advanced processors to Chinese companies ..."
-    publishedDateTime: 2023-06-28T20:12:00Z
-    webUrl: "https://www.barrons.com/articles/chinese-internet-chip-exports-6bb6c550"
-    ampWebUrl: "https://www.barrons.com/amp/articles/chinese-internet-chip-exports-6bb6c550"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/chinese-internet-chip-exports-6bb6c550"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-808733/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia warns tighter AI chip export restrictions to China risk permanent US industry losses"
     excerpt: "Nvidia's share price took a tumble yesterday following a report that the US government is considering tightening its export controls on AI chips to China as"
     publishedDateTime: 2023-06-29T14:34:00Z
@@ -122,15 +106,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "Nvidia Warns of Lost Opportunities if U.S. Bans AI Chip Exports to China"
-    excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao Potential new ..."
-    publishedDateTime: 2023-06-28T19:29:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-warns-of-lost-opportunities-if-u-s-bans-ai-chip-exports-to-china-293fa911"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 63
   - title: "Rising AI & Falling Shares: Nvidia Facing New Export Restrictions"
     excerpt: "Nvidia Corp.'s (NASDAQ: NVDA) meteoric year-to-date increase of 186.60% is largely due to the company's semiconductors that are behind the boom in artificial intelligence applications."
     publishedDateTime: 2023-06-30T15:00:00Z
@@ -207,15 +182,6 @@ related:
       name: Leadership
       domain: industryleadersmagazine.com
     quality: 34
-  - title: "Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals"
-    excerpt: "Looking for the latest Government Contracting News? Read about Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals."
-    publishedDateTime: 2023-06-28T21:17:00Z
-    webUrl: "https://executivegov.com/2023/06/report-us-eyes-new-restrictions-on-ai-chip-exports-to-geopolitical-rivals/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 32
 
 secured: "tgpgbPelZE2r0ZFHU6N4VG1+dOYbqLDBSLC4Cb3pJFK9LzLwORGbGwYuC8VyVRXhRLnRRwyY1ZYAN3z2JZUW8XXRuw/FDmYd3sAZVgll55Il7zVN6R4Ed9jXTtTam+b4Z4Xr1beDrVlmvz4BPq62f48oqypRKNYIeZDaX7vmVuaqnLRkIc/IVKP2H1BE1TULDQed76k2LQqrdApSb61T0ymD/kRCxDmniZn8dtFWqvpmfsMq896nsycXDEAtPdiieab2ol5lZ+qnBNa8lQGifVF5RcqQ9ZWeUZkP5avUz+SQdH6TDrmE8q7Q9qlHG3RLUAqpcMuIueIv0ivbFRr3OYr4dbMnjd8WZaHwucc3gfWzLRXf+osAZRufC9ZIUd6v2GQTzaGU5FsqaQO7Xp3jKitF/VW8Zd79qWDg/Oqzd9P5ZAtaJ/UHINkxM5Adw2jbGTWeeVA8DUVNKfGxC8PQo0zyxkP4WWnk1rUy2U//a8FfINDDKvEZcf50p6GYYtRlko4bAOv4bof5oCTJlNHukA==;rk25pXeTApXFyliXqXYU7w=="
 ---

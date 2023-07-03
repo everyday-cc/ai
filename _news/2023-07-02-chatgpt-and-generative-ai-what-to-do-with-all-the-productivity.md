@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Despite productivity crisis, UK businesses are slow to adopt AI: Research"
+    excerpt: "Despite the widespread proliferation of AI capabilities to help drive productivity, UK businesses continue to lag behind their global counterparts when it comes to adoption rates."
+    publishedDateTime: 2023-07-03T09:07:00Z
+    webUrl: "https://www.computerworld.com/article/3701455/despite-productivity-crisis-uk-businesses-are-slow-to-adopt-ai-research.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 16
 
 secured: "GRnWOGgQpZlxGRryUFqNhxxelpYHhuA+Qs5WrUpeGuuyEqT9gNnDlTbEG1UEnsQdoz8Cy5OwCFsL9iqr5xbzVRPasnW1HhxDKtTlLPrgzdB+MfhGBRbYcfJjsVhQ3oTu01P2lR3P0hMz33KVKffdcHGsVDQrnoozwY4glBNdRYwifoFIAMNWBJ8mxUmqMbfhbmw3DSozcgxDh2iCn9G3d0mY+2+XrdgzI1GiP2P8yzeQtLkfxAm6n7xNlliOjf4X7w03aychjWiaX5kTpLWZaAEJjc35WwgQhhVna4tkdYJfc8S8yrPMrzgDBTu18dpc1HPmJ1Z5cRDuZhiS/iXUM2hyDBV7sD1kedPUn77yXywhlkBh0YtSWJnh0YCuw+6eDagnPhr5WCVmBae+YWniziW2EDVXrkR0gt6Em6X0aCoOWqewVhy8YUT+MofwaKjx+gILjMJ7SUxsb7Tl4/ST3URriFZtdihNuKEpb2EhFh6ifNdlWL4z7UwzD3qufD8BFU5umQzYuFZKoTYEG9MGAQ==;AvaLllpyIXPqxVICiEBceA=="
 ---

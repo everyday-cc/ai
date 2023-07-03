@@ -50,6 +50,15 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "Nvidia and AMD: Weapons of AI Chip War"
+    excerpt: "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy."
+    publishedDateTime: 2023-07-03T12:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "TSMC sees robust AI chip orders from Nvidia, Broadcom, AMD through 2024"
     excerpt: "TSMC is expected to see a significant revenue rebound in the second half of the year, which will be driven by not only the launch of new iPhones but also strong demand for AI chips from Nvidia, Broadcom and AMD, with robust wafer-start momentum from..."
     publishedDateTime: 2023-07-03T07:23:00Z
@@ -87,6 +96,15 @@ related:
       name: Financial Tribune
       domain: financialtribune.com
     quality: 34
+  - title: "Nvidia acquires OmniML for AI Edge workloads"
+    excerpt: "AI is so big today that Edge devices aren’t equipped to handle its computational power,” OmniML co-founder and CEO Di Wu said when the company raised $10 million last year."
+    publishedDateTime: 2023-07-03T12:17:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-acquires-omniml-for-ai-edge-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
   - title: "Here's how Nvidia has stayed ahead in artificial intelligence"
     excerpt: "\"I would say the volume is turned to 11 in terms of execution, but the method and way of working hasn’t changed,\" Nvidia's Ian Buck says of the company's artificial intelligence work."
     publishedDateTime: 2023-06-30T17:53:00Z

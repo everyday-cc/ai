@@ -126,6 +126,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "How People And Image-Generating AI Can Work Together In Business"
+    excerpt: "There are a few tips and strategies companies can use to work with AI tools and make the most of their creative teams."
+    publishedDateTime: 2023-07-03T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&width=1200"
+        width: 855
+        height: 570
+        isCached: true
   - title: "Runway, a startup building generative AI for content creators, raises $141M"
     excerpt: "Runway, a startup building generative AI tools geared toward film and image content creators, has raised $141 million in a Series C extension."
     publishedDateTime: 2023-06-29T18:00:00Z
@@ -226,20 +242,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Oracle taps generative AI to streamline HR workflows"
-    excerpt: "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity."
-    publishedDateTime: 2023-06-28T21:19:00Z
-    webUrl: "https://venturebeat.com/ai/oracle-taps-generative-ai-to-streamline-hr-workflows/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/09/Larry-Tuesday-Keynote4-e1687980611451.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Scriptic raises $5.7M for user-generated games using generative AI"
     excerpt: "Scriptic (formerly known as ElectricNoir) has raised $5.7 million in funding to create games based on generative AI."
     publishedDateTime: 2023-06-29T07:30:00Z
@@ -310,20 +312,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Exclusive with AWS sales chief Matt Garman: How Amazon aims to lead in generative AI"
-    excerpt: "Amazon Web Services Inc. has been the undisputed leader of cloud computing, but with the recent eight-month surge towards artificial intelligence applications, rivals such as Microsoft Corp. are swiftly gaining ground."
-    publishedDateTime: 2023-06-28T22:04:00Z
-    webUrl: "https://siliconangle.com/2023/06/28/exclusive-aws-sales-chief-matt-garman-amazon-aims-lead-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 66
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Matt-Garman-Headshot-1.jpg"
-        width: 2225
-        height: 2504
-        isCached: true
   - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
     excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."
     publishedDateTime: 2023-07-01T00:07:00Z
@@ -352,20 +340,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Artificial Intelligence Startup Cohere.io Joins Ramp to Bring Generative AI to Finance"
-    excerpt: "At Ramp they’re dedicated \"to pushing the frontiers of AI to help businesses save time and money, with innovations like Ramp Intelligence.\"\""
-    publishedDateTime: 2023-06-28T21:53:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/209387-artificial-intelligence-startup-cohere-io-joins-ramp-to-bring-generative-ai-to-finance/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 61
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
-        width: 1080
-        height: 810
-        isCached: true
   - title: "With Huge Costs, Efficiency Is The Key To Mainstreaming Generative AI"
     excerpt: "The hype around generative AI is making every industry vibrate at an increasingly high pitch in a way that we have not seen since the days of the Dot Com"
     publishedDateTime: 2023-06-29T00:55:00Z
@@ -381,6 +355,36 @@ related:
       - url: "http://www.nextplatform.com/wp-content/uploads/2015/02/machine-learning.jpg"
         width: 340
         height: 238
+        isCached: true
+  - title: "Generative AI means the looming end of search as we know it – here’s why"
+    excerpt: "Generative artificial intelligence as a foundational platform is already mature enough to do the work after a search. In other words, the end of search as we once new it is on the horizon."
+    publishedDateTime: 2023-07-03T14:23:00Z
+    webUrl: "https://wraltechwire.com/2023/07/03/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/"
+    ampWebUrl: "https://wraltechwire.com/2023/07/03/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/03/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 56
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
+        width: 960
+        height: 578
+        isCached: true
+  - title: "The H100: The chip driving generative AI"
+    excerpt: "It's rare that a computer component sets pulses racing beyond the tech industry. But when Nvidia issued a blowout sales forecast in May to send its market value above $1"
+    publishedDateTime: 2023-07-03T14:00:00Z
+    webUrl: "https://www.postguam.com/business/the-h100-the-chip-driving-generative-ai/article_126abd50-1930-11ee-ae3b-db5cdfa0a0bd.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/7/08/70815cbe-1930-11ee-8e84-bb61fbf895b0/64a2093050e7f.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AWS invests $100 million into Generative AI Center"
     excerpt: "Amazon Web Services invested $100 million in a new program called the Generative AI Innovation Center. It will connect AWS artificial intelligence experts with global customers and"
@@ -485,6 +489,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
+  - title: "Generative AI means the looming end of search as we know it"
+    excerpt: "Generative artificial intelligence as a foundational platform is already mature enough to do the work after a search. In other words, the end of search as we once new it is on the horizon."
+    publishedDateTime: 2023-07-03T13:45:00Z
+    webUrl: "https://wraltechwire.com/2023/07/03/generative-ai-means-the-looming-end-of-search-as-we-know-it/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 17
   - title: "Rackspace Technology partners with Google Cloud to offer generative AI services"
     excerpt: "Foundry for Generative AI by Rackspace and the global Generative AI Center of Excellence combine to help enterprises realise the full potential of AI."
     publishedDateTime: 2023-07-03T07:36:00Z

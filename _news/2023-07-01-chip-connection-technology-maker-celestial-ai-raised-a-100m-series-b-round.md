@@ -18,22 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Optical interconnect startup Celestial AI raises $100M to tackle AI’s ‘memory wall challenge’"
-    excerpt: "Advanced AI models deployed in data centers don’t always run as fast as they could. The reason is a performance issue commonly referred to as the memory wall challenge. Celestial AI has developed an optical interconnect technology,"
-    publishedDateTime: 2023-06-28T21:00:00Z
-    webUrl: "https://siliconangle.com/2023/06/28/optical-interconnect-startup-celestial-ai-raises-100m-tackle-ais-memory-wall-challenge/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/chip.png"
-        width: 718
-        height: 400
-        isCached: true
-
 secured: "YEFbVJTv4Iu9lr5YailWUjNvhC7vtcY8ZErRgb8WEDu+epXcuNmtkKutcC7EcauH7kDHl8UbVAz6tAPbub3g1oVngmRMiLDqYNHFl+51xap3XLE/i0yh5b833PjtGgNoWP20ZNaehRmNMxePH6NipbnzdplgNwfy6Tjah2XYku0B/2JF8B0B3PU3LgcEnu4dOxnXTmeJKn/gC4nCmSGYxtkb40BpkVfpAqqCQ3S1xOOPvcCMQl6lm5WxkArZiRdT7J4ssTlcu4np9EqukML+TlPtQr6inROJvgOB6CLEiV5DKC3rxoAp6BJ9KZKID9cdVK7tMi1NtsI0adgb4+/GYRIYvYkkWCiESomWiH1l7OCy8LMH27+jbPHYQ2cUMcgYa7nL9cfNkCRfXLNPBQ1YGLI20+6+JVrmxRNpkx1Q5AzmpKD3741hDXjMDjxsZhLWVnln2Qe5ZqfGDGdnSKvGfddJwAbzWtn64eXK4zYb+Hf16pm0eXHi9NlCWCg6fsDYx1mbiRVt21Q00YuS27t9hg==;cif2kBPNfKBXo///FPaBdQ=="
 ---
 

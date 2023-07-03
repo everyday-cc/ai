@@ -452,6 +452,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "AI to tackle cybersecurity: Rubrik and Microsoft deepen collaborations"
+    excerpt: "Accelerating cyber recovery through generative AI and natural language processing (NLP) is the aim of a joint collaboration between zero-trust security vendor Rubrik, Microsoft and Azure OpenAI. This integration is hoped to offer a \"truly actionable use of AI\" to reduce the time required to investigate and determine responses to cyber events,"
+    publishedDateTime: 2023-07-03T12:05:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4119310/ai-tackle-cybersecurity-rubrik-microsoft-deepen-collaborations"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 34
   - title: "Johnson Controls strengthens Microsoft partnership, accelerates net zero building transformation"
     excerpt: "Johnson Controls, a pioneer for smart, healthy, and sustainable buildings, announced it has won the 2023 Microsoft Global Independent Software Vendor (ISV) Partner of the Year Award."
     publishedDateTime: 2023-06-29T05:58:00Z

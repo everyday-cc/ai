@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Despite productivity crisis, UK businesses are slow to adopt AI: Research"
+    excerpt: "Despite the widespread proliferation of AI capabilities to help drive productivity, UK businesses continue to lag behind their global counterparts when it comes to adoption rates."
+    publishedDateTime: 2023-07-03T09:07:00Z
+    webUrl: "https://www.computerworld.com/article/3701455/despite-productivity-crisis-uk-businesses-are-slow-to-adopt-ai-research.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 16
 
 secured: "Qf8rxvlK+sJip3ujcSMecOIYbyPQ1rULM/pA+td1FW1g6IR0xNL4SIrEJv10qRWa1t8lJMbWZDYNJET28YFrS6bHVfmjbqOWr/p37RZ5JkcZTX03RAX3WGzX3yJ5T8c7wHBf5/T/+yS0Z2i7XvnqTz72Sr3dAdeE9BUvFSApYq+v8LCgsD3Mh1uOcHo4LUW5WZKH11b2Sjhv0CqvvgSrkRZL4H2FJI6dAgzacefym8t55PwjPoUZpe67TOsAJbbePIu02b7DpKYx4aGWejcecklshOyeGWfS2Rgyz4/PSq5LAJM+Zb8JYRbJ+NJMS5FxaRpbvl/T0km8bEZLWvIAykuAngH/CkG4rfDbBHTRa4c=;SAaM0uUHwaSFWRuE3f9B9g=="
 ---

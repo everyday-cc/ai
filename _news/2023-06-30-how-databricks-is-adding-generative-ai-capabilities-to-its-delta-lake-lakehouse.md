@@ -47,29 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Databricks Gains MosaicML and Its Generative AI for $1.3 Billion"
-    excerpt: "Learn what the Databricks acquisition means for companies looking into public or private generative AI foundation models."
-    publishedDateTime: 2023-06-28T20:52:00Z
-    webUrl: "https://www.techrepublic.com/article/databricks-gains-mosaicml-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/02/using-ai-ml-optimize-edge-iot-performance.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Databricks AI Assistant Offers ‘Cemented’ Business Knowledge"
-    excerpt: "An AI LLM trained on open data has broad knowledge drawn from publicly available resources, but the definition of a ‘customer’ or ‘fiscal year’ etc. always varies."
-    publishedDateTime: 2023-06-28T21:16:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/28/databricks-ai-assistant-offers-cemented-business-knowledge/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Revolutionizing data management and AI with open-source power: Analysis from Databricks’ Data + AI Summit"
     excerpt: "Revolutionizing data management and AI with open-source power: Analysis from Databricks' Data + AI Summit - SiliconANGLE"
     publishedDateTime: 2023-06-30T17:07:00Z

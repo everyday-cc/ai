@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/30/the-ai-powered-first-half-rally-co
 webUrl: "https://www.cnbc.com/2023/06/30/the-ai-powered-first-half-rally-could-broaden-out-in-the-third-quarter.html"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "The AI boom just powered tech stocks to their strongest start to a year since 1983"
+    excerpt: "Investors have piled into Big Tech stocks over the past six months, inspired by the explosion of interest in ChatGPT and AI."
+    publishedDateTime: 2023-07-03T09:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-chatgpt-tech-stocks-boom-nvidia-tesla-microsoft-nasdaq-composite-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "This AI-powered glove could help stroke patients play the piano again"
     excerpt: "A customizable smart glove powered by artificial intelligence shows promise as an easy-to-use, wearable tutoring aide for musicians recovering from strokes. According to a study published with Frontiers in Robotics and AI,"
     publishedDateTime: 2023-06-30T12:00:00Z

@@ -27,127 +27,62 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Typeface Raises $100 Million From Salesforce, Google"
-    excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including the investment arms of Salesforce Inc. and Alphabet Inc."
-    publishedDateTime: 2023-06-29T07:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google"
+  - title: "17 Insights For Candidates Navigating The AI Job Application Era"
+    excerpt: "We encourage candidates to personalize their resumes, cover letters and applications. This shows genuine interest and helps you stand out in a competitive market."
+    publishedDateTime: 2023-07-03T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOqsa6PLReLk/v1/1200x751.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62913326f44d3e367ddf131d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 751
+        height: 812
         isCached: true
-  - title: "AI Startup Typeface Raises $100 Million From Salesforce, GV"
-    excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including investment arms of Salesforce Inc. and Alphabet Inc."
-    publishedDateTime: 2023-06-29T07:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google?leadSource=uverify wall"
+  - title: "The Vatican issues handbook to navigate AI ethics in the ChatGPT era"
+    excerpt: "Amid the call to regulate and create guardrails against the misuse of artificial intelligence (AI), The Vatican has now issued its own handbook for navigating the ethics of AI technology in the ChatGPT era."
+    publishedDateTime: 2023-06-29T06:32:00Z
+    webUrl: "https://www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/articleshow/101360880.cms"
+    ampWebUrl: "https://www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/amp_articleshow/101360880.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/amp_articleshow/101360880.cms"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 74
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOqsa6PLReLk/v1/1200x751.jpg"
-        width: 1200
-        height: 751
+      - url: "https://www.businessinsider.in/thumb/101360974.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
-  - title: "AI startup Typeface valued at $1 bln after Salesforce-led fundraise"
-    excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday that it was valued at $1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
-    publishedDateTime: 2023-06-29T07:00:00Z
-    webUrl: "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/"
+  - title: "Developing Litigation Issues - The Age of AI"
+    excerpt: "The seventh Webinar in the “Age of AI” series focused on the risk factors at the intersection of litigation and AI. The presenters started with a brief background on AI and the practice of"
+    publishedDateTime: 2023-06-30T20:50:00Z
+    webUrl: "https://www.natlawreview.com/article/developing-litigation-issues-age-ai"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
     images:
-      - url: "https://www.reuters.com/resizer/ZSQXVFoZhkTbBX5nPujAzelH_KY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C24LFCQN3FPIPM7JQ2F3WDUUKQ.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/15527/banking%20financial%20planning%20accounts%20savings%20stock%20market%20dividents%20interest%20investments_2_0.jpg?itok=wAJLd1CK"
+        width: 500
+        height: 278
         isCached: true
-  - title: "AI Video Startup Runway Raises $141 Million From Google, Nvidia"
-    excerpt: "Runway AI Inc., whose artificial intelligence software can create a short video from just a few typed words, has raised $141 million in funding from Alphabet Inc.’s Google, Nvidia Corp., Salesforce Inc. and other investors."
-    publishedDateTime: 2023-06-29T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-video-startup-runway-raises-141-million-from-google-nvidia"
+  - title: "In The Crosshairs: The Legal Industry Grapples With The Application And Ethics Of AI"
+    excerpt: "In May 2023, Steven Schwartz of Levidow, Levidow & Oberman admitted that he used a generative AI (GAI) platform to produce six non-existent court decisions as citations during his representation in a personal injury case against Avianca Airlines."
+    publishedDateTime: 2023-06-29T18:20:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/in-the-crosshairs-the-legal-industry-7541206/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBBcycoPcKg/v0/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Salesforce to invest $4 bln in UK on AI innovation"
-    excerpt: "Salesforce will invest $4 billion in its UK business in the next five years, the U.S. software company said on Thursday, thanks to strong demand for digital transformations and artificial intelligence."
-    publishedDateTime: 2023-06-29T07:06:00Z
-    webUrl: "https://www.reuters.com/article/salesforce-investment-britain/update-1-salesforce-to-invest-4-bln-in-uk-on-ai-innovation-idUSL8N38L1DZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/Bhk9gMA5x69Ey00c_W6lZi0SbO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VGY4MCSLFJZPKGYHMC7TQ5VA4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Generative AI startup Typeface raises $100M to customize enterprise content creation"
-    excerpt: "Typeface helps enterprises create content using generative AI with machine learning training customized on an organization's content."
-    publishedDateTime: 2023-06-29T08:00:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-startup-typeface-raises-100m-customize-enterprise-content-creation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Salesforce launches Sales GPT, Service GPT to ease customer interactions through generative AI"
-    excerpt: "Sales GPT and Service GPT are designed to simplify workflow and customer engagement for Salesforce customers in various industries."
-    publishedDateTime: 2023-06-29T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-launches-sales-gpt-service-gpt-to-ease-customer-interactions-through-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
-  - title: "Robotics startup raises millions for AI, remote control applications"
-    excerpt: "Contoro Robotics, which spun out of medical robotics startup Harmonic Bionics, has raised $6 million in venture backing. The company, led by founder and CEO Youngmok (Mok) Yun, was created last year when Harmonic Bionics,"
-    publishedDateTime: 2023-06-29T01:22:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/inno-insights/2023/06/28/contoro-robotics-lands-millions-for-warehouse-bots.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
-  - title: "AI startup Typeface valued at US$1 billion after Salesforce-led fundraise"
-    excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday (Jun 29) that it was valued at US$1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
-    publishedDateTime: 2023-06-29T13:10:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-startup-typeface-valued-us1-billion-after-salesforce-led-fundraise-3594491"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 16
-  - title: "AI Startup Typeface Achieves $1 Billion Valuation in Record-breaking Fundraise Led by Salesforce"
-    excerpt: "With the additional capital infusion, Typeface is poised to accelerate its growth trajectory and continue pioneering groundbreaking advancements in the field of generative AI."
-    publishedDateTime: 2023-06-29T19:31:00Z
-    webUrl: "https://techstory.in/ai-startup-typeface-achieves-1-billion-valuation-in-record-breaking-fundraise-led-by-salesforce/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 4
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 27
 
-secured: "aDM7ukD6YTj/WlN8j6rbip20/FEi0ud8ON1FsjYrPOTgl8mzdddeYmFIpYeAYfIOdgu3pyfyDytWfBKVaes+qI0oKkjwjC2XfuMF+fKLLGkrJsP/BaE7bhyRhaDDYpvuT4qm7yiaenAgZ7gCu6sMBUbcR6lnaYPW+VZGc0DGe0YlNkGDJpfbfOTSjUtx3b1Sn/APauD+s0+em6FMWNjYjfo2ZcxL9LZcd/B63R/wEWnVBcLldfyeReSX/SrGzzChoClAWEQrpu57VPgYivIKD6etR7fAlL79NDMj6okxLKVr4TA5V9L+U90d8AHUo9N33bJXVgBHFNxsaM05s6bK+ZXy0dAnWdxNunVxZl6NQf4=;oXNFyedmI8iYvC6IN24gvQ=="
+secured: "OUP7cOC4LU89lJaz92gqSBHyN1mCOQx6j1u/wuOHrvBgFs8t7vDCxhrhHc4V2ERXVQTfy6OqfrG1CGs0bupA05iVJvnLRaKoeJiBof3NNHU8S+BDuklRP23dz01ZgwZ9dgZVvklZ78oNlEtIN2Qf/pglHozLigMfhpAaAvcMXbD9uFMmYQPFlxUpISaNSR+Eu5qPDeR1qzOQPXNX/a8lRauo2b8b3hkh2nmL0CkvOK8XTpFlGTExo+IaiME4+wnoJT5eFOKKQ1WqwgPw4eYJmWy31WCGUW7v+tKg0Y369ZY5O/Eo8+dMQQH/0mLC1b3hZo9UDdK0qTtegDNEEoj55o9zOU6aXcEqEnBnfUzmrJZG1+L3wLoZlIPj4EGL5LpPmIANj5x0jh5neZ/hmgUCE50dHTDPykejO4nbj8tMR+3FNobpLgOD4pw5oUjqvnBxckYirgQnbMedX4/NyVnwpWLY6ypouVQ1xKEzKw5ZkHSsMgY2t4/LCOo1t/3dCrwm0n99G2aYzzeqCAMiRoiKfQ==;rIhJDIClo8/NlMjQ6qEt2A=="
 ---
 

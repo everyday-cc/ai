@@ -46,6 +46,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Valve says Steam games can’t use AI models trained on copyrighted works"
+    excerpt: "Last week, we shared an anonymous report that Valve was blocking from Steam at least some games that make use of AI-generated artwork. Over the weekend, Valve confirmed that report, telling Ars in an e-mailed statement that the company is blocking games that use AI-generated content unless developers can prove those AI models were trained with data that does not \"infringe on existing copyrights."
+    publishedDateTime: 2023-07-03T14:41:00Z
+    webUrl: "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/"
+    ampWebUrl: "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/steamvalve2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AI catfish bots are reportedly infiltrating dating apps: ‘This guy can’t be for real’"
     excerpt: "Any AI-created profile spotted on a dating app could be an attempt by scammers to dupe users into sharing personal information, including credit card details. However, as The Post previously reported, some desperate men are turning to AI to give them a boost with women on dating apps."
     publishedDateTime: 2023-06-29T18:19:00Z
