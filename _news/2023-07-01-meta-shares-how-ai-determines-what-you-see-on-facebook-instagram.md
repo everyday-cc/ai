@@ -111,6 +111,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Explained (Courtesy Meta): How AI Systems Recommend Content on Instagram and Facebook"
+    excerpt: "Meta has released a detailed explanation of how its AI systems recommend content across Instagram and Facebook."
+    publishedDateTime: 2023-07-03T07:44:00Z
+    webUrl: "https://www.medianama.com/2023/07/223-how-ai-systems-recommend-content-on-instagram-and-facebook/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 32
+    images:
+      - url: "https://i1.wp.com/www.medianama.com/wp-content/uploads/2023/06/adem-ay-Tk9m_HP4rgQ-unsplash-scaled.jpg?resize=600%2C337&ssl=1"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Meta’s system cards show how AI powers content recommendations on Facebook and Instagram"
     excerpt: "Facebook and Instagram work. The move is designed to increase transparency about how AI surfaces content for individual users, based on their history of interactions, likes, interests and friends lists."
     publishedDateTime: 2023-06-30T03:09:00Z

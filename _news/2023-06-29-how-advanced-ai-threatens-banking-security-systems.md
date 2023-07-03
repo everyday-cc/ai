@@ -7,7 +7,7 @@ originalUrl: "https://www.centralbanking.com/technology/7959117/how-advanced-ai-
 webUrl: "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,29 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is affecting the patent system"
-    excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
-    publishedDateTime: 2023-06-28T13:34:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/how-ai-is-affecting-patent-system-2023-06-28/"
+  - title: "AI and Security: Ensuring That Opportunities Outweigh the Threats, Reports IDTechEx"
+    excerpt: "Created by OpenAI and released in November 2022, the generative AI tool had 100 million registered users as of three months after release, with it – the world's most advanced chatbot – being used to answer simple queries,"
+    publishedDateTime: 2023-07-03T06:47:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/03/9842629.htm"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 50
     images:
-      - url: "https://www.reuters.com/resizer/6RDiNFJaoYEgBXrTGH2tOWz9eA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKGXR6M5CRGCPIHXVCJVHX2RFI.JPG"
-        width: 1200
-        height: 628
+      - url: "https://mma.prnewswire.com/media/2145182/AI_chips_revenue_2023.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Uncovering How AI's Dual Relationship With Cybersecurity Operates"
-    excerpt: "Cybersecurity has evolved and played a pivotal role in AI discussions due to threat feeds, AI platform protection and the need for rapid data analysis."
-    publishedDateTime: 2023-06-28T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/uncovering-how-ais-dual-relationship-with-cybersecurity-operates/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "ksZm7+W3GZROGSDkF3ArEiz+qAdzt7ukpjPqyopHcxHti6gk6p0Y5YosBalxFn1hg7rqPUbP41hLLAMLuJI3h36S64g6B9aDG76CgEBlyKmfqlwb6BzwuJJ5wchAJ4nOMbvBxWR1dmtiFxNYcfNeAs1yrXFobiS3VtWSE71muumeAhGq4RiaPXeO8Oyk79GXssn9PBZjVvkoRy5vc18KLZYvzT373Z1sv6TiwMsIf2PlyLnLb27QWFbJhS5jzN6M9vIuTAkSIClv3xHG/VzlskQ68VleuvhVF2QER4gGiKJmlyKJDdng0H0ZA3/rT72is5qnjzR2Msjg0e/h7+NuIYd9rTzGNTpwGDpYJxO5N/0=;ywsf+6SxUdlMMRs0brhiJw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-a
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2065574948-scaled.jpg"
         width: 2048
         height: 1366
+        isCached: true
+  - title: "Explained (Courtesy Meta): How AI Systems Recommend Content on Instagram and Facebook"
+    excerpt: "Meta has released a detailed explanation of how its AI systems recommend content across Instagram and Facebook."
+    publishedDateTime: 2023-07-03T07:44:00Z
+    webUrl: "https://www.medianama.com/2023/07/223-how-ai-systems-recommend-content-on-instagram-and-facebook/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 32
+    images:
+      - url: "https://i1.wp.com/www.medianama.com/wp-content/uploads/2023/06/adem-ay-Tk9m_HP4rgQ-unsplash-scaled.jpg?resize=600%2C337&ssl=1"
+        width: 600
+        height: 337
         isCached: true
   - title: "Meta Shares How AI Determines What You See on Facebook, Instagram"
     excerpt: "Find out how social media giants Facebook and Instagram employ AI systems to curate content tailored to individuals' preferences and choices."

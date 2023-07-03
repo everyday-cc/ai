@@ -132,24 +132,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Databricks Introduces New Generative AI Tools, Investing in Lakehouse AI"
-    excerpt: "Databricks' data-centric approach to AI makes it easier to build, deploy and manage large language model (LLM) applications, enabling customers to accelerate their generative AI journey SAN"
-    publishedDateTime: 2023-06-28T13:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59448313-databricks-introduces-new-generative-ai-tools-investing-in-lakehouse-ai-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 18
-  - title: "Databricks rolls out AI assistant to help analyze business data"
-    excerpt: "Databricks, a San Francisco-based startup most recently valued at $38 billion ... without using computer code. Behind the scenes, an AI system will interpret the question, fetch the needed data, read it and produce an answer. Ali Ghodsi, chief executive ..."
-    publishedDateTime: 2023-06-28T13:33:00Z
-    webUrl: "https://www.aol.com/news/databricks-rolls-ai-assistant-help-130517472.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
 
 secured: "AtaxgIU3kbvJ+xSbn8+S6Qil+T8zyo6aJwV4d0KLeeGViHpejWMHO9ktjP686px0ZoqZeemY9MHMaxN20z8xwaUj1Sz9D+kgkMBWzaCT+6AkpGd0WnAyU73+wAcR9Cl9+a64hiGiiAlNuHbEe0wViDKj5UdfBVXg3v8TcC1DRX3y4NUzkQBxGmewmLyQdVFXiFFaVqoYUrnDDwig9Zyhq7d5UTH+lMBNTqhtBiTlrda4N3/oPYsdCwVtTxzD5vRKFk345GgiigLyNW8WaF8R/QR0Rt9K8aPbLk2UeWYsKe7gEXe3J6kPWcn2SGVCeBDxNW3qnQTzpiUYdXLCJm4vDYmBfUOjEZF+OVgEIc/K/yk=;ZPfjI9Bowt8cXh210ymQKg=="
 ---

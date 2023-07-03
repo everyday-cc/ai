@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Artificial Intelligence Startup Cohere.io Joins Ramp to Bring Generative AI to Finance"
+    excerpt: "At Ramp they’re dedicated \"to pushing the frontiers of AI to help businesses save time and money, with innovations like Ramp Intelligence.\"\""
+    publishedDateTime: 2023-06-28T21:53:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/209387-artificial-intelligence-startup-cohere-io-joins-ramp-to-bring-generative-ai-to-finance/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 61
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
+        width: 1080
+        height: 810
+        isCached: true
   - title: "Causely launches Causal AI for Kubernetes, Raises $8.8M in seed funding"
     excerpt: "Causely, a Boston-based AI startup, announced today that it has raised $8.8 million in seed funding, led by 645 Ventures."
     publishedDateTime: 2023-06-29T13:00:00Z
@@ -72,6 +86,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Inflection, Runway and Stability receive funding as capital pours into generative AI startups"
+    excerpt: "Today several generative AI startups received funding, including the chatbot startup Inflection AI Inc., the AI-powered video generator startup Runway AI Inc. and text-to-image generator Stability AI Ltd. Inflection AI, an AI startup building chatbot that ..."
+    publishedDateTime: 2023-06-29T17:20:00Z
+    webUrl: "https://siliconangle.com/2023/06/29/inflection-runway-stability-receive-funding-capital-pours-generative-ai-startups/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "/FAAgS4IrqnR5Egvw4ZiX8PCrIL9xq5pHrrVEtr5SuLB+KXIsMMHSQUGs25OpJmhkKAwrb1Jy3nyb6gmye74fyT0XmwaT5JEKta0tuPe6PSun7SXt5F7IyzQjauuct4mNga0V4KJPosxLF5bL/1JSHxXVnL1n1vyeIWo+A69a8zRs5bI0qtxzAhRVFmIJBwuMSTFdDBIQruPY5EP4qjaKtv5ulwsACfkAaWaPN3RHyIQ2bTPbpIecZDT1zYDFd33kc1BkXsNJQj+qTxoLm++sUn/7Hx7IXXgMegbl3fqG6rivY3LOMqXwWcn5ICk32lQLR2yyHbih4r83yeL50/Wjr3Gab2l6GCyNJKAClOpn4nFVgzsaSHBjWyQykJpC8WfoSLyXpyfjrqxpmE1fNkABLOJHCZ1uRwP323N9uWPm+bkm+63pMZIUossnqDjbLJfxSPU2+DGwZC9aZZwOpI0FniofWqLae4nlj5+RgxdXv3G1RcdxiCNmz2s1n6mRx/lub736llFkavhM20+W2u7iw==;45gyqinKSfqeBYpzuXZQsA=="
 ---

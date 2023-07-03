@@ -181,29 +181,15 @@ related:
         width: 599
         height: 338
         isCached: true
-  - title: "AWS enters the GenAI scene with Bedrock, helping the enterprise enter the next generation of technology"
-    excerpt: "Artificial intelligence is taking society by storm ... to scramble to figure out how to take advantage of the emerging innovation. “What [AWS] is doing is trying to offer customers a lot of choices; we’re making the best foundation models available ..."
-    publishedDateTime: 2023-06-28T14:36:00Z
-    webUrl: "https://siliconangle.com/2023/06/28/aws-enters-genai-scene-bedrock-helping-enterprise-enter-next-generation-technology-hpediscover/"
+  - title: "Tomedes Introduces Eye2.AI: A Groundbreaking Innovation in Artificial Intelligence"
+    excerpt: "Eye2.ai offers seamless integration of human excellence with cutting-edge AI technologies, ensuring that AI-generated content is accurate, humanized, and refined."
+    publishedDateTime: 2023-07-03T06:03:00Z
+    webUrl: "https://slator.com/tomedes-introduces-eye2-ai-a-groundbreaking-innovation-in-artificial-intelligence/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Shaown-Nandi-Clean-Thumb.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "infinitii ai announces $1.5 million five-year contract for its new generation of Machine Learning technology"
-    excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\" or the \"Company\") (CSE: IAI) (FSE:7C5) (OTC: CDTAF), a leader in AI-driven predictive analytics software for"
-    publishedDateTime: 2023-06-28T13:56:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840691.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Slator
+      domain: slator.com
+    quality: 28
 
 secured: "vsluFzaflGMYuE6rBQ3bQ+yZCIPxY7AJfVnxWKaALcyfM60AkiBkfDp9j9O72q8+JwyJqzcl1++i9GQslNkj0S7xWKh5ArhyG76iSI2oOpsN8sVZvVzZPZV3MEOb0T89mnDfHOc7by2BbyamQKbLajlbiDGl5RN6Uey03ZUr9IoDzwqfvQwdFqNAJXmsGKI1Grs6Iu7JAU/kWdYc0w71OBS8NIORANpYqmeeA8+6fAbvXT+PM/0L9t5/Z4o78JMsrgHAR7dXlDZYUbc/BhkL8Yn6Pd7qxPon0mytlMcufY8lwmEQT8ERNTcNl+sj5F49VEF7pS9KtwoLOK8feAeadfmeKRu75MKrFi2DJXyiP6JePNVHJ9vUwxT4Xbh65mFrVcItbLSW8i5JXO7itVAUEYogzwGYejhsMbdk5eI9hqHCEPMr3VRcrfie4mb+2J6M1dmQDviBOOAClqZqslTQx3WtDdRPxYgvDQ2x/HX9lFQULSU/E4JMI4dzWpqJVt3XBn+YlqKn7T5d133/1DYiAA==;7Dksj2kd+uLPuRFe+zzmOw=="
 ---

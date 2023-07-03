@@ -95,7 +95,7 @@
       "originalUrl": "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -441,7 +441,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -484,6 +484,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-30-inside-the-race-to-build-an-operating-system-for-generative-ai.md",
+      "title": "Inside the race to build an ‘operating system’ for generative AI",
+      "excerpt": "What does it take to build an operating system for generative AI? According to Intuit's Srivastava, there are four main layers",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Feature-image.png?w=1200&strip=all",
+          "width": 1028,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-the-revolution-of-ai-in-music-production.md",
       "title": "The Revolution of AI in Music Production",
       "excerpt": "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups.",
@@ -492,7 +543,7 @@
       "originalUrl": "https://techround.co.uk/news/revolution-ai-music-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -586,7 +637,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -819,6 +870,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-30-where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.md",
+      "title": "Where Americans want and don't want AI in healthcare: 7 things to know",
+      "excerpt": "Explore how Americans feel about AI leading primary care appointments in this study from Boston Children's Hospital and Harvard Medical School.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks.md",
       "title": "Retail Leaderboard: Individual Investors Keep Buying Tesla, Tech, AI Stocks",
       "excerpt": "Individual investors' net purchases of U.S. stocks and ETFs stalled last week, but they kept buying certain favorite picks, according to Vanda Research. Tesla, Amazon.com, Apple, Nvidia and Advanced M",
@@ -973,7 +1067,7 @@
       "originalUrl": "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1016,7 +1110,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1067,7 +1161,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1108,109 +1202,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview.md",
-      "title": "Windows 11’s Copilot brings AI chat to desktops in first public preview",
-      "excerpt": "This week's Windows Insider Preview build for Dev channel users, build 23493, will be the first to enable Copilot for public testers. After installing the update, preview users can press Windows + C to open a Copilot column on the right side of the screen.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/windows-copilot-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/",
-      "publishedDateTime": "2023-06-29T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize.md",
-      "title": "Recommend and dynamically filter items based on user context in Amazon Personalize",
-      "excerpt": "Organizations are continuously investing time and effort in developing intelligent recommendation solutions to serve customized and relevant content to their users. The goals can be many: transform the user experience, generate meaningful interaction, and drive content consumption. Some of these solutions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/29/recommend-dynamic-filter-personalize.jpg",
-          "width": 1020,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:41:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

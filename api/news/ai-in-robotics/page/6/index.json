@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-17-amazons-ai-powered-robot-cant-fix-the-broken-smart-home.md",
-      "title": "Amazon's AI-powered robot can't fix the broken smart home",
-      "excerpt": "Unfortunately, some new leaked documents suggest it's up to those tricks again with the development of an AI-powered home robot ... before you have wings. For a start, the current Amazon Astro ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amazons-ai-powered-robot-cant-fix-the-broken-smart-home",
-      "originalUrl": "https://www.techradar.com/news/amazons-ai-powered-robot-cant-fix-the-broken-smart-home",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XzVDZZoc26io45z3QezWa-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-17-uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region.md",
       "title": "UAE company launches first-of-a-kind locally-made robot to fight fires in the region",
       "excerpt": "Dubai, UAE - FFBOTS, the Jebel Ali Industrial Area-based Emirati firm, has launched the first locally-made firefighting robot of its kind in the Middle East, with world-class technical specifications and operational capabilities.",
@@ -1378,6 +1326,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-education-startup-teky-raises-5m-from-foreign-investors.md",
+      "title": "Education startup TEKY raises $5M from foreign investors",
+      "excerpt": "Education startup TEKY Alpha has raised US$5 million from Singaporean investment firm Sweef Capital to expand its operations.",
+      "sourceUrl": null,
+      "webUrl": "https://e.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "originalUrl": "https://e.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1-english.vnecdn.net/2023/05/10/Aa-1683687856-1905-1683693659.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=9WokI48vPG6Kpb_1nRaGbQ",
+          "width": 1199,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/education-startup-teky-raises-5m-from-foreign-investors-4603427.html",
+      "publishedDateTime": "2023-05-10T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VN Express",
+        "domain": "vnexpress.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
       ]
     }
   ],

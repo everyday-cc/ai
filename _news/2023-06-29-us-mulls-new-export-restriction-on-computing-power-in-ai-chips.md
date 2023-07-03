@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "U.S. Considers New Curbs on AI Chip Exports to China"
-    excerpt: "Restrictions come amid concerns that China could use AI chips from Nvidia and others for weapon development and hacking."
-    publishedDateTime: 2023-06-28T13:23:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-808160/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "US Mulls Even Tighter Restrictions to Stop AI Chips From Reaching China"
     excerpt: "The US is considering even harsher export restrictions to prevent China from obtaining cutting-edge chips used to power AI programs. The US Commerce Department could implement the new export controls as soon as next month,"
     publishedDateTime: 2023-06-28T16:56:00Z
@@ -50,6 +36,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03eZtvy53D4cKCBx4QCDzan-1.fit_lim.size_1200x630.v1687964313.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "US Plans New AI Computer Chip Export Controls Aimed at Nvidia"
+    excerpt: "The Biden administration plans to tighten export controls announced in October to restrict sales of some artificial-intelligence chips to China, amid growing concerns about selling the technology to a key strategic competitor, people familiar with the ..."
+    publishedDateTime: 2023-06-28T15:45:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-28/us-plans-new-ai-computer-chip-export-controls-aimed-at-nvidia"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV3sB9i.jGDw/v0/1200x743.jpg"
+        width: 1200
+        height: 743
         isCached: true
   - title: "US Planning for New Restrictions on AI Chip Exports to China"
     excerpt: "US may halt shipments of chips made by Nvidia, Advanced Micro Devices (AMD), and other chip companies to customers in China as early as July."
@@ -136,24 +136,22 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
-  - title: "New AI Chip Export Rules Put Semiconductor Firms in Spotlight"
-    excerpt: "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China."
-    publishedDateTime: 2023-06-29T12:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight"
+  - title: "How New AI Restrictions May Throw a Wrench in Nvidia's Plans"
+    excerpt: "This is why the U.S. Department of Commerce seeks to limit China’s access to AI chips further. According to the Wall Street Journal’s report on Tuesday, these new restrictions could come in as early as next month."
+    publishedDateTime: 2023-06-29T02:43:00Z
+    webUrl: "https://247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/"
+    ampWebUrl: "https://247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Nvidia Warns of Lost Opportunities if U.S. Bans AI Chip Exports to China"
-    excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao Potential new ..."
-    publishedDateTime: 2023-06-28T19:29:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-warns-of-lost-opportunities-if-u-s-bans-ai-chip-exports-to-china-293fa911"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 63
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 61
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry1-pEE.jpg?w=400"
+        width: 400
+        height: 224
+        isCached: true
   - title: "US Considers More Restrictions on AI Chips to China"
     excerpt: "Nvidia was already required to make a weaker version of its flagship A100 for China, but even that weakened chip wouldn’t be allowed under the rules under ..."
     publishedDateTime: 2023-06-28T17:33:00Z
@@ -168,24 +166,6 @@ related:
         width: 1024
         height: 718
         isCached: true
-  - title: "Nvidia knocks down concern over AI chip exports to China. The reason is why we own the stock"
-    excerpt: "Nvidia (NVDA) on Wednesday reassured investors that potential export restrictions on chips wouldn't hurt the semiconductor firm's bottom line."
-    publishedDateTime: 2023-06-28T17:25:00Z
-    webUrl: "https://www.cnbc.com/2023/06/28/nvidia-knocks-down-concern-over-ai-chip-exports-to-china.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 53
-  - title: "Nvidia and AMD shares fall as US considers tightening restrictions on AI chip exports to China"
-    excerpt: "The Wall Street Journal reports that Washington is considering tightening its export controls on AI chips to China as a means of preventing US companies' top"
-    publishedDateTime: 2023-06-28T13:43:00Z
-    webUrl: "https://www.techspot.com/news/99229-nvidia-amd-shares-fall-us-considers-tightening-restrictions.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 52
   - title: "The US wants to restrict China's access to AI chips even more, and Nvidia could lose out as a result"
     excerpt: "The US government is weighing up plans to further restrict the export of AI processors to China. The Biden administration has heightened concerns about the access Chinese companies have to bleeding edge tech,"
     publishedDateTime: 2023-06-29T01:08:00Z

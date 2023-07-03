@@ -18,36 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia sweeps AI benchmarks, but Intel brings meaningful competition"
-    excerpt: "Intel is building a mutli-thousand-chip cluster internally based on its Gaudi AI accelerator, the company said, which could be even bigger competition for Nvidia down the road."
-    publishedDateTime: 2023-06-28T15:03:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/2a31cc4234549381ea4642abc6f31af8f9b8f2d2/2023/03/21/c83ab042-06b7-49b0-934d-f6ab54c4a554/nvidia-h100-nvl-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "US Plans New AI Computer Chip Export Controls Aimed at Nvidia"
-    excerpt: "The Biden administration plans to tighten export controls announced in October to restrict sales of some artificial-intelligence chips to China, amid growing concerns about selling the technology to a key strategic competitor, people familiar with the ..."
-    publishedDateTime: 2023-06-28T15:45:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-28/us-plans-new-ai-computer-chip-export-controls-aimed-at-nvidia"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV3sB9i.jGDw/v0/1200x743.jpg"
-        width: 1200
-        height: 743
-        isCached: true
   - title: "AMD's AI chips could match Nvidia's offerings, software firm says"
     excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp , with a future path to matching their performance, according a Friday report by an AI software firm."
     publishedDateTime: 2023-06-30T16:41:00Z
@@ -62,66 +32,29 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia Stock Lower on Possible AI Chip Sales Restrictions"
-    excerpt: "Nvidia (NVDA) stock is struggling this morning amid reports of potential restrictions of AI chip sales to China"
-    publishedDateTime: 2023-06-28T14:32:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/news/2023/06/28/nvidia-stock-lower-on-possible-ai-chip-sales-restrictions"
+  - title: "Larry Ellison says Oracle plans to spend billions on Nvidia GPUs, even more on Ampere and AMD chips"
+    excerpt: "Oracle will spend billions of dollars to purchase Nvidia GPUs this year alone, driven by the rising demand for generative AI-based products, which require considerable hardware"
+    publishedDateTime: 2023-06-30T15:31:00Z
+    webUrl: "https://www.techspot.com/news/99260-oracle-plans-spend-billions-nvidia-gpus.html"
     type: article
     provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 71
+      name: TechSpot
+      domain: techspot.com
+    quality: 70
     images:
-      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-nvidia-logo-on-the-smartphone--367055296.jpg?sfvrsn=5e95d306_4"
-        width: 1400
-        height: 933
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-30-image-9.jpg"
+        width: 2000
+        height: 1334
         isCached: true
-  - title: "How New AI Restrictions May Throw a Wrench in Nvidia's Plans"
-    excerpt: "This is why the U.S. Department of Commerce seeks to limit China’s access to AI chips further. According to the Wall Street Journal’s report on Tuesday, these new restrictions could come in as early as next month."
-    publishedDateTime: 2023-06-29T02:43:00Z
-    webUrl: "https://247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/"
-    ampWebUrl: "https://247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/amp/"
+  - title: "Nvidia Warns of Lost Opportunities if U.S. Bans AI Chip Exports to China"
+    excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao Potential new ..."
+    publishedDateTime: 2023-06-28T19:29:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-warns-of-lost-opportunities-if-u-s-bans-ai-chip-exports-to-china-293fa911"
     type: article
     provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 61
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry1-pEE.jpg?w=400"
-        width: 400
-        height: 224
-        isCached: true
-  - title: "Startup Inflection AI secures $1.3 billion funding from Nvidia and others"
-    excerpt: "AI startup Inflection AI, co-founded by Mustafa Suleyman and Reid Hoffman, has raised $1.3bn in funding from investors including Microsoft and Nvidia."
-    publishedDateTime: 2023-06-30T04:59:00Z
-    webUrl: "https://www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others-11688100672381.html"
-    ampWebUrl: "https://www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others/amp-11688100672381.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others/amp-11688100672381.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/30/600x338/g158f4c8ac5315e0d7e42483549333dab208a01593f33230f2_1688101104074_1688101104211.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Nvidia drops on report US plans more AI chip curbs for China"
-    excerpt: "The two lead the market for chips vital to the development of generative artificial intelligence models such as ChatGPT. In China, traders unloaded a slew of AI-related stocks, pushing Inspur Electronic Information Industry Co. and Unisplendour Corp ..."
-    publishedDateTime: 2023-06-28T15:03:00Z
-    webUrl: "https://www.thepeninsulaqatar.com/article/28/06/2023/nvidia-drops-on-report-us-plans-more-ai-chip-curbs-for-china"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 54
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230628_1687964481-109.jpg?1687964481"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 63
   - title: "US plans new AI chip export controls aimed at Nvidia"
     excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
     publishedDateTime: 2023-06-29T09:26:00Z
@@ -136,6 +69,29 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "AMD making big gains on Nvidia in AI chips: research"
+    excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
+    publishedDateTime: 2023-07-02T06:35:00Z
+    webUrl: "https://techcentral.co.za/amd-making-big-gains-on-nvidia-in-ai-chips-research/227735/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/07/artificial-intelligence-ai-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Nvidia knocks down concern over AI chip exports to China. The reason is why we own the stock"
+    excerpt: "Nvidia (NVDA) on Wednesday reassured investors that potential export restrictions on chips wouldn't hurt the semiconductor firm's bottom line."
+    publishedDateTime: 2023-06-28T17:25:00Z
+    webUrl: "https://www.cnbc.com/2023/06/28/nvidia-knocks-down-concern-over-ai-chip-exports-to-china.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
   - title: "AMD's AI Chips Could Match Nvidia's Offerings, Software Firm Says"
     excerpt: "Nvidia dominates the market for the powerful chips that are used to create ChatGPT and other AI services that have swept through the technology industry in recent months. The popularity of those services has pushed Nvidia's value past $1 trillion and led to a shortage of its chips that the Nvidia says it is working to resolve."
     publishedDateTime: 2023-06-30T17:40:00Z

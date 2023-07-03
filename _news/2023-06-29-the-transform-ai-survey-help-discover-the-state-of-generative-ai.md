@@ -22,37 +22,51 @@ topics:
   - AI
 
 related:
-  - title: "Two Ways AI Can Be Used To Help Transform Insurance"
-    excerpt: "Whether insurers want to improve underwriting, risk management or both, AI is one solution to satisfying B2B customers while benefiting underwriters."
-    publishedDateTime: 2023-06-30T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/"
+  - title: "How Generative AI Is Transforming Supply Chain And Procurement Roles"
+    excerpt: "While there are massive areas of potential, there are equally significant risks posed to privacy, algorithmic bias and even business continuity."
+    publishedDateTime: 2023-06-29T10:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6361241cedcf875a2cde53f3/0x0.jpg?format=jpg&crop=972,547,x0,y134,safe&width=1200"
+        width: 972
+        height: 547
         isCached: true
-  - title: "AI will transform finance sector, regulator says"
-    excerpt: "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector."
-    publishedDateTime: 2023-06-29T05:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-europe-guernsey-66041385.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-guernsey-66041385.amp"
+  - title: "How Generative AI is a Game Changer for Cloud Security"
+    excerpt: "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap."
+    publishedDateTime: 2023-06-29T16:34:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-cloud-security/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C2E/production/_130228993_mason2.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/clio-unveils-cloud-platform.jpeg"
+        width: 1200
+        height: 803
+        isCached: true
+  - title: "Transforming Generative AI Into Domain-Savviness Via In-Context Learning And A Dash Of Data Engineering Seems Promising, Says AI Ethics And AI Law"
+    excerpt: "Latest efforts to imbue generative AI with domain expertise makes use of data engineering and in-context model learning. This close look explores how this works."
+    publishedDateTime: 2023-07-01T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3796,2530,x671,y0,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Catalyzing transformation: Augmenting human intelligence with AI"
     excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Mumbai brought together visionaries, experts and technology enthusiasts under one roof to explore the frontiers of artificial intelligence through keynotes,"
@@ -70,20 +84,31 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "How AI can help prevent gun violence"
-    excerpt: "A museum in Florida is using AI to try to detect guns and identify possible shooters as quickly as possible. Manuel Bojorquez takes a look at the technology."
-    publishedDateTime: 2023-07-02T23:51:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/how-ai-can-help-prevent-gun-violence/"
+  - title: "With Huge Costs, Efficiency Is The Key To Mainstreaming Generative AI"
+    excerpt: "The hype around generative AI is making every industry vibrate at an increasingly high pitch in a way that we have not seen since the days of the Dot Com"
+    publishedDateTime: 2023-06-29T00:55:00Z
+    webUrl: "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/02/3d6e3ca7-a8d3-40f5-b281-1bb200aeb1fa/thumbnail/1200x630/0dfd272cf0905338ad627bb1c42cdbf7/0702-wn-bojorquez-2096640-640x360.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4"
-        width: 1200
-        height: 630
+      - url: "http://www.nextplatform.com/wp-content/uploads/2015/02/machine-learning.jpg"
+        width: 340
+        height: 238
         isCached: true
+  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
+    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
 
 secured: "jQfEtMbmpFlPH3o0O+YVGKHqDlWl9h54ktrdjwJq2MM9vTrfIJKVR5ox9sgBZpui75KAfpRgLCIZmREZbCAxrVtYuAtHtOVbOf/s20RUmhsWxEWd/SrEPdpD6EnXEFEMvfB55VmlJkiflz/VWxYiRzY+X2Y4nWmBcqkuoAxq2wdHM5s69HoFdPvOJX62zneuIjEDlCeXjr2Jj/DjOTJn55FI0Dj9CA0bSYFaWiIAfAqrF4fEpoPZZ9iWAGzYasYIWRPwAy0MqNNAv/4o2yKuIWK/kWNosrcRISJfSe+r7F/OBee1GOmWL/7gHxORp6V7uZcyeyoeA4E2zX5OtHkvG3oJV+PxSJnijHEboR4gv1W/UWMmpWTDG+qzP+U7+tXe+Vjemd4JDKT3LUcfIZwM2XnYJS4HiU4Gic1OoDUTc1OZXEN48Jm4PXn2AmGrizGjiWPuHygZI4xHYvvt035pe6nk9RV4eNAVlRG02OUVJeKnVWC7DUx9hm6SYUPhJ9Etl2K7Wt42oPltTnHNp9snBw==;ODWhFK/f4oOEUyFB75TWjQ=="
 ---

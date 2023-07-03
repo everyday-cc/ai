@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-
 webUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/"
 type: article
 quality: 86
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -187,29 +187,15 @@ related:
       name: Philippine Daily Inquirer
       domain: inquirer.net
     quality: 54
-  - title: "AWS enters the GenAI scene with Bedrock, helping the enterprise enter the next generation of technology"
-    excerpt: "Artificial intelligence is taking society by storm ... to scramble to figure out how to take advantage of the emerging innovation. “What [AWS] is doing is trying to offer customers a lot of choices; we’re making the best foundation models available ..."
-    publishedDateTime: 2023-06-28T14:36:00Z
-    webUrl: "https://siliconangle.com/2023/06/28/aws-enters-genai-scene-bedrock-helping-enterprise-enter-next-generation-technology-hpediscover/"
+  - title: "Tomedes Introduces Eye2.AI: A Groundbreaking Innovation in Artificial Intelligence"
+    excerpt: "Eye2.ai offers seamless integration of human excellence with cutting-edge AI technologies, ensuring that AI-generated content is accurate, humanized, and refined."
+    publishedDateTime: 2023-07-03T06:03:00Z
+    webUrl: "https://slator.com/tomedes-introduces-eye2-ai-a-groundbreaking-innovation-in-artificial-intelligence/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Shaown-Nandi-Clean-Thumb.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "infinitii ai announces $1.5 million five-year contract for its new generation of Machine Learning technology"
-    excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\" or the \"Company\") (CSE: IAI) (FSE:7C5) (OTC: CDTAF), a leader in AI-driven predictive analytics software for"
-    publishedDateTime: 2023-06-28T13:56:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840691.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Slator
+      domain: slator.com
+    quality: 28
 
 secured: "2V87qpnRx5XhNYZI4gHCixHBnvp4DDjVYMurF4ZybTyIyhJ4o9OH/imdP0PCkrSskzBr0OxZHBa34EsKJdwbtEpPk62cmURPKxVbQzG6ebP0m1Nye8/QZII/7peF5ZYDr1vz1mQQpT33djxKAXirV/R4oqJLHydPzmUl7DpLXsXnYlegr9AUvErSN3v9/GKRtRD/s7U6WVbbNWMPSA36AQev7PKXpaaRCfM5Yh74xr0Poon71/dIjBvhL7ImVetnexXKhM09A96sUblZ1dQxdrv/delBkp9TGEKUOhcQV9BkiCCFKu+NQTPsZF4qqfyMZ+T+wPz2KzIgTvMh032LosnvJIYtqaD5vl+fuJGTHV3o8Jn0DNSETh9oi1wWFQq9D5V/8zwfnsKKrrorYbOWrlE3q3wZLAcjehD9GrlscA0/DQP8lFxWWmNf6BAXlI7wRIyU0k5utG8OSKfEFAK38etKOfLBCBkhdTYZTNO0fLxcEGZ8NTOYl7lYR6bEG3SiG+eIrYRDaaPetljtaUoZug==;A9AggoU+0uHJoypM7IWMrA=="
 ---

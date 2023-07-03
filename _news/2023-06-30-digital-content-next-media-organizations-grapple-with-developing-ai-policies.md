@@ -105,6 +105,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Sequoia Capital Partners with AI Startup Dust to Bolster Generative AI Initiatives"
+    excerpt: "Sequoia Capital recently announced that it is going to partner with France based AI Startup Dust. “We at Sequoia were thrilled to lead their seed round and become their partners”, the company said in their blog post on the website."
+    publishedDateTime: 2023-06-29T06:57:00Z
+    webUrl: "https://analyticsindiamag.com/sequoia-capital-partners-with-ai-startup-dust-to-bolster-enterprise-automation-generative-ai-initiatives/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-3-1.jpg"
+        width: 512
+        height: 288
+        isCached: true
 
 secured: "QrEe4j5hS+gfpu2JSLRsmTxCG+zeaT3kfI8BYJb/naQEpbPf/M43eZe8WktC4tJfW63+7m6Uks0etQcitsOv36Tdjgk6FNaZ+pWrIDVUjRy8GYbbjtkvP354X827+cFNcXMDX0liw2l/rslYDWYrq5R74UQ7kvvsiQbp/ZReJ9hPCap4PUCVQ8Wnptcei8yD7KuM/N9FlE0U8sSv10/2aaBlfI7aUKoOKFGVT+y5zS4e/PcMP/KbLXlScGOVvdncpzZjxU4aG+SGn+RxQ6hGNfyYCHJ4aVlUGNcZRCAm2cvJZVOQhzniTF0lDD/Cew4X/uq7bee90GC8Q1LhSlcxNmBANcfqzZSg9N4KeuJZTENn2FfKnAqhQ0jYsijENQQLkazjZHvOeVJXD7xSCMvhig+QHRcXswna+8CRDpM0zPHN+lyZ0AVE1COnyQIDfO6KDW6h6G8ZILehwNPwY8PH6CTKOlwhe3KR3O2HN1EUpTqsY1YethMoxf+7e5ENS1Xa0CrXzYbQWdxw9qkvSEiKzw==;oy59ppYGPye9mZXoLyiPlw=="
 ---

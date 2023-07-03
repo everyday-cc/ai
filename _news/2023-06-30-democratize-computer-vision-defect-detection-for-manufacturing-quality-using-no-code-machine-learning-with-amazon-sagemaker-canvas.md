@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-computer
 webUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/29/interatively-fine-tune-falcon-40b-sagemaker-1.jpg"
         width: 1020
         height: 512
-        isCached: true
-  - title: "AI is making smart manufacturing faster, greener, virtual — and more real"
-    excerpt: "Manufacturers today invest in intelligent technology as key foundations of \"smart manufacturing\" in the Fourth Industrial Revolution."
-    publishedDateTime: 2023-06-28T13:50:00Z
-    webUrl: "https://venturebeat.com/ai/ai-is-making-smart-manufacturing-faster-greener-virtual-and-more-real/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AdobeStock_596539467_Preview.jpeg?w=1200&strip=all"
-        width: 1000
-        height: 560
         isCached: true
 
 secured: "q/nA0SFHosOtMmklo0QYTfxiHsPt9LA02TUHGn8Prvqf7WSKb0nP61W8+271GpgPND3sT3kvnoh4/KfPmmNHtd4k3lOR61e1IYVjlTRfGy4c23chRUPpShsjo7OhJ4DdgZnA21eBr3wqlK3TWlS3agNgQSW4uCnzg2I41uZWBkykehBX21APKAydyfxpR2tOC8/KFAhaVR+gFvxgexshFsgVK7rhz6hxTSisWJximD5QUtPgYY5icUXd84R5IbK3OXQUNJyviTpWm2muQn5jCRPrz7gsUHBPvhobfeNYtD3rAelWqfCO5lXWWC9ekEcq109rLUecAmIvvGBi7gCz1e9+cIzJN453FkPiqCv/5W0=;hvOIEmvUrR6i8E5N9CRulw=="

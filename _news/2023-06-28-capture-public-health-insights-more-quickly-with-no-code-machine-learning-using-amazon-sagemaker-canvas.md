@@ -58,20 +58,6 @@ related:
         width: 1020
         height: 512
         isCached: true
-  - title: "AI is making smart manufacturing faster, greener, virtual — and more real"
-    excerpt: "Manufacturers today invest in intelligent technology as key foundations of \"smart manufacturing\" in the Fourth Industrial Revolution."
-    publishedDateTime: 2023-06-28T13:50:00Z
-    webUrl: "https://venturebeat.com/ai/ai-is-making-smart-manufacturing-faster-greener-virtual-and-more-real/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AdobeStock_596539467_Preview.jpeg?w=1200&strip=all"
-        width: 1000
-        height: 560
-        isCached: true
 
 secured: "2SwXwsNwImwRdQYpKp2Z+JgA83ootV4ztTa4Om/F2EoNY/JqO/DZm0dX2bI118z8AtXcJ02lFbdgBpnSBlt1Bu7cuOejNWGhVOqr2LkW+uNBthGy7wfwzCKEExLmSKCI8N9WYXqhLZ+B7OTfViIdR+ewE0FIjZ42WvyS5L3J4nVqTamBK6sRL8bZbc8vGycXvQiE02l8LNQKjET+1wHK7ph9hnkCuxs8G8Gw+SookvQZLSZIJnTqF9Kjr498mXdEoMd/dBHBtpmEk32TekM5v6dLfugSzRyAL4D9uOBoItvJrlT7kh6DzPI98YVapgimauH8xVRhKsUSHMXzpa+oMKfCO0hhMxlLWyUHJ8AzYzE=;YvNIA4fI14QDhzb9/q+AsQ=="
 ---

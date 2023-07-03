@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Startup Inflection AI secures $1.3 billion funding from Nvidia and others"
+    excerpt: "AI startup Inflection AI, co-founded by Mustafa Suleyman and Reid Hoffman, has raised $1.3bn in funding from investors including Microsoft and Nvidia."
+    publishedDateTime: 2023-06-30T04:59:00Z
+    webUrl: "https://www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others-11688100672381.html"
+    ampWebUrl: "https://www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others/amp-11688100672381.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others/amp-11688100672381.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/30/600x338/g158f4c8ac5315e0d7e42483549333dab208a01593f33230f2_1688101104074_1688101104211.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Inflection AI sets off fireworks with $1.3B funding, highlighting surging interest in LLMs (and Nvidia H100s)"
     excerpt: "Inflection AI announced that it has raised $1.3 billion in an eye-popping round that brings its valuation to $4 billion."
     publishedDateTime: 2023-06-29T17:09:00Z

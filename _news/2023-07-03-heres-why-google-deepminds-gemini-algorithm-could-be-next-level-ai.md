@@ -125,15 +125,6 @@ related:
         width: 300
         height: 600
         isCached: true
-  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
-    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
   - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
     excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
     publishedDateTime: 2023-07-01T15:03:00Z
@@ -176,15 +167,6 @@ related:
         width: 850
         height: 425
         isCached: true
-  - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
-    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
-    publishedDateTime: 2023-06-28T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-ai-leads-industry-gold-rush-deepmind-is-building-chatbot-to-rival-chatgpt-and-more-10874201.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 21
 
 secured: "YEj5vqyXb2YZYM9BJfVGok5RMLHNe0SKRoZpvxSEOf8MGx83n9r3NEdBRjMCZ7l4C7y+w9ZPnWzSY5Dpx2zgBeVAC6ZVkDwt2Mtmx/9qmoxeA1IcyDvK/J1yKQ3USk7YU/yoeY+yxwNCKb+FzAQ3E/VBmEgVTyJ3jAneUCmw6u04CSk9f/2KRr6Rq5H4Wu2UyzhNdxAhozDk/1hsVd3fHlxRIrEGt4LoI+U8Lz15mQZf7C6FR+o3HnokY8OSq3J6kgZe91Sz9uMETNe9WFnMnjiG5apvaNhTPtCnU5dEqPZb2YCqu4G6eqV/3bkYSWC522fdklM9nYKsFMvq5zzSJhaqkExU0W4ze3JENcZhinxLeYRkg1ncIcf+OMri3t6WpOnar6o44IxSo+drKlKLe18nxO991YducU0efK2FsTGMrIC5RRHnwfru21+uOyZ+pWrdWt+asgMBkgF+243JRZaA3DNFg7F3U/LUx4MTc6CM1sWjHdAqMLoyFaUu/bcoFwTcyTk/T2SD91qmzt9c0Q==;ABt3IlcDc07GxuY/dTTlXQ=="
 ---

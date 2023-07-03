@@ -25,50 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Wisconsin healthcare system using artificial intelligence"
-    excerpt: "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON."
-    publishedDateTime: 2023-06-28T13:27:00Z
-    webUrl: "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
-    ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
-    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
-    type: article
-    provider:
-      name: WISN 12 NEWS
-      domain: wisn.com
-    quality: 76
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Wisconsin health system, Nvidia back healthcare AI company in $54M round"
-    excerpt: "Wisconsin health system joins Big Tech in backing healthcare AI company Flywheel, which uses AI to analyze medical imaging data. Investors include Microsoft, Hewlett Packard Enterprise and the venture capital arm of Nvidia."
-    publishedDateTime: 2023-06-28T14:38:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/wisconsin-health-system-nvidia-back-healthcare-ai-company-in-54m-round.html"
+  - title: "Where Americans want and don't want AI in healthcare: 7 things to know"
+    excerpt: "Explore how Americans feel about AI leading primary care appointments in this study from Boston Children's Hospital and Harvard Medical School."
+    publishedDateTime: 2023-06-29T21:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html"
     type: article
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 53
+    quality: 54
     images:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
         isCached: true
-  - title: "13 Principles for Using AI Responsibly"
-    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
-    publishedDateTime: 2023-06-30T12:14:00Z
-    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
+  - title: "Family offices are backing AI, even as rich Americans are skeptical of the hype"
+    excerpt: "Billionaires like Google's Eric Schmidt are betting big on AI through their family offices. But these private investment shops are wary of a bubble burst."
+    publishedDateTime: 2023-06-29T13:20:00Z
+    webUrl: "https://www.businessinsider.com/family-offices-ai-rich-americans-wealthy-investing-hype-2023-6"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
 
 secured: "LQMXvtEvf3EgidVDp3pyADfF4ZrZvNqYwKyCNyB8aBLwFsrFQ65DnD86hHvh5cA5+t1rSsS1FPoPQpH/127+TQclK9WOF8nZ1WpJ2bt8s9ooKnqLrhsr1CYpuDi23l7lizO17XkedKss2AC9QzgTiLd/TMN9ddPTVqVHjdoSYPkCx23HydbxtRrbyvOKgfeTWgc16UbHKac/4BKchgLhwQ51YGJrfxE1qg9f/0/rnOHxWx0Q+6u/WHVnhP85xMk7wa1Tv9Cjjj9KrLIYDgebxklQ4GmBk9tzbprw0S0rGEeA5Kiqyx8SCtqPzmNzrOido9bq0LxLRVpBul32v/M3ZfLYMvknHFoUAZpP4Xs8JYs=;L0P1ko3sfttQ3jeGSeg7Uw=="
 ---

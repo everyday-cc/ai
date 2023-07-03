@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/report-2022-microsoft-azure-revenue
 webUrl: "https://www.crn.com/news/cloud/report-2022-microsoft-azure-revenue-less-than-estimated-half-that-of-aws"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
-    excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
-    publishedDateTime: 2023-06-28T13:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/28/9840760.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
     excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
     publishedDateTime: 2023-06-28T18:02:00Z

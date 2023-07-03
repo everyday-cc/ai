@@ -117,15 +117,6 @@ related:
         width: 300
         height: 600
         isCached: true
-  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
-    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
   - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
     excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
     publishedDateTime: 2023-07-01T15:03:00Z
@@ -177,15 +168,6 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 34
-  - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
-    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
-    publishedDateTime: 2023-06-28T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-ai-leads-industry-gold-rush-deepmind-is-building-chatbot-to-rival-chatgpt-and-more-10874201.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 21
 
 secured: "yAAzDC14hWRBka/A3Tmi/mZQTCEobZXH0EpLjTqjhQKXfJ1bvGE3zjoJUip6GvCYwBkExpP62apAk6GN5ZtrSPTakBGjVwFCt4qabwa8wMIUBk8OKnfT0UdgT7l69NpbbvCv73x1fhm7m88sU4KS2Z+bWsQ1pNg0TCXwSQ4wZhbtyMCrx6RX8A1BuHyje7aHZ7T0TQCXmafDLPtuPvyr2bFZ+SjA1nrHimCOiFXxzebat8h4ijtfOtGi1oV1HYDPgThdWHc/bGz+ljvJHvkh5jLkaC0IdlgHmVN953ACCK9PDmJmIOS+douCHxaQGYKyFcoP6UUgRyukV6RXBo87Y0KH2cwa90YvIjRoJNOD6qhIYoqKI+hHk5HDuOUESEjaOF3fIwYkJWfhtkyf6lTbVvYSXM0ooEe1mqUeWvnCk95p34gw5uQbbbaeKR1J22ukrTWhq3Dwt48a9C2OEaySPipd69/cXgVEQUU0su6okH56uWzD6fB0sMlje2yjsw0wL04EVIu7dCOuLaduGJsTtQ==;AYhyTWuke2VNEx4CegcFhw=="
 ---

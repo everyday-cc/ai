@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
-    excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
-    publishedDateTime: 2023-06-28T13:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/28/9840760.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "h7pkC9KRtJqeEYe6uW+7yakYOU+JImaXtNUxOnqLItV9j0YMkxCJiAX48pmjzNG5tGkLAsr3rfwkHKVdw1l+Z63HLQOPwmnVsvv/OM2j14uye9JboWiCKldJdFDVhO+nXF6uNTFDSdpGtrFREUkUhOswKoMYX2CrGpOLe7s+zHGtE+cutrgRMeaL+UgnAqaMTO0bz7Hpgib/VKhCf8vizdWUULrJJTOHB1Ag1QpGwm9NvrfHj+ZGfEPigCN+UDyZfr2ux87eoNYMsdJ1WlXA6iHKknTbUlB22qRB2a3Nd8L48Pmc2Gv+M3xE+sELJvqlGyFusjvcHJd9t+F/sFHya3TszC5BE+Gq5oS2lb+qfyU=;woCmT7uE8D1Lf0pZhx9IzA=="
 ---

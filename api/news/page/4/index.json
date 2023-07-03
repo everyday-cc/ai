@@ -2,6 +2,197 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-29-thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-innovation.md",
+      "title": "Thundercomm Demonstrated GenAI Integrated Robotics Solution to Accelerate a New Wave of Robotics Innovation",
+      "excerpt": "Thundercomm, a world leading IoT product and solution provider, announced the successful integration of its privately deployed Rubik large language model(LLM) with Qualcomm RB5 AMR Reference Design. T",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33053388",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33053388",
+      "publishedDateTime": "2023-06-28T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-one-mans-quest-to-ban-teslas-full-self-driving-and-take-on-elon-musk.md",
+      "title": "One Man’s Quest to Ban Tesla’s Full Self Driving and Take on Elon Musk",
+      "excerpt": "The Dawn Project’s Dan O’Dowd paid for a Super Bowl ad and conducts regular tests to show that Tesla’s FSD technology is dangerous and should be outlawed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
+      "originalUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motortrend.com/uploads/2023/06/002-tsla-fsd-test-dan-odowd-testing-with-ross-gerbe.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
+      "publishedDateTime": "2023-06-28T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-generative-ai-in-the-office-to-ban-or-not-ban.md",
+      "title": "Generative AI In The Office: To Ban Or Not Ban?",
+      "excerpt": "Major corporations have banned the use of generative AI in the workplace. But could bans on generative AI lead to a competitive disadvantage for companies?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649cec947ab4ce16bc324234/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/amp/",
+      "publishedDateTime": "2023-06-28T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-tesla-facebook-openai-account-for-245-of-ai-incidents-security-company-says.md",
+      "title": "Tesla, Facebook, OpenAI Account For 24.5% Of ‘AI Incidents,’ Security Company Says",
+      "excerpt": "The first \"AI Incident\" in Surfshark’s record almost caused global nuclear war. The newest ones: political deepfakes and self-driving cars endangering drivers and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c805f4fc9cb4a620b96c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
+      "publishedDateTime": "2023-06-28T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market.md",
       "title": "Gather AI acquires assets of Ware Robotics to consolidate drone based inventory market",
       "excerpt": "Gather AI acquires Ware's drone-based warehouse inventory management business, doubling staff and enhancing growth opportunities.",
@@ -150,6 +341,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-oracle-taps-generative-ai-to-streamline-hr-workflows.md",
+      "title": "Oracle taps generative AI to streamline HR workflows",
+      "excerpt": "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/oracle-taps-generative-ai-to-streamline-hr-workflows/",
+      "originalUrl": "https://venturebeat.com/ai/oracle-taps-generative-ai-to-streamline-hr-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Larry-Tuesday-Keynote4-e1687980611451.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
       "title": "Age of AI: Everything you need to know about artificial intelligence",
       "excerpt": "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI.",
@@ -253,7 +495,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -297,6 +539,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china.md",
+      "title": "US Mulls Even Tighter Restrictions to Stop AI Chips From Reaching China",
+      "excerpt": "The US is considering even harsher export restrictions to prevent China from obtaining cutting-edge chips used to power AI programs. The US Commerce Department could implement the new export controls as soon as next month,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china",
+      "originalUrl": "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03eZtvy53D4cKCBx4QCDzan-1.fit_lim.size_1200x630.v1687964313.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-aws-invests-100-million-in-generative-ai-innovation-center.md",
       "title": "AWS invests $100 million in Generative AI Innovation Center",
       "excerpt": "The head of the Generative AI Innovation Center reveals what customers can expect and explains which industries AWS is focused on first.",
@@ -305,7 +599,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -943,299 +1237,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-staying-authentic-while-using-ai-in-your-marketing-strategy.md",
-      "title": "Staying Authentic While Using AI In Your Marketing Strategy",
-      "excerpt": "Before diving into all that AI has to offer, consider the importance of staying authentic and maintaining a distinguished brand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f060d881e3f8e00067832c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/",
-      "publishedDateTime": "2023-06-28T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-the-vatican-releases-its-own-ai-ethics-handbook.md",
-      "title": "The Vatican Releases Its Own AI Ethics Handbook",
-      "excerpt": "The Vatican is getting in on the AI craze. The Holy See has released a handbook on the ethics of artificial intelligence as defined by the Pope. The guidelines are the result of a partnership between Francis and Santa Clara University’s Markkula Centre for Applied Ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/",
-      "originalUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/06/28/e3364c892e40304167feed0f80c8de71.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/amp/",
-      "publishedDateTime": "2023-06-28T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-nvidia-leads-premarket-slump-in-chipmaker-sharesas-white-house-reportedly-mulls-fresh-curbs-on-ai-chips.md",
-      "title": "Nvidia Leads Premarket Slump In Chipmaker Shares—As White House Reportedly Mulls Fresh Curbs On AI Chips",
-      "excerpt": "The Biden administration is planning to expand its curbs on the export of AI chips to China and other nations, the Wall Street Journal reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
-      "originalUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c0fafd13ced24caec5d4f/0x0.jpg?format=jpg&crop=3000,1688,x0,y178,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
-      "publishedDateTime": "2023-06-28T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-how-to-prepare-for-the-financial-and-environmental-costs-of-ai.md",
-      "title": "How To Prepare For The Financial And Environmental Costs Of AI",
-      "excerpt": "Companies and financial institutions should be thinking about how to build a technology infrastructure capable of supporting increasingly powerful AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649adede9c80aa9106126502/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/",
-      "publishedDateTime": "2023-06-28T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ai-makers-must-create-new-laws-of-robotics-california-focus.md",
-      "title": "A.I. makers must create new laws of robotics | California Focus",
-      "excerpt": "Not long ago, the artificial intelligence (A.I.) bot ChatGPT as a “courtesy ... set of major laws governing intelligent robots. In his 1942 short story “Runaround,” Asimov first put forward these three laws, which would become staples in his ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/",
-      "originalUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicoer.com/wp-content/uploads/2018/05/chico-site-icon-1.png",
-          "width": 450,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/",
-      "cdnAmpWebUrl": "https://www-chicoer-com.cdn.ampproject.org/c/s/www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/",
-      "publishedDateTime": "2023-06-28T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chico Enterprise-Record",
-        "domain": "chicoer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-barred-from-grocery-stores-by-facial-recognition.md",
-      "title": "Barred From Grocery Stores by Facial Recognition",
-      "excerpt": "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
-      "originalUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/06/22/multimedia/00facewatch-top-fqlv/00facewatch-top-fqlv-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

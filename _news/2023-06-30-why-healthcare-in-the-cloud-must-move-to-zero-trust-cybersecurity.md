@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-
 webUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://regmedia.co.uk/2021/04/09/medical_wifi_shutterstock.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Cyber security’s biggest challenge isn’t AI – it’s the awareness gap"
+    excerpt: "In November 2022, ChatGPT – the artificial intelligence chatbot that can create human-like text based on a prompt – was launched by OpenAI. Already, scam and phishing attempts that were once revealed by bad grammar and clunky sentences are now being replaced by more convincing versions thanks to the sophisticated phrasing and intelligent technology behind this new chatbot."
+    publishedDateTime: 2023-07-03T07:00:00Z
+    webUrl: "https://www.ft.com/partnercontent/cisco/cyber-securitys-biggest-challenge-isnt-ai-its-the-awareness-gap.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/partnercontent/images/cisco/1/hero.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "l465DhIrHsquoHPEZqpaQ4Ot10zqtJ75o5CSU2f+b7bV+D2FIun6fyahWysauTgPhT/kkNuP4YJIoGpmkzy11miGU9rhAgJURqkQmxabr3fXPl+GfZ3b9p7XsFahxm8U2MswlzNhJkhFOFNFwlH6ftElF2TBL+Ypm+7f8NUOnPw/9efv0Y2yqgSireGIMEZ5Vs+gBMJaM05ZXP2fu7IFc/+A/L83ohove5/Ae09Mgr6WgeOqDhbP87sVxsPbYijgKgWWhLY7BzlFE2LEVcjSJQRb3FuX8zI8wqcVKtJPq0I5uXoX33e41eQKDygoIIQSKn0N4KDp2z+YC5rKz9kkEEd+3dWKzBTqJV7tEUVEEmv29kW57DP9uL0oseRrx28KoPuQAfPlQ/brZ9itjOdFzQBRmyc3XF8ZcOtUK/mHo6C15hy8LFWVA68CBiJtCAKD0x+X8dPuu5aUc6o6wvibTTqCoVBg1ZuxuRTkQagYKwrRQh4Fmot8K+umrQ4JB8QukdGsac2kGMi3JWLp4XxoVA==;2a4FF0Z8sMCJNqrY8UD7OA=="

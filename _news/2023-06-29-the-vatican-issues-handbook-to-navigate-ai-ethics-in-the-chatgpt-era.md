@@ -117,15 +117,6 @@ related:
         width: 300
         height: 600
         isCached: true
-  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
-    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
   - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
     excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
     publishedDateTime: 2023-07-01T15:03:00Z
@@ -177,15 +168,6 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 34
-  - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
-    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
-    publishedDateTime: 2023-06-28T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-ai-leads-industry-gold-rush-deepmind-is-building-chatbot-to-rival-chatgpt-and-more-10874201.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 21
 
 secured: "tpSqo2aFAi/XrfUbr5e4Z/gQtuOe5yX2QnpoWG5DX/LGrF4kSBJqg50GHOwxs6oChbeMOEzH4wtbqzPcH9k0G3dOAuNEZ+hQdFoYQFMxz2EH/qLdK1lipB4xB5yve5oR7TG+ynqgi2vMCz9CLzv5lyp5kMx7I9AGwlL79cMf4iB+99dUaVR7u6BbZe6E8Zh1XYD699wI3xiN1GNggQKbC9wK/3nDVn8Ggp2nVkH1VA2awhGqTlXjN2eQ3XG/H4Pyrip2X8Mqpst06AumFMO7Kks68gyWfVQba5u1em779Lh24l1NLpZwIUmCffgbllvlHVA6MP2A3+julZYNlpeJP2Pct5emzmaU7ExlNtI4yiY=;yVPIdEVsUiB9CLx0ImzGbQ=="
 ---

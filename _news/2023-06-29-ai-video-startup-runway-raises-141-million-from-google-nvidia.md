@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence Startup Cohere.io Joins Ramp to Bring Generative AI to Finance"
+    excerpt: "At Ramp they’re dedicated \"to pushing the frontiers of AI to help businesses save time and money, with innovations like Ramp Intelligence.\"\""
+    publishedDateTime: 2023-06-28T21:53:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/209387-artificial-intelligence-startup-cohere-io-joins-ramp-to-bring-generative-ai-to-finance/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 61
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
+        width: 1080
+        height: 810
+        isCached: true
   - title: "Robotics startup raises millions for AI, remote control applications"
     excerpt: "Contoro Robotics, which spun out of medical robotics startup Harmonic Bionics, has raised $6 million in venture backing. The company, led by founder and CEO Youngmok (Mok) Yun, was created last year when Harmonic Bionics,"
     publishedDateTime: 2023-06-29T01:22:00Z
@@ -76,6 +90,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Inflection, Runway and Stability receive funding as capital pours into generative AI startups"
+    excerpt: "Today several generative AI startups received funding, including the chatbot startup Inflection AI Inc., the AI-powered video generator startup Runway AI Inc. and text-to-image generator Stability AI Ltd. Inflection AI, an AI startup building chatbot that ..."
+    publishedDateTime: 2023-06-29T17:20:00Z
+    webUrl: "https://siliconangle.com/2023/06/29/inflection-runway-stability-receive-funding-capital-pours-generative-ai-startups/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "9XZyvZ41rL3yyVrvPjS/7eaceCSGnp30MLHjo3nZaNwIUTk0/W0QreSpBuDze05UP3bIEJlBFFhTAiYU93xXE3MzdlIpqaFfBg5Ggz5inqnnRFFoeMxKpms5qsL4edpt7HLKE0AIUiiJFQRopcJeXu5GZuespuv747wfrTe1/0jn7c7iZPKbC5NB1ahNX5NSFLoRMk85pdNkC+ONdtaYCyP+cFQSQYfyIGPI4+aYPyrqTnTSaFtclilHm/LHUCvKtKYN3F7L0B8jx/m+qokBEZho0ehohFklrNucEYTB++yH35n44tbAXO/cSvbuaQvznSUXgscQhu9Urzm9wQguDn1/dRUvj9WT+EU406kFVWc=;grt8qtqG8NNpzvjMdrHjtg=="
 ---

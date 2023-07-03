@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-16-top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies.md",
+      "title": "Top10 Artificial Intelligence (AI) And Machine Learning (ML) Development Companies",
+      "excerpt": "In this article, we'll look at the key criteria for evaluating AI and ML development organizations. We will discuss the factors that must be considered, such as knowledge, experience, innovation, and others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399",
+      "originalUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1686926655.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399/amp",
+      "publishedDateTime": "2023-06-16T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-the-ceo-of-pharma-giant-eli-lilly-shares-3-ways-ai-could-transform-his-industry.md",
       "title": "The CEO of pharma giant Eli Lilly shares 3 ways AI could transform his industry",
       "excerpt": "An curved arrow pointing right. The pharma-and-biotech industry has already begun to use artificial intelligence to improve how it operates, develops drugs, and ultimately makes things easier for ...",
@@ -1292,58 +1336,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-5-strategies-for-implementing-ai-technology-in-healthcare.md",
-      "title": "5 Strategies For Implementing AI Technology In Healthcare",
-      "excerpt": "Here are five ways in which leaders healthcare leaders should seek out opportunities to implement AI solutions in their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647e0a794fed9a2fd7d81907/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/",
-      "publishedDateTime": "2023-06-06T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

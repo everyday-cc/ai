@@ -130,15 +130,6 @@ related:
         width: 300
         height: 600
         isCached: true
-  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
-    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
   - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
     excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
     publishedDateTime: 2023-06-30T21:02:00Z
@@ -176,15 +167,6 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 34
-  - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
-    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
-    publishedDateTime: 2023-06-28T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-ai-leads-industry-gold-rush-deepmind-is-building-chatbot-to-rival-chatgpt-and-more-10874201.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 21
 
 secured: "sXKTEJdw27XnRSGhMtnv3808qH0ek3U+ecCm5nt0zAY5ZnExOwSsKL8b1WX8QV4K1uxiPjC3YtXxA2HpM66fzByIxfyaYPRJ9tG8Gkjp+QsBeVAr0AvespwZ7S+lrFsSuBxbAYgUwje2t8AoKXKPNXu5CM/mm5hLKoqvlTjdiH2e2b5IA+RnhgunBuABEGKEqq4VSelfVFt4SKfXhxRIp/XNmIbFv+zFkzFGYdkR2+bbpkA6oIJ8u86noglU1wXbPqWKViHCqKSup6SfyyZrVhqmS3/OkDdHmDlArOgdnuL1BTi3B+zIOgR3SkNl/ndMnau7Qf4VYt5g8XsVPjw7THpyrW/QG8DFJsEA5nux38lkbExDhUequJDmFDwP6DHQ/ZN58s/yctmdzxvEpmH4n+Q4XiZOHFeGdQPBKrrylP5OuuFI7FvKLTREQjThQHiMWx+CglFm+QDDGfuqyccyPQUSpPIp5VEW6ceFecA03qNhpyo++l5d1en3ogLn/GKXSIZKSHdK0npfojWYLAkHuQ==;HjVN/MQWlSXbQ3ErMZ9ccQ=="
 ---

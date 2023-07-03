@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-30-windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview.md",
+      "title": "Windows 11’s Copilot brings AI chat to desktops in first public preview",
+      "excerpt": "This week's Windows Insider Preview build for Dev channel users, build 23493, will be the first to enable Copilot for public testers. After installing the update, preview users can press Windows + C to open a Copilot column on the right side of the screen.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/windows-copilot-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/",
+      "publishedDateTime": "2023-06-29T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize.md",
+      "title": "Recommend and dynamically filter items based on user context in Amazon Personalize",
+      "excerpt": "Organizations are continuously investing time and effort in developing intelligent recommendation solutions to serve customized and relevant content to their users. The goals can be many: transform the user experience, generate meaningful interaction, and drive content consumption. Some of these solutions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/29/recommend-dynamic-filter-personalize.jpg",
+          "width": 1020,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T09:41:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-amazons-rapid-fire-ai-testing-ground.md",
       "title": "Amazon's rapid-fire AI testing ground",
       "excerpt": "Amazon wants to help AI models learn even quicker.  The company is seeking to patent a method for \"fast annotation of samples\"",
@@ -115,7 +218,7 @@
       "originalUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -210,7 +313,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -305,7 +408,7 @@
       "originalUrl": "https://arstechnica.com/gaming/2023/06/steam-mods-reportedly-blocking-games-that-use-ai-generated-artwork/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -356,7 +459,7 @@
       "originalUrl": "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -565,6 +668,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight.md",
+      "title": "New AI Chip Export Rules Put Semiconductor Firms in Spotlight",
+      "excerpt": "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
+      "originalUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -809,6 +946,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-how-generative-ai-is-transforming-supply-chain-and-procurement-roles.md",
+      "title": "How Generative AI Is Transforming Supply Chain And Procurement Roles",
+      "excerpt": "While there are massive areas of potential, there are equally significant risks posed to privacy, algorithmic bias and even business continuity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6361241cedcf875a2cde53f3/0x0.jpg?format=jpg&crop=972,547,x0,y134,safe&width=1200",
+          "width": 972,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/",
+      "publishedDateTime": "2023-06-29T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-how-ai-influences-what-you-see-on-facebook-and-instagram.md",
       "title": "How AI Influences What You See on Facebook and Instagram",
       "excerpt": "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content.",
@@ -817,7 +1005,7 @@
       "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -994,197 +1182,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-innovation.md",
-      "title": "Thundercomm Demonstrated GenAI Integrated Robotics Solution to Accelerate a New Wave of Robotics Innovation",
-      "excerpt": "Thundercomm, a world leading IoT product and solution provider, announced the successful integration of its privately deployed Rubik large language model(LLM) with Qualcomm RB5 AMR Reference Design. T",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33053388",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33053388",
-      "publishedDateTime": "2023-06-28T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-one-mans-quest-to-ban-teslas-full-self-driving-and-take-on-elon-musk.md",
-      "title": "One Man’s Quest to Ban Tesla’s Full Self Driving and Take on Elon Musk",
-      "excerpt": "The Dawn Project’s Dan O’Dowd paid for a Super Bowl ad and conducts regular tests to show that Tesla’s FSD technology is dangerous and should be outlawed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
-      "originalUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/2023/06/002-tsla-fsd-test-dan-odowd-testing-with-ross-gerbe.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
-      "publishedDateTime": "2023-06-28T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-generative-ai-in-the-office-to-ban-or-not-ban.md",
-      "title": "Generative AI In The Office: To Ban Or Not Ban?",
-      "excerpt": "Major corporations have banned the use of generative AI in the workplace. But could bans on generative AI lead to a competitive disadvantage for companies?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649cec947ab4ce16bc324234/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/amp/",
-      "publishedDateTime": "2023-06-28T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-tesla-facebook-openai-account-for-245-of-ai-incidents-security-company-says.md",
-      "title": "Tesla, Facebook, OpenAI Account For 24.5% Of ‘AI Incidents,’ Security Company Says",
-      "excerpt": "The first \"AI Incident\" in Surfshark’s record almost caused global nuclear war. The newest ones: political deepfakes and self-driving cars endangering drivers and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c805f4fc9cb4a620b96c9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
-      "publishedDateTime": "2023-06-28T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Security"
       ]
     }
   ],

@@ -133,24 +133,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "Databricks Introduces New Generative AI Tools, Investing in Lakehouse AI"
-    excerpt: "Databricks' data-centric approach to AI makes it easier to build, deploy and manage large language model (LLM) applications, enabling customers to accelerate their generative AI journey SAN"
-    publishedDateTime: 2023-06-28T13:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59448313-databricks-introduces-new-generative-ai-tools-investing-in-lakehouse-ai-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 18
-  - title: "Databricks rolls out AI assistant to help analyze business data"
-    excerpt: "Databricks, a San Francisco-based startup most recently valued at $38 billion ... without using computer code. Behind the scenes, an AI system will interpret the question, fetch the needed data, read it and produce an answer. Ali Ghodsi, chief executive ..."
-    publishedDateTime: 2023-06-28T13:33:00Z
-    webUrl: "https://www.aol.com/news/databricks-rolls-ai-assistant-help-130517472.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
 
 secured: "/P+04P+y42N9dLUHj1RjxBkgAMbTNRUagak9ZmeoAngnReR/gVUSgvGJ73dTV9QFM+1mF/lXdgfmSsD714WQJg9yps6DKGCAqRz8VM5ZAzI3i6v6ozjtzkag19hG7q+DOMG7/Kyglga+e6eq85rJqqrNxaFgYQqaPH9ydxqDygTdTUSatu5Iv/FgQcmqS1ZQ4n794ZB+DX+wqmH1odLi10IfjdkGl1cJnQbqyStvZW0j3sqLIkUwOqiw66ryVcGMVPuVAeMv3HRXcOhgz1jCJ4mJKSD59lrpg9GNc5cvUYB8q/YIujR/wwFme/fQmLM73S78RdTKO8hybIOUNXabL0qDrGyhF+X/HIgg3JumKq4ia9KwWdQvAy2ih/7gyJcxW/TZzfQ0vgkGm3h0B6+gTuyhKJLfO/dhVuzhlc9UPdwehEr+C5reCGz+14kbbfPxis7CqwXHxA12zkDPzT/vTNzhw1htufWPTPRVbShrv+SUyQeOQ+3jK0BAHMdb3euT/plRcTdlqOsXC2S0ch78eQ==;IPjt5TNZUyXzdHQEvNxQLw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -137,24 +137,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "Databricks Introduces New Generative AI Tools, Investing in Lakehouse AI"
-    excerpt: "Databricks' data-centric approach to AI makes it easier to build, deploy and manage large language model (LLM) applications, enabling customers to accelerate their generative AI journey SAN"
-    publishedDateTime: 2023-06-28T13:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59448313-databricks-introduces-new-generative-ai-tools-investing-in-lakehouse-ai-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 18
-  - title: "Databricks rolls out AI assistant to help analyze business data"
-    excerpt: "Databricks, a San Francisco-based startup most recently valued at $38 billion ... without using computer code. Behind the scenes, an AI system will interpret the question, fetch the needed data, read it and produce an answer. Ali Ghodsi, chief executive ..."
-    publishedDateTime: 2023-06-28T13:33:00Z
-    webUrl: "https://www.aol.com/news/databricks-rolls-ai-assistant-help-130517472.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
 
 secured: "vBGaFb357A+HlWC8/itbWlaMx39SOy9HG2M0cH2ejKeEX9Zi38RJYJvWAC9+8CVMGyxmQXMVp7EhZUw9tq6lFvX2gsPIOFwLClAkpphV4TfNnoDpHtw2W4O3KjsGx49sGiC95ZDu89PmSRu0v48SmrNnUVG7OK1ACVWvIbqPs5j9Zuv9q4f/8KnTa71N8LTwfk1n5DrDkGVdmIHNpKwfd5j5a/r69nHvFmcqNUq4L8hvRROjaX7aWQgfOCSRJbrcZNIQ9jXPuDp662C6uVEogVpAIDrt6TV6AUpUV9K7LpR0uY+2InaMX07+0hRbbpVVbdRIAznuRyhS4ofvzZFA4Qc0/ZtDWQYddqDaWCJad6Stm3ulE0UMGSP+rDHxLawV9FC9HKz+pVboYASsJUvLeb3CLwQsXuN2CqoBrKHfcMt8hvRDunwQiczoVI/GKZKqvd00UyIWgGshitSgodgEXay0cOcxOkvEIuJr/FOjJnGUlbmxCax69ZCmklOfvznGsbxLTTq+cUY75CJ6qpz9lw==;lZcinzIGWwwq2NcchlYrPg=="
 ---

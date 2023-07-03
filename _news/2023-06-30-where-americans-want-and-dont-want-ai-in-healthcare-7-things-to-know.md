@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/where-americans-w
 webUrl: "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Where healthcare ranks in AI jobs"
+    excerpt: "Explore the rankings of economic sectors in hiring AI workers, with technology leading the list at 4.6%. Healthcare services lag behind at 0.4%."
+    publishedDateTime: 2023-06-29T21:55:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/where-healthcare-ranks-in-ai-jobs.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Family offices are backing AI, even as rich Americans are skeptical of the hype"
     excerpt: "Billionaires like Google's Eric Schmidt are betting big on AI through their family offices. But these private investment shops are wary of a bubble burst."
     publishedDateTime: 2023-06-29T13:20:00Z

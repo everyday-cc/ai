@@ -9,7 +9,7 @@ ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chat
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
 type: article
 quality: 74
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -117,15 +117,6 @@ related:
         width: 300
         height: 600
         isCached: true
-  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
-    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
   - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
     excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
     publishedDateTime: 2023-07-01T15:03:00Z
@@ -177,15 +168,6 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 34
-  - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
-    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
-    publishedDateTime: 2023-06-28T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-ai-leads-industry-gold-rush-deepmind-is-building-chatbot-to-rival-chatgpt-and-more-10874201.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 21
 
 secured: "12JPeqZwvRwXOVXQN1qIsWntIOp9vRYdTFvJJvk5kJIOTStOSHtSwPOEkUVexoVjMg+CAhV5DI/jnIhSbRIYbA1pfUI7R5huYM9U8y2TrsT4XY/CXSk9j1Dy9RazOH5YTgVWVomuxiEv5nyWfWrFs4NoSKXIzExGNvDmCnC7NgyTAd63FJlEuQSqKRuEeZYa9Os1HW/fmIjAJGs5oDG3nMLp5gwpiRrfCzH8K7DV1HTakzc639+UNbkg2l5ex4bGOQwGQOKZOBs8M09Pcv+JfZgrC6/8fKNIvrTKt68Dnp8Lfq2Pw0OV+a43yfTIHe9cYDqJ1SVxWx+jKqiVGrWijZTMINNbv0PWfIoi1vP3TSsiwuLDYStA14Kv2RFUsRKR/B0xVpOzQzx0SOrIdubY+Z3MvbNc7B82sboZOzS77DnpzDAS3apybcnuxi9sREFytlGTtJFd1m+tWpPd6j/FD6br7OnhnMbWIANjm3RFEXJ7ZezdBrO1R765TB3WxVJvD7SWSAolI0F38C6i212BWw==;hSp/oIuagn7uoTdat2Haxg=="
 ---

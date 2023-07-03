@@ -51,20 +51,6 @@ related:
         width: 1024
         height: 785
         isCached: true
-  - title: "AWS, NVIDIA launch global FinTech accelerator for seed-stage startups"
-    excerpt: "Amazon Web Services (AWS) in partnership with NVIDIA, a major supplier of artificial intelligence hardware and software, has set up a new global FinTech accelerator for seed-stage startups. The AWS Global Fintech Accelerator is dedicated to helping jump-start early-stage FinTech startups that are leveraging artificial intelligence (AI) and machine learning (ML) to innovate financial services."
-    publishedDateTime: 2023-06-28T14:19:00Z
-    webUrl: "https://betakit.com/aws-nvidia-launch-global-fintech-accelerator-for-seed-stage-startups/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 41
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2017/04/17796446_1260944837276212_8463288638094856859_n.jpg"
-        width: 960
-        height: 720
-        isCached: true
   - title: "Wells Fargo helps FinTech create $70m fund to widen SME credit access"
     excerpt: "Wells Fargo has partnered with Hello Alice and the Global Entrepreneurship Network (GEN) to create a $70 million fund designed to improve access to credit for small business owners."
     publishedDateTime: 2023-06-29T10:42:00Z
@@ -93,15 +79,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
-    excerpt: "Renowned Fintech Innovators Barry Kirby and Lauren Crossett Join Point Predictive Advisory Board, Contributing to Next-Level Innovation and"
-    publishedDateTime: 2023-06-28T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/point-predictive-releases-groundbreaking-first-and-third-party-fraud-solution-api-for-fintech-1032415116"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
   - title: "Applications open for AWS’s first Global Fintech Accelerator"
     excerpt: "Applications are open for the first Global Fintech Accelerator of Amazon Web Services (AWS), giving fintech founders the support and mentorship they need to bring smarter financial services solutions to the market."
     publishedDateTime: 2023-06-29T17:00:00Z

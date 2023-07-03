@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "13 Principles for Using AI Responsibly"
+    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
+    publishedDateTime: 2023-06-30T12:14:00Z
+    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
     excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
     publishedDateTime: 2023-07-02T10:00:00Z

@@ -149,21 +149,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-30-larry-ellison-says-oracle-plans-to-spend-billions-on-nvidia-gpus-even-more-on-ampere-and-amd-chips.md",
-      "title": "Larry Ellison says Oracle plans to spend billions on Nvidia GPUs, even more on Ampere and AMD chips",
-      "excerpt": "Oracle will spend billions of dollars to purchase Nvidia GPUs this year alone, driven by the rising demand for generative AI-based products, which require considerable hardware",
+      "path": "_news/2023-06-30-amds-ai-chips-could-match-nvidias-offerings-software-firm-says.md",
+      "title": "AMD's AI chips could match Nvidia's offerings, software firm says",
+      "excerpt": "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp , with a future path to matching their performance, according a Friday report by an AI software firm.",
       "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99260-oracle-plans-spend-billions-nvidia-gpus.html",
-      "originalUrl": "https://www.techspot.com/news/99260-oracle-plans-spend-billions-nvidia-gpus.html",
+      "webUrl": "https://www.reuters.com/technology/amds-ai-chips-could-match-nvidias-offerings-software-firm-says-2023-06-30/",
+      "originalUrl": "https://www.reuters.com/technology/amds-ai-chips-could-match-nvidias-offerings-software-firm-says-2023-06-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-30-image-9.jpg",
-          "width": 2000,
-          "height": 1334,
+          "url": "https://www.reuters.com/resizer/mxKC5pRq-i0-ySt7PlHNvp0ZiLc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LTPJK24H2FPUXLGC3ATXP7PD6I.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -173,14 +173,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T08:31:00-07:00",
+      "publishedDateTime": "2023-06-30T09:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -252,7 +252,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -293,6 +293,92 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight.md",
+      "title": "New AI Chip Export Rules Put Semiconductor Firms in Spotlight",
+      "excerpt": "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
+      "originalUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china.md",
+      "title": "US Mulls Even Tighter Restrictions to Stop AI Chips From Reaching China",
+      "excerpt": "The US is considering even harsher export restrictions to prevent China from obtaining cutting-edge chips used to power AI programs. The US Commerce Department could implement the new export controls as soon as next month,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china",
+      "originalUrl": "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03eZtvy53D4cKCBx4QCDzan-1.fit_lim.size_1200x630.v1687964313.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1387,101 +1473,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-2-best-chip-stocks-to-play-the-ai-boom-says-analyst.md",
-      "title": "2 Best Chip Stocks to Play the AI Boom, Says Analyst",
-      "excerpt": "Bernstein analyst Stacy Rasgon says Nvidia and Broadcom are the ideal chip stocks to benefit from the rising demand for artificial-intelligence semiconductors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-803090/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f",
-      "publishedDateTime": "2023-06-20T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-why-nvidias-brand-new-gpu-performs-worse-than-integrated-graphics.md",
-      "title": "Why Nvidia’s brand new GPU performs worse than integrated graphics",
-      "excerpt": "In essence, this is a computing GPU, and not a graphics card in the same way that most of us know them. It was made for all kinds of HPC tasks, with a strong focus on AI workloads. Nvidia ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/why-nvidias-gpu-performs-worse-than-integrated-graphics/",
-      "originalUrl": "https://www.digitaltrends.com/computing/why-nvidias-gpu-performs-worse-than-integrated-graphics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/nvidia-4-h100.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/why-nvidias-gpu-performs-worse-than-integrated-graphics/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-nvidias-gpu-performs-worse-than-integrated-graphics/?amp",
-      "publishedDateTime": "2023-06-20T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

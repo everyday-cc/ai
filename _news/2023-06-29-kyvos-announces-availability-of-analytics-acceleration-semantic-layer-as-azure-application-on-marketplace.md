@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/kyvos-announces-av
 webUrl: "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces Availability of AWS AppFabric to Improve Leading SaaS Applications for enhanced Productivity and Security"
-    excerpt: "AWS, today announced AWS AppFabric, a no-code service that enhances companies’ existing investment in software as a service (SaaS) applications"
-    publishedDateTime: 2023-06-28T13:20:00Z
-    webUrl: "https://itsecuritywire.com/news/aws-announces-availability-of-aws-appfabric-to-improve-leading-saas-applications-for-enhanced-productivity-and-security/"
-    type: article
-    provider:
-      name: itsecuritywire
-      domain: itsecuritywire.com
-    quality: 27
   - title: "Kyvos Announces Availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace"
     excerpt: "Kyvos, a modern, cloud-native analytics acceleration platform, has announced the availability of its azure application"
     publishedDateTime: 2023-06-29T19:23:00Z

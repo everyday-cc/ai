@@ -26,22 +26,6 @@ images:
     height: 578
     isCached: true
 
-related:
-  - title: "The Bud Light boycott shows brands are at a crossroads: Use their voice, or shut up?"
-    excerpt: "Large companies have played the role of activists and been one of the biggest countervailing forces against social and religious conservatives on LGBTQ measures. All that is at stake now."
-    publishedDateTime: 2023-06-28T14:00:00Z
-    webUrl: "https://www.iowapublicradio.org/news-from-npr/2023-06-28/the-bud-light-boycott-shows-brands-are-at-a-crossroads-use-their-voice-or-shut-up"
-    type: article
-    provider:
-      name: Iowa Public Radio
-      domain: iowapublicradio.org
-    quality: 17
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/40c6ee0/2147483647/strip/true/crop/3757x1972+0+423/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F06%2F26%2Fgettyimages-1005698448-1--2aba983bea82eb2699d084e71a2c87b9b7df2553.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "nEL9JniQuYUr6MD9FRmAj7aprTI9wVEDJX6FG0c5QEH5SQQ/fXYMZI0A4lrlYn7qD6pQeswvoPFtWBvNjn3P7FGtwVe0hWk2q4SLo8D0huwPvv+sggFAO+THw3+uxXQ829zqnqPKwnjvCXS7nnqgE9DrlB999RnUajaBRgGux5V4YtdYHzFow1Bnzalj2Z1XZeMT9Fz3ZOjO1s9C1AwtsMiQsu7lRYHNNpvdj8Tq6eQoxG0cuFJCeAsPWq/Rx6sDv3+sERvO6KmAOE9fSZ9/CLSe5WnK0vvMS53oBezyqgdgZ6BilBxD9++KI28tFFFpI/6E2N16rWWneItL4+nXHgcc8W8m0jd/ur1kqvRZtwQ=;00bCrR2n8yqE2FVG1NIIyA=="
 ---
 

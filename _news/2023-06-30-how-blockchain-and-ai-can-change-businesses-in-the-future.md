@@ -30,7 +30,7 @@ related:
     provider:
       name: University of Arkansas
       domain: uark.edu
-    quality: 37
+    quality: 39
     images:
       - url: "https://campusdata.uark.edu/resources/images/articles/2023-06-23_10-15-51-AMCengizKoparan.jpg"
         width: 900

@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-03T05:16:00Z
 originalUrl: "https://news.uark.edu/articles/64596/artificial-intelligence-in-agriculture-isn-t-the-future-it-s-now"
 webUrl: "https://news.uark.edu/articles/64596/artificial-intelligence-in-agriculture-isn-t-the-future-it-s-now"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://campusdata.uark.edu/resources/images/articles/2023-06-23_10-15-51-AMCengizKoparan.jpg"

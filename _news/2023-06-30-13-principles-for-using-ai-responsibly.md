@@ -25,50 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Wisconsin healthcare system using artificial intelligence"
-    excerpt: "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON."
-    publishedDateTime: 2023-06-28T13:27:00Z
-    webUrl: "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
-    ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
-    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
+  - title: "The Revolution of AI in Music Production"
+    excerpt: "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups."
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://techround.co.uk/news/revolution-ai-music-production/"
+    ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
     type: article
     provider:
-      name: WISN 12 NEWS
-      domain: wisn.com
-    quality: 76
+      name: TechRound
+      domain: techround.co.uk
+    quality: 59
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
+      - url: "https://techround.co.uk/wp-content/uploads/2023/06/marcela-laskoski-YrtFlrLo2DQ-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Where healthcare ranks in AI jobs"
-    excerpt: "Explore the rankings of economic sectors in hiring AI workers, with technology leading the list at 4.6%. Healthcare services lag behind at 0.4%."
-    publishedDateTime: 2023-06-29T21:55:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/where-healthcare-ranks-in-ai-jobs.html"
+  - title: "Psychologist’s Take: 2 Reasons Not To Fear The AI Revolution"
+    excerpt: "A mix of excitement and anxiety is natural, but here’s why artificial intelligence is likely going to enhance our lives."
+    publishedDateTime: 2023-06-29T19:18:00Z
+    webUrl: "https://www.forbes.com/sites/traversmark/2023/06/29/psychologists-take-2-reasons-not-to-fear-the-ai-revolution/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Wisconsin health system, Nvidia back healthcare AI company in $54M round"
-    excerpt: "Wisconsin health system joins Big Tech in backing healthcare AI company Flywheel, which uses AI to analyze medical imaging data. Investors include Microsoft, Hewlett Packard Enterprise and the venture capital arm of Nvidia."
-    publishedDateTime: 2023-06-28T14:38:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/wisconsin-health-system-nvidia-back-healthcare-ai-company-in-54m-round.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "New computer-vision system aims to revolutionise shrimp farming practices"
+    excerpt: "The AI-based MonitorShrimp project, led by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in collaboration with shrimp farming companies Oceanloop and Sander Holding,"
+    publishedDateTime: 2023-06-29T06:25:00Z
+    webUrl: "https://www.efeedlink.com/contents/06-29-2023/5597ea33-5b8f-49f1-82e0-0e446dc51ce5-0001.html"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 53
+      name: efeedlink
+      domain: efeedlink.com
+    quality: 38
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://www.efeedlink.com/cps/images/2023/june/2023062914191498243232.jpg"
+        width: 900
+        height: 450
         isCached: true
+  - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
+    excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
+    publishedDateTime: 2023-07-02T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
+        width: 1100
+        height: 550
+        isCached: true
+  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
+    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
+    publishedDateTime: 2023-07-02T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 29
+  - title: "Mike Muse Breaks Down the Intersection of Music and Artificial Intelligence"
+    excerpt: "SiriusXM host Mike Muse spoke to The Root about the connection artificial intelligence has with music and how it affects Black art."
+    publishedDateTime: 2023-06-29T14:41:00Z
+    webUrl: "https://www.theroot.com/mike-muse-on-the-intersection-of-music-and-artificial-i-1850590641"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 15
 
 secured: "ojg+MjiJycD/P4mNq7PJIE4g3dn/SQu5+XyJKFYqmNyxHsjOzqjyNIDsp+NBYnu2eSNHnWG43RteNHWcthUcBjIaCQP+bH2bpqJd/LbsK87Q/g8JJDycELUZ5yrme1bUM0e6btlE9byY9W7oFHUeawvmyyp2YtK0p/VFZTxwgFs4r6VK0QzSSpDTrNeYA0VLVSfaBItB4nW3QVojePlAiBcGldBl+UuO1dbwUW2SRwyfBUJeUykdRCSJmj4MFP8CCyuyz73nv/kk1+yJCohxbP9xWwA15GgcvbJUZaMCviiGoL7SCqZsGk13vFK7K03aOqB0a09QvZ6ZsceUNVLKjuktJd7S7XZB3cuu774jq/8=;RxsjtYK3lQi+IeSHcM5uGQ=="
 ---
