@@ -55,6 +55,50 @@
       ]
     },
     {
+      "path": "_news/2023-07-02-artificial-intelligence-can-shorten-cancer-radiation-treatment-duration.md",
+      "title": "Artificial Intelligence can shorten cancer radiation treatment duration",
+      "excerpt": "Predictive AI models can assess a person's likelihood of developing cancer by identifying risk factors. A new AI tool shortens cancer patients' waiting time for treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/julien-tromeur-V2G1YnMHZwk-unsplash-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
+      "publishedDateTime": "2023-07-01T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-microsoft-is-developing-cutting-edge-ai-chips-to-close-the-gap-with-aws-internal-documents-show.md",
       "title": "Microsoft is developing cutting-edge AI chips to 'close the gap' with AWS, internal documents show",
       "excerpt": "Documents released during the Federal Trade Commission's lawsuit against Microsoft confirm the company is working on its own AI chips.",
@@ -327,7 +371,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 439,
+      "heat": 429,
       "tags": null,
       "images": [
         {
@@ -379,7 +423,7 @@
       "originalUrl": "https://www.cnn.com/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 494,
+      "heat": 484,
       "tags": null,
       "images": [
         {
@@ -1435,58 +1479,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai.md",
-      "title": "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI",
-      "excerpt": "Company recognized by Microsoft for its successful customer outcomes, deep technical experience, and expertise SAN FRANCISCO, June 22,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
-      "originalUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

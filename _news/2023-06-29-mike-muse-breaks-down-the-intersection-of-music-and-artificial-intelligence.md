@@ -34,6 +34,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Health care's AI revolution is well under way, say experts"
+    excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
+    publishedDateTime: 2023-07-03T20:55:00Z
+    webUrl: "https://medicalxpress.com/news/2023-07-health-ai-revolution-experts.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-07-health-ai-revolution-experts.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-health-ai-revolution-experts.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
+        isCached: true
   - title: "Psychologist’s Take: 2 Reasons Not To Fear The AI Revolution"
     excerpt: "A mix of excitement and anxiety is natural, but here’s why artificial intelligence is likely going to enhance our lives."
     publishedDateTime: 2023-06-29T19:18:00Z

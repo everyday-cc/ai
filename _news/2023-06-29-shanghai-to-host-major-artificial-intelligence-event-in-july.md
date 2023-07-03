@@ -34,6 +34,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "How AI Is Transforming Waste Management, Recycling"
+    excerpt: "While some view AI as a threat, environmental advocates see it as a powerful tool for resolving waste problems."
+    publishedDateTime: 2023-07-03T16:38:00Z
+    webUrl: "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "FosmhmHxahtXyj7dTKlh1arBpxIRzT5nFHjOQUymjpIFhSvhBEdQJu7lDF2r2pSJwVE+1cWJp03STk5iHb6ZTzlFutNt7roWliWMAmuiit69T2W3S3v8wBRvQbP8z0mdrLgBv5cs7lPVtztnnVSCMQKgYN3WwT4JCnJ6WK0gyK9F8Ky3Ampo37pRNK7xPxJOJQYwYOPiz3XoaAkc9vrANwjwSWh7Hd9TtpNGSRQL3vEjiNQptAzZoW7v7kRwEjb913DS6nwU2FR5uRqLSv/wEUUaN1ORtZr3sphZFhBk7sIGqT27h0Gv9xZyaxIDe+g0OFBVJUJEDidKzsOzuUcj5ggpVtjrGfhOjVLQhqR7Vy+gvY2/MiL/FZlD6qs/Ue4q7IkmDqlgNIRwL5I2QhIh5QpY/UTVHXF5MsgsyH8uvWELlGYBBvBCuTRGLCFK4sRrtM5dWW8Kq1iKKSBAWvB/VzJTAlHehbU8hpzARfKR5FJpEiC9Vef6rglASUhyahAsjjzKViIWCQtgJcVd4YxBoA==;3UQPFvP0wMB8ukkFpWCi3A=="
 ---

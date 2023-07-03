@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-06-ai-combined-crispr-precisely-gene.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-combined-crispr-precisely-gene.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Predicts CRISPR’s RNA-Targeting Effects, Revolutionizing Gene Therapy"
+    excerpt: "Researchers developed a deep learning model, TIGER, that accurately predicts on- and off-target activity of RNA-targeting CRISPR tools."
+    publishedDateTime: 2023-07-03T18:13:00Z
+    webUrl: "https://neurosciencenews.com/ai-crispr-gene-therapy-23573/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 53
+    images:
+      - url: "https://neurosciencenews.com/files/2023/07/ai-crispr-neurosicences.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence Meets CRISPR: The Rise of Precision RNA-Targeting and Gene Modulation"
     excerpt: "Researchers have developed an artificial intelligence model, TIGER, that predicts the on- and off-target activity of RNA-targeting CRISPR tools. This innovation, detailed in a study published in Nature Biotechnology,"
     publishedDateTime: 2023-07-03T15:01:00Z

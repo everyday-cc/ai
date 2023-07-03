@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta releases clues on how AI is used on Facebook and Instagram"
+    excerpt: "As demand for greater transparency in artificial intelligence mounts ... such as Instagram Stories and Facebook’s news feed. These describe how Meta selects what content to recommend to users."
+    publishedDateTime: 2023-06-29T13:14:00Z
+    webUrl: "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230628181712-meta-discloses-ai-information.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "How AI Influences What You See on Facebook and Instagram"
     excerpt: "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content."
     publishedDateTime: 2023-06-29T10:00:00Z
@@ -73,19 +89,21 @@ related:
         width: 1024
         height: 648
         isCached: true
-  - title: "Meta releases clues on how AI is used on Facebook and Instagram"
-    excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on"
-    publishedDateTime: 2023-06-29T09:01:00Z
-    webUrl: "https://www.wsiltv.com/news/consumer/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/article_b7795e7c-51e2-532b-ae7a-0c1e8871edbe.html"
+  - title: "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram"
+    excerpt: "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?"
+    publishedDateTime: 2023-06-30T09:11:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
     type: article
     provider:
-      name: WSIL-TV
-      domain: wsiltv.com
-    quality: 39
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 51
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/1/ff/1fff1fee-3a93-53e1-b28c-a7fba804b3e9/649dad38086b2.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
   - title: "Explained (Courtesy Meta): How AI Systems Recommend Content on Instagram and Facebook"
     excerpt: "Meta has released a detailed explanation of how its AI systems recommend content across Instagram and Facebook."

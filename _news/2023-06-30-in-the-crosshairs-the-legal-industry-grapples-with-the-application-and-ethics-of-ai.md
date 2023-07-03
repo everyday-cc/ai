@@ -65,6 +65,15 @@ related:
         width: 500
         height: 278
         isCached: true
+  - title: "AI Driving New VR/AR Applications in Education, Business"
+    excerpt: "Artificial intelligence helps create user formats for some virtual-reality education programs such as those created by VictoryXR, which allow teachers to safely transport students beyond the walls of their classrooms."
+    publishedDateTime: 2023-07-03T19:12:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/ai-driving-new-vr-ar-applications-in-education-business"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 36
   - title: "All in for generative AI, but organizational jitters remain - Workday and Salesforce research airs the opportunities and the challenges"
     excerpt: "Despite corporate enthusiasm around generative AI, business leaders are still nervous about incorporating this into their operations and feel there are many challenges ahead, not"
     publishedDateTime: 2023-07-03T10:22:00Z

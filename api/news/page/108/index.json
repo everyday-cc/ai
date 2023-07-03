@@ -2,6 +2,548 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-04-26-exclusive-swiss-startup-unveils-world-first-ai-translation-service.md",
+      "title": "Exclusive: Swiss startup unveils ‘world-first’ AI translation service",
+      "excerpt": "Interprefy claims to have created the world’s first advanced automated speech translation service for online and live events.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy",
+      "originalUrl": "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2FUntitled-design-10.jpg&signature=d0273374d0073cb706cb6f2cdea4ca35",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-another-microsoft-365-outage-affects-search-functionality-in-services.md",
+      "title": "Another Microsoft 365 outage affects search functionality in services",
+      "excerpt": "Microsoft is trying to come up with short- and long-term fixes after users were unable to use the search functionality in multiple Microsoft 365 services, the company said in a Tweet on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.html",
+      "originalUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/09/12/shutterstock_2108335628-100938319-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.amp.html",
+      "publishedDateTime": "2023-04-25T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-apple-building-an-ai-health-coach-for-apple-watch-report-claims.md",
+      "title": "Apple building an AI health coach for Apple Watch, report claims",
+      "excerpt": "Apple is developing an AI-powered health coach designed to offer personalized advice for improving exercise, diet, and sleep, a new report claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/04/apple-health-app-report.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp",
+      "publishedDateTime": "2023-04-25T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-top-10-trusted-artificial-intelligenceai-companies-in-2023.md",
+      "title": "Top 10 Trusted Artificial Intelligence(AI) Companies In 2023",
+      "excerpt": "The team of TopSoftwareCompanies.co has made a list of Top functional Artificial Intelligence companies of 2023 following certain selection criteria. The team has finalized the list of top AI developers based on their core service offerings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342",
+      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/free_files/jpg/ole_co_2023_04_20_080032.jpg?v=25022022",
+          "width": 768,
+          "height": 1021,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342/amp",
+      "publishedDateTime": "2023-04-25T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030.md",
+      "title": "Automated Machine Learning (AutoML) Market Report Explained Current Growth for upcoming period 2030",
+      "excerpt": "The recent market research titled \" Automated Machine Learning (AutoML) Market \" has analyzed the Automated Machine Learning (AutoML) Market report is a comprehensive analysis that covers various aspects of the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030-2023-04-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030-2023-04-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-robots-manufactured-to-remove-risks-to-humans-during-emergencies-at-nuclear-plants.md",
+      "title": "Robots manufactured to remove risks to humans during emergencies at nuclear plants",
+      "excerpt": "The leading and longest established online Process Engineering publication serving the Process Manufacturing Industries REMOTELY operated rescue robots capable of withstanding hazardous environments will make emergency jobs across UK nuclear plants significantly safer and more cost effective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pandct.com/news/robots-manufactured-to-remove-risks-to-humans-during-emergencies-at-nuclear-plants",
+      "originalUrl": "https://www.pandct.com/news/robots-manufactured-to-remove-risks-to-humans-during-emergencies-at-nuclear-plants",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.pandct.com/uploads/news_images/Forth%2026423.jpg",
+          "width": 899,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Process Control Today",
+        "domain": "pandct.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half.md",
+      "title": "SK Hynix expects memory chip market to begin recovering in second half",
+      "excerpt": "Despite posting a record loss, SK Hynix expects lowered production output by memory chipmakers to start a rebound later in the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "originalUrl": "https://www.zdnet.com/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/19557bab1648d994be6879241f56ae3f0870d2a9/2021/09/24/5a6eb553-67e0-453a-97c8-efdd56624fff/chipshot.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "publishedDateTime": "2023-04-25T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-in-a-real-world-study-ai-boosts-worker-productivity-by-14.md",
+      "title": "In A Real-World Study, AI Boosts Worker Productivity By 14%",
+      "excerpt": "Researchers from Stanford University and MIT discovered that generative AI tools increased customer service worker productivity by 14% on average at a Fortune 500 software firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/25/in-a-real-world-study-ai-boosts-worker-productivity-by-14/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/25/in-a-real-world-study-ai-boosts-worker-productivity-by-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/25/in-a-real-world-study-ai-boosts-worker-productivity-by-14/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/25/in-a-real-world-study-ai-boosts-worker-productivity-by-14/amp/",
+      "publishedDateTime": "2023-04-25T20:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-cloud-ai-in-fintech-market-market-trends-by-2030.md",
+      "title": "Cloud AI in Fintech Market Market Trends By 2030",
+      "excerpt": "The latest market research report on the Global \"Cloud AI in Fintech Market\" is segmented by Regions, Country, Company",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-market-trends-by-2030-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-market-trends-by-2030-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-microsoft-reports-earnings-beat-says-ai-will-drive-revenue-growth.md",
+      "title": "Microsoft reports earnings beat, says A.I. will drive revenue growth",
+      "excerpt": "Microsoft surpassed expectations on the top and bottom lines and beat estimates on quarterly revenue guidance. Growth from Azure and other cloud services slowed to 27% from 31% in the prior ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107177565-1673483190912-gettyimages-1244789744-SKOREA_MICROSOFT.jpeg?v=1682455591",
+          "width": 4000,
+          "height": 2668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
+      "publishedDateTime": "2023-04-25T18:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-artificial-neural-networks-market-share-and-forecast-till-2030.md",
+      "title": "Artificial Neural Networks Market Share and Forecast till 2030",
+      "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Intel, Starmind, Clarifai, Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-share-and-forecast-till-2030-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-share-and-forecast-till-2030-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-missed-the-ai-rally-hsbc-names-4-chinese-stocks-set-to-benefit-from-the-trend.md",
       "title": "Missed the A.I. rally? HSBC names 4 Chinese stocks set to benefit from the trend",
       "excerpt": "For example, the Global X Robotics & Artificial Intelligence ETF has risen by 22% and attracted $142 million in fund flows this year. The fund now holds more than $2 billion worth of assets ...",
@@ -710,550 +1252,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid.md",
-      "title": "GOP releases 100% AI-generated ad to fearmonger over Biden’s reelection bid",
-      "excerpt": "On the screen flashes a dark, AI-generated image of Biden and Vice President Kamala Harris, smiling and waving in front of a sea of American flags. From there, a series of AI-generated scenes show the faked future that the RNC imagines that this election result would bring,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Beat-Biden-RNC-2023-response-ad-screenshot-800x362.png",
-          "width": 800,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/",
-      "publishedDateTime": "2023-04-25T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-the-race-continues-google-search-set-to-be-backed-by-conversational-ai.md",
-      "title": "The Race Continues: Google Search Set To Be Backed By Conversational AI",
-      "excerpt": "The addition of Generative AI capabilities to Google Search will be critical if Google intends to remain the top search engine globally. And while there are more questions than answers at this time, Google is going to be adding conversational to its search platform and it should be well received.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644827328980223119f33129/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/amp/",
-      "publishedDateTime": "2023-04-25T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-top-10-artificial-intelligence-ai-cryptocurrencies.md",
-      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
-      "excerpt": "If you’re interested in two of today’s hottest alternative investments but you’re having trouble choosing between crypto and artificial intelligence (AI), there’s good news: You don’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/top-10-artificial-intelligence-ai-190017402.html",
-      "originalUrl": "https://www.aol.com/top-10-artificial-intelligence-ai-190017402.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/mVoD2uWOrG6UMDfUinCT.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/2fb2049818c4e7f748ab277ea4751027",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/top-10-artificial-intelligence-ai-190017402.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/top-10-artificial-intelligence-ai-190017402.html",
-      "publishedDateTime": "2023-04-25T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform.md",
-      "title": "RSAC 2023: SecurityScorecard launches ‘first’ GPT-4 security ratings platform",
-      "excerpt": "At RSAC 2023 in San Francisco, SecurityScorecard announced the launch of the 'first' GPT-4 security ratings platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/",
-      "originalUrl": "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/",
-      "publishedDateTime": "2023-04-25T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 349,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-04-25T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-opera-shows-off-ai-and-tab-grouping-in-the-latest-browser-update.md",
-      "title": "Opera shows off AI and tab grouping in the latest browser update",
-      "excerpt": "Opera has announced Opera One, a redesign of its Web browser with AI features like Tab Islands and under-the-hood improvements to its performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/1798217/opera-one-is-operas-ai-powered-modular-new-browser.html",
-      "originalUrl": "https://www.pcworld.com/article/1798217/opera-one-is-operas-ai-powered-modular-new-browser.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2023/04/A_Opera-One-Dark-mode-16x9-1-1.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service.md",
-      "title": "Coca-Cola makes bubbly bets on AI for creative, customer service",
-      "excerpt": "In its first-quarter earnings release yesterday, The Coca-Cola Company made it clear that a focus on AI has become a 2023 priority.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/",
-      "originalUrl": "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-54.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/amp/",
-      "publishedDateTime": "2023-04-25T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-perform-intelligent-search-across-emails-in-your-google-workspace-using-the-gmail-connector-for-amazon-kendra.md",
-      "title": "Perform intelligent search across emails in your Google workspace using the Gmail connector for Amazon Kendra",
-      "excerpt": "Many organizations use Gmail for their business email needs. Gmail for Business is part of Google Workspace, which provides a set of productivity and collaboration tools like Google Drive, Google Docs, Google Sheets, and more. For any organization, emails contain a wealth of information, which could",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/perform-intelligent-search-across-emails-in-your-google-workspace-using-the-gmail-connector-for-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/perform-intelligent-search-across-emails-in-your-google-workspace-using-the-gmail-connector-for-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/kendra-gmail-connector.jpg",
-          "width": 958,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T09:55:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting.md",
-      "title": "Andrew Ng’s Landing AI makes it easier to create computer vision apps with Visual Prompting",
-      "excerpt": "Landing AI's new Visual Prompting feature makes it easy for users to develop new computer-vision applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/",
-      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/",
-      "publishedDateTime": "2023-04-25T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-infoblox-networking-and-security-teams-must-unite-to-combat-cybercrime.md",
-      "title": "Infoblox: Networking And Security Teams Must Unite To Combat Cybercrime",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into Infoblox's business strategy and how it is introducing a new brand identity with an increased focus on security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/25/infoblox-networking-and-security-teams-must-unite-to-combat-cybercrime/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/25/infoblox-networking-and-security-teams-must-unite-to-combat-cybercrime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6448000f0e9417c9cfa3babc/0x0.jpg?format=jpg&width=1200",
-          "width": 666,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/25/infoblox-networking-and-security-teams-must-unite-to-combat-cybercrime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/04/25/infoblox-networking-and-security-teams-must-unite-to-combat-cybercrime/amp/",
-      "publishedDateTime": "2023-04-25T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-microsoft-earnings-preview-ai-azure-and-activision-takeover-in-focus.md",
-      "title": "Microsoft Earnings Preview: AI, Azure and Activision Takeover In Focus",
-      "excerpt": "Azure growth, which in the prior quarter slowed ... leadership bolstered by at-scale compute demand for emerging AI/generative AI data, training, and application deployment,” said KeyBanc ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/stocks/microsoft-earnings-preview-ai-azure-and-activision-deal-in-focus",
-      "originalUrl": "https://www.thestreet.com/investing/stocks/microsoft-earnings-preview-ai-azure-and-activision-deal-in-focus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

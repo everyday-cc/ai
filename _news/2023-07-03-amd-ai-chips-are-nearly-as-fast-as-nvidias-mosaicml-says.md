@@ -43,6 +43,36 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Nvidia dips on report U.S. considering new A.I. chip export restrictions for China"
+    excerpt: "The federal government is weighing further restrictions on exporting powerful computing chips to China, the kind that power AI models, The Wall Street Journal reported. The restrictions would ..."
+    publishedDateTime: 2023-06-29T05:39:00Z
+    webUrl: "https://www.cnbc.com/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 83
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107161191-1670264480854-gettyimages-1245381984-US-EU_TRADE_COUNCIL.jpeg?v=1687955882"
+        width: 5561
+        height: 3708
+        isCached: true
+  - title: "Nvidia warns tighter AI chip export restrictions to China risk permanent US industry losses"
+    excerpt: "Nvidia's share price took a tumble yesterday following a report that the US government is considering tightening its export controls on AI chips to China as"
+    publishedDateTime: 2023-06-29T14:34:00Z
+    webUrl: "https://www.techspot.com/news/99246-nvidia-warns-tighter-ai-chip-export-restrictions-china.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-29-image-13.jpg"
+        width: 2160
+        height: 990
+        isCached: true
   - title: "Larry Ellison says Oracle plans to spend billions on Nvidia GPUs, even more on Ampere and AMD chips"
     excerpt: "Oracle will spend billions of dollars to purchase Nvidia GPUs this year alone, driven by the rising demand for generative AI-based products, which require considerable hardware"
     publishedDateTime: 2023-06-30T15:31:00Z
@@ -66,6 +96,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "US plans new AI chip export controls aimed at Nvidia"
+    excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
+    publishedDateTime: 2023-06-29T09:26:00Z
+    webUrl: "https://techcentral.co.za/us-plans-new-ai-chip-export-controls-aimed-at-nvidia/227630/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/09/nvidia-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "AMD making big gains on Nvidia in AI chips: research"
+    excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
+    publishedDateTime: 2023-07-02T06:35:00Z
+    webUrl: "https://techcentral.co.za/amd-making-big-gains-on-nvidia-in-ai-chips-research/227735/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/07/artificial-intelligence-ai-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "TSMC sees robust AI chip orders from Nvidia, Broadcom, AMD through 2024"
     excerpt: "TSMC is expected to see a significant revenue rebound in the second half of the year, which will be driven by not only the launch of new iPhones but also strong demand for AI chips from Nvidia, Broadcom and AMD, with robust wafer-start momentum from..."
     publishedDateTime: 2023-07-03T07:23:00Z
@@ -131,6 +189,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "w86TUHDBZEdMQZDdSCJsGoqOnUKB4uvpdYyKA800IH7W6qfGugS0mzaN4TpYVCwiiNrHESl4C4qbiDQIMrzMX9bS+lFdvEtU6T7hhbmHFZOTnihusvRLZZnOnLErAHhi56w5GripFyv9N690UwQJqiKCt1sZvMlxFH/ZTvjbvvY4kRc1rZ8iVMqvNo8bqZY5EdYVaK3iS3eNXIm+7de69Hg31ZuxqOWlRidgfeha3Y3s+WtuNs0yn+Kc078Z2FkRdUEhx9g2YgG0PjYz9HCjgHIBUG+04Pb1ONxoK/9qIs99QSZEvm64dRK8NwCV6fS+c9RsROTbgaB+esenHvArtnXR4R13mQFnI0mGHjdSJew=;HJwzSghMsgcvnJsShSmkpA=="
+secured: "UWfwX+9RNoidZzj0ZS/QcW6SqsGrlO3PdYiUpYXL3osthk2Xg17R3ovxqIuMuMGm0BJ4pR3kvPJ0v9zwpdW51lutyhcoe5icLErxHkWrphjEvZH6qblLxX9VEKT62HRts7a3pv862LeBmwrkGoX/00KzhaLIn4se5NrVoCV2HuLTFMcCwNYtE4IT+w8ieqUATVakcZ+9R9NhqB2YyTLdzO6KK8hpZUTFJpBAVUoLfCc+2iLIdPH7BJ/TsMo0cM7RnXlwHlNUtsRDwjFiWnTm7JLd2v6T0fCv9IOwVHfdKn9pIpEOMxtP/nskwuqf0sIMoxhuyIOVfyMd33aHFHsO//3+BdHs+6oWhWTceUFbEfrThoTRg6NVJhtNrXaP2YK+kV8tNBFw6/fLhXE0bnoA2NwcfeB/m5WR+1pkguVkaxvBylQ5qxaGv1SNruzZKMhORmSYdR8noBnq8mqUB2JAoH1qqQdt0NN6P6mzC8AGvYtMriGHwMF4/odZLvpweT4zLlzofrZJ3xk2f5KSEjtI1Q==;WQcMzhy2SeAD6EvkTb0kUA=="
 ---
 

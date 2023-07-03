@@ -2,6 +2,197 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-29-ai-service-robotics-morocco.md",
+      "title": "AI Service Robotics - Morocco",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$3.38m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.25%, resulting in a market volume of US$9.12m ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/morocco",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/morocco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-human-oversight-key-to-keeping-ai-honest.md",
+      "title": "Human oversight key to keeping AI honest",
+      "excerpt": "Tools powered by artificial intelligence should not be left on their own to decide what content people should read, says the head of trust at news aggregator platform SmartNews, who explains why humans must always be kept in the loop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/human-oversight-key-to-keeping-ai-honest/",
+      "originalUrl": "https://www.zdnet.com/article/human-oversight-key-to-keeping-ai-honest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/886690d287851265d12fcec69f9b91c30dd772e3/2023/06/29/9b1b0738-2410-4ffd-9bc6-972a839ff522/gettyimages-1456133907.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/human-oversight-key-to-keeping-ai-honest/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-oversight-key-to-keeping-ai-honest/",
+      "publishedDateTime": "2023-06-29T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-how-advanced-ai-threatens-banking-security-systems.md",
+      "title": "How advanced AI threatens banking security systems",
+      "excerpt": "The future of payments promises to transform the fintech world as traditional friction barriers begin to disappear. Amid this innovation, concerns arise: could",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
+      "originalUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-06/GettyImages-1490261842.jpg?itok=msI7us6j",
+          "width": 1200,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Central Banking",
+        "domain": "centralbanking.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-databricks-hosts-data-ai-summit-unveils-suite-of-ai-tools-for-customers.md",
+      "title": "Databricks Hosts Data + AI Summit, Unveils Suite Of AI Tools For Customers",
+      "excerpt": "Databricks has revealed its new AI-augmented Lakehouse IQ platform, while Snowflake confirmed it was partnering with Nvidia to help customers build their own AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649d915b0297b7ca3032423a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/",
+      "publishedDateTime": "2023-06-29T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-this-transformer-like-robot-can-roll-fly-stand-walk-and-more.md",
       "title": "This Transformer-Like Robot Can Roll, Fly, Stand, Walk, and More",
       "excerpt": "Robots are slowly getting smarter, mostly thanks to advances in artificial intelligence that enables them to learn on their own rather than requiring constant human guidance. But despite being able to independently learn new tasks, most robots are still ...",
@@ -178,6 +369,58 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram.md",
+      "title": "Meta releases clues on how AI is used on Facebook and Instagram",
+      "excerpt": "As demand for greater transparency in artificial intelligence mounts ... such as Instagram Stories and Facebook’s news feed. These describe how Meta selects what content to recommend to users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230628181712-meta-discloses-ai-information.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "publishedDateTime": "2023-06-29T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -515,49 +758,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-29-how-ai-influences-what-you-see-on-facebook-and-instagram.md",
-      "title": "How AI Influences What You See on Facebook and Instagram",
-      "excerpt": "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content.",
-      "sourceUrl": null,
-      "webUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
-      "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2023/06/Content-Recommendations-Policy-Updates-NC_Header.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
-      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
-      "publishedDateTime": "2023-06-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "about.fb",
-        "domain": "fb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-29-six-risks-of-generative-ai.md",
       "title": "Six Risks Of Generative AI",
       "excerpt": "Advance on their generative AI journey with their eyes wide open to the technology's potential risks and take steps to mitigate those risks where needed.",
@@ -566,7 +766,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 439,
+      "heat": 429,
       "tags": null,
       "images": [
         {
@@ -610,6 +810,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-us-considers-tightening-restrictions-on-ai-chip-exports.md",
+      "title": "U.S. considers tightening restrictions on AI chip exports",
+      "excerpt": "The potential restrictions would include further clamping down on the level of the computing power of chips that are available to be exported to foreign markets in China.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports",
+      "originalUrl": "https://cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/621d1be9-e0b2-43fe-b511-f43734a5574d.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports/amp",
+      "publishedDateTime": "2023-06-29T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-ai-startup-typeface-raises-100-million-from-salesforce-google.md",
       "title": "AI Startup Typeface Raises $100 Million From Salesforce, Google",
       "excerpt": "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including the investment arms of Salesforce Inc. and Alphabet Inc.",
@@ -618,7 +861,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -669,7 +912,7 @@
       "originalUrl": "https://www.cnn.com/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 494,
+      "heat": 484,
       "tags": null,
       "images": [
         {
@@ -816,6 +1059,92 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-computer-vision-south-america.md",
+      "title": "Computer Vision - South America",
+      "excerpt": "Value in the Computer Vision market is projected to reach US$523.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.09%, resulting in a market volume of US$1,318 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-america",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-speech-recognition-south-america.md",
+      "title": "Speech Recognition - South America",
+      "excerpt": "Value in the Speech Recognition market is projected to reach US$160.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.79%, resulting in a market volume of US$506 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-america",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-innovation.md",
       "title": "Thundercomm Demonstrated GenAI Integrated Robotics Solution to Accelerate a New Wave of Robotics Innovation",
       "excerpt": "Thundercomm, a world leading IoT product and solution provider, announced the successful integration of its privately deployed Rubik large language model(LLM) with Qualcomm RB5 AMR Reference Design. T",
@@ -857,345 +1186,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-one-mans-quest-to-ban-teslas-full-self-driving-and-take-on-elon-musk.md",
-      "title": "One Man’s Quest to Ban Tesla’s Full Self Driving and Take on Elon Musk",
-      "excerpt": "The Dawn Project’s Dan O’Dowd paid for a Super Bowl ad and conducts regular tests to show that Tesla’s FSD technology is dangerous and should be outlawed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
-      "originalUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/2023/06/002-tsla-fsd-test-dan-odowd-testing-with-ross-gerbe.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
-      "publishedDateTime": "2023-06-28T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-tesla-facebook-openai-account-for-245-of-ai-incidents-security-company-says.md",
-      "title": "Tesla, Facebook, OpenAI Account For 24.5% Of ‘AI Incidents,’ Security Company Says",
-      "excerpt": "The first \"AI Incident\" in Surfshark’s record almost caused global nuclear war. The newest ones: political deepfakes and self-driving cars endangering drivers and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c805f4fc9cb4a620b96c9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
-      "publishedDateTime": "2023-06-28T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market.md",
-      "title": "Gather AI acquires assets of Ware Robotics to consolidate drone based inventory market",
-      "excerpt": "Gather AI acquires Ware's drone-based warehouse inventory management business, doubling staff and enhancing growth opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market/",
-      "originalUrl": "https://www.therobotreport.com/gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/gather-drone-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms.md",
-      "title": "HPE Brings AI-as-a-Service to the Enterprise with Its GreenLake for LLMs",
-      "excerpt": "HPE introduced new GreenLake for Large Language Models, a service-based offering backed its Cray supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649ca472b50dadc6316aa41f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/",
-      "publishedDateTime": "2023-06-28T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office.md",
-      "title": "OpenAI brings the competition to DeepMind’s doorstep with new London office",
-      "excerpt": "OpenAI is opening an office in London, its first international expansion. The company's move comes as it attempts to sway international policymakers to regulate AI with a light touch.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/",
-      "originalUrl": "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/",
-      "publishedDateTime": "2023-06-28T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
-      "title": "Age of AI: Everything you need to know about artificial intelligence",
-      "excerpt": "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-06-28T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-computer-vision-system-marries-image-recognition-and-generation.md",
-      "title": "Computer vision system marries image recognition and generation",
-      "excerpt": "Computers possess two remarkable capabilities with respect to images: They can both identify them and generate them anew. Historically, these functions have stood separate, akin to the disparate acts of a chef who is good at creating dishes (generation),",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/computer-vision-system.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-vision-image-recognition-generation.amp",
-      "publishedDateTime": "2023-06-28T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

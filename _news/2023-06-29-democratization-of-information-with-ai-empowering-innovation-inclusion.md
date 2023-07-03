@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Thundercomm Demonstrated GenAI Integrated Robotics Solution to Accelerate a New Wave of Robotics Innovation"
-    excerpt: "Thundercomm, a world leading IoT product and solution provider, announced the successful integration of its privately deployed Rubik large language model(LLM) with Qualcomm RB5 AMR Reference Design. T"
-    publishedDateTime: 2023-06-29T03:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33053388"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33053388"
+  - title: "Artificial Intelligence can shorten cancer radiation treatment duration"
+    excerpt: "Predictive AI models can assess a person's likelihood of developing cancer by identifying risk factors. A new AI tool shortens cancer patients' waiting time for treatment."
+    publishedDateTime: 2023-07-02T05:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 73
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 61
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/julien-tromeur-V2G1YnMHZwk-unsplash-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "nxEw8Ci2FReWwsJBeUv8mjJtGD6l2sTSGLOE2l3oMAgs01BmCtkS/ZQPsFCCpjWz4Wss4QjhYNMcAOlvFv3ptkQtbSsh2ZdB0lFUdSIaRabZDqw0R/2weQbw3F4eeV8fSpFR1hS3EjP/0hOiDwFJifyDq3ZDwC5eoI4R6+S0aogrbIZPa8YO7ygMVPXHIYqtjNVJ8mgsFehrq+p+n6dzvGxo9wXaJQwHxOTYy4KwxNUC91sq0LuqfzPX0FlImUR3CnuG8Cd/62UmSs10nRI3bFZXwuYgC6dFKS+WxBcTwIwv09QlihtpLDfB4/JFwGfwZPlA0tGJoTNUgW7y3SkOLpnHFfM54VzxYeHAyGxa4Jy7SGseIJWJrJ53/9uT4sVYimn98Uhkwv7Qwf3AWPSgl2HgGBpLjGrXung6ChSZ27HynDC11BxBxTG6KkdXlQnaD29VKB57Sqap67AoxsnNPxisWlmWtsNniq4tYmrFFCo7jscVl5+iUJC+AH54TD0/iS/dWObmn0vvQx9qW5+uiw==;a08oMDHouBoGRY88V1bG5g=="

@@ -6,9 +6,6 @@ publishedDateTime: 2023-06-29T01:36:00Z
 originalUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html"
 webUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: 中国日报网
@@ -24,6 +21,6 @@ images:
     height: 445
     isCached: true
 
-secured: "5HR2K413nSl6i4X7KrpsBweAuGoAc8Ot3E5Gdgm5SuHaoUVwgqd7TFp17u0NG/JQWAuTqUIrqRe3SFVthW+4kzkXlw4PlLAmilMkZV1CFr5F2EJZZvZFMMQZ4B/BjlJeHLM9+m6j9tzqZiRTBWN4RNK7qA6XWNEt5nhJmLoggKgsRjOdaSL2RsYqYLhP2o8hn+Z70i6UqXhi53S+uW3dOk/riVf7W8WAxv6umNwa3+3fWAlLLTlQR8QU5FutIqqPYJ9xtYODBUNDUBwPD3dL/UhY8aosMHlDBYDCrPrM2wG5v7GfWC01DiAt8D221SUXbECaFNk7XT/j+qk8QaULtu0s8uwGiJeljilrNe4sPSM=;yFb8b9kFT49Hy+x172bTjw=="
+secured: "LaXEJFzrtF5RpI3E2U8ydKjBugV61pjAY3ohMxpABFxm4PrBOdhhtvaKl/+9yGk4LDW/cr26EEcs8lQrR7LgCNz2Ij8fbiuPEpvnQY7qb6IaXCwExoOJAjwndYltQfilnAk1DrXkgFEBhInleYHoS9fcnCN3XljAORZ0CiirUmej7kUWlqs4gIAVr5FB5WIPJw7KQyJGFNH8gdQe93GhUp0uluTm2U6hg6W/xmDW+hgikfPY8itY1qct5o0rVIrzUwnGJG+3JJFwdP/Y+pjaes4xzuo2vSIQY5HkCB5mJjaedzgvm+9QA0hazMH59whCXcrsJnE5bbFuGmkRY+4rsIHmo7SPJC1gm4z5+6ujaWs=;3ZruLfrnMo1n0ZI4l8iL2g=="
 ---
 

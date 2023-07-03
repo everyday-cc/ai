@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI In The Office: To Ban Or Not Ban?"
-    excerpt: "Major corporations have banned the use of generative AI in the workplace. But could bans on generative AI lead to a competitive disadvantage for companies?"
-    publishedDateTime: 2023-06-29T02:34:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/28/generative-ai-in-the-office-to-ban-or-not-ban/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649cec947ab4ce16bc324234/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "The Rise Of AI-Powered Entrepreneurs"
     excerpt: "In a recent speech, Yuval Harari called AI a groundbreaking \"non-biological agent,\" but business leaders are still trying to grasp how Bard, ChatGPT and other generative AI agents will help or hinder their success and humanity at-large."
     publishedDateTime: 2023-06-29T14:15:00Z

@@ -2,6 +2,191 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-02-artificial-intelligence-pioneer-leaves-google-and-warns-about-technologys-future.md",
+      "title": "Artificial intelligence pioneer leaves Google and warns about technology's future",
+      "excerpt": "Geoffrey Hinton, a trailblazer in AI, has joined the growing list of experts sharing their concerns about its rapid advancement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-pioneer-leaves-google-warns-technologys-future-rcna82242",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-pioneer-leaves-google-warns-technologys-future-rcna82242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230501-Geoffrey-Hinton-al-1228-2c82cf.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82242",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82242",
+      "publishedDateTime": "2023-05-01T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
+      "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
+      "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive ...",
+      "sourceUrl": null,
+      "webUrl": "https://windsorstar.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/wcm/941cf965-d5ee-416f-a8fa-9852da842282",
+      "originalUrl": "https://windsorstar.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/wcm/941cf965-d5ee-416f-a8fa-9852da842282",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/05/deepracer2-1024x768-1.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windsor Star",
+        "domain": "windsorstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-why-artificial-intelligence-cant-bring-the-dead-back-to-life.md",
+      "title": "Why artificial intelligence can't bring the dead back to life",
+      "excerpt": "This year is shaping up to be the year of artificial intelligence. ChatGPT has stolen most of the headlines, but it is only the most infamous in a wide assortment AI platforms. One of the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life",
+      "originalUrl": "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/340/340/180914_LSC_Headshots-319-copy-2.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life.amp",
+      "publishedDateTime": "2023-05-01T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-can-self-driving-ships-revolutionize-water-travel-and-fix-supply-chains.md",
+      "title": "Can Self-Driving Ships Revolutionize Water Travel And Fix Supply Chains?",
+      "excerpt": "Current autonomous systems aren’t necessarily whizzes at perceiving obstacles or overcoming navigation challenges — Tesla’s Full Self-Driving feature, which despite the name requires some ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inverse.com/science/autonomous-self-driving-ships",
+      "originalUrl": "https://www.inverse.com/science/autonomous-self-driving-ships",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2023/5/1/ab512dfb-acb4-4004-b5f2-79289fedab47-c26b7f51-d378-4944-8bc0-f7216d76cb2e-thecusp_autonomoustravel_header.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inverse",
+        "domain": "inverse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-30-new-artificial-intelligence-tool-can-accurately-identify-cancer.md",
       "title": "New artificial intelligence tool can accurately identify cancer",
       "excerpt": "Exclusive: Algorithm performs more efficiently and effectively than current methods, according to a study",
@@ -1147,196 +1332,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-i-rode-in-a-waymo-self-driving-taxi-with-no-driver-and-it-was-a-smooth-and-safe-ride-despite-my-initial-fears.md",
-      "title": "I rode in a Waymo self-driving taxi with no driver and it was a smooth and safe ride, despite my initial fears",
-      "excerpt": "An curved arrow pointing right. Autonomous driving company Waymo — formerly known as the Google self-driving car project — has launched a fleet of vehicles in Phoenix and San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rode-self-driving-waymo-car-phoenix-and-wasnt-scary-review-2023-4",
-      "originalUrl": "https://www.businessinsider.com/rode-self-driving-waymo-car-phoenix-and-wasnt-scary-review-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-future-of-artificial-intelligence-and-work.md",
-      "title": "The Future Of Artificial Intelligence And Work",
-      "excerpt": "The exponential growth of useful artificial intelligence (AI) applications has taken the world by storm. With AI applications and improvements being released daily, it's tempting to keep pivoting startup ideas and career strategies—especially as entire industries seem to be on the verge of getting disrupted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644924d67f513f26cbf33129/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/",
-      "publishedDateTime": "2023-04-27T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-chinas-drivegpt-could-leave-companies-rushing-to-catch-up.md",
-      "title": "China’s DriveGPT could leave companies rushing to catch up",
-      "excerpt": "Beijing’s regulatory guidelines set a framework for companies to follow, but China’s self-driving industry has grown beyond this. TikTok’s owner ByteDance Ltd, along with startup Haomo Zhixing Technology, backed by domestic automaker Great Wall Motor Co, have established the country’s biggest computing centre for autonomous-driving infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up-11682533135144.html",
-      "originalUrl": "https://www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up-11682533135144.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/04/26/600x338/AI_1682534525072_1682534531346.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up/amp-11682533135144.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up/amp-11682533135144.html",
-      "publishedDateTime": "2023-04-26T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-a-reporters-trip-in-a-driverless-car-named-peaches-was-a-delight-until-it-got-confused-and-stopped-in-the-middle-of-the-street.md",
-      "title": "A reporter’s trip in a driverless car named Peaches was a delight until it got confused and stopped in the middle of the street",
-      "excerpt": "The theory fueling the ambition is that driverless cars will be safer than vehicles ... And the technology to pull it off is advancing steadily, just like other artificial intelligence applications such as chatbots that can write college-level essays ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/04/26/driverless-car-journey-san-francisco-robotaxi-problems-cruise/",
-      "originalUrl": "https://fortune.com/2023/04/26/driverless-car-journey-san-francisco-robotaxi-problems-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/04/AP23115659251209.jpg?w=840",
-          "width": 840,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/04/26/driverless-car-journey-san-francisco-robotaxi-problems-cruise/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/04/26/driverless-car-journey-san-francisco-robotaxi-problems-cruise/amp/",
-      "publishedDateTime": "2023-04-26T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

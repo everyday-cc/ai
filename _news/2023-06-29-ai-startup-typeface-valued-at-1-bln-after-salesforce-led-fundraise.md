@@ -107,15 +107,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 54
-  - title: "Robotics startup raises millions for AI, remote control applications"
-    excerpt: "Contoro Robotics, which spun out of medical robotics startup Harmonic Bionics, has raised $6 million in venture backing. The company, led by founder and CEO Youngmok (Mok) Yun, was created last year when Harmonic Bionics,"
-    publishedDateTime: 2023-06-29T01:22:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/inno-insights/2023/06/28/contoro-robotics-lands-millions-for-warehouse-bots.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
   - title: "AI video startup Runway raises $141M from Google, Nvidia, Salesforce"
     excerpt: "The company plans to use the funding to conduct additional research into video- and image-generation AI models."
     publishedDateTime: 2023-07-03T13:00:00Z

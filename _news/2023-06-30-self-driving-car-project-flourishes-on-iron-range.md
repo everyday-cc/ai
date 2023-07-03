@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Uae Approves First Licence For Self-Driving Cars"
+    excerpt: "The UAE has approved the first national licence of its kind for self-driving vehicles to run on the country's roads. His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Prime Minister of the UAE and Ruler of Dubai,"
+    publishedDateTime: 2023-07-03T19:14:00Z
+    webUrl: "https://menafn.com/1106548813/Uae-Approves-First-Licence-For-Self-Driving-Cars"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
 
 secured: "omI1FTK2cAoYzDfEslduxAhX6JEy3xyk1Jf0uhWItuqnOTpMx+wgTY1HiKHC12uwQ0y6rMJaHRrr3KtGwsSarhfCbjLjoPZ8HuMkcClmU5ieUXsPO7aazhy9SlChs28GmhdLwQTInc5xnixkkEIKxqeTD7A3IIF0lOBzBsDUho0ICyb3Hvw6P7lTrvv6DRs7UFjgi3eAs6mFQJ4ZRAvXAOHrY5Yq8w2uJOb9DjYpJglYkD+pRA7nF+UuhB2GELARq7Ld/pJD1bqoa2d1+q8jTqVujIH2HrgZwxdne6fJSmHscu8lppLjGu+H28QUzYqJunpKR1XFDIc2tXUS8IhCXNkO0QNYCnxukHAIpqOXStSneQa+RJduDRXJD42Q9/8ae2rzrAmQyBwK4lCcSP9FLAUIaMomGk+/WXMrrsr7qMT+fnNq42sl0zY4yTsJtTZmTTFLtQjYQ2ZhrQaPTMqoG12JaXMAnUznFsMda7Kf3KwV8cq7cKp9Z6J1Ux2rLH91dCwW04QAVI06yrD1wSg+bg==;e1lvupQcrnBzgx+WbwQ4VQ=="
 ---

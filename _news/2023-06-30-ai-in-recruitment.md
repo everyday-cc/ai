@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ai-in-recruitment/"
 webUrl: "https://www.ibm.com/blog/ai-in-recruitment/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "How AI Is Transforming Waste Management, Recycling"
+    excerpt: "While some view AI as a threat, environmental advocates see it as a powerful tool for resolving waste problems."
+    publishedDateTime: 2023-07-03T16:38:00Z
+    webUrl: "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Shanghai to host major artificial intelligence event in July"
     excerpt: "SHANGHAI - The World Artificial Intelligence Conference (WAIC) 2023 will be held from July 6 to 8 in Shanghai, according to a press conference held by the municipal government on Thursday. With the theme \"Intelligent Connectivity Generating Future,"
     publishedDateTime: 2023-06-29T07:31:00Z

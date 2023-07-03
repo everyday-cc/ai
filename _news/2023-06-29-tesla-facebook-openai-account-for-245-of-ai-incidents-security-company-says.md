@@ -24,6 +24,7 @@ topics:
   - AI
   - AI in Autos
   - AI in Security
+  - Facebook AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/649c805f4fc9cb4a620b96c9/0x0.jpg?format=jpg&width=1200"

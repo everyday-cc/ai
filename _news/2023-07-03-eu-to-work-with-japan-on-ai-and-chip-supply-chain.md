@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coinspeaker.com/eu-japan-ai-chip/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/eu-japan-ai-chip/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Japan Takes a Relaxed Stance on AI Regulations to Drive Economic Growth and Lead in Chip Technology"
+    excerpt: "The proposed leniency in Japan’s AI regulations could potentially undermine the EU’s efforts to establish its regulations as the global standard, particularly concerning the disclosure of copyrighted materials used in training AI systems responsible for generating content."
+    publishedDateTime: 2023-07-03T18:20:00Z
+    webUrl: "https://techstory.in/japan-takes-a-relaxed-stance-on-ai-regulations-to-drive-economic-growth-and-lead-in-chip-technology/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 20
 
 secured: "1K9zbd3HebvOGz229JKyGUWX9Rkiuy+5FztYxI6l4rp7/vMD2JXyx5Vd5L01kIHARnFJEw1m3jgbkdxf4l4RcIM+yy0EQKqO9pE/zp4OUMdRvxG5qOf7qnBxEwROKiVQHqH2UOzBgTW9q7+xB9l/VI5ql8/KpH6KaxN6lR+4CG4mftmlH999E9CbtgqFcCKOHWEcsN3dYVwVqj9l6FRlGtRVcKVTeVoKrpHdOfJ5tgnSHN4Ba31gbXqTV21TSRNxHdCBRMstbMTHltfbSrBjggC2NiNmT7BeeNP6wRW4tHy6Wy+AC5Q2Bwx6WhP3p6+Q2Vt4sAhs+UZeZUQEaZQDcWdmAJIF+m/YwmsNPy7kROtpRCY9kxNZJ9SVfopWOppHU4O/SC3N0Ccwn+H/lh2KSJcrGGmDkG03epy+WHim+ppuFfwMWkJqurCJ8jWb/hk1uMTM3MOWxFAA8HkQtUPcM1RqKUgndBHXjnV3yML0icCjxexD65PysqQNEr8wxa/qGRL24VU+ZunBn8SEb8maMw==;0nDnTr9nzUhAe6Gzz97wiQ=="
 ---

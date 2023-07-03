@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Airport face biometrics expansion in US, India accelerating"
+    excerpt: "The expansion is part of a trend towards the use of face biometrics by government authorities, in a boon for vendors like Dignari and Idemia."
+    publishedDateTime: 2023-07-03T19:24:00Z
+    webUrl: "https://www.biometricupdate.com/202307/airport-face-biometrics-expansion-in-us-india-accelerating"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
 secured: "SmOQb0djjG6V2n5AoOR382/YXB6oIK9r/ibUjzJTZc1thYJkZCCcwL/UNl/Z7RbB9HBOUydppqFCF8Im03CAyxRhSuKHd9iysW2N4K4mBK/deZnQP6ncMQz6FZ1Xaobxjap1asI93KLQ1xai9MCbQllrfKxU7oCd7kYr0kOG0j9CFCC/XCVr0Mztlb/EI90QF/N4iXcLsCWRv3c66XqNXCAcetxN2bHL/xgoiDnore7soiKylQfyedoE7/r8ket308SqBd/0tDF5oVg+cYnP2mt8ihArDa71dHi9Dg4lkG0P3bVwGOVU9hLxQdulCLEmC6byrIK/r9C2ISmgxEzTMR37z6b9lBt9J7h4xJ6dBTA=;bCfXIL/mD60pffLLBVCZSA=="
 ---

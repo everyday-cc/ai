@@ -54,6 +54,15 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Airport face biometrics expansion in US, India accelerating"
+    excerpt: "The expansion is part of a trend towards the use of face biometrics by government authorities, in a boon for vendors like Dignari and Idemia."
+    publishedDateTime: 2023-07-03T19:24:00Z
+    webUrl: "https://www.biometricupdate.com/202307/airport-face-biometrics-expansion-in-us-india-accelerating"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
   - title: "Food Allergy Institute's Inderpal Randhawa, MD Discusses the Relationship Between Artificial Intelligence and Medicine in In-Depth Video Interview"
     excerpt: "Food Allergy Institute (FAI) founder Inderpal Randhawa, MD, was interviewed by an investigative reporter for an in-depth discussion on the current state of artificial intelligence (A.I.) and how he an"
     publishedDateTime: 2023-06-29T15:31:00Z

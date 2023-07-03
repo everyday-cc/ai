@@ -2,6 +2,521 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-05-24-ai-in-retail-smarter-stores-smarter-product-design.md",
+      "title": "AI in retail: Smarter stores, smarter product design",
+      "excerpt": "Retail companies are turning to AI to handle a long list of challenges that would keep any business leader awake at night",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
+      "originalUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_573239156-1.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
+      "publishedDateTime": "2023-05-24T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-kubernetes-version-127-now-available-in-ibm-cloud-kubernetes-service.md",
+      "title": "Kubernetes version 1.27 now available in IBM Cloud Kubernetes Service",
+      "excerpt": "We are excited to announce the availability of Kubernetes version 1.27 for your clusters that are running in IBM Cloud Kubernetes Service.\nThe post Kubernetes version 1.27 now available in IBM Cloud Kubernetes Service appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/kubernetes-version-1-27-now-available-in-ibm-cloud-kubernetes-service/",
+      "originalUrl": "https://www.ibm.com/blog/kubernetes-version-1-27-now-available-in-ibm-cloud-kubernetes-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T05:51:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-redefining-the-consumer-experience-diageo-partners-with-sap-and-ibm-on-global-digital-transformation.md",
+      "title": "Redefining the consumer experience: Diageo partners with SAP and IBM on global digital transformation",
+      "excerpt": "Today, we are thrilled to announce an exciting partnership between Diageo, IBM and SAP that aims to modernize Diageo’s operations on a global scale and set new benchmarks for the industry.\nThe post Redefining the consumer experience: Diageo partners with SAP and IBM on global digital transformation appeared",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/diageo-partners-with-sap-and-ibm/",
+      "originalUrl": "https://www.ibm.com/blog/diageo-partners-with-sap-and-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Option-1.jpg",
+          "width": 1190,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-team-first-to-successfully-scale-deep-neural-network-models-for-federated-learning-framework.md",
+      "title": "Team First to Successfully Scale Deep Neural Network Models for Federated Learning Framework",
+      "excerpt": "A new machine-learning (ML) framework for clients with varied computing resources is the first of its kind to successfully scale deep neural network (DNN) models like those used to detect and recognize objects in still and video images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/team-first-successfully-scale-deep-neural-network-models-federated-learning-framework",
+      "originalUrl": "https://www.cc.gatech.edu/news/team-first-successfully-scale-deep-neural-network-models-federated-learning-framework",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/Screen%20Shot%202023-06-01%20at%202.48.19%20PM.png",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-machine-learning-model-operationalization-management-mlops-market-report-2023-increasing-adoption-rate-of-machine-learning-fuels-growth.md",
+      "title": "Machine Learning Model Operationalization Management (MLOPS) Market Report 2023: Increasing Adoption Rate Of Machine Learning Fuels Growth",
+      "excerpt": "Machine learning model operationalization management (MLOPS) market is expected to grow at a CAGR of 47.81% from a market size of US$842.105 million in 2021 to reach US$12,981.316 million in 2028. Machine learning model operationalization management (MLOps) is the process of managing and deploying machine learning models in a business environment and involves the integration of data pipelines,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106307830/Machine-Learning-Model-Operationalization-Management-MLOPS-Market-Report-2023-Increasing-Adoption-Rate-Of-Machine-Learning-Fuels-Growth",
+      "originalUrl": "https://menafn.com/1106307830/Machine-Learning-Model-Operationalization-Management-MLOPS-Market-Report-2023-Increasing-Adoption-Rate-Of-Machine-Learning-Fuels-Growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?227454",
+          "width": 323,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly.md",
+      "title": "One Way AI Will Help Human Workers: Ensuring They're Paid Fairly",
+      "excerpt": "Automation will change the job landscape for many workers—but instead of taking everyone’s jobs away, AI is throwing into relief what kind of skills are most needed for today’s rapidly evolving job market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626173e1aeaa4c8e625ca2cd/0x0.jpg?format=jpg&crop=2046,1151,x0,y286,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/",
+      "publishedDateTime": "2023-05-24T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-woman-using-ai-to-redesign-garden-sparks-debate-cool-but-sad.md",
+      "title": "Woman Using AI to Redesign Garden Sparks Debate: 'Cool But Sad'",
+      "excerpt": "Paulina Machaj told Newsweek she's used artificial intelligence to generate design ideas and gain inspiration for what her courtyard garden could look like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314",
+      "originalUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2238408/backyard-garden-woman-looking-computer-screens.jpg",
+          "width": 2201,
+          "height": 1553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1",
+      "publishedDateTime": "2023-05-24T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-what-have-we-learned-about-ai-ethics-its-time-for-risk-based-regulations.md",
+      "title": "What have we learned about AI ethics? It's time for risk-based regulations",
+      "excerpt": "The bad news? The typical approach to AI ethics hasn't worked. But a way forward is emerging - via a growing momentum for risk-based AI regulations.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
+      "originalUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2016-08/robots-typing.jpg",
+          "width": 1041,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
+      "publishedDateTime": "2023-05-24T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-which-car-makers-offer-hands-free-driving-systems-for-2023.md",
+      "title": "Which car makers offer hands-free driving systems for 2023?",
+      "excerpt": "Fully automated self-driving cars are still a thing of the future. But you can get a taste of what they’ll be like if your vehicle has what’s commonly described as hands-free driving capability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/edmunds-who-offers-hands-free-driving-systems-for-2023/",
+      "originalUrl": "https://www.seattletimes.com/business/edmunds-who-offers-hands-free-driving-systems-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-dells-project-helix-is-a-wide-reaching-generative-ai-service.md",
+      "title": "Dell’s Project Helix is a wide-reaching generative AI service",
+      "excerpt": "Project Helix is an early look at an upcoming Dell product that will assist organizations in running generative AI. It spans the lifecycle of the AI creation process, including infrastructure provisioning, modeling, training, fine-tuning, application development and deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/dell-technologies-world-project-helix-generative-ai-deployment/",
+      "originalUrl": "https://www.techrepublic.com/article/dell-technologies-world-project-helix-generative-ai-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2019/08/AdobeStock_109099922-270x203.jpeg",
+          "width": 270,
+          "height": 203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-the-new-era-of-big-data.md",
+      "title": "The New Era Of Big Data",
+      "excerpt": "TC Energy leveraged the image processing ML technology Amazon Rekognition from Amazon Web Services (AWS) to classify and label the digitized records and then deployed the AI service Textract to transform the handwritten letters into machine-readable words.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646cba1470047fbdce5f411d/0x0.jpg?format=jpg&crop=6000,3375,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/amp/",
+      "publishedDateTime": "2023-05-24T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-to-build-humanoid-robots.md",
       "title": "AI Startup Figure Raises $70 Million to Build Humanoid Robots",
       "excerpt": "AI Startup Figure Raises $70 Million to Build Humanoid Robots By Krystal Hu (Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors ...",
@@ -625,539 +1140,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-now-has-a-key-to-spotifys-songwriting-fortress.md",
-      "title": "AI Now Has a Key to Spotify’s Songwriting Fortress",
-      "excerpt": "Overnight on Wall Street is morning in Europe. Bloomberg Daybreak Europe, anchored live from London, tracks breaking news in Europe and around the world. Markets never sleep, and neither does Bloomberg News. Monitor your investments 24 hours a day, around the clock from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-05-24/ai-and-music-software-now-has-a-key-to-spotify-s-songwriting-fortress",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-05-24/ai-and-music-software-now-has-a-key-to-spotify-s-songwriting-fortress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isRoo_2ChE8o/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-uber-partners-with-alphabet-over-self-driving-taxis.md",
-      "title": "Uber Partners With Alphabet Over Self-Driving Taxis",
-      "excerpt": "Learn More To keep dreaming its self-driving dream, Uber is entering into a new relationship with an old adversary. Uber and Waymo, the autonomous driving... For more crisp and insightful business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/23/uber-partners-with-alphabet-over-self-driving-taxi/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/23/uber-partners-with-alphabet-over-self-driving-taxi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search.md",
-      "title": "Google to experiment with ads that appear in its AI chatbot in Search",
-      "excerpt": "Google detailed its plans for running Search and Shopping ads inside its conversational AI experience in Search, via the recently announced Search Generative Experience (SGE) in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/",
-      "originalUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Screenshot-2023-05-23-at-12.41.47-PM.jpg?resize=1200,676",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/",
-      "publishedDateTime": "2023-05-23T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-metas-open-source-speech-ai-recognizes-over-4000-spoken-languages.md",
-      "title": "Meta’s open-source speech AI recognizes over 4,000 spoken languages",
-      "excerpt": "Speech recognition and text-to-speech models typically require training on thousands of hours of audio with accompanying transcription labels. (Labels are crucial to machine learning, allowing the algorithms to correctly categorize and “understand” the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "originalUrl": "https://www.engadget.com/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/JzJ2abmPPF2r7uJtcJ315A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/2083da10-f672-11ed-9fae-36f04f718dd4.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "publishedDateTime": "2023-05-23T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-amazon-corporate-workers-plan-walkout-next-week-over-return-to-office-policies.md",
-      "title": "Amazon corporate workers plan walkout next week over return-to-office policies",
-      "excerpt": "Some Amazon corporate workers have announced plans to walk off the job next week over frustrations with the company’s return-to-work policies, among other issues, in a sign of heightened ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html",
-      "originalUrl": "https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/221115113445-01-amazon-corporate-headquarters-seattle-file.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/23/tech/amazon-walkout/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/23/tech/amazon-walkout/index.html",
-      "publishedDateTime": "2023-05-23T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-integrates-nvidias-ai-enterprise-suite-with-azure-machine-learning.md",
-      "title": "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning",
-      "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large language models. Nvidia’s AI Enterprise Suite aids in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
-      "originalUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence.md",
-      "title": "Fake image of explosion near Pentagon stirs concerns over artificial intelligence",
-      "excerpt": "A fabricated photo seems to show a fiery explosion near the Pentagon and went viral. Now experts say it was likely created by AI, fueling concerns about the technology’s use on social media. NBC News’ Hallie Jackson has more details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684882938191_nn_hja_ai_doctored_images_moves_markets_230523_1920x1080-5t44ym.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo176166981779",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo176166981779",
-      "publishedDateTime": "2023-05-23T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-3-principles-biometric-vendors-should-embrace-to-promote-trust-in-facial-recognition-technology.md",
-      "title": "3 principles biometric vendors should embrace to promote trust in facial recognition technology",
-      "excerpt": "Here's how vendors can contribute to more responsible and ethical use of facial recognition and other biometric tech and ensure privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/3-principles-biometric-vendors-should-embrace-to-promote-trust-in-facial-recognition-technology/",
-      "originalUrl": "https://venturebeat.com/security/3-principles-biometric-vendors-should-embrace-to-promote-trust-in-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-adobe-brings-fireflys-generative-ai-to-photoshop.md",
-      "title": "Adobe brings Firefly’s generative AI to Photoshop",
-      "excerpt": "Photoshop is getting an infusion of generative AI today with the addition of a number of Firefly-based features that will allow users to extend images beyond their borders with Firefly-generated backgrounds,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/",
-      "originalUrl": "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/gBWUDTLU.png?resize=1200,793",
-          "width": 1200,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/amp/",
-      "publishedDateTime": "2023-05-23T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-axiado-sampling-the-industrys-first-ai-driven-security-chip.md",
-      "title": "Axiado Sampling The Industry’s First AI-Driven Security Chip",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Axiado introduced the latest technologies in its portfolio, the AX3000 and AX2000 trusted control/compute unit",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646d3315192d6cfc7da62c39/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/amp/",
-      "publishedDateTime": "2023-05-23T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-chatgpt-can-china-overtake-the-us-in-the-ai-marathon.md",
-      "title": "ChatGPT: Can China overtake the US in the AI marathon?",
-      "excerpt": "But China could catch up, according to analysts, as AI solutions take years to be perfected. Chinese internet companies \"are arguably more advanced than US internet companies, depending on how you're measuring advancement,\" Kendra Schaefer, head of tech policy research at Trivium China tells the BBC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-65034773",
-      "originalUrl": "https://www.bbc.com/news/business-65034773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15E48/production/_129327698_gettyimages-1248931741.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-65034773.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65034773.amp",
-      "publishedDateTime": "2023-05-23T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

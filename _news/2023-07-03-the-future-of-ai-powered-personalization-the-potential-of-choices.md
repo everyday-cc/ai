@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram"
-    excerpt: "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?"
-    publishedDateTime: 2023-06-30T09:11:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 51
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Community Conversation: “AI is as important to the future of national security as the invention of the airplane.”"
     excerpt: "On Wednesday, June 28, the Dayton Daily News held a Community Conversation on the Dayton Daily News Facebook Page to discuss how artificial intelligence might affect the future of the Miami Valley. The event was co-hosted by Community Impact Editor Nick Hrkman and reporter London Bishop."
     publishedDateTime: 2023-07-02T09:00:00Z

@@ -500,15 +500,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 23
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
-    publishedDateTime: 2023-06-29T03:11:00Z
-    webUrl: "https://www.inferse.com/573595/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "EVXfTpPHp2sh7AGU5w45T1sVUdLL1pZ9VGKJ983UwERCLteTOCh8w9hnorvSPdSeLuGYI69WRh6+6vjb0Usx5/OusT9zkXvTI+nBpTysOP6pduBU2sdomWezQVr9TN4s30K79XvxJYZWVjXW/MOiKlgicJG82ay7X3pj94sR7K5paPGDIOclB/o7dSFoTxyqfT5TOMy7VV/1zh3lWER3tvJCC6qWLGtcgkeHkHDVe9xt6EyYELgOyvISsynb2SAqVO9K5EvxNzzHIgTN1AFN1gbZiyoGDvWFx1a0V55ywjbdrw3zRifVGiarTTQnV19NKl5L6bwuqPF/GpYjLUyfJNDaE+2T7ZthOe4Gu2Daw+Rg54EDatAwK318IBlqNVbJBK9xrpjKsyU/NJIVVgY8LZeoJc4JSWyhU18wBWtfbhR6lQvXZiS/ULXmySxrnbaKlOdKe/tuQlR+NVMHAjaVOzlq9cPbxou0MEInuJrzlIha9A2nK79NvdDgeZswUbBx3G/lK8Iv75/VGXGl5XXDDA==;5seftqnvRZBYA07sY2TWMQ=="
 ---

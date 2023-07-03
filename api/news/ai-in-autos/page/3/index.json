@@ -2,6 +2,205 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-11-how-could-ai-destroy-humanity.md",
+      "title": "How Could A.I. Destroy Humanity?",
+      "excerpt": "Researchers and industry leaders have warned that A.I. could pose an existential risk to humanity. But they’ve been light on the details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html",
+      "originalUrl": "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/11/business/00ai-existential/00ai-existential-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-10T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-10-us-congress-to-consider-two-new-bills-on-artificial-intelligence.md",
+      "title": "U.S. Congress to consider two new bills on artificial intelligence",
+      "excerpt": "WASHINGTON, June 8 (Reuters) - U.S. senators on Thursday introduced two separate bipartisan artificial intelligence bills on Thursday amid growing interest in addressing issues surrounding the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/us-congress-consider-two-new-bills-artificial-intelligence-2023-06-08/",
+      "originalUrl": "https://www.reuters.com/technology/us-congress-consider-two-new-bills-artificial-intelligence-2023-06-08/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UlFS-HCyPyOhqvGErwKxsmm53ZA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CMOR6ZPOFRK25FN5J26IFXMIVA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-10-tesla-driver-hits-a-dog-claim-they-were-on-full-self-driving-beta.md",
+      "title": "Tesla driver hits a dog, claim they were on Full Self-Driving Beta",
+      "excerpt": "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/",
+      "originalUrl": "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-do-self-driving-cars-have-a-future.md",
+      "title": "Do self-driving cars have a future?",
+      "excerpt": "The death of self-driving vehicles has been greatly exaggerated. That was the message of two experts, on the subjects of artificial intelligence and transportation, who recently weighed in on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/transportation-self-driving-cars-future-artificial-intelligence-san-jose-california",
+      "originalUrl": "https://www.washingtonexaminer.com/news/transportation-self-driving-cars-future-artificial-intelligence-san-jose-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/e324a99/2147483647/strip/true/crop/2290x1202+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F6f%2F4c%2F68ffaf6548d1a4b90bb7a4ab031b%2Fselfdrivingcars.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-which-cars-have-self-driving-features.md",
       "title": "Which Cars Have Self-Driving Features?",
       "excerpt": "A self-driving car (sometimes called an autonomous car or driverless car) is a vehicle that uses a combination of sensors, cameras, radar, and artificial intelligence (AI) to travel between destinations without a human operator. Companies developing and ...",
@@ -1140,170 +1339,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-artificial-intelligence-could-one-day-cause-human-extinction-center-for-ai-safety-warns.md",
-      "title": "Artificial intelligence could one day cause human extinction, center for AI safety warns",
-      "excerpt": "Worries about artificial intelligence systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable AI chatbots such as ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/tech/news/2023/05/30/ai-may-cause-human-extinction-experts-warn/70269260007/",
-      "originalUrl": "https://www.palmbeachpost.com/story/tech/news/2023/05/30/ai-may-cause-human-extinction-experts-warn/70269260007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/05/27/NOKL/d325769a-e0c6-4e71-9a68-4053f00561ba-AP23136685324254.jpg?auto=webp&crop=5745,3232,x0,y292&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-tesla-driver-claims-she-crashed-into-a-tree-on-self-driving-mode.md",
-      "title": "Tesla driver claims she crashed into a tree on ‘self-driving mode’",
-      "excerpt": "A Tesla driver in Michigan claimed that her car was in “self-driving mode” when she crashed into a tree. As usual, it is important to take these claims with a grain of salt until the data is collected. The accident happened on Sunday evening near Big Rapids.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/",
-      "originalUrl": "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-self-driving-cars-lack-social-intelligence-in-traffic.md",
-      "title": "Self-driving cars lack social intelligence in traffic",
-      "excerpt": "Self-driving cars fall short when it comes to understanding the social codes in traffic that let human drivers decide whether to give way or drive on, according to new award winning research from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/990773",
-      "originalUrl": "https://www.eurekalert.org/news-releases/990773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times.md",
-      "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT – The New York Times",
-      "excerpt": "AdvertisementSupported byThe tech giant aims to remain at the forefront of generative artificial intelligence with its partnership with OpenAI.Send any friend",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/523511/microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times/",
-      "originalUrl": "https://www.inferse.com/523511/microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-29T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

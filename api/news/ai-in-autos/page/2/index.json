@@ -2,6 +2,216 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-21-tusimple-tests-removing-human-driver-from-self-driving-truck-in-china.md",
+      "title": "TuSimple tests removing human driver from self-driving truck in China",
+      "excerpt": "TuSimple is doubling down on its China business after completing a fully autonomous \"driver-out\" truck run in Shanghai.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/",
+      "originalUrl": "https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/TuSimple-Self-Drving-Truck-5.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/amp/",
+      "publishedDateTime": "2023-06-20T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-cruise-launches-an-android-app-for-its-self-driving-taxis.md",
+      "title": "Cruise launches an Android app for its self-driving taxis",
+      "excerpt": "Cruise has finally launched an Android app for ridehailing, giving potential customers in San Francisco the option to call one of its robotaxis even if they're not iPhone users..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
+      "originalUrl": "https://www.engadget.com/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/5dzf4NlsIvcmGvpR7BMA4Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/689d9960-0f60-11ee-bf85-8f84a2ed3cb6.cf.jpg",
+          "width": 795,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
+      "publishedDateTime": "2023-06-20T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-jack-mas-lieutenants-return-to-oversee-tough-alibaba-reboot.md",
+      "title": "Jack Ma’s Lieutenants Return to Oversee Tough Alibaba Reboot",
+      "excerpt": "In Baidu’s wake, Alibaba unfurled its own large language model dubbed Tongyi Qianwen. That might be key to ensuring the company name endures 102 years, as co-founder Ma once famously and repeatedly declared was his over-arching ambition.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6288353/alibaba-eddie-wu-joseph-tsai/",
+      "originalUrl": "https://time.com/6288353/alibaba-eddie-wu-joseph-tsai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5.md",
+      "title": "AI Utopia And Dystopia. What Will The Future Have In Store? Artificial Intelligence Series 5 Of 5",
+      "excerpt": "Human Flourishing And A Utopian Future In a utopian future empowered by artificial intelligence ... Here are some ways AI could be beneficial to individuals and society: Healthcare spans beyond internal health. There are also companies such as Coralai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
+      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6478245378a2f7a6b37b69d7/0x0.jpg?format=jpg&width=1200",
+          "width": 649,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/",
+      "publishedDateTime": "2023-06-19T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-automotive-self-driving-chip-sales-market-current-scenario-analysis-report-till-2029.md",
       "title": "Automotive self-driving chip sales Market Current Scenario Analysis Report till 2029",
       "excerpt": "Global “ Automotive self-driving chip sales ” Market Research 2023 provides in-depth information on market segments, geographical areas, and the most recent industry trends and developments. The research provides industry affecting growth variables such as size,",
@@ -1209,205 +1419,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-how-could-ai-destroy-humanity.md",
-      "title": "How Could A.I. Destroy Humanity?",
-      "excerpt": "Researchers and industry leaders have warned that A.I. could pose an existential risk to humanity. But they’ve been light on the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html",
-      "originalUrl": "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/06/11/business/00ai-existential/00ai-existential-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-10T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-us-congress-to-consider-two-new-bills-on-artificial-intelligence.md",
-      "title": "U.S. Congress to consider two new bills on artificial intelligence",
-      "excerpt": "WASHINGTON, June 8 (Reuters) - U.S. senators on Thursday introduced two separate bipartisan artificial intelligence bills on Thursday amid growing interest in addressing issues surrounding the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/us-congress-consider-two-new-bills-artificial-intelligence-2023-06-08/",
-      "originalUrl": "https://www.reuters.com/technology/us-congress-consider-two-new-bills-artificial-intelligence-2023-06-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/UlFS-HCyPyOhqvGErwKxsmm53ZA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CMOR6ZPOFRK25FN5J26IFXMIVA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-tesla-driver-hits-a-dog-claim-they-were-on-full-self-driving-beta.md",
-      "title": "Tesla driver hits a dog, claim they were on Full Self-Driving Beta",
-      "excerpt": "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/",
-      "originalUrl": "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-do-self-driving-cars-have-a-future.md",
-      "title": "Do self-driving cars have a future?",
-      "excerpt": "The death of self-driving vehicles has been greatly exaggerated. That was the message of two experts, on the subjects of artificial intelligence and transportation, who recently weighed in on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/transportation-self-driving-cars-future-artificial-intelligence-san-jose-california",
-      "originalUrl": "https://www.washingtonexaminer.com/news/transportation-self-driving-cars-future-artificial-intelligence-san-jose-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/e324a99/2147483647/strip/true/crop/2290x1202+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F6f%2F4c%2F68ffaf6548d1a4b90bb7a4ab031b%2Fselfdrivingcars.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

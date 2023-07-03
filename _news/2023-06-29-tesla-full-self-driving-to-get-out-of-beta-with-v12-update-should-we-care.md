@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "One Man’s Quest to Ban Tesla’s Full Self Driving and Take on Elon Musk"
-    excerpt: "The Dawn Project’s Dan O’Dowd paid for a Super Bowl ad and conducts regular tests to show that Tesla’s FSD technology is dangerous and should be outlawed."
-    publishedDateTime: 2023-06-29T02:37:00Z
-    webUrl: "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/"
-    ampWebUrl: "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/"
+  - title: "Tesla is valuing Full Self-Driving high only when it’s convenient"
+    excerpt: "Tesla is only valuing its Full Self-Driving package high when it’s convenient for the company. When it’s not, like"
+    publishedDateTime: 2023-07-03T19:58:00Z
+    webUrl: "https://electrek.co/2023/07/03/tesla-valuing-full-self-driving-high-when-convenient/"
     type: article
     provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 74
+      name: Electrek
+      domain: electrek.co
+    quality: 69
     images:
-      - url: "https://www.motortrend.com/uploads/2023/06/002-tsla-fsd-test-dan-odowd-testing-with-ross-gerbe.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla’s Full Self-Driving Version 12 Will Leave “Beta” Behind"
     excerpt: "The brand's polarizing CEO Elon Musk says that when version 12 makes it to the masses that it won't be dubbed \"beta\""

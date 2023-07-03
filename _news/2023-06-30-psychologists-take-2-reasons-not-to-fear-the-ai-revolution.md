@@ -38,6 +38,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Health care's AI revolution is well under way, say experts"
+    excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
+    publishedDateTime: 2023-07-03T20:55:00Z
+    webUrl: "https://medicalxpress.com/news/2023-07-health-ai-revolution-experts.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-07-health-ai-revolution-experts.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-health-ai-revolution-experts.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
+        isCached: true
   - title: "13 Principles for Using AI Responsibly"
     excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
     publishedDateTime: 2023-06-30T12:14:00Z

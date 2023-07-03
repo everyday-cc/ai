@@ -341,6 +341,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-computer-vision-south-america.md",
+      "title": "Computer Vision - South America",
+      "excerpt": "Value in the Computer Vision market is projected to reach US$523.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.09%, resulting in a market volume of US$1,318 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-america",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-innovation.md",
       "title": "Thundercomm Demonstrated GenAI Integrated Robotics Solution to Accelerate a New Wave of Robotics Innovation",
       "excerpt": "Thundercomm, a world leading IoT product and solution provider, announced the successful integration of its privately deployed Rubik large language model(LLM) with Qualcomm RB5 AMR Reference Design. T",
@@ -382,6 +425,49 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-computer-vision-united-states.md",
+      "title": "Computer Vision - United States",
+      "excerpt": "Value in the Computer Vision market is projected to reach US$8.31bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 10.00%, resulting in a market volume of US$16.19bn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/united-states",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/united-states",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1332,102 +1418,6 @@
       "provider": {
         "name": "Politico Europe",
         "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-empowering-individuals-with-disabilities-through-ai-technology.md",
-      "title": "Empowering Individuals With Disabilities Through AI Technology",
-      "excerpt": "Tyler Weitzman, cofounder, President and Head of AI at Speechify. The WHO estimates that more than 2.5 billion disabled people will need one or more assistive technologies in 2030. Yet almost a billion of them can’t access these products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648b358071553ed0ad9b88a1/0x0.jpg?format=jpg&width=1200",
-          "width": 983,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/",
-      "publishedDateTime": "2023-06-16T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-how-would-facial-recognition-technology-work-in-ireland.md",
-      "title": "How would facial recognition technology work in Ireland?",
-      "excerpt": "Government plans to give gardaí powers to use facial recognition technology (FRT) in limited circumstances hit a stumbling block last month on Simon Harris's last day with the justice brief when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/primetime/2023/0614/1389207-how-would-facial-recognition-technology-work-in-ireland/",
-      "originalUrl": "https://www.rte.ie/news/primetime/2023/0614/1389207-how-would-facial-recognition-technology-work-in-ireland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/001e4062-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
         "images": null,
         "publishers": null,
         "authors": null

@@ -160,21 +160,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-29-how-ai-influences-what-you-see-on-facebook-and-instagram.md",
-      "title": "How AI Influences What You See on Facebook and Instagram",
-      "excerpt": "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content.",
+      "path": "_news/2023-06-29-meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram.md",
+      "title": "Meta releases clues on how AI is used on Facebook and Instagram",
+      "excerpt": "As demand for greater transparency in artificial intelligence mounts ... such as Instagram Stories and Facebook’s news feed. These describe how Meta selects what content to recommend to users.",
       "sourceUrl": null,
-      "webUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
-      "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+      "webUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 179,
       "tags": null,
       "images": [
         {
-          "url": "https://about.fb.com/wp-content/uploads/2023/06/Content-Recommendations-Policy-Updates-NC_Header.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230628181712-meta-discloses-ai-information.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -182,14 +182,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
-      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
-      "publishedDateTime": "2023-06-29T03:00:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "publishedDateTime": "2023-06-29T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "about.fb",
-        "domain": "fb.com",
-        "images": null,
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -200,6 +209,60 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-tesla-facebook-openai-account-for-245-of-ai-incidents-security-company-says.md",
+      "title": "Tesla, Facebook, OpenAI Account For 24.5% Of ‘AI Incidents,’ Security Company Says",
+      "excerpt": "The first \"AI Incident\" in Surfshark’s record almost caused global nuclear war. The newest ones: political deepfakes and self-driving cars endangering drivers and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c805f4fc9cb4a620b96c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
+      "publishedDateTime": "2023-06-28T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Security",
+        "Facebook AI"
       ]
     },
     {
@@ -1360,58 +1423,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-the-price-well-pay-for-our-ai-future-more-loneliness.md",
-      "title": "The price we'll pay for our AI future: more loneliness",
-      "excerpt": "Many Amercians already harbor this worry: A recent survey by the Pew Research Center found that one of Americans' top concerns with AI is the technology's inherent \"lack of human connection.\" Our time on earth is limited. While the convenience of AI could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647653d9df2567001837c25c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
-      "publishedDateTime": "2023-06-07T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

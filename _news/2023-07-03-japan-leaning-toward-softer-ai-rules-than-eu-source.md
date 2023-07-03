@@ -41,6 +41,15 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Japan Takes a Relaxed Stance on AI Regulations to Drive Economic Growth and Lead in Chip Technology"
+    excerpt: "The proposed leniency in Japan’s AI regulations could potentially undermine the EU’s efforts to establish its regulations as the global standard, particularly concerning the disclosure of copyrighted materials used in training AI systems responsible for generating content."
+    publishedDateTime: 2023-07-03T18:20:00Z
+    webUrl: "https://techstory.in/japan-takes-a-relaxed-stance-on-ai-regulations-to-drive-economic-growth-and-lead-in-chip-technology/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 20
 
 secured: "XlkMmIv9crMU0kH11Lxxpn1RAtMx3p8zbhFTU7MMRjT1YqkhZdAbrCl98ZaUH3JfmadLmCSi2oBmqc0cwk2RkAvNHemqSV2IX4E8WXNI1VEMyADhV2E9GK4kRl1pffZCUjHRogO5Qc6XmbSPdCHztEbJF0Fh1Pt1dutDowcsjuy5IPTGsDshEsCcI1If+/2GMzmvOZg4hkGKgJgEPpgZCzRT2zVi42/dr1Tl1+KJR7PYgUFpX40YZBBlhho/EOmvuqgPaKXFLcBoqlLGOFZaZpNd2B0I+6kVUyM/FvWOMkXJXduNnJ1eGm6qcdQLqCyk6slRNCbzSbI9qeGWSWZ0UKGSgoOMIYxK2emMLq+dgrk=;ibEItthG2APwWfoDZ+b4dg=="
 ---

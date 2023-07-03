@@ -2,6 +2,497 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-28-kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services.md",
+      "title": "Kumo empowers deep learning in Snowflake Data Cloud through Snowpark Container Services",
+      "excerpt": "The new integration will run Kumo AI services directly on the Snowflake Data Cloud through Snowpark Container Services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/",
+      "originalUrl": "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-snowflake-unveils-new-large-language-model-to-extract-deeper-insights-from-documents-while-continuing-to-advance-platform-speed-and-performance.md",
+      "title": "Snowflake Unveils New Large Language Model to Extract Deeper Insights from Documents, While Continuing to Advance Platform Speed and Performance",
+      "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today announced at its annual user conference, Snowflake Summit 2023, new advancements to its single, unified platform that make it easier for organizations to get value from all of their data,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/27/9840070.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/27/9840070.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-ai-is-unlocking-major-wealth-potential-for-robotics-stocks.md",
+      "title": "AI Is Unlocking Major Wealth Potential for Robotics Stocks",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Looking for the best AI stocks to buy to potentially make a small fortune over",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-is-unlocking-major-wealth-potential-for-robotics-stocks-1032413268",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-is-unlocking-major-wealth-potential-for-robotics-stocks-1032413268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain.md",
+      "title": "UTEP researchers construct self-driving boat that maps underwater terrain",
+      "excerpt": "Researchers at the University of Texas at El Paso have constructed a “fully autonomous boat” that can make it easier for scientists to study underwater",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/",
+      "originalUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ktsm.com/wp-content/uploads/sites/38/2023/06/Autonomous-Boat_5-1.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/",
+      "cdnAmpWebUrl": "https://www-ktsm-com.cdn.ampproject.org/c/s/www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/",
+      "publishedDateTime": "2023-06-27T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NewsChannel 9 - KTSM",
+        "domain": "ktsm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-will-the-us-governments-latest-cyber-policy-actually-improve-us-security.md",
+      "title": "Will The U.S. Government’s Latest Cyber Policy Actually Improve U.S. Security?",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead digs into EO 13984, which risks creating new problems for IaaS vendors without actually improving cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b18aa9dbdc4ceaf3c85e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 720,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/",
+      "publishedDateTime": "2023-06-27T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-deepmind-ceo-says-that-googles-next-ai-system-called-gemini-will-outshine-chatgpt.md",
+      "title": "DeepMind CEO says that Google's next AI system called Gemini will outshine ChatGPT",
+      "excerpt": "Gemini, the latest AI product DeepMind researchers are working on, will seemingly put ChatGPT to shame. Demis Hassabis, CEO and co-founder of the British AI research",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html",
+      "originalUrl": "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-27-image-14.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-former-deepmind-researchers-founded-ai-startup-reka-raises-50-mn.md",
+      "title": "Former DeepMind researchers founded AI startup Reka raises $50 mn",
+      "excerpt": "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "originalUrl": "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "publishedDateTime": "2023-06-27T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-spectrum-scale-on-ibm-cloud-performance.md",
+      "title": "Spectrum Scale on IBM Cloud performance",
+      "excerpt": "The IBM Cloud Spectrum Scale catalog tile has been designed to offer you the shortest path to get to a high-performance compute and storage cluster.\nThe post Spectrum Scale on IBM Cloud performance appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
+      "originalUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/fsc_2816.xl_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T10:20:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-new-bioinspired-robot-flies-rolls-walks-and-more.md",
+      "title": "New bioinspired robot flies, rolls, walks, and more",
+      "excerpt": "A newly created real-life Transformer is capable of reconfiguring its body to achieve eight distinct types of motion and can autonomously assess the environment it faces to choose the most effective combination of motions to maneuver.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-bioinspired-robot.jpg",
+          "width": 1600,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
+      "publishedDateTime": "2023-06-27T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-will-ibms-ai-investments-actually-pay-off.md",
+      "title": "Will IBM's AI Investments Actually Pay Off?",
+      "excerpt": "Chief Commercial Officer Rob Thomas outlined how far IBM's Watson systems have come in the last three years: We've been investing [in the WatsonX generative AI platform] for 3 years. And if you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/will-ibms-ai-investments-actually-pay-off",
+      "originalUrl": "https://www.nasdaq.com/articles/will-ibms-ai-investments-actually-pay-off",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-ai-ethics-toolkit-updated-to-include-more-assessment-components.md",
+      "title": "AI ethics toolkit updated to include more assessment components",
+      "excerpt": "The second iteration of the Veritas Toolkit includes assessment methodologies for accountability and transparency, to guide financial institutions on the 'responsible' use of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
+      "originalUrl": "https://www.zdnet.com/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/67e8ddec8fbda08aa6aa41f56f4eebd3490ba09d/2023/06/27/21f0d05c-4499-4fbb-8397-0e776e3df381/gettyimages-1386663569.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
+      "publishedDateTime": "2023-06-27T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-edge-ai-will-shape-all-aspects-of-mediatek-business.md",
       "title": "Edge AI will shape all aspects of MediaTek business",
       "excerpt": "Dr. Finbarr Moynihan, head of Corporate Marketing at MediaTek, will speak at the event to explore AI adoption for smart edge devices. In a preliminary interview with DIGITIMES Asia, the MediaTek VP shares his insights on where the leading mobile chipmaker stands when it comes to AI deployment,",
@@ -685,532 +1176,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ai-driven-consumer-experience-how-not-to-cross-the-line.md",
-      "title": "AI-Driven Consumer Experience: How Not To Cross The Line",
-      "excerpt": "Although AI-powered solutions often come with the promise of accelerating company processes, the power of these tools may be overestimated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/amp/",
-      "publishedDateTime": "2023-06-27T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-calypsoai-secures-23-million-to-lead-enterprise-ai-security-market.md",
-      "title": "CalypsoAI secures $23 million to lead enterprise AI security market",
-      "excerpt": "CalypsoAI, an AI security startup, announced today that it has raised $23 million in financing to further develop its AI governance solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/calypsoai-secures-23-million-to-lead-enterprise-ai-security-market/",
-      "originalUrl": "https://venturebeat.com/security/calypsoai-secures-23-million-to-lead-enterprise-ai-security-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/nuneybits_vector_art_of_AI_security_13117b12-b3d2-4178-8ffb-89eb5868470e.png?w=1200&strip=all",
-          "width": 1028,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-the-transformative-impact-of-artificial-intelligence-in-medical-tech.md",
-      "title": "The Transformative Impact Of Artificial Intelligence In Medical Tech",
-      "excerpt": "While potentially impeding progress, government regulations play a crucial role in protecting patients and society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6499961a621e4f04eafde972/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/amp/",
-      "publishedDateTime": "2023-06-27T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-6-key-features-of-singlestore-kai-for-mongodb.md",
-      "title": "6 key features of SingleStore Kai for MongoDB",
-      "excerpt": "Much of the data accumulated in today’s world is in JSON (JavaScript Object Notation) format ... enabling use cases like semantic search, image recognition, and similarity matching. No code changes or data transformations Developers can continue to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.html",
-      "originalUrl": "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/07/real-time-os_nautilus_clock_against-the-clock_future_by-raspirator-getty-100804551-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.amp.html",
-      "publishedDateTime": "2023-06-27T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-europe-to-open-artificial-intelligence-crash-test-centers.md",
-      "title": "Europe to Open Artificial Intelligence ‘Crash Test’ Centers",
-      "excerpt": "The Europe Union is introducing “crash test” systems for artificial intelligence to ensure new innovations are safe before they hit the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWwdHOR3OqVU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-baseball-scouts-call-in-artificial-intelligence-help-from-the-bullpen.md",
-      "title": "Baseball Scouts Call In Artificial Intelligence Help From the Bullpen",
-      "excerpt": "Major League Baseball is experimenting with AI analysis of prospects ahead of this year’s draft. It could help identify players’ potential—or flaws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/sports/baseball/mlb-draft-artificial-intelligence-97522ebf",
-      "originalUrl": "https://www.wsj.com/sports/baseball/mlb-draft-artificial-intelligence-97522ebf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-800791/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ai-regulation-is-coming-to-the-us-albeit-slowly.md",
-      "title": "AI Regulation Is Coming To The U.S., Albeit Slowly",
-      "excerpt": "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/",
-      "originalUrl": "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/",
-      "publishedDateTime": "2023-06-27T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-will-ai-really-destroy-humanity.md",
-      "title": "Will AI Really Destroy Humanity?",
-      "excerpt": "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/will-ai-really-destroy-humanity-c7c6eb2e",
-      "originalUrl": "https://www.barrons.com/news/will-ai-really-destroy-humanity-c7c6eb2e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1075391273045126903995874226896604482966---1.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c6eb2e",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c6eb2e",
-      "publishedDateTime": "2023-06-27T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-journeying-towards-a-two-person-delivery-network-digital-twin.md",
-      "title": "Journeying towards a ‘two-person delivery network’ digital twin",
-      "excerpt": "Optimizing and improving the supply chain to support a positive customer experience is a priority for any retailer.\nThe post Journeying towards a ‘two-person delivery network’ digital twin appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/journeying-towards-a-two-person-delivery-network-digital-twin/",
-      "originalUrl": "https://www.ibm.com/blog/journeying-towards-a-two-person-delivery-network-digital-twin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-artificial-intelligence-an-existential-risk-to-humanity.md",
-      "title": "Artificial Intelligence: An Existential Risk To Humanity",
-      "excerpt": "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993",
-      "originalUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-06/4kcths8c_artificial-intelligence-generic-ai-generic_625x300_05_June_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1",
-      "publishedDateTime": "2023-06-27T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-safe-intubation-thanks-to-artificial-intelligence-and-robotics.md",
-      "title": "Safe intubation thanks to artificial intelligence and robotics",
-      "excerpt": "“Our device, intuBot, combines artificial intelligence and robotics. With a camera and state-of-the-art image recognition, we safely insert the endoscope into the trachea at the touch of a button,” explains CEO and co-founder Philippe Ganz. What’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://ethz.ch/en/news-and-events/eth-news/news/2023/06/safe-intubation-thanks-to-artificial-intelligence-and-robotics.html",
-      "originalUrl": "https://ethz.ch/en/news-and-events/eth-news/news/2023/06/safe-intubation-thanks-to-artificial-intelligence-and-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETH Zurich",
-        "domain": "ethz.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

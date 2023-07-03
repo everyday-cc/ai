@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Meta releases clues on how AI is used on Facebook and Instagram"
-excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on"
-publishedDateTime: 2023-06-29T09:01:00Z
-originalUrl: "https://www.wsiltv.com/news/consumer/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/article_b7795e7c-51e2-532b-ae7a-0c1e8871edbe.html"
-webUrl: "https://www.wsiltv.com/news/consumer/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/article_b7795e7c-51e2-532b-ae7a-0c1e8871edbe.html"
+excerpt: "As demand for greater transparency in artificial intelligence mounts ... such as Instagram Stories and Facebook’s news feed. These describe how Meta selects what content to recommend to users."
+publishedDateTime: 2023-06-29T13:14:00Z
+originalUrl: "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html"
+webUrl: "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 179
+published: true
 
 provider:
-  name: WSIL-TV
-  domain: wsiltv.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/1/ff/1fff1fee-3a93-53e1-b28c-a7fba804b3e9/649dad38086b2.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://media.cnn.com/api/v1/images/stellar/prod/230628181712-meta-discloses-ai-information.jpg?c=16x9&q=w_800,c_fill"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -72,6 +78,22 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/430631/meta-addresses-ai-transparency-concerns-on-facebook-instagram-with-new-tools-disclosures.jpg"
         width: 1024
         height: 648
+        isCached: true
+  - title: "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram"
+    excerpt: "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?"
+    publishedDateTime: 2023-06-30T09:11:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 51
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How Does AI Influence What You See On Facebook And Instagram? Meta Has Explained"
     excerpt: "Meta has published a blog post explaining how AI affects your feed on Facebook and Instagram and how you can control the same."
@@ -129,6 +151,6 @@ related:
       domain: searchengineland.com
     quality: 4
 
-secured: "NX4axNwild3XDaqBfVBW7iKMtSS4c/H5HeHSzZPIyZn2pWxqV+3KQeYHYJvsOl0eB/FVLYKSoDRUiprDtY0qef/IZx8jnmCJT7629K9kpby8SlWFfQdTKxr6XuZjXL23HqDx4Cp0UaN0ORZhbzEIeO+fAXUiozRa45AzPtLRrDUCe12PrW2AWpDjf9tX/Z5w4Z/gBnvXGlbHAFgcG7C44ETpgh/c9r8qckk3g776XjOvhpefPCFgGx9TEpf4pyf0togdGg2pBZxpgsOgsWgph9zTxWJbRCJfDGtg2QvTppxM4ZbROyEXumTGfdrZbreglVvQEHLfykYgsKZHjSpDE8vJORk8UT6sXZEJeHi+fRY=;X9aNBkCZjs3/l9rIP8f2kQ=="
+secured: "IIor/TgfbdEiBdnxV8ybYItTYT28P+NW+WOcRhdq7nyHCioJKY2Qg6uSF3k4nFSNjGMrjl/eDnVvTBa1czZsplN62p5AfSLImKZ0wWyYR1NtGGRNuWZEAKsH6OOuhpM5OyZ0CbycP53Vqb0Z2Y9CZcWK9+kGnjrjHLaUhp9mdecI/bvYxZFiMDUehDdjrKSW2aQwNwrkZpv+0IF449zCYGeT8VAcnqwFlb7Nq54czFdFR2E9QXIMpccXSvoq5a2Dzic1hXAEZEdyS7FJh1++n4QC7DC4FQaefkKGP1yVq5KAA+Tvg0tjx5FEJtnLxhd8jD4OECCMcOjogcZ/St9p9/bZSlAlqsfb13nCrYZMb7A=;jp+Ew1xMQ92Y2dSIaiQ0NA=="
 ---
 

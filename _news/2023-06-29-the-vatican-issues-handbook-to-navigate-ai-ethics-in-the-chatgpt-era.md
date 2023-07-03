@@ -57,6 +57,15 @@ related:
         width: 500
         height: 278
         isCached: true
+  - title: "AI Driving New VR/AR Applications in Education, Business"
+    excerpt: "Artificial intelligence helps create user formats for some virtual-reality education programs such as those created by VictoryXR, which allow teachers to safely transport students beyond the walls of their classrooms."
+    publishedDateTime: 2023-07-03T19:12:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/ai-driving-new-vr-ar-applications-in-education-business"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 36
   - title: "In The Crosshairs: The Legal Industry Grapples With The Application And Ethics Of AI"
     excerpt: "In May 2023, Steven Schwartz of Levidow, Levidow & Oberman admitted that he used a generative AI (GAI) platform to produce six non-existent court decisions as citations during his representation in a personal injury case against Avianca Airlines."
     publishedDateTime: 2023-06-29T18:20:00Z

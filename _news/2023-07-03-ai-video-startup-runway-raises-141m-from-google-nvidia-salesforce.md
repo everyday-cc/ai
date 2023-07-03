@@ -111,15 +111,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 54
-  - title: "Robotics startup raises millions for AI, remote control applications"
-    excerpt: "Contoro Robotics, which spun out of medical robotics startup Harmonic Bionics, has raised $6 million in venture backing. The company, led by founder and CEO Youngmok (Mok) Yun, was created last year when Harmonic Bionics,"
-    publishedDateTime: 2023-06-29T01:22:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/inno-insights/2023/06/28/contoro-robotics-lands-millions-for-warehouse-bots.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
   - title: "AI startup Typeface valued at US$1 billion after Salesforce-led fundraise"
     excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday (Jun 29) that it was valued at US$1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
     publishedDateTime: 2023-06-29T13:10:00Z

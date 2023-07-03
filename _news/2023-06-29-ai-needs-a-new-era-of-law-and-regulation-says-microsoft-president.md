@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2023/06/29/brad-smith-ai-amanpour-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn"
 type: article
 quality: 104
-heat: 494
+heat: 484
 published: true
 
 provider:
@@ -504,15 +504,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 23
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
-    publishedDateTime: 2023-06-29T03:11:00Z
-    webUrl: "https://www.inferse.com/573595/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "8viPidoE1BXZvNaRyKpV6MTwqprlPIwWADDRwgG1OiKiDkTteuHbp91/6BTFAKlG2nZyJ2KYoaJBjufdRWNxfhrxtaIrYa4v4k9Jx/nJ3qaNexn4n88MVh0x6QGdiC+G1/jRgO31DZYJpdBuAigo6YIgAmIfAWeZl7mOpZGQNmdIDmVIxcWfGLkBttkS6UIks0+3uif8yTibHD1jg/XIENKVJFyzf772x5iSgfdBGk0L5CfmdPfAyYS5XcfiZN0R5W0m/fe5z96Jp2Y+/WtYiy0okhIp+1XLSeP1AKa+PGm7WndhbVnj5lDtkWjo0lNpBp1Cozw3PNAhRF+pvZxMm7rHddvQ836kuktN3muG4rc=;NYcQYctFNfVOd86T2HmEbA=="
 ---

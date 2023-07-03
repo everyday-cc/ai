@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-01-how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai.md",
+      "title": "How businesses can break through the ChatGPT hype with ‘workable AI’",
+      "excerpt": "Creating AI applications that provide a step-change in user experience and business performance will be essential for Workable AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/",
+      "originalUrl": "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_turning_data_into_products._Colorful_futuristic_tech_730862fd-2fe6-442c-8509-f73523c48d0e.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous.md",
+      "title": "Why business leaders must tackle ethical considerations as AI becomes ubiquitous",
+      "excerpt": "Technology will only continue to evolve, so it is essential that we remain vigilant and keep ethical AI top of mind.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
+      "originalUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/business-meeting.GettyImages-1130939432.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-ai-offers-an-epic-make-or-break-moment-for-investors.md",
+      "title": "AI Offers an Epic Make-or-Break Moment for Investors",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “AI Offers an Epic Make-or-Break Moment for",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/01/global-data-creation.png",
+          "width": 847,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-us-ai-chip-controls-dont-deter-blackrock-from-going-all-in-the-week-in-ai.md",
       "title": "US AI Chip Controls Don’t Deter BlackRock From Going All In: The Week in AI",
       "excerpt": "Artificial intelligence has become the latest battleground for world dominance between China and the US, adding one more link in a long chain of technological rivalries between the two superpowers. The US has so far maintained a competitive edge, but an explosion of Chinese startups in recent months has brought its lead into question.",
@@ -441,7 +596,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-where-does-cadence-stand-1032420971",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -653,7 +808,7 @@
       "originalUrl": "https://www.reuters.com/technology/amds-ai-chips-could-match-nvidias-offerings-software-firm-says-2023-06-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -808,7 +963,7 @@
       "originalUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1080,154 +1235,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity.md",
-      "title": "Why healthcare in the cloud must move to zero trust cybersecurity",
-      "excerpt": "To protect patient identities and health records, healthcare providers must adopt zero trust cybersecurity amid increasing cyberattacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/",
-      "originalUrl": "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/GettyImages-1251551602-e1634921639991.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-makers-must-create-and-observe-new-laws-of-robotics.md",
-      "title": "A.I. makers must create and observe new ‘laws of robotics’",
-      "excerpt": "Yet, it got enough facts right to assure this was no mere phishing expedition, but a version of the new real thing. Attempts at correction were ignored. All along, I knew this could be dicey, both in providing information that – had it been used to correct – could have led to identity theft or,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/",
-      "originalUrl": "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailynews.com/wp-content/uploads/2023/06/OCR-Z-MICROSOFT-CHATGPT-2.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/",
-      "publishedDateTime": "2023-06-30T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-signal-talks-privacy-encryption-ai-and-more-at-techcrunch-disrupt-2023s-security-stage.md",
-      "title": "Signal talks privacy, encryption, AI and more at TechCrunch Disrupt 2023’s Security Stage",
-      "excerpt": "Meredith Whittaker will discuss why encryption’s worth fighting for and why she calls AI “surveillance technology” at TechCrunch Disrupt 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/29/signal-talks-privacy-encryption-ai-and-more-at-techcrunch-disrupt-2023-security-stage/",
-      "originalUrl": "https://techcrunch.com/2023/06/29/signal-talks-privacy-encryption-ai-and-more-at-techcrunch-disrupt-2023-security-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/tc_disrupt_2023_speaker-carousel_1920x1080_Meredith_Whittaker.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/29/signal-talks-privacy-encryption-ai-and-more-at-techcrunch-disrupt-2023-security-stage/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/signal-talks-privacy-encryption-ai-and-more-at-techcrunch-disrupt-2023-security-stage/amp/",
-      "publishedDateTime": "2023-06-30T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Security"
       ]
     }

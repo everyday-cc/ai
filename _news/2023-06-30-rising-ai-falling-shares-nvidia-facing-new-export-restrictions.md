@@ -27,50 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US Planning for New Restrictions on AI Chip Exports to China"
-    excerpt: "US may halt shipments of chips made by Nvidia, Advanced Micro Devices (AMD), and other chip companies to customers in China as early as July."
-    publishedDateTime: 2023-06-29T03:47:00Z
-    webUrl: "https://www.gizmochina.com/2023/06/29/us-planning-for-new-restrictions-on-ai-chip-exports-to-china/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-29-084046.png"
-        width: 901
-        height: 486
-        isCached: true
-  - title: "Nvidia dips on report U.S. considering new A.I. chip export restrictions for China"
-    excerpt: "The federal government is weighing further restrictions on exporting powerful computing chips to China, the kind that power AI models, The Wall Street Journal reported. The restrictions would ..."
-    publishedDateTime: 2023-06-29T05:39:00Z
-    webUrl: "https://www.cnbc.com/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 83
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107161191-1670264480854-gettyimages-1245381984-US-EU_TRADE_COUNCIL.jpeg?v=1687955882"
-        width: 5561
-        height: 3708
-        isCached: true
-  - title: "Nvidia warns tighter AI chip export restrictions to China risk permanent US industry losses"
-    excerpt: "Nvidia's share price took a tumble yesterday following a report that the US government is considering tightening its export controls on AI chips to China as"
-    publishedDateTime: 2023-06-29T14:34:00Z
-    webUrl: "https://www.techspot.com/news/99246-nvidia-warns-tighter-ai-chip-export-restrictions-china.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 74
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-29-image-13.jpg"
-        width: 2160
-        height: 990
-        isCached: true
   - title: "U.S. considers tightening restrictions on AI chip exports"
     excerpt: "The potential restrictions would include further clamping down on the level of the computing power of chips that are available to be exported to foreign markets in China."
     publishedDateTime: 2023-06-29T09:02:00Z
@@ -105,63 +61,35 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "How New AI Restrictions May Throw a Wrench in Nvidia's Plans"
-    excerpt: "This is why the U.S. Department of Commerce seeks to limit China’s access to AI chips further. According to the Wall Street Journal’s report on Tuesday, these new restrictions could come in as early as next month."
-    publishedDateTime: 2023-06-29T02:43:00Z
-    webUrl: "https://247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/"
-    ampWebUrl: "https://247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/amp/"
+  - title: "Japan embraces softened AI regulations to drive economic growth and chip leadership: Report"
+    excerpt: "Japan is reportedly considering adopting more lenient regulations on artificial intelligence (AI) compared to the European Union, aiming to enhance economic growth and establish itself as a frontrunner in advanced chips."
+    publishedDateTime: 2023-07-03T09:16:00Z
+    webUrl: "https://www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report-11688374599060.html"
+    ampWebUrl: "https://www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report/amp-11688374599060.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report/amp-11688374599060.html"
     type: article
     provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 61
+      name: Mint
+      domain: livemint.com
+    quality: 64
     images:
-      - url: "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry1-pEE.jpg?w=400"
-        width: 400
-        height: 224
+      - url: "https://www.livemint.com/lm-img/img/2023/07/03/600x338/TECH-AI-EUROPE-0_1688375295260_1688375347173.JPG"
+        width: 600
+        height: 338
         isCached: true
-  - title: "US plans new AI chip export controls aimed at Nvidia"
-    excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
-    publishedDateTime: 2023-06-29T09:26:00Z
-    webUrl: "https://techcentral.co.za/us-plans-new-ai-chip-export-controls-aimed-at-nvidia/227630/"
+  - title: "China Restricts Exports Of Semiconductor Metals In Latest Front Escalation Of Battle With US Over AI Tech"
+    excerpt: "The export restrictions on gallium and germanium are seen as a part of Beijing’s strategy to gain a stronger position in the escalating tech war, as these metals are fundamental in various high-tech industries."
+    publishedDateTime: 2023-07-03T20:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/china-restricts-exports-of-semiconductor-metals-in-latest-front-escalation-of-battle-with-us-over-ai-tech-1032424267"
     type: article
     provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/09/nvidia-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
-  - title: "AMD making big gains on Nvidia in AI chips: research"
-    excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
-    publishedDateTime: 2023-07-02T06:35:00Z
-    webUrl: "https://techcentral.co.za/amd-making-big-gains-on-nvidia-in-ai-chips-research/227735/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 54
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/07/artificial-intelligence-ai-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
-  - title: "The US wants to restrict China's access to AI chips even more, and Nvidia could lose out as a result"
-    excerpt: "The US government is weighing up plans to further restrict the export of AI processors to China. The Biden administration has heightened concerns about the access Chinese companies have to bleeding edge tech,"
-    publishedDateTime: 2023-06-29T01:08:00Z
-    webUrl: "https://www.pcgamer.com/the-us-wants-to-restrict-chinas-access-to-ai-chips-even-more-and-nvidia-could-lose-out-as-a-result/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/KEnYwb6XugVqo5QDXpjNsm-1200-80.jpg"
-        width: 1170
-        height: 664
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Technological,Process,Of,Soldering,And,Assembly,Chip,Components,On,Pcb.jpeg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Potential US Export Restrictions on AI Chips Shake Tech Market"
     excerpt: "The Biden administration is reportedly contemplating new restrictions on the export of artificial intelligence-related semiconductors to China, stirring anxiety among leading chipmakers like Nvidia and AMD."
