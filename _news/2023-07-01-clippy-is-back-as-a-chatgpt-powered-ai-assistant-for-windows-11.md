@@ -40,22 +40,6 @@ related:
         width: 620
         height: 382
         isCached: true
-  - title: "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT."
-    excerpt: "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ..."
-    publishedDateTime: 2023-06-29T16:27:00Z
-    webUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The Vatican issues handbook to navigate AI ethics in the ChatGPT era"
     excerpt: "Amid the call to regulate and create guardrails against the misuse of artificial intelligence (AI), The Vatican has now issued its own handbook for navigating the ethics of AI technology in the ChatGPT era."
     publishedDateTime: 2023-06-29T06:32:00Z
@@ -71,20 +55,6 @@ related:
       - url: "https://www.businessinsider.in/thumb/101360974.cms?height=275&width=412"
         width: 412
         height: 275
-        isCached: true
-  - title: "How new AI tools like ChatGPT can transform human productivity in the enterprise"
-    excerpt: "With AI, businesses can automate repetitive tasks, use intelligent data analysis, augment productivity, enhance collaboration and more."
-    publishedDateTime: 2023-07-02T17:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-new-ai-tools-like-chatgpt-can-transform-human-productivity-in-the-enterprise/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_artificial_intelligence_enhancing_human_productivity._C_42ae2946-beae-44e1-b10f-949d52a27c98.png?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
     excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
@@ -130,6 +100,15 @@ related:
         width: 300
         height: 600
         isCached: true
+  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
+    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
   - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
     excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
     publishedDateTime: 2023-06-30T21:02:00Z

@@ -38,15 +38,6 @@ related:
         width: 740
         height: 416
         isCached: true
-  - title: "How artificial intelligence is dividing the world of work"
-    excerpt: "Many employees fear the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-AI stance."
-    publishedDateTime: 2023-06-30T00:01:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/06/30/how-artificial-intelligence-is-dividing-the-world-of-work/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "43JaCHv+qnSZgwJmEmsSTPgPkVdx7AmSx8RlbYOYcJCrKFgwUfNK38dXVPDpp3RUCx15QYMWrnZ4xdl4gNEjxPE1xZ58hNSFltGlsPtnaxlFOVg9qAa7DJ9H45gRympwQyggr+pIdbIFinPUeNebnOy+6+LCbQjbVTWhtq+fIC6QyT9Jb1GNVgABipiLue1+bPuA8AsOBeTNgBkTBnElrG4O6GCGYVIY9A0nMHSVbAnFi0RGxzYeQ6P64oXQerAv8/It2ANW+RQgnaApmcdGDKJnf9ldhX/qZo8572ITo555pMqc1Gmib7UrhTssSVZ0bSaY/UblWNTUjDOhCA8PHSj8GQZaqsdieQ3Id6/uiHwdYq2CMSgkg2bHkhA65B03+EhnMSrTFDhe0gQZGixshGNnIw5S++VySPsMLpnCewHIqutq6wWQGw/uNjfYBWIzUk3QpuZEYCtawAgypr1RV0lhcYXSEya9X4OBd+qVEH9fTX/UVny9lbpT1m/Qw0iOnRXmq55oH6VYbgpYV1ExGA==;+QNk3YnXJWhfV2ySFaYzIw=="
 ---

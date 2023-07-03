@@ -9,7 +9,7 @@ ampWebUrl: "https://glamsham.com/world/technology/over-100-top-artists-boycott-v
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/over-100-top-artists-boycott-venues-that-use-face-recognition-tech?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 2560
     height: 1440
     isCached: true
+
+related:
+  - title: "Musicians revolt against facial recognition technology"
+    excerpt: "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology."
+    publishedDateTime: 2023-07-03T09:52:00Z
+    webUrl: "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg"
+        width: 620
+        height: 434
+        isCached: true
 
 secured: "0KaK+rtK5j1tHmvJkNPS88CEh6opMuhvz1au4OXziq6YFgpHCJxy0xDj4Bl1eU5roeIsYVUE0r7mr4/3Fvh1cvzZfk04ogs6gcD0vn8h0yb8bA4/1P9LVqgewQ28ABAJWvwXN/NpTBJU7svkaLJ+YjMZcWkLyQSmYZw6xGo35tQWRzMbbzBGeuNIFFhoCm12vur4JAxsZDZgMGCoy2zLfBCebOzd/n7XkQlVevyk3PZ8cZ+Vby7fuIiYI31CohQxp1dMwtw25QC22VIfVUlc5aabJbXftv+gk9yKHpfgJFSftCDBlqxXkuIX3TCCp6tm7pT8QS12gpzzk2+VTWnLnIK3F7T/D9BODH+Mb68rFO3JIvhSgpYRngYBG2ymsINqQRB/LoOV+ynPwlbx3ALCmOKQwqQsmncIhbRSS+3DtXo1Wj+FGzb/m9d6HBEFY+hhNBJuTm9y3AkIknsPNXLiiqUtwJ/sTKRjVPmx5oVLZjv84+o9Oyzn2syhrLBT4WgWzO9iT+0qvWO/Z8I0PGM12g==;U6hcMspdFG+/G4qstVDJQA=="
 ---

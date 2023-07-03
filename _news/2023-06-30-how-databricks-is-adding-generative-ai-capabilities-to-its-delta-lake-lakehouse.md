@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Databricks Unveils Lakehouse AI - A Platform For Building Generative AI Models"
-    excerpt: "With the new Lakehouse AI, Databricks aims to unify the data and AI platform, enabling organizations to accelerate their generative AI journey."
-    publishedDateTime: 2023-06-28T16:04:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649c5872cf3c0a50c06aa415/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 544
-        isCached: true
   - title: "Databricks Gains MosaicML and Its Generative AI for $1.3 Billion"
     excerpt: "Learn what the Databricks acquisition means for companies looking into public or private generative AI foundation models."
     publishedDateTime: 2023-06-28T20:52:00Z
@@ -77,20 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Databricks continues generative AI push, launches LakehouseIQ, Lakehouse AI tools"
-    excerpt: "Databricks debuted LakehouseIQ for conversational querying of data and new Lakehouse AI tools to help enterprises build generative AI."
-    publishedDateTime: 2023-06-28T15:52:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/databricks-continues-generative-ai-push-launches-lakehouseiq-and-more/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/unnamed-e1687967517506.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Databricks AI Assistant Offers ‘Cemented’ Business Knowledge"
     excerpt: "An AI LLM trained on open data has broad knowledge drawn from publicly available resources, but the definition of a ‘customer’ or ‘fiscal year’ etc. always varies."
     publishedDateTime: 2023-06-28T21:16:00Z
@@ -100,20 +70,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Databricks adds federation, generative AI front end and development tools to its lakehouse"
-    excerpt: "Databricks Inc. is joining the generative AI parade today with a query engine that lets users ask questions and get contextually relevant answers in natural language. LakehouseIQ is integrated with the company’s Unity Catalog governance platform to ensure adherence to internal security and governance rules."
-    publishedDateTime: 2023-06-28T15:59:00Z
-    webUrl: "https://siliconangle.com/2023/06/28/databricks-adds-federation-generative-ai-front-end-development-tools-lakehouse/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/alighodsi-dataaisummit2023-1.png"
-        width: 2758
-        height: 1672
-        isCached: true
   - title: "Revolutionizing data management and AI with open-source power: Analysis from Databricks’ Data + AI Summit"
     excerpt: "Revolutionizing data management and AI with open-source power: Analysis from Databricks' Data + AI Summit - SiliconANGLE"
     publishedDateTime: 2023-06-30T17:07:00Z

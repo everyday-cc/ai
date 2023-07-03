@@ -26,22 +26,111 @@ images:
     isCached: true
 
 related:
-  - title: "I was fired by a client for using AI. I'm not going to stop because it's doubled my output, but I'm more clear about how I use it."
-    excerpt: "Freelancer Tina Sendin used Jasper.ai to make content for a client until they found out and fired her. She still uses AI but is more transparent."
-    publishedDateTime: 2023-06-30T08:49:00Z
-    webUrl: "https://www.businessinsider.com/freelancer-use-ai-double-output-client-fired-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/freelancer-use-ai-double-output-client-fired-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/freelancer-use-ai-double-output-client-fired-2023-6?amp"
+  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
+    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
+    publishedDateTime: 2023-07-02T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
+        width: 1706
+        height: 2560
+        isCached: true
+  - title: "The Revolution of AI in Music Production"
+    excerpt: "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups."
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://techround.co.uk/news/revolution-ai-music-production/"
+    ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
     quality: 59
     images:
-      - url: "https://i.insider.com/649d24c8695968001925d2b6?width=1200&format=jpeg"
-        width: 1160
-        height: 580
+      - url: "https://techround.co.uk/wp-content/uploads/2023/06/marcela-laskoski-YrtFlrLo2DQ-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
+  - title: "Artificial Intelligence to reshape deep science learning"
+    excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business—with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
+    publishedDateTime: 2023-06-30T17:25:00Z
+    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-57.jpg"
+        width: 1280
+        height: 1941
+        isCached: true
+  - title: "AI and the future of work: A collaboration of humans and machines"
+    excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
+    publishedDateTime: 2023-07-02T04:27:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design2.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial Intelligence to reshape deep science learning"
+    excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business – with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
+    publishedDateTime: 2023-06-29T21:29:00Z
+    webUrl: "https://news.ucr.edu/articles/2023/06/29/artificial-intelligence-reshape-deep-science-learning"
+    type: article
+    provider:
+      name: UCR Today
+      domain: ucr.edu
+    quality: 41
+    images:
+      - url: "https://news.ucr.edu/sites/default/files/2023-06/GettyImages-1466924677.jpg"
+        width: 6720
+        height: 3384
+        isCached: true
+  - title: "Machine Learning is Revolutionizing Quantitative Trading"
+    excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."
+    publishedDateTime: 2023-06-30T16:34:00Z
+    webUrl: "https://www.bbntimes.com/financial/machine-learning-is-revolutionizing-quantitative-trading"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 19
+  - title: "Deep Learning in the Fine Arts: Expanding Creativity and Expression"
+    excerpt: "By merging the realms of technology and artistic creativity, deep learning is redefining traditional art forms and inspiring new avenues for artistic expression."
+    publishedDateTime: 2023-06-30T19:41:00Z
+    webUrl: "https://www.bbntimes.com/global-economy/deep-learning-in-the-fine-arts-expanding-creativity-and-expression"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 19
+  - title: "Artificial intelligence: Reimagining the technology landscape?"
+    excerpt: "The technology sector has rebounded strongly this year and Ben Rogoff, Fund manager of the Technology Trust, cites a better macro environment, robust fundamentals, and the arrival of artificial intelligence as the key drivers of this."
+    publishedDateTime: 2023-07-03T09:44:00Z
+    webUrl: "https://www.trustnet.com/fundswire/13382242/artificial-intelligence-reimagining-the-technology-landscape"
+    type: article
+    provider:
+      name: FE Trustnet
+      domain: trustnet.com
+    quality: 17
 
 secured: "TQXFQsEGa1UbrVx9/kmqOohmTU27PzRw4gL9nPZUifs5n2l02aw29efd60jIWFrfcYfK5pT1PQTMDGpZUHlW8rAnTLEX4EQ1E/axo8Jv8nAzswdQ69pNKoxQOf2e6MNpYlD9m+9SAMBHtVePNYbYu5CgBQU0Ptx+QDboAZg5kJrP0BwHITbMVAgB7v4ODB5yXUZCiIJlzv6FGtsTC4WxP/BXptkZn2a9OjO4s9jfLg7q4ArIDlZt8vhRukxqqeHYWqXSdF9Wxzk/XW1Zbcdekz1/OMAvw3+Ft2TSh+Ow1k+8ZGslpTDOmizzLlc6E+Z8ffUqx5Ya9mLxG3xLsIenhN61flNQ9zGh3hOXymWHXef+wyZ5tbRMJGRuZ4G8yFXsVQ6JTmShv3jCmCzmg7VwcaolwrfRv8BC1ufKM4N218Pu6EjuG/PRmtvnPd8MO2w1YFuhtXtMtmKt/Ee8N/HpPTpJhNhSX/jBTsl+9O2eU+/neDfTxRh3mYBGcGG5Z7UVzt7urxiMkgaPqDj9qwl9dg==;ampLAKpn0Dcri33x46/Bdw=="
 ---

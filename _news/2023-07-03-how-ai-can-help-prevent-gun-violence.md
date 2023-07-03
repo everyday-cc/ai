@@ -56,6 +56,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Catalyzing transformation: Augmenting human intelligence with AI"
+    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Mumbai brought together visionaries, experts and technology enthusiasts under one roof to explore the frontiers of artificial intelligence through keynotes,"
+    publishedDateTime: 2023-06-29T11:46:00Z
+    webUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai-11688038146836.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2019/01/30/600x338/HTBS-leadImage-Feb2018-FB-v2_1548835753634.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "qtV8XlVx7DCl6aP01Y/uM1G0+Xt6Wc0GxmnC/ciUuOviREFtbAbXVdMBeUnJUT1T1LrUEh5aaQ/6c5VyyVRZpzgJ/SQlN7JJY9HqwEJRx3RG/oN3wny1JYQ8RGQfeOvIIEUXCNJOoQJpXkrNN0b9u6Z1Miqr5SnilFabEMbVsgbBBV/aWC6MVC1bagDWkxeFUPtCKIayp8qvfuKzEtsxhhH/ctBYXXqGpGBE8/Ic40hi+HDxLGHO5G6Ols/5QWD7IE/bQ6LxcowgtwTm2rgtUMtELZe8NZNxO/pdSkWFUsN5/ISVcYuHfNDakJVOEtNLMM9UZ6FNtnz1g7AYw/kKeguQzCu7kfx+CrXQc6HdVx9gyUj17dpC5Xpa6qsOx0ZBmNZuoKv07xXEC+USkhw/V4m8HtuA00MooO57mkdZewAdzbLO3uII1K75W5yC+hAkwKG/p+d04tuAXFhp72qxqom8dxXVLfYbbwnbZfyN0HWe3HxGdg3Jv5nLisPFiFtxDNcI2NvyALoFUWhJ9V+iDw==;3Nbaof8MDq4fFfQn29h5vQ=="
 ---

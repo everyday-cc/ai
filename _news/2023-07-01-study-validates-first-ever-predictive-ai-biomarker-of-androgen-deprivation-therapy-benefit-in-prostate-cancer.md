@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-validates-first-ever-ai-bioma
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-validates-first-ever-ai-biomarker-androgen.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Biomarker Approach for Prostate Cancer Therapy Shows Promise for Some Patients"
+    excerpt: "Data from a new study validates the first-ever predictive AI biomarker of androgen deprivation therapy benefit in prostate cancer."
+    publishedDateTime: 2023-07-03T08:45:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/ai-biomarker-approach-for-prostate-cancer-therapy-shows-promise-for-some-patients-375596"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 49
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375596/ai-biomarker-approach-for-prostate-cancer-therapy-shows-promise-for-some-patients-375596-640x360.jpg?cb=20230703"
+        width: 640
+        height: 360
+        isCached: true
   - title: "ArteraAI Announces First-Ever AI-Derived Biomarker for Predicting Androgen Deprivation Therapy (ADT) Benefit in Prostate Cancer"
     excerpt: "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced today the publication of data in the NEJM Evidence, validating the first-ever predictive AI biomarker of androgen deprivation therapy (ADT) benefit in prostate cancer."
     publishedDateTime: 2023-06-29T16:05:00Z

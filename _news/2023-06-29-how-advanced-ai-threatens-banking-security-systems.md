@@ -34,7 +34,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://mma.prnewswire.com/media/2145182/AI_chips_revenue_2023.jpg"
         width: 400

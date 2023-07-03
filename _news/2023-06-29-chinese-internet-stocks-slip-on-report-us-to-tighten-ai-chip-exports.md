@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US Mulls Even Tighter Restrictions to Stop AI Chips From Reaching China"
-    excerpt: "The US is considering even harsher export restrictions to prevent China from obtaining cutting-edge chips used to power AI programs. The US Commerce Department could implement the new export controls as soon as next month,"
-    publishedDateTime: 2023-06-28T16:56:00Z
-    webUrl: "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03eZtvy53D4cKCBx4QCDzan-1.fit_lim.size_1200x630.v1687964313.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "US Plans New AI Computer Chip Export Controls Aimed at Nvidia"
-    excerpt: "The Biden administration plans to tighten export controls announced in October to restrict sales of some artificial-intelligence chips to China, amid growing concerns about selling the technology to a key strategic competitor, people familiar with the ..."
-    publishedDateTime: 2023-06-28T15:45:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-28/us-plans-new-ai-computer-chip-export-controls-aimed-at-nvidia"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV3sB9i.jGDw/v0/1200x743.jpg"
-        width: 1200
-        height: 743
-        isCached: true
   - title: "US Planning for New Restrictions on AI Chip Exports to China"
     excerpt: "US may halt shipments of chips made by Nvidia, Advanced Micro Devices (AMD), and other chip companies to customers in China as early as July."
     publishedDateTime: 2023-06-29T03:47:00Z
@@ -124,6 +96,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "New AI Chip Export Rules Put Semiconductor Firms in Spotlight"
+    excerpt: "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China."
+    publishedDateTime: 2023-06-29T12:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "US mulls new export restriction on computing power in AI chips"
     excerpt: "U.S. officials are considering tightening an export control rule designed to slow the flow of AI chips to China."
     publishedDateTime: 2023-06-29T07:30:00Z
@@ -133,6 +114,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
+  - title: "Nvidia Warns of Lost Opportunities if U.S. Bans AI Chip Exports to China"
+    excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao Potential new ..."
+    publishedDateTime: 2023-06-28T19:29:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-warns-of-lost-opportunities-if-u-s-bans-ai-chip-exports-to-china-293fa911"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 63
   - title: "How New AI Restrictions May Throw a Wrench in Nvidia's Plans"
     excerpt: "This is why the U.S. Department of Commerce seeks to limit China’s access to AI chips further. According to the Wall Street Journal’s report on Tuesday, these new restrictions could come in as early as next month."
     publishedDateTime: 2023-06-29T02:43:00Z
@@ -149,6 +139,22 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Rising AI & Falling Shares: Nvidia Facing New Export Restrictions"
+    excerpt: "Nvidia Corp.'s (NASDAQ: NVDA) meteoric year-to-date increase of 186.60% is largely due to the company's semiconductors that are behind the boom in artificial intelligence applications."
+    publishedDateTime: 2023-06-30T15:00:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/06/33077218/rising-ai-falling-shares-nvidia-facing-new-export-restrictions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33077218"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33077218"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/30/nvda.jpg?width=1200&height=800&fit=crop"
+        width: 640
+        height: 427
+        isCached: true
   - title: "US Considers More Restrictions on AI Chips to China"
     excerpt: "Nvidia was already required to make a weaker version of its flagship A100 for China, but even that weakened chip wouldn’t be allowed under the rules under ..."
     publishedDateTime: 2023-06-28T17:33:00Z
@@ -163,6 +169,43 @@ related:
         width: 1024
         height: 718
         isCached: true
+  - title: "US plans new AI chip export controls aimed at Nvidia"
+    excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
+    publishedDateTime: 2023-06-29T09:26:00Z
+    webUrl: "https://techcentral.co.za/us-plans-new-ai-chip-export-controls-aimed-at-nvidia/227630/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/09/nvidia-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "AMD making big gains on Nvidia in AI chips: research"
+    excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
+    publishedDateTime: 2023-07-02T06:35:00Z
+    webUrl: "https://techcentral.co.za/amd-making-big-gains-on-nvidia-in-ai-chips-research/227735/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/07/artificial-intelligence-ai-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Nvidia knocks down concern over AI chip exports to China. The reason is why we own the stock"
+    excerpt: "Nvidia (NVDA) on Wednesday reassured investors that potential export restrictions on chips wouldn't hurt the semiconductor firm's bottom line."
+    publishedDateTime: 2023-06-28T17:25:00Z
+    webUrl: "https://www.cnbc.com/2023/06/28/nvidia-knocks-down-concern-over-ai-chip-exports-to-china.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
   - title: "The US wants to restrict China's access to AI chips even more, and Nvidia could lose out as a result"
     excerpt: "The US government is weighing up plans to further restrict the export of AI processors to China. The Biden administration has heightened concerns about the access Chinese companies have to bleeding edge tech,"
     publishedDateTime: 2023-06-29T01:08:00Z

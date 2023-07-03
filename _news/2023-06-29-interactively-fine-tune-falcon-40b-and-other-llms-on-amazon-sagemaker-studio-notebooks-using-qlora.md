@@ -43,20 +43,6 @@ related:
         width: 1249
         height: 630
         isCached: true
-  - title: "Capture public health insights more quickly with no-code machine learning using Amazon SageMaker Canvas"
-    excerpt: "Public health organizations have a wealth of data about different types of diseases, health trends, and risk factors. Their staff has long used statistical models and regression analyses to make important decisions such as targeting populations with the highest risk factors for a disease with therapeutics,"
-    publishedDateTime: 2023-06-28T16:12:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/capture-public-health-insights-more-quickly-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 90
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/21/ml-14481-image005-945x630.png"
-        width: 945
-        height: 630
-        isCached: true
 
 secured: "r6hZesKIi/G5XIcU58WeO0GpAq1Q1kmh0N7HhKxl8WC+fv1hrlOP5Z1uellFOQMG6oXKNDh7TiaxQZPxVwxIQXBvvL54zGzNltNUj5yiUYhTKGX/2+SaCyxgaPFUM6Rx4jXPz8tBDmmJViNeUhAW3T725jYkBF4lAO5aYim9qTKBCDMj5I4pJ1VesFWdMN/9ZcIvwNb+OifXZ1AJkX/YUQPbHG+M5MIcb84ifLPBWOmumS/myL23v1Rm+y8YanN+ZBLwdaYchNgEgjjQfpYCtCg0vJSn6GRlAedY3Bcy7LrnjASeE77Fx+oZO0D5BNXHkwWvTd2FfxR7fmxeancp6wP8W/E/NR0JzUIVCqv9UBs=;viBXFOCpmrG0tvcgMQ6mTg=="
 ---

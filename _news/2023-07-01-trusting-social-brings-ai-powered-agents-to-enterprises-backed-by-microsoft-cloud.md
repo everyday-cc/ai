@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is already offering a generative AI certification program"
-    excerpt: "Although Big Tech is still (sometimes clumsily) figuring out generative AI’s ethics and implications, the genie is out of the bottle, and the technology is already integrating into the workforce."
-    publishedDateTime: 2023-06-28T16:36:00Z
-    webUrl: "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 106
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/vxYs3kq0gOpyOmPKsA4LNQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3409dfe0-15cf-11ee-9fb5-0ff29edbd714.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI needs 'a new era of law and regulation,' says Microsoft president"
     excerpt: "Microsoft Vice Chair & President Brad Smith talks to Christiane Amanpour about the worldwide race to regulate Artificial Intelligence \"so it's used safely.\""
     publishedDateTime: 2023-06-29T06:51:00Z
@@ -60,20 +44,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft is developing cutting-edge AI chips to 'close the gap' with AWS, internal documents show"
-    excerpt: "Documents released during the Federal Trade Commission's lawsuit against Microsoft confirm the company is working on its own AI chips."
-    publishedDateTime: 2023-06-30T17:25:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/649f0139fd8a3e00191220d5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft, TikTok give generative AI a sort of memory"
     excerpt: "The programs use databases to beat ChatGPT at hundreds of turns of dialogue. The innovations can give any large language model ChatGPT-like abilities."
     publishedDateTime: 2023-07-01T10:34:00Z
@@ -87,22 +57,6 @@ related:
     quality: 104
     images:
       - url: "https://www.zdnet.com/a/img/resize/40efaf31e076a7b5738d107834bb0317e0dbb0fa/2023/06/30/23a7542e-8178-46ab-9918-d592cb186aec/tiktok-memory-bot-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Six Risks Of Generative AI"
-    excerpt: "Advance on their generative AI journey with their eyes wide open to the technology's potential risks and take steps to mitigate those risks where needed."
-    publishedDateTime: 2023-06-29T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64959f01282610fa438daaa0/0x0.jpg?format=jpg&crop=2820,1586,x0,y28,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -192,34 +146,6 @@ related:
         width: 1108
         height: 630
         isCached: true
-  - title: "Generative AI vs. Machine Learning"
-    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
-    publishedDateTime: 2023-06-29T23:49:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Safe image generation and diffusion models with Amazon AI content moderation services"
-    excerpt: "Generative AI technology is improving rapidly, and it’s now possible to generate text and images based on text input. Stable Diffusion is a text-to-image model that empowers you to create photorealistic applications. You can easily generate images from text using Stable Diffusion models through Amazon"
-    publishedDateTime: 2023-06-28T16:08:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/safe-image-generation-and-diffusion-models-with-amazon-ai-content-moderation-services/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/28/safe-image-generation.jpg"
-        width: 1023
-        height: 513
-        isCached: true
   - title: "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week"
     excerpt: "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here."
     publishedDateTime: 2023-07-01T11:33:00Z
@@ -235,22 +161,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop"
         width: 626
         height: 417
-        isCached: true
-  - title: "How generative AI is already changing the workplace: Oracle just added it to HR software"
-    excerpt: "Generative AI-powered features will improve the job posting, search, and hiring processes for HR pros​ and job applicants alike, the company says."
-    publishedDateTime: 2023-06-28T17:42:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/cb7e8fe61ddc541ff899e37f15206a20bb3c8b90/2023/06/28/fde1d28f-b5df-42db-8111-ec12a6095501/oracle.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft-backed AI startup Inflection raises $1.3 billion from Nvidia and others"
     excerpt: "Inflection AI said on Thursday it had raised $1.3 billion in a funding round backed by investors including Microsoft and Bill Gates."
@@ -427,6 +337,20 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "Microsoft’s Cloud Server Business in 2022 Was Less Than Half of AWS, New Document Reveals"
+    excerpt: "For years Microsoft has kept a lid on details about the true size of its Azure cloud server rental business, making it impossible for investors to know how Microsoft’s cloud operations unit stacked up against industry leader Amazon Web Services."
+    publishedDateTime: 2023-06-29T20:36:00Z
+    webUrl: "https://www.theinformation.com/articles/microsofts-cloud-server-business-in-2022-was-less-than-half-of-aws-new-document-reveals"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 47
+    images:
+      - url: "https://tii.imgix.net/production/articles/10781/35961e76-cb5e-4c8c-a5a5-720d82802ace.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
     excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
     publishedDateTime: 2023-07-01T15:40:00Z
@@ -487,34 +411,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
-  - title: "Microsoft partners with Moody’s for “Moody’s Copilot,” generative AI for their financial services"
-    excerpt: "Moody's, a renowned global entity headquartered in New York, is expanding its prowess with a newly announced alliance with Microsoft. The collaboration will"
-    publishedDateTime: 2023-06-29T15:22:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-partners-with-moodys-for-moodys-copilot-generative-ai-for-their-financial-services/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 41
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/06/Microsoft-Green.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Generative AI company Inflection AI raises $1.3bn from Microsoft, Bill Gates, Eric Schmidt, & Nvidia"
-    excerpt: "Inflection AI raised $1.3 billion in a funding round led by Microsoft, Reid Hoffman, Bill Gates, Eric Schmidt, and Nvidia. The generative AI startup claims that it will build the largest AI cluster in the world comprising 22,"
-    publishedDateTime: 2023-06-30T16:38:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/generative-ai-company-inflection-ai-raises-13bn-from-microsoft-bill-gates-eric-schmidt-nvidia/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 41
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/96_OpenAI_DALLE_2_A_data_center_f.2e16d0ba.fill-1200x630.png"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Inflection AI raises $1.3B in funding led by Microsoft and NVIDIA"
     excerpt: "The company has raised $1.525 billion in funding since its inception last year."
     publishedDateTime: 2023-06-29T18:00:00Z
@@ -524,20 +420,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 36
-  - title: "Microsoft enhances Bing Chat by introducing GPT-4-powered image recognition feature"
-    excerpt: "Microsoft has recently introduced a major feature to Bing Chat for desktops. The company has started testing an image recognition system powered by OpenAI's"
-    publishedDateTime: 2023-06-29T15:04:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-enhances-bing-chat-by-introducing-gpt-4-powered-image-recognition-feature/"
+  - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
+    excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
+    publishedDateTime: 2023-06-28T18:02:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840760.htm"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 35
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Bing-Chat-in-general-availability.jpg"
-        width: 1024
-        height: 765
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Microsoft and Nvidia join $1.3bn fundraising for Inflection AI"
     excerpt: "With Nvidia joining its investment round, the San Francisco-based start-up, co-founded by LinkedIn creator Reid Hoffman, said it has access to 22,000 Nvidia H100 GPUs, the most in-demand resource in the AI industry today, costing $40,000 apiece."
     publishedDateTime: 2023-06-29T15:53:00Z
@@ -547,20 +438,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Winners Of The Microsoft Ai For Accessibility Hackathon 2023 Showcase How Inclusion Is Innovation In Asia Pacific"
-    excerpt: "(MENAFN- dubai pr network) singapore - media outreach - 28 june 2023 - the microsoft ai for accessibility (ai4a) hackathon 2023 is an annual event for teams in asia pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
-    publishedDateTime: 2023-06-30T04:29:00Z
-    webUrl: "https://menafn.com/1106518886/Winners-Of-The-Microsoft-Ai-For-Accessibility-Hackathon-2023-Showcase-How-Inclusion-Is-Innovation-In-Asia-Pacific"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?290279"
-        width: 452
-        height: 250
-        isCached: true
   - title: "Microsoft-backed AI startup Inflection raises US$1.3 billion from Nvidia and others"
     excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday (Jun 29) it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
     publishedDateTime: 2023-06-29T19:08:00Z

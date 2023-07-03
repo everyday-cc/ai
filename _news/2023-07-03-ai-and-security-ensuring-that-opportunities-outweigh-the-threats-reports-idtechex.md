@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-03T06:47:00Z
 originalUrl: "https://technews.tmcnet.com/news/2023/07/03/9842629.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/07/03/9842629.htm"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Security
+  - AI Ethics
 
 images:
   - url: "https://mma.prnewswire.com/media/2145182/AI_chips_revenue_2023.jpg"
@@ -41,6 +42,6 @@ related:
         height: 743
         isCached: true
 
-secured: "DTp16m2iwzCjJUwm9ZUqJdAjd+6tP/AzSaOKVHPwdpDNrKFk1h2gDDEflWc/b5YZ5PBkT34OTNM/0/ciSmjtmpSrfIimahTxgOT/edcda1yk3mmiYVXQ4nttx1rDV6criFDNNj0gSk7pyXDLfTzdyoklK24NpOlrB3fnEnf4tM698hkDH18l2vCV1tQF6IBKQLFeHRmSzz8kpMSzFZHudZBk+tuvw82YYtacRluaHoJEbum4NxNfTQhnZ6wrALw6sy2VjkEdah7PX8Hegim1Ye4y8PH6AQZJn6M0Vm7zP/6KB/d0u3VpOpyU8PANMqDUyoWhPmmAhxc0GVyc1GKff9xo5MOVUkqwcEIhcycwfZQ=;AJ9cEGNLRPcYVNXSIMvYSA=="
+secured: "glQr0Y0xwVn+9NcmA8WwMbldpt2XS8tfOVGJ4Gtzizq0xII57H97URTdoUMoFj7FDLi0H0H6y+708BqIKpE95uYxqQ9iqLnqxgdtDLhB6uwqj9MNRL7U6O/ahRAZdNO20Oudz6h+JbvnfDWE2wfSFCjWXrlxWdhe2WDKjAqN2cAkE2BgiZ0dq2HrpaqYV2d0Cgq36Em5RLJ+1Luj1Y5MqNpjc9EEhVeCCcjJTJRAvmLPxol87cuaQHNgohw56A5XryC8oQQEk+fXRpKiY6UPhUgylskxM/tfwr4tv0tx4aVOKhUr+wyeQSZM5bBlbywUxBTpyuC2vYVJneA1aqkazU2ro+6LHQ3vBLvWBuG7amj96zMRjMyeOTFky1Dpg1d56nEqx1nzwXoUylLfkHB8VJSOXtBPDVHC/mbC/JzxNuqhpjb+qV+xmZ91izqCQrkf4uYpkiaxNcWao4NkXud1eoIGPGEo6n2SQDXNkgzCIwOXyOMLcTVCvWnsGFdM6nvZ6e0/j30O2NyRPrOkgRqbZg==;Iw0uhHnCJXI0rngW9IHHHA=="
 ---
 

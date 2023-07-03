@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/07/how-fintech-revolutionised-the-broki
 webUrl: "https://yourstory.com/2023/07/how-fintech-revolutionised-the-broking-industry"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 600
     height: 380
     isCached: true
+
+related:
+  - title: "New computer-vision system aims to revolutionise shrimp farming practices"
+    excerpt: "The AI-based MonitorShrimp project, led by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in collaboration with shrimp farming companies Oceanloop and Sander Holding,"
+    publishedDateTime: 2023-06-29T06:25:00Z
+    webUrl: "https://www.efeedlink.com/contents/06-29-2023/5597ea33-5b8f-49f1-82e0-0e446dc51ce5-0001.html"
+    type: article
+    provider:
+      name: efeedlink
+      domain: efeedlink.com
+    quality: 38
+    images:
+      - url: "https://www.efeedlink.com/cps/images/2023/june/2023062914191498243232.jpg"
+        width: 900
+        height: 450
+        isCached: true
+  - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
+    excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
+    publishedDateTime: 2023-07-02T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
+        width: 1100
+        height: 550
+        isCached: true
 
 secured: "FHLnpUEO2W6kg4e6K8Bt1LbZ0oZleOgA/VTsWp0tNVq+XaHPThExBpVdFdYh0tBNAkfwzLpO4MZYqL0K9MfWZOrnT+DZ8JYnwpDMv+IWY+BOmCddhel2G2YYEXKT47C0imOg4PB1u22YaepRJx9EgMlBTVK8v8HUSsMMueTiMxSrS/ey3Ne7FHcc3o9NyoGawplSERryHH89evV2xZYAhh8SC2DyXRe7Otf4Ge7AD/Q7ovCnQUl/8Qw1FoW4BRx3SBeKF3xi+3V196zHZwtWvkMSNokaq4QPpKPI6lJJvehYMhLpobae/QwRBQDoa1BUifuvOWtBt6mGqjJRjgg7tOo47c2MRW4mH2GO1v+0cZazmz7JSI0AFrCErahOHi1LcqeCFjiF4SFJ2g+sJWFQ94gcwJFP2Rv0TJ1NZYqox9NCZeRtam3plAo1kmMpdWAZBVjuFEZUeL1/8JbHLziAYWndSOVo1LWtsOmRwQR87zMWPYu4SCgXRaA3hXoh2Z/w8Xzp6PQYccJo9E1d3/fR3g==;VBTu0kfUQXtWC4tvewZexg=="
 ---

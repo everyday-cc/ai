@@ -47,52 +47,20 @@ related:
         width: 2000
         height: 1334
         isCached: true
-  - title: "Nvidia Warns of Lost Opportunities if U.S. Bans AI Chip Exports to China"
-    excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao Potential new ..."
-    publishedDateTime: 2023-06-28T19:29:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-warns-of-lost-opportunities-if-u-s-bans-ai-chip-exports-to-china-293fa911"
+  - title: "TSMC sees robust AI chip orders from Nvidia, Broadcom, AMD through 2024"
+    excerpt: "TSMC is expected to see a significant revenue rebound in the second half of the year, which will be driven by not only the launch of new iPhones but also strong demand for AI chips from Nvidia, Broadcom and AMD, with robust wafer-start momentum from..."
+    publishedDateTime: 2023-07-03T07:23:00Z
+    webUrl: "https://www.digitimes.com/news/a20230703PD200/tsmc-cowos-generative-ai-gpu-chips+components.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 63
-  - title: "US plans new AI chip export controls aimed at Nvidia"
-    excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
-    publishedDateTime: 2023-06-29T09:26:00Z
-    webUrl: "https://techcentral.co.za/us-plans-new-ai-chip-export-controls-aimed-at-nvidia/227630/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
+      name: Digi Times
+      domain: digitimes.com
     quality: 54
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/09/nvidia-1500-800.jpg"
-        width: 1500
-        height: 800
+      - url: "https://img.digitimes.com/newsshow/20230703pd200_files/2_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "AMD making big gains on Nvidia in AI chips: research"
-    excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
-    publishedDateTime: 2023-07-02T06:35:00Z
-    webUrl: "https://techcentral.co.za/amd-making-big-gains-on-nvidia-in-ai-chips-research/227735/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 54
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/07/artificial-intelligence-ai-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
-  - title: "Nvidia knocks down concern over AI chip exports to China. The reason is why we own the stock"
-    excerpt: "Nvidia (NVDA) on Wednesday reassured investors that potential export restrictions on chips wouldn't hurt the semiconductor firm's bottom line."
-    publishedDateTime: 2023-06-28T17:25:00Z
-    webUrl: "https://www.cnbc.com/2023/06/28/nvidia-knocks-down-concern-over-ai-chip-exports-to-china.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 53
   - title: "AMD's AI Chips Could Match Nvidia's Offerings, Software Firm Says"
     excerpt: "Nvidia dominates the market for the powerful chips that are used to create ChatGPT and other AI services that have swept through the technology industry in recent months. The popularity of those services has pushed Nvidia's value past $1 trillion and led to a shortage of its chips that the Nvidia says it is working to resolve."
     publishedDateTime: 2023-06-30T17:40:00Z
@@ -102,6 +70,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "AMD is getting closer to Nvidia on AI"
+    excerpt: "MosaicML has a look under the bonnet of both Artificial intelligence chips from AMD are about 80 per cent as fast as those from Nvidia but the way its chips are designed means that it is going to match its performance soon."
+    publishedDateTime: 2023-07-03T09:58:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57189-amd-is-getting-closer-to-nvidia-on-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/5b05043d249467edb61b8cae5ee36068_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Here's how Nvidia has stayed ahead in artificial intelligence"
     excerpt: "\"I would say the volume is turned to 11 in terms of execution, but the method and way of working hasn’t changed,\" Nvidia's Ian Buck says of the company's artificial intelligence work."
     publishedDateTime: 2023-06-30T17:53:00Z

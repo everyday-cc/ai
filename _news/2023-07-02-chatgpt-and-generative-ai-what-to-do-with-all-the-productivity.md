@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -30,19 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "What is slow productivity?"
-    excerpt: "Slow productivity can be defined as working at a slower pace on fewer tasks at a time to increase workplace productivity and satisfaction.\nThe post What is slow productivity? appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-28T16:35:17Z
-    webUrl: "https://www.ibm.com/blog/what-is-slow-productivity/"
+  - title: "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT."
+    excerpt: "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ..."
+    publishedDateTime: 2023-06-29T16:27:00Z
+    webUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 102
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/90aeeede-ffda-4f77-8bd18923788d72bd.xl_2x1.png"
-        width: 800
-        height: 400
+      - url: "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How new AI tools like ChatGPT can transform human productivity in the enterprise"
+    excerpt: "With AI, businesses can automate repetitive tasks, use intelligent data analysis, augment productivity, enhance collaboration and more."
+    publishedDateTime: 2023-07-02T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-new-ai-tools-like-chatgpt-can-transform-human-productivity-in-the-enterprise/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_artificial_intelligence_enhancing_human_productivity._C_42ae2946-beae-44e1-b10f-949d52a27c98.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "GRnWOGgQpZlxGRryUFqNhxxelpYHhuA+Qs5WrUpeGuuyEqT9gNnDlTbEG1UEnsQdoz8Cy5OwCFsL9iqr5xbzVRPasnW1HhxDKtTlLPrgzdB+MfhGBRbYcfJjsVhQ3oTu01P2lR3P0hMz33KVKffdcHGsVDQrnoozwY4glBNdRYwifoFIAMNWBJ8mxUmqMbfhbmw3DSozcgxDh2iCn9G3d0mY+2+XrdgzI1GiP2P8yzeQtLkfxAm6n7xNlliOjf4X7w03aychjWiaX5kTpLWZaAEJjc35WwgQhhVna4tkdYJfc8S8yrPMrzgDBTu18dpc1HPmJ1Z5cRDuZhiS/iXUM2hyDBV7sD1kedPUn77yXywhlkBh0YtSWJnh0YCuw+6eDagnPhr5WCVmBae+YWniziW2EDVXrkR0gt6Em6X0aCoOWqewVhy8YUT+MofwaKjx+gILjMJ7SUxsb7Tl4/ST3URriFZtdihNuKEpb2EhFh6ifNdlWL4z7UwzD3qufD8BFU5umQzYuFZKoTYEG9MGAQ==;AvaLllpyIXPqxVICiEBceA=="

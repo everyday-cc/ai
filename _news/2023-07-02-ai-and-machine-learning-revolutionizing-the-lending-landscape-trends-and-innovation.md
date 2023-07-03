@@ -3,12 +3,14 @@ category: news
 title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
 excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
 publishedDateTime: 2023-07-02T09:53:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
-webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
 type: article
-quality: 29
-heat: -1
-published: false
+quality: 69
+heat: 149
+published: true
 
 provider:
   name: Indiatimes
@@ -18,6 +20,12 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+
+images:
+  - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
+    width: 1706
+    height: 2560
+    isCached: true
 
 related:
   - title: "The Revolution of AI in Music Production"
@@ -36,67 +44,96 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Psychologist’s Take: 2 Reasons Not To Fear The AI Revolution"
-    excerpt: "A mix of excitement and anxiety is natural, but here’s why artificial intelligence is likely going to enhance our lives."
-    publishedDateTime: 2023-06-29T19:18:00Z
-    webUrl: "https://www.forbes.com/sites/traversmark/2023/06/29/psychologists-take-2-reasons-not-to-fear-the-ai-revolution/"
+  - title: "Artificial Intelligence to reshape deep science learning"
+    excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business—with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
+    publishedDateTime: 2023-06-30T17:25:00Z
+    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "13 Principles for Using AI Responsibly"
-    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
-    publishedDateTime: 2023-06-30T12:14:00Z
-    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-57.jpg"
+        width: 1280
+        height: 1941
+        isCached: true
+  - title: "AI and the future of work: A collaboration of humans and machines"
+    excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
+    publishedDateTime: 2023-07-02T04:27:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design2.png"
         width: 1200
         height: 675
         isCached: true
-  - title: "New computer-vision system aims to revolutionise shrimp farming practices"
-    excerpt: "The AI-based MonitorShrimp project, led by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in collaboration with shrimp farming companies Oceanloop and Sander Holding,"
-    publishedDateTime: 2023-06-29T06:25:00Z
-    webUrl: "https://www.efeedlink.com/contents/06-29-2023/5597ea33-5b8f-49f1-82e0-0e446dc51ce5-0001.html"
+  - title: "Bringing AI to the classroom: It’s time to start learning – and teaching – how to use it"
+    excerpt: "Many of us are going to be (or already are) expected to use these tools for our jobs. Students cannot leave educational institutions where AI is taboo and expect to be successful in a labor market where it is required."
+    publishedDateTime: 2023-06-29T13:47:00Z
+    webUrl: "https://wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/"
+    ampWebUrl: "https://wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/?amp=1"
     type: article
     provider:
-      name: efeedlink
-      domain: efeedlink.com
-    quality: 38
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 48
     images:
-      - url: "https://www.efeedlink.com/cps/images/2023/june/2023062914191498243232.jpg"
-        width: 900
-        height: 450
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/06/artificial-intelligence-teacher-e1687532885604.jpg"
+        width: 1203
+        height: 678
         isCached: true
-  - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
-    excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
-    publishedDateTime: 2023-07-02T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
+  - title: "Artificial Intelligence to reshape deep science learning"
+    excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business – with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
+    publishedDateTime: 2023-06-29T21:29:00Z
+    webUrl: "https://news.ucr.edu/articles/2023/06/29/artificial-intelligence-reshape-deep-science-learning"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 37
+      name: UCR Today
+      domain: ucr.edu
+    quality: 41
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
-        width: 1100
-        height: 550
+      - url: "https://news.ucr.edu/sites/default/files/2023-06/GettyImages-1466924677.jpg"
+        width: 6720
+        height: 3384
         isCached: true
-  - title: "Mike Muse Breaks Down the Intersection of Music and Artificial Intelligence"
-    excerpt: "SiriusXM host Mike Muse spoke to The Root about the connection artificial intelligence has with music and how it affects Black art."
-    publishedDateTime: 2023-06-29T14:41:00Z
-    webUrl: "https://www.theroot.com/mike-muse-on-the-intersection-of-music-and-artificial-i-1850590641"
+  - title: "Machine Learning is Revolutionizing Quantitative Trading"
+    excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."
+    publishedDateTime: 2023-06-30T16:34:00Z
+    webUrl: "https://www.bbntimes.com/financial/machine-learning-is-revolutionizing-quantitative-trading"
     type: article
     provider:
-      name: The Root
-      domain: theroot.com
-    quality: 15
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 19
+  - title: "Deep Learning in the Fine Arts: Expanding Creativity and Expression"
+    excerpt: "By merging the realms of technology and artistic creativity, deep learning is redefining traditional art forms and inspiring new avenues for artistic expression."
+    publishedDateTime: 2023-06-30T19:41:00Z
+    webUrl: "https://www.bbntimes.com/global-economy/deep-learning-in-the-fine-arts-expanding-creativity-and-expression"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 19
+  - title: "Artificial intelligence: Reimagining the technology landscape?"
+    excerpt: "The technology sector has rebounded strongly this year and Ben Rogoff, Fund manager of the Technology Trust, cites a better macro environment, robust fundamentals, and the arrival of artificial intelligence as the key drivers of this."
+    publishedDateTime: 2023-07-03T09:44:00Z
+    webUrl: "https://www.trustnet.com/fundswire/13382242/artificial-intelligence-reimagining-the-technology-landscape"
+    type: article
+    provider:
+      name: FE Trustnet
+      domain: trustnet.com
+    quality: 17
 
-secured: "TYNUFS/QvUgeV66BRvWDuk6sjwoDLXLc0IyE7Xyl+Oj7k2UR18Mb5x94i6ElxxYOlOkHB5O/EDcbrQPYQ9B3KdNea/TP7gh6sCbo4w0WYswuvvEsxdfSuug/e2VwHawzE3Yc3tkImUEAc0H3MqFnnoYJDi/mOUHJ35EJXMJHwkKySfVL5BvyURR44jv92Z6dtecnXZfZNp0zQFe65/WKTsZjtsx2mkwR1UiYskl++rU1FSeUV0S2XY9NRW1Unzqza4MuNyrtGKqfSFBdY37ywiY/1XeMubb0Wp02GbSOuBhW80ksI/j6ffDAPNVKEEhz3ZzAgAJ/yxbhPAlqnNENZYYaBwV26zA6d/qRkDsfZjLCVW3AnMt+hWyQLF7upVFtlTVK4ep8WRbj1JF1qbzpG9TeQCtuOp/ApJ/EvVCDGNN57vnMxmtTwcWRTBicnVRulU+i8wANUbWIFUinBzpDX114D6WgY9FjhX0DiOx2Xg3Z/j94QbuhpuBuXLWUoid+oz1cbdvo0I8Kf9emniMb1g==;jMNsb75aFX9ihC8Bx8Kcyw=="
+secured: "pbjv58jhXnOvsdde1+HPI6yDZ46av9y4MqmydObX40UzneViQ2+Orw53k7BNMyg3OsbhlPzyi7A0NeBNjzZh9z2JJR8Bvyit0qHg9fvLgC6W5zK1cGWNPKnxaVlt7JRjCU5ym9M/StPezet4dSGrhWDuZUdwjXZ7Cz1ubPZ8eI1YYUBjXWilNN3IeONehMfupu/Ylg3fT3kSN72OBJRXWvwdp2/UeJSs0diDyg+NpwrHE/IotL9IRydYTS82yRmmkueRnS2iZTyXfX5r675wmqPO4OD+5NFxZul4xNXNgGPM3rpP438JJQ4n19r3FsfLP3Pn8rTLioENEohPW1FWNexSMCuh8dFIHYi3ejzF+YI=;PBhKXxRGW8M/T37TuKgGbQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.shponline.co.uk/technology-2/the-future-artificial-int
 webUrl: "https://www.shponline.co.uk/technology-2/the-future-artificial-intelligence-and-safety/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and the future of work: A collaboration of humans and machines"
-    excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
-    publishedDateTime: 2023-07-02T04:27:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design2.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How AI may help humans \"talk\" to animals"
-    excerpt: "Artificial intelligence is opening new opportunities for understanding those sounds — and possibly even translating them into a language we can understand. Reality check: This is not about being able to talk to your dog, though the human yearning to speak to animals is archetypal and rooted in centuries of mythology."
-    publishedDateTime: 2023-07-01T10:12:00Z
-    webUrl: "https://www.axios.com/2023/07/01/ai-humans-talk-animals-research"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/kJ-NgZIxkdd1NVMoo5jN24rDF6c=/1366x768/smart/2023/07/01/1688171816278.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "My Greener Future: The pros and cons of AI"
     excerpt: "President Franklin D. Roosevelt said at the beginning of World War II, “The only thing we have to fear is fear itself.” Well, he wasn’t facing the arrival of artificial intelligence. So, should we"
     publishedDateTime: 2023-07-01T11:46:00Z

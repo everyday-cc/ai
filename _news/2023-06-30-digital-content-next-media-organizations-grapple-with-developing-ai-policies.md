@@ -34,22 +34,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The huge power and potential danger of AI-generated code"
-    excerpt: "Late last year, a team at Stanford University posted a research paper that looked at how using a code-generating AI assistant they built affects the quality of code that people produce. The researchers found that programmers getting AI suggestions tended to include more bugs in their final code—yet those with access to the tool tended to believe that their code was more secure."
-    publishedDateTime: 2023-06-30T16:42:00Z
-    webUrl: "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/"
-    ampWebUrl: "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-29-at-14-19-27-The-Huge-Power-and-Potential-Danger-of-AI-Generated-Code-640x311.png"
-        width: 640
-        height: 311
-        isCached: true
   - title: "Chinese Companies Are Reacting To AI Regulations By Releasing Their Own Rules"
     excerpt: "China is currently home to some of the most advanced AI regulations in the world. Its party-state government, free from the burden of compromise, can swiftly regulate AI as it sees fit. Beijing has in recent months and years crafted regulations that both (partially) protect citizens from tech companies’ greediest impulses and uphold the paternalistic impulse to preserve state power over individual expression and corporate interest."
     publishedDateTime: 2023-06-29T15:37:00Z
@@ -65,20 +49,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649da4c486456d34f90b96c9/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 803
-        isCached: true
-  - title: "Scriptic raises $5.7M for user-generated games using generative AI"
-    excerpt: "Scriptic (formerly known as ElectricNoir) has raised $5.7 million in funding to create games based on generative AI."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://venturebeat.com/games/scriptic-raises-5-7m-for-user-generated-games-using-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/scriptic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 679
         isCached: true
   - title: "AI catfish bots are reportedly infiltrating dating apps: ‘This guy can’t be for real’"
     excerpt: "Any AI-created profile spotted on a dating app could be an attempt by scammers to dupe users into sharing personal information, including credit card details. However, as The Post previously reported, some desperate men are turning to AI to give them a boost with women on dating apps."
@@ -105,20 +75,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Sequoia Capital Partners with AI Startup Dust to Bolster Generative AI Initiatives"
-    excerpt: "Sequoia Capital recently announced that it is going to partner with France based AI Startup Dust. “We at Sequoia were thrilled to lead their seed round and become their partners”, the company said in their blog post on the website."
-    publishedDateTime: 2023-06-29T06:57:00Z
-    webUrl: "https://analyticsindiamag.com/sequoia-capital-partners-with-ai-startup-dust-to-bolster-enterprise-automation-generative-ai-initiatives/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 31
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-3-1.jpg"
-        width: 512
-        height: 288
-        isCached: true
 
 secured: "QrEe4j5hS+gfpu2JSLRsmTxCG+zeaT3kfI8BYJb/naQEpbPf/M43eZe8WktC4tJfW63+7m6Uks0etQcitsOv36Tdjgk6FNaZ+pWrIDVUjRy8GYbbjtkvP354X827+cFNcXMDX0liw2l/rslYDWYrq5R74UQ7kvvsiQbp/ZReJ9hPCap4PUCVQ8Wnptcei8yD7KuM/N9FlE0U8sSv10/2aaBlfI7aUKoOKFGVT+y5zS4e/PcMP/KbLXlScGOVvdncpzZjxU4aG+SGn+RxQ6hGNfyYCHJ4aVlUGNcZRCAm2cvJZVOQhzniTF0lDD/Cew4X/uq7bee90GC8Q1LhSlcxNmBANcfqzZSg9N4KeuJZTENn2FfKnAqhQ0jYsijENQQLkazjZHvOeVJXD7xSCMvhig+QHRcXswna+8CRDpM0zPHN+lyZ0AVE1COnyQIDfO6KDW6h6G8ZILehwNPwY8PH6CTKOlwhe3KR3O2HN1EUpTqsY1YethMoxf+7e5ENS1Xa0CrXzYbQWdxw9qkvSEiKzw==;oy59ppYGPye9mZXoLyiPlw=="
 ---
