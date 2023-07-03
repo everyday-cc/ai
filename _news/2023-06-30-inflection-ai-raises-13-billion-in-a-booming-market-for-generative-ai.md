@@ -174,6 +174,17 @@ related:
         width: 599
         height: 338
         isCached: true
+  - title: "AWS invests $100 million into Generative AI Center"
+    excerpt: "Amazon Web Services invested $100 million in a new program called the Generative AI Innovation Center. It will connect AWS artificial intelligence experts with global customers and"
+    publishedDateTime: 2023-07-02T23:58:00Z
+    webUrl: "https://technology.inquirer.net/125632/aws-invests-100-million-into-ai-center"
+    ampWebUrl: "https://technology.inquirer.net/125632/aws-invests-100-million-into-ai-center/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125632/aws-invests-100-million-into-ai-center/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
   - title: "AWS enters the GenAI scene with Bedrock, helping the enterprise enter the next generation of technology"
     excerpt: "Artificial intelligence is taking society by storm ... to scramble to figure out how to take advantage of the emerging innovation. “What [AWS] is doing is trying to offer customers a lot of choices; we’re making the best foundation models available ..."
     publishedDateTime: 2023-06-28T14:36:00Z

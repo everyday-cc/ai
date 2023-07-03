@@ -142,20 +142,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Balancing AI And Engineering Expertise In The Fab"
-    excerpt: "Before a new device makes it to high-volume manufacturing, there are countless engineering hours spent on developing the lithography, etching, deposition, CMP, and many other processes, at high yield."
-    publishedDateTime: 2023-06-28T07:01:00Z
-    webUrl: "https://semiengineering.com/balancing-ai-and-engineering-expertise-in-the-fab/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/process3.png?fit=766%2C524&ssl=1"
-        width: 766
-        height: 524
-        isCached: true
 
 secured: "igZoW8YCluKdfcJMotLBnGMOAnUt6SGTTo9yGZGQhKL4vTYwoRkwtP80/OodSw9q8zIWfWXTqoyfU/HTOoDF3NnkvON3zhf1n60sXVaeaO0Wbs4UZ8jUySZqBO5SWddA2B8V1/+cxZmVR2wvcX4OA17Eg729Nwtw0rc9WXpZATPDZUbpiJBk6697XgLiVYLS+9uJ1RsNUjngn2Yg6UM0359Bq+vTW3lDjlJqK1dn6GYnZ3qG8a6MNIrTwAazPzh8zhEoWq9UO7lDIGz3+6PfDjPZo3gI4/CuP17AZlDQMxtdjIWHZ4A3nQlcnSsEup2bpZO8vKW3DH/ePonojyYN0tAWTyhJMF3oV42PJSwKnUqz27cAnNEG8wIn0CD8fty2dlXBHnYuWdEY8vrj1sKgdTo4J/IhYFaJSjjBbNG0gXqBvJklV8tm9LnslgVmrUJ8fhjHjUvNwvCe5NR4UanyeCopVUZ1mavbq2jjJMngZltkGY+QpHnMrnyBxCUmHVhJ0EgzZxOCvgya5eDyp3kb4w==;iVMT18miJQLNfMaz3+GPhQ=="
 ---

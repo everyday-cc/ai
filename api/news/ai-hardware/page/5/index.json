@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-29-arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones.md",
+      "title": "Arm's New CPU, GPU Cores to Deliver Next-Gen AI Experiences on Phones",
+      "excerpt": "Arm says pairing its Armv9 Cortex-X4 compute cluster and Arm Immortalis-G720 GPU in a single package will bring powerful AI, 3D, and gaming performance to the top smartphones of 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
+      "originalUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00n6JF7PK0qozSLHl73N4AU-1.fit_lim.size_1200x630.v1685112823.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom.md",
       "title": "Traditional Chip Makers Struggle as GPU Manufacturers Thrive in AI Boom",
       "excerpt": "Intel’s struggles raise concerns about competitiveness in AI space, while GPU manufacturers like Nvidia and Marvell reap rewards amid stock declines. The surging demand for AI has brought the ...",
@@ -1393,49 +1445,6 @@
       "provider": {
         "name": "The West Australian",
         "domain": "thewest.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-meta-working-on-new-ai-chip-next-gen-gpus-for-video-workloads.md",
-      "title": "Meta Working On New AI Chip, Next-Gen Gpus For Video Workloads",
-      "excerpt": "Meta (formerly Facebook) is building its first-generation custom silicon chip for running artificial intelligence (AI) model",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106275451/Meta-Working-On-New-AI-Chip-Next-Gen-Gpus-For-Video-Workloads",
-      "originalUrl": "https://menafn.com/1106275451/Meta-Working-On-New-AI-Chip-Next-Gen-Gpus-For-Video-Workloads",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-05/19/I_95b6bimage_story.jpg",
-          "width": 304,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

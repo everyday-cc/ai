@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-or-no-code-de
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-or-no-code-development-converging-but-with-caveats/"
 type: article
 quality: 81
-heat: 81
+heat: 83
 published: true
 
 provider:

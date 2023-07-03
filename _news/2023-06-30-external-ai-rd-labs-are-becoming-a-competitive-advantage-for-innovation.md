@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/external-ai-rd-labs-are-becoming-a-comp
 webUrl: "https://venturebeat.com/ai/external-ai-rd-labs-are-becoming-a-competitive-advantage-for-innovation/"
 type: article
 quality: 68
-heat: 72
-published: true
+heat: 68
+published: false
 
 provider:
   name: VentureBeat

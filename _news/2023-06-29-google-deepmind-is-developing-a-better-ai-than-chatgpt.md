@@ -9,7 +9,7 @@ ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chat
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
 type: article
 quality: 74
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says Google CEO"
-    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
-    publishedDateTime: 2023-06-28T06:01:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-google-ceo-10870641.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-google-ceo-10870641.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-google-ceo-10870641.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
     excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
     publishedDateTime: 2023-06-29T22:22:00Z
@@ -88,22 +72,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
         width: 2500
         height: 1663
-        isCached: true
-  - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says CEO Demis Hassabis"
-    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
-    publishedDateTime: 2023-06-28T06:01:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-ceo-demis-hassabis-10870641.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-ceo-demis-hassabis-10870641.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-ceo-demis-hassabis-10870641.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 55
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "AI recap this month: Drone 'kills' operator; DeepMind's speed up"
     excerpt: "Research into AI is experiencing a boom, so we have rounded up the best of news from the past month to help you keep up to date"

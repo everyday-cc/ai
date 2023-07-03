@@ -28,15 +28,15 @@ related:
   - title: "From human ashes to cellphones, what's going on with concert fans lately?"
     excerpt: "From flinging bras to tossing flowers, concertgoers have long been a bit extra in showing adoration for their beloved artists — but a recent spate of artists being hit by weightier projectiles raises concerns about extreme fan culture and security."
     publishedDateTime: 2023-07-01T23:30:00Z
-    webUrl: "https://www.tulsaworld.com/life-entertainment/nation-world/music/fans-throwing-items-concert-stage/article_7bc8dae5-af8d-5928-8a38-3ccc9cd69224.html"
+    webUrl: "https://tucson.com/life-entertainment/nation-world/music/fans-throwing-items-concert-stage/article_baf84ff4-4532-5af8-9928-83c9a1a45d26.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 23
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/7/bc/7bc8dae5-af8d-5928-8a38-3ccc9cd69224/649f42ec30587.preview.jpg?crop=1618%2C849%2C35%2C47&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/af/baf84ff4-4532-5af8-9928-83c9a1a45d26/649f3f871590b.preview.jpg?crop=1618%2C910%2C35%2C17&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
         height: 630
         isCached: true
 

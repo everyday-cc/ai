@@ -500,7 +500,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -793,7 +793,7 @@
       "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1025,58 +1025,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-30-external-ai-rd-labs-are-becoming-a-competitive-advantage-for-innovation.md",
-      "title": "External AI R&D labs are becoming a competitive advantage for innovation",
-      "excerpt": "AI R&D Labs are purpose-built to merge the best of academic research with industry-centered goals in a team with multidisciplinary AI skills.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/external-ai-rd-labs-are-becoming-a-competitive-advantage-for-innovation/",
-      "originalUrl": "https://venturebeat.com/ai/external-ai-rd-labs-are-becoming-a-competitive-advantage-for-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/AI-RD-article-DataRoot-Labs.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-30-windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview.md",
       "title": "Windows 11’s Copilot brings AI chat to desktops in first public preview",
       "excerpt": "This week's Windows Insider Preview build for Dev channel users, build 23493, will be the first to enable Copilot for public testers. After installing the update, preview users can press Windows + C to open a Copilot column on the right side of the screen.",
@@ -1230,6 +1178,49 @@
         "Microsoft AI",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service.md",
+      "title": "Microsoft To Power Moody's Next-Generation Solutions With Azure OpenAI Service",
+      "excerpt": "Moody's Corp (NYSE: MCO) tapped Microsoft Corp (NASDAQ: MSFT) to deliver next-generation data, analytics, research, collaboration, and risk solutions for financial services and",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service",
+      "originalUrl": "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/06/29/mco.png?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33060304",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33060304",
+      "publishedDateTime": "2023-06-29T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

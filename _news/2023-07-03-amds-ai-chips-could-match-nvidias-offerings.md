@@ -146,15 +146,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Nvidia leads selloff on new China AI chip curbs"
-    excerpt: "Nvidia, which gets about a fifth of its revenue from China, slid as much as 3.2% in after-hours trading in New York. Rival Advanced Micro Devices Inc fell about 3%. The two lead the market for chips vital to the development of generative AI models such as ChatGPT."
-    publishedDateTime: 2023-06-28T06:24:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/06/28/nvidia-leads-selloff-on-new-china-ai-chip-curbs/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
   - title: "Here's how Nvidia has stayed ahead in artificial intelligence"
     excerpt: "\"I would say the volume is turned to 11 in terms of execution, but the method and way of working hasn’t changed,\" Nvidia's Ian Buck says of the company's artificial intelligence work."
     publishedDateTime: 2023-06-30T17:53:00Z

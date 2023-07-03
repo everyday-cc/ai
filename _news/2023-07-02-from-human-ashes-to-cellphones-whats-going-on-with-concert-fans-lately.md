@@ -3,24 +3,24 @@ category: news
 title: "From human ashes to cellphones, what's going on with concert fans lately?"
 excerpt: "From flinging bras to tossing flowers, concertgoers have long been a bit extra in showing adoration for their beloved artists — but a recent spate of artists being hit by weightier projectiles raises concerns about extreme fan culture and security."
 publishedDateTime: 2023-07-01T23:30:00Z
-originalUrl: "https://www.tulsaworld.com/life-entertainment/nation-world/music/fans-throwing-items-concert-stage/article_7bc8dae5-af8d-5928-8a38-3ccc9cd69224.html"
-webUrl: "https://www.tulsaworld.com/life-entertainment/nation-world/music/fans-throwing-items-concert-stage/article_7bc8dae5-af8d-5928-8a38-3ccc9cd69224.html"
+originalUrl: "https://tucson.com/life-entertainment/nation-world/music/fans-throwing-items-concert-stage/article_baf84ff4-4532-5af8-9928-83c9a1a45d26.html"
+webUrl: "https://tucson.com/life-entertainment/nation-world/music/fans-throwing-items-concert-stage/article_baf84ff4-4532-5af8-9928-83c9a1a45d26.html"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/7/bc/7bc8dae5-af8d-5928-8a38-3ccc9cd69224/649f42ec30587.preview.jpg?crop=1618%2C849%2C35%2C47&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/af/baf84ff4-4532-5af8-9928-83c9a1a45d26/649f3f871590b.preview.jpg?crop=1618%2C910%2C35%2C17&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
     height: 630
     isCached: true
 
@@ -40,6 +40,6 @@ related:
         height: 690
         isCached: true
 
-secured: "piJcP0QWa73TQgG3c6nQ8O7UCcT7xP4IpzZFNvvEEBgUUx9mF1YdaU5/os4hzFKDUfZRyZ+6dZvRgstn0r2SqgmqG+7+34O98Ozq5FRbP4RY095wAOvR59FPMHxqDRG1H302+v3/wtvgPQt+DU/Ar4XxcYamV7eRvJajJ26mXLElCqX/GytCOxLw44uE/xz2Yn+VnAMMLMLQszU0uC24le3+HYRs/72tqUX6XOuJ+jr90kldLr3onTiziPJRI6sFCj9MB3C66VeKsNq26sbOxS2j1Cb7muxXQOEjdmEBQQRJ5PMNaAeQCuroNrwqXEUwWN/BP1rUf6amD2MEfgoeGvTm5E+yBk93qFE4HCUTHBTsa9XAihsDGnH/cOanGuzrj8o6u/5GiKKMD8vE9ceazvn5lfHhBuBNQQHuVzulURXpytzKrpKwiHxe5BCrzQt2yZBUzB49uKkkinJdFeiQLra5jrFbUFOM4dGqBmMzv1mC81/al8S/wJEoXFS6IXxIK3ZdTrcWHwrqGRY/+8PQKw==;NQqf6eJlWIvXggGJeF0o2A=="
+secured: "7svwKQX8pdkbyEm41LpG/ym9jug3gDAlvwn6/d4DqH1HGlCCGpALcdyH0lVqzOdbpvYfUekyCUCwoAgLCcBLq+tYU8jZ0dqxU56BUySQbgCUv8GDggai5dG7iclTuX0DU52JDRVM9aOrp2eDJA25DR0KxAlCpjhyM0EBIlfOabGmEsKgSX7giTuxLSiGVU0o5+wT6kJxTlVI2iVicCdNQnqDxtVAPt3wytE8aPWJNttq22E8pC0EbnaMuj6p8llwjWoajUvvTyQavCfl1YDLuk4dK+9uxPq406T0B3OEm7IR6S4ChC6isUQb4qoWR5sJ6Nt/ihIYkbX4I6HdSFeJUWCtUcG1bZwbWP9DZ9eenPI=;am7LqKEOwWudaIN8h1Fj4g=="
 ---
 

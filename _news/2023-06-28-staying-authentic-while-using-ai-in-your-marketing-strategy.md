@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -146,20 +146,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Balancing AI And Engineering Expertise In The Fab"
-    excerpt: "Before a new device makes it to high-volume manufacturing, there are countless engineering hours spent on developing the lithography, etching, deposition, CMP, and many other processes, at high yield."
-    publishedDateTime: 2023-06-28T07:01:00Z
-    webUrl: "https://semiengineering.com/balancing-ai-and-engineering-expertise-in-the-fab/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/process3.png?fit=766%2C524&ssl=1"
-        width: 766
-        height: 524
-        isCached: true
 
 secured: "dqMR/bD5K78E9cjXDn7B+mE0D+n4ZruS2ttZ96PCfb2dx4rj8U0bxbzZdh9Pi3tsEmZBz6qY3cwIrftGWvAG7smgozqlh3Wh1lldi5Tws3aq3C1PT2Fjb5BKWef/JuF0sSN0bWiFjUgt741svh+PmxHlJO3N8Sg17DtfcLwyGdIMZnItcSZUoldOpGZBfyUOLOOMqTdliToqNFW1mW4mTZsVcKU3MX3eO1NTHG3/4BINJgQsLgGsdOarcEbgjfWM5Ho2L6RWctuqjvCB23jRy6iIaCaCUrBSzoEBf7D4ZR+jVuc9vUuVy3jFaVZx/RAxl/BY5IdGlwIRPzDOBsl0DgRk0uWUXHeGDgJSYmid7a4=;bZP3Sqpx5wDCLxR8N8dmjQ=="
 ---

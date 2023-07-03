@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Exactly What Scares Experts About Artificial Intelligence"
-excerpt: "It is not too often you see an entire industry on the brink of exploding into untold profits and innovations beyond wildest imagination begging"
+excerpt: "Yet exactly one year after a humble Google engineer stumbled onto what he believed to be a sentient form of artificial intelligence and was famously heckled and fired for it (more on that later), the clamor for a global framework to govern advances in AI has reached a fever pitch."
 publishedDateTime: 2023-06-23T17:00:00Z
-originalUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
-webUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
+originalUrl: "https://www.nasdaq.com/articles/exactly-what-scares-experts-about-artificial-intelligence"
+webUrl: "https://www.nasdaq.com/articles/exactly-what-scares-experts-about-artificial-intelligence"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F737513%2Fbuffett13-tmf.jpg&op=resize&h=340"
-    width: 510
-    height: 340
-    isCached: true
-
-secured: "Sc+J1hL33DzYHDrxkJ4NdXVvVWkvQDvk3M0k4JXNrBGC5JRjOrcWGd5r+CLAnuM5YbUuyV7jtxAbMCE40CVxvDcJT1sk9D8nD/BE5G57CYSYfApmf2gpZVrqIhE5xhVRGTRcwduKi0r7gZF3CZRDLV6RTPkw+diIDbdLBAYmqXjdKLQZ/PK0OEWWAjpmlboCdJ2fmHJLq29XXpy7n64tVTzKJm3FHfnfMKvmLm2r/ewqQMxwzUg3hAwFh1c0l1i8Vlp4QePiiOSemB8wZsNwFhvlpFNCAiuhcSYnoXGj4mfkPRKCT2IqbNWG00hy9HbVzm2z2A8N5SBSAq67LF5Ov+6aS0O00NENqdJd7vcTO6w=;KvLMLfQtIGXNdyY1dsr/6A=="
+secured: "oT393dun+2vH14wfucvRZaNCjiLr0Evv7SlN84kLruHWZhmktXTsETyPqhjloUw8/dEYi7vRVB41aor4FkXCy8mq0OkEcqDyQEAd4fey+/NITE+5TM/PBTchlPbI91eb3CyCIph9ixM1PJFwf4SD4gUzkTnjxwMMYFX2HdChWlrmVYzJTqdbU+jK85Hdt4rC6AbsLjgYTA9AR8FM+5EngHZ6iOcbKvIKtQYSOdEJYK1mkuLbbOiqjf3k2H5q6NRp32tFacxWM2pxP9+eIkgfNT0k0Yo7CKzoSxd2TwLRuilVPohNXas2f0eSxLLb9LWeGa/q1HyxbX0gjEQ78LiFC8kt940FiSPDe3x3HeqOjRU=;av2zanKQZCxUC2nc2VrnRg=="
 ---
 

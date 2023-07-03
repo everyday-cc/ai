@@ -53,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -157,7 +157,7 @@
       "originalUrl": "https://www.techspot.com/news/99260-oracle-plans-spend-billions-nvidia-gpus.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -381,7 +381,7 @@
       "originalUrl": "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -433,7 +433,7 @@
       "originalUrl": "https://www.zdnet.com/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -562,6 +562,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-nvidia-leads-premarket-slump-in-chipmaker-sharesas-white-house-reportedly-mulls-fresh-curbs-on-ai-chips.md",
+      "title": "Nvidia Leads Premarket Slump In Chipmaker Shares—As White House Reportedly Mulls Fresh Curbs On AI Chips",
+      "excerpt": "The Biden administration is planning to expand its curbs on the export of AI chips to China and other nations, the Wall Street Journal reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
+      "originalUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c0fafd13ced24caec5d4f/0x0.jpg?format=jpg&crop=3000,1688,x0,y178,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
+      "publishedDateTime": "2023-06-28T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1412,58 +1464,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-intel-branding-change-spells-new-era-for-ai-hardware.md",
-      "title": "Intel branding change spells new era for AI hardware",
-      "excerpt": "Meteor Lake CPU releases will mark the end of Intel's \"generational\" naming system. Plus, say goodbye to \"i\" naming for client processors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/",
-      "originalUrl": "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr32423-intel-sign.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

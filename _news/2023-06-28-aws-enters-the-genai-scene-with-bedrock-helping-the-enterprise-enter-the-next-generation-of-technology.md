@@ -185,6 +185,17 @@ related:
         width: 599
         height: 338
         isCached: true
+  - title: "AWS invests $100 million into Generative AI Center"
+    excerpt: "Amazon Web Services invested $100 million in a new program called the Generative AI Innovation Center. It will connect AWS artificial intelligence experts with global customers and"
+    publishedDateTime: 2023-07-02T23:58:00Z
+    webUrl: "https://technology.inquirer.net/125632/aws-invests-100-million-into-ai-center"
+    ampWebUrl: "https://technology.inquirer.net/125632/aws-invests-100-million-into-ai-center/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125632/aws-invests-100-million-into-ai-center/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
   - title: "infinitii ai announces $1.5 million five-year contract for its new generation of Machine Learning technology"
     excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\" or the \"Company\") (CSE: IAI) (FSE:7C5) (OTC: CDTAF), a leader in AI-driven predictive analytics software for"
     publishedDateTime: 2023-06-28T13:56:00Z

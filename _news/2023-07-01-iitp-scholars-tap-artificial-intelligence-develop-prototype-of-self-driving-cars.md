@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/patna/iitp-scholars-tap-artificial-i
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/patna/iitp-scholars-tap-artificial-intelligence-develop-prototype-of-self-driving-cars/amp_articleshow/101408376.cms"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 400
     height: 310
     isCached: true
+
+related:
+  - title: "Go slower on self-driving cars"
+    excerpt: "Star Tribune Opinion publishes a mix of national and local commentaries online and in print each day. To contribute, click here. ••• Self-driving cars"
+    publishedDateTime: 2023-07-02T22:00:00Z
+    webUrl: "https://www.startribune.com/go-slower-on-self-driving-cars/600287017/"
+    type: article
+    provider:
+      name: Star Tribune
+      domain: startribune.com
+    quality: 24
+    images:
+      - url: "https://chorus.stimg.co/24763507/merlin_70425261.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "pW4TnZOa0SKchnoZgkAGWi+6E22qe7M2XzIBI0Sg46kpYBpF/Hy6bD/ixEsZA2umyMGpUe0NyVQSqnGBV51dtizUi/StRs18e6c8hHrRgR/cqGAzpkCwu8MT1yWFTR1HZP7YCPbX8jSsnibc3UY3sGHa1/l2XdnOdtREFvxyHjt4fLaTNzVLthzhQLMXzquV9uVjcEwcDbGRveRQjLnNE7Nbl8PiWLbEHq8xs9RXAwkkUMRqlBrTUkJGFersyD0YIqPkGNirABXTPV4m8abLrmft2gG4oCJj5AksiXFrNmgPFFzktD9yZsR8KsqI/bWs57ie8Uzmb6/Q+xaU2XMOTMauT4lt0xtxEy+JDZ5Kjxh+OHk28jmRyXNPACCUxqoGHuNFyy9C/6SLg1fhko+rquxZDb1QB2RFwuG+K725V6MwhpVO3sJDk0doUC9BybQIh3BUCOFYTymbApWJmHL/PtouzLQef2T0zaGQdapO/cepDseN++wMp7qpYprdX7XxVxI9p6aEK/083HF7Fgd4mQ==;2NC4Pa1Abku7TEWcXLI4WQ=="
 ---

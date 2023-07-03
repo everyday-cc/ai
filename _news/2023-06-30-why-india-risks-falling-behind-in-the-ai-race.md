@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race"
 type: article
 quality: 67
-heat: 90
+heat: 87
 published: true
 
 provider:

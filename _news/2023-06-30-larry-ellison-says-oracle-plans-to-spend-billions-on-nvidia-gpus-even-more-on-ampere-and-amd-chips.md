@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99260-oracle-plans-spend-billions-nv
 webUrl: "https://www.techspot.com/news/99260-oracle-plans-spend-billions-nvidia-gpus.html"
 type: article
 quality: 70
-heat: 80
+heat: 72
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 2000
     height: 1334
     isCached: true
-
-related:
-  - title: "AMD making big gains on Nvidia in AI chips: research"
-    excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
-    publishedDateTime: 2023-07-02T06:35:00Z
-    webUrl: "https://techcentral.co.za/amd-making-big-gains-on-nvidia-in-ai-chips-research/227735/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 54
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/07/artificial-intelligence-ai-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
 
 secured: "Xce1+DZ64bzDo0oMTAWIwxlEq4eRokCZf0pM1i+VsuFufoqKUoVu7js/Evs7+GuYS199kK5de3RWqTajCdHejJtgronW/h3AT9N2alaSbyGKSua6NKoZmFu/XkF62Fxzzv2K3HFJu7JRqvnUpyF1tGWOun7UA/DHSPiCECpf4TsEKwLdSzmdOZCgZjU9rCbNgjG/WfqrC+uW1kS+Owkj+Q1b15HHUWPM8gEowfjWCb4lX6k9E+CUeXu8WMdxAs1cJgF1AxBmdlGbeB3cC2VGB0SgDhOWNH74XDMCdSzQ3JoL9/YNnCBiAA91R6okTBudpNO3q3YRIBr0/lagacYuuFFEWv6V3TrCuJzbD40z8aQ=;5hYSVgPFkkg7lJujfgu5Aw=="
 ---

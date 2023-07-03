@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ai-in-recruitment/"
 webUrl: "https://www.ibm.com/blog/ai-in-recruitment/"
 type: article
 quality: 99
-heat: 119
+heat: 121
 published: true
 
 provider:

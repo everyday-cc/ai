@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-29-microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service.md",
-      "title": "Microsoft To Power Moody's Next-Generation Solutions With Azure OpenAI Service",
-      "excerpt": "Moody's Corp (NYSE: MCO) tapped Microsoft Corp (NASDAQ: MSFT) to deliver next-generation data, analytics, research, collaboration, and risk solutions for financial services and",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service",
-      "originalUrl": "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/06/29/mco.png?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33060304",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33060304",
-      "publishedDateTime": "2023-06-29T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-29-human-oversight-key-to-keeping-ai-honest.md",
       "title": "Human oversight key to keeping AI honest",
       "excerpt": "Tools powered by artificial intelligence should not be left on their own to decide what content people should read, says the head of trust at news aggregator platform SmartNews, who explains why humans must always be kept in the loop.",
@@ -346,7 +303,7 @@
       "originalUrl": "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1166,6 +1123,49 @@
         "AI",
         "AI in Autos",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market.md",
+      "title": "Gather AI acquires assets of Ware Robotics to consolidate drone based inventory market",
+      "excerpt": "Gather AI acquires Ware's drone-based warehouse inventory management business, doubling staff and enhancing growth opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market/",
+      "originalUrl": "https://www.therobotreport.com/gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/gather-drone-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

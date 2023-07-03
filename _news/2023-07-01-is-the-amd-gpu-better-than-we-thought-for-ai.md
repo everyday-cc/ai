@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-be
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/amp/"
 type: article
 quality: 104
-heat: 106
+heat: 104
 published: true
 
 provider:
