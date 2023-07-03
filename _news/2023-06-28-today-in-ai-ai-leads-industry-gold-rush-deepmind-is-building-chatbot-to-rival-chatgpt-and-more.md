@@ -185,15 +185,6 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 34
-  - title: "Another AI sorcery in the making: Gemini by Google DeepMind to rival ChatGPT"
-    excerpt: "Demis Hassabis, Google DeepMind’s co-founder and CEO, announces that his team is working on a new AI system, called Gemini and aimed at getting the best of ChatGPT."
-    publishedDateTime: 2023-06-28T12:58:00Z
-    webUrl: "https://www.phonearena.com/news/gemini-by-google-deepmind-to-rival-chatgpt_id148484"
-    type: article
-    provider:
-      name: PhoneArena
-      domain: phonearena.com
-    quality: 31
 
 secured: "kkh6Fh/Kc2oZrc2oU+fYtwWi3Jz8fyTx4dmFwoSl/dfBzlBzlWUXbf7nWbCbv/fm+Mo/B6AlrrPsbj1eg7RLMv6bWXuptp9gyPv/CU44ZvpqSULWmgyFRWVwQXAPBrSjiVhmeW6FT0JU06GERRlcA5XMGA5uKU8IdDF4xDBLsGVQUJc2RElanbAjDHfnivCqV9p52y4bGMKtc/eJqK/2BP202xlAIE7zyQSRs19t9/gaDKL0HR12a/xc66eMgXMOVELCCPsSD0tL8ePKZTpfzdnYyFbCLMsklrxsWDp027a9Wes1rtHUUHM6edSkfkO0PW0/pPvBh6VXqCvtH1b8Pvo7HDDwTnKPaWZ0smtWLbo=;Rpwih/fqKEQOWwgihfCw8w=="
 ---

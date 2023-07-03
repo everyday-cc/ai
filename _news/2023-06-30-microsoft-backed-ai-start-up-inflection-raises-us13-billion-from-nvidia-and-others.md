@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five Microsoft AI Advances That Business Leaders Should Know About"
-    excerpt: "Microsoft announced developer tools, analytics solutions, Windows and Edge upgrades to help companies add generative AI into applications."
-    publishedDateTime: 2023-06-28T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/"
-    ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649c227727a2d87aa15d41a8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 662
-        isCached: true
   - title: "Microsoft is already offering a generative AI certification program"
     excerpt: "Although Big Tech is still (sometimes clumsily) figuring out generative AI’s ethics and implications, the genie is out of the bottle, and the technology is already integrating into the workforce."
     publishedDateTime: 2023-06-28T16:36:00Z
@@ -107,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Six Risks Of Generative AI"
+    excerpt: "Advance on their generative AI journey with their eyes wide open to the technology's potential risks and take steps to mitigate those risks where needed."
+    publishedDateTime: 2023-06-29T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64959f01282610fa438daaa0/0x0.jpg?format=jpg&crop=2820,1586,x0,y28,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tech Mahindra Collaborates Microsoft Azure To Enable Generative AI Powered Enterprise Search"
     excerpt: "Tech Mahindra's Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility, which will eventually improve the ..."
     publishedDateTime: 2023-06-30T10:08:00Z
@@ -149,6 +149,22 @@ related:
         width: 1400
         height: 719
         isCached: true
+  - title: "Microsoft To Power Moody's Next-Generation Solutions With Azure OpenAI Service"
+    excerpt: "Moody's Corp (NYSE: MCO) tapped Microsoft Corp (NASDAQ: MSFT) to deliver next-generation data, analytics, research, collaboration, and risk solutions for financial services and"
+    publishedDateTime: 2023-06-29T15:24:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33060304"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33060304"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 85
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/29/mco.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft gives Bing and Edge new AI tools to help you shop"
     excerpt: "Microsoft is launching new AI-powered shopping tools for Bing and the Bing AI chatbot in the Edge sidebar. The new features will make it possible to generate buying guides, review summaries, and price matches."
     publishedDateTime: 2023-06-29T16:19:00Z
@@ -177,6 +193,34 @@ related:
         width: 1108
         height: 630
         isCached: true
+  - title: "Generative AI vs. Machine Learning"
+    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
+    publishedDateTime: 2023-06-29T23:49:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Safe image generation and diffusion models with Amazon AI content moderation services"
+    excerpt: "Generative AI technology is improving rapidly, and it’s now possible to generate text and images based on text input. Stable Diffusion is a text-to-image model that empowers you to create photorealistic applications. You can easily generate images from text using Stable Diffusion models through Amazon"
+    publishedDateTime: 2023-06-28T16:08:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/safe-image-generation-and-diffusion-models-with-amazon-ai-content-moderation-services/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/28/safe-image-generation.jpg"
+        width: 1023
+        height: 513
+        isCached: true
   - title: "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week"
     excerpt: "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here."
     publishedDateTime: 2023-07-01T11:33:00Z
@@ -192,6 +236,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop"
         width: 626
         height: 417
+        isCached: true
+  - title: "How generative AI is already changing the workplace: Oracle just added it to HR software"
+    excerpt: "Generative AI-powered features will improve the job posting, search, and hiring processes for HR pros​ and job applicants alike, the company says."
+    publishedDateTime: 2023-06-28T17:42:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/cb7e8fe61ddc541ff899e37f15206a20bb3c8b90/2023/06/28/fde1d28f-b5df-42db-8111-ec12a6095501/oracle.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft-backed AI startup Inflection raises $1.3 billion from Nvidia and others"
     excerpt: "Inflection AI said on Thursday it had raised $1.3 billion in a funding round backed by investors including Microsoft and Bill Gates."
@@ -253,20 +313,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Report: 2022 Microsoft Azure Revenue Less Than Estimated, Half That Of AWS"
-    excerpt: "An unredacted Microsoft document reportedly revealed that the vendor’s Azure cloud server business revenue in the 2022 fiscal year generated half the revenue of rival Amazon Web Services – and less than the amount some analyst firms had assumed."
-    publishedDateTime: 2023-06-30T20:53:00Z
-    webUrl: "https://www.crn.com/news/cloud/report-2022-microsoft-azure-revenue-less-than-estimated-half-that-of-aws"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 69
-    images:
-      - url: "https://www.crn.com/resources/0282-184d486123e1-9d351d4cfb4d-1000/microsoft-azure-sign-2.jpeg"
-        width: 500
-        height: 375
-        isCached: true
   - title: "Microsoft announces new initiative to close skills gap, upskill workforce for AI jobs"
     excerpt: "Microsoft announced on Friday a groundbreaking new initiative as part of its Skills for Jobs program. The \"AI Skills Initiative\" aims to empower individuals and communities worldwide by helping them harness the power of artificial intelligence and bridge the talent gap in the rapidly evolving field."
     publishedDateTime: 2023-06-30T06:51:00Z
@@ -310,20 +356,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
-  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
-    excerpt: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search - Tech Mahindra, a leading provider of digital transformation, consulting, and business re-engineering services"
-    publishedDateTime: 2023-06-30T11:48:00Z
-    webUrl: "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 62
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/VE9e54lJ.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Microsoft knows its out of touch with Gen Z. The software giant plans to lure them with AI, an internal memo shows"
     excerpt: "Microsoft 365 has fewer Gen Z users than its competitors. This may present a risk to its workplace business, according to newly released documents."
     publishedDateTime: 2023-06-30T19:51:00Z
@@ -398,36 +430,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Use speech-to-text in Windows 10, 11 and Microsoft Word will write what you speak. Here’s how"
-    excerpt: "With speech-to-text, you can dictate content instead of typing it manually. This is especially useful for those, who struggle with typing efficiency."
-    publishedDateTime: 2023-07-02T20:50:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/us/use-speech-to-text-in-windows-10-11-and-microsoft-word-will-write-what-you-speak-heres-how/articleshow/101439612.cms"
-    ampWebUrl: "https://m.economictimes.com/news/international/us/use-speech-to-text-in-windows-10-11-and-microsoft-word-will-write-what-you-speak-heres-how/amp_articleshow/101439612.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/use-speech-to-text-in-windows-10-11-and-microsoft-word-will-write-what-you-speak-heres-how/amp_articleshow/101439612.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-23804,msid-101439620/use-speech-to-text-in-windows-10-11-and-microsoft-word-will-write-what-you-speak-heres-how.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Microsoft’s Cloud Server Business in 2022 Was Less Than Half of AWS, New Document Reveals"
-    excerpt: "For years Microsoft has kept a lid on details about the true size of its Azure cloud server rental business, making it impossible for investors to know how Microsoft’s cloud operations unit stacked up against industry leader Amazon Web Services."
-    publishedDateTime: 2023-06-29T20:36:00Z
-    webUrl: "https://www.theinformation.com/articles/microsofts-cloud-server-business-in-2022-was-less-than-half-of-aws-new-document-reveals"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 47
-    images:
-      - url: "https://tii.imgix.net/production/articles/10781/35961e76-cb5e-4c8c-a5a5-720d82802ace.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
     excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
     publishedDateTime: 2023-07-01T15:40:00Z
@@ -441,20 +443,6 @@ related:
       - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Business leader express concerns about ethics and implementation of artificial intelligence"
-    excerpt: "A report claims that the majority of business leaders still grappling with the skills and ethics needed to implement artificial intelligence"
-    publishedDateTime: 2023-06-29T07:44:00Z
-    webUrl: "https://workplaceinsight.net/business-leader-express-concerns-about-ethics-and-implementation-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Workplace Insight
-      domain: workplaceinsight.net
-    quality: 44
-    images:
-      - url: "https://workplaceinsight.net/wp-content/uploads/2019/09/Automation-eye.jpg"
-        width: 1923
-        height: 1923
         isCached: true
   - title: "A Year-old Startup Inflection AI Raises $1.3 Bn from Microsoft, NVIDIA, Bill Gates and Others"
     excerpt: "A year-old AI startup Inflection AI, led by CEO Mustafa Suleyman, has secured $1.3 billion in their latest round of funding."
@@ -553,24 +541,6 @@ related:
         width: 1024
         height: 765
         isCached: true
-  - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
-    excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
-    publishedDateTime: 2023-06-28T13:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/28/9840760.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
-    excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
-    publishedDateTime: 2023-06-28T18:02:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840760.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Microsoft and Nvidia join $1.3bn fundraising for Inflection AI"
     excerpt: "With Nvidia joining its investment round, the San Francisco-based start-up, co-founded by LinkedIn creator Reid Hoffman, said it has access to 22,000 Nvidia H100 GPUs, the most in-demand resource in the AI industry today, costing $40,000 apiece."
     publishedDateTime: 2023-06-29T15:53:00Z
@@ -603,6 +573,17 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 28
+  - title: "Johnson Controls strengthens Microsoft partnership, accelerates net zero building transformation"
+    excerpt: "Johnson Controls, a pioneer for smart, healthy, and sustainable buildings, announced it has won the 2023 Microsoft Global Independent Software Vendor (ISV) Partner of the Year Award."
+    publishedDateTime: 2023-06-29T05:58:00Z
+    webUrl: "https://www.sourcesecurity.com/news/johnson-controls-strengthens-microsoft-partnership-accelerates-co-2900-ga-co-14053-ga.1688016081.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/johnson-controls-strengthens-microsoft-partnership-accelerates-co-2900-ga-co-14053-ga.1688016081.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-strengthens-microsoft-partnership-accelerates-co-2900-ga-co-14053-ga.1688016081.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 26
   - title: "Rubrik extends Microsoft collaboration around Sentinel to Azure OpenAI Service to add Generative AI to cyber recovery"
     excerpt: "The new collaboration will not be sold separately, but will be rolled into the existing offering around Rubrik and Microsoft Sentinel, meaning that partners will not have a new product to sell,"
     publishedDateTime: 2023-06-29T13:00:00Z

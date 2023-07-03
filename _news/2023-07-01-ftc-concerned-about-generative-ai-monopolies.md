@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Six Risks Of Generative AI"
-    excerpt: "Advance on their generative AI journey with their eyes wide open to the technology's potential risks and take steps to mitigate those risks where needed."
-    publishedDateTime: 2023-06-29T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64959f01282610fa438daaa0/0x0.jpg?format=jpg&crop=2820,1586,x0,y28,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How Generative AI Is Transforming Supply Chain And Procurement Roles"
     excerpt: "While there are massive areas of potential, there are equally significant risks posed to privacy, algorithmic bias and even business continuity."
     publishedDateTime: 2023-06-29T10:14:00Z
@@ -105,34 +89,6 @@ related:
       - url: "https://images.wsj.net/im-809446/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Generative AI vs. Machine Learning"
-    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
-    publishedDateTime: 2023-06-29T23:49:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Safe image generation and diffusion models with Amazon AI content moderation services"
-    excerpt: "Generative AI technology is improving rapidly, and it’s now possible to generate text and images based on text input. Stable Diffusion is a text-to-image model that empowers you to create photorealistic applications. You can easily generate images from text using Stable Diffusion models through Amazon"
-    publishedDateTime: 2023-06-28T16:08:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/safe-image-generation-and-diffusion-models-with-amazon-ai-content-moderation-services/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/28/safe-image-generation.jpg"
-        width: 1023
-        height: 513
         isCached: true
   - title: "Oracle taps generative AI to streamline HR workflows"
     excerpt: "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity."
@@ -261,20 +217,6 @@ related:
       - url: "https://cdn-res.keymedia.com/cms/images/us/039/0321_638237397957554662.png"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Study reveals generative artificial intelligence impact on job roles"
-    excerpt: "A groundbreaking study on the impact of generative artificial intelligence (GenAI) on job roles – reveals skills gap and more"
-    publishedDateTime: 2023-06-28T11:46:00Z
-    webUrl: "https://www.openaccessgovernment.org/study-reveals-generative-artificial-intelligence-impact-on-job-roles/162139/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 37
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/06/iStock-1469706455-scaled.jpg"
-        width: 2000
-        height: 1334
         isCached: true
   - title: "Healthcare funnels $20B into generative AI"
     excerpt: "Investment in generative AI is on the rise in the healthcare sector, with $20 billion being funneled into AI that can aid clinicians and life sciences."

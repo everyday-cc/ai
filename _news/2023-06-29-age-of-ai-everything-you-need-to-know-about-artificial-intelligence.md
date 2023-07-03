@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
-        isCached: true
-  - title: "Everything you need to know about AI but were too afraid to ask"
-    excerpt: "What’s clear, however, is that AI is not going away, but it is changing very fast. Here’s everything you need to know to keep up."
-    publishedDateTime: 2023-06-28T12:08:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Meta Uses AI to Organize Your Feeds. Now It's Telling You How"
     excerpt: "The company uses AI that incorporates your \"feedback\" (how you engage with content by liking, sharing or commenting on it) to refine which posts it serves up to you via your social feeds. In theory, this means that it should deliver content tailored to your own interests and preferences -- but that doesn't mean it always gets it right."

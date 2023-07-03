@@ -9,7 +9,7 @@ ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chat
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
 type: article
 quality: 74
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -177,15 +177,6 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 34
-  - title: "Another AI sorcery in the making: Gemini by Google DeepMind to rival ChatGPT"
-    excerpt: "Demis Hassabis, Google DeepMind’s co-founder and CEO, announces that his team is working on a new AI system, called Gemini and aimed at getting the best of ChatGPT."
-    publishedDateTime: 2023-06-28T12:58:00Z
-    webUrl: "https://www.phonearena.com/news/gemini-by-google-deepmind-to-rival-chatgpt_id148484"
-    type: article
-    provider:
-      name: PhoneArena
-      domain: phonearena.com
-    quality: 31
   - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
     excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
     publishedDateTime: 2023-06-28T13:31:00Z

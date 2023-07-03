@@ -123,20 +123,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Beautiful Rally, AI Chips to China, Bank Stress Tests, Fed, Defense Stocks"
-    excerpt: "The U.S. is considering new restrictions on exports of AI capable chips to China, negatively affecting Nvidia and AMD."
-    publishedDateTime: 2023-06-28T11:37:00Z
-    webUrl: "https://realmoney.thestreet.com/investing/beautiful-rally-ai-chips-to-china-bank-stress-tests-fed-defense-stocks-16127588"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 69
-    images:
-      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/5a522a38-136c-11e8-b8cf-074c479e2d81.png"
-        width: 1152
-        height: 768
-        isCached: true
   - title: "China’s AI firms might further lose chip access in new US ban"
     excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month."
     publishedDateTime: 2023-06-28T18:54:00Z
@@ -196,15 +182,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 52
-  - title: "The 3 Top Chinese AI Stocks to Buy Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips China has emerged as a strong force in the race for artificial intelligence"
-    publishedDateTime: 2023-06-28T11:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-top-chinese-ai-stocks-to-buy-now-1032414672"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The US wants to restrict China's access to AI chips even more, and Nvidia could lose out as a result"
     excerpt: "The US government is weighing up plans to further restrict the export of AI processors to China. The Biden administration has heightened concerns about the access Chinese companies have to bleeding edge tech,"
     publishedDateTime: 2023-06-29T01:08:00Z
@@ -246,15 +223,6 @@ related:
       name: Executive Gov
       domain: executivegov.com
     quality: 32
-  - title: "NVIDIA, Chipmakers Brace For Impact As US Mulls New Chip Export Restrictions To China: Could This End AI Stock Rally?"
-    excerpt: "The U.S. may restrict AI chip exports to China to limit Beijing's technology advances and influence. Given its strong revenue exposure to China, Nvidia may be one of the chipmakers hardest hurt by the limit."
-    publishedDateTime: 2023-06-28T12:55:00Z
-    webUrl: "https://www.benzinga.com/markets/asia/23/06/33041405/nvidia-chipmakers-brace-for-impact-as-us-mulls-new-chip-export-restrictions-to-china-could-this-end"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "HWxwwplUOJ17jzouaWboNVBqpSShtfMIvHPZUmmnqbL+BhC/oOJtDlTR7ywIlcyYnvtvBgyHfoRY7vSZr5vWdJI6VTMhmV6CoJDPyrIio+dZ/pn+xtMGGXMneBoRhHckzI1wTATrI0ZolnhsluSC3jsgppxYDvSWM1r/g9WIcIdlJafo72IaphuAZ/uTY/AMYqJ7pH2b4L3UA8O2nsi4+mcKRNuZIJSWksJ9t3NSsoqV4lXlt7Blg3MHynzD/xkuJLVOlfT3nYnliTQVtdpVn39tUujyNnrsyuxU1vjeAoVo4F9KQ6aCbIBphT18MopAC91G+DHwD28xDTavpdTdI87N2ykPmZvgJdRp1gfhobo=;9CI/CB8wG5MN2uen9nsY7A=="
 ---

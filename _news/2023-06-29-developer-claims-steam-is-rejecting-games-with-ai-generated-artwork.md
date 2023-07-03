@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gaming/2023/06/steam-mods-reportedly-blockin
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/06/steam-mods-reportedly-blocking-games-that-use-ai-generated-artwork/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Steam Is Reportedly Rejecting Games Using AI Art"
+    excerpt: "If this is an actual policy, one that Steam has not publicly announced, it would be a significant moment in the use of AI for creative work in the video game industry."
+    publishedDateTime: 2023-06-29T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/06/29/steam-is-reportedly-rejecting-games-using-ai-art/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Digital Content Next: Media organizations grapple with developing AI policies"
     excerpt: "The Washington Post’s approach to AI is measured and strategic. They have been working on AI for years behind the scenes, but just announced two AI teams in May. They are leveraging their resources to study AI and created an AI Taskforce and AI Hub to chart a path forward."
     publishedDateTime: 2023-06-29T17:17:00Z
