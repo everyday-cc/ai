@@ -103,6 +103,15 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 21
+  - title: "Global Fintech Market Research 2023: A Bundled Research Offering of 5 Reports"
+    excerpt: "The \"Fintech Market Research Subscription 2023: Market Forecasts, Market Sectors, Market Driving Forces, Regional Analysis, and Leading Companies Analysis\" report from Wintergreen Research, Inc has been added to ResearchAndMarkets."
+    publishedDateTime: 2023-07-03T10:08:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/03/9842690.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
   - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
     excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
     publishedDateTime: 2023-07-03T11:24:00Z

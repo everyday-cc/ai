@@ -7,8 +7,8 @@ originalUrl: "https://www.fudzilla.com/news/57187-musicians-revolt-against-facia
 webUrl: "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Fudzilla
@@ -26,21 +26,37 @@ images:
 
 related:
   - title: "Over 100 top artists boycott venues that use face recognition tech"
-    excerpt: "More than 100 top artists and music bands have announced to boycott big venues like Madison Square Garden in New York over the"
-    publishedDateTime: 2023-07-03T05:02:00Z
-    webUrl: "https://glamsham.com/world/technology/over-100-top-artists-boycott-venues-that-use-face-recognition-tech"
-    ampWebUrl: "https://glamsham.com/world/technology/over-100-top-artists-boycott-venues-that-use-face-recognition-tech?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/over-100-top-artists-boycott-venues-that-use-face-recognition-tech?amp=1"
+    excerpt: "More than 100 top artists and music bands have announced to boycott big venues like Madison Square Garden in New York over the use of facial recognition technology amid privacy and discrimination concerns."
+    publishedDateTime: 2023-07-03T07:00:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1095858"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 59
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/Madison-scaled.jpeg"
-        width: 2560
-        height: 1440
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/kvn_300623_silaspu2.jpg"
+        width: 600
+        height: 400
         isCached: true
+  - title: "Podcast: The New York City war against facial recognition software"
+    excerpt: "New York wants to ban the use of the software, but grocers are fighting back, saying it’s an issue of theft prevention"
+    publishedDateTime: 2023-06-29T19:16:00Z
+    webUrl: "https://www.supermarketnews.com/retail-financial/podcast-new-york-city-war-against-facial-recognition-software"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 34
+  - title: "Barred from grocery stores by facial recognition"
+    excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
+    publishedDateTime: 2023-07-03T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "W/t7nknMdcznbEvED4wPKyTbs8gbXU+njw4x7u+bcZN0Dt8Clm20Oew/aQJQTcH6KWPsiw81bIKGZf50l1APz9E1G4LbNRo9b899vXVrd6hzgz/H0+ab2RNtgFT7N3vVNAfvuC8ZdB+yniXqTZ1TaHXugn0KikkrdenVY4xTxxd4O5eZgCWso0k6ssONflrepLGgUG5MHlJC25oYTaRa1FdQS4OxX73g/pr8K4HzzrpU/Sad6EpaMLRW99fvdwwn5lWv/9LhY4WUawvRmXzVVKLmY/nlkX7ZeB0PpeP3m1eUhpQP0YfuY8Kx3PMmAN53YEE+FA0YeuE14/n2ieJC91FbsRdfxKzE/rbpsksiAk8=;olnKCAXtDcCADDYO0fNAKA=="
 ---

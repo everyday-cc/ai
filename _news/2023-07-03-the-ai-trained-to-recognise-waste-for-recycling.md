@@ -42,6 +42,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI can help protect vital networks, say experts"
+    excerpt: "International experts in artificial intelligence have proposed using AI to help protect critical infrastructure including power, water and communication networks."
+    publishedDateTime: 2023-07-03T16:13:00Z
+    webUrl: "https://techxplore.com/news/2023-07-ai-vital-networks-experts.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-ai-vital-networks-experts.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-vital-networks-experts.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
 
 secured: "9iv5hCRdzsXK93mJb9BVMTPPQ7I3ne+VwDdoqVEWDGPYOf9MAnaKk3ck2mnLauVKbbBf9C3JYB2iytnJsCStRZZ3CtIa6cVocygxLO4iPDgLXtKBLw5Uxcs9I6mpfsS2WlmDBxfsA809bA9S80sMIkkT1FHpEXWEgTOkTS1p5YrDu+DxDd6ZePQEefBGTkHD+yMWEKoXJ1uzqHDFKFT+j1hUVs2We3iHAJsuqGNymPZiTx+9cbVSqY9Y/EQNaHKfa993mws4oeIcpucQ473u8CrWYi/k1FmxOCSgC043WvwbYB1VstiioSKwITC8ogR/tWrTZSeh8alvavPHhN4OpMjR6CQY2XrCTAvMqDlruXvuLvDLTnKtYeS3dKE9IADvMx6RIfoR3nncdwdBbKQ1m1tsxHi4DcPpmN0KCSjzBDGrDmP2TOweNL/3pRaqieNJF3SCuMJdf9ReZscZugdtNojqb4h9MDk2HHE3JfVmsASM2j8ajZCRInTzmK8CmY6CHHSoa+R/1of1XRuCG8OcoQ==;FGdCxRbmMauoplXJv2a8RA=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "From human ashes to cellphones, what's going on with concert fans lately?"
+    excerpt: "Highfill, who often attends concerts with her friends, said it’s become a normal occurrence to see fans throwing items onstage at concerts. “Stuff like that can be very dangerous,” she said. “It’s disheartening to see even though there is no bad intention,"
+    publishedDateTime: 2023-07-03T16:19:00Z
+    webUrl: "https://www.houstonchronicle.com/entertainment/music/article/from-human-ashes-to-cellphones-what-s-going-on-18182859.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 3
 
 secured: "whFQWXYasVW9b/sNX5Xqp920iiSVxGuoOKYO75wB4jK5bJFERNxnknEol6EavPLEbo7TytBXpzlTIlYKwk8NVt6gMOMDuS3lCQ3PUsqtF+hCcuCXPDZ9FtYXW6AJ1is0l+zK1lMsF66zFrocLWuWpO5qkus/nh7LhWrC0Aw2tn0em7WEVGNsXzqJ7ZbAvn04uodwjgMZyyZaO9Fob9fWFhOOafbkjzdl6bnMHm6eMnKC2rgKmnWj0qA0Ix3rMEO7Tc5hYRwwlM5YlMeAG23xRGONQUtaVyBTLNnSZdIIyYJvVeWy8O+5dFP/nzpIzBZUtUuRv66mcMpqQGEZTFoD/L5bxPU3CJQN+UnQf4ZAR0xp2QHfno1/rjRdJ0PEfFrxTQFJnPTmR8pYyzo9gvtehr6+6pHG064ZMWjfiQdqfOfdT5y5XUo6mIjKaor+Scwn+GGG6dpTuhrPsonBYOVBGLIbjv6x4rNR+r/RmO9wVPoslmpNLxGx4YL0DZvCB8JJgXSUV8JjkrIzPnByT40BPw==;6LVMfDfDINui8aCjcos6EQ=="
 ---

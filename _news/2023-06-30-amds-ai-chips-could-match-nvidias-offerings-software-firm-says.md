@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/amds-ai-chips-could-match-nvidi
 webUrl: "https://www.reuters.com/technology/amds-ai-chips-could-match-nvidias-offerings-software-firm-says-2023-06-30/"
 type: article
 quality: 84
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AMD AI chips are nearly as fast as Nvidia's, MosaicML says"
+    excerpt: "As Nvidia's recent surge in market capitalization clearly demonstrates, the AI industry is in desperate need of new hardware to train large language models (LLMs) and"
+    publishedDateTime: 2023-07-03T16:16:00Z
+    webUrl: "https://www.techspot.com/news/99271-amd-ai-chips-punch-above-their-weight-mosaicml.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-03-image-10.jpg"
+        width: 2000
+        height: 1231
+        isCached: true
   - title: "Larry Ellison says Oracle plans to spend billions on Nvidia GPUs, even more on Ampere and AMD chips"
     excerpt: "Oracle will spend billions of dollars to purchase Nvidia GPUs this year alone, driven by the rising demand for generative AI-based products, which require considerable hardware"
     publishedDateTime: 2023-06-30T15:31:00Z

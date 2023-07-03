@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BBC
@@ -42,6 +42,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI can help protect vital networks, say experts"
+    excerpt: "International experts in artificial intelligence have proposed using AI to help protect critical infrastructure including power, water and communication networks."
+    publishedDateTime: 2023-07-03T16:13:00Z
+    webUrl: "https://techxplore.com/news/2023-07-ai-vital-networks-experts.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-ai-vital-networks-experts.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-vital-networks-experts.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
 
 secured: "zmucjPEGsrqbPkkmiYLJj0Agc1LGmQeg0jmmVwwDlNOslYJwMzNKCSW90faKo9LQwbQVGFe4yPLWk3e2c92pBsOCmvxSlrFIY5FYLb1JbO6D7VyHoXXcscetfsQNjmH3CQjMD8lYB0Q/yVVkmgRRLaqvFhDThLyASbQF+/KAkX2nT4D2Vfve41mqjFdYBzIyHk1Y4yj0LSikuAjjcUFvQEjpw/NKMGpPvBNrpLA0dttTLeKYBqin+Q/Q5fhVC82k8mYNbzVUu89SD9fnFlAVIkaNIEzMBFnrBB+cAVpA0OPaLspiLwOm24PwMt4dAjkEtEYOMdubFAb/O6T1AGCCCNhMYl1kLGrY+KNXaBkK8E8=;8TRlfOU4pOnH1l/2kybLtA=="
 ---

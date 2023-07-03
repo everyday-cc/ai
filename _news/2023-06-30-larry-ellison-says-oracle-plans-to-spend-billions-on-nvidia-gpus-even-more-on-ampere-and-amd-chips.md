@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AMD AI chips are nearly as fast as Nvidia's, MosaicML says"
+    excerpt: "As Nvidia's recent surge in market capitalization clearly demonstrates, the AI industry is in desperate need of new hardware to train large language models (LLMs) and"
+    publishedDateTime: 2023-07-03T16:16:00Z
+    webUrl: "https://www.techspot.com/news/99271-amd-ai-chips-punch-above-their-weight-mosaicml.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-03-image-10.jpg"
+        width: 2000
+        height: 1231
+        isCached: true
   - title: "Nvidia and AMD: Weapons of AI Chip War"
     excerpt: "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy."
     publishedDateTime: 2023-07-03T12:26:00Z

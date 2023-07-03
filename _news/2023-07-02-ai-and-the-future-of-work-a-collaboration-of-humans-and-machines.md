@@ -52,6 +52,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Ethical and Thoughtful Use of AI in the Legal Industry"
+    excerpt: "This is especially true when it comes to publicly available generative AI tools such as ChatGPT, the large language model chatbot developed by OpenAI that, among other things, can generate text, translate languages, write different kinds of creative ..."
+    publishedDateTime: 2023-07-03T17:43:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2023/07/03/ethical-and-thoughtful-use-of-ai-in-the-legal-industry/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 56
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/06/Mark-McCreary-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "The Integration of Artificial Intelligence and the Future of Education that is Still Taking Shape"
     excerpt: "The future of education continues to take shape with the changing world and technological developments such as artificial intelligence. Education with technology is believed to still prioritize humans."
     publishedDateTime: 2023-07-03T11:27:00Z

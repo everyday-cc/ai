@@ -45,22 +45,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The Curious Case of Tesla’s Full Self Driving Software and the Confusing Corner"
-    excerpt: "The electric-vehicle maker's FSD technology has divided opinion between a bull and a bear. Fortunately, safety regulators aren't swayed by social media."
-    publishedDateTime: 2023-06-29T00:22:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-safety-fsd-50f87a65"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-safety-fsd-50f87a65"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-safety-fsd-50f87a65"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 70
-    images:
-      - url: "https://images.barrons.com/im-807567/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla’s Full Self-Driving Version 12 Will Leave “Beta” Behind"
     excerpt: "The brand's polarizing CEO Elon Musk says that when version 12 makes it to the masses that it won't be dubbed \"beta\""
     publishedDateTime: 2023-06-29T17:00:00Z

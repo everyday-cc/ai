@@ -23,6 +23,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "How hair salons are embracing AI technology"
+    excerpt: "Oyin Adeybayo is the CEO of Digbeth based Niyo Group which has two areas of business - hair and beauty and technology. The company is dedicated to empowering women with textured hair as well as upskilling one million black women in technology."
+    publishedDateTime: 2023-07-03T16:48:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0fypwwr"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0fyq0gl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How actors are losing their voices to AI"
     excerpt: "Performers forced to compete with themselves as companies’ use of technology for cloning prompts calls to update copyright law"
     publishedDateTime: 2023-07-01T13:00:00Z

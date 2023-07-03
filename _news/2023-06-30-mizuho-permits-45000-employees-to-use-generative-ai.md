@@ -351,22 +351,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "With Huge Costs, Efficiency Is The Key To Mainstreaming Generative AI"
-    excerpt: "The hype around generative AI is making every industry vibrate at an increasingly high pitch in a way that we have not seen since the days of the Dot Com"
-    publishedDateTime: 2023-06-29T00:55:00Z
-    webUrl: "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2015/02/machine-learning.jpg"
-        width: 340
-        height: 238
-        isCached: true
   - title: "Generative AI means the looming end of search as we know it – here’s why"
     excerpt: "Generative artificial intelligence as a foundational platform is already mature enough to do the work after a search. In other words, the end of search as we once new it is on the horizon."
     publishedDateTime: 2023-07-03T14:23:00Z
@@ -382,6 +366,20 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
         width: 960
         height: 578
+        isCached: true
+  - title: "Talon CEO on Bringing Security, Compliance to Generative AI"
+    excerpt: "With the growth of generative AI services, organizations want better control of the data going in and coming out of AI. Talon CEO Ofer Ben-Noon discussed how his"
+    publishedDateTime: 2023-07-03T16:27:00Z
+    webUrl: "https://www.inforisktoday.com/talon-ceo-on-bringing-security-compliance-to-generative-ai-a-22429"
+    type: article
+    provider:
+      name: Info Risk Today
+      domain: inforisktoday.com
+    quality: 56
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/-showcase_image-1-a-22429.jpg"
+        width: 860
+        height: 520
         isCached: true
   - title: "The H100: The chip driving generative AI"
     excerpt: "It's rare that a computer component sets pulses racing beyond the tech industry. But when Nvidia issued a blowout sales forecast in May to send its market value above $1"

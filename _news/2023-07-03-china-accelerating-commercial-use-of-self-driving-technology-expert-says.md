@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China accelerating commercial use of self-driving technology, expert says"
-excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years, said Nikolaus Lang, managing director and senior partner at Boston Consulting Group."
-publishedDateTime: 2023-07-03T03:14:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
-webUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years,"
+publishedDateTime: 2023-07-03T03:32:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+webUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
 type: article
 quality: 23
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
+  - url: "https://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
     width: 544
     height: 362
     isCached: true
@@ -63,6 +63,6 @@ related:
       domain: azcapitoltimes.com
     quality: 4
 
-secured: "Fw1ZqGDkuZxWxXL+pEUPGFZX4CPXrshFSoUgyXeTdVU0oTyNbYWK2LHLA2kWBWrS6cnIo45Ll/j/KuxGT3MlNiAPhjYlZPIoANN+q/iq5QMSQhX3kun/kUqmHTnUVv6iCXlSKU5QEMJSe2//264nYON7/fnaY0zPtMN5fnUsmHBc98u9vjDYfm9i39SLKhEoMhGCI1cyImDc+hrHjOrfmc1dei7SgemeR9Q95U4kjE/X/F4kK9JuMN10fh57lcqKs9kInWblFLbX12up4SshamtDXyyhOmCjYLuz/M40sBxaJ17xvNc0rjwcaXCEQzbUNZsXXsXd9v8XUbsjtbdtn0ihXJ/4dEBh9Lru706x/wXTxibMKrV7azGmfH1xEIQKoaAJN6gB0XbSO4NMPzHgUGoYjKNM1abK3SU8kcrOuFjv4OrSOsvBCwlGNoNeENREWyrtyRSer4CELchbxSqJ3zShAjgUm195NHttBqJ1DTdFT58Hn2XkAdY1k5bkyk4Fb2rv82liTOsEO5cEGVkXuQ==;sfEYAgfaCVbaMfamVmOd1w=="
+secured: "w5U6s13zJqgU6Qosfg6FyWDJEw8ASSvEBHW6Qrlb5hDHFKGbXsgYfaNtNYfRlSr5dYfn0cpJCZTt4qeUoPDxj61uFnYR8yoACKlUaL34L8Rs/nCYH8FK5mK2tCx1Qp6PoxvG6BFoGTVMkWr+ScnDCUdLOK/68l7kOC0HhRM/bEo8mngDyo6vlGvsihwafanHIBMfELPgf0SeI7BbIt9XT99LBFKqDFECd68Enmujg1ZilQUjmWDgIOws8miEEyUdil0wFLF5Q9mMLS+gPs1JbL8ZcsGQVxkx4aucPBBZqJ00oWN8zCtylkgwhdY9aE1Yn1HjeIDgl885svAkGflycBQvbGLPr/PMFL3b6ZJ06JM=;79giQRzu16cFpGCp/yPaUA=="
 ---
 

@@ -19,34 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "ACLU lawsuit: Facial recognition led to wrongful arrest, prosecution"
-    excerpt: "A young man says he was arrested, imprisoned, and prosecuted for a crime he did not commit, and is now suing both Bloomington Police and Hennepin County Sheriff’s Office for allegedly violating his rights."
-    publishedDateTime: 2023-06-28T23:27:00Z
-    webUrl: "https://www.cbsnews.com/minnesota/video/aclu-lawsuit-facial-recognition-led-to-wrongful-arrest-prosecution/"
+  - title: "Musicians revolt against facial recognition technology"
+    excerpt: "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology."
+    publishedDateTime: 2023-07-03T09:52:00Z
+    webUrl: "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg"
+        width: 620
+        height: 434
+        isCached: true
+  - title: "Over 100 top artists boycott venues that use face recognition tech"
+    excerpt: "More than 100 top artists and music bands have announced to boycott big venues like Madison Square Garden in New York over the use of facial recognition technology amid privacy and discrimination concerns."
+    publishedDateTime: 2023-07-03T07:00:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1095858"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
     quality: 39
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/28/6d127b17-e043-4f9c-b615-c71e4406815a/thumbnail/1200x630/91e71a94070a14dcd1184289cdb48e1e/c25ab25b1a0da1ad4580e18e4ba5d050.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4"
-        width: 1200
-        height: 630
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/kvn_300623_silaspu2.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "In lawsuit, Minneapolis man says facial recognition tech led to his false arrest"
-    excerpt: "A Minneapolis man claims in a civil rights lawsuit filed Wednesday that authorities wrongfully jailed and charged him based on faulty facial recognition technology."
-    publishedDateTime: 2023-06-28T23:52:00Z
-    webUrl: "https://www.mprnews.org/story/2023/06/28/in-lawsuit-minneapolis-man-says-facial-recognition-tech-led-to-his-false-arrest"
+  - title: "Podcast: The New York City war against facial recognition software"
+    excerpt: "New York wants to ban the use of the software, but grocers are fighting back, saying it’s an issue of theft prevention"
+    publishedDateTime: 2023-06-29T19:16:00Z
+    webUrl: "https://www.supermarketnews.com/retail-financial/podcast-new-york-city-war-against-facial-recognition-software"
     type: article
     provider:
-      name: MPR News
-      domain: mprnews.org
+      name: Supermarket News
+      domain: supermarketnews.com
     quality: 34
-    images:
-      - url: "https://img.apmcdn.org/06ed6042d31c378e5586f26062785f29b192db7f/widescreen/fc49d1-20230628-a-man-looks-past-the-camera-2000.jpg"
-        width: 2000
-        height: 1124
-        isCached: true
 
 secured: "YsTBCF8TQTmepot/WaYYomvkzRoCBfzE7Nebk0X4Z2f0e89YFx7QBFTB8bnEGQbNUbu9fapcu6oc96qmDeXMo7maQ4CYANqXZrIjb1Gq3oWezRrHYJA1RwVdvKpU22G3QzQ7lZucN8L2813YEqT8cLImBeeduMgrpkNXU1GyTExL6CZhKQg05IpHGEqmjTlxkmLAj+bEBKCsdbFyZVvHIQ2aiJ9qvx1NNj83HWQloT6A74R21bgez9d3stVJgaTSpf7XbCNwOH6DwGsAsUdMtJVwkE9J1Zh0yRjT8vPC+H6eHk423GRAvyTMrNKQ3XyL7axjK6TJ4RdyDtgVBa7BO04IqMDAh5yhtl9ZxxAsQYCYXb/Hnh8WXDXdvhHKKtPXpqj74dcQkuR2w46G954uOs/JvL4YlHP4OrKenRtuibeGQk+E4IcCZlLQ/UCNu1KR9jhvbOQH9LAZjB4A0ZxCn6YhR2DYMkSG8fUUYa3zAQyCQKEhEwRHm08DjE4Rj15Z99+qyZsAeiiyrdT79TSQbg==;g2Ps+iNYDF4v9ykNruJa7A=="
 ---
