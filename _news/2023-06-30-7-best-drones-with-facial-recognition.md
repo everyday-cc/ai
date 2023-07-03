@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Sheriff says facial recognition not a factor in false arrest"
-excerpt: "The Hennepin County Sheriff's Office is pushing back on claims that facial recognition technology led to a man's false arrest. Kylese Perryman, 21, filed a lawsuit Wednesday against the city of Bloomington and Hennepin County over his 2021 arrest and prosecution for a carjacking and subsequent armed robbery that he did not commit."
-publishedDateTime: 2023-07-01T00:00:00Z
-originalUrl: "https://www.mprnews.org/story/2023/06/30/sheriff-says-facial-recognition-not-a-factor-in-false-arrest"
-webUrl: "https://www.mprnews.org/story/2023/06/30/sheriff-says-facial-recognition-not-a-factor-in-false-arrest"
+title: "7 Best Drones With Facial Recognition"
+excerpt: "Many may not be fully away, but some of the higher end drones are equipped with advanced facial recognition technology. With this technology, a drone can do neat things like follow you ..."
+publishedDateTime: 2023-06-29T19:05:00Z
+originalUrl: "https://thedroidguy.com/7-best-drones-with-facial-recognition-1077684"
+webUrl: "https://thedroidguy.com/7-best-drones-with-facial-recognition-1077684"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MPR News
-  domain: mprnews.org
+  name: The Droid Guy
+  domain: thedroidguy.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://img.apmcdn.org/06ed6042d31c378e5586f26062785f29b192db7f/widescreen/fc49d1-20230628-a-man-looks-past-the-camera-2000.jpg"
-    width: 2000
-    height: 1124
+  - url: "https://thedroidguy.com/wp-content/uploads/2017/11/drone-in-flight.jpg"
+    width: 1000
+    height: 750
     isCached: true
 
 related:
@@ -73,19 +73,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "7 Best Drones With Facial Recognition"
-    excerpt: "Many may not be fully away, but some of the higher end drones are equipped with advanced facial recognition technology. With this technology, a drone can do neat things like follow you ..."
-    publishedDateTime: 2023-06-29T19:05:00Z
-    webUrl: "https://thedroidguy.com/7-best-drones-with-facial-recognition-1077684"
+  - title: "Sheriff says facial recognition not a factor in false arrest"
+    excerpt: "The Hennepin County Sheriff's Office is pushing back on claims that facial recognition technology led to a man's false arrest. Kylese Perryman, 21, filed a lawsuit Wednesday against the city of Bloomington and Hennepin County over his 2021 arrest and prosecution for a carjacking and subsequent armed robbery that he did not commit."
+    publishedDateTime: 2023-07-01T00:00:00Z
+    webUrl: "https://www.mprnews.org/story/2023/06/30/sheriff-says-facial-recognition-not-a-factor-in-false-arrest"
     type: article
     provider:
-      name: The Droid Guy
-      domain: thedroidguy.com
+      name: MPR News
+      domain: mprnews.org
     quality: 39
     images:
-      - url: "https://thedroidguy.com/wp-content/uploads/2017/11/drone-in-flight.jpg"
-        width: 1000
-        height: 750
+      - url: "https://img.apmcdn.org/06ed6042d31c378e5586f26062785f29b192db7f/widescreen/fc49d1-20230628-a-man-looks-past-the-camera-2000.jpg"
+        width: 2000
+        height: 1124
         isCached: true
   - title: "US facial recognition developers jockey for position in NIST accuracy testing"
     excerpt: "U.S. developers do not appear among the first seven algorithms of the leaderboard for the Face Recognition Vendor Test for verification."
@@ -106,6 +106,6 @@ related:
       domain: indiatimes.com
     quality: 12
 
-secured: "OQSxRg6sRoKkGwrHYUGXXjpg/SPiYo7Fg23sW96O93q6bn55YYE88k6MVTDWLemCDqBnkHGzpHAXkqqR5/cxa2L8ffo/fU6B/Ag+q93J1xbVI2GOSDW5xp8vZRE2DevfW2UlJbQb+XHXI5NDWjIMplD2XT4pgtyyJaGsORBT54UAJoSNkkJXfdf/HKA2DQ2wLyoUj7IMflvMhD02HSdWsLikeIkZqwKZLDEj8ofUHAc6qd6oIzAt3xnZ2zk+AMdSRa3oJD3+KB5khpGRf+UmxQQbjWnm/oKFq/K1NjuGZJm6RU1QyOcak6k6cuFkDBu0BOy26tOYy80BS9krebzTkQb+eEeU36SrnpVOLfuOSOYpYNwN5IEF6NlAJ6uddVB6J+lakIKESb2rbD2D30bP6imdiVFx/YE+CmHso6N3dlPG2+gExfF+n2a0Qu451G//UtzaTo/Vr+VErze1VoCxhFBBepO49Y7P1/Bx+Sn7M+2+zIJYVCgJbtr16UZshAE/z0oMghEnpFczsO0oDt/Ylg==;S8lmfHbo4ePlK5yEW+F2jw=="
+secured: "ddxz/5zeAeZXjV4kaXDVTYAGpEt60q4IU6Kim7BBilUqFPxXV38iQnP/eAlxr3f5Cdzf/tbAGquiqhO/19zqS337cj/LGkjC24jm3kEpJM7RUua51Q9h2XfJiW8a+YcC7SuMwifJqwiws77cGVaEMgC8BsPTTzNd+GJevnqFZXrd3uBfrl30HUywMWY9Fe72ttMOZjiZPIp8dyRth5edwsvC5ZN+9C6P+D4lM+fzneHmO+hbNWdKJGm8WK5kecU8PbGK5MFRHkXy7++hIEEWilt8O83S15ACTOcBo0C2dcjQLARYjm6gh4ptoMtCaJBqcaBVoi4xjXTuR4kPQ0qEANhPgNc1FOCqA9Y/bUndUhY=;SRIDidq6CCeF9c9q9K+dHw=="
 ---
 

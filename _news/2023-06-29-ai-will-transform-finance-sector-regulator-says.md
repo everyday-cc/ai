@@ -68,6 +68,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "How AI can help prevent gun violence"
+    excerpt: "A museum in Florida is using AI to try to detect guns and identify possible shooters as quickly as possible. Manuel Bojorquez takes a look at the technology."
+    publishedDateTime: 2023-07-02T23:51:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/how-ai-can-help-prevent-gun-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/02/3d6e3ca7-a8d3-40f5-b281-1bb200aeb1fa/thumbnail/1200x630/0dfd272cf0905338ad627bb1c42cdbf7/0702-wn-bojorquez-2096640-640x360.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qyq00meyHddbYfHcXfIbf5sm920Rj8iUooQSLGQI6ejZptVexOLE/SMBKfi5ActXKHmrGMkj4hN79sVIvIolxdG9+6OlFgnKG2voZsNnWda7h/IZO75vzfqUaQfu9FPmzTNrMYvKXg3DEz+oTGXn1WEwwM160DhmbWHTBgNJPEnJSioEOU/wNqgNiy1W234F4n2rsKqXJHtoCWVId7b2qLErQx0Gytz/3zzHV9anRVV9wILjFbBMdvVSleDy49d7sLAqCIXcQyP3ywOxP9oUfmdsLVY3BvIdy3FPBVr31h6PgvLDkHPJwVImOw5r1Xv/yKtLYiSME9C0D4rrNbKi3kQTfOnjxZCgbppioO0dpoo=;HzfkwKJdKdKIOk1jwO33FA=="
 ---

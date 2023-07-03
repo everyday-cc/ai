@@ -7,7 +7,7 @@ originalUrl: "https://kyma.com/news/national-world/2023/06/28/ai-robot-officiate
 webUrl: "https://kyma.com/news/national-world/2023/06/28/ai-robot-officiates-a-colorado-couples-wedding/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Artificial intelligence bot Chat GPT helps officiate a wedding in Colorado"
-    excerpt: "But using the AI bot Chat GPT, it finally came around. \"We are honored and grateful to have each and everyone of you here, especially those who have traveled from out of state, notably Kansas,\" the bot said. Just in case you are wondering how the couple met, it was through a dating app — online."
-    publishedDateTime: 2023-06-28T08:42:00Z
-    webUrl: "https://www.kcra.com/article/chat-gpt-helps-officiate-wedding-in-colorado/44367314"
-    type: article
-    provider:
-      name: kcra.com
-      domain: kcra.com
-    quality: 15
 
 secured: "5T1T9P9WpxwpQlj6yrAZiqtTyp975SD4oweVr9fLAy2+KQv7jNg8M+2XdXRtJj54ExIY5r6XmDbBTHkOW6GSyoiZVmIRpT+f7F5e7Hm7vAxtU2XDi1oy6qYci9KvXqsC38aTL0WZEy0UhnvtxwSQq7LfRtKL1WU2UQuUg3gRp/EzxtwyOapCQQHRDLLqTog+ogdHel/vJZlbxFGvqHhUz11y6KoKri95mT2vBwhYInt76Vqo7JDR2cSTQ3uL0GyFlyYKMMOuXqScYjfmZ9zOTVo4ND1fOE/sRYSz5ur6KrkiRECDKOHDI1bR6Hm8eFpXcacr5O+l8EW9jNoNAbsYJpIM28KjsybjF5N8qfD3ukw=;k6pRWL9SaDJV3VRO/VhUEw=="
 ---

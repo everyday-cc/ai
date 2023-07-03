@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Oncology market is projected to grow at a CAGR of 43.6% by 2033: Visiongain"
-    excerpt: "Visiongain has published a new report entitled Artificial Intelligence (AI) in Oncology Market Report 2023-2033: Forecasts by Product Type (Software, Hardware, Services), by Usage Type (Cancer Research,"
-    publishedDateTime: 2023-06-28T08:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/g33037350/artificial-intelligence-ai-in-oncology-market-is-projected-to-grow-at-a-cagr-of-43-6-by-2033-visio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33037350"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33037350"
+  - title: "Artificial Intelligence (AI) Sensor Market to Hit $41.17 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global AI sensor market size is expected to reach USD 41.17 billion by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 43.6% from 2023 to 2030."
+    publishedDateTime: 2023-06-29T11:48:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/29/9841452.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "01lFY7ykm1QAYSbIB2kD5yhVk5bf+7g9lasXWnR4Sp0WklJtV7dJPA9TNqP/uakFiin0R/hYG58rBFzo6aSKUN4ZksSn9Lw+oC6A5w3pgFoGvmr8JVpCR8dYmZS60q4HDN0hCuXbE4bxbvyhgAFW2k/KNPARQ7/X5wUCxips+/ROOMypYEuGGLsQpuqwlMrEviGzg10UPQhDAosl1blSnNv6pxXqF7IAaFXip+n1zNkx+Chv5q4SU4m/EObgnHF2wJWSFn2YYBoPLZW9SCBHNnyOS9z0EYGlyheds6WZ82Fzc9Tyttdh3ZQz1cKCqD7Ss8sksOhKKmnPhVVKbsx6NwHTEeYDX9CcsvHryxOcEkk=;nvsos0i2LUuKUDP30daN+w=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: techxplore
@@ -41,15 +41,6 @@ related:
         width: 6720
         height: 3384
         isCached: true
-  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
-    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
-    publishedDateTime: 2023-07-02T09:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 29
 
 secured: "ssoAoHusMshXtmmZVb1tBohJJTDxkM24J2FytfG59ndWb5eQa4SGABdsbHXSvFkSLQd/4n5g/o22nCDTaSMW7ku5RSuE+0cfossG57oai4I7RaazuDvlhY1I7ZW/hypdVlqCFAgmIrtAE1qRjIsNJWQnFKN01EKNmiBTlxOiCGGoN7045I/TC3OFrsjq1C1XVUOPi9ce3qOyu2IqpOfi19BRHph1OgFbz+K7jDRsX9u3XyvdMOleZl+HqybBDfUCjcdQ+1qYU2BP4L+tC4s2BxMw5PKxKspcUncON838w/3mM4SgyMsFuiYNAsE+O/eT4Vgnku7MgpaLuuFFhk7ZIOjw0VJvIKvG9hkA/qQTLj7NKUo0tL9lHn10Fj/Ufb7xbunz/nLKEDGLEFiHi0jvYFjAz5gHy5ZhMfh/kFkYnQTh0rJcCOqpetGRymzTS1I8qLm/utk/R0IgrmVhcP13RVTVPD/vjZK4GlIGB8bZuf96/7XeF7ZV3JBwkfI3rzZ0pRdYm/xwg3GaiJiaoNGsHQ==;f+isXzW9bxc48uOBDHzpnw=="
 ---

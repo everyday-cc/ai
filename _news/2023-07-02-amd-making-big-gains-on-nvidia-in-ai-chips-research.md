@@ -147,20 +147,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "US to impose new regulations limiting AI chip exports to China: report"
-    excerpt: "The US is mulling over the introduction of new limits on shipping artificial intelligence chips to China, according to The Wall Street Journal report on"
-    publishedDateTime: 2023-06-28T08:18:00Z
-    webUrl: "https://technode.com/2023/06/28/us-to-impose-new-regulations-limiting-ai-chip-exports-to-china-report/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "Nvidia knocks down concern over AI chip exports to China. The reason is why we own the stock"
     excerpt: "Nvidia (NVDA) on Wednesday reassured investors that potential export restrictions on chips wouldn't hurt the semiconductor firm's bottom line."
     publishedDateTime: 2023-06-28T17:25:00Z

@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Catalyzing transformation: Augmenting human intelligence with AI"
-excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Mumbai brought together visionaries, experts and technology enthusiasts under one roof to explore the frontiers of artificial intelligence through keynotes,"
-publishedDateTime: 2023-06-29T11:46:00Z
-originalUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai-11688038146836.html"
-webUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai-11688038146836.html"
-ampWebUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
+title: "How AI can help prevent gun violence"
+excerpt: "A museum in Florida is using AI to try to detect guns and identify possible shooters as quickly as possible. Manuel Bojorquez takes a look at the technology."
+publishedDateTime: 2023-07-02T23:51:00Z
+originalUrl: "https://www.cbsnews.com/sanfrancisco/video/how-ai-can-help-prevent-gun-violence/"
+webUrl: "https://www.cbsnews.com/sanfrancisco/video/how-ai-can-help-prevent-gun-violence/"
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2019/01/30/600x338/HTBS-leadImage-Feb2018-FB-v2_1548835753634.jpg"
-    width: 600
-    height: 338
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/02/3d6e3ca7-a8d3-40f5-b281-1bb200aeb1fa/thumbnail/1200x630/0dfd272cf0905338ad627bb1c42cdbf7/0702-wn-bojorquez-2096640-640x360.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -59,6 +56,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Catalyzing transformation: Augmenting human intelligence with AI"
+    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Mumbai brought together visionaries, experts and technology enthusiasts under one roof to explore the frontiers of artificial intelligence through keynotes,"
+    publishedDateTime: 2023-06-29T11:46:00Z
+    webUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai-11688038146836.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2019/01/30/600x338/HTBS-leadImage-Feb2018-FB-v2_1548835753634.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "The Transform AI Survey: Help discover the state of generative AI"
     excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
     publishedDateTime: 2023-06-29T13:11:00Z
@@ -68,21 +81,7 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "How AI can help prevent gun violence"
-    excerpt: "A museum in Florida is using AI to try to detect guns and identify possible shooters as quickly as possible. Manuel Bojorquez takes a look at the technology."
-    publishedDateTime: 2023-07-02T23:51:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/how-ai-can-help-prevent-gun-violence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/02/3d6e3ca7-a8d3-40f5-b281-1bb200aeb1fa/thumbnail/1200x630/0dfd272cf0905338ad627bb1c42cdbf7/0702-wn-bojorquez-2096640-640x360.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "Rty7Td1O/LpvFlFnEfNudX0jf1vw4HNambAGoqYtdGLUA5S25Nwd1qSKsyarRN8kstslsyExSeNsvfuGo3DhDx0dqMvpWylZV5eZBYIuFKQUPCHlUGzCfn3FDdpLoXh/vwBmRPteGSwNg2asIrbhmSPvZjiw0ueJZCcRyjH+GE2h+26UKcRbqOAGXuBIwg3wxzFSz1w11WgEj8qIJMYlseZLBp8Sdbpv4hDugcFdOsRmUV+B9eoD5NlhDgvdc1OtN6tbGGe0iZ2wJau1WsUrOkroL65Y5GVNoHFC14/GNlPXaRZSv8PmYYGAf20Uvu7n0mVTAocgZIVUOyrW7WlNzeY1/gBgJw/dtRpCfx8FkvBamugCZDoHHIPvl0ljINTDnbH89DQ4JesjxSu/B+IUFRJyCke8GsPd01TWmzMDjtlbS/zXkhZA3ed1V7uQgWX4oneRk20UvbE9XtogzaZuaQNDrQc0OFCttQvcyGVsxQl06CofzVa3OJ5alTgZE+BuLhRBdVibYPh+YdwnzLQt8A==;BNrJ/fRQJDr9Ce5/4oHcxA=="
+secured: "U4GFfJNrA58RAnkXsRItvGsPTn3BaIDCWLlUXqg3pOE3UhNG4CTpsVh1qLgNajb+PwHVGcQZfGtdYVaNxbmaJP3gViGoyIRgs6HMsotcxKRP/xHGFZwXsOq0fyRg4SehmOBgvPyY+cgzKGxfyT7GroZVRKv65MPPVs+8flLw2DQZWSOn4nkvRrAo0bNxzJwYz0xTTW0/rN/dsLxpExpJp6eLcbT5kCH673R0n4k0oJ8O2eYfTo02fjBIxX51EVzEqkZ8rvYcK7AXPrl+pZIqj/+AcMW/uyLKxpsKgr+gILwaTZGIn2Tt3PrsBsd02jM3htrxkpxdndaX22txn59SFcmgVdDMDHZHYUTZeOPetDg=;51JVBdIG/VwFP0JkbiJoNg=="
 ---
 

@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "London fintech firm relocates HQ to Aberdeen"
-    excerpt: "Fintech start-up ZIPZERO has relocated its head offices from London to Aberdeen, in a bid to accelerate its growth. The platform crowdsources paper and digital receipts directly from consenting shoppers to help optimise spending and lower household bills,"
-    publishedDateTime: 2023-06-28T08:12:00Z
-    webUrl: "https://www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324"
-    ampWebUrl: "https://www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324.amp"
-    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324.amp"
-    type: article
-    provider:
-      name: insider
-      domain: insider.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.insider.co.uk/news/article30339315.ece/ALTERNATES/s1200/0_Mohsin-Rashid.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fintech Firm Brex Taps Jason Mok to Support Next Generation of Founders"
     excerpt: "Brex recently announced that Jason Mok has joined Brex to support the firm’s commitment to serving startups and their founders."
     publishedDateTime: 2023-07-01T10:24:00Z
@@ -120,20 +104,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
-  - title: "5 FinTech platforms redefining the future of lending in India"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-06-28T07:57:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Lending.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Wells Fargo helps FinTech create $70m fund to widen SME credit access"
     excerpt: "Wells Fargo has partnered with Hello Alice and the Global Entrepreneurship Network (GEN) to create a $70 million fund designed to improve access to credit for small business owners."
     publishedDateTime: 2023-06-29T10:42:00Z

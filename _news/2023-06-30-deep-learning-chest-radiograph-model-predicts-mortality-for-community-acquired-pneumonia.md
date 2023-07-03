@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/994359"
 webUrl: "https://www.eurekalert.org/news-releases/994359"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 700
     height: 351
     isCached: true
+
+related:
+  - title: "Deep Learning Redefines Mortality Forecasting in Pneumonia Patients"
+    excerpt: "Sophisticated deep learning-based model helps in accurately predicting 30-day mortality for patients diagnosed with community-acquired pneumonia (CAP)."
+    publishedDateTime: 2023-07-01T18:55:00Z
+    webUrl: "https://www.medindia.net/news/deep-learning-redefines-mortality-forecasting-in-pneumonia-patients-212521-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 19
 
 secured: "Ukz3z+i7VvSK2ctO4vVQcxAw3WWAMTtWj43bFhCQtqtjvmjQfqoBXNihC8AWAMKy70veUPInwfM+FaUYuItFpuOL93Zcdm3q+2iq/boHyGpZXYkxQ7UvQzlr4jcMDldhE3ZPtMkPh9g+swdg3ySLf1fz0TYBhMK92hOTo8m9qGr+x8+Jbl5u30CFjPm7W58LyAscCqJZG4rMJ8L55Hht3Lk3PwkMfbE3JshD+twomjmlc1uatw3JeXu/pNtg64xORN6JW3NA1g1w3HZ/vHycbuMhQMAFjKuufPXRq0R6ygZDA8z6f4ANRiPElNsm4uVWkB/pvoKjDDWyyYL7eIiH73FeVY8hJo0qaenJ6m40TK5Eo04FQWiuDOxSMvhK8NTCJdJ91kmZZ+RndTyMqfHS11ZQrCXHYwT9TL5D/DBJkaA+k7hUmpF5EcZ4KctGhXXI8D1lFu4OuxgmzMTPixKRcpEOrQIIv6TNFqS8uGAx0h063GehkwHjKfAaa7N66+pTS7x3cg3KS0wyOAbUjPD6kQ==;Qn/9Q7XMTJJ8yfxmU5JwfQ=="
 ---

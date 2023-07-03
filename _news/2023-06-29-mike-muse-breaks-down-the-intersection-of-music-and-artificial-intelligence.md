@@ -7,7 +7,7 @@ originalUrl: "https://www.theroot.com/mike-muse-on-the-intersection-of-music-and
 webUrl: "https://www.theroot.com/mike-muse-on-the-intersection-of-music-and-artificial-i-1850590641"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,56 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "The Revolution of AI in Music Production"
+    excerpt: "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups."
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://techround.co.uk/news/revolution-ai-music-production/"
+    ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 59
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2023/06/marcela-laskoski-YrtFlrLo2DQ-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Psychologist’s Take: 2 Reasons Not To Fear The AI Revolution"
+    excerpt: "A mix of excitement and anxiety is natural, but here’s why artificial intelligence is likely going to enhance our lives."
+    publishedDateTime: 2023-06-29T19:18:00Z
+    webUrl: "https://www.forbes.com/sites/traversmark/2023/06/29/psychologists-take-2-reasons-not-to-fear-the-ai-revolution/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "New computer-vision system aims to revolutionise shrimp farming practices"
+    excerpt: "The AI-based MonitorShrimp project, led by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in collaboration with shrimp farming companies Oceanloop and Sander Holding,"
+    publishedDateTime: 2023-06-29T06:25:00Z
+    webUrl: "https://www.efeedlink.com/contents/06-29-2023/5597ea33-5b8f-49f1-82e0-0e446dc51ce5-0001.html"
+    type: article
+    provider:
+      name: efeedlink
+      domain: efeedlink.com
+    quality: 38
+    images:
+      - url: "https://www.efeedlink.com/cps/images/2023/june/2023062914191498243232.jpg"
+        width: 900
+        height: 450
+        isCached: true
+  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
+    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
+    publishedDateTime: 2023-07-02T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 29
 
 secured: "o++KiPNAfSpzgmUrqd4W9WUtEqKwWY4lOLpZ82zDJUI2J9QqgWmgTtbkZPEWno+4eqtH49Wzt1Ei/ZcE9rTcq368RJdqqTuF6ZqunkOhVK+jrOHbMWjlbt4Fan4kfLViYJIw+DovkdPevWMVGPNoQFrjdYTs1IDdHdX9cjAwzCbrvMrpUB+YDyk9j6M4AIqjLvXlhsGvCn8+zzUiT7gL77BRDlLy+R+RZH/1ZjuqoEh+4IwyTWpPETFnsk4/11gWDTstA89mdXmTPQI1kYN036/o2wKhXzvtGwzag7p7khr5pKMTxyKSbZhFR5oy75pd7N+P6pIM0GpidW23ouprdTjhDcaZp6H9SyvRLW3WrHQbmlkZFUuE7OZ23QGSeciBP9e8NxVdFXBJeBkN5XWgDYW1iaGLEkNQi9utTBLCp4OkP4dBa0WYfKTEs2jhw8OUbd0RrQU81a0gE/f6Pg/XxckeeYyDf+bI6MwiW1ApZjffWSH3IJRkvs4PPLaLdhNnuplhautBp+QggBAxg47T+Q==;9lXiERP0VZ8EB+7zaFSsCg=="
 ---

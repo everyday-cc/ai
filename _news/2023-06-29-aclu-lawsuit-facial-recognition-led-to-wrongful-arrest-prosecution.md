@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/minnesota/video/aclu-lawsuit-facial-recogn
 webUrl: "https://www.cbsnews.com/minnesota/video/aclu-lawsuit-facial-recognition-led-to-wrongful-arrest-prosecution/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Barred From Grocery Stores by Facial Recognition"
-    excerpt: "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ..."
-    publishedDateTime: 2023-06-28T09:02:00Z
-    webUrl: "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2023/06/22/multimedia/00facewatch-top-fqlv/00facewatch-top-fqlv-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Sheriff says facial recognition not a factor in false arrest"
-    excerpt: "The Hennepin County Sheriff's Office is pushing back on claims that facial recognition technology led to a man's false arrest. Kylese Perryman, 21, filed a lawsuit Wednesday against the city of Bloomington and Hennepin County over his 2021 arrest and prosecution for a carjacking and subsequent armed robbery that he did not commit."
-    publishedDateTime: 2023-07-01T00:00:00Z
-    webUrl: "https://www.mprnews.org/story/2023/06/30/sheriff-says-facial-recognition-not-a-factor-in-false-arrest"
+  - title: "In lawsuit, Minneapolis man says facial recognition tech led to his false arrest"
+    excerpt: "A Minneapolis man claims in a civil rights lawsuit filed Wednesday that authorities wrongfully jailed and charged him based on faulty facial recognition technology."
+    publishedDateTime: 2023-06-28T23:52:00Z
+    webUrl: "https://www.mprnews.org/story/2023/06/28/in-lawsuit-minneapolis-man-says-facial-recognition-tech-led-to-his-false-arrest"
     type: article
     provider:
       name: MPR News
       domain: mprnews.org
-    quality: 39
+    quality: 34
     images:
       - url: "https://img.apmcdn.org/06ed6042d31c378e5586f26062785f29b192db7f/widescreen/fc49d1-20230628-a-man-looks-past-the-camera-2000.jpg"
         width: 2000

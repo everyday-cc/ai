@@ -51,20 +51,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Körber Prize for German AI Researcher"
-    excerpt: "Cordelia Schmid is awarded the Körber European Science Prize that is endowed with one million euros. The German computer scientist Cordelia Schmid is a pioneer in computer-aided image processing. Schmid developed revolutionary new procedures that enable computers to understand image content."
-    publishedDateTime: 2023-06-28T07:26:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234959"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 39
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/691ad9d7-4745-4c65-9657-13c1a086b98d-resslogovertical.png"
-        width: 1261
-        height: 1081
-        isCached: true
 
 secured: "52TuMQkdowJ0DF7xz+0ygXQFN3LiwdHTmQXm1LOUeel3S+K7UJTBcuxH92NrzZVFYE9Mk0fohvcN2Bjtf69F0QH0j6GD4A2JW6kklHeomurxQegYj9QSjLMuhg7pAtDTbCLGMiA7c4HIfh0QCeG0RW++6RlNPFuUTTrwHtNc30c6VLM/da4W+6kXahTVCEYCcWRqata1XkH9tEKLz0MRv64QbvLOYFEBx1ce253Zt99id728hGhA+6yzBlxBW3oc/gxcXlvuros/xS95aiRoy+86zOrd1jydR9myoG8w9TVHEHVSBw4CZbfwPsTnvHyyOf+ywsWRL9cIu8WC/U39v8zbqZfahjXJR3i9tJHODbQkl3MtRT0XoMedvcUtfFFLyEON7L0mF71g/cZl8IJsSbIQaynnmD4NznUxayDWQfJ5sNQSEnySUSw7Db36M6vcbUe+Sv2lWGare+WriPrhTrAKmjuDy0w5C7U4i/m7efJ4K2il1/8JiqQj4Djl+CHYrXIP4T/JV2IgL4BA1mcpPA==;9GzZLlNROXiXzHvXm9r67A=="
 ---

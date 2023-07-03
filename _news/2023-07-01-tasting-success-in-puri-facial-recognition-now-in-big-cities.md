@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
 type: article
 quality: 59
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,34 @@ related:
       - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1687088023_rath-yatra.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "7 Best Drones With Facial Recognition"
+    excerpt: "Many may not be fully away, but some of the higher end drones are equipped with advanced facial recognition technology. With this technology, a drone can do neat things like follow you ..."
+    publishedDateTime: 2023-06-29T19:05:00Z
+    webUrl: "https://thedroidguy.com/7-best-drones-with-facial-recognition-1077684"
+    type: article
+    provider:
+      name: The Droid Guy
+      domain: thedroidguy.com
+    quality: 39
+    images:
+      - url: "https://thedroidguy.com/wp-content/uploads/2017/11/drone-in-flight.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "Sheriff says facial recognition not a factor in false arrest"
+    excerpt: "The Hennepin County Sheriff's Office is pushing back on claims that facial recognition technology led to a man's false arrest. Kylese Perryman, 21, filed a lawsuit Wednesday against the city of Bloomington and Hennepin County over his 2021 arrest and prosecution for a carjacking and subsequent armed robbery that he did not commit."
+    publishedDateTime: 2023-07-01T00:00:00Z
+    webUrl: "https://www.mprnews.org/story/2023/06/30/sheriff-says-facial-recognition-not-a-factor-in-false-arrest"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 39
+    images:
+      - url: "https://img.apmcdn.org/06ed6042d31c378e5586f26062785f29b192db7f/widescreen/fc49d1-20230628-a-man-looks-past-the-camera-2000.jpg"
+        width: 2000
+        height: 1124
         isCached: true
   - title: "US facial recognition developers jockey for position in NIST accuracy testing"
     excerpt: "U.S. developers do not appear among the first seven algorithms of the leaderboard for the Face Recognition Vendor Test for verification."

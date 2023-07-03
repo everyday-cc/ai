@@ -70,6 +70,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "How AI can help prevent gun violence"
+    excerpt: "A museum in Florida is using AI to try to detect guns and identify possible shooters as quickly as possible. Manuel Bojorquez takes a look at the technology."
+    publishedDateTime: 2023-07-02T23:51:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/how-ai-can-help-prevent-gun-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/02/3d6e3ca7-a8d3-40f5-b281-1bb200aeb1fa/thumbnail/1200x630/0dfd272cf0905338ad627bb1c42cdbf7/0702-wn-bojorquez-2096640-640x360.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jQfEtMbmpFlPH3o0O+YVGKHqDlWl9h54ktrdjwJq2MM9vTrfIJKVR5ox9sgBZpui75KAfpRgLCIZmREZbCAxrVtYuAtHtOVbOf/s20RUmhsWxEWd/SrEPdpD6EnXEFEMvfB55VmlJkiflz/VWxYiRzY+X2Y4nWmBcqkuoAxq2wdHM5s69HoFdPvOJX62zneuIjEDlCeXjr2Jj/DjOTJn55FI0Dj9CA0bSYFaWiIAfAqrF4fEpoPZZ9iWAGzYasYIWRPwAy0MqNNAv/4o2yKuIWK/kWNosrcRISJfSe+r7F/OBee1GOmWL/7gHxORp6V7uZcyeyoeA4E2zX5OtHkvG3oJV+PxSJnijHEboR4gv1W/UWMmpWTDG+qzP+U7+tXe+Vjemd4JDKT3LUcfIZwM2XnYJS4HiU4Gic1OoDUTc1OZXEN48Jm4PXn2AmGrizGjiWPuHygZI4xHYvvt035pe6nk9RV4eNAVlRG02OUVJeKnVWC7DUx9hm6SYUPhJ9Etl2K7Wt42oPltTnHNp9snBw==;ODWhFK/f4oOEUyFB75TWjQ=="
 ---
