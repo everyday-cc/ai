@@ -69,20 +69,6 @@ related:
         width: 1400
         height: 719
         isCached: true
-  - title: "Microsoft gives Bing and Edge new AI tools to help you shop"
-    excerpt: "Microsoft is launching new AI-powered shopping tools for Bing and the Bing AI chatbot in the Edge sidebar. The new features will make it possible to generate buying guides, review summaries, and price matches."
-    publishedDateTime: 2023-06-29T16:19:00Z
-    webUrl: "https://www.androidauthority.com/microsoft-bing-edge-ai-shopping-3340393/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-logo-on-phone.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud"
     excerpt: "Trusting Social, a leading Asian fintech AI company, has announced the launch of Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
     publishedDateTime: 2023-07-01T03:15:00Z

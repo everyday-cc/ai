@@ -74,15 +74,20 @@ related:
         width: 2000
         height: 1334
         isCached: true
-  - title: "Microsoft-backed AI startup Inflection raises $1.3 bln from Nvidia and others"
-    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
-    publishedDateTime: 2023-06-29T16:26:00Z
-    webUrl: "https://www.reuters.com/article/inflection-ai-funding/update-3-microsoft-backed-ai-startup-inflection-raises-1-3-bln-from-nvidia-and-others-idUSL4N38L2U7"
+  - title: "Japan Dreams of AI, Overtaking Nvidia and Universal Basic Income"
+    excerpt: "Japan is laying the groundwork to become home to some of the world’s top companies in artificial intelligence, the country’s Economy Minister Yasutoshi Nishimura told a group of University of Tokyo students Tuesday."
+    publishedDateTime: 2023-07-04T07:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-04/japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 61
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imlWQwojNL.U/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AMD making big gains on Nvidia in AI chips: research"
     excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
     publishedDateTime: 2023-07-02T06:35:00Z

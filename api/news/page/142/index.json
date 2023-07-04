@@ -2,6 +2,58 @@
   "page": 142,
   "value": [
     {
+      "path": "_news/2023-03-28-deep-learning-chipsets-market-insight-2023-driving-factors-by-manufacturers.md",
+      "title": "Deep Learning Chipsets Market Insight 2023: Driving Factors by Manufacturers",
+      "excerpt": "The \"Deep Learning Chipset Market\" analysis [UPDATED REPORT] 2023 provides an assessment of a specific industry, niche,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-insight-2023-driving-factors-by-manufacturers-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-insight-2023-driving-factors-by-manufacturers-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-public-health-ai-and-ethics.md",
       "title": "Public health, AI and ethics",
       "excerpt": "First, we must note that medical ethics in the country are far from where they ought ... In this environment, a potent new tool needs to be handled with great care. Increased reliance on AI for diagnosis may sound cool to many, but the system is far ...",
@@ -1159,50 +1211,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-education-might-not-save-you-from-cognitive-decline-new-study.md",
-      "title": "Education might not save you from cognitive decline – new study",
-      "excerpt": "Giovanni Sala receives funding from the University of Liverpool. Take a look at any list of risk factors for cognitive decline and you’re bound to find “education” among them. The received ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "originalUrl": "https://theconversation.com/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/514261/original/file-20230308-1134-cj3g93.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "publishedDateTime": "2023-03-27T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

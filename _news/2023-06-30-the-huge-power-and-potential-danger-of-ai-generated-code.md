@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-dang
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61b218c1ca901f3c7454ff62/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 840
-        isCached: true
-  - title: "The Huge Power and Potential Danger of AI-Generated Code"
-    excerpt: "Programming can be faster when algorithms help out, but there is evidence AI coding assistants also make bugs more common."
-    publishedDateTime: 2023-06-29T16:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/649cd8329ec11a2433532c08/191:100/w_1280,c_limit/AI-Coding-Assistants-Fast-Forward-Business-932736250.jpg"
-        width: 1280
-        height: 670
         isCached: true
   - title: "The real danger of AI isn't hyper-intelligence, it's human stupidity"
     excerpt: "While AI is already proving a useful tool, there’s a risk we replace critical thinking with an alternative that’s really equipped for it."

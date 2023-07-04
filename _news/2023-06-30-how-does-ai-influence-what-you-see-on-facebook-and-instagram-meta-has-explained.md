@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Meta Addresses AI Transparency Concerns on Facebook, Instagram with New Tools, Disclosures"
-    excerpt: "The Mark Zuckerberg-owned company also targets releasing its Content Library and API, a collection of research tools, soon."
-    publishedDateTime: 2023-06-29T17:03:00Z
-    webUrl: "https://www.techtimes.com/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 51
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430631/meta-addresses-ai-transparency-concerns-on-facebook-instagram-with-new-tools-disclosures.jpg"
-        width: 1024
-        height: 648
-        isCached: true
   - title: "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram"
     excerpt: "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?"
     publishedDateTime: 2023-06-30T09:11:00Z

@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-27-ai-will-change-software-development-in-massive-ways-says-mongodb-cto.md",
+      "title": "AI will change software development in massive ways, says MongoDB CTO",
+      "excerpt": "AI, especially the generative sort, is going to \"let developers write code at the quality and the speed and the completeness that we've always wanted to,\" says Mark Porter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
+      "originalUrl": "https://www.zdnet.com/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e1f3b2050f61238595de2449c3501e9161f73f0c/2023/06/26/a1a9ef9c-51e1-472c-8d00-50976872ae9a/mark-porter-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
+      "publishedDateTime": "2023-06-26T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-how-resilient-is-your-data-in-the-cloud.md",
       "title": "How resilient is your data in the cloud?",
       "excerpt": "IBM Storage Protect for Cloud ensures that your data has been scanned for threats and that a clean copy of that data is safely backed up.\nThe post How resilient is your data in the cloud? appeared first on IBM Blog.\n",
@@ -1133,57 +1185,6 @@
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/amp/",
-      "publishedDateTime": "2023-06-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-the-future-of-excellent-cx-leveraging-enhanced-generative-ai.md",
-      "title": "The Future Of Excellent CX: Leveraging Enhanced Generative AI",
-      "excerpt": "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/",
       "publishedDateTime": "2023-06-26T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {

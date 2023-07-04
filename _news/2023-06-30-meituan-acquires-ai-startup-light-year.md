@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "China's Meituan to buy artificial intelligence firm Light Year from co-founder"
-    excerpt: "Visitors stand near a booth of Meituan at the 2022 World Robot Conference in Beijing ... said on Thursday that it is acquiring artificial intelligence (AI) company Light Year from its co-founder and former director Wang Huiwen, in a bid to develop its ..."
-    publishedDateTime: 2023-06-29T16:06:00Z
-    webUrl: "https://www.reuters.com/markets/deals/chinas-meituan-buy-ai-firm-light-year-co-founder-2023-06-29/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
-    images:
-      - url: "https://www.reuters.com/resizer/9RwBFbGZUjVgql_o2mE9tzaQzQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXK3DLWTJNNK3FMHU4NRHNFTGU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "6jJdB7QVaKownSAm0AbWeZARiB4qPM50yInI+FSQlIFpm1n3jj/Kl2EX/2zJEDaFEpBwV9AnbGTPTLWC/6DWNQii1IUQQ7x4LhzbBrXfYX0KP8uXx11GhUwxd8nYcUfzbujfLa3BsxmIFtcH1iNhouAdhgJaqmCanDUF4LSsC89RtVIfkWcSjeD1LNbJVT7UrRNmN5zFCav25IJSDceoLpHeat0y0AVrle+YFy3LbcmeI7QKgi1nkGAzq07e4Qo0uxfpZmalGnMXQA3gG+T/SArnGAol1jnSzxcZZLgncI8KcLaYdiHcwVPY0y5MMjERiAuDwMjn6OLiZuy09a7Kgcryx08o7ppN5tSSQA63RMjz9vubhKsgeenfWVBDG63HcTtsGdGDAPvapepIj0RIu/qww4LbWwWJcay8ruDLiUbjZe2CCQnL0qFtFVvlzdsbExMkzWZOv+1+v9SfFCAnGvfQs3iFYal3b6C2FY2ml7c8DB9X6u65XknUaLvnPtPnV78rJjKJO3YQ6lu5VNhrsQ==;PquDZYvTJmt4ZnajqtkJxg=="
 ---

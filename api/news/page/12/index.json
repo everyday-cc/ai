@@ -2,6 +2,41 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-06-25-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
+      "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
+      "excerpt": "“The application of Azure’s OpenAI service within PowerSchool ... strategies of both algorithmic and data fairness in the machine learning process to inculcate fairness, accountability ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230621956382/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230621956382/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-06-25-youtube-is-testing-an-ai-powered-dub-tool-to-translate-creators-videos.md",
       "title": "YouTube is testing an AI-powered dub tool to translate creators' videos",
       "excerpt": "YouTube is testing out an AI-powered multi-language dubbing feature for creators. Credit: Mateusz Slodkowski/SOPA Images/LightRocket via Getty Images) YouTube has been making some big ...",
@@ -1098,50 +1133,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-robocat-a-self-learning-agent-developed-by-google-deepmind-is-set-to-revolutionise-robotics.md",
-      "title": "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics",
-      "excerpt": "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/06/RoboCat.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
-      "publishedDateTime": "2023-06-23T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

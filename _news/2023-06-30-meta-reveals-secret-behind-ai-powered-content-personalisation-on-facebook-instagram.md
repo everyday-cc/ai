@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Meta Addresses AI Transparency Concerns on Facebook, Instagram with New Tools, Disclosures"
-    excerpt: "The Mark Zuckerberg-owned company also targets releasing its Content Library and API, a collection of research tools, soon."
-    publishedDateTime: 2023-06-29T17:03:00Z
-    webUrl: "https://www.techtimes.com/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 51
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430631/meta-addresses-ai-transparency-concerns-on-facebook-instagram-with-new-tools-disclosures.jpg"
-        width: 1024
-        height: 648
-        isCached: true
   - title: "How Does AI Influence What You See On Facebook And Instagram? Meta Has Explained"
     excerpt: "Meta has published a blog post explaining how AI affects your feed on Facebook and Instagram and how you can control the same."
     publishedDateTime: 2023-06-30T16:44:00Z

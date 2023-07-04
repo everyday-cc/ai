@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT."
-    excerpt: "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ..."
-    publishedDateTime: 2023-06-29T16:27:00Z
-    webUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How new AI tools like ChatGPT can transform human productivity in the enterprise"
     excerpt: "With AI, businesses can automate repetitive tasks, use intelligent data analysis, augment productivity, enhance collaboration and more."
     publishedDateTime: 2023-07-02T17:10:00Z

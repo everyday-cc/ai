@@ -2,6 +2,50 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-06-23-robocat-a-self-learning-agent-developed-by-google-deepmind-is-set-to-revolutionise-robotics.md",
+      "title": "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics",
+      "excerpt": "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/06/RoboCat.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
+      "publishedDateTime": "2023-06-23T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-six-skills-you-need-to-become-an-ai-prompt-engineer.md",
       "title": "Six skills you need to become an AI prompt engineer",
       "excerpt": "WIth the explosive rise of generative AI in the past half a year, prompt engineering is the exciting new career that's growing along with it. If you want to get a gig as a professional prompt engineer,",
@@ -680,6 +724,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-23-aws-announces-generative-ai-innovation-center.md",
+      "title": "Aws Announces Generative Ai Innovation Center",
+      "excerpt": "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
+      "originalUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-hacker-claims-to-discover-elon-mode-for-tesla-self-driving-cars.md",
       "title": "Hacker claims to discover “Elon Mode” for Tesla self-driving cars",
       "excerpt": "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these",
@@ -920,49 +1007,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-23-aws-announces-generative-ai-innovation-center.md",
-      "title": "AWS Announces Generative AI Innovation Center",
-      "excerpt": "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/",
-      "originalUrl": "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-22-our-support-for-early-warning-systems.md",
       "title": "Our support for early warning systems",
       "excerpt": "Google’s Yossi Matias and WMO Director of Infrastructure Anthony Rea discuss the Early Warnings For All Initiative.",
@@ -1148,59 +1192,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-cisco-launches-new-siliconone-ai-networking-chips-the-most-powerful-in-the-market.md",
-      "title": "Cisco Launches New SiliconOne AI Networking Chips: The Most Powerful in the Market",
-      "excerpt": "Cisco joins AI race with new networking chips to rival Broadcom and Marvell, targeting AI/ML workloads. Here are the",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/06/22/cisco-new-ai-chips/",
-      "originalUrl": "https://www.gizmochina.com/2023/06/22/cisco-new-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/cisco-new-ai-chips.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -102,15 +102,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Applications open for AWS’s first Global Fintech Accelerator"
-    excerpt: "Applications are open for the first Global Fintech Accelerator of Amazon Web Services (AWS), giving fintech founders the support and mentorship they need to bring smarter financial services solutions to the market."
-    publishedDateTime: 2023-06-29T17:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/applications-open-for-awss-first-global-fintech-accelerator-c8ac91a0-97ef-4d46-a34e-fd4de9cb6281"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 21
   - title: "Global Fintech Market Research 2023: A Bundled Research Offering of 5 Reports"
     excerpt: "The \"Fintech Market Research Subscription 2023: Market Forecasts, Market Sectors, Market Driving Forces, Regional Analysis, and Leading Companies Analysis\" report from Wintergreen Research, Inc has been added to ResearchAndMarkets."
     publishedDateTime: 2023-07-03T10:08:00Z

@@ -102,15 +102,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Applications open for AWS’s first Global Fintech Accelerator"
-    excerpt: "Applications are open for the first Global Fintech Accelerator of Amazon Web Services (AWS), giving fintech founders the support and mentorship they need to bring smarter financial services solutions to the market."
-    publishedDateTime: 2023-06-29T17:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/applications-open-for-awss-first-global-fintech-accelerator-c8ac91a0-97ef-4d46-a34e-fd4de9cb6281"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 21
   - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
     excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
     publishedDateTime: 2023-07-03T11:24:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands
 webUrl: "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.reuters.com/resizer/BZZiDdK2-b6MMPX1dKB_GnxGIg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRI4RJLDVJNYLKQZNAH2FSAF4Q.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Executives urge Europe to rethink its world-leading AI rules"
+    excerpt: "More than 150 company executives are urging the European Union to rethink the world's most comprehensive rules for artificial intelligence, saying Friday that upcoming regulations will make it harder for companies in Europe to compete with rivals overseas,"
+    publishedDateTime: 2023-06-30T16:17:00Z
+    webUrl: "https://www.chron.com/news/world/article/executives-urge-europe-to-rethink-its-18178786.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/41/01/23990346/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "European VCs and tech firms sign open letter warning against over-regulation of AI in draft EU laws"
     excerpt: "Executives from 150 businesses highlighted the risks of tight regulation, saying the rules could threaten the ability of European companies to compete in AI."

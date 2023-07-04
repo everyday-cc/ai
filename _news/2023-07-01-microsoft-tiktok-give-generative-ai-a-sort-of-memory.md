@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-gener
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
 type: article
 quality: 104
-heat: 234
+heat: 194
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Microsoft To Power Moody's Next-Generation Solutions With Azure OpenAI Service"
-    excerpt: "Moody's Corp (NYSE: MCO) tapped Microsoft Corp (NASDAQ: MSFT) to deliver next-generation data, analytics, research, collaboration, and risk solutions for financial services and"
-    publishedDateTime: 2023-06-29T15:24:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33060304"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33060304"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 85
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/06/29/mco.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft-backed AI startup Inflection raises $1.3 billion from Nvidia and others"
     excerpt: "Inflection AI said on Thursday it had raised $1.3 billion in a funding round backed by investors including Microsoft and Bill Gates."
     publishedDateTime: 2023-06-29T17:57:00Z
@@ -74,22 +58,6 @@ related:
       - url: "https://www.reuters.com/resizer/i2bRbXBrVzVI1Ww7fdZ3f8YzHik=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/54MYZCHZONPHVCAQN35SDL6N2U.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "AI startup Inflection raises $1.3b from Microsoft, others"
-    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion in a fresh round of funding amid a boom in the artificial intelligence (AI) sector."
-    publishedDateTime: 2023-06-29T15:29:00Z
-    webUrl: "https://www.tbsnews.net/tech/ai-startup-inflection-raises-13b-microsoft-others-657998"
-    ampWebUrl: "https://www.tbsnews.net/tech/ai-startup-inflection-raises-13b-microsoft-others-657998?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-startup-inflection-raises-13b-microsoft-others-657998?amp"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 74
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/05/27/artificial_intelligence_ai_machine_learning_-_30212411048_0.jpg"
-        width: 600
-        height: 314
         isCached: true
   - title: "Microsoft Outlines Azure OpenAI Large Language Model Servicing"
     excerpt: "Microsoft on Friday outlined how Azure OpenAI users can automatically keep up with the latest large language model updates, and also gave assurances about privacy issues."
@@ -142,20 +110,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Microsoft partners with Moody’s for “Moody’s Copilot,” generative AI for their financial services"
-    excerpt: "Moody's, a renowned global entity headquartered in New York, is expanding its prowess with a newly announced alliance with Microsoft. The collaboration will"
-    publishedDateTime: 2023-06-29T15:22:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-partners-with-moodys-for-moodys-copilot-generative-ai-for-their-financial-services/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 41
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/06/Microsoft-Green.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Generative AI company Inflection AI raises $1.3bn from Microsoft, Bill Gates, Eric Schmidt, & Nvidia"
     excerpt: "Inflection AI raised $1.3 billion in a funding round led by Microsoft, Reid Hoffman, Bill Gates, Eric Schmidt, and Nvidia. The generative AI startup claims that it will build the largest AI cluster in the world comprising 22,"
     publishedDateTime: 2023-06-30T16:38:00Z
@@ -179,15 +133,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 36
-  - title: "Microsoft and Nvidia join $1.3bn fundraising for Inflection AI"
-    excerpt: "With Nvidia joining its investment round, the San Francisco-based start-up, co-founded by LinkedIn creator Reid Hoffman, said it has access to 22,000 Nvidia H100 GPUs, the most in-demand resource in the AI industry today, costing $40,000 apiece."
-    publishedDateTime: 2023-06-29T15:53:00Z
-    webUrl: "https://www.ft.com/content/15eca6de-d4be-489d-baa6-765f25cdecf8"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Moody’s and Microsoft Announce Partnership for Innovative AI-Based Research and Risk Analysis"
     excerpt: "Built on a combination of Moody’s robust data and analytical capabilities and the power and scale of Microsoft Azure OpenAI Service, the partnership creates innovative offerings that enhance insights into corporate intelligence and risk assessment,"
     publishedDateTime: 2023-06-29T18:35:00Z

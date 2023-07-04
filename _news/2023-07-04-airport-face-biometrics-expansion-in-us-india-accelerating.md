@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Food Allergy Institute's Inderpal Randhawa, MD Discusses the Relationship Between Artificial Intelligence and Medicine in In-Depth Video Interview"
-    excerpt: "Food Allergy Institute (FAI) founder Inderpal Randhawa, MD, was interviewed by an investigative reporter for an in-depth discussion on the current state of artificial intelligence (A.I.) and how he an"
-    publishedDateTime: 2023-06-29T15:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33062179/food-allergy-institutes-inderpal-randhawa-md-discusses-the-relationship-between-artificial-intelli"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "VWUwu8MaYlP2HO7arbxi5ulq76z9vyQhO6hsm02PUa9xgLsX/Ql9vePRR86DNBEKUzgHlBc/wkIW9A1XLW3osSSadtBjOGUuTcVal825Kq/6Vz59ycXbMusHlVXapYDhqsDQZInLld4NY3svajHYq9TPA2yjtLrlkXVxeK/Krtw6zYJpJ7Y9k6JyArMisYVWzjiQCN2UoVWBemw+jUe7qOo8i/OuYsDScxO6zHLGij9grQe1uaKRVjbvTieec7CrDBCsxfhPuICZXzKRxoCSuONER2U23E48IZLjjb/f3FSekpSH4nHEZvUMRg9S86OLIBLkg21BbC5YLlfLrlUKp8VZB4WhKXLVsFM8TskGrA6Ct/5ANzS+FRuAeCldPo3aO1Hs4vON4hy2lZwCjzSsjdS8WBPXcIGgLl99JdpRPPi/tDfFiKKYwW8tLm/xrLEeTXYkqUnsO5hV7DdZ79DVTtPGL+jvhQ+itAP0z4UWa0EVCpbY9B70kkO7+7wnEcRZAlK0HQXAPbDy/2lxT+lG6g==;J+G24uQtJmhcg+gbTiZE7A=="
 ---

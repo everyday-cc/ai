@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compe
 webUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6"
 type: article
 quality: 104
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
         width: 1400
         height: 719
-        isCached: true
-  - title: "Microsoft gives Bing and Edge new AI tools to help you shop"
-    excerpt: "Microsoft is launching new AI-powered shopping tools for Bing and the Bing AI chatbot in the Edge sidebar. The new features will make it possible to generate buying guides, review summaries, and price matches."
-    publishedDateTime: 2023-06-29T16:19:00Z
-    webUrl: "https://www.androidauthority.com/microsoft-bing-edge-ai-shopping-3340393/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-logo-on-phone.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
     excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."

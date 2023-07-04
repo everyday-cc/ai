@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-06-06-why-ai-is-a-force-multiplier-for-consultants-and-clients-alike.md",
+      "title": "Why AI Is A Force Multiplier For Consultants And Clients Alike",
+      "excerpt": "Just like an expert consultant, only certain use cases are best suited for AI and several considerations should be part of that decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647debb26de784f93b13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/amp/",
+      "publishedDateTime": "2023-06-06T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud.md",
       "title": "Inside The Rise Of A Fintech Startup Using AI And Human Insight To Fight Fraud",
       "excerpt": "Seven years ago, two twentysomething data scientists spotted a novel phenomenon: synthetic identity fraud. They turned that discovery into fast-growing SentiLink, a member of the Fintech 50 for 2023.",
@@ -1115,57 +1167,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-hollywoods-next-big-fight-is-over-how-actors-will-get-paid-for-work-by-their-ai-digital-doubles.md",
-      "title": "Hollywood's next big fight is over how actors will get paid for work by their AI 'digital doubles'",
-      "excerpt": "SAG-AFTRA starts negotiations this week for a new contract with the big Hollywood entertainment companies, and AI is a hot topic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/movie-stars-fight-for-higher-pay-acting-ai-digital-doubles-2023-6",
-      "originalUrl": "https://www.businessinsider.com/movie-stars-fight-for-higher-pay-acting-ai-digital-doubles-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63dd4935e33c4000193adf4c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/movie-stars-fight-for-higher-pay-acting-ai-digital-doubles-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/movie-stars-fight-for-higher-pay-acting-ai-digital-doubles-2023-6?amp",
-      "publishedDateTime": "2023-06-05T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/tech/clippy-is-back-as-a-chatgpt-powered-ai-assist
 webUrl: "https://bgr.com/tech/clippy-is-back-as-a-chatgpt-powered-ai-assistant-for-windows-11/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 2500
     height: 1668
     isCached: true
+
+related:
+  - title: "ChatGPT Successors: Humanoid Robots, AI lawyers, AI-driven science"
+    excerpt: "There are several AI technologies waiting in the wings of next-level ChatGPT, including humanoid robots, AI lawyers, and AI-driven science."
+    publishedDateTime: 2023-07-04T07:57:00Z
+    webUrl: "https://greekreporter.com/2023/07/04/chatgpt-new-ai-technologies/"
+    type: article
+    provider:
+      name: Greek Reporter
+      domain: greekreporter.com
+    quality: 54
+    images:
+      - url: "https://greekreporter.com/wp-content/uploads/2023/03/AI-artificial-intelligence-machine-learning.jpg"
+        width: 1024
+        height: 819
+        isCached: true
 
 secured: "sXKTEJdw27XnRSGhMtnv3808qH0ek3U+ecCm5nt0zAY5ZnExOwSsKL8b1WX8QV4K1uxiPjC3YtXxA2HpM66fzByIxfyaYPRJ9tG8Gkjp+QsBeVAr0AvespwZ7S+lrFsSuBxbAYgUwje2t8AoKXKPNXu5CM/mm5hLKoqvlTjdiH2e2b5IA+RnhgunBuABEGKEqq4VSelfVFt4SKfXhxRIp/XNmIbFv+zFkzFGYdkR2+bbpkA6oIJ8u86noglU1wXbPqWKViHCqKSup6SfyyZrVhqmS3/OkDdHmDlArOgdnuL1BTi3B+zIOgR3SkNl/ndMnau7Qf4VYt5g8XsVPjw7THpyrW/QG8DFJsEA5nux38lkbExDhUequJDmFDwP6DHQ/ZN58s/yctmdzxvEpmH4n+Q4XiZOHFeGdQPBKrrylP5OuuFI7FvKLTREQjThQHiMWx+CglFm+QDDGfuqyccyPQUSpPIp5VEW6ceFecA03qNhpyo++l5d1en3ogLn/GKXSIZKSHdK0npfojWYLAkHuQ==;HjVN/MQWlSXbQ3ErMZ9ccQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33088892"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 626
     height: 417
     isCached: true
-
-related:
-  - title: "Microsoft enhances Bing Chat by introducing GPT-4-powered image recognition feature"
-    excerpt: "Microsoft has recently introduced a major feature to Bing Chat for desktops. The company has started testing an image recognition system powered by OpenAI's"
-    publishedDateTime: 2023-06-29T15:04:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-enhances-bing-chat-by-introducing-gpt-4-powered-image-recognition-feature/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 35
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Bing-Chat-in-general-availability.jpg"
-        width: 1024
-        height: 765
-        isCached: true
 
 secured: "ZhR2Bt3arxDVc2FSrnEZXpvgR4qoYged8mkUYLY1d3lgkD+RmwhiGOxeBRKjtL5WRs+bYwzZPRGtE+28QVE4lO4dNTLJIhN8E50tUdMoqoHl2VBUlV5/93XhVQRvFKASYSahM21ZhDbh3EuH5yTToZVpNyhA7DrYekGRqXvxxhv51WAZl0Yb/9eD8Tnm2BVObo0bEhlUJ76aoebxl086i+emFj3IT29CsH/M+gqarHt1B9NMSb6c4ZKq85ATJaZdqQDd7eIW4wSh7vsiszpuB5jpqroX68DPgo6vMpzqSUItIwtyJHdh4VkpdRfUkFTZN2WER7sLoBFkwTkV1sapYWN/gG1OJ1v5UapxnqBsNV8=;cF6KURKOJO8vH/xXKeN3vw=="
 ---

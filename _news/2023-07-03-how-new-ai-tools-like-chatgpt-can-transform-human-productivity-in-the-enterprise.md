@@ -44,22 +44,6 @@ related:
         width: 1030
         height: 600
         isCached: true
-  - title: "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT."
-    excerpt: "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ..."
-    publishedDateTime: 2023-06-29T16:27:00Z
-    webUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Despite productivity crisis, UK businesses are slow to adopt AI: Research"
     excerpt: "Despite the widespread proliferation of AI capabilities to help drive productivity, UK businesses continue to lag behind their global counterparts when it comes to adoption rates."
     publishedDateTime: 2023-07-03T09:07:00Z

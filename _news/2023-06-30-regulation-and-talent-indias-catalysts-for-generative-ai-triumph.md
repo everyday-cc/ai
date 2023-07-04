@@ -64,15 +64,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 19
-  - title: "Food Allergy Institute's Inderpal Randhawa, MD Discusses the Relationship Between Artificial Intelligence and Medicine in In-Depth Video Interview"
-    excerpt: "Food Allergy Institute (FAI) founder Inderpal Randhawa, MD, was interviewed by an investigative reporter for an in-depth discussion on the current state of artificial intelligence (A.I.) and how he an"
-    publishedDateTime: 2023-06-29T15:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33062179/food-allergy-institutes-inderpal-randhawa-md-discusses-the-relationship-between-artificial-intelli"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "49f4A7AsbZV6U30sGevYB+M+/Ld3TTAS7AkPjnZCvrlzdUOGQaZe68CcyAh044Wrh27qs7KynHb23C5y4B3dYrRY0A06ouCsySL3NMD0YA+tNQRF+pcl0d9OusbxUgyLPuDe9BWoeh1keHbe/YuC+l8xPUKr7B9w3UTM4xOdI7kk8LrqRzcQDA9IVDLJtyiawDiouybV6xeJEYaf2LgrRaqwSJmDNO0AxdbOfEekpuIq35mURH2cU7j9ICeUXC8P/Fo3YQsbBmOghXl/iWImJmEtUlT0FPLF+s5NYxTnHkWlyktJ5K4zGXS+epxLpp8s5JPdu6EV1rsZNGm3dxNuWH1pSkVEEUytcV+d33DDDyw=;WGN0D6pKmqlQQz3QyiHj2Q=="
 ---

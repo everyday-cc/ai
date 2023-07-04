@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI is a Game Changer for Cloud Security"
-    excerpt: "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap."
-    publishedDateTime: 2023-06-29T16:34:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-cloud-security/"
+  - title: "Inside the race to build an ‘operating system’ for generative AI"
+    excerpt: "What does it take to build an operating system for generative AI? According to Intuit's Srivastava, there are four main layers"
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/clio-unveils-cloud-platform.jpeg"
-        width: 1200
-        height: 803
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Feature-image.png?w=1200&strip=all"
+        width: 1028
+        height: 685
         isCached: true
   - title: "Talon CEO on Bringing Security, Compliance to Generative AI"
     excerpt: "With the growth of generative AI services, organizations want better control of the data going in and coming out of AI. Talon CEO Ofer Ben-Noon discussed how his"
@@ -54,29 +54,6 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "Cyber security’s biggest challenge isn’t AI – it’s the awareness gap"
-    excerpt: "In November 2022, ChatGPT – the artificial intelligence chatbot that can create human-like text based on a prompt – was launched by OpenAI. Already, scam and phishing attempts that were once revealed by bad grammar and clunky sentences are now being replaced by more convincing versions thanks to the sophisticated phrasing and intelligent technology behind this new chatbot."
-    publishedDateTime: 2023-07-03T07:00:00Z
-    webUrl: "https://www.ft.com/partnercontent/cisco/cyber-securitys-biggest-challenge-isnt-ai-its-the-awareness-gap.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/partnercontent/images/cisco/1/hero.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Rackspace Technology partners with Google Cloud to offer generative AI services"
-    excerpt: "Foundry for Generative AI by Rackspace and the global Generative AI Center of Excellence combine to help enterprises realise the full potential of AI."
-    publishedDateTime: 2023-07-03T07:36:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2023/jul/03/rackspace-technology-partners-with-google-cloud-to-offer-generative-ai-services/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 15
 
 secured: "Wep6q7H6gOa8TEnQW7O0u3p/ozQqxhPcgXiJT7/HNqRYZr5ELvEGO/ZEhHDFIhl7lgxf6L39+8PuSAGgfyriPs+FppXq1EY3w/X5BVGL1Krq0uNm6Ae3sV9liZtG8+BVgmu19ugYuDD6VEvFcdCiMWqD5FVZxAYDVWkQETAvbZrx0NDWQxrWmGK0EGd1zE3CGBcR/ie/crQAnSIrt40EgaWgs8skeRUbE0pPkFGCfAEY+iHxzX5o+DmZKr5sbqtwBzeK8iAZyk90jMjYS+nQrOFCCt1qFglLKz1RnJQzSqEY9+k9H70flH14mKSko0IYsjZsOPM0GHcUpA16agCxaLnrQuaFG5tdxgj1PDdK8YI=;hOovplBhgQnxsCGmVwPC9w=="
 ---

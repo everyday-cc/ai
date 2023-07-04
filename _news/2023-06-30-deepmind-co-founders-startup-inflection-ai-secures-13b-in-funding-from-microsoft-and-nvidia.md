@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Year-old Startup Inflection AI Raises $1.3 Bn from Microsoft, NVIDIA, Bill Gates and Others"
-    excerpt: "A year-old AI startup Inflection AI, led by CEO Mustafa Suleyman, has secured $1.3 billion in their latest round of funding."
-    publishedDateTime: 2023-06-29T16:47:00Z
-    webUrl: "https://analyticsindiamag.com/inflection-ai-raises-1-3-bn-from-microsoft-nvidia-bill-gates-and-others/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 43
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/Inflection_WebAnimation_Desktop.gif"
-        width: 1000
-        height: 625
-        isCached: true
   - title: "Winners Of The Microsoft Ai For Accessibility Hackathon 2023 Showcase How Inclusion Is Innovation In Asia Pacific"
     excerpt: "(MENAFN- dubai pr network) singapore - media outreach - 28 june 2023 - the microsoft ai for accessibility (ai4a) hackathon 2023 is an annual event for teams in asia pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
     publishedDateTime: 2023-06-30T04:29:00Z

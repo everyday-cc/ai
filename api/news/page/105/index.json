@@ -2,6 +2,49 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-04-28-navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system.md",
+      "title": "Navy DoD Supercomputing Resource Center Adds ‘Nautilus’ Penguin HPC System",
+      "excerpt": "The Nautilus HPC system configuration includes 1,352 compute nodes with up to 128 AMD EPYC Milan compute cores per node, 256 GB of memory per node, 16 NVIDIA A40 visualization nodes, 32 NVIDIA A100 Quad GPU AI/ML nodes, 26 petabytes of DDN storage ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2023/04/navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system/",
+      "originalUrl": "https://insidehpc.com/2023/04/navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2022/04/Cover-Image-The-consequences-of-congestion.jpg",
+          "width": 810,
+          "height": 1048,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-apple-is-working-on-an-ai-health-coaching-service-according-to-reports.md",
       "title": "Apple is working on an AI health coaching service, according to reports",
       "excerpt": "Need help staying on top of your health and wellness goals? Apple is working on some projects that might help.",
@@ -1161,58 +1204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-how-to-extend-the-functionality-of-aws-trainium-with-custom-operators.md",
-      "title": "How to extend the functionality of AWS Trainium with custom operators",
-      "excerpt": "Deep learning (DL) is a fast-evolving field, and practitioners are constantly innovating DL models and inventing ways to speed them up. Custom operators are one of the mechanisms developers use to push the boundaries of DL innovation by extending the functionality of existing machine learning (ML) frameworks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-extend-the-functionality-of-aws-trainium-with-custom-operators/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-extend-the-functionality-of-aws-trainium-with-custom-operators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/27/extend-functionality-aws-trainium-custom-operators.jpg",
-          "width": 959,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:30:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

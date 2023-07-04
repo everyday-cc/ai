@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-14-french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up.md",
-      "title": "French company Mistral AI raises 105 mln euros shortly after being set up",
-      "excerpt": "\"Bravo to the start-up Mistral AI which has raised 105 million euros just a month after its creation: a record!\" wrote Barrot on his Twitter account on Tuesday. Mistral AI was set up by former Meta and Google artificial intelligence researchers, and it is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
-      "originalUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MS2EJQ474JPEXC4RWVPXT4BLJ4.jpg",
-          "width": 4000,
-          "height": 2741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-06-13-baidu-flaps-its-lips.md",
       "title": "Baidu flaps its lips",
       "excerpt": "AI video programs, it seems, are facing the same problem. Baidu is working on tech... For more crisp and insightful business and economic news, subscribe to The Daily Upside newsletter.",
@@ -1356,6 +1304,40 @@
       "provider": {
         "name": "Modesto Bee",
         "domain": "modbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times.md",
+      "title": "10 Ways GPT-4 Is Impressive but Still Flawed – The New York Times",
+      "excerpt": "When Chris Nicholson, an A.I. expert and a partner with the venture capital firm Page One Ventures, used GPT-4 on a recent afternoon, he told the bot that he was an English speaker with no knowledge of Spanish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/528764/10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times/",
+      "originalUrl": "https://www.inferse.com/528764/10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
         "images": null,
         "publishers": null,
         "authors": null

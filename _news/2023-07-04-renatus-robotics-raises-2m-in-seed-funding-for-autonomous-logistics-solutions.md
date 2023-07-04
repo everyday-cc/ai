@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/renatus-robotics-announces-2-millio
 webUrl: "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/"
 type: article
 quality: 95
-heat: 106
+heat: 105
 published: true
 
 provider:

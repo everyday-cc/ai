@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI Driving Web Analytics in the Financial Publishing Industry"
+    excerpt: "What The Finance, a popular news website, has taken its web analytics capabilities to the next level with a partnership with Social Media"
+    publishedDateTime: 2023-07-04T08:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-driving-web-analytics-in-the-financial-publishing-industry-1032424364"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/89101410-1688437795.jpg"
+        width: 650
+        height: 363
+        isCached: true
 
 secured: "9IQf21XbFb1ok+o6Lg7vJ9pzm/mCF9LpRlSn+HNmvFxmqm6cAbIEL6ZLfdVf4VDSgKWWU3GnAYhBDoVoi2Jflrfw8CWsmhbuOgMSUjSsLllxwXGNbS1PUb49UQxpuQTNDafpD6iddDr5v46lRTKlb+Tsc570cgFqsWb48eX1WI43TMG0OyQRJuxsDHAwcmyZIsjZZLPwHB8QSx8Ajb5hHyyEh5O3etymx2JWIjv+nsOYrBs+jmA8zWzElM3n1U7TT0M8NXEHfnLSQKBd//qruz6TusTNqpoY3XZXmfPDLNrxIuCR2mj3l/CU6YQAQE3XsR4zd4cqEFai75sT8z2dNS0aRnGICnnhYiYhJy93zYo1925xdiqcAOnYXX92B/OEh/FJ06BMll/62zh0fZ+TcZDjiZGEggVmYBoRgiwx+PqALFwRJ1xIHI6dgAcrnp0ZvSHCb4IFdWpWTL4UiUa8dNGjwKnEyr14LXwurgFYtenGvd+QPyEOVHFzjuhWctwIBpSAExbLOMrZ3cwO9ObArw==;LXNjBheA7TOJXVgyQMiKzw=="
 ---

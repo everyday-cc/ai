@@ -2,109 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-06-30-microsoft-backed-ai-start-up-inflection-raises-us13-billion-from-nvidia-and-others.md",
-      "title": "Microsoft-backed AI start-up Inflection raises US$1.3 billion from Nvidia and others",
-      "excerpt": "Inflection AI, a start-up backed by several Silicon Valley heavyweights, said on Thursday it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3226037/microsoft-backed-ai-start-inflection-raises-us13-billion-nvidia-and-others?module=live&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3226037/microsoft-backed-ai-start-inflection-raises-us13-billion-nvidia-and-others?module=live&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/30/4ff25e8b-e17a-4500-a848-98bb487106da_4d9e4cec.jpg?itok=qOp0jsJV&v=1688096928",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-meituans-insider-ai-deal-does-not-compute.md",
-      "title": "Meituan's insider AI deal does not compute",
-      "excerpt": "China's artificial intelligence frenzy has generated some eyebrow-raising deals; a purchase by Meituan is the latest example. The company on Thursday said it is buying AI firm Light Year from Meituan co-founder and former director Wang Huiwen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/",
-      "originalUrl": "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9RwBFbGZUjVgql_o2mE9tzaQzQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXK3DLWTJNNK3FMHU4NRHNFTGU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-30-contoro-robotics-brings-in-47m.md",
       "title": "Contoro Robotics brings in $4.7M",
       "excerpt": "This round follows a round from 2022 that totaled $1.3 million, and brings the Contoro Robotics' total funding to date to $6 million.",
@@ -303,7 +200,7 @@
       "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -342,6 +239,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-researchers-teach-an-ai-to-write-better-chart-captions.md",
+      "title": "Researchers teach an AI to write better chart captions",
+      "excerpt": "Chart captions that explain complex trends and patterns are important for improving a reader's ability to comprehend and retain the data being presented. For people with visual disabilities, the information in a caption often provides their only means of understanding the chart.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-captions.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-captions.amp",
+      "publishedDateTime": "2023-06-29T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -548,6 +488,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-ai-service-robotics-africa.md",
+      "title": "AI Service Robotics - Africa",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$153.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.41%, resulting in a market volume of US$417 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/africa",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },

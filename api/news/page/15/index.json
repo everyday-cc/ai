@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-06-22-how-this-self-driving-boat-is-helping-to-tackle-the-issue-of-plastic-waste.md",
+      "title": "How This Self-Driving Boat Is Helping To Tackle The Issue Of Plastic Waste",
+      "excerpt": "Sometimes inspiration can come from the unlikeliest of sources. In the case of the Hong Kong-based autonomous boat startup Clearbot, it was a trip to Bali, where its founders saw the extent of the plastic pollution crisis first hand. “We were on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/",
+      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64930a628e868fd424b3466b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/amp/",
+      "publishedDateTime": "2023-06-22T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine.md",
       "title": "Alternative Firms Use AI To Blend Best Of Human With Best Of Machine",
       "excerpt": "Hedge funds and private equity firms have been using data science and AI for years. Alternatives firms are striving to blend the best of human with the best of machine.",
@@ -1169,57 +1221,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-marvel-used-ai-to-create-secret-invasions-opening-credits-and-it-looks-awful.md",
-      "title": "Marvel used AI to create Secret Invasion’s opening credits and it looks awful",
-      "excerpt": "The first episode of Secret Invasion is getting good reviews, but Marvel has already invited a backlash over the show's AI-generated opening sequence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
-      "originalUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Secret-Invasion-AI-Opening.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp",
-      "publishedDateTime": "2023-06-21T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

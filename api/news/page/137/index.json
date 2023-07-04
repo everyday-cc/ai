@@ -2,6 +2,40 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2023-04-04-the-7-most-promising-fintech-stocks-to-buy-for-april-2023.md",
+      "title": "The 7 Most Promising Fintech Stocks to Buy for April 2023",
+      "excerpt": "Plus, the oversold fintech players are tapping into burgeoning ... Furthermore, it could have a major role in the AI sphere with its recent State of Responsible AI in Financial Services report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-7-most-promising-fintech-stocks-to-buy-for-april-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-7-most-promising-fintech-stocks-to-buy-for-april-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-leaning-into-ai-keynote-speakers.md",
       "title": "Leaning into AI: Keynote speakers",
       "excerpt": "As AI becomes embedded in our everyday lives, organisations are harnessing its power and affordability to revolutionise the way we do business. Across two Leaning into AI seminars, SmartCompany and AWS partnered to explore the rise of AI,",
@@ -923,40 +957,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech.md",
-      "title": "AcuFi and its Founder, Nick Kohlschreiber, Stress the Importance and Usefulness of AI For FinTech",
-      "excerpt": "For the fintech sector, AcuFi experts agree that concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58723075-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58723075-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

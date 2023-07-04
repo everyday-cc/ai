@@ -42,19 +42,14 @@ related:
         height: 444
         isCached: true
   - title: "ArteraAI Announces First-Ever AI-Derived Biomarker for Predicting Androgen Deprivation Therapy (ADT) Benefit in Prostate Cancer"
-    excerpt: "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced today the publication of data in the NEJM Evidence, validating the first-ever predictive AI biomarker of androgen deprivation therapy (ADT) benefit in prostate cancer."
-    publishedDateTime: 2023-06-29T16:05:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/arteraai-announces-first-ever-ai-derived-biomarker-for-predicting-androgen-deprivation-therapy-adt-benefit-in/article_c08e0cda-6eef-53b4-b28b-cfe718b52857.html"
+    excerpt: "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced today the publication of data in"
+    publishedDateTime: 2023-06-29T20:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230629089773/en/"
     type: article
     provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 26
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
 secured: "6xaZstnUzg5nkjaK9z90FkP3HkIsE7fn7kY0PL6wVjol4ZdFrzOcQWAZ1Ngabaikc/UlvvQY70DfM5xtzW5wCgkAZnaJNAV6I7ImqG1raDo8s7YWpyGUIqqRrr3xireAwHgOY/zJCYHk6gmKUOSr65Bjgv0HvynyFbBMLu7iYMyW8QpXsG+KjiDF/9mFHqXb/qzn58yuAbOfC/YbrqrxOiNVL6icAJIa95Kz841Y4o+lZ33WPsijG+GCyDFMeVoFYVvioDhpmTRYJhN1xVXuqjQ4ZjgTNV5JNVbFQVNBz7tWEOfEDR210ClA1Bc6VK24CqRznbcFuiDi8Day1GzmMamFYqS/lBIaCzMRt1H8iHHuHDEvej+ZXsoFaDFQnDmHSlipcIIdB/roW2ezvY1rnLtBAU623RmPcp0qKihSbD+DyXBd/nmefX4F3QfcdxxeGrlMFplFUadn4Xlz7Y3WHqhUDx2xYLhGN7ysp/NuJj3/3x1E/rcfmD7s1W11B9fQoFrHe2HAE0YaTPjzUvYsMQ==;zeLIhJdmkuor8LlXekCLRA=="
 ---

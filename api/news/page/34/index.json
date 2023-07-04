@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-06-09-meta-is-planning-new-ai-features-in-facebook-messenger-and-instagram.md",
+      "title": "Meta is Planning New AI Features in Facebook Messenger and Instagram",
+      "excerpt": "During an all-hands meeting with employees yesterday, Mark Zuckerberg detailed new AI features coming to WhatsApp and Facebook Messenger.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thurrott.com/cloud/284214/meta-new-ai-features-facebook-messenger-instagram",
+      "originalUrl": "https://www.thurrott.com/cloud/284214/meta-new-ai-features-facebook-messenger-instagram",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/11/Meta-Mark-Zuckerberg.jpg",
+          "width": 1620,
+          "height": 912,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thurrott",
+        "domain": "thurrott.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-2023-2030-artificial-intelligence-ai-robots-market-research.md",
       "title": "2023-2030 | Artificial Intelligence (AI) Robots Market Research",
       "excerpt": "Robots market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
@@ -1129,58 +1172,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-ai-chips-could-help-intel-stock-nasdaqintc-regain-its-footing.md",
-      "title": "AI Chips Could Help Intel Stock (NASDAQ:INTC) Regain Its Footing",
-      "excerpt": "Intel (NASDAQ:INTC) stock seems to be stuck in neutral, but a new focus on artificial intelligence (AI) chips could help the company regain",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chips-could-help-intel-stock-nasdaq-intc-regain-its-footing-1032379568",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chips-could-help-intel-stock-nasdaq-intc-regain-its-footing-1032379568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-156.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 781,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
