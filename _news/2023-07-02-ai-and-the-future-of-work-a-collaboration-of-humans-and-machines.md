@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Industrial Robotics - D-A-CH"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$0.60bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.98%, resulting in a market volume of US$1 ..."
-    publishedDateTime: 2023-06-29T17:49:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/d-a-ch"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ethical and Thoughtful Use of AI in the Legal Industry"
     excerpt: "This is especially true when it comes to publicly available generative AI tools such as ChatGPT, the large language model chatbot developed by OpenAI that, among other things, can generate text, translate languages, write different kinds of creative ..."
     publishedDateTime: 2023-07-03T17:43:00Z
@@ -80,15 +66,6 @@ related:
       name: Kompas.id
       domain: kompas.id
     quality: 23
-  - title: "Why is AI the future of trading in India?"
-    excerpt: "AI is revolutionizing the capital markets, leading the second wave of innovation in finance. Before AI, traders relied on stock analysts and media coverage for investment decisions. The rise of online trading platforms democratized the sector,"
-    publishedDateTime: 2023-06-29T18:26:00Z
-    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/why-is-ai-the-future-of-trading-in-india/articleshow/101374538.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "ecWRINQVNFiqHvc/RWRcnTOkbDDZkKB0KVhnImKFRrvqdWnsj9/08iYRdBzAxvRiXmZPCjT7OURjuAGGQC/hTPSytWaChu9PYfZrjgO/ycEPytedKPq/7bLWQsJBkdcPuLf8Dn6RFuYtnhCyJlxl8lYBfOjtIYGcannz6O2HWAxeh/hIF+a47IxLLEJPShI4vPhFtaXJk6d/ncyoMmXUWE8XM6T9Lilrd5fGJ1jMkLYFUGNM2tYjIbPgcmjwsfkGLL86MBdwBdl22kJKmtECLPXX6naRN86IhoLMUWM5DawVDkGe0vdKsLN6tXytAF/+trD7wsrC1vK0MBZZgBN5AMH2Q1kL6YyKQLFi2bWZeVs=;YzJWiuJAF8GRlOVl2BKYLw=="
 ---

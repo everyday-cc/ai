@@ -84,6 +84,22 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "Startup Inflection AI secures $1.3 billion funding from Nvidia and others"
+    excerpt: "AI startup Inflection AI, co-founded by Mustafa Suleyman and Reid Hoffman, has raised $1.3bn in funding from investors including Microsoft and Nvidia."
+    publishedDateTime: 2023-06-30T04:59:00Z
+    webUrl: "https://www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others-11688100672381.html"
+    ampWebUrl: "https://www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others/amp-11688100672381.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others/amp-11688100672381.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/30/600x338/g158f4c8ac5315e0d7e42483549333dab208a01593f33230f2_1688101104074_1688101104211.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "AMD making big gains on Nvidia in AI chips: research"
     excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
     publishedDateTime: 2023-07-02T06:35:00Z
@@ -120,6 +136,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 47
+  - title: "Inflection AI Raises $1.3B From Hoffman, Gates and Nvidia"
+    excerpt: "Inflection AI, a startup that makes a “kind and supportive” chatbot called Pi, has raised $1.3 billion in one of the largest funding rounds of Silicon Valley’s current artificial intelligence frenzy."
+    publishedDateTime: 2023-06-30T17:29:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-06-30/inflection-ai-raises-1-3b-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
     quality: 47
   - title: "AMD is getting closer to Nvidia on AI"
     excerpt: "MosaicML has a look under the bonnet of both Artificial intelligence chips from AMD are about 80 per cent as fast as those from Nvidia but the way its chips are designed means that it is going to match its performance soon."
@@ -181,6 +206,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "YArOQyNMbEbGJw8mi9Bii5cPCLqTeSovWQIn5l94JR48Cle9L43lpTytXDwlHBOUSm1sVD8noGwvlXM+O8kCdTMNoxUjCKi02KCu5oVY8xaQp3d7gFEkWrPnrbnR4oabo8Zmk5WvB3Vg3nKILMXIhx0zDOOFxBKWYbXE3EU/6HQcmR4UbkG4Fz1dnmwNPFvGcmLzm/oIb2qF7dt+UGWtEbQkYYOqyM9zXPTrMd3t8dHNtG5cI4dz7MR70q9gV/gVymuWZVnPDPDT/ug5F5S2A7wC2qV1bLkM3EjxYtuzCO8VEw+xSEc2J4qabqQe2n3bUNwKfAOjk+7DQpOv0T7mCJ0yS04ScAY+8Femr9Lo21c=;pnQM+ffQUtO0ZvJtXf+tew=="
+secured: "cg+K1IwY3AseXULQU0Nbon+f23Ze+zMpnvlheE0Y7kVEXT/scEjM0fx6DJEZgm/g3M7TbLZprEGsJQxCCKtFAW9uK0jm92RMaFfOdnUEnGamaBfTzLRweU/LeZCgFmA3Kc7OmfxNExs+w3t8ujf8qok08oenCdKMxn3YL510pHrFCKhuMEUp7UdWfAqwwqLE3sPUBCGF5b2igxHf5n5bzuIUua0yZXTcStTQosYZD24LOPG1ERyNWTWL2MZ5r7gy6yAWHYlUZsV3D5+aTHUQlRAhcNSRH2TrVbDTRMTQVxFborW+xVZwT7AAOIBrekepg72DZlQ5QpetUvv5rBPRHx8DmDdXXVpTgArPmumBH4W8FCe6CY6yne65dEPC6m4SfI1lUephv2Beg+jpzIv+T8rW5Ee3o3e2RLZ8CHfO78SVoRmvQGo+VyMkktP8GKMNNcd2N6T8C04+xJUiJa1Xl6uxM2Gurm22GOvkosuVhNUA0yAwY4Qs7rLWcoDAoYck+XSwTR/jDbqDhEeRufevNA==;zY1W/yNotD90LAljYugfDg=="
 ---
 

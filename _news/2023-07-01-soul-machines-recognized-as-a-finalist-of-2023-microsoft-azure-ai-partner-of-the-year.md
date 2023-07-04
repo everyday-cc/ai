@@ -61,6 +61,22 @@ related:
         width: 1400
         height: 719
         isCached: true
+  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
+    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 20"
+    publishedDateTime: 2023-06-30T14:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33079784"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33079784"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 82
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
     excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."
     publishedDateTime: 2023-07-03T07:00:00Z
@@ -109,15 +125,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft's 3 new AI-powered shopping tools could save you time - and money"
-    excerpt: "If you've ever spent hours reading product reviews or had buyer's remorse when a price dropped after a purchase, you'll want to check out these new Bing and Edge features."
-    publishedDateTime: 2023-06-29T18:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-3-new-ai-powered-shopping-tools-could-save-you-time-and-money/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
   - title: "Microsoft knows its out of touch with Gen Z. The software giant plans to lure them with AI, an internal memo shows"
     excerpt: "Microsoft 365 has fewer Gen Z users than its competitors. This may present a risk to its workplace business, according to newly released documents."
     publishedDateTime: 2023-06-30T19:51:00Z
@@ -155,15 +162,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
-    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
-    publishedDateTime: 2023-06-30T16:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-soul-machines-recognized-as-finalist-2023-microsoft-azure-/2023/06/30/9842393.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 42
   - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud, AI technologies"
     excerpt: "Trusting Social, a leading Asian fintech AI company, on Thursday announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises. The Agent Foundry will integrate Microsoft Cloud and ..."
     publishedDateTime: 2023-06-30T11:54:00Z

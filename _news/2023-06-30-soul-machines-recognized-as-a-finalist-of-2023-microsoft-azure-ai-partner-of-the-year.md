@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
-excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
-publishedDateTime: 2023-06-30T16:39:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-soul-machines-recognized-as-finalist-2023-microsoft-azure-/2023/06/30/9842393.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-soul-machines-recognized-as-finalist-2023-microsoft-azure-/2023/06/30/9842393.htm"
+excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 20"
+publishedDateTime: 2023-06-30T14:58:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year"
+ampWebUrl: "https://www.benzinga.com/amp/content/33079784"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33079784"
 type: article
-quality: 42
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Microsoft is developing cutting-edge AI chips to 'close the gap' with AWS, internal documents show"
@@ -109,15 +117,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft's 3 new AI-powered shopping tools could save you time - and money"
-    excerpt: "If you've ever spent hours reading product reviews or had buyer's remorse when a price dropped after a purchase, you'll want to check out these new Bing and Edge features."
-    publishedDateTime: 2023-06-29T18:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-3-new-ai-powered-shopping-tools-could-save-you-time-and-money/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
   - title: "Microsoft knows its out of touch with Gen Z. The software giant plans to lure them with AI, an internal memo shows"
     excerpt: "Microsoft 365 has fewer Gen Z users than its competitors. This may present a risk to its workplace business, according to newly released documents."
     publishedDateTime: 2023-06-30T19:51:00Z
@@ -188,6 +187,6 @@ related:
       domain: infoq.com
     quality: 26
 
-secured: "5JkDfzJ7VzKn9mMNpcnysLASKuQYZjr42NsvHp5XKLRBUtrRWGBP7TvxMe8QLvXC9OmseGlHrVsG5v9AcrQus7IYkGYiDJsyutEGMgqiXnhBvPeL3XHr7BwClI7iAdZtUJ8XXZZ/lXxBddB1pd3AZEVQp8JgQvkCZSVhwMFp8wsOLJngVg2RuEqxIvYJCYDT1v0VHuEAf0Fs1N1a32pSmrOU5p7DZlWr0veW3YSzNi92bkrZPDmNAm3Rkna9h63Kb4V+AaVOfEnJH9pbnNO0vCeoRWSx//j15MK+gog3FeXxxKyfsm3hoflpU6nuCkN4SZ1F2hYSRYKL9hkz1qt2OJF6i+IfivyS3NNkxHsLLsM=;1f+7ykK/dwUVZfvqgLnyMw=="
+secured: "/Ngh24BogXDR9kftq4zlGBpAqkbGRqj4jKgvJJoBbp6ELkGhK6eMUj0xJq+u4Fl8PFXbw/GyooJbRyM84Mvni4dH44rTIk4fRT1okG11aD4ti4zwPm4yna/jFv6bd2zS9CxQ/j6xoOp4CbvX+i5bIY7gq0ACpDRlLopPFXpKDGemHJmQ/F/Mln5Xd10ET7TRK96clNOumNRFMZ/71pd4S7sWCNrfa7qHHoLTxpME+kB4FPvbNhjbsiL3LRpsH1K/Rn60xwjVSv8goEf8BkHwKFkUDc6oc+cOuFJZCPZpBur4jR88ZAC11kh3JDZ+5VrTYo0FqbKoopj9AE+G/H+v4tzOhXCk4beahBdGYdFMMhk=;94EiReyBRjaDuuuz4obGwA=="
 ---
 

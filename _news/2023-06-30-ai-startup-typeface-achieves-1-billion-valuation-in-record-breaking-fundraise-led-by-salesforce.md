@@ -34,19 +34,35 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Funding Explosion: Inflection AI Nabs $1.3B, Runway and Typeface Also Raise Big"
-    excerpt: "That funding, led by Microsoft, Reid Hoffman, Bill Gates, Eric Schmidt and new investor Nvidia, values Inflection AI at $4 billion, according to Forbes, which first reported the news. The new funding brings the total raised by Inflection to more than $1.5 billion, per the company."
-    publishedDateTime: 2023-06-29T17:49:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/funding-explosion-venture-generative-ai-unicorn/"
+  - title: "Inflection AI Completes $1.3B Funding Round, Aims to Develop One of World’s Largest AI Models"
+    excerpt: "Inflection AI may have just completed a $1.3 billion funding round, according to a Thursday announcement by the company."
+    publishedDateTime: 2023-06-30T09:35:00Z
+    webUrl: "https://www.coinspeaker.com/inflection-ai-1-3b-funding-round/"
+    ampWebUrl: "https://www.coinspeaker.com/inflection-ai-1-3b-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/inflection-ai-1-3b-funding-round/amp/"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 35
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 48
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
-        width: 900
-        height: 506
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/06/inflection-ai-1-3b-funding-round.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Inflection.AI Gets $1.3 Billion to Create Personal AI for Everyone"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2023-07-01T21:58:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/07/inflection-ai-gets-1-3-billion-to-create-personal-ai-for-everyone.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 39
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/Screen-Shot-2023-07-01-at-2.20.07-PM.jpg"
+        width: 1320
+        height: 768
         isCached: true
   - title: "Inflection AI — Reid Hoffman's new AI startup — scores $1.3B in new funding"
     excerpt: "Inflection AI, co-founded by one of the co-founders of Google DeepMind, is the latest AI startup to score a massive funding deal."

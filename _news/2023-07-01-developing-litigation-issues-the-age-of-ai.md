@@ -50,15 +50,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 36
-  - title: "In The Crosshairs: The Legal Industry Grapples With The Application And Ethics Of AI"
-    excerpt: "In May 2023, Steven Schwartz of Levidow, Levidow & Oberman admitted that he used a generative AI (GAI) platform to produce six non-existent court decisions as citations during his representation in a personal injury case against Avianca Airlines."
-    publishedDateTime: 2023-06-29T18:20:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/in-the-crosshairs-the-legal-industry-7541206/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
   - title: "All in for generative AI, but organizational jitters remain - Workday and Salesforce research airs the opportunities and the challenges"
     excerpt: "Despite corporate enthusiasm around generative AI, business leaders are still nervous about incorporating this into their operations and feel there are many challenges ahead, not"
     publishedDateTime: 2023-07-03T10:22:00Z
@@ -76,6 +67,6 @@ related:
         height: 750
         isCached: true
 
-secured: "U3QiTVrXSQ1/1bMxFx78MOLDDBskS/tsiKkkXl0aHj2b5A8FgSN6tPaXK6TqaRazhDh17FIQ905vs3utrVMP/bckAc0Xhu3oxvjd9kyi7E3y4JzbfxGj8Z9Ai34UobwFPvwv/cP4u0/JztrqUbUAipok9oBuS6XYfw3hcI31hrwNQFPL4IVOi+dax86hZvTru9cMMRkc89V1uwy2xaE7fwELu+I7qrdy5kVHp4+1DKo9544kQd9ovhz64QZRecQhuK+x6pi3XN6/iAOBj7CgA2VoUBeYdnNOWaQM2crvtTOPoUWoif6l10FxP9Z38WlkJu6exCUxm7SIYWSsrxp4PnxTStC+cxreSRhVf9B1eb8=;UXL3p08QebXpFE+M6oBI5w=="
+secured: "nJA9+lrUsUUdVCFM25a8qpEKEyhlkeuF3fxg5MUbWb0F5LxlY1i3/j0no2E6xS06bBbrrW7zmC/QAWDw7OFoBYzQm4yBnUupvEb+gWiO/yId/iJVGo9ulgt4nn5ZVyPKV9y1QW2/upGjSOgX+k/VwA277Ho48tF3fJErjHuSmvHS/YNd42KkWBuJoLcYcEEX7Rr/jDFt94NRi9ijKtfHE8E2cOP76YUBeyFHLIC2b9qBfT7OiVRhBYra6EfqHyK5lHLO44unzQvYd/w/5W3Z5LQNqVOAM/df+5ek1BbxOZA6Pgyf7QUAobE5LKE/0zhcAaWHj62y9MImTRCY5Xi0rWyDXvWa+C8jPR7ijrhNsh67o5YjEC/HKzdxMcF1dFtz8hBRBihPs38wJBW2uUVF24i/4pZC1l1Qk+bqnZeLBaKL6yh2Hx/Mou5+Cv1AskgFE0QDaq73sULSBLsT0QZB/b/AG11X7OakKZpglCm8OOfPftFrRDTi6tEh+oPyRN6sVoOJoqTXIwrQDrhDVMvKlA==;gJnogyaX8tgE4JLSN2LPyw=="
 ---
 

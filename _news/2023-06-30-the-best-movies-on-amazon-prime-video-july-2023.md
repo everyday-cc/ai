@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?am
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Best early Amazon Prime Day 2023 deals on robot vacuums"
-    excerpt: "It's almost Amazon Prime Day 2023. But you don't need to wait until Amazon's major sales event to score a deal on a top-rated robot vacuum. The experts at CBS Essentials have rounded up the best robot vacuum deals on the internet."
-    publishedDateTime: 2023-06-29T18:59:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-early-amazon-prime-day-2023-deals-on-robot-vacuums-2023-06-29/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 21
 
 secured: "6RhcYp/AuhsbtnxLCKRnu3VaEMUDFjuFR3aJinAyRSAzA6B/Y+OnEhXRykI2yLV8UBktetgdpIZ/nqcMt9gIqlWEZnM9oTHdPzUzyCUMazm2rQVdB6vQ//LCG7oHHkUBCWs5ac+eTTUf870sGTN5BBpVSB34470V1WSxZmM+kJCFFVISVnTNSwV3RcbRT4nvm9JfrMshaCimIeFWzdacyu0zWhfFkJId0ZtRpN2rSat7V9unQzSoRlGC0NVOpvwLJDOlQBPWPND6/XQhm25XoPil5bP/IAS+B+tnz4JNYnsJU6EutYip1p29KNG/8uNsh01jrOkgTML4O9IiXHuthGlRNm5dTag9D7avFD+Krzk=;rUj9OeEhJWUdw8eD5v4esw=="
 ---

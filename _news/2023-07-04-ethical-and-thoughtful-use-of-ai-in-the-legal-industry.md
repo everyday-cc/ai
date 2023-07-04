@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Industrial Robotics - D-A-CH"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$0.60bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.98%, resulting in a market volume of US$1 ..."
-    publishedDateTime: 2023-06-29T17:49:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/d-a-ch"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI and the future of work: A collaboration of humans and machines"
     excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
     publishedDateTime: 2023-07-02T04:27:00Z
@@ -81,15 +67,6 @@ related:
       name: Kompas.id
       domain: kompas.id
     quality: 23
-  - title: "Why is AI the future of trading in India?"
-    excerpt: "AI is revolutionizing the capital markets, leading the second wave of innovation in finance. Before AI, traders relied on stock analysts and media coverage for investment decisions. The rise of online trading platforms democratized the sector,"
-    publishedDateTime: 2023-06-29T18:26:00Z
-    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/why-is-ai-the-future-of-trading-in-india/articleshow/101374538.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "9BeUMarlEZjyV5lUkVAKofnSs3r+chQMH3PC5O6Rl1MiK6qUQ8nJuUKJV+9x83Meg5EEXbXuW/t3DPRtoKh+ne2Gi4IYKuYta5+zdABMF1MFIg/+NpoRB4I/tmfQAC+J7X4e2dQnQ/D5ooS1roOiveuRQuIG2S0XxU+ry9qMD0cXC5gqdslX3/dLwhodcXZOSxu7a3wRpzEtMzHODFo3EBdiD87G1LlZG0PvYeD1lJQ6PJtNYHFKYgtCiEekHq4saZ6F5sEiFQ/fTYX8mepu2842I9/s+ISgdk7agLi1cwqRywWYvaKmPlscjeiRWkI7a/S7cjfuDNrF6sHIEE8cc/HyOAbEFvBOBfdCHCwEupM=;hTSQDMWo959zNNFD7opdBQ=="
 ---

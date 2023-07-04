@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedd
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry/amp/"
 type: article
 quality: 102
-heat: 152
+heat: 132
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Industrial Robotics - D-A-CH"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$0.60bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.98%, resulting in a market volume of US$1 ..."
-    publishedDateTime: 2023-06-29T17:49:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/d-a-ch"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI and the future of work: A collaboration of humans and machines"
     excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
     publishedDateTime: 2023-07-02T04:27:00Z
@@ -84,15 +70,6 @@ related:
       name: Kompas.id
       domain: kompas.id
     quality: 23
-  - title: "Why is AI the future of trading in India?"
-    excerpt: "AI is revolutionizing the capital markets, leading the second wave of innovation in finance. Before AI, traders relied on stock analysts and media coverage for investment decisions. The rise of online trading platforms democratized the sector,"
-    publishedDateTime: 2023-06-29T18:26:00Z
-    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/why-is-ai-the-future-of-trading-in-india/articleshow/101374538.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "6fpNS8ygaSUiwhenwz2OeEulxtYHeTe6S0/eix9no2qjlFvYsTJsMaE87uRqabiLYgW1iY3AslMjmjTD8fH4mAt4a8qSwLhHh/lg/ZwV/v+cMBJG4v6tUN+00vgYiGF5au6hoCgpwIisTqaw3LXCnmL00D5gJm/2lxSNdeC6f1qYCN4yvtqdott3vjo+aLWTQHP7tsmRt4PJxKbYUJ4maeOGP+B0Q0eY0A+tLBxPyBTmDQYtRJtGm1cUd7AF4CkzhyNs4KA6ZC1c6Qnm+Ib8Yb6dI8/sdeig3JgMDDWDkMc2Qlr8sK0zrN4RLN/c04+bjwz9FR45hkRIjbvjezS4WNEPTeetqAscqSygAnyNFntxdScsmj+6zyhEOKGrxzq8y2TD+uOMRPYw6Vg7u6GtXpcRY0db7z8jow+fZXyXQJuKvWdbAtuQM21xweGcKasAbjDtTzAsngJmm8tZID1qZJGdEfB2CUKMiTOxR/j0s7+/j0WcALgRq/R98qKsr+ToQCLjpG/1dP1LZVDCHL6giQ==;+RMH2TJ2xlbw/J4yGauuDA=="
 ---

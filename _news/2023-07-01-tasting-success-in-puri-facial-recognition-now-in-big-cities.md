@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 2000
         height: 1124
         isCached: true
-  - title: "US facial recognition developers jockey for position in NIST accuracy testing"
-    excerpt: "U.S. developers do not appear among the first seven algorithms of the leaderboard for the Face Recognition Vendor Test for verification."
-    publishedDateTime: 2023-06-29T18:45:00Z
-    webUrl: "https://www.biometricupdate.com/202306/us-facial-recognition-developers-jockey-for-position-in-nist-accuracy-testing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 16
   - title: "Tech boost to policing as facial recognition cameras keep track of criminals in Puri"
     excerpt: "In a first in Odisha, the Puri police have introduced a facial recognition technology to track the movement of habitual offenders. Based on the feedb"
     publishedDateTime: 2023-06-30T17:57:00Z

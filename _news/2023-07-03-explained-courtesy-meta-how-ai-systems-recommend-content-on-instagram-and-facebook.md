@@ -89,15 +89,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 10
-  - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
-    excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."
-    publishedDateTime: 2023-06-29T18:41:00Z
-    webUrl: "https://searchengineland.com/how-facebook-ranks-content-2023-feed-stories-reels-428837"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 4
 
 secured: "UwLcwVRbrvCxkWnYNTvlmqqrCJxhPBHte0kyaKNnAy9Lx1Gc3ad6WHDvlA067IU/TnkiHtxVWrp3ukt5aHFHvA5OrYHGTGu5VD6Ea9DsDn8/rNwDqORL1TEDySoJebLCPieY3YYeh2YMPCBEPPsHsYrtb09qs5slnM4L25SXK64vn56RM/6J7S51Z44aI2yK3qSLI1ZBL97CFJGtEVI9g1JCn9+nU5M9wmMdXLPqSHD3zxOPrF5h/1ayNItYUTlUWtE5nAZUhbc6Agy4LI+q9HAMTQd16iF+d9DomWDjS0COvMWJtUixzaYAeCN32a2lUTTJETgp5i8RnvOv1wDt2Ri7vtbiM420i5zQHcMxHws=;5lRWZIEmJbGm56cdYaK24A=="
 ---

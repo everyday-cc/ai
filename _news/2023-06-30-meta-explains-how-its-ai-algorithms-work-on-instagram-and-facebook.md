@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-explains-how-its-a
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html/amp"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 10
-  - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
-    excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."
-    publishedDateTime: 2023-06-29T18:41:00Z
-    webUrl: "https://searchengineland.com/how-facebook-ranks-content-2023-feed-stories-reels-428837"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 4
 
 secured: "RrnjKNpcl6i3CXcYcnSWqkjDtV8s4qoJWxx2leggX0QgwpogVuIWUmjj3IgErQR5d2yTjUumJVvCUBDGb0Ey59O+OiGGO02fqbPx4m0XFMswlU8gOc5M4XyjOYse8Qsl5kW5Rd4/usJrXV2/KQB9vDEUWUPegiB0nLWjIgg9eGLeBYI8mL28mAHTw11vSgFqGMnX3yIyxsusK5ZMRZXk7SLC9XCixYsfytJiXdtjDCIJWk0M9ZkTrHUWXRDT7ptIAVnvd+nUGfNGK08nH1lnGa582UqCWScmzWklgXy0+KgP6wzegFIKLm27YPhQYxZTvYqO7uibVAf3jQUZL2W1q0DG/jzzf1g2TQcbML7k9KOKCzi1rv/GtfNClJtJcjYaLkBkVJVaVHxyhNJyXfjXQk1agENoiNhkntHY2CdWOZDK1hgvUWttUnO3oJ5X0hxbRh88spQKqDy00DqbkOyydga5uq/mqJiioTugG28+BKoqq0ppAxqqWo+NrxtH5E9KqKpFUyfCBhTQCk2uWZTIKA==;UpZLjiq/ip664ME9v+CV8Q=="
 ---

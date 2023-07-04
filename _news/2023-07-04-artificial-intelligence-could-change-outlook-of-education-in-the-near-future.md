@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What’s new in the world of generative AI?"
-    excerpt: "Building off TechCrunch's regular drumbeat of AI coverage, we're going deeper into the weeds concerning how startups can take advantage of AI."
-    publishedDateTime: 2023-06-29T18:21:00Z
-    webUrl: "https://techcrunch.com/2023/06/29/whats-new-in-the-world-of-generative-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "rU8qmQS3GNbgljgi0lHF0Ar0qWq95cbZkNd+qIvgNwHmg9Jigy3yeb0nm8lUlwTt3MMZPf5Tr+vcg6P+LQkonxqSoXJh3cajeWEXhBiYcTysy1Wq5hIWwOPtIBXJzpr9wUZEeVySz89n3RIWlblCGAGwtgy8FuJaigtZCoCkq58tFKrZq1bqF8T7ZldL/uJLnNFKKtsOyMWKhBLJobzv8GcLE/kxpogksM9u2lWjzJPKLNmBLZ7HA7892cBJ2dg/z7f+hOY060KIEt3kPiKux82zF3GcsEzy2JepLjqnB3ULLxfrrbO0AiyNpuZLGfbgkjoQnnB1/iub52rL5Fav7pmSAqzzvCD/kFrxDUnYzOAIGbgG73Qjt1yquCM7XUSwkgZ7dBH9rG+yOnHihjYxlNyPk23N1LcjAqo3S0S/bPn5kBoEbU6rE5orG+KuB630RvJTeOLns4P9j9Blkp8Ju+j2W4q3emeUGN39C85u6ySsfMnElLX6a0RyQWADnFJywccMVayxBSauDLwyeF5SNg==;rhQGPv9pmJUfydMkO1ySwQ=="
 ---

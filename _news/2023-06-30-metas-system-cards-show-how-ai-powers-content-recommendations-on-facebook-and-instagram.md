@@ -88,15 +88,6 @@ related:
       name: iPhone in Canada
       domain: iphoneincanada.ca
     quality: 19
-  - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
-    excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."
-    publishedDateTime: 2023-06-29T18:41:00Z
-    webUrl: "https://searchengineland.com/how-facebook-ranks-content-2023-feed-stories-reels-428837"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 4
 
 secured: "ZDLmFWVrnnRNTdyzyvZPeWH8oBGGH/zbA7k41GoXM3sx0bymb0JtC7Z1/eQM3ujGCxuceCtkyofLSRo7LUu1hTQPctgiPsHPk1WeJqMHuxm7V8ZRVZAtNbHlDirfpjydk3dQ+ic4a9YGoGXvsDVXhfozik3xoyhmxqPDcJDbSfaD8TUqHJq9fG1K5h0n403SM85YFpDW0GwCTHsXa2IIwxreRelJjbq2FZPX8lmdsUm2Gfiif4ZUlF4rbKepmzUG9xYODzeGPKGqg6GcrZyv5PeYKgUqpbWRWkAnIpRTaylkTy2/ix4NUuhvWcGGZ24si+Ozf/iiIxFJAAYOoqwiKOpRWP9DaDbz+/XwtoW8lX0ZxD6ubIoi8Er3isSPHffgWZCumTEmCU7ZWIvCQa58HD/UXN1aTg5JYpPhzMuGcK/DdCtxS5rtJbk9/2+RxqfRPDzsQObXAZ4VIDBkPxSHJJQkIbJEFBilLdfHHfyqEDQfE88Iahzkccgaw6tZrQmrECCz9tCjFK/FxrY8c+AlLg==;pMzJwEaL2lFEoF3EEBVXrg=="
 ---

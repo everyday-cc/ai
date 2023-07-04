@@ -25,51 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Inflection lands $1.3B investment to build more ‘personal’ AI"
-    excerpt: "Inflection AI, an AI startup aiming to build more 'personal' AI assistants, has raised $1.3 billion at a $4 billion valuation."
-    publishedDateTime: 2023-06-29T17:53:00Z
-    webUrl: "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/"
+  - title: "Inflection AI collects about $1.3 billion during a fundraising round"
+    excerpt: "Inflection AI, a Palo Alto-based artificial intelligence platform, announced that it has completed its fundraising and it amounts to about $1.3 billion. Supposedly this was led by Microsoft, Reid Hoffman,"
+    publishedDateTime: 2023-06-30T07:26:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1448152453.jpg?resize=1200,675"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Image-Credit-Freepik223.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Startup Inflection AI secures $1.3 billion funding from Nvidia and others"
-    excerpt: "AI startup Inflection AI, co-founded by Mustafa Suleyman and Reid Hoffman, has raised $1.3bn in funding from investors including Microsoft and Nvidia."
-    publishedDateTime: 2023-06-30T04:59:00Z
-    webUrl: "https://www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others-11688100672381.html"
-    ampWebUrl: "https://www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others/amp-11688100672381.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others/amp-11688100672381.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/30/600x338/g158f4c8ac5315e0d7e42483549333dab208a01593f33230f2_1688101104074_1688101104211.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Inflection AI sets off fireworks with $1.3B funding, highlighting surging interest in LLMs (and Nvidia H100s)"
-    excerpt: "Inflection AI announced that it has raised $1.3 billion in an eye-popping round that brings its valuation to $4 billion."
-    publishedDateTime: 2023-06-29T17:09:00Z
-    webUrl: "https://venturebeat.com/ai/inflection-ai-sets-off-fireworks-with-1-3-billion-funding-highlighting-power-of-llms-and-nvidia-h100s/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 50
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T122624.682.png?w=1200&strip=all"
-        width: 1200
-        height: 750
         isCached: true
   - title: "Inflection AI Completes $1.3B Funding Round, Aims to Develop One of World’s Largest AI Models"
     excerpt: "Inflection AI may have just completed a $1.3 billion funding round, according to a Thursday announcement by the company."
@@ -87,15 +57,24 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Inflection AI Raises $1.3B From Hoffman, Gates and Nvidia"
-    excerpt: "Inflection AI, a startup that makes a “kind and supportive” chatbot called Pi, has raised $1.3 billion in one of the largest funding rounds of Silicon Valley’s current artificial intelligence frenzy."
-    publishedDateTime: 2023-06-30T17:29:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2023-06-30/inflection-ai-raises-1-3b-video"
+  - title: "Inflection AI — Reid Hoffman's new AI startup — scores $1.3B in new funding"
+    excerpt: "Inflection AI, co-founded by one of the co-founders of Google DeepMind, is the latest AI startup to score a massive funding deal."
+    publishedDateTime: 2023-06-29T19:27:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/06/29/reid-hoffmans-inflection-ai-scores-new-funding.html"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
+  - title: "AI Startup Typeface Achieves $1 Billion Valuation in Record-breaking Fundraise Led by Salesforce"
+    excerpt: "With the additional capital infusion, Typeface is poised to accelerate its growth trajectory and continue pioneering groundbreaking advancements in the field of generative AI."
+    publishedDateTime: 2023-06-29T19:31:00Z
+    webUrl: "https://techstory.in/ai-startup-typeface-achieves-1-billion-valuation-in-record-breaking-fundraise-led-by-salesforce/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 4
 
 secured: "MCxLNdox+1nrJBU4fdAHcJ960S1ZrjQT6oTYLoSMTZixY9LAnYRZspXvUKqyYIxZRoq6PAQz7tMLE0id2gbDc1sIXtO8GkwQKV8ZonwjG7vKwf0XdN97F2OBGwitiNHDCS0TBvLF6DjuHnc2HT2r+LS2ldTJfu2NyXNrWRUYJLSntJo51QjG4zMdZD0lTezQ34PK6Ah5ZfLvJYl5GNDouftID+aE+RREfdAv8z0tli79M1DAaA0slkEgnwuG342cBNdgXOTT0keUGkLEmtt8VWACFmFdxe9bfGvpRL2cPY8XNFNjny4TV8SYQEgZ16+D9Xri2y7OM7XqmNymrOCIjx7fvfAmUlva9O0q2sh+V2A=;4sH8GjFx2i5kRWaVHEwbfQ=="
 ---

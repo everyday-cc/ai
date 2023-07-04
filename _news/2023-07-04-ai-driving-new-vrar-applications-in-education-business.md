@@ -50,15 +50,6 @@ related:
         width: 500
         height: 278
         isCached: true
-  - title: "In The Crosshairs: The Legal Industry Grapples With The Application And Ethics Of AI"
-    excerpt: "In May 2023, Steven Schwartz of Levidow, Levidow & Oberman admitted that he used a generative AI (GAI) platform to produce six non-existent court decisions as citations during his representation in a personal injury case against Avianca Airlines."
-    publishedDateTime: 2023-06-29T18:20:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/in-the-crosshairs-the-legal-industry-7541206/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
   - title: "All in for generative AI, but organizational jitters remain - Workday and Salesforce research airs the opportunities and the challenges"
     excerpt: "Despite corporate enthusiasm around generative AI, business leaders are still nervous about incorporating this into their operations and feel there are many challenges ahead, not"
     publishedDateTime: 2023-07-03T10:22:00Z

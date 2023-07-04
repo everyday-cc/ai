@@ -66,15 +66,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 36
-  - title: "In The Crosshairs: The Legal Industry Grapples With The Application And Ethics Of AI"
-    excerpt: "In May 2023, Steven Schwartz of Levidow, Levidow & Oberman admitted that he used a generative AI (GAI) platform to produce six non-existent court decisions as citations during his representation in a personal injury case against Avianca Airlines."
-    publishedDateTime: 2023-06-29T18:20:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/in-the-crosshairs-the-legal-industry-7541206/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
 
 secured: "OUP7cOC4LU89lJaz92gqSBHyN1mCOQx6j1u/wuOHrvBgFs8t7vDCxhrhHc4V2ERXVQTfy6OqfrG1CGs0bupA05iVJvnLRaKoeJiBof3NNHU8S+BDuklRP23dz01ZgwZ9dgZVvklZ78oNlEtIN2Qf/pglHozLigMfhpAaAvcMXbD9uFMmYQPFlxUpISaNSR+Eu5qPDeR1qzOQPXNX/a8lRauo2b8b3hkh2nmL0CkvOK8XTpFlGTExo+IaiME4+wnoJT5eFOKKQ1WqwgPw4eYJmWy31WCGUW7v+tKg0Y369ZY5O/Eo8+dMQQH/0mLC1b3hZo9UDdK0qTtegDNEEoj55o9zOU6aXcEqEnBnfUzmrJZG1+L3wLoZlIPj4EGL5LpPmIANj5x0jh5neZ/hmgUCE50dHTDPykejO4nbj8tMR+3FNobpLgOD4pw5oUjqvnBxckYirgQnbMedX4/NyVnwpWLY6ypouVQ1xKEzKw5ZkHSsMgY2t4/LCOo1t/3dCrwm0n99G2aYzzeqCAMiRoiKfQ==;rIhJDIClo8/NlMjQ6qEt2A=="
 ---

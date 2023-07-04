@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-28-tfds-for-jax-and-pytorch.md",
+      "title": "TFDS for Jax and PyTorch",
+      "excerpt": "TFDS has always been framework-agnostic. For instance, you can easily load datasets in NumPy format for usage in Jax and PyTorch. TensorFlow and its data loading solution (tf.data) are first-class citizens in our API by design. We extended TFDS to support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/datasets/tfless_tfds",
+      "originalUrl": "https://www.tensorflow.org/datasets/tfless_tfds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-2-artificial-intelligence-growth-stocks-smart-investors-are-buying-hand-over-fist.md",
       "title": "2 Artificial Intelligence Growth Stocks Smart Investors Are Buying Hand Over Fist",
       "excerpt": "Its software leans on artificial intelligence (AI ... Trade Desk is well positioned to maintain its momentum. Grand View Research predicts the ad tech market's revenues will increase at an ...",
@@ -1374,49 +1427,6 @@
       "provider": {
         "name": "SiliconRepublic",
         "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-facebook-parent-meta-releases-ai-model-sam-that-can-identify-images-within-photos.md",
-      "title": "Facebook parent Meta releases AI model ‘SAM’ that can identify images within photos",
-      "excerpt": "Facebook parent Meta on Wednesday released a paper detailing its latest AI model that can \"segment\" different items within photographs. The company’s research division said it released the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos",
-      "originalUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/6eab9f5c-a22d-4be0-867c-18ce09c171eb/54e80223-4135-408c-a36c-a96162e10bee/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos.amp",
-      "publishedDateTime": "2023-04-05T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence
 webUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Using AI To Determine The Health Of The Electrical Grid"
-    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
-    publishedDateTime: 2023-06-29T18:21:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "LxXC5rY629C3671QWav3BzuPOgCD9GAWk6PanCf1jTWPdalaZGXiQE03AZ09/z98KkSqpfYop9OBfMSB8H5qwnbs3HW+ZDMqbqMPfQLbYR4sWqXVywZCGm1I9ZO/Nyg6eDaQYYF8hRAijEh3dvboEsw0KuNxsJVHOZPpddRKBhrT079yHmLkipd1mDc4dDFBq5PP9P5HAZctOQHTE3RvDlN96cRwTrzzJG+na2fRl0TElNtWb9+jpu8T3d+bmVreDafbkyJ9SPo5cb52ioliKt8mBmerS4O+DN2PJB0vJmwxOgNDEBFzWoBhijmW6ZFd9/TmqGbFpsqHtpnB0d19j5AIipNlM6pnOj+XfBAN+PjPRueaCyF3Y3HzHvH7nEiivoGact+cG5YDTSvbfHdyOzlt1UhpS2zrNffW3BTN1USY/mVbL5JR9F+V/rZij5rD4Gv5Q4HSRaopyl2hGnAUkaXINdY8D6Qw8eEr0QegE3wID0xMLfsBOFjZdjVCkW3Spd2ucpksf4pkTG6s7uxvTw==;/7NdehtmyUCXA9p+XiTMCw=="
 ---

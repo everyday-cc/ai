@@ -53,15 +53,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Using AI To Determine The Health Of The Electrical Grid"
-    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
-    publishedDateTime: 2023-06-29T18:21:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "s3S6eewfDa3pG9Rf0NX6+BiE2gemcMaj3qfjAvrYgypkByNGeIwimODDzED/yE/Au4YMnGpqoUwyCXghM/wDANDofQSVLGWyvMCIhcCmLK40oOnNzfddqJyodt2yVnY/UE2zb0ZY1MS7eyss+fBnPn1cEV541BvTRJ5Cz/m9OV3bVlcHn0fwwv4MhYwfU3vESMmo9kc5CrKJbXmKzks1Q7a9T2Mbv5rU/b095+xx7K0qYIJQCH3rkrDWDYSwHIRY9Ov3IFNyYn1jNn/DU2rSFzZUjtvmplY0OBtChFDEu0zEpQJ6KpRW1kgGAoDyL6CrxKyxz+K8qrCtBl1gP2Bc9H8g3O8vj3PkVbMT2GMBIiQ=;AM/cXd376l8snYSWHnHWpQ=="
 ---

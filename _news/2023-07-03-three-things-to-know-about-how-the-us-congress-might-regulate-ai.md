@@ -49,15 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Using AI To Determine The Health Of The Electrical Grid"
-    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
-    publishedDateTime: 2023-06-29T18:21:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "uW43Qlmsg4o8D/p3U9TPxBM7F6DWey47rRxybsTe8nQydrRC+rhXPV9TaLJPlUleO9BlRorC269BsITC/IfpYb+Gyd5uq4zkSE2W+lTgJwY5S7wptsc910uLaccb3eoHmmnrtr2LGMAaWdvbFt7Gh9iWsv34SHH+gxpfoGTUf3IjASinA5/lSgDWI45GpowjCY1hmj60ttIayNphgKBIIJnNV/LeOPLegE8719ZZ38JCS+/G5LE2UGQSoGQT+N+S0cY5OMuWPUy43p8jXI0CZ0VDtJdPsyFUTexZZh9uhgFvnojscWW88vqjdEr1cwGo7kbutHzkWnUPva2ainA2KG8//h/MHqeWQF4H0HUraDdoKW+plpr1VrZsty139pCiYuw7StWrOUaIKd1UjcA1sM0zhORVaHUrgDGQ4mTzZekvJ4BySAaX2H5hSkX5oCwoxiMuTZ0FkUVD8ZKTYacPncd43m4BS3GEdZDgWKBN6+2mIltgb15WIMPpC4moHRsporUbFcFjFaMxWA3BtOptpQ==;6seFKX5b6iRlNTdMoBwdeQ=="
 ---
