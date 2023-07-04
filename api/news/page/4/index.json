@@ -2,6 +2,384 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-30-meituans-insider-ai-deal-does-not-compute.md",
+      "title": "Meituan's insider AI deal does not compute",
+      "excerpt": "China's artificial intelligence frenzy has generated some eyebrow-raising deals; a purchase by Meituan is the latest example. The company on Thursday said it is buying AI firm Light Year from Meituan co-founder and former director Wang Huiwen,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/",
+      "originalUrl": "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9RwBFbGZUjVgql_o2mE9tzaQzQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXK3DLWTJNNK3FMHU4NRHNFTGU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-contoro-robotics-brings-in-47m.md",
+      "title": "Contoro Robotics brings in $4.7M",
+      "excerpt": "This round follows a round from 2022 that totaled $1.3 million, and brings the Contoro Robotics' total funding to date to $6 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/contoro-robotics-brings-in-4-7m/",
+      "originalUrl": "https://www.therobotreport.com/contoro-robotics-brings-in-4-7m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/contoro-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-teddy-bears-with-ai-cool-creepy-or-a-true-security-risk.md",
+      "title": "Teddy Bears with AI: Cool, creepy or a true security risk?",
+      "excerpt": "Are artificial intelligence-powered toys the next big thing or the next cybersecurity nightmare? Here's how to ensure your kids play it safe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
+      "originalUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/394e3d1a-2c3c-4952-bd34-87dddb705f01/0e3d4baf-6b00-410b-9f36-9e2d4d32a45e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk.amp",
+      "publishedDateTime": "2023-06-29T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-googles-deepmind-unveils-its-powerful-new-ai-gemini.md",
+      "title": "Google’s DeepMind Unveils Its Powerful New AI, Gemini",
+      "excerpt": "Discover Google's DeepMind new AI project, Gemini, a cutting-edge system aiming to rival OpenAI's ChatGPT. By blending AlphaGo's strategic capabilities with advanced language processing, Gemini seeks to redefine AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/",
+      "originalUrl": "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2023/06/possessed-photography-JjGXjESMxOY-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 2263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp",
+      "publishedDateTime": "2023-06-29T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.md",
+      "title": "Where Americans want and don't want AI in healthcare: 7 things to know",
+      "excerpt": "Explore how Americans feel about AI leading primary care appointments in this study from Boston Children's Hospital and Harvard Medical School.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks.md",
+      "title": "Retail Leaderboard: Individual Investors Keep Buying Tesla, Tech, AI Stocks",
+      "excerpt": "Individual investors' net purchases of U.S. stocks and ETFs stalled last week, but they kept buying certain favorite picks, according to Vanda Research. Tesla, Amazon.com, Apple, Nvidia and Advanced M",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-29-2023/card/retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks-swj2m9Dsp6rD0EC8mU3T",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-29-2023/card/retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks-swj2m9Dsp6rD0EC8mU3T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-809755?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-why-india-risks-falling-behind-in-the-ai-race.md",
+      "title": "Why India Risks Falling Behind in the AI Race",
+      "excerpt": "India’s tech industry is being less than bold in embracing artificial intelligence. It’s hoping to create solutions for corporate clients by building on top of somebody else’s investment in foundational technologies, hardly a strategy for pathbreaking success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKrCGrr9zSHg/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-researchers-teach-an-ai-to-write-better-chart-captions.md",
+      "title": "Researchers teach an AI to write better chart captions",
+      "excerpt": "Chart captions that explain complex trends and patterns are important for improving a reader's ability to comprehend and retain the data being presented. For people with visual disabilities, the information in a caption often provides their only means of understanding the chart.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-captions.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-captions.amp",
+      "publishedDateTime": "2023-06-29T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-salesforce-launches-sales-gpt-service-gpt-to-ease-customer-interactions-through-generative-ai.md",
       "title": "Salesforce launches Sales GPT, Service GPT to ease customer interactions through generative AI",
       "excerpt": "Sales GPT and Service GPT are designed to simplify workflow and customer engagement for Salesforce customers in various industries.",
@@ -252,6 +630,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-how-generative-ai-is-a-game-changer-for-cloud-security.md",
+      "title": "How Generative AI is a Game Changer for Cloud Security",
+      "excerpt": "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/generative-ai-cloud-security/",
+      "originalUrl": "https://www.techrepublic.com/article/generative-ai-cloud-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/clio-unveils-cloud-platform.jpeg",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-amazons-rapid-fire-ai-testing-ground.md",
       "title": "Amazon's rapid-fire AI testing ground",
       "excerpt": "Amazon wants to help AI models learn even quicker.  The company is seeking to patent a method for \"fast annotation of samples\"",
@@ -408,7 +838,7 @@
       "originalUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -691,7 +1121,7 @@
       "originalUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -774,426 +1204,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era.md",
-      "title": "Why Startups Need An Old-School Approach To Talent Development In The AI Era",
-      "excerpt": "It was an era that took computers from room-sized systems that seemed to consume punch cards to something smaller and more usable. We were on the verge of enormous change, introducing computers into business processes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c36af10ee767e81facb6d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/",
-      "publishedDateTime": "2023-06-29T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight.md",
-      "title": "New AI Chip Export Rules Put Semiconductor Firms in Spotlight",
-      "excerpt": "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
-      "originalUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis.md",
-      "title": "Quantum-Inspired Tensor Networks Offer New Hope For The Climate Crisis",
-      "excerpt": "While the list of beneficial applications of quantum-inspired tensorized networks for deep learning is growing, it remains a nascent technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6419aa4ee9628c10ce0aff98/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/amp/",
-      "publishedDateTime": "2023-06-29T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-what-is-integrated-business-planning-ibp.md",
-      "title": "What is Integrated Business Planning (IBP)?",
-      "excerpt": "Integrated Business Planning (IBP) framework that integrates strategic planning, analysis, and reporting to drive business outcomes. \nThe post What is Integrated Business Planning (IBP)? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-integrated-business-planning-ibp/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-integrated-business-planning-ibp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-robots-put-to-work-at-kent-co-recycling-center.md",
-      "title": "AI robots put to work at Kent Co. recycling center",
-      "excerpt": "Kent County’s recycling facilities now include four new robots, three of which use artificial intelligence. They were used to help sort materials quickly and more efficiently. The robots were purchased as a part of a $406,",
-      "sourceUrl": null,
-      "webUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/",
-      "originalUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/AI-Kent-County-recycling-062923-1.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/",
-      "cdnAmpWebUrl": "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/",
-      "publishedDateTime": "2023-06-29T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WOOD-TV",
-        "domain": "woodtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-the-eu-still-needs-to-get-its-ai-act-together.md",
-      "title": "The EU still needs to get its AI Act together",
-      "excerpt": "The AI Act was proposed by European lawmakers in April 2021. In their proposal, lawmakers warned the technology could provide a host of “economic and societal benefits” but also “new risks or negative consequences for individuals or the society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe",
-      "originalUrl": "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/COIkr_CgYMvsmNgD-38qtDdVMtE=/0x0:5061x3374/1200x628/filters:focal(2531x1687:2532x1688)/cdn.vox-cdn.com/uploads/chorus_asset/file/24759053/1258919883.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-meituan-buys-co-founders-months-old-ai-startup-for-234-million.md",
-      "title": "Meituan Buys Co-Founder’s Months-Old AI Startup for $234 Million",
-      "excerpt": "Meituan is buying a co-founder’s generative AI startup for almost $234 million, a deal that gets the food-delivery giant into a Chinese race to develop ChatGPT-like services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHb7ClLHeKDY/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-generative-ai-is-transforming-supply-chain-and-procurement-roles.md",
-      "title": "How Generative AI Is Transforming Supply Chain And Procurement Roles",
-      "excerpt": "While there are massive areas of potential, there are equally significant risks posed to privacy, algorithmic bias and even business continuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6361241cedcf875a2cde53f3/0x0.jpg?format=jpg&crop=972,547,x0,y134,safe&width=1200",
-          "width": 972,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/",
-      "publishedDateTime": "2023-06-29T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-weaponizing-ai-could-alter-the-outcomes-of-elections.md",
-      "title": "How weaponizing AI could alter the outcomes of elections",
-      "excerpt": "Mike Hamilton, co-founder of cybersecurity firm Critical Insight, says there are currently no guardrails against AI’s power to surgically target voters for disinformation. He hopes that it could also be applied to detecting fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2023/06/GettyImages-1448697510.jpg?fit=740%2C416",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/",
-      "publishedDateTime": "2023-06-29T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -71,6 +71,15 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
+    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
   - title: "How Businesses Can Leverage Google’s AI Tech"
     excerpt: "Business leaders in today's tech and startup scene know the importance of mastering AI and machine learning. They realize how it can help draw valuable insights from data, streamline operations through smart automation,"
     publishedDateTime: 2023-06-29T13:49:00Z

@@ -66,20 +66,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
-  - title: "Wells Fargo helps FinTech create $70m fund to widen SME credit access"
-    excerpt: "Wells Fargo has partnered with Hello Alice and the Global Entrepreneurship Network (GEN) to create a $70 million fund designed to improve access to credit for small business owners."
-    publishedDateTime: 2023-06-29T10:42:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Wells_Fargo_Helps_FinTech_Create_70m_Fund_To_Widen_SME_Credit_Access.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/coin-stack-money-retire-office-m.jpg"
-        width: 4096
-        height: 2304
-        isCached: true
   - title: "Google US$10 billion Investment Boosts India’s Fintech Hub"
     excerpt: "Google US$10 billion investment signals a bullish outlook for fintech industry in India, underpinning its potential and expanding influence."
     publishedDateTime: 2023-06-30T02:00:00Z
@@ -136,6 +122,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "GiTMk8/LNlQbSo6tbUujsAMOnbFmSp9gY7UnD9MSL8dAcMVOYepmj92ZO27fpkpOf81N8md+LDNq09skyQ26Uu/GtYLMPq41s8A/rZvFiq0iwLcxZSJqvMWiT0pLaNBWq8eT9QnnXOD1rEsXVX9roPIoHgmHAvjMbqF9wMq4MB/HP5MZ2T+BhxJO1sswroHHlsGKnIYmDS/boNOFREZp8zn3vUoL02oR92FoMUmc0nB8s/qxAD9gx7VhFFflXnsZDNRde5oXtsOiwqN/qwlNq7FC4LYSbbaPYu2Zj9+qi5IWSRtcvQ1JK+c/0cYR12aUn+UCCLuqM2K1FUiecLeQT/PxAOTT2oYiTRGwe17+7Tk=;OiZQNHYLpsJnAytr2w8/Eg=="
+secured: "asyr89ezqwiebHz1O/fSbPbl+VJIuG1a2e1vTe9k3ovXwPqGFJzbKW/epNoyOTakHQ23tzuLTg8TfWoTXxkuBQy36TKRS1sjcwDtE0a8C+duoP5WjNnrXi96HPt8bzjc8D5Fl68vIn87aOM3i6l6p3WAmB3984GibJoWyXh9zm48Eedmr9JlTpLiqUP1Toay0Y5wzStU69dy4r5TfdUJYv9XAQkGT1bgmDbXQSrj4Z2oF31o9vSR1PReIXY3L6zXg2cUwQ1gA9WY30pSyB9GgIkRp4QXq2smK+qTjgMn9PBJdEw//F1MM9FcC2SGhdrw7CXy+5zJMUDvl4Ok2lIyp7k4Au5vhgQkQnn73bXajDukuI/VIQAIapa6pp7Gev3tMtsw20ukabjJFkdJWpPLa2ybalseUsSn79LR8LchnstSzYeKWS4pLpSBY5/2g8MCF+7jGOeu5iBrWKPFWqw7mNQWpU8KR/+pSr6YW3GHhOrBqH7dYbrTHjhCMs4seAbMvGMARVh09rYjEuMgv67T+A==;tfMTBO/gZ+h1W9XwBqZL9A=="
 ---
 

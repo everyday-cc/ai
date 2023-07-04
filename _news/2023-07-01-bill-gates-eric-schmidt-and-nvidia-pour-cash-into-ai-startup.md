@@ -111,20 +111,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 61
-  - title: "US plans new AI chip export controls aimed at Nvidia"
-    excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
-    publishedDateTime: 2023-06-29T09:26:00Z
-    webUrl: "https://techcentral.co.za/us-plans-new-ai-chip-export-controls-aimed-at-nvidia/227630/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 54
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/09/nvidia-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "AMD making big gains on Nvidia in AI chips: research"
     excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
     publishedDateTime: 2023-07-02T06:35:00Z

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Six Risks Of Generative AI"
-    excerpt: "Advance on their generative AI journey with their eyes wide open to the technology's potential risks and take steps to mitigate those risks where needed."
-    publishedDateTime: 2023-06-29T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64959f01282610fa438daaa0/0x0.jpg?format=jpg&crop=2820,1586,x0,y28,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tech Mahindra Collaborates Microsoft Azure To Enable Generative AI Powered Enterprise Search"
     excerpt: "Tech Mahindra's Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility, which will eventually improve the ..."
     publishedDateTime: 2023-06-30T10:08:00Z
@@ -167,20 +151,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-07/01/TP_ee5b5image_story.jpg"
         width: 1000
         height: 666
-        isCached: true
-  - title: "Microsoft launches new AI skills training initiative with LinkedIn and GitHub"
-    excerpt: "Microsoft is joining forces with LinkedIn and GitHub to launch a new artificial intelligence skills initiative to help people prepare for the digital workplace. The Microsoft AI Skills Initiative includes free coursework developed with LinkedIn that will cover introductory concepts of AI and responsible AI frameworks."
-    publishedDateTime: 2023-06-29T09:48:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-launches-new-ai-skills-training-initiative-with-linkedin-and-github"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 51
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4439/Unsplash_Mimi-Thian_web.jpg"
-        width: 975
-        height: 548
         isCached: true
   - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
     excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"

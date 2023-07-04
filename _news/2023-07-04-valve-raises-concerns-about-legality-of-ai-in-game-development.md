@@ -58,6 +58,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Generative AI vs. Machine Learning"
+    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
+    publishedDateTime: 2023-06-29T23:49:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
     excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."
     publishedDateTime: 2023-07-01T00:07:00Z
@@ -72,7 +86,23 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "UK universities draw up guiding principles on generative AI"
+    excerpt: "All 24 Russell Group universities have reviewed their academic conduct policies and guidance"
+    publishedDateTime: 2023-07-03T22:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/2262d025d62fc86ce6110675d04b5ea19681c7e5/0_225_6758_4055/master/6758.jpg?width=620&quality=85&auto=format&fit=max&s=959be29164eacf1dcdcc024d0b54aee6"
+        width: 620
+        height: 372
+        isCached: true
 
-secured: "2OqKAkRkSOntTYSkwWWu8af7oq6YfGCZpTZ1Qeea1MFyNB46CqXCTiq7aSC8GGW0ykDnoPjlpsoK53JDvGvdVJxvKAT2WlE/D6w0V7i7YtlTcOGT0tnKrNEfAd8bRdMIpu6XMk3FMMYWX/n8N94BcXGbmF3w4poWouSLAv17BmQAUh3BuIk6p1P6aIJBIIL2+LOZtXl6mT03Legwh7R8n8v0/4yyok0wtykqA/LVuFILs09cvQd1/qBZ1JGFpFrCRH2FwwdEQO/dkaNT5nO8IK5HwwV2Ce3rVbBi+kBtVPzOdfwImClYoV0b1wh2/xQE/7tk/+OkIXyDR7AJr7Cu0qvwbnmw75Sshc9dXPUiWRg=;LEnYG2vUhPejiurC0dxyiw=="
+secured: "1N8EV2SSpAafma8zzhYOwNvmUmeQ2pudDGV148PfgU2bZWFqAiLBiO+rwQ2tpIxFnexzyX3TopkisvKJZ55M0wnZNZ5BfZ/kjBnDXAQkZAWA5y04C3IKLTJQz2yO01chrv9yuWj/0YiHfstIyU/TUm0L320+lxB2D0ArMCPRhEtZQKEJKxjUMnwA1H9EL8cCWT1/3/uJwfHGvGFyGVsWL7CtlMpRPv8qvzJlFFxJ40rsdYESfctmhLrbVfI6dEI5377o/l8GzhB7qqGWmAeVUvZ8U1F1QQ7nomL8qCfbJKEE77iXgalbLQO40BQqX+R9lgQAfzVIihvmr8RefjalhSe+8rlSMQF5uSFw0WccNMGtUpJgQavGmiPA/aKmz6fmPVQTtUTOT7ZB8bBYdcHLptkYsfk7TjnaelKTlHnRgu246Gpfa+eNEmuxIBJ76bgPiXKQTkfAgZMCB0PjE6uHd7rkPLg0DCfqTWahdT7KG3CjT+hwG7wA2EBcu8hBxnkPPHqSVEQTiIGgRgaYeaQY+w==;PAecUloPz/pKBaIkTiGSUg=="
 ---
 

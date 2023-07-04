@@ -25,44 +25,32 @@ images:
     isCached: true
 
 related:
-  - title: "Inside an Aurora Self-Driving Truck Testing in Texas"
-    excerpt: "A number of autonomous truck developers like Aurora have set up operations in Texas, allowing them to run test drivers and preview routes with their self-driving technology."
-    publishedDateTime: 2023-06-30T14:45:00Z
-    webUrl: "https://www.ttnews.com/articles/inside-aurora-self-driving"
+  - title: "DLRob Groundbreaking AI Robot Controller Revolutionizes Autonomous Packing and Stacking with Cutting-Edge Self-Training Technology"
+    excerpt: "Deep Learning Robotics (DLRob), a pioneering leader in artificial intelligence and robotics technology, announced in the framework of the Robot Tech Show 2023 last week"
+    publishedDateTime: 2023-07-03T16:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33099147/dlrob-groundbreaking-ai-robot-controller-revolutionizes-autonomous-packing-and-stacking-with-cutti"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33099147"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33099147"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-06/Aurora-truck-1200.jpg"
-        width: 470
-        height: 246
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Chinese Self-Driving Truck Startup TuSimple Dives on Plan to Sell US Business"
-    excerpt: "Shares in TuSimple Holdings plunged yesterday after the Chinese autonomous driving startup said it is considering selling its US operations to focus on the Asia-Pacific region. TuSimple [NASDAQ:TSP] closed down 20."
-    publishedDateTime: 2023-06-30T09:02:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230630-08-chinese-self-driving-truck-startup-tusimple-dives-on-plan-to-sell-us-business"
+  - title: "Machine Learning is Revolutionizing Quantitative Trading"
+    excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."
+    publishedDateTime: 2023-06-30T16:34:00Z
+    webUrl: "https://www.bbntimes.com/financial/machine-learning-is-revolutionizing-quantitative-trading"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 21
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/06/26746143288005.jpg"
-        width: 770
-        height: 510
-        isCached: true
-  - title: "Arizona’s agility as self-driving vehicle testbed"
-    excerpt: "Arizona's leaders have enacted rules to authorize and establish guardrails for autonomous vehicles to operate while entrusting experts with the responsibility of ensuring safe testing."
-    publishedDateTime: 2023-06-30T20:26:00Z
-    webUrl: "https://azcapitoltimes.com/news/2023/06/30/arizonas-agility-as-self-driving-vehicle-testbed/"
-    type: article
-    provider:
-      name: Arizona Capitol Times
-      domain: azcapitoltimes.com
-    quality: 4
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 19
 
-secured: "1HUrtLT0yJr4wzpZOHOtwEyfm4N66BaDSbDcOq8nyGlnfkOjPkKN+sdzNmx9KjKeK9Iu4FJw3Rfk+9N6K2V0T1vGkglZqQgq9U6kysFXva2G2640T7Xo/JPMOzqIQ92h1cN/1V0oJ49sgSUS4Y2IePlJA9hzNA3g8g1T1Pc9VAHpx3srlcgw982gOLNVXQQK71Dy0+Ms08TQriuWS03SJNu6oM8wL+GGBjaQlXNA7r3EXHnbNnvYxzsPVbsbKB9aX0Xplcztwo8Jt8Ld7kW2TykJsDpZdKXDk0ZwHYdQ4OoMCMOKYxSW4Jb5c57xQaG1Tn67xrY7KikqjAz8aeLKkTDF7x2PkKJmHUIQ8fL4lkE=;XulZywR5tGZvpN1aaVStIA=="
+secured: "HOC5ujPvYDEaDRIAwdZecPsvbeE6coISI5eIQIF7KFfE6wfHI9rH4qBJ6uX1Fqaxdo1NB7l45MCrHbC9Qi/qtbRLmUVvbhPgWUGHpBA+o9bgLeyZzz1J37NfXtoll4BITHSbqletTh+LkyhJdabHlreGOpyipl7gdCSDl1kRkg/6k8P2cXFOfnYKJKWStjThNlVfHCjvk36ucHbv4Qcw80FF+6PqSaKmnuCYwqVjVmWc1+jMd+WN5L/IxNVl0jHJFeE3JKTMh5/8Gz08+cAAlG0ua8msFWtg3rh8xKzZMWU2zmJXGdQPzcpZm1Bfj4Ae23QFYUhe9Rzf94nCT3ISGPmZE29bbFBf2N3xjOkXI74DcP4lsV/muukMe5Ia3zU5rMA7lj79mrVB0vkFEVJMOq6iyt/J3VklZVuUELypXhlU00ncClMdXqWFwYEW/CjmbCMlnLBFXAQfGF8tX6b0evO6L3p9FldXpzRnUHxRyM3VoOroqGy8jrtoADrZv0VcCDTzesmjVS640vztradE7Q==;I6qjXOGOhZzdXjRsWJETkQ=="
 ---
 

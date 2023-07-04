@@ -19,44 +19,23 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Cars Are Like Surveillance Cameras On Wheels For Police"
-    excerpt: "Authorities are serving self-driving companies with warrants for hours of footage of private citizens in an effort to solve crimes"
-    publishedDateTime: 2023-06-30T23:11:00Z
-    webUrl: "https://www.carscoops.com/2023/06/self-driving-cars-are-like-surveillance-cameras-on-wheels-for-police/"
-    ampWebUrl: "https://www.carscoops.com/2023/06/self-driving-cars-are-like-surveillance-cameras-on-wheels-for-police/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/self-driving-cars-are-like-surveillance-cameras-on-wheels-for-police/amp/"
+  - title: "Self-driving car company removes safety drivers for rides downtown"
+    excerpt: "The commerical launch from Halo.Car details that its cars can be delivered to customers in downtown Las Vegas without a safety driver."
+    publishedDateTime: 2023-06-29T19:09:00Z
+    webUrl: "https://www.reviewjournal.com/business/entrepreneurs/self-driving-car-company-removes-safety-drivers-for-rides-downtown-2801411/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 44
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/07/fca-waymo-exclusive-agreement-2-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Self-Driving Car Footage Gives Police Controversial New Tool"
-    excerpt: "As self-driving cars become a fixture in major American cities like San Francisco, Phoenix and Los Angeles, police are increasingly relying on their camera recordings to try to solve cases."
-    publishedDateTime: 2023-06-29T14:00:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/as-googles-waymo-expands-so-does-a-police-surveillance-tool"
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 4
+  - title: "UAE approves first license for self-driving vehicles"
+    excerpt: "The license was granted to WeRide company, Sheikh Mohammed said UAE approves first license for self-driving vehicles Abu Dhabi, Autonomous vehicles, Dubai, Self-driving vehicles, Sheikh Mohammed bin Rashid Al Maktoum,"
+    publishedDateTime: 2023-07-03T13:18:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/uae-approves-first-license-for-self-driving-vehicles"
     type: article
     provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 24
-    images:
-      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Uae Approves First Licence For Self-Driving Cars"
-    excerpt: "The UAE has approved the first national licence of its kind for self-driving vehicles to run on the country's roads. His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Prime Minister of the UAE and Ruler of Dubai,"
-    publishedDateTime: 2023-07-03T19:14:00Z
-    webUrl: "https://menafn.com/1106548813/Uae-Approves-First-Licence-For-Self-Driving-Cars"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Arabian Business
+      domain: arabianbusiness.com
     quality: 4
 
 secured: "omI1FTK2cAoYzDfEslduxAhX6JEy3xyk1Jf0uhWItuqnOTpMx+wgTY1HiKHC12uwQ0y6rMJaHRrr3KtGwsSarhfCbjLjoPZ8HuMkcClmU5ieUXsPO7aazhy9SlChs28GmhdLwQTInc5xnixkkEIKxqeTD7A3IIF0lOBzBsDUho0ICyb3Hvw6P7lTrvv6DRs7UFjgi3eAs6mFQJ4ZRAvXAOHrY5Yq8w2uJOb9DjYpJglYkD+pRA7nF+UuhB2GELARq7Ld/pJD1bqoa2d1+q8jTqVujIH2HrgZwxdne6fJSmHscu8lppLjGu+H28QUzYqJunpKR1XFDIc2tXUS8IhCXNkO0QNYCnxukHAIpqOXStSneQa+RJduDRXJD42Q9/8ae2rzrAmQyBwK4lCcSP9FLAUIaMomGk+/WXMrrsr7qMT+fnNq42sl0zY4yTsJtTZmTTFLtQjYQ2ZhrQaPTMqoG12JaXMAnUznFsMda7Kf3KwV8cq7cKp9Z6J1Ux2rLH91dCwW04QAVI06yrD1wSg+bg==;e1lvupQcrnBzgx+WbwQ4VQ=="

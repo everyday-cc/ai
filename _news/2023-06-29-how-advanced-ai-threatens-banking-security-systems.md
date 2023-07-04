@@ -7,7 +7,7 @@ originalUrl: "https://www.centralbanking.com/technology/7959117/how-advanced-ai-
 webUrl: "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://mma.prnewswire.com/media/2145182/AI_chips_revenue_2023.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Infera AI: Bridging the gap between hardware manufacturing and advanced AI"
+    excerpt: "Canada-based startup Infera AI seeks to bridge the gap between hardware manufacturing and cutting-edge artificial intelligence (AI) technologies. With their bespoke solutions and subject-matter expertise,"
+    publishedDateTime: 2023-07-04T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20230703VL206/ai-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230703vl206_files/3_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "ksZm7+W3GZROGSDkF3ArEiz+qAdzt7ukpjPqyopHcxHti6gk6p0Y5YosBalxFn1hg7rqPUbP41hLLAMLuJI3h36S64g6B9aDG76CgEBlyKmfqlwb6BzwuJJ5wchAJ4nOMbvBxWR1dmtiFxNYcfNeAs1yrXFobiS3VtWSE71muumeAhGq4RiaPXeO8Oyk79GXssn9PBZjVvkoRy5vc18KLZYvzT373Z1sv6TiwMsIf2PlyLnLb27QWFbJhS5jzN6M9vIuTAkSIClv3xHG/VzlskQ68VleuvhVF2QER4gGiKJmlyKJDdng0H0ZA3/rT72is5qnjzR2Msjg0e/h7+NuIYd9rTzGNTpwGDpYJxO5N/0=;ywsf+6SxUdlMMRs0brhiJw=="

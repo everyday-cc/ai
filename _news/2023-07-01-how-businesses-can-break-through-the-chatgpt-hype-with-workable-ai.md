@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-businesses-can-break-through-the-ch
 webUrl: "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
+    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
   - title: "These four AI technologies could be the next ChatGPT"
     excerpt: "The rapid acceptance of ChatGPT leaves us with a lingering question: what’s next? Here are four AI technologies that hold promise."
     publishedDateTime: 2023-07-03T23:38:00Z

@@ -66,20 +66,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 63
-  - title: "AI recap this month: Drone 'kills' operator; DeepMind's speed up"
-    excerpt: "Research into AI is experiencing a boom, so we have rounded up the best of news from the past month to help you keep up to date"
-    publishedDateTime: 2023-06-29T09:32:00Z
-    webUrl: "https://www.newscientist.com/article/2379559-ai-recap-this-month-drone-kills-operator-deepminds-speed-up/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27154959/SEI_161948063.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "DeepMind alum wants to use AI to speed the development of green materials"
     excerpt: "For the same idea to work in chemistry, an AI system would need to predict how a new molecule would behave, not just in a lab but in the real world."
     publishedDateTime: 2023-07-03T02:01:00Z

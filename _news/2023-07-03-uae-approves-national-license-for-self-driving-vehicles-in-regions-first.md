@@ -7,7 +7,7 @@ originalUrl: "https://www.gulftoday.ae/news/2023/07/03/uae-approves-national-lic
 webUrl: "https://www.gulftoday.ae/news/2023/07/03/uae-approves-national-license-for-self-driving-vehicles"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Uae Approves First Licence For Self-Driving Cars"
+    excerpt: "The UAE has approved the first national licence of its kind for self-driving vehicles to run on the country's roads. His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Prime Minister of the UAE and Ruler of Dubai,"
+    publishedDateTime: 2023-07-03T19:14:00Z
+    webUrl: "https://menafn.com/1106548813/Uae-Approves-First-Licence-For-Self-Driving-Cars"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
 
 secured: "zlUt5RCtDJK35yUn/zv+3HCZ/7CaWL2gl4UcXZsLiy+DCA7OsRRm0lH3nd+gMjszwVMwRR9KLfay02u7FAwZmt+DY8AygEOF4w4RzSzYVUOg5aNcyNvXrOUxFWr57qKIe9k2nxMINZUKANiOpoTBK+ehIrOCzIA+KdaDsxBNOyqKzJuDwmJcdtsSvJc8d5LDoWo9FFtPquqgOopUv+tNKL69XapoafP/0NF1ceO1F1tdx0wgVeJ86lqgrmzRHKwCd/GEOc9nekn+yBBq2GXzSuXy0LO64UdmMzVhRij8sEkwzhGvtdjGwtdrf9nOpMxZ6De7+nRt8PXTK1lulJshneV97eQkH6rF3POH/Qfe0I2j6eucEnYL3EJpsFpVPIo/Z/AEIyNLER6OxvKJlsGHvXE+4ZtdCrQHcfDb+gizgQ8D+TQyMrEcLO+4uVtvZVwW72R2XZzaMnKwyUAT4EvRzJdpjtSLrAT2qXshJv7Upm/yajZQLJW1YLLSyJMNdBlPIuoIMLnccxGxCeMWY+xl2Q==;8JaNDziWzZZvTbk+lRfGVw=="
 ---

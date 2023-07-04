@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-s
 webUrl: "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Talon CEO on Bringing Security, Compliance to Generative AI"
-    excerpt: "With the growth of generative AI services, organizations want better control of the data going in and coming out of AI. Talon CEO Ofer Ben-Noon discussed how his"
-    publishedDateTime: 2023-07-03T16:27:00Z
-    webUrl: "https://www.inforisktoday.com/talon-ceo-on-bringing-security-compliance-to-generative-ai-a-22429"
-    type: article
-    provider:
-      name: Info Risk Today
-      domain: inforisktoday.com
-    quality: 56
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/-showcase_image-1-a-22429.jpg"
-        width: 860
-        height: 520
-        isCached: true
   - title: "Rackspace Technology Partners with Google Cloud to offer Cutting-edge Generative AI Services and Solutions using the FAIR Practice"
     excerpt: "This partnership is a force multiplier to accelerate the pragmatic and secure use-case-based adoption of generative AI in businesses across all industries,” said Srini Koushik, Rackspace CTO and global lead for FAIR."
     publishedDateTime: 2023-06-29T15:33:00Z

@@ -2,6 +2,341 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-02-crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining.md",
+      "title": "Crypto Miners Seek a New Life in AI Boom After an Implosion in Mining",
+      "excerpt": "Demand for high-end chips allows cryptocurrency companies to repurpose idle equipment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining-92a181fd",
+      "originalUrl": "https://www.wsj.com/articles/crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining-92a181fd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-810559/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-chatgpt-and-generative-ai-what-to-do-with-all-the-productivity.md",
+      "title": "ChatGPT And Generative AI: What To Do With All The Productivity?",
+      "excerpt": "A recent study by the National Bureau of Economic Research found that generative AI like ChatGPT can increase workforce productivity by an average of 14%. Some companies are already reporting productivity increases of up to 400% as a result of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a05566e61b29653f71c2bc/0x0.jpg?format=jpg&width=1200",
+          "width": 1030,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/",
+      "publishedDateTime": "2023-07-02T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones.md",
+      "title": "AgriTech Innovations 2023: Transforming Farming with AI, Robotics, and Drones",
+      "excerpt": "The field of agriculture is advancing day by day. Today, we have bought some latest trends and innovations concerned with Agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
+      "originalUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kj1bcdn.b-cdn.net/media/91685/engineer-gc9ddb59df_1280.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/?amp=1",
+      "cdnAmpWebUrl": "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/?amp=1",
+      "publishedDateTime": "2023-07-01T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "krishijagran",
+        "domain": "krishijagran.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-artificial-intelligence-can-shorten-cancer-radiation-treatment-duration.md",
+      "title": "Artificial Intelligence can shorten cancer radiation treatment duration",
+      "excerpt": "Predictive AI models can assess a person's likelihood of developing cancer by identifying risk factors. A new AI tool shortens cancer patients' waiting time for treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/julien-tromeur-V2G1YnMHZwk-unsplash-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
+      "publishedDateTime": "2023-07-01T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-ny-bills-would-ban-deepfakes-put-guardrails-on-artificial-intelligence.md",
+      "title": "NY bills would ban 'deepfakes,' put guardrails on artificial intelligence",
+      "excerpt": "Measures passed by the State Legislature this session include banning \"deepfake\" images online that most often are used to humiliate or coerce women.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "originalUrl": "https://www.newsday.com/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/ace/c:MTgxNzY1YzQtMmRiOS00:YzllNTEw/landscape/1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "publishedDateTime": "2023-07-01T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai.md",
+      "title": "How businesses can break through the ChatGPT hype with ‘workable AI’",
+      "excerpt": "Creating AI applications that provide a step-change in user experience and business performance will be essential for Workable AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/",
+      "originalUrl": "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_turning_data_into_products._Colorful_futuristic_tech_730862fd-2fe6-442c-8509-f73523c48d0e.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous.md",
+      "title": "Why business leaders must tackle ethical considerations as AI becomes ubiquitous",
+      "excerpt": "Technology will only continue to evolve, so it is essential that we remain vigilant and keep ethical AI top of mind.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
+      "originalUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/business-meeting.GettyImages-1130939432.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-ai-offers-an-epic-make-or-break-moment-for-investors.md",
       "title": "AI Offers an Epic Make-or-Break Moment for Investors",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “AI Offers an Epic Make-or-Break Moment for",
@@ -158,7 +493,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -444,7 +779,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -737,6 +1072,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-01-the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy.md",
+      "title": "The EU Wants to Protect You From AI. Some Companies Aren't Happy",
+      "excerpt": "Tech and other executives say the EU's AI Act stifles competition during a critical time of technological development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/",
+      "originalUrl": "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/1bcd1a2f3d58e57809d2440b723a2d20e89d3d68/hub/2023/06/30/18b4a82a-874c-4f85-a2e8-c560a9890c6b/gettyimages-1468369907.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-microsoft-is-developing-cutting-edge-ai-chips-to-close-the-gap-with-aws-internal-documents-show.md",
       "title": "Microsoft is developing cutting-edge AI chips to 'close the gap' with AWS, internal documents show",
       "excerpt": "Documents released during the Federal Trade Commission's lawsuit against Microsoft confirm the company is working on its own AI chips.",
@@ -840,414 +1226,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas.md",
-      "title": "Democratize computer vision defect detection for manufacturing quality using no-code machine learning with Amazon SageMaker Canvas",
-      "excerpt": "Cost of poor quality is top of mind for manufacturers. Quality defects increase scrap and rework costs, decrease throughput, and can impact customers and company reputation. Quality inspection on the production line is crucial for maintaining quality standards. In many cases, human visual inspection",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/ML-14560-image017-1249x630.png",
-          "width": 1249,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T09:41:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov.md",
-      "title": "The First AI-Developed Drug Reaches Phase 2 Clinical Trials. With Alex Zhavoronkov",
-      "excerpt": "A number of companies are now using AI to develop drugs faster, cheaper, and with fewer failures along the way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649f042eeb2a600448e45c80/0x0.jpg?format=jpg&width=1200",
-          "width": 987,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/amp/",
-      "publishedDateTime": "2023-06-30T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-gay-rights-rulingsupreme-court-backs-web-designer-opposed-to-same-sex-marriage.md",
-      "title": "Gay Rights RulingSupreme Court Backs Web Designer Opposed to Same-Sex Marriage",
-      "excerpt": "Both Mr. Phillips and Ms. Smith have said they would serve gay people as individual clients but object to providing services for a ... President Biden signed into law a bill that would mandate federal recognition of same-sex marriage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-supreme-court/same-sex-marriage-law",
-      "originalUrl": "https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-supreme-court/same-sex-marriage-law",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/21scotus-gayrights-polls-VERSION-cwjl/21scotus-gayrights-polls-VERSION-cwjl-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-the-industrial-revolution-y2k-the-internet-generative-ai-still-the-same-old-story.md",
-      "title": "The Industrial Revolution, Y2K, The Internet & Generative AI. Still The Same Old Story.",
-      "excerpt": "As we attempt to regulate AI, we should also explore its amazing capabilities. We should do so as optimistic explorers, not strippers worried about victims of technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649eea1ecc0ec4522e0b9757/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/",
-      "publishedDateTime": "2023-06-30T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-in-recruitment.md",
-      "title": "AI in recruitment",
-      "excerpt": "Let’s rethink recruiting. If you were to design the recruitment process for a new company, what would you automate to identify and get the best talent?\nThe post AI in recruitment appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
-      "originalUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:45:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key.md",
-      "title": "Capital One’s new chief scientist says ‘responsible, thoughtful’ generative AI is key",
-      "excerpt": "Prem Natarajan, Capital One's new chief scientist and head of enterprise AI, says the company has a 'deep imperative' to operate responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/",
-      "originalUrl": "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-30T080615.824.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-killer-robots-or-not-ais-threat-to-jobs-is-real-which-is-why-it-must-be-handled-wisely.md",
-      "title": "Killer robots or not, AI’s threat to jobs is real – which is why it must be handled wisely",
-      "excerpt": "In the Terminator series of films, the military AI Skynet becomes self-aware and decides to wipe out humanity ... Meanwhile, proponents point out that while AI can be deployed in autonomous driving, facial recognition, as a mobile phone assistant or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/e39e9827-0a8e-4fa8-b8df-f872ee2dc323_0ecd43bf.jpg?itok=1IXbtR8s&v=1688021011",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
-      "publishedDateTime": "2023-06-30T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-foundation-launches-aixyz-to-give-people-their-own-ai-assistants.md",
-      "title": "AI Foundation launches AI.XYZ to give people their own AI assistants",
-      "excerpt": "The AI Foundation, a lab that gave us virtual Deepak Chopra, has launched AI.XYZ, a platform for people to create their own AI assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
-      "originalUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/ai-xyz-Dashboard-2-1-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

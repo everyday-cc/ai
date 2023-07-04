@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Meituan Buys Co-Founder’s Months-Old AI Startup for $234 Million"
-    excerpt: "Meituan is buying a co-founder’s generative AI startup for almost $234 million, a deal that gets the food-delivery giant into a Chinese race to develop ChatGPT-like services."
-    publishedDateTime: 2023-06-29T10:19:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHb7ClLHeKDY/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Meituan's insider AI deal does not compute"
     excerpt: "China's artificial intelligence frenzy has generated some eyebrow-raising deals; a purchase by Meituan is the latest example. The company on Thursday said it is buying AI firm Light Year from Meituan co-founder and former director Wang Huiwen,"
     publishedDateTime: 2023-06-30T02:55:00Z

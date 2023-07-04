@@ -80,20 +80,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
-  - title: "Wells Fargo helps FinTech create $70m fund to widen SME credit access"
-    excerpt: "Wells Fargo has partnered with Hello Alice and the Global Entrepreneurship Network (GEN) to create a $70 million fund designed to improve access to credit for small business owners."
-    publishedDateTime: 2023-06-29T10:42:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Wells_Fargo_Helps_FinTech_Create_70m_Fund_To_Widen_SME_Credit_Access.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/coin-stack-money-retire-office-m.jpg"
-        width: 4096
-        height: 2304
-        isCached: true
   - title: "Applications open for AWS’s first Global Fintech Accelerator"
     excerpt: "Applications are open for the first Global Fintech Accelerator of Amazon Web Services (AWS), giving fintech founders the support and mentorship they need to bring smarter financial services solutions to the market."
     publishedDateTime: 2023-06-29T17:00:00Z

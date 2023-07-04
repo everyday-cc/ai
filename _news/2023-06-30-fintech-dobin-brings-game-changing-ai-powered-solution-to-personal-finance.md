@@ -65,20 +65,6 @@ related:
         width: 529
         height: 315
         isCached: true
-  - title: "Wells Fargo helps FinTech create $70m fund to widen SME credit access"
-    excerpt: "Wells Fargo has partnered with Hello Alice and the Global Entrepreneurship Network (GEN) to create a $70 million fund designed to improve access to credit for small business owners."
-    publishedDateTime: 2023-06-29T10:42:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Wells_Fargo_Helps_FinTech_Create_70m_Fund_To_Widen_SME_Credit_Access.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/coin-stack-money-retire-office-m.jpg"
-        width: 4096
-        height: 2304
-        isCached: true
   - title: "Google US$10 billion Investment Boosts India’s Fintech Hub"
     excerpt: "Google US$10 billion investment signals a bullish outlook for fintech industry in India, underpinning its potential and expanding influence."
     publishedDateTime: 2023-06-30T02:00:00Z

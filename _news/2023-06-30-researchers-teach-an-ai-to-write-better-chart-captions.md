@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-ai-captions.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-captions.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How computers and artificial intelligence evolve together"
+    excerpt: "Co-design, that is, designing software and hardware simultaneously, is one way of attempting to meet the computing-power needs of today's artificial intelligence applications. Compilers, which translate instructions from one representation to another,"
+    publishedDateTime: 2023-06-30T17:15:00Z
+    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-computers-and-arti.jpg"
+        width: 660
+        height: 441
+        isCached: true
   - title: "UPMC researchers studying artificial intelligence's ability to identify heart attacks"
     excerpt: "PITTSBURGH (KDKA) - Researchers at the University of Pittsburgh said they're studying how artificial intelligence can help them identify patients having heart attacks. They are developing an algorithm that can interpret electrical signals from the heart and identify patients having different types of heart attacks."
     publishedDateTime: 2023-07-01T11:46:00Z

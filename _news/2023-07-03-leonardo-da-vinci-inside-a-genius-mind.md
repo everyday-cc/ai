@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vi
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 77
 published: true
 
 provider:

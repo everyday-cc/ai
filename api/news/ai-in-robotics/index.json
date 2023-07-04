@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-04-renatus-robotics-raises-2m-in-seed-funding-for-autonomous-logistics-solutions.md",
+      "title": "Renatus Robotics raises $2M in seed funding for autonomous logistics solutions",
+      "excerpt": "Renatus Robotics Inc., a logistics startup, has announced the successful closing of its initial seed round. The company secured $2 million in funding from e-commerce logistics company e-LogiT Co., ltd.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/",
+      "originalUrl": "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/renatus-warehouse-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones.md",
       "title": "AgriTech Innovations 2023: Transforming Farming with AI, Robotics, and Drones",
       "excerpt": "The field of agriculture is advancing day by day. Today, we have bought some latest trends and innovations concerned with Agriculture.",
@@ -1299,50 +1342,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-robocat-a-self-learning-agent-developed-by-google-deepmind-is-set-to-revolutionise-robotics.md",
-      "title": "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics",
-      "excerpt": "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/06/RoboCat.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
-      "publishedDateTime": "2023-06-23T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

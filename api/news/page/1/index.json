@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-04-police-turns-to-self-driving-companies-waymo-cruise-for-video-footage.md",
+      "title": "Police Turns to Self-Driving Companies Waymo, Cruise for Video Footage",
+      "excerpt": "There has been an increase in incidents where police are turning to companies like Waymo and Cruise for video footage. Learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm",
+      "originalUrl": "https://www.techtimes.com/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/430881/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm",
+      "publishedDateTime": "2023-07-03T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-data-scientists-describe-the-arduous-ai-powered-task-of-getting-amazons-alexa-to-speak-in-an-irish-lilt.md",
+      "title": "Data scientists describe the arduous, AI-powered task of getting Amazon's Alexa to speak in an Irish lilt",
+      "excerpt": "Two data scientists told The New York Times that text-to-speech AI models helped them overcome the difficulty of creating Irish Alexa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
+      "originalUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a36df34cc8540019cb52b0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
+      "publishedDateTime": "2023-07-03T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-ais-unexpected-role-helping-retain-not-replace-top-developers.md",
       "title": "AI’s Unexpected Role: Helping Retain, Not Replace, Top Developers",
       "excerpt": "Despite dire predictions that AI will take over software development, companies are buying new, AI-powered tools to help retain highly sought after senior developers.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -101,6 +195,100 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-renatus-robotics-raises-2m-in-seed-funding-for-autonomous-logistics-solutions.md",
+      "title": "Renatus Robotics raises $2M in seed funding for autonomous logistics solutions",
+      "excerpt": "Renatus Robotics Inc., a logistics startup, has announced the successful closing of its initial seed round. The company secured $2 million in funding from e-commerce logistics company e-LogiT Co., ltd.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/",
+      "originalUrl": "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/renatus-warehouse-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact.md",
+      "title": "How Public Health Agencies Are Harnessing AI And Advanced Analytics For Transformative Impact",
+      "excerpt": "In recent years health agencies like CDC have leveraged data and analytics to enhance their capabilities and become more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a2f741ef05b2265d8aa488/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/",
+      "publishedDateTime": "2023-07-03T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -249,6 +437,92 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study.md",
+      "title": "Automated deep learning AI tool with CT imaging facilitates screening for enlarged spleen: Study",
+      "excerpt": "USA: A research team from the US has derived a weight-based volumetric threshold for splenomegaly (spleen enlargement) using an automated AI-based tool. In their study published in the American Journal of Roentgenology,",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "originalUrl": "https://medicaldialogues.in/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2023/07/01/213288-splenomegaly.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "publishedDateTime": "2023-07-03T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-eu-to-work-with-japan-on-ai-and-chip-supply-chain.md",
+      "title": "EU to Work with Japan on AI and Chip Supply Chain",
+      "excerpt": "The European Union (EU) is set to work with Japan in a bid to boost its Artificial Intelligence (AI) and chip supply chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/",
+      "originalUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/07/eu-japan-ai-chip.jpg",
+          "width": 1170,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/eu-japan-ai-chip/amp/",
+      "publishedDateTime": "2023-07-03T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -460,7 +734,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -565,7 +839,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -605,6 +879,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-how-ai-is-transforming-the-leadership-landscape-in-the-21st-century.md",
+      "title": "How AI Is Transforming The Leadership Landscape In The 21st Century",
+      "excerpt": "I believe we stand at the threshold of a new era: the AI-powered leadership revolution that promises to redefine the way we work, live and communicate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649ee304e60ed64f9d324232/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/",
+      "publishedDateTime": "2023-07-03T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -660,7 +985,7 @@
       "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -858,7 +1183,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -889,334 +1214,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-chatgpt-and-generative-ai-what-to-do-with-all-the-productivity.md",
-      "title": "ChatGPT And Generative AI: What To Do With All The Productivity?",
-      "excerpt": "A recent study by the National Bureau of Economic Research found that generative AI like ChatGPT can increase workforce productivity by an average of 14%. Some companies are already reporting productivity increases of up to 400% as a result of generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a05566e61b29653f71c2bc/0x0.jpg?format=jpg&width=1200",
-          "width": 1030,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/",
-      "publishedDateTime": "2023-07-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation.md",
-      "title": "AI and machine learning revolutionizing the lending landscape: Trends and innovation",
-      "excerpt": "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg",
-          "width": 1706,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "publishedDateTime": "2023-07-02T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones.md",
-      "title": "AgriTech Innovations 2023: Transforming Farming with AI, Robotics, and Drones",
-      "excerpt": "The field of agriculture is advancing day by day. Today, we have bought some latest trends and innovations concerned with Agriculture.",
-      "sourceUrl": null,
-      "webUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
-      "originalUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kj1bcdn.b-cdn.net/media/91685/engineer-gc9ddb59df_1280.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/?amp=1",
-      "cdnAmpWebUrl": "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/?amp=1",
-      "publishedDateTime": "2023-07-01T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "krishijagran",
-        "domain": "krishijagran.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-artificial-intelligence-can-shorten-cancer-radiation-treatment-duration.md",
-      "title": "Artificial Intelligence can shorten cancer radiation treatment duration",
-      "excerpt": "Predictive AI models can assess a person's likelihood of developing cancer by identifying risk factors. A new AI tool shortens cancer patients' waiting time for treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/julien-tromeur-V2G1YnMHZwk-unsplash-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
-      "publishedDateTime": "2023-07-01T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-ny-bills-would-ban-deepfakes-put-guardrails-on-artificial-intelligence.md",
-      "title": "NY bills would ban 'deepfakes,' put guardrails on artificial intelligence",
-      "excerpt": "Measures passed by the State Legislature this session include banning \"deepfake\" images online that most often are used to humiliate or coerce women.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
-      "originalUrl": "https://www.newsday.com/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/ace/c:MTgxNzY1YzQtMmRiOS00:YzllNTEw/landscape/1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
-      "publishedDateTime": "2023-07-01T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai.md",
-      "title": "How businesses can break through the ChatGPT hype with ‘workable AI’",
-      "excerpt": "Creating AI applications that provide a step-change in user experience and business performance will be essential for Workable AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/",
-      "originalUrl": "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_turning_data_into_products._Colorful_futuristic_tech_730862fd-2fe6-442c-8509-f73523c48d0e.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous.md",
-      "title": "Why business leaders must tackle ethical considerations as AI becomes ubiquitous",
-      "excerpt": "Technology will only continue to evolve, so it is essential that we remain vigilant and keep ethical AI top of mind.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
-      "originalUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/business-meeting.GettyImages-1130939432.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

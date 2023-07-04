@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-06-09-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger.md",
-      "title": "Meta unveils plan to infuse generative AI into Facebook, Instagram, Messenger",
-      "excerpt": "Mark Zuckerberg, the CEO of Meta , recently shared his plans to integrate generative artificial intelligence into popular platforms like Facebook, Instagram, and Messenger.Generative AI has",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
-      "originalUrl": "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-06-09/1078378_023343_updates.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
-      "publishedDateTime": "2023-06-08T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-08-google-and-mayo-clinic-partner-to-infuse-ai-into-health-care.md",
       "title": "Google and Mayo Clinic Partner to Infuse AI Into Health Care",
       "excerpt": "Google Cloud launched a partnership with Mayo Clinic to implement use of its generative AI software, the tech giant announced ... as well as clinical protocols and research papers. With Google-level search capabilities, it can help health organizations ...",
@@ -1413,6 +1370,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-meta-fined-record-13-billion-by-eu-over-handling-of-facebook-user-data.md",
+      "title": "Meta fined record $1.3 billion by EU over handling of Facebook user data",
+      "excerpt": "European Union data regulators have hit Meta with a $1.3 billion fine (about €1.2 billion) and ordered the company to cease transferring EU Facebook user data to the US by October. The fine exceeds Amazon's $886 million fine from the EU for data protection violations in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
+      "originalUrl": "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/51f5cfda5dbc9796f18e715d4ae239f452ffb46a/2023/05/22/84c5ed15-7609-42d0-bd54-9a07cb0e23c1/gettyimages-1244644879.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
+      "publishedDateTime": "2023-05-22T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

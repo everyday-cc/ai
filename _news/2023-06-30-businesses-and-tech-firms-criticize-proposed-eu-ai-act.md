@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The EU still needs to get its AI Act together"
-    excerpt: "The AI Act was proposed by European lawmakers in April 2021. In their proposal, lawmakers warned the technology could provide a host of “economic and societal benefits” but also “new risks or negative consequences for individuals or the society."
-    publishedDateTime: 2023-06-29T11:00:00Z
-    webUrl: "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/COIkr_CgYMvsmNgD-38qtDdVMtE=/0x0:5061x3374/1200x628/filters:focal(2531x1687:2532x1688)/cdn.vox-cdn.com/uploads/chorus_asset/file/24759053/1258919883.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The EU Wants to Protect You From AI. Some Companies Aren't Happy"
     excerpt: "Tech and other executives say the EU's AI Act stifles competition during a critical time of technological development."
     publishedDateTime: 2023-06-30T17:34:00Z
@@ -54,31 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How computers and artificial intelligence evolve together"
-    excerpt: "Co-design, that is, designing software and hardware simultaneously, is one way of attempting to meet the computing-power needs of today's artificial intelligence applications. Compilers, which translate instructions from one representation to another,"
-    publishedDateTime: 2023-06-30T17:15:00Z
-    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-computers-and-arti.jpg"
-        width: 660
-        height: 441
-        isCached: true
-  - title: "AI Will Help Crypto Get To The Next Level"
-    excerpt: "AI is not a cure-all for the ills of the crypto space, but there are some ways that AI-based tools can – and will – improve the understandability, transparency, and comfort with which firms and investors can utilize crypto where effective."
-    publishedDateTime: 2023-07-02T12:39:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/07/02/ai-will-help-crypto-get-to-the-next-level/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "iImH8cad9xnrBywTaYI6Wwdhh3RIA+WZ2lhEpu188QT8bMs3wSdxf6WV/WGcauy0LvwKAThaZciEKG3NZ+homfDyAoPd3wHXiwB0CBuLZIuVW1WVV3uWtvyJ/F5vL9zvMv2zSjUAQo4R/tTbzI5hnlThpkej08sXMBwFeHqQBfYxqm9Ca9gd9JKf+bn9J1oMnUKJSvpzD0sd6urzxB/P04D75ltKryW+ePR4CYzlXDOcBCLHPQ7QcMiLp+q4HW7+DbkSqblq+ms1zYJ8f4N1kbudJTE2Ih0Pz+5zIWa4rn8sroJQS9IIhMPGSCSMewEsSpjFUWbGLn/wt6XFCjFAjaWCRsWlhoXKw8RSVgZe5tQ=;BnDkALCMFZs7Do2iLQWMsQ=="
 ---

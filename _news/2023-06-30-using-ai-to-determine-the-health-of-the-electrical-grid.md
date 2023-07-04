@@ -22,31 +22,22 @@ topics:
   - AI
 
 related:
-  - title: "How weaponizing AI could alter the outcomes of elections"
-    excerpt: "Mike Hamilton, co-founder of cybersecurity firm Critical Insight, says there are currently no guardrails against AI’s power to surgically target voters for disinformation. He hopes that it could also be applied to detecting fraud."
-    publishedDateTime: 2023-06-29T09:48:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/"
+  - title: "How the Federal Government Is Using Artificial Intelligence So Far"
+    excerpt: "Agencies should leverage foundational artificial intelligence models being crowdsourced by top universities and large tech companies so that they’re not starting from scratch as they embrace the technology. Open source paved the way for crowdsourced AI ..."
+    publishedDateTime: 2023-07-03T20:07:00Z
+    webUrl: "https://fedtechmagazine.com/article/2023/07/how-federal-government-using-artificial-intelligence-so-far"
+    ampWebUrl: "https://fedtechmagazine.com/article/2023/07/how-federal-government-using-artificial-intelligence-so-far?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2023/07/how-federal-government-using-artificial-intelligence-so-far?amp"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
+      name: https//fedtechmagazine.com
+      domain: fedtechmagazine.com
     quality: 59
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/06/GettyImages-1448697510.jpg?fit=740%2C416"
-        width: 740
-        height: 416
+      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1503223319.jpg?itok=VdkQvFd2"
+        width: 1440
+        height: 500
         isCached: true
-  - title: "How artificial intelligence is dividing the world of work"
-    excerpt: "Many employees fear the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-AI stance."
-    publishedDateTime: 2023-06-30T00:01:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/06/30/how-artificial-intelligence-is-dividing-the-world-of-work/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "43JaCHv+qnSZgwJmEmsSTPgPkVdx7AmSx8RlbYOYcJCrKFgwUfNK38dXVPDpp3RUCx15QYMWrnZ4xdl4gNEjxPE1xZ58hNSFltGlsPtnaxlFOVg9qAa7DJ9H45gRympwQyggr+pIdbIFinPUeNebnOy+6+LCbQjbVTWhtq+fIC6QyT9Jb1GNVgABipiLue1+bPuA8AsOBeTNgBkTBnElrG4O6GCGYVIY9A0nMHSVbAnFi0RGxzYeQ6P64oXQerAv8/It2ANW+RQgnaApmcdGDKJnf9ldhX/qZo8572ITo555pMqc1Gmib7UrhTssSVZ0bSaY/UblWNTUjDOhCA8PHSj8GQZaqsdieQ3Id6/uiHwdYq2CMSgkg2bHkhA65B03+EhnMSrTFDhe0gQZGixshGNnIw5S++VySPsMLpnCewHIqutq6wWQGw/uNjfYBWIzUk3QpuZEYCtawAgypr1RV0lhcYXSEya9X4OBd+qVEH9fTX/UVny9lbpT1m/Qw0iOnRXmq55oH6VYbgpYV1ExGA==;+QNk3YnXJWhfV2ySFaYzIw=="
 ---

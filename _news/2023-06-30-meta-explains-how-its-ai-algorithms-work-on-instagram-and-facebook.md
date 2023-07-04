@@ -43,22 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How AI Influences What You See on Facebook and Instagram"
-    excerpt: "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content."
-    publishedDateTime: 2023-06-29T10:00:00Z
-    webUrl: "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/"
-    ampWebUrl: "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/"
-    type: article
-    provider:
-      name: about.fb
-      domain: fb.com
-    quality: 59
-    images:
-      - url: "https://about.fb.com/wp-content/uploads/2023/06/Content-Recommendations-Policy-Updates-NC_Header.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta Addresses AI Transparency Concerns on Facebook, Instagram with New Tools, Disclosures"
     excerpt: "The Mark Zuckerberg-owned company also targets releasing its Content Library and API, a collection of research tools, soon."
     publishedDateTime: 2023-06-29T17:03:00Z

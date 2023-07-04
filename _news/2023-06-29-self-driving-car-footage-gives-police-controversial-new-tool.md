@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Police Turns to Self-Driving Companies Waymo, Cruise for Video Footage"
+    excerpt: "There has been an increase in incidents where police are turning to companies like Waymo and Cruise for video footage. Learn more."
+    publishedDateTime: 2023-07-04T02:08:00Z
+    webUrl: "https://www.techtimes.com/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430881/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Self-Driving Cars Are Like Surveillance Cameras On Wheels For Police"
     excerpt: "Authorities are serving self-driving companies with warrants for hours of footage of private citizens in an effort to solve crimes"
     publishedDateTime: 2023-06-30T23:11:00Z
@@ -41,24 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Self-driving car project flourishes on Iron Range"
-    excerpt: "But the ice and snow that come with the Iron Range's harsh winters can be unforgiving, so she's thrilled with a new self-driving vehicle program serving the region. It has given about 2,000 rides since it launched last fall."
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.startribune.com/self-driving-car-iron-range-grand-rapids/600286553/"
-    type: article
-    provider:
-      name: Star Tribune
-      domain: startribune.com
-    quality: 4
-  - title: "Uae Approves First Licence For Self-Driving Cars"
-    excerpt: "The UAE has approved the first national licence of its kind for self-driving vehicles to run on the country's roads. His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Prime Minister of the UAE and Ruler of Dubai,"
-    publishedDateTime: 2023-07-03T19:14:00Z
-    webUrl: "https://menafn.com/1106548813/Uae-Approves-First-Licence-For-Self-Driving-Cars"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "lj5WDmsiBuGEVY/xEpgvg7XXZnIjTp9PdSF6/uozJPHzXtyxpRZcETIN2GPLAEiNgHG0hJOloktOmmU8qgfyUaWxwQ97QaXy5OYLnbO5skIuL5rhvSXs0yIc3Qt4si6qrP6OcMHTgeoIYkf+Yedbc45ZABCKy8rENjBBGbt1/HBNgYpDGdkyavFcBpfUFUJgXLMkHIkMIyxpyymBz1oBQhfu22jsoVv1neWEDtW9sAjq24vTVyxSA4KF0+FBlu90z8rcqgi3p8Dii4jO4CJA0Wq29TswZPPibqqYaNJ9gI4Nt3osOzn80jgdYjaXujdb/a3kcFiyFsKw+IObyC6SIJyVETj4UAFZ6VFrxPxcjhY=;WNxWxNV9QnOWGQ9xX/67FA=="
 ---

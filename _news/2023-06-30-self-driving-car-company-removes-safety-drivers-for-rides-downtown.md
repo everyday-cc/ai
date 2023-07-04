@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Self-driving car project flourishes on Iron Range"
+    excerpt: "But the ice and snow that come with the Iron Range's harsh winters can be unforgiving, so she's thrilled with a new self-driving vehicle program serving the region. It has given about 2,000 rides since it launched last fall."
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.startribune.com/self-driving-car-iron-range-grand-rapids/600286553/"
+    type: article
+    provider:
+      name: Star Tribune
+      domain: startribune.com
+    quality: 4
   - title: "UAE approves first license for self-driving vehicles"
     excerpt: "The license was granted to WeRide company, Sheikh Mohammed said UAE approves first license for self-driving vehicles Abu Dhabi, Autonomous vehicles, Dubai, Self-driving vehicles, Sheikh Mohammed bin Rashid Al Maktoum,"
     publishedDateTime: 2023-07-03T13:18:00Z

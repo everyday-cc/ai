@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1057
     height: 732
     isCached: true
+
+related:
+  - title: "How People And Image-Generating AI Can Work Together In Business"
+    excerpt: "There are a few tips and strategies companies can use to work with AI tools and make the most of their creative teams."
+    publishedDateTime: 2023-07-03T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&width=1200"
+        width: 855
+        height: 570
+        isCached: true
 
 secured: "qsnmZ1Zpx3K8bfmgYSloC6+H1MZI/ZZUHL9xo15DbCabxqXQwzH9z5k4c8m35ek4NifWcdkQxAmmKgwl6FZi5Lkuqyr06I9Z1VnRBvpdxEAKZoYV0fUN+PSI1N4L6333e2RvaRBIVPnpo3Z5t1BXfcimK+/DTUm9xPmvObutKrAwFe/1n2AijXRSRimeAi1wm0xCJRaNXui3UE1n1HaFim/0UF8J8ueyWjFzAKtdmmKpM9ihkBKVhLaVXO16Ih2syUccquXifLC8GBWbb567Qn/esXiMLIqzkju58Oe7M/9icMYjPPdS+vCOzSFBF4t+EFfAIos86uSGt2MTPqnTa576BD6ZFnGMUjFgDEiQz+s=;8H4FVnTXxbc2XO2pp1lpIA=="
 ---

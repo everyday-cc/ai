@@ -58,6 +58,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Generative AI vs. Machine Learning"
+    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
+    publishedDateTime: 2023-06-29T23:49:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Valve raises concerns about legality of AI in game development"
     excerpt: "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright."
     publishedDateTime: 2023-07-04T00:15:00Z
@@ -71,6 +85,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/09/steam-library-update-2.png?fit=750%2C422&#038;strip=all"
         width: 750
         height: 422
+        isCached: true
+  - title: "UK universities draw up guiding principles on generative AI"
+    excerpt: "All 24 Russell Group universities have reviewed their academic conduct policies and guidance"
+    publishedDateTime: 2023-07-03T22:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/2262d025d62fc86ce6110675d04b5ea19681c7e5/0_225_6758_4055/master/6758.jpg?width=620&quality=85&auto=format&fit=max&s=959be29164eacf1dcdcc024d0b54aee6"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "VyYFuwLCgrn8mycIq2yHY6fyJ6VYQBRyQKCY/iYfPmkSrI1qBnMWjCxaQVpYxBvY8aHnNQz+liGB/mRNnek7U1s6hdisjqU6919YdTFlJga33qZQh8I1IbldWbLA8ZLFKOH1IjohZ/OE4zmeY3G5hOKNEJrzokpMyled0bTeucjYFZ3dFO4MUTxkz1jXBxto0Wqa+0A5oqYUKe46iTK7355rlszr+udVQL/42P64Vt7bXq/b6scRSaPoPXjL8Lga7p5jDkdUGoDL36bg3NjB2aS4lloug1fLJROeTcpizmGsuCnOuBpvm2sK6QCffEGX3lKRqzYxOLteU5kKk53q5BLXr1JCx1uFJ/gEMoISUcNpSpb5rxIc0FAvRVJyNgvAL7KkDzuvNDwg3qW2tMPFGCbQuPt7Ty0hxgdCx7ZcseiIKCF1bAGpHs3cph7uJuYT7OY5Zr9oy04+tGZvCA4re0L9QMjTx1s/k1pGNqlvmYh3oG03C/riLV0Z637YOT26S2adZTkr4b9pSw375c6h1A==;JdTGzpdG+PHpPlgR+OxTEg=="

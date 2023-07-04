@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedd
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry/amp/"
 type: article
 quality: 102
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "AI Industrial Robotics - D-A-CH"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$0.60bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.98%, resulting in a market volume of US$1 ..."
+    publishedDateTime: 2023-06-29T17:49:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/d-a-ch"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI and the future of work: A collaboration of humans and machines"
     excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
     publishedDateTime: 2023-07-02T04:27:00Z

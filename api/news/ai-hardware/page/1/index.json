@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-03-eu-to-work-with-japan-on-ai-and-chip-supply-chain.md",
+      "title": "EU to Work with Japan on AI and Chip Supply Chain",
+      "excerpt": "The European Union (EU) is set to work with Japan in a bid to boost its Artificial Intelligence (AI) and chip supply chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/",
+      "originalUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/07/eu-japan-ai-chip.jpg",
+          "width": 1170,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/eu-japan-ai-chip/amp/",
+      "publishedDateTime": "2023-07-03T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-the-us-weighs-a-chip-ban-for-china-and-more-rate-hikes-appear-to-be-in-the-cards-forbes-ai-newsletter-july-1st.md",
       "title": "The U.S. Weighs A Chip Ban For China And More Rate Hikes Appear To Be In The Cards - Forbes AI Newsletter July 1st",
       "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -168,7 +211,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1439,58 +1482,6 @@
         "name": "techxplore",
         "domain": "techxplore.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-googles-duet-ai-can-generate-custom-templates-in-sheets.md",
-      "title": "Google's Duet AI can generate custom templates in Sheets",
-      "excerpt": "Google has been quickly expanding the AI's toolset since it announced Duet for Workspace at its I/O conference last month. When testers enter a prompt in the web version of Docs, Duet can generate text for them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
-      "originalUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/0vANP293s5E52OlDZP5u5A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-12/07bfc550-71ae-11ed-8feb-d9a461d9371d.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
-      "publishedDateTime": "2023-06-22T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

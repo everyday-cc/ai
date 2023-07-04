@@ -28,6 +28,15 @@ related:
       name: Las Vegas Review-Journal
       domain: reviewjournal.com
     quality: 4
+  - title: "Self-driving car project flourishes on Iron Range"
+    excerpt: "But the ice and snow that come with the Iron Range's harsh winters can be unforgiving, so she's thrilled with a new self-driving vehicle program serving the region. It has given about 2,000 rides since it launched last fall."
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.startribune.com/self-driving-car-iron-range-grand-rapids/600286553/"
+    type: article
+    provider:
+      name: Star Tribune
+      domain: startribune.com
+    quality: 4
 
 secured: "YU87S7amY9Mfzj9E9rC+BnQzC5sHg6YnVfJjdSe4t4bKWfE7IpUibbkRciK8f5Gv2BqchPX6J/ph3O5iXlfzhreaWHFIeSoBpFqDEasrBAG1yugQ18QlhPIjEYrFhVvjW8/4coQ932T4Lx1W5VcbP12UINHTE75uC1YjJzZBZR8VxuXYvrXCbqz72CdxkmYZsqLFZ2hRfGBDOdNoCXxUIwe9Kg9UASc7y4NO6NKIWSb9ilB7Beu2BjpgxCb586TxJPLnOpomEpUPCxJWIXnd6uEr0W4sGw/J7h2qGigpcXHtK+qx7Gg/Udl1bRa096b6h6evy5ZKFvp6AXqUu+rN1zIIrdwo3Ouax4xd6LeYv7Ta6kB/agncnixWnVCgHuXHM5UOiyA45ywyFtlb0Ml+mh7zfU9KrystQaaFWVzsOsJXx5A7d6sxdvqskg+2lFhl7mhLXBOFmetqIhcEK7VXM+4lwJ4hpVaKnyD5Pxywv2fswydOiIVLT+8jG6EHmkkR9E5s+4Qb8NUZsc3LMMkLog==;9T0nxQh64YtE4xUHaV3bUA=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-03-automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study.md",
+      "title": "Automated deep learning AI tool with CT imaging facilitates screening for enlarged spleen: Study",
+      "excerpt": "USA: A research team from the US has derived a weight-based volumetric threshold for splenomegaly (spleen enlargement) using an automated AI-based tool. In their study published in the American Journal of Roentgenology,",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "originalUrl": "https://medicaldialogues.in/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2023/07/01/213288-splenomegaly.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "publishedDateTime": "2023-07-03T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws.md",
       "title": "Auto-labeling module for deep learning-based Advanced Driver Assistance Systems on AWS",
       "excerpt": "In computer vision (CV), adding tags to identify objects of interest or bounding boxes to locate the objects is called labeling. It’s one of the prerequisite tasks to prepare training data to train a deep learning model. Hundreds of thousands of work hours are spent generating high-quality labels from",
@@ -63,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -104,50 +147,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation.md",
-      "title": "AI and machine learning revolutionizing the lending landscape: Trends and innovation",
-      "excerpt": "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg",
-          "width": 1706,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "publishedDateTime": "2023-07-02T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -307,6 +306,58 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-4-vcs-illustrate-why-theres-good-reason-to-be-optimistic-about-the-machine-learning-startup-market.md",
+      "title": "4 VCs illustrate why there’s good reason to be optimistic about the machine learning startup market",
+      "excerpt": "When you talk about investments in artificial intelligence startups versus machine learning startups, it’s important to distinguish “AI” from “machine learning.” Those phrases are often ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/",
+      "originalUrl": "https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/machine-learning-survey.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1321,41 +1372,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-machine-learning-helps-researchers-identify-hit-songs-with-97-accuracy.md",
-      "title": "Machine learning helps researchers identify hit songs with 97% accuracy",
-      "excerpt": "They also applied machine learning to the neural responses to the first minute of the songs. In this case, hits were correctly identified with a success rate of 82%. “This means that streaming services ... of any commercial or financial relationships ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/992481",
-      "originalUrl": "https://www.eurekalert.org/news-releases/992481",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

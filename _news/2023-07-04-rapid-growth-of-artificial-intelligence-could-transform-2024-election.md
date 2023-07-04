@@ -40,6 +40,31 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Catalyzing transformation: Augmenting human intelligence with AI"
+    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Mumbai brought together visionaries, experts and technology enthusiasts under one roof to explore the frontiers of artificial intelligence through keynotes,"
+    publishedDateTime: 2023-06-29T11:46:00Z
+    webUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai-11688038146836.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2019/01/30/600x338/HTBS-leadImage-Feb2018-FB-v2_1548835753634.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "The Transform AI Survey: Help discover the state of generative AI"
+    excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
+    publishedDateTime: 2023-06-29T13:11:00Z
+    webUrl: "https://venturebeat.com/ai/the-transform-ai-survey-help-discover-the-state-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "How AI can help prevent gun violence"
     excerpt: "A museum in Florida is using AI to try to detect guns and identify possible shooters as quickly as possible. Manuel Bojorquez takes a look at the technology."
     publishedDateTime: 2023-07-02T23:51:00Z
@@ -55,6 +80,6 @@ related:
         height: 630
         isCached: true
 
-secured: "InA4zNEJLYKm3tIStwAPgC6U6/xqlzOrQ+Xeh+8E1YX72o4nsVfRMOcKo6Y9zey36OiVC3m5eXuum640gAAtz7ReenfJnXf57YeNoHOm4OJc5w8+VS6iLxSuon9uL6gz38V49yK76YhjkHt3pSwR/h1uhkGmwZkGOetNKIvheh9tXKVi+3GSToh3nbd5vfK2CCWjikXlgFMW+BjKyWDj0X9rd49egQqUJ0ct+xK7Ard8Ory5OqL5yJq/pTEMj7wCprUAkRFJzMaFs8h0y/t0px+E5o58uAuYByRDb1Yh52iYzD6EYJbSRctEQQieGNHvWk7UjbZD9CNw7V7n+KiQz/5jHo2KFCsAxhk5hVfle9c=;maOyMryJYV36cPk7OFbdAg=="
+secured: "lwgR3r0E4PCsNQ4O68P6tRywCa8N6CxKbROf9IztkqLVKe6Cv08XUT1sYy0xu03Of41LTrJADLaoI2xQ5SJi72njoKgQ3N9BkUpQN0wmvjhIRWYEADJ7Eyy+e1TbTS1kG2pIpU1OcQu7uNSfTXUFit2PJs5uLOMy6sswx8MD/dRHa6KHZmK9iEjK1xHoh6ZNy9WpUhC3HkDVpRhL+lLUaS+GcCY42qp+gci9Xp7bEOs+5+5ygW4qmYeXuHKnDxS2nHIdAfiNc4IVXytf1b10f0qNAD+qJJFEFuWk2ojLR6KSAcWdc+PAgDK34GjTT3+5f9FGX7aq88pQCP681ELM2O5a45de0O+ZZV4ditxP/2MRJcXKqwji22HVR8QWzJGO4vSF2IbTabZ9aNQD8gGUlJ0yON0jsc6FqXyW6UB0kylqEYVbVI3pKzEYilBwdLPUxdS1XNKkotmpmao+8HaGvZFif2xfYHBMKBVXmHU6f/YFP43aKem7M3jeUuxyJ/cVArxM3k0c3AUN9eKeD01mBg==;BraiZdmHRDND+WXbnWAk9Q=="
 ---
 

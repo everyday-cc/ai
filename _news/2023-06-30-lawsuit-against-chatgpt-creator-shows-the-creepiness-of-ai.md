@@ -56,6 +56,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
+    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
   - title: "These four AI technologies could be the next ChatGPT"
     excerpt: "The rapid acceptance of ChatGPT leaves us with a lingering question: what’s next? Here are four AI technologies that hold promise."
     publishedDateTime: 2023-07-03T23:38:00Z

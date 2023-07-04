@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/06/self-driving-cars-are-like-surveil
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/self-driving-cars-are-like-surveillance-cameras-on-wheels-for-police/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Police Turns to Self-Driving Companies Waymo, Cruise for Video Footage"
+    excerpt: "There has been an increase in incidents where police are turning to companies like Waymo and Cruise for video footage. Learn more."
+    publishedDateTime: 2023-07-04T02:08:00Z
+    webUrl: "https://www.techtimes.com/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430881/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Self-Driving Car Footage Gives Police Controversial New Tool"
     excerpt: "As self-driving cars become a fixture in major American cities like San Francisco, Phoenix and Los Angeles, police are increasingly relying on their camera recordings to try to solve cases."
     publishedDateTime: 2023-06-29T14:00:00Z
@@ -41,24 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Self-driving car project flourishes on Iron Range"
-    excerpt: "But the ice and snow that come with the Iron Range's harsh winters can be unforgiving, so she's thrilled with a new self-driving vehicle program serving the region. It has given about 2,000 rides since it launched last fall."
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.startribune.com/self-driving-car-iron-range-grand-rapids/600286553/"
-    type: article
-    provider:
-      name: Star Tribune
-      domain: startribune.com
-    quality: 4
-  - title: "Uae Approves First Licence For Self-Driving Cars"
-    excerpt: "The UAE has approved the first national licence of its kind for self-driving vehicles to run on the country's roads. His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Prime Minister of the UAE and Ruler of Dubai,"
-    publishedDateTime: 2023-07-03T19:14:00Z
-    webUrl: "https://menafn.com/1106548813/Uae-Approves-First-Licence-For-Self-Driving-Cars"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "K301j7QgSprClS5d+OecmUpNm1+HykmlWOTeNklQsIyNQF8w7J97t39hpifbizkNKjNttrrJWcTVbQydSqBLyLS/rgL4gRkQJQdHTWMHRTrm95gaWaA6nEDJd+bA5f+MAf1Fn2FPTDt0qEIb+b7DIDg7Ryouw3zIvC2lJwu6utGdzOqQv3pEOSwyXGLTg+CckTL1OeEmiOT+kDCkGN1Bc8rH0QRs4ne41QrFWWgnewiSrw7rKj0r+f+BC2ODmBjVcjBMeMDf+JzysF62Vj8+FnTm0ALiefAdR863/XmIVZtmUZ5crNfQrPc360zbpORq7dO3GjAugxmoH5NXPxAQkkXZ8PLEpLWFvhDjMeGT/C8vJpjeYbb9j0MGbWkjySIZILKQ57jrmMagfhSBBVC3JN+54fQA0Yf6re7AKI5Ni1Yr7jJrR8t5fyUJHm9NJ31M+4eiOsuV8kt45rHRN76Lrd5IP2ONCFLWxusZA10nFgVDnb5ZVymkNDUS7fEd12zU8J6kHBk1Q9pu5eFh7V+FDg==;cQdh3DJkVeok4fRQ5omOpg=="
 ---

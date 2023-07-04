@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Cyber security’s biggest challenge isn’t AI – it’s the awareness gap"
-    excerpt: "In November 2022, ChatGPT – the artificial intelligence chatbot that can create human-like text based on a prompt – was launched by OpenAI. Already, scam and phishing attempts that were once revealed by bad grammar and clunky sentences are now being replaced by more convincing versions thanks to the sophisticated phrasing and intelligent technology behind this new chatbot."
-    publishedDateTime: 2023-07-03T07:00:00Z
-    webUrl: "https://www.ft.com/partnercontent/cisco/cyber-securitys-biggest-challenge-isnt-ai-its-the-awareness-gap.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/partnercontent/images/cisco/1/hero.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "ruITmSoQ+K3VAlGliGfnIGQfNf1dQG1O1gJJc00tNbx2A+ItzqED7gj+gMr/F8uA7TJ5DocxqXfXKiDComCbihnghU7nPK1JYxwo3FL/rwNraC6Tqc2IjrC725+KW7iDmQHhc7uJ+hh7hPUVyW+lZKo5NV5S9/jGGX/Mm213KNHT4+4CKaaiL8L9JWscAJW8xQdMnlzMPmeFlnMyGBKvUB+/pXp7pGSIkRXWcJAqv2ZHVBl8k++q+7GGCokAzsi5H691ElJ8Z0jbIWNr/cPXXXSu0JfDPNk1UoW5/zUyrIZBH7LxWdxDfkBXxf1iGdorH1GxV6jUoSYyOYT9HI19bympNNd6B7FZsVIVt5D97xy2GVd+41xz7et+SKsCvPj8caLbHeInRjzdJsVH+fpmpIsgtMsFRtOoecwr9v5tswpf2xioGxQxRrq7eAyHaqgLQVWSdFcj7JHU4oI7fhqf5wKQxAtCTEyzM9+dg+mL7nmqj7Lk1Oi2gNRfOMjBPi39uIaa6ljhXpjIvWOrjjHRuw==;uJ4+LUxEvrZm2XBjVpGS5A=="
 ---
