@@ -9,8 +9,8 @@ ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chat
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
 type: article
 quality: 74
-heat: 204
-published: true
+heat: -1
+published: false
 
 provider:
   name: Philippine Daily Inquirer
@@ -27,181 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI Opens Office in London, Home Base of Google's DeepMind"
-    excerpt: "Altman, CEO of ChatGPT developer OpenAI, said that they see this expansion as an opportunity to attract world-class talent and drive innovation in AGI development and policy."
-    publishedDateTime: 2023-06-29T06:18:00Z
-    webUrl: "https://www.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
-    ampWebUrl: "https://amp.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
+  - title: "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week"
+    excerpt: "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here."
+    publishedDateTime: 2023-07-01T11:33:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33088892"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 74
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 81
     images:
-      - url: "https://data.ibtimes.sg/en/full/64831/openai-microsoft.png"
-        width: 1093
-        height: 400
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop"
+        width: 626
+        height: 417
         isCached: true
-  - title: "Google’s DeepMind Unveils Its Powerful New AI, Gemini"
-    excerpt: "Discover Google's DeepMind new AI project, Gemini, a cutting-edge system aiming to rival OpenAI's ChatGPT. By blending AlphaGo's strategic capabilities with advanced language processing, Gemini seeks to redefine AI technology."
-    publishedDateTime: 2023-06-29T22:37:00Z
-    webUrl: "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/"
-    ampWebUrl: "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp"
+  - title: "Microsoft enhances Bing Chat by introducing GPT-4-powered image recognition feature"
+    excerpt: "Microsoft has recently introduced a major feature to Bing Chat for desktops. The company has started testing an image recognition system powered by OpenAI's"
+    publishedDateTime: 2023-06-29T15:04:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-enhances-bing-chat-by-introducing-gpt-4-powered-image-recognition-feature/"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 74
+      name: On MSFT
+      domain: onmsft.com
+    quality: 35
     images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/06/possessed-photography-JjGXjESMxOY-unsplash-scaled.jpg"
-        width: 2560
-        height: 2263
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Bing-Chat-in-general-availability.jpg"
+        width: 1024
+        height: 765
         isCached: true
-  - title: "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials"
-    excerpt: "Ever since ChatGPT went viral last fall, companies have touted many ways artificial intelligence can make our lives easier. They’ve promised superhuman virtual assistants, tutors, lawyers and doctors."
-    publishedDateTime: 2023-06-30T12:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-30/artificial-intelligence-startup-looks-to-develop-climate-friendly-materials"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 63
-  - title: "SKT sprinkles ChatGPT over AI chatbot"
-    excerpt: "SK Telecom upgraded its A. chatbot with new features it pledged deliver a smarter conversational AI, including ChatGPT elements."
-    publishedDateTime: 2023-07-03T10:53:00Z
-    webUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/"
-    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/05/MWL_SKT_AI_Service_A_650.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
-    excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
-    publishedDateTime: 2023-06-29T22:22:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/openai-chatgpt-generative-ai-lawsuit-rcna91892"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 57
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
-  - title: "AI recap this month: Drone 'kills' operator; DeepMind's speed up"
-    excerpt: "Research into AI is experiencing a boom, so we have rounded up the best of news from the past month to help you keep up to date"
-    publishedDateTime: 2023-06-29T09:32:00Z
-    webUrl: "https://www.newscientist.com/article/2379559-ai-recap-this-month-drone-kills-operator-deepminds-speed-up/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27154959/SEI_161948063.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Google DeepMind Will Eclipse OpenAI"
-    excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-will-eclipse-openai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Will-Eclipse-OpenAI_.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
-    excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."
-    publishedDateTime: 2023-06-30T15:09:00Z
-    webUrl: "https://www.canadianmanufacturing.com/Y0iqA"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 54
-    images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
-        width: 300
-        height: 600
-        isCached: true
-  - title: "DeepMind alum wants to use AI to speed the development of green materials"
-    excerpt: "For the same idea to work in chemistry, an AI system would need to predict how a new molecule would behave, not just in a lab but in the real world."
-    publishedDateTime: 2023-07-03T02:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 53
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/02/2155848.JPG"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
-    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
-  - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
-    excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
-    publishedDateTime: 2023-07-01T15:03:00Z
-    webUrl: "https://bgr.com/tech/clippy-is-back-as-a-chatgpt-powered-ai-assistant-for-windows-11/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
-    excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
-    publishedDateTime: 2023-06-30T21:02:00Z
-    webUrl: "https://bgr.com/tech/heres-why-google-thinks-its-gemini-ai-will-surpass-chatgpt/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Gemini.jpg?quality=82&strip=all"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Here’s Why Google DeepMind’s Gemini Algorithm Could Be Next-Level AI"
-    excerpt: "Google DeepMind's CEO, Demis Hassabis, says their Gemini algorithm will use reinforcement learning to take AI beyond GPT-4."
-    publishedDateTime: 2023-07-02T18:11:00Z
-    webUrl: "https://singularityhub.com/2023/07/02/heres-why-google-deepminds-gemini-algorithm-could-be-next-level-ai/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 34
 
 secured: "12JPeqZwvRwXOVXQN1qIsWntIOp9vRYdTFvJJvk5kJIOTStOSHtSwPOEkUVexoVjMg+CAhV5DI/jnIhSbRIYbA1pfUI7R5huYM9U8y2TrsT4XY/CXSk9j1Dy9RazOH5YTgVWVomuxiEv5nyWfWrFs4NoSKXIzExGNvDmCnC7NgyTAd63FJlEuQSqKRuEeZYa9Os1HW/fmIjAJGs5oDG3nMLp5gwpiRrfCzH8K7DV1HTakzc639+UNbkg2l5ex4bGOQwGQOKZOBs8M09Pcv+JfZgrC6/8fKNIvrTKt68Dnp8Lfq2Pw0OV+a43yfTIHe9cYDqJ1SVxWx+jKqiVGrWijZTMINNbv0PWfIoi1vP3TSsiwuLDYStA14Kv2RFUsRKR/B0xVpOzQzx0SOrIdubY+Z3MvbNc7B82sboZOzS77DnpzDAS3apybcnuxi9sREFytlGTtJFd1m+tWpPd6j/FD6br7OnhnMbWIANjm3RFEXJ7ZezdBrO1R765TB3WxVJvD7SWSAolI0F38C6i212BWw==;hSp/oIuagn7uoTdat2Haxg=="
 ---

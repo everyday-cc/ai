@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 812
         isCached: true
-  - title: "The Vatican issues handbook to navigate AI ethics in the ChatGPT era"
-    excerpt: "Amid the call to regulate and create guardrails against the misuse of artificial intelligence (AI), The Vatican has now issued its own handbook for navigating the ethics of AI technology in the ChatGPT era."
-    publishedDateTime: 2023-06-29T06:32:00Z
-    webUrl: "https://www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/articleshow/101360880.cms"
-    ampWebUrl: "https://www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/amp_articleshow/101360880.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/amp_articleshow/101360880.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 74
-    images:
-      - url: "https://www.businessinsider.in/thumb/101360974.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "AI Driving New VR/AR Applications in Education, Business"
     excerpt: "Artificial intelligence helps create user formats for some virtual-reality education programs such as those created by VictoryXR, which allow teachers to safely transport students beyond the walls of their classrooms."
     publishedDateTime: 2023-07-03T19:12:00Z

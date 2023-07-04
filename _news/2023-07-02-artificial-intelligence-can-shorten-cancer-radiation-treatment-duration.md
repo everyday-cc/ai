@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-r
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Unlocks Prostate Cancer Treatment Benefits"
+    excerpt: "Data from a new study published in NEJM Evidence shows promise for personalized use of short-term ADT in men with predominantly intermediate-risk prostate cancer. The study involved ArteraAI,"
+    publishedDateTime: 2023-07-03T03:46:00Z
+    webUrl: "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    ampWebUrl: "https://medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 59
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2023/07/03/213394-new-study-validates-the-first-ever-predictive-ai-biomarker-of-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "Democratization of information with AI: Empowering innovation & inclusion"
     excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Gurugram brought industry leaders together to learn and brainstorm to accelerate innovation, drive inclusion and enhance accessibility with Artificial Intelligence."
     publishedDateTime: 2023-06-29T11:14:00Z

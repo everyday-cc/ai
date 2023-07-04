@@ -19,38 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "How AI Is Transforming The Leadership Landscape In The 21st Century"
-    excerpt: "I believe we stand at the threshold of a new era: the AI-powered leadership revolution that promises to redefine the way we work, live and communicate."
-    publishedDateTime: 2023-07-03T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
+  - title: "How weaponizing AI could alter the outcomes of elections"
+    excerpt: "Mike Hamilton, co-founder of cybersecurity firm Critical Insight, says there are currently no guardrails against AI’s power to surgically target voters for disinformation. He hopes that it could also be applied to detecting fraud."
+    publishedDateTime: 2023-06-29T09:48:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 59
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/06/GettyImages-1448697510.jpg?fit=740%2C416"
+        width: 740
+        height: 416
+        isCached: true
+  - title: "Using AI To Determine The Health Of The Electrical Grid"
+    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
+    publishedDateTime: 2023-06-29T18:21:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649ee304e60ed64f9d324232/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
-    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
-    publishedDateTime: 2023-07-02T09:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
-        width: 1706
-        height: 2560
-        isCached: true
+    quality: 47
 
 secured: "YDmg5an/gMksvCdCMtJSrmDGYbWAyNia1U3FfJoWLqVaNMcrYiKpFGA+shsc17dRQTxOGfBUyJB16GRYrjdSkaP926C5ufMnAaPzaFlL7nHWevuotRc3CXjzqpQ59l2q6frjSHwriusqrlY3skjmqJQiqvjGeDa/j9HzP8tCZW5QvmeoxgdqHjk9GXlez8mJIIFNRhxCZS1uBwVhYFEBPEUn2Al2BuGP6tLx7QANvCzAvqrjlzmfpEEaFHZk6gYpuhFEilldInyW/w5sZ/ZxHolCn8phL4XmYsqsz9SGKGgQiGy5k/hDhLRVWoa9jYPW+Yw/d8pPK46ANQEpN93DdgQH/HeTunwEtxv3/pLoauU=;RbpFLgLZ3IbimcKh32M/Bg=="
 ---

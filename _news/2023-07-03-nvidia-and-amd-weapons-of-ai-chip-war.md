@@ -6,9 +6,9 @@ publishedDateTime: 2023-07-03T12:26:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 86
+heat: 246
+published: true
 
 provider:
   name: Business Insider
@@ -22,6 +22,12 @@ topics:
   - AI Hardware
   - AI
   - Facebook AI
+
+images:
+  - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/larx-kla-amat.jpg?utm_source=markets.businessinsider.com&utm_medium=referral"
+    width: 995
+    height: 716
+    isCached: true
 
 related:
   - title: "AMD's AI chips could match Nvidia's offerings, software firm says"
@@ -52,22 +58,6 @@ related:
         width: 2000
         height: 1231
         isCached: true
-  - title: "Nvidia dips on report U.S. considering new A.I. chip export restrictions for China"
-    excerpt: "The federal government is weighing further restrictions on exporting powerful computing chips to China, the kind that power AI models, The Wall Street Journal reported. The restrictions would ..."
-    publishedDateTime: 2023-06-29T05:39:00Z
-    webUrl: "https://www.cnbc.com/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 83
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107161191-1670264480854-gettyimages-1245381984-US-EU_TRADE_COUNCIL.jpeg?v=1687955882"
-        width: 5561
-        height: 3708
-        isCached: true
   - title: "Nvidia warns tighter AI chip export restrictions to China risk permanent US industry losses"
     excerpt: "Nvidia's share price took a tumble yesterday following a report that the US government is considering tightening its export controls on AI chips to China as"
     publishedDateTime: 2023-06-29T14:34:00Z
@@ -96,6 +86,29 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "AI Video Startup Runway Raises $141 Million From Google, Nvidia"
+    excerpt: "Runway AI Inc., whose artificial intelligence software can create a short video from just a few typed words, has raised $141 million in funding from Alphabet Inc.’s Google, Nvidia Corp., Salesforce Inc. and other investors."
+    publishedDateTime: 2023-06-29T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-video-startup-runway-raises-141-million-from-google-nvidia"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBBcycoPcKg/v0/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Microsoft-backed AI startup Inflection raises $1.3 bln from Nvidia and others"
+    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
+    publishedDateTime: 2023-06-29T16:26:00Z
+    webUrl: "https://www.reuters.com/article/inflection-ai-funding/update-3-microsoft-backed-ai-startup-inflection-raises-1-3-bln-from-nvidia-and-others-idUSL4N38L2U7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 61
   - title: "US plans new AI chip export controls aimed at Nvidia"
     excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
     publishedDateTime: 2023-06-29T09:26:00Z
@@ -170,6 +183,15 @@ related:
       name: Financial Tribune
       domain: financialtribune.com
     quality: 34
+  - title: "Microsoft-backed AI startup Inflection raises US$1.3 billion from Nvidia and others"
+    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday (Jun 29) it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
+    publishedDateTime: 2023-06-29T19:08:00Z
+    webUrl: "https://www.channelnewsasia.com/business/microsoft-backed-ai-startup-inflection-raises-us13-billion-nvidia-and-others-3595251"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 28
   - title: "Nvidia acquires OmniML for AI Edge workloads"
     excerpt: "AI is so big today that Edge devices aren’t equipped to handle its computational power,” OmniML co-founder and CEO Di Wu said when the company raised $10 million last year."
     publishedDateTime: 2023-07-03T12:17:00Z
@@ -179,6 +201,15 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
+  - title: "Bill Gates, Eric Schmidt and Nvidia Pour Cash Into AI Startup"
+    excerpt: "Anthropic AI, a barely two-year-old startup led by a founding researcher of Deepmind, has rounded up every power investor in generative A.I."
+    publishedDateTime: 2023-06-30T18:13:00Z
+    webUrl: "https://observer.com/2023/06/inflection-ai-fundraising-bill-gates-nvidia/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 17
   - title: "Here's how Nvidia has stayed ahead in artificial intelligence"
     excerpt: "\"I would say the volume is turned to 11 in terms of execution, but the method and way of working hasn’t changed,\" Nvidia's Ian Buck says of the company's artificial intelligence work."
     publishedDateTime: 2023-06-30T17:53:00Z
@@ -189,6 +220,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "Nwev/3EZsEXE1dKKfgqciyeF1dSZSQmmaQhS13REqf3doEySmRr6zLNc02x9RW8j312tJorUh2f2fJ7qnbL1rV67jfO+b9npDy/yd6xS1jl0e/mK24NRo1C3JHAwe9sC6/+yUGa2D9Mg2ZaNwzBKShuEh2FUZ+3JZZXAF0FUN6PA69NNOd1W6THiA+Ci/Uz5jzM3E9LYHq6mcvhgmpXnJM5QkIt9F3uiFlPdsEi5pd2TmOtMpdHTSLTBHGoCFI0agWV0CK9Rdc74h8+M2/CqCcYCkYRvJp7HpjCVNgPAq9DVnh+OoM8URme/4oTDvWRDB0v53u3zauU26wrnK9LA0W70ckbjFn/D5orqyd/RteY=;D7S4uETJvu8il7mlhs6Bew=="
+secured: "r1KhGMmElPHHCs5grzQrikPPMycUO0bdX+5IWeUp8c8WrOB+HIgH7y8DVnyJj9oFYwt8Au2K0tFHhIWCuoAiFqg1zTQToq8WafN7GRIPehQbN4lHBKRWw4Ul900OcqOMpE3zE0u9OsMUx/19Uynh5ldwfM9BZgVblm1ykMTZ6EUHc1uXH3zoXS1lcUHCnV9w7xwbbLhX4EW31YIME/y29/vMGidV9X7aNbNU2q/xO7kVPg0nC/ri8KDoWA2Eho6+wvyO0eWpBqGuTmNccRLS4EdKctLtZHutHcFx3zSHSENpnC+ynZrYfpv8efHbp7SpJpsXYnPBkGTl+kwmiA1Yr3qWf8UhEmXiOZ1GTZ5iHMw=;rp3/mBVHXZGQ4KwplGxrLw=="
 ---
 

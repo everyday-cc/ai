@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/amds-ai-chips-could-match-nvidi
 webUrl: "https://www.reuters.com/technology/amds-ai-chips-could-match-nvidias-offerings-software-firm-says-2023-06-30/"
 type: article
 quality: 84
-heat: 214
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia and AMD: Weapons of AI Chip War"
+    excerpt: "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy."
+    publishedDateTime: 2023-07-03T12:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/larx-kla-amat.jpg?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 995
+        height: 716
+        isCached: true
   - title: "AMD AI chips are nearly as fast as Nvidia's, MosaicML says"
     excerpt: "As Nvidia's recent surge in market capitalization clearly demonstrates, the AI industry is in desperate need of new hardware to train large language models (LLMs) and"
     publishedDateTime: 2023-07-03T16:16:00Z
@@ -42,22 +56,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-03-image-10.jpg"
         width: 2000
         height: 1231
-        isCached: true
-  - title: "Nvidia dips on report U.S. considering new A.I. chip export restrictions for China"
-    excerpt: "The federal government is weighing further restrictions on exporting powerful computing chips to China, the kind that power AI models, The Wall Street Journal reported. The restrictions would ..."
-    publishedDateTime: 2023-06-29T05:39:00Z
-    webUrl: "https://www.cnbc.com/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/28/nvidia-dips-on-report-us-mulling-new-ai-chip-restrictions-for-china.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 83
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107161191-1670264480854-gettyimages-1245381984-US-EU_TRADE_COUNCIL.jpeg?v=1687955882"
-        width: 5561
-        height: 3708
         isCached: true
   - title: "Nvidia warns tighter AI chip export restrictions to China risk permanent US industry losses"
     excerpt: "Nvidia's share price took a tumble yesterday following a report that the US government is considering tightening its export controls on AI chips to China as"
@@ -87,15 +85,29 @@ related:
         width: 2000
         height: 1334
         isCached: true
-  - title: "Nvidia and AMD: Weapons of AI Chip War"
-    excerpt: "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy."
-    publishedDateTime: 2023-07-03T12:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
+  - title: "AI Video Startup Runway Raises $141 Million From Google, Nvidia"
+    excerpt: "Runway AI Inc., whose artificial intelligence software can create a short video from just a few typed words, has raised $141 million in funding from Alphabet Inc.’s Google, Nvidia Corp., Salesforce Inc. and other investors."
+    publishedDateTime: 2023-06-29T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-video-startup-runway-raises-141-million-from-google-nvidia"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBBcycoPcKg/v0/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Microsoft-backed AI startup Inflection raises $1.3 bln from Nvidia and others"
+    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
+    publishedDateTime: 2023-06-29T16:26:00Z
+    webUrl: "https://www.reuters.com/article/inflection-ai-funding/update-3-microsoft-backed-ai-startup-inflection-raises-1-3-bln-from-nvidia-and-others-idUSL4N38L2U7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 61
   - title: "US plans new AI chip export controls aimed at Nvidia"
     excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
     publishedDateTime: 2023-06-29T09:26:00Z
@@ -170,6 +182,15 @@ related:
       name: Financial Tribune
       domain: financialtribune.com
     quality: 34
+  - title: "Microsoft-backed AI startup Inflection raises US$1.3 billion from Nvidia and others"
+    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday (Jun 29) it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
+    publishedDateTime: 2023-06-29T19:08:00Z
+    webUrl: "https://www.channelnewsasia.com/business/microsoft-backed-ai-startup-inflection-raises-us13-billion-nvidia-and-others-3595251"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 28
   - title: "Nvidia acquires OmniML for AI Edge workloads"
     excerpt: "AI is so big today that Edge devices aren’t equipped to handle its computational power,” OmniML co-founder and CEO Di Wu said when the company raised $10 million last year."
     publishedDateTime: 2023-07-03T12:17:00Z
@@ -179,6 +200,15 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
+  - title: "Bill Gates, Eric Schmidt and Nvidia Pour Cash Into AI Startup"
+    excerpt: "Anthropic AI, a barely two-year-old startup led by a founding researcher of Deepmind, has rounded up every power investor in generative A.I."
+    publishedDateTime: 2023-06-30T18:13:00Z
+    webUrl: "https://observer.com/2023/06/inflection-ai-fundraising-bill-gates-nvidia/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 17
   - title: "Here's how Nvidia has stayed ahead in artificial intelligence"
     excerpt: "\"I would say the volume is turned to 11 in terms of execution, but the method and way of working hasn’t changed,\" Nvidia's Ian Buck says of the company's artificial intelligence work."
     publishedDateTime: 2023-06-30T17:53:00Z

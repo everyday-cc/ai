@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-12-juniper-research-regtech-spend-to-surge-to-207-billion-globally-by-2028-with-ai-machine-learning-unlocking-efficiencies.md",
+      "title": "Juniper Research: Regtech Spend to Surge to $207 Billion Globally by 2028, with AI & Machine Learning Unlocking Efficiencies",
+      "excerpt": "A new study from Juniper Research, the foremost experts in fintech, has found that spend on regtech by financial institutions and other industries will increase by 124% between 2023 and 2028 globally,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b32810416/juniper-research-regtech-spend-to-surge-to-207-billion-globally-by-2028-with-ai-machine-learning-u",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b32810416/juniper-research-regtech-spend-to-surge-to-207-billion-globally-by-2028-with-ai-machine-learning-u",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-11T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-10-heres-whats-hot-and-whats-not-in-fintech-right-now.md",
       "title": "Here's what's hot — and what's not — in fintech right now",
       "excerpt": "That's as ChatGPT, the popular generative AI software from OpenAI which produces human-like responses to user queries, dazzled fintech and banking leaders looking to understand its potential.",
@@ -1361,50 +1396,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications.md",
-      "title": "ApartmentLove Names Ken Lang CTO as the Company Adopts Machine Learning and AI Applications",
-      "excerpt": "This is a wonderfully formative time for the Company and to have Ken leading our engineering, Machine Learning and AI initiatives ensures ... and vacation rental marketing services to property managers, owners, renters, and vacationers in more than 30 ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11",
-      "originalUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dcs-static.gprod.postmedia.digital/13.7.7/websites/images/canada/fallback.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11/amp/",
-      "publishedDateTime": "2023-05-18T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

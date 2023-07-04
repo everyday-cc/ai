@@ -24,188 +24,194 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Google DeepMind is developing a better AI than ChatGPT"
-    excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
-    publishedDateTime: 2023-06-29T13:36:00Z
-    webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
-    ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
+  - title: "How Generative AI Is Transforming Supply Chain And Procurement Roles"
+    excerpt: "While there are massive areas of potential, there are equally significant risks posed to privacy, algorithmic bias and even business continuity."
+    publishedDateTime: 2023-06-29T10:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://technology.inquirer.net/files/2023/06/google-ai-projects-620x382.png"
-        width: 620
-        height: 382
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6361241cedcf875a2cde53f3/0x0.jpg?format=jpg&crop=972,547,x0,y134,safe&width=1200"
+        width: 972
+        height: 547
         isCached: true
-  - title: "OpenAI Opens Office in London, Home Base of Google's DeepMind"
-    excerpt: "Altman, CEO of ChatGPT developer OpenAI, said that they see this expansion as an opportunity to attract world-class talent and drive innovation in AGI development and policy."
-    publishedDateTime: 2023-06-29T06:18:00Z
-    webUrl: "https://www.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
-    ampWebUrl: "https://amp.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
+  - title: "How AI Is Transforming The Leadership Landscape In The 21st Century"
+    excerpt: "I believe we stand at the threshold of a new era: the AI-powered leadership revolution that promises to redefine the way we work, live and communicate."
+    publishedDateTime: 2023-07-03T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://data.ibtimes.sg/en/full/64831/openai-microsoft.png"
-        width: 1093
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649ee304e60ed64f9d324232/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Google’s DeepMind Unveils Its Powerful New AI, Gemini"
-    excerpt: "Discover Google's DeepMind new AI project, Gemini, a cutting-edge system aiming to rival OpenAI's ChatGPT. By blending AlphaGo's strategic capabilities with advanced language processing, Gemini seeks to redefine AI technology."
-    publishedDateTime: 2023-06-29T22:37:00Z
-    webUrl: "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/"
-    ampWebUrl: "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp"
+  - title: "How People And Image-Generating AI Can Work Together In Business"
+    excerpt: "There are a few tips and strategies companies can use to work with AI tools and make the most of their creative teams."
+    publishedDateTime: 2023-07-03T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/06/possessed-photography-JjGXjESMxOY-unsplash-scaled.jpg"
-        width: 2560
-        height: 2263
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&width=1200"
+        width: 855
+        height: 570
         isCached: true
-  - title: "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials"
-    excerpt: "Ever since ChatGPT went viral last fall, companies have touted many ways artificial intelligence can make our lives easier. They’ve promised superhuman virtual assistants, tutors, lawyers and doctors."
-    publishedDateTime: 2023-06-30T12:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-30/artificial-intelligence-startup-looks-to-develop-climate-friendly-materials"
+  - title: "How Generative AI is a Game Changer for Cloud Security"
+    excerpt: "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap."
+    publishedDateTime: 2023-06-29T16:34:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-cloud-security/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 63
-  - title: "SKT sprinkles ChatGPT over AI chatbot"
-    excerpt: "SK Telecom upgraded its A. chatbot with new features it pledged deliver a smarter conversational AI, including ChatGPT elements."
-    publishedDateTime: 2023-07-03T10:53:00Z
-    webUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/"
-    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
     images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/05/MWL_SKT_AI_Service_A_650.jpg"
-        width: 650
-        height: 400
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/clio-unveils-cloud-platform.jpeg"
+        width: 1200
+        height: 803
         isCached: true
-  - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
-    excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
-    publishedDateTime: 2023-06-29T22:22:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/openai-chatgpt-generative-ai-lawsuit-rcna91892"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+  - title: "Generative AI vs. Machine Learning"
+    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
+    publishedDateTime: 2023-06-29T23:49:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
     type: article
     provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 57
+      name: eWeek
+      domain: eweek.com
+    quality: 84
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
-  - title: "AI recap this month: Drone 'kills' operator; DeepMind's speed up"
-    excerpt: "Research into AI is experiencing a boom, so we have rounded up the best of news from the past month to help you keep up to date"
-    publishedDateTime: 2023-06-29T09:32:00Z
-    webUrl: "https://www.newscientist.com/article/2379559-ai-recap-this-month-drone-kills-operator-deepminds-speed-up/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27154959/SEI_161948063.jpg"
-        width: 1350
+      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
+        width: 1400
         height: 900
         isCached: true
-  - title: "Google DeepMind Will Eclipse OpenAI"
-    excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-will-eclipse-openai/"
+  - title: "How Public Health Agencies Are Harnessing AI And Advanced Analytics For Transformative Impact"
+    excerpt: "In recent years health agencies like CDC have leveraged data and analytics to enhance their capabilities and become more efficient."
+    publishedDateTime: 2023-07-03T16:32:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Will-Eclipse-OpenAI_.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a2f741ef05b2265d8aa488/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
-    excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."
-    publishedDateTime: 2023-06-30T15:09:00Z
-    webUrl: "https://www.canadianmanufacturing.com/Y0iqA"
+  - title: "EU to Work with Japan on AI and Chip Supply Chain"
+    excerpt: "The European Union (EU) is set to work with Japan in a bid to boost its Artificial Intelligence (AI) and chip supply chain."
+    publishedDateTime: 2023-07-03T14:29:00Z
+    webUrl: "https://www.coinspeaker.com/eu-japan-ai-chip/"
+    ampWebUrl: "https://www.coinspeaker.com/eu-japan-ai-chip/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/eu-japan-ai-chip/amp/"
     type: article
     provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 54
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 74
     images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
-        width: 300
-        height: 600
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/07/eu-japan-ai-chip.jpg"
+        width: 1170
+        height: 780
         isCached: true
-  - title: "DeepMind alum wants to use AI to speed the development of green materials"
-    excerpt: "For the same idea to work in chemistry, an AI system would need to predict how a new molecule would behave, not just in a lab but in the real world."
-    publishedDateTime: 2023-07-03T02:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials"
+  - title: "Transforming Generative AI Into Domain-Savviness Via In-Context Learning And A Dash Of Data Engineering Seems Promising, Says AI Ethics And AI Law"
+    excerpt: "Latest efforts to imbue generative AI with domain expertise makes use of data engineering and in-context model learning. This close look explores how this works."
+    publishedDateTime: 2023-07-01T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 53
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/02/2155848.JPG"
-        width: 1240
-        height: 826
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3796,2530,x671,y0,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
-    excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
-    publishedDateTime: 2023-07-01T15:03:00Z
-    webUrl: "https://bgr.com/tech/clippy-is-back-as-a-chatgpt-powered-ai-assistant-for-windows-11/"
+  - title: "Catalyzing transformation: Augmenting human intelligence with AI"
+    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Mumbai brought together visionaries, experts and technology enthusiasts under one roof to explore the frontiers of artificial intelligence through keynotes,"
+    publishedDateTime: 2023-06-29T11:46:00Z
+    webUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai-11688038146836.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1668
+      - url: "https://images.livemint.com/img/2019/01/30/600x338/HTBS-leadImage-Feb2018-FB-v2_1548835753634.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
-    excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
-    publishedDateTime: 2023-06-30T21:02:00Z
-    webUrl: "https://bgr.com/tech/heres-why-google-thinks-its-gemini-ai-will-surpass-chatgpt/"
+  - title: "UK universities draw up guiding principles on generative AI"
+    excerpt: "All 24 Russell Group universities have reviewed their academic conduct policies and guidance"
+    publishedDateTime: 2023-07-03T22:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Gemini.jpg?quality=82&strip=all"
-        width: 1280
-        height: 720
+      - url: "https://i.guim.co.uk/img/media/2262d025d62fc86ce6110675d04b5ea19681c7e5/0_225_6758_4055/master/6758.jpg?width=620&quality=85&auto=format&fit=max&s=959be29164eacf1dcdcc024d0b54aee6"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Here’s Why Google DeepMind’s Gemini Algorithm Could Be Next-Level AI"
-    excerpt: "Google DeepMind's CEO, Demis Hassabis, says their Gemini algorithm will use reinforcement learning to take AI beyond GPT-4."
-    publishedDateTime: 2023-07-02T18:11:00Z
-    webUrl: "https://singularityhub.com/2023/07/02/heres-why-google-deepminds-gemini-algorithm-could-be-next-level-ai/"
+  - title: "The H100: The chip driving generative AI"
+    excerpt: "It's rare that a computer component sets pulses racing beyond the tech industry. But when Nvidia issued a blowout sales forecast in May to send its market value above $1"
+    publishedDateTime: 2023-07-03T14:00:00Z
+    webUrl: "https://www.postguam.com/business/the-h100-the-chip-driving-generative-ai/article_126abd50-1930-11ee-ae3b-db5cdfa0a0bd.html"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 34
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/7/08/70815cbe-1930-11ee-8e84-bb61fbf895b0/64a2093050e7f.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Transform AI Survey: Help discover the state of generative AI"
+    excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
+    publishedDateTime: 2023-06-29T13:11:00Z
+    webUrl: "https://venturebeat.com/ai/the-transform-ai-survey-help-discover-the-state-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Generative AI means the looming end of search as we know it"
+    excerpt: "Generative artificial intelligence as a foundational platform is already mature enough to do the work after a search. In other words, the end of search as we once new it is on the horizon."
+    publishedDateTime: 2023-07-03T13:45:00Z
+    webUrl: "https://wraltechwire.com/2023/07/03/generative-ai-means-the-looming-end-of-search-as-we-know-it/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 17
 
 secured: "Lb43meU0jV49DoYxm7eFmv0ASmHQMYRH4nbmKUgpv0S0kgwHu2Fmng6I9nnqdwHvFfZ+mAZUZnhF4rXVBA2CtTnPXkLHPg9//f9XB7llEoGY53NaICH+aZZbGrg9pZm3nd0EX7w8OqNccuhSrUGBYInY7Sx2pGyNOzIHEGZydlPAUxHgpB7PfT7jRXaTOhmKpGVIc2iTIFtxrlTVQhhGTEL9y3BU8VNEA+Nb9j4ZAFIDy605SXsYrcmKX4SpGvhk5SsUuefO+Efd0sF2LkM94nrzq+T9GRnVG6wWDuFn4Ypdb0Wyu6bPTvbaPUG6HODGEMXAJFenJf8lWvA12itbWiWS66rjFiOeqRO4pUTwU56RWqw98rmicIAIyBfTmyxnZq3aq6DLutDs3nDKPwntwwgxiHYrJKZPAV7gmknT/XhzxFTHvCOZ8QT7uYGeWgHYxVuytNQ/ZUDnZAdEbfKSUcG2wYi3ZG/8hWv7k1MOFeZiuLpGH7dJpiLbhBdB55VXcaQnwlHsFRERN0xEbt92wA==;T8ZJYlEOp/fWXRtcfiIIfQ=="
 ---

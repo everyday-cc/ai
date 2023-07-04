@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI Unlocks Prostate Cancer Treatment Benefits"
+    excerpt: "Data from a new study published in NEJM Evidence shows promise for personalized use of short-term ADT in men with predominantly intermediate-risk prostate cancer. The study involved ArteraAI,"
+    publishedDateTime: 2023-07-03T03:46:00Z
+    webUrl: "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    ampWebUrl: "https://medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 59
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2023/07/03/213394-new-study-validates-the-first-ever-predictive-ai-biomarker-of-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.jpg"
+        width: 1500
+        height: 900
+        isCached: true
 
 secured: "nxEw8Ci2FReWwsJBeUv8mjJtGD6l2sTSGLOE2l3oMAgs01BmCtkS/ZQPsFCCpjWz4Wss4QjhYNMcAOlvFv3ptkQtbSsh2ZdB0lFUdSIaRabZDqw0R/2weQbw3F4eeV8fSpFR1hS3EjP/0hOiDwFJifyDq3ZDwC5eoI4R6+S0aogrbIZPa8YO7ygMVPXHIYqtjNVJ8mgsFehrq+p+n6dzvGxo9wXaJQwHxOTYy4KwxNUC91sq0LuqfzPX0FlImUR3CnuG8Cd/62UmSs10nRI3bFZXwuYgC6dFKS+WxBcTwIwv09QlihtpLDfB4/JFwGfwZPlA0tGJoTNUgW7y3SkOLpnHFfM54VzxYeHAyGxa4Jy7SGseIJWJrJ53/9uT4sVYimn98Uhkwv7Qwf3AWPSgl2HgGBpLjGrXung6ChSZ27HynDC11BxBxTG6KkdXlQnaD29VKB57Sqap67AoxsnNPxisWlmWtsNniq4tYmrFFCo7jscVl5+iUJC+AH54TD0/iS/dWObmn0vvQx9qW5+uiw==;a08oMDHouBoGRY88V1bG5g=="
 ---

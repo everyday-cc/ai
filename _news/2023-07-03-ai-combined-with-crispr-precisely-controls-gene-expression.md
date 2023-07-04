@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-06-ai-combined-crispr-precisely-gene.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-combined-crispr-precisely-gene.amp"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

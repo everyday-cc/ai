@@ -19,286 +19,89 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AI needs 'a new era of law and regulation,' says Microsoft president"
-    excerpt: "Microsoft Vice Chair & President Brad Smith talks to Christiane Amanpour about the worldwide race to regulate Artificial Intelligence \"so it's used safely.\""
-    publishedDateTime: 2023-06-29T06:51:00Z
-    webUrl: "https://www.cnn.com/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 104
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230628165322-brad-smith-microsoft.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft, TikTok give generative AI a sort of memory"
-    excerpt: "The programs use databases to beat ChatGPT at hundreds of turns of dialogue. The innovations can give any large language model ChatGPT-like abilities."
-    publishedDateTime: 2023-07-01T10:34:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/40efaf31e076a7b5738d107834bb0317e0dbb0fa/2023/06/30/23a7542e-8178-46ab-9918-d592cb186aec/tiktok-memory-bot-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tech Mahindra Collaborates Microsoft Azure To Enable Generative AI Powered Enterprise Search"
-    excerpt: "Tech Mahindra's Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility, which will eventually improve the ..."
-    publishedDateTime: 2023-06-30T10:08:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/tech-mahindra-collaborates-microsoft-azure-to-enable/455074"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 88
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1688119183-Untitleddesign-2023-06-30T152723739.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Microsoft Adds AI Shopping Tools to Bing and Edge"
-    excerpt: "Microsoft is adding more artificial intelligence components into its products ... Some online shoppers love to delve into their research, carefully reading multiple reviews and weeding out brands that don't pass muster. If you need an answer quickly ..."
-    publishedDateTime: 2023-06-29T23:14:00Z
-    webUrl: "https://www.cnet.com/tech/microsoft-adds-ai-shopping-tools-to-bing-and-edge/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://www.cnet.com/a/img/resize/42190d38ade8b2297bf2f0e63f4439bee821301e/hub/2023/02/10/62e99904-1127-458c-8fdf-cf9018b816b7/20230207-bing-logo-01.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft’s First Generative AI Certificate Is Available for Free"
-    excerpt: "Microsoft is also running a grant competition for ideas on using AI training in community building. Learn more."
-    publishedDateTime: 2023-06-30T21:16:00Z
-    webUrl: "https://www.techrepublic.com/article/microsofts-first-generative-ai-certificate-is-available-for-free/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 86
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
-        width: 1400
-        height: 719
-        isCached: true
-  - title: "Microsoft To Power Moody's Next-Generation Solutions With Azure OpenAI Service"
-    excerpt: "Moody's Corp (NYSE: MCO) tapped Microsoft Corp (NASDAQ: MSFT) to deliver next-generation data, analytics, research, collaboration, and risk solutions for financial services and"
-    publishedDateTime: 2023-06-29T15:24:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33060304"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33060304"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 85
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/06/29/mco.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft gives Bing and Edge new AI tools to help you shop"
-    excerpt: "Microsoft is launching new AI-powered shopping tools for Bing and the Bing AI chatbot in the Edge sidebar. The new features will make it possible to generate buying guides, review summaries, and price matches."
-    publishedDateTime: 2023-06-29T16:19:00Z
-    webUrl: "https://www.androidauthority.com/microsoft-bing-edge-ai-shopping-3340393/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-logo-on-phone.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Taps Bing AI to Generate Shopping Guides"
-    excerpt: "The company is also using AI to power a new price-matching service and to summarize reviews for consumer products on Bing Chat."
-    publishedDateTime: 2023-06-29T15:00:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-taps-bing-ai-to-generate-shopping-guides"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06F5yZaZDh0KUdY8GipZEGR-1.fit_lim.size_1200x630.v1687974682.jpg"
-        width: 1108
-        height: 630
-        isCached: true
-  - title: "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week"
-    excerpt: "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here."
-    publishedDateTime: 2023-07-01T11:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33088892"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 81
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop"
-        width: 626
-        height: 417
-        isCached: true
-  - title: "Microsoft-backed AI startup Inflection raises $1.3 billion from Nvidia and others"
-    excerpt: "Inflection AI said on Thursday it had raised $1.3 billion in a funding round backed by investors including Microsoft and Bill Gates."
-    publishedDateTime: 2023-06-29T17:57:00Z
-    webUrl: "https://www.reuters.com/technology/inflection-ai-raises-13-bln-funding-microsoft-others-2023-06-29/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 79
-    images:
-      - url: "https://www.reuters.com/resizer/i2bRbXBrVzVI1Ww7fdZ3f8YzHik=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/54MYZCHZONPHVCAQN35SDL6N2U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft-backed AI start-up Inflection raises US$1.3 billion from Nvidia and others"
-    excerpt: "Inflection AI, a start-up backed by several Silicon Valley heavyweights, said on Thursday it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence sector."
-    publishedDateTime: 2023-06-30T04:15:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3226037/microsoft-backed-ai-start-inflection-raises-us13-billion-nvidia-and-others?module=live&pgtype=homepage"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 77
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/30/4ff25e8b-e17a-4500-a848-98bb487106da_4d9e4cec.jpg?itok=qOp0jsJV&v=1688096928"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI startup Inflection raises $1.3b from Microsoft, others"
-    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion in a fresh round of funding amid a boom in the artificial intelligence (AI) sector."
-    publishedDateTime: 2023-06-29T15:29:00Z
-    webUrl: "https://www.tbsnews.net/tech/ai-startup-inflection-raises-13b-microsoft-others-657998"
-    ampWebUrl: "https://www.tbsnews.net/tech/ai-startup-inflection-raises-13b-microsoft-others-657998?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-startup-inflection-raises-13b-microsoft-others-657998?amp"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 74
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/05/27/artificial_intelligence_ai_machine_learning_-_30212411048_0.jpg"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
-    excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."
-    publishedDateTime: 2023-07-03T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.html"
-    ampWebUrl: "https://www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/02/usa_united_states_capitol_building_congress_by_uschools_gettyimages-607463592_abstract_digital_infrastructure_by_metamorworks_gettyimages-1129515465_2400x1600-100828810-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud"
-    excerpt: "Trusting Social, a leading Asian fintech AI company, has announced the launch of Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
-    publishedDateTime: 2023-07-01T03:15:00Z
-    webUrl: "https://theinvestor.vn/trusting-social-brings-ai-powered-agents-to-enterprises-backed-by-microsoft-cloud-d5631.html"
-    ampWebUrl: "https://theinvestor.vn/news/trusting-social-brings-ai-powered-agents-to-enterprises-backed-by-microsoft-cloud-d5631.amp"
-    cdnAmpWebUrl: "https://theinvestor-vn.cdn.ampproject.org/c/s/theinvestor.vn/news/trusting-social-brings-ai-powered-agents-to-enterprises-backed-by-microsoft-cloud-d5631.amp"
-    type: article
-    provider:
-      name: theinvestor
-      domain: theinvestor.vn
-    quality: 70
-    images:
-      - url: "https://t.ex-cdn.com/theinvestor.vn/resize/600x360/files/news/2023/06/29/hnf-12345-195910.jpeg"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Microsoft Outlines Azure OpenAI Large Language Model Servicing"
-    excerpt: "Microsoft on Friday outlined how Azure OpenAI users can automatically keep up with the latest large language model updates, and also gave assurances about privacy issues."
-    publishedDateTime: 2023-06-30T23:30:00Z
-    webUrl: "https://redmondmag.com/articles/2023/06/30/azure-openai-model-servicing.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 69
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/170719BinaryBuildingGraphic.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft announces new initiative to close skills gap, upskill workforce for AI jobs"
-    excerpt: "Microsoft announced on Friday a groundbreaking new initiative as part of its Skills for Jobs program. The \"AI Skills Initiative\" aims to empower individuals and communities worldwide by helping them harness the power of artificial intelligence and bridge the talent gap in the rapidly evolving field."
-    publishedDateTime: 2023-06-30T06:51:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 67
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_05_2023_12_05_15_7069718.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft weaves generative AI fabric for Moody’s"
-    excerpt: "Financial risk assessment powerhouse Moody's is partnering with Microsoft to bring the power of generative AI to its enterprise."
-    publishedDateTime: 2023-06-29T12:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-weaves-generative-ai-fabric-for-moodys/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-  - title: "Microsoft unveils first professional certificate for generative AI skills"
-    excerpt: "With the new AI Skills Initiative, people can take free online training via LinkedIn to learn concepts of Ai good toward a Career Essentials certificate."
-    publishedDateTime: 2023-06-29T18:52:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-unveils-first-professional-certificate-for-generative-ai-skills/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
-  - title: "Microsoft's 3 new AI-powered shopping tools could save you time - and money"
-    excerpt: "If you've ever spent hours reading product reviews or had buyer's remorse when a price dropped after a purchase, you'll want to check out these new Bing and Edge features."
-    publishedDateTime: 2023-06-29T18:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-3-new-ai-powered-shopping-tools-could-save-you-time-and-money/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
-  - title: "Microsoft knows its out of touch with Gen Z. The software giant plans to lure them with AI, an internal memo shows"
-    excerpt: "Microsoft 365 has fewer Gen Z users than its competitors. This may present a risk to its workplace business, according to newly released documents."
-    publishedDateTime: 2023-06-30T19:51:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-few-gen-z-users-tries-luring-youth-with-ai-2023-6"
+  - title: "Nvidia and AMD: Weapons of AI Chip War"
+    excerpt: "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy."
+    publishedDateTime: 2023-07-03T12:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 62
+    quality: 86
     images:
-      - url: "https://i.insider.com/649f2652aa56b70019ca8d09?width=1200&format=jpeg"
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/larx-kla-amat.jpg?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 995
+        height: 716
+        isCached: true
+  - title: "AMD's AI chips could match Nvidia's offerings, software firm says"
+    excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp , with a future path to matching their performance, according a Friday report by an AI software firm."
+    publishedDateTime: 2023-06-30T16:41:00Z
+    webUrl: "https://www.reuters.com/technology/amds-ai-chips-could-match-nvidias-offerings-software-firm-says-2023-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/mxKC5pRq-i0-ySt7PlHNvp0ZiLc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LTPJK24H2FPUXLGC3ATXP7PD6I.jpg"
         width: 1200
-        height: 600
+        height: 628
+        isCached: true
+  - title: "AMD AI chips are nearly as fast as Nvidia's, MosaicML says"
+    excerpt: "As Nvidia's recent surge in market capitalization clearly demonstrates, the AI industry is in desperate need of new hardware to train large language models (LLMs) and"
+    publishedDateTime: 2023-07-03T16:16:00Z
+    webUrl: "https://www.techspot.com/news/99271-amd-ai-chips-punch-above-their-weight-mosaicml.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-03-image-10.jpg"
+        width: 2000
+        height: 1231
+        isCached: true
+  - title: "Nvidia warns tighter AI chip export restrictions to China risk permanent US industry losses"
+    excerpt: "Nvidia's share price took a tumble yesterday following a report that the US government is considering tightening its export controls on AI chips to China as"
+    publishedDateTime: 2023-06-29T14:34:00Z
+    webUrl: "https://www.techspot.com/news/99246-nvidia-warns-tighter-ai-chip-export-restrictions-china.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-29-image-13.jpg"
+        width: 2160
+        height: 990
+        isCached: true
+  - title: "Larry Ellison says Oracle plans to spend billions on Nvidia GPUs, even more on Ampere and AMD chips"
+    excerpt: "Oracle will spend billions of dollars to purchase Nvidia GPUs this year alone, driven by the rising demand for generative AI-based products, which require considerable hardware"
+    publishedDateTime: 2023-06-30T15:31:00Z
+    webUrl: "https://www.techspot.com/news/99260-oracle-plans-spend-billions-nvidia-gpus.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 70
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-30-image-9.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
+  - title: "AI Video Startup Runway Raises $141 Million From Google, Nvidia"
+    excerpt: "Runway AI Inc., whose artificial intelligence software can create a short video from just a few typed words, has raised $141 million in funding from Alphabet Inc.’s Google, Nvidia Corp., Salesforce Inc. and other investors."
+    publishedDateTime: 2023-06-29T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-video-startup-runway-raises-141-million-from-google-nvidia"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBBcycoPcKg/v0/1200x799.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Microsoft-backed AI startup Inflection raises $1.3 bln from Nvidia and others"
     excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
@@ -309,196 +112,107 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 61
-  - title: "Microsoft AI Will Help You Shop on Bing and Edge With Buying Guides, Reviews, Price Match"
-    excerpt: "Here's how to use new AI-infused tools for Microsoft's browser and search engine to shop till you drop online."
-    publishedDateTime: 2023-06-30T18:50:00Z
-    webUrl: "https://www.cnet.com/tech/microsoft-ai-will-help-you-shop-on-bing-and-edge-with-buying-guides-reviews-price-match/"
+  - title: "US plans new AI chip export controls aimed at Nvidia"
+    excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
+    publishedDateTime: 2023-06-29T09:26:00Z
+    webUrl: "https://techcentral.co.za/us-plans-new-ai-chip-export-controls-aimed-at-nvidia/227630/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 55
-  - title: "Rubrik integrates zero trust platform with Microsofts generative AI"
-    excerpt: "Rubrik and Microsoft will collaborate on integrating generative AI functionality into the Rubrik Security Cloud platform. This should help security"
-    publishedDateTime: 2023-06-29T11:20:00Z
-    webUrl: "https://www.techzine.eu/news/security/108292/rubrik-integrates-zero-trust-platform-with-microsofts-generative-ai/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
+      name: TechCentral
+      domain: techcentral.co.za
     quality: 54
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/09/rubrik.jpg"
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/09/nvidia-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "AMD making big gains on Nvidia in AI chips: research"
+    excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
+    publishedDateTime: 2023-07-02T06:35:00Z
+    webUrl: "https://techcentral.co.za/amd-making-big-gains-on-nvidia-in-ai-chips-research/227735/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/07/artificial-intelligence-ai-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "TSMC sees robust AI chip orders from Nvidia, Broadcom, AMD through 2024"
+    excerpt: "TSMC is expected to see a significant revenue rebound in the second half of the year, which will be driven by not only the launch of new iPhones but also strong demand for AI chips from Nvidia, Broadcom and AMD, with robust wafer-start momentum from..."
+    publishedDateTime: 2023-07-03T07:23:00Z
+    webUrl: "https://www.digitimes.com/news/a20230703PD200/tsmc-cowos-generative-ai-gpu-chips+components.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230703pd200_files/2_2b.jpg"
         width: 1280
-        height: 720
+        height: 853
         isCached: true
-  - title: "Microsoft, Nvidia Invest In Ai Startup Inflection Ai"
-    excerpt: "san francisco: microsoft and nvidia were among a host of investors who took a stake in ai company inflection ai.<br /> <br /> the company rai"
-    publishedDateTime: 2023-07-01T10:16:00Z
-    webUrl: "https://menafn.com/1106541563/Microsoft-Nvidia-Invest-In-Ai-Startup-Inflection-Ai"
+  - title: "AMD's AI Chips Could Match Nvidia's Offerings, Software Firm Says"
+    excerpt: "Nvidia dominates the market for the powerful chips that are used to create ChatGPT and other AI services that have swept through the technology industry in recent months. The popularity of those services has pushed Nvidia's value past $1 trillion and led to a shortage of its chips that the Nvidia says it is working to resolve."
+    publishedDateTime: 2023-06-30T17:40:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-06-30/amds-ai-chips-could-match-nvidias-offerings-software-firm-says"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/01/TP_ee5b5image_story.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "Microsoft launches new AI skills training initiative with LinkedIn and GitHub"
-    excerpt: "Microsoft is joining forces with LinkedIn and GitHub to launch a new artificial intelligence skills initiative to help people prepare for the digital workplace. The Microsoft AI Skills Initiative includes free coursework developed with LinkedIn that will cover introductory concepts of AI and responsible AI frameworks."
-    publishedDateTime: 2023-06-29T09:48:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-launches-new-ai-skills-training-initiative-with-linkedin-and-github"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 51
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4439/Unsplash_Mimi-Thian_web.jpg"
-        width: 975
-        height: 548
-        isCached: true
-  - title: "Microsoft’s Cloud Server Business in 2022 Was Less Than Half of AWS, New Document Reveals"
-    excerpt: "For years Microsoft has kept a lid on details about the true size of its Azure cloud server rental business, making it impossible for investors to know how Microsoft’s cloud operations unit stacked up against industry leader Amazon Web Services."
-    publishedDateTime: 2023-06-29T20:36:00Z
-    webUrl: "https://www.theinformation.com/articles/microsofts-cloud-server-business-in-2022-was-less-than-half-of-aws-new-document-reveals"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 47
+  - title: "AMD is getting closer to Nvidia on AI"
+    excerpt: "MosaicML has a look under the bonnet of both Artificial intelligence chips from AMD are about 80 per cent as fast as those from Nvidia but the way its chips are designed means that it is going to match its performance soon."
+    publishedDateTime: 2023-07-03T09:58:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57189-amd-is-getting-closer-to-nvidia-on-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
     images:
-      - url: "https://tii.imgix.net/production/articles/10781/35961e76-cb5e-4c8c-a5a5-720d82802ace.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
+      - url: "https://www.fudzilla.com/media/k2/items/cache/5b05043d249467edb61b8cae5ee36068_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
-    excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
-    publishedDateTime: 2023-07-01T15:40:00Z
-    webUrl: "https://technosports.co.in/tech-mahindra-and-microsoft-collaborate/"
+  - title: "AMD's AI Chips Could Match Nvidia's Offerings"
+    excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp, with a future path to matching their performance, according a Friday report by an AI software firm."
+    publishedDateTime: 2023-07-02T19:48:00Z
+    webUrl: "https://financialtribune.com/articles/sci-tech/118911/amds-ai-chips-could-match-nvidias-offerings"
     type: article
     provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 45
-    images:
-      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "A Year-old Startup Inflection AI Raises $1.3 Bn from Microsoft, NVIDIA, Bill Gates and Others"
-    excerpt: "A year-old AI startup Inflection AI, led by CEO Mustafa Suleyman, has secured $1.3 billion in their latest round of funding."
-    publishedDateTime: 2023-06-29T16:47:00Z
-    webUrl: "https://analyticsindiamag.com/inflection-ai-raises-1-3-bn-from-microsoft-nvidia-bill-gates-and-others/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 43
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/Inflection_WebAnimation_Desktop.gif"
-        width: 1000
-        height: 625
-        isCached: true
-  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
-    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
-    publishedDateTime: 2023-06-30T16:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-soul-machines-recognized-as-finalist-2023-microsoft-azure-/2023/06/30/9842393.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 42
-  - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud, AI technologies"
-    excerpt: "Trusting Social, a leading Asian fintech AI company, on Thursday announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises. The Agent Foundry will integrate Microsoft Cloud and ..."
-    publishedDateTime: 2023-06-30T11:54:00Z
-    webUrl: "https://tuoitrenews.vn/news/business/20230630/trusting-social-brings-aipowered-agents-to-enterprises-backed-by-microsoft-cloud-ai-technologies/74135.html"
-    type: article
-    provider:
-      name: Tuoi Tre news
-      domain: tuoitrenews.vn
-    quality: 42
-    images:
-      - url: "https://secure3.vncdn.vn/ttnew/r/2023/06/30/bcaf76de12aac2f49bbb-1688124913.jpg"
-        width: 4095
-        height: 2730
-        isCached: true
-  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
-    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
-    publishedDateTime: 2023-06-30T18:07:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/30/9842393.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 42
-  - title: "Inflection AI raises $1.3B in funding led by Microsoft and NVIDIA"
-    excerpt: "The company has raised $1.525 billion in funding since its inception last year."
-    publishedDateTime: 2023-06-29T18:00:00Z
-    webUrl: "https://cointelegraph.com/news/inflection-ai-raises-1-3b-in-funding-led-by-microsoft-and-nvidia"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 36
-  - title: "Microsoft and Nvidia join $1.3bn fundraising for Inflection AI"
-    excerpt: "With Nvidia joining its investment round, the San Francisco-based start-up, co-founded by LinkedIn creator Reid Hoffman, said it has access to 22,000 Nvidia H100 GPUs, the most in-demand resource in the AI industry today, costing $40,000 apiece."
-    publishedDateTime: 2023-06-29T15:53:00Z
-    webUrl: "https://www.ft.com/content/15eca6de-d4be-489d-baa6-765f25cdecf8"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Financial Tribune
+      domain: financialtribune.com
     quality: 34
-  - title: "AI to tackle cybersecurity: Rubrik and Microsoft deepen collaborations"
-    excerpt: "Accelerating cyber recovery through generative AI and natural language processing (NLP) is the aim of a joint collaboration between zero-trust security vendor Rubrik, Microsoft and Azure OpenAI. This integration is hoped to offer a \"truly actionable use of AI\" to reduce the time required to investigate and determine responses to cyber events,"
-    publishedDateTime: 2023-07-03T12:05:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4119310/ai-tackle-cybersecurity-rubrik-microsoft-deepen-collaborations"
+  - title: "Nvidia acquires OmniML for AI Edge workloads"
+    excerpt: "AI is so big today that Edge devices aren’t equipped to handle its computational power,” OmniML co-founder and CEO Di Wu said when the company raised $10 million last year."
+    publishedDateTime: 2023-07-03T12:17:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-acquires-omniml-for-ai-edge-workloads/"
     type: article
     provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 34
-  - title: "Johnson Controls strengthens Microsoft partnership, accelerates net zero building transformation"
-    excerpt: "Johnson Controls, a pioneer for smart, healthy, and sustainable buildings, announced it has won the 2023 Microsoft Global Independent Software Vendor (ISV) Partner of the Year Award."
-    publishedDateTime: 2023-06-29T05:58:00Z
-    webUrl: "https://www.sourcesecurity.com/news/johnson-controls-strengthens-microsoft-partnership-accelerates-co-2900-ga-co-14053-ga.1688016081.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/johnson-controls-strengthens-microsoft-partnership-accelerates-co-2900-ga-co-14053-ga.1688016081.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-strengthens-microsoft-partnership-accelerates-co-2900-ga-co-14053-ga.1688016081.html"
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
+  - title: "Bill Gates, Eric Schmidt and Nvidia Pour Cash Into AI Startup"
+    excerpt: "Anthropic AI, a barely two-year-old startup led by a founding researcher of Deepmind, has rounded up every power investor in generative A.I."
+    publishedDateTime: 2023-06-30T18:13:00Z
+    webUrl: "https://observer.com/2023/06/inflection-ai-fundraising-bill-gates-nvidia/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 26
-  - title: "Rubrik extends Microsoft collaboration around Sentinel to Azure OpenAI Service to add Generative AI to cyber recovery"
-    excerpt: "The new collaboration will not be sold separately, but will be rolled into the existing offering around Rubrik and Microsoft Sentinel, meaning that partners will not have a new product to sell,"
-    publishedDateTime: 2023-06-29T13:00:00Z
-    webUrl: "https://channelbuzz.ca/2023/06/rubrik-extends-microsoft-collaboration-around-sentinel-to-azure-openai-service-to-add-generative-ai-to-cyber-recovery-41317/"
+      name: observer
+      domain: observer.com
+    quality: 17
+  - title: "Here's how Nvidia has stayed ahead in artificial intelligence"
+    excerpt: "\"I would say the volume is turned to 11 in terms of execution, but the method and way of working hasn’t changed,\" Nvidia's Ian Buck says of the company's artificial intelligence work."
+    publishedDateTime: 2023-06-30T17:53:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/30/nvidia-ian-buck-artificial-intelligence.html"
     type: article
     provider:
-      name: Channel Buzz
-      domain: channelbuzz.ca
-    quality: 26
-  - title: "Microsoft Empowers Government Agencies with Secure Access to Generative AI Capabilities"
-    excerpt: "Mykyta Protsenko discusses the trade-offs that companies face during the process of shifting left, how to ease cognitive load ... Subscribe for free. Microsoft continues to prioritize the development of cloud services that align with US regulatory ..."
-    publishedDateTime: 2023-06-30T09:30:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/azure-openai-government-agencies/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 26
-  - title: "Moody’s and Microsoft Announce Partnership for Innovative AI-Based Research and Risk Analysis"
-    excerpt: "Built on a combination of Moody’s robust data and analytical capabilities and the power and scale of Microsoft Azure OpenAI Service, the partnership creates innovative offerings that enhance insights into corporate intelligence and risk assessment,"
-    publishedDateTime: 2023-06-29T18:35:00Z
-    webUrl: "https://www.datanami.com/this-just-in/moodys-and-microsoft-announce-partnership-for-innovative-ai-based-research-and-risk-analysis/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 23
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "9h5CRUlkRZ79PhRbDz3iKaKY/gsbkRtccjjmKIYm9u9j9tbefTynHSok17RvTD1MG7/BBs0dEAQ3bp/esMYYp57ErkhLVvznt6It/1DvR94AiiuG9LUAOVYY/bHK1IEJ3cyZUaqGFp7T5TFcsByNOcsNCWhgOVREpMuFo15sviq2Q09x3TGKcQzC2uE60bZCKagTuuErFNhyN1Xg26P0e6Z+gbaKDwkgJ7+c/m3RcGAWVc39Lzh63ei6SQ3b7Tp4rRNBkvvFcWTIK7L1hZ1yxrZkgvM8YQCx5VJVEU+AbKanQkbJrRMvoKJciaxCTU5txJsVVCop1Qat5MhwtfNazpYOs8J7PU96TpkQ/p1weeROMQDWuFLEcVPAzgg0f33aDK2yZd1kpLSQzVpA1hD1Styyu9yZ061rlxx42iFbjQCPLDSPuxUbilexf6TSd8kxa5UkRR5hEz4yZH9ghPHe1fS8XWqdEC9s9tHqH9bHHoe/+fzf0R/nkLD0uRR+RVCVAF+H4CXEUfGOvanYdeLU1w==;0ISPwwexLrTEsEBpQG3CBQ=="
 ---

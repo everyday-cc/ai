@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-
 webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,84 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "The Revolution of AI in Music Production"
-    excerpt: "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups."
-    publishedDateTime: 2023-06-30T11:00:00Z
-    webUrl: "https://techround.co.uk/news/revolution-ai-music-production/"
-    ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
+  - title: "How fintech revolutionised the broking industry"
+    excerpt: "Digital stock broking platforms are leveraging algorithms to deliver relevant content with targeted marketing to reach out to younger audiences and get them started to invest in the market."
+    publishedDateTime: 2023-07-03T03:30:00Z
+    webUrl: "https://yourstory.com/2023/07/how-fintech-revolutionised-the-broking-industry"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 59
+      name: Your Story
+      domain: yourstory.com
+    quality: 24
     images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/06/marcela-laskoski-YrtFlrLo2DQ-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://images.yourstory.com/cs/1/4e3ddc80d8fb11eb80d70bdc06fbfe07/HowtoOpenDematAccountwithKotakSecurities-TradeFREEPlan-1624986035827.jpg?fm=png&auto=format"
+        width: 600
+        height: 380
         isCached: true
-  - title: "Health care's AI revolution is well under way, say experts"
-    excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
-    publishedDateTime: 2023-07-03T20:55:00Z
-    webUrl: "https://medicalxpress.com/news/2023-07-health-ai-revolution-experts.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-07-health-ai-revolution-experts.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-health-ai-revolution-experts.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
-        width: 1920
-        height: 1897
-        isCached: true
-  - title: "Psychologist’s Take: 2 Reasons Not To Fear The AI Revolution"
-    excerpt: "A mix of excitement and anxiety is natural, but here’s why artificial intelligence is likely going to enhance our lives."
-    publishedDateTime: 2023-06-29T19:18:00Z
-    webUrl: "https://www.forbes.com/sites/traversmark/2023/06/29/psychologists-take-2-reasons-not-to-fear-the-ai-revolution/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "13 Principles for Using AI Responsibly"
-    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
-    publishedDateTime: 2023-06-30T12:14:00Z
-    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New computer-vision system aims to revolutionise shrimp farming practices"
-    excerpt: "The AI-based MonitorShrimp project, led by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in collaboration with shrimp farming companies Oceanloop and Sander Holding,"
-    publishedDateTime: 2023-06-29T06:25:00Z
-    webUrl: "https://www.efeedlink.com/contents/06-29-2023/5597ea33-5b8f-49f1-82e0-0e446dc51ce5-0001.html"
-    type: article
-    provider:
-      name: efeedlink
-      domain: efeedlink.com
-    quality: 38
-    images:
-      - url: "https://www.efeedlink.com/cps/images/2023/june/2023062914191498243232.jpg"
-        width: 900
-        height: 450
-        isCached: true
-  - title: "Mike Muse Breaks Down the Intersection of Music and Artificial Intelligence"
-    excerpt: "SiriusXM host Mike Muse spoke to The Root about the connection artificial intelligence has with music and how it affects Black art."
-    publishedDateTime: 2023-06-29T14:41:00Z
-    webUrl: "https://www.theroot.com/mike-muse-on-the-intersection-of-music-and-artificial-i-1850590641"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 15
 
 secured: "pxO8cTEQAt0niAD67zY6yDXc9u1oJXhNEyHe92an3fxnooQ3e7YafENRE+W9/mvXWtXhYrdiZshBUy5EVo1lwayN4MsycAxeAX00D1ZI1qySndRnzaVLOOzvvmJ59iqRVpzWWBx9cttO6G6/169QOHAydMYvv8SBdAt7BKm6w9hQc66tvVHZhjA4+9yCeuUeej6P48QgnNWw0LBKBC55tbZkao4/uwyEvO7xWrti6ekV0HkorFP08uzUWDKaxGZvDH2dZEHYTnuUKrodNxldkffR88K3R1Xpes3MI1rtuLHitZAr9++CyMHNyWdqy7TUGhVoIYEgPvWTilYhljMlAgw0aoQfJAPj5NEJpr8lwMZSQTgfuN5EiGmgEOySJhoSnfHGpBC+rzor11wvouE6OkSs/8M8QMFbImaSQLeZldQkH10dHGqyNcz4UnBPX4HZ6cOb2996ECdvtm9B74HnLYLURC/vGDtD3PYKGqpfWDeIbof4N2Wj/koQB/hcRcRRcS97AGSCQMPmewTeHsmrBw==;6lbxF/xAXNuPxuI7zl9bxw=="
 ---

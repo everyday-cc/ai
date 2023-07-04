@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/causely-launches-causal-ai-for-kubernet
 webUrl: "https://venturebeat.com/ai/causely-launches-causal-ai-for-kubernetes-raises-8-8m-in-seed-funding/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,89 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Runway, a startup building generative AI for content creators, raises $141M"
+    excerpt: "Runway, a startup building generative AI tools geared toward film and image content creators, has raised $141 million in a Series C extension."
+    publishedDateTime: 2023-06-29T18:00:00Z
+    webUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/"
+    ampWebUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/gen-2.png?resize=1200,617"
+        width: 1200
+        height: 617
+        isCached: true
+  - title: "Inflection AI Raises $1.3 Billion in a Booming Market for Generative AI"
+    excerpt: "Venture funding in generative AI startups rose to $12.7 billion in the first five months of 2023, compared with $4.8 billion in all of 2022, according to PitchBook."
+    publishedDateTime: 2023-06-29T21:29:00Z
+    webUrl: "https://www.wsj.com/articles/inflection-ai-raises-1-3-billion-in-a-booming-market-for-generative-ai-5954424c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-809809/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Runway draws fresh $141 million as next-level generative AI video begins to emerge"
+    excerpt: "Runway, one of the hottest generative AI startups with its text-to-image video tools, raised $141 million in new funding."
+    publishedDateTime: 2023-06-29T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Generative AI startup Typeface raises $100M to customize enterprise content creation"
+    excerpt: "Typeface helps enterprises create content using generative AI with machine learning training customized on an organization's content."
+    publishedDateTime: 2023-06-29T08:00:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-startup-typeface-raises-100m-customize-enterprise-content-creation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Inflection, Runway and Stability receive funding as capital pours into generative AI startups"
+    excerpt: "Today several generative AI startups received funding, including the chatbot startup Inflection AI Inc., the AI-powered video generator startup Runway AI Inc. and text-to-image generator Stability AI Ltd. Inflection AI, an AI startup building chatbot that ..."
+    publishedDateTime: 2023-06-29T17:20:00Z
+    webUrl: "https://siliconangle.com/2023/06/29/inflection-runway-stability-receive-funding-capital-pours-generative-ai-startups/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "AI video startup Runway raises $141M from Google, Nvidia, Salesforce"
+    excerpt: "The company plans to use the funding to conduct additional research into video- and image-generation AI models."
+    publishedDateTime: 2023-07-03T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-video-startup-runway-raises-141m-from-google-nvidia-salesforce/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "uKLSbkBVuw+ZMRA2KQEgGk7LX3RdLUENIyCft24QxOlZQ2hbbe5wL1g7+VCu4hfyhuVwhtSV4LgkJqZ/bym7g1bwcgkMGpTL4M6Dn0ZEDpThaUZBdewGku/T7gq6NaikJC0aukwR0L1lswKvXcRtmJtTBcgXInUn17PK5kxlErnzhxBMv+pT8no/RdBrjcwqEA6hqizmTBcXM9NN1Uj6DHviegEi2GaYSzW4McixKd9R0KKa5XLM/NJ1VcJmRV0ixYq2I2lAGxVuet+RJv8oHRkUZ41hUIV0um1pwmUiPdeG8cXZ4LeW0WprJAg6WXt6ndDxWYuXBpfNG+qG1JKHwljT7PPnUSblhrCe+4s6pJvwpvLlYoFBM2JWOT7jPtKV15SExI+/N1Bi0DR7nowvRHiwNaJGvXN/Hp4MYdeQtKSB4ceYIYS211vBCZmndHgxI4itTvw2KU4TOLzMkYRF3CuBCMVFZ90EU4ELtmCmrQnmAF5HMG9AzlykpTZ5TZj5iuoso+WkSIU/7ZcatjsMqA==;qK4Ty/1sqXRRCGJUrS49Kg=="
 ---

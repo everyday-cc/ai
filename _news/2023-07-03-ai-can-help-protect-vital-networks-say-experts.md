@@ -21,37 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "How AI can help process waste and increase recycling"
-    excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
-    publishedDateTime: 2023-07-02T23:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66042169"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
+  - title: "Health care's AI revolution is well under way, say experts"
+    excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
+    publishedDateTime: 2023-07-03T20:55:00Z
+    webUrl: "https://medicalxpress.com/news/2023-07-health-ai-revolution-experts.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-07-health-ai-revolution-experts.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-health-ai-revolution-experts.amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4143/production/_130270761_recycling-gettyimages-150517191.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "The AI trained to recognise waste for recycling"
-    excerpt: "Greyparrot places cameras above the conveyor belts of around 50 waste and recycling sites in Europe, utilising AI software to analyse what passes through in real-time."
-    publishedDateTime: 2023-07-02T23:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66042169?at_medium=RSS&at_campaign=KARANGA'"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5373/production/_130236312_gettyimages-1409469474.jpg"
-        width: 1024
-        height: 576
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
         isCached: true
 
 secured: "+E/sePPBeL///FLPi9++J/Bv4YdC2WBdmzcK6i2UwELoOXzVZRz9Ipe6KZvAECURlClL+o8B5Y2hYMUSms+BtgT5VMxMXPdFVJR27SpxwxyR+G4Ibltl9YtyMpD/yPalwO1j6nCP3pFNHHz3++iR+aRe9MtsxKpC/66eg8UT4m7gbiylcVS/P4RCfRtVmNx1YI2KSOVqIz/mKRlV/V7+IXCvAStABxsJqNqppNQU43ZOrqXVeCGRsHwZCuZrxYDxWbdoFpCAAwEIH2nwsxeRV4hOcaQxHXnVmmUemfNCm9ISr2nutlpgcRSrCPOgeEVhirljf3BfNuseU+Ed403RpBlKi8dXJNojxycnTTljc60=;WQa9g/3YYhs/bteVGS0iuw=="

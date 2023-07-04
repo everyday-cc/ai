@@ -24,54 +24,95 @@ images:
     isCached: true
 
 related:
-  - title: "Why India Risks Falling Behind in the AI Race"
-    excerpt: "India’s tech industry is being less than bold in embracing artificial intelligence. It’s hoping to create solutions for corporate clients by building on top of somebody else’s investment in foundational technologies, hardly a strategy for pathbreaking success."
-    publishedDateTime: 2023-06-29T20:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKrCGrr9zSHg/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Regulation and talent: India’s catalysts for generative AI triumph"
-    excerpt: "Generative AI has taken the world by storm; every business and sector is rushing to integrate it into their systems and make maximum use of the technology. Innovators in the US have pioneered their"
-    publishedDateTime: 2023-06-30T11:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
+  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
+    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
+    publishedDateTime: 2023-07-02T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
     type: article
     provider:
       name: Indiatimes
       domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
+        width: 1706
+        height: 2560
+        isCached: true
+  - title: "Artificial Intelligence to reshape deep science learning"
+    excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business—with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
+    publishedDateTime: 2023-06-30T17:25:00Z
+    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-57.jpg"
+        width: 1280
+        height: 1941
         isCached: true
-  - title: "Airport face biometrics expansion in US, India accelerating"
-    excerpt: "The expansion is part of a trend towards the use of face biometrics by government authorities, in a boon for vendors like Dignari and Idemia."
-    publishedDateTime: 2023-07-03T19:24:00Z
-    webUrl: "https://www.biometricupdate.com/202307/airport-face-biometrics-expansion-in-us-india-accelerating"
+  - title: "Bringing AI to the classroom: It’s time to start learning – and teaching – how to use it"
+    excerpt: "Many of us are going to be (or already are) expected to use these tools for our jobs. Students cannot leave educational institutions where AI is taboo and expect to be successful in a labor market where it is required."
+    publishedDateTime: 2023-06-29T13:47:00Z
+    webUrl: "https://wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/"
+    ampWebUrl: "https://wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/?amp=1"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 48
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/06/artificial-intelligence-teacher-e1687532885604.jpg"
+        width: 1203
+        height: 678
+        isCached: true
+  - title: "Artificial Intelligence to reshape deep science learning"
+    excerpt: "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business – with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud."
+    publishedDateTime: 2023-06-29T21:29:00Z
+    webUrl: "https://news.ucr.edu/articles/2023/06/29/artificial-intelligence-reshape-deep-science-learning"
+    type: article
+    provider:
+      name: UCR Today
+      domain: ucr.edu
+    quality: 41
+    images:
+      - url: "https://news.ucr.edu/sites/default/files/2023-06/GettyImages-1466924677.jpg"
+        width: 6720
+        height: 3384
+        isCached: true
+  - title: "Machine Learning is Revolutionizing Quantitative Trading"
+    excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."
+    publishedDateTime: 2023-06-30T16:34:00Z
+    webUrl: "https://www.bbntimes.com/financial/machine-learning-is-revolutionizing-quantitative-trading"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
     quality: 19
-  - title: "Food Allergy Institute's Inderpal Randhawa, MD Discusses the Relationship Between Artificial Intelligence and Medicine in In-Depth Video Interview"
-    excerpt: "Food Allergy Institute (FAI) founder Inderpal Randhawa, MD, was interviewed by an investigative reporter for an in-depth discussion on the current state of artificial intelligence (A.I.) and how he an"
-    publishedDateTime: 2023-06-29T15:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33062179/food-allergy-institutes-inderpal-randhawa-md-discusses-the-relationship-between-artificial-intelli"
+  - title: "Deep Learning in the Fine Arts: Expanding Creativity and Expression"
+    excerpt: "By merging the realms of technology and artistic creativity, deep learning is redefining traditional art forms and inspiring new avenues for artistic expression."
+    publishedDateTime: 2023-06-30T19:41:00Z
+    webUrl: "https://www.bbntimes.com/global-economy/deep-learning-in-the-fine-arts-expanding-creativity-and-expression"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 19
+  - title: "Artificial intelligence: Reimagining the technology landscape?"
+    excerpt: "The technology sector has rebounded strongly this year and Ben Rogoff, Fund manager of the Technology Trust, cites a better macro environment, robust fundamentals, and the arrival of artificial intelligence as the key drivers of this."
+    publishedDateTime: 2023-07-03T09:44:00Z
+    webUrl: "https://www.trustnet.com/fundswire/13382242/artificial-intelligence-reimagining-the-technology-landscape"
+    type: article
+    provider:
+      name: FE Trustnet
+      domain: trustnet.com
+    quality: 17
 
 secured: "zzfCNwAl6bHSnj7mQVQTZLo80A7Blmq796vrsmsWMUs0nFlXCiMSFNDBxmNSgQArdcofdSYV6zjjbN0l7oo683HG297UgDjF0CnkBkrJlG41iAlE9v6hZ3ozmakP/kRpWUmId0Q0NDS2SuKn8zSWrCN1wQhWJ8ifenM9rCIZTYePVRbQoqhUYOTwUtwPfrkSJnWCkBf6o1RYk0HJw8ME9YJJisYZ8i9U00mCiOzHyaVkb7iwth+KSMXpWRMnsf5BmBR9Yb77lFwtISQkH/hZLtwKFG6jWVkLmJiBCdxRT2GZFNi00e8DvNpKNuWHW+ryAJBXWYfad7KHnzuw2KgexQQT3bUvOrqK65zcIS+PcJkJUAPDiP9oRxWfAj3G1tp8Aen87nVmVoBCWA/Vgz/ix4v9/2sPhyUAC4JBTpqWDnkw0q2ZIw4Ijgc4dqwj7YjR/VUlCWynPLpA8QfeTKr418ZK0EnLCjCIGWbgTLBPesJd1fd1B+bhK3wPihWFUcQBJrKn3bm3yI1f1xcRroTXUg==;u/yLVm2muGuUa43jK1ok5Q=="
 ---

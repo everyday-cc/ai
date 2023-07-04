@@ -27,63 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind is developing a better AI than ChatGPT"
-    excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
-    publishedDateTime: 2023-06-29T13:36:00Z
-    webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
-    ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
+  - title: "How businesses can break through the ChatGPT hype with ‘workable AI’"
+    excerpt: "Creating AI applications that provide a step-change in user experience and business performance will be essential for Workable AI."
+    publishedDateTime: 2023-07-01T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://technology.inquirer.net/files/2023/06/google-ai-projects-620x382.png"
-        width: 620
-        height: 382
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_turning_data_into_products._Colorful_futuristic_tech_730862fd-2fe6-442c-8509-f73523c48d0e.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "OpenAI Opens Office in London, Home Base of Google's DeepMind"
-    excerpt: "Altman, CEO of ChatGPT developer OpenAI, said that they see this expansion as an opportunity to attract world-class talent and drive innovation in AGI development and policy."
-    publishedDateTime: 2023-06-29T06:18:00Z
-    webUrl: "https://www.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
-    ampWebUrl: "https://amp.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 74
-    images:
-      - url: "https://data.ibtimes.sg/en/full/64831/openai-microsoft.png"
-        width: 1093
-        height: 400
-        isCached: true
-  - title: "Google’s DeepMind Unveils Its Powerful New AI, Gemini"
-    excerpt: "Discover Google's DeepMind new AI project, Gemini, a cutting-edge system aiming to rival OpenAI's ChatGPT. By blending AlphaGo's strategic capabilities with advanced language processing, Gemini seeks to redefine AI technology."
-    publishedDateTime: 2023-06-29T22:37:00Z
-    webUrl: "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/"
-    ampWebUrl: "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 74
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/06/possessed-photography-JjGXjESMxOY-unsplash-scaled.jpg"
-        width: 2560
-        height: 2263
-        isCached: true
-  - title: "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials"
-    excerpt: "Ever since ChatGPT went viral last fall, companies have touted many ways artificial intelligence can make our lives easier. They’ve promised superhuman virtual assistants, tutors, lawyers and doctors."
-    publishedDateTime: 2023-06-30T12:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-30/artificial-intelligence-startup-looks-to-develop-climate-friendly-materials"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 63
   - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
     excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
     publishedDateTime: 2023-06-29T22:22:00Z
@@ -100,108 +57,29 @@ related:
         width: 2500
         height: 1663
         isCached: true
-  - title: "AI recap this month: Drone 'kills' operator; DeepMind's speed up"
-    excerpt: "Research into AI is experiencing a boom, so we have rounded up the best of news from the past month to help you keep up to date"
-    publishedDateTime: 2023-06-29T09:32:00Z
-    webUrl: "https://www.newscientist.com/article/2379559-ai-recap-this-month-drone-kills-operator-deepminds-speed-up/"
+  - title: "These four AI technologies could be the next ChatGPT"
+    excerpt: "The rapid acceptance of ChatGPT leaves us with a lingering question: what’s next? Here are four AI technologies that hold promise."
+    publishedDateTime: 2023-07-03T23:38:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/emerging-technology/four-ai-technologies-the-next-chatgpt/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 39
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27154959/SEI_161948063.jpg"
-        width: 1350
-        height: 900
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/07/andy-kelly-0E_vhMVqL9g-unsplash-1.jpg?resize=1200,630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Google DeepMind Will Eclipse OpenAI"
-    excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-will-eclipse-openai/"
+  - title: "How Businesses Can Leverage Google’s AI Tech"
+    excerpt: "Business leaders in today's tech and startup scene know the importance of mastering AI and machine learning. They realize how it can help draw valuable insights from data, streamline operations through smart automation,"
+    publishedDateTime: 2023-06-29T13:49:00Z
+    webUrl: "https://www.unite.ai/how-businesses-can-leverage-googles-ai-tech/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Will-Eclipse-OpenAI_.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
-    excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."
-    publishedDateTime: 2023-06-30T15:09:00Z
-    webUrl: "https://www.canadianmanufacturing.com/Y0iqA"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 54
-    images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
-        width: 300
-        height: 600
-        isCached: true
-  - title: "DeepMind alum wants to use AI to speed the development of green materials"
-    excerpt: "For the same idea to work in chemistry, an AI system would need to predict how a new molecule would behave, not just in a lab but in the real world."
-    publishedDateTime: 2023-07-03T02:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 53
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/02/2155848.JPG"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
-    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
-  - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
-    excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
-    publishedDateTime: 2023-07-01T15:03:00Z
-    webUrl: "https://bgr.com/tech/clippy-is-back-as-a-chatgpt-powered-ai-assistant-for-windows-11/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
-    excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
-    publishedDateTime: 2023-06-30T21:02:00Z
-    webUrl: "https://bgr.com/tech/heres-why-google-thinks-its-gemini-ai-will-surpass-chatgpt/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Gemini.jpg?quality=82&strip=all"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Here’s Why Google DeepMind’s Gemini Algorithm Could Be Next-Level AI"
-    excerpt: "Google DeepMind's CEO, Demis Hassabis, says their Gemini algorithm will use reinforcement learning to take AI beyond GPT-4."
-    publishedDateTime: 2023-07-02T18:11:00Z
-    webUrl: "https://singularityhub.com/2023/07/02/heres-why-google-deepminds-gemini-algorithm-could-be-next-level-ai/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 34
+      name: unite
+      domain: unite.ai
+    quality: 19
 
 secured: "H3oVismUpAtai/31I0FwdTWihvO57NJZc5kKN5dGZkz7EBivjcl/wLSf6h1Z3/kW9EnKUvTiIdQx7+Hi4T5MUkk5nBXU2OEbkBJ4Q1xLi+Bn3DeqcO/ZlYQXVaOoW1xURZuwEVADep8+RwdjoZmo5JzEt2TdJEv51LAobiA3MA/n7VnjS71W4lTrJvmXajPj5afcrAnb+5T/0BT9/eUKXwxi8r2vGgZCJeJDl8cTS742xi+NcFoGM4cDnuflQWjpSwa9ei8XMIiV+5eDBj67Mt9fCG1OdKgbYnVYRPN91uYLk4uGBbMQpszgGGDthqyzzFN5zd4BjfeYunjdg3CJVVPU7Pt5eAOxaygjZZP/hMI=;ri/KVAG7bZYFy1djQjgqrQ=="
 ---

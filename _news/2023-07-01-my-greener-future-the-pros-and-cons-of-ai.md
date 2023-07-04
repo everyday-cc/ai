@@ -7,7 +7,7 @@ originalUrl: "https://www.dailypress.com/2023/07/01/my-greener-future-the-pros-a
 webUrl: "https://www.dailypress.com/2023/07/01/my-greener-future-the-pros-and-cons-of-ai/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "The future? Artificial Intelligence and safety"
-    excerpt: "Is safety a good fit for AI? Graham Sharp at Stanley thinks so. Here he shares how the technology is changing the landscape."
-    publishedDateTime: 2023-06-29T05:45:00Z
-    webUrl: "https://www.shponline.co.uk/technology-2/the-future-artificial-intelligence-and-safety/"
-    type: article
-    provider:
-      name: SHP Online
-      domain: shponline.co.uk
-    quality: 37
-    images:
-      - url: "https://s32891.pcdn.co/wp-content/uploads/2023/06/G39DX0-scaled.jpg"
-        width: 2560
-        height: 1850
-        isCached: true
 
 secured: "o3E/Beb7qS5I/YRvpEj5fQvG/e9L23bUvT1UfqW+F/ic99SjaTFCHyPYF8dkPACHXqFwTRXIBdEFEV/Tp3AeDs1TLfU/datssMDmD5BoH4OP+3cI2JtShgiirdbmJr+wZ6MTo4UxzApu/Eglb0Cr1inyW4IglW0KmobvlogTU73nbKRjjiHeAChw85v9HWhg4Nge9v8kqIzpAdP+ZUK9b89WyvEYrHr1oecnBhgBBsnDX1K0RcJkafQqPrkmu3k45W4iYFNzevPDx/TKtJJHMIWgxx0ts0N9IDR4Ex2pXWUrXc8uqjHC2FmXwuYapxRrqud79SNyYqKZSeFFVSCB4BEHYli27VooytcfDMrw7uIJPFpPKm3isYzbnOTk6zLCiNYv5rhG8+ndBiPuxBIDUkWA+aAvscUW25L6UpHH56MsF4DEVsCbOBT4rEZzFOctoqjaLkT0ioBDyiClzuFQ8KJa1dcUOsDmPEcUy8k+jPU0L7RpcqEmblLId9TJ3zjoT3Zzm+wa0jvT+cYVX77rOQ==;1bPt1h2wQ7nJhYTZ9swcXw=="
 ---

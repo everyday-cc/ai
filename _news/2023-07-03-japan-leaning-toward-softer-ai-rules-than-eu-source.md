@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "EU to Work with Japan on AI and Chip Supply Chain"
-    excerpt: "The European Union (EU) is set to work with Japan in a bid to boost its Artificial Intelligence (AI) and chip supply chain."
-    publishedDateTime: 2023-07-03T14:29:00Z
-    webUrl: "https://www.coinspeaker.com/eu-japan-ai-chip/"
-    ampWebUrl: "https://www.coinspeaker.com/eu-japan-ai-chip/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/eu-japan-ai-chip/amp/"
+  - title: "Company executives urge Europe to rethink its world-leading AI rules"
+    excerpt: "More than 150 executives are urging the European Union to rethink the world’s most comprehensive rules for artificial intelligence"
+    publishedDateTime: 2023-06-30T14:17:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/executives-urge-europe-rethink-world-leading-ai-rules-100536838"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/executives-urge-europe-rethink-world-leading-ai-rules-100536838"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/executives-urge-europe-rethink-world-leading-ai-rules-100536838"
     type: article
     provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 74
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/07/eu-japan-ai-chip.jpg"
-        width: 1170
-        height: 780
+      - url: "https://s.abcnews.com/images/International/wirestory_c2f08ee87d82cea63cfcbfa166709d52_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Japan Takes a Relaxed Stance on AI Regulations to Drive Economic Growth and Lead in Chip Technology"
-    excerpt: "The proposed leniency in Japan’s AI regulations could potentially undermine the EU’s efforts to establish its regulations as the global standard, particularly concerning the disclosure of copyrighted materials used in training AI systems responsible for generating content."
-    publishedDateTime: 2023-07-03T18:20:00Z
-    webUrl: "https://techstory.in/japan-takes-a-relaxed-stance-on-ai-regulations-to-drive-economic-growth-and-lead-in-chip-technology/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 20
 
 secured: "XlkMmIv9crMU0kH11Lxxpn1RAtMx3p8zbhFTU7MMRjT1YqkhZdAbrCl98ZaUH3JfmadLmCSi2oBmqc0cwk2RkAvNHemqSV2IX4E8WXNI1VEMyADhV2E9GK4kRl1pffZCUjHRogO5Qc6XmbSPdCHztEbJF0Fh1Pt1dutDowcsjuy5IPTGsDshEsCcI1If+/2GMzmvOZg4hkGKgJgEPpgZCzRT2zVi42/dr1Tl1+KJR7PYgUFpX40YZBBlhho/EOmvuqgPaKXFLcBoqlLGOFZaZpNd2B0I+6kVUyM/FvWOMkXJXduNnJ1eGm6qcdQLqCyk6slRNCbzSbI9qeGWSWZ0UKGSgoOMIYxK2emMLq+dgrk=;ibEItthG2APwWfoDZ+b4dg=="
 ---

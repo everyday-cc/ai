@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-businesses-can-break-through-the-ch
 webUrl: "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/"
 type: article
 quality: 67
-heat: 80
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,52 @@ images:
     isCached: true
 
 related:
+  - title: "SKT sprinkles ChatGPT over AI chatbot"
+    excerpt: "SK Telecom upgraded its A. chatbot with new features it pledged deliver a smarter conversational AI, including ChatGPT elements."
+    publishedDateTime: 2023-07-03T10:53:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/"
+    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/05/MWL_SKT_AI_Service_A_650.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
+    excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
+    publishedDateTime: 2023-06-29T22:22:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/openai-chatgpt-generative-ai-lawsuit-rcna91892"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "These four AI technologies could be the next ChatGPT"
+    excerpt: "The rapid acceptance of ChatGPT leaves us with a lingering question: what’s next? Here are four AI technologies that hold promise."
+    publishedDateTime: 2023-07-03T23:38:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/emerging-technology/four-ai-technologies-the-next-chatgpt/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 39
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/07/andy-kelly-0E_vhMVqL9g-unsplash-1.jpg?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Businesses Can Leverage Google’s AI Tech"
     excerpt: "Business leaders in today's tech and startup scene know the importance of mastering AI and machine learning. They realize how it can help draw valuable insights from data, streamline operations through smart automation,"
     publishedDateTime: 2023-06-29T13:49:00Z

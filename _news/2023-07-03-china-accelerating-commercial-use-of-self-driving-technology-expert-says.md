@@ -1,12 +1,12 @@
 ---
 category: news
 title: "China accelerating commercial use of self-driving technology, expert says"
-excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years, said Nikolaus Lang, managing director and senior partner at Boston Consulting Group."
-publishedDateTime: 2023-07-03T03:14:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
-webUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years,"
+publishedDateTime: 2023-07-03T03:32:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+webUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
+    width: 544
+    height: 362
+    isCached: true
 
 related:
   - title: "Inside an Aurora Self-Driving Truck Testing in Texas"
@@ -57,6 +63,6 @@ related:
       domain: azcapitoltimes.com
     quality: 4
 
-secured: "iVpCgYeupCZwQcP9P/GFT48pqfp93hySDFGsxUYbp5EPc7O7tiWSgiBWjNvjDkOro8mUVKUqhM4x3TXe9J2Z176Hr91bEk/IzjGPOSleMFxpJNKwjezh6SGPCDiy13GekmjphlYtPKg+ZrKOCeLijlKnh71RDSGqlNvaSLNGMEuS4awKmJ4y1dJ2N9M+4w2cHFI1Qv9IxroFcUOc3Y7q3qnrPviwo5BlBn/yLw0yb3tnDYPgDXXIP1Ukt0Pw0SkpyVoou5y8MpsBBf7cHhAIQ5OuItMq9tlrL5wED5EFkI05yXN+qB9S/4Ij5u5KmFSYhKqolnucfw6vxAqw20XlozkCeLc6Fji4DqfAYiPwD5+4o6nEMOvFWbDrw88S/Fx1HK7ReJkOZflrG6fg7/n7c7m4DUeNle+ZR8r1N6LPnuOgZ0mU0HqiU8tPI5VVhB/ibejThVN8WyNCGAu1f4qxCzEkpywMh58YH+9WnMTflPJ87WmWY8lHguedzdmRIpw/3+Sa7SlD5BajzQJXz2dfDA==;fQXd2gQkT7f3RPb88+i7pQ=="
+secured: "LI/ak3Z88/6JufLRN0tRrgseYfIKDSptrRIZdzTz4now4MQZg5H6vi94FfgjAG7qoJcGE7po8NiwHtUGOjUw41alk4JAbZNIJGEt2bB7+J9zj5KziMXCO6cwgAU9NGUOHhh6mqlh13B82OG2vDfPqoUxMbn2ULnQuMz8ojchtn8rNxuvbzPX7VOpi+OvMIij5uhkuNtHfyvMi1dmAcVuB/MyJzWmG+zsJc21MGBMbHJNx1ZxFOPVnW3QnztxODpupl6KMNRPpysT6WQ1JgAlpG1mV7Eh54yH5yMeeGz37y6Jis14C1LbkPiQQZzf0W4PBI2OGw8jiy+rTdwJ+Jq3n7Aj8JKbU6YBnRZSUxU3mHI=;HULTFUUckzP+eUAdnw3E4w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-hiring-law-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-hiring-law-new-york-city/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI hiring tools to be audited for sexism and racism under New York law"
-    excerpt: "A New York City law is requiring companies to show that the AI-powered tools they use in hiring and promotion are not biased. Critics say it lets most employers off the hook"
-    publishedDateTime: 2023-06-29T06:01:00Z
-    webUrl: "https://www.newscientist.com/article/2376984-ai-hiring-tools-to-be-audited-for-sexism-and-racism-under-new-york-law/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27175015/SEI_161950089.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "HBTZ/pYr5oLSouJDP32EZFLyzQ/uiAL//RKGnvcS4KFNA9pKUmUgX70fYYZ9ATn0IiiCHKLqvGhymVVwxGyaXoZgLaIJjzQDTOqt8wdttYDcpaKRu9k3A5A0oKvMyAj+0quT7n0rwEaS4aMPt9yFQt3zDzx09k7g65cdNXEC4INa8UYSBUWg1xyH6IU3mTZ7oKPmyTk9ric9yzBMODVliteZrXVPl1WURsunAqYNeKRO85MXbad0UvH1Mj1m4xWrisNv/AT08bZNbRzfdSjaoRdVjoee9YkIZxeObVnMBmdE13xIQHwemVIXYOzZ4hPyykbhuAL/rXESE7UltISFWOTH8ewZoF3I1LIYlQOMB4s=;Fr1a5tex+helYyQSWkFiDQ=="
 ---

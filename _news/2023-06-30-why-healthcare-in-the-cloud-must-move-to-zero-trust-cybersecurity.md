@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-
 webUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI to tackle cybersecurity: Rubrik and Microsoft deepen collaborations"
+    excerpt: "Accelerating cyber recovery through generative AI and natural language processing (NLP) is the aim of a joint collaboration between zero-trust security vendor Rubrik, Microsoft and Azure OpenAI. This integration is hoped to offer a \"truly actionable use of AI\" to reduce the time required to investigate and determine responses to cyber events,"
+    publishedDateTime: 2023-07-03T12:05:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4119310/ai-tackle-cybersecurity-rubrik-microsoft-deepen-collaborations"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 34
 
 secured: "l465DhIrHsquoHPEZqpaQ4Ot10zqtJ75o5CSU2f+b7bV+D2FIun6fyahWysauTgPhT/kkNuP4YJIoGpmkzy11miGU9rhAgJURqkQmxabr3fXPl+GfZ3b9p7XsFahxm8U2MswlzNhJkhFOFNFwlH6ftElF2TBL+Ypm+7f8NUOnPw/9efv0Y2yqgSireGIMEZ5Vs+gBMJaM05ZXP2fu7IFc/+A/L83ohove5/Ae09Mgr6WgeOqDhbP87sVxsPbYijgKgWWhLY7BzlFE2LEVcjSJQRb3FuX8zI8wqcVKtJPq0I5uXoX33e41eQKDygoIIQSKn0N4KDp2z+YC5rKz9kkEEd+3dWKzBTqJV7tEUVEEmv29kW57DP9uL0oseRrx28KoPuQAfPlQ/brZ9itjOdFzQBRmyc3XF8ZcOtUK/mHo6C15hy8LFWVA68CBiJtCAKD0x+X8dPuu5aUc6o6wvibTTqCoVBg1ZuxuRTkQagYKwrRQh4Fmot8K+umrQ4JB8QukdGsac2kGMi3JWLp4XxoVA==;2a4FF0Z8sMCJNqrY8UD7OA=="
 ---

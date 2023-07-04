@@ -9,8 +9,8 @@ ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
 type: article
 quality: 59
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRound
@@ -27,82 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Health care's AI revolution is well under way, say experts"
-    excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
-    publishedDateTime: 2023-07-03T20:55:00Z
-    webUrl: "https://medicalxpress.com/news/2023-07-health-ai-revolution-experts.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-07-health-ai-revolution-experts.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-health-ai-revolution-experts.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
-        width: 1920
-        height: 1897
-        isCached: true
-  - title: "Psychologist’s Take: 2 Reasons Not To Fear The AI Revolution"
-    excerpt: "A mix of excitement and anxiety is natural, but here’s why artificial intelligence is likely going to enhance our lives."
-    publishedDateTime: 2023-06-29T19:18:00Z
-    webUrl: "https://www.forbes.com/sites/traversmark/2023/06/29/psychologists-take-2-reasons-not-to-fear-the-ai-revolution/"
+  - title: "The Industrial Revolution, Y2K, The Internet & Generative AI. Still The Same Old Story."
+    excerpt: "As we attempt to regulate AI, we should also explore its amazing capabilities. We should do so as optimistic explorers, not strippers worried about victims of technology."
+    publishedDateTime: 2023-06-30T15:02:00Z
+    webUrl: "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/"
+    ampWebUrl: "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "13 Principles for Using AI Responsibly"
-    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
-    publishedDateTime: 2023-06-30T12:14:00Z
-    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
+    quality: 79
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649eea1ecc0ec4522e0b9757/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 1249
         isCached: true
-  - title: "New computer-vision system aims to revolutionise shrimp farming practices"
-    excerpt: "The AI-based MonitorShrimp project, led by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI), in collaboration with shrimp farming companies Oceanloop and Sander Holding,"
-    publishedDateTime: 2023-06-29T06:25:00Z
-    webUrl: "https://www.efeedlink.com/contents/06-29-2023/5597ea33-5b8f-49f1-82e0-0e446dc51ce5-0001.html"
-    type: article
-    provider:
-      name: efeedlink
-      domain: efeedlink.com
-    quality: 38
-    images:
-      - url: "https://www.efeedlink.com/cps/images/2023/june/2023062914191498243232.jpg"
-        width: 900
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
-    excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
-    publishedDateTime: 2023-07-02T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 37
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
-        width: 1100
-        height: 550
-        isCached: true
-  - title: "Mike Muse Breaks Down the Intersection of Music and Artificial Intelligence"
-    excerpt: "SiriusXM host Mike Muse spoke to The Root about the connection artificial intelligence has with music and how it affects Black art."
-    publishedDateTime: 2023-06-29T14:41:00Z
-    webUrl: "https://www.theroot.com/mike-muse-on-the-intersection-of-music-and-artificial-i-1850590641"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 15
 
 secured: "LRj7xA6Roh4HXVnX5pYt7/umQSsuLDUH07nQJX6U1zsLJhq5cES0elC+avNTwLmFonD48guXu4bS+CGi88JthA/LDgcGkOsCs+8vCEp5NSn4gdR9WaJq51G2egxCf9gBdBkXmeRjm3g7qwbyVWineXhDXIyPZZSjZTjNkRQ2FGzqwJPrIygb7CDqR2ZcDHePbo0ZB1Zhz9sCV0WuJT3f7Z18zQ9AODf3EyjcEj64DAT3Cvg4VNTOJcxiJIG0HV27WkRnCnkb/kdEWGfTlyFkHGk10HDXaMFvPDnxSDGaSVRqZVaWznUY1ka7WcJTIESFER73g1ob0KbVPCOYCb+w9eU2HTyZ2Q6LvrMzKRoTcLg=;n7NcwQCcUJbuxEIZQuxQaA=="
 ---

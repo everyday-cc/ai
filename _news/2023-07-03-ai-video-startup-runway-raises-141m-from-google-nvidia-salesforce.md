@@ -18,75 +18,49 @@ topics:
   - AI
 
 related:
-  - title: "AI Startup Typeface Raises $100 Million From Salesforce, Google"
-    excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including the investment arms of Salesforce Inc. and Alphabet Inc."
-    publishedDateTime: 2023-06-29T07:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google"
+  - title: "Runway, a startup building generative AI for content creators, raises $141M"
+    excerpt: "Runway, a startup building generative AI tools geared toward film and image content creators, has raised $141 million in a Series C extension."
+    publishedDateTime: 2023-06-29T18:00:00Z
+    webUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/"
+    ampWebUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOqsa6PLReLk/v1/1200x751.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/gen-2.png?resize=1200,617"
         width: 1200
-        height: 751
+        height: 617
         isCached: true
-  - title: "AI Startup Typeface Raises $100 Million From Salesforce, GV"
-    excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including investment arms of Salesforce Inc. and Alphabet Inc."
-    publishedDateTime: 2023-06-29T07:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google?leadSource=uverify wall"
+  - title: "Inflection AI Raises $1.3 Billion in a Booming Market for Generative AI"
+    excerpt: "Venture funding in generative AI startups rose to $12.7 billion in the first five months of 2023, compared with $4.8 billion in all of 2022, according to PitchBook."
+    publishedDateTime: 2023-06-29T21:29:00Z
+    webUrl: "https://www.wsj.com/articles/inflection-ai-raises-1-3-billion-in-a-booming-market-for-generative-ai-5954424c"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOqsa6PLReLk/v1/1200x751.jpg"
-        width: 1200
-        height: 751
+      - url: "https://images.wsj.net/im-809809/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AI startup Typeface valued at $1 bln after Salesforce-led fundraise"
-    excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday that it was valued at $1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
-    publishedDateTime: 2023-06-29T07:00:00Z
-    webUrl: "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/"
+  - title: "Runway draws fresh $141 million as next-level generative AI video begins to emerge"
+    excerpt: "Runway, one of the hottest generative AI startups with its text-to-image video tools, raised $141 million in new funding."
+    publishedDateTime: 2023-06-29T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
     images:
-      - url: "https://www.reuters.com/resizer/ZSQXVFoZhkTbBX5nPujAzelH_KY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C24LFCQN3FPIPM7JQ2F3WDUUKQ.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all"
         width: 1200
-        height: 628
-        isCached: true
-  - title: "AI Video Startup Runway Raises $141 Million From Google, Nvidia"
-    excerpt: "Runway AI Inc., whose artificial intelligence software can create a short video from just a few typed words, has raised $141 million in funding from Alphabet Inc.’s Google, Nvidia Corp., Salesforce Inc. and other investors."
-    publishedDateTime: 2023-06-29T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-video-startup-runway-raises-141-million-from-google-nvidia"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBBcycoPcKg/v0/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Salesforce to invest $4 bln in UK on AI innovation"
-    excerpt: "Salesforce will invest $4 billion in its UK business in the next five years, the U.S. software company said on Thursday, thanks to strong demand for digital transformations and artificial intelligence."
-    publishedDateTime: 2023-06-29T07:06:00Z
-    webUrl: "https://www.reuters.com/article/salesforce-investment-britain/update-1-salesforce-to-invest-4-bln-in-uk-on-ai-innovation-idUSL8N38L1DZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/Bhk9gMA5x69Ey00c_W6lZi0SbO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VGY4MCSLFJZPKGYHMC7TQ5VA4.jpg"
-        width: 1200
-        height: 628
+        height: 750
         isCached: true
   - title: "Generative AI startup Typeface raises $100M to customize enterprise content creation"
     excerpt: "Typeface helps enterprises create content using generative AI with machine learning training customized on an organization's content."
@@ -102,33 +76,29 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Salesforce launches Sales GPT, Service GPT to ease customer interactions through generative AI"
-    excerpt: "Sales GPT and Service GPT are designed to simplify workflow and customer engagement for Salesforce customers in various industries."
-    publishedDateTime: 2023-06-29T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-launches-sales-gpt-service-gpt-to-ease-customer-interactions-through-generative-ai/"
+  - title: "Causely launches Causal AI for Kubernetes, Raises $8.8M in seed funding"
+    excerpt: "Causely, a Boston-based AI startup, announced today that it has raised $8.8 million in seed funding, led by 645 Ventures."
+    publishedDateTime: 2023-06-29T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/causely-launches-causal-ai-for-kubernetes-raises-8-8m-in-seed-funding/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 54
-  - title: "AI startup Typeface valued at US$1 billion after Salesforce-led fundraise"
-    excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday (Jun 29) that it was valued at US$1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
-    publishedDateTime: 2023-06-29T13:10:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-startup-typeface-valued-us1-billion-after-salesforce-led-fundraise-3594491"
+    quality: 47
+  - title: "Inflection, Runway and Stability receive funding as capital pours into generative AI startups"
+    excerpt: "Today several generative AI startups received funding, including the chatbot startup Inflection AI Inc., the AI-powered video generator startup Runway AI Inc. and text-to-image generator Stability AI Ltd. Inflection AI, an AI startup building chatbot that ..."
+    publishedDateTime: 2023-06-29T17:20:00Z
+    webUrl: "https://siliconangle.com/2023/06/29/inflection-runway-stability-receive-funding-capital-pours-generative-ai-startups/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 16
-  - title: "AI Startup Typeface Achieves $1 Billion Valuation in Record-breaking Fundraise Led by Salesforce"
-    excerpt: "With the additional capital infusion, Typeface is poised to accelerate its growth trajectory and continue pioneering groundbreaking advancements in the field of generative AI."
-    publishedDateTime: 2023-06-29T19:31:00Z
-    webUrl: "https://techstory.in/ai-startup-typeface-achieves-1-billion-valuation-in-record-breaking-fundraise-led-by-salesforce/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 4
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "F1GDS1JVHdahrvQuN9KjWSKhtIfcrX9DiMvAZGC2jbZg6f4QFj1NC8hsjPmgKHRbdqQuo257sRog5SAq7U5eb5JJghYO0aULZJuGeE8sgtUS/wHYfj1KR3sS9iPgYIk2KY2XxOq/hJHgM2o84jdTmgZwNlNtFx6PccSYX1hf9Opg4ZhXbBmfq+Ny60MrJzw5jDGFQaUKJCkDhXlsn/p0MAIP6izntZKgIFUL7GWmHCQuBnX8T5fLflskH8ziT/+pF+LSKJmC4MFkWKC7UMBoDlG5PdJKPUYZSNm8B3gcpcWv2gBfgkj6yo9196Bq3//ZfJXNFlZ+MyXooWHFRMHV7YRGUWJ6CVW55p8btBTU24zz6QRET/Jobkb2NAnGkQUcbhXdYlhEl70kkpWGsDdu+aHXgYYHEuDKkI/qBkWQITLf5JtoxZgSbqBBCQFW7CsB+yKItZsGDnFAOF2OVys4jVZ+bVE/yggDXFlsQIBXgqc8gJdXzHnYcX7rUQVIolcLTTRdcvNFFLJMOftbE1vGmA==;I60/Ckue4cqLtjKgzw/qwA=="
 ---

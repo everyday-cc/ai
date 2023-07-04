@@ -20,59 +20,48 @@ topics:
   - Google AI
 
 related:
-  - title: "Inflection AI collects about $1.3 billion during a fundraising round"
-    excerpt: "Inflection AI, a Palo Alto-based artificial intelligence platform, announced that it has completed its fundraising and it amounts to about $1.3 billion. Supposedly this was led by Microsoft, Reid Hoffman,"
-    publishedDateTime: 2023-06-30T07:26:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
+  - title: "Microsoft-backed AI start-up Inflection raises US$1.3 billion from Nvidia and others"
+    excerpt: "Inflection AI, a start-up backed by several Silicon Valley heavyweights, said on Thursday it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence sector."
+    publishedDateTime: 2023-06-30T04:15:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3226037/microsoft-backed-ai-start-inflection-raises-us13-billion-nvidia-and-others?module=live&pgtype=homepage"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: scmp.com
+      domain: scmp.com
+    quality: 77
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Image-Credit-Freepik223.jpg"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/30/4ff25e8b-e17a-4500-a848-98bb487106da_4d9e4cec.jpg?itok=qOp0jsJV&v=1688096928"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Generative AI company Inflection AI raises $1.3bn from Microsoft, Bill Gates, Eric Schmidt, & Nvidia"
-    excerpt: "Inflection AI raised $1.3 billion in a funding round led by Microsoft, Reid Hoffman, Bill Gates, Eric Schmidt, and Nvidia. The generative AI startup claims that it will build the largest AI cluster in the world comprising 22,"
-    publishedDateTime: 2023-06-30T16:38:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/generative-ai-company-inflection-ai-raises-13bn-from-microsoft-bill-gates-eric-schmidt-nvidia/"
+  - title: "A Year-old Startup Inflection AI Raises $1.3 Bn from Microsoft, NVIDIA, Bill Gates and Others"
+    excerpt: "A year-old AI startup Inflection AI, led by CEO Mustafa Suleyman, has secured $1.3 billion in their latest round of funding."
+    publishedDateTime: 2023-06-29T16:47:00Z
+    webUrl: "https://analyticsindiamag.com/inflection-ai-raises-1-3-bn-from-microsoft-nvidia-bill-gates-and-others/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 41
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 43
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/96_OpenAI_DALLE_2_A_data_center_f.2e16d0ba.fill-1200x630.png"
-        width: 1024
-        height: 538
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/Inflection_WebAnimation_Desktop.gif"
+        width: 1000
+        height: 625
         isCached: true
-  - title: "AI Funding Explosion: Inflection AI Nabs $1.3B, Runway and Typeface Also Raise Big"
-    excerpt: "That funding, led by Microsoft, Reid Hoffman, Bill Gates, Eric Schmidt and new investor Nvidia, values Inflection AI at $4 billion, according to Forbes, which first reported the news. The new funding brings the total raised by Inflection to more than $1.5 billion, per the company."
-    publishedDateTime: 2023-06-29T17:49:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/funding-explosion-venture-generative-ai-unicorn/"
+  - title: "Winners Of The Microsoft Ai For Accessibility Hackathon 2023 Showcase How Inclusion Is Innovation In Asia Pacific"
+    excerpt: "(MENAFN- dubai pr network) singapore - media outreach - 28 june 2023 - the microsoft ai for accessibility (ai4a) hackathon 2023 is an annual event for teams in asia pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
+    publishedDateTime: 2023-06-30T04:29:00Z
+    webUrl: "https://menafn.com/1106518886/Winners-Of-The-Microsoft-Ai-For-Accessibility-Hackathon-2023-Showcase-How-Inclusion-Is-Innovation-In-Asia-Pacific"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 35
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
-        width: 900
-        height: 506
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?290279"
+        width: 452
+        height: 250
         isCached: true
-  - title: "Inflection AI — Reid Hoffman's new AI startup — scores $1.3B in new funding"
-    excerpt: "Inflection AI, co-founded by one of the co-founders of Google DeepMind, is the latest AI startup to score a massive funding deal."
-    publishedDateTime: 2023-06-29T19:27:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/06/29/reid-hoffmans-inflection-ai-scores-new-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 15
 
 secured: "6ud/H2AMfWv4/M+l1cbw4OQ82UMoQeEMsaJtA+M5nAJSowxdKWUIinzP3fGoxI9ZvA5HnInptyFK39j76XRLFRaKdsowMjdV6H0QrJClg3ow0tkH9BEwHSRVM5nJtz9PcraIzCoLole9yC5rcLr+j3NWGTbiP2fubWusiNRdWNRX+CJ6T2KDPLS9u2zKNR8ziVfL0LSswB+0MSW7vNXULHkRTFlzggz9DLugEBRoK8Sw/A0eXPejf/nKiTqzH+187lybDcugACTGN2yfZiu7r+lcsa2Vr9lsmy9mhuIwEdHNghZpzAVMe5nfylqF+1gjKsXF7PK7x6nFCWvqVz/B5Ly/Rg0gdDk7m67g+OKKbsQ=;LllXnQmN3ftyKL81Z9pm2A=="
 ---

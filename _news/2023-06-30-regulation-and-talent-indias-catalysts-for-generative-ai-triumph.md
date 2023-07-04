@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Indigenizing artificial intelligence and programming"
-    excerpt: "The Lakota AI Camp has returned for a second year, from June 11-30, to bring Indigenous teens to the Black Hills for a three-week AI crash course camp while simultaneously"
-    publishedDateTime: 2023-07-03T11:31:00Z
-    webUrl: "https://rapidcityjournal.com/news/indigenizing-artificial-intelligence-and-programming/article_4e761cb4-1209-11ee-8a43-677bcecc3cc0.html"
-    type: article
-    provider:
-      name: Rapid City Journal
-      domain: rapidcityjournal.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/4/e7/4e761cb4-1209-11ee-8a43-677bcecc3cc0/649f40bf75ea7.preview.jpg?crop=1810%2C950%2C0%2C97&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Airport face biometrics expansion in US, India accelerating"
     excerpt: "The expansion is part of a trend towards the use of face biometrics by government authorities, in a boon for vendors like Dignari and Idemia."
     publishedDateTime: 2023-07-03T19:24:00Z

@@ -49,20 +49,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Indigenizing artificial intelligence and programming"
-    excerpt: "The Lakota AI Camp has returned for a second year, from June 11-30, to bring Indigenous teens to the Black Hills for a three-week AI crash course camp while simultaneously"
-    publishedDateTime: 2023-07-03T11:31:00Z
-    webUrl: "https://rapidcityjournal.com/news/indigenizing-artificial-intelligence-and-programming/article_4e761cb4-1209-11ee-8a43-677bcecc3cc0.html"
-    type: article
-    provider:
-      name: Rapid City Journal
-      domain: rapidcityjournal.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/4/e7/4e761cb4-1209-11ee-8a43-677bcecc3cc0/649f40bf75ea7.preview.jpg?crop=1810%2C950%2C0%2C97&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Food Allergy Institute's Inderpal Randhawa, MD Discusses the Relationship Between Artificial Intelligence and Medicine in In-Depth Video Interview"
     excerpt: "Food Allergy Institute (FAI) founder Inderpal Randhawa, MD, was interviewed by an investigative reporter for an in-depth discussion on the current state of artificial intelligence (A.I.) and how he an"
     publishedDateTime: 2023-06-29T15:31:00Z

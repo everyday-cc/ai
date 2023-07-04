@@ -18,6 +18,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Startup Invest Inc. Introduces Revolutionary Machine-Learning Investment Platform"
+    excerpt: "With a strong focus on democratizing access to valuable insights, Invest.inc goes beyond traditional retail investment platforms. By combining supervised and unsupervised machine learning algorithms,"
+    publishedDateTime: 2023-07-03T12:57:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/03/9842696.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "1JPFb6z76FoUd/45+ynMaKLgL7xpwJA90Udpurp3cCH0RirBOKyeh+PxLICNeKDfYb9uYkRMXB6vVUx5KAiIFe9/OWGnbG3g1MjuhqubCTFh0SjgqLnKJ51/9Cm1k0NN09FsC3rAKmRL5lYKkJXv4PBIX2hPIo0SBtX0MoRJQQbdH/hjZl1tYpq9fZr2C3Oq4p6YoVYbDyk8upL9wwggvLjhcF2ABqJuPRILjNsOnTM5oubEIqKovD2j1dL6z0D5cv49nF47K8K8C/5h+J8RC49nC5OHhuuMSmk6VbStB2g8on19zZYhZso8KbFvl2Of1LT24OKHway8AXXZB5nl72JSKz8P6Dw5m0Ny4za7Gdc=;zNwKC4eVNokIBzpz6Hi6uQ=="
 ---
 

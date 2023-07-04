@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-where-does-cadence-stand-1032420971"
 type: article
 quality: 84
-heat: 98
+heat: 94
 published: true
 
 provider:
