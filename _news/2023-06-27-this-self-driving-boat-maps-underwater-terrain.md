@@ -1,70 +1,24 @@
 ---
 category: news
-title: "This Self-Driving Boat Maps Underwater Terrain"
-excerpt: "The rudderless watercraft operates with four thrusters, allowing it to travel up to 5 feet per second and easily rotate 360-degrees."
-publishedDateTime: 2023-06-27T15:27:00Z
-originalUrl: "https://www.manufacturing.net/operations/news/22865940/this-selfdriving-boat-maps-underwater-terrain"
-webUrl: "https://www.manufacturing.net/operations/news/22865940/this-selfdriving-boat-maps-underwater-terrain"
+title: "This self-driving boat maps underwater terrain"
+excerpt: "Engineers concoct an easier way for scientists to study underwater topography. Step aside self-driving cars, self-driving boats are here -- and they can do more than take you on a cruise."
+publishedDateTime: 2023-06-27T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/06/230627225145.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/06/230627225145.htm"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Manufacturing
-  domain: manufacturing.net
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/boat.649af49c0ba67.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C4%2C700%2C394&w=1200"
-    width: 700
-    height: 394
-    isCached: true
-
-related:
-  - title: "UTEP researchers construct self-driving boat that maps underwater terrain"
-    excerpt: "Researchers at the University of Texas at El Paso have constructed a “fully autonomous boat” that can make it easier for scientists to study underwater"
-    publishedDateTime: 2023-06-27T17:46:00Z
-    webUrl: "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/"
-    ampWebUrl: "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/"
-    cdnAmpWebUrl: "https://www-ktsm-com.cdn.ampproject.org/c/s/www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/"
-    type: article
-    provider:
-      name: NewsChannel 9 - KTSM
-      domain: ktsm.com
-    quality: 58
-    images:
-      - url: "https://www.ktsm.com/wp-content/uploads/sites/38/2023/06/Autonomous-Boat_5-1.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "This self-driving boat maps underwater terrain"
-    excerpt: "Step aside self-driving cars, self-driving boats are here — and they can do more than take you on a cruise. Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys — surveys of the depth and terrain of bodies of water like oceans,"
-    publishedDateTime: 2023-06-27T17:45:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/993768"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/00eb77c9-3e44-41dc-b1cd-f2fa1a17eac7/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "This Self-Driving Boat Maps Underwater Terrain"
-    excerpt: "Step aside self-driving cars, self-driving boats are here—and they can do more than take you on a cruise. Researchers at The (UTEP) have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans,"
-    publishedDateTime: 2023-06-28T18:06:00Z
-    webUrl: "https://www.labmanager.com/this-self-driving-boat-maps-underwater-terrain-30510"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 19
-
-secured: "5/5fbtkb7dTj24Awxbl6bdSmCgvse8ZVVg8Z1EkRPEYIwDi6QMgZ+aZ5GOrze5G2A4i85qVGG9CDsTr5eP7RoPiYlNL7x+R5vdL/dqDhlv2qKhQliLzCCFf6Q6SA5b1RGQ/K8D/5YyGpjYaJmiazSfwfQMPY4K+/ux5pz0XsnwX2kvHyDpA+z8UdY27I4NUGUxB7OtQxEJ76+mqJVGmRR/iA+vKtRYaMJbc8WnE7DEo7RIb/u2/fNgX7Jqggs6kRE/qbFeD0j+p43w7u0rroQVsYvnUXbb6fDoM80anjY5yIVizCTYiyLSrlR4+dap77zBpiax0vot0BJECQmEGfE7Y6YPL6C9jlP8quafs50hQMV+3zExT87dt0Sk8N7I7Ygr1lfdmSJ4ZMH5L8SJIcDUKWc0CW3anakiCoQT1VPH74IM69iwcb9blORLPOO4AFd86aMP7B1DdTJAnX7EkS+ps6L1mkhbvOks6cyh56mTgY08T5o9TxXI/PIox5oMT7DzD64trhKzjZMqJO6BZheg==;8IhZaBKMp0k0V51pDXVguQ=="
+secured: "8I9fLKdU46M0XMSTnuoraupFwTV/fCk9M7rAMZyKXASzS8RGSLSXNI5pMwTKl2UNMJtcbxAR1/d28SfZd72/i3ZxNM7sbK2JIngdcBABqJYk+ui8Uic61AsDaSimvpafkKcCs7qKQFcVOvnYehilA0YKu4g+L9u52HheMh/amvfORmT5DKrh0i1KwPCeKeONtCbOPxb7cwhdJOLSxwVDkUfdByWida2cZ64BgB8AHdbrBTAwomd9rcfqpBfXy1loqS9rLfNIikC+r/GFAuAiZtO3r2lYESWBtKLKzDLkRjFZcsZrCrCieBHHlBihyTvT71hAhflbR3HM8nKPYoPeCDgMGP0GDSKRJBM3xGrIb98=;MvxfQoJSt9GkDvT97Bh8dA=="
 ---
 

@@ -24,17 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Opinion: What GenAI can't tell yet — is your organization ready for AI?"
-    excerpt: "With the rise in generative artificial intelligence, development organizations must define their visions and strategies for data and AI ethics."
-    publishedDateTime: 2023-06-29T07:41:00Z
-    webUrl: "https://www.devex.com/news/sponsored/opinion-what-genai-can-t-tell-yet-is-your-organization-ready-for-ai-105639"
-    type: article
-    provider:
-      name: Devex
-      domain: devex.com
-    quality: 19
-
 secured: "ujataRmdGqYfckpGacOIGqSkAzboVhN0TkK+9phgxXESBaTj0+e02PMqbjvc9vhzv5Qhebddj6gKbiy26mEnJuuXlpt0RQL10wHYz6RXqreglRr5BRGriPdSNixetx9SIfFGvEsykmf9tWo2gXSZ8hqpqJGt7JUJzulgyM8j/U0g3gGxMMWwLnC25vjeljcBdd7ttozabIPoQF914WZ5AHN39SSUu6Jj3v7o2o9gihH8/KC7DloKml2NoP7aOeXOxz6gLZQSNbagySF2lprXaEbtftmgsn6bMrj+Gfrh7P2xasZd3icWSQW4x9HHtB3zIuvvqqijGh2Ymil742I73CERmBgEi9XXyOcgEa5tZObANu756iJShSfZh9jieaCzIBd7zqPVQ5rtTn61yS5K4tc94ep76LM0ez8b3Fc+oMFv9l74J4TQwP6TeHQt8yWmnnl6WtMtjdLoBg25hsKIZ0h2GasbVuWnCkVHtJseXzQprng+eNEdVrA3921Bv56Tm88wkahv//pdZMpppiPn5A==;3GPWJ9msEga9SeKuDlvSzA=="
 ---
 

@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Salesforce to invest $4 bln in UK on AI innovation"
-    excerpt: "Salesforce will invest $4 billion in its UK business in the next five years, the U.S. software company said on Thursday, thanks to strong demand for digital transformations and artificial intelligence."
-    publishedDateTime: 2023-06-29T07:06:00Z
-    webUrl: "https://www.reuters.com/article/salesforce-investment-britain/update-1-salesforce-to-invest-4-bln-in-uk-on-ai-innovation-idUSL8N38L1DZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/Bhk9gMA5x69Ey00c_W6lZi0SbO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VGY4MCSLFJZPKGYHMC7TQ5VA4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Salesforce launches Sales GPT, Service GPT to ease customer interactions through generative AI"
     excerpt: "Sales GPT and Service GPT are designed to simplify workflow and customer engagement for Salesforce customers in various industries."
     publishedDateTime: 2023-06-29T18:07:00Z
@@ -41,15 +27,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 54
-  - title: "AI Startup Typeface Achieves $1 Billion Valuation in Record-breaking Fundraise Led by Salesforce"
-    excerpt: "With the additional capital infusion, Typeface is poised to accelerate its growth trajectory and continue pioneering groundbreaking advancements in the field of generative AI."
-    publishedDateTime: 2023-06-29T19:31:00Z
-    webUrl: "https://techstory.in/ai-startup-typeface-achieves-1-billion-valuation-in-record-breaking-fundraise-led-by-salesforce/"
+  - title: "Salesforce EVP of Product Patrick Stokes on intentional enterprise friction, 'prompt engineering' and the rise of the Chief AI Officer"
+    excerpt: "As a technologist, Patrick Stokes would love generative AI to be something that organizations can just pick up and go with. But it's not that simple... What made this discussion particularly of interest was that while a lot of the debate around generative AI has been pitched at a business executive or job function level,"
+    publishedDateTime: 2023-07-03T11:57:00Z
+    webUrl: "https://diginomica.com/salesforce-evp-product-patrick-stokes-intentional-enterprise-friction-prompt-engineering-and-rise"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 4
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "Sz0pzKLCsMacmT0YQ4dp55nJgIBqM16n+pmDaMVztIlopGzzaz+ifgeuWJJKyiXfEMiJ7rrWJu04+/KhBuL9PuOeYpqA08pFIjtva3moz5uxhWGFHw7UEeVv7mFysO2YznopGuFiAWcZwMpNgzB1OAbsw1ruk8QTWHVKPoq2YHPtVuKSgTpB3h8FdKXRu/VmroifvG4mtSCsE594GSKndvf5midLErI6Bv1cSG1gGEfg858ATit92aoY5pNFvh6LkHqpUEC8CdZTa6KRlAwscosjaR16OYDLij+Xb1VBw6P1Bdxr+g73x707EfMiCHSzvMZpWQWjiMw6UgC4VJrOml7LfiCRHaRhXMWm73fUIm82ugUvOpKzfm4wYVDUyfpfQUsNZg5sx7FXEf1NHcliuHYdh5J+t63/gLVpdwKxiRjjenjQp4bu2tU+TRhcEm56OXv3VC0B6j0b7zu0H0GiB6m6AydGMf45W78FkQS0iOrti5N0TBrcJZrMiZqze0pAzT0erZ5gQW0VmvVFd/yTKg==;lVdiskA4Nf6qFn+Jr8BFtA=="
 ---

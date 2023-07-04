@@ -2,6 +2,160 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-05-10-in-turkey-a-modern-city-sits-alongside-a-mythical-site.md",
+      "title": "In Turkey, a modern city sits alongside a mythical site",
+      "excerpt": "Turkey, sits near the site of Truva, or ancient Troy. The archaeological site is said to have been where the mythical Trojan War took place. But historians say there is real history between Homer's epic poem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
+      "originalUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230510110102-trojan-horse-tz.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
+      "publishedDateTime": "2023-05-10T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-learn-how-to-build-ai-powered-software-with-this-40-bundle.md",
+      "title": "Learn how to build AI-powered software with this $40 bundle",
+      "excerpt": "Discover how to code your own chatbots, run data analysis and even create games. This bundle includes Python and ChatGPT video courses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
+      "originalUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tra5923-chatgpt-python-bundle.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
+      "publishedDateTime": "2023-05-10T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030.md",
+      "title": "Artificial Intelligence Delivery Robot Market Detect New Industry Opportumities 2023-2030",
+      "excerpt": "Global Artificial Intelligence Delivery Robot Market report provides valuable insights on the global market for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-mediatek-dimensity-9200-chipset-announced-with-upgraded-cpu-and-gpu-performance.md",
       "title": "MediaTek Dimensity 9200+ chipset announced with upgraded CPU and GPU performance",
       "excerpt": "MediaTek’s flagship chipset offerings have been gaining recognition for their impressive hardware, and the recently launched MediaTek Dimensity 9200 was no exception. Now, the company has announced an upgraded version of this chipset,",
@@ -1043,144 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-deepmind-founder-says-governments-need-to-compensate-serious-number-of-losers-who-will-be-left-jobless-due-to-ai.md",
-      "title": "DeepMind founder says governments need to compensate 'serious number of losers' who will be left jobless due to AI",
-      "excerpt": "A co-founder of the AI company DeepMind has warned that governments will need to figure out a plan to compensate people who will lose their jobs to the new technology, the Financial Times reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5",
-      "originalUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645b735f65a21600192fe3fd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5?amp",
-      "publishedDateTime": "2023-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-heres-why-ge-healthcare-has-ma-making-fever-in-2023.md",
-      "title": "Here’s Why GE HealthCare Has M&A-Making Fever in 2023",
-      "excerpt": "On Thursday, GE HealthCare announced it has signed an agreement to acquire Caption Health, a private company that specializes in using artificial intelligence to assist in conducting ultrasound scans. GE HealthCare did not disclose financial terms of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/heres-why-ge-healthcare-has-ma-making-fever-2023",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/heres-why-ge-healthcare-has-ma-making-fever-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-2-9-195557.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-voice-recognition-comes-to-the-instrument-world.md",
-      "title": "Voice recognition comes to the instrument world",
-      "excerpt": "This COM communications scheme for speech recognition applications is one way of separating recognition functions from the main application program. Piggybacking on the PC. What makes this situation so wonderful is that the computer industry is spending ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/voice-recognition-comes-instrument-world",
-      "originalUrl": "https://www.designnews.com/voice-recognition-comes-instrument-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/dn_thumb_2.jpg?itok=GXfWv2dM",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

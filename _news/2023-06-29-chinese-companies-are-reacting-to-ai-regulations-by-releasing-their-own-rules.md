@@ -78,20 +78,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Scriptic raises $5.7M for user-generated games using generative AI"
-    excerpt: "Scriptic (formerly known as ElectricNoir) has raised $5.7 million in funding to create games based on generative AI."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://venturebeat.com/games/scriptic-raises-5-7m-for-user-generated-games-using-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/scriptic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 679
-        isCached: true
   - title: "AI catfish bots are reportedly infiltrating dating apps: ‘This guy can’t be for real’"
     excerpt: "Any AI-created profile spotted on a dating app could be an attempt by scammers to dupe users into sharing personal information, including credit card details. However, as The Post previously reported, some desperate men are turning to AI to give them a boost with women on dating apps."
     publishedDateTime: 2023-06-29T18:19:00Z

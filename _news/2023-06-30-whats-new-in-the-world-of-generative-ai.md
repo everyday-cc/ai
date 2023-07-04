@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence could change outlook of education in the near future"
+    excerpt: "It may not be long before schools and education as a whole change the way of learning due to recent advances in artificial intelligence."
+    publishedDateTime: 2023-07-04T01:46:00Z
+    webUrl: "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/"
+    ampWebUrl: "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp"
+    type: article
+    provider:
+      name: wbng
+      domain: wbng.com
+    quality: 71
+    images:
+      - url: "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/OTtXcWqzkFBkso3YLO3pO1TUI7U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DUPMDHIGTFGE3GEHQIE2AGV3BA.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Cf7GK9lfXNou8QgTKDGTEa9eaWAwud4TYeTa+DcFdpiZ0IK+qGTsoyumxOkC9Cnj4LqpYpa9IpNZ7gV1UBmYML1zx2aU6Hye9yBkqf7JULTHZUt1o1FCtG8fZQO63Ype3ATvUJEUj0+gvefzs4Ub4pTMqjfMDt6cghKqSykAxj1k1DKNE0r5/69Ar6LFOHU0mGL6D4KbhxMS+ol7Raug0iKPoShli7XjsnwBxcKuGL1RaQevsaPsAf1mf4rkiNrJV+XC0eUnOTdJ+WKNiHDiqtPINn81CzEI/er3q1FY1LjeSBIo/XVaIrv97kb7d1iNOzSK/6iQnbiYfpY+XhQVLbv9LLon8R/XuPaHd2mBHFBpnx3CaOdRpks/Pj9vKF5btAUBDt5Q5vASfewLX9ZD4+Rgurb9WJqc/FTiZBqRL5+VbgkEE3hzwL2cMSW2lM4RBtyav7O3hwmc+7UbHwR+WBf4EneDARGqZyH19del2FBk/tFI0p5Nli4a3lZQD07Z6GLsg58UsvyxCfik9MyvOQ==;cD/eAiaRmoN1XsOxZe9aeA=="
 ---

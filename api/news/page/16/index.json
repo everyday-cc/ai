@@ -2,6 +2,143 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-06-21-would-artificial-intelligence-lie-to-us.md",
+      "title": "Would Artificial Intelligence Lie to Us?",
+      "excerpt": "Many have questioned whether an artificial intelligence (AI ... “Godfather of AI,” resigned from Google—which acquired Hinton’s company and its neural-network technology—concerned that the internet will be flooded with false photos, videos ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/dailybusinessreview/2023/06/21/would-artificial-intelligence-lie-to-us/",
+      "originalUrl": "https://www.law.com/dailybusinessreview/2023/06/21/would-artificial-intelligence-lie-to-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/392/2023/06/Samuel-Lewis-767x633.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-european-uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.md",
+      "title": "European Uber rival Bolt will deliver food to your door via self-driving robots",
+      "excerpt": "Ride-hailing firm Bolt will start offering food delivery via a fleet of robots supplied by U.S. robotics firm Starship Technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107260103-1687357149458-ysXefoX4.png?v=1687361595",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "publishedDateTime": "2023-06-21T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-what-is-data-center-management.md",
+      "title": "What is data center management?",
+      "excerpt": "Data center management encompasses the tasks and management tools necessary to keep their private data centers operational, secure and compliant.\nThe post What is data center management? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-data-center-management/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-data-center-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T06:07:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-using-event-notifications-in-your-deployed-solutions.md",
       "title": "Using Event Notifications in your deployed solutions",
       "excerpt": "How to create and configure the Event Notifications service using an IaC template and configure an example application to send custom events. \nThe post Using Event Notifications in your deployed solutions appeared first on IBM Blog.\n",
@@ -1011,144 +1148,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions.md",
-      "title": "SoftBank’s Masayoshi Son Says He’s Focusing on AI Inventions",
-      "excerpt": "The CEO says he wants to invest more aggressively as tech stocks revive. “I want SoftBank to lead the AI revolution.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions-621089ac",
-      "originalUrl": "https://www.wsj.com/articles/softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions-621089ac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-803798/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-facial-recognition-cameras-to-boost-security.md",
-      "title": "Facial recognition cameras to boost security",
-      "excerpt": "Labasa may be the first town in the country to install CCTV facial recognition security cameras. This will be funded and installed by the Northern Duavata Crime Prevention committee. If you’re a wanted person with the police,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
-      "originalUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg",
-          "width": 750,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T19:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fiji Times",
-        "domain": "fijitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
-      "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
-      "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "originalUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/68381/online-ai-courses.jpg",
-          "width": 1128,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "publishedDateTime": "2023-06-20T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

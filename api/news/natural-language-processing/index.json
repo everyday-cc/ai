@@ -594,11 +594,20 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb408128-7d4a-48fd-8d51-7f163fbebcb4/40683727-51bc-4311-8026-8eb3a74ebd3c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan.amp",
       "publishedDateTime": "2023-06-27T19:59:00-07:00",
       "updatedDateTime": null,
       "provider": {

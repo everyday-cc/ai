@@ -18,38 +18,45 @@ topics:
   - AI
 
 related:
-  - title: "Salesforce to invest $4 bln in UK on AI innovation"
-    excerpt: "Salesforce will invest $4 billion in its UK business in the next five years, the U.S. software company said on Thursday, thanks to strong demand for digital transformations and artificial intelligence."
-    publishedDateTime: 2023-06-29T07:06:00Z
-    webUrl: "https://www.reuters.com/article/salesforce-investment-britain/update-1-salesforce-to-invest-4-bln-in-uk-on-ai-innovation-idUSL8N38L1DZ"
+  - title: "Inflection AI collects about $1.3 billion during a fundraising round"
+    excerpt: "Inflection AI, a Palo Alto-based artificial intelligence platform, announced that it has completed its fundraising and it amounts to about $1.3 billion. Supposedly this was led by Microsoft, Reid Hoffman,"
+    publishedDateTime: 2023-06-30T07:26:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/Bhk9gMA5x69Ey00c_W6lZi0SbO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VGY4MCSLFJZPKGYHMC7TQ5VA4.jpg"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Image-Credit-Freepik223.jpg"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "Salesforce launches Sales GPT, Service GPT to ease customer interactions through generative AI"
-    excerpt: "Sales GPT and Service GPT are designed to simplify workflow and customer engagement for Salesforce customers in various industries."
-    publishedDateTime: 2023-06-29T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-launches-sales-gpt-service-gpt-to-ease-customer-interactions-through-generative-ai/"
+  - title: "AI Funding Explosion: Inflection AI Nabs $1.3B, Runway and Typeface Also Raise Big"
+    excerpt: "That funding, led by Microsoft, Reid Hoffman, Bill Gates, Eric Schmidt and new investor Nvidia, values Inflection AI at $4 billion, according to Forbes, which first reported the news. The new funding brings the total raised by Inflection to more than $1.5 billion, per the company."
+    publishedDateTime: 2023-06-29T17:49:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/funding-explosion-venture-generative-ai-unicorn/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
-  - title: "AI startup Typeface valued at US$1 billion after Salesforce-led fundraise"
-    excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday (Jun 29) that it was valued at US$1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
-    publishedDateTime: 2023-06-29T13:10:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-startup-typeface-valued-us1-billion-after-salesforce-led-fundraise-3594491"
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 35
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Inflection AI — Reid Hoffman's new AI startup — scores $1.3B in new funding"
+    excerpt: "Inflection AI, co-founded by one of the co-founders of Google DeepMind, is the latest AI startup to score a massive funding deal."
+    publishedDateTime: 2023-06-29T19:27:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/06/29/reid-hoffmans-inflection-ai-scores-new-funding.html"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 16
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
 
 secured: "BN3rhqoSprNeVs+6Vo5oou5KIZcCLLJvs9e6SgDrHI8jsA1LojRSoWMDpiEkxUqn1ftxZum5sH5nVUpql98TWDhWoiEZ1kyyimLeqdd1Xv3kX9Gna07bNqRqWwUUfdSo9VCPCwlK0Dl+fpDz0f9DMrZc2+CklD8UsKzziaZAP0b0n68053alBATcPhKYpvXzEPkv0A93CBxE+61tg4534sBnaQMvjfvlPaUkXN6getq3wf2waSzQ2H5qyfN6jUiq4B9IjgHo+sEVurjsJkKovFQzhAkPvmfIgVSyYY3mUMqqM9yMwySyoLvm/d2qZPYoU3SvIifyXBAyKv5YgosS+nRALG4jRK9BYqW1MnMFP2TMhLWXIj/y6+l/FUK+3pQ/rI0Gn/26IxlfkTOLICc7XwZsBXJvGpxGw4hcgZs3uqEu5+QGiGbBtTf6QyGpal+3qpL9rP9cCu+F1iz2bLZ1kxMz5wS3CUsfKXGrjQ+6GzVP1uS5cL530dQhJwr4r9YbTp8fbeBs5ysjrp/7dzHMFg==;T9S+Koq56X0d+P7eD4QOmw=="
 ---

@@ -36,20 +36,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Shanghai to host major artificial intelligence event in July"
-    excerpt: "SHANGHAI - The World Artificial Intelligence Conference (WAIC) 2023 will be held from July 6 to 8 in Shanghai, according to a press conference held by the municipal government on Thursday. With the theme \"Intelligent Connectivity Generating Future,"
-    publishedDateTime: 2023-06-29T07:31:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649d28ffa310bf8a75d6c5a0.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/29/649d28ffa310bf8a1d232376.jpeg"
-        width: 686
-        height: 457
-        isCached: true
 
 secured: "kPpvhOlcv0OKpJOiZ8t6CoDSI9y0rhAtQ+yvj32bS0sfdAeBn4LKKvHkWU/9zsCL3eZuRarSFR26ea4dJP/QcXmlYPHji4AqWEcFEn9gTNzwibVZCqDTjcW/f4MKVtVuplCrNRh/N3eMKre42zBV27FZ4PgRNd/TDwOg7nU9f3ANusTzpkhVoaD995/W/cQjQKNDSpg+HhRB2sNqM9sWYMVbcKQwGVK0AoveQ7uty+9FdmUwCj17VqsSdeR6npWaHaBpev0rLDmQdFGj2jKSoQbA+P4BjvROFdbW16v8YxkvyHq/5n1vx5VX3RxtvzyTsTjZ+kv0hQ0XS+I75GLmB1Lr/naJMGw5/VdsjtiZUJoWH1QqVjlALnpDpIcKtxr7ywq9B4u+cldTTvUQuz0TiyR1msmlbATr2K5HnffIemO5VILAwn7pL1IGg9NfEGZQEQc4AKrsDB+qVeydaVDlkCU1hJeA0qnx5j+llKdCZ4IznsBQOpkQv9u7gxoXB/1wzUhjKjwNGNg0WYUeoZbb5A==;3Bu/B4O+igbXEDeODzrSFA=="
 ---

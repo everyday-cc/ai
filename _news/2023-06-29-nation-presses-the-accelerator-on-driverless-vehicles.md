@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nation presses the accelerator on driverless vehicles"
-excerpt: "Driverless road-paving vehicles operate in Hefei, Anhui province. [LIU YUCAI/FOR CHINA DAILY] Tech advances, policy support point road to the future. Driverless vehicles may sound"
+excerpt: "A passenger travels in a driverless car at Baidu Technology Park in Beijing. [DU LIANYI/CHINA DAILY] Lou Tiancheng, cofounder and chief technology officer of Pony.ai, said, \"The inclusion of autonomous vehicles in the unified and standardized management of taxis proves that both government policy and the public are increasingly accepting robotaxis as a form of everyday transportation."
 publishedDateTime: 2023-06-29T01:36:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html"
-webUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html"
+originalUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
+webUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 445
     isCached: true
 
-secured: "a7INcb/wQ2er9S3uvUzgelR/WBY1lr8fidsP72aMlT7mfhiFVkTt7nEgBCl51O5r5nSFNMy0jdxI6f9h1G0M2OFpvugqylSCdAqeg1/zYy4ixf74p3UpQo/LD/Yh3eFO2/0UP4n2MaC+pw5+snCDI6fy1U0h04W33I2H3my+GU42H9+ORn+Ezm6SkHgkhiMIHiStwxs245f87Km4WAJdIB4bg5H3gSL8mscW8b52CIftpRPpOwDmVym1+mSPu4MEBAZzrHiVZTkiosIX0vEQRmXyojqVMKXafzTybW8HAPrAS/PFdZtXPnAhgd1+As690pjnugWxBmU+vsL2Q4Z6FIM8eh9WrvYbo6EPmUzO0VxbTXe1RHIPWTKcaN3irPXeHpv6fA8UIVpjGVuvOUBd49MaJIFY8CncDBPAVxgYsSh14lv7vL4/y4qTaskygs+Z+WEILhZFkx0vbFv+vvXd6xmEy4gLyJoW4TfPxMVRL474LRAGp9O6Ohidt5KekmZlTOGXN4IMj0f70O98M6CS7Q==;k3bRremeTJ/oPrfI+TZM0w=="
+secured: "7Bf9e7DBSnBJfRxIGyDM0hTP73fAV551LPq7+JThExjd6ibDSVsi+1s131VQsJKkGOFzKgG6CEoHP1aFwyg7RgZjD4wzg0sl2gcQqoVJvSKveGxI2FCPZdkp2RdETLPh2lLAMpN9NHPIm1fNQqQJPNYf9wEI/BfBMK83Xbi/OXyIg96lLn5nO8rsD4JnXotpjIlFHr6g3V2P/TSOpb3KyOyvjquZatD/CgMPKnKCn12WYJRBSF/bE5Xlcl0dgVWFvx8TRTJKmEO7Q/QXpAcG1otcwi7V51UJLllTMJMY4NFaDM+q8x5TsW1jZLq06B5g4s6psPK0PxI2CV14eWzcetSXavkG+n9ILlGpJrpnGJ8=;IsfgNS4zf2wZHAkID6/nJw=="
 ---
 

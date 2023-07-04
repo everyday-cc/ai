@@ -48,6 +48,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "AI Startup Typeface Achieves $1 Billion Valuation in Record-breaking Fundraise Led by Salesforce"
+    excerpt: "With the additional capital infusion, Typeface is poised to accelerate its growth trajectory and continue pioneering groundbreaking advancements in the field of generative AI."
+    publishedDateTime: 2023-06-29T19:31:00Z
+    webUrl: "https://techstory.in/ai-startup-typeface-achieves-1-billion-valuation-in-record-breaking-fundraise-led-by-salesforce/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 4
 
 secured: "dRJeMZDReIgyHwVJKxpdaS7Xxb1Qvw1SMNPZ36BA627hz10TZtIUlHkYbDS9cBhsgA+iosLmQwNcr5wlt4RE+GP10eoEENjd0Wrq62dfNraInv92RRLKF4F1cApIXMq7GgDypIaDRLWlwv1tKSC58KFclwihpXKiybZBkltHWMQunipF8Fu5w8/yXCVsQBiA+prcoH8W4t2vn1zfAc0BAlaKn4LWzWU8MzHnL8GnN4H1l/DhawP7NEXer2+CTZWo6V3ZZ9BzswCCauw2n0lgY/4ztX6+IKZnMn5ejPCU46f8rF6F8gH343agrFyApQcdaYP8ZHDGtRhSKngJv7u1atJCJSjHlhoV9tJeK0O4bOutprhm9m5pUVy5qzoVFogrocTAqZHvuOPqq7o9cdsn2wb4kG8omhgjXVECQRcl11w4aeUw9conhEPImHADGdfYjSXTj3GM7XmMCj6cPUlxQqgYL16hDqHpuwoWM/k8U5HCiS2BNUmjcs8O3MjdZy4orui0EirMTwIzuK8n1OVehQ==;NUezb+zTuUMH+SPClc8x8Q=="
 ---

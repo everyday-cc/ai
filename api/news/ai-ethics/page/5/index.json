@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-25-chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time.md",
+      "title": "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?",
+      "excerpt": "All will be impacted by Silicon Valley’s latest creation: “generative” artificial intelligence. With new chatbots and AI software that generates text, images and sound, technology companies have smashed open Pandora’s Box,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/04/2023dmt6.png?w=1024&h=569",
+          "width": 1022,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/amp/",
+      "publishedDateTime": "2023-04-25T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up.md",
       "title": "Big Tech cuts AI ethics teams even as development ramps up",
       "excerpt": "Microsoft, Google and Amazon's Twitch are among the tech companies that are scaling back their AI ethics teams At the same time that tech behemoths are accelerating the development of AI products ...",
@@ -1383,58 +1426,6 @@
         "AI",
         "AI Ethics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-tech-companies-ditch-ai-ethics-staff-as-panic-rises.md",
-      "title": "Tech Companies Ditch AI Ethics Staff As Panic Rises",
-      "excerpt": "Google, Meta, Amazon, and Microsoft have all made cuts to their AI ethics teams, according to the FT. While companies may be shedding AI ethics voices internally, some experts have given their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/29/tech-companies-ditch-ai-ethics-staff-as-panic-rise/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/29/tech-companies-ditch-ai-ethics-staff-as-panic-rise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/726476/featured-daily-upside-image.jpeg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

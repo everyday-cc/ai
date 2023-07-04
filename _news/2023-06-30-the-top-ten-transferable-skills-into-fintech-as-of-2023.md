@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Aston-Martin-Fintech-scaled-1024x785.jpg"
         width: 1024
         height: 785
+        isCached: true
+  - title: "Company-X boosts NZ fintech start-up Tania.AI"
+    excerpt: "Waikato-based software specialist Company-X has boosted financial technology start-up Tania.AI’s mobile and web apps. Due to a growing number of users, the volume of data being imported nightly from Xero was creating a challenge of triggering manual updates."
+    publishedDateTime: 2023-07-04T00:03:00Z
+    webUrl: "https://www.reseller.co.nz/article/707903/company-x-boosts-nz-fintech-start-up-tania-ai/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/company-x_jeremy_hughes_david_hallett_3.jpg"
+        width: 529
+        height: 315
         isCached: true
   - title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
     excerpt: "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;"

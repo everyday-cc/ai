@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China accelerating commercial use of self-driving technology, expert says"
-excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years,"
-publishedDateTime: 2023-07-03T03:32:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
-webUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years, said Nikolaus Lang, managing director and senior partner at Boston Consulting Group."
+publishedDateTime: 2023-07-03T03:14:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+webUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
 type: article
 quality: 23
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
+  - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
     width: 544
     height: 362
     isCached: true
@@ -63,6 +63,6 @@ related:
       domain: azcapitoltimes.com
     quality: 4
 
-secured: "LI/ak3Z88/6JufLRN0tRrgseYfIKDSptrRIZdzTz4now4MQZg5H6vi94FfgjAG7qoJcGE7po8NiwHtUGOjUw41alk4JAbZNIJGEt2bB7+J9zj5KziMXCO6cwgAU9NGUOHhh6mqlh13B82OG2vDfPqoUxMbn2ULnQuMz8ojchtn8rNxuvbzPX7VOpi+OvMIij5uhkuNtHfyvMi1dmAcVuB/MyJzWmG+zsJc21MGBMbHJNx1ZxFOPVnW3QnztxODpupl6KMNRPpysT6WQ1JgAlpG1mV7Eh54yH5yMeeGz37y6Jis14C1LbkPiQQZzf0W4PBI2OGw8jiy+rTdwJ+Jq3n7Aj8JKbU6YBnRZSUxU3mHI=;HULTFUUckzP+eUAdnw3E4w=="
+secured: "1HUrtLT0yJr4wzpZOHOtwEyfm4N66BaDSbDcOq8nyGlnfkOjPkKN+sdzNmx9KjKeK9Iu4FJw3Rfk+9N6K2V0T1vGkglZqQgq9U6kysFXva2G2640T7Xo/JPMOzqIQ92h1cN/1V0oJ49sgSUS4Y2IePlJA9hzNA3g8g1T1Pc9VAHpx3srlcgw982gOLNVXQQK71Dy0+Ms08TQriuWS03SJNu6oM8wL+GGBjaQlXNA7r3EXHnbNnvYxzsPVbsbKB9aX0Xplcztwo8Jt8Ld7kW2TykJsDpZdKXDk0ZwHYdQ4OoMCMOKYxSW4Jb5c57xQaG1Tn67xrY7KikqjAz8aeLKkTDF7x2PkKJmHUIQ8fL4lkE=;XulZywR5tGZvpN1aaVStIA=="
 ---
 

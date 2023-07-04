@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-ab
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://images.wsj.net/im-809446/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Valve raises concerns about legality of AI in game development"
+    excerpt: "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright."
+    publishedDateTime: 2023-07-04T00:15:00Z
+    webUrl: "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/steam-library-update-2.png?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
         isCached: true
   - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
     excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."

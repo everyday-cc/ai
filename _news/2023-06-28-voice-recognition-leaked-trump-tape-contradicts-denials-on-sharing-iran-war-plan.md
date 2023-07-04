@@ -5,6 +5,8 @@ excerpt: "There’s nothing stronger than the power of a person’s voice. And f
 publishedDateTime: 2023-06-28T02:59:00Z
 originalUrl: "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan"
 webUrl: "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan"
+ampWebUrl: "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan.amp"
 type: article
 
 provider:
@@ -19,6 +21,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "YYVkUjb9dVG3adZpbIq8IcO9pBrZRiiT7lXxf3/QlALbXPJ3rWNy+FdKLcC02uEjWgbxhDMMQksDC4KxBh5TuopvlSI4FY/9KVsufoHFe4fbiYqeb3/oVOE6QwCxIBLXUJa3uqYkfardBA00j6KjnZumnDploFxKkFbHwHRXLvQLfId2y0f6P3HoNNfJzdngwwzGjI0v9GjE55pZql6rz2KHMHSpb+stpjuWg/mWvAxfy1mkeArak9v5OQ82OpZmsQN6NKqmjxBD2DDD7aBBJiM4WJ7PwrUPV9g0TaeLiB41OoDiouBgt9Tz8oHLCDx3e8ejAJSvnsVOzey3O3iV8gj/8uqiZx+NJxTNCacuzHM=;2+loZiwR1eZn49uMH0zenA=="
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb408128-7d4a-48fd-8d51-7f163fbebcb4/40683727-51bc-4311-8026-8eb3a74ebd3c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "DQ1KA8oGaEt3zroUEw/ZfNFg+Gc4MPYw1hwWsHdGSMWUXiWmpMhbrAJX7DvfjXeVnQBMpYC8EG3DQTYmFh8cv847muXNraWRr/fuMpsC6KmQu4kjfVcz9dgBhn0aHDwjRWJ7BrthdSyFboG69gb81+wf5r3iYxOKeiffooUSdmGrONBGbVV2xieq7l4TymI4SLqpwYgsZs3nlJky6WvxfeLbb+8l2nJ0kdIujI94Q68I6cr/rvF+OIaipiU/aOHJiinHAG1UlpMg9wI0uFB92Ws7DKPXHJjiqfwfBrOI1i66nn838MuFKugKPrFXwHOakWWtXIByTYLAHghcEzpAT50pxrz+Qifp2Zen606HfCg=;xtMsw1w8ufjSw82MUjD0UQ=="
 ---
 

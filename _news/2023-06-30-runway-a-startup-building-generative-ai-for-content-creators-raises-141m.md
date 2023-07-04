@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Generative AI startup Typeface raises $100M to customize enterprise content creation"
-    excerpt: "Typeface helps enterprises create content using generative AI with machine learning training customized on an organization's content."
-    publishedDateTime: 2023-06-29T08:00:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-startup-typeface-raises-100m-customize-enterprise-content-creation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Causely launches Causal AI for Kubernetes, Raises $8.8M in seed funding"
     excerpt: "Causely, a Boston-based AI startup, announced today that it has raised $8.8 million in seed funding, led by 645 Ventures."

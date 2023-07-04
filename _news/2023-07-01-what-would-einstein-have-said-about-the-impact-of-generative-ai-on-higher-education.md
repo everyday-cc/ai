@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/comment/opinion/article/3225987/what-would-ei
 webUrl: "https://www.scmp.com/comment/opinion/article/3225987/what-would-einstein-have-said-about-impact-generative-ai-higher-education?module=live&pgtype=homepage"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence could change outlook of education in the near future"
+    excerpt: "It may not be long before schools and education as a whole change the way of learning due to recent advances in artificial intelligence."
+    publishedDateTime: 2023-07-04T01:46:00Z
+    webUrl: "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/"
+    ampWebUrl: "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp"
+    type: article
+    provider:
+      name: wbng
+      domain: wbng.com
+    quality: 71
+    images:
+      - url: "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/OTtXcWqzkFBkso3YLO3pO1TUI7U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DUPMDHIGTFGE3GEHQIE2AGV3BA.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "What’s new in the world of generative AI?"
     excerpt: "Building off TechCrunch's regular drumbeat of AI coverage, we're going deeper into the weeds concerning how startups can take advantage of AI."
     publishedDateTime: 2023-06-29T18:21:00Z

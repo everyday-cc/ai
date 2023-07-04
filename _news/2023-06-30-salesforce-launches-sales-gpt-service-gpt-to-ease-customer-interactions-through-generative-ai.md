@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/salesforce-launches-sales-gpt-service-g
 webUrl: "https://venturebeat.com/ai/salesforce-launches-sales-gpt-service-gpt-to-ease-customer-interactions-through-generative-ai/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: VentureBeat
@@ -24,20 +24,6 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Salesforce to invest $4 bln in UK on AI innovation"
-    excerpt: "Salesforce will invest $4 billion in its UK business in the next five years, the U.S. software company said on Thursday, thanks to strong demand for digital transformations and artificial intelligence."
-    publishedDateTime: 2023-06-29T07:06:00Z
-    webUrl: "https://www.reuters.com/article/salesforce-investment-britain/update-1-salesforce-to-invest-4-bln-in-uk-on-ai-innovation-idUSL8N38L1DZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/Bhk9gMA5x69Ey00c_W6lZi0SbO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VGY4MCSLFJZPKGYHMC7TQ5VA4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI startup Typeface valued at US$1 billion after Salesforce-led fundraise"
     excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday (Jun 29) that it was valued at US$1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
     publishedDateTime: 2023-06-29T13:10:00Z
@@ -47,15 +33,15 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 16
-  - title: "AI Startup Typeface Achieves $1 Billion Valuation in Record-breaking Fundraise Led by Salesforce"
-    excerpt: "With the additional capital infusion, Typeface is poised to accelerate its growth trajectory and continue pioneering groundbreaking advancements in the field of generative AI."
-    publishedDateTime: 2023-06-29T19:31:00Z
-    webUrl: "https://techstory.in/ai-startup-typeface-achieves-1-billion-valuation-in-record-breaking-fundraise-led-by-salesforce/"
+  - title: "Salesforce EVP of Product Patrick Stokes on intentional enterprise friction, 'prompt engineering' and the rise of the Chief AI Officer"
+    excerpt: "As a technologist, Patrick Stokes would love generative AI to be something that organizations can just pick up and go with. But it's not that simple... What made this discussion particularly of interest was that while a lot of the debate around generative AI has been pitched at a business executive or job function level,"
+    publishedDateTime: 2023-07-03T11:57:00Z
+    webUrl: "https://diginomica.com/salesforce-evp-product-patrick-stokes-intentional-enterprise-friction-prompt-engineering-and-rise"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 4
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "QH0eBj7G1xCK1HGzWvFjki0CVdaTcKlbYW5kqWalHeACs01CyEbhqdrjSikxBaFTs6Rz7x4RJRffW0n/rbtjP83bMCPlDliNf8kvvnzOT8zDhhAIvsv23LTtAzuoySALaSff2JsmkFkzooD4rCwLlB3FpIIqWHE3HbiFMlibcAktXajqV14tGMyAP3mVjtM/GTO8VBAJ89yimfH2ehYY7e/xk9ZWFzST+dqpPD83ncS/70EJIVh4acZf8AeSOAt+YgzQ6y5E1T/7vu8ehKjwhCDHAP7rBYG9DKpjcjnrLWfhHJAsLMAzcBnB9ix8mgkIlf5oyiGiTaR+35W7VJ5k2Nd6jJV7UiQaLK/c7oS9fUcHK2MAYZlukbrOJq1nCez9NGtRp96/ReQ0XFHbY5HRoMy30ViVYlL4CrOE1RnooUG9CCj1mErc6dcCKhj8BG8E8Z75CdP4R14uAygypL6yku68vqbjmbBMV82JePDqNgqgEO0mfZy1tjbCYspYUHnxOfehcnj1ewJ17Atu6NwfHA==;JnFHh/+p17N1EtjVM7CgIg=="
 ---

@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 803
         isCached: true
-  - title: "Scriptic raises $5.7M for user-generated games using generative AI"
-    excerpt: "Scriptic (formerly known as ElectricNoir) has raised $5.7 million in funding to create games based on generative AI."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://venturebeat.com/games/scriptic-raises-5-7m-for-user-generated-games-using-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/scriptic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 679
-        isCached: true
   - title: "Steam Is Reportedly Rejecting Games Using AI Art"
     excerpt: "If this is an actual policy, one that Steam has not publicly announced, it would be a significant moment in the use of AI for creative work in the video game industry."
     publishedDateTime: 2023-06-29T12:56:00Z

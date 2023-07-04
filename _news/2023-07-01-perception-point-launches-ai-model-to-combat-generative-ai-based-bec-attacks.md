@@ -58,6 +58,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Valve raises concerns about legality of AI in game development"
+    excerpt: "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright."
+    publishedDateTime: 2023-07-04T00:15:00Z
+    webUrl: "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/steam-library-update-2.png?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "VyYFuwLCgrn8mycIq2yHY6fyJ6VYQBRyQKCY/iYfPmkSrI1qBnMWjCxaQVpYxBvY8aHnNQz+liGB/mRNnek7U1s6hdisjqU6919YdTFlJga33qZQh8I1IbldWbLA8ZLFKOH1IjohZ/OE4zmeY3G5hOKNEJrzokpMyled0bTeucjYFZ3dFO4MUTxkz1jXBxto0Wqa+0A5oqYUKe46iTK7355rlszr+udVQL/42P64Vt7bXq/b6scRSaPoPXjL8Lga7p5jDkdUGoDL36bg3NjB2aS4lloug1fLJROeTcpizmGsuCnOuBpvm2sK6QCffEGX3lKRqzYxOLteU5kKk53q5BLXr1JCx1uFJ/gEMoISUcNpSpb5rxIc0FAvRVJyNgvAL7KkDzuvNDwg3qW2tMPFGCbQuPt7Ty0hxgdCx7ZcseiIKCF1bAGpHs3cph7uJuYT7OY5Zr9oy04+tGZvCA4re0L9QMjTx1s/k1pGNqlvmYh3oG03C/riLV0Z637YOT26S2adZTkr4b9pSw375c6h1A==;JdTGzpdG+PHpPlgR+OxTEg=="
 ---

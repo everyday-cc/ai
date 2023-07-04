@@ -421,7 +421,7 @@
       "originalUrl": "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -495,6 +495,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight.md",
+      "title": "New AI Chip Export Rules Put Semiconductor Firms in Spotlight",
+      "excerpt": "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
+      "originalUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1467,59 +1501,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-cisco-launches-new-siliconone-ai-networking-chips-the-most-powerful-in-the-market.md",
-      "title": "Cisco Launches New SiliconOne AI Networking Chips: The Most Powerful in the Market",
-      "excerpt": "Cisco joins AI race with new networking chips to rival Broadcom and Marvell, targeting AI/ML workloads. Here are the",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/06/22/cisco-new-ai-chips/",
-      "originalUrl": "https://www.gizmochina.com/2023/06/22/cisco-new-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/cisco-new-ai-chips.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

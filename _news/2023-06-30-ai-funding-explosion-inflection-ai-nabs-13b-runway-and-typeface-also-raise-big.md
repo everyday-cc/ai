@@ -51,6 +51,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 15
+  - title: "AI Startup Typeface Achieves $1 Billion Valuation in Record-breaking Fundraise Led by Salesforce"
+    excerpt: "With the additional capital infusion, Typeface is poised to accelerate its growth trajectory and continue pioneering groundbreaking advancements in the field of generative AI."
+    publishedDateTime: 2023-06-29T19:31:00Z
+    webUrl: "https://techstory.in/ai-startup-typeface-achieves-1-billion-valuation-in-record-breaking-fundraise-led-by-salesforce/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 4
 
 secured: "WkDfyeyJL6NFzRsNVD7M9nzeTN7/voIL/0ofjDw/WsfNlY5FMkv+tY79hdW3YfB+DWg7T7oCFZeanPakpu5ZT0Zk/YAVvK99SVkH8VHXHPnoYfvfwGbTk80wtJ0c5Drt23XuL7L+PMUXHG/Rnrgz0fSB724rzEnyEXopBbUP9DTg5IXiX/h5NOV3EuF/MrodAl4/+XbMpef4GHDQTKSaqZrZe+6RmecgTDBXPnnHpqCYsGr+h4zcqJvRCYKj88S6WP0TTnJ5c5q6bvhkpiDlzXqOFuSk8xvWQj0+14EEQCR5gKngkdwkcEpiLsJ/6M6g866Gl0uQBjtSYm8rOYgoN5XYCZqHn6FmYCT7Uckpkf7UYRVZNbYfrh2GkTGoMR3wntE3HoPHpT+YlRZ1nXI0IdNa+6pjacryBEsznXziGtJ10WbPybpupvbcaVS38o+6UlQFjQPLIKsDmMdwzP1GqSHI4R2pjz9jqw1wVp5N8yMhL4HJo43knbsgzDwSWy+ij/67RkuqUlFUMl/y47JNYQ==;zvbYFKjkzFAJfVoGw+F2uQ=="
 ---

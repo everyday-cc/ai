@@ -2,6 +2,162 @@
   "page": 144,
   "value": [
     {
+      "path": "_news/2023-03-25-top-5-stories-of-the-week-generative-ai-market-heating-up-even-more.md",
+      "title": "Top 5 stories of the week: Generative AI market heating up (even more)",
+      "excerpt": "This she found in a March 2021 AI research paper, “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” Although it led to firings, researchers decided it was time to look back at the explosive paper — which in hindsight ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/",
+      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/toa-heftiba-9n_tf0_YANE-unsplash-e1679695283281.jpg?fit=800%2C546&strip=all",
+          "width": 800,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/",
+      "publishedDateTime": "2023-03-25T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-who-will-take-care-of-italys-older-people-robots-maybe.md",
+      "title": "Who Will Take Care of Italy’s Older People? Robots, Maybe.",
+      "excerpt": "would be if a “social robot can assist in care.” Leaps in artificial intelligence would only make robots more responsive, she said, keeping older people self-sufficient longer, and providing more relief to caregivers. “We all have to look for all the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/10/multimedia/10italy-aging-robots-01-pzvt/10italy-aging-robots-01-pzvt-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html",
+      "publishedDateTime": "2023-03-25T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031.md",
+      "title": "Neural Network Software Market Size, 2023 Trends and Opportunities, CAGR and Value Chain Study to 2031",
+      "excerpt": "The neural network software is a tool used for ANN research and development, stimulation, and application (artificial neural network). The program refers to devices that resemble brains in certain ways and may have science fiction implications. Some of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-object-recognition-imaging-systems-market-growth-by-2031.md",
       "title": "Object Recognition Imaging Systems Market Growth by 2031",
       "excerpt": "The \"Object Recognition Imaging Systems Market\" study describes how the technology industry is evolving and how major",

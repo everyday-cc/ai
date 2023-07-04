@@ -66,20 +66,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 63
-  - title: "Google DeepMind Will Eclipse OpenAI"
-    excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-will-eclipse-openai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Will-Eclipse-OpenAI_.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
     excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."
     publishedDateTime: 2023-06-30T15:09:00Z

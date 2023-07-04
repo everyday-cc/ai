@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. considers tightening restrictions on AI chip exports"
-    excerpt: "The potential restrictions would include further clamping down on the level of the computing power of chips that are available to be exported to foreign markets in China."
-    publishedDateTime: 2023-06-29T09:02:00Z
-    webUrl: "https://cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports"
-    ampWebUrl: "https://cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/621d1be9-e0b2-43fe-b511-f43734a5574d.jpg"
-        width: 740
-        height: 492
-        isCached: true
   - title: "New AI Chip Export Rules Put Semiconductor Firms in Spotlight"
     excerpt: "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China."
     publishedDateTime: 2023-06-29T12:15:00Z
@@ -52,31 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "US mulls new export restriction on computing power in AI chips"
-    excerpt: "U.S. officials are considering tightening an export control rule designed to slow the flow of AI chips to China."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://www.reuters.com/technology/us-mulls-new-export-restriction-computing-power-ai-chips-2023-06-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-  - title: "Rising AI & Falling Shares: Nvidia Facing New Export Restrictions"
-    excerpt: "Nvidia Corp.'s (NASDAQ: NVDA) meteoric year-to-date increase of 186.60% is largely due to the company's semiconductors that are behind the boom in artificial intelligence applications."
-    publishedDateTime: 2023-06-30T15:00:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/06/33077218/rising-ai-falling-shares-nvidia-facing-new-export-restrictions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33077218"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33077218"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/06/30/nvda.jpg?width=1200&height=800&fit=crop"
-        width: 640
-        height: 427
-        isCached: true
   - title: "China Restricts Exports Of Semiconductor Metals In Latest Front Escalation Of Battle With US Over AI Tech"
     excerpt: "The export restrictions on gallium and germanium are seen as a part of Beijing’s strategy to gain a stronger position in the escalating tech war, as these metals are fundamental in various high-tech industries."
     publishedDateTime: 2023-07-03T20:01:00Z
