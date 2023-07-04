@@ -49,20 +49,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Deep-learning chest radiograph model predicts mortality for community-acquired pneumonia"
-    excerpt: "According to an accepted manuscript published in ARRS’ own American Journal of Roentgenology (AJR), a deep learning-based model using initial chest radiographs predicted 30-day mortality in patients with community-acquired pneumonia (CAP),"
-    publishedDateTime: 2023-06-30T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/994359"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/48133881-a89b-475d-a7e1-dd30b0733423/Rendition/low-res/Content/Public"
-        width: 700
-        height: 351
-        isCached: true
 
 secured: "UCq72qHdGOKHmuoOd4LPZJyVYTC8i7wAkOc6awZoMm12a9aEQNKGdb8H7j8jNCqXXBcf0M7NXLfRU61Z3oso6IeYW9wzvMxJZa2tUqdF795mcok9fRNPRX0fCnm16IVr9z8U7hQShKaZ6ZdX9s6XXYnrkSDknBMNbHBJ2nma+YBILoRckm4dwnBIBeK2NG1ZAO8NMzc5JfA1Ww//2fNqvM3jMPYDWy9lQalCeS9mxWxVoQTVLm215HFam+/3gqAFtVBZBC0rYu3o8YsRyLUxUMiu0Z81Hsob+V1QUDq9LJiU6nXjR3zhs5ActRT6V0E37plttv12IbyhaL75CmOTwQsSHblfqsY+jJhNQtEG+d2vVUIlmoAvMOY/jG8UB0VK+Fu2VoZyZFWWu1yL6nz1KSAVT/Cyi/OJ82r195RH1nNUJKF/MTiFE1C8wMFHLF6cbBsvpKdx13/ENdi+8cP8s5aAqFdTXW0dZbB3tjU4LY4c4/Vu3hR7vU1qHznfeHS5JyKkxboPrPckZGF6Ds9P0w==;jiOJyUoCsyJ4y1f1TSTthw=="
 ---

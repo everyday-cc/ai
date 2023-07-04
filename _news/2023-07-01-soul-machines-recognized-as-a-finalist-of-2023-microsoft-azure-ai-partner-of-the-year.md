@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft Adds AI Shopping Tools to Bing and Edge"
-    excerpt: "Microsoft is adding more artificial intelligence components into its products ... Some online shoppers love to delve into their research, carefully reading multiple reviews and weeding out brands that don't pass muster. If you need an answer quickly ..."
-    publishedDateTime: 2023-06-29T23:14:00Z
-    webUrl: "https://www.cnet.com/tech/microsoft-adds-ai-shopping-tools-to-bing-and-edge/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://www.cnet.com/a/img/resize/42190d38ade8b2297bf2f0e63f4439bee821301e/hub/2023/02/10/62e99904-1127-458c-8fdf-cf9018b816b7/20230207-bing-logo-01.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft’s First Generative AI Certificate Is Available for Free"
     excerpt: "Microsoft is also running a grant competition for ideas on using AI training in community building. Learn more."
     publishedDateTime: 2023-06-30T21:16:00Z

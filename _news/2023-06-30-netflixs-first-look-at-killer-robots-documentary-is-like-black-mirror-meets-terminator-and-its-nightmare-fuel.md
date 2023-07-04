@@ -7,7 +7,7 @@ originalUrl: "https://www.cinemablend.com/streaming-news/netflix-first-look-kill
 webUrl: "https://www.cinemablend.com/streaming-news/netflix-first-look-killer-robots-documentary-black-mirror-terminator-nightmare-fuel"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Intriguing Trailer for 'Unknown: Killer Robots' Doc Examining Military A.I."
-    excerpt: "\"Forces that are supported by A.I. will absolutely crush and destroy forces without.\" Netflix has revealed an official trailer for Unknown: Killer Robots, the next intriguing doc film in a series examining some of the mysterious unknowns about the world."
-    publishedDateTime: 2023-06-29T23:11:00Z
-    webUrl: "https://www.firstshowing.net/2023/intriguing-trailer-for-unknown-killer-robots-netflix-doc-on-military-a-i/"
-    type: article
-    provider:
-      name: FirstShowing.net
-      domain: firstshowing.net
-    quality: 52
-    images:
-      - url: "https://media2.firstshowing.net/firstshowing/img15/UnknownKillerRobPostermainimgTW1.jpg"
-        width: 926
-        height: 391
-        isCached: true
 
 secured: "msajgj5K6mYxx+fZUXG3H5j2XN1WhQkLvIS43PeiFCavA6nKvSg0MAaG5JzxIPSCsyd9laCqqGVcEy7ulmm1oe/nKKxMdCaIegP8JydupiPhOau/I4XxVTDDEf1tXzDnGOAVa5RANhCmG6ZBSaGMjZ8QWetNd711ncyO3vN5U/xZsIJPR8zqKYDYk0dgLGpJ32AU/93jbZC/1nQvMUQIGviSQgrQ/KImdzNmf3x0Yj91N5UFWqVzY/47EiuYMbvAp1aXrMr3vqMx2n2svD7cEfIBewBUpcdtRyQFfdeJtu/D99FhxA1C1Z/ncN2Z0DsrfcieJR/yoaGoIdZTH0ag8e57XQxEGr52xu9a3msDmLAZtHRAxxAsAhIMUMCkrX8BeTMulkQ6c1Hm69i9Z9L4v1pFiBm1Y2lh1znNI77FC7E4i0wijf/dI4uxwAGZHW5YkrTepNHrnSn/AXp9CTQWrYtl4oSZ8NVr8EtRAoFDIDRvj+x8UYEgy2PwWUosirDNJKmF27Y0r76j2mojxs914Q==;cViHiGs31tE333+9anx4jw=="
 ---

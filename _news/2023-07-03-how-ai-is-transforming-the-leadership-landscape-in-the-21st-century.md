@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1706
         height: 2560
         isCached: true
-  - title: "How artificial intelligence is dividing the world of work"
-    excerpt: "Many employees fear the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-AI stance."
-    publishedDateTime: 2023-06-30T00:01:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/06/30/how-artificial-intelligence-is-dividing-the-world-of-work/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "+Mza1Ls+EIlKyj6t6FZqQDpVoADHC++B4gjTb0cFdkrVIF3XXH0uzwd1FEOVOwDhPBH7t+uslT/+1H8T0/2vXZK0OUGWQvIoYTsdi8qgeyJ6csguzdf//bDiZpXdLyANkQ0Fwz90dn6o3OeqipBLxpU/v2eIR4nQb6Cb84f1Wpfh1u1MDS3rE6kVFeVuHzbZ6l3euOYmCt6eEQOlPKsRSdqTZaJJU+Q5ofBp7Ktg4kkGPNuF0tT15tXCToFtlixm9JdL/mw8d8LRu1Ek5dGtVDuFDjeVsHsDX9PV4XfTrRCTI8H+r+IYP4JA6KQ/JhrveH0SpIKfhdSEr68RZzvAsmj6Y6/CuwIQD6Zeg8dEQ6Zvx+6aH+9k0oGBYVW7AwPSIXnGqq8P/72QeGTbKn4uqf2djQ2F61f+/Qoz+lHDpltAftgq8wUZ+HC2TJBnXKvj+a4I6RASXZrBOUwZdb1drcnE/OKLLeYkHRZzJq2t8lR0FZ0snpAq9E/sExcIWP+PXBzkHk3PJL/GrdBoPn+Zlg==;RbL6c1/ct8ofru7gb+Ytvg=="
 ---

@@ -65,6 +65,6 @@ related:
       domain: bbntimes.com
     quality: 19
 
-secured: "ErGJSNlVcZhpP/x+VQ0Kg0j4AB/CH9D7l/MZaiDDwPkhZnWTPQVOA+KeXwV4inMM2sNJnM+9MWX/u0lKhiLmPPyb9XgJr7v1asyc7hkTF4XUBKtiQ6HSWXZKol56UR79CLXjqlmqLTcWKvZnPWfit9ZO7QzkczsGrA5RfhmKRm/tetCpV92+Kq2oqnq3A4QqhWsW2aX1FXYzbHUi1z+j+k+tis6rWyvoTcRyRpity2Lb3bA70SO+Pbg7IAchSLrhBaCWowIPMX44pWkO3agY+WoCV3FZdsChbP60DnFEFj+886Us409tqzIbVnaRxUtoF/idgr/J92lc22m/rxpoC8nBtcUtnQCDgSmwdhJb/s0=;+IwjFePk30z8Jp4oBWVncA=="
+secured: "oMSVVqMGRFQ0tY/Qh6iv2iMz13tHufVx27ciq3fJ+FEYWkAEeaxvF6pU+E22Ot6UDvWg6MyM+OsgevTiOLDY50b0l6g67+fO6xwBZKo0J8dfYF+BdZC4xx1CgUmFwJuJuph7GBdfyMb1rK8oLIDodqZfGOFaJT/D3UQ1IWnNa+K1+rMV2ahsGAZDi9vpCGhGFqdPsDNmZsjrtOYY1LSTiKnJQJpQOz/72HcvKdVOBfiOFh1QVeKP2j65zruWecncj7gRqpfZS5Aa024t7erAxOf3Q7gAPAFD3F55NYfbtpVzpSy5TreI+zT4jorjodEAPmmWtuoV6MuOb1GqVVMtozguCTxnK0rtRJETedtfdow=;Vh9vbPgKNgmcfgdVjREmVg=="
 ---
 

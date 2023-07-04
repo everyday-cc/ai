@@ -7,8 +7,8 @@ originalUrl: "https://www.siliconindia.com/news/general/tech-mahindra-integrates
 webUrl: "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: SiliconIndia
@@ -23,6 +23,22 @@ images:
     width: 570
     height: 367
     isCached: true
+
+related:
+  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
+    excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
+    publishedDateTime: 2023-07-04T16:30:00Z
+    webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 62
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
+        width: 390
+        height: 205
+        isCached: true
 
 secured: "UG5v6SD/msCDjSjTxRuZJNKZyIg/8vhaBBwFIli1NymPfwtUh36AFGvrXdVKRbkktf/O/R5v41va9Aaj1IGIxD06jVVSYqxG8zFnl3N9X2CQJnPWDPpGK5Sv1Jvl861OKDG3hQ1hxBtaVBGlWqRxYqvsNtKkuuwMCvD6pB7HcOij01tDqui5W1KxRZsAPbG7gKPTF8WQICh6pHVwJb8XcYErJOvM9nves6P+RWIBgJoxkeBYmfeTBkwwcBX7UrY99ew4gTC9QXPtozkxdwpSfln+pUheZ6Vy/JVGtMp5aoprQm27BszT3Xb5WSdSrUAdzFh8O+eCtIbWzO94yoqibN3gA6WuPj6pkYlcfImklMkagLcktyrInREkuXlRqxS/qFtS3CZADa+r44IXhGpv192wQh4tpsc69zTe6TWoCvoZJbVQcIZKo9cm3nZz7tM4lLOl2FdQsDrI2XVSJCaGwqEi2RBNxgX6N5sJ+onw/hCXn3aOEFlqnhI1YmlCMSuO8XAtXgdz3BmfG0CjflJfUA==;+F5K32JpnLuD4cpIuQoTfA=="
 ---

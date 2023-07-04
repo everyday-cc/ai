@@ -2,28 +2,28 @@
 category: news
 title: "China just played a trump card in the chip war. Are more export curbs coming?"
 excerpt: "A trade war between China and the United States over the future of semiconductors is escalating. Beijing hit back Monday by playing a trump card: It imposed export controls on two strategic raw materials,"
-publishedDateTime: 2023-07-04T10:04:00Z
-originalUrl: "https://www.aol.com/finance/china-just-played-trump-card-100439948.html"
-webUrl: "https://www.aol.com/finance/china-just-played-trump-card-100439948.html"
+publishedDateTime: 2023-07-04T16:04:00Z
+originalUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/04/china-just-played-a-trump-card-in-the-chip-war-are-more-export-curbs-coming/"
+webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/04/china-just-played-a-trump-card-in-the-chip-war-are-more-export-curbs-coming/"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: KRDO
+  domain: krdo.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+  - url: "https://krdo.b-cdn.net/2023/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtZWM1ZjQ0YzM5MTcyMTlhYTkxNWU0OTE0ZDYyNzc0M2E-L19wYWdlcy9oXzZkMmViZDc4NDdhYWU4ZGYwZjBmYTA4YzljY2YyMTgy-300.jpg"
     width: 1200
-    height: 630
+    height: 799
     isCached: true
 
-secured: "VMGsnbKUUtml7I6kSICnw15E6Xqv2Ch8ZeR3htYf0+GhDHZcZFmoV7rgQ0P18Lo98kJnT+yNff+7WcQkdXs3ft/d+ATCMyTmNfwPm2ppsaaZXiokbTPQbCitIIAMmBsyZOZJb+k91DQxg9G6QcLamtL/BC5Oec9Cil/RNPRVKlLgVBF/sZkFYnQAhRN18gTspmTcZfci4WJ607cDLd99HS+8z/fbHvlvwZSuGYV6worAdoL3Vhiy9+gmU9ABb7ss9OHRipFXIKzWMefCEJi/Io5z+gnWbBURffyb1k6vFTNzgU4vRNsan3SY62kFoRV0uzeIWGjVUdV5z7vlsVhpOcad45t8ARgbqOlUm0LuLtY=;+ZpVVXFxxct9Sc2N5kJd9g=="
+secured: "xKsqZEhtd8xxJMMMznqZw1RwntdoZ2w2jI683x/OiiQecW0Si6o88at9WGr8vIy2BXVkuSn/6mVtIcBRCecRCrnEbx2lQCZHDbRx2Ovxbzk71kjAP+v14VtZ0gzxhUb3UTP5R0wmRllA1AnCUBWhzMM0EvXJX7lcK2lBb1k+Xa1pRibY7v1w8pWtbDlH401WIL+A6+ekrV8fRYq824n1l7wp14SatiEt6qzp7gEunY68MubWsCyOmU8BeQlS3qeEVlUZ7IFPPFOqkPkEqKRVZFTUf6ZMAcYA0DHacIFhTzOlENcUN1SiA35xng8P0P2t2eQbfnQWGJazprJOmOjlVjwyxOUC/2O1XWprnvkv/Dk=;HHittTHHM+JinxSexE9qDw=="
 ---
 

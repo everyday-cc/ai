@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/press-release/2023-07-03/vision-screener
 webUrl: "https://www.pharmiweb.com/press-release/2023-07-03/vision-screeners-market-is-anticipated-to-reach-us-8152-million-by-2029-with-a-cagr-of-59"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Healthcare Predictive Analytics Market Report 2023: Sector is Expected to Reach $30.71 Billion by 2028 at a CAGR of 22.23%"
-    excerpt: "The \"Healthcare Predictive Analytics Market - Global Outlook & Forecast 2023-2028\" report has been added to ResearchAndMarkets.com's offering. The global healthcare"
-    publishedDateTime: 2023-07-04T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33107274/global-healthcare-predictive-analytics-market-report-2023-sector-is-expected-to-reach-30-71-billio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33107274"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33107274"
+  - title: "Machine Learning in Pharmaceutical Industry Market to Exhibit 37.9% CAGR and Generate $26,151.8 Million by 2031 | Research Dive"
+    excerpt: "As per the report published by Research Dive, the global machine learning in pharmaceutical industry market is anticipated to generate a revenue of $26,151.8 million and grow at a"
+    publishedDateTime: 2023-07-03T17:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-machine-learning-pharmaceutical-industry-market-exhibit-379-cagr-/2023/07/03/9842854.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 30
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Global Cognitive Services Market [New Report-2023]: Forecast 2030 With Top Competitors Data Analysis"
-    excerpt: "according to our latest research, the global cognitive services market looks promising in the next 5 years. as of 2022, the global cognitive services"
-    publishedDateTime: 2023-07-01T01:38:00Z
-    webUrl: "https://menafn.com/1106534435/Global-Cognitive-Services-Market-New-Report-2023-Forecast-2030-With-Top-Competitors-Data-Analysis"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849029"
-        width: 444
-        height: 250
+      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "k3YMqqJ7jOuNPYLLpPCBUepG4djqakHHYaFg0CeQWo+oCvej1XMJjsZvMpr6dKsLpUie1qWIoyXWK1EpPKwSMVPxyJhgYfBzWCsseKBXll6f1+qlUzupf/7xtg5FQIyU+4rEhdltXxoDtzDSEH5Eu5s/UrdL6Q6+E5bwPLUBNMDRV0F+CuASuWtaCNvP041FqeP7uY4zLHmqsfpxMvISvwXIAMB1Gsug+moRaQvlEik7MVyk2HJ4aorLzRd3FpRphdpLm/7kcjR/uCkVsi+jhZyIKWHwFQc03db5KjvEcZncdXoEnOrw1Cc0VAC0S55dvAtJZ6hsstwdU5XVgoeBx+Kg3xNuVXHF6VTHD7/riI4=;xvvtQnh2iBMYdq1SZOi51Q=="

@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Generative AI in Games Will Create a Copyright Crisis"
+    excerpt: "Yet games like AI Dungeon (and games people have made with ChatGPT, such as Love in the Classroom) are built on models that have scraped human creativity in order to generate their own content. Fanfic writers are finding their ideas in writing tools like Sudowrite, which uses OpenAI’s GPT-3, the precursor to GPT-4."
+    publishedDateTime: 2023-07-04T15:57:00Z
+    webUrl: "https://www.wired.com/story/video-games-ai-copyright/"
+    ampWebUrl: "https://www.wired.com/story/video-games-ai-copyright/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/video-games-ai-copyright/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/64a43fe6c3f2cf2daf39fc6a/master/pass/Generative-AI-in-Games-Is-Sure-to-Cause-a-Copyright-Crisis-Culture-GettyImages-1407088969.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Businesses Aim to Harness Generative AI to Shake Up Accounting, Finance"
     excerpt: "CFOs have ambitious plans for AI to boost efficiency, cut costs and ease a labor crunch, but the technology’s promise could take years to fulfill."
     publishedDateTime: 2023-06-30T14:08:00Z
@@ -59,20 +75,6 @@ related:
       - url: "https://images.wsj.net/im-809446/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Generative AI vs. Machine Learning"
-    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
-    publishedDateTime: 2023-06-29T23:49:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
-        width: 1400
-        height: 900
         isCached: true
   - title: "Valve raises concerns about legality of AI in game development"
     excerpt: "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright."

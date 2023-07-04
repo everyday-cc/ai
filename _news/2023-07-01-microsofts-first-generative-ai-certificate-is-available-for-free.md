@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft Adds AI Shopping Tools to Bing and Edge"
-    excerpt: "Microsoft is adding more artificial intelligence components into its products ... Some online shoppers love to delve into their research, carefully reading multiple reviews and weeding out brands that don't pass muster. If you need an answer quickly ..."
-    publishedDateTime: 2023-06-29T23:14:00Z
-    webUrl: "https://www.cnet.com/tech/microsoft-adds-ai-shopping-tools-to-bing-and-edge/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://www.cnet.com/a/img/resize/42190d38ade8b2297bf2f0e63f4439bee821301e/hub/2023/02/10/62e99904-1127-458c-8fdf-cf9018b816b7/20230207-bing-logo-01.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
     excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 20"
     publishedDateTime: 2023-06-30T14:58:00Z

@@ -1,22 +1,24 @@
 ---
 category: news
 title: "UN council to hold first meeting on potential threats of artificial intelligence to global peace"
-excerpt: "The U.N. Security Council will hold a first-ever meeting on the potential threats of artificial intelligence to international peace and security organized by the United Kingdom"
-publishedDateTime: 2023-07-03T23:47:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637407"
-webUrl: "https://abcnews.go.com/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637407"
+excerpt: "The U.N. Security Council will hold a first-ever meeting on the potential threats of artificial intelligence to international peace and security organized by the United Kingdom."
+publishedDateTime: 2023-07-03T22:55:00Z
+originalUrl: "https://www.seattletimes.com/business/technology/un-council-to-hold-first-meeting-on-potential-threats-of-artificial-intelligence-to-global-peace/"
+webUrl: "https://www.seattletimes.com/business/technology/un-council-to-hold-first-meeting-on-potential-threats-of-artificial-intelligence-to-global-peace/"
+ampWebUrl: "https://www.seattletimes.com/business/technology/un-council-to-hold-first-meeting-on-potential-threats-of-artificial-intelligence-to-global-peace/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/un-council-to-hold-first-meeting-on-potential-threats-of-artificial-intelligence-to-global-peace/?amp=1"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
 
-secured: "fTc2/zGPUTjesKQltTPB5Sa7RNaUKrm2xaN0nRY5pzle5T10MMu1bNajyuZ3wbsXWW8HUJjkC4OzIZwKzoHPuRpl4dMHKq1EG+c4lNGzu+RDb9nngch8CVevE6tpeBPuZT1k4s96gwyddfzy6CbWjaJyE3vGTEKnP3TOMiqoROqU73PrRQpm+Ap8d6RMbaZN8DJ/QSmzi1Pmh3zJYdNBoRmWw1p+IEcwj1cmfl+STDtVyW2TM4HgWxRIq5An2KkQSKOjwg5l4NQcELhyGd6kkDLzGB9ff99cgTXZRM/1nl110GCNXlZ5MXHIVKDrGALGUT43LXWrDVWUbaRLpcUwxGgj2EsrSK32PZjSteKxsQq6zL0TnLU/vxr+a56bDPyoy7jlgQ5T4QNV4sCpyOzaQmlbVyZIsSh5h3OmwyiVE8aD6ETm3GixCGUjWlIYDA+Tj5xkmH7x52zGduF+oxq18ZhEd9JUqizsxysVTK+52rUXYv6DIQi0OSTqWm/saZtkVfdwg9Kls/TQtg9Yg1psfg==;ox23noaYbpWfEitbp/IEjg=="
+secured: "G20l/ubkn2DHkKzP+ghzjfarPG2G4QU6cFBOKprVo1VXJB6P85BInRs6mkhe1BWLI5ecv21MbCcq3MJd61vrmtErldXm7NTRqPmeG/79/kGd4u9sGHDKLC3KNjhXBlvLGwfPG22umsDUrZxcixKC2ubB83Ss4lI/KQGm26Nby/tEs/NJjTjVMv1xnicMNKB5wyWefL8wGksmswv5ycow6rVXf6s4dcp1qQm9p52zLg0ysBbvt7vfND1LxypD2v9vQK5KAR43TclEPZWYZ3vqC5YikXMQQswYaLG2MODP7EyGkPQC882mA3jnXq6EO5Y+/jmEIVoC8j2GeFs5mbs5u5uQdkAt5TSToNRs44TVYJWnPFOML8gQJisj59bKCZYg4jP3Ased+dxOQud4YoPt+Bo+p/d73GGXdAIL1J0RZdoz0/WQngFDMCUpB5HszzvNFOBpNatmQRZILDfwLvXJoO4MWtrm5dNH7uDYYrUYTuhnaUXAzfuSuW/rps13rfnWL6ibH+NWvXwj6QuSHFyVxw==;KwZDVnMktScuA7HWDfYT2w=="
 ---
 

@@ -50,20 +50,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 19
-  - title: "Deep-learning chest radiograph model predicts mortality for community-acquired pneumonia"
-    excerpt: "According to an accepted manuscript published in ARRS’ own American Journal of Roentgenology (AJR), a deep learning-based model using initial chest radiographs predicted 30-day mortality in patients with community-acquired pneumonia (CAP),"
-    publishedDateTime: 2023-06-30T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/994359"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/48133881-a89b-475d-a7e1-dd30b0733423/Rendition/low-res/Content/Public"
-        width: 700
-        height: 351
-        isCached: true
 
 secured: "MLdcivYkXtiJX6/u/1eRfWCX7lQZ8u704YRr133aKgWSHTh5aGYDq4VtlW//tpNge1roOPV6j6bVz8YeKZqas1AOnDoz40kxIze1ueNZ6/t5hXxqk+jrEJWbbNoel8GlWlKtnBT38o4dXDwehyKtod3iy2tGCpnazj7PjKf6rMOux57vfNvRNyqi8a9eFQYw2cPMlH+6Zqe2dpAPDGLn4gv0txiGsFEHZRGLiMmS7Y54VdnYKc2V5wElJWRqJOOYeH6GTmecXwuK80GJRXPpthsBOjBg+4s6UmELbV7eeY9HjEb82PMaMM5wPN6lMcHffqxFonVQwzuMuD4qvemHeumo0NXMdkMmPtMnzIL+jNuhNZ7o3GqwPeJsJlUwv6G2u8R+st0dKHl9Ebz/Ws91nr6HSUg17dSpUQDQt05uwZhJE65FlYIjewxCq2PqTnS2MO5KjVzpqu03REA2lT7pkdfItOPxiDlfVkEW9F5+VPnLT6b8DTCeZAEDCxW86vYTXgVHncLekp7dq0W2vCjvKQ==;bYU73F3Q+GMqZT/P6SKY/Q=="
 ---
