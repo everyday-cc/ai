@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Inflection AI Raises $1.3 Billion in a Booming Market for Generative AI"
-    excerpt: "Venture funding in generative AI startups rose to $12.7 billion in the first five months of 2023, compared with $4.8 billion in all of 2022, according to PitchBook."
-    publishedDateTime: 2023-06-29T21:29:00Z
-    webUrl: "https://www.wsj.com/articles/inflection-ai-raises-1-3-billion-in-a-booming-market-for-generative-ai-5954424c"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-809809/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "DeepMind Co-Founder's Startup 'Inflection AI' Secures $1.3B in Funding from Microsoft and Nvidia"
     excerpt: "With Nvidia joining its investment round, the startup, co-founded by LinkedIn creator Reid Hoffman, said it has access to 22,000 Nvidia H100 GPUs, the most sought-after AI industry today, costing $40,000 apiece. OpenAI reportedly sought $10 billion from Microsoft at a $29 billion valuation, a lead investor in the ChatGPT-maker."
     publishedDateTime: 2023-06-30T12:51:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustwo
 ampWebUrl: "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp"
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp"
 type: article
-quality: 83
-heat: 83
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://www.androidheadlines.com/wp-content/uploads/2023/06/Brain-image-3894384938.jpg"

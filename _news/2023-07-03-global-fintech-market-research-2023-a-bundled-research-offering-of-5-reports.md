@@ -111,6 +111,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 0
+  - title: "Tenet Fintech Group Inc.: Tenet Announces Director, Executive Officer and Board Committee Appointments"
+    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative analytics service provider and operator of the Cubeler®"
+    publishedDateTime: 2023-07-04T12:49:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-07/59493793-tenet-fintech-group-inc-tenet-announces-director-executive-officer-and-board-committee-appointments-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "dHcsmskQMQLTVEyMeca21WmKvlB2zuCvOESG+g3yC62DE1Bazo95S++eFvjdaZOI3sGWN4wrxRu/s8Qysza0+KHIS4re+aMa1+kbWG+dFmyq99/D+dY16PSO13o9X8/I74lzO0QIfNpGaqBYDGHcZwigI12dP80iRSz3mZTxBMg7IzsJdiM2PuaEM7AY3M0+1Z/+yYwYMbEX3WpVvMuPZhAG05ORBSqAmFtcLNPWv5rTgH6lb9EFBpeH5bv41kmjAcJdC0Lu+UXARKlFEJJKyETF+xB1H/frACR+vokfGtICY8QdeW10ArPHFgQ5yePfg0LFHKDto3p789tddXXW715VIHnMxMGWw6l3uSIudrQ=;VU7iFFnRzvW8EF0IjEPabg=="
 ---

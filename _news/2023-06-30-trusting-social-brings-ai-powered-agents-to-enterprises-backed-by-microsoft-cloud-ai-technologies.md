@@ -155,20 +155,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 55
-  - title: "Microsoft’s Cloud Server Business in 2022 Was Less Than Half of AWS, New Document Reveals"
-    excerpt: "For years Microsoft has kept a lid on details about the true size of its Azure cloud server rental business, making it impossible for investors to know how Microsoft’s cloud operations unit stacked up against industry leader Amazon Web Services."
-    publishedDateTime: 2023-06-29T20:36:00Z
-    webUrl: "https://www.theinformation.com/articles/microsofts-cloud-server-business-in-2022-was-less-than-half-of-aws-new-document-reveals"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 47
-    images:
-      - url: "https://tii.imgix.net/production/articles/10781/35961e76-cb5e-4c8c-a5a5-720d82802ace.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
     excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
     publishedDateTime: 2023-06-30T18:07:00Z

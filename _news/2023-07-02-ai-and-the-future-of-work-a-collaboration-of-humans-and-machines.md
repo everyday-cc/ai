@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Industrial Robotics - China"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$1.07bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.60%, resulting in a market volume of US$2 ..."
+    publishedDateTime: 2023-07-03T19:22:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/china"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ethical and Thoughtful Use of AI in the Legal Industry"
     excerpt: "This is especially true when it comes to publicly available generative AI tools such as ChatGPT, the large language model chatbot developed by OpenAI that, among other things, can generate text, translate languages, write different kinds of creative ..."
     publishedDateTime: 2023-07-03T17:43:00Z

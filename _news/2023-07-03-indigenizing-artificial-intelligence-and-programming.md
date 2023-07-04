@@ -24,44 +24,44 @@ images:
     isCached: true
 
 related:
-  - title: "Why India Risks Falling Behind in the AI Race"
-    excerpt: "India’s tech industry is being less than bold in embracing artificial intelligence. It’s hoping to create solutions for corporate clients by building on top of somebody else’s investment in foundational technologies, hardly a strategy for pathbreaking success."
-    publishedDateTime: 2023-06-29T20:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race"
+  - title: "DLRob Groundbreaking AI Robot Controller Revolutionizes Autonomous Packing and Stacking with Cutting-Edge Self-Training Technology"
+    excerpt: "Deep Learning Robotics (DLRob), a pioneering leader in artificial intelligence and robotics technology, announced in the framework of the Robot Tech Show 2023 last week"
+    publishedDateTime: 2023-07-03T16:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33099147/dlrob-groundbreaking-ai-robot-controller-revolutionizes-autonomous-packing-and-stacking-with-cutti"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33099147"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33099147"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKrCGrr9zSHg/v1/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Regulation and talent: India’s catalysts for generative AI triumph"
-    excerpt: "Generative AI has taken the world by storm; every business and sector is rushing to integrate it into their systems and make maximum use of the technology. Innovators in the US have pioneered their"
-    publishedDateTime: 2023-06-30T11:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
+  - title: "China accelerating commercial use of self-driving technology, expert says"
+    excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years, said Nikolaus Lang, managing director and senior partner at Boston Consulting Group."
+    publishedDateTime: 2023-07-03T03:14:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 23
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
+        width: 544
+        height: 362
         isCached: true
-  - title: "Airport face biometrics expansion in US, India accelerating"
-    excerpt: "The expansion is part of a trend towards the use of face biometrics by government authorities, in a boon for vendors like Dignari and Idemia."
-    publishedDateTime: 2023-07-03T19:24:00Z
-    webUrl: "https://www.biometricupdate.com/202307/airport-face-biometrics-expansion-in-us-india-accelerating"
+  - title: "Machine Learning is Revolutionizing Quantitative Trading"
+    excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."
+    publishedDateTime: 2023-06-30T16:34:00Z
+    webUrl: "https://www.bbntimes.com/financial/machine-learning-is-revolutionizing-quantitative-trading"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: bbntimes
+      domain: bbntimes.com
     quality: 19
 
 secured: "zzfCNwAl6bHSnj7mQVQTZLo80A7Blmq796vrsmsWMUs0nFlXCiMSFNDBxmNSgQArdcofdSYV6zjjbN0l7oo683HG297UgDjF0CnkBkrJlG41iAlE9v6hZ3ozmakP/kRpWUmId0Q0NDS2SuKn8zSWrCN1wQhWJ8ifenM9rCIZTYePVRbQoqhUYOTwUtwPfrkSJnWCkBf6o1RYk0HJw8ME9YJJisYZ8i9U00mCiOzHyaVkb7iwth+KSMXpWRMnsf5BmBR9Yb77lFwtISQkH/hZLtwKFG6jWVkLmJiBCdxRT2GZFNi00e8DvNpKNuWHW+ryAJBXWYfad7KHnzuw2KgexQQT3bUvOrqK65zcIS+PcJkJUAPDiP9oRxWfAj3G1tp8Aen87nVmVoBCWA/Vgz/ix4v9/2sPhyUAC4JBTpqWDnkw0q2ZIw4Ijgc4dqwj7YjR/VUlCWynPLpA8QfeTKr418ZK0EnLCjCIGWbgTLBPesJd1fd1B+bhK3wPihWFUcQBJrKn3bm3yI1f1xcRroTXUg==;u/yLVm2muGuUa43jK1ok5Q=="

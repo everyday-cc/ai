@@ -57,24 +57,6 @@ related:
         width: 1320
         height: 768
         isCached: true
-  - title: "Inflection AI — Reid Hoffman's new AI startup — scores $1.3B in new funding"
-    excerpt: "Inflection AI, co-founded by one of the co-founders of Google DeepMind, is the latest AI startup to score a massive funding deal."
-    publishedDateTime: 2023-06-29T19:27:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/06/29/reid-hoffmans-inflection-ai-scores-new-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 15
-  - title: "AI Startup Typeface Achieves $1 Billion Valuation in Record-breaking Fundraise Led by Salesforce"
-    excerpt: "With the additional capital infusion, Typeface is poised to accelerate its growth trajectory and continue pioneering groundbreaking advancements in the field of generative AI."
-    publishedDateTime: 2023-06-29T19:31:00Z
-    webUrl: "https://techstory.in/ai-startup-typeface-achieves-1-billion-valuation-in-record-breaking-fundraise-led-by-salesforce/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 4
 
 secured: "d9/mPawDMgPu7oWpxj13WK90cSSEI2WZY1V33Ed/YYMsT/NzyU5Xu4QTk0b+OwF15WYzHH4nbAszf5OSWuPxfRAjPnTnUG1v7SZmeAH8q8jrUuxWmDkXGajLVIBQjdj9p8To2WA+eSsBDn44BWRKzvfPkvbh6pMTuOraCiBcPiOI7YPXAQ2Ra/QyhrcxhEyKsKinuW9MzeL8pJnN2FLp5z3aRPA4wiJDPL3yOthjmfgG/qu2U7kSZo8ewYZvtkySAq2cYzf2pcX/CwKZ71qdJ+vGK6BN9L8b3Bmg1Qb7wRXrH0Hqnyr9MHAO4nw++7EgJCx6j+/gzsmjs07Ry395Ab2s8ulvCaetlpuFvNBApIA=;p/2YxzTvka3W8fhQGibqmw=="
 ---

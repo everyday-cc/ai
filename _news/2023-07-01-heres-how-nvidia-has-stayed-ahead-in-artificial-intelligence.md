@@ -173,15 +173,6 @@ related:
       name: Financial Tribune
       domain: financialtribune.com
     quality: 34
-  - title: "Microsoft-backed AI startup Inflection raises US$1.3 billion from Nvidia and others"
-    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday (Jun 29) it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
-    publishedDateTime: 2023-06-29T19:08:00Z
-    webUrl: "https://www.channelnewsasia.com/business/microsoft-backed-ai-startup-inflection-raises-us13-billion-nvidia-and-others-3595251"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 28
   - title: "Nvidia acquires OmniML for AI Edge workloads"
     excerpt: "AI is so big today that Edge devices aren’t equipped to handle its computational power,” OmniML co-founder and CEO Di Wu said when the company raised $10 million last year."
     publishedDateTime: 2023-07-03T12:17:00Z

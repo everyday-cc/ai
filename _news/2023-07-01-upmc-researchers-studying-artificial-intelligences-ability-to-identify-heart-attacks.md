@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/upmc-researchers-studyin
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/upmc-researchers-studying-artificial-intelligences-ability-to-identify-heart-attacks/"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers teach an AI to write better chart captions"
-    excerpt: "Chart captions that explain complex trends and patterns are important for improving a reader's ability to comprehend and retain the data being presented. For people with visual disabilities, the information in a caption often provides their only means of understanding the chart."
-    publishedDateTime: 2023-06-29T19:57:00Z
-    webUrl: "https://techxplore.com/news/2023-06-ai-captions.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-ai-captions.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-captions.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg"
-        width: 1920
-        height: 1285
-        isCached: true
-  - title: "How computers and artificial intelligence evolve together"
-    excerpt: "Co-design, that is, designing software and hardware simultaneously, is one way of attempting to meet the computing-power needs of today's artificial intelligence applications. Compilers, which translate instructions from one representation to another,"
-    publishedDateTime: 2023-06-30T17:15:00Z
-    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-computers-and-arti.jpg"
-        width: 660
-        height: 441
-        isCached: true
   - title: "Researchers teach an AI to write better chart captions"
     excerpt: "A new tool helps scientists develop machine-learning models that generate richer, more detailed captions for charts, and vary the level of complexity of a caption based on the needs of users. This could help improve accessibility for people with visual disabilities."
     publishedDateTime: 2023-07-01T17:24:00Z

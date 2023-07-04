@@ -44,6 +44,29 @@ related:
         width: 1270
         height: 713
         isCached: true
+  - title: "China retaliates to US chip restrictions with export controls on vital tech metals gallium and germanium"
+    excerpt: "As reported by Bloomberg, China's Ministry of Commerce said in a statement yesterday (Monday) that as of August 1, the exporters of gallium and germanium, as"
+    publishedDateTime: 2023-07-04T15:38:00Z
+    webUrl: "https://www.techspot.com/news/99286-china-retaliates-us-chip-restrictions-export-controls-vital.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 52
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2022/08/2022-08-16-image-16.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
+  - title: "China to tighten control on exports of AI chip-making materials"
+    excerpt: "According to Chinese officials, anyone wanting to export gallium or germanium products must receive a license from the government and comply with new export limits or else face punishment."
+    publishedDateTime: 2023-07-04T11:15:00Z
+    webUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
 
 secured: "HWwnxtXZdcNNUOcw5W0R6Ah05mzQi7cvmq3E23kHXvNGeTVUFBvqHh45lwkJaVcUw5mpRm0PUdV41t0AFj9j55hjrwkzjw+Zt4/cTnqc0h/NCTkbE83cVVGcb1whv1OkEJpMCteLpmcBFJPDJzx/h8pBLlKN8wbIovIxOG2qkN0+u+Qyt5PhBKrLQ2MgY/WNTBXiKtmwv7vvCLxAQu52/mnUXmmdUxZvXqKRxKzL91ibo16flWIsMDXmyC/sfkH9koESF32Gtz2OjLgDlrgr2YCBK+YOYBVtgFP+iX5lmK6T4FvJkGwSCyNWPz/PBsUwb4fXeldMYvsLvxwCmA/XeP+qeBAR9qR2tqdxrX/A3zw=;a4bgHXTugdNSfRozNKIsKA=="
 ---

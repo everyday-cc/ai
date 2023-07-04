@@ -7,7 +7,7 @@ originalUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/30/Tech
 webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/30/Technology/sports-info-solutions-blueprint-stats.aspx"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Kyvos Announces Availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace"
-    excerpt: "Kyvos, a modern, cloud-native analytics acceleration platform, has announced the availability of its azure application"
-    publishedDateTime: 2023-06-29T19:23:00Z
-    webUrl: "https://www.datanami.com/this-just-in/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 17
 
 secured: "sZgmgObg3pBZn9Mwyp58xC9zNJllT7sDrpzWttO3ThYRsLfAzMGoDvTigwdve/247I945fWREyUEBTtlrh/kEzT9ntxuyBFz3xJU4yEbPpEgutx3n/wIvcOcZhbe4Cz0IfxZBghtHWsV91xiflpyTMezvfwmUZvcqQ92rUQwePOJvuNaWGmdCfTJSngB+oonOVzfflAs1qbQfVhq6ONSJGJtDntvlgMe9GY/GMCAs8Tkw9E+vGHkCzgZrigLpXFgdUIDTicjmd+BT0icTynHk1d7BzRglvdAeTXrfuLeBa1WJjlRlD+PoFWip0aCQhSKpMzXQ3sv1MxGKopUyxs9tSsKb3GLClrI/0rAxBfupQQ=;30ksnXyH4sdbsTQsx6kHqA=="
 ---

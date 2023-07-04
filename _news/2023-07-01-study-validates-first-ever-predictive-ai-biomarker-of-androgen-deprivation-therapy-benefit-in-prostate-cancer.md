@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-validates-first-ever-ai-bioma
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-validates-first-ever-ai-biomarker-androgen.amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Medical Xpress
@@ -41,15 +41,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "ArteraAI Announces First-Ever AI-Derived Biomarker for Predicting Androgen Deprivation Therapy (ADT) Benefit in Prostate Cancer"
-    excerpt: "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced today the publication of data in"
-    publishedDateTime: 2023-06-29T20:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230629089773/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
 
 secured: "2fiZ2Vcp5vfnbnUniRD3E11JVXELbXV3SIfqjZaPiU4k0nzG5vBkCo+2jiWTmLhb3DW1pSuNUKQvJ/c4aNdeT8s6n9KRhZi3AJRn3xsCHhe7IrnVUuwgG9+oJnn0ToXtcXaLP3FoGuhRln9kKCyC+Dc03I5lvu+AJHadwISpWyMwjlU0+AnHRFEiIOxSq0YBHSXwjZhRC0cey1WZYdsuvu6GDj6zkjYLaHUOXRvNNGAkf8Hh43njkY6cl8em9Jq775m03UI8S6kKtTDHB4meTiXln45CqLFraoCGhLulfRlqLFWnfh/yibUTR36clHVqLr/c9mWI3HtXYupWQolQnWo/o6sIB2rFRR5032w93GSh4QnmJXgEpD1q7EiU4IArKEtJ+77ZwBo9tT+uXf/Dyt5XYCi/ajBZOeJmPWSGBOKMVP2CA2ohybUGTLGfkVSGb324sFLljEh2Krnf9maAoJrm5ecOJz0zaedx4WtS83Bk95663OIz+5HhTTdUIS5KQRkwjC6Tos7vJ19py1WW0Q==;g6e2bnOVDxuBK2fl/sx++A=="
 ---

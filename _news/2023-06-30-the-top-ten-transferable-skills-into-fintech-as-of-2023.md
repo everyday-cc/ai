@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
+    quality: 0
+  - title: "Tenet Fintech Group Inc.: Tenet Announces Director, Executive Officer and Board Committee Appointments"
+    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative analytics service provider and operator of the Cubeler®"
+    publishedDateTime: 2023-07-04T12:49:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-07/59493793-tenet-fintech-group-inc-tenet-announces-director-executive-officer-and-board-committee-appointments-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 0
 
 secured: "NoJLwiB0P5k5x7EDdXzeqTa0F4XACMLk9Yod5nFKAG+FgRPvaUDFI7xrlL1xxn2XR08tUUeyOKaXqcm1jjvZDtvgAi4LaoJ0ZmVM+dfoVUZkfcmJV4zqchMZJ2VDRWaWBti0piHk/etZTXD9duo8XtgNgwdduSq+qRIESTlOaCEBYZqKTT315mQS3znBJZ/e4Ub/4pXkS2BRhV+du2s7mb1VA7cqGFGE4VvujLRJE+qsJabDDNgOXCUqepHUD6SPRnKiWjYxOjcTaeKmo9OLe6otfufO8uih14o3ju72/6Hgn+8IXUyU4JtvbfyLdrsZaOu6HJItxECOaddsF5jE3Xclq/yCBIUkjVSnhJ3g6pQBL6ErqDxlpOkhDzZhCJNKjdQUCDDB5C1hbt3wif8QLKuVo5CsbAxStxvWfusn668zOMoh9+q/UAVxQmczejkCFZUyg/4ofwDd2sKUIJilF+uWQ8MmGp1nw1q88STANhuw/FanEV86AEwivj5+kC7O4hioQo1Kz43z4EEIZx9thA==;d2UiOAIE1AZC5IRN5CLBbw=="

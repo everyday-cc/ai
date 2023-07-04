@@ -2,14 +2,12 @@
 category: news
 title: "UN council to hold first meeting on potential threats of artificial intelligence to global peace"
 excerpt: "The U.N. Security Council will hold a first-ever meeting on the potential threats of artificial intelligence to international peace and security organized by the United Kingdom"
-publishedDateTime: 2023-07-03T23:02:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637416"
-webUrl: "https://abcnews.go.com/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637416"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637416"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637416"
+publishedDateTime: 2023-07-03T23:47:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637407"
+webUrl: "https://abcnews.go.com/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637407"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,12 +17,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
-
-secured: "zLeCRYSX7kR4A6XXVog8yc9jUK6Q6+v6O8ORIwAa783eZ10+3G7WWqfknQO6r3hU9XDPe1mJhAPfROBhsH5BLYLrjwiWGCHfA8NPYH01YxXZyubvId2qqxJ+MF6+UqtG+siilZM4oFu2aNw3gmImYvW2kvcJac5e1Uj4EIvWXjT8kFI6gN9kL8MSlxn8lI7DS+vAtsVvyg0AMwOhOs+sRO0gDKsZjrUW4XogRMKZAxfL2shAP1NVeBWZ9qXPC1HMCaztg37d5OxYaejTuJjONp7YGPYZ0yOq7FB+UND0yNPQb3CwmgSRe97wknLMbD8XCzajXpJzHXpkxXotG+79seapGTsjQgr32rvq4rBolIg=;vM4wOwZPDJRCR9h/kxMXdg=="
+secured: "fTc2/zGPUTjesKQltTPB5Sa7RNaUKrm2xaN0nRY5pzle5T10MMu1bNajyuZ3wbsXWW8HUJjkC4OzIZwKzoHPuRpl4dMHKq1EG+c4lNGzu+RDb9nngch8CVevE6tpeBPuZT1k4s96gwyddfzy6CbWjaJyE3vGTEKnP3TOMiqoROqU73PrRQpm+Ap8d6RMbaZN8DJ/QSmzi1Pmh3zJYdNBoRmWw1p+IEcwj1cmfl+STDtVyW2TM4HgWxRIq5An2KkQSKOjwg5l4NQcELhyGd6kkDLzGB9ff99cgTXZRM/1nl110GCNXlZ5MXHIVKDrGALGUT43LXWrDVWUbaRLpcUwxGgj2EsrSK32PZjSteKxsQq6zL0TnLU/vxr+a56bDPyoy7jlgQ5T4QNV4sCpyOzaQmlbVyZIsSh5h3OmwyiVE8aD6ETm3GixCGUjWlIYDA+Tj5xkmH7x52zGduF+oxq18ZhEd9JUqizsxysVTK+52rUXYv6DIQi0OSTqWm/saZtkVfdwg9Kls/TQtg9Yg1psfg==;ox23noaYbpWfEitbp/IEjg=="
 ---
 

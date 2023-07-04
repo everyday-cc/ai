@@ -73,20 +73,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "7 Best Drones With Facial Recognition"
-    excerpt: "Many may not be fully away, but some of the higher end drones are equipped with advanced facial recognition technology. With this technology, a drone can do neat things like follow you ..."
-    publishedDateTime: 2023-06-29T19:05:00Z
-    webUrl: "https://thedroidguy.com/7-best-drones-with-facial-recognition-1077684"
-    type: article
-    provider:
-      name: The Droid Guy
-      domain: thedroidguy.com
-    quality: 39
-    images:
-      - url: "https://thedroidguy.com/wp-content/uploads/2017/11/drone-in-flight.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Tech boost to policing as facial recognition cameras keep track of criminals in Puri"
     excerpt: "In a first in Odisha, the Puri police have introduced a facial recognition technology to track the movement of habitual offenders. Based on the feedb"
     publishedDateTime: 2023-06-30T17:57:00Z

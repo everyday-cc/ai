@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The rise of AI and deepfake: My personal reflections"
+    excerpt: "As a technology enthusiast, I have always been fascinated by the potential of artificial intelligence (AI) to transform our lives for the better. AI has enabled many breakthroughs in various fields, such as medicine,"
+    publishedDateTime: 2023-07-04T13:33:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/The-rise-of-AI-and-deepfake-My-personal-reflections-1797593"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 19
   - title: "Scientists use deepfake AI images to understand the sun's atmosphere"
     excerpt: "Solar scientists are using deepfake AI images to unravel the mysteries of the sun's atmosphere. The research, being presented at the National Astronomy Meeting this week, was carried out as part of a collaboration between Northumbria University and the University of Bern."
     publishedDateTime: 2023-07-03T18:33:00Z

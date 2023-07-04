@@ -39,15 +39,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Podcast: The New York City war against facial recognition software"
-    excerpt: "New York wants to ban the use of the software, but grocers are fighting back, saying it’s an issue of theft prevention"
-    publishedDateTime: 2023-06-29T19:16:00Z
-    webUrl: "https://www.supermarketnews.com/retail-financial/podcast-new-york-city-war-against-facial-recognition-software"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 34
   - title: "Barred from grocery stores by facial recognition"
     excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
     publishedDateTime: 2023-07-03T13:00:00Z
@@ -57,6 +48,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
+  - title: "Facial recognition technology could soon be everywhere – here’s how to make it safer"
+    excerpt: "However, there are ways that the technology could be used more safely. Law enforcement teams could perform two preliminary steps – activity recognition or event detection – before they resort to face recognition. This approach can help minimise the potential for privacy violations and false positive matches."
+    publishedDateTime: 2023-07-04T12:08:00Z
+    webUrl: "https://theconversation.com/facial-recognition-technology-could-soon-be-everywhere-heres-how-to-make-it-safer-205040"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 12
 
 secured: "W/t7nknMdcznbEvED4wPKyTbs8gbXU+njw4x7u+bcZN0Dt8Clm20Oew/aQJQTcH6KWPsiw81bIKGZf50l1APz9E1G4LbNRo9b899vXVrd6hzgz/H0+ab2RNtgFT7N3vVNAfvuC8ZdB+yniXqTZ1TaHXugn0KikkrdenVY4xTxxd4O5eZgCWso0k6ssONflrepLGgUG5MHlJC25oYTaRa1FdQS4OxX73g/pr8K4HzzrpU/Sad6EpaMLRW99fvdwwn5lWv/9LhY4WUawvRmXzVVKLmY/nlkX7ZeB0PpeP3m1eUhpQP0YfuY8Kx3PMmAN53YEE+FA0YeuE14/n2ieJC91FbsRdfxKzE/rbpsksiAk8=;olnKCAXtDcCADDYO0fNAKA=="
 ---

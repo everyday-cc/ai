@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence
 webUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Unlock the AI Boom with These 3 Top Stocks"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is no longer just a buzzword. The revolutionary"
-    publishedDateTime: 2023-06-29T20:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/unlock-the-ai-boom-with-these-3-top-stocks-1032418962"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "LxXC5rY629C3671QWav3BzuPOgCD9GAWk6PanCf1jTWPdalaZGXiQE03AZ09/z98KkSqpfYop9OBfMSB8H5qwnbs3HW+ZDMqbqMPfQLbYR4sWqXVywZCGm1I9ZO/Nyg6eDaQYYF8hRAijEh3dvboEsw0KuNxsJVHOZPpddRKBhrT079yHmLkipd1mDc4dDFBq5PP9P5HAZctOQHTE3RvDlN96cRwTrzzJG+na2fRl0TElNtWb9+jpu8T3d+bmVreDafbkyJ9SPo5cb52ioliKt8mBmerS4O+DN2PJB0vJmwxOgNDEBFzWoBhijmW6ZFd9/TmqGbFpsqHtpnB0d19j5AIipNlM6pnOj+XfBAN+PjPRueaCyF3Y3HzHvH7nEiivoGact+cG5YDTSvbfHdyOzlt1UhpS2zrNffW3BTN1USY/mVbL5JR9F+V/rZij5rD4Gv5Q4HSRaopyl2hGnAUkaXINdY8D6Qw8eEr0QegE3wID0xMLfsBOFjZdjVCkW3Spd2ucpksf4pkTG6s7uxvTw==;/7NdehtmyUCXA9p+XiTMCw=="
 ---

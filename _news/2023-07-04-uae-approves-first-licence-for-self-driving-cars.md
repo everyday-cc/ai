@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106548813/Uae-Approves-First-Licence-For-Self-
 webUrl: "https://menafn.com/1106548813/Uae-Approves-First-Licence-For-Self-Driving-Cars"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ topics:
   - AI
 
 related:
+  - title: "UAE approves first license for self-driving vehicles"
+    excerpt: "The license was granted to WeRide company, Sheikh Mohammed said UAE approves first license for self-driving vehicles Abu Dhabi, Autonomous vehicles, Dubai, Self-driving vehicles, Sheikh Mohammed bin Rashid Al Maktoum,"
+    publishedDateTime: 2023-07-03T13:18:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/uae-approves-first-license-for-self-driving-vehicles"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 4
+  - title: "WeRide receives autonomous driving license from UAE government"
+    excerpt: "Photo provided to] WeRide, a Chinese autonomous driving company, received its first national license for self-driving vehicles from the United Arab Emirates gov"
+    publishedDateTime: 2023-07-04T12:52:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202307/04/WS64a40a86a310bf8a75d6d338.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 4
   - title: "UAE approves national license for self-driving vehicles in region’s first"
     excerpt: "Sheikh Mohammed said on Twitter, “We approve the establishment of a Ministry of Investment in the state within the federal government structure and appoint Mohammed Hassan Al Suwaidi as Minister of Investment in the state."
     publishedDateTime: 2023-07-03T12:26:00Z

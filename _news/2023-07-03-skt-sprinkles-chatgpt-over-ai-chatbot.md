@@ -41,21 +41,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
-    excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
-    publishedDateTime: 2023-06-29T22:22:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/openai-chatgpt-generative-ai-lawsuit-rcna91892"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+  - title: "A guy tried using ChatGPT to turn $100 into a business making 'as much money as possible.' Here are the first 4 steps the AI chatbot gave him."
+    excerpt: "Jackson Greathouse Fall asked ChatGPT in March to turn $100 into \"as much money as possible.\" He ended the project a month later."
+    publishedDateTime: 2023-07-04T13:47:00Z
+    webUrl: "https://www.businessinsider.com/how-to-use-chatgpt-to-start-business-make-money-quickly-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/how-to-use-chatgpt-to-start-business-make-money-quickly-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-use-chatgpt-to-start-business-make-money-quickly-2023-3?amp"
     type: article
     provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://i.insider.com/6418c8c050c7b20018f159a8?width=1200&format=jpeg"
+        width: 723
+        height: 361
         isCached: true
   - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
     excerpt: "And how do teachers, institutions and governments find room to plan for the future?"

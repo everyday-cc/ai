@@ -47,15 +47,15 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Podcast: The New York City war against facial recognition software"
-    excerpt: "New York wants to ban the use of the software, but grocers are fighting back, saying it’s an issue of theft prevention"
-    publishedDateTime: 2023-06-29T19:16:00Z
-    webUrl: "https://www.supermarketnews.com/retail-financial/podcast-new-york-city-war-against-facial-recognition-software"
+  - title: "Facial recognition technology could soon be everywhere – here’s how to make it safer"
+    excerpt: "However, there are ways that the technology could be used more safely. Law enforcement teams could perform two preliminary steps – activity recognition or event detection – before they resort to face recognition. This approach can help minimise the potential for privacy violations and false positive matches."
+    publishedDateTime: 2023-07-04T12:08:00Z
+    webUrl: "https://theconversation.com/facial-recognition-technology-could-soon-be-everywhere-heres-how-to-make-it-safer-205040"
     type: article
     provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 34
+      name: The Conversation
+      domain: theconversation.com
+    quality: 12
 
 secured: "YsTBCF8TQTmepot/WaYYomvkzRoCBfzE7Nebk0X4Z2f0e89YFx7QBFTB8bnEGQbNUbu9fapcu6oc96qmDeXMo7maQ4CYANqXZrIjb1Gq3oWezRrHYJA1RwVdvKpU22G3QzQ7lZucN8L2813YEqT8cLImBeeduMgrpkNXU1GyTExL6CZhKQg05IpHGEqmjTlxkmLAj+bEBKCsdbFyZVvHIQ2aiJ9qvx1NNj83HWQloT6A74R21bgez9d3stVJgaTSpf7XbCNwOH6DwGsAsUdMtJVwkE9J1Zh0yRjT8vPC+H6eHk423GRAvyTMrNKQ3XyL7axjK6TJ4RdyDtgVBa7BO04IqMDAh5yhtl9ZxxAsQYCYXb/Hnh8WXDXdvhHKKtPXpqj74dcQkuR2w46G954uOs/JvL4YlHP4OrKenRtuibeGQk+E4IcCZlLQ/UCNu1KR9jhvbOQH9LAZjB4A0ZxCn6YhR2DYMkSG8fUUYa3zAQyCQKEhEwRHm08DjE4Rj15Z99+qyZsAeiiyrdT79TSQbg==;g2Ps+iNYDF4v9ykNruJa7A=="
 ---

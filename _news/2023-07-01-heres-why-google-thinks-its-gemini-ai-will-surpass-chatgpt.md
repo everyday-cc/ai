@@ -24,100 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s DeepMind Unveils Its Powerful New AI, Gemini"
-    excerpt: "Discover Google's DeepMind new AI project, Gemini, a cutting-edge system aiming to rival OpenAI's ChatGPT. By blending AlphaGo's strategic capabilities with advanced language processing, Gemini seeks to redefine AI technology."
-    publishedDateTime: 2023-06-29T22:37:00Z
-    webUrl: "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/"
-    ampWebUrl: "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp"
+  - title: "ChatGPT Successors: Humanoid Robots, AI lawyers, AI-driven science"
+    excerpt: "There are several AI technologies waiting in the wings of next-level ChatGPT, including humanoid robots, AI lawyers, and AI-driven science."
+    publishedDateTime: 2023-07-04T07:57:00Z
+    webUrl: "https://greekreporter.com/2023/07/04/chatgpt-new-ai-technologies/"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 74
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/06/possessed-photography-JjGXjESMxOY-unsplash-scaled.jpg"
-        width: 2560
-        height: 2263
-        isCached: true
-  - title: "Google DeepMind calls for 'responsible' approach to AI amid 'eureka moment'"
-    excerpt: "The explosion of interest around AI has come from recent advances in the technology that have allowed people to use it with conversational language, rather than the programmers who predominantly dabbled with it before,"
-    publishedDateTime: 2023-06-29T19:32:00Z
-    webUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment"
-    ampWebUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/"
-    cdnAmpWebUrl: "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/"
-    type: article
-    provider:
-      name: The StarPhoenix
-      domain: thestarphoenix.com
-    quality: 72
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/06/chy143-the-canadian-press.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials"
-    excerpt: "Ever since ChatGPT went viral last fall, companies have touted many ways artificial intelligence can make our lives easier. They’ve promised superhuman virtual assistants, tutors, lawyers and doctors."
-    publishedDateTime: 2023-06-30T12:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-30/artificial-intelligence-startup-looks-to-develop-climate-friendly-materials"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 63
-  - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
-    excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."
-    publishedDateTime: 2023-06-30T15:09:00Z
-    webUrl: "https://www.canadianmanufacturing.com/Y0iqA"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
+      name: Greek Reporter
+      domain: greekreporter.com
     quality: 54
     images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
-        width: 300
-        height: 600
+      - url: "https://greekreporter.com/wp-content/uploads/2023/03/AI-artificial-intelligence-machine-learning.jpg"
+        width: 1024
+        height: 819
         isCached: true
-  - title: "DeepMind alum wants to use AI to speed the development of green materials"
-    excerpt: "For the same idea to work in chemistry, an AI system would need to predict how a new molecule would behave, not just in a lab but in the real world."
-    publishedDateTime: 2023-07-03T02:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials"
+  - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
+    excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
+    publishedDateTime: 2023-07-01T15:03:00Z
+    webUrl: "https://bgr.com/tech/clippy-is-back-as-a-chatgpt-powered-ai-assistant-for-windows-11/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 53
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/02/2155848.JPG"
-        width: 1240
-        height: 826
+      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1668
         isCached: true
-  - title: "DeepMind’s Proposes New Paradigm for Interfacing Language Model with Robots Through Rewards"
-    excerpt: "Recent advancements in Large Language Models (LLMs), pretrained on extensive web-based datasets, have endowed these models with a broad spectrum of novel capabilities through in-context learning, including the ability to direct robot behaviors."
-    publishedDateTime: 2023-06-30T16:37:00Z
-    webUrl: "https://syncedreview.com/2023/06/30/deepminds-proposes-new-paradigm-for-interfacing-language-model-with-robots-through-rewards/"
-    ampWebUrl: "https://syncedreview.com/2023/06/30/deepminds-proposes-new-paradigm-for-interfacing-language-model-with-robots-through-rewards/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/30/deepminds-proposes-new-paradigm-for-interfacing-language-model-with-robots-through-rewards/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 49
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
-  - title: "Here’s Why Google DeepMind’s Gemini Algorithm Could Be Next-Level AI"
-    excerpt: "Google DeepMind's CEO, Demis Hassabis, says their Gemini algorithm will use reinforcement learning to take AI beyond GPT-4."
-    publishedDateTime: 2023-07-02T18:11:00Z
-    webUrl: "https://singularityhub.com/2023/07/02/heres-why-google-deepminds-gemini-algorithm-could-be-next-level-ai/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 34
 
 secured: "1TyIBHEMuI/oG3VDqIs5P6bn66tsXZu6btM2YUgHL7NNpsgunLqVo2WI+eilgBxTTPRIFSTRJwQ9RPyDRVYj01lNIF9afhdbcR0NbxQ3B0fK4qWSw7g6i8oWyU54fYeCNfQuHMKhiMmRfphBlUG8/uioCRGE3suelmQpGQcLmrXwUwTtVmXaz2G5VuJrNWPb18ehzB00+O8ySWgCIPLivfVqU9cVpVmy2dumEJBbk6N82Sq8PLya9m/OQhIOsfR9iwqX1zm4SkBOkAYXnOwrv+5eZ+dUBEUAdlrqhLJz1xwUYsxw2PwRu7zARtyP5C/VDwA1m3euUpvKLmjPzR9xI9LBA1MKT9PwwNxQY58AuOXjN9mH40QeatGBOkUyos6HFV7COKI+fiELifYkQ1ZKmcvkBVOd3m9NesUoy8Bs3aY+ao/8170S8E9+oeWrArxsPa0SWbfXgZ56JfnL4SvIpDSzOo0stoaOa5LtQ87H5CujdachAhqZz95cqt/mfPKdcDnzvq6m+cdksBsBCsYP0g==;TAEWu/cJrSYLvIkexZ8V+g=="
 ---

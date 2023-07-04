@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/regulation-and-tale
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,45 +25,6 @@ images:
     width: 330
     height: 300
     isCached: true
-
-related:
-  - title: "Why India Risks Falling Behind in the AI Race"
-    excerpt: "India’s tech industry is being less than bold in embracing artificial intelligence. It’s hoping to create solutions for corporate clients by building on top of somebody else’s investment in foundational technologies, hardly a strategy for pathbreaking success."
-    publishedDateTime: 2023-06-29T20:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKrCGrr9zSHg/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Indigenizing artificial intelligence and programming"
-    excerpt: "The Lakota AI Camp has returned for a second year, from June 11-30, to bring Indigenous teens to the Black Hills for a three-week AI crash course camp while simultaneously"
-    publishedDateTime: 2023-07-03T11:31:00Z
-    webUrl: "https://rapidcityjournal.com/news/indigenizing-artificial-intelligence-and-programming/article_4e761cb4-1209-11ee-8a43-677bcecc3cc0.html"
-    type: article
-    provider:
-      name: Rapid City Journal
-      domain: rapidcityjournal.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/4/e7/4e761cb4-1209-11ee-8a43-677bcecc3cc0/649f40bf75ea7.preview.jpg?crop=1810%2C950%2C0%2C97&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Airport face biometrics expansion in US, India accelerating"
-    excerpt: "The expansion is part of a trend towards the use of face biometrics by government authorities, in a boon for vendors like Dignari and Idemia."
-    publishedDateTime: 2023-07-03T19:24:00Z
-    webUrl: "https://www.biometricupdate.com/202307/airport-face-biometrics-expansion-in-us-india-accelerating"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
 
 secured: "49f4A7AsbZV6U30sGevYB+M+/Ld3TTAS7AkPjnZCvrlzdUOGQaZe68CcyAh044Wrh27qs7KynHb23C5y4B3dYrRY0A06ouCsySL3NMD0YA+tNQRF+pcl0d9OusbxUgyLPuDe9BWoeh1keHbe/YuC+l8xPUKr7B9w3UTM4xOdI7kk8LrqRzcQDA9IVDLJtyiawDiouybV6xeJEYaf2LgrRaqwSJmDNO0AxdbOfEekpuIq35mURH2cU7j9ICeUXC8P/Fo3YQsbBmOghXl/iWImJmEtUlT0FPLF+s5NYxTnHkWlyktJ5K4zGXS+epxLpp8s5JPdu6EV1rsZNGm3dxNuWH1pSkVEEUytcV+d33DDDyw=;WGN0D6pKmqlQQz3QyiHj2Q=="
 ---

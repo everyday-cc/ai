@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China accelerating commercial use of self-driving technology, expert says"
-excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years,"
-publishedDateTime: 2023-07-03T03:32:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
-webUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years, said Nikolaus Lang, managing director and senior partner at Boston Consulting Group."
+publishedDateTime: 2023-07-03T03:14:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+webUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
 type: article
 quality: 23
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
+  - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
     width: 544
     height: 362
     isCached: true
@@ -41,6 +41,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Indigenizing artificial intelligence and programming"
+    excerpt: "The Lakota AI Camp has returned for a second year, from June 11-30, to bring Indigenous teens to the Black Hills for a three-week AI crash course camp while simultaneously"
+    publishedDateTime: 2023-07-03T11:31:00Z
+    webUrl: "https://rapidcityjournal.com/news/indigenizing-artificial-intelligence-and-programming/article_4e761cb4-1209-11ee-8a43-677bcecc3cc0.html"
+    type: article
+    provider:
+      name: Rapid City Journal
+      domain: rapidcityjournal.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/4/e7/4e761cb4-1209-11ee-8a43-677bcecc3cc0/649f40bf75ea7.preview.jpg?crop=1810%2C950%2C0%2C97&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning is Revolutionizing Quantitative Trading"
     excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."
     publishedDateTime: 2023-06-30T16:34:00Z
@@ -51,6 +65,6 @@ related:
       domain: bbntimes.com
     quality: 19
 
-secured: "ZLhhN+K0H131XpSKYdxSIXnAKjejsHUzWlPZUEsPoAnKf+tvoqdOska/IQbZ7olXCjv08WeOD3x+zKfiOY2kmREUDQDTfAfFKeaPr/tyLOT1ns+bSo8VHznVDCBuQsY13bc4rDXlJ/8CynZJZNKSVG2RtnQpgHzHaL/Zfnybtt+VDnF9zBOYyafzV5oOy9ofcqqLtrhzkwneZLlpCkbE/xGoRlXesJO6tpSH409dqvz8V8X1C4sM4U3CX1wwHjtxNnFcinCxxIlDzLcuQ8WUeTx7LlqGyY+rK6YGvi3LL8V1NvP6FL4dXvxsHsULitLvy0TlXUq/jutGP/uXEu4NuYYjc/YjxvVSTi0TMPT/O9k=;64Jb91bOZv3OY4kko+WIZA=="
+secured: "ErGJSNlVcZhpP/x+VQ0Kg0j4AB/CH9D7l/MZaiDDwPkhZnWTPQVOA+KeXwV4inMM2sNJnM+9MWX/u0lKhiLmPPyb9XgJr7v1asyc7hkTF4XUBKtiQ6HSWXZKol56UR79CLXjqlmqLTcWKvZnPWfit9ZO7QzkczsGrA5RfhmKRm/tetCpV92+Kq2oqnq3A4QqhWsW2aX1FXYzbHUi1z+j+k+tis6rWyvoTcRyRpity2Lb3bA70SO+Pbg7IAchSLrhBaCWowIPMX44pWkO3agY+WoCV3FZdsChbP60DnFEFj+886Us409tqzIbVnaRxUtoF/idgr/J92lc22m/rxpoC8nBtcUtnQCDgSmwdhJb/s0=;+IwjFePk30z8Jp4oBWVncA=="
 ---
 

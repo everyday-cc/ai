@@ -23,17 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "AI improving understanding of migratory birds' internal clock, map and compass"
-    excerpt: "Different species of migrating bird have different genetically programmed procedures that signal when it is time to head off and when it is time to return. It may have to do with factors such as daylight,"
-    publishedDateTime: 2023-06-29T19:30:00Z
-    webUrl: "https://phys.org/news/2023-06-ai-migratory-birds-internal-clock.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 13
-
 secured: "Nd0517w7FIiRMRGq2O5q8PMyzObEcdeGvER0Ou/U0M/C/6XkExK5DHcpQPjOugKacBOYAIbwpe0aBOHp7TKXOr3StnQd46lyqIt5vr3lfy+BgVDn3ut/G/8x7yx2Ro2IfWYU5ash8NHnc0xtLTtlEiPLkIOVIyCDa9LIazu7kY7NJe66l93Q6L80ES12Dch5Of762qlHqGvsaooY6IP5KDjYGdyNBsWMU/MZwFehXodcHqmvlh9PrQwQeagxwycFyOhLD0X8UOrDRfk0buznQT7/He0iF5PHpLdeqxERBkG65U9fwPyjYtAOIcQ+m0pYAabArQWsThkSSzDXBnZ+KVPwJALIDZcntncdlftmbF/8UZvRtG680wkJPkK/7hsVpxDUbbRT3TS+4kaHfLb0J65jVdfpk/SkL1a1ih1yFLy688W/wsz3W1HxfR8h/cko6h88l+OjWx35aRZReIzXCy23X1cXkgOGcbIZcQKbLgyXbV0qOajlT/mL0jjO1DZxCuLoXTBCIabD+iaazlqMUA==;+AQChfimAGHKPLATV4JjeA=="
 ---
 

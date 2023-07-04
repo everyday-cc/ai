@@ -26,19 +26,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Indigenous Voice stoush erupts over claims Constitutional recognition will leave Australians ‘divided’ regardless of result"
-    excerpt: "The referendum for an Indigenous voice to federal parliament will leave Australians “divided” regardless of result, warn two prominent Aboriginal leaders and vote critics."
-    publishedDateTime: 2023-06-29T21:42:00Z
-    webUrl: "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8"
-    ampWebUrl: "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp"
-    cdnAmpWebUrl: "https://www-adelaidenow-com-au.cdn.ampproject.org/c/s/www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp"
-    type: article
-    provider:
-      name: Adelaide Now
-      domain: adelaidenow.com.au
-    quality: 13
-
 secured: "Fgwteexs7EGoHWMAqomx5H3TNjCOWKeY2Sq1Ybw15Oq0NKDY2LtQe3qSeL8An4Vr2JUzMhT30aKoYOwUHrK28sxYH6hidllrZy9iV1xaBv0jszPEryYL9TE6gHIgfCETDzaJMcsn6JQjMNCRMj4WutBzeAfMrMVeY0h8mx9UNLliG1E/+DsFgFMJ8NylvbWiRwu3zZ85icGQG3FNLRdPSy5TVJQS6fSM0gEvCRvW/X3B8BA+tHtuUGgOGntQtX/sBVN/faPJ7mPl4ockV5QlR/kQorjexLVcBIbejpOOGaJNtc8FzrTgZdFctxUmMoh7ZEBikCHPmjpEbCwOIFffkuzNDEoyIWeQJc8QH/AIVNk=;QGh6Pl20bxfUXUFl119QrQ=="
 ---
 

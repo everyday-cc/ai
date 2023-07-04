@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Inflection AI Raises $1.3 Billion in a Booming Market for Generative AI"
-    excerpt: "Venture funding in generative AI startups rose to $12.7 billion in the first five months of 2023, compared with $4.8 billion in all of 2022, according to PitchBook."
-    publishedDateTime: 2023-06-29T21:29:00Z
-    webUrl: "https://www.wsj.com/articles/inflection-ai-raises-1-3-billion-in-a-booming-market-for-generative-ai-5954424c"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-809809/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Winners Of The Microsoft Ai For Accessibility Hackathon 2023 Showcase How Inclusion Is Innovation In Asia Pacific"
     excerpt: "(MENAFN- dubai pr network) singapore - media outreach - 28 june 2023 - the microsoft ai for accessibility (ai4a) hackathon 2023 is an annual event for teams in asia pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
     publishedDateTime: 2023-06-30T04:29:00Z

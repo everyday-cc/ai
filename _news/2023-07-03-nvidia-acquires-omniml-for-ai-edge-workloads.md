@@ -174,15 +174,6 @@ related:
       name: Financial Tribune
       domain: financialtribune.com
     quality: 34
-  - title: "Microsoft-backed AI startup Inflection raises US$1.3 billion from Nvidia and others"
-    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday (Jun 29) it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
-    publishedDateTime: 2023-06-29T19:08:00Z
-    webUrl: "https://www.channelnewsasia.com/business/microsoft-backed-ai-startup-inflection-raises-us13-billion-nvidia-and-others-3595251"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 28
   - title: "Bill Gates, Eric Schmidt and Nvidia Pour Cash Into AI Startup"
     excerpt: "Anthropic AI, a barely two-year-old startup led by a founding researcher of Deepmind, has rounded up every power investor in generative A.I."
     publishedDateTime: 2023-06-30T18:13:00Z

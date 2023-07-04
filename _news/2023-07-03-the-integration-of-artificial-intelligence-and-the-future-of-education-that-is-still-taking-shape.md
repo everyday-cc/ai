@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Industrial Robotics - China"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$1.07bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.60%, resulting in a market volume of US$2 ..."
+    publishedDateTime: 2023-07-03T19:22:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/china"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI and the future of work: A collaboration of humans and machines"
     excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
     publishedDateTime: 2023-07-02T04:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://krishijagran.com/agriculture-world/agritech-innovations-2023
 cdnAmpWebUrl: "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/?amp=1"
 type: article
 quality: 86
-heat: 92
+heat: 93
 published: true
 
 provider:
