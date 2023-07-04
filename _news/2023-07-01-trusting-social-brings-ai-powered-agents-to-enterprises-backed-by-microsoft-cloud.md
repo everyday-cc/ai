@@ -88,6 +88,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Introduces New AI Tools from Singapore"
+    excerpt: "Singapore-based start-ups, Babbobox and Wiz.AI, have collaborated with Microsoft to develop new AI tools that showcase promising advancements in the field. These tools aim to bring significant changes to various industries through their unique applications of AI technology."
+    publishedDateTime: 2023-07-04T11:52:00Z
+    webUrl: "https://www.techtimes.com/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 74
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430944/hannover-messe-industrial-trade-fair-2023.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft announces new initiative to close skills gap, upskill workforce for AI jobs"
     excerpt: "Microsoft announced on Friday a groundbreaking new initiative as part of its Skills for Jobs program. The \"AI Skills Initiative\" aims to empower individuals and communities worldwide by helping them harness the power of artificial intelligence and bridge the talent gap in the rapidly evolving field."
     publishedDateTime: 2023-06-30T06:51:00Z

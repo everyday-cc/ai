@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-02T06:08:00Z
 originalUrl: "https://www.govconwire.com/articles/artificial-intelligence-companies/"
 webUrl: "https://www.govconwire.com/articles/artificial-intelligence-companies/"
 type: article
-quality: 55
-heat: 55
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,9 @@ topics:
   - AI
   - Microsoft AI
   - AI in Healthcare
+  - IBM AI
+  - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://lh4.googleusercontent.com/2DIk83fG9ioJjtcAaRaWP1AX4aPh4tqKGsbdud3tCt4AVm5AyTIIZCoxrH48i6wQNUum8CxM_CUq8mCTXG4U1SwKb0KmmhySjKmCwHgr-L0bX5tiLBzegTk_vfvrb0RH7YrNgK79codlInctcTAyqbg"
@@ -26,6 +29,6 @@ images:
     height: 628
     isCached: true
 
-secured: "nWMX2e+Fy+3myL8Dfxf/iXIXpn7BinKmlFGsVhctogwBXFkC2Ih9xffMJdUaA5fE5ctJrr1/4Ek7FGdqp2udOse677THjSXuRchDTETW0B/6ZkREQ0FPB/hLSpPbnW35d2WR93Nqd1VHGR4qm+dzIVSqmcnjmA6CBvTcmCZ6hGbbyUEnX0jl0umTJn7IC54m6/LYryYgyriVWu4iddjQ4cs5gzU91s6RwmDDcUxBPqkY3qwJEL96SfMaixEtOleTO1WLNy2IvTNf1Uyh1Jc256oTaAiFXRgFYY3SHWv+7W6Hx5MsuWea4UzSidLD0G537GTgailTOXhoPoJDGyUNNslFaHtAVC1jdYeYXdZPzlk=;N3usmrknFWm0XCBjbZAm4g=="
+secured: "ru5QezwmJpOPRLxr7GIBaZ2lga9MlBdcZyM17+x0JyvzE7X9ja0x7XXHrjgF6OsqO7panRWb1zPieXyvUq+qIkurm8QO5m9Cjk6OF5THxKet0L+KL/g96Z88QBHvSw67/TX3v1oDzrrcUjSaD8nSMIJ9vy1zMaVnEI7zwjEA28ISSTdCnU6XOxmNkOsJzvLmLkLwpChSj7DYW64DDtfItFL5NGanXtrv3d6ju8frskM+PGaJknWNAPwzSc7wMVR4eE6LaeT8qeV5hGxTm0PAIlEFm1ESskGD7w12n8hIvcCkNHc99RnCnRXUvnY9lyZ4+pgeqygwE7+Fnajb+MKHeCOH0gnxpIoStB8boo1zdCubPqk+XVber9C6/4oYsZO+vJ2AY2d04ub3FVAK9ITQmpUppKuncUPwCApJRU1beZrZ1bW5DAXH8TQ9oXdcJTzdHLTVlSPPhTOCL2C3kQm/hNSUCAkwK9ZNaAgnkpn2lu8/sTEz73TYF7V+jPQuJrxdR5hb2W1DNx3zjK4CzoBG0w==;Gtp97ZCSqlktfWGDKfc2BA=="
 ---
 

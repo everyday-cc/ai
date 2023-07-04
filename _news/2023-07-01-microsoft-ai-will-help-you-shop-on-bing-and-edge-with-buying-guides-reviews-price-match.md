@@ -83,6 +83,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Introduces New AI Tools from Singapore"
+    excerpt: "Singapore-based start-ups, Babbobox and Wiz.AI, have collaborated with Microsoft to develop new AI tools that showcase promising advancements in the field. These tools aim to bring significant changes to various industries through their unique applications of AI technology."
+    publishedDateTime: 2023-07-04T11:52:00Z
+    webUrl: "https://www.techtimes.com/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 74
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430944/hannover-messe-industrial-trade-fair-2023.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud"
     excerpt: "Trusting Social, a leading Asian fintech AI company, has announced the launch of Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
     publishedDateTime: 2023-07-01T03:15:00Z

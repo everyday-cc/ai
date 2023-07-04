@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-c
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1320
         height: 768
         isCached: true
+  - title: "DeepMind Co-Founder's Startup 'Inflection AI' Secures $1.3B in Funding from Microsoft and Nvidia"
+    excerpt: "With Nvidia joining its investment round, the startup, co-founded by LinkedIn creator Reid Hoffman, said it has access to 22,000 Nvidia H100 GPUs, the most sought-after AI industry today, costing $40,000 apiece. OpenAI reportedly sought $10 billion from Microsoft at a $29 billion valuation, a lead investor in the ChatGPT-maker."
+    publishedDateTime: 2023-06-30T12:51:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/33073920/deepmind-co-founders-startup-inflection-ai-secures-1-3b-in-funding-from-microsoft-and-nvidia"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
 
 secured: "PXvo/dKUmoQHygIIDoVacPFfvyEUI3ViTUqe1aEwGQN2q7Fm5osm7rXTxoPeEyhTyBDdlSm1zT4yNsRQOxHFohQ+p8CUJQDDys9M2RXRdW53JVK/ANP80ZJov0cnltaqB9xyOL6ffoLmnRyVxeqB9a6mqRZtuPqspjFlpRVoEJsVjoJTN8iaUhTpovLUF7JdaRnUGdMmikIn+RCbVxbjpbEZOGKYm7fB3FLmuUVyGJxPg50mdFZHbr50y2o7ahLONhYt4zoI8Kojau0KYyZXcHTX7LK+I+l0s7Cq0AAEI1Jv91NUj7Txmzb07T45Xk+D/CwwD+18WZhlT33jivBb4C58rb+X3gQnFplIHm8roc8=;heHC/S/nfRR+9GgJYel69A=="
 ---

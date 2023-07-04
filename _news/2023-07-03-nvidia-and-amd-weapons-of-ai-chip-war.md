@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-wea
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
 type: article
 quality: 86
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -85,22 +85,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imlWQwojNL.U/v1/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Startup Inflection AI secures $1.3 billion funding from Nvidia and others"
-    excerpt: "AI startup Inflection AI, co-founded by Mustafa Suleyman and Reid Hoffman, has raised $1.3bn in funding from investors including Microsoft and Nvidia."
-    publishedDateTime: 2023-06-30T04:59:00Z
-    webUrl: "https://www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others-11688100672381.html"
-    ampWebUrl: "https://www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others/amp-11688100672381.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/startup-inflection-ai-secures-1-3-billion-funding-from-nvidia-and-others/amp-11688100672381.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/30/600x338/g158f4c8ac5315e0d7e42483549333dab208a01593f33230f2_1688101104074_1688101104211.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "AMD making big gains on Nvidia in AI chips: research"
     excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."

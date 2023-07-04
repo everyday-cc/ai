@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Check Point’s Tony Sabaj on AI in Cybersecurity"
+    excerpt: "The Check Point executive offers advice to companies on how to understand the role of AI in cybersecurity, and he also highlights key AI trends driving the market."
+    publishedDateTime: 2023-07-04T21:32:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/check-point-ai-in-cybersecurity/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/07/eSPEAKS-thumbnail.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Cyber security’s biggest challenge isn’t AI – it’s the awareness gap"
     excerpt: "In November 2022, ChatGPT – the artificial intelligence chatbot that can create human-like text based on a prompt – was launched by OpenAI. Already, scam and phishing attempts that were once revealed by bad grammar and clunky sentences are now being replaced by more convincing versions thanks to the sophisticated phrasing and intelligent technology behind this new chatbot."
     publishedDateTime: 2023-07-03T07:00:00Z

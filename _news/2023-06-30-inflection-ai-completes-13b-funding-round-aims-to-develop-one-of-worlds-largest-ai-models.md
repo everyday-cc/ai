@@ -57,6 +57,15 @@ related:
         width: 1320
         height: 768
         isCached: true
+  - title: "DeepMind Co-Founder's Startup 'Inflection AI' Secures $1.3B in Funding from Microsoft and Nvidia"
+    excerpt: "With Nvidia joining its investment round, the startup, co-founded by LinkedIn creator Reid Hoffman, said it has access to 22,000 Nvidia H100 GPUs, the most sought-after AI industry today, costing $40,000 apiece. OpenAI reportedly sought $10 billion from Microsoft at a $29 billion valuation, a lead investor in the ChatGPT-maker."
+    publishedDateTime: 2023-06-30T12:51:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/33073920/deepmind-co-founders-startup-inflection-ai-secures-1-3b-in-funding-from-microsoft-and-nvidia"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
 
 secured: "d9/mPawDMgPu7oWpxj13WK90cSSEI2WZY1V33Ed/YYMsT/NzyU5Xu4QTk0b+OwF15WYzHH4nbAszf5OSWuPxfRAjPnTnUG1v7SZmeAH8q8jrUuxWmDkXGajLVIBQjdj9p8To2WA+eSsBDn44BWRKzvfPkvbh6pMTuOraCiBcPiOI7YPXAQ2Ra/QyhrcxhEyKsKinuW9MzeL8pJnN2FLp5z3aRPA4wiJDPL3yOthjmfgG/qu2U7kSZo8ewYZvtkySAq2cYzf2pcX/CwKZ71qdJ+vGK6BN9L8b3Bmg1Qb7wRXrH0Hqnyr9MHAO4nw++7EgJCx6j+/gzsmjs07Ry395Ab2s8ulvCaetlpuFvNBApIA=;p/2YxzTvka3W8fhQGibqmw=="
 ---

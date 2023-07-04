@@ -79,15 +79,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 33
-  - title: "European companies sound alarm over draft AI law"
-    excerpt: "EU politicians, after nearly two years of wrangling, recently agreed on the toughest set of rules on AI in the world. The draft text of the Artificial Intelligence Act will serve as the negotiating position between member states and the European Commission."
-    publishedDateTime: 2023-06-30T04:00:00Z
-    webUrl: "https://www.ft.com/content/9b72a5f4-a6d8-41aa-95b8-c75f0bc92465"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "ywN2uN6BhHmSwlq+mCwuGg4j2ZebWD0e76WU8oCYXmk9Ke+pLdMG0//vODPMCByF3QOeq0lYGGB5Bj1k+KtoIcCmowCY1GacF++RUdcpc9mYO/k/pjXRDkzH1OizUR5zX4MSdnjJNmRM5GKQc7SDh9CpxhTWUju6TUQiXCTzAAH8LnbQfvs4dpfy9CwoC1WCd3wQ07TyR2z4+EpiNRStMO89X2lk0ckyA+1mMrT8Fe/3fzzM2zeXs60f8pp4/atOcbVHKyk+U7wdVnZx6AMV3t+5YbxLHYXIGX6IN8tMaZVQIidWANrDTYYtDCS0Ir+JDlZUjcAbuk1dhcKwH7ZC22sq24zbAAgGSd/hoTNMw7k3RVxV3Fbr4onRAnMM33djO+iDVsie/RvwCFywAuizNhJSI/RHKHPuFLzCDfbWbO0ce0cWEYAvWriqObhVaI7ZgtP2HS/z3QnIjPDFWDrSv72tBfTXru1sU/yGNXLyiZ9dB+JLK86akldnT+hV4UiXyIYrZ+RxD3t06XycwD8AGw==;lRRgKyHI/rXcJjrp0VLNKQ=="
 ---

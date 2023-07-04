@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedd
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry/amp/"
 type: article
 quality: 102
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -84,6 +84,24 @@ related:
       name: Kompas.id
       domain: kompas.id
     quality: 23
+  - title: "Work 2.0: How Artificial Intelligence Is Changing The Future Of Work"
+    excerpt: "How Artificial Intelligence is Changing the Future of Work(Amazon Kindle Cover) A New Book by Warren H. Lau, C.E.O. and Investo"
+    publishedDateTime: 2023-07-04T18:15:00Z
+    webUrl: "https://menafn.com/1106553214/Work-20-How-Artificial-Intelligence-Is-Changing-The-Future-Of-Work"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+  - title: "AI is already linked to layoffs in the industry that created it"
+    excerpt: "Many have raised alarms about the potential for artificial intelligence to displace jobs in the years ahead, but it’s already causing upheaval in one industry where workers once seemed invincible: tech."
+    publishedDateTime: 2023-07-04T18:53:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/04/ai-is-already-linked-to-layoffs-in-the-industry-that-created-it/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 17
 
 secured: "6fpNS8ygaSUiwhenwz2OeEulxtYHeTe6S0/eix9no2qjlFvYsTJsMaE87uRqabiLYgW1iY3AslMjmjTD8fH4mAt4a8qSwLhHh/lg/ZwV/v+cMBJG4v6tUN+00vgYiGF5au6hoCgpwIisTqaw3LXCnmL00D5gJm/2lxSNdeC6f1qYCN4yvtqdott3vjo+aLWTQHP7tsmRt4PJxKbYUJ4maeOGP+B0Q0eY0A+tLBxPyBTmDQYtRJtGm1cUd7AF4CkzhyNs4KA6ZC1c6Qnm+Ib8Yb6dI8/sdeig3JgMDDWDkMc2Qlr8sK0zrN4RLN/c04+bjwz9FR45hkRIjbvjezS4WNEPTeetqAscqSygAnyNFntxdScsmj+6zyhEOKGrxzq8y2TD+uOMRPYw6Vg7u6GtXpcRY0db7z8jow+fZXyXQJuKvWdbAtuQM21xweGcKasAbjDtTzAsngJmm8tZID1qZJGdEfB2CUKMiTOxR/j0s7+/j0WcALgRq/R98qKsr+ToQCLjpG/1dP1LZVDCHL6giQ==;+RMH2TJ2xlbw/J4yGauuDA=="
 ---

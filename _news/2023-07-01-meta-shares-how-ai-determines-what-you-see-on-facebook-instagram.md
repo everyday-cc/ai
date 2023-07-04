@@ -79,15 +79,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Meta’s system cards show how AI powers content recommendations on Facebook and Instagram"
-    excerpt: "Facebook and Instagram work. The move is designed to increase transparency about how AI surfaces content for individual users, based on their history of interactions, likes, interests and friends lists."
-    publishedDateTime: 2023-06-30T03:09:00Z
-    webUrl: "https://siliconangle.com/2023/06/29/metas-new-system-cards-explain-ai-powers-content-recommendations-facebook-instagram/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 10
 
 secured: "fcaVnevX+yp075A+dN9SvaGvcBQgonLJvvn2UReNNuEhT0nRjSZd6x1jomIeBPo312pT8cgy5p6ZA4gU5w/GMcGtHDla73ejGGc55F8hyi4ZF2grvNq9q0swbTM7H3Nhs1/c8krKEkRihnYFImnKGI38BRIPDC7v8GuKWOyzX2xuop0kZqH6HEelGji8s3kcU7W1Ihi5zGEMhI83gAVleXiBOWJ2I0YCX4zcJYNJx6iElXvIK50nXLExgThfURyFAFIR43h643RUdrlEbtqZZtYRW2nAmRvmJxysVGT9oPbo+bYFLJJOmO6r4jLT2CnOEGq6wYhg1rIKpHOJgTW3KFnstDW6t5t7jbzcAGs5gzxTYn72f9LCrxuazM7ejUi+WrAbuAY6o/6pBnxy3LdYCPoLICTGYhlIsepVmw9l1lGZhtPD0YponpHgT6yOm9fVUhVgfRkt5oRjpXz7AaMl9OOb6u4QnCN46ejVeeHxHg5e9cu/JgI95hozBv46qBEawcRgPae/mCcA0KetwwX7SQ==;VIOMX5UAV0tS8CJ59oNAKQ=="
 ---

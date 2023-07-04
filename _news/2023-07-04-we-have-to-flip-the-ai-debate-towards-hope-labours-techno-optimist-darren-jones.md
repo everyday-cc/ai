@@ -3,8 +3,8 @@ category: news
 title: "‘We have to flip the AI debate towards hope’: Labour’s techno-optimist, Darren Jones"
 excerpt: "The chair of the Commons business select committee is a firm believer that technology is a force for good and should be central to his party’s plans to transform the UK"
 publishedDateTime: 2023-07-04T06:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/04/we-have-to-flip-the-ai-debate-towards-hope-labours-techno-optimist-darren-jones?ref=nextbigwhat"
-webUrl: "https://www.theguardian.com/technology/2023/jul/04/we-have-to-flip-the-ai-debate-towards-hope-labours-techno-optimist-darren-jones?ref=nextbigwhat"
+originalUrl: "https://www.theguardian.com/technology/2023/jul/04/we-have-to-flip-the-ai-debate-towards-hope-labours-techno-optimist-darren-jones?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/jul/04/we-have-to-flip-the-ai-debate-towards-hope-labours-techno-optimist-darren-jones?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/04/we-have-to-flip-the-ai-debate-towards-hope-labours-techno-optimist-darren-jones"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/04/we-have-to-flip-the-ai-debate-towards-hope-labours-techno-optimist-darren-jones"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "qlLzchNx6NaD3ng9ukxFkfC4Z5SzQmMEnBeU8X35jDOr2jMCXdymMwtl1CYydxwI6fi9WmGQZUV8CP/fkQOgN1LdlPl7I+T5X+hQsxswhNjZMIqZHiXG4YbQ2M5tH9mdUxGzPOgEyWkE65/2NlhhEwg6Pm91dv3iJePt7/7hg4a2f5kOxkwy6LRC2zMe56hXuENXBqEguTFw3oRXTk53E3LzmckcW8wrXdaSSQwwyhYGgKfEMJH8Jz7OxeujLB6cQ1kh3ifxJmaL/t8crAz8kluJcRBr2OAOUd5/njJm8Nz1FuTHcsDkIBDnHaS7dgYpr2tzIbLwzAedPOnQ7yQazH0W8R7i0Kw9IxezvYGaUIw=;X7LOuFekphwrCSxzbM8hhA=="
+secured: "PyBpB4UV4D6jtIinTnKDfMQX53rlFAGRe1WvLc/UfLB+JL8a8VK0ZCS0xBwIbEC427NH6YX5g6u9Q0xfTHLVCIm5Z3kViHpebH1BhvisPTjxDZKFMIQDyqc4EZ2OSH8a32imXUc2eCuYdbWr+PPiHq0ST78yI121OFLDDoZ3m7ym2oSBhBTa3f2LjDlvcnkRd+taNEibE/dO1AkUEhT5zIiqdUukd5506hBcqJsOHMxR/UxPWHz52MR8kIgmAMwgLHwpIyMAR5r97yznYQWrnS/wcPiZ8NY0Tf9vcdqJp2fywq/dx8EGXtiOvMZDtQvMRvTHGgEyEyFtX+orFJniMv2wsZBm+9rT7Awj8SGD4/k=;bO487WxRb5DxbkevdPC83Q=="
 ---
 

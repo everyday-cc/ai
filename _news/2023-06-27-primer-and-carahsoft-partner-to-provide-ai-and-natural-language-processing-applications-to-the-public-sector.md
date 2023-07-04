@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Primer and Carahsoft Partner to Provide AI and Natural Language Processing Applications to the Public Sector"
-excerpt: "Primer, The Trusted AI Partner for Government Agencies, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today"
-publishedDateTime: 2023-06-27T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/g33028786/primer-and-carahsoft-partner-to-provide-ai-and-natural-language-processing-applications-to-the-pub"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/g33028786/primer-and-carahsoft-partner-to-provide-ai-and-natural-language-processing-applications-to-the-pub"
+excerpt: "Primer, The Trusted AI Partner for Government Agencies, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider ®, today announced a partnership. Under the agreement, Carahsoft will serve as Primer’s Master Government Aggregator ®,"
+publishedDateTime: 2023-06-27T16:08:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9840066.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840066.htm"
 type: article
-quality: 15
-heat: 15
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "ZJAp2vgsYmYJmidHg0SC476xm2XJ3ijrRn7pI0hGRmUB4veILdTqzNvW5G924axzRCMUiVAhvTzz9UfS9VIZimtQ1a6RRZIbb0od1ecTer6gY0Hv38ttoYTm8qjqZ44nE1NVmrr3zYeZIfxpqi6IaZl6Y0E4MRV0skeXx5OFuqvzHbpTTClLNj8wIxZlo7R648QGu/Jh8aSzLmrLjaOslty2L8+gK0YbKs23yDc0hac5Ft1xCIXgU2oFHuG5Kn3NU3wlXCiz0oqk8331HAljXYYplBvaAbwFznOWWs/thvamFDxi/I59EY5B+J3NYMLc+NWHSVECk+TYUg7KVCvuM7eVtnwt8K4Q6jx6yuYXNy0=;gwOfbSR5EeVrIiAdxBrD9A=="
+secured: "IFVQH51ny1cP1D51MT6+y7lC5JEpMmHIXBebFj9m6dblEGFTq2C+wKrKuS9XCxKP34NemCJHDcb6PyVhb9GSC+VxXXdIG/k87+GFDJbJSTyG5UD3EX/6oCIAbKVnWeHvxjjiJ9ZiPX44Vubxv7kRkgIMf1+zLZRFrJeUJtCzjYkw0wzwvD3vzNwb70uxHftLVU9IFpgUvEwWGJlMnY3neJLvryWREIU63M9EG0pFSbBqVwZ1r7tvfInWpQEn8RBfM4fuDyPR4r8kKUSrecUnPowGDwDzU82sa/PPNYmfsQqnOw4oFtIACXavlFcjQdadoMWgHZXS8tvZFqvRQ0lDo1x2gsWm0+ombPc9yktEj9s=;bmxPXi5NVVlQaH9dL0zTbw=="
 ---
 

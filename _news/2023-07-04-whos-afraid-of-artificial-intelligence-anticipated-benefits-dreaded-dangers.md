@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-04T16:22:00Z
 originalUrl: "https://blogs.timesofisrael.com/whos-afraid-of-artificial-intelligence-anticipated-benefits-dreaded-dangers/"
 webUrl: "https://blogs.timesofisrael.com/whos-afraid-of-artificial-intelligence-anticipated-benefits-dreaded-dangers/"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static.timesofisrael.com/blogs/uploads/users/jpb2023-51680236779-400x400.jpg"
@@ -24,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "mXRU3L8buAgU9K3TSD6KuhHNivUzQIq3/cs8NKkjzbcOrrHEKA+hYFH3aY5yDBpSLfljDmaEgxWAtEbp3ZW6HvWS+ligX5y5zr7rcFQbmGYyRxRWlgog6HyIRa5961pStfvmx470sRAnOxojbr8NIu2Mv6YKi0z0EZa5eLtTdujPgZaXhO+Q0t6RfUgv84/WAJrVdYTGBUOFhw0PrHrbp7aDB077ZKcjP5ma9sONOH01hVik/+NHEQYYXGplPntNrsHAzjfXBeKLkmwXJIOOcET5eF05in+cOl2/rw+fdEuUHkrJ2uFxcr45Py2oItTiG9dxBl1UO2ZKgvL1J/GC3XagbxUqrz7gFdnwfLvzZds=;IcYqj22SZ8edL9wV58yLYg=="
+secured: "kFrqHh67tvDghKxfv3S8gJKAVEyj6qweE3G5DEMEVcg6ZO8Zp40i16iMUkiU+fJiJrfp4UWjUnwsckSsgbgkWFBGytxe2+pLCDSU50wL/snFsHOURGOYC9n8PTQO24wwCRMp7l1axFIop7TLAtb9FZUWoVU+Xj7xmhJglRqzKEDekGLkRlUaS+dXmfzjIoqOiCO1p3c9kcR4qpTgRl1ztPxjgn10fFS3xs+6S9Hz28X6rhngkCgWj2KQgu0UwizZZdbmGSuO5EIF8UifTebJtqK+v2Iu4fAUSroYyMJG0wKfgrkNfl/KRh8ZBszBHpjRLwd9+C3Q7ClT0mKEaRlwpl78EEP4XeeB4s9/3ERMxSuFfTj7gZijUO09v6gE3N3eJVGOL/mtw0NmGnQeBWQJhWOsBOyzfFEhzm35oFdPVRLwQMb+R6HvoTCIGsMbgXxOsGUfOUcUYbIvoMxK3oFblQM8wZndDWjscvxEef+81EPRss1FuIjPkxUB61QKV7zIksr6ERu4Y0A7T7z/45eyUA==;3NM/Hhvr1vCuICHhiDfjdA=="
 ---
 

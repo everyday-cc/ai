@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Check Point’s Tony Sabaj on AI in Cybersecurity"
+    excerpt: "The Check Point executive offers advice to companies on how to understand the role of AI in cybersecurity, and he also highlights key AI trends driving the market."
+    publishedDateTime: 2023-07-04T21:32:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/check-point-ai-in-cybersecurity/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/07/eSPEAKS-thumbnail.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI to tackle cybersecurity: Rubrik and Microsoft deepen collaborations"
     excerpt: "Accelerating cyber recovery through generative AI and natural language processing (NLP) is the aim of a joint collaboration between zero-trust security vendor Rubrik, Microsoft and Azure OpenAI. This integration is hoped to offer a \"truly actionable use of AI\" to reduce the time required to investigate and determine responses to cyber events,"
     publishedDateTime: 2023-07-03T12:05:00Z

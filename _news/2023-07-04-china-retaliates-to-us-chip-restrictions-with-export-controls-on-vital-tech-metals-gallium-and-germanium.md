@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "China to tighten control on exports of AI chip-making materials"
+    excerpt: "According to Chinese officials, anyone wanting to export gallium or germanium products must receive a license from the government and comply with new export limits or else face punishment."
+    publishedDateTime: 2023-07-04T11:15:00Z
+    webUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials"
+    ampWebUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 74
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/66606f2a-ac65-441f-b002-136dda05c141.jpg"
+        width: 740
+        height: 492
+        isCached: true
   - title: "Chip war escalates: China bans key metal exports to US – one used by Wolfspeed"
     excerpt: "Beijing hit back in an escalating battle over semiconductors with the U.S. on Monday by playing a trump card: It imposed export controls on two strategic raw materials, gallium and germanium, that are critical to the global chipmaking industry."
     publishedDateTime: 2023-07-04T11:08:00Z
@@ -59,15 +75,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "China to tighten control on exports of AI chip-making materials"
-    excerpt: "According to Chinese officials, anyone wanting to export gallium or germanium products must receive a license from the government and comply with new export limits or else face punishment."
-    publishedDateTime: 2023-07-04T11:15:00Z
-    webUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
 
 secured: "li1Z8rwOW0Djwirkf21TpGZ47gOC8+DpyJ0m7YNKZcVzfrmIOuM8h9N8Jg+yofgsUZKe6RHlqn/u+1AYRy84pCaBqphw08iwlaNVpFDXs8UrqGw/0muAsS7kIIgL/XHI90Q5hVpdYOGE5OnvXVOgqFoP9FPHc2HNd5A9uky7nnsLzq0dZRKW15UkspAO/9IPU56XXpL5i3AL+86PFVFH20sOnLq1OxtdO1Cnx0iOvEiyyR9o1kMgSZlvwcJgi1LCOKJ1itL5ZAWRiX9ekuegJfOg67MnvN1BVCKKyyUFaTvFHOcM7hCf3ZGullxqxlFpGf5xjCFVSqX3GapgN7W51ZnrL9BphM5N9vW9J6l79PI=;Szlx6QJywftVe/oCHmUVxw=="
 ---

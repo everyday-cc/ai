@@ -37,7 +37,7 @@ related:
     provider:
       name: Artnet
       domain: artnet.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://news.artnet.com/app/news-upload/2023/06/Cat-Royale-by-Blast-Theory_Image-Credit_Stephen-Daly_DSC_9976.jpeg"
         width: 1800

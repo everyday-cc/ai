@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ECJ hits Russia with human rights violations due to facial recognition use"
+    excerpt: "The European Court of Human Rights decided unanimously that Russia is guilty of human rights violations due to use of facial-recognition to find a protestor."
+    publishedDateTime: 2023-07-04T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202307/ecj-hits-russia-with-human-rights-violations-due-to-facial-recognition-use"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 17
 
 secured: "6cAIt6BFX6EOAtvLXz4R1/KPZ3vPYh2mXJW3gpy3qRDI9Md6pQljv4RkAcBd9phUz+0nWVUbQrJK9Syyzf3RUT+84txyOud0/a5hRDj7qpz2O83JqA1em05DoANjjjBja/bDIjRtv2g/8zexetFfVDlPOkMLpUi4siAWiXWl9H+wha6jxlElXcBalRy4wqd2eYFbBUkEMcq+ZuJe6cf4dK27ZFDXduOHPxqFXX735GEAc7d79xeo+DNA6LT/eMGVke1y11OY/wZB5SqQUm+F+MpPy5fCjfElwhjyfwSjHWG86Ximyw2xDN22e8XLrHLeCejuMExC28ho+Tb3GmzIf92iCZ9d+tKUg7hh/+8Za9WBa0aLroKGKIJX8LYctLkIdYEBIf7PMKUehNa4q584YY9cGesbDeKU7cqOWEvJVPj/yoeqVP3STA1RQc06uwHz4OUYRdO4njUee0vgrjxVEaHPgmRoYtJw3JEB1XZ/Dlull3UWNwKc1JRC8yOXyQ7A/Fpx8t1LK0DFXlkpfE+g9A==;sXVLnxBK17cUZABhmsBsow=="
 ---

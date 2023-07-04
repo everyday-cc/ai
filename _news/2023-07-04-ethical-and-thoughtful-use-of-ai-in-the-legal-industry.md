@@ -81,6 +81,24 @@ related:
       name: Kompas.id
       domain: kompas.id
     quality: 23
+  - title: "Work 2.0: How Artificial Intelligence Is Changing The Future Of Work"
+    excerpt: "How Artificial Intelligence is Changing the Future of Work(Amazon Kindle Cover) A New Book by Warren H. Lau, C.E.O. and Investo"
+    publishedDateTime: 2023-07-04T18:15:00Z
+    webUrl: "https://menafn.com/1106553214/Work-20-How-Artificial-Intelligence-Is-Changing-The-Future-Of-Work"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+  - title: "AI is already linked to layoffs in the industry that created it"
+    excerpt: "Many have raised alarms about the potential for artificial intelligence to displace jobs in the years ahead, but it’s already causing upheaval in one industry where workers once seemed invincible: tech."
+    publishedDateTime: 2023-07-04T18:53:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/04/ai-is-already-linked-to-layoffs-in-the-industry-that-created-it/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 17
 
 secured: "9BeUMarlEZjyV5lUkVAKofnSs3r+chQMH3PC5O6Rl1MiK6qUQ8nJuUKJV+9x83Meg5EEXbXuW/t3DPRtoKh+ne2Gi4IYKuYta5+zdABMF1MFIg/+NpoRB4I/tmfQAC+J7X4e2dQnQ/D5ooS1roOiveuRQuIG2S0XxU+ry9qMD0cXC5gqdslX3/dLwhodcXZOSxu7a3wRpzEtMzHODFo3EBdiD87G1LlZG0PvYeD1lJQ6PJtNYHFKYgtCiEekHq4saZ6F5sEiFQ/fTYX8mepu2842I9/s+ISgdk7agLi1cwqRywWYvaKmPlscjeiRWkI7a/S7cjfuDNrF6sHIEE8cc/HyOAbEFvBOBfdCHCwEupM=;hTSQDMWo959zNNFD7opdBQ=="
 ---

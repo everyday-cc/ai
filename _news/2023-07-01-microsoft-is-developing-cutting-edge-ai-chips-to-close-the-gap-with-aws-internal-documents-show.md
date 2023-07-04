@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compe
 webUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/02/usa_united_states_capitol_building_congress_by_uschools_gettyimages-607463592_abstract_digital_infrastructure_by_metamorworks_gettyimages-1129515465_2400x1600-100828810-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Introduces New AI Tools from Singapore"
+    excerpt: "Singapore-based start-ups, Babbobox and Wiz.AI, have collaborated with Microsoft to develop new AI tools that showcase promising advancements in the field. These tools aim to bring significant changes to various industries through their unique applications of AI technology."
+    publishedDateTime: 2023-07-04T11:52:00Z
+    webUrl: "https://www.techtimes.com/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 74
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430944/hannover-messe-industrial-trade-fair-2023.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud"
     excerpt: "Trusting Social, a leading Asian fintech AI company, has announced the launch of Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."

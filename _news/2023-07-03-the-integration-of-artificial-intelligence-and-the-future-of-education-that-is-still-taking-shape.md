@@ -80,6 +80,24 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Work 2.0: How Artificial Intelligence Is Changing The Future Of Work"
+    excerpt: "How Artificial Intelligence is Changing the Future of Work(Amazon Kindle Cover) A New Book by Warren H. Lau, C.E.O. and Investo"
+    publishedDateTime: 2023-07-04T18:15:00Z
+    webUrl: "https://menafn.com/1106553214/Work-20-How-Artificial-Intelligence-Is-Changing-The-Future-Of-Work"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+  - title: "AI is already linked to layoffs in the industry that created it"
+    excerpt: "Many have raised alarms about the potential for artificial intelligence to displace jobs in the years ahead, but it’s already causing upheaval in one industry where workers once seemed invincible: tech."
+    publishedDateTime: 2023-07-04T18:53:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/04/ai-is-already-linked-to-layoffs-in-the-industry-that-created-it/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 17
 
 secured: "Nu6Aq2LKJ2qBa/u4ZiFSU0Pj91PpvP737uAhoC2IJiuox4qJc6Sok/YPmJ0iHhcKKzqjWk66Vv359XseudvQTi8dsEr3Do+tEFfalmWXPwrjamHDaHRzPBKqZxfQkQbPJKe7ZAMxRY2DzwFec2LYZdpxkiYXvwj4gAiZbkMi8WPMCWJmO7aDdzr2Nrm3ZTU2ZDXCCGk4HJ6/4EEe8zOO+TZiR2dahqw3WYlvY4sBFpLZQb7egV9i0iY4pUUH5uh8m8BrDUqWwfeMQKRNgrs3oawXwVZ6jp+PCmLb9GVgFO46Fn9t2iBnkPZ8fihlwMvplLhN9yfb+Bh2bz8SqPGyPnXxmb3nmNulFgUnNt9CQ5UoJtAVl0adR3esyq9asqrUZ0PUUEWV5PMum9Rg1QU+tFDb9YBWCSRoV0qVfczfdyCsFIXf//rw3o3fkSqwkMwInmJmrPFpOkgpDPjnrllNwWYGDf6u53ZhQx98hnB1ioT+Ej4mgHsTWmcquebvU//HkafLFOpQv2pJHiWBKPcISw==;7stC+8yLnM2S4CTxPHhNaA=="
 ---

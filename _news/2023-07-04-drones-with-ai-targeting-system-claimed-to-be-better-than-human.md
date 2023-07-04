@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2380971-drones-with-ai-target
 webUrl: "https://www.newscientist.com/article/2380971-drones-with-ai-targeting-system-claimed-to-be-better-than-human/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     width: 1350
     height: 899
     isCached: true
+
+related:
+  - title: "Better Than Humans? AI Attack Drones to Join US Military Soon"
+    excerpt: "The AI system, developed by Athena AI, aims to enhance target identification and assist human drone operators. While the potential benefits are significant, concerns about ethics and AI reliability have been raised by experts."
+    publishedDateTime: 2023-07-04T14:02:00Z
+    webUrl: "https://www.techtimes.com/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430949/better-than-human-ai-attack-drones-to-fight-for-us-military-soon.jpg"
+        width: 618
+        height: 367
+        isCached: true
+  - title: "Can AI really destroy humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity?"
+    publishedDateTime: 2023-06-30T21:20:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/will-ai-really-destroy-humanity1"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "bu0DPhN9h0FCQ2way1IEVC+aVljkQkyt/vp0jgGA2auVMfZJgEpsCwF2OYvlav43mVhS60pNwTzaSwv76lOvHIW4KT9etRKBOXGHQOqXIqx1jKA4K51bqGF20mmcEhnEqrOIj6xkHeUor19yECmGSWq+RwDWTUsu6jZ7dZheLq0VRyjJLP3S6DwTXiyl1eZrUwilDF3m6MtAxKaLAbt418S0KqL/2nF4xSBaKrDKYJTORHXuiG6QIHIHDOomblX8C4udzBM9T/xiBYy/fhITJfD14X0+hO0mqYIYUEtMtPTSzobIU2Cf0uETkpQycSBKTKWQ7NeH0+yH39f4sgwyLUKnnmm3+Hz2X5HMHcRmgUG+O737rCh7vCQ+yzPiFUi2OHxOYG8ahosbHgXVt/4GENe+sL4PKLtyQ5Fvqykk0BUFEKr0G7EuH97N9L0hV18yzGLm81T2iu8z0PnC3r08/eAokNVIxsoT0dI5fhrdYEIrFxnMU1k1nZZVz7SqIdoq8sfeJbf3pvVncWgDNDyJJw==;lJHId+CXgQfNUhIGy2BkiQ=="
 ---

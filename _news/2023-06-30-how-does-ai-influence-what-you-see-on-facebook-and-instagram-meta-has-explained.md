@@ -80,15 +80,6 @@ related:
       name: iPhone in Canada
       domain: iphoneincanada.ca
     quality: 19
-  - title: "Meta’s system cards show how AI powers content recommendations on Facebook and Instagram"
-    excerpt: "Facebook and Instagram work. The move is designed to increase transparency about how AI surfaces content for individual users, based on their history of interactions, likes, interests and friends lists."
-    publishedDateTime: 2023-06-30T03:09:00Z
-    webUrl: "https://siliconangle.com/2023/06/29/metas-new-system-cards-explain-ai-powers-content-recommendations-facebook-instagram/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 10
 
 secured: "7HCGME/CQCK3kaZVlcIqn1nK9quyEt8KVxBBcm2G0GwR3TN3oKpGmWljMjN44KW1Z2hEhQemMx/ZnpsErY20MGQ4aoBFAUtxQD5/GDSu+8F3L4+K1Xr3STj/AY8LgNGjyUWlcfAAdsjGJeYmYEz6fpXNYDNsOfgupLyP84oVwBXJz98wQs0o6JD4a6zU4PJNCI7y2qRjdHTX9iZ+mhgdrdqH2UffqywTcVwNUsFT875ZMPFFxUiyXO8BWUp4CfiCdR5hDdpDhzFOmc/RKmtMFUcYPzczxjv5SflYgcptV36gAx7gu1ctVN8/Ym8kJ+0Q/AZzMsKZ19whavVJudLSV2u5w2FeNdqtlM33sI9UyCjFMIPzLIHP7PCjJStOh2jUwXZyMuBTN71/LLNqjCQa2u8FP27/LMqm0jeF6yVvMBPPXIu/46mqgqZbffcKMF5HL57xhW7Hw/WQ8xvvjllQqe3kJAsx5AvmTnBC5j9CXQxb3M1djRf/IBnbgsRCc5FHsHMCibOspD4CUsgqrN0LBQ==;0iBmlX3hqzZ84NO9t12iRQ=="
 ---

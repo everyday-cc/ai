@@ -28,13 +28,13 @@ images:
 related:
   - title: "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,"
-    publishedDateTime: 2023-06-30T16:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-worth-13452-billion-2030-exclusive-/2023/06/30/9842399.htm"
+    publishedDateTime: 2023-06-30T16:50:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/30/9842399.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 3
+    quality: 5
 
 secured: "YOcw8z7ZGfAf6xjH97kzQnUUS3QItNAaR0N9mYmjotLBlaaWHwDqEhx0piQ2/UFiWytrfvcf8ykxpAi/6//icwERcJ34EEh9YZPz3DQ2n/zKBq+Sl4RoC2UIqFEtiwubs7eIKMwVMlPR1SQVvPDxlcIGzB7k+qupVTVpNu8wbnklwJJhZ3kFLTT7DApRVqKs1LpMeCrlZrJ3NNR8hRkjyQqRTF9bwYmuiBM0ZCjZjDho6/RSIa45hkzBfifW7UMXDPxdJ7/uU7BjLoBWUka+KWXhQAPyFShu6i7lj6MCm+Ozdn6pt/BMEAq9LaDF84brwY9qaO8hTK5T2NbLWWaaYl/ZOAUg5U7crZiNs0hPG/c=;CnQCdP+WP43u7oUumgPQQQ=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://news.artnet.com/art-world/artificial-intelligence-and-care-scie
 ampWebUrl: "https://news.artnet.com/art-world/artificial-intelligence-and-care-science-gallery-london-2327792/amp-page"
 cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/artificial-intelligence-and-care-science-gallery-london-2327792/amp-page"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://news.artnet.com/app/news-upload/2023/06/Cat-Royale-by-Blast-Theory_Image-Credit_Stephen-Daly_DSC_9976.jpeg"
@@ -44,6 +45,6 @@ related:
         height: 1182
         isCached: true
 
-secured: "QJgx9KZv1uvHe1ictMo9qbgdcFTj0ZVTRuwu62O9Lewt92joslWpitgbma0XujKJ4A/C8w77nsR+Xzq2MRxw0qHB0NX4ygXWCmopGhTfoc4mA6LCxYBvnCbkMSc0m5WSuTESL0IBXhIBq4cgsJKI//ebOGR1WABXjOcEBEyt5Y14USEr9i1KJ3yLA/aBRHd53uGxWnTiCfgx6kIf+XkMXvDITFDoKQTnYhbZZwSBFfTpIXim08dJyiKtYQ8F8bGMZN9ThE3BY9dORYLEIA6RGfLnuD5g+hVmZj9t2sJkuh+0kdBLQ+U1Pe+Rt23da8DxUiFj4XZpYD01Zms3ld4Hybv811mS+zKV9CI9JHfQYLs=;nPnJIqC5ISKi7jAMLNhxQA=="
+secured: "diwRvtHifFDZDsi9lM6bRWwHCZuVSk4aAsQ9cMdwi6SdiFHOjXFNEpWRhg6PNtbQkFlR4OTqytH4D/FT/QCjO/Es0r9noXoHWbQHLQsQ8retCiYo5G3gooN5eT/20GfqiJCRUJEQOvksnwLI5ZVacbC1ABm9jm82a6UDoMav49p7YXt8l3PtXNpQ3YEn1jIP3iYpSXbbjNX/BXFtMdvNTC9nNWxn7vF4ZH3D+k6RAUvGPYWP2pPWBHOP3QgB5zo7qRsD41TVtP6cFZXwJ2Vo4PDOaCtZfv7/hDra54Z5Z2QOC1TTydmWN1EZL0YlWMn0txgeBh+b22JvaclKJeh6dCl4zBYeDTOtuulmL5UrGPMIyZ5nrGAXq3Hjksafv9d9RenC7FjFuNXBpb4m0Fq4IdF+FA42+hEnadttVpecbIfE0zbudiT169D7XzdGhN/WFO4qBIuLdRlPrrcyTvkecPvE3nJT/p1NeZ33nCYYBe7otctnimqC5en+u7HfvG1Zb23owBDc94VDt+wkVUsrVg==;en8cUKbwMRUnztnXH3U1/w=="
 ---
 

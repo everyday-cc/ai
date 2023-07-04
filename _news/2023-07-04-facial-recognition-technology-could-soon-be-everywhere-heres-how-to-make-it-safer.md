@@ -47,6 +47,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Facial recognition technology in use at major stadiums across Australia"
+    excerpt: "The collection of sensitive biometric data is happening at stadiums across the country, with affected consumers largely left in the dark."
+    publishedDateTime: 2023-07-04T21:41:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
+    type: article
+    provider:
+      name: Choice
+      domain: choice.com.au
+    quality: 39
+    images:
+      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
+        width: 700
+        height: 390
+        isCached: true
   - title: "Barred from grocery stores by facial recognition"
     excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
     publishedDateTime: 2023-07-03T13:00:00Z
@@ -56,6 +70,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
+  - title: "Facial Recognition Technology Could Soon Be Everywhere Here's How To Make It Safer"
+    excerpt: "The recent coronation of king charles iii was a high-profile example of when facial recognition technology has been used to monitor a crowd, but the"
+    publishedDateTime: 2023-07-04T18:50:00Z
+    webUrl: "https://menafn.com/1106552733/Facial-Recognition-Technology-Could-Soon-Be-Everywhere-Heres-How-To-Make-It-Safer"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 15
 
 secured: "cbdcY2Ckosf3g1bwlAS8A85jcEyzOehFcS6bMQnwS+woeLNKYXixOiBZ5NswDujZD/ko2JZY7dtaHnEz0xVB9dt+64hj7qCnRbO9x9lXPnCrvr+ptvHCwx2hks52ssVzFaMmwcou5eNznb14LU2j6XIA2cKW86VGQGiQKe58UVqY6fUYAivJGN4n7K1XOTydGGzQ0XwdsuAu93tuZ4JUdG5abrc8Vot/HjzC4d37FibUE5NoYk9u/wsUeUEcyWssGl2bEc/kFDnMIeiJ+Sdls1abc65OO05vFgg275LlypuF5+th6Bg7ZF0cpNMh3y4yY8lThA4GVdGcMpPYvQMDgP/gVu2wuD4yUgp0yjOF83OiAiOOKwjND4psp9wl3uhS0X8NLUJHJEWb0yvrCxfzTTHoS1R+s2LXYuIMtdCgj3z0lXhsHP0j5ptCzQ7P+1X6EtE30GADz3CxAIPHZcD3BCZ5iArKHbFSZeKRceGz7VM26gPYRGsTgM1KSED4pf073o+VhcQxzddB+0P8lzNSHg==;Kbw2VLQy0XbHMPw9VFuXgQ=="
 ---

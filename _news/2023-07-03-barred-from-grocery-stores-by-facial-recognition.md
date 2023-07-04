@@ -47,6 +47,29 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Facial recognition technology in use at major stadiums across Australia"
+    excerpt: "The collection of sensitive biometric data is happening at stadiums across the country, with affected consumers largely left in the dark."
+    publishedDateTime: 2023-07-04T21:41:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
+    type: article
+    provider:
+      name: Choice
+      domain: choice.com.au
+    quality: 39
+    images:
+      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
+        width: 700
+        height: 390
+        isCached: true
+  - title: "Facial Recognition Technology Could Soon Be Everywhere Here's How To Make It Safer"
+    excerpt: "The recent coronation of king charles iii was a high-profile example of when facial recognition technology has been used to monitor a crowd, but the"
+    publishedDateTime: 2023-07-04T18:50:00Z
+    webUrl: "https://menafn.com/1106552733/Facial-Recognition-Technology-Could-Soon-Be-Everywhere-Heres-How-To-Make-It-Safer"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 15
   - title: "Facial recognition technology could soon be everywhere – here’s how to make it safer"
     excerpt: "However, there are ways that the technology could be used more safely. Law enforcement teams could perform two preliminary steps – activity recognition or event detection – before they resort to face recognition. This approach can help minimise the potential for privacy violations and false positive matches."
     publishedDateTime: 2023-07-04T12:08:00Z

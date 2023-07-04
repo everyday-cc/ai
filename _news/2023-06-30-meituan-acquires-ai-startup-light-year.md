@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202306/30/WS649eb7c7a310bf8a75d
 webUrl: "https://global.chinadaily.com.cn/a/202306/30/WS649eb7c7a310bf8a75d6c9b3.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Meituan's insider AI deal does not compute"
-    excerpt: "China's artificial intelligence frenzy has generated some eyebrow-raising deals; a purchase by Meituan is the latest example. The company on Thursday said it is buying AI firm Light Year from Meituan co-founder and former director Wang Huiwen,"
-    publishedDateTime: 2023-06-30T02:55:00Z
-    webUrl: "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/9RwBFbGZUjVgql_o2mE9tzaQzQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXK3DLWTJNNK3FMHU4NRHNFTGU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "6jJdB7QVaKownSAm0AbWeZARiB4qPM50yInI+FSQlIFpm1n3jj/Kl2EX/2zJEDaFEpBwV9AnbGTPTLWC/6DWNQii1IUQQ7x4LhzbBrXfYX0KP8uXx11GhUwxd8nYcUfzbujfLa3BsxmIFtcH1iNhouAdhgJaqmCanDUF4LSsC89RtVIfkWcSjeD1LNbJVT7UrRNmN5zFCav25IJSDceoLpHeat0y0AVrle+YFy3LbcmeI7QKgi1nkGAzq07e4Qo0uxfpZmalGnMXQA3gG+T/SArnGAol1jnSzxcZZLgncI8KcLaYdiHcwVPY0y5MMjERiAuDwMjn6OLiZuy09a7Kgcryx08o7ppN5tSSQA63RMjz9vubhKsgeenfWVBDG63HcTtsGdGDAPvapepIj0RIu/qww4LbWwWJcay8ruDLiUbjZe2CCQnL0qFtFVvlzdsbExMkzWZOv+1+v9SfFCAnGvfQs3iFYal3b6C2FY2ml7c8DB9X6u65XknUaLvnPtPnV78rJjKJO3YQ6lu5VNhrsQ==;PquDZYvTJmt4ZnajqtkJxg=="
 ---

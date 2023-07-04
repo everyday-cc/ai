@@ -5,10 +5,12 @@ excerpt: "According to Chinese officials, anyone wanting to export gallium or ge
 publishedDateTime: 2023-07-04T11:15:00Z
 originalUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials"
 webUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials"
+ampWebUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp"
+cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 74
+heat: 104
+published: true
 
 provider:
   name: CoinTelegraph
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/66606f2a-ac65-441f-b002-136dda05c141.jpg"
+    width: 740
+    height: 492
+    isCached: true
 
 related:
   - title: "Chip war escalates: China bans key metal exports to US – one used by Wolfspeed"
@@ -64,6 +72,6 @@ related:
         height: 768
         isCached: true
 
-secured: "rIrDAP26Bv7EH36UUb/2jnVjWFgpTUO6YESYn4RuKCk15c0TDVOcPV2OhdHwXdsfu6SzqolfSYJQtudhcmVY+WaJY17wsdGk8U18XEnaAU0Au3bByqom6aO2+37u0uS/MduhJGsZZgTJU3XvYdkZyRcnlSdgVomhmV2BEdlajOlFiKTXFiWAu6i1I9IHzjVhhe+AUaaWhDDxihL7TR7xrtNL9KtXUDJ8SvBGKZxRW38Bcpdc4jDXZL2Pj6R7e1qHBvqpJ13XBGS35wqQCj/wrBWkRbWep60MkJSDLho5tlx+leD6w9yyG7JS8QeGlTpgsyb/N6YMS5vkKD+9t3Tl7QYXOyamMiLyLKnlNtUIHoE=;+XjNfp2+OxpS5r6qfIc+Ig=="
+secured: "E2oR//vc1FTSxRVBcz1nTzEQaohiC4I82e8wMxWMSmsynPKVmGFFCdmCUybeDmC7z0rxSYazZyWbNBRCo2dMTgsi8QTuehnAxGt4C9YU+8/omUd+XDZKImbPeWT1GEbvoqH44xHZuvY36CFtn0GXM/oTX8Hl62/K5LTEB1L2hbHyyq65oQj4B748kYaTFMaEphOdLvIV8H6fye6a8u4jo5NhP5OCzNgPBQV4M0y850N6A2Zry+qZjhz8lCJ9kbltEpLb/y9JoUGsSIA8lI8caRC1nY+sGYKYa6ldp4eMr1vxC27yW8RsCnqQfjMbJsmL1PN+mAwa4TVld5tzv2HYDu41/ggsqaALlQG6BlCxGWY=;DMXRJGQF1qig/ruvcSEZug=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-explains-how-its-a
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html/amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
       name: iPhone in Canada
       domain: iphoneincanada.ca
     quality: 19
-  - title: "Meta’s system cards show how AI powers content recommendations on Facebook and Instagram"
-    excerpt: "Facebook and Instagram work. The move is designed to increase transparency about how AI surfaces content for individual users, based on their history of interactions, likes, interests and friends lists."
-    publishedDateTime: 2023-06-30T03:09:00Z
-    webUrl: "https://siliconangle.com/2023/06/29/metas-new-system-cards-explain-ai-powers-content-recommendations-facebook-instagram/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 10
 
 secured: "RrnjKNpcl6i3CXcYcnSWqkjDtV8s4qoJWxx2leggX0QgwpogVuIWUmjj3IgErQR5d2yTjUumJVvCUBDGb0Ey59O+OiGGO02fqbPx4m0XFMswlU8gOc5M4XyjOYse8Qsl5kW5Rd4/usJrXV2/KQB9vDEUWUPegiB0nLWjIgg9eGLeBYI8mL28mAHTw11vSgFqGMnX3yIyxsusK5ZMRZXk7SLC9XCixYsfytJiXdtjDCIJWk0M9ZkTrHUWXRDT7ptIAVnvd+nUGfNGK08nH1lnGa582UqCWScmzWklgXy0+KgP6wzegFIKLm27YPhQYxZTvYqO7uibVAf3jQUZL2W1q0DG/jzzf1g2TQcbML7k9KOKCzi1rv/GtfNClJtJcjYaLkBkVJVaVHxyhNJyXfjXQk1agENoiNhkntHY2CdWOZDK1hgvUWttUnO3oJ5X0hxbRh88spQKqDy00DqbkOyydga5uq/mqJiioTugG28+BKoqq0ppAxqqWo+NrxtH5E9KqKpFUyfCBhTQCk2uWZTIKA==;UpZLjiq/ip664ME9v+CV8Q=="
 ---

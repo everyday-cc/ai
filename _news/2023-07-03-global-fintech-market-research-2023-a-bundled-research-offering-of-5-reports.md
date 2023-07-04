@@ -88,20 +88,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
-  - title: "Google US$10 billion Investment Boosts India’s Fintech Hub"
-    excerpt: "Google US$10 billion investment signals a bullish outlook for fintech industry in India, underpinning its potential and expanding influence."
-    publishedDateTime: 2023-06-30T02:00:00Z
-    webUrl: "https://fintechnews.sg/75652/fintech-india/google-us10-billion-investment-boosts-indias-fintech-hub/"
+  - title: "Latest Trends In Fintech - A Comprehensive Analysis"
+    excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
+    publishedDateTime: 2023-07-04T18:11:00Z
+    webUrl: "https://menafn.com/1106553250/Latest-Trends-In-Fintech-A-Comprehensive-Analysis"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Fintech-India.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
   - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
     excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
     publishedDateTime: 2023-07-03T11:24:00Z
