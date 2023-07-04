@@ -71,20 +71,6 @@ related:
         width: 2000
         height: 1231
         isCached: true
-  - title: "Nvidia warns tighter AI chip export restrictions to China risk permanent US industry losses"
-    excerpt: "Nvidia's share price took a tumble yesterday following a report that the US government is considering tightening its export controls on AI chips to China as"
-    publishedDateTime: 2023-06-29T14:34:00Z
-    webUrl: "https://www.techspot.com/news/99246-nvidia-warns-tighter-ai-chip-export-restrictions-china.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 74
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-29-image-13.jpg"
-        width: 2160
-        height: 990
-        isCached: true
   - title: "Microsoft-backed AI startup Inflection raises $1.3 bln from Nvidia and others"
     excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
     publishedDateTime: 2023-06-29T16:26:00Z

@@ -42,22 +42,6 @@ related:
         width: 626
         height: 417
         isCached: true
-  - title: "Google DeepMind is developing a better AI than ChatGPT"
-    excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
-    publishedDateTime: 2023-06-29T13:36:00Z
-    webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
-    ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 74
-    images:
-      - url: "https://technology.inquirer.net/files/2023/06/google-ai-projects-620x382.png"
-        width: 620
-        height: 382
-        isCached: true
 
 secured: "JhIsUn4iI8/luNkeeR1sHJPNkubMkXcP4XfVwXMDdmOd13QEt6IV5H4T7DF4UmamCe6WjZW2/yJ2AMBYFE68qekgX1XcOrSnkd3nmBqnMKtPEpP241QXJJitcSwPoRAmtuUeev9ZG1Td5b5sBuKF5qBNQXlB/wFldC4ccgoiZ6W6SoV+CiUua4/7bdKsrwsIXw8Y1OCf7DEb8Dbzghhv/R6nfthtxHQ00D3gkn2DFEGXsu/YjJQ2md1XqYtIAUOQtHV0mwZzShXd7YEV7u6SIw87gkfGyujbi3XMU2ZwdVjHUCmllefwFQRkwVfcVM+I0MGkPJB2F8/cxCbXaxbht41qtmYoGXnIdeg+9zaec5NbghOsD/prZpDquMr4VMGc5Jr5gPz47sLG+jRwss4ZTljq262f6YgGfQdnN/ov19jYl4m872Xri7Y09XzgtZweJSh7Y0QS7ItKrnBYB0KsoTAr2c9Z2ElrAnItGv5Wdyj9dkrpQsL76xFyoaxkjyMDNMhWNMpXU/9zN4LGlC+6jg==;ha6wrCSfBF8j66fZXZB0bQ=="
 ---

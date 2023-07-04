@@ -43,20 +43,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Self-Driving Car Footage Gives Police Controversial New Tool"
-    excerpt: "As self-driving cars become a fixture in major American cities like San Francisco, Phoenix and Los Angeles, police are increasingly relying on their camera recordings to try to solve cases."
-    publishedDateTime: 2023-06-29T14:00:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/as-googles-waymo-expands-so-does-a-police-surveillance-tool"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 24
-    images:
-      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "K301j7QgSprClS5d+OecmUpNm1+HykmlWOTeNklQsIyNQF8w7J97t39hpifbizkNKjNttrrJWcTVbQydSqBLyLS/rgL4gRkQJQdHTWMHRTrm95gaWaA6nEDJd+bA5f+MAf1Fn2FPTDt0qEIb+b7DIDg7Ryouw3zIvC2lJwu6utGdzOqQv3pEOSwyXGLTg+CckTL1OeEmiOT+kDCkGN1Bc8rH0QRs4ne41QrFWWgnewiSrw7rKj0r+f+BC2ODmBjVcjBMeMDf+JzysF62Vj8+FnTm0ALiefAdR863/XmIVZtmUZ5crNfQrPc360zbpORq7dO3GjAugxmoH5NXPxAQkkXZ8PLEpLWFvhDjMeGT/C8vJpjeYbb9j0MGbWkjySIZILKQ57jrmMagfhSBBVC3JN+54fQA0Yf6re7AKI5Ni1Yr7jJrR8t5fyUJHm9NJ31M+4eiOsuV8kt45rHRN76Lrd5IP2ONCFLWxusZA10nFgVDnb5ZVymkNDUS7fEd12zU8J6kHBk1Q9pu5eFh7V+FDg==;cQdh3DJkVeok4fRQ5omOpg=="
 ---

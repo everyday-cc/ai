@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Meta releases clues on how AI is used on Facebook and Instagram"
-    excerpt: "As demand for greater transparency in artificial intelligence mounts ... such as Instagram Stories and Facebook’s news feed. These describe how Meta selects what content to recommend to users."
-    publishedDateTime: 2023-06-29T13:14:00Z
-    webUrl: "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230628181712-meta-discloses-ai-information.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Meta explains how its AI algorithms work on Instagram and Facebook"
     excerpt: "The social media giant has put out a post explaining how its AI Algorithms decide on the content you see on your feed."
     publishedDateTime: 2023-06-30T07:40:00Z

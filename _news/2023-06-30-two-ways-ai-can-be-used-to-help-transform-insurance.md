@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Transform AI Survey: Help discover the state of generative AI"
-    excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
-    publishedDateTime: 2023-06-29T13:11:00Z
-    webUrl: "https://venturebeat.com/ai/the-transform-ai-survey-help-discover-the-state-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "How AI can help prevent gun violence"
     excerpt: "A museum in Florida is using AI to try to detect guns and identify possible shooters as quickly as possible. Manuel Bojorquez takes a look at the technology."
     publishedDateTime: 2023-07-02T23:51:00Z

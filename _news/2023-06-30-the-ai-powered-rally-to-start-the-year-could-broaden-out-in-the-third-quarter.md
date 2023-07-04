@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/30/the-ai-powered-first-half-rally-co
 webUrl: "https://www.cnbc.com/2023/06/30/the-ai-powered-first-half-rally-could-broaden-out-in-the-third-quarter.html"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "This AI-powered glove could help stroke patients play the piano again"
+    excerpt: "A customizable smart glove powered by artificial intelligence shows promise as an easy-to-use, wearable tutoring aide for musicians recovering from strokes. According to a study published with Frontiers in Robotics and AI,"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.popsci.com/technology/stroke-piano-smart-glove/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "OAFFfeLF/GK8dxyg292JbctxucG0V6c4E2nMrn8FCufgy14JQeHEB7EKzOjILdxvidc6J12D2O6LC2C1V53ftXI6Yx0ClrIITLUkZQKtuaP94wNrfoAamfKOjmA9ldLVWJ1G3TabJIt3EkmqD3Am28J0wjUzy4BAsBI3xAVy4cbuG9D61F3GsRfVxiKjTU/3RyA6vq7axHGxkMhLXfSdiNXcs1dhsCOKzDJMqfs9wTJjX5zOBFOy2Pjs4y4GWSpeyi5F+JjiOi1bx2pdjV6ikV4E1K4Geke83Z3g0E/FbPsc6HGAZ4/7+DmoQ+82ROTAyFWRou9T2TQ6b+QefM6eH8blR3jvt0iMqQqjpdn74HxB2Cw80/aN/4LY6K4/FnRhaqMlbGqbTeK8EIN7cqWmxbkYdoWaDQMGOWmEnNPU+l7caKzFVFKb0+46f5uBBTVcbKfu3J+bwyr5MbLEGRBTm+pnwxR6IpT8aZBTLGcoUn9pj5wVtTQV35jctbxlt7ZtDBnAC+yS78vQq6U7emJngg==;YEeA/eaQ1kafoyPc8voe4w=="
 ---

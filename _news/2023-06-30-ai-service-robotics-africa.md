@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Service Robotics - China"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$0.81bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.07%, resulting in a market volume of US$2 ..."
+    publishedDateTime: 2023-07-03T19:22:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/china"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing - Morocco"
     excerpt: "Value in the Natural Language Processing market is projected to reach US$32.94m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.90%, resulting in a market volume of ..."
     publishedDateTime: 2023-06-29T15:37:00Z

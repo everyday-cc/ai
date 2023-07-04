@@ -7,8 +7,8 @@ originalUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence
 webUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: The New York Times
@@ -31,70 +31,40 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise Of AI-Powered Entrepreneurs"
-    excerpt: "In a recent speech, Yuval Harari called AI a groundbreaking \"non-biological agent,\" but business leaders are still trying to grasp how Bard, ChatGPT and other generative AI agents will help or hinder their success and humanity at-large."
-    publishedDateTime: 2023-06-29T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/"
+  - title: "Three things to know about how the US Congress might regulate AI"
+    excerpt: "Last week, Senate majority leader Chuck Schumer (a Democrat from New York) announced his grand strategy for AI policymaking at a speech in Washington, DC, ushering in what might be a new era for US tech policy. He outlined some key principles for AI regulation and argued that Congress ought to introduce new laws quickly."
+    publishedDateTime: 2023-07-03T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/ai_congress.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Unlock the AI Boom with These 3 Top Stocks"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is no longer just a buzzword. The revolutionary"
+    publishedDateTime: 2023-06-29T20:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/unlock-the-ai-boom-with-these-3-top-stocks-1032418962"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Using AI To Determine The Health Of The Electrical Grid"
+    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
+    publishedDateTime: 2023-06-29T18:21:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649ae712978637ce3c8d315d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Future Of AI-Powered Personalization: The Potential Of Choices"
-    excerpt: "In the ever-expanding digital landscape, where choices seem limitless, AI-powered personalization has emerged as a game-changer."
-    publishedDateTime: 2023-07-03T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61b218c1ca901f3c7454ff62/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 840
-        isCached: true
-  - title: "The Huge Power and Potential Danger of AI-Generated Code"
-    excerpt: "Programming can be faster when algorithms help out, but there is evidence AI coding assistants also make bugs more common."
-    publishedDateTime: 2023-06-29T16:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/649cd8329ec11a2433532c08/191:100/w_1280,c_limit/AI-Coding-Assistants-Fast-Forward-Business-932736250.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Trusting Social brings AI-powered agents to enterprises"
-    excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
-    publishedDateTime: 2023-06-30T11:59:00Z
-    webUrl: "https://vir.com.vn/trusting-social-brings-ai-powered-agents-to-enterprises-103145.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 19
-  - title: "This AI-powered glove could help stroke patients play the piano again"
-    excerpt: "A customizable smart glove powered by artificial intelligence shows promise as an easy-to-use, wearable tutoring aide for musicians recovering from strokes. According to a study published with Frontiers in Robotics and AI,"
-    publishedDateTime: 2023-06-30T12:00:00Z
-    webUrl: "https://www.popsci.com/technology/stroke-piano-smart-glove/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
+    quality: 47
 
 secured: "LxXC5rY629C3671QWav3BzuPOgCD9GAWk6PanCf1jTWPdalaZGXiQE03AZ09/z98KkSqpfYop9OBfMSB8H5qwnbs3HW+ZDMqbqMPfQLbYR4sWqXVywZCGm1I9ZO/Nyg6eDaQYYF8hRAijEh3dvboEsw0KuNxsJVHOZPpddRKBhrT079yHmLkipd1mDc4dDFBq5PP9P5HAZctOQHTE3RvDlN96cRwTrzzJG+na2fRl0TElNtWb9+jpu8T3d+bmVreDafbkyJ9SPo5cb52ioliKt8mBmerS4O+DN2PJB0vJmwxOgNDEBFzWoBhijmW6ZFd9/TmqGbFpsqHtpnB0d19j5AIipNlM6pnOj+XfBAN+PjPRueaCyF3Y3HzHvH7nEiivoGact+cG5YDTSvbfHdyOzlt1UhpS2zrNffW3BTN1USY/mVbL5JR9F+V/rZij5rD4Gv5Q4HSRaopyl2hGnAUkaXINdY8D6Qw8eEr0QegE3wID0xMLfsBOFjZdjVCkW3Spd2ucpksf4pkTG6s7uxvTw==;/7NdehtmyUCXA9p+XiTMCw=="
 ---

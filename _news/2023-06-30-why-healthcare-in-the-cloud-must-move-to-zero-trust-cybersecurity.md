@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-
 webUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare moves forward in the cloud"
-    excerpt: "How global healthcare and life sciences organizations can derive benefits working with AWS Partners on cloud projects"
-    publishedDateTime: 2023-06-29T14:01:00Z
-    webUrl: "https://www.theregister.com/2023/06/29/healthcare_aws_cloud_benefits/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/06/29/healthcare_aws_cloud_benefits/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/29/healthcare_aws_cloud_benefits/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 61
-    images:
-      - url: "https://regmedia.co.uk/2021/04/09/medical_wifi_shutterstock.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI to tackle cybersecurity: Rubrik and Microsoft deepen collaborations"
     excerpt: "Accelerating cyber recovery through generative AI and natural language processing (NLP) is the aim of a joint collaboration between zero-trust security vendor Rubrik, Microsoft and Azure OpenAI. This integration is hoped to offer a \"truly actionable use of AI\" to reduce the time required to investigate and determine responses to cyber events,"
     publishedDateTime: 2023-07-03T12:05:00Z

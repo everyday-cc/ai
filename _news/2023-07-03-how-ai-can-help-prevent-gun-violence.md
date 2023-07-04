@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Transform AI Survey: Help discover the state of generative AI"
-    excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
-    publishedDateTime: 2023-06-29T13:11:00Z
-    webUrl: "https://venturebeat.com/ai/the-transform-ai-survey-help-discover-the-state-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Rapid growth of artificial intelligence could transform 2024 election"
     excerpt: "Artificial intelligence has the potential to be game-changing for political ads - but is it ethical? Should it be regulated? Washington is struggling to answer these questions."
     publishedDateTime: 2023-07-03T22:00:00Z

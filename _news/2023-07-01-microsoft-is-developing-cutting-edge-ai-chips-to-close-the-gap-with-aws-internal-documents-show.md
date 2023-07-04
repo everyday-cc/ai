@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compe
 webUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6"
 type: article
 quality: 104
-heat: 254
+heat: 244
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-logo-on-phone.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Microsoft Taps Bing AI to Generate Shopping Guides"
-    excerpt: "The company is also using AI to power a new price-matching service and to summarize reviews for consumer products on Bing Chat."
-    publishedDateTime: 2023-06-29T15:00:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-taps-bing-ai-to-generate-shopping-guides"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06F5yZaZDh0KUdY8GipZEGR-1.fit_lim.size_1200x630.v1687974682.jpg"
-        width: 1108
-        height: 630
         isCached: true
   - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
     excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."

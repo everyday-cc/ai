@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/salesforce-launches-sales-gpt-service-g
 webUrl: "https://venturebeat.com/ai/salesforce-launches-sales-gpt-service-gpt-to-ease-customer-interactions-through-generative-ai/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: VentureBeat
@@ -24,15 +24,6 @@ topics:
   - AI in Sales
 
 related:
-  - title: "AI startup Typeface valued at US$1 billion after Salesforce-led fundraise"
-    excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday (Jun 29) that it was valued at US$1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
-    publishedDateTime: 2023-06-29T13:10:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-startup-typeface-valued-us1-billion-after-salesforce-led-fundraise-3594491"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 16
   - title: "Salesforce EVP of Product Patrick Stokes on intentional enterprise friction, 'prompt engineering' and the rise of the Chief AI Officer"
     excerpt: "As a technologist, Patrick Stokes would love generative AI to be something that organizations can just pick up and go with. But it's not that simple... What made this discussion particularly of interest was that while a lot of the debate around generative AI has been pitched at a business executive or job function level,"
     publishedDateTime: 2023-07-03T11:57:00Z

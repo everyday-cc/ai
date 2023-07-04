@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedd
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry/amp/"
 type: article
 quality: 102
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 manufacturing trends that are changing the industry"
-    excerpt: "To maintain their competitiveness and overcome today’s challenges, manufacturers have had to make agility and adaptability top priorities.\nThe post 10 manufacturing trends that are changing the industry appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-29T13:08:49Z
-    webUrl: "https://www.ibm.com/blog/10-manufacturing-trends-that-are-changing-the-industry/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "AI Industrial Robotics - D-A-CH"
     excerpt: "Value in the AI Industrial Robotics market is projected to reach US$0.60bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.98%, resulting in a market volume of US$1 ..."
     publishedDateTime: 2023-06-29T17:49:00Z

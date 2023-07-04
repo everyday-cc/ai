@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia warns tighter AI chip export restrictions to China risk permanent US industry losses"
-    excerpt: "Nvidia's share price took a tumble yesterday following a report that the US government is considering tightening its export controls on AI chips to China as"
-    publishedDateTime: 2023-06-29T14:34:00Z
-    webUrl: "https://www.techspot.com/news/99246-nvidia-warns-tighter-ai-chip-export-restrictions-china.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 74
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-29-image-13.jpg"
-        width: 2160
-        height: 990
-        isCached: true
   - title: "Larry Ellison says Oracle plans to spend billions on Nvidia GPUs, even more on Ampere and AMD chips"
     excerpt: "Oracle will spend billions of dollars to purchase Nvidia GPUs this year alone, driven by the rising demand for generative AI-based products, which require considerable hardware"
     publishedDateTime: 2023-06-30T15:31:00Z

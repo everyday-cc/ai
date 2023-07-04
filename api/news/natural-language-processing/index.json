@@ -107,58 +107,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-03-the-real-danger-of-ai-isnt-hyper-intelligence-its-human-stupidity.md",
-      "title": "The real danger of AI isn't hyper-intelligence, it's human stupidity",
-      "excerpt": "While AI is already proving a useful tool, there’s a risk we replace critical thinking with an alternative that’s really equipped for it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-danger-human-stupidity-3340244/",
-      "originalUrl": "https://www.androidauthority.com/ai-danger-human-stupidity-3340244/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/bing-chatgpt-chat-ai-icons-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-03-17-insights-for-candidates-navigating-the-ai-job-application-era.md",
       "title": "17 Insights For Candidates Navigating The AI Job Application Era",
       "excerpt": "We encourage candidates to personalize their resumes, cover letters and applications. This shows genuine interest and helps you stand out in a competitive market.",
@@ -315,21 +263,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-30-researchers-teach-an-ai-to-write-better-chart-captions.md",
-      "title": "Researchers teach an AI to write better chart captions",
-      "excerpt": "Chart captions that explain complex trends and patterns are important for improving a reader's ability to comprehend and retain the data being presented. For people with visual disabilities, the information in a caption often provides their only means of understanding the chart.",
+      "path": "_news/2023-06-29-natural-language-processing-vietnam.md",
+      "title": "Natural Language Processing - Vietnam",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$51.03m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.21%, resulting in a market volume of ...",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/vietnam",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/vietnam",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
-          "width": 1920,
-          "height": 1285,
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -337,13 +285,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-captions.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-captions.amp",
-      "publishedDateTime": "2023-06-29T12:57:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T21:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "Statista",
+        "domain": "statista.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1204,6 +1152,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-ant-group-confirms-reports-about-its-own-ai-large-language-model.md",
+      "title": "Ant Group Confirms Reports about Its Own AI Large-Language Model",
+      "excerpt": "Reports in Chinese media about an Ant Group LLM for AI have been confirmed by the company, however, without any additional details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/ant-group-ai-language-model/",
+      "originalUrl": "https://www.coinspeaker.com/ant-group-ai-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/06/ant-group-ai-language-model.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/ant-group-ai-language-model/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ant-group-ai-language-model/amp/",
+      "publishedDateTime": "2023-06-21T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

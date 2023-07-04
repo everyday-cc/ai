@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "This Transformer-Like Robot Can Roll, Fly, Stand, Walk, and More"
-    excerpt: "Robots are slowly getting smarter, mostly thanks to advances in artificial intelligence that enables them to learn on their own rather than requiring constant human guidance. But despite being able to independently learn new tasks, most robots are still ..."
-    publishedDateTime: 2023-06-29T14:01:00Z
-    webUrl: "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/"
-    ampWebUrl: "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/06/Gharib_Mory-Lab-M4-Robot-063.2e16d0ba.fill-1600x810-c100.jpg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "Caltech Team Builds Transforming Robot That Can Roll, Walk, and Fly"
     excerpt: "Most robots have one means of locomotion—they might roll, fly, walk, or even swim. Rarely do they do more than one, though. Engineers at Caltech's Center for Autonomous Systems and Technologies (CAST) have built a robot that does (almost) everything."
     publishedDateTime: 2023-06-30T11:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.extremetech.com/science/caltech-team-builds-transformi
 webUrl: "https://www.extremetech.com/science/caltech-team-builds-transforming-robot-that-can-roll-walk-and-fly"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "This Transformer-Like Robot Can Roll, Fly, Stand, Walk, and More"
-    excerpt: "Robots are slowly getting smarter, mostly thanks to advances in artificial intelligence that enables them to learn on their own rather than requiring constant human guidance. But despite being able to independently learn new tasks, most robots are still ..."
-    publishedDateTime: 2023-06-29T14:01:00Z
-    webUrl: "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/"
-    ampWebUrl: "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/06/Gharib_Mory-Lab-M4-Robot-063.2e16d0ba.fill-1600x810-c100.jpg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "Transformer inspired robot can walk, fly and tumble"
     excerpt: "Autonomously selecting from eight distinct types of motion, the Multi-Modal Mobility Morphobot (M4) can reportedly roll on four wheels, transform its wheels into rotors and fly, stand on two wheels to peer over large objects, use its wheels like feet to walk, use two rotors to help it roll up steep slopes, tumble and more."
     publishedDateTime: 2023-06-30T21:12:00Z

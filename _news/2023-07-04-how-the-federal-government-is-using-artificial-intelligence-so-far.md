@@ -9,7 +9,7 @@ ampWebUrl: "https://fedtechmagazine.com/article/2023/07/how-federal-government-u
 cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2023/07/how-federal-government-using-artificial-intelligence-so-far?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1440
     height: 500
     isCached: true
-
-related:
-  - title: "Using AI To Determine The Health Of The Electrical Grid"
-    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
-    publishedDateTime: 2023-06-29T18:21:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "MSJTb6ofJ8FfkpBOmooLWYJYYNXjFU5fGqyH6EzW/VjUQI/EoJFvEZQQGAdwUKQUXahiqPRL4bTMvPSDqYvsBJRsY3j/Wm7j6m5IiNZ9VHHnnEDvo+S0qsRzWeOFthIZO1gOZqZw7uoBVuWK8sVxeqzPtbudIQx37rrTw5m6MK/dyTrFmuudf/GcwtAkVxtyTQsFNc4XqARhNeQpwaHFMqtsb0ftQ8eqnwMLN9CDCv6uphFwywAwBizDiB0AD0QZAcrBs7eRWpu8urmv8e89WBDyD06X41v3uHdAzR9K51BkiV+QAsqltN3kieKFpEIWEiOtzlcVnr1tisC6GKvrCARJ5Kaurjuunv+lfJL+Py3TqvB++9bAhlwV2vBsJKxtsbnqBOFbCT6lk16RQfkLU3kUgiE7LSBYJ1u1KWxj/u1dl7tYGoUXnC4MJAfqs3zKDnxirZg8eW2mvv7ZXnTiJqwGg8YDvCvHVNX2asBpNwn5NFsNNZQvuR/oTLpmIP3jEk8bGxAq2F1194WamAvl1w==;gJAUFx37HNabwxRH7JZsBQ=="
 ---

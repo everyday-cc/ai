@@ -65,6 +65,20 @@ related:
         width: 529
         height: 315
         isCached: true
+  - title: "Money World Needs Its Own AI Models, Baidu Fintech Arm’s CTO Says"
+    excerpt: "The financial industry needs customized large language models, as general LLMs are unsuitable, according to the chief technology officer of Baidu’s fintech unit Duxiaoman Financial. The financial industry stores data locally because of security and privacy protection and has high risk control,"
+    publishedDateTime: 2023-07-04T07:21:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230703-13-financial-sector-needs-its-specific-llms-duxiaoman-financial-cto-says"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/27004522123973.jpg"
+        width: 770
+        height: 510
+        isCached: true
   - title: "Google US$10 billion Investment Boosts India’s Fintech Hub"
     excerpt: "Google US$10 billion investment signals a bullish outlook for fintech industry in India, underpinning its potential and expanding influence."
     publishedDateTime: 2023-06-30T02:00:00Z
@@ -88,20 +102,6 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 21
-  - title: "How Boost transformed from a homegrown eWallet to a regional full spectrum fintech brand"
-    excerpt: "Boost has evolved into a regional full spectrum fintech leader in Southeast Asia, that’s equipped with a holistic fintech ecosystem."
-    publishedDateTime: 2023-06-29T14:30:00Z
-    webUrl: "https://www.malaysiakini.com/announcement/670351"
-    type: article
-    provider:
-      name: Malaysiakini
-      domain: malaysiakini.com
-    quality: 15
-    images:
-      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/01/f834d51133cc36aa4d200d1e9d646200.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Global Fintech Market Research 2023: A Bundled Research Offering of 5 Reports"
     excerpt: "The \"Fintech Market Research Subscription 2023: Market Forecasts, Market Sectors, Market Driving Forces, Regional Analysis, and Leading Companies Analysis\" report from Wintergreen Research, Inc has been added to ResearchAndMarkets."
     publishedDateTime: 2023-07-03T10:08:00Z

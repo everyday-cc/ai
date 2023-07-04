@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "10 manufacturing trends that are changing the industry"
-    excerpt: "To maintain their competitiveness and overcome today’s challenges, manufacturers have had to make agility and adaptability top priorities.\nThe post 10 manufacturing trends that are changing the industry appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-29T13:08:49Z
-    webUrl: "https://www.ibm.com/blog/10-manufacturing-trends-that-are-changing-the-industry/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "AI and the future of work: A collaboration of humans and machines"
     excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
     publishedDateTime: 2023-07-02T04:27:00Z

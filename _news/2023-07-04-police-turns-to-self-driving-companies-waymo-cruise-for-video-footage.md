@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/293363/20230703/police-turn-t
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293363/20230703/police-turn-to-self-driving-companies-waymo-and-cruise-for-video-footage.htm"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: techtimes
@@ -42,20 +42,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2020/07/fca-waymo-exclusive-agreement-2-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Self-Driving Car Footage Gives Police Controversial New Tool"
-    excerpt: "As self-driving cars become a fixture in major American cities like San Francisco, Phoenix and Los Angeles, police are increasingly relying on their camera recordings to try to solve cases."
-    publishedDateTime: 2023-06-29T14:00:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/as-googles-waymo-expands-so-does-a-police-surveillance-tool"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 24
-    images:
-      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "DjGesvQGxSI+L9XwlszsYcR2FL6cJJLusOqfzzcoVuh9Doz03glNHwrhYPZ4XKOSBau4B179pTraVQOzia82dlWD44vQ+7iWbueJgK2sEA5hcgVCr9aKmFU+KarVT2/56HdPlxnXJ+jCbHW012g5NNb+J6ohiFY4N77HylYBUBvz+JfZ6YMm+G70aZ6aOUqfNG3/JjQgMT5gyMP5LpBPTB8HebnM9GQS3ghFyf6gzGcUJkNq7pxrLAduRXfB0n8iXjj5wYfv00uMyQgPMitTjCNZI03UB9kC6fj0pccM69lAz9sf2htc7FK3n148HmL86igTMecomzMwMM+oExPSiWm6rXtEKUSqBBfWXbo5wK9vu8dcihjhr8yuSNO24m//9iCaBPciO/+AYyXlq3yQhOVijeRqIwN5PPSsZuLuqjk3l3IStYC4DeebNFo6xcy+Bt/ILp3efxr3qmd9BxXR1Yl3XbBZxk3BPP0sdL1HAtJpOC6nOX2zzr19hsUe0FusI2j/9os6yh/ejpBvzEdO3w==;XAXI1xjNImcvgp2Oc2qASg=="

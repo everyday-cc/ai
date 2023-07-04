@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™"
-excerpt: "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,"
-publishedDateTime: 2023-06-30T16:50:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/06/30/9842399.htm"
-webUrl: "https://it.tmcnet.com/news/2023/06/30/9842399.htm"
+title: "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets"
+excerpt: "The future of the AI market appears promising with the development of conversational AI and autonomous systems, as well as the penetration of new industries"
+publishedDateTime: 2023-06-30T15:29:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59472759-artificial-intelligence-market-worth-dollar-1-345-2-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59472759-artificial-intelligence-market-worth-dollar-1-345-2-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
-quality: 3
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
 related:
@@ -34,6 +34,6 @@ related:
         height: 250
         isCached: true
 
-secured: "tI8tbBtwQR52F3X81fb5gUEmIUJkPtmmHDEPRQwp9TBOvRx+7A7nSE111j5MYuEoi5rr0pCVW0Dcuc2rLiABhxLaDqd3QmyYrsIMtdAEgoyV4tp5ruPzLUgKz7rATHyAzBE574WOhhJps6ZAuRzWgZ+E7MhYMbO99EfsuYEslu7F4IbJ22i5HNvUqpQa6VAhYIStesbOi+SYfqYIk1IYIK19epiBiYXndg1dlv69kQZ1ANJRAYCsvddQY4w6f8RgYjqnMu7axbPPSIzcMNueVHAnzIY4bbUg/lgWv2zfrhIgJqiTsKC3w/xZYrET3Jkhq2rgCjzljRT4bZBHCHhbInbicujPN5AtAjiYEDOaBflhoy5D3nhs/1yMYryLzXu8VTIaFIa2Lzj62iYFwv1t6xyw0br+R+cOKiawA/XkipwXMP8ztHcP8Lhy9kfgAyHHK8V//aezUgqtiUx7ZQHkci+Pb/4wkdt2mUG4hu0e4JP7u41Ar2eX/QD4iSgHzdYkpAWr3MdrzIEyvQmpr80UWg==;XNUX3Dw+tgHAlzKLvYs4Rg=="
+secured: "gxV5o171+EFJCHAKCFNVnT5bjNAGQbFHSjcMNBs+4UHoLOMIEV91JKVHAGXjg5oXArgpFyqyzeweiISXOIlnFbCC4RQxllQT7c7Woms+eIlu64EliNWQRJ49YUYJ3ojCwVgI6YHrA+RSxmTnEKFYgWXV1TrNiUjHUCLC/vYlAXfgGe5+08s9PLcFzsZszezKoFaNZAwiLRUnvAwqfBek6qDhkGq+t80Hmc2YUaMfbXXghGvAe6LIyGlgtN2XiozW6imVc1V3q6fBfcT3n3UKyQL51vvOMFRFlbCwuvfYG6PEkIEyJFK2Md/OIwfnGmZo2CWO4pxxQqnFvXZsCR/8+1V12vJCj4sL0tD+iKidG10=;vYos/3SM5DR2HEeO/io5dA=="
 ---
 

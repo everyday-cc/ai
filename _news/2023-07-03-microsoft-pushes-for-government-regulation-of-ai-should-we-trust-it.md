@@ -83,20 +83,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Taps Bing AI to Generate Shopping Guides"
-    excerpt: "The company is also using AI to power a new price-matching service and to summarize reviews for consumer products on Bing Chat."
-    publishedDateTime: 2023-06-29T15:00:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-taps-bing-ai-to-generate-shopping-guides"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06F5yZaZDh0KUdY8GipZEGR-1.fit_lim.size_1200x630.v1687974682.jpg"
-        width: 1108
-        height: 630
-        isCached: true
   - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud"
     excerpt: "Trusting Social, a leading Asian fintech AI company, has announced the launch of Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
     publishedDateTime: 2023-07-01T03:15:00Z

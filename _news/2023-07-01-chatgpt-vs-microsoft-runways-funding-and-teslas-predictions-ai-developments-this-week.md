@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33088892"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind is developing a better AI than ChatGPT"
-    excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
-    publishedDateTime: 2023-06-29T13:36:00Z
-    webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
-    ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 74
-    images:
-      - url: "https://technology.inquirer.net/files/2023/06/google-ai-projects-620x382.png"
-        width: 620
-        height: 382
-        isCached: true
   - title: "Microsoft enhances Bing Chat by introducing GPT-4-powered image recognition feature"
     excerpt: "Microsoft has recently introduced a major feature to Bing Chat for desktops. The company has started testing an image recognition system powered by OpenAI's"
     publishedDateTime: 2023-06-29T15:04:00Z

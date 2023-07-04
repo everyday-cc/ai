@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Healthcare moves forward in the cloud"
-    excerpt: "How global healthcare and life sciences organizations can derive benefits working with AWS Partners on cloud projects"
-    publishedDateTime: 2023-06-29T14:01:00Z
-    webUrl: "https://www.theregister.com/2023/06/29/healthcare_aws_cloud_benefits/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/06/29/healthcare_aws_cloud_benefits/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/29/healthcare_aws_cloud_benefits/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 61
-    images:
-      - url: "https://regmedia.co.uk/2021/04/09/medical_wifi_shutterstock.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "ruITmSoQ+K3VAlGliGfnIGQfNf1dQG1O1gJJc00tNbx2A+ItzqED7gj+gMr/F8uA7TJ5DocxqXfXKiDComCbihnghU7nPK1JYxwo3FL/rwNraC6Tqc2IjrC725+KW7iDmQHhc7uJ+hh7hPUVyW+lZKo5NV5S9/jGGX/Mm213KNHT4+4CKaaiL8L9JWscAJW8xQdMnlzMPmeFlnMyGBKvUB+/pXp7pGSIkRXWcJAqv2ZHVBl8k++q+7GGCokAzsi5H691ElJ8Z0jbIWNr/cPXXXSu0JfDPNk1UoW5/zUyrIZBH7LxWdxDfkBXxf1iGdorH1GxV6jUoSYyOYT9HI19bympNNd6B7FZsVIVt5D97xy2GVd+41xz7et+SKsCvPj8caLbHeInRjzdJsVH+fpmpIsgtMsFRtOoecwr9v5tswpf2xioGxQxRrq7eAyHaqgLQVWSdFcj7JHU4oI7fhqf5wKQxAtCTEyzM9+dg+mL7nmqj7Lk1Oi2gNRfOMjBPi39uIaa6ljhXpjIvWOrjjHRuw==;uJ4+LUxEvrZm2XBjVpGS5A=="
 ---

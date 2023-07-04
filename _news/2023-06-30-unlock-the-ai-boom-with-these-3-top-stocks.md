@@ -23,24 +23,45 @@ topics:
   - AI
 
 related:
-  - title: "3 Artificial Intelligence Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The most exciting rally in the tech sector since 2021 has undeniably been in"
-    publishedDateTime: 2023-07-02T19:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283"
+  - title: "The True Threat of Artificial Intelligence"
+    excerpt: "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions."
+    publishedDateTime: 2023-06-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "3 Lesser Known AI Stocks You Haven’t Heard of Yet"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The popularity and overall interest in generative AI have investors clamoring"
-    publishedDateTime: 2023-06-29T14:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-lesser-known-ai-stocks-you-havent-heard-of-yet-1032418209"
+      name: The New York Times
+      domain: nytimes.com
+    quality: 73
+    images:
+      - url: "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Three things to know about how the US Congress might regulate AI"
+    excerpt: "Last week, Senate majority leader Chuck Schumer (a Democrat from New York) announced his grand strategy for AI policymaking at a speech in Washington, DC, ushering in what might be a new era for US tech policy. He outlined some key principles for AI regulation and argued that Congress ought to introduce new laws quickly."
+    publishedDateTime: 2023-07-03T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/ai_congress.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Using AI To Determine The Health Of The Electrical Grid"
+    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
+    publishedDateTime: 2023-06-29T18:21:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "s3S6eewfDa3pG9Rf0NX6+BiE2gemcMaj3qfjAvrYgypkByNGeIwimODDzED/yE/Au4YMnGpqoUwyCXghM/wDANDofQSVLGWyvMCIhcCmLK40oOnNzfddqJyodt2yVnY/UE2zb0ZY1MS7eyss+fBnPn1cEV541BvTRJ5Cz/m9OV3bVlcHn0fwwv4MhYwfU3vESMmo9kc5CrKJbXmKzks1Q7a9T2Mbv5rU/b095+xx7K0qYIJQCH3rkrDWDYSwHIRY9Ov3IFNyYn1jNn/DU2rSFzZUjtvmplY0OBtChFDEu0zEpQJ6KpRW1kgGAoDyL6CrxKyxz+K8qrCtBl1gP2Bc9H8g3O8vj3PkVbMT2GMBIiQ=;AM/cXd376l8snYSWHnHWpQ=="
 ---
