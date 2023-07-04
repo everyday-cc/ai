@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI robots put to work at Kent Co. recycling center"
-    excerpt: "Kent County’s recycling facilities now include four new robots, three of which use artificial intelligence. They were used to help sort materials quickly and more efficiently. The robots were purchased as a part of a $406,"
-    publishedDateTime: 2023-06-29T11:11:00Z
-    webUrl: "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/"
-    ampWebUrl: "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/"
-    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/"
+  - title: "How AI can help process waste and increase recycling"
+    excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
+    publishedDateTime: 2023-07-02T23:12:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-66042169"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
     type: article
     provider:
-      name: WOOD-TV
-      domain: woodtv.com
-    quality: 74
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/AI-Kent-County-recycling-062923-1.jpg?w=1280"
-        width: 1280
-        height: 720
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4143/production/_130270761_recycling-gettyimages-150517191.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The AI trained to recognise waste for recycling"
+    excerpt: "Greyparrot places cameras above the conveyor belts of around 50 waste and recycling sites in Europe, utilising AI software to analyse what passes through in real-time."
+    publishedDateTime: 2023-07-02T23:12:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-66042169?at_medium=RSS&at_campaign=KARANGA'"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5373/production/_130236312_gettyimages-1409469474.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "QNuh3LqL+AJXoIAoL3QhK/7qaLwQJYdiZfrDPThszgqwf2Yh5CzZJ3Gp9jATM0JNafW/QR+TCgfI6X59p32SCukYUNmqExephENGmhgTHFm2CE1yquY8VsS/ogO++/cANWU8A6YyX3/XrHkws7VoKd0btl32hUDnZdIv2ratgq88vCIZaVgIsqW4Xi+/AjH+vsdz6HCapSuIJ1HnFkUr3q7KGv+i49IOoQ2ngVvmhfMlJ4PQ4sC8ljYGKu2aGZ7kKWh8szELD0AUJWRo9zEAiigOhnUS77LSHE/ou+L2qqnKMjmgVs3q5XdYyPoF053vAAVHxCLpmY8YbV3bAncoZ+opBzgiT1k6uhWZEsmYc7fxwSi+ZD6qiwA7BxYJYyfuLDMsVgMnlz2DY5AaIMdtMv5yI4Rw5Dn2MdFItJ5xPK+JeeBEyO5xjMrwknNcdOIMa545nOQ1G3qc1eVJ5sPSk6Vw8KDJWsAFTqtOcbjm/BvlfR8bJZTDmWuVyrI3JeoVkRVoUbd12AbhVbSLgsRFAQ==;+pJTW90m/S00CRjEItAnDQ=="

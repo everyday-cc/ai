@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BBC
@@ -41,6 +41,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5373/production/_130236312_gettyimages-1409469474.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Grand Rapids Recycling Facilities Install AI Robots to Help Sorting"
+    excerpt: "The recycling facilities in Kent County, Mich. Will now have four new robots for sorting, three of which will be powered by artificial intelligence."
+    publishedDateTime: 2023-06-29T15:02:00Z
+    webUrl: "https://www.waste360.com/recycling/grand-rapids-recycling-facilities-install-ai-robots-help-sorting"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 54
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/robot%20arms%20recycling%20MR1540.jpg"
+        width: 1540
+        height: 800
         isCached: true
 
 secured: "zmucjPEGsrqbPkkmiYLJj0Agc1LGmQeg0jmmVwwDlNOslYJwMzNKCSW90faKo9LQwbQVGFe4yPLWk3e2c92pBsOCmvxSlrFIY5FYLb1JbO6D7VyHoXXcscetfsQNjmH3CQjMD8lYB0Q/yVVkmgRRLaqvFhDThLyASbQF+/KAkX2nT4D2Vfve41mqjFdYBzIyHk1Y4yj0LSikuAjjcUFvQEjpw/NKMGpPvBNrpLA0dttTLeKYBqin+Q/Q5fhVC82k8mYNbzVUu89SD9fnFlAVIkaNIEzMBFnrBB+cAVpA0OPaLspiLwOm24PwMt4dAjkEtEYOMdubFAb/O6T1AGCCCNhMYl1kLGrY+KNXaBkK8E8=;8TRlfOU4pOnH1l/2kybLtA=="

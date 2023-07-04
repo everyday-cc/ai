@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-wea
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
 type: article
 quality: 86
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-30-image-9.jpg"
         width: 2000
         height: 1334
-        isCached: true
-  - title: "AI Video Startup Runway Raises $141 Million From Google, Nvidia"
-    excerpt: "Runway AI Inc., whose artificial intelligence software can create a short video from just a few typed words, has raised $141 million in funding from Alphabet Inc.’s Google, Nvidia Corp., Salesforce Inc. and other investors."
-    publishedDateTime: 2023-06-29T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-video-startup-runway-raises-141-million-from-google-nvidia"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBBcycoPcKg/v0/1200x799.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "Microsoft-backed AI startup Inflection raises $1.3 bln from Nvidia and others"
     excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."

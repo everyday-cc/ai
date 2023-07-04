@@ -1,143 +1,26 @@
 ---
 category: news
 title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
-excerpt: "Using over 100,000 data points from every shot played across the tournament, analysed by IBM's Watson AI technology on IBM Cloud, these digital features are designed to make it easier for fans to ..."
-publishedDateTime: 2023-06-21T06:30:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59386184-ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59386184-ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience-008.htm"
+excerpt: "IBM AI Draw Analysis creates a new statistic for tennis, offering deeper insight into a player's potential path to the final LONDON and ARMONK, N.Y., June 21, 2023 /PRNewswire/ -- IBM"
+publishedDateTime: 2023-06-21T04:39:00Z
+originalUrl: "https://www.asiaone.com/business/ibm-brings-generative-ai-commentary-and-ai-draw-analysis-wimbledon-digital-experience"
+webUrl: "https://www.asiaone.com/business/ibm-brings-generative-ai-commentary-and-ai-draw-analysis-wimbledon-digital-experience"
 type: article
-quality: 28
-heat: -1
-published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2105378/IBM_Wimbledon_App.jpg"
-    width: 400
-    height: 225
+  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2023/IBM_Wimbledon_App_0.jpg?itok=Qp3eSKI4"
+    width: 599
+    height: 337
     isCached: true
 
-related:
-  - title: "Enhancing the Wimbledon fan experience with AI from watsonx"
-    excerpt: "IBM&#8217;s partnership with the All-England Lawn Tennis Club (AELTC) has driven digital transformation at Wimbledon for more than 30 years. And this year, Wimbledon is tapping into the power of generative AI, producing new digital experiences on the Wimbledon app and website using IBM&#8217;s new trusted"
-    publishedDateTime: 2023-06-21T11:15:41Z
-    webUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 134
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enhancing-the-Wimbledon-fan-experience-with-AI-from-watsonx-1-1.jpg"
-        width: 1197
-        height: 602
-        isCached: true
-  - title: "AI powered by IBM Watsonx to drive 2023 Wimbledon"
-    excerpt: "Leveraging IBM’s Watson AI technology on IBM Cloud, these features analyze over 100,000 data points from every shot played throughout the tennis tournament."
-    publishedDateTime: 2023-06-21T10:24:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/ai-powered-by-ibm-watsonx-to-drive-2023-wimbledon-78937"
-    ampWebUrl: "https://infotechlead.com/artificial-intelligence/ai-powered-by-ibm-watsonx-to-drive-2023-wimbledon-78937?amp=1"
-    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ai-powered-by-ibm-watsonx-to-drive-2023-wimbledon-78937?amp=1"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 74
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2015/08/Tennis-and-SAP-deals.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Wimbledon to introduce AI-powered commentary to coverage this year"
-    excerpt: "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips"
-    publishedDateTime: 2023-06-21T14:51:00Z
-    webUrl: "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind"
-    ampWebUrl: "https://amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/ea9de7424b6fb32dd897f2934206723e215f45f4/0_13_3573_2144/master/3573.jpg?width=620&quality=85&auto=format&fit=max&s=bf031c926cc464bbc42a9c036ba83d88"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
-    excerpt: "A new Artificial Intelligence (AI) feature, leveraging generative AI technology fromIBM watsonx, will produce tennis commentary for all video highlights packages during Wimbledon In a first for tennis,"
-    publishedDateTime: 2023-06-21T23:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Wimbledon, IBM team up for AI-generated highlight commentary"
-    excerpt: "Wimbledon will use AI commentary for video highlight packages on its website and app at this year's tournament."
-    publishedDateTime: 2023-06-21T11:18:00Z
-    webUrl: "https://www.espn.com/tennis/story/_/id/37890817/wimbledon-ibm-team-ai-generated-highlight-commentary"
-    ampWebUrl: "https://www.espn.com/tennis/story/_/id/37890817/wimbledon-ibm-team-ai-generated-highlight-commentary?platform=amp"
-    cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/tennis/story/_/id/37890817/wimbledon-ibm-team-ai-generated-highlight-commentary?platform=amp"
-    type: article
-    provider:
-      name: ESPN
-      domain: espn.com
-    quality: 57
-    images:
-      - url: "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0714%2Fr880269_1296x729_16%2D9.jpg"
-        width: 1296
-        height: 729
-        isCached: true
-  - title: "Ace!: Wimbledon to leverage generative AI for video commentary"
-    excerpt: "Generative AI is being applied to produce narration with varied sentence structure and vocabulary to make the clips informative and engaging, said IBM"
-    publishedDateTime: 2023-06-21T10:45:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/ace-wimbledon-to-leverage-generative-ai-for-video-commentary"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 19
-  - title: "Wimbledon to use IBM tech to power AI commentary for online highlights"
-    excerpt: "\"This year, we're introducing new features that use AI to help fans gain more insight and access commentary through our match highlights videos.\""
-    publishedDateTime: 2023-06-24T12:16:00Z
-    webUrl: "https://interestingengineering.com/innovation/wimbledon-to-use-ibm-tech-to-power-ai-commentary-for-online-highlights"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
-  - title: "Wimbledon Line Judges' Future Uncertain As Grand Slam Embraces AI"
-    excerpt: "Wimbledon technology chiefs say line judges are safe -- at least for now -- even as the grass court tournament embraces artificial intelligence."
-    publishedDateTime: 2023-06-21T12:39:00Z
-    webUrl: "https://www.barrons.com/news/wimbledon-line-judges-future-uncertain-as-grand-slam-embraces-ai-a936e334?refsec=topics_afp-news"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
-  - title: "AI watch: from Wimbledon to job losses in journalism"
-    excerpt: "This week in artificial intelligence"
-    publishedDateTime: 2023-06-23T11:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/23/ai-watch-from-wimbledon-to-job-losses-in-journalism"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
-
-secured: "Ro7OsXMThpr9PGt7UW3PI2mlz32ud9w5+/jHO/xYlQzrhPbB62pKKOewHooYjBfTmMnBdKc/rFR3OOTgM72IxAPmhlbBhKq3DBO+pgGXKKir8ZDBfJOZgs2YrqyNaJM/hoaXK2ZCtSi5YJpcy1FdJO5eLaC926p8KKMdpOqKe0947Cis+2D8ko9GkHqw18b21EZn5DnYFNtRcqcvTaR2BqA17W43rPdDYEOlQmUowDrzsKgSnBZxv4D3aa5q/p084K3KzQ5q7bEFzULdhSxufAm2bdSplYNSBkL0o7071oPtWUfufBL/CrZ0lmvbnSTlRhB6AWi9n125lh56lSXrF9tJe3M2c8136eIO03v/0W4=;zaCGV1JWc51Fqj+Fhkvgug=="
+secured: "LjS0UUVHw/QtyVES02ADslHruRjvcIgpdzf/2A5VFMkxcomAwr2mJm9vp7/fJqGer3KojbzvO1rZ+/5jaCo2f/R8fxCePwQkvjWeIeHdEzh+zxHfVLR+LzSWMY3lf83DLoSQ7sYX05Fxk5jCC2EuxWSpaUx8XsMT4rg0c3BVvU3l9pT5KWURX1tysCEGOjutmiaGmBOj2f3X3K1yVusARLrTEk6vCnRl8wAK8UK1tZPhl+Lz+t52K9aqICj6s8OlabuuR/JAyDxkpWE2vhb5R1BlqRwsPgmY2lSOb9/bb2HcN9pxPeetXZjXkGjf0WOTy10vTQc71aw6QQ9TXd8DeXIaggnBtjzK24MqlckOuRA=;ac/ENjR0ZBTpffOlFLHpAA=="
 ---
 

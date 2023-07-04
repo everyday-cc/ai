@@ -68,15 +68,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Causely launches Causal AI for Kubernetes, Raises $8.8M in seed funding"
-    excerpt: "Causely, a Boston-based AI startup, announced today that it has raised $8.8 million in seed funding, led by 645 Ventures."
-    publishedDateTime: 2023-06-29T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/causely-launches-causal-ai-for-kubernetes-raises-8-8m-in-seed-funding/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "AI video startup Runway raises $141M from Google, Nvidia, Salesforce"
     excerpt: "The company plans to use the funding to conduct additional research into video- and image-generation AI models."
     publishedDateTime: 2023-07-03T13:00:00Z

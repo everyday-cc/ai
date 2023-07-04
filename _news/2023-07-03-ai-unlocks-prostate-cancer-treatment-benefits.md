@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Democratization of information with AI: Empowering innovation & inclusion"
-    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Gurugram brought industry leaders together to learn and brainstorm to accelerate innovation, drive inclusion and enhance accessibility with Artificial Intelligence."
-    publishedDateTime: 2023-06-29T11:14:00Z
-    webUrl: "https://www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion-11688035902518.html"
-    ampWebUrl: "https://www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion/amp-11688035902518.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion/amp-11688035902518.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/29/600x338/Delhi_Lead_1688036701270_1688036717445.jpg"
-        width: 599
-        height: 338
-        isCached: true
 
 secured: "MSEPDoRxYWxqmG8hB3NwlViIMq9Qk2YzNTKiq5lmBly61fpGu8iIzv4wDBNED2Aep9BKZLETNaIKZRmkSD30bR7nuZUplXdktI7KTGZClb20Ivj0ncnLcKDS6u1MBMiC+IH8TSAL2Th6PUYfDXuM1AhyEgiYKGMbiVBBsPeE2Nm5wXwe0I74kjb/B5MOKjK86Yg/LRKDu3nnp3n2LzUG0SKQnbzqU8ngLEPPgX/3QGL643/AmtdW3XZ5yYNGrjkZPo+2gyW6Eq3P9+1Cx0efVrUD1hpWRAhJV/UjxwY3ovLAaZ8xGCSxfOoX9bYJF9H5hfHSzVBclebYEB4BTEsCqaDk73gye1D+XoTO3Kq3ay0=;FSb3UOZRA8CcFBkglSk5cA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Causely launches Causal AI for Kubernetes, Raises $8.8M in seed funding"
-    excerpt: "Causely, a Boston-based AI startup, announced today that it has raised $8.8 million in seed funding, led by 645 Ventures."
-    publishedDateTime: 2023-06-29T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/causely-launches-causal-ai-for-kubernetes-raises-8-8m-in-seed-funding/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Inflection, Runway and Stability receive funding as capital pours into generative AI startups"
     excerpt: "Today several generative AI startups received funding, including the chatbot startup Inflection AI Inc., the AI-powered video generator startup Runway AI Inc. and text-to-image generator Stability AI Ltd. Inflection AI, an AI startup building chatbot that ..."
     publishedDateTime: 2023-06-29T17:20:00Z

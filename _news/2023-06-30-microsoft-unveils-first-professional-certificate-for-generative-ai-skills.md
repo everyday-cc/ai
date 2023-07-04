@@ -113,20 +113,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Rubrik integrates zero trust platform with Microsofts generative AI"
-    excerpt: "Rubrik and Microsoft will collaborate on integrating generative AI functionality into the Rubrik Security Cloud platform. This should help security"
-    publishedDateTime: 2023-06-29T11:20:00Z
-    webUrl: "https://www.techzine.eu/news/security/108292/rubrik-integrates-zero-trust-platform-with-microsofts-generative-ai/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/09/rubrik.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft, Nvidia Invest In Ai Startup Inflection Ai"
     excerpt: "san francisco: microsoft and nvidia were among a host of investors who took a stake in ai company inflection ai.<br /> <br /> the company rai"
     publishedDateTime: 2023-07-01T10:16:00Z
@@ -201,15 +187,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Rubrik extends Microsoft collaboration around Sentinel to Azure OpenAI Service to add Generative AI to cyber recovery"
-    excerpt: "The new collaboration will not be sold separately, but will be rolled into the existing offering around Rubrik and Microsoft Sentinel, meaning that partners will not have a new product to sell,"
-    publishedDateTime: 2023-06-29T13:00:00Z
-    webUrl: "https://channelbuzz.ca/2023/06/rubrik-extends-microsoft-collaboration-around-sentinel-to-azure-openai-service-to-add-generative-ai-to-cyber-recovery-41317/"
-    type: article
-    provider:
-      name: Channel Buzz
-      domain: channelbuzz.ca
-    quality: 26
   - title: "Moody’s and Microsoft Announce Partnership for Innovative AI-Based Research and Risk Analysis"
     excerpt: "Built on a combination of Moody’s robust data and analytical capabilities and the power and scale of Microsoft Azure OpenAI Service, the partnership creates innovative offerings that enhance insights into corporate intelligence and risk assessment,"
     publishedDateTime: 2023-06-29T18:35:00Z

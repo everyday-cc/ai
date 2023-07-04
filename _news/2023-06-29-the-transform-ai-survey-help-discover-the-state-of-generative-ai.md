@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Catalyzing transformation: Augmenting human intelligence with AI"
-    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Mumbai brought together visionaries, experts and technology enthusiasts under one roof to explore the frontiers of artificial intelligence through keynotes,"
-    publishedDateTime: 2023-06-29T11:46:00Z
-    webUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai-11688038146836.html"
-    ampWebUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2019/01/30/600x338/HTBS-leadImage-Feb2018-FB-v2_1548835753634.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "How AI can help prevent gun violence"
     excerpt: "A museum in Florida is using AI to try to detect guns and identify possible shooters as quickly as possible. Manuel Bojorquez takes a look at the technology."
     publishedDateTime: 2023-07-02T23:51:00Z

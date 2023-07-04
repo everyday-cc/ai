@@ -130,15 +130,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft weaves generative AI fabric for Moody’s"
-    excerpt: "Financial risk assessment powerhouse Moody's is partnering with Microsoft to bring the power of generative AI to its enterprise."
-    publishedDateTime: 2023-06-29T12:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-weaves-generative-ai-fabric-for-moodys/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
   - title: "Microsoft's 3 new AI-powered shopping tools could save you time - and money"
     excerpt: "If you've ever spent hours reading product reviews or had buyer's remorse when a price dropped after a purchase, you'll want to check out these new Bing and Edge features."
     publishedDateTime: 2023-06-29T18:17:00Z

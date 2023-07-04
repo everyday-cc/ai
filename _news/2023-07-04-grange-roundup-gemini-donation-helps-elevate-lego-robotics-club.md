@@ -3,11 +3,11 @@ category: news
 title: "Grange roundup: Gemini donation helps elevate Lego Robotics Club"
 excerpt: "The National Grange is one of the oldest organizations in America; its focus is on family, community, and agriculture."
 publishedDateTime: 2023-07-03T18:55:00Z
-originalUrl: "https://www.nevadaappeal.com/news/2023/jul/03/grange-roundup-gemini-donation-helps-elevate-lego-robotics-club/"
-webUrl: "https://www.nevadaappeal.com/news/2023/jul/03/grange-roundup-gemini-donation-helps-elevate-lego-robotics-club/"
+originalUrl: "https://www.nevadaappeal.com/news/2023/jul/03/grange-roundup-gemini-donation-helps-elevate-lego-robotics-club/?LVN (lahontan-valley)"
+webUrl: "https://www.nevadaappeal.com/news/2023/jul/03/grange-roundup-gemini-donation-helps-elevate-lego-robotics-club/?LVN (lahontan-valley)"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "O44sOGUAITP3mwkN8Lazr1FFbDJxy8oDvMe/E6ctqG8q/MI4Bh2ymyC+ibkXF7OWbGc2sPx9DpabpVi1jhHcFocgwUbt3b5QmCHpD/YeULvYkcfL8BzXGcAJS3XR6qFA7cj4TpUx539RsOQEYk7XZMP22SrEL/+dkmzJdnBI063+i5jurSBqmbCKzGS4Z5Bm9jMFbKQTj8s0GWhZkB5gBxMcbQ6YkLiHhqbTTil3xhVTxyOZ/UBhYbziZbI/1EglfS5zfLU2GfqS46xFu0kwSCyFpjhRehG4uEHzIsCLZC4lcFUiCCCtB+aFrbdzYdvNDKqSGxCGCDtDQNbo1T6UdzAXkT7ePAFBpktonVnInP/Gmsp4JAO82or37dihRblq6G4Q3rJvXNvY9Zv8p1CQrKHVP9coud3rf9cgnxoJhHHOmAYHGkXxa0eS9zwv5XuMzVqFWQqB5kS35VKnsSPyFLDLHPzZT/JYMeeBhpgrTnB0MuCHhZuUUQZtlB9l0AiI08gds6mznya18f6iQWMAaw==;JxUYvyz88WS+dhryqeF7Iw=="
+images:
+  - url: "https://nevadanewsgroup.media.clients.ellingtoncms.com/img/photos/2023/07/03/Gemini_Donation_to_High_Desert_Grange_Lego_Robotics_Club_-_June_9_2023.jpg"
+    width: 1400
+    height: 1017
+    isCached: true
+
+secured: "0bAVRyqfafYWKCgp7HxmziPCbUrkXZozFMakSRJBhQVkrK1od557QP/cfPBgyhebVBkHfXj8kCjjzuNBmB4/bdBelTo7G3MPqQ7aI8eB9H1DcSvk/s/ykkGY/8iJdR6hNvUWPWwcvLAyIZwFOlwzemBl0Hh/7eFD522nppb9C97z2Hvw2F7GFQWLZRufCHS/i1Zb04h+kP44EOB6hi7fuZ/f/bVU+bHtA830H0Kc0U1zSnUgEOGUTSBHHlvbT5RKKHCIi+tHcwbHd+QZozZyq5eBffZyfai8MXCCcu8QRR8J65a75s7Oj25vX56XgAtD95TiuqSF8OpjGfqyw4Q6TUKzLjVtgITaC26OhKipES0=;hr7GgQvXZczfwH/jgqxJjw=="
 ---
 

@@ -93,20 +93,6 @@ related:
         width: 2000
         height: 1334
         isCached: true
-  - title: "AI Video Startup Runway Raises $141 Million From Google, Nvidia"
-    excerpt: "Runway AI Inc., whose artificial intelligence software can create a short video from just a few typed words, has raised $141 million in funding from Alphabet Inc.’s Google, Nvidia Corp., Salesforce Inc. and other investors."
-    publishedDateTime: 2023-06-29T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-video-startup-runway-raises-141-million-from-google-nvidia"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBBcycoPcKg/v0/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "AMD making big gains on Nvidia in AI chips: research"
     excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
     publishedDateTime: 2023-07-02T06:35:00Z

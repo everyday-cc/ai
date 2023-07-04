@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Catalyzing transformation: Augmenting human intelligence with AI"
-    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Mumbai brought together visionaries, experts and technology enthusiasts under one roof to explore the frontiers of artificial intelligence through keynotes,"
-    publishedDateTime: 2023-06-29T11:46:00Z
-    webUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai-11688038146836.html"
-    ampWebUrl: "https://www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/catalyzing-transformation-augmenting-human-intelligence-with-ai/amp-11688038146836.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2019/01/30/600x338/HTBS-leadImage-Feb2018-FB-v2_1548835753634.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "The Transform AI Survey: Help discover the state of generative AI"
     excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
     publishedDateTime: 2023-06-29T13:11:00Z

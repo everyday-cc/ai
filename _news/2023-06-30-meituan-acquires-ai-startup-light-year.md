@@ -46,17 +46,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Meituan buys co-founder’s months-old AI startup for US$234 million"
-    excerpt: "MEITUAN is buying a co-founder’s generative artificial intelligence (AI) startup for almost US$234 million, a deal that gets the food-delivery giant into a Chinese race to develop ChatGPT-like services."
-    publishedDateTime: 2023-06-29T11:11:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/meituan-buys-co-founders-months-old-ai-startup-us234-million"
-    ampWebUrl: "https://www.businesstimes.com.sg/companies-markets/meituan-buys-co-founders-months-old-ai-startup-us234-million?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/companies-markets/meituan-buys-co-founders-months-old-ai-startup-us234-million?amp"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 37
 
 secured: "6jJdB7QVaKownSAm0AbWeZARiB4qPM50yInI+FSQlIFpm1n3jj/Kl2EX/2zJEDaFEpBwV9AnbGTPTLWC/6DWNQii1IUQQ7x4LhzbBrXfYX0KP8uXx11GhUwxd8nYcUfzbujfLa3BsxmIFtcH1iNhouAdhgJaqmCanDUF4LSsC89RtVIfkWcSjeD1LNbJVT7UrRNmN5zFCav25IJSDceoLpHeat0y0AVrle+YFy3LbcmeI7QKgi1nkGAzq07e4Qo0uxfpZmalGnMXQA3gG+T/SArnGAol1jnSzxcZZLgncI8KcLaYdiHcwVPY0y5MMjERiAuDwMjn6OLiZuy09a7Kgcryx08o7ppN5tSSQA63RMjz9vubhKsgeenfWVBDG63HcTtsGdGDAPvapepIj0RIu/qww4LbWwWJcay8ruDLiUbjZe2CCQnL0qFtFVvlzdsbExMkzWZOv+1+v9SfFCAnGvfQs3iFYal3b6C2FY2ml7c8DB9X6u65XknUaLvnPtPnV78rJjKJO3YQ6lu5VNhrsQ==;PquDZYvTJmt4ZnajqtkJxg=="
 ---

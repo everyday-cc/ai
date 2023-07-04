@@ -141,15 +141,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft weaves generative AI fabric for Moody’s"
-    excerpt: "Financial risk assessment powerhouse Moody's is partnering with Microsoft to bring the power of generative AI to its enterprise."
-    publishedDateTime: 2023-06-29T12:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-weaves-generative-ai-fabric-for-moodys/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
   - title: "Microsoft knows its out of touch with Gen Z. The software giant plans to lure them with AI, an internal memo shows"
     excerpt: "Microsoft 365 has fewer Gen Z users than its competitors. This may present a risk to its workplace business, according to newly released documents."
     publishedDateTime: 2023-06-30T19:51:00Z

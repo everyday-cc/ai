@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/etf/china-restricts-expor
 webUrl: "https://markets.businessinsider.com/news/etf/china-restricts-exports-of-semiconductor-metals-in-latest-front-escalation-of-battle-with-us-over-ai-tech-1032424267"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -28,40 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI Chip Export Rules Put Semiconductor Firms in Spotlight"
-    excerpt: "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China."
-    publishedDateTime: 2023-06-29T12:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Japan embraces softened AI regulations to drive economic growth and chip leadership: Report"
-    excerpt: "Japan is reportedly considering adopting more lenient regulations on artificial intelligence (AI) compared to the European Union, aiming to enhance economic growth and establish itself as a frontrunner in advanced chips."
-    publishedDateTime: 2023-07-03T09:16:00Z
-    webUrl: "https://www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report-11688374599060.html"
-    ampWebUrl: "https://www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report/amp-11688374599060.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report/amp-11688374599060.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 64
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/03/600x338/TECH-AI-EUROPE-0_1688375295260_1688375347173.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Potential US Export Restrictions on AI Chips Shake Tech Market"
-    excerpt: "The Biden administration is reportedly contemplating new restrictions on the export of artificial intelligence-related semiconductors to China, stirring anxiety among leading chipmakers like Nvidia and AMD."
-    publishedDateTime: 2023-06-29T14:00:00Z
-    webUrl: "https://www.unite.ai/potential-us-export-restrictions-on-ai-chips-shake-tech-market/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 34
   - title: "U.S. Officials Assesses New AI Chip Export Restrictions on China"
     excerpt: "As per a report from the Wall Street Journal, the U.S. Commerce Department may put restrictions on exports of AI chips made by NVIDIA, AMD, and other chip companies to customers in China as early as July. Posted on Jun 29, 2023 by Mia Garcia In a move ..."
     publishedDateTime: 2023-06-29T13:11:00Z

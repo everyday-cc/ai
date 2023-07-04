@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-doe
 webUrl: "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Meituan buys co-founder’s months-old AI startup for US$234 million"
-    excerpt: "MEITUAN is buying a co-founder’s generative artificial intelligence (AI) startup for almost US$234 million, a deal that gets the food-delivery giant into a Chinese race to develop ChatGPT-like services."
-    publishedDateTime: 2023-06-29T11:11:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/meituan-buys-co-founders-months-old-ai-startup-us234-million"
-    ampWebUrl: "https://www.businesstimes.com.sg/companies-markets/meituan-buys-co-founders-months-old-ai-startup-us234-million?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/companies-markets/meituan-buys-co-founders-months-old-ai-startup-us234-million?amp"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 37
   - title: "Meituan acquires AI startup Light Year"
     excerpt: "Food-delivery giant Meituan has jumped onto the bandwagon of ChatGPT by acquiring its co-founder's artificial intelligence startup Light Year. According to the company's stock exchange filing on Thursday,"
     publishedDateTime: 2023-06-30T12:10:00Z
