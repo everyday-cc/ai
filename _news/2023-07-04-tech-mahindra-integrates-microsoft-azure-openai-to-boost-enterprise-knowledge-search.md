@@ -7,7 +7,7 @@ originalUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsof
 webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
 type: article
 quality: 62
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 390
     height: 205
     isCached: true
+
+related:
+  - title: "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform"
+    excerpt: "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,"
+    publishedDateTime: 2023-07-05T15:48:00Z
+    webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 64
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4444/Unsplash_ThisisEngineering-RAEng_web.jpg"
+        width: 975
+        height: 548
+        isCached: true
 
 secured: "IkOp6MkUvAdK0a0O+wejRADDO9/Gn3G4x97kGpiwcLzFAH0uMI2G5oNiam9kS9OW4u9p6Hk9Z2Wharva8krW26mGJ3mbE1XMkQO2cTu4TprXOAwoSfOS+2vCiR1mNG5/emxAOR+CpzRLGvXw3rLnOPXHzzLs2l9tUcaIHAispvpFfeIbTIAFV5YJAO19OK8QmwOGiJCCD5EhXKnf41tEJcsJKtYRkrBzP7MrVBeTW+ajWPk4aP3wOMZL9G3Ynpp4YgbdrJU0hSllisdDNpmbIztibeTe7jvX8LyQ9PW/pS4ka0nmjstpMDJoc/qN2Fh3XNXKsNBVUbhe7GebONGi/2uQT34EPbT5cmGLa2q8638cDQyBTJ+lAI42+kdEhvKVsxaQyIR3B63tBADphAgjZflZh2Uaz9xuWoDOXLEDr7eHR47pjm04DIylgLGtfVi56pAQsPXuWM0akTCI8P3a/MCRKvycLcEcKJ3SM786o7aX7tFKiR6KbPgituy2u7N2/ZI214xeicGKbIdcr9ivcA==;lNce5xq/2ARvmR65gdWp/w=="
 ---

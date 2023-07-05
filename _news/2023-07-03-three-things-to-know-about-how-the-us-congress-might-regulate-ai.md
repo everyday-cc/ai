@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 3000
     height: 1688
     isCached: true
+
+related:
+  - title: "Congress wants to regulate AI. Big Tech is eager to help"
+    excerpt: "Members of Congress want to regulate artificial intelligence, and Big Tech is watching — and lobbying. Senate Majority Leader Charles E. Schumer (D-N.Y.) launched a major push on AI regulation late last month,"
+    publishedDateTime: 2023-07-05T15:00:00Z
+    webUrl: "https://www.aol.com/news/congress-wants-regulate-ai-big-120041224.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/68dc6cd933ab8846393767699e51281d"
+        width: 840
+        height: 560
+        isCached: true
 
 secured: "uW43Qlmsg4o8D/p3U9TPxBM7F6DWey47rRxybsTe8nQydrRC+rhXPV9TaLJPlUleO9BlRorC269BsITC/IfpYb+Gyd5uq4zkSE2W+lTgJwY5S7wptsc910uLaccb3eoHmmnrtr2LGMAaWdvbFt7Gh9iWsv34SHH+gxpfoGTUf3IjASinA5/lSgDWI45GpowjCY1hmj60ttIayNphgKBIIJnNV/LeOPLegE8719ZZ38JCS+/G5LE2UGQSoGQT+N+S0cY5OMuWPUy43p8jXI0CZ0VDtJdPsyFUTexZZh9uhgFvnojscWW88vqjdEr1cwGo7kbutHzkWnUPva2ainA2KG8//h/MHqeWQF4H0HUraDdoKW+plpr1VrZsty139pCiYuw7StWrOUaIKd1UjcA1sM0zhORVaHUrgDGQ4mTzZekvJ4BySAaX2H5hSkX5oCwoxiMuTZ0FkUVD8ZKTYacPncd43m4BS3GEdZDgWKBN6+2mIltgb15WIMPpC4moHRsporUbFcFjFaMxWA3BtOptpQ==;6seFKX5b6iRlNTdMoBwdeQ=="
 ---

@@ -49,12 +49,7 @@ related:
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
-    quality: 23
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
-        width: 544
-        height: 362
-        isCached: true
+    quality: 3
 
 secured: "nI1c/T+C8FjQhpXfiWpWRwCeNTAB1lTR1L7Tz7nIlSRrtLUfR+uZ3TR5Kpx/hoydkPyT41bCUj2tzPSPgt9vaeyNU1QovVgheEJgztDI5Wh9hht8+i6LZq/QYAEtMQb6wYttn5pbxd7N9VlhUdSKl+lUiML4+wRQ4utHtkMjZ5+xLY7Mx/wAm7dsI5Xv8xxaBIXsXfEGkkpv2SBYr0wRJ22O/IbXE1XzRI8/+XIPTQbijGnT2Odr+svCSWA56oJtZnS+qeh+XZunTswKPb/5CWgh5aNjgHRGrJIBjEgdDYtx6haKf4kpqHaNykjiqnqUkAC8pHrS8swVYXtOCRuIFauyINl4pHEUw3JebaCNdDI=;IYoipZdG91gcT+/8/UbMgg=="
 ---

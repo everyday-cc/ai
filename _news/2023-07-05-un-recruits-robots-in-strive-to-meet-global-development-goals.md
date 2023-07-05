@@ -1,27 +1,41 @@
 ---
 category: news
-title: "UN Recruits Robots in Strive to Meet Global Development Goals"
-excerpt: "GENEVA (Reuters) - Dozens of robots, including several humanoid ones, will take centre stage at a conference organised by the U.N. technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals."
-publishedDateTime: 2023-07-05T10:04:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2023-07-05/un-recruits-robots-in-strive-to-meet-global-development-goals"
-webUrl: "https://www.usnews.com/news/world/articles/2023-07-05/un-recruits-robots-in-strive-to-meet-global-development-goals"
+title: "UN recruits robots in strive to meet global development goals"
+excerpt: "Dozens of robots, including several humanoid ones, will take centre stage at a conference organised by the U.N. technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals."
+publishedDateTime: 2023-07-05T13:04:00Z
+originalUrl: "https://www.aol.com/news/un-recruits-robots-strive-meet-100434379.html"
+webUrl: "https://www.aol.com/news/un-recruits-robots-strive-meet-100434379.html"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "6VjbM4t9K6TS4LJ3ohXwq8zBdOYIK3lhF7x04eLuzHwsNu2on/UX0qDG1eNIHAsMKpdvra+79roV7PChR8BQxqPJEqA1a2+CPKFnfM7I30voJ0KmjFiMKmNZacvBzGg9Nkgu2INkTuVJjUdLrTeyScwFQ4z9zNaWAqDR+3JrdUL+vc3/O7efBBu0gMAiwRpGE8tG7VNAHYiNr6o/fI9IENeeA+samqSD85H1+VaYuuhutpLFo0B3C+1/az8so/ucCFhr0I4EIWqzjWTRHvXsjNl00VVr3HgVtc042+EdeLcHWC28UlegDRe1/IDKuU+YuzsjkiGtcvTCrHJZ0qbkzGqanpxg6NeSY5Jkx24fNjDfHkpplrE6Rv2SPQCRmA9BxENxCvgyIR4tn7YNQYS+TmUysV9xq8wUYw8E/8o53yd/2M2AY9NTInOX5asQjJSkyQU84H4pvwr2mA1tETgTFJ6+49P03m0QsrwXT2rdEOvxs+R434P4Kumh4egVdHJp+YQ8TX90IDqMt5n4MHMqUA==;XN6CRMDSTjlMbfdxGqiX/g=="
+related:
+  - title: "UN recruits robots in effort to meet global development goals"
+    excerpt: "Dozens of robots, including several humanoid ones, will take centre stage at a conference organized by the United Nations technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals."
+    publishedDateTime: 2023-07-05T14:50:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 59
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/24/1_4782295.jpg"
+        width: 470
+        height: 264
+        isCached: true
+
+secured: "0oji1j+qJg1n4zvHUMebvDf2xQKtClVSVISNx9wp7W5Q1r2n3EiRuA6nPg23OqMw3lDo7hbwFcpGwoRAKSdWuIjC1rsO7OVpwPvkHRVQAZHRb0KYSaB1SVuu/R+xTBNLLnfo0iERzckLd5bX+bMNVee4t/TQgGhRclR8ydl/0c/mpIZ4HXT+Etam+y3TsMjF1S/hjRu8hrgdr5xdnXR/lHzCj6rgSl4K0qLDz3zbs6yr+0zG2CeIwkAGwTOetxKOXv5RQVKy212xV64Muyl/4snPKEPzF2X6sg6LgfTmKLVi9JFlEMUpSnS3HjWaNTnVnSctVzFI1FefSclcDAXfT3mpoMSTGJ8C2miXzMxuRro=;o/+Q7EpfVgIUcsKNF2ZZsQ=="
 ---
 

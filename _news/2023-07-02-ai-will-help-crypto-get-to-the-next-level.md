@@ -36,6 +36,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Generative AI for Crypto Startup SuperSight Raises $1M Pre-seed to Build Crypto-Specific LLMs"
+    excerpt: "SuperSight, a London-based Generative AI startup, is redefining the crypto data landscape with its revolutionary Large Language Models (LLMs) tailored for crypto data. The company is"
+    publishedDateTime: 2023-07-05T12:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33114520/generative-ai-for-crypto-startup-supersight-raises-1m-pre-seed-to-build-crypto-specific-llms"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33114520"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33114520"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "dB+IHGlEgBMj0EaGSAMqvhrf6c4a3srILxR+3tOb5+eqAm4Z2twVZYthNvxDOj6cqCdS8L9pQXN+meLC/glxpsojQZj/TcsLEm3G1iDfmWD/YjAOg2Ul7Gth/vXdhCX91YWd9TomjFKFYCpgXCw1gPgyk9bn1twXA20hJrF+hMO/OAFj1ytK3ngMxmI6WkIBGYtJlBByi4SINwMSPSvGSiO841PTDRPnIrCYOswI14abpBvc3XxeNxljwoVqVOam8dp+y31QrP+opYnXzxI7ZhXcaxk2kR3pzfEnszFrzDFjCTa+IXoi4o9q5aaC7GnTMF4mQE5UJ7Z8fA6kt6SpFsOOXEPph0YxbxV+7bkDCHRvSDwQ++qaJ5fhkTT2NOG+wp7pyrH/RMjs4j9Uk974oXh3V17a1Vuiko2HI39v/yVSxDdfRqMvPwNkLjFN20/+nJ6zkomIIIRJ7VZWXjuGUpoy2tXBjAPkoLmcjWg+igTcoen4Iyx+vSyoFsuMsrIlSj2cuqaVt1b8tdE+y8O63A==;WMEp6gb+4t/zHmljlXPvTQ=="
 ---

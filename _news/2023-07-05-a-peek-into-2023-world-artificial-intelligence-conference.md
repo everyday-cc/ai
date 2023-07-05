@@ -1,30 +1,33 @@
 ---
 category: news
 title: "A Peek into 2023 World Artificial Intelligence Conference"
-excerpt: "This year's World Artificial Intelligence Conference will begin on Thursday in Shanghai and companies are making advances with avatars. An avatar generator turned heads last year, as a spherical scanner with 27 cameras captures details of a person and creates an AI actor."
-publishedDateTime: 2023-07-05T09:18:00Z
-originalUrl: "https://timesofindia.indiatimes.com/videos/international/a-peek-into-2023-world-artificial-intelligence-conference/videoshow/101513233.cms"
-webUrl: "https://timesofindia.indiatimes.com/videos/international/a-peek-into-2023-world-artificial-intelligence-conference/videoshow/101513233.cms"
-ampWebUrl: "https://m.timesofindia.com/videos/international/a-peek-into-2023-world-artificial-intelligence-conference/amp_videoshow/101513233.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/international/a-peek-into-2023-world-artificial-intelligence-conference/amp_videoshow/101513233.cms"
+excerpt: "This year's World Artificial Intelligence Conference will begin on Thursday in Shanghai and companies are making advances with avatars. An avatar generator turned heads last year, as a spherical scann"
+publishedDateTime: 2023-07-05T08:33:00Z
+originalUrl: "https://www.victoriaadvocate.com/a-peek-into-2023-world-artificial-intelligence-conference/video_7c95f275-534b-57e9-b10e-4e13006f0660.html"
+webUrl: "https://www.victoriaadvocate.com/a-peek-into-2023-world-artificial-intelligence-conference/video_7c95f275-534b-57e9-b10e-4e13006f0660.html"
 type: article
-quality: 57
-heat: 57
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - AI
 
-images:
-  - url: "https://static.toiimg.com/photo/msid-101513233/videos/international/a-peek-into-2023-world-artificial-intelligence-conference.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
+related:
+  - title: "Compact Computing Device for AI Edge Inference"
+    excerpt: "ASUS IoT has introduced next-generation computing devices with highly efficient and powerful GPU for AI-powered IoT applications."
+    publishedDateTime: 2023-07-05T11:17:00Z
+    webUrl: "https://www.electronicsforu.com/news/compact-computing-device-for-ai-edge-inference"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 19
 
-secured: "tSk6wG5PgCRIee3org429MB6bOQmfOOnZqJ9ZuMOEUhr5UXVSkrZv1gcClgYNtadPPcLyCmK0I3rURDLIh0tUrFAMpRfPwMqLEK0aJk2JNqRs8l/bGN0htKXihy28/FO63XAV2h1kHCDtguiDnB6FeaybHReCTbDid5X+mpP4/VweRBvfPFhXfrJyvOszaSXWqFSb/7M/y37diuRrCMDYsz7QrAfuIQZGQbP5W+77iqZvrH7SPxHOQ5a/HvsVOFNo/wqkjcy7l4M/3qHfaPGEH2xamsxNZhpcSRCeHk0uIp4zOKEGf75XeQ+utMm/SLA/Us5EM+kjL3XCggQG5YrhuCzhQP0uN8M5j9nOD5B20I=;sY2tfHPWJuhwlBDei/W+hA=="
+secured: "6F6M8w4kmrokhcrDMxo+6v/DrhNyLPk9vkiCpDfGqvPbq5iFMYuS2VBHGbNYVpDln+2zIqgkLzmmLHb607STAhwh4so9+d8YJL+dgqRQFzjbwbAB/0FJO3nH8cUYzHhGvKFZnOA2r9Fg+inTivTIB1utBVrvkpoZh18+vhsxuP6ge8j21xZ1LU0mnb+t7heLJfECMRZFdzGCuHArz848+vbSSHbOEC5Q82JpBlDH6Fsm+wTj51VIYCS33uWTM84U7vN5lw1j/AYt5+K4YRD4VbaByiS2TWYM67DDrICq/tWWcOg6GFmOw1gKEDi1Hn599/OTjysjLXMjZGbc6t4XoW6TwOFqVP6Y17ryZ0XSnRjkFPgk7bXchmjYUaSweckVfvc0hRk44vKSd812JzfAe+95uJB1iM2AwpgOlGcOVtuZUaD+7lg0d/orj8C6aUbM92HNf0GQrvPFAfjOrs+MRAyUuVNWuLZHVxIWZe9fJfEwsURfH0h9y9JZChw2s+xTF0DxdEOuaLJ20B6mHLxfnA==;U+9Nv9jZuccMlsJsPVaHDQ=="
 ---
 

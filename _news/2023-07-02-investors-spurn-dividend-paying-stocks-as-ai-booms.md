@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/investors-spurn-dividend-paying-stock
 webUrl: "https://www.wsj.com/articles/investors-spurn-dividend-paying-stocks-as-ai-booms-344f431d"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI = All In, Should Investors Avoid AI?"
-    excerpt: "Artificial Intelligence (AI) has existed for some time but we now witness the public discovery of it and already, an investment bubble in AI stocks."
-    publishedDateTime: 2023-06-30T19:46:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/amp/"
+  - title: "4 AI stocks to invest in"
+    excerpt: "Artificial intelligence (AI) is a fast growing sector, but how can investors profit? We look at 4 AI stocks to invest in"
+    publishedDateTime: 2023-07-05T15:29:00Z
+    webUrl: "https://moneyweek.com/investments/4-ai-stocks-to-invest-in"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MoneyWeek
+      domain: moneyweek.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649f2a2994955a8a53f8d8cb/0x0.jpg?format=jpg&width=1200"
+      - url: "https://cdn.mos.cms.futurecdn.net/MDtp2a5dV6RZJ9KHWDhivK-1200-80.jpg"
         width: 1200
-        height: 800
+        height: 738
         isCached: true
 
 secured: "Mq4fE9D4ZrpqQ/LMsOvDoz2v94xD/Bh3mLsyxYNkOXii0qkvTRNUCRa8tFT4eGsC+caqlKleOcK5k1Uw0ZNgLFS23hyPvlhRLhr3Jbw+HRakZGZRzlUnXN+O25ifXxiwDsETkKuzmubOcOdcnOYzgCiwxFHFv03bc1peGSedbZvWrC9PeEUP+cDOlQvqxJDsBG7SDIzxpcEtvSqdNWojwqT4V8MUimkW4mfTA+2tXyQvtjMC93i+/Uat6HYivd3F4BQSNoKu9iP8gaHDTqIUhuW+YhH99papkRw26wNwPBuba36bho0JCqXnta33R1s/cL3YoCoEEMrPF7u4YpTAyUPjv6c220/VdFtaUiXZFJfoCwp2AVbVf3Lw1w7FF3eSyphKUjontiDxOzbtbsBkzy3JOazlyCQ24m4RNR10UotnbIoqgFoQsUI61oUbqiEc6kR9kk43DKt48aclNlx1aJnpfgWzRQ60qDJpQFQXvA6PddzVul5XuzXUgkCs0kZ9E3miXMHPXnfg9QG8ndQeeA==;hrX6pnwobsYoOtEdHL+Elg=="

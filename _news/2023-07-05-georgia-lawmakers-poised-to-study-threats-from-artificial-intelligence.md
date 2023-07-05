@@ -38,6 +38,20 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Georgia lawmakers poised to study real and imagined threats from artificial intelligence"
+    excerpt: "Like many Georgians, Woodstock Republican state Rep. Brad Thomas has taken the opportunity to spend some time with ChatGPT, the popular AI-powered chatbot that has become the face of an […]"
+    publishedDateTime: 2023-07-05T13:36:00Z
+    webUrl: "https://www.wabe.org/georgia-lawmakers-poised-to-study-real-and-imagined-threats-from-artificial-intelligence/"
+    type: article
+    provider:
+      name: WABE
+      domain: wabe.org
+    quality: 28
+    images:
+      - url: "https://www.wabe.org/app/uploads/2023/07/AP23138717768313-1440x810.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "WbC1JDizqZ5i4hfDI/Hk+YmOv0MZ8BRO7kzb2My6KV1b/fJ3vXXwa4g7jTNDvy0xs5zB4hj4SzL697zRsPgRYMa6Imot3cvdFuDn1oyVrGjTPkqoUtCQjrhDjUOh7WoV87ee/xW04OyWqJ+xFSXaEOPNt6goT2ScK3u/5jgiu7hF6nMA3rDZm6oPcj9CcnFHvRppC2BTbgNAGzq3UdRuuDPyO1d1kJM5Y/7Sf1qhil7WnOMdQfS3rSe4XfTtZ9AWdPquasO8ozVjgZlBP75WTUTTosIbbEG7lu2hYnXWCM4CcvLA3Lcbbc76WnrOnN3rD49UD6AFkb7lhIjh9V9Dt9Tbj7M5IOuklNONETH/tyY6Ya0vMMhE1lhzx7BNMLuQNaxQtHQbqMehtPZycmhfpbqQGWgmDlZ3ITzSqeSlL9ZLHyuD9cLLrsJb2N/AveNitXRar8l1A/uwgskW8jjOh2665HlpgIi6fgoq00jf/ThWNY/9FVr0+Ktjbr7O4t4MKwBiCQVT/Ngxnc9ZnLJkeA==;0ZWX1Jvp9GHbdhsuDiXKJA=="
 ---

@@ -40,6 +40,34 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Google Could Use Your Data to Train Its AI Models"
+    excerpt: "Google has recently updated its Privacy Policy to retain anything posted publicly by users so it can train its AI models."
+    publishedDateTime: 2023-07-05T15:36:00Z
+    webUrl: "https://tech.co/news/google-could-use-your-data-train-ai"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/07/05112525/google-sign-logo-e1688570794675.jpg"
+        width: 1000
+        height: 716
+        isCached: true
+  - title: "Communities can use artificial intelligence"
+    excerpt: "Small local businesses face numerous challenges in effectively promoting, marketing,"
+    publishedDateTime: 2023-07-05T13:41:00Z
+    webUrl: "https://www.thetelegraph.com/opinion/article/communities-use-artificial-intelligence-18182537.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/56/50/21686837/4/rawImage.jpg"
+        width: 456
+        height: 640
+        isCached: true
 
 secured: "Q4XDb2+Fv0NIKQdDCNrMF0kKCNzT4ihgBw+yPp9wURzUIXqw9/Di6kVN4MnyZIVjVAZlLsG43J13A07NGVaOfw++RAhmyhci+Txa2KzL6RkSIrVr9tt2Ak5nnhYqst51H62g1lXcpvj9VMWTiW4mFXCPKmCIJX4bdQFKGnVBROdKVBYufmhXZYHQV6vjQmSg8ca0Y2KuuFCkG7ov63dpuIO4imNlYpLthcumyXzFsW+qG0Cgw+hzs+1zgUuZHDxZz3Ov4YYVQiozKPGyQjA4aiOvO9fDSnKAc+y6bxcu7Repcd5MQxZSgNpF5H/Lo5PvSfmUu/XddQD1TBASsen+0pWZz75xvLcGT+THt2a25Z5kcK7osF+6QL6iqJXYED6gT8Sh+5VRn9/mIaYLmrWK0zLWVH8RP+TqO4uODIo9gUzmsZWLaxiuzyd11jYRelK48n1BGIK/62Cd0zsKR4wVyLFiQYIRVHkGvAcmouusvLITMkNmPwJyFf6T00YMCLYbRVVJtUTNcIHhlc/pdPcuwQ==;4QBVGrey8k2en1UzX0iTlw=="
 ---

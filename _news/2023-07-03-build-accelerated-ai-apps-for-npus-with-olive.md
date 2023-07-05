@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "FAST Accelerator Program Accepting Startup Applicants with AI-Powered Solutions for 2nd Cohort"
+    excerpt: "Ten Companies Based in Africa to be Selected for Five Week Bootcamp in CaliforniaSILICON VALLEY, Calif., July 5, 2023 /PRNewswire/ -- Flapmax, a"
+    publishedDateTime: 2023-07-05T15:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fast-accelerator-program-accepting-startup-applicants-with-ai-powered-solutions-for-2nd-cohort-1032427843"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "What Are AMD’s Instinct AI Accelerators?"
     excerpt: "AMD's Instinct AI Accelerators, or AMD Instinct Processors, are high-performance, enterprise-grade hardware designed for demanding tasks."
     publishedDateTime: 2023-07-01T11:35:00Z

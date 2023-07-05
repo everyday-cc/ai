@@ -48,12 +48,7 @@ related:
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
-    quality: 23
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
-        width: 544
-        height: 362
-        isCached: true
+    quality: 3
 
 secured: "zzfCNwAl6bHSnj7mQVQTZLo80A7Blmq796vrsmsWMUs0nFlXCiMSFNDBxmNSgQArdcofdSYV6zjjbN0l7oo683HG297UgDjF0CnkBkrJlG41iAlE9v6hZ3ozmakP/kRpWUmId0Q0NDS2SuKn8zSWrCN1wQhWJ8ifenM9rCIZTYePVRbQoqhUYOTwUtwPfrkSJnWCkBf6o1RYk0HJw8ME9YJJisYZ8i9U00mCiOzHyaVkb7iwth+KSMXpWRMnsf5BmBR9Yb77lFwtISQkH/hZLtwKFG6jWVkLmJiBCdxRT2GZFNi00e8DvNpKNuWHW+ryAJBXWYfad7KHnzuw2KgexQQT3bUvOrqK65zcIS+PcJkJUAPDiP9oRxWfAj3G1tp8Aen87nVmVoBCWA/Vgz/ix4v9/2sPhyUAC4JBTpqWDnkw0q2ZIw4Ijgc4dqwj7YjR/VUlCWynPLpA8QfeTKr418ZK0EnLCjCIGWbgTLBPesJd1fd1B+bhK3wPihWFUcQBJrKn3bm3yI1f1xcRroTXUg==;u/yLVm2muGuUa43jK1ok5Q=="
 ---

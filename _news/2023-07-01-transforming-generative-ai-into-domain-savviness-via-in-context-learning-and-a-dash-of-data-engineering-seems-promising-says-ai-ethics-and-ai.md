@@ -48,6 +48,38 @@ related:
         width: 855
         height: 570
         isCached: true
+  - title: "Generative AI in Games Will Create a Copyright Crisis"
+    excerpt: "Yet games like AI Dungeon (and games people have made with ChatGPT, such as Love in the Classroom) are built on models that have scraped human creativity in order to generate their own content. Fanfic writers are finding their ideas in writing tools like Sudowrite, which uses OpenAI’s GPT-3, the precursor to GPT-4."
+    publishedDateTime: 2023-07-04T15:57:00Z
+    webUrl: "https://www.wired.com/story/video-games-ai-copyright/"
+    ampWebUrl: "https://www.wired.com/story/video-games-ai-copyright/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/video-games-ai-copyright/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/64a43fe6c3f2cf2daf39fc6a/master/pass/Generative-AI-in-Games-Is-Sure-to-Cause-a-Copyright-Crisis-Culture-GettyImages-1407088969.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Rethinking Workload Placement In The Age Of Generative AI"
+    excerpt: "How organizations build, tune and run AI means the difference between gaining a competitive edge or losing one. Here are our tips."
+    publishedDateTime: 2023-07-05T14:39:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649cb761c029eedc5ae45c84/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How AI can help process waste and increase recycling"
     excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
     publishedDateTime: 2023-07-02T23:12:00Z

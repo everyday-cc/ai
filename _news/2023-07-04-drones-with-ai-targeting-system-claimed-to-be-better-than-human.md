@@ -40,15 +40,20 @@ related:
         width: 618
         height: 367
         isCached: true
-  - title: "Can AI really destroy humanity?"
-    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity?"
-    publishedDateTime: 2023-06-30T21:20:00Z
-    webUrl: "https://japantoday.com/category/features/opinions/will-ai-really-destroy-humanity1"
+  - title: "US military calls for better weapons to fight artificial intelligence"
+    excerpt: "The fight in Ukraine has underscored just how effective smart tech accessible to anyone may be in neutralizing the elaborate tools of conventional warfare."
+    publishedDateTime: 2023-07-05T11:00:00Z
+    webUrl: "https://www.marinecorpstimes.com/news/your-marine-corps/2023/07/05/us-military-calls-for-better-weapons-to-fight-artificial-intelligence/"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
+      name: Marine Corps Times
+      domain: marinecorpstimes.com
+    quality: 39
+    images:
+      - url: "https://www.marinecorpstimes.com/resizer/DORUVNnB3xg2yXAS-UrCXchPDKI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/JHSPVZH7GRDR5DSOVWEUFHKW4M.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "bu0DPhN9h0FCQ2way1IEVC+aVljkQkyt/vp0jgGA2auVMfZJgEpsCwF2OYvlav43mVhS60pNwTzaSwv76lOvHIW4KT9etRKBOXGHQOqXIqx1jKA4K51bqGF20mmcEhnEqrOIj6xkHeUor19yECmGSWq+RwDWTUsu6jZ7dZheLq0VRyjJLP3S6DwTXiyl1eZrUwilDF3m6MtAxKaLAbt418S0KqL/2nF4xSBaKrDKYJTORHXuiG6QIHIHDOomblX8C4udzBM9T/xiBYy/fhITJfD14X0+hO0mqYIYUEtMtPTSzobIU2Cf0uETkpQycSBKTKWQ7NeH0+yH39f4sgwyLUKnnmm3+Hz2X5HMHcRmgUG+O737rCh7vCQ+yzPiFUi2OHxOYG8ahosbHgXVt/4GENe+sL4PKLtyQ5Fvqykk0BUFEKr0G7EuH97N9L0hV18yzGLm81T2iu8z0PnC3r08/eAokNVIxsoT0dI5fhrdYEIrFxnMU1k1nZZVz7SqIdoq8sfeJbf3pvVncWgDNDyJJw==;lJHId+CXgQfNUhIGy2BkiQ=="
 ---

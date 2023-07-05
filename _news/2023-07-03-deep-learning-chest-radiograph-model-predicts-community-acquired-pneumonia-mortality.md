@@ -41,6 +41,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Deep-learning model using chest radiograph predicts 30-day mortality for patients with community-acquired pneumonia"
+    excerpt: "Korea: A deep learning-based model using initial chest radiographs predicted 30-day mortality in patients with community-acquired pneumonia (CAP), improving upon the performance of an"
+    publishedDateTime: 2023-07-05T14:30:00Z
+    webUrl: "https://medicaldialogues.in/radiology/news/deep-learning-model-using-chest-radiograph-predicts-30-day-mortality-for-patients-with-community-acquired-pneumonia-113890"
+    ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/deep-learning-model-using-chest-radiograph-predicts-30-day-mortality-for-patients-with-community-acquired-pneumonia-113890"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/deep-learning-model-using-chest-radiograph-predicts-30-day-mortality-for-patients-with-community-acquired-pneumonia-113890"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 22
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2023/07/04/213436-pneumonia-1.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "Deep Learning Redefines Mortality Forecasting in Pneumonia Patients"
     excerpt: "Sophisticated deep learning-based model helps in accurately predicting 30-day mortality for patients diagnosed with community-acquired pneumonia (CAP)."
     publishedDateTime: 2023-07-01T18:55:00Z

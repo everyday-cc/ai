@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-ex
 cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
 type: article
 quality: 59
-heat: 81
+heat: 79
 published: true
 
 provider:

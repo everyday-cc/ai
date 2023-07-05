@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft’s First Generative AI Certificate Is Available for Free"
-    excerpt: "Microsoft is also running a grant competition for ideas on using AI training in community building. Learn more."
-    publishedDateTime: 2023-06-30T21:16:00Z
-    webUrl: "https://www.techrepublic.com/article/microsofts-first-generative-ai-certificate-is-available-for-free/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 86
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
-        width: 1400
-        height: 719
-        isCached: true
   - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
     excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."
     publishedDateTime: 2023-07-03T07:00:00Z
@@ -116,20 +102,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/170719BinaryBuildingGraphic.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft knows its out of touch with Gen Z. The software giant plans to lure them with AI, an internal memo shows"
-    excerpt: "Microsoft 365 has fewer Gen Z users than its competitors. This may present a risk to its workplace business, according to newly released documents."
-    publishedDateTime: 2023-06-30T19:51:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-few-gen-z-users-tries-luring-youth-with-ai-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/649f2652aa56b70019ca8d09?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
     excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"

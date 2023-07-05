@@ -89,6 +89,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Is Snowflake A Buy Following AI Deal With Nvidia?"
+    excerpt: "Snowflake stock has gained about 27% year-to-date, underperforming the Nasdaq-100, which remains up by about 37%."
+    publishedDateTime: 2023-07-05T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/07/05/is-snowflake-a-buy-following-ai-deal-with-nvidia/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "AMD is getting closer to Nvidia on AI"
     excerpt: "MosaicML has a look under the bonnet of both Artificial intelligence chips from AMD are about 80 per cent as fast as those from Nvidia but the way its chips are designed means that it is going to match its performance soon."
     publishedDateTime: 2023-07-03T09:58:00Z
@@ -102,6 +111,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/5b05043d249467edb61b8cae5ee36068_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Does Nvidia AI Stand for Artificially Inflated?"
+    excerpt: "When Nvidia (NVDA) rallied to $400, it briefly fell below that only to continue its climb. The GPU server supplier expects billions of dollars in revenue in the next quarter alone. Is AI a real long-term growth play or does AI stand for artificially"
+    publishedDateTime: 2023-07-05T13:30:00Z
+    webUrl: "https://www.baystreet.ca/stockstowatch/15544/Does-Nvidia-AI-Stand-for-Artificially-Inflated"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 39
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/7/stockstowatch6.jpg"
+        width: 1024
+        height: 400
         isCached: true
   - title: "AMD's AI Chips Could Match Nvidia's Offerings"
     excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp, with a future path to matching their performance, according a Friday report by an AI software firm."

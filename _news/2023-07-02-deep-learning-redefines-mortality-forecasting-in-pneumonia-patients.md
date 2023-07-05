@@ -49,6 +49,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Deep-learning model using chest radiograph predicts 30-day mortality for patients with community-acquired pneumonia"
+    excerpt: "Korea: A deep learning-based model using initial chest radiographs predicted 30-day mortality in patients with community-acquired pneumonia (CAP), improving upon the performance of an"
+    publishedDateTime: 2023-07-05T14:30:00Z
+    webUrl: "https://medicaldialogues.in/radiology/news/deep-learning-model-using-chest-radiograph-predicts-30-day-mortality-for-patients-with-community-acquired-pneumonia-113890"
+    ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/deep-learning-model-using-chest-radiograph-predicts-30-day-mortality-for-patients-with-community-acquired-pneumonia-113890"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/deep-learning-model-using-chest-radiograph-predicts-30-day-mortality-for-patients-with-community-acquired-pneumonia-113890"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 22
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2023/07/04/213436-pneumonia-1.jpg"
+        width: 1500
+        height: 900
+        isCached: true
 
 secured: "UCq72qHdGOKHmuoOd4LPZJyVYTC8i7wAkOc6awZoMm12a9aEQNKGdb8H7j8jNCqXXBcf0M7NXLfRU61Z3oso6IeYW9wzvMxJZa2tUqdF795mcok9fRNPRX0fCnm16IVr9z8U7hQShKaZ6ZdX9s6XXYnrkSDknBMNbHBJ2nma+YBILoRckm4dwnBIBeK2NG1ZAO8NMzc5JfA1Ww//2fNqvM3jMPYDWy9lQalCeS9mxWxVoQTVLm215HFam+/3gqAFtVBZBC0rYu3o8YsRyLUxUMiu0Z81Hsob+V1QUDq9LJiU6nXjR3zhs5ActRT6V0E37plttv12IbyhaL75CmOTwQsSHblfqsY+jJhNQtEG+d2vVUIlmoAvMOY/jG8UB0VK+Fu2VoZyZFWWu1yL6nz1KSAVT/Cyi/OJ82r195RH1nNUJKF/MTiFE1C8wMFHLF6cbBsvpKdx13/ENdi+8cP8s5aAqFdTXW0dZbB3tjU4LY4c4/Vu3hR7vU1qHznfeHS5JyKkxboPrPckZGF6Ds9P0w==;jiOJyUoCsyJ4y1f1TSTthw=="
 ---

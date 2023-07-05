@@ -28,67 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "FTC Concerned About Generative AI Monopolies"
-    excerpt: "In a blog post today, the Federal Trade Commission’s Office of Technology expressed concerns over potential anti-competitive issues in the generative AI space."
-    publishedDateTime: 2023-06-30T21:56:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Generative AI in Games Will Create a Copyright Crisis"
-    excerpt: "Yet games like AI Dungeon (and games people have made with ChatGPT, such as Love in the Classroom) are built on models that have scraped human creativity in order to generate their own content. Fanfic writers are finding their ideas in writing tools like Sudowrite, which uses OpenAI’s GPT-3, the precursor to GPT-4."
-    publishedDateTime: 2023-07-04T15:57:00Z
-    webUrl: "https://www.wired.com/story/video-games-ai-copyright/"
-    ampWebUrl: "https://www.wired.com/story/video-games-ai-copyright/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/video-games-ai-copyright/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/64a43fe6c3f2cf2daf39fc6a/master/pass/Generative-AI-in-Games-Is-Sure-to-Cause-a-Copyright-Crisis-Culture-GettyImages-1407088969.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Valve raises concerns about legality of AI in game development"
-    excerpt: "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright."
-    publishedDateTime: 2023-07-04T00:15:00Z
-    webUrl: "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/"
+  - title: "A hot generative AI summer is here. Get ready to sweat | The AI Beat"
+    excerpt: "A year ago, the phrase “generative AI” had barely pierced the jargon of my inbox. What a difference a year makes."
+    publishedDateTime: 2023-07-05T13:27:00Z
+    webUrl: "https://venturebeat.com/ai/a-hot-generative-ai-summer-is-here-get-ready-to-sweat-the-ai-beat/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/steam-library-update-2.png?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "UK universities draw up guiding principles on generative AI"
-    excerpt: "All 24 Russell Group universities have reviewed their academic conduct policies and guidance"
-    publishedDateTime: 2023-07-03T22:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/2262d025d62fc86ce6110675d04b5ea19681c7e5/0_225_6758_4055/master/6758.jpg?width=620&quality=85&auto=format&fit=max&s=959be29164eacf1dcdcc024d0b54aee6"
-        width: 620
-        height: 372
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-05T091909.154.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
 
 secured: "VyYFuwLCgrn8mycIq2yHY6fyJ6VYQBRyQKCY/iYfPmkSrI1qBnMWjCxaQVpYxBvY8aHnNQz+liGB/mRNnek7U1s6hdisjqU6919YdTFlJga33qZQh8I1IbldWbLA8ZLFKOH1IjohZ/OE4zmeY3G5hOKNEJrzokpMyled0bTeucjYFZ3dFO4MUTxkz1jXBxto0Wqa+0A5oqYUKe46iTK7355rlszr+udVQL/42P64Vt7bXq/b6scRSaPoPXjL8Lga7p5jDkdUGoDL36bg3NjB2aS4lloug1fLJROeTcpizmGsuCnOuBpvm2sK6QCffEGX3lKRqzYxOLteU5kKk53q5BLXr1JCx1uFJ/gEMoISUcNpSpb5rxIc0FAvRVJyNgvAL7KkDzuvNDwg3qW2tMPFGCbQuPt7Ty0hxgdCx7ZcseiIKCF1bAGpHs3cph7uJuYT7OY5Zr9oy04+tGZvCA4re0L9QMjTx1s/k1pGNqlvmYh3oG03C/riLV0Z637YOT26S2adZTkr4b9pSw375c6h1A==;JdTGzpdG+PHpPlgR+OxTEg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-u
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Could Use Your Data to Train Its AI Models"
+    excerpt: "Google has recently updated its Privacy Policy to retain anything posted publicly by users so it can train its AI models."
+    publishedDateTime: 2023-07-05T15:36:00Z
+    webUrl: "https://tech.co/news/google-could-use-your-data-train-ai"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/07/05112525/google-sign-logo-e1688570794675.jpg"
+        width: 1000
+        height: 716
+        isCached: true
   - title: "Valve Does Not Want To Discourage The Use Of AI In Games"
     excerpt: "Banning AI art never really sounded like a Valve move in the first place. The libertarian company has long sought to place as few inhibitions on what can be sold on Steam as is possible, while steering wide of ever engaging with any political matter."
     publishedDateTime: 2023-07-04T14:10:00Z
@@ -43,6 +57,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8904cf5da80123f20e10106002132185.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Communities can use artificial intelligence"
+    excerpt: "Small local businesses face numerous challenges in effectively promoting, marketing,"
+    publishedDateTime: 2023-07-05T13:41:00Z
+    webUrl: "https://www.thetelegraph.com/opinion/article/communities-use-artificial-intelligence-18182537.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/56/50/21686837/4/rawImage.jpg"
+        width: 456
+        height: 640
         isCached: true
 
 secured: "c02F0gH+DWjRgqLFc21JVZ39BRczVdafCL9cPUGbSpuNK6rKg57//dvSfeO6cy2W6SG0ESAsclRZGA9ZzTuubaHDXo4UzwGL1+wcAaK2B5r3fXV422Jq2z2zbxIdA5UeG4TKf3SbX/FrS2HYmptj4dYYHZMR9U7hlcf/7bjGo+yTxD0ovLnm9wMg4HHiqBDNAsOxdCIl6MP5oGqP9gi881/NG6c1E9KWd4rLincRghto0H6tKb0jkVAyNhOtjgZm6NAlDSun3+QB0+Zs2M46wlgXUJcU2u1pvHpY0BIpzdxZEh4nwmAJlcUZZWT5SSFhgFNy4hfQ2NaE89w3tslvydIwB4KqXiTcijQZPB6lxxXMip469zpvl4BHhEyL0YH8v7eK58UdgwvNNR8ypnWo+5/0hkixer3jlZEHM4LHNrpNgtnqTzDc+hKMcX40AhyrEcNs+KYN3RrwORwFA1bNXpWc8g6If7BsiLO8lxo1RYVxtqOUU2+LYz+ODy88rm8YuWTyqhATL/w7X0c+biRvig==;JJnpU65YMQWqpFmScMA4Sg=="

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "US military calls for better weapons to fight artificial intelligence"
+    excerpt: "The fight in Ukraine has underscored just how effective smart tech accessible to anyone may be in neutralizing the elaborate tools of conventional warfare."
+    publishedDateTime: 2023-07-05T11:00:00Z
+    webUrl: "https://www.marinecorpstimes.com/news/your-marine-corps/2023/07/05/us-military-calls-for-better-weapons-to-fight-artificial-intelligence/"
+    type: article
+    provider:
+      name: Marine Corps Times
+      domain: marinecorpstimes.com
+    quality: 39
+    images:
+      - url: "https://www.marinecorpstimes.com/resizer/DORUVNnB3xg2yXAS-UrCXchPDKI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/JHSPVZH7GRDR5DSOVWEUFHKW4M.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Drones with AI targeting system claimed to be 'better than human'"
     excerpt: "An artificial intelligence targeting system is better than humans at identifying valid targets, claim its makers, though the full results are classified"
     publishedDateTime: 2023-07-04T11:22:00Z
@@ -41,15 +55,6 @@ related:
         width: 1350
         height: 899
         isCached: true
-  - title: "Can AI really destroy humanity?"
-    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity?"
-    publishedDateTime: 2023-06-30T21:20:00Z
-    webUrl: "https://japantoday.com/category/features/opinions/will-ai-really-destroy-humanity1"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
 
 secured: "F4GBUzFANGe/dbbq6LxuiJbBjjAkSwJDfghSe4HRJHJiJ8jLVYBYMN60k+MRXQBrToXGiInbFU3qBF8oQTQvFDMmze8lOtbPfAA3difccJkeqipxU8W4aqmumSGukJiedxZRX5FRK5sfTbrXKOW2JngFshEUJSQ+qGUu9izMpGYQCDVUOgvGLCVUe/TUlJr5/xrbKFa5xfm71/ymkStmN9EEMv6Ev1Xk0fbZkBJVzQGGe9kYVJs+jcca+BsclhrvWD4D9Mq2b2Mq189uXTrufWpPNZn1iEs5M4BbSgYUhDLGab9PEOglMXwlmrdnwKyJ0qQj79ptCPyeNCJbm6DRGRXsHb2e0BmO2hJB7s2QEkH1pQ+S3+dxdWkEyfdKIUYv6S1Thun7X8Sc4DDpzNhO7NgAImNP9L4w6RnZXXTb0WZis0GUknBsoOQfyHlb7u0B1kKApI2wbgYsC2AXQT9pKvmmAn9HQuPXt6ZNJGM6wgDXS8fcsxnGD9H101WA2P6w8xBg15DMoKvz37HxSwX6Ag==;LMyqfSAkkQvBQNKiZiUGOQ=="
 ---

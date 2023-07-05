@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-03T03:14:00Z
 originalUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
 webUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
-    width: 544
-    height: 362
-    isCached: true
 
 related:
   - title: "DLRob Groundbreaking AI Robot Controller Revolutionizes Autonomous Packing and Stacking with Cutting-Edge Self-Training Technology"
@@ -56,6 +50,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IulySCjGriYjy4m9f7rg/ReriJcVfu9Lun5X/wVmZel2pt54MpTg9v0JDs6joopTH4bN88Z8NNjhnuQz0JgE5Njyo8aVjIQR/Tw80JsxFnnRSIfC67/VRGchms+eSDnEdsypDpJPMSvEkIixJvdZSJihotC7Xo6fX89J5E1NB7LOJMy+BVb/PV1OZYoNOD/xzsLzjklMIYRuozZTLqBpQxFw7Lsh6giLyaP7kSmM69toVSkqhoo3Ed5gfKsbtsRMFIBs4jBlLs1PNV1zT/X3LzQC0oCpMHIBmviKEFNCxgZgE7AUhU9bL+oBxUMVitu9loMqDrCXZdmLMSHe9drS8Bm4X1YMuDcw36KEV+Tco2g=;X3QUrTD1mn1ScpnXDQYVpg=="
+secured: "0ull2BlTzlFhh/+IjFvrMx3vGaujW7mpuZFC5+V/tZbXT+SP28dBFdIoOKUk3q+ziRxglW4DXC73bT8J2/aWg1jny7/WMUlKt8uqVwqUmoqb41ZYITxIb/Wuxs1zMTNCKpJZYfipHHTNuxMLH7OBcjuLO5RcqnGPdUuVFZ/+q4zqALLFyQN21GZxuwZDq1fCPIVVXJpvIkcD5ozswZle55BrhYeLv8ZlLkyCVuRhPQ1+gYrU5I3yvuZiq2T/X5qOv0dnFerRpAPuk1XkefRhqqjQmGNbRxinA9ZKZm3dti4dh+G4tamzEaCqzoIuT4IDdrQwUogzJ+oe15QuYBfwzCgwpr7TKHN8HqZoOqhMYIPA/yvEA7gZBvgksqf1Qak4w3yOlLWu0XY86vMujKAwt43muaxGRjSrdFQUo3ubHBtnn7ezrB85wjlNGGyj1xg9MPI3xQeGZk2CmZuZYAPWXLjVv6PT7gXLVBvpJwFxw56nlsxL32sMdhjxwAluFAEvuBuUU4Xn6tSmr6Ag10vEyw==;jgZUauhoEUPMBhJalRW4Iw=="
 ---
 

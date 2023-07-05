@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Everyday Use of AI and ChatGPT in Oncology Practice"
+    excerpt: "Bonilla, MD, MSEd, discussed the growing use of artificial intelligence (AI) in oncology practices. Loaiza-Bonilla is a medical oncologist and cofounder of Massive Bio, a company that uses AI to connect oncologists and patients with cancer to clinical trials of novel treatments."
+    publishedDateTime: 2023-07-05T13:46:00Z
+    webUrl: "https://www.targetedonc.com/view/everyday-use-of-ai-and-chatgpt-in-oncology-practice"
+    type: article
+    provider:
+      name: Targeted Oncology
+      domain: targetedonc.com
+    quality: 19
   - title: "Despite productivity crisis, UK businesses are slow to adopt AI: Research"
     excerpt: "Despite the widespread proliferation of AI capabilities to help drive productivity, UK businesses continue to lag behind their global counterparts when it comes to adoption rates."
     publishedDateTime: 2023-07-03T09:07:00Z

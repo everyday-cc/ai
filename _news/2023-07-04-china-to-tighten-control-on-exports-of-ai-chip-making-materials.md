@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-o
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp"
 type: article
 quality: 74
-heat: 114
+heat: 117
 published: true
 
 provider:

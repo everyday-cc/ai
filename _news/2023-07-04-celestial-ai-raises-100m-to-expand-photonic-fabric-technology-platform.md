@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/celestial-ai-raises-100m-to-expand-phot
 webUrl: "https://venturebeat.com/ai/celestial-ai-raises-100m-to-expand-photonic-fabric-technology-platform/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: VentureBeat
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Chip connection technology maker Celestial AI raised a $100M Series B round"
-    excerpt: "Celestial AI Inc., a developer of chip connection technology, has raised $100 million in new capital. The Santa Clara startup has developed what it calls a Phonic Fabric system, which uses beams of light instead of electrons to transmit data between chips and between chips and memory modules."
-    publishedDateTime: 2023-06-30T19:28:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/06/30/celestial-ai-raises-100m-series-b.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 32
 
 secured: "Uh6cDi813QAyrbnIv8Zt5tuxCfVqF+QQvEn3LgHfNmMH9mZRQ61glOF81WK7Ib0NHg1OAd5u+bjCA7dHNWPOSaWu9uLhNACaYMDLa60teEhDsZjWgcODi+UusWbDCCcXGgsyf/T5mPIXwAyDUqOTYhC3BdJKr8oXpJOgFo4qLmsall8fZWKkw0B96ALRbZ24KGLZL2KCwrtxGCJmO73aWTef8FhJYWdqmSQ7YuVAYp2lqrHrsRs8lIPoX+h5kGQ9FMGTTh6gEUawnjj22xv5lX1OKUO0Am1SyG0d3nY5Kaq5tf1o5VITU64N9UlheLaj22Hoh1eCaZQp7zrl+Pve2prU1ifaYpzbhq542cLZo11AV88cY16PpHxRZ/wBARmJITO78Sz5mIug91MCXoFsZlzJOydeQrpwNR++4F0ednI8DOEXDE9z6L4CF7rtE7dvP30QmE5XcH3wDVoWtGqlaxCuWs8WMwY79d+xa1VMDigO1YYzRhpKV5nvdI0sX8aWUq7TmzwDkfGCVTsBTz0MqA==;hPYHTYmYKrGgn4S8gOWyXw=="
 ---

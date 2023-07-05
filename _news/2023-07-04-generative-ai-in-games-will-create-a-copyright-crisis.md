@@ -30,65 +30,69 @@ images:
     isCached: true
 
 related:
-  - title: "FTC Concerned About Generative AI Monopolies"
-    excerpt: "In a blog post today, the Federal Trade Commission’s Office of Technology expressed concerns over potential anti-competitive issues in the generative AI space."
-    publishedDateTime: 2023-06-30T21:56:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/"
+  - title: "How People And Image-Generating AI Can Work Together In Business"
+    excerpt: "There are a few tips and strategies companies can use to work with AI tools and make the most of their creative teams."
+    publishedDateTime: 2023-07-03T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&width=1200"
+        width: 855
+        height: 570
         isCached: true
-  - title: "Valve raises concerns about legality of AI in game development"
-    excerpt: "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright."
-    publishedDateTime: 2023-07-04T00:15:00Z
-    webUrl: "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/"
+  - title: "Rethinking Workload Placement In The Age Of Generative AI"
+    excerpt: "How organizations build, tune and run AI means the difference between gaining a competitive edge or losing one. Here are our tips."
+    publishedDateTime: 2023-07-05T14:39:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/steam-library-update-2.png?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
-    excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."
-    publishedDateTime: 2023-07-01T00:07:00Z
-    webUrl: "https://venturebeat.com/ai/perception-point-launches-ai-model-to-combat-generative-ai-based-bec-attacks/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Default_A_menacing_robot_hacker_stares_into_a_screen_its_green_0_2e981a1e-b44a-4292-97e9-1e9ddfef4817_1.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649cb761c029eedc5ae45c84/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 631
+        height: 800
         isCached: true
-  - title: "UK universities draw up guiding principles on generative AI"
-    excerpt: "All 24 Russell Group universities have reviewed their academic conduct policies and guidance"
-    publishedDateTime: 2023-07-03T22:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
+  - title: "Transforming Generative AI Into Domain-Savviness Via In-Context Learning And A Dash Of Data Engineering Seems Promising, Says AI Ethics And AI Law"
+    excerpt: "Latest efforts to imbue generative AI with domain expertise makes use of data engineering and in-context model learning. This close look explores how this works."
+    publishedDateTime: 2023-07-01T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3796,2530,x671,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI can help process waste and increase recycling"
+    excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
+    publishedDateTime: 2023-07-02T23:12:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-66042169"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/2262d025d62fc86ce6110675d04b5ea19681c7e5/0_225_6758_4055/master/6758.jpg?width=620&quality=85&auto=format&fit=max&s=959be29164eacf1dcdcc024d0b54aee6"
-        width: 620
-        height: 372
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4143/production/_130270761_recycling-gettyimages-150517191.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "nH6HlchnaTB2itAD129uc7FJlTfkV6dP9IzN569sctbAH2tOdnSuro7MWM1Xedky0YMe25jTCqDogOHfxBBTOJoDhmc1LHD5u4yPKFz5EfWmSADCejJEC3qCcElp35//KxX/jaj7XG5C9zrVsn5rmUgXcuVD2mVoN5E8ODzMi2/gHwuajvlBvryu3BWO5TSUdOUVfbfFlP8U0ISx7DQjQ/pDYHvfftfFI22hqj1hK2TjEjZ60cnpJh0RJtiauoIbXEVCIj6oVNs0LBblhtvOod6p2UiBz+LpgY0nKxs6rpPepyjBIlTqL5Beme4dACSO7egm3xsVmVbv36UM7ASsrb6kgyJIdCEqjLQC5i6ZEzInh+5MWITpEmd8hggk+fVOMiO8NKwDF37K1n989AvFX00oFaFlc3+to3ns0ENnSegZYLs0qQReAsh4ePK3+2qB+eTG7eRwqmd78ZF+haS80/dM9oTq5QxYhFSrmMDmCvStAMGprl9K5k452imtma0Oz84oJTZSSA2i27a40wLyjA==;QTfJgzyO9h0Bh/0I7TzJPw=="

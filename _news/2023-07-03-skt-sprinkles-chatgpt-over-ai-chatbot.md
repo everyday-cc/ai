@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "A couple in Colorado had their wedding officiated by ChatGPT — only after the AI chatbot initially turned down the honor"
+    excerpt: "The bride's father told CBS Colorado that ChatGPT initially declined the request, saying, \"I can't do this, I don't have eyes, I don't have a body.\""
+    publishedDateTime: 2023-07-05T15:33:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-officiated-wedding-colorado-couple-after-initially-refusing-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-officiated-wedding-colorado-couple-after-initially-refusing-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-officiated-wedding-colorado-couple-after-initially-refusing-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://i.insider.com/64a306a86075be0019c288c1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "ChatGPT Successors: Humanoid Robots, AI lawyers, AI-driven science"
     excerpt: "There are several AI technologies waiting in the wings of next-level ChatGPT, including humanoid robots, AI lawyers, and AI-driven science."
     publishedDateTime: 2023-07-04T07:57:00Z
@@ -143,19 +159,28 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
-    excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
-    publishedDateTime: 2023-06-30T21:02:00Z
-    webUrl: "https://bgr.com/tech/heres-why-google-thinks-its-gemini-ai-will-surpass-chatgpt/"
+  - title: "ChatGPT: Elevating Natural Language Processing With AI"
+    excerpt: "Introduction With the advent of artificial intelligence (AI), several groundbreaking advancements have been made, and OpenAI’s ChatGPT stands testament to this fact. This cutting-edge language model is upending the field of natural language processing (NLP) with its superior text-generation capabilities."
+    publishedDateTime: 2023-07-05T12:29:00Z
+    webUrl: "https://techbullion.com/chatgpt-elevating-natural-language-processing-with-ai/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: Impacts
+      domain: techbullion.com
+    quality: 34
+  - title: "LARGEST CHATGPT PLUGIN STORE DEVELOPER, MIXERBOX, TRANSFORMS THE FUTURE OF NAVIGATION WITH WORLD'S FIRST AI CHATBOT FOR MAPS"
+    excerpt: "Silicon Valley-based AI startup MixerBox, the largest developer in the ChatGPT Plugin Store, has released a Beta version of the company's latest plugin— MixerBox ChatMap —with built-in Google Maps API integration to transform navigation for the age of AI."
+    publishedDateTime: 2023-07-05T15:59:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/05/9843542.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Gemini.jpg?quality=82&strip=all"
-        width: 1280
-        height: 720
+      - url: "https://mma.prnewswire.com/media/2146543/MixerBox_ChatGPT_Plugin_Store.jpg"
+        width: 400
+        height: 228
         isCached: true
 
 secured: "H3oVismUpAtai/31I0FwdTWihvO57NJZc5kKN5dGZkz7EBivjcl/wLSf6h1Z3/kW9EnKUvTiIdQx7+Hi4T5MUkk5nBXU2OEbkBJ4Q1xLi+Bn3DeqcO/ZlYQXVaOoW1xURZuwEVADep8+RwdjoZmo5JzEt2TdJEv51LAobiA3MA/n7VnjS71W4lTrJvmXajPj5afcrAnb+5T/0BT9/eUKXwxi8r2vGgZCJeJDl8cTS742xi+NcFoGM4cDnuflQWjpSwa9ei8XMIiV+5eDBj67Mt9fCG1OdKgbYnVYRPN91uYLk4uGBbMQpszgGGDthqyzzFN5zd4BjfeYunjdg3CJVVPU7Pt5eAOxaygjZZP/hMI=;ri/KVAG7bZYFy1djQjgqrQ=="

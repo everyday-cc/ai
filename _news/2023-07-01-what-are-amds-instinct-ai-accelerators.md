@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "FAST Accelerator Program Accepting Startup Applicants with AI-Powered Solutions for 2nd Cohort"
+    excerpt: "Ten Companies Based in Africa to be Selected for Five Week Bootcamp in CaliforniaSILICON VALLEY, Calif., July 5, 2023 /PRNewswire/ -- Flapmax, a"
+    publishedDateTime: 2023-07-05T15:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fast-accelerator-program-accepting-startup-applicants-with-ai-powered-solutions-for-2nd-cohort-1032427843"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
 
 secured: "Z21QczpgkoJn92JoXJehml205LtPptejt5971LppEmrI4AvwxOVPnk6aYBVg20aAxQ1lzIXJzLwuT4EnRzqtaHc3TBsL8wOIytfcPum34eIwQlE1H9m+AxsoGKTJr8JafuvvgWofEAea3yVS6QlRGQJeNGnCko3z86+ZTS8hIbeiZebafGO5SImk+NgJPSjQqMhbn7udI838CWJM3MeuqrzXr6s/djZWtwnmZ6GcbgACoIM60melPBTHOrVzfXHwo/i4mY68IgrD1cwUN1hpQ8eoEud/GAlmoWSH8GdX9hJPNrwM9DLbvTQVFa+mUUTgJmX6uPiCHJx9LHmWRCYjePu6rSXv1sWxvIzMxWjNPsoJ+ngSO8FsCvqwoxKOz1ek8DudqDlwENqO+zqZ8WQx2cqdDKA6LDoedeMrK4DpO3AFBgPdIm5yPbRFcMFQZCYcs/+CEd48JoL+yPqobXt+CCIYpc0u+DPXf2lPMNSfPaQgns627OWBcsXMYZkRnvTOWHseBE1K3GzQhIdLp2mBzQ==;huUwktqueurXkyyIAYZjgQ=="
 ---

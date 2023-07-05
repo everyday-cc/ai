@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change
 cdnAmpWebUrl: "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: wbng
@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "What would Einstein have said about the impact of generative AI on higher education?"
-    excerpt: "The debate over AI taking over our jobs has intensified in recent years. There was much discussion after the 2011 Jeopardy quiz show during which IBM’s Watson outsmarted two human champions, and the 2016 Go match in which Google’s AlphaGo beat Go ..."
-    publishedDateTime: 2023-06-30T22:18:00Z
-    webUrl: "https://www.scmp.com/comment/opinion/article/3225987/what-would-einstein-have-said-about-impact-generative-ai-higher-education?module=live&pgtype=homepage"
+  - title: "AI Could Change How Blind People See the World"
+    excerpt: "Assistive technology services are integrating OpenAI's GPT-4, using artificial intelligence to help describe objects and people."
+    publishedDateTime: 2023-07-05T11:00:00Z
+    webUrl: "https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 79
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/fb5e7661-4967-4384-aec2-0bbdfb230ba9_f8895cc2.jpg?itok=ZIS8I_lg&v=1688042148"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Wired
+      domain: wired.com
+    quality: 49
 
 secured: "rU8qmQS3GNbgljgi0lHF0Ar0qWq95cbZkNd+qIvgNwHmg9Jigy3yeb0nm8lUlwTt3MMZPf5Tr+vcg6P+LQkonxqSoXJh3cajeWEXhBiYcTysy1Wq5hIWwOPtIBXJzpr9wUZEeVySz89n3RIWlblCGAGwtgy8FuJaigtZCoCkq58tFKrZq1bqF8T7ZldL/uJLnNFKKtsOyMWKhBLJobzv8GcLE/kxpogksM9u2lWjzJPKLNmBLZ7HA7892cBJ2dg/z7f+hOY060KIEt3kPiKux82zF3GcsEzy2JepLjqnB3ULLxfrrbO0AiyNpuZLGfbgkjoQnnB1/iub52rL5Fav7pmSAqzzvCD/kFrxDUnYzOAIGbgG73Qjt1yquCM7XUSwkgZ7dBH9rG+yOnHihjYxlNyPk23N1LcjAqo3S0S/bPn5kBoEbU6rE5orG+KuB630RvJTeOLns4P9j9Blkp8Ju+j2W4q3emeUGN39C85u6ySsfMnElLX6a0RyQWADnFJywccMVayxBSauDLwyeF5SNg==;rhQGPv9pmJUfydMkO1ySwQ=="
 ---
