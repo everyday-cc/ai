@@ -20,22 +20,6 @@ topics:
   - Google AI
 
 related:
-  - title: "Inflection AI collects about $1.3 billion during a fundraising round"
-    excerpt: "Inflection AI, a Palo Alto-based artificial intelligence platform, announced that it has completed its fundraising and it amounts to about $1.3 billion. Supposedly this was led by Microsoft, Reid Hoffman,"
-    publishedDateTime: 2023-06-30T07:26:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Image-Credit-Freepik223.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Inflection AI Completes $1.3B Funding Round, Aims to Develop One of World’s Largest AI Models"
     excerpt: "Inflection AI may have just completed a $1.3 billion funding round, according to a Thursday announcement by the company."
     publishedDateTime: 2023-06-30T09:35:00Z

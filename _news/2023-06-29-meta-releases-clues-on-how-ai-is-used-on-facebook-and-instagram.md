@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Meta releases clues on how AI is used on Facebook and Instagram"
-excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on"
-publishedDateTime: 2023-06-29T09:01:00Z
-originalUrl: "https://www.wsiltv.com/news/consumer/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/article_b7795e7c-51e2-532b-ae7a-0c1e8871edbe.html"
-webUrl: "https://www.wsiltv.com/news/consumer/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/article_b7795e7c-51e2-532b-ae7a-0c1e8871edbe.html"
+excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on its apps. The social media giant introduced nearly two dozen explainers focused on various features of its platforms,"
+publishedDateTime: 2023-06-29T10:01:00Z
+originalUrl: "https://kesq.com/news/2023/06/29/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram-2/"
+webUrl: "https://kesq.com/news/2023/06/29/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram-2/"
 type: article
 
 provider:
-  name: WSIL-TV
-  domain: wsiltv.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/1/ff/1fff1fee-3a93-53e1-b28c-a7fba804b3e9/649dad38086b2.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://kesq.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNjA0NzgzNjlhYjk5NWY4NmUzYjg2OTdjNGE0OGI3ZjI-L19wYWdlcy9oXzg5M2JkOTcxNGZmZTEwNDViZmMxNDc2MDMxMDE5Y2Zl-300-860x484.jpg"
+    width: 860
+    height: 484
     isCached: true
 
-secured: "9U3vXaiV1pREC9ABtTYVPpACailtmmF1+5XwnwqjkUnpaS/5oxutOCHHR8gOcaUvnKxiS6f4epZh7ZJ8nt0U6B1OaU7q+VjQERgi3C2vXibrTDSKCPMaVN3IJdPVy5Mpa5NugApjo0KrGKlnS6A/xTVUbip85k85+UV0ZjFUwJLS1VfF6HzXEexQBjrvd52qn72lbettVxI81fcxB6ugqkPFg3qGWA3D2ROutQ/SVOG/TsgftyQLQAVXptgWarAXkb+6HatfWmNdgo6344oO3Tc+kObXbC5zQZq6QI3YLlVzJg15HqBmQeE9kyIbKhZrocUBRPQxlDdvWjxlswZ4yISkBa+XqEsbXU9Dq/UaokY=;iyz06DprIkvLJaThFwpo+A=="
+secured: "0BJKsgKev4Asn9EW/hvnd60SK30ymtYVMaIneI/nJvKUnPelcOr6Poi74Hb6inSQl3j1M4egjavipigGPehzbwEW3/4uw+M4OU5e+HtwgwVccleIgGlGEk6yS+JG5XQzK5WdowBxu7h8akNtQZ5Ta8eKj1BhjBTwVlgczHgmIW19z47YJI8tjEOeX7F2AHswBjZKi3ir+uVjbaVftM63ljRT4LnqKN4ojvfS96una4yuprUij5hfN1FCYp5G7CxSds13H9ous3Z2uJwudJWFDoUSmjRuQy6NLR7lGu5IBrLuWgfJkMSY2hDoyxzPeqdNWVUhV8AYdF+unI+4QEi+DKgzskrxEjfltusQEDc9h9E=;jpjn2FFGAKXI2DKRK9fu5w=="
 ---
 

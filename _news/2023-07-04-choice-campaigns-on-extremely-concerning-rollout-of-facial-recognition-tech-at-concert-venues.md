@@ -9,8 +9,8 @@ ampWebUrl: "https://themusicnetwork.com/choice-campaign-facial-recognition-techn
 cdnAmpWebUrl: "https://themusicnetwork-com.cdn.ampproject.org/c/s/themusicnetwork.com/choice-campaign-facial-recognition-technology-concert-venues/amp/"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: The Music Network
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "‘Concerning’ rise of facial recognition cameras in major Australian stadiums"
+    excerpt: "Major sporting and concert venues are using facial recognition technology often without patrons knowledge or consent, a disturbing investigation has found."
+    publishedDateTime: 2023-07-05T00:46:00Z
+    webUrl: "https://www.news.com.au/technology/online/security/concerning-rise-of-facial-recognition-cameras-in-major-australian-stadiums/news-story/477a34fa6fe1270c726398d62dc51ad7"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 16
 
 secured: "s/kkyfPxdnMOg144XzlQbC42n2OtDf4giqDiVr8pPbyxCmJv2Llgb6OOngk64NnGT7P5Hp6AbHfZrdMA5lnd/onnCP/UdHa+fJVypsznwZVucQRokCkigr/TG+2qK5hipyekT8qH0B0X45HAciu5m6RGejM100R7NTRH+1T/j0MNrjeTKnekQ2dBDcl9XISWFbGhs4+oZVde0kEEJfviULK9vaO3hLzmUvivrDPZB1vaXZ0Kv5R7UgozU5Htycpp7bViFKU/bOw5VSYRDbGg8p3mb1N/jRY/pQXLG5YmEt8EcOb8xXlKAO91p1Ao2W7k+6uTlNO8UE4TyjhpltGkZxpJpSzX0S6AWCJqdajRbAqF6sndwbpFOACgqhJ3hjUKONpykJX9LkMUXjqIeMZz3pWekjZnizlXRjNPqoAerBQ2CRF5A7sfuxgEc98F0z5c8x1a9duGRNF8csqI05+JISDEQqSIkZoQc2xl6w35hEVh9HdOLtQUTsjIESzpF6VQhGHsTczQz545gCV98o6hpQ==;WkgYpLmmZgFz/sdYTB+wgQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-04T22:27:00Z
 originalUrl: "https://www.kompas.id/baca/english/2023/07/04/en-kecerdasan-buatan-dan-kecemasan-dehumanisas"
 webUrl: "https://www.kompas.id/baca/english/2023/07/04/en-kecerdasan-buatan-dan-kecemasan-dehumanisas"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://dmm0a91a1r04e.cloudfront.net/A65YmETo-1yB04_qb8d7KTkygTE=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F04%2Fb74a31ce-6223-4430-8a5b-df32f7e168e5_jpg.jpg"
@@ -40,6 +41,6 @@ related:
         height: 689
         isCached: true
 
-secured: "rZLuGvF4mKeXTMQpMyPbLCpzNBS1eOJbPbzjA2rr+K5hHdhkxth1rawrOuesOiT1IPR8pAt0+H6jFMe5nes0SdU4IroUB4UxBSMQmxbccb9lABk7vFMTIL6oGu3tS4P0APYz6uZAVpLzGbUCOVZHJQmgJ3OiR/88U6cz05albZNBSCvrX+Vt6RNv4YkV2xox5Jges9yEm+phEJYACXmbAchPWGKS6y4KAUG+X17JHA54Ixu0DH/mttYHCwxWChpIcHZ+46EShtuVgpTY1cRFOR8CVSx1O05zBrSL+VBcFhh0NJMQjB/4DnVDATh5qEO9FmE16dgTUorIM1B1fGfXvK+OyWlQMyfIDuU1d7JcJQ4=;PFejejMlMy8WQ9wZemnYdw=="
+secured: "pCBFKQtx2hlORkxdzjJ17+wsp8A+DKvGNucvaQJtYG5QPKp4C/sSgYLAuUZs/uen/TeaJEomfwobn4NgneJaDN4dyHfqlxWFSMHy7PFiodIIUkAUQ7Zdl5L3KHHexooEBwHbt/hCufM8SqnBgQIKsY3YmUgknmV8IktM9oJbduV/yRkur58riBoqI9GvSxdzKyCXC0+bqxL5QlRKqzGbPaWJF3x03G83iEqnp5xCv0/QeATOmIHYmzF0BEHEMoRgtoJRtXXJ1dhyTVaWHuw7YH6vRhCQQQLqf5kiBlScEq/gh7E4bLAdG5kGgP33k1XOOr9Gqw7aJwe0Wtjika986JphET9LnTEtA2FR8oFL9dH5HEcY2FUNPSAmOawfbBolg0xCyAe6f6YFxq+IRLhQG5QchNacYlIaU5iASN/IzxFa8Xs4vXUuw808/lWlDApfTDUEwPpLQXySGQXkbmuAYIPB+5MZPptIpTd//+fX/z9s7QTX3Bwo+IzuVe15EcLDhx/485okRBq0zb+coSDzog==;nKwxjE1zJ/PMm7RTx7k+MA=="
 ---
 

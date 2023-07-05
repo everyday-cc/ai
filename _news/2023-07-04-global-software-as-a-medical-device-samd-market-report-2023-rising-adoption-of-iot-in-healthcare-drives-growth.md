@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Fintech Market Research 2023: A Bundled Research Offering of 5 Reports"
+    excerpt: "The \"Fintech Market Research Subscription 2023: Market Forecasts, Market Sectors, Market Driving Forces, Regional Analysis, and Leading Companies Analysis\" report from Wintergreen Research, Inc has been added to ResearchAndMarkets."
+    publishedDateTime: 2023-07-03T10:08:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/03/9842690.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
   - title: "Global Healthcare Predictive Analytics Market Report 2023: Sector is Expected to Reach $30.71 Billion by 2028 at a CAGR of 22.23%"
     excerpt: "The global healthcare predictive analytics market is expected to reach $30.71 billion by 2028 from $9.21 billion by 2022 grow at a CAGR of 22.23% from 2022-2028. Market Trends and"
     publishedDateTime: 2023-07-04T16:28:00Z

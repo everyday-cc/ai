@@ -7,8 +7,8 @@ originalUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changin
 webUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changing-ai-powered-solution-personal-finance"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: Asia One
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Top Ten Transferable Skills Into Fintech As Of 2023"
-    excerpt: "In an industry in constant change, individuals whose skills can constantly transfer to new demands will be increasingly important."
-    publishedDateTime: 2023-06-30T08:49:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649e96a331545e6dc10b96c9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 758
-        isCached: true
-  - title: "Fintech Firm Brex Taps Jason Mok to Support Next Generation of Founders"
-    excerpt: "Brex recently announced that Jason Mok has joined Brex to support the firm’s commitment to serving startups and their founders."
-    publishedDateTime: 2023-07-01T10:24:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/209498-fintech-firm-brex-taps-jason-mok-to-support-next-generation-of-founders/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209498-fintech-firm-brex-taps-jason-mok-to-support-next-generation-of-founders/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209498-fintech-firm-brex-taps-jason-mok-to-support-next-generation-of-founders/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Aston-Martin-Fintech-scaled-1024x785.jpg"
-        width: 1024
-        height: 785
-        isCached: true
   - title: "Company-X boosts NZ fintech start-up Tania.AI"
     excerpt: "Waikato-based software specialist Company-X has boosted financial technology start-up Tania.AI’s mobile and web apps. Due to a growing number of users, the volume of data being imported nightly from Xero was creating a challenge of triggering manual updates."
     publishedDateTime: 2023-07-04T00:03:00Z
@@ -85,6 +53,43 @@ related:
         width: 770
         height: 510
         isCached: true
+  - title: "F|T: The FinTech Times – Stripe & Robinhood make layoffs, Financeit acquires competitor"
+    excerpt: "Toronto-based Financeit has made another step towards becoming the leading home-improvement financing provider in Canada by acquiring its biggest competitor, Simply Group Financial, for up to an estimated $225 million."
+    publishedDateTime: 2023-07-04T09:59:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-stripe-robinhood-make-layoffs-financeit-acquires-competitor/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 31
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/11/mariia-shalabaieva-R-kigbubXbQ-unsplash-2.jpg"
+        width: 1150
+        height: 700
+        isCached: true
+  - title: "How fintech revolutionised the broking industry"
+    excerpt: "Digital stock broking platforms are leveraging algorithms to deliver relevant content with targeted marketing to reach out to younger audiences and get them started to invest in the market."
+    publishedDateTime: 2023-07-03T03:30:00Z
+    webUrl: "https://yourstory.com/2023/07/how-fintech-revolutionised-the-broking-industry"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 24
+    images:
+      - url: "https://images.yourstory.com/cs/1/4e3ddc80d8fb11eb80d70bdc06fbfe07/HowtoOpenDematAccountwithKotakSecurities-TradeFREEPlan-1624986035827.jpg?fm=png&auto=format"
+        width: 600
+        height: 380
+        isCached: true
+  - title: "Trusting Social brings AI-powered agents to enterprises"
+    excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
+    publishedDateTime: 2023-06-30T11:59:00Z
+    webUrl: "https://vir.com.vn/trusting-social-brings-ai-powered-agents-to-enterprises-103145.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 19
   - title: "Latest Trends In Fintech - A Comprehensive Analysis"
     excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
     publishedDateTime: 2023-07-04T18:11:00Z
@@ -94,15 +99,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
-  - title: "Global Fintech Market Research 2023: A Bundled Research Offering of 5 Reports"
-    excerpt: "The \"Fintech Market Research Subscription 2023: Market Forecasts, Market Sectors, Market Driving Forces, Regional Analysis, and Leading Companies Analysis\" report from Wintergreen Research, Inc has been added to ResearchAndMarkets."
-    publishedDateTime: 2023-07-03T10:08:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/03/9842690.htm"
+  - title: "Fintech Ecosystem Development Corp. (Nasdaq: Fexd) Advancing The Use Of Ai To Power Financial Solutions"
+    excerpt: "FEXD acknowledges the recent big data boom that has introduced tech-driven solutions in the current financial services space <li /> AI,"
+    publishedDateTime: 2023-07-03T19:51:00Z
+    webUrl: "https://menafn.com/1106548521/Fintech-Ecosystem-Development-Corp-Nasdaq-Fexd-Advancing-The-Use-Of-Ai-To-Power-Financial-Solutions"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+      name: Mena FN
+      domain: menafn.com
+    quality: 3
   - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
     excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
     publishedDateTime: 2023-07-03T11:24:00Z
@@ -112,16 +117,7 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 0
-  - title: "Tenet Fintech Group Inc.: Tenet Announces Director, Executive Officer and Board Committee Appointments"
-    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative analytics service provider and operator of the Cubeler®"
-    publishedDateTime: 2023-07-04T12:49:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-07/59493793-tenet-fintech-group-inc-tenet-announces-director-executive-officer-and-board-committee-appointments-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
-secured: "vKeefxl/VMWe5b1pLvfQRsWG1bHYjmEn1kbfpzxY3qvuYBaY88EywZjPD/N8xW22t0VLdtHmPDx0NjExmjFi7QZIpsUu+HiHRSLLH+0ZqlkkhMzPp+YjbfEM3odMEXiZXRYjA9Nqb4Mj7VrouhKMz0dTR0HCGWti0PjJhqK3rAbVWTx/PdsB0xk3puG4obo/igaUOd8cD2+cJGeJyzyilOjQMgvME7YaA6m4OQ11EPzeMmyxyd02OQLrKaipJc9TjJ2OIp1s+1lGpjWdijLD/PAlDHvXLkEAcGHz4YFG38uafbZ80yviIgOO9m4joCeQjmOy7EpQekUWXWvyKOerSpQCoTHj18waLbTZNcrSIx0=;1YpACNTo+9uZZCI3QDPI2g=="
+secured: "80jkQ7Ir8yoTO72norMY2OqvtjZwE7VCo7B9z0F+PyUN9E0wKXS+oaEjp/CzMVy7Z8IjhwPxlanNWjOo87nuyWyftYbGOOeh9UE9FVHYojFk7ZANhwuPU4dgKAVV2U4x6J10emkymMzsaZokoEWxYy37OJBfdy5vUHWawOl5a2SI/VnhTv2XGsbb0XS0BQFlIZ4dH27yjCLiCPnxrYrxm2VAIJKbvrClHU6YBUEh72lxawNyydU0wW3800Le30vIV5f9TmK1M3dklnqgUzQhOqkVz3k0AVOexSPPv1y+zq/p19yWi2EDpzUhS5MWFMIzQMkxi9UdHgJeVGBif9+xIQgpmPNhu0/uIzH0JOXez0M=;W1p2hL1yUrhkIReamKoLtQ=="
 ---
 

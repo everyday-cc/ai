@@ -36,7 +36,7 @@ related:
     provider:
       name: WDBJ
       domain: wdbj7.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/6dFL6mV9xdskVjxS2k64qWlLrO0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CXRFEPNRN5D3FOXEMQINRYQCFY.jpeg"
         width: 800

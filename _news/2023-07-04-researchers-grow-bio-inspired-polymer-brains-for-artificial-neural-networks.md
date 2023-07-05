@@ -7,7 +7,7 @@ originalUrl: "https://phys.org/news/2023-07-bio-inspired-polymer-brains-artifici
 webUrl: "https://phys.org/news/2023-07-bio-inspired-polymer-brains-artificial-neural.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Growing bio-inspired polymer brains for artificial neural networks"
+    excerpt: "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The"
+    publishedDateTime: 2023-07-05T00:42:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 54
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/100851_logo_A.jpg"
+        width: 2473
+        height: 3549
+        isCached: true
+  - title: "Polymer \"Brains\" Could Advance Artificial Neural Networks"
+    excerpt: "Researchers have developed a technique for growing conductive polymer wire connections between electrodes to realize artificial neural networks that overcome the limits of traditional computer hardware."
+    publishedDateTime: 2023-07-04T08:33:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/polymer-brains-could-advance-artificial-neural-networks-375668"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 34
 
 secured: "dVpx+kCi6pym1M6XtiQaXpR4ZCFkdYJML78YUara4eKaCaVKOWFkOnECCEFUTcR1sfSi7NjnNsgxlMWn7gv9AlwKlCi+dB9fjCXqS6K987mwjBWnMWKGWQOy9Q3Qy1dcVrF8YiAJEhoa7LWyOnry7zFSpokq8vZv04m6xD0R/G+GLi8y9ba8SiQ1Z4MIiT5ckAUmC1vNudeTt/O2vXxIUzVuWWfJduJFnTWY7a7kIhIvsfKgIukSbDYHaPhPflPbDAelS25a78s85xjkPMXjLy49TSyjSrNSqtKXsPJLGRMMiJ6bOhgI91T3qJGqPd7/Yp7uri+Dh/S4eL06Mi6Z/LU+mHFq6X/yUfLHLLfbPo2UbUNY0ijRtLer7qR+ZJ5rYKPyqn0SIfjGaj+0EwY4N8qAIGgHm1uoeoFTZy3EnGRalWoyasJvBnY0xvRTQQD59tay1X0c0KRPPN7qgVCQgjYwUX3mHgC6kw9EXy8g4uy28JM0GBsrORI0TKH1Um7Lc81EqwhupTLCyh1KtXM0jw==;EVD1u7nUhY5ey48byblnHw=="
 ---

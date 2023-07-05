@@ -32,7 +32,7 @@ related:
     provider:
       name: Kompas.id
       domain: kompas.id
-    quality: 39
+    quality: 41
     images:
       - url: "https://dmm0a91a1r04e.cloudfront.net/A65YmETo-1yB04_qb8d7KTkygTE=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F04%2Fb74a31ce-6223-4430-8a5b-df32f7e168e5_jpg.jpg"
         width: 1024

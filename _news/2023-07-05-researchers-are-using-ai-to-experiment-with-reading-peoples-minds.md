@@ -8,8 +8,8 @@ webUrl: "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-wi
 ampWebUrl: "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
 cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
 type: article
-quality: 59
-heat: 99
+quality: 61
+heat: 101
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/6dFL6mV9xdskVjxS2k64qWlLrO0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CXRFEPNRN5D3FOXEMQINRYQCFY.jpeg"
@@ -76,6 +77,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "kGMMdlv44GxBlm4yB970RvSyMG46r1qgFGIt26/gVeCOaoe7F2yPmT1F7am2mKiXYy28ThUwVAsMo9K7fEzzQ1PXjCZ96Sguq/XwkLYGNaTKh+KYK/vQF3jYsNq5dj46cDc6oat2Cl5pPkixu98h+Ex1GJVl1RtKMaIlUFw/wq7/m9ZEDZiGZIYwQuO2RYAztCUBXLkTX0qtV8RX2mvHaPbU/gxsyi29fbYiVzeQ19tJddIdKs056fW+2hoKg1UjD2n5sOAtXy2j0zCicuNAaULXUXgVWj1TXYhe8muLGXp6tkVZikx7XuxmGfIQ3nHgLiyrnj4va6AGQiNnprQeQ95t4awcrWtjnUuD0ogB/u0=;tBfSrXw8HXktu7asaYPvrw=="
+secured: "nZPZB1Di1TZexmS27OMOjInF9sPhFUZUxcG2tjM2FRDOpK0tJIbcIFwKugQCLX+yife71YE3vnvW4+zF+gl+hdBGCKjhKow/o6pJiBcZJFJNDBt8+vE1PHn+86Ek4MlXSH76PGoenEzKRYJiLc4E2iDBK88Ywknf7jIwkw4QGaEugVMminrtAMy6IyjQdhy3N+rFvzbwZvYIqja0Q9yyc/F+in04Kdhp3limuWwvICLIZzgoS+e/1X7LF5fjqBroLZkJfWMCLo/5eLWrDeSmHBp9rhTZtfqMzgK5bx4u4dr0TBzJ4DbNOWO1bsyT+UW7gnQLms+1YJChvp9XstODDXIKTH+veeT12mPvXjWY09XL+ljVzpzTwOja7h6ILXvI3vrEwpb08eXHiXQOWFpBfrw3SZAIjcDtx4xmBlcZgqHkmulEPx1ebM/c4UT6pVKqz/E220NnO01II7Wbv6fldd0lb0KrjdBv+xfCxUPfEQBdExNJw5Y4DMCP8H9TM06VVoyS69RqZUBVP5Kn02VXJQ==;nbrYQM+DWog1tWtYnSsv3A=="
 ---
 

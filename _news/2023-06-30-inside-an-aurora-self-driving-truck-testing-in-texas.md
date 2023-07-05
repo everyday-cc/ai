@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Self-Driving Truck Startup TuSimple Dives on Plan to Sell US Business"
-    excerpt: "Shares in TuSimple Holdings plunged yesterday after the Chinese autonomous driving startup said it is considering selling its US operations to focus on the Asia-Pacific region. TuSimple [NASDAQ:TSP] closed down 20."
-    publishedDateTime: 2023-06-30T09:02:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230630-08-chinese-self-driving-truck-startup-tusimple-dives-on-plan-to-sell-us-business"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 21
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/06/26746143288005.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "Arizona’s agility as self-driving vehicle testbed"
     excerpt: "Arizona's leaders have enacted rules to authorize and establish guardrails for autonomous vehicles to operate while entrusting experts with the responsibility of ensuring safe testing."
     publishedDateTime: 2023-06-30T20:26:00Z
