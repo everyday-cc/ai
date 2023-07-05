@@ -44,6 +44,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 4
+  - title: "UAE awards China’s WeRide first license to operate self-driving cars"
+    excerpt: "The UAE permit will allow the Guangzhou-based driving technology company to test its level 4 human-free and fully autonomous vehicles on public roads throughout the emirates."
+    publishedDateTime: 2023-07-05T19:23:00Z
+    webUrl: "https://www.al-monitor.com/originals/2023/07/uae-awards-chinas-weride-first-license-operate-self-driving-cars"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 4
 
 secured: "zlUt5RCtDJK35yUn/zv+3HCZ/7CaWL2gl4UcXZsLiy+DCA7OsRRm0lH3nd+gMjszwVMwRR9KLfay02u7FAwZmt+DY8AygEOF4w4RzSzYVUOg5aNcyNvXrOUxFWr57qKIe9k2nxMINZUKANiOpoTBK+ehIrOCzIA+KdaDsxBNOyqKzJuDwmJcdtsSvJc8d5LDoWo9FFtPquqgOopUv+tNKL69XapoafP/0NF1ceO1F1tdx0wgVeJ86lqgrmzRHKwCd/GEOc9nekn+yBBq2GXzSuXy0LO64UdmMzVhRij8sEkwzhGvtdjGwtdrf9nOpMxZ6De7+nRt8PXTK1lulJshneV97eQkH6rF3POH/Qfe0I2j6eucEnYL3EJpsFpVPIo/Z/AEIyNLER6OxvKJlsGHvXE+4ZtdCrQHcfDb+gizgQ8D+TQyMrEcLO+4uVtvZVwW72R2XZzaMnKwyUAT4EvRzJdpjtSLrAT2qXshJv7Upm/yajZQLJW1YLLSyJMNdBlPIuoIMLnccxGxCeMWY+xl2Q==;8JaNDziWzZZvTbk+lRfGVw=="
 ---

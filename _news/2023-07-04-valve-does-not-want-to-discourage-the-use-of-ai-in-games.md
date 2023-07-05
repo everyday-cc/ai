@@ -40,6 +40,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Generative AI in games will create a copyright crisis"
+    excerpt: "As lame as this story is, it hints at a knotty copyright issue the games industry is only just beginning to unravel. I’ve created a story using my imagination—but to do that I’ve used an AI helper. So who wrote the tale?"
+    publishedDateTime: 2023-07-05T17:12:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Google Could Use Your Data to Train Its AI Models"
     excerpt: "Google has recently updated its Privacy Policy to retain anything posted publicly by users so it can train its AI models."
     publishedDateTime: 2023-07-05T15:36:00Z

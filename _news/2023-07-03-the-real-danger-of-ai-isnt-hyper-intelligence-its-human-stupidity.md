@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/ai-danger-human-stupidity-3340244
 webUrl: "https://www.androidauthority.com/ai-danger-human-stupidity-3340244/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI forms research team to tackle dangers of AI ‘superintelligence’"
+    excerpt: "OpenAI LP is forming a new research team to tackle the potential dangers that could be posed by future “superintelligent” machine learning models. OpenAI chief scientist Ilya Sutskever and Jan Leike,"
+    publishedDateTime: 2023-07-05T21:19:00Z
+    webUrl: "https://siliconangle.com/2023/07/05/openai-forms-research-team-tackle-dangers-ai-superintelligence/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/openai-2.png"
+        width: 989
+        height: 520
+        isCached: true
   - title: "'Artificial Intelligence will never be able to beat the complexity of Nature's Intelligence'"
     excerpt: "Artificial intelligence was the key focus, as participants explored its collaborative potential, impact across sectors, and the convergence of sports, media, and social networks in the tech era. Agam Khare,"
     publishedDateTime: 2023-07-02T13:42:00Z

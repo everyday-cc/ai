@@ -59,22 +59,15 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud"
-    excerpt: "Trusting Social, a leading Asian fintech AI company, has announced the launch of Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
-    publishedDateTime: 2023-07-01T03:15:00Z
-    webUrl: "https://theinvestor.vn/trusting-social-brings-ai-powered-agents-to-enterprises-backed-by-microsoft-cloud-d5631.html"
-    ampWebUrl: "https://theinvestor.vn/news/trusting-social-brings-ai-powered-agents-to-enterprises-backed-by-microsoft-cloud-d5631.amp"
-    cdnAmpWebUrl: "https://theinvestor-vn.cdn.ampproject.org/c/s/theinvestor.vn/news/trusting-social-brings-ai-powered-agents-to-enterprises-backed-by-microsoft-cloud-d5631.amp"
+  - title: "Railtown AI's Commercial AI Solutions Achieve Microsoft Co-Sell Ready Status"
+    excerpt: "This milestone signifies that Railtown AI has met Microsoft's criteria for co-selling, fostering collaboration and visibility within the Microsoft ecosystem. This status enables Railtown AI to drive deeper collaboration and go-to-market momentum as the Company works with Microsoft's 7,"
+    publishedDateTime: 2023-07-05T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ais-commercial-ai-solutions-achieve-microsoft-cosell-ready-status-1032427100"
     type: article
     provider:
-      name: theinvestor
-      domain: theinvestor.vn
-    quality: 70
-    images:
-      - url: "https://t.ex-cdn.com/theinvestor.vn/resize/600x360/files/news/2023/06/29/hnf-12345-195910.jpeg"
-        width: 600
-        height: 360
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
   - title: "Microsoft, Nvidia Invest In Ai Startup Inflection Ai"
     excerpt: "san francisco: microsoft and nvidia were among a host of investors who took a stake in ai company inflection ai.<br /> <br /> the company rai"
     publishedDateTime: 2023-07-01T10:16:00Z

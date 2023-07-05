@@ -9,7 +9,7 @@ ampWebUrl: "https://m.tribuneindia.com/news/nation/facial-recognition-tech-helps
 cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/nation/facial-recognition-tech-helps-nab-90-miscreants-during-rath-yatra-in-puri-521849"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tasting success in Puri, facial recognition now in big cities"
-    excerpt: "In a first-of-its-kind initiative, the state police have introduced a facial recognition technology in Puri to track the movement of habitual offende"
-    publishedDateTime: 2023-07-01T03:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/articleshow/101408716.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-101408730,width-1070,height-580,imgsize-1561423,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Facial-recognition tech helps nab 90 snatchers during Rath Yatra in Puri"
     excerpt: "As many as 117 phones were seized. Thousands of devotees had congregated at the seaside town for the Rath Yatra on June 20. The return car festival was celebrated on June 28 with devotees pulling the chariots of the deities back to the Jagannath Temple from another shrine, three km away."
     publishedDateTime: 2023-07-01T11:29:00Z
@@ -59,19 +43,21 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Army explores increase in facial recognition at gates"
-    excerpt: "Facial recognition cameras have been installed at Gate 10. According to Brian Reinwald, chief of physical security with the Garrison’s Directorate of Operations, these devices are part of a research and development program run by the Corps of Engineers and its contractors to evaluate new and upcoming access control technology."
-    publishedDateTime: 2023-07-05T07:00:00Z
-    webUrl: "https://www.theredstonerocket.com/military_scene/article_dd4fddec-1ada-11ee-a0c3-4bd43929d152.html"
+  - title: "Puri Rath Yatra 2023: 90 snatchers nabbed with help of facial-recognition tech"
+    excerpt: "Armed with facial recognition software and trained in analysing crowd behaviour during the annual Rath Yatra this year, a specialised team formed by the Puri Police arrested over 90 snatchers during the festivities in this pilgrim town,"
+    publishedDateTime: 2023-07-01T10:51:00Z
+    webUrl: "https://www.orissapost.com/puri-rath-yatra-2023-90-snatchers-nabbed-with-help-of-facial-recognition-tech/"
+    ampWebUrl: "https://www.orissapost.com/puri-rath-yatra-2023-90-snatchers-nabbed-with-help-of-facial-recognition-tech/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/puri-rath-yatra-2023-90-snatchers-nabbed-with-help-of-facial-recognition-tech/"
     type: article
     provider:
-      name: The Redstone Rocket
-      domain: theredstonerocket.com
-    quality: 39
+      name: orissapost
+      domain: orissapost.com
+    quality: 40
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/assets/v3/editorial/4/87/48791946-1acf-11ee-9c6a-e395f6b9fe12/64a4c09727461.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.orissapost.com/wp-content/uploads/2023/06/Rath-Yatra-Rath-Yatra-2023-Puri-Lord-Jagannath-Odisha-Odisha-1.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "QUH3lOCsKrdVJSyWXGTqa8wWm5ZEp/RMDkemnfSmeF8XuDVrV3+30P24OHDVWROE2SDMJ3n8ztQpAlhXj4iKpaVpUxkTGo6s5gn0zqYzCM/3phaz5PO/d82A354ylaPU92VH3c0QxXBAq0a9+2u/pVPndeh4I5R1GwJCJzMrjGthJjPb6P2C779vugDZesH0E8/HPWf7DXjAIFKDm1gO/9OO36iAoMgc9Nmrz1nDz3i0E0M0B8ewY96wTmKeAEk5R9J3751aiLhBDGq9VWZD7xOp8p53MzJ1IKa8eopJY0CqDWHvpjmGCv+toMVi3dKC6hfQXxpL5JQCly9wOA/+R1RhW1uGn6gXxfCnzy+/Q2l/1vO/Foi+/t77LW04ctJRaFUBNbnBIJXRYh3qPQ2iPovyo8E0I1h1syZcQCQ3HRNhz2QRTrLTrTTrHH6wxl/LTXGRXjzDBc2M+gW9N+8BdbibT1WOG23rgGmEqmU2kEHDtiL2iQ6XhapNBUZ/kGWCKqpJdXq/p0ekH3q4rJdtPQ==;MJj08iJMq5u/48a5Uh0Asg=="

@@ -90,17 +90,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI in games will create a copyright crisis"
-    excerpt: "Things get even more complicated if someone pays the $9.99 per month required to incorporate Stable Diffusion, the text-to-image generator, which can conjure accompanying pictures in their AI Dungeon stories."
-    publishedDateTime: 2023-07-05T17:12:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/2/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/2/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/2/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
 
 secured: "zmucjPEGsrqbPkkmiYLJj0Agc1LGmQeg0jmmVwwDlNOslYJwMzNKCSW90faKo9LQwbQVGFe4yPLWk3e2c92pBsOCmvxSlrFIY5FYLb1JbO6D7VyHoXXcscetfsQNjmH3CQjMD8lYB0Q/yVVkmgRRLaqvFhDThLyASbQF+/KAkX2nT4D2Vfve41mqjFdYBzIyHk1Y4yj0LSikuAjjcUFvQEjpw/NKMGpPvBNrpLA0dttTLeKYBqin+Q/Q5fhVC82k8mYNbzVUu89SD9fnFlAVIkaNIEzMBFnrBB+cAVpA0OPaLspiLwOm24PwMt4dAjkEtEYOMdubFAb/O6T1AGCCCNhMYl1kLGrY+KNXaBkK8E8=;8TRlfOU4pOnH1l/2kybLtA=="
 ---

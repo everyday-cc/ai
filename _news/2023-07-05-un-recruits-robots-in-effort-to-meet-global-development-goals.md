@@ -9,8 +9,8 @@ ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.htm
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CTV News
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI summit showcases human-like robots to aid UN mission"
+    excerpt: "Dozens of humanoid-like robots will take center stage at the United Nations “AI For Good” Global Summit, showcasing how AI can be used to support human wellbeing."
+    publishedDateTime: 2023-07-05T21:20:00Z
+    webUrl: "https://cybernews.com/tech/united-nations-ai-summit-robots-human-wellbeing/"
+    type: article
+    provider:
+      name: cybernews
+      domain: cybernews.com
+    quality: 34
   - title: "UN recruits robots in strive to meet global development goals"
     excerpt: "Dozens of robots, including several humanoid ones, will take centre stage at a conference organised by the U.N. technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals."
     publishedDateTime: 2023-07-05T13:04:00Z

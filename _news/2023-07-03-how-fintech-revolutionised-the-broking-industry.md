@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "How photonics is revolutionizing convolutional neural networks"
+    excerpt: "In the modern era, there has been explosive growth in the demand for computing power for cognitive image and video processing. While convolutional neural networks offer improved performance for image processing,"
+    publishedDateTime: 2023-07-05T20:46:00Z
+    webUrl: "https://techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
   - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
     excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
     publishedDateTime: 2023-07-02T10:00:00Z

@@ -2,6 +2,455 @@
   "page": 142,
   "value": [
     {
+      "path": "_news/2023-04-02-facebook-parent-meta-touts-artificial-intelligence-robot-that-can-learn-from-humans.md",
+      "title": "Facebook parent Meta touts Artificial Intelligence robot that can learn from humans",
+      "excerpt": "One way that Meta's Facebook AI Research (FAIR) team is working to train the robots is by developing an artificial visual cortex, which in humans, is the region of the brain that enables ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-touts-artificial-intelligence-robot-learn-humans",
+      "originalUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-touts-artificial-intelligence-robot-learn-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-02T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-02-how-retail-got-real-at-metaverse-fashion-week-with-ai-ar-interoperability-phygital-components.md",
+      "title": "How Retail Got Real At Metaverse Fashion Week With AI, AR, Interoperability, Phygital Components",
+      "excerpt": "For Metaverse Fashion Week’s second iteration, Decentraland foundation partnered with additional metaverses Spatial and Over the Reality making for a broader experience and participating brands both harnessed emerging technologies and solidified their Web3 strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/02/metaverse-fashion-week-how-retail-got-real/",
+      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/02/metaverse-fashion-week-how-retail-got-real/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6429064da1fb0811f6deb168/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/02/metaverse-fashion-week-how-retail-got-real/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/04/02/metaverse-fashion-week-how-retail-got-real/amp/",
+      "publishedDateTime": "2023-04-01T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-02-a-brief-history-of-artificial-intelligence.md",
+      "title": "A brief history of artificial intelligence",
+      "excerpt": "Multiple factors have driven the development of artificial intelligence (AI) over the years. The ability to swiftly and effectively collect and analyze enormous amounts of data has been made ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms.md",
+      "title": "AI Ethicists Slam 'AI Pause' Letter for Ignoring Current Harms",
+      "excerpt": "The open letter co-signed by Elon Musk ignores 'actual harms' caused by AI today, ethicists argue in a rebuttal, including worker exploitation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
+      "originalUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00dshhhhQuoonyFJJ4ekz3q-1.fit_lim.size_1200x630.v1680368067.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training.md",
+      "title": "ChatGPT neural network said it uses Moskovsky Komsomolets website for training",
+      "excerpt": "Chatbot with artificial intelligence ChatGPT said it used, among other things, the Moskovsky Komsomolets website for its training. In addition to MK, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
+      "originalUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.easternherald.com/cdn-cgi/image/width=550,height=412,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/04/ChatGPT-neural-network-said-it-uses-Moskovsky-Komsomolets-website-for.jpg",
+          "width": 550,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
+      "cdnAmpWebUrl": "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
+      "publishedDateTime": "2023-04-01T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Eastern Herald",
+        "domain": "easternherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations.md",
+      "title": "April 1st, NZXT GPU, AI Fans and Other Incredible Tech Innovations",
+      "excerpt": "This GPU sports a white minimalist squared design ... XPG this year announced that they would be taking a step into AI and introduced the XPG 1337GPT. XPG understands that gamers can have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eteknix.com/april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations/",
+      "originalUrl": "https://www.eteknix.com/april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTeknix",
+        "domain": "eteknix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education.md",
+      "title": "Ways in which artificial intelligence and machine learning is changing engineering education",
+      "excerpt": "In recent years, the rapid advancement of technology has led to transformative changes across various industries. The field of engineering education is no exception, with artificial intelligence (AI) and machine learning (ML) technologies revolutionizing",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/",
+      "publishedDateTime": "2023-04-01T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind.md",
+      "title": "Artificial Intelligence Is Teaching Us New, Surprising Things About the Human Mind",
+      "excerpt": "The world has been learning an awful lot about artificial intelligence lately, thanks to the arrival of eerily human-like chatbots. Less noticed, but just as important: Researchers are learning a great deal about us – with the help of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind-ba7cdceb",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind-ba7cdceb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-755114/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin.md",
+      "title": "Waymo brings its fleet of new self-driving SUVs to Austin",
+      "excerpt": "Waymo is bringing a fleet of driverless cars to Austin, Texas as a test of its new fifth-generation automated driving system. The vehicles will be tested all over the city, including downtown, the Capitol,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html",
+      "originalUrl": "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/cUida6ySiXDpooXP.oUt0g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/9fc6ae30-cfe2-11ed-bec7-e751884bbf3d.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-intimidating-and-dangerous-how-much-do-members-of-congress-know-about-ai.md",
+      "title": "‘Intimidating’ and ‘dangerous’: How much do members of Congress know about AI?",
+      "excerpt": "Calls to regulate artificial intelligence are growing on Capitol Hill following a dire warning from tech giants. But many lawmakers also admit they don't know much more about the technology than the average American.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6323724862112",
+      "originalUrl": "https://www.foxnews.com/video/6323724862112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5987de2-5285-4377-9f8a-b419cc8f00df/4c8bbe0f-b509-4f34-9d66-b8ffc481e867/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs.md",
       "title": "Breakthrough! Google AI-based tiny syringe to inject gene therapy, tumour-killing drugs",
       "excerpt": "A team of researchers has harnessed Google’s AI venture DeepMind to develop a bacterial injection system which can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells.",
@@ -720,499 +1169,6 @@
         "Google AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-chatgpt-has-been-blocked-in-italy-what-does-the-neural-network-say.md",
-      "title": "ChatGPT has been blocked in Italy. What does the neural network say?",
-      "excerpt": "Italy's data protection authority (Garante per la protezione dei dati personali) has decided to block access to the ChatGPT neural network chatbot in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.easternherald.com/2023/03/31/chatgpt-has-been-blocked-in-italy-what-does-the-neural-network-say/",
-      "originalUrl": "https://www.easternherald.com/2023/03/31/chatgpt-has-been-blocked-in-italy-what-does-the-neural-network-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.easternherald.com/cdn-cgi/image/width=768,height=432,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/03/ChatGPT-has-been-blocked-in-Italy-What-does-the-neural.webp.webp",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.easternherald.com/2023/03/31/chatgpt-has-been-blocked-in-italy-what-does-the-neural-network-say/?amp=1",
-      "cdnAmpWebUrl": "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/03/31/chatgpt-has-been-blocked-in-italy-what-does-the-neural-network-say/?amp=1",
-      "publishedDateTime": "2023-03-31T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Eastern Herald",
-        "domain": "easternherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-why-the-ai-industry-could-stand-to-slow-down-a-little.md",
-      "title": "Why the AI industry could stand to slow down a little",
-      "excerpt": "At the same time, tech platforms are cutting members of their AI ethics teams. A large language model created by Meta leaked and was posted to 4chan, and soon someone figured out how to get it running on a laptop. Elsewhere, OpenAI released plug-ins for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/23664519/ai-industry-pause-open-letter-societal-harms",
-      "originalUrl": "https://www.theverge.com/23664519/ai-industry-pause-open-letter-societal-harms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/1im3ZgLeERN7CpyGHISq0IwfXLo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440561/AI_art_chat_H_Jeong_1.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-generative-ai-gets-an-upgrade-to-business-class.md",
-      "title": "Generative AI Gets An Upgrade To Business Class",
-      "excerpt": "You might have had a feeling of déjà vu last week when Adobe announced its Firefly generative AI service that lets you produce sets of new images by typing a description of what you have in mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2023/03/31/generative-ai-gets-an-upgrade-to-business-class/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2023/03/31/generative-ai-gets-an-upgrade-to-business-class/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64259476a22a753da5f43b0c/0x0.png?format=png&crop=1050,590,x0,y52,safe&width=1200",
-          "width": 1050,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/03/31/generative-ai-gets-an-upgrade-to-business-class/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/03/31/generative-ai-gets-an-upgrade-to-business-class/amp/",
-      "publishedDateTime": "2023-03-31T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-an-ai-researcher-who-has-been-warning-about-the-technology-for-over-20-years-says-we-should-shut-it-all-down.md",
-      "title": "An AI researcher who has been warning about the technology for over 20 years says we should 'shut it all down'",
-      "excerpt": "previously told Insider that tech firms are locked in a \"competitive arms race environment\" in an effort to be seen as \"first movers,\" which may result in concerns around ethics and safety in AI being overlooked. Even Altman has acknowledged fears around ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3",
-      "originalUrl": "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64269c90ed593e00183f605f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3?amp",
-      "publishedDateTime": "2023-03-31T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech.md",
-      "title": "Kolkata Airport Gets DigiYatra, Check-In With Facial Recognition Tech",
-      "excerpt": "But now, most of the families have moved abroad Passengers travelling through the Kolkata airport will now be able to check in for their flights and board planes with facial recognition technology as DigiYatra was rolled out here on Friday, an official ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975",
-      "originalUrl": "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1653907221.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975/amp",
-      "publishedDateTime": "2023-03-31T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-xpeng-expands-assisted-driving-tech-coverage-to-shanghai-something-tesla-doesnt-offer-in-china.md",
-      "title": "Xpeng expands assisted driving tech coverage to Shanghai, something Tesla doesn’t offer in China",
-      "excerpt": "But the company has tried to make its assisted driving technology a selling point for consumers. \"Tesla doesn't really pump Autopilot in China and they don't offer Full Self Driving (FSD) in China, whereas Xpeng really leaned into its NGP as a difference ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/31/xpeng-expands-assisted-driving-tech-coverage-to-shanghai-something-tesla-doesnt-offer-in-china.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/31/xpeng-expands-assisted-driving-tech-coverage-to-shanghai-something-tesla-doesnt-offer-in-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107218318-1680254102337-gettyimages-1411778864-vcg111394189776.jpeg?v=1680258378",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/31/xpeng-expands-assisted-driving-tech-coverage-to-shanghai-something-tesla-doesnt-offer-in-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/31/xpeng-expands-assisted-driving-tech-coverage-to-shanghai-something-tesla-doesnt-offer-in-china.html",
-      "publishedDateTime": "2023-03-31T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-ftc-should-stop-openai-from-launching-new-gpt-models-says-ai-policy-group.md",
-      "title": "FTC should stop OpenAI from launching new GPT models, says AI policy group",
-      "excerpt": "An artificial intelligence-focused tech ethics group has asked the Federal Trade Commission to investigate OpenAI for violating consumer protection rules, arguing that the organization’s rollout ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/3/30/23662101/ftc-openai-investigation-request-caidp-gpt-text-generation-bias",
-      "originalUrl": "https://www.theverge.com/2023/3/30/23662101/ftc-openai-investigation-request-caidp-gpt-text-generation-bias",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/eJCf-0eN-BMvuoNTj_0k-ImYauY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390408/STK149_AI_01.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us.md",
-      "title": "Why It’s Difficult To Predict Where GPT And Other Generative AI Might Take Us",
-      "excerpt": "Why is it so difficult to predict events and consequences too far into the future? Scientists and philosophers have studied the process of how knowledge is expanded. And what they have learned has lessons for understanding where generative AI models may go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/",
-      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641df1543445254362580d52/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/amp/",
-      "publishedDateTime": "2023-03-31T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-the-case-for-how-and-why-ai-might-kill-us-all.md",
-      "title": "The case for how and why AI might kill us all",
-      "excerpt": "Some believe AI is flat-out going to wipe out all of biological life at ... inspired by the way the human brain connects concepts. It worked with Microsoft Azure to build the hardware to run it, then fed it billions and billions of bits of human text ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/ai-danger-kill-everyone",
-      "originalUrl": "https://newatlas.com/technology/ai-danger-kill-everyone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f8f2c4a/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fe3%2F024b16504003a3cc42d21bec425f%2Floz-a-small-child-holds-a-cookie-out-towards-a-much-larger-scar-c3bb1789-1343-47b7-9871-7521a59cb98a.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-google-brain-needs-deepmind.md",
-      "title": "Google Brain Needs DeepMind",
-      "excerpt": "It’s already happening! Google and DeepMind are collaborating on a next-generation project called the Gemini. According to a report from The Information, both companies are “ pausing grudges ” and joining forces to go beyond what OpenAI has achieved or planning to achieve.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/google-brain-needs-deepmind/",
-      "originalUrl": "https://analyticsindiamag.com/google-brain-needs-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/image-40-1.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

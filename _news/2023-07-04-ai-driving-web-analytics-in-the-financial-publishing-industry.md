@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Gartner survey: Most corporate strategists find AI and analytics critical to success"
+    excerpt: "A new survey from Gartner has revealed that most corporate strategists think that AI and analytics are critical to their success."
+    publishedDateTime: 2023-07-05T21:21:00Z
+    webUrl: "https://venturebeat.com/ai/gartner-survey-most-corporate-strategists-find-ai-and-analytics-critical-to-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/GettyImages-1373296586.jpg?w=1200&strip=all"
+        width: 1200
+        height: 680
+        isCached: true
 
 secured: "FRHeNhrv01FS7o/ZQlm5Kl35gxEb4kFBwZUgzZn83EwptfROV74HUmY5sEVe89xiWy94dLL7W9riOk8IoRVO17mbepyqTKxY5hH+AvmyFLHxmW+ujSVEbqH1CdYN5dr6vPRw0KezUyRTUvn0o6X3hJaIsRJwoB/xDGdVoZ7U38kDNb6atB/yKzmpVkRTGrn9LULS6QJRC00FSwrSGPZ8DZrPMENAwwxFpEGJfWUzpGx3QUTGFt6qKq5P+hBAMHkd1EFc3sAmuwRr0fOqm4vDNfCOX0t0Abohn83h92GLs0Fpfz+X4uhBzmExuj2fa6isTP0UtSd/NQybsdAIoNemE8Qz5ojSmbg2yhzjfAsU7hA=;Ha44+qoMGueU1pvEQvMOkA=="
 ---

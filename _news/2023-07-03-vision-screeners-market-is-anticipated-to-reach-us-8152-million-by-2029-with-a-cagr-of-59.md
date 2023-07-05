@@ -49,7 +49,7 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?995995"
         width: 333

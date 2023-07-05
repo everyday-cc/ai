@@ -2,6 +2,231 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-06-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign.md",
+      "title": "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign",
+      "excerpt": "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about",
+      "sourceUrl": null,
+      "webUrl": "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
+      "originalUrl": "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mystateline.com/wp-content/uploads/sites/17/2023/07/64a5ddb2475494.99392003.jpeg?w=1280",
+          "width": 1280,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/",
+      "cdnAmpWebUrl": "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/",
+      "publishedDateTime": "2023-07-05T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVO",
+        "domain": "mystateline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-highlight-text-as-its-being-spoken-using-amazon-polly.md",
+      "title": "Highlight text as it’s being spoken using Amazon Polly",
+      "excerpt": "Amazon Polly is a service that turns text into lifelike speech. It enables the development of a whole class of applications that can convert text into speech in multiple languages. This service can be used by chatbots, audio books, and other text-to-speech applications in conjunction with other AWS AI",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/ML-14148-polly-highlight-text-v3.drawio-933x630.png",
+          "width": 933,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T13:12:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-predict-vehicle-fleet-failure-probability-using-amazon-sagemaker-jumpstart.md",
+      "title": "Predict vehicle fleet failure probability using Amazon SageMaker Jumpstart",
+      "excerpt": "Predictive maintenance is critical in automotive industries because it can avoid out-of-the-blue mechanical failures and reactive maintenance activities that disrupt operations. By predicting vehicle failures and scheduling maintenance and repairs, you’ll reduce downtime, improve safety, and boost productivity",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predict-vehicle-fleet-failure-probability-using-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-vehicle-fleet-failure-probability-using-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/27/Picture1-4.jpg",
+          "width": 844,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T13:10:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service.md",
+      "title": "Aigen unveils an AI-driven, solar-powered, agricultural robotics service",
+      "excerpt": "The fossil fuel-free Aigen Element helps farmers reduce chemicals in food, and improve human and planetary health.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service/",
+      "originalUrl": "https://www.therobotreport.com/aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-facial-recognition-will-be-standard-in-all-us-airports-within-10-years.md",
+      "title": "Facial recognition will be standard in all US airports within 10 years",
+      "excerpt": "TSA agents have been testing the new ID technology for the past two years, and now the federal agency plans to expand the program to screen",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99294-facial-recognition-standard-all-us-airports-within-10.html",
+      "originalUrl": "https://www.techspot.com/news/99294-facial-recognition-standard-all-us-airports-within-10.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-facial-recognition-technology-could-soon-be-everywhereheres-how-to-make-it-safer.md",
       "title": "Facial recognition technology could soon be everywhere—here's how to make it safer",
       "excerpt": "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement all over the UK and other countries.",
@@ -138,7 +363,7 @@
       "originalUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -325,7 +550,7 @@
       "originalUrl": "https://venturebeat.com/ai/nyc-begins-enforcing-new-law-targeting-bias-in-ai-hiring-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -421,6 +646,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-05-un-recruits-robots-in-effort-to-meet-global-development-goals.md",
+      "title": "UN recruits robots in effort to meet global development goals",
+      "excerpt": "Dozens of robots, including several humanoid ones, will take centre stage at a conference organized by the United Nations technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/24/1_4782295.jpg",
+          "width": 470,
+          "height": 264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html",
+      "publishedDateTime": "2023-07-05T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-this-country-just-gave-the-green-light-for-self-driving-vehicles-on-its-roads.md",
       "title": "This country just gave the green light for self-driving vehicles on its roads",
       "excerpt": "The United Arab Emirates granted China's WeRide a nationwide license to operate its autonomous robotaxis, buses, vans, and sweepers on its roads.",
@@ -429,7 +697,7 @@
       "originalUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -865,7 +1133,7 @@
       "originalUrl": "https://www.zdnet.com/article/are-your-google-docs-safe-from-ai-training/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -904,306 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds.md",
-      "title": "The Future Of Home Decor Is Here: AI-Designed Drapes And Blinds",
-      "excerpt": "A new AI service called FabricGenie lets you create bespoke drapes, blinds or fabrics using text descriptions or images of your home",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a530df27a674dc03d23645/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/amp/",
-      "publishedDateTime": "2023-07-05T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-unlocking-the-ai-powered-opportunity-in-the-uk.md",
-      "title": "Unlocking the AI-powered opportunity in the UK",
-      "excerpt": "AI is the most profound technology that humanity is working on today. It’s a critical part of solving big societal challenges and helping to make our everyday lives bett…",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/",
-      "originalUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-dots_1.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/",
-      "publishedDateTime": "2023-07-05T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast.md",
-      "title": "Ahead of AI, this other technology wave is sweeping in fast",
-      "excerpt": "It's all around us, and keeps proliferating unabated -- in sensors, trackers, production machines, appliances, wearables, vehicles, and buildings. Welcome to the edge, which is likely to shape and shift our jobs and businesses before AI makes its mark. Many of the devices and products seen here at ZDNET represent the edge wave.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
-      "originalUrl": "https://www.zdnet.com/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7f8f9958018ed7ccbbceb5ed330adfe138127b6e/2023/07/04/2bb4198f-c7ab-4b46-8a2b-03680b9ce3e7/gettyimages-1395926351.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
-      "publishedDateTime": "2023-07-05T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-auto-executive-ai-will-be-used-for-more-than-just-the-products.md",
-      "title": "Auto Executive: “AI Will Be Used For More Than Just The Products”",
-      "excerpt": "Artificial Intelligence will certainly revamp must of the future vehicles. But an automotive executive states productized AI is just the tip of the iceberg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649eb35815540c75d4324232/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/amp/",
-      "publishedDateTime": "2023-07-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-151-by-2033-visiongain.md",
-      "title": "Threat Intelligence market is projected to grow at a CAGR of 15.1% by 2033: Visiongain",
-      "excerpt": "Visiongain has published a new report entitled Threat Intelligence Market Report 2023-2033: Forecasts by Deployment Mode (Cloud, On-premises), by Application (Security Information and Event Management (SIEM),",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33111353/threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-15-1-by-2033-visiongain",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33111353/threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-15-1-by-2033-visiongain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33111353",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33111353",
-      "publishedDateTime": "2023-07-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed.md",
-      "title": "Tintra Shares Rise on Agreement to Repay Fintech Leaders Share Deed",
-      "excerpt": "By Joe Hoppe Tintra shares rose Wednesday after the company said it has agreed to fully repay and terminate a $3 million share placement deed with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
-      "originalUrl": "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
-      "publishedDateTime": "2023-07-05T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

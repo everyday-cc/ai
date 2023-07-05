@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-
 webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "How photonics is revolutionizing convolutional neural networks"
+    excerpt: "In the modern era, there has been explosive growth in the demand for computing power for cognitive image and video processing. While convolutional neural networks offer improved performance for image processing,"
+    publishedDateTime: 2023-07-05T20:46:00Z
+    webUrl: "https://techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
   - title: "How fintech revolutionised the broking industry"
     excerpt: "Digital stock broking platforms are leveraging algorithms to deliver relevant content with targeted marketing to reach out to younger audiences and get them started to invest in the market."
     publishedDateTime: 2023-07-03T03:30:00Z

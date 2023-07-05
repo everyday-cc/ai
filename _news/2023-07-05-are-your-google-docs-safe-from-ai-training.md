@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/are-your-google-docs-safe-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Google Reveals Use of Public Web Data in AI Training"
+    excerpt: "In a recent update to its privacy policy, Google has openly admitted to using publicly available information from the web to train its AI models. This disclosure, spotted by Gizmodo, includes services like Bard and Cloud AI."
+    publishedDateTime: 2023-07-05T19:43:00Z
+    webUrl: "https://www.unite.ai/google-reveals-use-of-public-web-data-in-ai-training/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 19
 
 secured: "ku6LamNjFH7kVbf7wYMGBNocCpWwrw4DmSJ0J1dtN65OEk0DCJQ4fQ1tJ7J1G682Pj6CDcYVVVkNSTbua4rTaX8qFXCD/MF0j9VsG5HF1LwygFA2pId2/NFbRM37TjTXxelxMdRxMQEDBlr0Db3AQff79Rg6Eo6dy3TuBylWt0RYGhKgJAMZXwT/ViFMOHbE67ymB6bTBMS9n40wSVKrC4vvmLCuamk7KE+S5xQSqb6gjYRV27kaYtBOMDo5P+Q6/iXp+9YtJbXnCUdyWHe73APilPQ32BbNXGANFpvE6/WPuuS5aMraFB3gpCoAfG4eswlA+SeQLdTuXV63W0p9brzn4MvtnDAOdZxMUjTfirckVwEKZvu2c4pZWc1QioxJM6rOt4Hop/rNgQEdnrtzodjlTlOiDpSV4s2nDH8lFOvmfYkzV/5S55RGd+6lf9kr+hq1OKXvxUh/vv1o4mrA1YGO2J/ImyBumeqdbBUVb5xh8fwDQ0vhZ2xcmQIpqvJul+Iq0DEeWXrtF7+QCpPrrA==;nJZnzxO2K4KbaBGjY2nBzA=="
 ---

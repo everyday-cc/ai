@@ -41,14 +41,14 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 19
-  - title: "AI is an existential threat – just not the way you think"
-    excerpt: "For the past few months, executives and AI safety researchers have been offering predictions, dubbed “P(doom),” about the probability that AI will bring about a large-scale catastrophe. You might ask how such existential fears are supposed to play out."
-    publishedDateTime: 2023-07-05T17:03:00Z
-    webUrl: "https://www.chron.com/news/article/ai-is-an-existential-threat-just-not-the-way-18185139.php"
+  - title: "AI Is an Existential Threat – Just Not the Way You Think"
+    excerpt: "From open letters to congressional testimony, some AI leaders have stoked fears that the technology is a direct threat to humanity. The reality is less dramatic but perhaps more insidious."
+    publishedDateTime: 2023-07-05T19:56:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Government Technology
+      domain: govtech.com
     quality: 17
 
 secured: "BtIRR3jOBnFq0YuM/qNg5piJVF11IGT0DTfGg+CezM3T7mTEm2BnDkJ9iq6DL0849qNbNtxVVhattStGFP2l+ACs69KSKivDVRAXbOku/CVrCBtrQzz2LsfvYS3Bhn0/+OROWsZ4EOq3whW9uo/n38j0WbYA6vBxSM1bHaDoQfKqyOR+Fd44U+tpSzm6ItpAFwqKgfJGpkW9fUdVkayCeYgUxxWpupxCMFex/+R50+D1d0I/ZNSobSXyqp9cxxisZqPiUAQGi9dKganoOJDOVWVbqc+ucqYC2UDsdpyT8X/6aSZzRSN8H+Y9DrIo2bT7CqUpKg8GdDfF0jxDTY1i8r68lwh5uKnv5GCA5onX7fMYrRHdcbIXJeiKY7ebqP7/1T8tXhYBB7Jn0M8+Zy24FVOFjmai9t4x+y4mzYEBXcLVPiW1nxaBj2M29Cb5SULeKPNpCJBV1Fy8n0XxB0Mi7k3dP7Weu+ZlLjxWCiIq7GLbcd9gE7BGSh7uffxEeX3E7e+ot5gfAVhl28rAW60Qkg==;az8D1V4f/HCS2T9gmxz7dQ=="

@@ -2,6 +2,428 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2023-04-07-machine-learning-may-play-a-role-in-building-energy-models.md",
+      "title": "Machine learning may play a role in building energy models",
+      "excerpt": "More than 40% of all U.S. energy use and greenhouse gas emissions are associated with the building sector. A study from Florida Tech researchers is exploring whether machine learning can help reduce this environmental impact.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-machine-play-role-energy.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-machine-play-role-energy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-may-p.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-machine-play-role-energy.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-machine-play-role-energy.amp",
+      "publishedDateTime": "2023-04-07T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-webgpu-is-coming-to-supercharge-chrome-for-3d-gaming-and-3x-faster-ai-performance.md",
+      "title": "WebGPU Is Coming To Supercharge Chrome For 3D Gaming And 3X Faster AI Performance",
+      "excerpt": "Google is currently testing a Chrome browser API that promises to open up 'a new dawn for web graphics' as well as give AI a serious kick in the pants.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
+      "originalUrl": "https://hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61345/content/Chrome_Logos_Hero.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
+      "publishedDateTime": "2023-04-07T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-pov-why-ethics-education-and-empathy-are-key-to-our-ai-future.md",
+      "title": "POV: Why ethics, education, and empathy are key to our AI future",
+      "excerpt": "As apps like ChatGPT continue to rise in popularity and accessibility, concerns about AI across all sectors of society are also continuing to mount.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90877468/pov-why-ethics-education-and-empathy-are-key-to-our-ai-future",
+      "originalUrl": "https://www.fastcompany.com/90877468/pov-why-ethics-education-and-empathy-are-key-to-our-ai-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-is-elon-musk-at-odds-with-cathie-wood-over-this-artificial-intelligence-issue.md",
+      "title": "Is Elon Musk At Odds With Cathie Wood Over This Artificial Intelligence Issue?",
+      "excerpt": "Artificial intelligence is incredibly exciting ... any human input because they'll be powered by fully autonomous self-driving software -- which, of course, relies on AI. If Tesla stock does ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/07/is-elon-musk-cathie-wood-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/07/is-elon-musk-cathie-wood-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/727201/an-artificial-intelligence-deep-learning-concept-overlaid-on-a-persons-side-profile.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-scott-reeder-will-artificial-intelligence-replace-writers.md",
+      "title": "Scott Reeder: Will artificial intelligence replace writers?",
+      "excerpt": "Well, a machine can only work with the body of information that is available to it. It can scour the internet for answers. But it can’t pick up a phone and drag answers out of a politician reluctant to give them or interview a sobbing crime victim who needs the prompting of a reassuring voice to tell her story.",
+      "sourceUrl": null,
+      "webUrl": "https://qctimes.com/opinion/columnists/scott-reeder-will-artificial-intelligence-replace-writers/article_3ff89dad-dd9c-5436-8ab0-4c05ec6eb5e2.html",
+      "originalUrl": "https://qctimes.com/opinion/columnists/scott-reeder-will-artificial-intelligence-replace-writers/article_3ff89dad-dd9c-5436-8ab0-4c05ec6eb5e2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quad-City Times",
+        "domain": "qctimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data.md",
+      "title": "Global Artificial Intelligence (AI) in Construction Market [2023-2030] | Gain a Competitive Edge with Top Countries Data",
+      "excerpt": "Global Artificial Intelligence (AI) in Construction Market [2023-2030] research report is a compilation of information",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data-2023-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data-2023-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-global-legal-tech-artificial-intelligence-market-2023-2030-research-report.md",
+      "title": "Global Legal Tech Artificial Intelligence Market [2023-2030] | Research Report",
+      "excerpt": "Global Legal Tech Artificial Intelligence Market [2023-2030] research report is a compilation of information and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-legal-tech-artificial-intelligence-market-2023-2030-research-report-2023-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-legal-tech-artificial-intelligence-market-2023-2030-research-report-2023-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry.md",
+      "title": "Global Computer Vision System Market [2023-2030] | An In-Depth Analysis on Industry",
+      "excerpt": "The Global Computer Vision System Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry-2023-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry-2023-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-synthetic-data-generation-market-size-regional-growth-share-top-key-vendors-future-developments-opportunity-2023-to-2031.md",
+      "title": "Synthetic Data Generation Market Size, Regional Growth Share, Top Key Vendors Future Developments, Opportunity 2023 to 2031",
+      "excerpt": "Global Synthetic Data Generation Market is valued at approximately USD 123.3 million in 2021 and is anticipated",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/synthetic-data-generation-market-size-regional-growth-share-top-key-vendors-future-developments-opportunity-2023-to-2031-2023-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/synthetic-data-generation-market-size-regional-growth-share-top-key-vendors-future-developments-opportunity-2023-to-2031-2023-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-ai-desperately-needs-global-oversight.md",
+      "title": "AI Desperately Needs Global Oversight",
+      "excerpt": "This is not a group for research alone ... to clarify that the Facebook Oversight Board is funded by Meta through an independent trust. Rumman Chowdhury is a Responsible AI Fellow at the Berkman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-desperately-needs-global-oversight/",
+      "originalUrl": "https://www.wired.com/story/ai-desperately-needs-global-oversight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-artificial-intelligence-ai-chips-market-2023-with-latest-growing-cagr-status-leading-players-till-2030.md",
       "title": "Artificial Intelligence (AI) Chips Market 2023 with Latest Growing CAGR Status & Leading Players till 2030",
       "excerpt": "Chips Market Research Report give analysis of industry development growth opportunities, Trend till 2029. Artificial Intelligence (AI) Chips Market detailed analysis of business is mainly cover by Application [ Natural Language Processing (NLP),",
@@ -564,373 +986,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-retrotechtacular-voice-controlled-typewriter-science-project-in-1958.md",
-      "title": "Retrotechtacular: Voice Controlled Typewriter Science Project In 1958",
-      "excerpt": "Hackaday readers might know [Victor Scheinman] as the pioneer who built some of the first practical robot arms. But what was a kid like that doing in high school? Thanks to a film about the 1958",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2023/04/06/retrotechtacular-voice-controlled-typewriter-science-project-in-1958/",
-      "originalUrl": "https://hackaday.com/2023/04/06/retrotechtacular-voice-controlled-typewriter-science-project-in-1958/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-learning-whether-and-how-much-its-raining-improves-deep-learning-models.md",
-      "title": "Learning whether and how much it's raining improves deep-learning models",
-      "excerpt": "Concentrating on one thing at a time might seem like a good strategy when you're trying to learn something. But now, researchers from the Institute of Industrial Science at the University of Tokyo have found that simultaneously learning two tasks helps a deep-learning model perform better on both when retrieving precipitation information from satellite data.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-deep-learning.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-deep-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openais-chatgpt-and-techsees-computer-vision-ai.md",
-      "title": "TechSee Announces New Multi-Sensory AI For Service Automation Built on Integration between OpenAI's ChatGPT and TechSee's Computer Vision AI",
-      "excerpt": "The integration of Computer Vision AI and Conversational Al will empower organizations to offer full service automation across all digital",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openai-s-chatgpt-and-techsee-s-computer-vision-ai-1032219428",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openai-s-chatgpt-and-techsee-s-computer-vision-ai-1032219428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift.md",
-      "title": "NVIDIA's H100 Hopper GPU Sweeps MLPerf AI Inference Tests With Huge Performance Uplift",
-      "excerpt": "The new GPU is based on NVIDIA's Hopper architecture and features a Transformer Engine design. \"The next level of Generative AI requires new AI infrastructure to train large language models with ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift",
-      "originalUrl": "https://hothardware.com/news/nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-hype-money-and-founders-san-franciscos-generative-ai-boom.md",
-      "title": "Hype, money and founders: San Francisco’s generative AI Boom",
-      "excerpt": "How ChatGPT and other generative AI technologies are shaking up the city's startup ecosystem and restarting the hype cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2023/04/06/ai-boomtown.html",
-      "originalUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2023/04/06/ai-boomtown.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-renesas-cellular-to-cloud-development-kits-now-connect-seamlessly-to-microsoft-azure-cloud-services.md",
-      "title": "Renesas Cellular-to-Cloud Development Kits Now Connect Seamlessly to Microsoft Azure Cloud Services",
-      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that its cellular-to-cloud development kits powered by Renesas' 32-bit microcontrollers (MCUs) now fully support Microsoft's popular Azure cloud services.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-jon-rahm-four-putted-the-first-hole-at-the-masters-and-even-ibm-watson-was-speechless.md",
-      "title": "Jon Rahm Four-Putted the First Hole at The Masters and Even IBM Watson Was Speechless",
-      "excerpt": "So when faced with Rahm missing a very short putt for bogey the Masters' exclusive Artificial Intelligence commentary provided by IBM simply did not compute. Even Watson was speechless when Rahm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebiglead.com/posts/jon-rahm-four-putt-masters-01gxbjgttzhc",
-      "originalUrl": "https://www.thebiglead.com/posts/jon-rahm-four-putt-masters-01gxbjgttzhc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Big Lead",
-        "domain": "thebiglead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-is-tesla-full-self-driving-worth-it.md",
-      "title": "Is Tesla Full Self-Driving worth it?",
-      "excerpt": "But companies are also working on the next generation of self-driving cars, and there’s been no company more public about this than Tesla, which offers its Full Self-Driving tech. But while ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/is-tesla-full-self-driving-worth-it/",
-      "originalUrl": "https://www.digitaltrends.com/cars/is-tesla-full-self-driving-worth-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/A-Tesla-Model-Y-is-seen-driving-to-the-left.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/is-tesla-full-self-driving-worth-it/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/is-tesla-full-self-driving-worth-it/?amp",
-      "publishedDateTime": "2023-04-06T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-facebook-chief-zuckerberg-consumed-by-race-to-launch-ai-in-snub-to-musk-backed-pause.md",
-      "title": "Facebook chief Zuckerberg consumed by race to launch AI in snub to Musk-backed pause",
-      "excerpt": "Meta is the parent company of Facebook, Instagram WhatsApp ... \"We certainly have a large research organization, hundreds of people.\" CHATGPT AI LISTS JOBS IT CAN DO BETTER THAN HUMANS AS MILLIONS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/facebook-chief-zuckerberg-consumed-race-launch-ai-snub-musk-backed-pause",
-      "originalUrl": "https://www.foxbusiness.com/technology/facebook-chief-zuckerberg-consumed-race-launch-ai-snub-musk-backed-pause",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-cognitive-services-global-market-report-2023.md",
-      "title": "Cognitive Services Global Market Report 2023",
-      "excerpt": "Cognitive services are a set of tools and frameworks ... For instance, in May 2022, Microsoft Corporation, a US-based technology company expanded the Azure OpenAI service with the help of InstructGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105956934/Cognitive-Services-Global-Market-Report-2023",
-      "originalUrl": "https://menafn.com/1105956934/Cognitive-Services-Global-Market-Report-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

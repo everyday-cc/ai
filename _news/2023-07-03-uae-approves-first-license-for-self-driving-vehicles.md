@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "UAE awards China’s WeRide first license to operate self-driving cars"
+    excerpt: "The UAE permit will allow the Guangzhou-based driving technology company to test its level 4 human-free and fully autonomous vehicles on public roads throughout the emirates."
+    publishedDateTime: 2023-07-05T19:23:00Z
+    webUrl: "https://www.al-monitor.com/originals/2023/07/uae-awards-chinas-weride-first-license-operate-self-driving-cars"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 4
   - title: "UAE approves national license for self-driving vehicles in region’s first"
     excerpt: "Sheikh Mohammed said on Twitter, “We approve the establishment of a Ministry of Investment in the state within the federal government structure and appoint Mohammed Hassan Al Suwaidi as Minister of Investment in the state."
     publishedDateTime: 2023-07-03T12:26:00Z

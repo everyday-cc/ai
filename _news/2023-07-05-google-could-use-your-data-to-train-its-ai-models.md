@@ -41,6 +41,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Generative AI in games will create a copyright crisis"
+    excerpt: "As lame as this story is, it hints at a knotty copyright issue the games industry is only just beginning to unravel. I’ve created a story using my imagination—but to do that I’ve used an AI helper. So who wrote the tale?"
+    publishedDateTime: 2023-07-05T17:12:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Valve Does Not Want To Discourage The Use Of AI In Games"
     excerpt: "Banning AI art never really sounded like a Valve move in the first place. The libertarian company has long sought to place as few inhibitions on what can be sold on Steam as is possible, while steering wide of ever engaging with any political matter."
     publishedDateTime: 2023-07-04T14:10:00Z

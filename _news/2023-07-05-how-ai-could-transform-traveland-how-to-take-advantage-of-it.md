@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Changing Healthcare - A Platform Approach Using Data & AI"
+    excerpt: "Value-based Care (VBC) saves lives but about 40% of the commercial market has no access. It's time to change healthcare with. We a AI driven platform for VBC."
+    publishedDateTime: 2023-07-05T18:05:00Z
+    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/07/05/changing-healthcarea-platform-approach-using-data--ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Researchers are using AI to experiment with reading people’s minds"
     excerpt: "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I."
     publishedDateTime: 2023-07-05T05:06:00Z

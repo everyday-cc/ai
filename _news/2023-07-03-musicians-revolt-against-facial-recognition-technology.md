@@ -39,6 +39,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Army explores increase in facial recognition at gates"
+    excerpt: "Facial recognition cameras have been installed at Gate 10. According to Brian Reinwald, chief of physical security with the Garrison’s Directorate of Operations, these devices are part of a research and development program run by the Corps of Engineers and its contractors to evaluate new and upcoming access control technology."
+    publishedDateTime: 2023-07-05T07:00:00Z
+    webUrl: "https://www.theredstonerocket.com/military_scene/article_dd4fddec-1ada-11ee-a0c3-4bd43929d152.html"
+    type: article
+    provider:
+      name: The Redstone Rocket
+      domain: theredstonerocket.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/assets/v3/editorial/4/87/48791946-1acf-11ee-9c6a-e395f6b9fe12/64a4c09727461.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lost pet? RivCo uses facial recognition technology to reunite animals and owners"
+    excerpt: "The Riverside County Department of Animal Services is using a new tool to help reunite pets with their owners. This partnership came right on time with the Fourth of July holiday season. This is a time animal control finds more pets lost in the streets because of fireworks noises."
+    publishedDateTime: 2023-07-04T12:37:00Z
+    webUrl: "https://kesq.com/news/2023/07/04/a-new-way-to-reunite-lost-pets-with-its-owners/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 34
+    images:
+      - url: "https://kesq.b-cdn.net/2023/07/Screenshot-2023-07-03-at-12.13.31-PM.png"
+        width: 1200
+        height: 681
+        isCached: true
   - title: "Barred from grocery stores by facial recognition"
     excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
     publishedDateTime: 2023-07-03T13:00:00Z

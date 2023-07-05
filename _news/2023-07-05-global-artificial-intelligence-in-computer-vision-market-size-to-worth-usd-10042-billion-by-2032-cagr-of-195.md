@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-05T10:52:00Z
 originalUrl: "https://menafn.com/1106556267/Global-Artificial-Intelligence-In-Computer-Vision-Market-Size-To-Worth-Usd-10042-Billion-By-2032-Cagr-Of-195"
 webUrl: "https://menafn.com/1106556267/Global-Artificial-Intelligence-In-Computer-Vision-Market-Size-To-Worth-Usd-10042-Billion-By-2032-Cagr-Of-195"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?995995"

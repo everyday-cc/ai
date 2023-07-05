@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "‘Nonsensical, Bulls**t’: Artificial Intelligence Hiring Software Must Be Audited For Bias Under New NYC Law"
+    excerpt: "Artificial Intelligence Hiring Software Must Be Audited For Bias Under New NYC Law Ireland Walker on July 5, 2023 Companies in"
+    publishedDateTime: 2023-07-05T18:05:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/07/05/nonsensical-bullst-artificial-intelligence-hiring-software-must-be-audited-for-bias-under-new-nyc-law/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 0
 
 secured: "eKiPdeTSORx+wY/V4X3ULB0yeRSBxRj2Y/wkRLVtZZRbATsRZBqn7gQFankyGIvLLX6iKqU6ubWl3Y2aY1E8aEE2TEGwzF2kFlSoNG8B2Y+EuvA8avZRvwhlbI1UE0cPAuC7qXhB7vlfUVGGBeh8q9QVgGm+6UbN7lLwbv4XVXZBjAr357RRLZwbl4i9bbkw+GnRNW4dbeaptjSXzKrECrIcq6LgZ+QByN0Ea80upAwHoEgCFQeuIMgj12fLMAPJ8RtFhx0eWivq1Pbab5dwpg2Mov3U/ZhPHpDguOC6p+ii/ac0X9zkjXEDotBVxWPXwylO0QYUL5ihlMq835CdxaVtUH8aExPwiWdo0hyjPTNgngQ03c0xY3iq5PE5ydhCCoaZHgoTr/7vOezeAR+CNYeM2eXto2I+p1YLE1KF8lguqveSWzgYdRu1AjtskX67S4/nENIXo7DcagnpqbzJa6ZjPw566MrE+E1dddXRpY6KNGYd4I3xodJMnFLMPZ6z7M1vcJnoKOATApXabGNfQQ==;qKC/jfuuTG2mnacY6j7f5Q=="
 ---

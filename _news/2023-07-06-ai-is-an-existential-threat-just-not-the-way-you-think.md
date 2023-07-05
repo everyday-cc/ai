@@ -1,18 +1,18 @@
 ---
 category: news
-title: "AI is an existential threat – just not the way you think"
-excerpt: "For the past few months, executives and AI safety researchers have been offering predictions, dubbed “P(doom),” about the probability that AI will bring about a large-scale catastrophe. You might ask how such existential fears are supposed to play out."
-publishedDateTime: 2023-07-05T17:03:00Z
-originalUrl: "https://www.chron.com/news/article/ai-is-an-existential-threat-just-not-the-way-18185139.php"
-webUrl: "https://www.chron.com/news/article/ai-is-an-existential-threat-just-not-the-way-18185139.php"
+title: "AI Is an Existential Threat – Just Not the Way You Think"
+excerpt: "From open letters to congressional testimony, some AI leaders have stoked fears that the technology is a direct threat to humanity. The reality is less dramatic but perhaps more insidious."
+publishedDateTime: 2023-07-05T19:56:00Z
+originalUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think"
+webUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Government Technology
+  domain: govtech.com
 
 topics:
   - AI
@@ -51,6 +51,6 @@ related:
       domain: phys.org
     quality: 17
 
-secured: "nZYxXZOTxCTbdukCgi79/eOB/GXKrroVBrKWh+sIcRbvegKS9zqQm7znTgYOebufv1necn6FJLPEvcfDpHi3w/qyFue8+7AKrPZBUPZ3SY6gn4b/edDeGSpaGfgQL1RfhVKO+OpZd+BdWyGQ1dRps3dtz7+sb23ewZsXcVQcYhz3nA60gqboLwoVms51N8n7nxXaMyndqBSkxK+pWkn4VmCsNW326QyYYv/j0LAyxYXGH2y2G5xROneEJUsiMwGCGpHRt7Ob6vjtai4a5siGZgr9NjvSJjyTcg2GcL3oCsR/qu7UwONP761xc/UUQoOPS6RfGtto31FGl+pHP5DMwb8XSZ/Wb3bl2bej9cqb1hk=;etV9CFdKuB9FrVSEA1AEAQ=="
+secured: "UA4g3pMITnklbdFZn76hymST1xsZ49LGpjR11+0720wc2MmKiITq7tdz40iT80CC5f4+pM+i+LRZ63pVIrSXoVuD/qyVEYSVMFIEIaQkmwdFF0iLpFgVluWhb706rRazVLP/8BNWdjgbwv/eMdkeuZtnFsQZzH2ZIsB7/6o+E/Erneqwi1lWloHSaTPXJltonHvy3mTEsW1/k6h61w0jeWFTxveER8JyZvz7RiQ96rw6gw1tXblu9snzlh+0+3w0WzfuIUj+l3XdmH3IVWpn3jrXIKtLu7XmAUCTm69WFdqANZFv+x+k58Rs5ooq4QDy3eoI0hglcR6ivyVaDia4U4mQ5/BIZLBElCa1rEtSTm8+OumCxGDcc+elUcxGgVdEbxn2+2RH1/JSnq81cb9Q/iUHWusAd5JegIkLWUs9rGTdrUAJB8drLcqZuM/Nn4P+NZYBHems77rBxqjnpR199JtkLYzlNUUewGqNWCRYEvO+mHsBOzQ2M0oPbCXRx8ZOxpi/I9/z5kC2BGgvjsqtrA==;cmf5O9vRSo20ArGtbk85MA=="
 ---
 

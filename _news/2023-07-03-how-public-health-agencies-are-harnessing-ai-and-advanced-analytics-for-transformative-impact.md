@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/89101410-1688437795.jpg"
         width: 650
         height: 363
+        isCached: true
+  - title: "Gartner survey: Most corporate strategists find AI and analytics critical to success"
+    excerpt: "A new survey from Gartner has revealed that most corporate strategists think that AI and analytics are critical to their success."
+    publishedDateTime: 2023-07-05T21:21:00Z
+    webUrl: "https://venturebeat.com/ai/gartner-survey-most-corporate-strategists-find-ai-and-analytics-critical-to-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/GettyImages-1373296586.jpg?w=1200&strip=all"
+        width: 1200
+        height: 680
         isCached: true
 
 secured: "9IQf21XbFb1ok+o6Lg7vJ9pzm/mCF9LpRlSn+HNmvFxmqm6cAbIEL6ZLfdVf4VDSgKWWU3GnAYhBDoVoi2Jflrfw8CWsmhbuOgMSUjSsLllxwXGNbS1PUb49UQxpuQTNDafpD6iddDr5v46lRTKlb+Tsc570cgFqsWb48eX1WI43TMG0OyQRJuxsDHAwcmyZIsjZZLPwHB8QSx8Ajb5hHyyEh5O3etymx2JWIjv+nsOYrBs+jmA8zWzElM3n1U7TT0M8NXEHfnLSQKBd//qruz6TusTNqpoY3XZXmfPDLNrxIuCR2mj3l/CU6YQAQE3XsR4zd4cqEFai75sT8z2dNS0aRnGICnnhYiYhJy93zYo1925xdiqcAOnYXX92B/OEh/FJ06BMll/62zh0fZ+TcZDjiZGEggVmYBoRgiwx+PqALFwRJ1xIHI6dgAcrnp0ZvSHCb4IFdWpWTL4UiUa8dNGjwKnEyr14LXwurgFYtenGvd+QPyEOVHFzjuhWctwIBpSAExbLOMrZ3cwO9ObArw==;LXNjBheA7TOJXVgyQMiKzw=="

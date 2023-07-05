@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-wea
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
 type: article
 quality: 86
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -140,6 +140,15 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
+    quality: 19
+  - title: "Does Nvidia Ai Stand For Artificially Inflated?"
+    excerpt: "Does Nvidia AI Stand for Artificially Inflated? When Nvidia (NVDA) rallied to $400, it briefly fell below that only to continue its climb. The GP"
+    publishedDateTime: 2023-07-05T18:25:00Z
+    webUrl: "https://menafn.com/1106558517/Does-Nvidia-Ai-Stand-For-Artificially-Inflated"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 19
 
 secured: "zEqpvwFgMQk75a/dHczQvqw+gAS+LqdMtjesydmxoD+m9S9xmgV8vEhlj3JQMBDY6Mv54hJspNkE/pBIQbR9Ec23vU7+LGoQMc69+y9od6QHCHYqgfvoDGIUIgMLGqjF14sbgi5HVnqnry76S0k4hOTob2elItZdEE7mxEm0LGF3Kdd1CrqKm6rsfLy5aWpGkJ23G358qxnmOTq25imgehcW2GZDGcZwSSUoy/t36KBKWxLTxIf4ZrAcT+g4+IvbcC7uSGBQLk7gyg4ZgTiZmy5Nu7cLfbImLE66DFseumqnO/9m9XdnzIY7T0BFOpRk7Aov+f+xZq2tm3lI0XPdXFqXRHbDLhO9ALCWdOkh0d4CQBNBz8M9cZRtVuuBEW27v/WQ32pBxmT/m1JbT1S33nPDj1R887D69/v4+0NpCxWub2tW9FPyuMMWWryAuDXzCu0yLXBHq1vXvqGdW+THBeNU4jUF+esJkQN0X8S/+oXujNRn05JXoaeSLgRBXSfpUaxtlstW2foN+q9hPRWuyQ==;Om6Uu4LuxaCl0CdVIk1H9A=="

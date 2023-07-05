@@ -39,6 +39,15 @@ related:
         width: 770
         height: 510
         isCached: true
+  - title: "Company-X bolsters NZ fintech start-up Tania.AI"
+    excerpt: "Waikato-based software specialist Company-X has boosted financial technology start-up Tania.AI’s mobile and web apps. Due to a growing number of users, the volume of data being imported nightly from Xero was creating a challenge of triggering manual updates."
+    publishedDateTime: 2023-07-05T19:24:00Z
+    webUrl: "https://www.reseller.co.nz/article/707903/company-x-boosts-nz-fintech-start-up-tania-ai/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 19
 
 secured: "asyr89ezqwiebHz1O/fSbPbl+VJIuG1a2e1vTe9k3ovXwPqGFJzbKW/epNoyOTakHQ23tzuLTg8TfWoTXxkuBQy36TKRS1sjcwDtE0a8C+duoP5WjNnrXi96HPt8bzjc8D5Fl68vIn87aOM3i6l6p3WAmB3984GibJoWyXh9zm48Eedmr9JlTpLiqUP1Toay0Y5wzStU69dy4r5TfdUJYv9XAQkGT1bgmDbXQSrj4Z2oF31o9vSR1PReIXY3L6zXg2cUwQ1gA9WY30pSyB9GgIkRp4QXq2smK+qTjgMn9PBJdEw//F1MM9FcC2SGhdrw7CXy+5zJMUDvl4Ok2lIyp7k4Au5vhgQkQnn73bXajDukuI/VIQAIapa6pp7Gev3tMtsw20ukabjJFkdJWpPLa2ybalseUsSn79LR8LchnstSzYeKWS4pLpSBY5/2g8MCF+7jGOeu5iBrWKPFWqw7mNQWpU8KR/+pSr6YW3GHhOrBqH7dYbrTHjhCMs4seAbMvGMARVh09rYjEuMgv67T+A==;tfMTBO/gZ+h1W9XwBqZL9A=="
 ---

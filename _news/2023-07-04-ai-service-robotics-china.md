@@ -7,7 +7,7 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-ro
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/china"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Aigen unveils an AI-driven, solar-powered, agricultural robotics service"
+    excerpt: "The fossil fuel-free Aigen Element helps farmers reduce chemicals in food, and improve human and planetary health."
+    publishedDateTime: 2023-07-05T19:07:00Z
+    webUrl: "https://www.therobotreport.com/aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 78
 
 secured: "Bgn7MnNn7fuWp/4jj/lw67lGDKRApSofk6+EShbFLt4seJ6VZqZP3UeRSMNf0B0wiE5yvPzvfYytIuL5FNNE1j3/Lu3QKteXqNelfWYj4kT2dUI7xAVvJ5l9TMMunxre9tCA6+pi3YXCEAi+WBAnpH+TWs+boen9QIrwkcwUyRmF3G6R9U8Pa4veEWIaVdSXS5OkEL9d0WJS2LeOuQeF2PulZuDU4QGjg/P6pawCGsbFBlnEvuHCmZ1lNFvBF2R4W+gonxsWUCBAKXSJX55W3mMXWn6cbAE8MkQ5fuewUVUqZP6/Fb8tr5dTErufBBjloB0Rl8al3vAjuBM0TFuH6CncbT+l85L9hc3GmO/9ce4=;dOs6tUxNlAVa/KwnWZwigA=="
 ---

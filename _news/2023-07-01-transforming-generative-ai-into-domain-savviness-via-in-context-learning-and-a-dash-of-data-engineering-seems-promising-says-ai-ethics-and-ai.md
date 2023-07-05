@@ -80,17 +80,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI in games will create a copyright crisis"
-    excerpt: "Things get even more complicated if someone pays the $9.99 per month required to incorporate Stable Diffusion, the text-to-image generator, which can conjure accompanying pictures in their AI Dungeon stories."
-    publishedDateTime: 2023-07-05T17:12:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/2/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/2/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/2/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
   - title: "How AI can help process waste and increase recycling"
     excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
     publishedDateTime: 2023-07-02T23:12:00Z

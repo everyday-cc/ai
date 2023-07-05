@@ -19,17 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "TSA to expand its facial recognition program to over 400 airports"
-    excerpt: "The expansion comes amid allegations by rights advocates that the agency is improperly coercing travelers to participate."
-    publishedDateTime: 2023-07-03T16:27:00Z
-    webUrl: "https://www.securityinfowatch.com/critical-infrastructure/news/53065120/tsa-to-expand-its-facial-recognition-program-to-over-400-airports"
+  - title: "Russia illegally used facial recognition to arrest protestor, human rights court rules"
+    excerpt: "The use of facial recognition in this case was ‘incompatible with the ideals and values of a democratic society governed by the rule of law,’ court rules."
+    publishedDateTime: 2023-07-04T11:07:00Z
+    webUrl: "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/"
+    ampWebUrl: "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/amp/"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
+      name: Politico Europe
+      domain: politico.eu
+    quality: 51
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/07/20230315_AMX_BIZ_TSA_CHIEF_SAYS_BIOMETRICS_AND_1_DA.64a2f21f6090f.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/04/GettyImages-1208074535-scaled.jpg"
         width: 1200
         height: 630
         isCached: true

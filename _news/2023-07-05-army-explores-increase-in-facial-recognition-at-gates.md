@@ -25,54 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "Tasting success in Puri, facial recognition now in big cities"
-    excerpt: "In a first-of-its-kind initiative, the state police have introduced a facial recognition technology in Puri to track the movement of habitual offende"
-    publishedDateTime: 2023-07-01T03:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/articleshow/101408716.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
+  - title: "Rage Against the Machine Refuses to Play Venues With Facial Recognition"
+    excerpt: "Rage Against the Machine is living up to its name by signing a pledge to boycott venues that use facial recognition technology. Band cofounders Tom Morello and Zack De La Rocha are, as Rolling ..."
+    publishedDateTime: 2023-07-01T18:24:00Z
+    webUrl: "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: Futurism
+      domain: futurism.com
+    quality: 54
     images:
-      - url: "https://static.toiimg.com/thumb/msid-101408730,width-1070,height-580,imgsize-1561423,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://wp-assets.futurism.com/2023/06/rage-against-the-machine-facial-recognition.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Facial-recognition tech helps nab 90 miscreants during Rath Yatra in Puri"
-    excerpt: "Armed with facial recognition software and trained in analysing crowd behaviour during the annual Rath Yatra this year, a specialised team formed by the Puri Police arrested over 90 snatchers during the festivities in this pilgrim town,"
-    publishedDateTime: 2023-07-01T11:02:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/facial-recognition-tech-helps-nab-90-miscreants-during-rath-yatra-in-puri-521849"
-    ampWebUrl: "https://m.tribuneindia.com/news/nation/facial-recognition-tech-helps-nab-90-miscreants-during-rath-yatra-in-puri-521849"
-    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/nation/facial-recognition-tech-helps-nab-90-miscreants-during-rath-yatra-in-puri-521849"
+  - title: "Musicians revolt against facial recognition technology"
+    excerpt: "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology."
+    publishedDateTime: 2023-07-03T09:52:00Z
+    webUrl: "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 43
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/7/2023_7$largeimg_163952569.JPG"
-        width: 600
-        height: 400
+      - url: "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg"
+        width: 620
+        height: 434
         isCached: true
-  - title: "Facial-recognition tech helps nab 90 snatchers during Rath Yatra in Puri"
-    excerpt: "As many as 117 phones were seized. Thousands of devotees had congregated at the seaside town for the Rath Yatra on June 20. The return car festival was celebrated on June 28 with devotees pulling the chariots of the deities back to the Jagannath Temple from another shrine, three km away."
-    publishedDateTime: 2023-07-01T11:29:00Z
-    webUrl: "https://www.telegraphindia.com/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
-    ampWebUrl: "https://www.telegraphindia.com/amp/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
+  - title: "Lost pet? RivCo uses facial recognition technology to reunite animals and owners"
+    excerpt: "The Riverside County Department of Animal Services is using a new tool to help reunite pets with their owners. This partnership came right on time with the Fourth of July holiday season. This is a time animal control finds more pets lost in the streets because of fireworks noises."
+    publishedDateTime: 2023-07-04T12:37:00Z
+    webUrl: "https://kesq.com/news/2023/07/04/a-new-way-to-reunite-lost-pets-with-its-owners/"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 43
+      name: KESQ News
+      domain: kesq.com
+    quality: 34
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1687088023_rath-yatra.jpg"
-        width: 900
-        height: 600
+      - url: "https://kesq.b-cdn.net/2023/07/Screenshot-2023-07-03-at-12.13.31-PM.png"
+        width: 1200
+        height: 681
         isCached: true
+  - title: "Barred from grocery stores by facial recognition"
+    excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
+    publishedDateTime: 2023-07-03T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "6e738pnxlqPSrH7T3W7sLAIbHaP+o0KXrTIrf4rHCAUnaqD4GdsZPE3FrFSijpBp7XpKXm8nHBkoJ4im0cG/u+AYRafvdeI0AyVpU1XWiF2Qbe6R0KfWOPc0M2sIKqSt8UQ4LZawI6417+qnObvpMZzPtwZH2QR2vrm7d/ydROBvgNr4tkkP6l+jPz6Eq1CvGymTCU0ISH5WGu6gpSvnU4MPmAw8u9kgD+OTf1MT0a1aP/U+CCR++H2xVXr0aJSA5TOuy5Xop+lJ2cdr6h+fXrmSQjPII61gDjgz8yJFPtAnVru6P1yH+LJY/bUht5IZlK39iG3DDYBPLlZc63SsuCBTCeE2nMG+Y+LzuVhLG5U=;WiHEtrKqR9SXlDVODMa0sw=="
 ---

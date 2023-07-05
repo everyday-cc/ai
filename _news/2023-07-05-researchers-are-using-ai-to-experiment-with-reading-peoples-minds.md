@@ -57,6 +57,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Changing Healthcare - A Platform Approach Using Data & AI"
+    excerpt: "Value-based Care (VBC) saves lives but about 40% of the commercial market has no access. It's time to change healthcare with. We a AI driven platform for VBC."
+    publishedDateTime: 2023-07-05T18:05:00Z
+    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/07/05/changing-healthcarea-platform-approach-using-data--ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Startup Launches AI Model To Fight Business Phishing Attacks"
     excerpt: "A startup has created a solution to fight Business Email Compromise (BEC) attacks, a new phishing threat that targets company communications."
     publishedDateTime: 2023-07-05T10:28:00Z
