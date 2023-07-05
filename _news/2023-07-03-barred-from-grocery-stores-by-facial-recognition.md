@@ -47,20 +47,6 @@ related:
         width: 620
         height: 434
         isCached: true
-  - title: "Over 100 top artists boycott venues that use face recognition tech"
-    excerpt: "More than 100 top artists and music bands have announced to boycott big venues like Madison Square Garden in New York over the use of facial recognition technology amid privacy and discrimination concerns."
-    publishedDateTime: 2023-07-03T07:00:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1095858"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/kvn_300623_silaspu2.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "YsTBCF8TQTmepot/WaYYomvkzRoCBfzE7Nebk0X4Z2f0e89YFx7QBFTB8bnEGQbNUbu9fapcu6oc96qmDeXMo7maQ4CYANqXZrIjb1Gq3oWezRrHYJA1RwVdvKpU22G3QzQ7lZucN8L2813YEqT8cLImBeeduMgrpkNXU1GyTExL6CZhKQg05IpHGEqmjTlxkmLAj+bEBKCsdbFyZVvHIQ2aiJ9qvx1NNj83HWQloT6A74R21bgez9d3stVJgaTSpf7XbCNwOH6DwGsAsUdMtJVwkE9J1Zh0yRjT8vPC+H6eHk423GRAvyTMrNKQ3XyL7axjK6TJ4RdyDtgVBa7BO04IqMDAh5yhtl9ZxxAsQYCYXb/Hnh8WXDXdvhHKKtPXpqj74dcQkuR2w46G954uOs/JvL4YlHP4OrKenRtuibeGQk+E4IcCZlLQ/UCNu1KR9jhvbOQH9LAZjB4A0ZxCn6YhR2DYMkSG8fUUYa3zAQyCQKEhEwRHm08DjE4Rj15Z99+qyZsAeiiyrdT79TSQbg==;g2Ps+iNYDF4v9ykNruJa7A=="
 ---

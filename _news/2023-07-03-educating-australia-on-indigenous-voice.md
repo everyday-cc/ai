@@ -55,6 +55,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Australia news live: corruption commission receives 300 referrals in a few days; Burney condemns ‘Trump-style’ voice politics"
+    excerpt: "Follow live"
+    publishedDateTime: 2023-07-05T02:54:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/jul/05/australia-news-live-tanya-plibersek-murray-darling-basin-water-plan-voice-indigenous-referendum-linda-burney-pwc-china-anthony-albanese?page=with:block-64a4e78b8f081d0996a3625a"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jul/05/australia-news-live-tanya-plibersek-murray-darling-basin-water-plan-voice-indigenous-referendum-linda-burney-pwc-china-anthony-albanese"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jul/05/australia-news-live-tanya-plibersek-murray-darling-basin-water-plan-voice-indigenous-referendum-linda-burney-pwc-china-anthony-albanese"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+    images:
+      - url: "https://i.guim.co.uk/img/media/066c9057fc95744497b2702ae0b6937144989226/0_4_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=58b9dbe280f1e08234900269e254fbcb"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "Fgwteexs7EGoHWMAqomx5H3TNjCOWKeY2Sq1Ybw15Oq0NKDY2LtQe3qSeL8An4Vr2JUzMhT30aKoYOwUHrK28sxYH6hidllrZy9iV1xaBv0jszPEryYL9TE6gHIgfCETDzaJMcsn6JQjMNCRMj4WutBzeAfMrMVeY0h8mx9UNLliG1E/+DsFgFMJ8NylvbWiRwu3zZ85icGQG3FNLRdPSy5TVJQS6fSM0gEvCRvW/X3B8BA+tHtuUGgOGntQtX/sBVN/faPJ7mPl4ockV5QlR/kQorjexLVcBIbejpOOGaJNtc8FzrTgZdFctxUmMoh7ZEBikCHPmjpEbCwOIFffkuzNDEoyIWeQJc8QH/AIVNk=;QGh6Pl20bxfUXUFl119QrQ=="
 ---

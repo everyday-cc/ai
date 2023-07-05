@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-21-amazon-announces-general-availability-of-codecatalyst-aws-developer-tools.md",
+      "title": "Amazon announces general availability of CodeCatalyst AWS developer tools",
+      "excerpt": "Invent 2022, where it was described by Amazon as a tool for professional developers to jumpstart applications on AWS using DevOps best practices. It gives them all the tools they need to provision cloud instances and infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
+      "originalUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/keyboard-gafbae8400_1280.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-hsbc-launches-ai-powered-equity-index-using-aws.md",
       "title": "HSBC Launches AI-Powered Equity Index Using AWS",
       "excerpt": "The HSBC AIGT index was developed by HSBC and leverages the artificial intelligence (AI) capabilities of AWS to carry out an AI-based index investment process. HSBC AIGT uses AWS AI services to ...",
@@ -1362,50 +1405,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-hankook-company-partners-with-aws-snowflake-for-ai-platform.md",
-      "title": "Hankook & Company Partners with AWS, Snowflake for AI Platform",
-      "excerpt": "Company seeks to establish a data-driven culture and create more business value by enhancing data accessibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aftermarketnews.com/hankook-company-partners-with-aws-snowflake-for-ai-data-platform/",
-      "originalUrl": "https://www.aftermarketnews.com/hankook-company-partners-with-aws-snowflake-for-ai-data-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s19538.pcdn.co/wp-content/uploads/2022/07/partnership.jpg",
-          "width": 1400,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "After Market News",
-        "domain": "aftermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AWS AI"
       ]

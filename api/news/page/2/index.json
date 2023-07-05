@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-03-automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study.md",
+      "title": "Automated deep learning AI tool with CT imaging facilitates screening for enlarged spleen: Study",
+      "excerpt": "USA: A research team from the US has derived a weight-based volumetric threshold for splenomegaly (spleen enlargement) using an automated AI-based tool. In their study published in the American Journal of Roentgenology,",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "originalUrl": "https://medicaldialogues.in/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2023/07/01/213288-splenomegaly.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
+      "publishedDateTime": "2023-07-03T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-eu-to-work-with-japan-on-ai-and-chip-supply-chain.md",
+      "title": "EU to Work with Japan on AI and Chip Supply Chain",
+      "excerpt": "The European Union (EU) is set to work with Japan in a bid to boost its Artificial Intelligence (AI) and chip supply chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/",
+      "originalUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/07/eu-japan-ai-chip.jpg",
+          "width": 1170,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/eu-japan-ai-chip/amp/",
+      "publishedDateTime": "2023-07-03T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws.md",
       "title": "Auto-labeling module for deep learning-based Advanced Driver Assistance Systems on AWS",
       "excerpt": "In computer vision (CV), adding tags to identify objects of interest or bounding boxes to locate the objects is called labeling. It’s one of the prerequisite tasks to prepare training data to train a deep learning model. Hundreds of thousands of work hours are spent generating high-quality labels from",
@@ -115,7 +201,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -366,7 +452,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -970,7 +1056,7 @@
       "originalUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1105,102 +1191,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week.md",
-      "title": "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week",
-      "excerpt": "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
-      "originalUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop",
-          "width": 626,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33088892",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892",
-      "publishedDateTime": "2023-07-01T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-us-ai-chip-controls-dont-deter-blackrock-from-going-all-in-the-week-in-ai.md",
-      "title": "US AI Chip Controls Don’t Deter BlackRock From Going All In: The Week in AI",
-      "excerpt": "Artificial intelligence has become the latest battleground for world dominance between China and the US, adding one more link in a long chain of technological rivalries between the two superpowers. The US has so far maintained a competitive edge, but an explosion of Chinese startups in recent months has brought its lead into question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBYAznfVq6ko/v1/1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

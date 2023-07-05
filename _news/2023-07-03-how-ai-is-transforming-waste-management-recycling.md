@@ -27,15 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "AI in recruitment"
-    excerpt: "Let’s rethink recruiting. If you were to design the recruitment process for a new company, what would you automate to identify and get the best talent?\nThe post AI in recruitment appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-30T14:45:11Z
-    webUrl: "https://www.ibm.com/blog/ai-in-recruitment/"
+  - title: "How AI Is Transforming The Leadership Landscape In The 21st Century"
+    excerpt: "I believe we stand at the threshold of a new era: the AI-powered leadership revolution that promises to redefine the way we work, live and communicate."
+    publishedDateTime: 2023-07-03T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649ee304e60ed64f9d324232/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
+    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
+    publishedDateTime: 2023-07-02T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
+        width: 1706
+        height: 2560
+        isCached: true
 
 secured: "kPpvhOlcv0OKpJOiZ8t6CoDSI9y0rhAtQ+yvj32bS0sfdAeBn4LKKvHkWU/9zsCL3eZuRarSFR26ea4dJP/QcXmlYPHji4AqWEcFEn9gTNzwibVZCqDTjcW/f4MKVtVuplCrNRh/N3eMKre42zBV27FZ4PgRNd/TDwOg7nU9f3ANusTzpkhVoaD995/W/cQjQKNDSpg+HhRB2sNqM9sWYMVbcKQwGVK0AoveQ7uty+9FdmUwCj17VqsSdeR6npWaHaBpev0rLDmQdFGj2jKSoQbA+P4BjvROFdbW16v8YxkvyHq/5n1vx5VX3RxtvzyTsTjZ+kv0hQ0XS+I75GLmB1Lr/naJMGw5/VdsjtiZUJoWH1QqVjlALnpDpIcKtxr7ywq9B4u+cldTTvUQuz0TiyR1msmlbATr2K5HnffIemO5VILAwn7pL1IGg9NfEGZQEQc4AKrsDB+qVeydaVDlkCU1hJeA0qnx5j+llKdCZ4IznsBQOpkQv9u7gxoXB/1wzUhjKjwNGNg0WYUeoZbb5A==;3Bu/B4O+igbXEDeODzrSFA=="
 ---

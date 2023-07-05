@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/international/us/use-speech-to-text
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/use-speech-to-text-in-windows-10-11-and-microsoft-word-will-write-what-you-speak-heres-how/amp_articleshow/101439612.cms"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "NHS England to roll out Microsoft 365 productivity tools for more efficient healthcare services"
-    excerpt: "Healthcare provider NHS England will equip 1.5 million members of its workforce with Microsoft 365 productivity tools to enhance care and maximise time for care as part of a new five-year agreement with Microsoft."
-    publishedDateTime: 2023-06-30T13:13:00Z
-    webUrl: "https://www.technologyrecord.com/article/nhs-england-to-roll-out-microsoft-365-productivity-tools-for-more-efficient-healthcare-services"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 24
 
 secured: "6ZDfGy9lbWEmnViR9uAEGWylXmANfU7k7UibYWuOI0R3R+EQHnn25Gq3h0T2c6C6X/oO3lw+xlMymIJRZnDjB4NGaF3g23XfKOhmrXxHJO2eY455zt/ozswLTMcRWJ3sfUonoFcwGr1Uws/C3Chwp/Igp5Y+Lj3rZeDKA/xvOm8MeKyexj/5AaTXyzwTsU6tnMlh3ZTHzAds9sYI/KWeXzMps75mt9Sq9h9zL8C+a9fnkNVtzWmRUi/91WsSKVkj5rAWAzYb+5sCoubtHRhuknOG7mqwF0Fsg7O6822i+FMWWo9HywX/yQRKtDgQFMetslZjlhzitULiezLL3CxhXclvL+fWBz0VxMraujoo+xPTQKKKy09N6GWG/fDOF8ezEeq76yzmHOnfc1Mp7T64b9uh1SiXSttXYuBsgpAHh3YPiRyb8k/ccrW4MCA/w+3sJJcu8Qxo9QWml0oSGa/AisVn40rxtI8wmI77f4lnXhVVShNI5s5t6mOqiaPC4Ytt+eU1sNqzAwO1oF9YMzdaSw==;n1ALVn8Vvu9lEB3VFgXWyA=="
 ---

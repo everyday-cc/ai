@@ -74,15 +74,6 @@ related:
         width: 660
         height: 441
         isCached: true
-  - title: "How Blockchain And AI Can Change Businesses In The Future"
-    excerpt: "Today's technology is fast-paced and changing in ways that have never been witnessed before, so businesses are developing strategies to keep ahead."
-    publishedDateTime: 2023-06-30T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/30/how-blockchain-and-ai-can-change-businesses-in-the-future/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "zmucjPEGsrqbPkkmiYLJj0Agc1LGmQeg0jmmVwwDlNOslYJwMzNKCSW90faKo9LQwbQVGFe4yPLWk3e2c92pBsOCmvxSlrFIY5FYLb1JbO6D7VyHoXXcscetfsQNjmH3CQjMD8lYB0Q/yVVkmgRRLaqvFhDThLyASbQF+/KAkX2nT4D2Vfve41mqjFdYBzIyHk1Y4yj0LSikuAjjcUFvQEjpw/NKMGpPvBNrpLA0dttTLeKYBqin+Q/Q5fhVC82k8mYNbzVUu89SD9fnFlAVIkaNIEzMBFnrBB+cAVpA0OPaLspiLwOm24PwMt4dAjkEtEYOMdubFAb/O6T1AGCCCNhMYl1kLGrY+KNXaBkK8E8=;8TRlfOU4pOnH1l/2kybLtA=="
 ---

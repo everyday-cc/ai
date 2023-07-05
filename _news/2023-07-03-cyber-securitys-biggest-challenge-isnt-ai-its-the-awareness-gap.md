@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why healthcare in the cloud must move to zero trust cybersecurity"
-    excerpt: "To protect patient identities and health records, healthcare providers must adopt zero trust cybersecurity amid increasing cyberattacks."
-    publishedDateTime: 2023-06-30T14:07:00Z
-    webUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/GettyImages-1251551602-e1634921639991.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Check Point’s Tony Sabaj on AI in Cybersecurity"
     excerpt: "The Check Point executive offers advice to companies on how to understand the role of AI in cybersecurity, and he also highlights key AI trends driving the market."
     publishedDateTime: 2023-07-04T21:32:00Z

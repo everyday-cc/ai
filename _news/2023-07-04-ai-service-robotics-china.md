@@ -7,7 +7,7 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-ro
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/china"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI Service Robotics - Greece"
-    excerpt: "Value in the AI Service Robotics market is projected to reach US$10.22m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.89%, resulting in a market volume of US$23 ..."
-    publishedDateTime: 2023-06-30T14:21:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/greece"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing - Greece"
-    excerpt: "Value in the Natural Language Processing market is projected to reach US$37.94m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.03%, resulting in a market volume of ..."
-    publishedDateTime: 2023-06-30T14:21:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/greece"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 39
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Bgn7MnNn7fuWp/4jj/lw67lGDKRApSofk6+EShbFLt4seJ6VZqZP3UeRSMNf0B0wiE5yvPzvfYytIuL5FNNE1j3/Lu3QKteXqNelfWYj4kT2dUI7xAVvJ5l9TMMunxre9tCA6+pi3YXCEAi+WBAnpH+TWs+boen9QIrwkcwUyRmF3G6R9U8Pa4veEWIaVdSXS5OkEL9d0WJS2LeOuQeF2PulZuDU4QGjg/P6pawCGsbFBlnEvuHCmZ1lNFvBF2R4W+gonxsWUCBAKXSJX55W3mMXWn6cbAE8MkQ5fuewUVUqZP6/Fb8tr5dTErufBBjloB0Rl8al3vAjuBM0TFuH6CncbT+l85L9hc3GmO/9ce4=;dOs6tUxNlAVa/KwnWZwigA=="
 ---

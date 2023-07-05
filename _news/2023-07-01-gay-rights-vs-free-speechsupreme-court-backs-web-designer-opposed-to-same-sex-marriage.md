@@ -43,20 +43,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Gay Rights vs. Free SpeechSupreme Court Backs Web Designer Opposed to Same-Sex Marriage"
-    excerpt: "The parade, the court said, was constitutionally protected speech. Justice Gorsuch said that in both cases ... In December, President Biden signed into law a bill that would mandate federal recognition of same-sex marriage. (The alliance publicly opposed ..."
-    publishedDateTime: 2023-06-30T14:41:00Z
-    webUrl: "https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-supreme-court/supreme-court-same-sex-marriage"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 46
-    images:
-      - url: "https://static01.nyt.com/images/2023/06/30/multimedia/30dc-scotus-lgbt-01-lvmj/30dc-scotus-lgbt-01-lvmj-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
 
 secured: "AZIDVPBqOWNIKu+3Qz5lzBXjhgt+WB6nEZZdcNNrnjcLo4djUYeaVqg6JusWJUVngkQkdmrHBqhfBylbb1ujyEq4IzqpBuvncF19Fpnbu7ix0A6PnLYe2rYYnlM6naretoKUotqcjaixYlICPhhjvUOW6VSzVDtfuV+RF+5ot+LgYDAuZDsVffmn3i8V3U3Vys1hMu6nnPH7Nwys76aR/BScfLKm94UI5MiOZ+lnOjsoEdDiuqQj2tRmaqRSRSPADScmLB8aKQvgCkatU+mJW8AxNmp7N/AR8SpSAMBBBcezejPuWf39DEYCH9BaK+Zu4s62ZEcbQTDv2h+O5pwHJgNX4Jv/G1xaYZKOQl03ZnY=;82MFZsRlzxZEarQdjcHXNg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://futurism.com/the-byte/rage-against-the-machine-facial-reco
 webUrl: "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg"
         width: 620
         height: 434
-        isCached: true
-  - title: "Over 100 top artists boycott venues that use face recognition tech"
-    excerpt: "More than 100 top artists and music bands have announced to boycott big venues like Madison Square Garden in New York over the use of facial recognition technology amid privacy and discrimination concerns."
-    publishedDateTime: 2023-07-03T07:00:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1095858"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/kvn_300623_silaspu2.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Barred from grocery stores by facial recognition"
     excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."

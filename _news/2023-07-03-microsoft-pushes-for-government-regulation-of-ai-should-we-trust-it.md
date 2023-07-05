@@ -55,22 +55,6 @@ related:
         width: 1400
         height: 719
         isCached: true
-  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
-    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 20"
-    publishedDateTime: 2023-06-30T14:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33079784"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33079784"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 82
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Microsoft Introduces New AI Tools from Singapore"
     excerpt: "Singapore-based start-ups, Babbobox and Wiz.AI, have collaborated with Microsoft to develop new AI tools that showcase promising advancements in the field. These tools aim to bring significant changes to various industries through their unique applications of AI technology."
     publishedDateTime: 2023-07-04T11:52:00Z

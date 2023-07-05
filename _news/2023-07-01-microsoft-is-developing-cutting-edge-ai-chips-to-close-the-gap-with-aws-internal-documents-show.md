@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compe
 webUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
         width: 1400
         height: 719
-        isCached: true
-  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
-    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 20"
-    publishedDateTime: 2023-06-30T14:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33079784"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33079784"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 82
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
     excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."

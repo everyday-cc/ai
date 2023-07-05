@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-pe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How Blockchain And AI Can Change Businesses In The Future"
-    excerpt: "Today's technology is fast-paced and changing in ways that have never been witnessed before, so businesses are developing strategies to keep ahead."
-    publishedDateTime: 2023-06-30T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/30/how-blockchain-and-ai-can-change-businesses-in-the-future/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "YqjI2xfow0DzTB+/BkW2o8KDAmeO8GgujtVIgvQlTuj2SnO305Wzs0Hhb4FVXjhfnKX4NgYhbfRO/nzelUui7hHnp8I8XqUdyuiypjUJWgH6e32UbQIK4lU/AgFv/6r0t91Cw1WbisKNXFp19jsI0bdZE0AbJNudUI2GKcZ8iX+l1+sh5K9AisIShY8lwJqHI8rdxmtT0Kb5ah019dDEawMGwySqp7MnbTnpkWGNMVQj9v/qn/5D/p43vovXluOJfQkT6h31NF8zOhhLeTuaGdhZH1KykxLnVwUHPJQ+aUwHrc+pwCO5Tv4+NIsR0xR+MqgAVSPFZNdnOSC2z6JNrAsYXwmsclAUSXgeqeGjMdtuUiMGZI+p8RGD+1qbXNBwCRhUKeB7US2+vPJtyYJj2LSRiOEazxU2EsVFCm+AJ+fQ6dAB/ifJASVshqbvsSq5RxOYmbQEtzc0a+RFyQxP5UlTDIi7xQfdoabHhq2PiJyUf7n1DvoNLFpzcpfEt+cqOgsR9r91uvxF0oCYpnb02A==;kklrwaJ17CDy1BonW/2xOg=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://news.artnet.com/art-world/artificial-intelligence-and-care-scie
 ampWebUrl: "https://news.artnet.com/art-world/artificial-intelligence-and-care-science-gallery-london-2327792/amp-page"
 cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/artificial-intelligence-and-care-science-gallery-london-2327792/amp-page"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://news.artnet.com/app/news-upload/2023/06/Cat-Royale-by-Blast-Theory_Image-Credit_Stephen-Daly_DSC_9976.jpeg"

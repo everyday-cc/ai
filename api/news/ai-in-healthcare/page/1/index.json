@@ -501,6 +501,40 @@
       ]
     },
     {
+      "path": "_news/2023-06-27-iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023-artificial-intelligence-breakthrough-awards.md",
+      "title": "IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards",
+      "excerpt": "IQVIA ™ (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life science industry, today announced that it has been selected as winner of the \"Best AI-based Solution for Healthcare\" award in the sixth annual AI Breakthrough Awards,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/27/9839877.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/27/9839877.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-the-transformative-impact-of-artificial-intelligence-in-medical-tech.md",
       "title": "The Transformative Impact Of Artificial Intelligence In Medical Tech",
       "excerpt": "While potentially impeding progress, government regulations play a crucial role in protecting patients and society.",
@@ -925,18 +959,27 @@
       "title": "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence",
       "excerpt": "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,",
       "sourceUrl": null,
-      "webUrl": "https://time.com/collection-post/6284870/openai-disrupters/",
-      "originalUrl": "https://time.com/collection-post/6284870/openai-disrupters/",
+      "webUrl": "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/",
+      "originalUrl": "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T05:52:00-07:00",
+      "publishedDateTime": "2023-06-21T03:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",
@@ -1307,58 +1350,6 @@
         "name": "San Diego Union-Tribune",
         "domain": "sandiegouniontribune.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-artificial-intelligence-systems-in-healthcare-market-research-2030.md",
-      "title": "Artificial Intelligence Systems in Healthcare Market Research | 2030",
-      "excerpt": "The Global Artificial Intelligence Systems in Healthcare market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-research-2030-2023-06-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-research-2030-2023-06-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

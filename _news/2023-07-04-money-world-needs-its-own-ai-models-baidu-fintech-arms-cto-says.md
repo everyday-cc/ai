@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
-    excerpt: "Singapore-based fintech company Dobin is a financial marketplace ... information combined with advanced data analytics and AI to provide personalised deals and product recommendations."
-    publishedDateTime: 2023-06-30T14:26:00Z
-    webUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changing-ai-powered-solution-personal-finance"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 52
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/DOBIN_Full_Colour.jpg?h=ce9c2370&itok=H42-wpD2"
-        width: 600
-        height: 316
-        isCached: true
   - title: "Company-X boosts NZ fintech start-up Tania.AI"
     excerpt: "Waikato-based software specialist Company-X has boosted financial technology start-up Tania.AI’s mobile and web apps. Due to a growing number of users, the volume of data being imported nightly from Xero was creating a challenge of triggering manual updates."
     publishedDateTime: 2023-07-04T00:03:00Z
@@ -53,34 +39,6 @@ related:
         width: 529
         height: 315
         isCached: true
-  - title: "F|T: The FinTech Times – Stripe & Robinhood make layoffs, Financeit acquires competitor"
-    excerpt: "Toronto-based Financeit has made another step towards becoming the leading home-improvement financing provider in Canada by acquiring its biggest competitor, Simply Group Financial, for up to an estimated $225 million."
-    publishedDateTime: 2023-07-04T09:59:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-stripe-robinhood-make-layoffs-financeit-acquires-competitor/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 31
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/11/mariia-shalabaieva-R-kigbubXbQ-unsplash-2.jpg"
-        width: 1150
-        height: 700
-        isCached: true
-  - title: "How fintech revolutionised the broking industry"
-    excerpt: "Digital stock broking platforms are leveraging algorithms to deliver relevant content with targeted marketing to reach out to younger audiences and get them started to invest in the market."
-    publishedDateTime: 2023-07-03T03:30:00Z
-    webUrl: "https://yourstory.com/2023/07/how-fintech-revolutionised-the-broking-industry"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 24
-    images:
-      - url: "https://images.yourstory.com/cs/1/4e3ddc80d8fb11eb80d70bdc06fbfe07/HowtoOpenDematAccountwithKotakSecurities-TradeFREEPlan-1624986035827.jpg?fm=png&auto=format"
-        width: 600
-        height: 380
-        isCached: true
   - title: "Latest Trends In Fintech - A Comprehensive Analysis"
     excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
     publishedDateTime: 2023-07-04T18:11:00Z
@@ -90,24 +48,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
-  - title: "Fintech Ecosystem Development Corp. (Nasdaq: Fexd) Advancing The Use Of Ai To Power Financial Solutions"
-    excerpt: "FEXD acknowledges the recent big data boom that has introduced tech-driven solutions in the current financial services space <li /> AI,"
-    publishedDateTime: 2023-07-03T19:51:00Z
-    webUrl: "https://menafn.com/1106548521/Fintech-Ecosystem-Development-Corp-Nasdaq-Fexd-Advancing-The-Use-Of-Ai-To-Power-Financial-Solutions"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 3
-  - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
-    excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
-    publishedDateTime: 2023-07-03T11:24:00Z
-    webUrl: "https://techbullion.com/fintech-revolution-a-deep-dive-into-how-technology-is-transforming-payday-loans/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "8CNgOZGzpEZDumHb/1stbrCa+w5zEnZKE5/5uaptKLqPKLdzh7rptLbtY9+89uP0lYApdYS2dhZOhC8auC7+bHqKFodlXcbJDdHQQM0OcwVTANoTIjOZCOdFu36DEK9zxmPpci7dM8EGy9Kgk0j8gUtRYRIgCFHawH4qR0eqw/iOS8FeyvDnaF8cRAj7gN7eZASKRxcZN7YTkwhhA7KBxw/eVsWPOS+DuZ3L/GFfoIkjPP+aQjkUoCk5akGMy9gcyEouVO2Q+XKO4pefXHhIZRW36O39nKxz2xsK+ntQABP9+4fY0KPGCayEgiDILQFAzMRRwysJOHpxexmUXlxvCAsF87vbyoZrPcHllKJpAnXrw2Hbud3turcsiHxXX2fBNsaYcA7+yxyRK9PSWBXwavNbI7Xvzh2EGr0DSSC03hXqkOT/c/n2BP0yA9suJRlVQyYCYcL6THtJS+ZlvLHpeXukDcRVKjmNaBQGL6csEva3cnG+n+OQwvHd5Gh9gGFyg8Wz2aljJFGKGamdKLP0Mg==;ytFYQZbqRHpK4p7//GKzkw=="
 ---

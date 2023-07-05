@@ -62,20 +62,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Businesses Aim to Harness Generative AI to Shake Up Accounting, Finance"
-    excerpt: "CFOs have ambitious plans for AI to boost efficiency, cut costs and ease a labor crunch, but the technology’s promise could take years to fulfill."
-    publishedDateTime: 2023-06-30T14:08:00Z
-    webUrl: "https://www.wsj.com/articles/businesses-cfo-aim-to-harness-generative-ai-to-shake-up-accounting-finance-f427ff"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-809446/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Valve raises concerns about legality of AI in game development"
     excerpt: "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright."
     publishedDateTime: 2023-07-04T00:15:00Z

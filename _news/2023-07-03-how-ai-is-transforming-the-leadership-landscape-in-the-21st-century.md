@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
         width: 1706
         height: 2560
+        isCached: true
+  - title: "How AI Is Transforming Waste Management, Recycling"
+    excerpt: "While some view AI as a threat, environmental advocates see it as a powerful tool for resolving waste problems."
+    publishedDateTime: 2023-07-03T16:38:00Z
+    webUrl: "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "+Mza1Ls+EIlKyj6t6FZqQDpVoADHC++B4gjTb0cFdkrVIF3XXH0uzwd1FEOVOwDhPBH7t+uslT/+1H8T0/2vXZK0OUGWQvIoYTsdi8qgeyJ6csguzdf//bDiZpXdLyANkQ0Fwz90dn6o3OeqipBLxpU/v2eIR4nQb6Cb84f1Wpfh1u1MDS3rE6kVFeVuHzbZ6l3euOYmCt6eEQOlPKsRSdqTZaJJU+Q5ofBp7Ktg4kkGPNuF0tT15tXCToFtlixm9JdL/mw8d8LRu1Ek5dGtVDuFDjeVsHsDX9PV4XfTrRCTI8H+r+IYP4JA6KQ/JhrveH0SpIKfhdSEr68RZzvAsmj6Y6/CuwIQD6Zeg8dEQ6Zvx+6aH+9k0oGBYVW7AwPSIXnGqq8P/72QeGTbKn4uqf2djQ2F61f+/Qoz+lHDpltAftgq8wUZ+HC2TJBnXKvj+a4I6RASXZrBOUwZdb1drcnE/OKLLeYkHRZzJq2t8lR0FZ0snpAq9E/sExcIWP+PXBzkHk3PJL/GrdBoPn+Zlg==;RbL6c1/ct8ofru7gb+Ytvg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/googles-updated-privacy-policy-states-it-
 webUrl: "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html"
 type: article
 quality: 62
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/FsgRBgMzqNYEfYewhU3otT-1200-80.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Google's decision to collect public data to train AI could have huge ramifications"
+    excerpt: "Google's updated privacy policy confirms that the company will use publicly available information online to train Bard and other AI products."
+    publishedDateTime: 2023-07-05T07:26:00Z
+    webUrl: "https://www.ibtimes.co.uk/googles-decision-collect-public-data-train-ai-could-have-huge-ramifications-1717383"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 33
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1715625/google-bard.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "tgmdyr/+pH8I7BiEjQBQLhN0n24u6UbeH1Lee4rtO2QVWgO2HKBggmFHplVkaJTP/mleb4mc5QoSh17w3eLnsKAvvmk4LpZb9P+n82qHI5gM1L8U0rIx3JOBA039i+jHbVIDQmXb29QGvV15DxX8xeh0y396oohEkMpzz+jzSEv6TssiEyySdNXhSPDk/lgk8ljpAvwVbZTYM9QoIw1C0bvkM4RUOBxNLfSK+rn5dou78nP9iFk9sbI4VvGTdDPXKF2cYFQPZpFs2BJEraDyJpHmv+nMx3IL4yMaASV4AIc2JtMUXa+sdde+53AVyFFtWHJRxwRW0aedidacTe60JFdNayLcShJY6luqsEI+k3b76hBOtjogPmmot7dNuH/+y+srXqyJMiNq0WrJ/YlFgc71cHvsXAIvCe/4qjVAhx7hzrSK+cOpOQc9GEpWMyopQiXSS2jbma/UD1U1LLQUYRPUzIb52RpKvO2oQvCnp0Bax2kB5IxED735TcHQKcTB/I0tifPvjdpUxyBMzGqVWg==;lDU+Xfolk7C+blhGT/KXUw=="

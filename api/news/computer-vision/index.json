@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-05-teg-responds-to-choice-campaign-on-face-recognition-tech.md",
+      "title": "TEG Responds to Choice Campaign on Face Recognition Tech",
+      "excerpt": "TEG does not collect biometric data at Qudos Bank Arena and ASM Global does not share any such data with TEG,\" a spokesman says.",
+      "sourceUrl": null,
+      "webUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/",
+      "originalUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://app.thebrag.com/img-socl/?url=https://images.thebrag.com/tmn/uploads/qudos-vax-hub.jpg&nologo=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://themusicnetwork-com.cdn.ampproject.org/c/s/themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/amp/",
+      "publishedDateTime": "2023-07-04T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Music Network",
+        "domain": "themusicnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-better-than-humans-ai-attack-drones-to-join-us-military-soon.md",
       "title": "Better Than Humans? AI Attack Drones to Join US Military Soon",
       "excerpt": "The AI system, developed by Athena AI, aims to enhance target identification and assist human drone operators. While the potential benefits are significant, concerns about ethics and AI reliability have been raised by experts.",
@@ -139,7 +182,7 @@
       "originalUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -225,7 +268,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/articleshow/101408716.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -311,58 +354,6 @@
         "AWS AI",
         "Machine Learning",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-gay-rights-rulingsupreme-court-backs-web-designer-opposed-to-same-sex-marriage.md",
-      "title": "Gay Rights RulingSupreme Court Backs Web Designer Opposed to Same-Sex Marriage",
-      "excerpt": "Both Mr. Phillips and Ms. Smith have said they would serve gay people as individual clients but object to providing services for a ... President Biden signed into law a bill that would mandate federal recognition of same-sex marriage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-supreme-court/same-sex-marriage-law",
-      "originalUrl": "https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-supreme-court/same-sex-marriage-law",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/21scotus-gayrights-polls-VERSION-cwjl/21scotus-gayrights-polls-VERSION-cwjl-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {

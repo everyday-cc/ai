@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://img.apmcdn.org/06ed6042d31c378e5586f26062785f29b192db7f/widescreen/fc49d1-20230628-a-man-looks-past-the-camera-2000.jpg"
         width: 2000
         height: 1124
+        isCached: true
+  - title: "Army explores increase in facial recognition at gates"
+    excerpt: "Facial recognition cameras have been installed at Gate 10. According to Brian Reinwald, chief of physical security with the Garrison’s Directorate of Operations, these devices are part of a research and development program run by the Corps of Engineers and its contractors to evaluate new and upcoming access control technology."
+    publishedDateTime: 2023-07-05T07:00:00Z
+    webUrl: "https://www.theredstonerocket.com/military_scene/article_dd4fddec-1ada-11ee-a0c3-4bd43929d152.html"
+    type: article
+    provider:
+      name: The Redstone Rocket
+      domain: theredstonerocket.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/assets/v3/editorial/4/87/48791946-1acf-11ee-9c6a-e395f6b9fe12/64a4c09727461.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tech boost to policing as facial recognition cameras keep track of criminals in Puri"
     excerpt: "In a first in Odisha, the Puri police have introduced a facial recognition technology to track the movement of habitual offenders. Based on the feedb"

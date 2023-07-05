@@ -6,9 +6,6 @@ publishedDateTime: 2023-06-30T14:26:00Z
 originalUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changing-ai-powered-solution-personal-finance"
 webUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changing-ai-powered-solution-personal-finance"
 type: article
-quality: 52
-heat: 122
-published: true
 
 provider:
   name: Asia One
@@ -24,91 +21,6 @@ images:
     height: 316
     isCached: true
 
-related:
-  - title: "Company-X boosts NZ fintech start-up Tania.AI"
-    excerpt: "Waikato-based software specialist Company-X has boosted financial technology start-up Tania.AI’s mobile and web apps. Due to a growing number of users, the volume of data being imported nightly from Xero was creating a challenge of triggering manual updates."
-    publishedDateTime: 2023-07-04T00:03:00Z
-    webUrl: "https://www.reseller.co.nz/article/707903/company-x-boosts-nz-fintech-start-up-tania-ai/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/company-x_jeremy_hughes_david_hallett_3.jpg"
-        width: 529
-        height: 315
-        isCached: true
-  - title: "Money World Needs Its Own AI Models, Baidu Fintech Arm’s CTO Says"
-    excerpt: "The financial industry needs customized large language models, as general LLMs are unsuitable, according to the chief technology officer of Baidu’s fintech unit Duxiaoman Financial. The financial industry stores data locally because of security and privacy protection and has high risk control,"
-    publishedDateTime: 2023-07-04T07:21:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230703-13-financial-sector-needs-its-specific-llms-duxiaoman-financial-cto-says"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/07/27004522123973.jpg"
-        width: 770
-        height: 510
-        isCached: true
-  - title: "F|T: The FinTech Times – Stripe & Robinhood make layoffs, Financeit acquires competitor"
-    excerpt: "Toronto-based Financeit has made another step towards becoming the leading home-improvement financing provider in Canada by acquiring its biggest competitor, Simply Group Financial, for up to an estimated $225 million."
-    publishedDateTime: 2023-07-04T09:59:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-stripe-robinhood-make-layoffs-financeit-acquires-competitor/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 31
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/11/mariia-shalabaieva-R-kigbubXbQ-unsplash-2.jpg"
-        width: 1150
-        height: 700
-        isCached: true
-  - title: "How fintech revolutionised the broking industry"
-    excerpt: "Digital stock broking platforms are leveraging algorithms to deliver relevant content with targeted marketing to reach out to younger audiences and get them started to invest in the market."
-    publishedDateTime: 2023-07-03T03:30:00Z
-    webUrl: "https://yourstory.com/2023/07/how-fintech-revolutionised-the-broking-industry"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 24
-    images:
-      - url: "https://images.yourstory.com/cs/1/4e3ddc80d8fb11eb80d70bdc06fbfe07/HowtoOpenDematAccountwithKotakSecurities-TradeFREEPlan-1624986035827.jpg?fm=png&auto=format"
-        width: 600
-        height: 380
-        isCached: true
-  - title: "Latest Trends In Fintech - A Comprehensive Analysis"
-    excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
-    publishedDateTime: 2023-07-04T18:11:00Z
-    webUrl: "https://menafn.com/1106553250/Latest-Trends-In-Fintech-A-Comprehensive-Analysis"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
-  - title: "Fintech Ecosystem Development Corp. (Nasdaq: Fexd) Advancing The Use Of Ai To Power Financial Solutions"
-    excerpt: "FEXD acknowledges the recent big data boom that has introduced tech-driven solutions in the current financial services space <li /> AI,"
-    publishedDateTime: 2023-07-03T19:51:00Z
-    webUrl: "https://menafn.com/1106548521/Fintech-Ecosystem-Development-Corp-Nasdaq-Fexd-Advancing-The-Use-Of-Ai-To-Power-Financial-Solutions"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 3
-  - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
-    excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
-    publishedDateTime: 2023-07-03T11:24:00Z
-    webUrl: "https://techbullion.com/fintech-revolution-a-deep-dive-into-how-technology-is-transforming-payday-loans/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
-
-secured: "FCp3uAOhSF7QC7GbM3Dqe7ilt80co1JYvdU0iepp0oxh0IVRAeezljrDfWFoq2FPKtcUE2UEAyCIVUQqf5EMnlYu/Dn2Diz9Qe2uZLm4RP7v2x4ha9UzZY+ie0QYdqRniuDhVtNxKnKfHmNH0n7vAO3lLazKs8jhR+Qg5UEg92P6nI94vTA9/fFuHENvnHzIVBt0z+AJvH173LNqjfHwtWNG3ABMwPHSCwJgo7Ew0QjdV1FxEU76m6qncycEZw8TTF8lATdykEJVOpY9QqP14CwtdKmU/WRMURycRyjwvxDk3kMMk/C96zuqz+FLbrxlpIQk8soMN93cyOy++2TeVFu1X44NFBJObF9ChgyUpoI=;MJD1PJtaf2cGiQWxFW+14Q=="
+secured: "GcXWSPyxZ7jRJ5LM6N7iUTeZWbM6hjMhEP57wOAwnXddia2sLN47lEJo7EfopFJc0BhMxUDG97fwaZxcYEFi5VXIXy/tPBPGiIkQ9G3v7IxOop6zrXg4E3zG9P8SmTJodNs0gPT4AZ50BROrxFby30r9EDpQHR6a1bLvYAC3ybUppQnB/Bes2LJE1sjYK/URx3YHkZGdLE5dnG3vwpZTxTdLyJ+RnRl1igI1BW0q8oRIDkfvor2anJ1PND6ZNSQnEGO50pOoCb3pOi0YFTvsWH4RipZoT1PiM/zEyvHQ62S3nPUFkQzW0wfd2+GRPPWDsjfZrQvyfg08YjtflbTCIBwpgdUz2iF9ZzXauBZ27LU=;b7M16prsc7KkEufQZCAwTw=="
 ---
 

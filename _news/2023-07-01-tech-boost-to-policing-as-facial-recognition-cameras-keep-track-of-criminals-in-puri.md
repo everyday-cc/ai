@@ -81,6 +81,20 @@ related:
         width: 2000
         height: 1124
         isCached: true
+  - title: "Army explores increase in facial recognition at gates"
+    excerpt: "Facial recognition cameras have been installed at Gate 10. According to Brian Reinwald, chief of physical security with the Garrison’s Directorate of Operations, these devices are part of a research and development program run by the Corps of Engineers and its contractors to evaluate new and upcoming access control technology."
+    publishedDateTime: 2023-07-05T07:00:00Z
+    webUrl: "https://www.theredstonerocket.com/military_scene/article_dd4fddec-1ada-11ee-a0c3-4bd43929d152.html"
+    type: article
+    provider:
+      name: The Redstone Rocket
+      domain: theredstonerocket.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/assets/v3/editorial/4/87/48791946-1acf-11ee-9c6a-e395f6b9fe12/64a4c09727461.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8QLI04klZSo/XqqJFm2nUHmhTiNdF1MmNG/XVcpBFEsolvAd23oz2Yq8X/KBymtG09lezQZHi5nqDbOhMi6yVIPzVKpQvQAeNUNVd8eDUpOdwYJM7z7Qy9ALaI9hKkewAm4iwhmIGZLtQqo7spYwio+Mj1NGzPga3N6cR4prpkr3NnF5FgOrEWVv9jKGUY/6TigATvBTzP0sFpgGkQSNuFrK50QxBz1i66i2G+x5LsGjzk7JVLgvoGK2Z/1F83uIaqnVik/JA+6qLr9qflU+PobyKtgXcbg1INJYx6E4jFLCSdsUiF3AKQgzuvIoQyNzuRAbdkH6aZ5XVYwHGoYfoGdCk4TVKBDTP8oR6dYxh9uagVB3qUk7an9ir/OZN3AqR2ZVZ9gPvOZyI43Pjyslmn/csmZ7lLzexa+1E9rRMUf/KPGGvAb/vjrNnrEHmsKCPIhSn7bTUsJj6Unl765wue868ftUfFZrMU7xT7wQtSPGlSe2BjouqhWsjaGXp3lJjtYm+BYlFoJSrMqoH8FXQg==;BPPgUc6GEoo5C8RVQLUfnQ=="
 ---
