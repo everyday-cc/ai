@@ -2,6 +2,227 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-05-facial-recognition-technology-could-soon-be-everywhereheres-how-to-make-it-safer.md",
+      "title": "Facial recognition technology could soon be everywhere—here's how to make it safer",
+      "excerpt": "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement all over the UK and other countries.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/facial-recognition-tec.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp",
+      "publishedDateTime": "2023-07-05T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-why-big-tech-wants-to-help-congress-regulate-ai.md",
+      "title": "Why Big Tech Wants to Help Congress Regulate AI",
+      "excerpt": "Tech interests, especially OpenAI, the nonprofit that created ChatGPT, have gone on the offensive in Washington, arguing for regulations that will prevent the technology from posing an existential threat to humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai",
+      "originalUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/f154ebe/2147483647/strip/true/crop/1175x613+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb5%2F42%2Fe656e308c9a0040121ef5c7565dc%2Fcongress-flickr.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true",
+      "publishedDateTime": "2023-07-05T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-biting-flies-are-attracted-to-blue-trapsresearchers-use-ai-to-work-out-why.md",
+      "title": "Biting flies are attracted to blue traps—researchers use AI to work out why",
+      "excerpt": "Flies which feast on blood—such as tsetse and horse flies—inflict painful bites and spread debilitating diseases among people and animals alike. So a lot of work has gone into designing the most efficient traps to control the populations of these flies.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-07-flies-blue-trapsresearchers-ai.html",
+      "originalUrl": "https://phys.org/news/2023-07-flies-blue-trapsresearchers-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/biting-flies-are-attra-1.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-07-flies-blue-trapsresearchers-ai.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-flies-blue-trapsresearchers-ai.amp",
+      "publishedDateTime": "2023-07-05T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-flight-booking-platform-using-ai-to-make-travel-less-miserable.md",
+      "title": "Flight Booking Platform Using AI To Make Travel Less Miserable",
+      "excerpt": "Given the common frustration plaguing the experience of exploring new destinations, travel companies are testing out new options to ease that pain with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/",
+      "originalUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a594387c1a55c6f8b4ddd4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/amp/",
+      "publishedDateTime": "2023-07-05T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-how-to-modernize-data-lakes-with-a-data-lakehouse-architecture.md",
+      "title": "How to modernize data lakes with a data lakehouse architecture",
+      "excerpt": "Learn how a data lakehouse architecture and watsonx.data can help you modernize you data management strategy.\nThe post How to modernize data lakes with a data lakehouse architecture appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-modernize-data-lakes-with-a-data-lakehouse-architecture/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-modernize-data-lakes-with-a-data-lakehouse-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T08:58:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform.md",
       "title": "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform",
       "excerpt": "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,",
@@ -147,6 +368,111 @@
       ]
     },
     {
+      "path": "_news/2023-07-05-ibms-cloud-for-education-service-is-shutting-down-after-only-two-years.md",
+      "title": "IBM's Cloud for Education service is shutting down after only two years",
+      "excerpt": "Since the Watson demonstration on the Jeopardy quiz show, IBM has attempted to position itself as a dominant player in the cloud and artificial intelligence business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99293-ibm-cloud-education-service-shutting-down-after-only.html",
+      "originalUrl": "https://www.techspot.com/news/99293-ibm-cloud-education-service-shutting-down-after-only.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-05-image-7.jpg",
+          "width": 2000,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-this-country-just-gave-the-green-light-for-self-driving-vehicles-on-its-roads.md",
+      "title": "This country just gave the green light for self-driving vehicles on its roads",
+      "excerpt": "The United Arab Emirates granted China's WeRide a nationwide license to operate its autonomous robotaxis, buses, vans, and sweepers on its roads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7",
+      "originalUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a580c16075be0019c2acdc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp",
+      "publishedDateTime": "2023-07-05T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-decoding-the-impact-of-ai-on-seo-why-value-is-still-king.md",
       "title": "Decoding The Impact Of AI On SEO: Why Value Is Still King",
       "excerpt": "While the future is uncertain, one thing remains clear—value always wins. Regardless of the changes in search engines or the introduction of new monetization models, if you focus on providing value to your audience,",
@@ -194,58 +520,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-a-hot-generative-ai-summer-is-here-get-ready-to-sweat-the-ai-beat.md",
-      "title": "A hot generative AI summer is here. Get ready to sweat | The AI Beat",
-      "excerpt": "A year ago, the phrase “generative AI” had barely pierced the jargon of my inbox. What a difference a year makes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/a-hot-generative-ai-summer-is-here-get-ready-to-sweat-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/a-hot-generative-ai-summer-is-here-get-ready-to-sweat-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-05T091909.154.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -384,7 +658,7 @@
       "originalUrl": "https://thenextweb.com/news/spotify-ceo-ai-powered-preventive-healthcare-startup-raises-60m",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -425,57 +699,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-how-ai-could-transform-traveland-how-to-take-advantage-of-it.md",
-      "title": "How AI Could Transform Travel—and How to Take Advantage of It",
-      "excerpt": "The AI chatbot recommended several locations that fit the bill– including Puerto Rico, Charleston, S.C. and Palm Springs, Calif. Quillian, 31, had been to a few of the destinations before and knew they fit the description of what she had asked for.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6290940/ai-travel-industry/",
-      "originalUrl": "https://time.com/6290940/ai-travel-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -941,7 +1164,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -981,230 +1204,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-teg-responds-to-choice-campaign-on-face-recognition-tech.md",
-      "title": "TEG Responds to Choice Campaign on Face Recognition Tech",
-      "excerpt": "TEG does not collect biometric data at Qudos Bank Arena and ASM Global does not share any such data with TEG,\" a spokesman says.",
-      "sourceUrl": null,
-      "webUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/",
-      "originalUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://app.thebrag.com/img-socl/?url=https://images.thebrag.com/tmn/uploads/qudos-vax-hub.jpg&nologo=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://themusicnetwork-com.cdn.ampproject.org/c/s/themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/amp/",
-      "publishedDateTime": "2023-07-04T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Music Network",
-        "domain": "themusicnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-debunking-ai-myths-the-truth-behind-5-common-misconceptions.md",
-      "title": "Debunking AI Myths: The Truth Behind 5 Common Misconceptions",
-      "excerpt": "Unravel the enigma of AI as this article busts five pervasive myths, from fears of robotic world domination to the mistaken belief in machines' unbiased judgment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5031dc7bbf308cbb4ddd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/amp/",
-      "publishedDateTime": "2023-07-04T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-researchers-are-using-ai-to-experiment-with-reading-peoples-minds.md",
-      "title": "Researchers are using AI to experiment with reading people’s minds",
-      "excerpt": "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/",
-      "originalUrl": "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/NJvsMHuxNJEv04GUf3J8EMuo978=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JQY5XAAM25EJDK6NXBGHTSDLEM.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp",
-      "publishedDateTime": "2023-07-04T22:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hawaii News Now",
-        "domain": "hawaiinewsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-15-of-the-best-ai-and-chatgpt-courses-you-can-take-online-for-free.md",
-      "title": "15 of the best AI and ChatGPT courses you can take online for free",
-      "excerpt": "Techniques for AI Image Generation(opens in a new tab) Microsoft Azure AI Fundamentals: Get started with AI(opens in a new tab) Midjourney 101: Unleash AI for Unique Image Generation(opens in a new tab) Midjourney Guide: How to Generate AI Art in Seconds ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/deals/ai-chatgpt-free-courses",
-      "originalUrl": "https://mashable.com/uk/deals/ai-chatgpt-free-courses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/002kxdo3R48XSCpBxasXOLq/hero-image.fill.size_1200x675.v1688467571.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
-      "title": "Growing bio-inspired polymer brains for artificial neural networks",
-      "excerpt": "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/100851_logo_A.jpg",
-          "width": 2473,
-          "height": 3549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

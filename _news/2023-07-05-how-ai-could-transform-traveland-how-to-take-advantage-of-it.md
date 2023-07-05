@@ -7,8 +7,8 @@ originalUrl: "https://time.com/6290940/ai-travel-industry/"
 webUrl: "https://time.com/6290940/ai-travel-industry/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Time
@@ -28,20 +28,47 @@ images:
     isCached: true
 
 related:
-  - title: "Rapid growth of artificial intelligence could transform 2024 election"
-    excerpt: "Artificial intelligence has the potential to be game-changing for political ads - but is it ethical? Should it be regulated? Washington is struggling to answer these questions."
-    publishedDateTime: 2023-07-03T22:00:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/rapid-growth-of-artificial-intelligence-could-transform-2024-election/video_5a5c96b4-8b7a-503a-8f64-c2c335de6c4b.html"
+  - title: "Flight Booking Platform Using AI To Make Travel Less Miserable"
+    excerpt: "Given the common frustration plaguing the experience of exploring new destinations, travel companies are testing out new options to ease that pain with AI."
+    publishedDateTime: 2023-07-05T16:05:00Z
+    webUrl: "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/"
+    ampWebUrl: "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/amp/"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/a5/5a5c96b4-8b7a-503a-8f64-c2c335de6c4b/64a336a3c44a0.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a594387c1a55c6f8b4ddd4/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
+  - title: "Researchers are using AI to experiment with reading people’s minds"
+    excerpt: "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I."
+    publishedDateTime: 2023-07-05T05:06:00Z
+    webUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
+    ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
+    cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
+    type: article
+    provider:
+      name: Hawaii News Now
+      domain: hawaiinewsnow.com
+    quality: 59
+    images:
+      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/NJvsMHuxNJEv04GUf3J8EMuo978=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JQY5XAAM25EJDK6NXBGHTSDLEM.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Startup Launches AI Model To Fight Business Phishing Attacks"
+    excerpt: "A startup has created a solution to fight Business Email Compromise (BEC) attacks, a new phishing threat that targets company communications."
+    publishedDateTime: 2023-07-05T10:28:00Z
+    webUrl: "https://nocamels.com/2023/07/startup-launches-ai-model-to-fight-business-phishing-attacks/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 17
 
 secured: "kGDhbZw4YLOBezPKGDzao0d9FBXGpyuJJ1KNGq9QE7XEDKkgonHYmdQ4r+2imD/D5npL8YJcQZPGI0wuYZEhDli3zTQ9jO4xs6aO5pohQeP2efH7tSPUBzqi12S8MRIxireYl82VYGG0KbwY/L6TRQiEnuNjDtA8RvT1R4kGdI6J+Gj/fr2x9E66PI0rKWUGXOO6ElXnEt6EXG1ELCSKjq3d2vypAVleKS6+9S1JsYfVzM8s+bbJ6M54+JK35d4RIrRoENI2UHuH5Q35HjM8mb+X9iTMtzdkUlYK9ZBksT6wy7p2dfNwrD9UzQcTDPPEPcA7zRGac12N8CgzwAjAxq30QwDmzRBEUTXze/yHx/s9XBpN7CT1A64DYO51C7uqtIxys6QKZNxg65kWsL31NIBXbjgZdm4qdxEBXaS7Y86T635U0okezYRtZfOVKNWHhixnwEOLoPZEwSGsAmZGxTzJYctEPSi//0bemUXSTG5fkqBHqHIvKGdG6cotsJMVUUOCWitsD5RuFTIFmCqMDg==;I3Eq0LaYxX+fFw0pB60uTw=="
 ---

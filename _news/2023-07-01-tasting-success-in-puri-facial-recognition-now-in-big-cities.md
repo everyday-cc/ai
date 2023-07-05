@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1687088023_rath-yatra.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Sheriff says facial recognition not a factor in false arrest"
-    excerpt: "The Hennepin County Sheriff's Office is pushing back on claims that facial recognition technology led to a man's false arrest. Kylese Perryman, 21, filed a lawsuit Wednesday against the city of Bloomington and Hennepin County over his 2021 arrest and prosecution for a carjacking and subsequent armed robbery that he did not commit."
-    publishedDateTime: 2023-07-01T00:00:00Z
-    webUrl: "https://www.mprnews.org/story/2023/06/30/sheriff-says-facial-recognition-not-a-factor-in-false-arrest"
-    type: article
-    provider:
-      name: MPR News
-      domain: mprnews.org
-    quality: 39
-    images:
-      - url: "https://img.apmcdn.org/06ed6042d31c378e5586f26062785f29b192db7f/widescreen/fc49d1-20230628-a-man-looks-past-the-camera-2000.jpg"
-        width: 2000
-        height: 1124
         isCached: true
   - title: "Army explores increase in facial recognition at gates"
     excerpt: "Facial recognition cameras have been installed at Gate 10. According to Brian Reinwald, chief of physical security with the Garrison’s Directorate of Operations, these devices are part of a research and development program run by the Corps of Engineers and its contractors to evaluate new and upcoming access control technology."

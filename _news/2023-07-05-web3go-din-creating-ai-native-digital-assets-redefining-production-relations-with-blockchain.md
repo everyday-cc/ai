@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-web3go-d-creating-ai-native-digita
 webUrl: "https://www.tmcnet.com/usubmit/-web3go-d-creating-ai-native-digital-assets-redefining-/2023/07/05/9843507.htm"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,37 @@ images:
     height: 268
     isCached: true
 
-secured: "EJMYUuv3jtBEXF9z7WoaTDvheXehht6o95uowfBr5JxUcPxi+XS6xL9mgY5uOZWjWxj+lUEJ3DwIHSuMSPMY4mnFSVTeZXMIaIAWX4jcO5uaseTrpUVSnEiQ8BELaAn9/kKDR2qN7PQ41bJW9jwi82szk6OiWoBPxmxz76hsJmTevVYVGa1xr7OvwrPtBeNelQy8eLpaBC7bqk8T3tL1tOMweH2mGY9ERyvOSU1vflOQDiHulD2X8M+M8Tka/iF8qJLfeU+VX22ec8gM3oRxg22nxiGf7zqtTDoj0UWDVZ5yPsBdt+HI8PUH1BpjqWCNu8y3JBSIgrv1M32qqvmCEapIeIUVNByF8S4OihlUpTw=;VYXL4NBI9N0PAJGht/hP3g=="
+related:
+  - title: "AI-Backed Blockchain Data Startup Web3Go Raises $4M"
+    excerpt: "Web3Go, a blockchain company offering data tools backed by artificial intelligence (AI), has raised $4 million in a seed round led by Binance"
+    publishedDateTime: 2023-07-05T17:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/ai-backed-blockchain-data-startup-web3go-raises-4m-1032428295"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Gen AI start-up ZuAI raises Rs 4 crore in seed funding round"
+    excerpt: "ZuAI, a Bengaluru-based Generative AI start-up, has raised Rs 4 crore in seed funding, led by Prime Venture Partners. The AI-powered personal tutor aims to enhance academic outcom"
+    publishedDateTime: 2023-07-05T08:50:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/gen-ai-start-up-zuai-raises-rs-4-crore-in-seed-funding-round/article67044423.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/gen-ai-start-up-zuai-raises-rs-4-crore-in-seed-funding-round/article67044423.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/gen-ai-start-up-zuai-raises-rs-4-crore-in-seed-funding-round/article67044423.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 37
+  - title: "AI marketing startup Needle raises US$1.2 million in pre-seed funding"
+    excerpt: "ARTIFICIAL intelligence (AI) marketer Needle has raised US$1.2 million in a pre-seed funding round, it said on Wednesday (Jul 5). Read more at The Business Times."
+    publishedDateTime: 2023-07-05T07:15:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/ai-marketing-startup-needle-raises-us12-million-pre-seed-funding"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 34
+
+secured: "Abqq+c4bXTB7emreNoQSS9XaCoITyKgkvRP/0VRdt1YVfkO7+EOwbB2SeDvaq8XutFIq6KtdARQgbrynNRUEWGC1uy3FFi6Jzbs+/EYfUvckw+XH5Lo0DJ1cJZ09Y5JJVWoUXGDD1GSEGiF0syErK46Lk7WG9sXGivqteonO82ZX/kQrwhi7pzzMYjvNkDzkw62Dkn56L/wIrJy5NpIV0Hlt4zms3YxmMFUGrn8olDPtkB2ONIZWEzWXTdIvPKfdRhUjHcPMaHNwjUcbe6c8a8o50fn8SCfbNx9glnmOUH0EhVDlSYbpCC8WIVh7hG2irDPjb163vW4u3NtOlIeyDeQIZKBJ/9lcLZn7N4xCo3srDk+T/figSWYVhQn208JqaJlLIt70AJA6uVerjZvozBwWS+cR2vt1n36SkrB6lwtRSo8SilhJVdwOe9zsdI4IchuZw8ejsVFR2uTKp/iO9HTjqG8dh7h37p0TgKhdNbnfBWEA1KzFXE12pU4L8Pv2+zKIY2tg/dg8kTd5XNU15A==;WGLcvyoss7vWyBG3LKooWQ=="
 ---
 

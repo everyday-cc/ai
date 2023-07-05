@@ -70,6 +70,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Google will use public data to train its AI models as part of its new privacy policy"
+    excerpt: "Google has recently made adjustments to its privacy policy to specify that publicly accessible data may be utilized in the training of its AI models. To be"
+    publishedDateTime: 2023-07-05T16:43:00Z
+    webUrl: "https://www.onmsft.com/news/google-will-use-public-data-to-train-its-ai-models-as-part-of-its-new-privacy-policy/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 32
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/photo-1529612700005-e35377bf1415-1.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "pPie8VAAiWRUD2nymmn4j7Szhr1PYz/0vwtSErA5blXBvwP+BQ+Lx7MqSXp5UqD5YAdNcTUz/RbaQwUcDNJovpUOU2s1LTXXjOgnxzC9oH6H6l44cIWEVDgjaJ/OmPA0L9zttsCrospzdj1E0/qnnsArqH2u/j5oaAwWK+611fAorECHTxgHM3/0MYnHDsB878hgWCseeb8NYW3fpt9COxPZpK4K0EGM+EHXIXHFFzH+9Jn8bCyXj0uGuuWC9nDareO1i56RexiHqBZqVNYmr6e+CyyafljpEn1a0+Hf0Gc/rRZaKw0xU25Ks6mtsTI2VSa6+8AbeFqoGisYOx6SyWDMipi56bjYS9UbuArM5N8XNpex+kIOY14sDu2i5d4oOJFnyN8xGcGY3d/wR0YwPXLZB+40XDCtQirhOGaaCP9UZr0/a1EKcfBX/zj//dxw3x6BdklsIm94UuBfOQgydCdpt/ODeyvXXCz3XuGc23r5mAvKyjHmJ8qmf+dbEk3DOYhvTmDv1FWGZYMBO64e0w==;3yLzK6BUhJJsxIxR9nvIuw=="
 ---

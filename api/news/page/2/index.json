@@ -2,6 +2,187 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-05-teg-responds-to-choice-campaign-on-face-recognition-tech.md",
+      "title": "TEG Responds to Choice Campaign on Face Recognition Tech",
+      "excerpt": "TEG does not collect biometric data at Qudos Bank Arena and ASM Global does not share any such data with TEG,\" a spokesman says.",
+      "sourceUrl": null,
+      "webUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/",
+      "originalUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://app.thebrag.com/img-socl/?url=https://images.thebrag.com/tmn/uploads/qudos-vax-hub.jpg&nologo=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://themusicnetwork-com.cdn.ampproject.org/c/s/themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/amp/",
+      "publishedDateTime": "2023-07-04T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Music Network",
+        "domain": "themusicnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-debunking-ai-myths-the-truth-behind-5-common-misconceptions.md",
+      "title": "Debunking AI Myths: The Truth Behind 5 Common Misconceptions",
+      "excerpt": "Unravel the enigma of AI as this article busts five pervasive myths, from fears of robotic world domination to the mistaken belief in machines' unbiased judgment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5031dc7bbf308cbb4ddd4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/amp/",
+      "publishedDateTime": "2023-07-04T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-15-of-the-best-ai-and-chatgpt-courses-you-can-take-online-for-free.md",
+      "title": "15 of the best AI and ChatGPT courses you can take online for free",
+      "excerpt": "Techniques for AI Image Generation(opens in a new tab) Microsoft Azure AI Fundamentals: Get started with AI(opens in a new tab) Midjourney 101: Unleash AI for Unique Image Generation(opens in a new tab) Midjourney Guide: How to Generate AI Art in Seconds ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/deals/ai-chatgpt-free-courses",
+      "originalUrl": "https://mashable.com/uk/deals/ai-chatgpt-free-courses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/002kxdo3R48XSCpBxasXOLq/hero-image.fill.size_1200x675.v1688467571.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
+      "title": "Growing bio-inspired polymer brains for artificial neural networks",
+      "excerpt": "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/100851_logo_A.jpg",
+          "width": 2473,
+          "height": 3549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-check-points-tony-sabaj-on-ai-in-cybersecurity.md",
       "title": "Check Point’s Tony Sabaj on AI in Cybersecurity",
       "excerpt": "The Check Point executive offers advice to companies on how to understand the role of AI in cybersecurity, and he also highlights key AI trends driving the market.",
@@ -61,7 +242,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -451,7 +632,7 @@
       "originalUrl": "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -503,7 +684,7 @@
       "originalUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1022,214 +1203,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws.md",
-      "title": "Auto-labeling module for deep learning-based Advanced Driver Assistance Systems on AWS",
-      "excerpt": "In computer vision (CV), adding tags to identify objects of interest or bounding boxes to locate the objects is called labeling. It’s one of the prerequisite tasks to prepare training data to train a deep learning model. Hundreds of thousands of work hours are spent generating high-quality labels from",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/19/ml-13782-image001-1260x573.jpg",
-          "width": 1260,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T07:24:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-the-us-weighs-a-chip-ban-for-china-and-more-rate-hikes-appear-to-be-in-the-cards-forbes-ai-newsletter-july-1st.md",
-      "title": "The U.S. Weighs A Chip Ban For China And More Rate Hikes Appear To Be In The Cards - Forbes AI Newsletter July 1st",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/07/03/the-us-weighs-a-chip-ban-for-china-and-more-rate-hikes-appear-to-be-in-the-cardsforbes-ai-newsletter-july-1st/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/07/03/the-us-weighs-a-chip-ban-for-china-and-more-rate-hikes-appear-to-be-in-the-cardsforbes-ai-newsletter-july-1st/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a2d990b6c512554daef4ac/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/07/03/the-us-weighs-a-chip-ban-for-china-and-more-rate-hikes-appear-to-be-in-the-cardsforbes-ai-newsletter-july-1st/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/07/03/the-us-weighs-a-chip-ban-for-china-and-more-rate-hikes-appear-to-be-in-the-cardsforbes-ai-newsletter-july-1st/amp/",
-      "publishedDateTime": "2023-07-03T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-the-real-danger-of-ai-isnt-hyper-intelligence-its-human-stupidity.md",
-      "title": "The real danger of AI isn't hyper-intelligence, it's human stupidity",
-      "excerpt": "While AI is already proving a useful tool, there’s a risk we replace critical thinking with an alternative that’s really equipped for it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-danger-human-stupidity-3340244/",
-      "originalUrl": "https://www.androidauthority.com/ai-danger-human-stupidity-3340244/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/bing-chatgpt-chat-ai-icons-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-how-people-and-image-generating-ai-can-work-together-in-business.md",
-      "title": "How People And Image-Generating AI Can Work Together In Business",
-      "excerpt": "There are a few tips and strategies companies can use to work with AI tools and make the most of their creative teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&width=1200",
-          "width": 855,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/",
-      "publishedDateTime": "2023-07-03T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

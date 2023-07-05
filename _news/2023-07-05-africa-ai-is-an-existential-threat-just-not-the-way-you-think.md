@@ -43,6 +43,15 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 17
+  - title: "AI is an existential threat – just not the way you think"
+    excerpt: "For the past few months, executives and AI safety researchers have been offering predictions, dubbed “P(doom),” about the probability that AI will bring about a large-scale catastrophe. You might ask how such existential fears are supposed to play out."
+    publishedDateTime: 2023-07-05T17:03:00Z
+    webUrl: "https://www.chron.com/news/article/ai-is-an-existential-threat-just-not-the-way-18185139.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "QRxg3fywXnoOUZIkw1i2S3LlLKn0BAHUGSUmMZ2fwKO60YuxipvJoDCrxU8Tu0PkTdNKLlvHB+1e7BgORTKs+59Ty+p9sjZpeWCnIAKky1ZRt0vF3hcimlFvetF7Zcd2emIYLgo+K8RU5/76ht8eFld7G14gpTtQu1i+FrTrrIiNjSPS1FtQRTwU7NuEsFAbIV5ywKWgwPWiUL06x3Ad++1nbWQuTU2s/wivCs4Be+C5gwoWAdv3BD+XZ+2rEh3p+F1NJrl9Io1U9gvaiRCkcASoj7SDyDgxvsy6aFnJ67n4gXtDwsh8BRPS6bo8XCEg9zvWuho8DKpjBALosRZwWyS8Ma20Vd3tfyl3y9IKyPA=;LiRAGsfokPlLls23/kmYug=="
 ---

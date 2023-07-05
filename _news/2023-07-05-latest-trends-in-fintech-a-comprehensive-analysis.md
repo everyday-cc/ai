@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dobin, an AI-powered FinTech solution announces its launch"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-03T11:46:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/dobin-an-ai-powered-fintech-solution-announces-its-launch/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/05/Small-IBSi-ad-3.png"
+        width: 600
+        height: 500
+        isCached: true
   - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
     excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
     publishedDateTime: 2023-07-03T11:24:00Z

@@ -2,6 +2,228 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-30-ai-service-robotics-germany.md",
+      "title": "AI Service Robotics - Germany",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$264.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.12%, resulting in a market volume of US$627 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/germany",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/germany",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-natural-language-processing-germany.md",
+      "title": "Natural Language Processing - Germany",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$1.02bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.92%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/germany",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/germany",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-when-bytes-bias-unraveling-the-myth-of-neutral-ai.md",
+      "title": "When Bytes Bias: Unraveling The Myth Of Neutral AI",
+      "excerpt": "In this article, we discuss the concept of technochauvinism, shedding light on the often-overlooked societal implications and biases in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649e7325a69e4ef2a20b96c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/amp/",
+      "publishedDateTime": "2023-06-29T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-this-ai-startup-generates-videos-with-text-and-it-just-raised-141m-led-by-google-and-nvidia.md",
+      "title": "This AI Startup Generates Videos With Text — And It Just Raised $141M Led By Google And Nvidia",
+      "excerpt": "Generative AI startup Runway has raised $141 million from investors which include Alphabet Inc.-owned GOOGL Google and Nvidia Corp. NVDA. Runway helps content creators generate videos and tweak ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/33074471/this-ai-startup-generates-videos-with-text-and-it-just-raised-141m-led-by-google-and-nvidia",
+      "originalUrl": "https://www.benzinga.com/news/23/06/33074471/this-ai-startup-generates-videos-with-text-and-it-just-raised-141m-led-by-google-and-nvidia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/rw-blog-post-v3.png?width=1200&height=800&fit=crop",
+          "width": 843,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33074471",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33074471",
+      "publishedDateTime": "2023-06-29T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-microsoft-backed-ai-start-up-inflection-raises-us13-billion-from-nvidia-and-others.md",
+      "title": "Microsoft-backed AI start-up Inflection raises US$1.3 billion from Nvidia and others",
+      "excerpt": "Inflection AI, a start-up backed by several Silicon Valley heavyweights, said on Thursday it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3226037/microsoft-backed-ai-start-inflection-raises-us13-billion-nvidia-and-others?module=live&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3226037/microsoft-backed-ai-start-inflection-raises-us13-billion-nvidia-and-others?module=live&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/30/4ff25e8b-e17a-4500-a848-98bb487106da_4d9e4cec.jpg?itok=qOp0jsJV&v=1688096928",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-big-tech-has-a-troubling-stranglehold-on-artificial-intelligence.md",
       "title": "Big Tech Has a Troubling Stranglehold on Artificial Intelligence",
       "excerpt": "Altman’s admission underscores a troubling dynamic in the growing generative AI business, where the power of incumbent tech firms is becoming more entrenched thanks to the value and scale of their infrastructure. Rather than create a thriving market for innovative new companies, the boom appears to be helping Big Tech consolidate its power.",
@@ -920,240 +1142,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-29T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize.md",
-      "title": "Recommend and dynamically filter items based on user context in Amazon Personalize",
-      "excerpt": "Organizations are continuously investing time and effort in developing intelligent recommendation solutions to serve customized and relevant content to their users. The goals can be many: transform the user experience, generate meaningful interaction, and drive content consumption. Some of these solutions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/29/recommend-dynamic-filter-personalize.jpg",
-          "width": 1020,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:41:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-generative-ai-is-a-game-changer-for-cloud-security.md",
-      "title": "How Generative AI is a Game Changer for Cloud Security",
-      "excerpt": "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/generative-ai-cloud-security/",
-      "originalUrl": "https://www.techrepublic.com/article/generative-ai-cloud-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/clio-unveils-cloud-platform.jpeg",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-moodys-and-microsoft-develop-enhanced-risk-data-analytics-research-and-collaboration-solutions-powered-by-generative-ai.md",
-      "title": "Moody’s and Microsoft Develop Enhanced Risk, Data, Analytics, Research and Collaboration Solutions Powered by Generative AI",
-      "excerpt": "Moody’s Corporation (NYSE:MCO) and Microsoft (NASDAQ: MSFT) today announced a new strategic partnership to deliver next-generation data, analytics, re",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230629870570/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230629870570/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-amazons-rapid-fire-ai-testing-ground.md",
-      "title": "Amazon's rapid-fire AI testing ground",
-      "excerpt": "Amazon wants to help AI models learn even quicker.  The company is seeking to patent a method for \"fast annotation of samples\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/29/amazons-rapid-fire-ai-testing-ground/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/29/amazons-rapid-fire-ai-testing-ground/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/738057/featured-daily-upside-image.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-industrial-robotics-morocco.md",
-      "title": "AI Industrial Robotics - Morocco",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$19.74m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.65%, resulting in a market volume of US$ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/morocco",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/morocco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T08:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",

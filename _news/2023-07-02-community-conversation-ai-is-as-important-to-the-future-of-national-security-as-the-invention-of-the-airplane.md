@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 840
         isCached: true
+  - title: "Parmy Olson: Your future AI will have multiple personalities"
+    excerpt: "Chatbots aren’t just useful for writing essays and emails. Those designed to show empathy and retain memories about their users are already acting as personal guides. A man who recently"
+    publishedDateTime: 2023-07-05T17:43:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/business/parmy-olson-your-future-ai-will-have-multiple-personalities/article_a40f78d4-66c9-5b76-ae04-20a2f9c97c0d.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "wOv4NsstUF0KP8sLpnFqh/AcEPE7x+x0SlAtjjD1lkPoduYSI9FjTW/ntxJ99esW0zLTQSnaHUh1eY/0JplaDmUClVebolPWKSrjfGugaQb+ZtkHtCJqrf+JHNl+axyhqQP9jeeYR1rMj7EPugVEZcRHIw7xFnjE4mXxt7gfI2RGTulT835pgzIzlfwHzbAghJH41guc+glwsoQJAT9NcVjUEF18yEBcnR2N9ppGTTxMmRIxYHMTPKN+zbqtX6xWVCDMbeplfkyyVDyBJ7Yt9RkSxWTAgDFVVE3bp7MDSrzAgiEf5DILemrGGN6cm6I5g5kRHRfFcfQWfknQd4oLMj9Simc0p2owWjs5HmYbXLc=;4d2Rx/vmDNctOOwUMrwHKw=="
 ---

@@ -2,6 +2,220 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-06-23-aws-announces-generative-ai-innovation-center.md",
+      "title": "AWS Announces Generative AI Innovation Center",
+      "excerpt": "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/",
+      "originalUrl": "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-news-tagged-with-cognitive-impairment.md",
+      "title": "News tagged with cognitive impairment",
+      "excerpt": "Women with atrial fibrillation progress more rapidly to cognitive impairment and dementia than men with the heart rhythm condition, according to research presented today at ACNAP 2023, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/cognitive+impairment/",
+      "originalUrl": "https://medicalxpress.com/tags/cognitive+impairment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-our-support-for-early-warning-systems.md",
+      "title": "Our support for early warning systems",
+      "excerpt": "Google’s Yossi Matias and WMO Director of Infrastructure Anthony Rea discuss the Early Warnings For All Initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/sustainability/early-warning-system-wmo-google/",
+      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/early-warning-system-wmo-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WMO.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/sustainability/early-warning-system-wmo-google/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/early-warning-system-wmo-google/amp/",
+      "publishedDateTime": "2023-06-22T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-students-switch-to-ai-to-learn-languages.md",
+      "title": "Students switch to AI to learn languages",
+      "excerpt": "The convenience and breadth of an AI chatbot can't compete with the pleasures of chatting with someone whose personality quirks I've learned over the course of years. It is however a useful supplement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-65849104?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/business-65849104?at_medium=RSS&at_campaign=KARANGA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BE4A/production/_130041784_joyehonwa.creditamajuadomi..jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-65849104.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65849104.amp",
+      "publishedDateTime": "2023-06-22T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is.md",
+      "title": "If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?",
+      "excerpt": "This isn't a facetious question; it's an unanswered one. Is there an ethical way to use generative AI in a prominent piece of art?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/",
+      "originalUrl": "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/",
+      "publishedDateTime": "2023-06-22T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan.md",
       "title": "AI Wars: Google, ChatGPT And Pi On Creating The Ultimate Weight Loss Plan",
       "excerpt": "Can AI help you lose weight? Google, ChatGPT and the newest chatbot Pi were prompted to create a 1200-calorie meal plan to optimize health and here's how they responded.",
@@ -966,265 +1180,6 @@
         "Facebook AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-startup-stability-debuts-a-new-ai-model-for-stable-diffusion.md",
-      "title": "Startup Stability Debuts a New AI Model For Stable Diffusion",
-      "excerpt": "Artificial intelligence startup Stability AI is releasing a new model for generating images that its says can produce pictures that look more photorealistic than past efforts. In a blog post Thursday, Stability AI, which popularized the Stable Diffusion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxaW0mPkrGM/v0/1200x604.png",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit.md",
-      "title": "Opaque Systems unveils confidential AI and analytics tools ahead of Confidential Computing Summit",
-      "excerpt": "They comprise a privacy-preserving generative AI optimized for Microsoft Azure’s Confidential Computing Cloud, and a zero-trust analytics platform: Data Clean Room (DCR). According to the company, its generative AI harnesses multiple layers of protection ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit/",
-      "originalUrl": "https://venturebeat.com/ai/opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/OS_Logo_Final_Print_O_Logo_Web_Color.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai.md",
-      "title": "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI",
-      "excerpt": "Company recognized by Microsoft for its successful customer outcomes, deep technical experience, and expertise SAN FRANCISCO, June 22,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
-      "originalUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-your-ceo-is-not-your-brand.md",
-      "title": "Your CEO Is Not Your Brand",
-      "excerpt": "Corporate leaders like Jeff Bezos at Amazon, Larry Ellison at Oracle, Mark Zuckerberg at Meta and Elon Musk at Twitter, Tesla and Space X, all have global name recognition ... it also serves as an object lesson as to why the CEO must be separated from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f1060b59bb0980007fed7d3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/amp/",
-      "publishedDateTime": "2023-06-22T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-how-ai-is-changing-the-future-of-work.md",
-      "title": "How AI Is Changing The Future Of Work",
-      "excerpt": "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
-      "originalUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6493313d59624b09bcb3466b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/",
-      "publishedDateTime": "2023-06-22T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

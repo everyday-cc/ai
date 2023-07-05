@@ -47,15 +47,6 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "UAE approves first license for self-driving vehicles"
-    excerpt: "The license was granted to WeRide company, Sheikh Mohammed said UAE approves first license for self-driving vehicles Abu Dhabi, Autonomous vehicles, Dubai, Self-driving vehicles, Sheikh Mohammed bin Rashid Al Maktoum,"
-    publishedDateTime: 2023-07-03T13:18:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/uae-approves-first-license-for-self-driving-vehicles"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 4
   - title: "WeRide receives autonomous driving license from UAE government"
     excerpt: "Photo provided to] WeRide, a Chinese autonomous driving company, received its first national license for self-driving vehicles from the United Arab Emirates gov"
     publishedDateTime: 2023-07-04T12:52:00Z

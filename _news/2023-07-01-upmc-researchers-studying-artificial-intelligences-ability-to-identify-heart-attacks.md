@@ -26,31 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers are using AI to experiment with reading people’s minds"
-    excerpt: "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I."
-    publishedDateTime: 2023-07-05T05:06:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
-    ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
-    cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
+  - title: "Biting flies are attracted to blue traps—researchers use AI to work out why"
+    excerpt: "Flies which feast on blood—such as tsetse and horse flies—inflict painful bites and spread debilitating diseases among people and animals alike. So a lot of work has gone into designing the most efficient traps to control the populations of these flies."
+    publishedDateTime: 2023-07-05T16:07:00Z
+    webUrl: "https://phys.org/news/2023-07-flies-blue-trapsresearchers-ai.html"
+    ampWebUrl: "https://phys.org/news/2023-07-flies-blue-trapsresearchers-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-flies-blue-trapsresearchers-ai.amp"
     type: article
     provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
-    quality: 59
+      name: Phys.org
+      domain: phys.org
+    quality: 55
     images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/NJvsMHuxNJEv04GUf3J8EMuo978=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JQY5XAAM25EJDK6NXBGHTSDLEM.jpg"
-        width: 800
-        height: 450
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/biting-flies-are-attra-1.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "How actors are losing their voices to AI"
-    excerpt: "Performers forced to compete with themselves as companies’ use of technology for cloning prompts calls to update copyright law"
-    publishedDateTime: 2023-07-01T13:00:00Z
-    webUrl: "https://www.ft.com/content/07d75801-04fd-495c-9a68-310926221554"
+  - title: "Researchers teach an AI to write better chart captions"
+    excerpt: "A new tool helps scientists develop machine-learning models that generate richer, more detailed captions for charts, and vary the level of complexity of a caption based on the needs of users. This could help improve accessibility for people with visual disabilities."
+    publishedDateTime: 2023-07-01T17:24:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/06/230629193303.htm"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "52TuMQkdowJ0DF7xz+0ygXQFN3LiwdHTmQXm1LOUeel3S+K7UJTBcuxH92NrzZVFYE9Mk0fohvcN2Bjtf69F0QH0j6GD4A2JW6kklHeomurxQegYj9QSjLMuhg7pAtDTbCLGMiA7c4HIfh0QCeG0RW++6RlNPFuUTTrwHtNc30c6VLM/da4W+6kXahTVCEYCcWRqata1XkH9tEKLz0MRv64QbvLOYFEBx1ce253Zt99id728hGhA+6yzBlxBW3oc/gxcXlvuros/xS95aiRoy+86zOrd1jydR9myoG8w9TVHEHVSBw4CZbfwPsTnvHyyOf+ywsWRL9cIu8WC/U39v8zbqZfahjXJR3i9tJHODbQkl3MtRT0XoMedvcUtfFFLyEON7L0mF71g/cZl8IJsSbIQaynnmD4NznUxayDWQfJ5sNQSEnySUSw7Db36M6vcbUe+Sv2lWGare+WriPrhTrAKmjuDy0w5C7U4i/m7efJ4K2il1/8JiqQj4Djl+CHYrXIP4T/JV2IgL4BA1mcpPA==;9GzZLlNROXiXzHvXm9r67A=="
 ---

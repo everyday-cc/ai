@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "What Will AI Do to Your Job? Take a Look at What It’s Already Doing to Coders"
-    excerpt: "Artificial-intelligence software is eating the software industry, as companies turn to generative AI tools to save money on programmers. It’s a sign of what’s to come for many white-collar workers."
-    publishedDateTime: 2023-07-01T00:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-jobs-replace-tech-workers-8f3dc92"
+  - title: "Meta Uses AI to Organize Your Feeds. Now It's Telling You How"
+    excerpt: "The company uses AI that incorporates your \"feedback\" (how you engage with content by liking, sharing or commenting on it) to refine which posts it serves up to you via your social feeds. In theory, this means that it should deliver content tailored to your own interests and preferences -- but that doesn't mean it always gets it right."
+    publishedDateTime: 2023-07-01T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/meta-uses-ai-to-organize-your-feeds-now-its-telling-you-how/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
-    images:
-      - url: "https://images.wsj.net/im-807791/social"
-        width: 1280
-        height: 640
-        isCached: true
+      name: CNET
+      domain: cnet.com
+    quality: 47
 
 secured: "5YfgHQhbiJ+1ivrQRZOhVY9GnnVhvYxntKCpgTejATAdNDBHLE2Ej2l6HVqGeZDrqDflof3L0VkQ9zkyxcaHhgmY9XhAT4Yw1xGqoWB3RZaslGTvdSAS3p/FZ/Ein4NqYaYpywnQdxxOLMiocSx7CVCURxsaESMnNSDn7tCAyLNk2NLQXhMmTwIKij3jbTKUeFrd1KIfaZoF3Rfxfz5hI/KIEY039DAg0qY0wXcrwQyhrv1xV2S+Di0TgPb8AjPSazmd8jUKxywXylkJ+f+Ui3CGAY+D93Z2Xi7vAHvAIjRXZ756lBUMCoaQ/pWT4BmWhawbOPD7jeiFjiT+konLomUuvniBOTrs6VZKYOTn3iBZyjuzZfjktnxbhDwPMMCaPfOFx8twiISYAI9GLkLU6eJPMZt6A93mmFN6xt/SjCgRn6nnMbTSVf/xx3LdzWNfRSB+lnT4D5EocTttdo9t+GKfB3Ihq7Oa4e3O0M7q68HTqy1xs8G3w8YrzeFaZeTLcXsN0rXWxo27DGfIXPXHzw==;8vIqohjeTHd+V0Lfb/H39g=="
 ---

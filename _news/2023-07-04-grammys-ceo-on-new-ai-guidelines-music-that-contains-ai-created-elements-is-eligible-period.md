@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
-excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols"
-publishedDateTime: 2023-07-04T13:03:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
-webUrl: "https://abcnews.go.com/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
+excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols."
+publishedDateTime: 2023-07-04T16:59:00Z
+originalUrl: "https://www.clickondetroit.com/entertainment/2023/07/04/grammys-ceo-on-new-ai-guidelines-music-that-contains-ai-created-elements-is-eligible-period/"
+webUrl: "https://www.clickondetroit.com/entertainment/2023/07/04/grammys-ceo-on-new-ai-guidelines-music-that-contains-ai-created-elements-is-eligible-period/"
 type: article
-quality: 44
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: clickondetroit.com
+  domain: clickondetroit.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/wirestory_dea135035893deab37719c354f31a889_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2I2VVISS6ZAYFEDVMPWSIIIJVI.jpg?_a=ATAPphC0"
+    width: 700
+    height: 465
     isCached: true
 
 related:
@@ -42,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Grammys CEO Outlines New Artificial Intelligence Policy"
+    excerpt: "The Grammys have shared an update related to the use of artificial intelligence and songwriting. The adjustment comes after last month's ceremony"
+    publishedDateTime: 2023-07-05T15:40:00Z
+    webUrl: "https://jambands.com/news/2023/07/05/grammys-ceo-outlines-new-artificial-intelligence-policy/"
+    type: article
+    provider:
+      name: Jambands
+      domain: jambands.com
+    quality: 37
+    images:
+      - url: "https://jambands.com/wp-content/uploads/2023/07/Promo-Facebook-Facebook-link-image-88-3.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
     excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols."
     publishedDateTime: 2023-07-04T17:59:00Z
@@ -57,6 +70,6 @@ related:
         height: 465
         isCached: true
 
-secured: "cFnWmVcYpjcvQidriNSw6ISVtIJZl2TrZNETlSaR71TZb5wv7dOmXJazWcv952eGOCcIUCESVcf8iqRSX8sbWTlPLsWzIFXMEuKC7gYB3D0P7+JfRUq7Dz1suHGwYmAaKoYPJB4Ck5+ZZFlAFHN/oTW+7owguIIkuHrLpPNyq2zDHBm2O5pHGiCssI4swHMp78ch1gHJd5O0OoEV4R30rVb6sZQIwdl++8pZ1vj+8/HhTqJiMUs6Y2AtJx420NK12dEbwAvP5JudrG/BB3AAakVTa21ZK1xky4rr/HLFq6DxVAuL+K8Oxfy3clR6pqBp1UKoa66zfQTm1Ac+HI7WXaJLxbIQoIrpwTDzsSGKWZo=;6AOpCHNwD/arP2eSCFcmUA=="
+secured: "AYdChWCriRYd7DSEu+aHDOUEQyWy9GW5ib8D5uKrUkpD6e3JSIyudRsXcljSCEQasvGtGxbLFpJXThFU2TJ5bK6FwAv+F22GPpOVP/uz4U43JAvcqsUDUTQIcqL28/jZOIg9RIwxEq+osKzHktkkc/R/PCkfh+7GdN1rmQbQZXoSa5C3jSVb5PMePC19YLJrrRIumT3RhQYTeBKYWwYQVsPOf8RFbH8ZRclRBHbX3M23Q5HPoWPZxIZ8MSnYVifUVKZzoK465EwubAoVOO8oVDPVcyBQ6ZTqNI0uAGUZJYHFMxROddeBIGafP61aCADTC+GACh9SgLILsnZhM+OEZhkn+O2IVmS49Ma7tH1ckdY=;LyBHr9ghT5CB4HwlVODI3w=="
 ---
 

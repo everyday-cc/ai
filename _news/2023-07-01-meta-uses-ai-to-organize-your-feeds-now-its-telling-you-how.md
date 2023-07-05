@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Is AI Coming to Take Your Job?"
+    excerpt: "AI is now so commonplace and all-encompassing that there are now AI assistants that will map out your daily schedule, and make changes depending on what you do and don’t get done on any given day. This means you aren’t even controlling your schedule anymore;"
+    publishedDateTime: 2023-07-05T07:21:00Z
+    webUrl: "https://sacobserver.com/2023/07/is-ai-coming-to-take-your-job/"
+    type: article
+    provider:
+      name: The Sacramento Observer
+      domain: sacobserver.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/sacobserver.com/wp-content/uploads/2023/07/Screenshot-2023-06-30-at-1.41.45-PM-e1688408713309.webp?fit=710%2C603&ssl=1"
+        width: 710
+        height: 603
+        isCached: true
+
 secured: "T5NgNskvjYtTHlXFbhzJwENjj9NbO4yRMX/CpeWzjsgrGp1LARi4aj1J2181IX66PpipVzgLxlwgxMFG/roaUEX0+HOhsREr4g1bqFz3YP5W8Zq0l/c9ZfEfRBynYv2Rm/91h18lESPiKs5voQu+TD5thMgFzlTmQUJ1e62mb00ckYZN8LPIKqiHKerl2J319eXVFy4aR3QYu/AdhZHtgB+h23Wvlz3rB+j7g6hC7jnDYDZzd2ki9k8aUcIQKgJ9C0d3l29Mcgd1fKmB1W83WsT8p8jQO4fvQeaC7TFHL1IhSe/o6xuuAuyeQ2Sc3t46epC6+PUnWxBul3/FQfSqKJvAg11YcGKnu0oUQg029sj+mvqnKn66OZALVIrF+WaBxyVClHOl6k5yPd3w86JDgjF6ruA1+lZTW4RmzhCekLeyJhTigvxIIu+Xn9Ggr5h+GSTWaEn4mhdt1zWUpHpU73FLFcfDHzuwcXsnPbgkDkHbZCrWxwo9KHkRAG0Rfo9TvPyC66llqgzdD2d2AFNxuQ==;DHfxWhP47GEtIGGd/jf0/A=="
 ---
 

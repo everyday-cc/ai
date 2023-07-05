@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreemen
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dobin, an AI-powered FinTech solution announces its launch"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-03T11:46:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/dobin-an-ai-powered-fintech-solution-announces-its-launch/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/05/Small-IBSi-ad-3.png"
+        width: 600
+        height: 500
+        isCached: true
   - title: "Latest Trends In Fintech - A Comprehensive Analysis"
     excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
     publishedDateTime: 2023-07-04T18:11:00Z

@@ -62,6 +62,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Google will use public data to train its AI models as part of its new privacy policy"
+    excerpt: "Google has recently made adjustments to its privacy policy to specify that publicly accessible data may be utilized in the training of its AI models. To be"
+    publishedDateTime: 2023-07-05T16:43:00Z
+    webUrl: "https://www.onmsft.com/news/google-will-use-public-data-to-train-its-ai-models-as-part-of-its-new-privacy-policy/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 32
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/photo-1529612700005-e35377bf1415-1.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Google Updates Privacy Policy to Train its AI for Online Posts"
     excerpt: "Google discreetly revised its privacy policy over the weekend, which you most likely missed. Even if the policy's phrasing hasn't changed much from previously, it's enough to cause alarm"
     publishedDateTime: 2023-07-05T11:31:00Z

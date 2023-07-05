@@ -89,20 +89,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Microsoft Outlines Azure OpenAI Large Language Model Servicing"
-    excerpt: "Microsoft on Friday outlined how Azure OpenAI users can automatically keep up with the latest large language model updates, and also gave assurances about privacy issues."
-    publishedDateTime: 2023-06-30T23:30:00Z
-    webUrl: "https://redmondmag.com/articles/2023/06/30/azure-openai-model-servicing.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 69
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/170719BinaryBuildingGraphic.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
     excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
     publishedDateTime: 2023-07-01T15:40:00Z

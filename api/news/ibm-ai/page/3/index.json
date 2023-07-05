@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-12-using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc.md",
+      "title": "Using the metadata service to identify disks in your VSI with IBM Cloud VPC",
+      "excerpt": "Recently, IBM Cloud VPC introduced the metadata service, which allows you to query data about itself and get identity tokens and more from the VSI. \nThe post Using the metadata service to identify disks in your VSI with IBM Cloud VPC appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc/",
+      "originalUrl": "https://www.ibm.com/blog/using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/lhj_2193-edit-161212-gj.lr_2x1.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T07:09:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-how-ibm-hr-leverages-ibm-watson-knowledge-catalog-to-improve-data-quality-and-deliver-superior-talent-insights.md",
+      "title": "How IBM HR leverages IBM Watson® Knowledge Catalog to improve data quality and deliver superior talent insights",
+      "excerpt": "People analytics is at the center of human resources (HR) strategy and planning. Companies rely heavily on data and analytics to find and retain talent, drive engagement, improve productivity and more across enterprise talent management. However, analytics are only as good as the quality of the data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-hr-leverages-ibm-watson-knowledge-catalog-to-improve-data-quality-and-deliver-superior-talent-insights/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-hr-leverages-ibm-watson-knowledge-catalog-to-improve-data-quality-and-deliver-superior-talent-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/How-IBM-HR-leverages-IBM-Watson®-Knowledge-Catalog-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T02:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-why-advanced-api-security-is-critical-to-outsmarting-new-threats.md",
       "title": "Why advanced API security is critical to outsmarting new threats",
       "excerpt": "Noname Advanced API Security for IBM aims to further enhance the strength of solutions for monitoring and locking down APIs from evolving threats. \nThe post Why advanced API security is critical to outsmarting new threats appeared first on IBM Blog.\n",
@@ -1295,83 +1397,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know.md",
-      "title": "Red Hat Charges Into Hybrid Cloud AI with OpenShift AI!: All You Need To Know",
-      "excerpt": "Expanding on their battle-hardened OpenShift and OpenShift Data Science suites, they are now providing a robust and scalable foundation for IT operations to adopt AI and exploit its benefits. , Technology & Science News,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980",
-      "originalUrl": "https://www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-100464980,updatedat-1684906257646,width-1280,height-720,resizemode-75/100464980.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980/amp",
-      "publishedDateTime": "2023-05-23T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud.md",
-      "title": "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud",
-      "excerpt": "Red Hat, Inc. today announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/",
-      "originalUrl": "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-gener
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://t.ex-cdn.com/theinvestor.vn/resize/600x360/files/news/2023/06/29/hnf-12345-195910.jpeg"
         width: 600
         height: 360
-        isCached: true
-  - title: "Microsoft Outlines Azure OpenAI Large Language Model Servicing"
-    excerpt: "Microsoft on Friday outlined how Azure OpenAI users can automatically keep up with the latest large language model updates, and also gave assurances about privacy issues."
-    publishedDateTime: 2023-06-30T23:30:00Z
-    webUrl: "https://redmondmag.com/articles/2023/06/30/azure-openai-model-servicing.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 69
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/170719BinaryBuildingGraphic.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft, Nvidia Invest In Ai Startup Inflection Ai"
     excerpt: "san francisco: microsoft and nvidia were among a host of investors who took a stake in ai company inflection ai.<br /> <br /> the company rai"

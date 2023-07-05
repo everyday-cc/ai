@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-05-a-hot-generative-ai-summer-is-here-get-ready-to-sweat-the-ai-beat.md",
-      "title": "A hot generative AI summer is here. Get ready to sweat | The AI Beat",
-      "excerpt": "A year ago, the phrase “generative AI” had barely pierced the jargon of my inbox. What a difference a year makes.",
+      "path": "_news/2023-07-05-why-big-tech-wants-to-help-congress-regulate-ai.md",
+      "title": "Why Big Tech Wants to Help Congress Regulate AI",
+      "excerpt": "Tech interests, especially OpenAI, the nonprofit that created ChatGPT, have gone on the offensive in Washington, arguing for regulations that will prevent the technology from posing an existential threat to humanity.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/a-hot-generative-ai-summer-is-here-get-ready-to-sweat-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/a-hot-generative-ai-summer-is-here-get-ready-to-sweat-the-ai-beat/",
+      "webUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai",
+      "originalUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-05T091909.154.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/f154ebe/2147483647/strip/true/crop/1175x613+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb5%2F42%2Fe656e308c9a0040121ef5c7565dc%2Fcongress-flickr.jpg",
+          "width": 840,
+          "height": 438,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T06:27:00-07:00",
+      "ampWebUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true",
+      "publishedDateTime": "2023-07-05T09:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
+    excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
+    publishedDateTime: 2023-07-05T16:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 55
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Tokyo-skyline2_1200.png?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Everyday Use of AI and ChatGPT in Oncology Practice"
     excerpt: "Bonilla, MD, MSEd, discussed the growing use of artificial intelligence (AI) in oncology practices. Loaiza-Bonilla is a medical oncologist and cofounder of Massive Bio, a company that uses AI to connect oncologists and patients with cancer to clinical trials of novel treatments."
     publishedDateTime: 2023-07-05T13:46:00Z

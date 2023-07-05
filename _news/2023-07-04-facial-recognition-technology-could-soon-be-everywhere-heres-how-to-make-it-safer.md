@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Facial recognition technology could soon be everywhere—here's how to make it safer"
+    excerpt: "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement all over the UK and other countries."
+    publishedDateTime: 2023-07-05T16:31:00Z
+    webUrl: "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/facial-recognition-tec.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Facial recognition technology could soon be everywhere – here's how to make it safer"
     excerpt: "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement"
     publishedDateTime: 2023-07-05T03:35:00Z

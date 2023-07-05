@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/a-hot-generative-ai-summer-is-here-get-
 webUrl: "https://venturebeat.com/ai/a-hot-generative-ai-summer-is-here-get-ready-to-sweat-the-ai-beat/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: VentureBeat
@@ -28,22 +28,6 @@ images:
     height: 750
     isCached: true
 
-related:
-  - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
-    excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."
-    publishedDateTime: 2023-07-01T00:07:00Z
-    webUrl: "https://venturebeat.com/ai/perception-point-launches-ai-model-to-combat-generative-ai-based-bec-attacks/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Default_A_menacing_robot_hacker_stares_into_a_screen_its_green_0_2e981a1e-b44a-4292-97e9-1e9ddfef4817_1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 631
-        isCached: true
-
-secured: "+agBABXakb86KkhNZsJyXi9IQHHAqSWmgsBDyKYvWw4ER9oGe503X2JODWjkv760ZoJy4D6rcJUtWQRhyjL6u+QZO1CgADZRmeM77G04VJ5Pj3jwPI3hJ9msqV2Okpvklcj7eNme9rkEwZuMmjW+RIGyBkFyoxC0kAZVH03WcNnaeeSJ16vCDNiQnBeYeTlZdkhhdINr1XwApx9DBzCv0LL6Rrt4yWHLiLdVUOPLnhX7TBOoZoCqMoIqdHh/1Fw6vuda4ynN+JgL8g4Toa2cfY5yoXbPDnreXH1eAMDVM5tFPm0bPlTpCZWHJEZ02HdaJEOqu1anc+OHABb/Y8jdUthkjtbcEeK1CXw9VTcNwNk=;8IzmF5PpPA8JzG7TWK75Ww=="
+secured: "HE6U+VJvTDHto77F/pY5m+74R0b+qsARuUzoaqksBi8JyGbq/xInMxTX6kfIIuPlD0fNWNhvqkteD5yVC95fmKr62jOG8fqZswc5sVRjvn2WWeKuJA8D26VAPodVrN0OkzImRUEjjINyugTo4cnH/DWKHg9DwQd1S2Lhv3aTHU0sWlwrGMgBdzmqlEnjj7wxBNYhbFFXAITxka7bsD2S63coR5EkMl2Bp8+G2k6RqgEArkPaA+UhxX1yLGP94Qds2EZwv9YlWg5HZkNSUhBexX8ZdD7bJCv80epp/RX6dmGU3qLRHfmKhje+OAOQsQfK+uLH1eIwy6SEapnohE50qWdDC5602nbn6LxDvwrfmu6oWi+mqP4nlXq5DZxabeiYhMgZokGH4s89OZTQb2A4MnJYVmMCdusP1aaqGCL0H5X5H1RPHlNsQs8N82ujtnn0loTVTUj+8hOOLcz0nbGn4fh2BCQ8fuX2+SogY/BPKB6X4Y1DKOV69GdjOTpgEdjSfHDp8s4W1q+8duDo+Urs+A==;2FxQvOKWw1/HFBaPRqd53g=="
 ---
 

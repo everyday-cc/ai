@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Facial-recognition-technology-could-soo
 webUrl: "https://www.econotimes.com/Facial-recognition-technology-could-soon-be-everywhere--heres-how-to-make-it-safer-1658891"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology could soon be everywhere—here's how to make it safer"
+    excerpt: "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement all over the UK and other countries."
+    publishedDateTime: 2023-07-05T16:31:00Z
+    webUrl: "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/facial-recognition-tec.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Facial recognition technology could soon be everywhere – here’s how to make it safer"
     excerpt: "However, there are ways that the technology could be used more safely. Law enforcement teams could perform two preliminary steps – activity recognition or event detection – before they resort to face recognition. This approach can help minimise the potential for privacy violations and false positive matches."
     publishedDateTime: 2023-07-04T12:08:00Z

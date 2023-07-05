@@ -2,6 +2,239 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-29-computer-vision-united-states.md",
+      "title": "Computer Vision - United States",
+      "excerpt": "Value in the Computer Vision market is projected to reach US$8.31bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 10.00%, resulting in a market volume of US$16.19bn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/united-states",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/united-states",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-computer-vision-system-marries-image-recognition-and-generation.md",
+      "title": "Computer vision system marries image recognition and generation",
+      "excerpt": "Computers possess two remarkable capabilities with respect to images: They can both identify them and generate them anew. Historically, these functions have stood separate, akin to the disparate acts of a chef who is good at creating dishes (generation),",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/computer-vision-system.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-vision-image-recognition-generation.amp",
+      "publishedDateTime": "2023-06-28T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-natural-language-processing-asean.md",
+      "title": "Natural Language Processing - ASEAN",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$0.71bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.61%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/asean",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/asean",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-how-generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-hr-software.md",
+      "title": "How generative AI is already changing the workplace: Oracle just added it to HR software",
+      "excerpt": "Generative AI-powered features will improve the job posting, search, and hiring processes for HR pros​ and job applicants alike, the company says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/cb7e8fe61ddc541ff899e37f15206a20bb3c8b90/2023/06/28/fde1d28f-b5df-42db-8111-ec12a6095501/oracle.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
+      "publishedDateTime": "2023-06-28T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace.md",
+      "title": "Kyvos announces availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace",
+      "excerpt": "Azure users can accelerate analytics on massive data without the hassle of managing software and infrastructure. SAN FRANCISCO, June 28, 2023",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2143384/Kyvos_Insights_Logo.jpg",
+          "width": 395,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china.md",
       "title": "US Mulls Even Tighter Restrictions to Stop AI Chips From Reaching China",
       "excerpt": "The US is considering even harsher export restrictions to prevent China from obtaining cutting-edge chips used to power AI programs. The US Commerce Department could implement the new export controls as soon as next month,",
@@ -974,247 +1207,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-barred-from-grocery-stores-by-facial-recognition.md",
-      "title": "Barred From Grocery Stores by Facial Recognition",
-      "excerpt": "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
-      "originalUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/06/22/multimedia/00facewatch-top-fqlv/00facewatch-top-fqlv-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-new-wef-research-identifies-revolutionary-healthcare-ai-applications.md",
-      "title": "New WEF research identifies revolutionary healthcare AI applications",
-      "excerpt": "World Economic Forum report released today highlights the transformative potential of artificial intelligence (AI) in healthcare and the importance of public-private collaboration in driving its global adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
-      "originalUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2023_08_02_07_2980727.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
-      "publishedDateTime": "2023-06-28T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.md",
-      "title": "Chinese A.I. stocks fall as U.S. reportedly weighs curbs on chip exports",
-      "excerpt": "China's AI stocks fell Wednesday after The Wall Street Journal reported that the U.S. is planning to impose more chip restrictions",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107263783-1687930209478-gettyimages-1258367086-TAIWAN_NVIDIA.jpeg?v=1687936055",
-          "width": 4000,
-          "height": 2486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
-      "publishedDateTime": "2023-06-27T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer.md",
-      "title": "Doctors tout use of artificial intelligence to detect breast cancer",
-      "excerpt": "NEW YORK-- It's a second set of eyes that could make the difference between life and death. Artificial intelligence is now being used to spot the earliest signs of breast cancer, improving outcomes. \"I think artificial intelligence has the ability to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "originalUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/28/f3930e0c-b427-4756-a33f-4337d802d80d/thumbnail/1200x630/5ebeefed9c8b7814e764532f5325cf1b/artificial-intelligence-for-breast-cancer.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "publishedDateTime": "2023-06-27T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ftx-holds-off-on-selling-its-stake-in-ai-startup-anthropic.md",
-      "title": "FTX Holds Off On Selling Its Stake In AI Startup Anthropic",
-      "excerpt": "In an unexpected turn of events, FTX has paused the sale of its stake in Anthropic, according to a report from Bloomberg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649ba1efdd88261a09c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/amp/",
-      "publishedDateTime": "2023-06-27T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

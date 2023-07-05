@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-generated-music-could-win-grammy-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7?amp"
 type: article
 quality: 53
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -30,21 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
-    excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols"
-    publishedDateTime: 2023-07-04T13:03:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
+  - title: "Grammys CEO Outlines New Artificial Intelligence Policy"
+    excerpt: "The Grammys have shared an update related to the use of artificial intelligence and songwriting. The adjustment comes after last month's ceremony"
+    publishedDateTime: 2023-07-05T15:40:00Z
+    webUrl: "https://jambands.com/news/2023/07/05/grammys-ceo-outlines-new-artificial-intelligence-policy/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
+      name: Jambands
+      domain: jambands.com
+    quality: 37
     images:
-      - url: "https://s.abcnews.com/images/Entertainment/wirestory_dea135035893deab37719c354f31a889_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://jambands.com/wp-content/uploads/2023/07/Promo-Facebook-Facebook-link-image-88-3.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
+    excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols."
+    publishedDateTime: 2023-07-04T16:59:00Z
+    webUrl: "https://www.clickondetroit.com/entertainment/2023/07/04/grammys-ceo-on-new-ai-guidelines-music-that-contains-ai-created-elements-is-eligible-period/"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 26
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2I2VVISS6ZAYFEDVMPWSIIIJVI.jpg?_a=ATAPphC0"
+        width: 700
+        height: 465
         isCached: true
   - title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
     excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols."

@@ -49,6 +49,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
+    excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
+    publishedDateTime: 2023-07-05T16:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 55
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Tokyo-skyline2_1200.png?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Despite productivity crisis, UK businesses are slow to adopt AI: Research"
     excerpt: "Despite the widespread proliferation of AI capabilities to help drive productivity, UK businesses continue to lag behind their global counterparts when it comes to adoption rates."
     publishedDateTime: 2023-07-03T09:07:00Z
