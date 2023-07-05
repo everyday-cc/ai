@@ -25,10 +25,10 @@ images:
     isCached: true
 
 related:
-  - title: "AI Industrial Robotics - Poland"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$48.92m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.06%, resulting in a market volume of US$ ..."
-    publishedDateTime: 2023-06-30T12:58:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/poland"
+  - title: "AI Service Robotics - Greece"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$10.22m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.89%, resulting in a market volume of US$23 ..."
+    publishedDateTime: 2023-06-30T14:21:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/greece"
     type: article
     provider:
       name: Statista
@@ -39,15 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Service Robotics - Greece"
-    excerpt: "Value in the AI Service Robotics market is projected to reach US$10.22m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.89%, resulting in a market volume of US$23 ..."
+  - title: "Natural Language Processing - Greece"
+    excerpt: "Value in the Natural Language Processing market is projected to reach US$37.94m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.03%, resulting in a market volume of ..."
     publishedDateTime: 2023-06-30T14:21:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/greece"
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/greece"
     type: article
     provider:
       name: Statista
       domain: statista.com
-    quality: 69
+    quality: 39
     images:
       - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
         width: 1200

@@ -7,7 +7,7 @@ originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192"
 webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192"
 type: article
 quality: 54
-heat: 74
+heat: 76
 published: true
 
 provider:

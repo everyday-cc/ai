@@ -89,15 +89,6 @@ related:
         width: 600
         height: 380
         isCached: true
-  - title: "Trusting Social brings AI-powered agents to enterprises"
-    excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
-    publishedDateTime: 2023-06-30T11:59:00Z
-    webUrl: "https://vir.com.vn/trusting-social-brings-ai-powered-agents-to-enterprises-103145.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 19
   - title: "Fintech Ecosystem Development Corp. (Nasdaq: Fexd) Advancing The Use Of Ai To Power Financial Solutions"
     excerpt: "FEXD acknowledges the recent big data boom that has introduced tech-driven solutions in the current financial services space <li /> AI,"
     publishedDateTime: 2023-07-03T19:51:00Z

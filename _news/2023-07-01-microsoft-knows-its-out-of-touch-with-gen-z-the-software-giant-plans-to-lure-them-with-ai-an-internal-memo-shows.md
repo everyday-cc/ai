@@ -130,20 +130,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 55
-  - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud, AI technologies"
-    excerpt: "Trusting Social, a leading Asian fintech AI company, on Thursday announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises. The Agent Foundry will integrate Microsoft Cloud and ..."
-    publishedDateTime: 2023-06-30T11:54:00Z
-    webUrl: "https://tuoitrenews.vn/news/business/20230630/trusting-social-brings-aipowered-agents-to-enterprises-backed-by-microsoft-cloud-ai-technologies/74135.html"
-    type: article
-    provider:
-      name: Tuoi Tre news
-      domain: tuoitrenews.vn
-    quality: 42
-    images:
-      - url: "https://secure3.vncdn.vn/ttnew/r/2023/06/30/bcaf76de12aac2f49bbb-1688124913.jpg"
-        width: 4095
-        height: 2730
-        isCached: true
   - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
     excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
     publishedDateTime: 2023-06-30T18:07:00Z

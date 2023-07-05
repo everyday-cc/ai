@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changin
 webUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changing-ai-powered-solution-personal-finance"
 type: article
 quality: 52
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
         width: 600
         height: 380
         isCached: true
-  - title: "Trusting Social brings AI-powered agents to enterprises"
-    excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
-    publishedDateTime: 2023-06-30T11:59:00Z
-    webUrl: "https://vir.com.vn/trusting-social-brings-ai-powered-agents-to-enterprises-103145.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 19
   - title: "Latest Trends In Fintech - A Comprehensive Analysis"
     excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
     publishedDateTime: 2023-07-04T18:11:00Z
@@ -118,6 +109,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "mQtgeiDwE3BHNfpBOGCIWVBe7cOh5uRJykxDCKAj0ACzTSJrrDQeBAzvt5JwgNUk9WL7oYhE4IuDO1gq+9FLxnuZKEZozZ45QiUOsisj5Uy5yPGAwsYRxkvRzyIVX4j0ioMUM2QjL4nPFxRMlGitz8m9cFgOjduNgfXsyyqeVeh7xjMgl3do+KbO0luumZw7GYmDWrRc1V8OUV1FhCDWbNMNrFWPh9lOI59/FA8tTXWZtsf/p+1OwLbHsPGlJaYDXa9NTiW4iZ2BbSK+TpxEGVx3s+zJ1wIm2iJCvloQEPflMPOYfoyXvyjNa7mADBcpQU6dbx/sV7H9b+gY/FBRjWg0P4PsIKnZkT1uscx5I64=;zRcUJgbgtH4i8AUz6eoS+w=="
+secured: "FCp3uAOhSF7QC7GbM3Dqe7ilt80co1JYvdU0iepp0oxh0IVRAeezljrDfWFoq2FPKtcUE2UEAyCIVUQqf5EMnlYu/Dn2Diz9Qe2uZLm4RP7v2x4ha9UzZY+ie0QYdqRniuDhVtNxKnKfHmNH0n7vAO3lLazKs8jhR+Qg5UEg92P6nI94vTA9/fFuHENvnHzIVBt0z+AJvH173LNqjfHwtWNG3ABMwPHSCwJgo7Ew0QjdV1FxEU76m6qncycEZw8TTF8lATdykEJVOpY9QqP14CwtdKmU/WRMURycRyjwvxDk3kMMk/C96zuqz+FLbrxlpIQk8soMN93cyOy++2TeVFu1X44NFBJObF9ChgyUpoI=;MJD1PJtaf2cGiQWxFW+14Q=="
 ---
 

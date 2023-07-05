@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Us Radiologists Working With Nutex Health Hospitals Now Have Access To World-Class Draid, An Artificial Intelligence Doctor's Assistant"
+    excerpt: "HANOI, VIETNAM - media outreach - 4 July 2023 - VinBrain's advanced AI assistant in diagnostic imaging, draid Chest XR, was successfully integrated"
+    publishedDateTime: 2023-07-05T05:36:00Z
+    webUrl: "https://menafn.com/1106553808/Us-Radiologists-Working-With-Nutex-Health-Hospitals-Now-Have-Access-To-World-Class-Draid-An-Artificial-Intelligence-Doctors-Assistant"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/04/DPN_6b58d08d-2_Image_In_Body.png"
+        width: 750
+        height: 500
+        isCached: true
   - title: "US radiologists working with Nutex Health Hospitals now have access to world-class DrAid™, an artificial intelligence doctor’s assistant"
     excerpt: "VinBrain’s advanced AI assistant in diagnostic imaging, DrAid™ Chest XR, was successfully integrated into the radiology workflow of Nutex Health Inc. in Houston, Texas, United States through a Software Subscription License Agreement – SaaS (Software as a Service) model."
     publishedDateTime: 2023-07-03T17:29:00Z

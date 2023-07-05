@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/30/how-
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/30/how-blockchain-and-ai-can-change-businesses-in-the-future/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,69 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Agriculture Isn't the Future; It's Now"
-    excerpt: "Part of Cengiz Koparan's research involves using artificial intelligence to reduce labor shortages and make farm technology more approachable for producers."
-    publishedDateTime: 2023-07-03T05:16:00Z
-    webUrl: "https://news.uark.edu/articles/64596/artificial-intelligence-in-agriculture-isn-t-the-future-it-s-now"
+  - title: "How People And Image-Generating AI Can Work Together In Business"
+    excerpt: "There are a few tips and strategies companies can use to work with AI tools and make the most of their creative teams."
+    publishedDateTime: 2023-07-03T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
     type: article
     provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2023-06-23_10-15-51-AMCengizKoparan.jpg"
-        width: 900
-        height: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&width=1200"
+        width: 855
+        height: 570
+        isCached: true
+  - title: "Transforming Generative AI Into Domain-Savviness Via In-Context Learning And A Dash Of Data Engineering Seems Promising, Says AI Ethics And AI Law"
+    excerpt: "Latest efforts to imbue generative AI with domain expertise makes use of data engineering and in-context model learning. This close look explores how this works."
+    publishedDateTime: 2023-07-01T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3796,2530,x671,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How computers and artificial intelligence evolve together"
+    excerpt: "Co-design, that is, designing software and hardware simultaneously, is one way of attempting to meet the computing-power needs of today's artificial intelligence applications. Compilers, which translate instructions from one representation to another,"
+    publishedDateTime: 2023-06-30T17:15:00Z
+    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-computers-and-arti.jpg"
+        width: 660
+        height: 441
+        isCached: true
+  - title: "How AI can help process waste and increase recycling"
+    excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
+    publishedDateTime: 2023-07-02T23:12:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-66042169"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4143/production/_130270761_recycling-gettyimages-150517191.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "LaIFbRVrin8dGs68270mPcm4fcfcmQPudkIa2A30vwYF32Cmc7LdQCFx9SfVS/1sboxgAjgZFs6zGq9rFNn8+IwDseF61dtmeGOcJcNCQp6eb7O6UTWY1xsfAuV9kyaTTb5wXP8NcXWweYW7GV7i7oFsIsutvmi9U80Gnt0w3pTtouGpQrLTndobjUtFRAv2gajrRXfXGv9KEy66O3nQFCNeGDa3iHd0ReZpY9Rf6iIxs6HRr/0y+3iE7ICd0+5UqaiibwPxIcSZEo40TFC0oce1uEDEzdC1MOoHuttc//9vKwJbxpaivzGa6pJtpPbMYy67k4GBabnPdH77pIz6PbexCxbmX8fgjlVoJGXvgM/DpyaqsRNIUCz+houVTlBMDdzllR82vZHbjwRvpsxJD1X2P6EtKcuOmX67fNJXxuX7L04DLQ8QRcvNRaTmuVsR0rJJuarZW+n3mP0f2s3FIPNCyEJ207Y6b1dsvIxn1f5c0xl/IZD/w223jfUvD8De0SXdtwk93A5X0pt8pFoPwA==;+ZVSPh9Mc3ztUTlHpf4S4w=="

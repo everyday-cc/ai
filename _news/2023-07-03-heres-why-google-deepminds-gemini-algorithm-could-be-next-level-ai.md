@@ -19,29 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials"
-    excerpt: "Ever since ChatGPT went viral last fall, companies have touted many ways artificial intelligence can make our lives easier. They’ve promised superhuman virtual assistants, tutors, lawyers and doctors."
-    publishedDateTime: 2023-06-30T12:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-30/artificial-intelligence-startup-looks-to-develop-climate-friendly-materials"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 63
-  - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
-    excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."
-    publishedDateTime: 2023-06-30T15:09:00Z
-    webUrl: "https://www.canadianmanufacturing.com/Y0iqA"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 54
-    images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
-        width: 300
-        height: 600
-        isCached: true
   - title: "DeepMind alum wants to use AI to speed the development of green materials"
     excerpt: "For the same idea to work in chemistry, an AI system would need to predict how a new molecule would behave, not just in a lab but in the real world."
     publishedDateTime: 2023-07-03T02:01:00Z

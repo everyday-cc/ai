@@ -2,27 +2,26 @@
 category: news
 title: "Researchers are using AI to experiment with reading people’s minds"
 excerpt: "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I."
-publishedDateTime: 2023-07-05T03:06:00Z
-originalUrl: "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
-webUrl: "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
-ampWebUrl: "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
-cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
+publishedDateTime: 2023-07-05T05:06:00Z
+originalUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
+webUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
+ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
+cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
 type: article
-quality: 61
-heat: 101
+quality: 59
+heat: 79
 published: true
 
 provider:
-  name: KKTV11
-  domain: kktv.com
+  name: Hawaii News Now
+  domain: hawaiinewsnow.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Facebook AI
+  - AI
 
 images:
-  - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/_Sbk6U-tGzat31NVOmEU5t3zFAM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4DORYMJT4FDSJL6YF2WIF5HCRE.png"
+  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/NJvsMHuxNJEv04GUf3J8EMuo978=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JQY5XAAM25EJDK6NXBGHTSDLEM.jpg"
     width: 800
     height: 450
     isCached: true
@@ -44,29 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "13 Principles for Using AI Responsibly"
-    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
-    publishedDateTime: 2023-06-30T12:14:00Z
-    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Resistant AI extends Series A to $27.6m with new funding"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-06-30T11:34:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/resistant-ai-extends-series-a-to-27-6m-with-new-funding/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
   - title: "How actors are losing their voices to AI"
     excerpt: "Performers forced to compete with themselves as companies’ use of technology for cloning prompts calls to update copyright law"
     publishedDateTime: 2023-07-01T13:00:00Z
@@ -77,6 +53,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "QLWFIkk7NBK2wctJ75aNNEkXNq89Jho1tsLFZ12etQvVLYVaKfhcQ0bT6Q+sY08t4/+ewxbRf1umG25Z7QGqZAMIXhlvhhtPLGkDvIOfP/XzE3fpSRAZCDlHyZZF2asIOk9U1xw5p36rjgXBKuqs5zRwJGxnIvPvxNCb38Js/SfEd2b+MeWcDu8sXR+vIYVrNpRSnn1sIki6N3B7GNMCcLJuaryvUN4TAL/7Er3zGBNeCb7EPTC8wjCEbKacaffB33z79dPtKAfRwguRT424zBHDZoVdiaS4wvVEkyIG8/Y4UNS927caCxl5+NL3QZFJpAscczxeYZdD2AmySmuWtY2P9qI9K/iY/vQ3tcfUdP0=;mUeD7L74ulHkMYx/TJSGmQ=="
+secured: "3PwxuOLBth9+7QhY8HtTI04kXGe/87Qn4qAyujbQ1RrB1A54oown9TIZAHk5cjYCZvQGnL8sSjXCJ6CJ8eGv2FiiEs+HX/pwGOlMUOPtaVYDbQ0GE1SziBngqtrTCxzuKaj2r/ReaQnJlX3kWTk68o4awaI3eo2qsOYuN+aAV5sig9k1iOHw/t7UcWQ8lIn0DSffgpq8hBHuzmd3ifSRX0dFvPi3+2jzwxkaMCkJaXVBXYVAScAR0rSUMjh6S4YkY8k+oFIaMm5B+BFzbNF7BTgRqYo3BKIqCBZoqOO5Bn9BdQsxUOXvL+bOYErRLlrqH+dd6Mtj6Vpn4ZDOeFR9kN3sx9f48WJ8sNVTVmOjexE=;0J9pckWVwTWqNayVK+ZsYw=="
 ---
 

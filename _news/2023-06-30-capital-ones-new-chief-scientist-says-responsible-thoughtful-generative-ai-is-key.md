@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-r
 webUrl: "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: VentureBeat
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 750
     isCached: true
+
+related:
+  - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
+    excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."
+    publishedDateTime: 2023-06-30T15:09:00Z
+    webUrl: "https://www.canadianmanufacturing.com/Y0iqA"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 54
+    images:
+      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
+        width: 300
+        height: 600
+        isCached: true
 
 secured: "vp7kPyU+qqZY6hLZRr+T0m6jO4y0VGlOdsMIvmhclcbuTFbtEUDYI887/zEzcAX2Bh84Yxg8o2nz3ydDD7PYciIoKvc9Zqwrb2M7lNvjQ7+3mx7kx/7aYqCHn5SC/iXOoHlGMbfLUxbST8q5e3Azr8Q/TaxOkr2ZtmHnuhDGwgyTkMo+Vsxc/xn0JCa8o02+gyFjMP9UThlX+bjhuHKcghHLyCzMHyuEhydfgefBYESMudiMpCvqOLPA9fRd/WQqf0jDYSLnM4TbBqvfM4Mx221+NuiSdcseF9EgJf0OuJWtvXjtKIN+4lSh0hZ0R0vzhYl31YUrjqqEtGMcf8NiQzBWN/BYX8zlOOW794GJMjfzPEYQs13ziglmL0wrBCSkQsdzgIx6PT57+ADZxOr6d6+c5pBi8PoOjVXwmIftgeGnL59iynTlw9htetxZPpv2vGHWJUsZVVQAjUuobagl3IO3fuhdrXwHcQBsiG2EvZLB1lcUkx3YIlQvH+YNOOQKHrdjhjv6nSyyNQ6/OSHzDA==;4kHe7wP3k7HRueup1Qc/yQ=="
 ---

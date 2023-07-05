@@ -7,7 +7,7 @@ originalUrl: "https://www.macaubusiness.com/us-radiologists-working-with-nutex-h
 webUrl: "https://www.macaubusiness.com/us-radiologists-working-with-nutex-health-hospitals-now-have-access-to-world-class-draid-an-artificial-intelligence-doctors-assistant/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Us Radiologists Working With Nutex Health Hospitals Now Have Access To World-Class Draid, An Artificial Intelligence Doctor's Assistant"
+    excerpt: "HANOI, VIETNAM - media outreach - 4 July 2023 - VinBrain's advanced AI assistant in diagnostic imaging, draid Chest XR, was successfully integrated"
+    publishedDateTime: 2023-07-05T05:36:00Z
+    webUrl: "https://menafn.com/1106553808/Us-Radiologists-Working-With-Nutex-Health-Hospitals-Now-Have-Access-To-World-Class-Draid-An-Artificial-Intelligence-Doctors-Assistant"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/04/DPN_6b58d08d-2_Image_In_Body.png"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Us Radiologists Working With Nutex Health Hospitals Now Have Access To World-Class Draidtm, An Artificial Intelligence Doctor's Assistant"
     excerpt: "HANOI, VIETNAM - media outreach - 4 July 2023 - VinBrain's advanced AI assistant in diagnostic imaging, draidtm Chest XR, was successfully integrate"
     publishedDateTime: 2023-07-04T14:30:00Z

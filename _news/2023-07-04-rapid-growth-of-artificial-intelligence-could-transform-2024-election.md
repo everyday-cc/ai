@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/news/nation-world/rapid-growth-of-artific
 webUrl: "https://www.stltoday.com/news/nation-world/rapid-growth-of-artificial-intelligence-could-transform-2024-election/video_5a5c96b4-8b7a-503a-8f64-c2c335de6c4b.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Two Ways AI Can Be Used To Help Transform Insurance"
-    excerpt: "Whether insurers want to improve underwriting, risk management or both, AI is one solution to satisfying B2B customers while benefiting underwriters."
-    publishedDateTime: 2023-06-30T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI can help prevent gun violence"
-    excerpt: "A museum in Florida is using AI to try to detect guns and identify possible shooters as quickly as possible. Manuel Bojorquez takes a look at the technology."
-    publishedDateTime: 2023-07-02T23:51:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/how-ai-can-help-prevent-gun-violence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/02/3d6e3ca7-a8d3-40f5-b281-1bb200aeb1fa/thumbnail/1200x630/0dfd272cf0905338ad627bb1c42cdbf7/0702-wn-bojorquez-2096640-640x360.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "lwgR3r0E4PCsNQ4O68P6tRywCa8N6CxKbROf9IztkqLVKe6Cv08XUT1sYy0xu03Of41LTrJADLaoI2xQ5SJi72njoKgQ3N9BkUpQN0wmvjhIRWYEADJ7Eyy+e1TbTS1kG2pIpU1OcQu7uNSfTXUFit2PJs5uLOMy6sswx8MD/dRHa6KHZmK9iEjK1xHoh6ZNy9WpUhC3HkDVpRhL+lLUaS+GcCY42qp+gci9Xp7bEOs+5+5ygW4qmYeXuHKnDxS2nHIdAfiNc4IVXytf1b10f0qNAD+qJJFEFuWk2ojLR6KSAcWdc+PAgDK34GjTT3+5f9FGX7aq88pQCP681ELM2O5a45de0O+ZZV4ditxP/2MRJcXKqwji22HVR8QWzJGO4vSF2IbTabZ9aNQD8gGUlJ0yON0jsc6FqXyW6UB0kylqEYVbVI3pKzEYilBwdLPUxdS1XNKkotmpmao+8HaGvZFif2xfYHBMKBVXmHU6f/YFP43aKem7M3jeUuxyJ/cVArxM3k0c3AUN9eKeD01mBg==;BraiZdmHRDND+WXbnWAk9Q=="
 ---
