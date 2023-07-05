@@ -44,6 +44,22 @@ related:
         height: 558
         isCached: true
   - title: "From human ashes to cellphones, what's going on with concert fans lately?"
+    excerpt: "From human ashes to cellphones, fans are taking their adoration for their favorite artists to dangerous new heights."
+    publishedDateTime: 2023-07-04T21:54:00Z
+    webUrl: "https://www.newsday.com/app/entertainment/from-human-ashes-to-cellphones-whats-going-on-with-concert-fans-lately-un13z1tp"
+    ampWebUrl: "https://www.newsday.com/amp/entertainment/concert-fans-throwing-objects-j9thojt9"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/entertainment/concert-fans-throwing-objects-j9thojt9"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 43
+    images:
+      - url: "https://cdn.newsday.com/ace/c:ZmRjN2MwMzktZWJiYS00:ZTcwMDA0/landscape/1280"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "From human ashes to cellphones, what's going on with concert fans lately?"
     excerpt: "From flinging bras to tossing flowers, concertgoers have long been a bit extra in showing adoration for their beloved artists — but a recent spate of artists being hit by weightier projectiles raises concerns about extreme fan culture and security."
     publishedDateTime: 2023-07-01T23:30:00Z
     webUrl: "https://buffalonews.com/entertainment/music/fans-throwing-items-concert-stage/article_83f861ee-bb27-52c0-9692-6e9694ac09bd.html"

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-03-nvidia-and-amd-weapons-of-ai-chip-war.md",
+      "title": "Nvidia and AMD: Weapons of AI Chip War",
+      "excerpt": "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/07/larx-kla-amat.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 995,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-17-insights-for-candidates-navigating-the-ai-job-application-era.md",
       "title": "17 Insights For Candidates Navigating The AI Job Application Era",
       "excerpt": "We encourage candidates to personalize their resumes, cover letters and applications. This shows genuine interest and helps you stand out in a competitive market.",
@@ -157,49 +210,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-03-musicians-revolt-against-facial-recognition-technology.md",
-      "title": "Musicians revolt against facial recognition technology",
-      "excerpt": "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
-      "originalUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg",
-          "width": 620,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-03-leonardo-da-vinci-inside-a-genius-mind.md",
       "title": "Leonardo da Vinci: Inside a genius mind",
       "excerpt": "28 institutions from around the world  join forces to showcase Leonardo da Vinci's unparalleled legacy, blending art, science, and AI innovation",
@@ -208,7 +218,7 @@
       "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -392,6 +402,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-03-global-x-etfs-icav-robotics-artificial-intelligence-ucits-etf-usd-botg.md",
+      "title": "Global X ETFS ICAV Robotics & Artificial Intelligence UCITS ETF USD (BOTG)",
+      "excerpt": "The selling price currently displayed is higher than the buying price. This can occur temporarily for a variety of reasons; shortly before the market opens, after the market closes or because of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hl.co.uk/shares/shares-search-results/g/global-x-robotics-and-artificial-intelligence/share-charts",
+      "originalUrl": "https://www.hl.co.uk/shares/shares-search-results/g/global-x-robotics-and-artificial-intelligence/share-charts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://chart.hl.co.uk/charts/chart.jsproto_large.chart?ID_SEDOL=BP6JFV1&WIDTH=1200&HEIGHT=630&TIME_SPAN=1Y&SUBSAMPLINGGRANULARITY=60&XAXISCLOSECOL=0&LINE_WIDTH=1&MOUNTAIN_COLOR1=a5b9d8&MOUNTAIN_COLOR2=c1cfe5&MOUNTAIN_COLOR3=c1cfe5&MOUNTAIN_COLOR4=ffffff&ID_NOTATION_COLOR1=25456b",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hargreaves Lansdown",
+        "domain": "hl.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining.md",
       "title": "Crypto Miners Seek a New Life in AI Boom After an Implosion in Mining",
       "excerpt": "Demand for high-end chips allows cryptocurrency companies to repurpose idle equipment.",
@@ -502,7 +555,7 @@
       "originalUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -621,6 +674,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-rage-against-the-machine-refuses-to-play-venues-with-facial-recognition.md",
+      "title": "Rage Against the Machine Refuses to Play Venues With Facial Recognition",
+      "excerpt": "Rage Against the Machine is living up to its name by signing a pledge to boycott venues that use facial recognition technology. Band cofounders Tom Morello and Zack De La Rocha are, as Rolling ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
+      "originalUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/06/rage-against-the-machine-facial-recognition.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1096,111 +1192,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-what-would-einstein-have-said-about-the-impact-of-generative-ai-on-higher-education.md",
-      "title": "What would Einstein have said about the impact of generative AI on higher education?",
-      "excerpt": "The debate over AI taking over our jobs has intensified in recent years. There was much discussion after the 2011 Jeopardy quiz show during which IBM’s Watson outsmarted two human champions, and the 2016 Go match in which Google’s AlphaGo beat Go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3225987/what-would-einstein-have-said-about-impact-generative-ai-higher-education?module=live&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3225987/what-would-einstein-have-said-about-impact-generative-ai-higher-education?module=live&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/fb5e7661-4967-4384-aec2-0bbdfb230ba9_f8895cc2.jpg?itok=ZIS8I_lg&v=1688042148",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-is-the-amd-gpu-better-than-we-thought-for-ai.md",
-      "title": "Is The AMD GPU Better Than We Thought For AI?",
-      "excerpt": "MosaicML, just acquired by DataBricks for $1.3B, published some interesting benchmarks for training LLMs on the AMD MI250 GPU, and said it is ~80% as fast as an",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649f469756d6e4a9b009d955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/amp/",
-      "publishedDateTime": "2023-06-30T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

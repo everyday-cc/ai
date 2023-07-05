@@ -1,24 +1,45 @@
 ---
 category: news
 title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
-excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols."
+excerpt: "A work that contains no human authorship is not eligible in any category,” the rules read in part. As the music industry continues to come to terms with this new technology, so too will the Grammys, says Recording Academy CEO and President Harvey Mason jr."
 publishedDateTime: 2023-07-04T16:59:00Z
-originalUrl: "https://www.clickondetroit.com/entertainment/2023/07/04/grammys-ceo-on-new-ai-guidelines-music-that-contains-ai-created-elements-is-eligible-period/"
-webUrl: "https://www.clickondetroit.com/entertainment/2023/07/04/grammys-ceo-on-new-ai-guidelines-music-that-contains-ai-created-elements-is-eligible-period/"
+originalUrl: "https://www.chron.com/entertainment/article/grammys-ceo-on-new-ai-guidelines-music-that-18183983.php"
+webUrl: "https://www.chron.com/entertainment/article/grammys-ceo-on-new-ai-guidelines-music-that-18183983.php"
 type: article
-quality: 6
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: clickondetroit.com
-  domain: clickondetroit.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - Facebook AI
   - AI
 
+images:
+  - url: "https://s.hdnux.com/photos/01/33/43/23/23999723/3/rawImage.jpg"
+    width: 2048
+    height: 1360
+    isCached: true
+
 related:
+  - title: "Music containing AI-generated elements could win a Grammy as long as a human contributes in 'a meaningful way,' Recording Academy CEO says"
+    excerpt: "The music industry's highest award will still only be given to \"human creators,\" but those artists can use AI in their work."
+    publishedDateTime: 2023-07-04T21:32:00Z
+    webUrl: "https://www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: "https://i.insider.com/64a48b724cc8540019cb5f60?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
     excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols."
     publishedDateTime: 2023-07-04T17:59:00Z
@@ -34,6 +55,6 @@ related:
         height: 465
         isCached: true
 
-secured: "1CQI4Cu4zs5ziYsSxwYE/z0CZ4GOCGdVDjM1IrXH9z52mzbfxLDE89WP606BAtqTaGElj2C5vPKcM5Wum1YHza4luHV0n8WZ9quHwGG/JiTusNHfj6VwFbTLQKip/qsRBYGdK9t8TO7/hl13DRBtHD6wOs3ZXbBnA5iRwg9dz7hYTmA7KjOJSsLIKrXdLri6PBbSkaGHLMtI017zgxb2hbxayIQuXr7g8nfrZsB6VGfBaZaU3KZa1w5SVwWvjw0GwyznuIZxUMyfK5Xucxl0/OprsZ+9g6KBc6+eRH4498YZrF9XY7MBFjXe2A/9I338fj6EXV/Hr1EB+cnE9DudwgRx2n/W2AhZPbWtPOvddf3vQQpZj3yygYOQ4m5p1KG3eR/Mv4MZEvlEwqTn/UYR7J3M83FIxqmsm3Tp4pXfQrXZ1a5arznCBgnxWgNAjyGiGret3SkDSszmf3VYiSvl1h6nIbX43Uy5ysBKOAlOhVaUD1e6iQzukpVIjrfXVQ/6L32acb983/4NftDjCUBteQ==;HrwZkwkWIP+44Vs1p+MEfg=="
+secured: "tAKC5H3ExTEERv8t7Nh3TeRx0hB5qTb9T1FY7ZPREvLO6KImC4lVSR0iuJhLbHNR/urkFfj+PWzlST5VAZNKJzpGDtiMGa4vSTFB0kP7NeKDcW3Fk4yDCOUF0t4LdpPXv6xVkZ4BTmEOy/kM6H6vUHBmS8BydblNtOcMijasyx3aSUfcV+Ui3RxCQlQr5tdc1hmnrepB0Bqnb0cR2iJpPO+HwUfKbF15ppYOPsWrDEk6sspLTl7Vp8ApJFZxdxRVOCx5dc8rkBDEL44SAXrUn12JMPIZnC2ABAp60htxv9pIPzzPtF3AmMWlVWDhm42p8wJX/N1qKKlYAhxjb52P6dJ+whyaFVVlwbSSw2JuwlY=;jn90ABS3ve1VPrTAHYupdA=="
 ---
 

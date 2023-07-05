@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 758
         isCached: true
+  - title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
+    excerpt: "Singapore-based fintech company Dobin is a financial marketplace ... information combined with advanced data analytics and AI to provide personalised deals and product recommendations."
+    publishedDateTime: 2023-06-30T14:26:00Z
+    webUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changing-ai-powered-solution-personal-finance"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 52
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/DOBIN_Full_Colour.jpg?h=ce9c2370&itok=H42-wpD2"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Company-X boosts NZ fintech start-up Tania.AI"
     excerpt: "Waikato-based software specialist Company-X has boosted financial technology start-up Tania.AI’s mobile and web apps. Due to a growing number of users, the volume of data being imported nightly from Xero was creating a challenge of triggering manual updates."
     publishedDateTime: 2023-07-04T00:03:00Z
@@ -71,15 +85,6 @@ related:
         width: 770
         height: 510
         isCached: true
-  - title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
-    excerpt: "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;"
-    publishedDateTime: 2023-06-30T14:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
   - title: "Latest Trends In Fintech - A Comprehensive Analysis"
     excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
     publishedDateTime: 2023-07-04T18:11:00Z

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rage Against the Machine Refuses to Play Venues With Facial Recognition"
+    excerpt: "Rage Against the Machine is living up to its name by signing a pledge to boycott venues that use facial recognition technology. Band cofounders Tom Morello and Zack De La Rocha are, as Rolling ..."
+    publishedDateTime: 2023-07-01T18:24:00Z
+    webUrl: "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 54
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/rage-against-the-machine-facial-recognition.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Musicians revolt against facial recognition technology"
     excerpt: "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology."
     publishedDateTime: 2023-07-03T09:52:00Z
@@ -39,20 +53,6 @@ related:
         width: 620
         height: 434
         isCached: true
-  - title: "Facial recognition technology in use at major stadiums across Australia"
-    excerpt: "The collection of sensitive biometric data is happening at stadiums across the country, with affected consumers largely left in the dark."
-    publishedDateTime: 2023-07-04T21:41:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 39
-    images:
-      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
-        width: 700
-        height: 390
-        isCached: true
   - title: "Barred from grocery stores by facial recognition"
     excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
     publishedDateTime: 2023-07-03T13:00:00Z
@@ -62,24 +62,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
-  - title: "Facial Recognition Technology Could Soon Be Everywhere Here's How To Make It Safer"
-    excerpt: "The recent coronation of king charles iii was a high-profile example of when facial recognition technology has been used to monitor a crowd, but the"
-    publishedDateTime: 2023-07-04T18:50:00Z
-    webUrl: "https://menafn.com/1106552733/Facial-Recognition-Technology-Could-Soon-Be-Everywhere-Heres-How-To-Make-It-Safer"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
-  - title: "Facial recognition technology could soon be everywhere – here’s how to make it safer"
-    excerpt: "However, there are ways that the technology could be used more safely. Law enforcement teams could perform two preliminary steps – activity recognition or event detection – before they resort to face recognition. This approach can help minimise the potential for privacy violations and false positive matches."
-    publishedDateTime: 2023-07-04T12:08:00Z
-    webUrl: "https://theconversation.com/facial-recognition-technology-could-soon-be-everywhere-heres-how-to-make-it-safer-205040"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 12
 
 secured: "WoPw6mET2I3pAqqTb46fkGJw+2FaC4ZIVdsIJSUBl96JWvUijtj058UjBfFtd/X5ZBHSCVfwzWl0xvTwLsZe/tDnqqI/DsldXRRl/KBjXuOolrpVAWVMFhnLJa8qw8o+QwTtFGSy3kxZkjyMeOBuP1Pno4B5B5ncrNTmXaPko1EKdi96mUTWuVWZFDNw26KijcYUj/ZEjmXnVhe3nYrh9VqH6CaRp2+xN1chl694W+Z/82pvrVDtDiV28CaN7BLbw/LQkp4NBblJvIAm9FRH8rtMjgDEKPFBjEoDYPyMYGYTMd/gLP6afdE+7+F3DDkFc7q8HOFV0fwY0CoSeZLf6dcUFex1rB2dZV4ME2r0AT4=;oVW4UwYPQm1fsQdWHWPS8w=="
 ---

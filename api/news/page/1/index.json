@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-05-music-containing-ai-generated-elements-could-win-a-grammy-as-long-as-a-human-contributes-in-a-meaningful-way-recording-academy-ceo-says.md",
+      "title": "Music containing AI-generated elements could win a Grammy as long as a human contributes in 'a meaningful way,' Recording Academy CEO says",
+      "excerpt": "The music industry's highest award will still only be given to \"human creators,\" but those artists can use AI in their work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7",
+      "originalUrl": "https://www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a48b724cc8540019cb5f60?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7?amp",
+      "publishedDateTime": "2023-07-04T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-researchers-are-using-ai-to-experiment-with-reading-peoples-minds.md",
       "title": "Researchers are using AI to experiment with reading people’s minds",
       "excerpt": "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I.",
@@ -598,7 +649,7 @@
       "originalUrl": "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -976,7 +1027,7 @@
       "originalUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1156,59 +1207,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-nvidia-and-amd-weapons-of-ai-chip-war.md",
-      "title": "Nvidia and AMD: Weapons of AI Chip War",
-      "excerpt": "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/07/larx-kla-amat.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 995,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

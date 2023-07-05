@@ -121,22 +121,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Microsoft announces new initiative to close skills gap, upskill workforce for AI jobs"
-    excerpt: "Microsoft announced on Friday a groundbreaking new initiative as part of its Skills for Jobs program. The \"AI Skills Initiative\" aims to empower individuals and communities worldwide by helping them harness the power of artificial intelligence and bridge the talent gap in the rapidly evolving field."
-    publishedDateTime: 2023-06-30T06:51:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 67
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_05_2023_12_05_15_7069718.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft AI Will Help You Shop on Bing and Edge With Buying Guides, Reviews, Price Match"
     excerpt: "Here's how to use new AI-infused tools for Microsoft's browser and search engine to shop till you drop online."
     publishedDateTime: 2023-06-30T18:50:00Z

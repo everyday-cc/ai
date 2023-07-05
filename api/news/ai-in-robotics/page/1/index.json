@@ -53,7 +53,7 @@
       "originalUrl": "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -133,6 +133,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-03-global-x-etfs-icav-robotics-artificial-intelligence-ucits-etf-usd-botg.md",
+      "title": "Global X ETFS ICAV Robotics & Artificial Intelligence UCITS ETF USD (BOTG)",
+      "excerpt": "The selling price currently displayed is higher than the buying price. This can occur temporarily for a variety of reasons; shortly before the market opens, after the market closes or because of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hl.co.uk/shares/shares-search-results/g/global-x-robotics-and-artificial-intelligence/share-charts",
+      "originalUrl": "https://www.hl.co.uk/shares/shares-search-results/g/global-x-robotics-and-artificial-intelligence/share-charts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://chart.hl.co.uk/charts/chart.jsproto_large.chart?ID_SEDOL=BP6JFV1&WIDTH=1200&HEIGHT=630&TIME_SPAN=1Y&SUBSAMPLINGGRANULARITY=60&XAXISCLOSECOL=0&LINE_WIDTH=1&MOUNTAIN_COLOR1=a5b9d8&MOUNTAIN_COLOR2=c1cfe5&MOUNTAIN_COLOR3=c1cfe5&MOUNTAIN_COLOR4=ffffff&ID_NOTATION_COLOR1=25456b",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hargreaves Lansdown",
+        "domain": "hl.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones.md",
       "title": "AgriTech Innovations 2023: Transforming Farming with AI, Robotics, and Drones",
       "excerpt": "The field of agriculture is advancing day by day. Today, we have bought some latest trends and innovations concerned with Agriculture.",
@@ -141,7 +184,7 @@
       "originalUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -344,6 +387,49 @@
       "provider": {
         "name": "Los Angeles Daily News",
         "domain": "dailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-ai-industrial-robotics-poland.md",
+      "title": "AI Industrial Robotics - Poland",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$48.92m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.06%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/poland",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/poland",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1247,103 +1333,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-amazons-new-robots-are-rolling-out-an-automation-revolution.md",
-      "title": "Amazon’s New Robots Are Rolling Out an Automation Revolution",
-      "excerpt": "A wave of advanced machines is coming to the company's facilities thanks to better AI and robots smart enough to work with—and without—humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazons-new-robots-automation-revolution/",
-      "originalUrl": "https://www.wired.com/story/amazons-new-robots-automation-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/648375409a01d944fee35ef8/191:100/w_1280,c_limit/Amazon-Robot-Proteus-Site-Image-Business.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-ai-will-it-help-humanity-or-doom-it.md",
-      "title": "AI: Will it help humanity or doom it?",
-      "excerpt": "In order to better understand AI’s promises and perils, Angelus spoke to two Catholics who have tracked the technology’s rise from different places.",
-      "sourceUrl": null,
-      "webUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/",
-      "originalUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://angelusnews.com/wp-content/uploads/2023/06/Ureneck-1-1024x689.jpg",
-          "width": 1024,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/amp/",
-      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/faith/artificial-intelligence-welter-vukov/amp/",
-      "publishedDateTime": "2023-06-26T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Angelus",
-        "domain": "angelusnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics",
         "AI in Robotics"
       ]
     }

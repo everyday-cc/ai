@@ -23,6 +23,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Do you know your cloud from your algorithm? And what exactly is AI? Key questions explained in new podcast Understand: Tech and AI on BBC Radio 4 and BBC Sounds"
+    excerpt: "Hosted by Spencer Kelly, presenter of the BBC's technology programme Click, the 10-part podcast series comes to BBC Radio 4 and BBC Sounds starting on Monday 3 July"
+    publishedDateTime: 2023-07-04T23:52:00Z
+    webUrl: "https://www.bbc.com/mediacentre/2023/understand-tech-and-ai-on-bbc-sounds"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 2
+
 secured: "Nd0517w7FIiRMRGq2O5q8PMyzObEcdeGvER0Ou/U0M/C/6XkExK5DHcpQPjOugKacBOYAIbwpe0aBOHp7TKXOr3StnQd46lyqIt5vr3lfy+BgVDn3ut/G/8x7yx2Ro2IfWYU5ash8NHnc0xtLTtlEiPLkIOVIyCDa9LIazu7kY7NJe66l93Q6L80ES12Dch5Of762qlHqGvsaooY6IP5KDjYGdyNBsWMU/MZwFehXodcHqmvlh9PrQwQeagxwycFyOhLD0X8UOrDRfk0buznQT7/He0iF5PHpLdeqxERBkG65U9fwPyjYtAOIcQ+m0pYAabArQWsThkSSzDXBnZ+KVPwJALIDZcntncdlftmbF/8UZvRtG680wkJPkK/7hsVpxDUbbRT3TS+4kaHfLb0J65jVdfpk/SkL1a1ih1yFLy688W/wsz3W1HxfR8h/cko6h88l+OjWx35aRZReIzXCy23X1cXkgOGcbIZcQKbLgyXbV0qOajlT/mL0jjO1DZxCuLoXTBCIabD+iaazlqMUA==;+AQChfimAGHKPLATV4JjeA=="
 ---
 

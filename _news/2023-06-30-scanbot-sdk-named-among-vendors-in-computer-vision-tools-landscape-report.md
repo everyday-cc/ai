@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-
 webUrl: "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Business Insider
@@ -27,22 +27,6 @@ images:
     width: 400
     height: 267
     isCached: true
-
-related:
-  - title: "Scanbot SDK GmbH: Scanbot SDK Named Among Vendors in Computer Vision Tools Landscape Report"
-    excerpt: "Scanbot SDK has been included by research and advisory firm Forrester among vendors of computer vision technology in their recently released report"
-    publishedDateTime: 2023-06-30T06:19:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59465418-scanbot-sdk-gmbh-scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/2142895/Scanbot_SDK_Tool.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "PaTUWyydzCPhvu+Ny6/2Z+54WuHA8UytexJr9hBNfVfFpZ+s5F+JMNO3eKtwSRnF02iBm0EnLSgXv4YDl0j0avpyck4cGAdmHAJRGPFZ48msucqtDp0mCprpy7/zfhgD7keeZ0WMe+mtHVDJG+6E5pFmAg3xExTOtuCQQ5qBNqWUAzJwKZ3dFbxBek7Wy5Bo1nI9TBmC0iQs4Uro+RK7sDiCwbXqRAFGouQE491rr8jccNjEEyNpH8OXIcyyjZNBkDCwItOflGvNSkkZBg1vPnFeFaMGvjNLykW5P2Lrl18f+JX+psxepB/XahwCeETiKocM8k1DXwus6nCu56pqVWxC8C1+U/lHqkmOt4zDZMc=;beA/Q/JyVcLTOdCxVLBw5g=="
 ---

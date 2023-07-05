@@ -25,62 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Musicians revolt against facial recognition technology"
-    excerpt: "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology."
-    publishedDateTime: 2023-07-03T09:52:00Z
-    webUrl: "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology"
+  - title: "Educating Australia on Indigenous Voice"
+    excerpt: "Australia's failure to readily accept the need for an Indigenous Voice highlights our lack of an inclusive curriculum, says University of Melbourne expert."
+    publishedDateTime: 2023-07-03T08:51:00Z
+    webUrl: "https://pursuit.unimelb.edu.au/articles/educating-australia-on-indigenous-voice"
+    ampWebUrl: "https://pursuit.unimelb.edu.au/articles/educating-australia-on-indigenous-voice.amp"
+    cdnAmpWebUrl: "https://pursuit-unimelb-edu-au.cdn.ampproject.org/c/s/pursuit.unimelb.edu.au/articles/educating-australia-on-indigenous-voice.amp"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+      name: pursuit.unimelb
+      domain: unimelb.edu.au
+    quality: 44
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg"
-        width: 620
-        height: 434
+      - url: "https://res-5.cloudinary.com/the-university-of-melbourne/image/upload/s--sxVRT40U--/c_fill,f_auto,h_630,q_75,w_1200/v1/pursuit-uploads/e82/f01/001/e82f01001f380529b6d65e2119b13d96069e15eacfbbdd806abffc03d023.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Over 100 top artists boycott venues that use face recognition tech"
-    excerpt: "More than 100 top artists and music bands have announced to boycott big venues like Madison Square Garden in New York over the use of facial recognition technology amid privacy and discrimination concerns."
-    publishedDateTime: 2023-07-03T07:00:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1095858"
+  - title: "Pro-Indigenous Voice to Parliament campaign records 20,000 attendees at Australia rallies"
+    excerpt: "Thousands of Australians gathered on Sunday in support of the Yes vote for the upcoming Indigenous Voice to Parliament referendum later this year. The rally was organised by the campaign group"
+    publishedDateTime: 2023-07-04T19:01:00Z
+    webUrl: "https://www.jurist.org/news/2023/07/pro-indigenous-voice-to-parliament-campaign-records-20000-attendees-at-australia-rallies/"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
+      name: Jurist
+      domain: jurist.org
+    quality: 30
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/kvn_300623_silaspu2.jpg"
-        width: 600
-        height: 400
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/09/Parliament_House_at_dusk_Canberra_ACT.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Barred from grocery stores by facial recognition"
-    excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
-    publishedDateTime: 2023-07-03T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
-  - title: "Facial Recognition Technology Could Soon Be Everywhere Here's How To Make It Safer"
-    excerpt: "The recent coronation of king charles iii was a high-profile example of when facial recognition technology has been used to monitor a crowd, but the"
-    publishedDateTime: 2023-07-04T18:50:00Z
-    webUrl: "https://menafn.com/1106552733/Facial-Recognition-Technology-Could-Soon-Be-Everywhere-Heres-How-To-Make-It-Safer"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
-  - title: "Facial recognition technology could soon be everywhere – here’s how to make it safer"
-    excerpt: "However, there are ways that the technology could be used more safely. Law enforcement teams could perform two preliminary steps – activity recognition or event detection – before they resort to face recognition. This approach can help minimise the potential for privacy violations and false positive matches."
-    publishedDateTime: 2023-07-04T12:08:00Z
-    webUrl: "https://theconversation.com/facial-recognition-technology-could-soon-be-everywhere-heres-how-to-make-it-safer-205040"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 12
 
-secured: "U5aQXMIpPoabnDPSsf01bjnLlMAXdzDAVn8U1pdy9teHFd0Q/W4W/+jVwjSY8XFJCx4Io5U6+V/N1g5vqTfwgY8NIyBYS9nWVbhuE4AOrupx3qVrpPMlD5jnmSq6w0p0bXmPBSVMi7SNzspOhd2x2ipC2XhI3cHDbZYDPcY005TYYwFCdZ0TmXT4AEgUqYUPXUZeHWX9OVRKENnPWWwR/042xMDK9C4O9AwAvWRNzQpxbe5A5PB+NfiJoXqtye7OzTOcNe4tKu8svtSG2soV+HVccp7oj4BRfDaWIm0Al8L1rGnUQLTI6labomTdPzbatEY3BQYq71HcWFkcdch/W0FR6tPjWu5SOZev081UmWw=;VMg/AS7ZAeqv/wQoB2oZww=="
+secured: "8COSyfeFT/GZSICdPmV37wNXx5KgPKXwpWvfux8zsQORT94yZ7wbum5zTgBTur+AfNg8RrVDROWS2ODLN+n6MdNef074pweB01NHoZzK0G9TYODjkaW83v4py7pfAS+kozuq8fkfvXMUY0gE0YeriMxI0PAwgHIAO3G3iVznQ/gtqgiOoPtzOIMtaov8diSRaVrUfCSwSMWd1hee7eyYRama5lccSsBOsmnUT/o4yvn6B0iEomFjBc2XtU+YRmaY7w0fmCDijoi+6fRgyPUPd3fx9pAKimnYMhyxtihtEy5rtcp/7Ivc1xveDgtkD7XB3HnU5ddsexKNe9yKlDu+jUJRScwQRVKODU4Cjv7AJhjnyX5BVy86kijDrGv+kgMQqh+W7OGYZ6yblY6h/7WeQ2mzTaZszV1uhtN70aZWhXjRFCakdB4AgJaOLB6Cpesq8nIiiu8F2AwNkKIhSh9VdNGO3SlD79eyRawGXXbmfBi1Ki6ZKTJIpJ3J7NFAET895SaralE5GmDVNKC1LfcttA==;9Wz01FOyCssQAXeGLLcWXg=="
 ---
 

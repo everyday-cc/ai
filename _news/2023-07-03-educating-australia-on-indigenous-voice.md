@@ -26,6 +26,36 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Facial recognition technology in use at major stadiums across Australia"
+    excerpt: "The collection of sensitive biometric data is happening at stadiums across the country, with affected consumers largely left in the dark."
+    publishedDateTime: 2023-07-04T21:41:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
+    type: article
+    provider:
+      name: Choice
+      domain: choice.com.au
+    quality: 39
+    images:
+      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
+        width: 700
+        height: 390
+        isCached: true
+  - title: "Pro-Indigenous Voice to Parliament campaign records 20,000 attendees at Australia rallies"
+    excerpt: "Thousands of Australians gathered on Sunday in support of the Yes vote for the upcoming Indigenous Voice to Parliament referendum later this year. The rally was organised by the campaign group"
+    publishedDateTime: 2023-07-04T19:01:00Z
+    webUrl: "https://www.jurist.org/news/2023/07/pro-indigenous-voice-to-parliament-campaign-records-20000-attendees-at-australia-rallies/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 30
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/09/Parliament_House_at_dusk_Canberra_ACT.jpg"
+        width: 640
+        height: 427
+        isCached: true
+
 secured: "Fgwteexs7EGoHWMAqomx5H3TNjCOWKeY2Sq1Ybw15Oq0NKDY2LtQe3qSeL8An4Vr2JUzMhT30aKoYOwUHrK28sxYH6hidllrZy9iV1xaBv0jszPEryYL9TE6gHIgfCETDzaJMcsn6JQjMNCRMj4WutBzeAfMrMVeY0h8mx9UNLliG1E/+DsFgFMJ8NylvbWiRwu3zZ85icGQG3FNLRdPSy5TVJQS6fSM0gEvCRvW/X3B8BA+tHtuUGgOGntQtX/sBVN/faPJ7mPl4ockV5QlR/kQorjexLVcBIbejpOOGaJNtc8FzrTgZdFctxUmMoh7ZEBikCHPmjpEbCwOIFffkuzNDEoyIWeQJc8QH/AIVNk=;QGh6Pl20bxfUXUFl119QrQ=="
 ---
 

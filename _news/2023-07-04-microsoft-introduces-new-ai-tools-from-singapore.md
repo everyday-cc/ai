@@ -103,22 +103,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Microsoft announces new initiative to close skills gap, upskill workforce for AI jobs"
-    excerpt: "Microsoft announced on Friday a groundbreaking new initiative as part of its Skills for Jobs program. The \"AI Skills Initiative\" aims to empower individuals and communities worldwide by helping them harness the power of artificial intelligence and bridge the talent gap in the rapidly evolving field."
-    publishedDateTime: 2023-06-30T06:51:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 67
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_05_2023_12_05_15_7069718.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft knows its out of touch with Gen Z. The software giant plans to lure them with AI, an internal memo shows"
     excerpt: "Microsoft 365 has fewer Gen Z users than its competitors. This may present a risk to its workplace business, according to newly released documents."
     publishedDateTime: 2023-06-30T19:51:00Z
@@ -175,6 +159,6 @@ related:
       domain: infoq.com
     quality: 26
 
-secured: "Lku3wedwtZQDp7f0qYASnEEkh5L0De3YYQhUbDTf+sCwr0jKaQmBSKcLlhFvWNuIgvWz2q8W+EqiZ+7+EKQYlFD7nr884ZrAGXQSZlGundGvVRBl7UceNmVSjgmLwFJH8OtGpou/lZX8nJQnqDrluAFEFAHkRsHO/Uh06p1tXuhRoiADkOGsL9YirUFatbXezmEU6GcYJ4Nhk8qw7AXW0zZe8ZEoBTwtMVwS6xJY/P3K+N2DSdch7DhG6zb/iq4qiP/EzQMCjYC80eQs6ymNwLo9AfV+sx67gsGY5Wil6OR7OhhBijk2o6YrwCyIECW6ttBdQz8Q7V1vycPeDjpbD3zucl1cuGOPXtPgMVwD1J0=;UAquMco3RFEXup5TQ0Uk3g=="
+secured: "O1G40om7dYl3PjKb6vYy1z+X0JfOyLjAjDr9IJPhpokFWNU1/FEjjxsngo72wgdEL4G2+cMEndS3t1IYhLL3w0pfgFjnXV9dQkOpVyqjkyWSg2a83N1fcvMm8vIMmmP46gmtzK5HtgBF0s+frxHp9g3NuJSOrh3xpEhHaRx0RafBqvSJ8KRy5ZX/JjLKRsBmAf6ViVfjH/XOWnBIKCBiMdJnEmaNIuG3Cr6TzrHDDq8gdlFQstr/WVVT2G15zijO+6Z6WgJtByPgl1VHoa5oI9i5UnsfKnpWHe5TMdq9knAej3MAv53myg5FPKPH4sLT722RKzR1swbkocYwskbRKys0fjKKAYWFHa36Kx8sZaYnO8R3jZADLlwUnN5BxaWH2oACa4QAZc28gkkwVbjik9fSfh9gPuptqXeJlv+ZUu18zvPko86VI/tH18Ditl3hfBY7/LM498Ah82KsJuoqSTPvCBtR1nFFWAaWYW2JxCCbekuOaJHCnzhlZKKcQzEHQISj3AwZVycu74qQzK42FA==;kQh6IXJqpik2q7zXnyJjHQ=="
 ---
 

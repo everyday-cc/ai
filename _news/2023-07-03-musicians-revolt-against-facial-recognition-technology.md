@@ -7,8 +7,8 @@ originalUrl: "https://www.fudzilla.com/news/57187-musicians-revolt-against-facia
 webUrl: "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fudzilla
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rage Against the Machine Refuses to Play Venues With Facial Recognition"
+    excerpt: "Rage Against the Machine is living up to its name by signing a pledge to boycott venues that use facial recognition technology. Band cofounders Tom Morello and Zack De La Rocha are, as Rolling ..."
+    publishedDateTime: 2023-07-01T18:24:00Z
+    webUrl: "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 54
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/rage-against-the-machine-facial-recognition.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Over 100 top artists boycott venues that use face recognition tech"
     excerpt: "More than 100 top artists and music bands have announced to boycott big venues like Madison Square Garden in New York over the use of facial recognition technology amid privacy and discrimination concerns."
     publishedDateTime: 2023-07-03T07:00:00Z
@@ -39,20 +53,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Facial recognition technology in use at major stadiums across Australia"
-    excerpt: "The collection of sensitive biometric data is happening at stadiums across the country, with affected consumers largely left in the dark."
-    publishedDateTime: 2023-07-04T21:41:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 39
-    images:
-      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
-        width: 700
-        height: 390
-        isCached: true
   - title: "Barred from grocery stores by facial recognition"
     excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
     publishedDateTime: 2023-07-03T13:00:00Z
@@ -62,24 +62,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
-  - title: "Facial Recognition Technology Could Soon Be Everywhere Here's How To Make It Safer"
-    excerpt: "The recent coronation of king charles iii was a high-profile example of when facial recognition technology has been used to monitor a crowd, but the"
-    publishedDateTime: 2023-07-04T18:50:00Z
-    webUrl: "https://menafn.com/1106552733/Facial-Recognition-Technology-Could-Soon-Be-Everywhere-Heres-How-To-Make-It-Safer"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
-  - title: "Facial recognition technology could soon be everywhere – here’s how to make it safer"
-    excerpt: "However, there are ways that the technology could be used more safely. Law enforcement teams could perform two preliminary steps – activity recognition or event detection – before they resort to face recognition. This approach can help minimise the potential for privacy violations and false positive matches."
-    publishedDateTime: 2023-07-04T12:08:00Z
-    webUrl: "https://theconversation.com/facial-recognition-technology-could-soon-be-everywhere-heres-how-to-make-it-safer-205040"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 12
 
 secured: "W/t7nknMdcznbEvED4wPKyTbs8gbXU+njw4x7u+bcZN0Dt8Clm20Oew/aQJQTcH6KWPsiw81bIKGZf50l1APz9E1G4LbNRo9b899vXVrd6hzgz/H0+ab2RNtgFT7N3vVNAfvuC8ZdB+yniXqTZ1TaHXugn0KikkrdenVY4xTxxd4O5eZgCWso0k6ssONflrepLGgUG5MHlJC25oYTaRa1FdQS4OxX73g/pr8K4HzzrpU/Sad6EpaMLRW99fvdwwn5lWv/9LhY4WUawvRmXzVVKLmY/nlkX7ZeB0PpeP3m1eUhpQP0YfuY8Kx3PMmAN53YEE+FA0YeuE14/n2ieJC91FbsRdfxKzE/rbpsksiAk8=;olnKCAXtDcCADDYO0fNAKA=="
 ---

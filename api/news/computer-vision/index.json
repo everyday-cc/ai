@@ -88,21 +88,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-03-musicians-revolt-against-facial-recognition-technology.md",
-      "title": "Musicians revolt against facial recognition technology",
-      "excerpt": "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology.",
+      "path": "_news/2023-07-02-rage-against-the-machine-refuses-to-play-venues-with-facial-recognition.md",
+      "title": "Rage Against the Machine Refuses to Play Venues With Facial Recognition",
+      "excerpt": "Rage Against the Machine is living up to its name by signing a pledge to boycott venues that use facial recognition technology. Band cofounders Tom Morello and Zack De La Rocha are, as Rolling ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
-      "originalUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
+      "webUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
+      "originalUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg",
-          "width": 620,
-          "height": 434,
+          "url": "https://wp-assets.futurism.com/2023/06/rage-against-the-machine-facial-recognition.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -112,11 +112,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T02:52:00-07:00",
+      "publishedDateTime": "2023-07-01T11:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
+        "name": "Futurism",
+        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -323,21 +323,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-30-scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report.md",
-      "title": "Scanbot SDK Named Among Vendors in Computer Vision Tools Landscape Report",
-      "excerpt": "Scanbot SDK has been included by research and advisory firm Forrester among vendors of computer vision technology in their recently released report \"The Computer Vision Tools Landscape, Q2 2023 - Forrester's Overview Of 38 Vendors\".",
+      "path": "_news/2023-06-30-computer-vision-south-korea.md",
+      "title": "Computer Vision - South Korea",
+      "excerpt": "Value in the Computer Vision market is projected to reach US$411.70m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.54%, resulting in a market volume of US$1,065 ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153",
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-korea",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-korea",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/2142895/Scanbot_SDK_Tool.jpg",
-          "width": 400,
-          "height": 267,
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -347,21 +347,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:46:00-07:00",
+      "publishedDateTime": "2023-06-29T20:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

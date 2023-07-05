@@ -42,16 +42,16 @@ related:
         height: 630
         isCached: true
   - title: "China accelerating commercial use of self-driving technology, expert says"
-    excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years,"
-    publishedDateTime: 2023-07-03T03:32:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+    excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years, said Nikolaus Lang, managing director and senior partner at Boston Consulting Group."
+    publishedDateTime: 2023-07-03T03:14:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 23
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
+      - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
         width: 544
         height: 362
         isCached: true

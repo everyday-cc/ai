@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coinspeaker.com/eu-japan-ai-chip/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/eu-japan-ai-chip/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

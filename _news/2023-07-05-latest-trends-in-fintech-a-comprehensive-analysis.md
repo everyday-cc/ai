@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 758
         isCached: true
+  - title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
+    excerpt: "Singapore-based fintech company Dobin is a financial marketplace ... information combined with advanced data analytics and AI to provide personalised deals and product recommendations."
+    publishedDateTime: 2023-06-30T14:26:00Z
+    webUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changing-ai-powered-solution-personal-finance"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 52
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/DOBIN_Full_Colour.jpg?h=ce9c2370&itok=H42-wpD2"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Fintech Firm Brex Taps Jason Mok to Support Next Generation of Founders"
     excerpt: "Brex recently announced that Jason Mok has joined Brex to support the firm’s commitment to serving startups and their founders."
     publishedDateTime: 2023-07-01T10:24:00Z
@@ -79,15 +93,6 @@ related:
         width: 770
         height: 510
         isCached: true
-  - title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
-    excerpt: "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;"
-    publishedDateTime: 2023-06-30T14:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
   - title: "Global Fintech Market Research 2023: A Bundled Research Offering of 5 Reports"
     excerpt: "The \"Fintech Market Research Subscription 2023: Market Forecasts, Market Sectors, Market Driving Forces, Regional Analysis, and Leading Companies Analysis\" report from Wintergreen Research, Inc has been added to ResearchAndMarkets."
     publishedDateTime: 2023-07-03T10:08:00Z
