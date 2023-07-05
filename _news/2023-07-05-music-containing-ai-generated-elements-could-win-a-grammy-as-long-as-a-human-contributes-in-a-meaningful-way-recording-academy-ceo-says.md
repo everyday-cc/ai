@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-generated-music-could-win-grammy-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7?amp"
 type: article
 quality: 53
-heat: 74
+heat: 76
 published: true
 
 provider:
@@ -45,18 +45,18 @@ related:
         height: 465
         isCached: true
   - title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
-    excerpt: "A work that contains no human authorship is not eligible in any category,” the rules read in part. As the music industry continues to come to terms with this new technology, so too will the Grammys, says Recording Academy CEO and President Harvey Mason jr."
-    publishedDateTime: 2023-07-04T16:59:00Z
-    webUrl: "https://www.chron.com/entertainment/article/grammys-ceo-on-new-ai-guidelines-music-that-18183983.php"
+    excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols"
+    publishedDateTime: 2023-07-04T13:31:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660236"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 24
     images:
-      - url: "https://s.hdnux.com/photos/01/33/43/23/23999723/3/rawImage.jpg"
-        width: 2048
-        height: 1360
+      - url: "https://s.abcnews.com/images/Entertainment/wirestory_dea135035893deab37719c354f31a889_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "GCzAioGJ3FPq8TfMba0fBp4Y1R7O6gTtYgyqlpd5C3buBpjrPt7g7sxVo70xM8bkRxeuy6IxCu0LN2+RbciXXbzq/APTjqjVVqFEyeibH+NuzSwJfEzR8q9eSYmsBYEj5Yuv9RvZNCWEfgha4as3SthMgWFNz6ckFhAwaxs3CQQPOjRiB/fCIwZrP21hva5Af9bHVhj3L5iEMmX1ln9J7/SjtNqSGsi6rL+kC8kp5VWmW4uus33kANZY0TEYJB6qZ6jH6Q8A1xztsfeVSS26SRdc2U9sIOuqyVf/QBBJLy2rgIdFopPD7wPL0meLj4WiLgRXVs5kFHpuffn8O70bN3XqSSorvoTPmM6XyTXcuQw=;BilThP4/w6qimO2am94Z+A=="

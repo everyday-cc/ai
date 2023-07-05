@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 1249
     isCached: true
-
-related:
-  - title: "The Revolution of AI in Music Production"
-    excerpt: "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups."
-    publishedDateTime: 2023-06-30T11:00:00Z
-    webUrl: "https://techround.co.uk/news/revolution-ai-music-production/"
-    ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 59
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/06/marcela-laskoski-YrtFlrLo2DQ-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "MD7xnne6z8bLWvTkp/B3lJQezUG4T/YkpOCQ+FcoC/V6S61WRkPWR8Nnq5nMnMc8Jtqf5i7uuq+ylWBHyR8BcD5Je7RS/KifKwc2iEXJVRwKf1l7KBkqPfkFBDbqfCzQxWnpf+sh6jzOAyFqaf6NBn4hCg/LXPEJIF/fdA7pGlR+HczXO0VElCZdTA8sgzkIWOUuBW5a59iL+Uhz0Cj3I7aJ9nTvL1BfaNM9mutFcZlfF6q8Xx7P7htFfc8NRHyHNuJe5CAAvG5fV1eNN3lpIGSfPY+qalJSyTtJDY7XmCHK0LddKvYDa8WwDw7BZWOKxHjtyy5P21XdNNql1Asy+3+q98+njgSNlJFfmAnQehwd4pEiQFnxwEQqw1HkzC5Z8sOhj92Qtllg/+pH812PGHLOTvGPlTppwX9FDKuxqsK8k3xcUHufv2kdOwLBH1GuOjhznLs7qKrbhTjStAK34Ly3ReNqETv0vIakrfQxDpnwrkMwI3gRXf0+MMhFaiwmpcZRX7qKbXqTTrXaqPuvAA==;opk0YoVunri2QlVdhDbS5Q=="
 ---

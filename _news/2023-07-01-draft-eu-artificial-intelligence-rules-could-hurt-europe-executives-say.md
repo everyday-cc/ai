@@ -28,43 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI Law Draws Pushback From Big Brands in Europe"
-    excerpt: "Executives from firms such as Heineken and Renault joined a lobbying effort as Europe negotiates the West’s first comprehensive rules."
-    publishedDateTime: 2023-06-30T10:36:00Z
-    webUrl: "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2"
+  - title: "The EU Wants to Protect You From AI. Some Companies Aren't Happy"
+    excerpt: "Tech and other executives say the EU's AI Act stifles competition during a critical time of technological development."
+    publishedDateTime: 2023-06-30T17:34:00Z
+    webUrl: "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: CNET
+      domain: cnet.com
     quality: 67
     images:
-      - url: "https://images.wsj.net/im-809998/social"
-        width: 1280
-        height: 640
+      - url: "https://www.cnet.com/a/img/resize/1bcd1a2f3d58e57809d2440b723a2d20e89d3d68/hub/2023/06/30/18b4a82a-874c-4f85-a2e8-c560a9890c6b/gettyimages-1468369907.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Executives urge Europe to rethink its world-leading AI rules"
-    excerpt: "More than 150 company executives are urging the European Union to rethink the world's most comprehensive rules for artificial intelligence, saying Friday that upcoming regulations will make it harder for companies in Europe to compete with rivals overseas,"
-    publishedDateTime: 2023-06-30T16:17:00Z
-    webUrl: "https://www.chron.com/news/world/article/executives-urge-europe-to-rethink-its-18178786.php"
+  - title: "Businesses and tech firms criticize proposed EU AI Act"
+    excerpt: "EU business leaders worry that a perceived excess of regulation could derail efforts to make Europe one of the front-runners in AI technology development."
+    publishedDateTime: 2023-06-30T16:32:00Z
+    webUrl: "https://www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.html"
+    ampWebUrl: "https://www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.amp.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
     images:
-      - url: "https://s.hdnux.com/photos/01/33/41/01/23990346/3/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://images.idgesg.net/images/article/2018/07/artificial_intelligence_anonymous_binary_mask_by_brownmantic_cc0_via_pixabay_1200x800-100763680-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "European VCs and tech firms sign open letter warning against over-regulation of AI in draft EU laws"
-    excerpt: "Executives from 150 businesses highlighted the risks of tight regulation, saying the rules could threaten the ability of European companies to compete in AI."
-    publishedDateTime: 2023-06-30T19:57:00Z
-    webUrl: "https://techcrunch.com/2023/06/30/european-vcs-tech-firms-sign-open-letter-warning-against-over-regulation-of-ai-in-draft-eu-laws/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 33
 
 secured: "HN3Bq2y32I0sbTvY237YmC67IaoylIyj5o9ZWv+gEc+eaZXiMrlCydLJIW3ERJ0ZEpUW9LH1Vgl5z5jOeOI/oOSbkenbfgRGHKNtCmAak+LMAWx9CkBlf9RiepyQpONOaUO12uM6caQG7Gbp1NCWhgR6UZEpqHi2owZQfwO8OxkQtHYXZqo7VtAGm01LGFYfKHmSsSLIuouUVK9s3bastJCMlxQk/CiQDkqUh53a8cO1w0RPRQXqz7X8kceKKjc3SLenxi4gUvxsuEv4QnDZJDbh/Um+sU6/CIzoEbTZdmjCBZbJNP48naWaVEGNtxGCA6d741497J6KMbv3Ka8DBkJBEfTuP87Q8RPltAUE+pfHFnvYFAVQJ8cvOmOP2MfyTydDC7RlABSWp7y9wmIYQb/ZJhDU5dGHaOoq7K+ony1SQtMIO1zl1TnbY2LACOmycuEls8vuKh6dkTzjKI+KTTqNtilcnTRNpb0r+jvSGGRLAv6FhaAkhbbg15KP0qc07izm/zMZldlAiSMANzNhXQ==;4nHdtfrpOvv/J/+YbkY7bg=="
 ---

@@ -461,6 +461,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-ai-based-computer-vision-technology-solution-to-eskoms-woes.md",
+      "title": "AI-based computer vision technology – solution to Eskom’s woes?",
+      "excerpt": "Computer vision technology is not only being used to prevent negative consequences, but also to boost productivity, says visionAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/rxP3jMBEXm67A2ye",
+      "originalUrl": "https://www.itweb.co.za/content/rxP3jMBEXm67A2ye",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/06/Johann-deWet-29June2023.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/rxP3jMBEXm67A2ye",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/rxP3jMBEXm67A2ye",
+      "publishedDateTime": "2023-06-28T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-computer-vision-south-america.md",
       "title": "Computer Vision - South America",
       "excerpt": "Value in the Computer Vision market is projected to reach US$523.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.09%, resulting in a market volume of US$1,318 ...",
@@ -1347,49 +1390,6 @@
       "provider": {
         "name": "Business News Daily",
         "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone.md",
-      "title": "Red Cat and Athena AI announce breakthrough artificial intelligence and computer-vision capabilities for Teal 2 military-grade drone",
-      "excerpt": "Red Cat Holdings, Inc. (NASDAQ:RCAT) (\"Red Cat\" or the \"Company\"), a military technology company integrating robotic hardware and software to protect and support",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32932769",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32932769",
-      "publishedDateTime": "2023-06-20T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Firms racing to meet AI tech challenge"
-excerpt: "The company unveiled its in-house AI LLM SparkDesk at a launch event in May, which iFlytek said aims to exceed ChatGPT's capabilities in understanding Chinese and reach its standards in English. Liu from iFlytek held a live demonstration of its SparkDesk chatbot in both consumer-oriented and enterprise-focused applications in May."
+excerpt: "A special battle is going on in China as established tech heavyweights and startups scramble to develop their own artificial intelligence large language models to pounce on the opportunities created by AI-generated content."
 publishedDateTime: 2023-07-05T01:37:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202307/05/WS64a4bf6ca310bf8a75d6d4ea_2.html"
-webUrl: "https://global.chinadaily.com.cn/a/202307/05/WS64a4bf6ca310bf8a75d6d4ea_2.html"
+originalUrl: "https://global.chinadaily.com.cn/a/202307/05/WS64a4bf6ca310bf8a75d6d4ea.html"
+webUrl: "https://global.chinadaily.com.cn/a/202307/05/WS64a4bf6ca310bf8a75d6d4ea.html"
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: chinadaily.com.cn
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
-  - AI Ethics
 
 images:
   - url: "https://img2.chinadaily.com.cn/images/202307/05/64a4bf6ca310bf8a1d2369b2.jpeg"
@@ -41,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "z5yEz94wZq3Cz6b1iwz5GjkXEMzZNJHEdg8NTVJxu4Ww+eqrcA461tJbM7g7npp1igQ37LZcGhD8Oi1d5FaVQPVxlNmAg9QoeII8VCJzwonYATQzuHRM+m5ukqnYIKc4DuxOIX4spG/kalETlcOOkxOpF0eAQjwJ3n1FDcG7HfLJZuCfX7xF6vAqUsQ9eMQFNWJBzsqO+EBV1lzmX5EAy5WWSvzEPR5eZE0VaN1j10m9aCf3veukM9pmGzdCqRbMPcVzY8oQPN8q7QvnB7xct/GCSfbb3UWxqTapzs6xh2Sgf5iYbF7WctZb3TH209ZtRxeC/DgbX07R1PTralCP4e345XoKjsEaIxCgv90AkJ8=;Td8q8AJNC9rU4bEm32GTfQ=="
+secured: "XrYLiq/RjRDS5yN/wP+NZObYbJnt/CwGGwQJbBtA0fJx8tKOhdPOy2ERqHGiz0pt8M5alFzyBlqQPxe2flfZvzGL1ePcaVXBnG8ByuN4ibZzwv9D7ki/vd3h5nVOP0zW7xI6TMtigLDbiXA3LziY61dgBmSS2aFsBgvAfUm0YsAxLpe+4RNmmWdAEiQkqcOVaGmqsiYAE2Dc2RBY/eWMz9bUGo8AFJv1lcOui3BYQoZ2v2AXdt3ah5UNeTC5W8L/GIud51cuDxvfvQA6cSOSC5TFLHtwU1O8elIwmxlFPrjuuilt2cVPdA1QCcvljM/4jchKtmJ7ojFfJpQnOb2J8SnOl4n2lhZIMnplrfTcxz0=;yg2iNFSiSbb99oLSDwfhmg=="
 ---
 

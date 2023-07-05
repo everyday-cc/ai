@@ -150,15 +150,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
-  - title: "Microsoft Empowers Government Agencies with Secure Access to Generative AI Capabilities"
-    excerpt: "Mykyta Protsenko discusses the trade-offs that companies face during the process of shifting left, how to ease cognitive load ... Subscribe for free. Microsoft continues to prioritize the development of cloud services that align with US regulatory ..."
-    publishedDateTime: 2023-06-30T09:30:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/azure-openai-government-agencies/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 26
 
 secured: "DAVxnS7UdZFreKsYjy4a//CZQ4j4RzCq77Z73XfN7v7duQM6oTRf+7fFxytIP0FfQXj8/rdeRoUEi3qR1bdxPu9f1tTWZo6lGiIpLQ9RRoTesRxAIs8nbHvpvpRkJ8ocp89lo6boMXtcZndWD+JWmvxX6fYchxYE86naBWuNJSfL8iAIl/3NLLs/xHddGySbhzSGxYZxKoj+ngzZaPOIRsSNrGCSOQqJrF2ZBI95i9hmYPfALSBh2kLBJRSwZs0gK2gSCqRRc/vofASFWzRRL+gxx+/pIl7ybeeIPAQVpp2a9fdrtv6CpVMnlVQ/7aMsKlVi3TMgDV57HDBTRHi0AbuTTNlvOVy/yBSZ/ZkAvxX5WzXZFkdqi1BsOYiCNGjzCu/KJnCPT6sHw7OqJPXp82Bh+sS9QZBgNqDJjOyfCw1YGO2wKMBI7RC6eYcoVYrSIPa++jzPv9xWvR932+jOlhY2hksL1Ya/4avXk2SDhMqE2OO+RcSYEo8EGABO9cb67C8lL0hxyk0BRDkhdJUEoQ==;veLXRp7VIZ4Pt0lZxUa6CQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compe
 webUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -155,15 +155,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
-  - title: "Microsoft Empowers Government Agencies with Secure Access to Generative AI Capabilities"
-    excerpt: "Mykyta Protsenko discusses the trade-offs that companies face during the process of shifting left, how to ease cognitive load ... Subscribe for free. Microsoft continues to prioritize the development of cloud services that align with US regulatory ..."
-    publishedDateTime: 2023-06-30T09:30:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/azure-openai-government-agencies/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 26
 
 secured: "1Iol9Rz4keUty9SkWSfOjDfZCd5wxfLxAG6Zpt5dgjAkRbQhTPqr58DWpwDk+24CFTRF9XpvcHMlfoMjHaM5Hz67XLPdFRTil++/GMox2gNfxRyUUCZeXsdy/44iB/8sLpaFrrqAelYfxksn/269wvXEyH0zU7j8EIA1Up8XdVNs1jQPjfs5QYZJZGBafKAd2x7HTgS3VyHNnlN9b+8njn7JfsJONvbF52NWnPoT/p9YooiI5UjDg6qHsjTNti7z8JV5VnkbQTGYLhiNxu9yxNLYicvlVn/Wt95vGL+93uWGpOWmbgDpEjMD/0+9u+S2+0WOjaR/rSLiHlir5bRXz/TyVq4toAMUZUS++Tt8nhBwbFklfx+MrAYfTVojYpspRsjnsAeFCwuIF6v9SSuwPEWudjT1daVo5PBBSFB1Q1hwZFoDf9rDI0mEwrwc91hWY2CeNV34Il/MvJx0Rt3A2Syv0+pONN08Ft6SiebRkameIf9JhTfwTNca3ArbYJ1o3RyshVVpeiKwZf2BOr6rHA==;BPC5LP4vdcXRP88PPsllxw=="
 ---

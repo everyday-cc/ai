@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
-excerpt: "A work that contains no human authorship is not eligible in any category,” the rules read in part. As the music industry continues to come to terms with this new technology, so too will the Grammys, says Recording Academy CEO and President Harvey Mason jr."
-publishedDateTime: 2023-07-04T16:59:00Z
-originalUrl: "https://www.chron.com/entertainment/article/grammys-ceo-on-new-ai-guidelines-music-that-18183983.php"
-webUrl: "https://www.chron.com/entertainment/article/grammys-ceo-on-new-ai-guidelines-music-that-18183983.php"
+excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols"
+publishedDateTime: 2023-07-04T13:31:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660236"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660236"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/33/43/23/23999723/3/rawImage.jpg"
-    width: 2048
-    height: 1360
+  - url: "https://s.abcnews.com/images/Entertainment/wirestory_dea135035893deab37719c354f31a889_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 465
         isCached: true
 
-secured: "tAKC5H3ExTEERv8t7Nh3TeRx0hB5qTb9T1FY7ZPREvLO6KImC4lVSR0iuJhLbHNR/urkFfj+PWzlST5VAZNKJzpGDtiMGa4vSTFB0kP7NeKDcW3Fk4yDCOUF0t4LdpPXv6xVkZ4BTmEOy/kM6H6vUHBmS8BydblNtOcMijasyx3aSUfcV+Ui3RxCQlQr5tdc1hmnrepB0Bqnb0cR2iJpPO+HwUfKbF15ppYOPsWrDEk6sspLTl7Vp8ApJFZxdxRVOCx5dc8rkBDEL44SAXrUn12JMPIZnC2ABAp60htxv9pIPzzPtF3AmMWlVWDhm42p8wJX/N1qKKlYAhxjb52P6dJ+whyaFVVlwbSSw2JuwlY=;jn90ABS3ve1VPrTAHYupdA=="
+secured: "plmB+DQZEh/3OwhUHX6V5/DyEGJvPUPtGcISWcVZVrBVajFgI2epEutwTQtCKkJg5NGoCGKC2R4QC+/cVexMQZ3LYbsGMP1nRbJPEDZoAdueMuFQZgX7CXqT2pcNx3DQl4emT5Ez67ZAi+eGLNkMYR6HCEoiAQRf7cxOgQS9bQxneSAcAaj171/mNy09Z9wlqYWcT6oSPIb5TytVAB9YZU2hdWeL9n5GOttPUPrh+i7WK/LiNZVDzKgP+2G/hpb/irTbZs8qtMe9Tf+srLvoHuD4CzjiIbV6bz2aYfv6uXnQtbnmJGWLOl7qrIVuxAfakBGYuhrYMp3RkzOxmVAQlIRGROPowimIQ7JabGGztiI=;paGU3XTq4LETanDCkJu7pQ=="
 ---
 

@@ -2,6 +2,196 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-04-28-aimachine-learning-market-size-trends-and-forecast-2030.md",
+      "title": "AI/Machine Learning Market Size, Trends and Forecast 2030",
+      "excerpt": "The latest independent research report on AI/Machine Learning Market 2023 explore investment in Market. It classify",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics.md",
+      "title": "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics",
+      "excerpt": "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-creating-a-cybersecurity-culture-good-intentions-are-not-enough.md",
+      "title": "Creating a cybersecurity culture: ‘Good intentions are not enough’",
+      "excerpt": "Infosec leaders hope to instill a culture of cybersecurity in their organizations. But an expert says action speaks louder than words. “Culture ultimately reflects what you do,” says Merritt Baer, a principal in the office of the CISO at Amazon’s AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/creating-a-cybersecurity-culture-good-intentions-are-not-enough/124893",
+      "originalUrl": "https://www.itbusiness.ca/news/creating-a-cybersecurity-culture-good-intentions-are-not-enough/124893",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2023/04/GettyImages-13563642681.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/creating-a-cybersecurity-culture-good-intentions-are-not-enough/124893?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/creating-a-cybersecurity-culture-good-intentions-are-not-enough/124893?amp=1",
+      "publishedDateTime": "2023-04-28T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-chatgpt-may-have-better-bedside-manner-than-some-doctors-but-it-lacks-some-expertise.md",
+      "title": "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise",
+      "excerpt": "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230411114945-06-chatgpt-phone-stock-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
+      "publishedDateTime": "2023-04-28T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence.md",
       "title": "What are the dangers of AI? Find out why people are afraid of artificial intelligence",
       "excerpt": "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their everyday life and provide the world with open access to information.",
@@ -965,204 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-new-electric-car-offers-worlds-first-facial-recognition-and-fingerprint-technology.md",
-      "title": "New electric car offers world's first facial recognition and fingerprint technology",
-      "excerpt": "The world's first application of facial recognition technology has been unveiled, with one electric car removing the need for a key altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis",
-      "originalUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/secondary/electric-car-facial-recognition-genesis-4718602.jpg?r=1682671687005",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp",
-      "publishedDateTime": "2023-04-28T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-the-ai-frontier-exploring-the-integration-of-artificial-intelligence-in-seo-strategies.md",
-      "title": "The AI Frontier: Exploring The Integration Of Artificial Intelligence In SEO Strategies",
-      "excerpt": "The digital marketing landscape is evolving rapidly, and the integration of artificial intelligence (AI) in SEO strategies is one of the driving forces behind this change. To get an insider’s perspective on how AI is transforming the SEO industry and how businesses can leverage this technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-frontier-exploring-the-integration-of-artificial-intelligence-in-seo-strategies-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-ai-frontier-exploring-the-integration-of-artificial-intelligence-in-seo-strategies-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-microsofts-ai-will-now-help-you-design-your-instagram-posts-in-seconds.md",
-      "title": "Microsoft's AI will now help you design your Instagram posts in seconds",
-      "excerpt": "Microsoft Designer is now available to try out in preview for free. It uses AI-based text-to-image generation to create social media posts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/",
-      "originalUrl": "https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/04/Microsoft-Designer-AI.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them.md",
-      "title": "Seven In Ten Business Leaders Want Robots To Make Their Decisions For Them",
-      "excerpt": "It’s easier to make decisions when the economy is growing, as bad choices can get subsidized by the more well-targeted choices. But in a tighter economy, bad decisions are more exposed, and costly. But in this era of data analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644b3e90feff0dec7e76f751/0x0.jpg?format=jpg&width=1200",
-          "width": 807,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
-      "publishedDateTime": "2023-04-27T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

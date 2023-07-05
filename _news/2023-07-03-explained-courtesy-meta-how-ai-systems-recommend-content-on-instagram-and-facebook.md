@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram"
-    excerpt: "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?"
-    publishedDateTime: 2023-06-30T09:11:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 51
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Does AI Influence What You See On Facebook And Instagram? Meta Has Explained"
     excerpt: "Meta has published a blog post explaining how AI affects your feed on Facebook and Instagram and how you can control the same."
     publishedDateTime: 2023-06-30T16:44:00Z

@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Facial Recognition Technology Could Soon Be Everywhere Here's How To Make It Safer"
-excerpt: "The recent coronation of king charles iii was a high-profile example of when facial recognition technology has been used to monitor a crowd, but the"
-publishedDateTime: 2023-07-04T18:50:00Z
-originalUrl: "https://menafn.com/1106552733/Facial-Recognition-Technology-Could-Soon-Be-Everywhere-Heres-How-To-Make-It-Safer"
-webUrl: "https://menafn.com/1106552733/Facial-Recognition-Technology-Could-Soon-Be-Everywhere-Heres-How-To-Make-It-Safer"
+title: "Facial recognition technology could soon be everywhere – here's how to make it safer"
+excerpt: "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement"
+publishedDateTime: 2023-07-05T03:35:00Z
+originalUrl: "https://www.econotimes.com/Facial-recognition-technology-could-soon-be-everywhere--heres-how-to-make-it-safer-1658891"
+webUrl: "https://www.econotimes.com/Facial-recognition-technology-could-soon-be-everywhere--heres-how-to-make-it-safer-1658891"
 type: article
-quality: 15
-heat: 15
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: EconoTimes
+  domain: econotimes.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+
+images:
+  - url: "https://f1.econotimes.com/2023/07/8kl8g5holb_th_1024x0.jpg"
+    width: 496
+    height: 321
+    isCached: true
 
 related:
   - title: "Facial recognition technology could soon be everywhere – here’s how to make it safer"
@@ -30,6 +35,6 @@ related:
       domain: theconversation.com
     quality: 12
 
-secured: "T8+FVHlh6+5EDfalVi0+TSMgVzUFy+W5djtT+ELLEWN7SBcGehzovNOWshAS7eyyYoq4zL/xxfjFdKnF9QgMC88cUlk0hMlK1WJe/qxpa1AH30uAsai2xpVQoOKoOoqTv2tPyos4qNORLqXdDC8EWA+qxUE1s3QSwTXKdtmj7ydZ7l5Jylq4FGhyLmg16C1bdMSIGfUjv30CTvUbSCSlxW4PiICW9vxgv4PcHqNzPWsGyI2oq8ru8lUwpDDOHgA9vbhBM0aDTJLIgf+i3ANXfSCZ3y5i6Kov9k+NajuBdFNvwmFVH9oKkQX0SGtmFAwzRZ4qfAy0X9UXjrdLlJw4Km9UGsGDVxI/99U/u9x+KNlPtVizPuH6TryAjvvxSGs8sXCSAtybKL3d+2j9CdGjU+wO5tC03MqlS064Xm89wZPlruzoYyHDD2JCBOaa49ZyaWxrq/Pp9DDNPi1bCzdF5gf/pETHZpz3sQIb0xYK+7r1OXpA+TbjEqNOAa+LlvuTI+lSvck1JefzSGdZDNGIDQ==;rM0Wea6VUqs8HEXvdpXc0g=="
+secured: "ED5MXJ0hDkB1IV2iFccFCAK/tsSGQGucQmQwN2mXSSX/wYdXwb3Od5Q+JfNnp3qYage7JyoJM+VpZ4/ghh+FS9EUWtDu+Cza8GTBoxRTz8rYby0anvxKHzALsdyDnqt/kNXo2ApL/n0dn+CSsGjogcUN9ok6lWDW1+IBf6Fas+IQNzfEZunCykmomXoMODX4GFhwHjtSfgt18U7/ADW2FpG62FhC2dLd9FcS/6J5ptZ4jtu89vJsrHUXJV2rezisKoI3lKaNfZMmvSuFBGNSMsX/8pVS+Wd/8BLnltFQFt0WMI7aAY7RwZELfmtGNOAOnCq5IZThVLOk+TGr/AKwR4U/zc47tCLWkeeGhHqlCIw=;w//iiVgOtkApCCiWCmE8FQ=="
 ---
 

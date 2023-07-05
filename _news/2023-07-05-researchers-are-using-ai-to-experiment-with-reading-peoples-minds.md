@@ -2,27 +2,27 @@
 category: news
 title: "Researchers are using AI to experiment with reading people’s minds"
 excerpt: "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I."
-publishedDateTime: 2023-07-04T21:06:00Z
-originalUrl: "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
-webUrl: "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
-ampWebUrl: "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
-cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
+publishedDateTime: 2023-07-05T03:06:00Z
+originalUrl: "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
+webUrl: "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
+ampWebUrl: "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
+cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
 type: article
 quality: 61
 heat: 101
 published: true
 
 provider:
-  name: WDBJ
-  domain: wdbj7.com
+  name: KKTV11
+  domain: kktv.com
 
 topics:
-  - Facebook AI
-  - AI
   - Natural Language Processing
+  - AI
+  - Facebook AI
 
 images:
-  - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/6dFL6mV9xdskVjxS2k64qWlLrO0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CXRFEPNRN5D3FOXEMQINRYQCFY.jpeg"
+  - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/_Sbk6U-tGzat31NVOmEU5t3zFAM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4DORYMJT4FDSJL6YF2WIF5HCRE.png"
     width: 800
     height: 450
     isCached: true
@@ -77,6 +77,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "nZPZB1Di1TZexmS27OMOjInF9sPhFUZUxcG2tjM2FRDOpK0tJIbcIFwKugQCLX+yife71YE3vnvW4+zF+gl+hdBGCKjhKow/o6pJiBcZJFJNDBt8+vE1PHn+86Ek4MlXSH76PGoenEzKRYJiLc4E2iDBK88Ywknf7jIwkw4QGaEugVMminrtAMy6IyjQdhy3N+rFvzbwZvYIqja0Q9yyc/F+in04Kdhp3limuWwvICLIZzgoS+e/1X7LF5fjqBroLZkJfWMCLo/5eLWrDeSmHBp9rhTZtfqMzgK5bx4u4dr0TBzJ4DbNOWO1bsyT+UW7gnQLms+1YJChvp9XstODDXIKTH+veeT12mPvXjWY09XL+ljVzpzTwOja7h6ILXvI3vrEwpb08eXHiXQOWFpBfrw3SZAIjcDtx4xmBlcZgqHkmulEPx1ebM/c4UT6pVKqz/E220NnO01II7Wbv6fldd0lb0KrjdBv+xfCxUPfEQBdExNJw5Y4DMCP8H9TM06VVoyS69RqZUBVP5Kn02VXJQ==;nbrYQM+DWog1tWtYnSsv3A=="
+secured: "QLWFIkk7NBK2wctJ75aNNEkXNq89Jho1tsLFZ12etQvVLYVaKfhcQ0bT6Q+sY08t4/+ewxbRf1umG25Z7QGqZAMIXhlvhhtPLGkDvIOfP/XzE3fpSRAZCDlHyZZF2asIOk9U1xw5p36rjgXBKuqs5zRwJGxnIvPvxNCb38Js/SfEd2b+MeWcDu8sXR+vIYVrNpRSnn1sIki6N3B7GNMCcLJuaryvUN4TAL/7Er3zGBNeCb7EPTC8wjCEbKacaffB33z79dPtKAfRwguRT424zBHDZoVdiaS4wvVEkyIG8/Y4UNS927caCxl5+NL3QZFJpAscczxeYZdD2AmySmuWtY2P9qI9K/iY/vQ3tcfUdP0=;mUeD7L74ulHkMYx/TJSGmQ=="
 ---
 

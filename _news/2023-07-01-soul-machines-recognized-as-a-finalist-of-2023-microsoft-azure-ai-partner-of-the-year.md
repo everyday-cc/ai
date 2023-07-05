@@ -148,15 +148,6 @@ related:
         width: 4095
         height: 2730
         isCached: true
-  - title: "Microsoft Empowers Government Agencies with Secure Access to Generative AI Capabilities"
-    excerpt: "Mykyta Protsenko discusses the trade-offs that companies face during the process of shifting left, how to ease cognitive load ... Subscribe for free. Microsoft continues to prioritize the development of cloud services that align with US regulatory ..."
-    publishedDateTime: 2023-06-30T09:30:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/azure-openai-government-agencies/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 26
 
 secured: "D0PZ7vtXkU0uk4GnzfE1SuJtWP7j05Bz3iU0FExE4NI/9xqKxc3+VRXWRflr5qpqr3ZCma9i8uPVNLeAam5Q9sUoQmbfbaJWpku7vDQpgIrBRbUE+A46YaW0Ta9Q5c+sJIQCAjDnigTtXGQ1U0yC6s7ilxFrx8C1X9SnIoP5Vmm9Q8Yi0fCy7lBmFzwIsxWRD9KHm9riLmlict7Z0ku7dJnKscSQiK7JUzVCxRYgNBzEsPdkCQRGX+lyvot1PQIzXwVYEwbqNdL7JSauN4EmUjIcsLd0Z6vYSuiX0m0prwaKBNGeYhpD9rkeddjp8QVcDndPhiOMpxiK8tA5x+bh2rsie96n0I6dMW2+zfkG6Aw=;HwC+KhVx71K1O9CMmcTN9Q=="
 ---

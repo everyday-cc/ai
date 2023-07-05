@@ -2,6 +2,196 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2023-05-03-ai-threatens-7800-jobs-as-ibm-pauses-hiring.md",
+      "title": "AI threatens 7,800 jobs as IBM pauses hiring",
+      "excerpt": "Independent of this move, IBM announced 3,900 job cuts in late January. However, many of the roles reduced due to AI will likely come as a result of the upcoming hiring freeze and jobs vacated by attrition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "originalUrl": "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0393b7d5f621704a38027b7cfd596f95695ca462/2023/05/03/d1aff5ee-9f8f-4e70-ad00-0768eff07be4/robot-replace-employee.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "publishedDateTime": "2023-05-03T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-optimized-pytorch-20-inference-with-aws-graviton-processors.md",
+      "title": "Optimized PyTorch 2.0 inference with AWS Graviton processors",
+      "excerpt": "New generations of CPUs offer a significant performance improvement in machine learning (ML) inference due to specialized built-in instructions. Combined with their flexibility, high speed of development, and low operating cost, these general-purpose processors offer an alternative to other existing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimized-pytorch-2-0-inference-with-aws-graviton-processors/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimized-pytorch-2-0-inference-with-aws-graviton-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/03/optimized-pytorch-graviton.jpg",
+          "width": 955,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T09:02:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-researchers-detect-and-classify-multiple-objects-without-images.md",
+      "title": "Researchers detect and classify multiple objects without images",
+      "excerpt": "Today’s image-free perception methods can only achieve classification, single object recognition or tracking. To accomplish all three at once, the researchers developed a technique known as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/988149",
+      "originalUrl": "https://www.eurekalert.org/news-releases/988149",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming.md",
+      "title": "GamesBeat Summit 2023 will capture how generative AI is changing gaming",
+      "excerpt": "Generative AI is sweeping through the game industry and that's one of the can't-miss topics we'll discuss at GamesBeat Summit 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
+      "originalUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/ai-at-gamesbeat.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
+      "publishedDateTime": "2023-05-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-ai-brain-activity-decoder-can-reveal-stories-in-peoples-minds-researchers-say.md",
       "title": "AI brain activity decoder can reveal stories in peoples' minds, researchers say",
       "excerpt": "An artificial intelligence system developed at the University of Texas is able to translate a subject's brain activity into a stream of text after storytelling.",
@@ -982,212 +1172,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-where-is-india-in-the-generative-ai-race.md",
-      "title": "Where is India in the generative AI race?",
-      "excerpt": "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
-      "originalUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/",
-      "publishedDateTime": "2023-05-03T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-try-4-new-arts-and-ai-experiments.md",
-      "title": "Try 4 new Arts and AI experiments",
-      "excerpt": "Four new online interactive artworks from Google Arts & Culture Lab artists in residence",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
-      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Generative_Bundle_Hero_Image_GIF.gif",
-          "width": 600,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/",
-      "publishedDateTime": "2023-05-03T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-midjourney-51-arrives-and-its-another-leap-forward-for-ai-art.md",
-      "title": "Midjourney 5.1 Arrives - And It’s Another Leap Forward For AI Art",
-      "excerpt": "The company claims that version 5.1 of the engine is “more opinionated”, bringing it closer to the kind of results that you would get with version 4 of Midjourney, but at a higher quality. There’s also a “raw” mode, for those who don’t want images that are as strongly opinionated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64521a0c6292968af6b510dc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/",
-      "publishedDateTime": "2023-05-03T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-adhd-on-tiktok-raising-awareness-or-driving-inaccurate-self-diagnosis.md",
-      "title": "ADHD on TikTok: Raising awareness or driving inaccurate self-diagnosis?",
-      "excerpt": "ADHD is massive on TikTok. Creators who've taken the hashtag to more than 20 billion views say they've helped to spread awareness and normalise the condition. But some worry that the flood of content on our feeds and For You pages is also perpetuating stereotypes and encouraging potentially inaccurate self-diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/newsbeat-65457044?at_format=link&at_link_type=web_link&at_link_id=D856A3A0-E98B-11ED-B287-907279448730&at_link_origin=bbchealth&at_bbc_team=editorial&at_campaign_type=owned&at_ptr_name=twitter",
-      "originalUrl": "https://www.bbc.com/news/newsbeat-65457044?at_format=link&at_link_type=web_link&at_link_id=D856A3A0-E98B-11ED-B287-907279448730&at_link_origin=bbchealth&at_bbc_team=editorial&at_campaign_type=owned&at_ptr_name=twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/8E9C/production/_129580563_phonealamy.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/newsbeat-65457044.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/newsbeat-65457044.amp",
-      "publishedDateTime": "2023-05-03T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

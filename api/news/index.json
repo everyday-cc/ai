@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-05-researchers-are-using-ai-to-experiment-with-reading-peoples-minds.md",
+      "title": "Researchers are using AI to experiment with reading people’s minds",
+      "excerpt": "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/",
+      "originalUrl": "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/_Sbk6U-tGzat31NVOmEU5t3zFAM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4DORYMJT4FDSJL6YF2WIF5HCRE.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp",
+      "publishedDateTime": "2023-07-04T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KKTV11",
+        "domain": "kktv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
       "title": "Growing bio-inspired polymer brains for artificial neural networks",
       "excerpt": "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The",
@@ -53,7 +97,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -96,50 +140,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-05-researchers-are-using-ai-to-experiment-with-reading-peoples-minds.md",
-      "title": "Researchers are using AI to experiment with reading people’s minds",
-      "excerpt": "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/",
-      "originalUrl": "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/6dFL6mV9xdskVjxS2k64qWlLrO0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CXRFEPNRN5D3FOXEMQINRYQCFY.jpeg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp",
-      "publishedDateTime": "2023-07-04T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDBJ",
-        "domain": "wdbj7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-07-05-aws-exec-downplays-existential-threat-of-ai-calls-it-a-mathematical-parlor-trick.md",
       "title": "AWS exec downplays existential threat of AI, calls it a ‘mathematical parlor trick’",
       "excerpt": "AI is not a threat, says Matt Wood of AWS — rather, it has powerful, transformative potential for enterprises of all sizes.",
@@ -148,7 +148,7 @@
       "originalUrl": "https://venturebeat.com/ai/aws-exec-downplays-existential-threat-of-ai-calls-it-a-mathematical-parlor-trick/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -253,7 +253,7 @@
       "originalUrl": "https://www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -305,7 +305,7 @@
       "originalUrl": "https://www.techradar.com/pro/us-looks-to-cut-china-cloud-access-to-aws-azure-and-more",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {

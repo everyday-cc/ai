@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-30-cmms-vs-eam-two-asset-management-tools-that-work-great-together.md",
+      "title": "CMMS vs. EAM: Two asset management tools that work great together",
+      "excerpt": "Two commonly used asset management and maintenance solutions are computerized maintenance management systems (CMMS) and enterprise asset management (EAM).\nThe post CMMS vs. EAM: Two asset management tools that work great together appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/cmms-vs-eam/",
+      "originalUrl": "https://www.ibm.com/blog/cmms-vs-eam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:12:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards.md",
+      "title": "Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards",
+      "excerpt": "If you need stricter security and compliance standards in your Citrix DaaS deployment, use these resources and features to customize your workload security.\nThe post Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
+      "originalUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:10:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity.md",
       "title": "Why healthcare in the cloud must move to zero trust cybersecurity",
       "excerpt": "To protect patient identities and health records, healthcare providers must adopt zero trust cybersecurity amid increasing cyberattacks.",
@@ -864,6 +949,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-30-natural-language-processing-germany.md",
+      "title": "Natural Language Processing - Germany",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$1.02bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.92%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/germany",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/germany",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-when-bytes-bias-unraveling-the-myth-of-neutral-ai.md",
       "title": "When Bytes Bias: Unraveling The Myth Of Neutral AI",
       "excerpt": "In this article, we discuss the concept of technochauvinism, shedding light on the often-overlooked societal implications and biases in artificial intelligence.",
@@ -1056,135 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-computer-vision-south-korea.md",
-      "title": "Computer Vision - South Korea",
-      "excerpt": "Value in the Computer Vision market is projected to reach US$411.70m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.54%, resulting in a market volume of US$1,065 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-korea",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-korea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-natural-language-processing-south-korea.md",
-      "title": "Natural Language Processing - South Korea",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$440.20m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.04%, resulting in a market volume ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/south-korea",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/south-korea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-speech-recognition-south-korea.md",
-      "title": "Speech Recognition - South Korea",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$126.70m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.22%, resulting in a market volume of US$408 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-korea",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-korea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

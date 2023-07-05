@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tech Mahindra Collaborates Microsoft Azure To Enable Generative AI Powered Enterprise Search"
-    excerpt: "Tech Mahindra's Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility, which will eventually improve the ..."
-    publishedDateTime: 2023-06-30T10:08:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/tech-mahindra-collaborates-microsoft-azure-to-enable/455074"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 88
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1688119183-Untitleddesign-2023-06-30T152723739.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Microsoft, Nvidia Invest In Ai Startup Inflection Ai"
     excerpt: "san francisco: microsoft and nvidia were among a host of investors who took a stake in ai company inflection ai.<br /> <br /> the company rai"
     publishedDateTime: 2023-07-01T10:16:00Z

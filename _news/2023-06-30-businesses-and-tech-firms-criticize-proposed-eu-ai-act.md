@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Draft EU artificial intelligence rules could hurt Europe, executives say"
+    excerpt: "The proposed EU Artificial Intelligence legislation would jeopardise Europe's competitiveness and technological sovereignty, according to an open letter signed by more than 160 executives at companies ranging from Renault to Meta ."
+    publishedDateTime: 2023-06-30T19:34:00Z
+    webUrl: "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/?ref=promptengineering.org"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://www.reuters.com/resizer/BZZiDdK2-b6MMPX1dKB_GnxGIg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRI4RJLDVJNYLKQZNAH2FSAF4Q.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "iImH8cad9xnrBywTaYI6Wwdhh3RIA+WZ2lhEpu188QT8bMs3wSdxf6WV/WGcauy0LvwKAThaZciEKG3NZ+homfDyAoPd3wHXiwB0CBuLZIuVW1WVV3uWtvyJ/F5vL9zvMv2zSjUAQo4R/tTbzI5hnlThpkej08sXMBwFeHqQBfYxqm9Ca9gd9JKf+bn9J1oMnUKJSvpzD0sd6urzxB/P04D75ltKryW+ePR4CYzlXDOcBCLHPQ7QcMiLp+q4HW7+DbkSqblq+ms1zYJ8f4N1kbudJTE2Ih0Pz+5zIWa4rn8sroJQS9IIhMPGSCSMewEsSpjFUWbGLn/wt6XFCjFAjaWCRsWlhoXKw8RSVgZe5tQ=;BnDkALCMFZs7Do2iLQWMsQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-gener
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Mahindra Collaborates Microsoft Azure To Enable Generative AI Powered Enterprise Search"
-    excerpt: "Tech Mahindra's Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility, which will eventually improve the ..."
-    publishedDateTime: 2023-06-30T10:08:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/tech-mahindra-collaborates-microsoft-azure-to-enable/455074"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 88
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1688119183-Untitleddesign-2023-06-30T152723739.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Microsoft Outlines Azure OpenAI Large Language Model Servicing"
     excerpt: "Microsoft on Friday outlined how Azure OpenAI users can automatically keep up with the latest large language model updates, and also gave assurances about privacy issues."
     publishedDateTime: 2023-06-30T23:30:00Z

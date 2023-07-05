@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-03-gods-take-on-tech-vatican-launches-ai-ethics-think-tank.md",
+      "title": "God’s Take on Tech: Vatican Launches AI Ethics Think Tank",
+      "excerpt": "Pope Francis and Santa Clara University's Markkula Center released an AI ethics manual. They founded ITEC, a Vatican-led think tank promoting meaningful discussions on the ethical impact of technology.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/gods-take-on-tech-vatican-launches-ai-ethics-think-tank/",
+      "originalUrl": "https://analyticsindiamag.com/gods-take-on-tech-vatican-launches-ai-ethics-think-tank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/pope-francis-1300x731.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.md",
       "title": "AI and ethics: Building trustworthy and transparent artificial intelligence systems",
       "excerpt": "As AI technologies become increasingly sophisticated and pervasive, it is crucial to address the ethical considerations associated with their development and deployment. This article delves into the importance of ethics in AI and focuses on the imperative ...",
@@ -1391,58 +1434,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-data-and-ai-ethics-market-insights-2030.md",
-      "title": "Data and AI Ethics Market Insights | 2030",
-      "excerpt": "Jun (The Expresswire) -- \"Data and AI Ethics Market\" is segmented into Regions, Applications (BFSI, Government and Defense, Healthcare and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-insights-2030-2023-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-insights-2030-2023-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

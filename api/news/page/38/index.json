@@ -2,6 +2,186 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-06-08-to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware.md",
+      "title": "To combat GPU shortage for generative AI, startup works to optimize hardware",
+      "excerpt": "AI startup CentML aims to help address the worldwide shortage of GPUs for training and inference of generative AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware/",
+      "originalUrl": "https://venturebeat.com/ai/to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI Chips Are Hot. Here's What They Are, What They're for and Why Investors See Gold",
+      "excerpt": "AI Chips Are Hot. Here's What They Are, What They're for and Why Investors See Gold SAN FRANCISCO (AP) — The hottest thing in technology is an unprepossessing sliver of silicon closely related ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/business/articles/2023-06-01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2023-06-01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-the-value-of-virtual-physical-therapy-for-musculoskeletal-care.md",
+      "title": "The Value of Virtual Physical Therapy for Musculoskeletal Care",
+      "excerpt": "Patient-initiated virtual physical therapy (PIVPT) changes the landscape of musculoskeletal ... such as health coaching or PT provided by artificial intelligence–driven software. Our estimate of the per-patient gross savings and ROI of PIVPT is likely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajmc.com/view/the-value-of-virtual-physical-therapy-for-musculoskeletal-care",
+      "originalUrl": "https://www.ajmc.com/view/the-value-of-virtual-physical-therapy-for-musculoskeletal-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/mjhlifesciences.com/sitelogos/AJMC_1200x637.png",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-ai-and-the-economy-what-has-changed.md",
+      "title": "AI And The Economy: What Has Changed?",
+      "excerpt": "The economy will change markedly due to ChatGPT and similar models. After years of gradual advances, the latest tools will lead to a huge shift in the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/",
+      "originalUrl": "https://www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e1daafc74342c7713b285/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/amp/",
+      "publishedDateTime": "2023-06-08T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-the-weakness-of-artificial-intelligence-in-marketing.md",
       "title": "The Weakness Of Artificial Intelligence In Marketing",
       "excerpt": "Artificial intelligence (AI) is the new \"internet.\" Like the internet, AI has created a lot of these same responses. The stark reality is technology has never gone backward. It marches on, and how we respond to these developments for better or worse is what shapes the outcome.",
@@ -1032,197 +1212,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks.md",
-      "title": "Here's one thing AI can do for 3 of our mega-cap tech stocks",
-      "excerpt": "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1686171192&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-ai-can-help-doctors-with-breast-cancer-risk-predictions-a-new-study-found.md",
-      "title": "AI can help doctors with breast cancer risk predictions, a new study found",
-      "excerpt": "Artificial intelligence is being used in increasingly more areas and could now help predict breast cancer risks, a new study shows. The study, which used five AI algorithms, found that when put to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2023/06/07/artificial-intelligence-breast-cancer-risk-prediction/70297531007/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2023/06/07/artificial-intelligence-breast-cancer-risk-prediction/70297531007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets.md",
-      "title": "Retrain ML models and automate batch predictions in Amazon SageMaker Canvas using updated datasets",
-      "excerpt": "You can now retrain machine learning (ML) models and automate batch prediction workflows with updated datasets in Amazon SageMaker Canvas, thereby making it easier to constantly learn and improve the model performance and drive efficiency. An ML model’s effectiveness depends on the quality and relevance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/07/retrain-ml-models-batch-predictions.jpg",
-          "width": 1022,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T10:55:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-google-and-mayo-clinic-partner-to-infuse-ai-into-health-care.md",
-      "title": "Google and Mayo Clinic Partner to Infuse AI Into Health Care",
-      "excerpt": "Google Cloud launched a partnership with Mayo Clinic to implement use of its generative AI software, the tech giant announced ... as well as clinical protocols and research papers. With Google-level search capabilities, it can help health organizations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner-to-infuse-ai-into-health-care/",
-      "originalUrl": "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner-to-infuse-ai-into-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/b619c70256fe80ec93cb22ae82d3099364a1f446/hub/2023/06/07/27bd616e-820d-43bf-8913-4eb7badfb1aa/gettyimages-1247992080-google-cloud-logo.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

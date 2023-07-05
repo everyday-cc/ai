@@ -6,15 +6,15 @@
       "title": "Researchers are using AI to experiment with reading people’s minds",
       "excerpt": "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I.",
       "sourceUrl": null,
-      "webUrl": "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/",
-      "originalUrl": "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/",
+      "webUrl": "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/",
+      "originalUrl": "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/",
       "featuredContent": null,
       "highlight": null,
       "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/6dFL6mV9xdskVjxS2k64qWlLrO0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CXRFEPNRN5D3FOXEMQINRYQCFY.jpeg",
+          "url": "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/_Sbk6U-tGzat31NVOmEU5t3zFAM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4DORYMJT4FDSJL6YF2WIF5HCRE.png",
           "width": 800,
           "height": 450,
           "title": null,
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp",
-      "publishedDateTime": "2023-07-04T14:06:00-07:00",
+      "ampWebUrl": "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp",
+      "publishedDateTime": "2023-07-04T20:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WDBJ",
-        "domain": "wdbj7.com",
+        "name": "KKTV11",
+        "domain": "kktv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Natural Language Processing",
         "AI",
-        "Natural Language Processing"
+        "Facebook AI"
       ]
     },
     {
@@ -54,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/ai/aws-exec-downplays-existential-threat-of-ai-calls-it-a-mathematical-parlor-trick/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -450,19 +450,19 @@
     {
       "path": "_news/2023-06-29-meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram.md",
       "title": "Meta releases clues on how AI is used on Facebook and Instagram",
-      "excerpt": "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on its apps. The social media giant introduced nearly two dozen explainers focused on various features of its platforms,",
+      "excerpt": "As demand for greater transparency in artificial intelligence mounts ... such as Instagram Stories and Facebook’s news feed. These describe how Meta selects what content to recommend to users.",
       "sourceUrl": null,
-      "webUrl": "https://kesq.com/news/2023/06/29/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram-2/",
-      "originalUrl": "https://kesq.com/news/2023/06/29/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram-2/",
+      "webUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://kesq.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNjA0NzgzNjlhYjk5NWY4NmUzYjg2OTdjNGE0OGI3ZjI-L19wYWdlcy9oXzg5M2JkOTcxNGZmZTEwNDViZmMxNDc2MDMxMDE5Y2Zl-300-860x484.jpg",
-          "width": 860,
-          "height": 484,
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230628181712-meta-discloses-ai-information.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -470,14 +470,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T03:01:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "publishedDateTime": "2023-06-29T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KESQ News",
-        "domain": "kesq.com",
-        "images": null,
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

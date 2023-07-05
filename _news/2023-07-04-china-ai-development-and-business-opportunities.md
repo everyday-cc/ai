@@ -36,20 +36,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "SC Ventures divests lifestyle app CardsPal, eyes opportunities in AI and digital assets"
-    excerpt: "Standard Chartered’s innovation, fintech investment and ventures arm, has completed the sale of CardsPal, a Singapore-based lifestyle platform, to tra"
-    publishedDateTime: 2023-06-30T10:25:00Z
-    webUrl: "https://www.straitstimes.com/business/sc-ventures-divests-lifestyle-app-cardspal-eyes-opportunities-in-ai-and-digital-assets"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 31
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/30/HZSC300623_0.jpg?VersionId=wMtjNzD.DukJtB1yqChiar8RqX6SiyPG"
-        width: 860
-        height: 573
-        isCached: true
 
 secured: "CyEpSlZuEVuFj5A9PSX1EfDUypxqUvOH7t8CndC+LNhxfPRd7oYA1wGOlxi8sicBaGbCxEldy6e7/NMq+6VQKdiaxw0ArHBfI6N1Mykqd4DvpiucIo/F3lb+m/eDgAhEC8+6yiSwM205f6r3s+doTlHX1VBt/rOQJCER2dDzXtByFmkkvZdWcc3Ak2LsWd52SgZN00OolOBfg+IyfLWyJWXZuMXrQNaKB+8rVftFryvy5fVIqiQuXbNt53GP5HgYybK1xobGb8H+8s/Ivj7Oe6do+2J++zaPicVFU2Uh04WfKm3y/lFWjztGuIecmXTELz74p99JsJ2hWarn0dfCv2MyS08GrRmobVaDzfrNSmF0aQpywhhei+PSn2oJQQwss6JWOx+EhHQux+SidUdIjabzc2VSncoCE3w+faUj49f8KiC+wbBAOjTONXLts3Fuk/UYLzkYN3KFEenD+Cm/ITXzTzvh86EFFBdRj8MMERAg9ZI/uv486fsvnQgpyuH7AyjZ/eGCUtYITmrV7IWaQg==;56UaD8fF/UmJ03gBoav0yQ=="
 ---

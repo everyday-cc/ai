@@ -24,43 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI Law Draws Pushback From Big Brands in Europe"
-    excerpt: "Executives from firms such as Heineken and Renault joined a lobbying effort as Europe negotiates the West’s first comprehensive rules."
-    publishedDateTime: 2023-06-30T10:36:00Z
-    webUrl: "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2"
+  - title: "Japan embraces softened AI regulations to drive economic growth and chip leadership: Report"
+    excerpt: "Japan is reportedly considering adopting more lenient regulations on artificial intelligence (AI) compared to the European Union, aiming to enhance economic growth and establish itself as a frontrunner in advanced chips."
+    publishedDateTime: 2023-07-03T09:16:00Z
+    webUrl: "https://www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report-11688374599060.html"
+    ampWebUrl: "https://www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report/amp-11688374599060.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/japan-embraces-softened-ai-regulations-to-drive-economic-growth-and-chip-leadership-report/amp-11688374599060.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Mint
+      domain: livemint.com
+    quality: 64
     images:
-      - url: "https://images.wsj.net/im-809998/social"
-        width: 1280
-        height: 640
+      - url: "https://www.livemint.com/lm-img/img/2023/07/03/600x338/TECH-AI-EUROPE-0_1688375295260_1688375347173.JPG"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Draft EU artificial intelligence rules could hurt Europe, executives say"
-    excerpt: "The proposed EU Artificial Intelligence legislation would jeopardise Europe's competitiveness and technological sovereignty, according to an open letter signed by more than 160 executives at companies ranging from Renault to Meta ."
-    publishedDateTime: 2023-06-30T19:34:00Z
-    webUrl: "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/?ref=promptengineering.org"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://www.reuters.com/resizer/BZZiDdK2-b6MMPX1dKB_GnxGIg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRI4RJLDVJNYLKQZNAH2FSAF4Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "European VCs and tech firms sign open letter warning against over-regulation of AI in draft EU laws"
-    excerpt: "Executives from 150 businesses highlighted the risks of tight regulation, saying the rules could threaten the ability of European companies to compete in AI."
-    publishedDateTime: 2023-06-30T19:57:00Z
-    webUrl: "https://techcrunch.com/2023/06/30/european-vcs-tech-firms-sign-open-letter-warning-against-over-regulation-of-ai-in-draft-eu-laws/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 33
 
 secured: "ILeK3YEanfL+RssWe93hyYKoR/yEKWnbTngA4urWWaQSRLGaPT9BdWBrU1+AN4cwr35zaWiU5ZTuso/PGyf65xrqcKJ1wF0Wv1sJe15/WbJ9ICnXGXGPFEZL+oKwwU5PEd7cZ91JnL3OOCGDxU/c2Gjz9G8T64dEQfWc36ZUfGS/ikzYNEo/HW0rMgLJnolFu+Ftblg/b/S9OQ66biOmXdJoOp9VCDivkOTvtJFOsbEN+7iynV///S8VFhwpV5sb/ILs0oKQS/xY795ztyLn8Vpkr5VLpxjHEUFEQ+Qndtf5mX8DRbMNt5cztd+koCmQneKiA8GSG97FEghVBhhNNQGUYeMy4sKn+FED1K3pdmluoxScqJj9hNad+3QTsTHSvfj+KRZ6d1ULNUCjjcDaOaVUc9VYKFl9t2m2geUNhw2wowwRJyBsairdTOMX6hjLuI9n9AGKhONUy8b3Cc5nkEh1dBji11ttzZkx8HzFOyxgCjYGcut2yMrsUUyD1DRv6orwWJtosnwLsLqJOzd2Fw==;4SBNETzdDRmXq3/8r8bNBg=="
 ---

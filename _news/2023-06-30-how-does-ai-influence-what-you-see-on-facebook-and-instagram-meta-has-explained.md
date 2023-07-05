@@ -7,7 +7,7 @@ originalUrl: "https://techreport.com/news/how-does-ai-influence-what-you-see-on-
 webUrl: "https://techreport.com/news/how-does-ai-influence-what-you-see-on-facebook-and-instagram-meta-has-explained/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram"
-    excerpt: "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?"
-    publishedDateTime: 2023-06-30T09:11:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 51
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Explained (Courtesy Meta): How AI Systems Recommend Content on Instagram and Facebook"
     excerpt: "Meta has released a detailed explanation of how its AI systems recommend content across Instagram and Facebook."
     publishedDateTime: 2023-07-03T07:44:00Z

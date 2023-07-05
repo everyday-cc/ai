@@ -28,17 +28,17 @@ images:
 related:
   - title: "Researchers are using AI to experiment with reading people’s minds"
     excerpt: "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I."
-    publishedDateTime: 2023-07-04T21:06:00Z
-    webUrl: "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
-    ampWebUrl: "https://www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
+    publishedDateTime: 2023-07-05T03:06:00Z
+    webUrl: "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
+    ampWebUrl: "https://www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
     type: article
     provider:
-      name: WDBJ
-      domain: wdbj7.com
+      name: KKTV11
+      domain: kktv.com
     quality: 61
     images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/6dFL6mV9xdskVjxS2k64qWlLrO0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CXRFEPNRN5D3FOXEMQINRYQCFY.jpeg"
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/_Sbk6U-tGzat31NVOmEU5t3zFAM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4DORYMJT4FDSJL6YF2WIF5HCRE.png"
         width: 800
         height: 450
         isCached: true
