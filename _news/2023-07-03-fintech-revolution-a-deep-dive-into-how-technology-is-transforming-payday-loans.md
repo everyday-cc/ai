@@ -19,15 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Ecosystem Development Corp. (Nasdaq: Fexd) Advancing The Use Of Ai To Power Financial Solutions"
-    excerpt: "FEXD acknowledges the recent big data boom that has introduced tech-driven solutions in the current financial services space <li /> AI,"
-    publishedDateTime: 2023-07-03T19:51:00Z
-    webUrl: "https://menafn.com/1106548521/Fintech-Ecosystem-Development-Corp-Nasdaq-Fexd-Advancing-The-Use-Of-Ai-To-Power-Financial-Solutions"
+  - title: "Tintra Shares Rise on Agreement to Repay Fintech Leaders Share Deed"
+    excerpt: "By Joe Hoppe Tintra shares rose Wednesday after the company said it has agreed to fully repay and terminate a $3 million share placement deed with"
+    publishedDateTime: 2023-07-05T07:29:00Z
+    webUrl: "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest Trends In Fintech - A Comprehensive Analysis"
+    excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
+    publishedDateTime: 2023-07-04T18:11:00Z
+    webUrl: "https://menafn.com/1106553250/Latest-Trends-In-Fintech-A-Comprehensive-Analysis"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 3
+    quality: 4
 
 secured: "/KMB+Mc2PHze+/XQoafswLUhqwhGnfc/OMVW0ktM6FXeogIt9Re7yu6bBMmRhUYSEl7eQ1WJx6cF6pxhT2hqNJt7DGyE88FKmb9Raj6KFj9DwUUvC2F24dYZORaPllWtYWVNVAJ+nkRqxEoahvlHu4giuO19mx4ttgGZj/+YlCzAufVzFH+QjYFcX7LxFhOY6AQYpUl5pfyYkp2BrmlkETdDIglW2VCOf7ezq2t57iB4ZGlMeqHz5lH4dxmfn7HGOkMog1Xrr/mXvfRZPcgS5VlHItZBCE9awnXnrjHGUMXfi6Kr8NCrRKq7qbZXmCa2WEj6K7VIqzZeiKyA1UbMF1E2g0OL4SxWKEl18Bvkl2nN92XoHJTK+MToI0YI4ZxMyiLmod6T6+l6VLQjTmW5peb7gZ+jPa5rVt+/e0VehjTS7H/GGUXUn8QXb+E1xD9J0kN2Y4uLMl4CHJYdArn2oa0Mbn8tPXx2KnqKt2MAemaFTBmmpDqfQDEtO5NXdFM/L8avg8r9fxl7HRfsoRTp4A==;AZh2eBB510xjWE7y1CC6Dw=="
 ---

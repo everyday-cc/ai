@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/gods-take-on-tech-vatican-launches-a
 webUrl: "https://analyticsindiamag.com/gods-take-on-tech-vatican-launches-ai-ethics-think-tank/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Vatican Releases Its Own AI Ethics Handbook"
+    excerpt: "The Vatican is getting in on the AI craze. The Holy See has released a handbook on the ethics of artificial intelligence as defined by the Pope. The guidelines are the result of a partnership between Francis and Santa Clara University’s Markkula Center ..."
+    publishedDateTime: 2023-07-02T07:10:00Z
+    webUrl: "https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 84
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e3364c892e40304167feed0f80c8de71.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Keep humanity the focus of tech innovations, says new Vatican-approved ethics guide"
     excerpt: "A new ethics handbook for the tech industry and big business launched with the collaboration of the Vatican’s culture and education body advises “don’t build the future badly.” The 140-page handbook “Ethics in the Age of Disruptive Technologies: An Operational Roadmap,"
     publishedDateTime: 2023-07-04T15:00:00Z

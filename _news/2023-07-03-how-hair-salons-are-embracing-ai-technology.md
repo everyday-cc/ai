@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Firms racing to meet AI tech challenge"
-    excerpt: "A special battle is going on in China as established tech heavyweights and startups scramble to develop their own artificial intelligence large language models to pounce on the opportunities created by AI-generated content."
-    publishedDateTime: 2023-07-05T01:37:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/05/WS64a4bf6ca310bf8a75d6d4ea.html"
+  - title: "Ahead of AI, this other technology wave is sweeping in fast"
+    excerpt: "It's all around us, and keeps proliferating unabated -- in sensors, trackers, production machines, appliances, wearables, vehicles, and buildings. Welcome to the edge, which is likely to shape and shift our jobs and businesses before AI makes its mark. Many of the devices and products seen here at ZDNET represent the edge wave."
+    publishedDateTime: 2023-07-05T08:45:00Z
+    webUrl: "https://www.zdnet.com/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/05/64a4bf6ca310bf8a1d2369b2.jpeg"
-        width: 720
-        height: 480
+      - url: "https://www.zdnet.com/a/img/resize/7f8f9958018ed7ccbbceb5ed330adfe138127b6e/2023/07/04/2bb4198f-c7ab-4b46-8a2b-03680b9ce3e7/gettyimages-1395926351.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ynZVKHBCDcAVuQwH45I325Vd4tqRBqynCiWebgUZoit3Sb9LiesrQhHQpk8S1o67pUE+oj5wvYko6VbGnaQcBeJheTXLq5KQST2yeY2BF6UGjARf0LKAq+M0rlikIFL6zcY6BHt93cnqNYpHd8UhthXT3roRgremwPZYMFzoqGM5HFMP4WDoJbBJ/b4+bLIk9kL/rxY73ALHxSK1n+9NARYqav3tCnCb5nEtRx+DgqCbJgJ1gz5KOOs8eckOhs46qp56yaC+x2WwgssqcicQivgOvBTu1OpGYgt1ML8JeOODlfOSuNHOq0wNXsj4zS88zUvpUMWvxgGCjELZqd3EGN9yaMiQPwteOqf+FW4E1Jc=;JL6Xj169uo3V9mApg9YeeQ=="

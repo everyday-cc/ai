@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-05-unlocking-the-ai-powered-opportunity-in-the-uk.md",
+      "title": "Unlocking the AI-powered opportunity in the UK",
+      "excerpt": "AI is the most profound technology that humanity is working on today. It’s a critical part of solving big societal challenges and helping to make our everyday lives bett…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/",
+      "originalUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-dots_1.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/",
+      "publishedDateTime": "2023-07-05T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-leonardo-da-vinci-inside-a-genius-mind.md",
       "title": "Leonardo da Vinci: Inside a genius mind",
       "excerpt": "28 institutions from around the world  join forces to showcase Leonardo da Vinci's unparalleled legacy, blending art, science, and AI innovation",
@@ -1396,58 +1448,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-deepmind-made-its-ai-name-in-games-now-its-playing-with-the-foundations-of-computing.md",
-      "title": "DeepMind made its AI name in games. Now it’s playing with the foundations of computing",
-      "excerpt": "DeepMind wasn't only playing chess and Go for fun. The lab's new AlphaDev system applies the lessons from games to fundamental algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-applies-games-ai-to-fundamental-algorithms",
-      "originalUrl": "https://thenextweb.com/news/deepmind-applies-games-ai-to-fundamental-algorithms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-6.jpg&signature=cdc070d431840e67fd8f122b3ceccef6",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

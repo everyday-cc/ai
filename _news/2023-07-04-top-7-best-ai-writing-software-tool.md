@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210/amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "LSEG deploys Windward AI software to counter shipping sanctions-busting"
+    excerpt: "London Stock Exchange Group has announced a partnership with artificial intelligence fintech Windward AI to combat sanctions-busting in global shipping"
+    publishedDateTime: 2023-07-05T09:38:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=14554&navigationaction=home&page=1&newssection=technology"
+    type: article
+    provider:
+      name: Asset Servicing Times
+      domain: assetservicingtimes.com
+    quality: 39
+    images:
+      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/WednesdayJuly520231688549698.jpg"
+        width: 990
+        height: 640
+        isCached: true
 
 secured: "8Je5e2150rQ0+hceQvNK2/495570mUn2IvSqNQN4PtTG15hi766et1tJuuSi7MIbWm0i/+mXgzG0AsCbLh1+VInAQXer5227Yj2p/sJQZFMiyFUXwxEmbTmnk/ejk9W7NJtcQ8I6WG1IvP3dD1Mrcqytppn7tTNarj2qAPYkJtDgmxRac4GqdLB4Eu3FkoJ6NAB8CMA/WBhewmFos8MUPENpwzAy0GWixXWm4H0gwfrZnqo8X2TWHpT1j9mezC8cCtsEwgyUETZUtdac2pQN2ebbFYagG9aqcqD10MTr01m9a6EWWOIDGRmJ7v0z9t53QvgCj0gqq46L38JYliHaKMXrAIzcHd5R9a/N/DIajTE=;b7HAzjLdXdECsZZ5fdjKmw=="
 ---

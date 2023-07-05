@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-gener
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Generative AI company Inflection AI raises $1.3bn from Microsoft, Bill Gates, Eric Schmidt, & Nvidia"
-    excerpt: "Inflection AI raised $1.3 billion in a funding round led by Microsoft, Reid Hoffman, Bill Gates, Eric Schmidt, and Nvidia. The generative AI startup claims that it will build the largest AI cluster in the world comprising 22,"
-    publishedDateTime: 2023-06-30T16:38:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/generative-ai-company-inflection-ai-raises-13bn-from-microsoft-bill-gates-eric-schmidt-nvidia/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 41
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/96_OpenAI_DALLE_2_A_data_center_f.2e16d0ba.fill-1200x630.png"
-        width: 1024
-        height: 538
         isCached: true
 
 secured: "4MViN5sFIXA0YkIV9uZF+XDwmPuO4hO3uItxD9l180C4PA4VaBsPxatKBeb1fFo1+LxHfEv9yab/mwl3LOyn7+wV0+hC2ik6XXFvdBGN4NBvs9afhPtnDK3CUi+a3zwn18Sas0pLBEM+K+7QyGwGPdcAPonW9o+3mQD23LBHtIrXrr59XubjDlFjikXW26W6XBAvFtcDjxyvp+yVLtsvTjLnB14sRrgWusr4a+w1Y801ll9Nzb5egyagUbURiZ+Lc7GuixhK+tXXwToXpyDjcsPMc6GDHcqAeJL5ldS7ujbgvB+2z0A9cu2UpIDtWhn9wur31QCNcO9UE+wr2DyrjILaIxU4kV5NozqhmV0JUFh72Os1UslaPuyf9V2bHftiQMmWMG9SAkrjEac+WfTNtbzvIz/166omjA5dCynyxhtkod95cNIjh5UQv5qiPKz39M3T09SqdNkqgSsi+B4GX28CRtvD8nRMg49DUwftn1aAuMja11+nyLTNBX2HOg5ZfMRuDKpEJIoNdrUdtIpVow==;tobDTvqOR/U/ajZYD0DaOA=="

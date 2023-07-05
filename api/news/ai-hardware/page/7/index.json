@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-05-15-the-fanfic-sex-trope-that-caught-a-plundering-ai-red-handed.md",
-      "title": "The Fanfic Sex Trope That Caught a Plundering AI Red-Handed",
-      "excerpt": "Sudowrite, a tool that uses OpenAI’s GPT-3, was found to have understood a sexual act known only to a specific online community of Omegaverse writers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/",
-      "originalUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/645ecbe29e47b5e53e89cd43/master/pass/Omegaverse.jpg",
-          "width": 2500,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/amp",
-      "publishedDateTime": "2023-05-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-05-15-ai-spending-will-cloud-chip-slowdown.md",
       "title": "AI Spending Will Cloud Chip Slowdown",
       "excerpt": "Google, Microsoft and other big techs are slowing capital spending while also launching generative AI services that require the most expensive chips.",
@@ -1469,6 +1417,50 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-meta-platforms-scoops-up-ai-networking-chip-team-from-graphcore.md",
+      "title": "Meta Platforms scoops up AI networking chip team from Graphcore",
+      "excerpt": "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.A Meta spokesperson confirmed the hirings in response to a request for comment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/meta-platforms-scoops-ai-networking-chip-team-graphcore-3468007",
+      "originalUrl": "https://www.channelnewsasia.com/business/meta-platforms-scoops-ai-networking-chip-team-graphcore-3468007",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--9HumNy0t--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-05-05t133156z_1_lynxmpej440h9_rtroptp_3_meta-platforms-ai.jpg?itok=k0W4eQWc",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

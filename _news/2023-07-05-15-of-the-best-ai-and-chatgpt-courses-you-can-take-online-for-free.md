@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/uk/deals/ai-chatgpt-free-courses"
 webUrl: "https://mashable.com/uk/deals/ai-chatgpt-free-courses"
 type: article
 quality: 69
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/07/andy-kelly-0E_vhMVqL9g-unsplash-1.jpg?resize=1200,630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ChatGPT & AI – The 21st century calculator"
+    excerpt: "ChatGPT has shaken the world, with record-breaking sign-ups and a revolutionary impact on tasks that were once thought to be exclusively human. The efforts behind ChatGPT, though arduous, have been in the making for years,"
+    publishedDateTime: 2023-07-05T09:53:00Z
+    webUrl: "https://www.dailymaverick.co.za/article/2023-07-05-chatgpt-ai-the-21st-century-calculator/"
+    type: article
+    provider:
+      name: Daily Maverick
+      domain: dailymaverick.co.za
+    quality: 39
+    images:
+      - url: "https://www.dailymaverick.co.za/wp-content/uploads/2023/07/06_th-ab_intelligent-systems-ai-data-science-001.jpg?w=1280"
+        width: 1280
+        height: 800
         isCached: true
   - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
     excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."

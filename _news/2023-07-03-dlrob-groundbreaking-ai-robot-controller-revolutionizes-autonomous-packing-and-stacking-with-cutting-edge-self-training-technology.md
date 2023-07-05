@@ -55,15 +55,6 @@ related:
         width: 544
         height: 362
         isCached: true
-  - title: "Machine Learning is Revolutionizing Quantitative Trading"
-    excerpt: "Financial markets have always been a complex and dynamic environment, with traders constantly seeking innovative strategies to gain a competitive edge."
-    publishedDateTime: 2023-06-30T16:34:00Z
-    webUrl: "https://www.bbntimes.com/financial/machine-learning-is-revolutionizing-quantitative-trading"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 19
 
 secured: "nI1c/T+C8FjQhpXfiWpWRwCeNTAB1lTR1L7Tz7nIlSRrtLUfR+uZ3TR5Kpx/hoydkPyT41bCUj2tzPSPgt9vaeyNU1QovVgheEJgztDI5Wh9hht8+i6LZq/QYAEtMQb6wYttn5pbxd7N9VlhUdSKl+lUiML4+wRQ4utHtkMjZ5+xLY7Mx/wAm7dsI5Xv8xxaBIXsXfEGkkpv2SBYr0wRJ22O/IbXE1XzRI8/+XIPTQbijGnT2Odr+svCSWA56oJtZnS+qeh+XZunTswKPb/5CWgh5aNjgHRGrJIBjEgdDYtx6haKf4kpqHaNykjiqnqUkAC8pHrS8swVYXtOCRuIFauyINl4pHEUw3JebaCNdDI=;IYoipZdG91gcT+/8/UbMgg=="
 ---

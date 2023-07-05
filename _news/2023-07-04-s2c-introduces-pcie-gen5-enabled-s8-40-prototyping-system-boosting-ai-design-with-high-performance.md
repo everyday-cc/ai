@@ -43,6 +43,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "S2C's PCIe Gen5-Enabled S8-40 Prototyping System, Accelerating AI Design with High Performance"
+    excerpt: "S2C, a recognized leader in FPGA-based prototyping solutions, announces the release of S8-40 Prodigy Logic System, featuring the latest generation FPGA from AMD. Supporting high bandwidth connectivity including PCIe Gen5 and PAM4,"
+    publishedDateTime: 2023-07-03T00:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/03/9842932.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "rk7ePcoBMEhRurweIbyNpRTHBbNbXoQLQEgFRH/r8a5NNLR6OW3x84ktTgmpBVjN9TDp03dHtl0Ix1iyHCBQDtYMTEnS6pFz0eviWwYpXPRS+VewtCCSnurpgRRGz9Sh9NTr2G7f7p/2g+NUlsTqn64tX+vNnNNyDGYHPppw0M/1IDHBpPUkk0VPNziUw5ejqBTy5IYAuVrCAZokwyAdAwwkShndg85f5RLgpqwXS1djQmgnvx7LkFAyXhgOgECY5/O4df29ORsRC5a0/GynNjsYJjt+iVQ+J3B7rVeaYxFHGo1HL/HoCbeySCbMX+JOT4gNjBP1idFGODpmGNyD1ovkaHuyTcmq91XqWDztM6Q=;49d652cffsV3dN0aPdOVMQ=="
 ---

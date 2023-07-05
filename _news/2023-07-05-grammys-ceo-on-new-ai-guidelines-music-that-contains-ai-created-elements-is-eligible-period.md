@@ -43,13 +43,15 @@ related:
         isCached: true
   - title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
     excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols"
-    publishedDateTime: 2023-07-04T13:31:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660236"
+    publishedDateTime: 2023-07-04T13:03:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 24
+    quality: 44
     images:
       - url: "https://s.abcnews.com/images/Entertainment/wirestory_dea135035893deab37719c354f31a889_16x9_992.jpg"
         width: 992

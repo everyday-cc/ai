@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some
 webUrl: "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://www.reuters.com/resizer/BZZiDdK2-b6MMPX1dKB_GnxGIg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRI4RJLDVJNYLKQZNAH2FSAF4Q.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Businesses and tech firms criticize proposed EU AI Act"
-    excerpt: "EU business leaders worry that a perceived excess of regulation could derail efforts to make Europe one of the front-runners in AI technology development."
-    publishedDateTime: 2023-06-30T16:32:00Z
-    webUrl: "https://www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/07/artificial_intelligence_anonymous_binary_mask_by_brownmantic_cc0_via_pixabay_1200x800-100763680-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "2txZJHOhlHpWjor+2RKvv+dKt8D+2ngt9/rC6qEvp7HdW86vzoOsENVGlyiC+9rTfmaziCEQJXIZK87uYHI73EwwSPj56EraC6d+hBMZZiTbvs1mVB0iJh7OtOH/byYGw6yuDwLC0RreCayAa47Pug8a/112Cs64IaVJJJiaittc9WE9KeyX934ZoM+SQxCdMbHNYlQEaZV1iRzRG28wr0om93EezGLAOw6UDU8TDD9CZkN8zCOUrCBsndjJLrZIQIk3ZKI4keivGlZWaQxqL4O101LwjJQZOGj+M43p9igGQ/KVasIok3RWOds1rG45N/QECHJz4qfcxwfBgkkz/Dgxdu/KYGUMk4oAHnXvp1LSUnu9EOj33eonzz11NFaXxN56sarRtz4WOgfCCs3esCw0D9gyc0AX8yNWd3LDYORKu+H4mCqR0uem3BUgJHoqapwOmwx3rOWiLml4ob1vOmhWHPT1/hyo/SIWSXA+QdTNyAeEC23UK35i8+jWgxELpvcwl29AS15wy0wMyLl2ZA==;n5mfKDi99AM0RrEw0lmiAQ=="

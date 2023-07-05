@@ -2,6 +2,385 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2023-04-27-the-ascendancy-of-ai-in-asias-financial-services-industry.md",
+      "title": "The Ascendancy Of AI In Asia’s Financial Services Industry",
+      "excerpt": "As AI matures and becomes more widely integrated into business operations, this trend is set to accelerate At the same time, both the financial industry and regulators know that there are challenges and risks associated with AI that must be addressed Indeed,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/",
+      "originalUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6445de39b964f059b2fa527d/0x0.jpg?format=jpg&width=1200",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/",
+      "publishedDateTime": "2023-04-26T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division.md",
+      "title": "Samsung's profit plunges to 14-year low from heavy loss by chip division",
+      "excerpt": "Samsung's Device Solutions Division, its chip division, reported a steep operating loss of 4.58 trillion won. The company said the performance of its memory chip business fell sig",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
+      "originalUrl": "https://www.zdnet.com/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
+      "publishedDateTime": "2023-04-26T18:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid.md",
+      "title": "Telix Accelerates Artificial Intelligence (AI) Development Program with Acquisition of Dedicaid",
+      "excerpt": "Telix Pharmaceuticals Limited (ASX: TLX, Telix, the Company) today announces the expansion of its artificial intelligence (AI) capability with the signing of an agreement to acquire Vienna-based Dedicaid GmbH (Dedicaid),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-deepminds-latest-research-at-iclr-2023.md",
+      "title": "DeepMind’s latest research at ICLR 2023",
+      "excerpt": "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
+      "originalUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/644a5309537e5d50d2de4a5e_deepmind-lISkvdgfLEk%20(1).jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-muslims-come-into-the-frame-in-southeast-asias-fintech-boom.md",
+      "title": "Muslims come into the frame in Southeast Asia’s fintech boom",
+      "excerpt": "who was a corporate lawyer before she became a shariah fintech specialist. Right now, when an instrument comes from a conventional financial institution, PayHalal feeds it into its AI-based non-shariah compliance screening tool. The tool then suggests ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/",
+      "originalUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/sea-money-map.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/amp/",
+      "publishedDateTime": "2023-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-amazon-killing-off-its-halo-fitness-and-health-tracking-devices.md",
+      "title": "Amazon killing off its Halo fitness and health tracking devices",
+      "excerpt": "Amazon is scrapping its Halo fitness tracker device, a setback for a company long known for having its finger on the pulse of what consumers desire. The e-commerce company said on Wednesday it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amazon-halo-fitness-tracker/",
+      "originalUrl": "https://www.cbsnews.com/news/amazon-halo-fitness-tracker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/26/6ddaca42-fa82-4e40-ae52-dbccf9ef9b7e/thumbnail/1200x630/543468eeb5f3994a7083e78eea9d54d0/gettyimages-1359067593.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-halo-fitness-tracker/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-halo-fitness-tracker/",
+      "publishedDateTime": "2023-04-26T16:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-opinion-ai-research-needs-to-be-reined-in.md",
+      "title": "Opinion | AI research needs to be reined in",
+      "excerpt": "AI is dangerously unregulated as a research field, in a way few other fields are able ... This hype and market trend leads to companies with questionable track records, such as Facebook and Twitter, to cut corners in pursuit of profits.",
+      "sourceUrl": null,
+      "webUrl": "https://dailyiowan.com/2023/04/26/opinion-ai-research-needs-to-be-reined-in/",
+      "originalUrl": "https://dailyiowan.com/2023/04/26/opinion-ai-research-needs-to-be-reined-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailyiowan.com/wp-content/uploads/2023/03/ChatGPTBrainstrorming-900x600.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Univeristy of Iowa Daily Iowan",
+        "domain": "dailyiowan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-best-small-kitchen-appliance-deals-at-amazon.md",
+      "title": "Best small kitchen appliance deals at Amazon",
+      "excerpt": "Amazon's not the only place you'll find great deals on small kitchen appliances today. Way Day 2023 has arrived! But don't delay -- Way Day 2023 only lasts through April 27. These coveted kitchen ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/05/05/027b22c8-d67f-4e1e-92d2-2520dfcbdefb/thumbnail/1200x630/dabab5ca4c47e730f305e03a1201de75/kitchen-appliances-amazon-prime.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
+      "publishedDateTime": "2023-04-26T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-apple-to-expand-health-initiatives-with-ai-health-coach-report-says.md",
       "title": "Apple to Expand Health Initiatives With AI Health Coach, Report Says",
       "excerpt": "Users would be motivated to exercise, eat well and improve their sleep based on individualized plans from the service, according to a report.",
@@ -808,374 +1187,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-waymo-driverless-car-goes-viral-after-police-officer-directed-it-to-pull-over.md",
-      "title": "Waymo driverless car goes viral after police officer directed it to pull over",
-      "excerpt": "A screenshot of the viral video on TikTok showing driverless car passengers reacting to the police officer's guidance. TikTok/@johnnyromano3 A video of a driverless car reacting to a police ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
-      "originalUrl": "https://www.autoblog.com/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/2101x1182+0+355/resize/800x450!/format/jpg/quality/85/https://media.zenfs.com/en/insider_articles_922/a4e85d9a08813ade8083e13453f0e986",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
-      "publishedDateTime": "2023-04-26T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-stop-the-killer-robots-musk-backed-lobbyists-fight-to-save-europe-from-bad-ai.md",
-      "title": "Stop the killer robots! Musk-backed lobbyists fight to save Europe from bad AI",
-      "excerpt": "A lobby group backed by Elon Musk and associated with a controversial ideology popular among tech billionaires is fighting to prevent killer robots from terminating humanity, and it's taken hold of Europe's Artificial Intelligence Act to do so. The Future ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/",
-      "originalUrl": "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/11/28/iStock-610855316-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/amp/",
-      "publishedDateTime": "2023-04-26T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-cloud-scalability-scale-up-vs-scale-out.md",
-      "title": "Cloud scalability: Scale-up vs. scale-out",
-      "excerpt": "The difference between scaling up and scaling out, and how to determine which is the best strategy for you.\nThe post Cloud scalability: Scale-up vs. scale-out appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cloud-scalability-scale-up-vs-scale-out/",
-      "originalUrl": "https://www.ibm.com/blog/cloud-scalability-scale-up-vs-scale-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T06:23:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-chatgpt-how-to-use-the-ai-chatbot-thats-changing-everything.md",
-      "title": "ChatGPT: How to use the AI chatbot that’s changing everything",
-      "excerpt": "AI enthusiasts have compared it to the surge ... It runs on Microsoft’s Azure system infrastructure and is powered by Nvidia’s GPUs. ChatGPT recently launched a new version of its own ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 579,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "publishedDateTime": "2023-04-26T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work.md",
-      "title": "Self-driving cars will bring vital innovation to our roads – but we need new laws for it to work",
-      "excerpt": "Ben Everitt is the Conservative MP for Milton Keynes North The ‘Pop.up next’ concept flying car, a hybrid vehicle that blends a self-driving car and passenger drone by Audi, italdesign and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/",
-      "originalUrl": "https://www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2023/04/GettyImages-928219548-1-e1682430586738.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/?amp=1",
-      "publishedDateTime": "2023-04-26T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-jabil-is-building-reports-with-ibm-business-analytics-portfolio.md",
-      "title": "Jabil is building reports with IBM Business Analytics Portfolio",
-      "excerpt": "Learn how global supply chain expert Jabil is turning reporting change into business success with the IBM Business Analytics portfolio.\nThe post Jabil is building reports with IBM Business Analytics Portfolio appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/jabil-is-building-reports-with-ibm-business-analytics-portfolio/",
-      "originalUrl": "https://www.ibm.com/blog/jabil-is-building-reports-with-ibm-business-analytics-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/20220512_CaitOppermann_WorkingWorld_LA_473_02.l-e1682351784695.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-interprefy-unveils-next-generation-ai-event-translator-aivia.md",
-      "title": "Interprefy unveils next-generation AI event translator Aivia",
-      "excerpt": "Experience the full interactive Multichannel News Release here: Multilingual meeting technology and services provider Interprefy has today unveiled Interprefy Aivia, the world's first advanced automated speech translation service for online and live events,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/26/9802122.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/26/9802122.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
-          "width": 550,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-ai-could-spell-the-end-of-big-business.md",
-      "title": "AI Could Spell the End of Big Business",
-      "excerpt": "The leading companies in artificial intelligence tend to be small, and many big ones will use it to get smaller.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9rRKQiMCs54/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

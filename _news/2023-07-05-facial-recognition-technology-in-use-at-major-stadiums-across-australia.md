@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Indigenous Australians Minister Linda Burney comes under fire from Jacinta Price over claims of Voice independence"
+    excerpt: "Opposition indigenous affairs spokeswoman Jacinta Nampijinpa Price has hit back at “false” claims made by Linda Burney in her address to the National Press Club and accused the minister of trying to “muddy the water” of the Voice proposal."
+    publishedDateTime: 2023-07-05T09:18:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/indigenous-australians-minister-linda-burney-comes-under-fire-from-jacinta-price-over-claims-of-voice-independence/news-story/f0aebd213fe246c676bf07a6be9bb299"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/indigenous-australians-minister-linda-burney-comes-under-fire-from-jacinta-price-over-claims-of-voice-independence/news-story/f0aebd213fe246c676bf07a6be9bb299?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/indigenous-australians-minister-linda-burney-comes-under-fire-from-jacinta-price-over-claims-of-voice-independence/news-story/f0aebd213fe246c676bf07a6be9bb299?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 37
+    images:
+      - url: "https://content.api.news/v3/images/bin/a79b30eaeffaf9bf55baac59c0496356"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pro-Indigenous Voice to Parliament campaign records 20,000 attendees at Australia rallies"
     excerpt: "Thousands of Australians gathered on Sunday in support of the Yes vote for the upcoming Indigenous Voice to Parliament referendum later this year. The rally was organised by the campaign group"
     publishedDateTime: 2023-07-04T19:01:00Z

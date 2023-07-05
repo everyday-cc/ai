@@ -69,20 +69,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Generative AI company Inflection AI raises $1.3bn from Microsoft, Bill Gates, Eric Schmidt, & Nvidia"
-    excerpt: "Inflection AI raised $1.3 billion in a funding round led by Microsoft, Reid Hoffman, Bill Gates, Eric Schmidt, and Nvidia. The generative AI startup claims that it will build the largest AI cluster in the world comprising 22,"
-    publishedDateTime: 2023-06-30T16:38:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/generative-ai-company-inflection-ai-raises-13bn-from-microsoft-bill-gates-eric-schmidt-nvidia/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 41
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/96_OpenAI_DALLE_2_A_data_center_f.2e16d0ba.fill-1200x630.png"
-        width: 1024
-        height: 538
-        isCached: true
 
 secured: "L9+Og46Tkefn+Xaw7w/JoDQuw1Put7Hc2XF9n0oDOQ6fByK3Gwc+/cD+n8bH3ZrJ6YM0dC6sL7k0aYmstpMoGPMymUCraO+5ip9AVi/0zD9MZiwsZ5hvLXDEmmcMwaf+wvs5So9H1GxLNEyXwsJW8X+6zchNjmS8ofrzdcxrIApef3zLA8DP3xUz+CAhRSg36xCrgd1r80H/Ij95KPBksCKw9zhEiBKTsO1M2aF/CL61+zyzgfMgEEj+yUu22RBP0NZlwAUSdLHeJNfeeqxGKpnxufc2ppzqlYJqEEoib/u39wsOsBwC8kMqLF9eFHTxmZ54gg08TCr3DmvABRp26L5Ui+1XszeCvPvmWfSojZ1NYYaWt8GXTveJOMw9UPXWIR/9dXqa15zVT5lUpR9wmR88CPJU/UGewk9sXTs6S+Edo2l92Uyt/z2yMs7tvTuvxHtkdPm2rGjUfwrUEEgZ1vm2iYx/DPGsN6YMwmZftQe2rbZDAYT8r12Fey3pCWqkY0UuMp4lLiCK2n0FukY3UQ==;LoAEVzg9iD3AsikOXQiTUw=="
 ---

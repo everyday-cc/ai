@@ -30,7 +30,7 @@ related:
   - title: "AI Biomarker Approach for Prostate Cancer Therapy Shows Promise for Some Patients"
     excerpt: "Data from a new study validates the first-ever predictive AI biomarker of androgen deprivation therapy benefit in prostate cancer."
     publishedDateTime: 2023-07-03T08:45:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/ai-biomarker-approach-for-prostate-cancer-therapy-shows-promise-for-some-patients-375596"
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/ai-biomarker-approach-for-prostate-cancer-therapy-shows-promise-for-some-patients-375596"
     type: article
     provider:
       name: technologynetworks

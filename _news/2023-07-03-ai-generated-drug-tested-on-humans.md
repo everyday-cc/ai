@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/57186-ai-generated-drug-tested-on
 webUrl: "https://www.fudzilla.com/news/ai/57186-ai-generated-drug-tested-on-humans"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,63 +22,6 @@ images:
     width: 620
     height: 464
     isCached: true
-
-related:
-  - title: "The huge power and potential danger of AI-generated code"
-    excerpt: "Late last year, a team at Stanford University posted a research paper that looked at how using a code-generating AI assistant they built affects the quality of code that people produce. The researchers found that programmers getting AI suggestions tended to include more bugs in their final code—yet those with access to the tool tended to believe that their code was more secure."
-    publishedDateTime: 2023-06-30T16:42:00Z
-    webUrl: "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/"
-    ampWebUrl: "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-29-at-14-19-27-The-Huge-Power-and-Potential-Danger-of-AI-Generated-Code-640x311.png"
-        width: 640
-        height: 311
-        isCached: true
-  - title: "The Future Of AI-Powered Personalization: The Potential Of Choices"
-    excerpt: "In the ever-expanding digital landscape, where choices seem limitless, AI-powered personalization has emerged as a game-changer."
-    publishedDateTime: 2023-07-03T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61b218c1ca901f3c7454ff62/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 840
-        isCached: true
-  - title: "The real danger of AI isn't hyper-intelligence, it's human stupidity"
-    excerpt: "While AI is already proving a useful tool, there’s a risk we replace critical thinking with an alternative that’s really equipped for it."
-    publishedDateTime: 2023-07-03T14:00:00Z
-    webUrl: "https://www.androidauthority.com/ai-danger-human-stupidity-3340244/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/bing-chatgpt-chat-ai-icons-scaled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "My Greener Future: The pros and cons of AI"
-    excerpt: "President Franklin D. Roosevelt said at the beginning of World War II, “The only thing we have to fear is fear itself.” Well, he wasn’t facing the arrival of artificial intelligence. So, should we"
-    publishedDateTime: 2023-07-01T11:46:00Z
-    webUrl: "https://www.dailypress.com/2023/07/01/my-greener-future-the-pros-and-cons-of-ai/"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 19
 
 secured: "GaM/+MXqjEO/8BzC0YSgM4ZcXyrlsUPKzUxLL+fQrMg1vNfOCj9kigYUZnGVzIswdHmEMqtn+ymlhmBW+QWxGTgCP8/ZhPs7JCsRHG8uD2VC6LVZ98JkV23uSCvxeEMWqFqFJZUPLCoPskMkJAtSCNSR0/1d8nA2FKU9y1QWTSK0KTZsBtC6gRfgcal1+sARxqljBAbgt+KOKBkZcWCGJNYKnf7xmtIp9SFGqSvxC9PLRVbsg+3tCmp8tA3wX1czUU7bXY5dBFp3Nc+MTjkhDPR2YeKnD+AyzLCiFz0fNsdo8hBN5/6n3g6YxBBRwR8OM6KJHEeQoFWXiiY11vRD//cKfrVxMmtt0a+Ko6hQ+XA=;ZkCRlvzFr7tPWWv5uDmgJw=="
 ---

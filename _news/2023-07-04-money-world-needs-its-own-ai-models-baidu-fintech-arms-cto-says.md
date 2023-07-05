@@ -39,15 +39,6 @@ related:
         width: 529
         height: 315
         isCached: true
-  - title: "Latest Trends In Fintech - A Comprehensive Analysis"
-    excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
-    publishedDateTime: 2023-07-04T18:11:00Z
-    webUrl: "https://menafn.com/1106553250/Latest-Trends-In-Fintech-A-Comprehensive-Analysis"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "8CNgOZGzpEZDumHb/1stbrCa+w5zEnZKE5/5uaptKLqPKLdzh7rptLbtY9+89uP0lYApdYS2dhZOhC8auC7+bHqKFodlXcbJDdHQQM0OcwVTANoTIjOZCOdFu36DEK9zxmPpci7dM8EGy9Kgk0j8gUtRYRIgCFHawH4qR0eqw/iOS8FeyvDnaF8cRAj7gN7eZASKRxcZN7YTkwhhA7KBxw/eVsWPOS+DuZ3L/GFfoIkjPP+aQjkUoCk5akGMy9gcyEouVO2Q+XKO4pefXHhIZRW36O39nKxz2xsK+ntQABP9+4fY0KPGCayEgiDILQFAzMRRwysJOHpxexmUXlxvCAsF87vbyoZrPcHllKJpAnXrw2Hbud3turcsiHxXX2fBNsaYcA7+yxyRK9PSWBXwavNbI7Xvzh2EGr0DSSC03hXqkOT/c/n2BP0yA9suJRlVQyYCYcL6THtJS+ZlvLHpeXukDcRVKjmNaBQGL6csEva3cnG+n+OQwvHd5Gh9gGFyg8Wz2aljJFGKGamdKLP0Mg==;ytFYQZbqRHpK4p7//GKzkw=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-05-threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-151-by-2033-visiongain.md",
+      "title": "Threat Intelligence market is projected to grow at a CAGR of 15.1% by 2033: Visiongain",
+      "excerpt": "Visiongain has published a new report entitled Threat Intelligence Market Report 2023-2033: Forecasts by Deployment Mode (Cloud, On-premises), by Application (Security Information and Event Management (SIEM),",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33111353/threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-15-1-by-2033-visiongain",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33111353/threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-15-1-by-2033-visiongain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33111353",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33111353",
+      "publishedDateTime": "2023-07-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders.md",
       "title": "Is Artificial Intelligence A Goldmine Or A Minefield For Leaders?",
       "excerpt": "Atif Sheikh, founder of consultancy Businessfourzero and co-author of Every Team Actually Doing Business Better, believes that AI is both a goldmine and a minefield. “As leaders,” he says, “we are together going to have to figure out how to recover as much of the gold as possible, without all getting blown till kingdom come in the process.”",
@@ -959,17 +1002,17 @@
       "title": "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence",
       "excerpt": "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,",
       "sourceUrl": null,
-      "webUrl": "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/",
-      "originalUrl": "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/",
+      "webUrl": "https://time.com/collection-post/6284870/openai-disrupters/",
+      "originalUrl": "https://time.com/collection-post/6284870/openai-disrupters/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
+          "url": "https://api.time.com/wp-content/uploads/2023/06/time100-Companies-OpenAi-FBcrop.jpg?quality=85&w=1200&h=628&crop=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -979,7 +1022,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T03:55:00-07:00",
+      "publishedDateTime": "2023-06-21T05:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",
@@ -1317,49 +1360,6 @@
         "AI",
         "AI in Autos",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-opinion-the-human-bond-is-crucial-to-therapy-and-it-cant-be-replicated-by-ai.md",
-      "title": "Opinion: The human bond is crucial to therapy, and it can’t be replicated by AI",
-      "excerpt": "Recent advances in artificial intelligence have raised another round ... I suggest we can’t have a discussion about AI doing therapy without addressing the key role that human attachment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sandiegouniontribune.com/opinion/commentary/story/2023-06-19/opinion-ai-artificial-intelligence-therapy-human-connection-mental-health",
-      "originalUrl": "https://www.sandiegouniontribune.com/opinion/commentary/story/2023-06-19/opinion-ai-artificial-intelligence-therapy-human-connection-mental-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/06ae83f/2147483647/strip/true/crop/1360x714+55+0/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F26%2F0e%2Ffff49731484082ca84f58be4ceed%2Fistock-1465311361.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Diego Union-Tribune",
-        "domain": "sandiegouniontribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

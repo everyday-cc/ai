@@ -32,20 +32,6 @@ related:
         width: 995
         height: 716
         isCached: true
-  - title: "AMD's AI chips could match Nvidia's offerings, software firm says"
-    excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp , with a future path to matching their performance, according a Friday report by an AI software firm."
-    publishedDateTime: 2023-06-30T16:41:00Z
-    webUrl: "https://www.reuters.com/technology/amds-ai-chips-could-match-nvidias-offerings-software-firm-says-2023-06-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/mxKC5pRq-i0-ySt7PlHNvp0ZiLc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LTPJK24H2FPUXLGC3ATXP7PD6I.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AMD AI chips are nearly as fast as Nvidia's, MosaicML says"
     excerpt: "As Nvidia's recent surge in market capitalization clearly demonstrates, the AI industry is in desperate need of new hardware to train large language models (LLMs) and"
     publishedDateTime: 2023-07-03T16:16:00Z
@@ -59,20 +45,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-03-image-10.jpg"
         width: 2000
         height: 1231
-        isCached: true
-  - title: "Larry Ellison says Oracle plans to spend billions on Nvidia GPUs, even more on Ampere and AMD chips"
-    excerpt: "Oracle will spend billions of dollars to purchase Nvidia GPUs this year alone, driven by the rising demand for generative AI-based products, which require considerable hardware"
-    publishedDateTime: 2023-06-30T15:31:00Z
-    webUrl: "https://www.techspot.com/news/99260-oracle-plans-spend-billions-nvidia-gpus.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 70
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-30-image-9.jpg"
-        width: 2000
-        height: 1334
         isCached: true
   - title: "Japan Dreams of AI, Overtaking Nvidia and Universal Basic Income"
     excerpt: "Japan is laying the groundwork to become home to some of the world’s top companies in artificial intelligence, the country’s Economy Minister Yasutoshi Nishimura told a group of University of Tokyo students Tuesday."

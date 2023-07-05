@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/crypto-miners-seek-a-new-life-in-ai-b
 webUrl: "https://www.wsj.com/articles/crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining-92a181fd"
 type: article
 quality: 67
-heat: 79
+heat: 77
 published: true
 
 provider:

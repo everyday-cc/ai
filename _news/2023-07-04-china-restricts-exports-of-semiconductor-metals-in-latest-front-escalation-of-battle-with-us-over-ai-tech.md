@@ -60,6 +60,20 @@ related:
         width: 1270
         height: 713
         isCached: true
+  - title: "China looks to AI-generated chip design as US tightens EDA chokehold"
+    excerpt: "Scientists from the Institute of Computing Technology under Chinese Academy of Sciences have recently published a research paper showcasing capability to use AI in automating chip design. Titled \"Pushing the Limits of Machine Design: Automated CPU Design with AI\","
+    publishedDateTime: 2023-07-05T07:03:00Z
+    webUrl: "https://www.digitimes.com/news/a20230705VL205/ai-china-ic-design-distribution-risc-v.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230705vl205_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "China retaliates to US chip restrictions with export controls on vital tech metals gallium and germanium"
     excerpt: "As reported by Bloomberg, China's Ministry of Commerce said in a statement yesterday (Monday) that as of August 1, the exporters of gallium and germanium, as"
     publishedDateTime: 2023-07-04T15:38:00Z

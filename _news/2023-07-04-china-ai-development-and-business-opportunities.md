@@ -36,6 +36,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Kai-Fu Lee launches AI startup, calls large model a “historical opportunity” for China"
+    excerpt: "Kai-Fu Lee hopes the startup will develop a domestically-grown model capable of producing products similar to OpenAI’s ChatGPT."
+    publishedDateTime: 2023-07-05T08:38:00Z
+    webUrl: "https://technode.com/2023/07/05/kai-fu-lee-launches-ai-startup-calls-large-model-a-historical-opportunity-for-china/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 29
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/07/螢幕截圖-2023-07-04-下午9.29.56-1.png"
+        width: 2298
+        height: 1128
+        isCached: true
 
 secured: "CyEpSlZuEVuFj5A9PSX1EfDUypxqUvOH7t8CndC+LNhxfPRd7oYA1wGOlxi8sicBaGbCxEldy6e7/NMq+6VQKdiaxw0ArHBfI6N1Mykqd4DvpiucIo/F3lb+m/eDgAhEC8+6yiSwM205f6r3s+doTlHX1VBt/rOQJCER2dDzXtByFmkkvZdWcc3Ak2LsWd52SgZN00OolOBfg+IyfLWyJWXZuMXrQNaKB+8rVftFryvy5fVIqiQuXbNt53GP5HgYybK1xobGb8H+8s/Ivj7Oe6do+2J++zaPicVFU2Uh04WfKm3y/lFWjztGuIecmXTELz74p99JsJ2hWarn0dfCv2MyS08GrRmobVaDzfrNSmF0aQpywhhei+PSn2oJQQwss6JWOx+EhHQux+SidUdIjabzc2VSncoCE3w+faUj49f8KiC+wbBAOjTONXLts3Fuk/UYLzkYN3KFEenD+Cm/ITXzTzvh86EFFBdRj8MMERAg9ZI/uv486fsvnQgpyuH7AyjZ/eGCUtYITmrV7IWaQg==;56UaD8fF/UmJ03gBoav0yQ=="
 ---

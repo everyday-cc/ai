@@ -2,11 +2,13 @@
 category: news
 title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
 excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols"
-publishedDateTime: 2023-07-04T13:31:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660236"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660236"
+publishedDateTime: 2023-07-04T13:03:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
+webUrl: "https://abcnews.go.com/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/grammys-ceo-new-ai-guidelines-music-contains-ai-100660239"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
@@ -55,6 +57,6 @@ related:
         height: 465
         isCached: true
 
-secured: "plmB+DQZEh/3OwhUHX6V5/DyEGJvPUPtGcISWcVZVrBVajFgI2epEutwTQtCKkJg5NGoCGKC2R4QC+/cVexMQZ3LYbsGMP1nRbJPEDZoAdueMuFQZgX7CXqT2pcNx3DQl4emT5Ez67ZAi+eGLNkMYR6HCEoiAQRf7cxOgQS9bQxneSAcAaj171/mNy09Z9wlqYWcT6oSPIb5TytVAB9YZU2hdWeL9n5GOttPUPrh+i7WK/LiNZVDzKgP+2G/hpb/irTbZs8qtMe9Tf+srLvoHuD4CzjiIbV6bz2aYfv6uXnQtbnmJGWLOl7qrIVuxAfakBGYuhrYMp3RkzOxmVAQlIRGROPowimIQ7JabGGztiI=;paGU3XTq4LETanDCkJu7pQ=="
+secured: "cFnWmVcYpjcvQidriNSw6ISVtIJZl2TrZNETlSaR71TZb5wv7dOmXJazWcv952eGOCcIUCESVcf8iqRSX8sbWTlPLsWzIFXMEuKC7gYB3D0P7+JfRUq7Dz1suHGwYmAaKoYPJB4Ck5+ZZFlAFHN/oTW+7owguIIkuHrLpPNyq2zDHBm2O5pHGiCssI4swHMp78ch1gHJd5O0OoEV4R30rVb6sZQIwdl++8pZ1vj+8/HhTqJiMUs6Y2AtJx420NK12dEbwAvP5JudrG/BB3AAakVTa21ZK1xky4rr/HLFq6DxVAuL+K8Oxfy3clR6pqBp1UKoa66zfQTm1Ac+HI7WXaJLxbIQoIrpwTDzsSGKWZo=;6AOpCHNwD/arP2eSCFcmUA=="
 ---
 

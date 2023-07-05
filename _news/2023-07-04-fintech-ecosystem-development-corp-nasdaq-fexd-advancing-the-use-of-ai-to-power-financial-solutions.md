@@ -18,17 +18,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
-    excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
-    publishedDateTime: 2023-07-03T11:24:00Z
-    webUrl: "https://techbullion.com/fintech-revolution-a-deep-dive-into-how-technology-is-transforming-payday-loans/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
-
 secured: "HoSI8ubhC9t0n75hWYUFEdoDltUyLlGaZOTJf1SZfblbyhNmGcqf5l8mzMepHWIIv+Q4uvYzxdywe41IR9poa2kaJDdAs8RPdIOotFwa8Hrb0U3iPpNKPWy/A2GT7aSHOoTcicLIcwU5Mw2CR8FuIWkI0Sw5ejnQS5HEhpAXrG9sik1/w+BFPmg/44xQ4UxROiiKj//9wi26fmnf7UsS8p13VcXELen4cLjUEEzEoSDFD5+k0PDPjPMeooJhpRANj9CFsrOaOHQtsEmsE8ptQjlGl4W6ouxibJEmKHxgZLXPrMHYqj1KDgVGvDKuabcBLs+1AxEjMlRszjPzg/4OBnepy3U3gm8sHPV+c0yix9Y=;yBpjBmabqxHVHT60OCpXvg=="
 ---
 
