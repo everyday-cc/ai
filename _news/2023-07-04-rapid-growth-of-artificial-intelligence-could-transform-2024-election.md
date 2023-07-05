@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/news/nation-world/rapid-growth-of-artific
 webUrl: "https://www.stltoday.com/news/nation-world/rapid-growth-of-artificial-intelligence-could-transform-2024-election/video_5a5c96b4-8b7a-503a-8f64-c2c335de6c4b.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How AI Could Transform Travel—and How to Take Advantage of It"
+    excerpt: "The AI chatbot recommended several locations that fit the bill– including Puerto Rico, Charleston, S.C. and Palm Springs, Calif. Quillian, 31, had been to a few of the destinations before and knew they fit the description of what she had asked for."
+    publishedDateTime: 2023-07-05T11:00:00Z
+    webUrl: "https://time.com/6290940/ai-travel-industry/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "lwgR3r0E4PCsNQ4O68P6tRywCa8N6CxKbROf9IztkqLVKe6Cv08XUT1sYy0xu03Of41LTrJADLaoI2xQ5SJi72njoKgQ3N9BkUpQN0wmvjhIRWYEADJ7Eyy+e1TbTS1kG2pIpU1OcQu7uNSfTXUFit2PJs5uLOMy6sswx8MD/dRHa6KHZmK9iEjK1xHoh6ZNy9WpUhC3HkDVpRhL+lLUaS+GcCY42qp+gci9Xp7bEOs+5+5ygW4qmYeXuHKnDxS2nHIdAfiNc4IVXytf1b10f0qNAD+qJJFEFuWk2ojLR6KSAcWdc+PAgDK34GjTT3+5f9FGX7aq88pQCP681ELM2O5a45de0O+ZZV4ditxP/2MRJcXKqwji22HVR8QWzJGO4vSF2IbTabZ9aNQD8gGUlJ0yON0jsc6FqXyW6UB0kylqEYVbVI3pKzEYilBwdLPUxdS1XNKkotmpmao+8HaGvZFif2xfYHBMKBVXmHU6f/YFP43aKem7M3jeUuxyJ/cVArxM3k0c3AUN9eKeD01mBg==;BraiZdmHRDND+WXbnWAk9Q=="
 ---

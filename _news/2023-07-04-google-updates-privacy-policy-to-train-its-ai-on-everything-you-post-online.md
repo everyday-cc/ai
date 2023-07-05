@@ -65,6 +65,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Google Updates Privacy Policy to Train its AI for Online Posts"
+    excerpt: "Google discreetly revised its privacy policy over the weekend, which you most likely missed. Even if the policy's phrasing hasn't changed much from previously, it's enough to cause alarm"
+    publishedDateTime: 2023-07-05T11:31:00Z
+    webUrl: "https://www.pcquest.com/google-updates-privacy-policy-to-train-its-ai-for-online-posts/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 19
 
 secured: "nbG1RkX+05DYdZBp+UZ7oYCUUxKiMFyusHCeGrGEzC/lK0Pwgx+ICXGad1rNI7qTLdQuKJ1JFQjK835itLVyNHt0ug/tf8BUW/IUOy8V0xC8cOHeFBYExecDTycnlFkrsO+eUNg4BzNAv+8TBatayGSp57LtXFArmB1tN+huSS7WtaiEml0jtWZZZjZm12oEa3qt0FfS23bxtbaSrsWJsuFtoA/qezzQleFX7nZ0005QJm3WO8dqWyd8XfqDmJX/omBVfja8UT2BPexZU7ZpOnhmj9Z+R82Cu4p5CR/y7hBCeUNgBe5C3J1U07bjJOi7r8RyX8RxfsUWjAfrHEeZvcTQ+dPpRw0GDRzI2QXMyB+iXWryz8b5SHy9pimYPrWzv8xhuV0L9GiND0vvtMwcGVbWsg7y8+R4TI6KZyF1/moYVEI62ktnywh4Iw9oq7C7QOmgarkp+fUPVWMJFTHdaQQ7CEHCVqn2J8riXI9JGqQnjjKD3Tns1SiCrACuJfvk9wG7tRUjZ7puYFnvmQHDew==;kiPMfCDpxyo7yrU3sepOhw=="
 ---

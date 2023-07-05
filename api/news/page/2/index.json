@@ -2,6 +2,255 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-04-is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders.md",
+      "title": "Is Artificial Intelligence A Goldmine Or A Minefield For Leaders?",
+      "excerpt": "Atif Sheikh, founder of consultancy Businessfourzero and co-author of Every Team Actually Doing Business Better, believes that AI is both a goldmine and a minefield. “As leaders,” he says, “we are together going to have to figure out how to recover as much of the gold as possible, without all getting blown till kingdom come in the process.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a417c24dd81fd776b4ddd4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/amp/",
+      "publishedDateTime": "2023-07-04T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-china-to-tighten-control-on-exports-of-ai-chip-making-materials.md",
+      "title": "China to tighten control on exports of AI chip-making materials",
+      "excerpt": "According to Chinese officials, anyone wanting to export gallium or germanium products must receive a license from the government and comply with new export limits or else face punishment.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials",
+      "originalUrl": "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/66606f2a-ac65-441f-b002-136dda05c141.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp",
+      "publishedDateTime": "2023-07-04T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models.md",
+      "title": "Google's updated privacy policy states it can use public data to train its AI models",
+      "excerpt": "Google has updated its privacy policy to state that it can use publicly available data to help train its AI models..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html",
+      "originalUrl": "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/6L6HePy3d.EWSSl5xz0bjQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/583fa560-a703-11ed-9ded-448b8300fa76.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-data-scientists-describe-the-arduous-ai-powered-task-of-getting-amazons-alexa-to-speak-in-an-irish-lilt.md",
+      "title": "Data scientists describe the arduous, AI-powered task of getting Amazon's Alexa to speak in an Irish lilt",
+      "excerpt": "Two data scientists told The New York Times that text-to-speech AI models helped them overcome the difficulty of creating Irish Alexa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
+      "originalUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a36df34cc8540019cb52b0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
+      "publishedDateTime": "2023-07-03T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-ais-unexpected-role-helping-retain-not-replace-top-developers.md",
+      "title": "AI’s Unexpected Role: Helping Retain, Not Replace, Top Developers",
+      "excerpt": "Despite dire predictions that AI will take over software development, companies are buying new, AI-powered tools to help retain highly sought after senior developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/",
+      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a3526a952a8cfccfaef4a8/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/amp/",
+      "publishedDateTime": "2023-07-03T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-renatus-robotics-raises-2m-in-seed-funding-for-autonomous-logistics-solutions.md",
       "title": "Renatus Robotics raises $2M in seed funding for autonomous logistics solutions",
       "excerpt": "Renatus Robotics Inc., a logistics startup, has announced the successful closing of its initial seed round. The company secured $2 million in funding from e-commerce logistics company e-LogiT Co., ltd.",
@@ -96,49 +345,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-03-tsa-to-expand-its-facial-recognition-program-to-over-400-airports.md",
-      "title": "TSA to expand its facial recognition program to over 400 airports",
-      "excerpt": "The expansion comes amid allegations by rights advocates that the agency is improperly coercing travelers to participate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/critical-infrastructure/news/53065120/tsa-to-expand-its-facial-recognition-program-to-over-400-airports",
-      "originalUrl": "https://www.securityinfowatch.com/critical-infrastructure/news/53065120/tsa-to-expand-its-facial-recognition-program-to-over-400-airports",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/07/20230315_AMX_BIZ_TSA_CHIEF_SAYS_BIOMETRICS_AND_1_DA.64a2f21f6090f.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-03-humanes-aspiring-smartphone-killer-ai-pin-may-be-the-most-2023-product-yet.md",
       "title": "Humane's aspiring smartphone-killer 'Ai Pin' may be the most 2023 product yet",
       "excerpt": "The secretive start-up, founded by ex-Apple employees and backed by OpenAI's CEO, has named its AI-powered wearable launching later this year.",
@@ -147,7 +353,7 @@
       "originalUrl": "https://www.zdnet.com/article/humanes-aspiring-smartphone-killer-ai-pin-may-be-the-most-2023-product-yet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -334,49 +540,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study.md",
-      "title": "Automated deep learning AI tool with CT imaging facilitates screening for enlarged spleen: Study",
-      "excerpt": "USA: A research team from the US has derived a weight-based volumetric threshold for splenomegaly (spleen enlargement) using an automated AI-based tool. In their study published in the American Journal of Roentgenology,",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
-      "originalUrl": "https://medicaldialogues.in/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2023/07/01/213288-splenomegaly.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/automated-deep-learning-ai-tool-with-ct-imaging-facilitates-screening-for-enlarged-spleen-study-113806",
-      "publishedDateTime": "2023-07-03T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -588,7 +751,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -682,7 +845,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -839,7 +1002,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1061,145 +1224,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.md",
-      "title": "AI and ethics: Building trustworthy and transparent artificial intelligence systems",
-      "excerpt": "As AI technologies become increasingly sophisticated and pervasive, it is crucial to address the ethical considerations associated with their development and deployment. This article delves into the importance of ethics in AI and focuses on the imperative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Brain-image-3894384938.jpg",
-          "width": 1184,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
-      "publishedDateTime": "2023-07-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-global-x-etfs-icav-robotics-artificial-intelligence-ucits-etf-usd-botg.md",
-      "title": "Global X ETFS ICAV Robotics & Artificial Intelligence UCITS ETF USD (BOTG)",
-      "excerpt": "The selling price currently displayed is higher than the buying price. This can occur temporarily for a variety of reasons; shortly before the market opens, after the market closes or because of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hl.co.uk/shares/shares-search-results/g/global-x-robotics-and-artificial-intelligence/share-charts",
-      "originalUrl": "https://www.hl.co.uk/shares/shares-search-results/g/global-x-robotics-and-artificial-intelligence/share-charts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://chart.hl.co.uk/charts/chart.jsproto_large.chart?ID_SEDOL=BP6JFV1&WIDTH=1200&HEIGHT=630&TIME_SPAN=1Y&SUBSAMPLINGGRANULARITY=60&XAXISCLOSECOL=0&LINE_WIDTH=1&MOUNTAIN_COLOR1=a5b9d8&MOUNTAIN_COLOR2=c1cfe5&MOUNTAIN_COLOR3=c1cfe5&MOUNTAIN_COLOR4=ffffff&ID_NOTATION_COLOR1=25456b",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hargreaves Lansdown",
-        "domain": "hl.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining.md",
-      "title": "Crypto Miners Seek a New Life in AI Boom After an Implosion in Mining",
-      "excerpt": "Demand for high-end chips allows cryptocurrency companies to repurpose idle equipment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining-92a181fd",
-      "originalUrl": "https://www.wsj.com/articles/crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining-92a181fd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-810559/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-02T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

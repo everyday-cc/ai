@@ -48,22 +48,6 @@ related:
         width: 855
         height: 570
         isCached: true
-  - title: "How computers and artificial intelligence evolve together"
-    excerpt: "Co-design, that is, designing software and hardware simultaneously, is one way of attempting to meet the computing-power needs of today's artificial intelligence applications. Compilers, which translate instructions from one representation to another,"
-    publishedDateTime: 2023-06-30T17:15:00Z
-    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-computers-and-arti.jpg"
-        width: 660
-        height: 441
-        isCached: true
   - title: "How AI can help process waste and increase recycling"
     excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
     publishedDateTime: 2023-07-02T23:12:00Z

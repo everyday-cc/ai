@@ -7,8 +7,8 @@ originalUrl: "https://www.securityinfowatch.com/critical-infrastructure/news/530
 webUrl: "https://www.securityinfowatch.com/critical-infrastructure/news/53065120/tsa-to-expand-its-facial-recognition-program-to-over-400-airports"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Security
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "TSA plans for holiday air travel surge, advocates plan pushback on facial recognition"
-    excerpt: "TSA is anticipating screening 17.7 million passengers over seven-day peak travel period, 2.82 million of them on Friday, June 30 alone."
-    publishedDateTime: 2023-06-30T18:10:00Z
-    webUrl: "https://www.biometricupdate.com/202306/tsa-plans-for-holiday-air-travel-surge-advocates-plan-pushback-on-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 27
   - title: "ECJ hits Russia with human rights violations due to facial recognition use"
     excerpt: "The European Court of Human Rights decided unanimously that Russia is guilty of human rights violations due to use of facial-recognition to find a protestor."
     publishedDateTime: 2023-07-04T19:20:00Z

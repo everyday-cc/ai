@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/googles-updated-privacy-policy-states-it-
 webUrl: "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Google Updates Privacy Policy to Train its AI for Online Posts"
+    excerpt: "Google discreetly revised its privacy policy over the weekend, which you most likely missed. Even if the policy's phrasing hasn't changed much from previously, it's enough to cause alarm"
+    publishedDateTime: 2023-07-05T11:31:00Z
+    webUrl: "https://www.pcquest.com/google-updates-privacy-policy-to-train-its-ai-for-online-posts/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 19
 
 secured: "tgmdyr/+pH8I7BiEjQBQLhN0n24u6UbeH1Lee4rtO2QVWgO2HKBggmFHplVkaJTP/mleb4mc5QoSh17w3eLnsKAvvmk4LpZb9P+n82qHI5gM1L8U0rIx3JOBA039i+jHbVIDQmXb29QGvV15DxX8xeh0y396oohEkMpzz+jzSEv6TssiEyySdNXhSPDk/lgk8ljpAvwVbZTYM9QoIw1C0bvkM4RUOBxNLfSK+rn5dou78nP9iFk9sbI4VvGTdDPXKF2cYFQPZpFs2BJEraDyJpHmv+nMx3IL4yMaASV4AIc2JtMUXa+sdde+53AVyFFtWHJRxwRW0aedidacTe60JFdNayLcShJY6luqsEI+k3b76hBOtjogPmmot7dNuH/+y+srXqyJMiNq0WrJ/YlFgc71cHvsXAIvCe/4qjVAhx7hzrSK+cOpOQc9GEpWMyopQiXSS2jbma/UD1U1LLQUYRPUzIb52RpKvO2oQvCnp0Bax2kB5IxED735TcHQKcTB/I0tifPvjdpUxyBMzGqVWg==;lDU+Xfolk7C+blhGT/KXUw=="
 ---

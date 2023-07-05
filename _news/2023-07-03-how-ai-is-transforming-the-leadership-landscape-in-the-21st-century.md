@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Understanding assessment in the age of AI"
+    excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
+    publishedDateTime: 2023-07-05T10:08:00Z
+    webUrl: "https://www.cambridge.org/news-and-insights/news/understanding-assessment-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 39
+    images:
+      - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
+        width: 5500
+        height: 3667
         isCached: true
 
 secured: "+Mza1Ls+EIlKyj6t6FZqQDpVoADHC++B4gjTb0cFdkrVIF3XXH0uzwd1FEOVOwDhPBH7t+uslT/+1H8T0/2vXZK0OUGWQvIoYTsdi8qgeyJ6csguzdf//bDiZpXdLyANkQ0Fwz90dn6o3OeqipBLxpU/v2eIR4nQb6Cb84f1Wpfh1u1MDS3rE6kVFeVuHzbZ6l3euOYmCt6eEQOlPKsRSdqTZaJJU+Q5ofBp7Ktg4kkGPNuF0tT15tXCToFtlixm9JdL/mw8d8LRu1Ek5dGtVDuFDjeVsHsDX9PV4XfTrRCTI8H+r+IYP4JA6KQ/JhrveH0SpIKfhdSEr68RZzvAsmj6Y6/CuwIQD6Zeg8dEQ6Zvx+6aH+9k0oGBYVW7AwPSIXnGqq8P/72QeGTbKn4uqf2djQ2F61f+/Qoz+lHDpltAftgq8wUZ+HC2TJBnXKvj+a4I6RASXZrBOUwZdb1drcnE/OKLLeYkHRZzJq2t8lR0FZ0snpAq9E/sExcIWP+PXBzkHk3PJL/GrdBoPn+Zlg==;RbL6c1/ct8ofru7gb+Ytvg=="

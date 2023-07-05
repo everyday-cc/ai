@@ -2,6 +2,134 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-30-arteraai-announces-first-ever-ai-derived-biomarker-for-predicting-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.md",
+      "title": "ArteraAI Announces First-Ever AI-Derived Biomarker for Predicting Androgen Deprivation Therapy (ADT) Benefit in Prostate Cancer",
+      "excerpt": "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced today the publication of data in",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230629089773/en/ArteraAI-Announces-First-Ever-AI-Derived-Biomarker-for-Predicting-Androgen-Deprivation-Therapy-ADT-Benefit-in-Prostate-Cancer/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230629089773/en/ArteraAI-Announces-First-Ever-AI-Derived-Biomarker-for-Predicting-Androgen-Deprivation-Therapy-ADT-Benefit-in-Prostate-Cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-why-india-risks-falling-behind-in-the-ai-race.md",
+      "title": "Why India Risks Falling Behind in the AI Race",
+      "excerpt": "India’s tech industry is being less than bold in embracing artificial intelligence. It’s hoping to create solutions for corporate clients by building on top of somebody else’s investment in foundational technologies, hardly a strategy for pathbreaking success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKrCGrr9zSHg/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-researchers-teach-an-ai-to-write-better-chart-captions.md",
+      "title": "Researchers teach an AI to write better chart captions",
+      "excerpt": "Chart captions that explain complex trends and patterns are important for improving a reader's ability to comprehend and retain the data being presented. For people with visual disabilities, the information in a caption often provides their only means of understanding the chart.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-captions.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-captions.amp",
+      "publishedDateTime": "2023-06-29T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge.md",
       "title": "Runway draws fresh $141 million as next-level generative AI video begins to emerge",
       "excerpt": "Runway, one of the hottest generative AI startups with its text-to-image video tools, raised $141 million in new funding.",
@@ -153,6 +281,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-ai-service-robotics-d-a-ch.md",
+      "title": "AI Service Robotics - D-A-CH",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$0.42bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.46%, resulting in a market volume of US$1 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/d-a-ch",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/d-a-ch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1014,187 +1185,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era.md",
-      "title": "Why Startups Need An Old-School Approach To Talent Development In The AI Era",
-      "excerpt": "It was an era that took computers from room-sized systems that seemed to consume punch cards to something smaller and more usable. We were on the verge of enormous change, introducing computers into business processes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c36af10ee767e81facb6d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/",
-      "publishedDateTime": "2023-06-29T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone.md",
-      "title": "Wordly Wins Virtual Events Innovation Award and Passes 2 Million AI Translation User Milestone",
-      "excerpt": "Wordly, the leading provider of AI translation for meetings and ... the Wordly translation platform provides real-time translation into 30+ languages for in-person and virtual meetings and events.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33056781/wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33056781/wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33056781",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33056781",
-      "publishedDateTime": "2023-06-29T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight.md",
-      "title": "New AI Chip Export Rules Put Semiconductor Firms in Spotlight",
-      "excerpt": "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
-      "originalUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis.md",
-      "title": "Quantum-Inspired Tensor Networks Offer New Hope For The Climate Crisis",
-      "excerpt": "While the list of beneficial applications of quantum-inspired tensorized networks for deep learning is growing, it remains a nascent technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6419aa4ee9628c10ce0aff98/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/amp/",
-      "publishedDateTime": "2023-06-29T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How computers and artificial intelligence evolve together"
-    excerpt: "Co-design, that is, designing software and hardware simultaneously, is one way of attempting to meet the computing-power needs of today's artificial intelligence applications. Compilers, which translate instructions from one representation to another,"
-    publishedDateTime: 2023-06-30T17:15:00Z
-    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-computers-and-arti.jpg"
-        width: 660
-        height: 441
-        isCached: true
 
 secured: "zmucjPEGsrqbPkkmiYLJj0Agc1LGmQeg0jmmVwwDlNOslYJwMzNKCSW90faKo9LQwbQVGFe4yPLWk3e2c92pBsOCmvxSlrFIY5FYLb1JbO6D7VyHoXXcscetfsQNjmH3CQjMD8lYB0Q/yVVkmgRRLaqvFhDThLyASbQF+/KAkX2nT4D2Vfve41mqjFdYBzIyHk1Y4yj0LSikuAjjcUFvQEjpw/NKMGpPvBNrpLA0dttTLeKYBqin+Q/Q5fhVC82k8mYNbzVUu89SD9fnFlAVIkaNIEzMBFnrBB+cAVpA0OPaLspiLwOm24PwMt4dAjkEtEYOMdubFAb/O6T1AGCCCNhMYl1kLGrY+KNXaBkK8E8=;8TRlfOU4pOnH1l/2kybLtA=="
 ---

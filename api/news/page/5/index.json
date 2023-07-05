@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-30-tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.md",
+      "title": "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search",
+      "excerpt": "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search - Tech Mahindra, a leading provider of digital transformation, consulting, and business re-engineering services",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html",
+      "originalUrl": "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconindia.com/news/newsimages/VE9e54lJ.jpg",
+          "width": 570,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconIndia",
+        "domain": "siliconindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-the-best-movies-on-amazon-prime-video-july-2023.md",
+      "title": "The best movies on Amazon Prime Video (July 2023)",
+      "excerpt": "As with other streamers, movies are always coming and going on Amazon Prime Video. And while Prime Video’s original films are picking up more momentum, Amazon is still largely dependent on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/american-sniper-1.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "publishedDateTime": "2023-06-30T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-ai-image-generators-powerful-tech-marketers-should-be-using.md",
+      "title": "AI Image Generators: Powerful Tech Marketers Should Be Using",
+      "excerpt": "There is far more that marketers can accomplish with these tools beyond seeing what a pink cat with a crown driving a car might look like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649db7170b37026be90b96cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1057,
+          "height": 732,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/amp/",
+      "publishedDateTime": "2023-06-30T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-two-ways-ai-can-be-used-to-help-transform-insurance.md",
       "title": "Two Ways AI Can Be Used To Help Transform Insurance",
       "excerpt": "Whether insurers want to improve underwriting, risk management or both, AI is one solution to satisfying B2B customers while benefiting underwriters.",
@@ -1039,134 +1185,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-arteraai-announces-first-ever-ai-derived-biomarker-for-predicting-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.md",
-      "title": "ArteraAI Announces First-Ever AI-Derived Biomarker for Predicting Androgen Deprivation Therapy (ADT) Benefit in Prostate Cancer",
-      "excerpt": "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced today the publication of data in",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230629089773/en/ArteraAI-Announces-First-Ever-AI-Derived-Biomarker-for-Predicting-Androgen-Deprivation-Therapy-ADT-Benefit-in-Prostate-Cancer/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230629089773/en/ArteraAI-Announces-First-Ever-AI-Derived-Biomarker-for-Predicting-Androgen-Deprivation-Therapy-ADT-Benefit-in-Prostate-Cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-why-india-risks-falling-behind-in-the-ai-race.md",
-      "title": "Why India Risks Falling Behind in the AI Race",
-      "excerpt": "India’s tech industry is being less than bold in embracing artificial intelligence. It’s hoping to create solutions for corporate clients by building on top of somebody else’s investment in foundational technologies, hardly a strategy for pathbreaking success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKrCGrr9zSHg/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-researchers-teach-an-ai-to-write-better-chart-captions.md",
-      "title": "Researchers teach an AI to write better chart captions",
-      "excerpt": "Chart captions that explain complex trends and patterns are important for improving a reader's ability to comprehend and retain the data being presented. For people with visual disabilities, the information in a caption often provides their only means of understanding the chart.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-captions.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-captions.amp",
-      "publishedDateTime": "2023-06-29T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

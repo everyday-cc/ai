@@ -2,41 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-04-06-how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023.md",
-      "title": "How AI & Machine Learning Are Being Used By Financial Lenders in 2023",
-      "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) technologies continue to expand in their applications, uses and benefits for lenders and financial institutions. Because of this maturity and expanded adoption rate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023/",
-      "originalUrl": "https://www.unite.ai/how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-04-06-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
       "title": "Students use machine learning in lesson designed to reveal issues, promise of A.I.",
       "excerpt": "In a new study, researchers had 28 high school students create their own machine-learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
@@ -1206,6 +1171,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-machine-learning-operations-mlops-market-outlook-and-forecast-to-2030-with-top-countries-data.md",
+      "title": "Machine Learning Operations (MLOps) Market Outlook and Forecast to 2030 with Top Countries Data",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The \"Machine Learning Operations (MLOps) Market\" study describes how the technology industry is evolving and how major and emerging players ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-outlook-and-forecast-to-2030-with-top-countries-data-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-outlook-and-forecast-to-2030-with-top-countries-data-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

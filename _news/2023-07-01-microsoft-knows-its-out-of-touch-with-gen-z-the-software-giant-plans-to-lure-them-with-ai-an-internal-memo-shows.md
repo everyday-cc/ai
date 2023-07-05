@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is developing cutting-edge AI chips to 'close the gap' with AWS, internal documents show"
-    excerpt: "Documents released during the Federal Trade Commission's lawsuit against Microsoft confirm the company is working on its own AI chips."
-    publishedDateTime: 2023-06-30T17:25:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6"
+  - title: "Microsoft, TikTok give generative AI a sort of memory"
+    excerpt: "The programs use databases to beat ChatGPT at hundreds of turns of dialogue. The innovations can give any large language model ChatGPT-like abilities."
+    publishedDateTime: 2023-07-01T10:34:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 104
     images:
-      - url: "https://i.insider.com/649f0139fd8a3e00191220d5?width=1200&format=jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/40efaf31e076a7b5738d107834bb0317e0dbb0fa/2023/06/30/23a7542e-8178-46ab-9918-d592cb186aec/tiktok-memory-bot-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
   - title: "Microsoft’s First Generative AI Certificate Is Available for Free"
     excerpt: "Microsoft is also running a grant competition for ideas on using AI training in community building. Learn more."
@@ -105,24 +107,48 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Microsoft AI Will Help You Shop on Bing and Edge With Buying Guides, Reviews, Price Match"
-    excerpt: "Here's how to use new AI-infused tools for Microsoft's browser and search engine to shop till you drop online."
-    publishedDateTime: 2023-06-30T18:50:00Z
-    webUrl: "https://www.cnet.com/tech/microsoft-ai-will-help-you-shop-on-bing-and-edge-with-buying-guides-reviews-price-match/"
+  - title: "Microsoft Outlines Azure OpenAI Large Language Model Servicing"
+    excerpt: "Microsoft on Friday outlined how Azure OpenAI users can automatically keep up with the latest large language model updates, and also gave assurances about privacy issues."
+    publishedDateTime: 2023-06-30T23:30:00Z
+    webUrl: "https://redmondmag.com/articles/2023/06/30/azure-openai-model-servicing.aspx"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 55
-  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
-    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
-    publishedDateTime: 2023-06-30T18:07:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/30/9842393.htm"
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 69
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/170719BinaryBuildingGraphic.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft, Nvidia Invest In Ai Startup Inflection Ai"
+    excerpt: "san francisco: microsoft and nvidia were among a host of investors who took a stake in ai company inflection ai.<br /> <br /> the company rai"
+    publishedDateTime: 2023-07-01T10:16:00Z
+    webUrl: "https://menafn.com/1106541563/Microsoft-Nvidia-Invest-In-Ai-Startup-Inflection-Ai"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 42
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/01/TP_ee5b5image_story.jpg"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
+    excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
+    publishedDateTime: 2023-07-01T15:40:00Z
+    webUrl: "https://technosports.co.in/tech-mahindra-and-microsoft-collaborate/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 45
+    images:
+      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "Tx7X5ud722vm1HS6RlvVbnpXG1VjWXeW2VmM4Iz0f8FjapDocpGyXKWA3XAQCeDcW8saXwdNt0oerCVpXE3NlFQO7PlPNz8zCP6i/nCwUEqSsvo+KM8lwqax1zNuGp28qYD1CHnn5uE5kGjccVelheYQDwbLmKCelWDJ1MTByfX57wDzDQHmPrYqSWZ3RoSb8+Lx3/A/oLXn+jzIbYvPp94izUoHYpy2E3Ep9SK1t1FVpdRhMewSeWN6XOWkgFgqQeJj6PQ6hsytfcfzQ54r9EBALfMjc/zHrVXTfS1pfQwP0Y0lBkDCMj9e6mylX+MOlms5y+ekjfLYYL7IJCDNgc4O1WVvUDJgsJJR2p2ylhxiUPCDETY1Q4r5P2wCDGhlYBaEn4xG0tOquwhLb+lhRijmUDj5JJ2YwoTQvt5TAKjskacZOpV5vcgWev3qLZyZz1ka5eiMeGYq5S/XYY46rfX3Pqm3aCSZu2J7gjLHdH8blmiovjqrVP12nMaQFdCu8UNKtkmCSKCX4aBYjkUFgQ==;sJOPahYl0tsEMxEd/FDQFA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/uk/deals/ai-chatgpt-free-courses"
 webUrl: "https://mashable.com/uk/deals/ai-chatgpt-free-courses"
 type: article
 quality: 69
-heat: 159
+heat: 162
 published: true
 
 provider:

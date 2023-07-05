@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
-excerpt: "Singapore-based fintech company Dobin is a financial marketplace ... information combined with advanced data analytics and AI to provide personalised deals and product recommendations."
-publishedDateTime: 2023-06-30T14:26:00Z
-originalUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changing-ai-powered-solution-personal-finance"
-webUrl: "https://www.asiaone.com/business/fintech-dobin-brings-game-changing-ai-powered-solution-personal-finance"
+excerpt: "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;"
+publishedDateTime: 2023-06-30T14:40:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/DOBIN_Full_Colour.jpg?h=ce9c2370&itok=H42-wpD2"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "D6ApDzmDVHKLaZ6U5n5dwTAaiPdYHUGV89/1mCP+mFQxdzte8Cehij+gTWGsBtFqHw4FMhAtUUd3Lf3+qE8CpLOCk/DQ1QQcCdklozbFbALROA3rrVfe3U27CRrslQaDcIwNyCWvHNsnNu2URaUvONKv/ckc8TySrc0MmH6j/SXZZU+XAGaXA7wpXp8jOhXqG2izP5XwKc7Yy18FAHAvOTWLSoP6h8kloso/2lRN7l571rkxDc3zEnTTMfxW5i4bY/wDmivQjgGVsSrX1lugKB9Ximl6Q2gpMuZLD7/p5VdalKQyD1Oqnr7raDqvLI94FpnpGYPRZf60iWDaAgc7hO4t9XBhy6021AXj5A1nneM=;k4fTfCvby5izxLL6m3+kYw=="
+secured: "ljkViLii9bITQb8Py4IWoF0l8i1iB11xnKPtaVuwUAdc+nFlYxD6OQt4ZjhFJ6xeYBTK5ov9xoQdLcsQ2A66zoaX9flFsip+S7mpX2ryreUjbw+5E2ghzfybGd3SjU9ETHBBD5BdzF2YwW8y0iW8XYkAIyaPoi1NQU6ra6ySAJ97wU4PGfdEUwBUUP+//p07B+CfUUxqZVJ1jxtMw2lCCO9r7ZAlWMoMiphXbgOjW+iftTcp38U8C6Mc7Yg1uLs/hBet3RQNydy5sjcHMY2LcP/R1JHIbJBKRFOiZ/bIbYyTj2SBIIcY5Pm6Y7htFO0kVanTgVpGyL9I/5FXwvZp9gjTvrJQbrgF1PtxcZuYloQFWTLf7dxhoTEYATlBO0hgnlZzFjo72p6rvGzcxGJN04LqqsIE+ajcdoiioQ5tjowqR2v9tgWABt6mppuerD1BcMXBWmzOkxUery3E6Xywd6e0LiEJDChvWxzcFuq50rKz8JdHoFeRfVJIITrzlkHY5geKR353flYnSxIOZIjglg==;dotXZRypcY70ZCr7nnBpgA=="
 ---
 

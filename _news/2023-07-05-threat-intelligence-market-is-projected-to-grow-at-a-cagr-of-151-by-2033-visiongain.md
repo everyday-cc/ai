@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33111353"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33111353"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence In Computer Vision Market Size To Worth Usd 100.42 Billion By 2032 | Cagr Of 19.5%"
+    excerpt: "New York, United States , July 05, 2023 (GLOBE NEWSWIRE) -- The Global Artificial Intelligence In Computer Vision Market Size is to grow from USD 16.91 billion in 2022 to USD 100.42 billion by 2032, at a Compound Annual Growth Rate (CAGR) of 19."
+    publishedDateTime: 2023-07-05T10:52:00Z
+    webUrl: "https://menafn.com/1106556267/Global-Artificial-Intelligence-In-Computer-Vision-Market-Size-To-Worth-Usd-10042-Billion-By-2032-Cagr-Of-195"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?995995"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence (Ai) In Security Market: The Global Market Is Expected To Grow At A Cagr Of 13.20% During The Forecasted Period. X Herald"
     excerpt: "As per the study initiated by Evolve Business Intelligence, Artificial Intelligence (AI) in Security market size accounted for USD 20.44 billion in"
     publishedDateTime: 2023-07-04T21:26:00Z

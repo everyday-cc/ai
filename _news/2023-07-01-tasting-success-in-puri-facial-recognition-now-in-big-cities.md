@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tech boost to policing as facial recognition cameras keep track of criminals in Puri"
-    excerpt: "In a first in Odisha, the Puri police have introduced a facial recognition technology to track the movement of habitual offenders. Based on the feedb"
-    publishedDateTime: 2023-06-30T17:57:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/bhubaneswar/tech-boost-to-policing-as-facial-recognition-cameras-keep-track-of-criminals-in-puri/articleshow/101403163.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 12
 
 secured: "W8pzy45GcS0qqz2NNyZuFDNZYgyCybGBfYtyPc1F/X+ZQDkYGLPAdMRBNn4uIm8CMZ3X0HXe9PCj1X3RIC9oJDLkYgcZirp2n2PPBWdIw3RiJqyA/suIQ4HUAcVCBCPI6c72uTTyCNdP5SRfzBHJWSvOdhysxq3r3ZLKDLnpp+CWsntaXdUgntcw/XIOByA3VEsj4LXvkQVlqSD0QuMq49LZuIaWNUOmBFdo2ttdVeATrRdro0xg/olr/ZeHl6rEQVc8Dwx1jDVycAf1ZG45K8AmoE2qXvkf4w503Dfc330lZJFIbE/JaZhIffiJp5pNYrLcfej4LdHnch+snN4/nqKBozgXBDXITIbVU+1NANGdSUZxRarUYZpOeTnau4fJpHAZWh4JmBSCC3yfXGZ25x1880bB879+9Vx/suY93s7yQ628xb68pB9BUhzokc4F8+gzZEFeXZvaFO/BxMhx1zqu/PAeV6O1puvWmKzZ3w8BgiIvJCEUupzISW95sjopuS2V0753cxbq0FftY4Hvgw==;tBLuxr0hxZDYcfFX9enBnA=="
 ---

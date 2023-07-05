@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tech boost to policing as facial recognition cameras keep track of criminals in Puri"
-    excerpt: "In a first in Odisha, the Puri police have introduced a facial recognition technology to track the movement of habitual offenders. Based on the feedb"
-    publishedDateTime: 2023-06-30T17:57:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/bhubaneswar/tech-boost-to-policing-as-facial-recognition-cameras-keep-track-of-criminals-in-puri/articleshow/101403163.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 12
 
 secured: "bYM0iIllufof/x0WBD5S65apLSZScakXpQNYY4VA9ozNgG7KKqL/hsnKDv+ot1Uo18y+nJsnGk2Ma9MNYxaUnmhUuVL2w3foF5uSxclzUauOU/HmdfsKN0/WokglwaCrh2TqFlQNRTjKbbNJCSJpcKfzQtwzsO8yVBMeag3S/QnPkhn5CZZf1BLE4cpaHqDQzA8BLcKOSH/mb8C5MJM6/yMKh4GUiy6ib++ob5dDxE4ey4vUBJBBad+YJY2NPz3k02V1IWouEBJXLRsx387C/TcHKyQpfRJxa2Q8FtmQQtv5+J349VjCXTzYzbVVVFcXypLvKHOXZbh7+ugrLze3yGTkOgek6dy0krhssmIddBYG7VCKpONbjoX9KAtka/bnJQSYn5MPDb5qjdXphU7Din8uE4oKNb5p3XwJvb0Ivg8Ag4A/7D7lUwTeCWfxaRYXBjpNN3/Lg8M5UK2dEI17rz0gDo9kFYl2StIxmd19odZ4yq//i+6dgy05ICzN+CnHGV93cGyBVBLfpJgnBxgCUA==;GFLcgHf2fzdxAAnvOYx8Ww=="
 ---

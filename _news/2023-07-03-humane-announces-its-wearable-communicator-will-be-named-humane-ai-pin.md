@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Secretive hardware startup Humane’s first product is the Ai Pin"
-    excerpt: "Humane, the secretive startup co-founded by ex-Apple engineers and software developers, has revealed details about its first product, the Ai Pin."
-    publishedDateTime: 2023-06-30T18:41:00Z
-    webUrl: "https://techcrunch.com/2023/06/30/secretive-hardware-startup-humanes-first-product-is-the-ai-pin/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
 
 secured: "U7/CgLeYvxnN+EddKicIgXXqHHSc09UpsX6CKrdFMe0wTkE4xvVc+DAmiEu8N4axNTjuhlj5JsiJfq1z+VHDPTxmlMTKoU4Pl0ZTBPxUK+qwNCjES/y+x9z21CbYJstcykLvTY3n1hyvOCr3aIKkO4xiMlA55CYA4P4W87e4SFTFa3gzeFpyw0w0NTwf/AtEshkj+uFTSxt05EXlH9VWuqJMXtu14Rh8L/6aT3Q39gyaQBfTigQtJJMSJJOxflu+6roUXR/L1rdyQW8qZkQZSP6fpAY3vHKZERZznk/7rY+cOu9cI9LXfBz9Jv7Xf2sxhpXTs1jStQhZakQ/YIhPxJ3RB2V1oXvAoIo8IuqPF41Mk3f9oq6pECW1IiEDySeGRgd/yQSDd0SMZPmKyTBwVYVovvM4Jb8npwHR9GcwxGUblTaVem8C+sdyiu16iUgD4gMo+lHW9Oo6QM8YDHGjRWfQn9WOkd0sCrk/HZsNgf5UvvcXv9pOcTrKcyMAr8XohkpPVnlwfIApgSmynS+oNw==;0PHEnP+WHpZ9mo9pmaF11w=="
 ---

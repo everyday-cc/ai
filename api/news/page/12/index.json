@@ -2,6 +2,171 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-06-27-heres-how-robotics-in-healthcare-settings-could-reduce-wait-times.md",
+      "title": "Here’s how robotics in healthcare settings could reduce wait times",
+      "excerpt": "A Kitchener-based company is looking to address healthcare shortages through its artificial intelligence-powered robotics system.",
+      "sourceUrl": null,
+      "webUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
+      "originalUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/6/26/uw-1-6457025-1687824774541.png",
+          "width": 695,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology.md",
+      "title": "GeoX Partners with Insurity to Provide P&C Insurers with Enhanced Risk Assessment Using Machine Vision and Deep Learning Technology",
+      "excerpt": "From there, insurers can use the deep learning technology to accurately predict the properties ... For a limited time, Insurity is offering its customers discounted pricing for GeoX services. To learn more about Insurity’s partnership with GeoX and ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-this-self-driving-boat-maps-underwater-terrain.md",
+      "title": "This self-driving boat maps underwater terrain",
+      "excerpt": "Engineers concoct an easier way for scientists to study underwater topography. Step aside self-driving cars, self-driving boats are here -- and they can do more than take you on a cruise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230627225145.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230627225145.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-crypto-scams-are-going-to-ramp-up-with-the-rise-of-ai.md",
+      "title": "Crypto scams are going to ramp up with the rise of AI",
+      "excerpt": "You can expect crypto scams that rely on artificial intelligence to soar over the next couple of years, according to Felix Roemer.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/77b8df3b-07ba-4583-adc4-2da8cf180053.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
+      "publishedDateTime": "2023-06-26T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-get-ready-for-ai-powered-social-media-scams.md",
       "title": "Get Ready For AI-Powered Social Media Scams",
       "excerpt": "Over the last year, generative AI has helped social media managers create posts that seem like they were written by a copywriter not a bot.",
@@ -498,8 +663,8 @@
       "title": "How artificial intelligence will help, or hinder, your workforce",
       "excerpt": "AI tools can boost productivity, but business owners also should be mindful of certain risks.",
       "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/washington/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
-      "originalUrl": "https://www.bizjournals.com/washington/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
+      "webUrl": "https://www.bizjournals.com/albany/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
+      "originalUrl": "https://www.bizjournals.com/albany/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -998,213 +1163,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/jayadkisson/2023/06/26/artificial-intelligence-and-the-law-an-early-warning/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jayadkisson/2023/06/26/artificial-intelligence-and-the-law-an-early-warning/amp/",
       "publishedDateTime": "2023-06-26T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-bentoml-scores-9m-funding-to-expedite-ai-app-development.md",
-      "title": "BentoML scores $9M funding to expedite AI app development",
-      "excerpt": "Chaoyu Yang and his co-founders have built the AI development framework BentoML, which just announced a seed financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/",
-      "originalUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1224500457.jpg?resize=1200,886",
-          "width": 1200,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/",
-      "publishedDateTime": "2023-06-26T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai.md",
-      "title": "HPE GreenLake Large Language Models And IEEE Urges Ethical Use Of AI",
-      "excerpt": "HPE announced GreenLake AI Cloud for privately trained large language models. IEEE cautions that in addition to the good that it enables we must avoid AI for malicious applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6499b54a89da5466485d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1519,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/amp/",
-      "publishedDateTime": "2023-06-26T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-beyond-nvidia-does-ai-processing-gpus.md",
-      "title": "Beyond Nvidia: Does AI processing = GPUs?",
-      "excerpt": "With all the hype excitement around AI recently, we have noticed that most people have taken the default position that all AI workloads will always be",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99197-beyond-nvidia-does-ai-processing-gpus.html",
-      "originalUrl": "https://www.techspot.com/news/99197-beyond-nvidia-does-ai-processing-gpus.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-26-image-13.jpg",
-          "width": 4000,
-          "height": 2623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says.md",
-      "title": "AI Will Make 2024 Election A ‘Mess,’ Billionaire Ex-Google Chief Schmidt Says",
-      "excerpt": "Eric Schmidt, the former CEO of Google parent Alphabet, warned Monday that generative artificial intelligence will throw a wrench in upcoming elections, questioning social media companies’ ability to rein in false claims on the burgeoning technology amidst a tense political climate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/",
-      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6499ad61072e79e0d062d65b/0x0.jpg?format=jpg&crop=4000,2252,x0,y206,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/amp/",
-      "publishedDateTime": "2023-06-26T08:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -2,6 +2,264 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-05-spotify-ceos-startup-for-ai-powered-preventive-healthcare-raises-60m.md",
+      "title": "Spotify CEO’s startup for AI-powered preventive healthcare raises €60M",
+      "excerpt": "Spotify founder and CEO Daniel Ek’s preventive healthcare startup just received a very strong vote of confidence from venture capitalists. Earlier today, Neko Health announced it had raised €60mn in a",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/spotify-ceo-ai-powered-preventive-healthcare-startup-raises-60m",
+      "originalUrl": "https://thenextweb.com/news/spotify-ceo-ai-powered-preventive-healthcare-startup-raises-60m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FNekoHealth-e1688552255323.jpeg&signature=6c977a69c43ba9e724955902bd0e4093",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-how-ai-could-transform-traveland-how-to-take-advantage-of-it.md",
+      "title": "How AI Could Transform Travel—and How to Take Advantage of It",
+      "excerpt": "The AI chatbot recommended several locations that fit the bill– including Puerto Rico, Charleston, S.C. and Palm Springs, Calif. Quillian, 31, had been to a few of the destinations before and knew they fit the description of what she had asked for.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6290940/ai-travel-industry/",
+      "originalUrl": "https://time.com/6290940/ai-travel-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-ai-will-make-data-analysis-more-efficient-and-secure-for-retailers.md",
+      "title": "AI Will Make Data Analysis More Efficient And Secure For Retailers",
+      "excerpt": "4. Designing, building and deploying infrastructure to support generative AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/walterloeb/2023/07/05/ai-will-make-data-analysis-more-efficient-and-secure-for-retailers/",
+      "originalUrl": "https://www.forbes.com/sites/walterloeb/2023/07/05/ai-will-make-data-analysis-more-efficient-and-secure-for-retailers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a077b385298880465b6e16/0x0.jpg?format=jpg&crop=1657,932,x1328,y1348,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/walterloeb/2023/07/05/ai-will-make-data-analysis-more-efficient-and-secure-for-retailers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/07/05/ai-will-make-data-analysis-more-efficient-and-secure-for-retailers/amp/",
+      "publishedDateTime": "2023-07-05T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-ai-gold-rush-makes-basic-data-security-hygiene-critical.md",
+      "title": "AI gold rush makes basic data security hygiene critical",
+      "excerpt": "The obsession with all-things generative AI signals a need for business leaders to rethink their security approaches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-gold-rush-makes-basic-data-security-hygiene-critical/",
+      "originalUrl": "https://www.zdnet.com/article/ai-gold-rush-makes-basic-data-security-hygiene-critical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f168418935ca85080b9b20957bbe5564ddb523f3/2023/07/04/9d28a26e-bee3-4d5b-8102-d096b591c709/gettyimages-1437761046.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-gold-rush-makes-basic-data-security-hygiene-critical/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-gold-rush-makes-basic-data-security-hygiene-critical/",
+      "publishedDateTime": "2023-07-05T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-why-your-business-needs-a-chief-ai-officer.md",
+      "title": "Why Your Business Needs A Chief AI Officer",
+      "excerpt": "Even if your role can’t be replaced by artificial intelligence, it can be replaced by someone who knows how to use artificial intelligence. So get that someone on board.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5016333ccbb60b18aa486/0x0.jpg?format=jpg&crop=1536,863,x0,y101,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/amp/",
+      "publishedDateTime": "2023-07-05T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-are-your-google-docs-safe-from-ai-training.md",
       "title": "Are your Google Docs safe from AI training?",
       "excerpt": "With AI continuing it's slow rise to prominence, consumers are concerned their personal content is being used to train Google's generative service.",
@@ -266,7 +524,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33111353/threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-15-1-by-2033-visiongain",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -499,7 +757,7 @@
       "originalUrl": "https://mashable.com/uk/deals/ai-chatgpt-free-courses",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -792,7 +1050,7 @@
       "originalUrl": "https://www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -971,255 +1229,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders.md",
-      "title": "Is Artificial Intelligence A Goldmine Or A Minefield For Leaders?",
-      "excerpt": "Atif Sheikh, founder of consultancy Businessfourzero and co-author of Every Team Actually Doing Business Better, believes that AI is both a goldmine and a minefield. “As leaders,” he says, “we are together going to have to figure out how to recover as much of the gold as possible, without all getting blown till kingdom come in the process.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a417c24dd81fd776b4ddd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/amp/",
-      "publishedDateTime": "2023-07-04T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-china-to-tighten-control-on-exports-of-ai-chip-making-materials.md",
-      "title": "China to tighten control on exports of AI chip-making materials",
-      "excerpt": "According to Chinese officials, anyone wanting to export gallium or germanium products must receive a license from the government and comply with new export limits or else face punishment.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials",
-      "originalUrl": "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/66606f2a-ac65-441f-b002-136dda05c141.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp",
-      "publishedDateTime": "2023-07-04T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models.md",
-      "title": "Google's updated privacy policy states it can use public data to train its AI models",
-      "excerpt": "Google has updated its privacy policy to state that it can use publicly available data to help train its AI models..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html",
-      "originalUrl": "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/6L6HePy3d.EWSSl5xz0bjQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/583fa560-a703-11ed-9ded-448b8300fa76.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-data-scientists-describe-the-arduous-ai-powered-task-of-getting-amazons-alexa-to-speak-in-an-irish-lilt.md",
-      "title": "Data scientists describe the arduous, AI-powered task of getting Amazon's Alexa to speak in an Irish lilt",
-      "excerpt": "Two data scientists told The New York Times that text-to-speech AI models helped them overcome the difficulty of creating Irish Alexa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
-      "originalUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a36df34cc8540019cb52b0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
-      "publishedDateTime": "2023-07-03T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-ais-unexpected-role-helping-retain-not-replace-top-developers.md",
-      "title": "AI’s Unexpected Role: Helping Retain, Not Replace, Top Developers",
-      "excerpt": "Despite dire predictions that AI will take over software development, companies are buying new, AI-powered tools to help retain highly sought after senior developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a3526a952a8cfccfaef4a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/amp/",
-      "publishedDateTime": "2023-07-03T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

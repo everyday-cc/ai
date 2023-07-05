@@ -59,6 +59,20 @@ related:
         width: 1706
         height: 2560
         isCached: true
+  - title: "Understanding assessment in the age of AI"
+    excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
+    publishedDateTime: 2023-07-05T10:08:00Z
+    webUrl: "https://www.cambridge.org/news-and-insights/news/understanding-assessment-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 39
+    images:
+      - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
+        width: 5500
+        height: 3667
+        isCached: true
 
 secured: "kPpvhOlcv0OKpJOiZ8t6CoDSI9y0rhAtQ+yvj32bS0sfdAeBn4LKKvHkWU/9zsCL3eZuRarSFR26ea4dJP/QcXmlYPHji4AqWEcFEn9gTNzwibVZCqDTjcW/f4MKVtVuplCrNRh/N3eMKre42zBV27FZ4PgRNd/TDwOg7nU9f3ANusTzpkhVoaD995/W/cQjQKNDSpg+HhRB2sNqM9sWYMVbcKQwGVK0AoveQ7uty+9FdmUwCj17VqsSdeR6npWaHaBpev0rLDmQdFGj2jKSoQbA+P4BjvROFdbW16v8YxkvyHq/5n1vx5VX3RxtvzyTsTjZ+kv0hQ0XS+I75GLmB1Lr/naJMGw5/VdsjtiZUJoWH1QqVjlALnpDpIcKtxr7ywq9B4u+cldTTvUQuz0TiyR1msmlbATr2K5HnffIemO5VILAwn7pL1IGg9NfEGZQEQc4AKrsDB+qVeydaVDlkCU1hJeA0qnx5j+llKdCZ4IznsBQOpkQv9u7gxoXB/1wzUhjKjwNGNg0WYUeoZbb5A==;3Bu/B4O+igbXEDeODzrSFA=="
 ---

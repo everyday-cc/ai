@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-pe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3796,2530,x671,y0,safe&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How computers and artificial intelligence evolve together"
-    excerpt: "Co-design, that is, designing software and hardware simultaneously, is one way of attempting to meet the computing-power needs of today's artificial intelligence applications. Compilers, which translate instructions from one representation to another,"
-    publishedDateTime: 2023-06-30T17:15:00Z
-    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-computers-and-arti.jpg"
-        width: 660
-        height: 441
         isCached: true
   - title: "How AI can help process waste and increase recycling"
     excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."

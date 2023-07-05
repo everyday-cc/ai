@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

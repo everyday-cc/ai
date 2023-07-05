@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-03-ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.md",
+      "title": "AI and ethics: Building trustworthy and transparent artificial intelligence systems",
+      "excerpt": "As AI technologies become increasingly sophisticated and pervasive, it is crucial to address the ethical considerations associated with their development and deployment. This article delves into the importance of ethics in AI and focuses on the imperative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Brain-image-3894384938.jpg",
+          "width": 1184,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
+      "publishedDateTime": "2023-07-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining.md",
+      "title": "Crypto Miners Seek a New Life in AI Boom After an Implosion in Mining",
+      "excerpt": "Demand for high-end chips allows cryptocurrency companies to repurpose idle equipment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining-92a181fd",
+      "originalUrl": "https://www.wsj.com/articles/crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining-92a181fd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-810559/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-chatgpt-and-generative-ai-what-to-do-with-all-the-productivity.md",
       "title": "ChatGPT And Generative AI: What To Do With All The Productivity?",
       "excerpt": "A recent study by the National Bureau of Economic Research found that generative AI like ChatGPT can increase workforce productivity by an average of 14%. Some companies are already reporting productivity increases of up to 400% as a result of generative AI.",
@@ -113,7 +209,7 @@
       "originalUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -486,7 +582,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -667,7 +763,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/articleshow/101408716.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1012,6 +1108,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-01-draft-eu-artificial-intelligence-rules-could-hurt-europe-executives-say.md",
+      "title": "Draft EU artificial intelligence rules could hurt Europe, executives say",
+      "excerpt": "The proposed EU Artificial Intelligence legislation would jeopardise Europe's competitiveness and technological sovereignty, according to an open letter signed by more than 160 executives at companies ranging from Renault to Meta .",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/?ref=promptengineering.org",
+      "originalUrl": "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/?ref=promptengineering.org",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/BZZiDdK2-b6MMPX1dKB_GnxGIg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRI4RJLDVJNYLKQZNAH2FSAF4Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-techcrunch-roundup-vertical-ai-crypto-losses-decline-machine-learning-investor-survey.md",
       "title": "TechCrunch+ roundup: Vertical AI, crypto losses decline, machine learning investor survey",
       "excerpt": "We’re publishing on a lighter schedule to commemorate Independence Day, so I’ll return on Friday, July 7 with a new TC+ roundup.",
@@ -1061,163 +1208,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-ai-in-chip-design-where-does-cadence-stand.md",
-      "title": "AI in chip design: Where does Cadence stand?",
-      "excerpt": "In a preliminary interview with DIGITIMES Asia, the Cadence VP also shares his views on AI deployment in chip design and its implications for the company. According to Moore, Cadence already anticipated the growing role of AI in chip design approximately ten years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-where-does-cadence-stand-1032420971",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-where-does-cadence-stand-1032420971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2145220/image_800964_36161467.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy.md",
-      "title": "The EU Wants to Protect You From AI. Some Companies Aren't Happy",
-      "excerpt": "Tech and other executives say the EU's AI Act stifles competition during a critical time of technological development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/",
-      "originalUrl": "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/1bcd1a2f3d58e57809d2440b723a2d20e89d3d68/hub/2023/06/30/18b4a82a-874c-4f85-a2e8-c560a9890c6b/gettyimages-1468369907.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-microsoft-is-developing-cutting-edge-ai-chips-to-close-the-gap-with-aws-internal-documents-show.md",
-      "title": "Microsoft is developing cutting-edge AI chips to 'close the gap' with AWS, internal documents show",
-      "excerpt": "Documents released during the Federal Trade Commission's lawsuit against Microsoft confirm the company is working on its own AI chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6",
-      "originalUrl": "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/649f0139fd8a3e00191220d5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

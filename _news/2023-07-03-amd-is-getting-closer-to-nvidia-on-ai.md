@@ -95,24 +95,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "AMD's AI Chips Could Match Nvidia's Offerings, Software Firm Says"
-    excerpt: "Nvidia dominates the market for the powerful chips that are used to create ChatGPT and other AI services that have swept through the technology industry in recent months. The popularity of those services has pushed Nvidia's value past $1 trillion and led to a shortage of its chips that the Nvidia says it is working to resolve."
-    publishedDateTime: 2023-06-30T17:40:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-06-30/amds-ai-chips-could-match-nvidias-offerings-software-firm-says"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "Inflection AI Raises $1.3B From Hoffman, Gates and Nvidia"
-    excerpt: "Inflection AI, a startup that makes a “kind and supportive” chatbot called Pi, has raised $1.3 billion in one of the largest funding rounds of Silicon Valley’s current artificial intelligence frenzy."
-    publishedDateTime: 2023-06-30T17:29:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2023-06-30/inflection-ai-raises-1-3b-video"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "AMD's AI Chips Could Match Nvidia's Offerings"
     excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp, with a future path to matching their performance, according a Friday report by an AI software firm."
     publishedDateTime: 2023-07-02T19:48:00Z
@@ -131,24 +113,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
-  - title: "Bill Gates, Eric Schmidt and Nvidia Pour Cash Into AI Startup"
-    excerpt: "Anthropic AI, a barely two-year-old startup led by a founding researcher of Deepmind, has rounded up every power investor in generative A.I."
-    publishedDateTime: 2023-06-30T18:13:00Z
-    webUrl: "https://observer.com/2023/06/inflection-ai-fundraising-bill-gates-nvidia/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 17
-  - title: "Here's how Nvidia has stayed ahead in artificial intelligence"
-    excerpt: "\"I would say the volume is turned to 11 in terms of execution, but the method and way of working hasn’t changed,\" Nvidia's Ian Buck says of the company's artificial intelligence work."
-    publishedDateTime: 2023-06-30T17:53:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/30/nvidia-ian-buck-artificial-intelligence.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "k+xE/g58Wy7DrkculvskmUqJm/BXXWBL2bsAsc4QdYvOhnoh31WVKAdSLEyGkq/rxY9CK0Cm+zgr5W+BdCphdAK71Do+AZLEqT1q+O/kCQ7A6jmOH7qyCXWfsLIl76b15NQQGUgR8/6Rd2HDGfCix6wCMp/56xbE28vMIwZhZvdHp8Np2lf2OLJ/iDXRaRqzsckhDlNhCB53pRU7MxPapue4IzhTnvoMH8qyJwXkJPSHwtCZYkeuJeWZG0eEqF1fIBC+Iex0ME20bmGcgGiekfz0wVDb6vNcW35JnxffKzlfKF/UtHHnyDsxIqiHzVc4fwW94ouWpoVxTM45oOH1ZvR3hZL8AwI7nZXcDAnDnHM=;6M3L9Ejn4bzNzYtko7xHrw=="
 ---

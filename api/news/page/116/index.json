@@ -2,6 +2,195 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-04-24-why-companies-need-to-accelerate-data-warehousing-solution-modernization.md",
+      "title": "Why companies need to accelerate data warehousing solution modernization",
+      "excerpt": "Legacy data warehousing solutions cannot manage growing workloads. Leading companies know survival depends on adopting modern data warehousing solutions.\nThe post Why companies need to accelerate data warehousing solution modernization appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/why-companies-need-to-accelerate-data-warehousing-solution-modernization/",
+      "originalUrl": "https://www.ibm.com/blog/why-companies-need-to-accelerate-data-warehousing-solution-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world.md",
+      "title": "How Scalable UAVs And Mobile Robotics Can Do Good In The World",
+      "excerpt": "The potential for business use is significant, but even more interesting are the strategic ways modern UAVs can bring more good to our world. That can happen in a business context or across nonprofit and government sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ee2d7713ba05d84c171308/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/amp/",
+      "publishedDateTime": "2023-04-24T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education.md",
+      "title": "Britain sets up $125 million taskforce to drive AI in healthcare, education",
+      "excerpt": "The taskforce will help develop foundation models - a type of artificial intelligence (AI) used by chatbots like ChatGPT - for use in fields like healthcare and education",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/articleshow/99732037.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/articleshow/99732037.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/msid-99712095,imgsize-,width-600,height-450/.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/amp_articleshow/99732037.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/amp_articleshow/99732037.cms",
+      "publishedDateTime": "2023-04-24T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-5-crucial-components-of-an-ai-company.md",
+      "title": "5 Crucial Components Of An AI Company",
+      "excerpt": "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200",
+          "width": 1014,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
+      "publishedDateTime": "2023-04-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-how-ai-can-transform-the-software-engineering-process.md",
       "title": "How AI Can Transform The Software Engineering Process",
       "excerpt": "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future.",
@@ -1011,177 +1200,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-german-magazine-editor-fired-after-fake-ai-interview-with-formula-one-racer.md",
-      "title": "German Magazine Editor Fired After Fake AI Interview With Formula One Racer",
-      "excerpt": "Die Aktuelle ran a headline promising the first interview with Michael Schumacher since a 2013 accident, but the quotes attributed to Schumacher were produced by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/german-magazine-editor-fired-after-fake-michael-schumacher-ai-interview",
-      "originalUrl": "https://www.pcmag.com/news/german-magazine-editor-fired-after-fake-michael-schumacher-ai-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00AWAj8B566DggKwdiNsKlx-1.fit_lim.size_1200x630.v1682264705.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-meet-robin-umass-memorials-new-pediatric-robot.md",
-      "title": "Meet Robin, UMass Memorial’s new pediatric robot",
-      "excerpt": "UMass Memorial invited me to \"meet\" Robin, a new robot the hospital brought into the pediatric unit last October. Here what it was like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/boston/news/2023/04/23/meet-robin-umass-memorial-s-new-pediatric-robot.html",
-      "originalUrl": "https://www.bizjournals.com/boston/news/2023/04/23/meet-robin-umass-memorial-s-new-pediatric-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-self-driving-cars-autonomous-driving-levels-explained.md",
-      "title": "Self-driving cars: Autonomous driving levels explained",
-      "excerpt": "They have no autonomous or self-driving controls at all, with all aspects of driving needing to be taken care of by the driver, including reacting to hazards. Level 1: Level 1 autonomy is the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/sae-autonomous-driving-levels-explained/",
-      "originalUrl": "https://www.pocket-lint.com/sae-autonomous-driving-levels-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/143955-cars-feature-autonomous-vehicles-the-various-levels-of-autonomy-explained-image1-yfsj6ukbpj.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-baidu-future-ai-giant-with-improving-core-ad-business.md",
-      "title": "Baidu: Future AI Giant With Improving Core Ad Business",
-      "excerpt": "I like Baidu as the key enabler of AI adoption across industries in China, working on autonomous driving, ML/ AI cloud computing, and even chip design. Baidu recently leveraged its AI research ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4595821-baidu-bidu-future-ai-giant-improving-core-ad-business",
-      "originalUrl": "https://seekingalpha.com/article/4595821-baidu-bidu-future-ai-giant-improving-core-ad-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488987708/image_488987708.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

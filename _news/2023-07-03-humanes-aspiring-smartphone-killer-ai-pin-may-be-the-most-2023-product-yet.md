@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/humanes-aspiring-smartphone
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humanes-aspiring-smartphone-killer-ai-pin-may-be-the-most-2023-product-yet/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Secretive hardware startup Humane’s first product is the Ai Pin"
-    excerpt: "Humane, the secretive startup co-founded by ex-Apple engineers and software developers, has revealed details about its first product, the Ai Pin."
-    publishedDateTime: 2023-06-30T18:41:00Z
-    webUrl: "https://techcrunch.com/2023/06/30/secretive-hardware-startup-humanes-first-product-is-the-ai-pin/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
 
 secured: "c4MH5s4wQP7/Dg7/x95Bo9ZE6mVqaRo6Ui8eeh40MXXa2tyjtqZxeB9Asm+V3nKSboBIgfNEQMyNa5EEDv2GcCEY0hMwUA0BO7/MEKs70CFn7uG0DbDdMm56uYXlE5GlH0cbltb+6MrGu6k76iHouzNwEw52fQIzoIA/d13cmCaAvgGvgOzk2utNNRBOZjShi7Xq33VcS9/SqfB3vtZvjDSbu43M/EAOp7I7bACzF9Kdiae2FmSOihGpPnj7nd8cRkVtDn+3hzBvbvDbOeis9ct6Cl7dE7uSTA4JJQRwicHP0naXPlLJ0gWeNT+nUTKcSBTL0MM7dsqQSLlxFCqInKJuB2BTumsPfXyMCFZHtv7Ym/E12yVFiw4v8JTWE2KZ/75pkcjRYz0b6aB5PbkGbVrouE/1lZUBrNSJY6OtoDP5KowpMn6l7fiQa7H5pn4g/9KQwkcMmlJ32Wen9WSdrExR7HT/LGRJ4yFa/KWepe+W4NB+LPOkapAwZM048FHz7wOsgpNuVOpoYqvXQHU7jg==;Iz7h4DKVxgawswVtDGaypA=="
 ---
