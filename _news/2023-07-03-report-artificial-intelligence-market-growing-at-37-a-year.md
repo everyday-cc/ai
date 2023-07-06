@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2023/07/03/report-artificial-intelligence-m
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/03/report-artificial-intelligence-market-growing-at-37-a-year/?amp=1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: WRAL TechWire
@@ -39,6 +39,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/cloud.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "Ai In Computer Vision Market Intelligence Report: Profit-Oriented Business Decisions And Strategies For Industry Players"
+    excerpt: "AI in Computer Vision Market The global AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion"
+    publishedDateTime: 2023-07-06T07:24:00Z
+    webUrl: "https://menafn.com/1106561629/Ai-In-Computer-Vision-Market-Intelligence-Report-Profit-Oriented-Business-Decisions-And-Strategies-For-Industry-Players"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?363485"
+        width: 461
+        height: 250
         isCached: true
 
 secured: "87z8H7miuFf5uhnuGG9Mfa0oGVPKwR0lAQafiPo0phPEEIccP7zfTZmC/gnlBh+QOVemZy85aeglkAEJz2AQ01fmMYFwZC7VHuImcQZO4Y1snP35VXLO1PW5j0pWdl2psQe/Rsnz8kBHJKprf0SHtBvIPZI21ZjHv/ZFle8D2CJiOxCzrkHqM+wiHP6D8HQxXt0hqI0FDu/4HKstjNsbLr9u9AHpI6gUsE25HyueTpkQ7Xf+KIhDJXll2R7VCdS7KIbVzPw+87KBdIUdw64mL7jK2Ed4X4Ef3vt2ap/znI8WsTeYwRSeNXp+c7RYVq6POvQaqM3FTlWy8GuEO07wU4Xx8Z5JEjA3PyUUUQgMvTI=;9aoMPA7sQ8VNmfNDCVd+Mg=="

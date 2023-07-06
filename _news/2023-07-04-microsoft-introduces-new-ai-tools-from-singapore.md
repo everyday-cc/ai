@@ -57,6 +57,70 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "India’s TCS to train 25,000 associates on Microsoft’s Azure Open AI"
+    excerpt: "Indian IT services giant, Tata Consultancy Services (TCS), has deepened its partnership with internet major Microsoft and will train 25,000 associates to get them certified on Microsoft’s Azure Open AI."
+    publishedDateTime: 2023-07-06T06:54:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 89
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101536741,imgsize-51502,width-1200,height=765,overlay-ettelecom/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "TCS to get 25,000 employees trained in Microsoft's Azure Open AI"
+    excerpt: "It has also launched its Generative AI Enterprise Adoption offering, which uses a proprietary transformation framework to help clients with customer service, new business models and more."
+    publishedDateTime: 2023-07-06T06:47:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/tcs-to-get-25000-employees-trained-in-microsofts-azure-open-ai-10914261.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/tcs-to-get-25000-employees-trained-in-microsofts-azure-open-ai-10914261.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/tcs-to-get-25000-employees-trained-in-microsofts-azure-open-ai-10914261.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 89
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/800x-1-653x435.jpg"
+        width: 653
+        height: 435
+        isCached: true
+  - title: "TCS To Train 25,000 Engineers On Microsoft's Azure Open AI"
+    excerpt: "TCS launched its Generative AI Enterprise Adoption offering, combining contextual knowledge to empower clients in customer service and business models."
+    publishedDateTime: 2023-07-06T06:30:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/tcs-to-train-25000-engineers-on-microsofts-azure-open-ai-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/tcs-to-train-25000-engineers-on-microsofts-azure-open-ai-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/tcs-to-train-25000-engineers-on-microsofts-azure-open-ai-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 89
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/xrzej2ovdsn6mluq_1688624618.jpeg"
+        width: 768
+        height: 439
+        isCached: true
+  - title: "TCS to upskill 25,000 engineers on Microsoft's Azure Open AI"
+    excerpt: "The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space."
+    publishedDateTime: 2023-07-06T06:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/indias-tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai/articleshow/101536277.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/indias-tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai/amp_articleshow/101536277.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/indias-tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai/amp_articleshow/101536277.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 89
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-94338,msid-101536312/microsoft.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
     excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."
     publishedDateTime: 2023-07-03T07:00:00Z
@@ -82,6 +146,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
+  - title: "TCS partners Microsoft for generative AI solutions"
+    excerpt: "Tata Consultancy Services has deepened its partnership with Microsoft by announcing plans to significantly scale its Azure Open AI expertise, and launching its new Generative AI Enterprise Adoption offering on Microsoft Cloud to help customers jumpstart their generative AI journey."
+    publishedDateTime: 2023-07-06T06:39:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/tcs-partners-microsoft-for-generative-ai-solutions/article67048261.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/tcs-partners-microsoft-for-generative-ai-solutions/article67048261.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/tcs-partners-microsoft-for-generative-ai-solutions/article67048261.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
 
 secured: "O1G40om7dYl3PjKb6vYy1z+X0JfOyLjAjDr9IJPhpokFWNU1/FEjjxsngo72wgdEL4G2+cMEndS3t1IYhLL3w0pfgFjnXV9dQkOpVyqjkyWSg2a83N1fcvMm8vIMmmP46gmtzK5HtgBF0s+frxHp9g3NuJSOrh3xpEhHaRx0RafBqvSJ8KRy5ZX/JjLKRsBmAf6ViVfjH/XOWnBIKCBiMdJnEmaNIuG3Cr6TzrHDDq8gdlFQstr/WVVT2G15zijO+6Z6WgJtByPgl1VHoa5oI9i5UnsfKnpWHe5TMdq9knAej3MAv53myg5FPKPH4sLT722RKzR1swbkocYwskbRKys0fjKKAYWFHa36Kx8sZaYnO8R3jZADLlwUnN5BxaWH2oACa4QAZc28gkkwVbjik9fSfh9gPuptqXeJlv+ZUu18zvPko86VI/tH18Ditl3hfBY7/LM498Ah82KsJuoqSTPvCBtR1nFFWAaWYW2JxCCbekuOaJHCnzhlZKKcQzEHQISj3AwZVycu74qQzK42FA==;kQh6IXJqpik2q7zXnyJjHQ=="
 ---

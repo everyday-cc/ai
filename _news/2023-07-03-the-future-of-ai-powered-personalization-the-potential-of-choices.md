@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Revolutionising customer engagement: AI-ML capabilities for a personalised experience in Wealth Tech"
+    excerpt: "Over the past decade, there has been a significant shift in customer expectations. The rise of digitalization has propelled the importance of personalization and customized customer experiences to the forefront of achieving business success."
+    publishedDateTime: 2023-07-06T07:02:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 61
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/07/CoinSwitch-Ramakrishna-M-Senior-Director-Contact-Centre.jpeg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Parmy Olson: Your future AI will have multiple personalities"
     excerpt: "Chatbots aren’t just useful for writing essays and emails. Those designed to show empathy and retain memories about their users are already acting as personal guides. A man who recently"
     publishedDateTime: 2023-07-05T17:43:00Z

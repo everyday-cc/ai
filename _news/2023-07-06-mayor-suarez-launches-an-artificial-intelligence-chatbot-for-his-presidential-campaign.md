@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-excerpt: "A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him, marking yet another example of how generative AI tools are being used in 2024 presidential campaigns."
-publishedDateTime: 2023-07-06T01:13:00Z
-originalUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
-webUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
+excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about"
+publishedDateTime: 2023-07-05T21:13:00Z
+originalUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
+webUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
+ampWebUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
+cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 66
+heat: 76
+published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: WTVO
+  domain: mystateline.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/33/27/26/23950753/6/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2023/07/64a5ddb2475494.99392003.jpeg?w=1280"
+    width: 1280
+    height: 851
     isCached: true
 
 related:
@@ -41,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "zy6NM8dDBsQTdf40kZ1Z3FJOU7GkO2M+/DssSXe6XEf8u9Q+oyQP/tWpBTaFpI45YXAoNnjeFkVCQ2Gs26U+8LAMILoe7ugLq/tZQNPKb6Q2ULh+MEy+SgOF+4ktuJ+sptLd4Xftg5BuoOKKUbw+h3XXZIal4lR5ry7NIWvR5gmjE00bV5nAwK7wJUlRVdXaCAKN1TWfjbTx59dkH3BAzqrKGDeAB2bN1wvAX03i+7ltVCKpF/zAZT7SOlk1/yJSSYK71Iel9kHbGMsXRL2D/EGZ+TiFNb7/096h2zDDranZ2fJF0MV+hkQ7LP5WshmbbuGNU7TeDHUzfSRfE/Id7zIIfS7wagM2oi+VdxGhuDo=;U8pnIfB7+lQqsT3QEbZrCg=="
+secured: "NWL2QqFB8Fn+MJ/eQTn1BwDsCw7m2Gi033q9lxmXMYkqHunoYRYOt+wcS85XSpZgjRuhRgN386eYm1q6DhFDKRfikGSfrxE4wz1KxGty0YjAhrxDNRWbpsG/JpGya/LqPaHMPSIx/kwPlTyNBC0iwSVzFqq70t54Gk8qSGcYpZGttKPP30pgxBWHs7iKIL9YBH+xVBTeKfGmVU4vc6osQTnR11Pgv0spcHDXIZQ9Ecb1wW9Cfv7T3kfejuMMSJHqQpyDqAJYz6ssUGjP9EdM6KvX77vq5/cFnraO1W1gRM7Zb7+XrHAoNMNOyogRhkjbd3KyUXIH1CYhYpy1YENxBrwUmAYpSOBB4piV0le/DmY=;yHZ3v+4/Lqg6TJIsS77Qcg=="
 ---
 

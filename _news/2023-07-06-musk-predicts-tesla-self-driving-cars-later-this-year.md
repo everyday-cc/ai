@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Will Tesla achieve full self-driving technology this year? Elon Musk says…"
+    excerpt: "Elon Musk admitted that he had been wrong in previous predictions on this timeline, but added: \"I feel like we're closer to it than we ever have been.\""
+    publishedDateTime: 2023-07-06T04:04:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958.html"
+    ampWebUrl: "https://www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/07/06/1600x900/FILES-US-AUTOMOBILE-EARNINGS-TESLA-0_1688615915407_1688615928897.jpg"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "Elon Musk predicts Tesla self-driving cars may come 'later this year': Report"
     excerpt: "Premium Tesla CEO Elon Musk addressed an audience at the opening ceremony of an artificial intelligence conference in Shanghai via video link . (moto1.com) \"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving ..."
     publishedDateTime: 2023-07-06T05:38:00Z
@@ -58,6 +74,6 @@ related:
         height: 338
         isCached: true
 
-secured: "CLy0L5Gss7Y4KHVBatvaCD49kEs+yCtRwa4pMKb8kMrOc5Ab4oMKQnbav8r23rHZG2rX67VC6b7qitGybSZCngCh6VRqCw/y0P2w5QvFsRBlJXMSs0PyvQh1q1A7PCvLFyrq9wsezqiUi7CrGnlEmQ4DLc8y+pUBY2wjUimTcMejvzWB12U7w0eVyQivdu9gWqmSixKsvdwx6/DbobkGYNqp87RWd+4t9YoR+ThoWdDMqA9CIxNvMp8vzNDvcuNCgKaokyJL1a+g63REG7RsWDzrXDHUBh1e/Bpu6xmBKbc5uyBUWk0sba8I2wwH8psTamjg5T4IJRDQR8RU2TYbUT3QKqwYHgjORRCW/xANYXw=;NvLiLIP6Q4popea3jvWnoA=="
+secured: "PQ+M34FeQAoQX2ccl5XyWuTRRx1aGne8R7LNKtHPOsXpH7JvdGU17oflGwi6A6NV0Fu98TCK74VpIVmprtcfOzh8yz06WyQYnVK7pU6kQ9QrRB+kIHLZPhNbVli7BgyQK1plOIuCqEGph6cXpuLx30+9zJVrzJK1EgOtWerMT2SUzFLimys7lz5hvH29BEy71d6QvoS6PjY5soB+Dyu4RgnCxl7EQPhvPWkWRqDwIn7bxzK83OjpMe7Hg6eVtT4dlrKp0laQuq+4JeXO9kLzJr/sVB8QNGhhbl8NY+X8z+EWfGN3HD28KEmdWhgW3dIb3PuNiFFoVQt9Jg0cWCIXB9jRPFTlWAEggYIZnjWxOL5exIb1nswMYLJ1f3f9MEXsmRYydsZQwenZSAiE3ivckFUEjYC8VAIE/CW4LXE7aqFgYjfyfsF/zLA4K6JCnm5gKh3bMWcH2zxDJS6IaFU8jY7tSX2XRr6lusnCpqfdDoZJWloFVwMkiKGSnsCcl9hB3/MNbkaHHE8ViM1Y7xUSig==;C1DG6CP29cGYp5jBGJ35QQ=="
 ---
 

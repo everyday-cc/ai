@@ -41,6 +41,20 @@ related:
         width: 772
         height: 434
         isCached: true
+  - title: "Ai In Computer Vision Market Intelligence Report: Profit-Oriented Business Decisions And Strategies For Industry Players"
+    excerpt: "AI in Computer Vision Market The global AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion"
+    publishedDateTime: 2023-07-06T07:24:00Z
+    webUrl: "https://menafn.com/1106561629/Ai-In-Computer-Vision-Market-Intelligence-Report-Profit-Oriented-Business-Decisions-And-Strategies-For-Industry-Players"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?363485"
+        width: 461
+        height: 250
+        isCached: true
 
 secured: "19Z9kQqrsstFIlIw8Riv+rsILWZs+B06Or+c2/VLmmGs63yp8ie92qzeoSly5q6KitQcI2ZGLIRWEfwzGj9QV1b5dCawBwEcZ0Wt3Uy2Q6wXy+L3S6NcWuplNfF+LKNDXG1REln1yrbq0tDNHQXzeJeuAeyMGeZPLrvAWGDxMf/63kLzYv43MizJ+TmBYIvOZKh5d0o3NFIwNCf+dDQIrw+lh9GFk1PkJo67KFlWB5YNthfe4EcmK6+dPAqVzXL+/pPh5CkPYCTi/xu+sWO4rVHCcIqf225IhvyX02oNS/veMN1zUTZ8+wnM5m4kDNdQK1jJ2tAE6V2CYvFMgxaMI0m4ollvew6czSZx36yPfrk=;PGec9SjdZBLMAt+RT5iDeA=="
 ---

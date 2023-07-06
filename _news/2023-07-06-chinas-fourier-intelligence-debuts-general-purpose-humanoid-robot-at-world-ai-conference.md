@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-06T04:08:00Z
 originalUrl: "https://www.yicaiglobal.com/news/20230706-04-chinas-fourier-intelligence-debuts-general-purpose-humanoid-robot-at-world-ai-conference"
 webUrl: "https://www.yicaiglobal.com/news/20230706-04-chinas-fourier-intelligence-debuts-general-purpose-humanoid-robot-at-world-ai-conference"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "http://img.yicaiglobal.com/src/image/2023/07/27259387228869.jpg"

@@ -57,6 +57,22 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "Will Tesla achieve full self-driving technology this year? Elon Musk says…"
+    excerpt: "Elon Musk admitted that he had been wrong in previous predictions on this timeline, but added: \"I feel like we're closer to it than we ever have been.\""
+    publishedDateTime: 2023-07-06T04:04:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958.html"
+    ampWebUrl: "https://www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/07/06/1600x900/FILES-US-AUTOMOBILE-EARNINGS-TESLA-0_1688615915407_1688615928897.jpg"
+        width: 1599
+        height: 900
+        isCached: true
 
 secured: "U7IvzGxtx/F8RFE8hlwznrdaXMl2qHn0pNa555fbfoRayxDQFrvF1AAN83hcvdqj25WbMHFQyuvv/kcLjUQB9yYPFfTgIKjX/1A4omiWKxPQ9x2Lgi2No8R200s4jMoe9ZxN4mAaZ9bNIWaFnHGN/X70sxTZuObEJzcbLlUeSCbrMYGwIpwpDBchQt38VVkNx99we4Ijcd6cy3ko/O45okFFrzkXO1DNSctUucoXbBt0wK4rZr8cQPyuMs7muC4RBQ3qVDG0mo/Gqhgw3d8uAxFdLPa90nSNf1V+0qMgCbD+jmo7ShIX3DPRprnjRRSPv8LpT0MPISnRuBts/Bgsnb0I4rCVoZCLmP5+P+v+Ilo=;tIwXSqz5ViHIe76psfgKng=="
 ---

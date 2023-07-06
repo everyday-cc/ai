@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/investors-spurn-dividend-paying-stock
 webUrl: "https://www.wsj.com/articles/investors-spurn-dividend-paying-stocks-as-ai-booms-344f431d"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 AI Stocks That Have Big Investors Running for the Exit"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence trade appears to be fading, meaning"
+    publishedDateTime: 2023-07-03T10:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-have-big-investors-running-for-the-exit-1032423115"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "4 AI stocks to invest in"
     excerpt: "Artificial intelligence (AI) is a fast growing sector, but how can investors profit? We look at 4 AI stocks to invest in"
     publishedDateTime: 2023-07-05T15:29:00Z

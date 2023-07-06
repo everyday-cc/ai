@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
-publishedDateTime: 2023-07-06T05:00:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+title: "Elon Musk predicts Tesla self-driving cars 'later this year'"
+excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone. \"In terms of where Tesla is at this stage,"
+publishedDateTime: 2023-07-06T05:54:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
-    width: 1240
-    height: 826
+  - url: "https://th-i.thgim.com/public/incoming/3007p2/article67048051.ece/alternates/FREE_1200/2023-06-24T170512Z_85981581_RC2SP1AFUMP2_RTRMADP_3_MUSK-ZUCKERBERG-FIGHT.JPG"
+    width: 1200
+    height: 801
     isCached: true
 
 related:
@@ -41,7 +43,21 @@ related:
         width: 700
         height: 437
         isCached: true
+  - title: "Go slower on self-driving cars"
+    excerpt: "Star Tribune Opinion publishes a mix of national and local commentaries online and in print each day. To contribute, click here. ••• Self-driving cars"
+    publishedDateTime: 2023-07-02T22:00:00Z
+    webUrl: "https://www.startribune.com/go-slower-on-self-driving-cars/600287017/"
+    type: article
+    provider:
+      name: Star Tribune
+      domain: startribune.com
+    quality: 24
+    images:
+      - url: "https://chorus.stimg.co/24763507/merlin_70425261.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "55+ZaprWAGf7GaC4f0eBHJ6SeZWkq6URdh2ndyTrSkg+fQUQlHIro6INVFVOajbQUDOuFMjZLFo5js0CKoGaU7wTe/Ktwhwz4RgHmpryRSNM12pMGjbzoDNu4Ae5ImlGz2EtjwLm+AYdugD+z4zgwtn+jVl3nKIBrDqY5/e03Zke8EYdauhWkL8PgDW2AOXD00ocBT3Vl436YYAPqeNL+VqzEX0XZPawpTkBtouKY+ScwyiXzFMqDx70tAuSIdgckUF6pKRr4IEHK8O5XIfzb6vBDbyJhbEc/xQ7Zrn4UKVNMRvMQMcFsWBlrBEPaOAjZ9lr1Hwh6Qli1N5Ml/xVq3FvaTe+wboEq75QFpfAOrU=;uy4JKotnWq+e7Oviz5zIhw=="
+secured: "5d8kZ/ldMh6XG5WV9rRr6CSrBgKoDoJ7VKhtFafrUPMjC9ntQCPmWzedD8ixi0N6U4ggdUOo/o03LPf18BrfOmfVGuAbhXo9/gha5oE8nC17RSSbTNv1Ji0/eqEivCPfXtC0rkwRvjKbZx1c4TqZcCf8KYVrVeZMr7TIFG2LyVm4TEeooSBMPNO7aqg5V9wpL7fB2EH2TXxTgi95Vrmh6d1aTeF8sd3v1gVwY537IXz9TzmJ1iEr5/7eo0AlJwbfGnMTmLsDqwS1Jxjy6JOT8kJpSa1Htr4u3wDKLpNf02iQ7snn+tzq3WInFe06Mxmzpzkx1sJYmdw9Hc3YYtC2VTGYfHQHONqxsR9iaNGT44k=;KIcY9L+tUsBKKuWL/jXmCQ=="
 ---
 

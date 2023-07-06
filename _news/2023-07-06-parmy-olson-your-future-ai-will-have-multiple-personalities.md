@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 840
         isCached: true
+  - title: "Revolutionising customer engagement: AI-ML capabilities for a personalised experience in Wealth Tech"
+    excerpt: "Over the past decade, there has been a significant shift in customer expectations. The rise of digitalization has propelled the importance of personalization and customized customer experiences to the forefront of achieving business success."
+    publishedDateTime: 2023-07-06T07:02:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 61
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/07/CoinSwitch-Ramakrishna-M-Senior-Director-Contact-Centre.jpeg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Community Conversation: “AI is as important to the future of national security as the invention of the airplane.”"
     excerpt: "On Wednesday, June 28, the Dayton Daily News held a Community Conversation on the Dayton Daily News Facebook Page to discuss how artificial intelligence might affect the future of the Miami Valley. The event was co-hosted by Community Impact Editor Nick Hrkman and reporter London Bishop."
     publishedDateTime: 2023-07-02T09:00:00Z

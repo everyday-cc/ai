@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/07/03/tesla-valuing-full-self-driving-hig
 webUrl: "https://electrek.co/2023/07/03/tesla-valuing-full-self-driving-high-when-convenient/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.barrons.com/asset/external-media/afp/AFP8259960226130620083595855329811169866700---1.jpg"
         width: 768
         height: 511
+        isCached: true
+  - title: "Will Tesla achieve full self-driving technology this year? Elon Musk says…"
+    excerpt: "Elon Musk admitted that he had been wrong in previous predictions on this timeline, but added: \"I feel like we're closer to it than we ever have been.\""
+    publishedDateTime: 2023-07-06T04:04:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958.html"
+    ampWebUrl: "https://www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/07/06/1600x900/FILES-US-AUTOMOBILE-EARNINGS-TESLA-0_1688615915407_1688615928897.jpg"
+        width: 1599
+        height: 900
         isCached: true
   - title: "Elon Musk predicts Tesla self-driving cars may come 'later this year': Report"
     excerpt: "Premium Tesla CEO Elon Musk addressed an audience at the opening ceremony of an artificial intelligence conference in Shanghai via video link . (moto1.com) \"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving ..."

@@ -61,7 +61,7 @@ related:
     provider:
       name: Yicai Global
       domain: yicaiglobal.com
-    quality: 45
+    quality: 47
     images:
       - url: "http://img.yicaiglobal.com/src/image/2023/07/27259387228869.jpg"
         width: 770
