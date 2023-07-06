@@ -36,6 +36,22 @@ related:
       name: Philippine Daily Inquirer
       domain: inquirer.net
     quality: 54
+  - title: "Protein Industries Canada issues $10 million call for food-focused artificial intelligence projects"
+    excerpt: "As Protein Industries Canada amps up its investment into artificial intelligence technology, it's increasing its focus on novel AI that will accelerate the"
+    publishedDateTime: 2023-07-06T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33135955/protein-industries-canada-issues-10-million-call-for-food-focused-artificial-intelligence-projects"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33135955"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33135955"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "4Bo3HX2iKxyuKDcwEI+yrdhAckmfCvDKCUBTLbv46SYSSDiMCp5phFUBbpv9C4eMzcw+8JgnkolhSjsUfSFNg/GunYvnm5UsLAQohM0uHqA/W8NhnNniA/3K9fzbNo2zVw7pkoLKz4xh3EIILG2RPWpZobub72Y2qCZBn3DEdkmrHiuXFFIiGVqWds/TctL0rn+ShznD+SvzTfKKVe1jQkno9X6iAN6bpRfUtK4Ul9UN5EeJmotNuyXdlS6wDrh45tqJZN0nh+2EFKkWZLTkpNp5drkFeXMRwKfMou+V5SM+afMPHdvzCzEgiPBfMEDfDZw3d83BuogSddBeslZO+Ud9GmBTrbPVqmcErjVL2Z/juNfU98T5royFfB9cB+GGU8fIqv/QKgVKmyFgyyzUyNDnBa+t+OzGS1qu6909f3m7xW7mB86mrznmINXwQXhXJ3m9RcX9LJLhb8IaPIdKlLfZNkjKTAX094u72Gu+mqaAD/A+EvdI3nqOqZKFY4DoB+7kMp/Pi0y5cv98F8t2Eg==;3c+6asC9NVWm3vrlbyR4Aw=="
 ---

@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-06-robotics-un-tries-to-tackle-mind-blowing-growth-of-ai.md",
+      "title": "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI",
+      "excerpt": "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday",
+      "sourceUrl": null,
+      "webUrl": "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai",
+      "originalUrl": "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1139719",
+      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1139719",
+      "publishedDateTime": "2023-07-06T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "omanobserver",
+        "domain": "omanobserver.om",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-china-tech-startup-launches-humanoid-robot-at-shanghai-ai-event.md",
       "title": "China tech startup launches humanoid robot at Shanghai AI event",
       "excerpt": "Fourier Intelligence, a Chinese tech startup specializing in rehabilitation robotics and artificial intelligence, on Thursday unveiled its first-generation humanoid robot at the ongoing World Artificial Intelligence Conference in Shanghai.",
@@ -1241,40 +1275,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-robotics-united-states.md",
-      "title": "AI Robotics - United States",
-      "excerpt": "Value in the AI Robotics market is projected to reach US$5.19bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.29%, resulting in a market volume of US$11.68bn by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/united-states",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/united-states",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
         "images": null,
         "publishers": null,
         "authors": null

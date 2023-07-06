@@ -38,20 +38,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "OpenAI is forming a team to rein in superintelligent AI"
-    excerpt: "OpenAI is forming a dedicated team to manage the risks of superintelligent artificial intelligence. A superintelligence is a hypothetical AI model that is smarter than even the most gifted and intelligent human,"
-    publishedDateTime: 2023-07-05T22:18:00Z
-    webUrl: "https://www.engadget.com/openai-is-forming-a-team-to-rein-in-superintelligent-ai-214333388.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/HqhGvFsUOChgmfgRV_4PvA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/67615990-1b79-11ee-9fcd-589a780dca15.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "China's Fourier Intelligence Debuts General-Purpose Humanoid Robot at World AI Conference"
     excerpt: "Fourier Intelligence, a Chinese tech company specialized in rehabilitation robotics and artificial intelligence, unveiled its first-generation humanoid robot at the 2023 World Artificial Intelligence Conference in Shanghai."
     publishedDateTime: 2023-07-06T04:08:00Z
@@ -65,20 +51,6 @@ related:
       - url: "http://img.yicaiglobal.com/src/image/2023/07/27259387228869.jpg"
         width: 770
         height: 510
-        isCached: true
-  - title: "OpenAI forms research team to tackle dangers of AI ‘superintelligence’"
-    excerpt: "OpenAI LP is forming a new research team to tackle the potential dangers that could be posed by future “superintelligent” machine learning models. OpenAI chief scientist Ilya Sutskever and Jan Leike,"
-    publishedDateTime: 2023-07-05T21:19:00Z
-    webUrl: "https://siliconangle.com/2023/07/05/openai-forms-research-team-tackle-dangers-ai-superintelligence/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/openai-2.png"
-        width: 989
-        height: 520
         isCached: true
 
 secured: "q5uEARwklGwPav38Ao9e0d14DRv1XX67jvaAMXNqclSv3rIWs+Uv+GU8wRZegf4cvqrCIysraT/OO0FbQEkVzUmDSW2hGUBXlQTd/AnkRTS+/EURqrqcFchIWjI09L5NdyTAQx2ubq+ktyoAl+io1Rw1/QY3YSGsDK1qT2Y3F+3LZMQjC3Fnclo5Eq+Pko5BzrqdEuWVk+vt5XUdW+cNvUt+svgj5+3+TcnDmaDUKGPGTloAYqDvIcKdSZrJC2qvbb0oB62fxLjaOWUD5+cm2X1pUFepBu7G1QKiMlU3/pVXlTVC2s5gVohKlO2dWBOazgEvVqW2Z3+7PljMGJbke+j1gE6K1yyne/erjkZ+nNB4wg15aIPkG/DDXApviC9spmFtFNZALa9EFSmhfFR3r4pQEKkN01qxLgYj65sAEAcubABZIoxD1FbTrSINcK59M0/elhcGlKXx1/IksuQTqcgJcWd1KqCx5DxxXehF6yv2OSC3Oqc0zyNDBJ1OIxLfjcrbQ1WMNYqMCshAUzdfkg==;3ff9AGikQ/uJ75hatce5jw=="

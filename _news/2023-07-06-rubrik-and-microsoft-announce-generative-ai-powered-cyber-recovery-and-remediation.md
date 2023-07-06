@@ -33,31 +33,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
-    excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
-    publishedDateTime: 2023-07-04T16:30:00Z
-    webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 62
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
-        width: 390
-        height: 205
-        isCached: true
-  - title: "ABB and Microsoft Partner to Integrate Azure OpenAI Service into Genix Industrial Analytics and AI Suite"
-    excerpt: "ABB and Microsoft have announced an expanded partnership to integrate Azure OpenAI Service into ABB's Genix Industrial Analytics and AI suite. Th"
-    publishedDateTime: 2023-07-04T07:45:00Z
-    webUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/"
-    ampWebUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 52
 
 secured: "VQZw+ZGQkSO9Jwoi+Pj8HtN06jG39kNFPlrKnyOfYhdNDYyVBRfUKChPVpFimeFDJEKJmUuLp4uXQs0MQsgIQ4iblQH11j8hT71YcTJwIMEIfbdJk/UMiv8tYFT3ENv3TRG06yMoEpKjJLYiAemW0f7YGb/HxmY5BxQ2fm3EwcG2Qjhqmw22Hi8ur0w7b+bEdbWSlp7zs4KfgXGVBwdcRZDyRXW3TmSpsLG4bhb+xpWgFtdF0v97zDFtmSO/BmPPg92KmJBkFQJ4thr5RK+rz0RuPm9bszQDyCXdX3+4bBVGep9vico77KANO5IUY7gKMEQ6yQDg1vU8QepeY4QL6UUzbyn5lWyqE+oZXHqUi5eVvHxCycjFgKhYHbGaojY4DJDHpH6HZvAZKeXIlOasD3maGfAZeNVHyvY2W6xk7QgOhf23z0x5YWgPFIsKcst3IqpVQWnFZurWyZU12SMk7qo2ptI3Ik+/6nOczr0XMezpSQnVjcBdPvxWl9T+kVjuwC8kTuKfSmwAyiW/bN6Z8Q==;trviLwe3gE/Ibt9jw+fXDQ=="
 ---

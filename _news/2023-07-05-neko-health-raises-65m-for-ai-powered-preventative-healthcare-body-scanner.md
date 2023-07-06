@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Daniel Ek’s Neko Health raises $65M for AI-driven preventative healthcare solutions"
+    excerpt: "Neko Health has introduced an innovative AI-driven scanning technology that enables extensive and non-invasive healthcare data collection."
+    publishedDateTime: 2023-07-06T16:08:00Z
+    webUrl: "https://venturebeat.com/ai/daniel-ek-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Neko.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "p5fu3VAK37nXIN2rdo/HomEJpJ65jKDd8ZIGyb+LAOG18r2W7OUUE4P2VxG8fHh0nIeXVlv5hSLAB4xn9ed4F0gThntFiIqqc5vjcUPs44Em620qBGOaTaoB/HpyuhFFlsR06kMj7dWg2VH+RC00CzuBFMEjR5WXYqhrLfy5bO9KXQsXQvmFpcOPlerhYlABVnGiB8PExQs52eLHYVuZREYbn1mNV/+i8a8eamiidYeOx3yp36YmnjGt7adQhDxwr7G/JX8bGYO5l6wbxRI0fHsfnmkTUNEdeuRC7zgy4z8qXvFt64lD7v0zape8z0yJrwldDf7HprynWJrMcSPpXXu1RMbbXgpVr1rXXxNWeeXo6eiBwz2zdN5E35KeuXKMpPnyb6+5yzhcLUmabq27kZIFAjYpR6rd6qHZNhjFA2l9c+eyDr0k2Ae39hTMRu3EVeM29ji4FumxGmwDDhs6jQpnQoRhvLPiPSdNI3BWR5VpiJq27oAQD4L9PcSs/Y7RLA2O8BE2Y8UW13ByA64qRw==;s3hUhGUnNqQiZrD8SMNp/A=="
 ---

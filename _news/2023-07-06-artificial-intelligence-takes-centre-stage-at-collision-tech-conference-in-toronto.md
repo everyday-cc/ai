@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.cp24.com/news/2023/6/27/1_6458040.html"
 cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/6/27/1_6458040.html"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 974
     height: 548
     isCached: true
+
+related:
+  - title: "Collision Conference, Toronto: Igniting Inclusion And AI Innovation - An Interview With Paddy Cosgrave"
+    excerpt: "With 36,000 attendees from over 118 countries descending in Toronto for Collision, I sat down with Paddy Cosgrave, the visionary behind this globally acclaimed conference"
+    publishedDateTime: 2023-07-06T16:44:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/"
+    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a6ef085dca0075bbb4ddd6/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "uNqDZjkB0JpsLNEkbnZhPjnjsBswmH2hIRN7zZ8BjN7w1A1xp8ltdGrXUN/DZc0wMEJ+FB0IZe1MMaY+V7EEEx88MweATBgWJbTSl70se6y16CU/bXxR2sWzckqWW86KcivXQSYn+7GTIdQUG3z5fqX0EgMDQF4FhDDDvxsJLpZoafgaRrFCzMDRbajnAjnoLRcs/k75ivCI2oIuVkb4btidsV/z/EWePhBEvY+jBqF6pSinycM7i6xlGVEjRXSLujae+XJCyqC1n17GQWej6jsJ2DcPKWUT2Qgh5bpMrSKodo7dqo+hX3A7AAPsL42R8J6S+FJRgEglbC1uMpQ648uvlptIWYa+UwVPhsoCYpjbpUJIiPJZmhRVoWideQJpIdZoihW6ZxJY1TqMRJh6242tlJSQFSgqXZ04Xo505ncFkoAbPc3KcHH6ZTTMcfxytF3Q6gkgNALeY0vCynZfUmBkKbXRwjJ9Fze5HP4PzT9BjxG0+HsaRqjKLmNYV3S5/WizctUC8sVurRATpUCguQ==;XivUxSCzvE8xqK4BpYyTLQ=="
 ---

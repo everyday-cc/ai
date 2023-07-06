@@ -7,8 +7,8 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: The Star
@@ -34,6 +34,15 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 34
+  - title: "Scientists use deepfake AI images to understand the sun's atmosphere"
+    excerpt: "Solar scientists are using deepfake AI images to unravel the mysteries of the sun's atmosphere. The research, being presented at the National Astronomy Meeting this week, was carried out as part of a collaboration between Northumbria University and the University of Bern."
+    publishedDateTime: 2023-07-03T18:33:00Z
+    webUrl: "https://phys.org/news/2023-07-scientists-deepfake-ai-images-sun.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
 
 secured: "6mdWNHpD8auDz4tEu4tqo03xrAJ8mjAhcSLoHK0l/gbMbdS/9RgxBpyfpODoNid6Mv9kg95Uj0x4ht1hreX7dIqAAJKQtWRusFHvXqKeLaB5LDqqL4ylN/aryLtYAwSbfpCN7mufRbe650vDCA1RrgnnkZtrez5ayOSAlGndJnLNr7x1u50Zte0WCv2IgQQNCQ7Be5UDhl7TakAGqL302MGwAFb8Xw1yth4kztTzIh5f4T2hWG8r7UqYYjgLGoxPKmi9y8/Tm7oNcxU7pwlmlsMtotW2hx9MAhgjcUaFrs0IeJha+wHZurA5lNfV6Ioguj6O1DVDHXwgETY5+rGNWJIVbtqhutmHclOUM18ossh0MAimYIxsNucymjTREwtd+XCJMjknx0XRrkiP8M3CHnaZX9uckrp0H6sv1evazX+x5Dfrr8lQYc/lE6vTnusyvj67IGLiRwBXaghrRLlynXkB2fVLvwvhGVMSmubey5kceWKl9hWd6OG6zPc2oP2/C37U1ls1aqHlDwkFyFXPfg==;alnVISSYKYylBl0Od48Cqg=="
 ---

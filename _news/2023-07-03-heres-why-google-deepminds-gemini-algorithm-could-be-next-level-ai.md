@@ -33,6 +33,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Scientists use deepfake AI images to understand the sun's atmosphere"
+    excerpt: "Solar scientists are using deepfake AI images to unravel the mysteries of the sun's atmosphere. The research, being presented at the National Astronomy Meeting this week, was carried out as part of a collaboration between Northumbria University and the University of Bern."
+    publishedDateTime: 2023-07-03T18:33:00Z
+    webUrl: "https://phys.org/news/2023-07-scientists-deepfake-ai-images-sun.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
 
 secured: "YEj5vqyXb2YZYM9BJfVGok5RMLHNe0SKRoZpvxSEOf8MGx83n9r3NEdBRjMCZ7l4C7y+w9ZPnWzSY5Dpx2zgBeVAC6ZVkDwt2Mtmx/9qmoxeA1IcyDvK/J1yKQ3USk7YU/yoeY+yxwNCKb+FzAQ3E/VBmEgVTyJ3jAneUCmw6u04CSk9f/2KRr6Rq5H4Wu2UyzhNdxAhozDk/1hsVd3fHlxRIrEGt4LoI+U8Lz15mQZf7C6FR+o3HnokY8OSq3J6kgZe91Sz9uMETNe9WFnMnjiG5apvaNhTPtCnU5dEqPZb2YCqu4G6eqV/3bkYSWC522fdklM9nYKsFMvq5zzSJhaqkExU0W4ze3JENcZhinxLeYRkg1ncIcf+OMri3t6WpOnar6o44IxSo+drKlKLe18nxO991YducU0efK2FsTGMrIC5RRHnwfru21+uOyZ+pWrdWt+asgMBkgF+243JRZaA3DNFg7F3U/LUx4MTc6CM1sWjHdAqMLoyFaUu/bcoFwTcyTk/T2SD91qmzt9c0Q==;ABt3IlcDc07GxuY/dTTlXQ=="
 ---

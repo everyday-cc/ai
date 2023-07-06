@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-06-data-science-vs-machine-learning-whats-the-difference.md",
+      "title": "Data science vs. machine learning: What’s the difference?",
+      "excerpt": "While data science and machine learning are related, they are very different fields. Dive deeper into the nuances of each.\nThe post Data science vs. machine learning: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/data-science-vs-machine-learning-whats-the-difference/",
+      "originalUrl": "https://www.ibm.com/blog/data-science-vs-machine-learning-whats-the-difference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/coding_1.2.1-scaled-e1688660694983.jpg",
+          "width": 2393,
+          "height": 1196,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T09:29:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
       "title": "Growing bio-inspired polymer brains for artificial neural networks",
       "excerpt": "The development of neural networks to create artificial intelligence in computers was originally inspired by how biological systems work. These 'neuromorphic' networks, however, run on hardware that looks nothing like a biological brain, which limits ...",
@@ -540,10 +592,10 @@
     {
       "path": "_news/2023-06-27-geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology.md",
       "title": "GeoX Partners with Insurity to Provide P&C Insurers with Enhanced Risk Assessment Using Machine Vision and Deep Learning Technology",
-      "excerpt": "Insurity, a leading provider of cloud-based software and analytics for insurance carriers, brokers, and MGAs, today announced that it has partnered with GeoX to provide P&C insurance organizations with geospatial property data and first floor elevation data to more accurately classify and assess risk.",
+      "excerpt": "From there, insurers can use the deep learning technology to accurately predict the properties ... For a limited time, Insurity is offering its customers discounted pricing for GeoX services. To learn more about Insurity’s partnership with GeoX and ...",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/27/9839942.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/27/9839942.htm",
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -553,11 +605,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T07:13:00-07:00",
+      "publishedDateTime": "2023-06-26T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Financial Post",
+        "domain": "financialpost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -567,8 +619,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1331,49 +1384,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-machine-learning-for-targeted-disease-treatment.md",
-      "title": "Machine Learning for Targeted Disease Treatment",
-      "excerpt": "Machine learning is a next generation technology and a sub-set of Artificial Intelligence (AI) now being used to navigate complex biological information in the search for specific patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/health/Machine-Learning-for-Targeted-Disease-Treatment.aspx",
-      "originalUrl": "https://www.news-medical.net/health/Machine-Learning-for-Targeted-Disease-Treatment.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23771_45097368410416678285.jpg",
-          "width": 2000,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

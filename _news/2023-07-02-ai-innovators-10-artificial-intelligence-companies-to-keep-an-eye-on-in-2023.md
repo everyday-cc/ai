@@ -32,8 +32,8 @@ images:
 related:
   - title: "Boosted.ai named to the 2023 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights named Boosted.ai to its seventh annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This year's AI 100 cohort are developing game changing innovations that meaningfully impact the world around them,"
-    publishedDateTime: 2023-07-06T13:05:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/06/9844052.htm"
+    publishedDateTime: 2023-07-06T14:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-boostedai-named-the-2023-cb-insights-ai-100-/2023/07/06/9844052.htm"
     type: article
     provider:
       name: TMCnet

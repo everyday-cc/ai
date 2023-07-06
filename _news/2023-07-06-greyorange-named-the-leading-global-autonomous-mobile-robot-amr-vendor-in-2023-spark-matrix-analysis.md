@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "GreyOrange Named the Leading Global Autonomous Mobile Robot (AMR) Vendor in 2023 SPARK Matrix™ Analysis"
+    excerpt: "GreyOrange Inc., a global leader in automated robotic fulfilment and inventory optimization software, today announced it is recognized as the 2023 Customer Impact Technology Leader by Quadrant Knowledge Solutions in the SPARK Matrix™: Autonomous Mobile Robots 2023 report."
+    publishedDateTime: 2023-07-06T17:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/07/06/9844273.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/746706/1470558/Quadrant_Knowledge_Solutions_Logo.jpg"
+        width: 400
+        height: 204
+        isCached: true
   - title: "Quadrant Knowledge Solutions: GreyOrange Named the Leading Global Autonomous Mobile Robot (AMR) Vendor in 2023 SPARK Matrix Analysis"
     excerpt: "Quadrant Knowledge Solutions recognizes GreyOrange as industry leader for its warehouse fleet management platform and robots ATLANTA, July 6, 2023 /PRNewswire/ -- GreyOrange Inc., a global"
     publishedDateTime: 2023-07-06T15:47:00Z

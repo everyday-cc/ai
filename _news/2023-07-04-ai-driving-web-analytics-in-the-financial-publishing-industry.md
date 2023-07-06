@@ -67,6 +67,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 7
+  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
+    excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
+    publishedDateTime: 2023-07-06T17:44:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1332532&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 7
 
 secured: "FRHeNhrv01FS7o/ZQlm5Kl35gxEb4kFBwZUgzZn83EwptfROV74HUmY5sEVe89xiWy94dLL7W9riOk8IoRVO17mbepyqTKxY5hH+AvmyFLHxmW+ujSVEbqH1CdYN5dr6vPRw0KezUyRTUvn0o6X3hJaIsRJwoB/xDGdVoZ7U38kDNb6atB/yKzmpVkRTGrn9LULS6QJRC00FSwrSGPZ8DZrPMENAwwxFpEGJfWUzpGx3QUTGFt6qKq5P+hBAMHkd1EFc3sAmuwRr0fOqm4vDNfCOX0t0Abohn83h92GLs0Fpfz+X4uhBzmExuj2fa6isTP0UtSd/NQybsdAIoNemE8Qz5ojSmbg2yhzjfAsU7hA=;Ha44+qoMGueU1pvEQvMOkA=="
 ---

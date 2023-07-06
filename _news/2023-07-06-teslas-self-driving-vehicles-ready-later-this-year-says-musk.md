@@ -113,6 +113,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "NHTSA Looking Into Details on Tesla’s Self-Driving Changes"
+    excerpt: "U.S. automobile safety regulators at the NHTSA are zeroing in on changes that Tesla has made to its Autopilot partially automated driving system."
+    publishedDateTime: 2023-07-06T17:37:00Z
+    webUrl: "https://www.ttnews.com/articles/nhtsa-tesla-driving-changes"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 54
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Tesla-gigafactory-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Tesla Set to Bring Fully Autonomous Self-Driving Cars ‘Later This Year’, Says CEO Elon Musk"
     excerpt: "Elon Musk admitted that he had been wrong in previous predictions on this timeline, but added: \"I feel like we're closer to it than we ever have been.\""
     publishedDateTime: 2023-07-06T09:44:00Z
@@ -167,6 +181,15 @@ related:
     provider:
       name: New Age
       domain: newagebd.net
+    quality: 19
+  - title: "Elon Musk: Tesla Full Self-Driving Will Arrive ‘Later This Year’"
+    excerpt: "Via a video link on Thursday, Musk mentioned he believes Tesla is “very close to achieving full self-driving without human supervision.” The company is so close to realizing its goal that Musk predicts the technology will make its way into production vehicles before the year’s end."
+    publishedDateTime: 2023-07-06T16:44:00Z
+    webUrl: "https://www.extremetech.com/cars/elon-musk-tesla-full-self-driving-will-arrive-later-this-year"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
     quality: 19
 
 secured: "sqNXRwHE6Z7RXfFPm/52a+S/jLtabK4deo0ADvOruo1N1noeZ6U1GMTZBN6R8iuG2W39wSAjZImldBiUQNRZPt4DzBPXAWvT7RKwLThJtvvmeWQ1naGItofMFHeA9f4w4Syh71OcrT2D/rP52D9jaCCdbJUkL02V6IiXhwxZ6LuiBGUG8yvsjBu0oTbchxV3MhVQZR7fUIn3yWbEzmnTHUbRRfyvWUJveZH8POpExPb4blRV61etLA9HuaR7/7+SLODy5lcGntyGkpGoD8K79eywvG/KL5rE6C3e7Utmh3SKyQ2s+H6j2YaeJCbS8xL8Ql+VlFOeXiC+UtJP7DDQrKXOSh4i/kllOkn1hSKmizY=;4lPd0S7NRkxnJq0Wto1UMw=="

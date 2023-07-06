@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
+    excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
+    publishedDateTime: 2023-07-06T17:44:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1332532&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 7
 
 secured: "KEIBQDmg87m7iv4fdMzw6ijP76qYOho9ig6RVpXxZSzQGDQQ1fbTbIXk9cUPKz1xgg86Bm5Rb1h8XNZJFrLNK1Zai3+LHB6IXb+ZLaTcocEDIZF9AA7no+aekVCJ6opHD4wSqgEf7dQU3G/VARJcC9zyvi1WmGKFCaUnp0ZLpXE9Ew3e+3R3yLpR3xNJi2sfUKH6DtrtfFMyG49aQAFv4kK5v+9Zk7a0+qcAQDsHGw8giJHiiZrcEkPVDQXV+m04tzFwilYmqR9Xasx7SQAaL+khCkAsHY2NDwdaKUq9gkHVlX1USj4h1xmPkuWN0KFo8f5wDbcUoPXm/VrTDjrfSEs0qoMR7S/oWGc4yrkq7j4=;4aN19O1lcPfHAP96H1x/iA=="
 ---

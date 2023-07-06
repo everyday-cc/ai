@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-mic
 webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
 type: article
 quality: 64
-heat: 94
+heat: 74
 published: true
 
 provider:
@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
-    excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
-    publishedDateTime: 2023-07-04T16:30:00Z
-    webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 62
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
-        width: 390
-        height: 205
-        isCached: true
-  - title: "ABB and Microsoft Partner to Integrate Azure OpenAI Service into Genix Industrial Analytics and AI Suite"
-    excerpt: "ABB and Microsoft have announced an expanded partnership to integrate Azure OpenAI Service into ABB's Genix Industrial Analytics and AI suite. Th"
-    publishedDateTime: 2023-07-04T07:45:00Z
-    webUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/"
-    ampWebUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 52
   - title: "Rubrik and Microsoft Announce Generative AI-Powered Cyber Recovery and Remediation"
     excerpt: "Rubrik Security Cloud, Microsoft Sentinel, and Azure OpenAI Service integration demonstrates how organizations can strengthen their cyber resilience and recover faster and more effectively from cybera"
     publishedDateTime: 2023-07-06T12:48:00Z

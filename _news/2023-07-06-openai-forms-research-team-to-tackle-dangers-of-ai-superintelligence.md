@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The real danger of AI isn't hyper-intelligence, it's human stupidity"
-    excerpt: "While AI is already proving a useful tool, there’s a risk we replace critical thinking with an alternative that’s really equipped for it."
-    publishedDateTime: 2023-07-03T14:00:00Z
-    webUrl: "https://www.androidauthority.com/ai-danger-human-stupidity-3340244/"
+  - title: "TCS to train 25K staff on Azure, OpenAI Gen AI tools"
+    excerpt: "TCS also launched a generative AI business offering, called TCS Generative AI Enterprise Adoption, which will offer deployments of OpenAI’s generative AI business tools via the Azure platform to businesses."
+    publishedDateTime: 2023-07-06T16:46:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings-11688661860898.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
+      name: Mint
+      domain: livemint.com
+    quality: 74
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/bing-chatgpt-chat-ai-icons-scaled.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.livemint.com/lm-img/img/2023/07/06/600x338/-Mint-_1688661819003.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "OpenAI is forming a team to rein in superintelligent AI"
     excerpt: "OpenAI is forming a dedicated team to manage the risks of superintelligent artificial intelligence. A superintelligence is a hypothetical AI model that is smarter than even the most gifted and intelligent human,"
@@ -53,34 +55,68 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China's Fourier Intelligence Debuts General-Purpose Humanoid Robot at World AI Conference"
-    excerpt: "Fourier Intelligence, a Chinese tech company specialized in rehabilitation robotics and artificial intelligence, unveiled its first-generation humanoid robot at the 2023 World Artificial Intelligence Conference in Shanghai."
-    publishedDateTime: 2023-07-06T04:08:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230706-04-chinas-fourier-intelligence-debuts-general-purpose-humanoid-robot-at-world-ai-conference"
+  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
+    excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
+    publishedDateTime: 2023-07-04T16:30:00Z
+    webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 47
+      name: technuter.com
+      domain: technuter.com
+    quality: 62
     images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/07/27259387228869.jpg"
-        width: 770
-        height: 510
+      - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
+        width: 390
+        height: 205
         isCached: true
-  - title: "'Artificial Intelligence will never be able to beat the complexity of Nature's Intelligence'"
-    excerpt: "Artificial intelligence was the key focus, as participants explored its collaborative potential, impact across sectors, and the convergence of sports, media, and social networks in the tech era. Agam Khare,"
-    publishedDateTime: 2023-07-02T13:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/02/9842572.htm"
+  - title: "Legal Blaze Hits OpenAI: Copyright & Privacy Battles Test AI Ethics"
+    excerpt: "Two authors, known for their works in science fiction and horror, claimed that the AI model could accurately summarize their books. This suggests that ChatGPT may have used their works unlawfully. OpenAI is also alleged to have collected images ..."
+    publishedDateTime: 2023-07-05T01:22:00Z
+    webUrl: "https://techreport.com/news/legal-blaze-hits-openai-copyright-privacy-battles-test-ai-ethics/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/2145754/India_Global_Forum.jpg"
-        width: 400
-        height: 284
+      - url: "https://techreport.com/wp-content/uploads/2023/07/shutterstock_2318038065-scaled.jpg"
+        width: 2048
+        height: 1333
         isCached: true
+  - title: "TCS to Train 25,000 Engineers on Azure Open AI"
+    excerpt: "TCS on Thursday announced plans to significantly scale its Azure Open AI expertise and plans to get 25,000 associates trained and certified on Azure Open AI to help clients accelerate their adoption of this powerful new technology."
+    publishedDateTime: 2023-07-06T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/tcs-to-train-25000-engineers-on-azure-open-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/tcs-fy23-1.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "ABB and Microsoft Partner to Integrate Azure OpenAI Service into Genix Industrial Analytics and AI Suite"
+    excerpt: "ABB and Microsoft have announced an expanded partnership to integrate Azure OpenAI Service into ABB's Genix Industrial Analytics and AI suite. Th"
+    publishedDateTime: 2023-07-04T07:45:00Z
+    webUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/"
+    ampWebUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
+    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
+    type: article
+    provider:
+      name: EuropaWire
+      domain: europawire.eu
+    quality: 52
+  - title: "Republican AI staffers to watch"
+    excerpt: "Here's a look at some of the Republican staffers working to get legislation across the finish line. (We profiled top Democratic AI staffers here .) Young, a key player in CHIPS passage last year, was tapped again by Schumer to help write AI legislation. O’Brien and Cheever will be leading Young’s efforts."
+    publishedDateTime: 2023-07-05T17:55:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2023/07/05/republican-ai-staffers-to-watch"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "P+z8D7WCHzKA7LyOl42eGTmU6RyG4G5RNY2mPJwptlZres/El7dwte+VFhhGlg3DjOIIp2mnfAOcy8Dwk2ZuOfpw4Ngyf8EZ0EgmFKyQkWxPalz+UMTQJi5d+xm90aOeS5u56W6YV/uzlaOYQPlRZ2JTgW+Mc5K+UOVvF2fph8jkE3ToZa9YJ5x/RUBxzcsBkzHJ2sqrslP+aKICYr+fHki+VdBQxZ66dqz8H93Y+AH1bjdZlqtBlsWaitS53/MvPwDw8ZM9WlhZpEwlKpfC3h8BM22KF92AczN9RgQfm4X15HJvbqhg2vm/KxTT6uKG/6XPfUegTb7tByng/BEd8WyZLO7GSLgNNNFsge75VeA9Icr4E6BobwqBAy5NKpj954JQb+Ebl1FmK1ooPYgQ4evHtnx7AKZADOFGRkBdtXIjvHsn0gn8N/NU2Xhp2ICgo1bzv3GT9tYaQdTzBlBRuH46udsn342s8521LHA/PVWrs0euy3fKP4pEsLsBRYQtTkCGY4LekT8vQwwITmpcYQ==;0uOX126TlRx6yVttssG5iw=="
 ---

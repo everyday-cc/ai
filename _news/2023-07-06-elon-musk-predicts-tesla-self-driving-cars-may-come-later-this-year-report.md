@@ -105,6 +105,20 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "NHTSA Looking Into Details on Tesla’s Self-Driving Changes"
+    excerpt: "U.S. automobile safety regulators at the NHTSA are zeroing in on changes that Tesla has made to its Autopilot partially automated driving system."
+    publishedDateTime: 2023-07-06T17:37:00Z
+    webUrl: "https://www.ttnews.com/articles/nhtsa-tesla-driving-changes"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 54
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Tesla-gigafactory-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Tesla Set to Bring Fully Autonomous Self-Driving Cars ‘Later This Year’, Says CEO Elon Musk"
     excerpt: "Elon Musk admitted that he had been wrong in previous predictions on this timeline, but added: \"I feel like we're closer to it than we ever have been.\""
     publishedDateTime: 2023-07-06T09:44:00Z
@@ -159,6 +173,15 @@ related:
     provider:
       name: New Age
       domain: newagebd.net
+    quality: 19
+  - title: "Elon Musk: Tesla Full Self-Driving Will Arrive ‘Later This Year’"
+    excerpt: "Via a video link on Thursday, Musk mentioned he believes Tesla is “very close to achieving full self-driving without human supervision.” The company is so close to realizing its goal that Musk predicts the technology will make its way into production vehicles before the year’s end."
+    publishedDateTime: 2023-07-06T16:44:00Z
+    webUrl: "https://www.extremetech.com/cars/elon-musk-tesla-full-self-driving-will-arrive-later-this-year"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
     quality: 19
   - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
     excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"

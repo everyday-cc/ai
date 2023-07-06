@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreemen
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2023/05/Small-IBSi-ad-3.png"
         width: 600
         height: 500
+        isCached: true
+  - title: "Top 10 venture capital firms investing in fintech"
+    excerpt: "With fintechs needing access to capital, we take a look at the top 10 VC firms that are investing money into the sector right now"
+    publishedDateTime: 2023-07-06T15:41:00Z
+    webUrl: "https://fintechmagazine.com/top10/top-10-venture-capital-firms-investing-in-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/4d31b47942cc4a29e0df04c78f69e979:781a737d79a3cb6a15879541c8c7f95b/fintech-top10-venture-capital-firms-investing-in-fintech.jpg.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "UBS Teams up With Financial Solutions Fintech"
     excerpt: "UBS enters a strategic partnership with fintech Numarics to help Swiss SMEs with their financial and administrative tasks."

@@ -51,20 +51,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "From human ashes to cellphones, what's going on with concert fans lately?"
-    excerpt: "From flinging bras to tossing flowers, concertgoers have long been a bit extra in showing adoration for their beloved artists — but a recent spate of artists being hit by weightier projectiles raises concerns about extreme fan culture and security."
-    publishedDateTime: 2023-07-01T23:30:00Z
-    webUrl: "https://buffalonews.com/entertainment/music/fans-throwing-items-concert-stage/article_83f861ee-bb27-52c0-9692-6e9694ac09bd.html"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 23
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/3f/83f861ee-bb27-52c0-9692-6e9694ac09bd/649f4022eba31.preview.jpg?crop=1618%2C849%2C35%2C47&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "nCKWrX+B0kKoBEbgiDrXtDTLNNx9T+tOD/CzljhViOPQBGGAS4AZp+5fso7o1LuCctDL+V2KuIvAHmfAR0TpDeKYB7gNQGj4NmIIsCOiqU9kjuKrHvbwme66s+fvrh83T3WOc886s1hC9mZruag6kjuUaS6jhsUP9FSZ0snLo5NpyvAaQ3DV+9OPFfa7wZZlW5pYg0St497t46geq3b8Yut49BOrPBcvtkCLY0GYCrqHwE8zx1lat9AqMZ3VhSMMj57f0ZxGkv2l5RVjhp21/Vq4bGihpoXMh32NNBYUEgBQypMHqU4BW8PXdJ4ZTdqUFjgi/tulu4vWpiI7/r22Fgky5NP91UrT7ZgkRl+Yb3ltKHBTpiv+XRabTIZ48ehcTOj6+arLF91+mHbJuxZUJQC0SCgKmUtlkpuCG9oAS1LXobY0mZxbZWwWYR0S1K9pXAF2Jcy0dm88xZZFO5W0NCTffFLG/QeXxrtKnxyPfZtz1qibbk2TLRjdqzqq1R9/p+3fyCcrQep8L+A7+uToXg==;MjvLeUcOqjDK32AJT3skKA=="
 ---

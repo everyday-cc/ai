@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_artificial_intelligence_enhancing_human_productivity._C_42ae2946-beae-44e1-b10f-949d52a27c98.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Digital transformation, AI, and the productivity problem"
+    excerpt: "There's a lot of talk about generative AI could boost productivity at companies in the midst of digital transformation. But moving too fast could make things worse."
+    publishedDateTime: 2023-07-06T14:01:00Z
+    webUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html"
+    ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.techhive.com/images/article/2014/09/worker_productivity-100413905-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
     excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
