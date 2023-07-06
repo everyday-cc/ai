@@ -80,6 +80,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "The AI healthcare revolution: 4 insights into the future of patient care"
+    excerpt: "The future of healthcare lies in the seamless integration of AI to empower professionals and revolutionise the way we approach healthcare"
+    publishedDateTime: 2023-07-06T09:08:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-healthcare-revolution-future-patient-care/162991/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 55
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1396694854-scaled.jpg"
+        width: 2000
+        height: 1182
+        isCached: true
   - title: "Work 2.0: How Artificial Intelligence Is Changing The Future Of Work"
     excerpt: "How Artificial Intelligence is Changing the Future of Work(Amazon Kindle Cover) A New Book by Warren H. Lau, C.E.O. and Investo"
     publishedDateTime: 2023-07-04T18:15:00Z

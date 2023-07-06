@@ -2,12 +2,12 @@
 category: news
 title: "DiamiR Biosciences Partners with JADBio to Utilize Machine Learning in Assay Development"
 excerpt: "MONMOUTH JUNCTION, N.J. and LOS ANGELES, July 5, 2023 /PRNewswire/ -- DiamiR Biosciences, a developer of innovative non-invasive blood-based diagnostic tests for brain health and other diseases, today announced that it has entered into an agreement with JADBio to utilize its Automated Machine Learning (AutoML) Platform and Services for development of predictive models based on DiamiR's microRNA panels and other factors for risk assessment in Alzheimer's disease and Rett syndrome."
-publishedDateTime: 2023-07-05T13:30:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/07/05/9843362.htm"
-webUrl: "https://it.tmcnet.com/news/2023/07/05/9843362.htm"
+publishedDateTime: 2023-07-05T12:08:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/05/9843362.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/05/9843362.htm"
 type: article
-quality: 10
-heat: -1
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/894818/DiamiR_Logo.jpg"
+    width: 343
+    height: 400
+    isCached: true
 
 related:
   - title: "DiamiR Biosciences, JADBio Partner on Machine Learning for Assay Development"
@@ -29,6 +35,6 @@ related:
       domain: 360dx.com
     quality: 18
 
-secured: "X4de2IIzZCmvgnJChSmAkeiS6/vJWed03BElpnUFcU+Aotq97NOFVgGP1orMlMz0yTiolb61fJUwYRYHFipat+F9Kj+LxsRlmSYpFNUTDGtOV+5ZERQslQv2PIbASE3F8kHV9qyiHhrgWrGX/qkM2iZpKRVfy3vwxb+NmGtadESi4XjtXsLV+dpwLyWFUPrC3HxUYAqUy+J/0okJU1kifrCLHwXkpVws4dW8397347mj5Uxu62CgdyLE2zl4vQexTRwFWttO+TzZ7s/vep35zHIly09pFHqLqscKINVtfxdcMyeso/72bvyfaD6OcQaKvrM0DXK6IkffMfudrNasbrkHfpxrObtacR51wXkdtpdwgnWopW2fDWbsVeA6pTOPDuaQbZdydhfg9kyGrVKQse+9WkcQxSss1YRgo5iKAcfU6YKsXCFW8oMucNqJmT4DsfGJVwMkvRpSzkg3njMiqK6N8GX52Uo2zL/+VJBywE737NgslAwvM4WpJtezt0PYnelYYybDhoN76p2fRWAOQQ==;90EIUthPJ4GJBxhcHxJtcw=="
+secured: "T8SPuQ1YWKBoI2nczDZyiH4dHAzhQDCj0OctEC5iMWypXXqgxWVJft5WF77tC6pLRHqTsMsHjieN2D5Lkx28KIYCJ4Cd5JykJo2gvA8Dir8JwJIB1z2/WyNzj3OcNXYtcdLY9pWF4sHWEwmY2l+n6/++zdu09E3SylvsioRb69OyO65lOabKTSqvZCfx1TT3JuSpWe1it0Bj6hJfUGxYrxbH6wUctETMs/KbagztpQTMlsPh6J8pSehxhdQMb7Vlo9928WNKFY4QB37iUCQlBYyWGsZz0tCXCNnH470RGiZxQUmwY+6GQ3k8n5nb2r+rQq8ZqjoiOsopLsuPMhBoRedSKRaIC9mPPwebKdFhP7c=;NfBLftm2FzgW06+EB73YxA=="
 ---
 

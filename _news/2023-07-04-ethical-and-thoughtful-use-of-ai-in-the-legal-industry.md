@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The AI healthcare revolution: 4 insights into the future of patient care"
+    excerpt: "The future of healthcare lies in the seamless integration of AI to empower professionals and revolutionise the way we approach healthcare"
+    publishedDateTime: 2023-07-06T09:08:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-healthcare-revolution-future-patient-care/162991/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 55
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1396694854-scaled.jpg"
+        width: 2000
+        height: 1182
+        isCached: true
   - title: "The Integration of Artificial Intelligence and the Future of Education that is Still Taking Shape"
     excerpt: "The future of education continues to take shape with the changing world and technological developments such as artificial intelligence. Education with technology is believed to still prioritize humans."
     publishedDateTime: 2023-07-03T11:27:00Z

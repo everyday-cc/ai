@@ -57,6 +57,22 @@ related:
         width: 700
         height: 437
         isCached: true
+  - title: "\"Very Close To Achieving Full Self-Driving Cars\": Elon Musk"
+    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
+    publishedDateTime: 2023-07-06T07:57:00Z
+    webUrl: "https://www.ndtv.com/world-news/elon-musk-says-very-close-to-achieving-full-self-driving-cars-4182313"
+    ampWebUrl: "https://www.ndtv.com/world-news/elon-musk-says-very-close-to-achieving-full-self-driving-cars-4182313/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/elon-musk-says-very-close-to-achieving-full-self-driving-cars-4182313/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 44
+    images:
+      - url: "https://c.ndtvimg.com/2023-05/4aa9uhmg_elon-musk_625x300_22_May_23.jpg"
+        width: 1280
+        height: 675
+        isCached: true
 
 secured: "mAYZbFLFq9uf6xgqFqWhBL37+YjUsRURGTDeiwqkeYUxGP4dAmx9RN9n1y1rLbCDdH09kbvke0Gj6fePrFfkPiEH/wWYbimul3ch3X1BWALCLkq1PmhtHvEn2uayzrAwHMlNenf3m7faAvhjyxNyZeFrMgGZg5Xqeds2Dqt8sNRQElsPkdr7jKqVJibgTSUjz/82vw8RYIO49JZMN/mGXPqLLboO8T1hSGt/+p9/LT/lzYBVskjY4Hco+8NMjM3w0DwuRGgRIO7HUZQa7cWfNf/ji7laynBlztjbEn5AMzAAq5tJQDefYYKT6w/FGWidbGPesXoozd+HG8u10DXUpsgaOcQyqhe8yz+u8x+pyW/aIXzSITCn1dQDkvxMyAoOqd3hfs6LxU5M19SLPo7OFoouBG+xqKbrh1oxArbyYQ7nOwPZUiuBxZXQcYBDgVAe07wLrp2Qm2MsyaaAimZm6udLprj1kY3nyI47+/DOhIJP/5UBa/lzF0PrlAYET/HZLcWBI1+JpXfaM8D9VFXwhw==;CxbrcNqYT7B4VO3O/LjWew=="
 ---

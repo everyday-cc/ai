@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-pe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F4e1cc1fc-6cf9-4076-a826-13324422cb14%2FAi_Art__07.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nec Develops And Provides Generative Ai For Business Use"
+    excerpt: "NEC develops and provides generative AI for business use <br />  - Partnership program launched for linking industry knowledge -  <b"
+    publishedDateTime: 2023-07-06T09:27:00Z
+    webUrl: "https://menafn.com/1106562069/Nec-Develops-And-Provides-Generative-Ai-For-Business-Use"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?307890"
+        width: 351
+        height: 250
         isCached: true
 
 secured: "YqjI2xfow0DzTB+/BkW2o8KDAmeO8GgujtVIgvQlTuj2SnO305Wzs0Hhb4FVXjhfnKX4NgYhbfRO/nzelUui7hHnp8I8XqUdyuiypjUJWgH6e32UbQIK4lU/AgFv/6r0t91Cw1WbisKNXFp19jsI0bdZE0AbJNudUI2GKcZ8iX+l1+sh5K9AisIShY8lwJqHI8rdxmtT0Kb5ah019dDEawMGwySqp7MnbTnpkWGNMVQj9v/qn/5D/p43vovXluOJfQkT6h31NF8zOhhLeTuaGdhZH1KykxLnVwUHPJQ+aUwHrc+pwCO5Tv4+NIsR0xR+MqgAVSPFZNdnOSC2z6JNrAsYXwmsclAUSXgeqeGjMdtuUiMGZI+p8RGD+1qbXNBwCRhUKeB7US2+vPJtyYJj2LSRiOEazxU2EsVFCm+AJ+fQ6dAB/ifJASVshqbvsSq5RxOYmbQEtzc0a+RFyQxP5UlTDIi7xQfdoabHhq2PiJyUf7n1DvoNLFpzcpfEt+cqOgsR9r91uvxF0oCYpnb02A==;kklrwaJ17CDy1BonW/2xOg=="

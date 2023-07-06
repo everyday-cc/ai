@@ -29,6 +29,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Binance Labs Leads $4M Funding for AI Blockchain Data Firm Web3Go"
+    excerpt: "Singapore-based blockchain start-up Web3Go has raised $4 million in a seed round led by Binance Labs, the venture capital and incubator arm of crypto exchange giant Binance."
+    publishedDateTime: 2023-07-06T09:51:00Z
+    webUrl: "https://cryptonews.com/news/binance-labs-leads-4m-funding-for-ai-blockchain-data-firm-web3go.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 39
+    images:
+      - url: "https://cimg.co/news/118840/316511/f0rzdzyauaasqod-t.jpg"
+        width: 1008
+        height: 647
+        isCached: true
   - title: "AI marketing startup Needle raises US$1.2 million in pre-seed funding"
     excerpt: "ARTIFICIAL intelligence (AI) marketer Needle has raised US$1.2 million in a pre-seed funding round, it said on Wednesday (Jul 5). Read more at The Business Times."
     publishedDateTime: 2023-07-05T07:15:00Z

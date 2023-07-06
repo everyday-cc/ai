@@ -8,8 +8,8 @@ webUrl: "https://www.cp24.com/news/artificial-intelligence-takes-centre-stage-at
 ampWebUrl: "https://beta.cp24.com/news/2023/6/27/1_6458040.html"
 cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/6/27/1_6458040.html"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://beta.cp24.com/content/dam/cp24/videos/axis/2023/6/27/2716151/_jcr_content/renditions/videothumbnail.1687903788912.jpg"
@@ -26,6 +27,6 @@ images:
     height: 548
     isCached: true
 
-secured: "nqvCZ5nZzotF7SCK+wFkAS9mKLkfcD6TfMo+CC+oDPHxLw4H8buGmdCUJ3Nw1bisfHNfNqyoImJevUVZhw5cdsDwckDutRUsJbf1XG1PXnpfP9PU6E4yrORyt4N3oRIUn6xa8P7DZP075mmYnepokI2B4hvsT/RfSpeCuS/fPqtU9tJ9E4bYrvNLaQTm+qQLqcc1523xa+ZmmfLOeYG1JYcj2D6VB9aC9c9ro6jPxuRKwhfb4jTOp2CaoRVvYxkreE/eE3ugpe5NDeZKmkTKGCNlt8+BG5754mmWhMCgehjnBPBfgRtaK41ZSHCiD1vmXLoGsYTvTto6xKpxI6rxQ44Wr0oVJaerUg79zEYv1LE=;8la1XQbAImGhl7D7fdQmCQ=="
+secured: "uNqDZjkB0JpsLNEkbnZhPjnjsBswmH2hIRN7zZ8BjN7w1A1xp8ltdGrXUN/DZc0wMEJ+FB0IZe1MMaY+V7EEEx88MweATBgWJbTSl70se6y16CU/bXxR2sWzckqWW86KcivXQSYn+7GTIdQUG3z5fqX0EgMDQF4FhDDDvxsJLpZoafgaRrFCzMDRbajnAjnoLRcs/k75ivCI2oIuVkb4btidsV/z/EWePhBEvY+jBqF6pSinycM7i6xlGVEjRXSLujae+XJCyqC1n17GQWej6jsJ2DcPKWUT2Qgh5bpMrSKodo7dqo+hX3A7AAPsL42R8J6S+FJRgEglbC1uMpQ648uvlptIWYa+UwVPhsoCYpjbpUJIiPJZmhRVoWideQJpIdZoihW6ZxJY1TqMRJh6242tlJSQFSgqXZ04Xo505ncFkoAbPc3KcHH6ZTTMcfxytF3Q6gkgNALeY0vCynZfUmBkKbXRwjJ9Fze5HP4PzT9BjxG0+HsaRqjKLmNYV3S5/WizctUC8sVurRATpUCguQ==;XivUxSCzvE8xqK4BpYyTLQ=="
 ---
 

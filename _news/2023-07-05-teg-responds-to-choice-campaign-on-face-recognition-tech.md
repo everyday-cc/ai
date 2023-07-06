@@ -9,7 +9,7 @@ ampWebUrl: "https://themusicnetwork.com/teg-responds-choice-campaign-face-recogn
 cdnAmpWebUrl: "https://themusicnetwork-com.cdn.ampproject.org/c/s/themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:

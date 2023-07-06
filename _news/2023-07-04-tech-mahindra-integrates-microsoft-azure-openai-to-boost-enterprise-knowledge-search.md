@@ -50,20 +50,6 @@ related:
       name: EuropaWire
       domain: europawire.eu
     quality: 52
-  - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
-    excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
-    publishedDateTime: 2023-07-01T15:40:00Z
-    webUrl: "https://technosports.co.in/tech-mahindra-and-microsoft-collaborate/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 45
-    images:
-      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "IkOp6MkUvAdK0a0O+wejRADDO9/Gn3G4x97kGpiwcLzFAH0uMI2G5oNiam9kS9OW4u9p6Hk9Z2Wharva8krW26mGJ3mbE1XMkQO2cTu4TprXOAwoSfOS+2vCiR1mNG5/emxAOR+CpzRLGvXw3rLnOPXHzzLs2l9tUcaIHAispvpFfeIbTIAFV5YJAO19OK8QmwOGiJCCD5EhXKnf41tEJcsJKtYRkrBzP7MrVBeTW+ajWPk4aP3wOMZL9G3Ynpp4YgbdrJU0hSllisdDNpmbIztibeTe7jvX8LyQ9PW/pS4ka0nmjstpMDJoc/qN2Fh3XNXKsNBVUbhe7GebONGi/2uQT34EPbT5cmGLa2q8638cDQyBTJ+lAI42+kdEhvKVsxaQyIR3B63tBADphAgjZflZh2Uaz9xuWoDOXLEDr7eHR47pjm04DIylgLGtfVi56pAQsPXuWM0akTCI8P3a/MCRKvycLcEcKJ3SM786o7aX7tFKiR6KbPgituy2u7N2/ZI214xeicGKbIdcr9ivcA==;lNce5xq/2ARvmR65gdWp/w=="
 ---

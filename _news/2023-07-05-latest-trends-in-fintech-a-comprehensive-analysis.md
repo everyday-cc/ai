@@ -49,6 +49,20 @@ related:
         width: 600
         height: 500
         isCached: true
+  - title: "UBS Teams up With Financial Solutions Fintech"
+    excerpt: "UBS enters a strategic partnership with fintech Numarics to help Swiss SMEs with their financial and administrative tasks."
+    publishedDateTime: 2023-07-06T08:20:00Z
+    webUrl: "https://www.finews.com/news/english-news/58170-ubs-teams-up-with-financial-solutions-fintech"
+    type: article
+    provider:
+      name: finews
+      domain: finews.com
+    quality: 24
+    images:
+      - url: "https://www.finews.com/images/cache/105e3f3a8b332e5c466c997dc4086725_w500_h300_cp.jpg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
     excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
     publishedDateTime: 2023-07-03T11:24:00Z

@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Binance Labs Leads $4M Funding for AI Blockchain Data Firm Web3Go"
+    excerpt: "Singapore-based blockchain start-up Web3Go has raised $4 million in a seed round led by Binance Labs, the venture capital and incubator arm of crypto exchange giant Binance."
+    publishedDateTime: 2023-07-06T09:51:00Z
+    webUrl: "https://cryptonews.com/news/binance-labs-leads-4m-funding-for-ai-blockchain-data-firm-web3go.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 39
+    images:
+      - url: "https://cimg.co/news/118840/316511/f0rzdzyauaasqod-t.jpg"
+        width: 1008
+        height: 647
+        isCached: true
   - title: "Gen AI start-up ZuAI raises Rs 4 crore in seed funding round"
     excerpt: "ZuAI, a Bengaluru-based Generative AI start-up, has raised Rs 4 crore in seed funding, led by Prime Venture Partners. The AI-powered personal tutor aims to enhance academic outcom"
     publishedDateTime: 2023-07-05T08:50:00Z

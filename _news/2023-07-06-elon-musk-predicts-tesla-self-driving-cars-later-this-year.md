@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesl
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "http://cdn.primedia.co.za/primedia-broadcasting/image/upload/c_fill,h_437,w_700/mfaabzig8nlhmku99ioq"
         width: 700
         height: 437
+        isCached: true
+  - title: "\"Very Close To Achieving Full Self-Driving Cars\": Elon Musk"
+    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
+    publishedDateTime: 2023-07-06T07:57:00Z
+    webUrl: "https://www.ndtv.com/world-news/elon-musk-says-very-close-to-achieving-full-self-driving-cars-4182313"
+    ampWebUrl: "https://www.ndtv.com/world-news/elon-musk-says-very-close-to-achieving-full-self-driving-cars-4182313/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/elon-musk-says-very-close-to-achieving-full-self-driving-cars-4182313/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 44
+    images:
+      - url: "https://c.ndtvimg.com/2023-05/4aa9uhmg_elon-musk_625x300_22_May_23.jpg"
+        width: 1280
+        height: 675
         isCached: true
   - title: "Go slower on self-driving cars"
     excerpt: "Star Tribune Opinion publishes a mix of national and local commentaries online and in print each day. To contribute, click here. ••• Self-driving cars"

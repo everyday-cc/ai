@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsday.com/amp/entertainment/concert-fans-throwing-obje
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/entertainment/concert-fans-throwing-objects-j9thojt9"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "From human ashes to cellphones, what's going on with concert fans lately?"
-    excerpt: "From human ashes to cell phones, fans are taking their adoration for their favorite artists to dangerous new heights"
-    publishedDateTime: 2023-07-01T15:50:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/human-ashes-cellphones-concert-fans-100551112"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/human-ashes-cellphones-concert-fans-100551112"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/human-ashes-cellphones-concert-fans-100551112"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 43
-    images:
-      - url: "https://s.abcnews.com/images/Weird/wirestory_5f8861b074fc61f95abedbdd993f92ba_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "From human ashes to cellphones, what's going on with concert fans lately?"
     excerpt: "From human ashes to cellphones, fans are taking their adoration for their favorite artists to dangerous new heights."
     publishedDateTime: 2023-07-04T21:54:00Z

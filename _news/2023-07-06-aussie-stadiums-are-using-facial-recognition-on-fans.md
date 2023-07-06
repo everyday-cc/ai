@@ -39,6 +39,20 @@ related:
         width: 1080
         height: 607
         isCached: true
+  - title: "Big Tech: Meta launches its Twitter rival, Twitter limits user posts and sports stadium using facial recognition tech"
+    excerpt: "Mark Zuckerberg's Meta has launched Threads, a rival to Twitter, with the app seeking to draw users away from Elon Musk's embattled platform.  The release was brought forward by 15 hours and is now freely available in 100 countries – including Australia."
+    publishedDateTime: 2023-07-06T06:52:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/drive/big-tech-twitter-rival-facial-recognition-/102572324"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 16
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/856fa140f3fa9047032436204be8b4ed?impolicy=wcms_crop_resize&cropH=2228&cropW=3961&xPos=0&yPos=186&width=862&height=485"
+        width: 862
+        height: 485
+        isCached: true
 
 secured: "26jOhyO1Bs2bj9G1zgPJUgKbSkoRVIF4aqcz+VgBuq3D2FOQfdRPvxyvYJXbmheoQjD3WW0vcvLq00klwq1kN2dGf/wdP5XS48jc1n5Hq7IVOuJ+8Z3ZBJUlXY4FF/l07GB7sK3wanFXkMy3BbnCIB+QzllP+C1eptQktUpYZjw97xT2Igh1Alu8oWXTyHlINkOwJJQ5ndQOGH8iXFQJt5JZ/tx5XDUkwHbcCqWuQ6sZoY9n5Gn0mGAqrfJBlzO4lGJV4tpB0SxzMOK8uyyrXQYwUS/uvNeGKeef7WSTDHOaAxHHgk4v0jVPD8ySp5YxofK6koU61lN4OdUfIcR/lCbnOFLxEE0cBj07ot+/o9I=;EURnTTJhhASXcID+NSxNbA=="
 ---

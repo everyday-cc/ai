@@ -1,29 +1,29 @@
 ---
 category: news
-title: "What to expect from the ITU ‘AI for Good’ summit"
-excerpt: "The UN's flagship event on AI is bringing together industry, government and academia heavyweights in Geneva. Here is what to know."
-publishedDateTime: 2023-07-06T07:00:00Z
-originalUrl: "https://www.swissinfo.ch/eng/politics/what-to-expect-from-the-itu--ai-for-good--summit/48642344"
-webUrl: "https://www.swissinfo.ch/eng/politics/what-to-expect-from-the-itu--ai-for-good--summit/48642344"
+title: "What To Expect From The Itu 'Ai For Good' Summit"
+excerpt: "Doreen Bogdan-Martin was elected ITU secretary-general in 2022. She is the first woman to head the 158-year-old organisation. Copyright 2022 The Ass"
+publishedDateTime: 2023-07-06T08:29:00Z
+originalUrl: "https://menafn.com/1106562154/What-To-Expect-From-The-Itu-Ai-For-Good-Summit"
+webUrl: "https://menafn.com/1106562154/What-To-Expect-From-The-Itu-Ai-For-Good-Summit"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Swissinfo
-  domain: swissinfo.ch
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.swissinfo.ch/resource/image/48642518/landscape_ratio16x9/1920/1080/1b10789bad0a2e01be347326cdb1a022/DB7CFB5AC52B676109E2C8D446615997/538362400_highres.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://menafn.com/updates/pr/2023-07/06/S_594d0image_story.jpg"
+    width: 960
+    height: 540
     isCached: true
 
-secured: "BJfL6xo6zYlIoN/QZmjCUUfz3qDrfDwYsdeuOS5YMrsA85h1b07ZrPV0gYkFugrq7zFrJTHLdGFHq9HzyttQHx4uIuXr/ZsjWRj9C+Hm6R9EaoxdmXpNT7elmxg6JkMs8zD1htOpBiDuu1Vg/hq5GLxqmVh7Kl/9i8ViggHnVBwF1Sz0PZ2eRB4PsEt1wN0Q9/c+AbbJ680W4vLxE0tqyN1PA4zNK7CmHOTpJsj4TcWrasC35UrMGLHAZ61WZqsUwck2vO9NniqK1KHDgUMKb15d0X+l7/MhLeaWijcEu6KEhrHsyLaU4d/HoesIHuLmBCZQw+NBNRXR093BhujQL/DMVYYu6cbQJWMeWQnnmVc=;mqtQc0e3V+haEpiV5X9zgA=="
+secured: "uxc4q6yE/zY8cHvBJwlhCHOYSrqVMq4jY0cwUUEja5h0ouFx3L0Gxfe2HGVI6sz6vbOevWBNHXrO/9ZqL0gdNngctGb13iCXb1SM2nbnnXvgo6jAEEYYApp6960SJptPESGs/i2GbykRqZz3u3o0iKTWoPkzARWdY7Oq2WDo5HudCnqOK0YUwiIhukyCJzgew9+M1dMxDsxuNFnjgky4+glDR8DOVygVH6rcCr1PSirjw2N3RsbpKWVGxtGPBhgHAjDRuTGk2Mf8AfT/Umyij0VnnuDU+hAkgaQXJOdWVpvaPep5hnfzqXVGF0LUKmVa8LHkqOFSdNYLImLl4NttlbLsvzEnw3AVQcDl3Axq2Kg=;95kma4Km3a1ob5QBCp4YKQ=="
 ---
 

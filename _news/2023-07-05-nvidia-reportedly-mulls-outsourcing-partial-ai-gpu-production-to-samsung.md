@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230705PD201/nvidia-ai-gpu-outsou
 webUrl: "https://www.digitimes.com/news/a20230705PD201/nvidia-ai-gpu-outsourcing-samsung-electronics-tsmc.html"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "Samsung unveils new foundry strategy for the AI era"
+    excerpt: "In response to the advent of the AI era, Samsung Electronics is gearing up to strengthen its semiconductor ecosystem, and has further announced that it will expand the provision of process design kits (PDK) for 2nm and 3nm chip designs and increase collaboration with partners in system semiconductor R&D,"
+    publishedDateTime: 2023-07-06T08:51:00Z
+    webUrl: "https://www.digitimes.com/news/a20230706PD202/samsung-ai-chips-foundry.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230706pd202_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "CbBnn2fBLAfBMzQkkGAlPSWJshNJ92vwERhVR5JienCUTtSprew9tjl5v7TNjhatBsTPmqXtf1R9sZV+0ysdnJctF4zsvSbDg9vkF8zfa1orCtN1r0W6MeTTrRkyLfYNBiiyNLH4kiyG9m+9Ti31B8MRiHJQW9TeAAyRJu6JheeJyKXSb1Z2xdG7nnD0bqpH5A8NkHcQveF2ZaNzVwVtjduoATRrUG/4gVHPuxVC1QWrvP1Vk72MqUexbUYO8iV/FlXMcI7PWB/MlkagVrwC5/4hss8bx7KKp8OK+rGZaWJ7W3hEQaMSRi5BPdaFkNZOSF2AzPmLzgNfmzQyTYzoBea3aguF1itTOvKRVs0gqgIpNZWnkk5l6vmgqM00OVUW4OpvOqmskXcQtZ2XJRK3foZDsTWGwgTxMJisK0IGzzRTq/5XL/bxqzVny+xNzgCYw40TxUTMGuOmhzcR51+YlufymtIOEG4zAJeQhvXoLrRZEhLZpUJGRp2EkDjdTIZ5c8NRLm6O8Weop9H2Rjx0rg==;7Xr+sf/CwwrqwFfQ1MDDkg=="
 ---

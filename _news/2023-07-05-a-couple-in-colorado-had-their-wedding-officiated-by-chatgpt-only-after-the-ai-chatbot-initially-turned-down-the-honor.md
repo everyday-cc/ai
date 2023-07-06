@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How businesses can break through the ChatGPT hype with ‘workable AI’"
-    excerpt: "Creating AI applications that provide a step-change in user experience and business performance will be essential for Workable AI."
-    publishedDateTime: 2023-07-01T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_turning_data_into_products._Colorful_futuristic_tech_730862fd-2fe6-442c-8509-f73523c48d0e.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "SKT sprinkles ChatGPT over AI chatbot"
     excerpt: "SK Telecom upgraded its A. chatbot with new features it pledged deliver a smarter conversational AI, including ChatGPT elements."
     publishedDateTime: 2023-07-03T10:53:00Z
