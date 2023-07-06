@@ -32,6 +32,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Lightning Labs Unveils Bitcoin Tools for AI"
+    excerpt: "We are in the realm of enabling use cases that weren't previously possible,” Lightning Labs CEO Elizabeth Stark told CoinDesk."
+    publishedDateTime: 2023-07-06T21:42:00Z
+    webUrl: "https://www.coindesk.com/tech/2023/07/06/lightning-labs-unveils-bitcoin-tools-for-ai/"
+    ampWebUrl: "https://www.coindesk.com/tech/2023/07/06/lightning-labs-unveils-bitcoin-tools-for-ai/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/tech/2023/07/06/lightning-labs-unveils-bitcoin-tools-for-ai/?outputType=amp"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 59
+    images:
+      - url: "https://www.coindesk.com/resizer/ACUJqQWWxydXLefPY8SB55lXRJ4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FXCTNNGG5BCTLBV56KET722BGA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "New York City Starts to Regulate AI Used in Hiring Tools"
     excerpt: "A closely watched effort to root out potential bias in hiring and promotion software goes into effect Wednesday."
     publishedDateTime: 2023-07-05T11:00:00Z
@@ -41,6 +57,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "NYC will require audits of AI hiring tools for bias"
+    excerpt: "AI is far from an impartial judge of potential candidates—the technology can often perpetuate human biases such as racism, sexism, and ageism."
+    publishedDateTime: 2023-07-06T19:30:00Z
+    webUrl: "https://www.popsci.com/technology/hiring-ai-law-new-york-city/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "Zo3It6J7qL+zBa0351E/YIWtXLuXU2EgOpM2vI9T6lajvLcPj7UmV+co+Ivde7trtB17lHRyuyu4zDzgLcoO3uXQhLxLZ0DpIAucqkT6BS40+ZzDd9G1lRvqpxs1T3DG9RiCNBLsF0xZAJdyJVwlFPV2TM8BmX0+5HVdm/kJ6C1/1tY2fIIiC1G9cSomC9OGZJ58eGN+i5ck+MBX7VW4iAEYctLdtSXFeGI6mQNx0LbMcetrf+WOoe/MSx1LY8267iYBKQOg46DL31wbq0djSv5vHBoz1TAT4hWKW3gcplsluABbVu534DAbN9p1jh2uWlPDJCLKCuciSU2eYlXzZNo7kL4RYKoNZ33nIt5n38I=;NAoGUxBu+UXCVdwQRmxEUw=="
 ---

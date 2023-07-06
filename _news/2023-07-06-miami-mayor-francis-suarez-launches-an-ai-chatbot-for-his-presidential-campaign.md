@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-arti
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: CBS News
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about"
-    publishedDateTime: 2023-07-05T21:13:00Z
-    webUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
-    ampWebUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
-    cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
-    type: article
-    provider:
-      name: WTVO
-      domain: mystateline.com
-    quality: 66
-    images:
-      - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2023/07/64a5ddb2475494.99392003.jpeg?w=1280"
-        width: 1280
-        height: 851
-        isCached: true
   - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
     excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"
     publishedDateTime: 2023-07-06T11:29:00Z
@@ -56,6 +40,15 @@ related:
         width: 300
         height: 500
         isCached: true
+  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
+    excerpt: "A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him, marking yet another example of how generative AI tools are being used in 2024 presidential campaigns."
+    publishedDateTime: 2023-07-06T01:13:00Z
+    webUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
 
 secured: "lq/H9WvR/fMD3wF/CwVg/nhhjOBXmsSNS6yrLGpWewWuTDaKRc93gC/GI+zfReUl+7mwK2CybSYHUs5xMzM0kRIOJ4aHRzoaXazaSyctYdrTO6an4qR3vXYFWqRSpi+5uhXBqMPveLiasZ7JFIrYvacY7Jvvy8pzBHm/sD1NA+F6kgKOR1HoDIe5ySgNv5zLILJFtpc3tEHu1GuAHcN/OqjE2kgbS/i9e9VyXNf+iFFqljX+MBVae76N0deXhPCgo4yE12piElFSVFSP9HsopGwhnfLnnzDStV8XeaB0FmappMjhouqaa9BUEca43dl7eHN1pydW4nMgFiMqkHgHCfmLTnpCIKBN1AVmz8OEx5wsd7kdiRYe2dcIVY2knfobeC7Xa/kTrXt0rihZJRU9YPnUzEN3JAjz4eD6Blw8xaO2XRHL7k2uJ/E2EfWBi+/0bGbfVujNw5DLL+ddRAxKOVapV4atkrdaS1h9W6du5ATE8Zq9zaUchVBO+DC7+VMTelU8slc4jhD5pq45oow8RA==;1Z6oZ5e1CwoTrYvQkOgVIw=="
 ---

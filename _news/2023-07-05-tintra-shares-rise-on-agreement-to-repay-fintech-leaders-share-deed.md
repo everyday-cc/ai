@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreemen
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "AI frenzy bites into fintech"
+    excerpt: "Driving the news: Fintech has been a primary victim. Some 64% of investors at Collision said AI/ML could become the most disruptive technology in the next five to 10 years, per a Pitchbook survey. A year ago, the hottest category was fintech/blockchain, with some 29% of investors. Dollar figures reinforce the narrative."
+    publishedDateTime: 2023-07-06T16:15:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2023/07/06/ai-frenzy-bites-into-fintech-funding-venture-capital-insight"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
   - title: "Latest Trends In Fintech - A Comprehensive Analysis"
     excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
     publishedDateTime: 2023-07-04T18:11:00Z

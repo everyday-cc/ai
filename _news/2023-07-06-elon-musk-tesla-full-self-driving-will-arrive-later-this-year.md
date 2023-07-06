@@ -49,6 +49,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk predicts Tesla self-driving cars 'later this year'"
+    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone. \"In terms of where Tesla is at this stage,"
+    publishedDateTime: 2023-07-06T05:54:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/3007p2/article67048051.ece/alternates/FREE_1200/2023-06-24T170512Z_85981581_RC2SP1AFUMP2_RTRMADP_3_MUSK-ZUCKERBERG-FIGHT.JPG"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Musk Predicts Tesla Self-driving Cars 'Later This Year'"
     excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
     publishedDateTime: 2023-07-06T03:35:00Z
@@ -173,15 +189,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles ‘later this year’, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated"
-    publishedDateTime: 2023-07-06T12:48:00Z
-    webUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
-    type: article
-    provider:
-      name: New Age
-      domain: newagebd.net
-    quality: 19
   - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
     excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"
     publishedDateTime: 2023-07-06T12:10:00Z
@@ -191,6 +198,24 @@ related:
       name: manilastandard
       domain: manilastandard.net
     quality: 19
+  - title: "Musk Predicts Tesla Full Self-Driving Cars ‘Later This Year’"
+    excerpt: "Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated milestone. “In terms of where Tesla is at this stage,"
+    publishedDateTime: 2023-07-06T18:53:00Z
+    webUrl: "https://www.guideautoweb.com/en/articles/71180/musk-predicts-tesla-full-self-driving-cars-later-this-year/"
+    type: article
+    provider:
+      name: Guideautoweb.com
+      domain: guideautoweb.com
+    quality: 19
+  - title: "The Dawn Project publishes dangers that Tesla Full Self-Driving cars pose to school children"
+    excerpt: "Public safety advocacy group The Dawn Project recently conducted safety tests in collaboration with former Tesla ADAS test operator John Bernal. The latest findings,"
+    publishedDateTime: 2023-07-06T17:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33137280/the-dawn-project-publishes-dangers-that-tesla-full-self-driving-cars-pose-to-school-children"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "JyYPR/Q+lfGPj9YxuURvmzVhwC1bZCOUbltm5UQLIOox2lq3Aamqcjtx8bWxZCGndf2HXb4jUE2zlJMCFGrlgkYStL1g9ofdYfxe9dHzos0VhL5wZOkIVI73f/DMt5lgnofyz1tEkM8Ya64GJPDsq0gBeAYR74X8shoi46sRjj0cllY5MFNc6kDYeqk8PseqvtdWNYMhCifg0Q9OnQhWGGAbYyzZ9U6yJcXrjD893O8V9cpw096rI5rupoediXin9c6Ws+SXUyAIlTJHpC1aJfgPJ1JsU+xABK67ZU+uQhqEtLMvX6OMHVzUnxAoP3llkZjJzzhXqJg6feQnXtZq3FVnXSZKBsto1co7/n937uZzPpKC7ieus5YousKc+fpYwhVtfk8otmEmgW47ZLY6l6Yc6jbynx0BAfTtzKSS9SVIJHBiyO0cjKf28mfcyV4Kn8TGmP9zzjSaWnUpzIGdK5CXLtsBMjBCSA2/ZrN5+qKKU2DylyeKrumvGrj9M6ntZGDhZGk8s2ffiq7V/oCUoQ==;YPKCWCDDUWM1rzy9hh3dAQ=="
 ---

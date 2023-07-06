@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Simple data gets the most out of quantum machine learning"
-excerpt: "New theoretical research proves that machine learning on quantum computers requires far simpler data than previously believed. The finding paves a path to maximizing the usability of today's noisy, intermediate-scale quantum computers for simulating quantum systems and other tasks better than classical digital computers,"
-publishedDateTime: 2023-07-05T21:02:00Z
-originalUrl: "https://techxplore.com/news/2023-07-simple-quantum-machine.html"
-webUrl: "https://techxplore.com/news/2023-07-simple-quantum-machine.html"
-ampWebUrl: "https://techxplore.com/news/2023-07-simple-quantum-machine.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-simple-quantum-machine.amp"
+title: "Simple Data Gets the Most Out of Quantum Machine Learning"
+excerpt: "New theoretical research proves that machine learning on quantum computers requires far simpler data than previously believed. The finding paves a path to maximizing the usability of today’s noisy, intermediate-scale quantum computers for simulating ..."
+publishedDateTime: 2023-07-06T04:51:00Z
+originalUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/simple-data-gets-the-most-out-of-quantum-machine-learning/"
+webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/simple-data-gets-the-most-out-of-quantum-machine-learning/"
 type: article
-quality: 59
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Homeland Security Today
+  domain: hstoday.us
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/simple-data-gets-the-m.jpg"
-    width: 1000
-    height: 425
+  - url: "https://www.hstoday.us/wp-content/uploads/2019/06/code-1839406_1280.jpg"
+    width: 1280
+    height: 854
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: scitechdaily.com
     quality: 4
 
-secured: "o0/zDwqPIamQwwMrcpLa+qZzTwhXdkAtPAmzgD9gavEI1WqnV0Ykxz3Ln5h+K1/L1+KJNobOHlH/vwZqwhCEFo768o6vKSfNU7BEco9V/vIo9AjlG2i2vp7yHLRXb/NZPt3radqDcZAN5vXlmv1VIj6v4Dk2XzY8g29iGucyhWuoeLaomYrj7KZBVjYPWGRZ/J1aFW//LeNvI2D+QKZ/Tg6NfA1yYn6123goAZ7xzgAyIdnGvjWuK6DYfhJDC21fdJiyY/XfX7+SwpEbUUU3BGuS8GRVadjM1nsDu/D4GeLcsJdTRSyyUQ6u0yfDixf+NR29BHvgbF9g6oPZuy443jEqDfBf5YEvpZ574Y2LhK3Kq8Jbb47nBaNcXHsAXVS1KGNlTF19cQzMeayC6Uq8Iw32QohCzycMM9yvTAWTaAPNiIA50GfECXQTgvjlwhHP/BGph5q6kHkckDA6VlgzyDjeYqT+nvf4/beA5cbEe7ibGW7gqjtzAgFZfpB2HFRN5kn3FOuninSGkd0NwonLSA==;jOt5HJWXU7l8U7tl15WIMQ=="
+secured: "8o5un7cwGUNbZ2962v1vU1s0cVfXYPRaAYUdgXFm+PvYZ6ZgYsP6yUpDO5JGYSU/lBa8bkdSbb+N/kRr1Y9UceHPJRCtRia3y6xHbYts4t9T6N7ApzofdnV0AWmP8jD9RRAaJvRuKJyO79Peh+dJURWKrnFpapC9SKTGj+wJiKi99PTdwgrs5gsU/xVT70ALTa68lgM057yZmTwZBsAef2PbX8dsI4aNCclzZZQbVb05FTJy5fQ+xgBWgpg5BGbxUe4GfJFSQ4F8pgpaTLGbcJ181xL/euewzKe0gYqkXAP1yqj0qsCOLVsxSqHK7P8Y6xXLiEBi1XSf1UZZ5Oqi3CVD5C04+oMgbFCGfyvkC3M=;qojjQk/bgVP1q25DP1mK0Q=="
 ---
 

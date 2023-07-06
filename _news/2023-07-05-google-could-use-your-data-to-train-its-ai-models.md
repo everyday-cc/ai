@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 708
         isCached: true
-  - title: "Google's new AI translator can speak foreign languages in your voice"
-    excerpt: "AI is ushering in a new generation of translation apps, and Google's latest translation project is trying to break down language barriers with a new AI model that does the talking for you."
-    publishedDateTime: 2023-07-02T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/02/google039s-new-ai-translator-can-speak-foreign-languages-in-your-voice"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/02/2155682.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Shutterstock continues generative AI push with legal protection for enterprise customers"
     excerpt: "Shutterstock announced it will offer enterprise customers full indemnification for the license and use of generative AI images."
     publishedDateTime: 2023-07-06T13:08:00Z

@@ -51,6 +51,15 @@ related:
         width: 505
         height: 315
         isCached: true
+  - title: "AWS CEO’s 5 Bullish New Generative AI Investments"
+    excerpt: "AWS’ Adam Selipsky launches new generative AI products and investments, from an AI innovation center and startup program to AWS AppFabric and Amazon Bedrock."
+    publishedDateTime: 2023-07-06T18:01:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-ceo-s-5-bullish-new-generative-ai-investments"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
 
 secured: "vo5kxURjyHy0/ZnI0XVwD3NNNd+rDqPu2UXSiLgpzGZ3akD6ckENhganGMVNVRApzRX/V/DucXYRnWk7sgDAiUE328OUqSIx2Lj3BtMv4kFUoCr/z/cedA0HbuZLEpyOyVqWDN7GXJeKzVweHozesEJX2WxyPv3f7Rz86u7nuuGWNoQDA39c9Ef9+0kc8Z9tyMQcE6mvYufGeURXYp6SctN+UdYhp4/Xm7vHKbVEq90eZNdNazcfDdJuTD06/eHse1onjDAQ+yUBF47ulK8aJBAArF3Zn71fqCmhanCrToV0wYFkhRbjOVuWullZtjVSseJMfQrb0RTgdBbWoEZ3vxDLf5np8MGg6X8Cvfb8qGQ=;zyeSY7M0+iEYofx0IVuMzw=="
 ---

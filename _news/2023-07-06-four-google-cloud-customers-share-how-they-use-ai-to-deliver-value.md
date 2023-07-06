@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-clo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's new AI translator can speak foreign languages in your voice"
-    excerpt: "AI is ushering in a new generation of translation apps, and Google's latest translation project is trying to break down language barriers with a new AI model that does the talking for you."
-    publishedDateTime: 2023-07-02T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/02/google039s-new-ai-translator-can-speak-foreign-languages-in-your-voice"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/02/2155682.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Google Could Use Your Data to Train Its AI Models"
     excerpt: "Google has recently updated its Privacy Policy to retain anything posted publicly by users so it can train its AI models."
     publishedDateTime: 2023-07-05T15:36:00Z

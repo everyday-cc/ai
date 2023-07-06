@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and the future of work: A collaboration of humans and machines"
-    excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
-    publishedDateTime: 2023-07-02T04:27:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design2.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Ethical and Thoughtful Use of AI in the Legal Industry"
     excerpt: "This is especially true when it comes to publicly available generative AI tools such as ChatGPT, the large language model chatbot developed by OpenAI that, among other things, can generate text, translate languages, write different kinds of creative ..."
     publishedDateTime: 2023-07-03T17:43:00Z
@@ -109,6 +93,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 19
+  - title: "Congress faces learning curve on AI in health care"
+    excerpt: "Congress isn’t moving any legislation on AI in health care yet — but lawmakers are definitely interested in the topic. Why it matters: New generative AI technologies are already being incorporated into health care systems with little oversight."
+    publishedDateTime: 2023-07-06T16:55:00Z
+    webUrl: "https://www.axios.com/pro/health-care-policy/2023/07/06/congress-ai-health-care"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
     quality: 19
 
 secured: "/vOJEbeHYV8zCEuetAcgm9MWPaPDm3aOm+3r1ZNp9Jv7E99ulXxvL2dXcav0+s0PSNH/xXTBwyxCjE+sclUnHkcoc1t0CBbwTnznCO9ipCyhqMo6/X8Py9VTURB6ywdzs3DdQGhpmnWKE1yiPEac/sjBX9789F01KIKlsTBanTh5jWKXWEYdSL+J+MDbdqnGxClwd1PU7UfCIkybG+kAArzYrmwdgWAP3e4kYnfQN+TTN6NBadpk0zzywTpae3kF9GJIxHEadcnXQkbhB0IY9uUTh3cUvhNCZ27R8ETeJ/pScLQvyFK5CeERDC93wEB2pUPeNhB1TxJL7OevyKwvZuX3zbmX3kzB6ZV0BAERaC3QRHzbEKsqk7rk98ImfglBPNQeJyrhHl85LxrViX5yFTyn5Qo4HFLBzETPTNBippyx8/+UEGLW4WCOrsaXte/4C7FZf/Rvbp2HtsgfIwQAJuuQHVo3XRnlC44x4Nj3TLp9nmOW1FYgwT4BTHD8wFyLu8v6wz/T19pBgTp6sjBFlw==;EV8CkyOME6FH7nLG+F6kmA=="

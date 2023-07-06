@@ -6,9 +6,9 @@ publishedDateTime: 2023-07-06T17:26:00Z
 originalUrl: "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/"
 webUrl: "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-06T120228.476.png?w=1200&strip=all"
@@ -27,6 +29,6 @@ images:
     height: 750
     isCached: true
 
-secured: "Bu9fSpeSbg0HM5XGf3I6pPUSHg0rf4NOO7iKypgjXNb2+1/ez+ElB/z0Dn5UvN/JZQvFF0h8UK5lSLqGPjP8DAd+FL2wkLMvsQfm6q3ZVggnlcJcb2ZWCtbjR8TFJlCtIBXGF7BlRFhh2POfUcL1IWQbRKkZ7tPnmrlx/o5uqjTN13mxSs7ZNd23nIHWB1B69ZtZSH+EiCeSFHM+mjO7QqyM7k2bkICGToXFpatSrar9EabdLkofTpPwYHHB+A7PKDJuxvP00eZX4kqlLL4gsUq+nR8OhABG1O0RZyaZh0hCN1d53vJxfcdIlUsaMxUsw9BNM1BFQjr1jN0lldc/OmXaHKc85Q5pipHDm1zmx+w=;+Lmh7KunS+hHDJ+DlFb00A=="
+secured: "DUsOw3TB1Qpsfi7uGOVHNfGAKwxh1S9RPZsKwf0l18c1H28C+ZEPrXPuMU7KsQOomB/PuWpaa59aPRJbAnNXDv/YlkTlaU3rO16iRfziKzVX5v1sG38hJUdG26MxDfmZX3IpmRmfbBCFc5vNB5w77O243tJQPrJZac/uvMRpRb7kxbY56x+NaYnOV6IwxxECmqZfsKpLnwn0bjgeGpCSKiwTKUEZISSzT4mYmDOn5+qpj1NCYgbBFYUFDtVDyAePEFQLNhMYrYSn86Ks4w6FsUnqmdKP9SWjQkpSBSOGas2HjNxKc0dI4UXmX378VdDKxoMZWPzQqiXY/rRcEkBiEVSizyqINakKCeSXhdJcZb3R9vKpCraRyYN1jqWYG6Ru6FnwabJntq9NfSTGuIxQbsxGAuKMqEx1ORFLoDk5/hHvAdyMq+1e0IZIwXyc2ncKyMyvSPi3KwrAoq4agzlSWBQAkRMsYLMX7z/A4uIs3KU+xqHAxaFR8x1XbAl9WvYGXYH+ghubZ2xpIkAL1/heoQ==;5MQE2SmqYxVM+Epxi2QXYg=="
 ---
 

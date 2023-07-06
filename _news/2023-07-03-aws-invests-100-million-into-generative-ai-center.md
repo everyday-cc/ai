@@ -9,7 +9,7 @@ ampWebUrl: "https://technology.inquirer.net/125632/aws-invests-100-million-into-
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125632/aws-invests-100-million-into-ai-center/amp"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AWS CEO’s 5 Bullish New Generative AI Investments"
+    excerpt: "AWS’ Adam Selipsky launches new generative AI products and investments, from an AI innovation center and startup program to AWS AppFabric and Amazon Bedrock."
+    publishedDateTime: 2023-07-06T18:01:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-ceo-s-5-bullish-new-generative-ai-investments"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
 
 secured: "vsluFzaflGMYuE6rBQ3bQ+yZCIPxY7AJfVnxWKaALcyfM60AkiBkfDp9j9O72q8+JwyJqzcl1++i9GQslNkj0S7xWKh5ArhyG76iSI2oOpsN8sVZvVzZPZV3MEOb0T89mnDfHOc7by2BbyamQKbLajlbiDGl5RN6Uey03ZUr9IoDzwqfvQwdFqNAJXmsGKI1Grs6Iu7JAU/kWdYc0w71OBS8NIORANpYqmeeA8+6fAbvXT+PM/0L9t5/Z4o78JMsrgHAR7dXlDZYUbc/BhkL8Yn6Pd7qxPon0mytlMcufY8lwmEQT8ERNTcNl+sj5F49VEF7pS9KtwoLOK8feAeadfmeKRu75MKrFi2DJXyiP6JePNVHJ9vUwxT4Xbh65mFrVcItbLSW8i5JXO7itVAUEYogzwGYejhsMbdk5eI9hqHCEPMr3VRcrfie4mb+2J6M1dmQDviBOOAClqZqslTQx3WtDdRPxYgvDQ2x/HX9lFQULSU/E4JMI4dzWpqJVt3XBn+YlqKn7T5d133/1DYiAA==;7Dksj2kd+uLPuRFe+zzmOw=="
 ---

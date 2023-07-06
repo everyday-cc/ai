@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "TCS to train 25K staff on Azure, OpenAI Gen AI tools"
-    excerpt: "TCS also launched a generative AI business offering, called TCS Generative AI Enterprise Adoption, which will offer deployments of OpenAI’s generative AI business tools via the Azure platform to businesses."
-    publishedDateTime: 2023-07-06T16:46:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings-11688661860898.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
+  - title: "What happens if a superintelligent AI goes rogue? OpenAI doesn't want to find out"
+    excerpt: "OpenAI is warning that a super-smart AI could 'lead to the disempowerment of humanity or even human extinction.' So it's building a team to stop it."
+    publishedDateTime: 2023-07-06T18:44:00Z
+    webUrl: "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/06/600x338/-Mint-_1688661819003.jpg"
-        width: 600
-        height: 338
+      - url: "https://www.zdnet.com/a/img/resize/a27bcb6ac15e312d7b316c9880953a5713305bfc/2023/07/06/f56b62d2-b51c-454e-b950-3948506ffda0/gettyimages-1499492092.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "OpenAI is forming a team to rein in superintelligent AI"
     excerpt: "OpenAI is forming a dedicated team to manage the risks of superintelligent artificial intelligence. A superintelligence is a hypothetical AI model that is smarter than even the most gifted and intelligent human,"
@@ -55,68 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
-    excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
-    publishedDateTime: 2023-07-04T16:30:00Z
-    webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
+  - title: "What if a superintelligent AI went rogue? OpenAI doesn't want to find out"
+    excerpt: "OpenAI is warning that a super-smart AI could 'lead to the disempowerment of humanity or even human extinction.' So it's building a team to stop it."
+    publishedDateTime: 2023-07-06T18:29:00Z
+    webUrl: "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
     type: article
     provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 62
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
-        width: 390
-        height: 205
-        isCached: true
-  - title: "Legal Blaze Hits OpenAI: Copyright & Privacy Battles Test AI Ethics"
-    excerpt: "Two authors, known for their works in science fiction and horror, claimed that the AI model could accurately summarize their books. This suggests that ChatGPT may have used their works unlawfully. OpenAI is also alleged to have collected images ..."
-    publishedDateTime: 2023-07-05T01:22:00Z
-    webUrl: "https://techreport.com/news/legal-blaze-hits-openai-copyright-privacy-battles-test-ai-ethics/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/07/shutterstock_2318038065-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
-  - title: "TCS to Train 25,000 Engineers on Azure Open AI"
-    excerpt: "TCS on Thursday announced plans to significantly scale its Azure Open AI expertise and plans to get 25,000 associates trained and certified on Azure Open AI to help clients accelerate their adoption of this powerful new technology."
-    publishedDateTime: 2023-07-06T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/tcs-to-train-25000-engineers-on-azure-open-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/tcs-fy23-1.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "ABB and Microsoft Partner to Integrate Azure OpenAI Service into Genix Industrial Analytics and AI Suite"
-    excerpt: "ABB and Microsoft have announced an expanded partnership to integrate Azure OpenAI Service into ABB's Genix Industrial Analytics and AI suite. Th"
-    publishedDateTime: 2023-07-04T07:45:00Z
-    webUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/"
-    ampWebUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 52
-  - title: "Republican AI staffers to watch"
-    excerpt: "Here's a look at some of the Republican staffers working to get legislation across the finish line. (We profiled top Democratic AI staffers here .) Young, a key player in CHIPS passage last year, was tapped again by Schumer to help write AI legislation. O’Brien and Cheever will be leading Young’s efforts."
-    publishedDateTime: 2023-07-05T17:55:00Z
-    webUrl: "https://www.axios.com/pro/tech-policy/2023/07/05/republican-ai-staffers-to-watch"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
 
 secured: "P+z8D7WCHzKA7LyOl42eGTmU6RyG4G5RNY2mPJwptlZres/El7dwte+VFhhGlg3DjOIIp2mnfAOcy8Dwk2ZuOfpw4Ngyf8EZ0EgmFKyQkWxPalz+UMTQJi5d+xm90aOeS5u56W6YV/uzlaOYQPlRZ2JTgW+Mc5K+UOVvF2fph8jkE3ToZa9YJ5x/RUBxzcsBkzHJ2sqrslP+aKICYr+fHki+VdBQxZ66dqz8H93Y+AH1bjdZlqtBlsWaitS53/MvPwDw8ZM9WlhZpEwlKpfC3h8BM22KF92AczN9RgQfm4X15HJvbqhg2vm/KxTT6uKG/6XPfUegTb7tByng/BEd8WyZLO7GSLgNNNFsge75VeA9Icr4E6BobwqBAy5NKpj954JQb+Ebl1FmK1ooPYgQ4evHtnx7AKZADOFGRkBdtXIjvHsn0gn8N/NU2Xhp2ICgo1bzv3GT9tYaQdTzBlBRuH46udsn342s8521LHA/PVWrs0euy3fKP4pEsLsBRYQtTkCGY4LekT8vQwwITmpcYQ==;0uOX126TlRx6yVttssG5iw=="
 ---

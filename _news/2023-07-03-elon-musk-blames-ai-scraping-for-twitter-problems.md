@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/07/02/elon-musk-blames-ai-scraping-t
 webUrl: "https://siliconangle.com/2023/07/02/elon-musk-blames-ai-scraping-twitter-problems/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 907
     height: 555
     isCached: true
+
+related:
+  - title: "Elon Musk Predicts China Will Be an AI Powerhouse Someday"
+    excerpt: "He believes that China has the ability to excel in various sectors and emphasized its potential in AI development. (Photo: STR/AFP via ) Despite the challenges in AI development for the past years, Elon Musk believes that China is in a strong position to be a dominant force in the industry."
+    publishedDateTime: 2023-07-06T19:40:00Z
+    webUrl: "https://www.techtimes.com/articles/293523/20230706/elon-musk-predicts-china-will-ai-powerhouse-someday.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293523/20230706/elon-musk-predicts-china-will-ai-powerhouse-someday.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293523/20230706/elon-musk-predicts-china-will-ai-powerhouse-someday.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431159/elon-musk-predicts-china-will-be-an-ai-powerhouse-someday.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "ixXZHuzUtyzvqR8AMNcJxp89kkHhppGlrJD8eV5V4rSkr4TGWMx3lZz5TAhOj+MKLjNjSFhMsx6R0/Md5UBQOJXALp6xTayn2y5lb37DUagQmUTnlopvf7zb3mKju5CyCcaXSFaEAbOpFinm6z70OX4Yskd1ux5uRco5RXjnot4lVJ7FbzRQvdknbeSctcthoiKH7WtM/oAgXT33jIoB0omApiZm77BnUUnYdMbfZLHrkltpHnH/rjuq8+xLd4+mt8k3HMpvM7QF1ME46wPE9x77msg0ilebIm3CqxE4TW6cebidMXV/NNQRwRY8RkKnFNA6H9T0WiQ8gPz8awHsCzR84nReGqkli6GfsvUITkI=;0/o8rNlhSsRAp3lfPCg5Zw=="
 ---

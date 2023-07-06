@@ -36,6 +36,31 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Lightning Labs Unveils Bitcoin Tools for AI"
+    excerpt: "We are in the realm of enabling use cases that weren't previously possible,” Lightning Labs CEO Elizabeth Stark told CoinDesk."
+    publishedDateTime: 2023-07-06T21:42:00Z
+    webUrl: "https://www.coindesk.com/tech/2023/07/06/lightning-labs-unveils-bitcoin-tools-for-ai/"
+    ampWebUrl: "https://www.coindesk.com/tech/2023/07/06/lightning-labs-unveils-bitcoin-tools-for-ai/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/tech/2023/07/06/lightning-labs-unveils-bitcoin-tools-for-ai/?outputType=amp"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 59
+    images:
+      - url: "https://www.coindesk.com/resizer/ACUJqQWWxydXLefPY8SB55lXRJ4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FXCTNNGG5BCTLBV56KET722BGA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "NYC will require audits of AI hiring tools for bias"
+    excerpt: "AI is far from an impartial judge of potential candidates—the technology can often perpetuate human biases such as racism, sexism, and ageism."
+    publishedDateTime: 2023-07-06T19:30:00Z
+    webUrl: "https://www.popsci.com/technology/hiring-ai-law-new-york-city/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
   - title: "‘Nonsensical, Bulls**t’: Artificial Intelligence Hiring Software Must Be Audited For Bias Under New NYC Law"
     excerpt: "Artificial Intelligence Hiring Software Must Be Audited For Bias Under New NYC Law Ireland Walker on July 5, 2023 Companies in"
     publishedDateTime: 2023-07-05T18:05:00Z

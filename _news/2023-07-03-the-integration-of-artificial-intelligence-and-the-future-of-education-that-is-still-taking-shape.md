@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and the future of work: A collaboration of humans and machines"
-    excerpt: "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,"
-    publishedDateTime: 2023-07-02T04:27:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design2.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Ethical and Thoughtful Use of AI in the Legal Industry"
     excerpt: "This is especially true when it comes to publicly available generative AI tools such as ChatGPT, the large language model chatbot developed by OpenAI that, among other things, can generate text, translate languages, write different kinds of creative ..."
     publishedDateTime: 2023-07-03T17:43:00Z
@@ -102,6 +86,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 19
+  - title: "Congress faces learning curve on AI in health care"
+    excerpt: "Congress isn’t moving any legislation on AI in health care yet — but lawmakers are definitely interested in the topic. Why it matters: New generative AI technologies are already being incorporated into health care systems with little oversight."
+    publishedDateTime: 2023-07-06T16:55:00Z
+    webUrl: "https://www.axios.com/pro/health-care-policy/2023/07/06/congress-ai-health-care"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
     quality: 19
   - title: "AI is already linked to layoffs in the industry that created it"
     excerpt: "Many have raised alarms about the potential for artificial intelligence to displace jobs in the years ahead, but it’s already causing upheaval in one industry where workers once seemed invincible: tech."

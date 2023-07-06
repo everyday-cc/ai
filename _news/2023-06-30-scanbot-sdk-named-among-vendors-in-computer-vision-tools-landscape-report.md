@@ -6,9 +6,6 @@ publishedDateTime: 2023-06-30T12:46:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153"
 webUrl: "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153"
 type: article
-quality: 68
-heat: 68
-published: false
 
 provider:
   name: Business Insider
@@ -28,6 +25,6 @@ images:
     height: 267
     isCached: true
 
-secured: "PaTUWyydzCPhvu+Ny6/2Z+54WuHA8UytexJr9hBNfVfFpZ+s5F+JMNO3eKtwSRnF02iBm0EnLSgXv4YDl0j0avpyck4cGAdmHAJRGPFZ48msucqtDp0mCprpy7/zfhgD7keeZ0WMe+mtHVDJG+6E5pFmAg3xExTOtuCQQ5qBNqWUAzJwKZ3dFbxBek7Wy5Bo1nI9TBmC0iQs4Uro+RK7sDiCwbXqRAFGouQE491rr8jccNjEEyNpH8OXIcyyjZNBkDCwItOflGvNSkkZBg1vPnFeFaMGvjNLykW5P2Lrl18f+JX+psxepB/XahwCeETiKocM8k1DXwus6nCu56pqVWxC8C1+U/lHqkmOt4zDZMc=;beA/Q/JyVcLTOdCxVLBw5g=="
+secured: "ovinYJMgrhmSFK/6eq2GICE6+ICLbaCNpetPpZR4y6U90D2p45JKCjMfCxu5pNir8kUlIu72kTw9aP5sIM+Hms1n6zt3+8+cjnzwa+l+kRdXUWfmVy4r23jvQlOG0qCkXtMfBraujFtEf2IDbgEQ8WbaAX7XSkO6Rb1uDNyrdj9GOXOPbDP4doNmAS2DbYSVR+MNbO8xDHCawprsir08mzdlsMOdj3QGP5D0soTVwYLmcUuW0umb3h3MV652R7bsFG/BsBfOeG/oIoH3UciKy5rvbD2VLOy5s0T0QCHxgxHEk2T1nwVXj6eGpzHVseA/DyLT1VevQvMuU2DymOSMyCYMzvGJT2+bAwrKnK/e6K0=;yNPHCjjYnuahueDAWJF0zA=="
 ---
 

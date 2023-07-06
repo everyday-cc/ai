@@ -1,30 +1,21 @@
 ---
 category: news
 title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about"
-publishedDateTime: 2023-07-05T21:13:00Z
-originalUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
-webUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
-ampWebUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
-cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
+excerpt: "A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him, marking yet another example of how generative AI tools are being used in 2024 presidential campaigns."
+publishedDateTime: 2023-07-06T01:13:00Z
+originalUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
+webUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
 type: article
-quality: 66
-heat: 86
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: WTVO
-  domain: mystateline.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - AI in Autos
   - AI
-
-images:
-  - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2023/07/64a5ddb2475494.99392003.jpeg?w=1280"
-    width: 1280
-    height: 851
-    isCached: true
 
 related:
   - title: "Miami Mayor Francis Suarez launches an AI chatbot for his presidential campaign"
@@ -58,6 +49,6 @@ related:
         height: 500
         isCached: true
 
-secured: "22gED+L7W+17wmM3EccPfw6X2iERvP6lGkvFKwo5EBhyPYk3PDh2OaNZ+aJYN5ltmz6dVWv/d6asCzD0CTbVKWyUWgVwEoMC0cBNTdbsH/4zEw1O4G9OLMqzGvNWEo28pXFgcjvbGnGhy6URzXIBOkyL5JEEOJh/X5z3b/75F1l+pmeqWvSvSnLUZG2LMETgxZXhjWc8jVyBbl2bybwE2uWwFcx+BklSCZ5Gy532kyK5IHxgUayTP9Jqy+CWuoC88vpCJjy74mms0Ma75JFRrEkEzx2cdrpd62L1gKa7K2dObT3d6LfeQRrXljBcysgTgWB2HR/yxjYF4VHR1G5VrTIiMEf/BSwtforPgVRoFFE3hUBDkJL4NQVz119b299gl0bQ89SB+/AFxIIfz8qqA8xuurQGFmtPlLdd+Y8xy7cIjAYWLJ3WTs9hE4m6CFqNN2fOuaoI1JHNy0xiN61qByn6wsgEnES/UdLuCJdTh73mnlqWAETlcmUBlvPpWAOKOSHHFK0h9TuCWrVmm/en6g==;fho7siqx7PeWuUQeTb2FTQ=="
+secured: "ticg1OtAR2B0+ujabAdHSOonFa30lGbwxbqrtmoeFrKvL4ntLLy+4J0wHfzLSodmrXwBi+ACMZ7ENtzglN8iLy8xGf/9G+47uYh3f2KmE+d4JVc4BRRNpNvWneU4/ApgJpGla3enwa8BwPCdofqznQEJvNV8fWd4VUEQ4Bey3OliqGNSIfzhxQpfgUjwx4YfkqrseY+wGl6IrkAb/DN3RJugCbs6b5szfNR6wPKLLfTYHLui7oSSpK92/jtJVSM+iLKj4j32VCfT8w2S+exY29U4zGtGzLJ2wdhjXx4D0SWnHpHdyLXCUMy2HeO3e/FGO107DkQNPdR0lvo+UG5Mn4q8BkQO7BTVCN7T2lmLO1t/PG33J/tTFb437XXJhzrB6EtwXdI7xul43eWNaJ6NASOaLnkr/WGEIrlBNB+nUaX4bXzWjGeUHLa9LQ6jvDIuOKBs+98ktQm7nXQux7MZgxUOAz5a0VFjg1rbEQaT3LXPfMrlrOlv6lntxv/Tz1beeeGYYPq2DrKA3qa9uxn/uw==;aopyW/5eGTr1X+Sae4H9Yw=="
 ---
 

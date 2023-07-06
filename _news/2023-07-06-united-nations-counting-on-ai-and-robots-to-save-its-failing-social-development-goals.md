@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-06T13:39:00Z
 originalUrl: "https://interestingengineering.com/innovation/united-nations-counting-on-ai-and-robots-to-save-its-failing-social-development-goals"
 webUrl: "https://interestingengineering.com/innovation/united-nations-counting-on-ai-and-robots-to-save-its-failing-social-development-goals"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/06/image/png/f4NfANmyZz5D9TGBjwuO8HmK2KUBCWJCPa3CLXFZ.png"

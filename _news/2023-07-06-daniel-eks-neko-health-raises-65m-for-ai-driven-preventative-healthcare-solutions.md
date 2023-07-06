@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-06T16:08:00Z
 originalUrl: "https://venturebeat.com/ai/daniel-ek-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions/"
 webUrl: "https://venturebeat.com/ai/daniel-ek-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions/"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/07/Neko.jpeg?w=1200&strip=all"
@@ -58,6 +59,6 @@ related:
         height: 8700
         isCached: true
 
-secured: "qdHeMdKdF6WNGD/XeaM4g3ntabEkLH52QWB2PZ5luVtnC22fLji5V463czw2nFRsAgu/V+4uvTAmU101iTAR4wOB3rXCyHVRe8qVzDy0pFk2cvggnxVUQjxtTI0wk6hQ2A4jPcZEu7d3pdwMxxYISD7f3jU3v5zhht9oLBTf6gU5LVNmZbaOBiAGgNMRTAAx8rsDoj7r/5PbICH9/HenQcsPIyNXXhdb0qamM2+W1We7hwITKyr/YM2FkKRLsVxN7CB/gr2Y79jku5V5xN7+zRZlo3WPndSrEWKKqDvLuXZY/tBRvlO8DYqG5Vs8HyqvCLu8N1LBu3JfWXSpfDnw/nehDsvx6dhS51YB3v1SBcg=;mbIzBvpyV/DGnLdVhnNVXg=="
+secured: "VXU3Xm9/19plM+dWsB9mPJyTmjYbzwkDng3VwLKs5Kx8415Vs0CgFNnk0/pS/tmI8qojZM+gfG768TKRaTWmVMaOsEMrz1nC5dxqe9VBtFg7YMAtfUwRkbIVs7cFZhmfguR3a9m3IMsEge1fKcVTB3f1B0E5/ox0r+LR3k4KIOlK2zBsf/joommF1zOLK45T8IuvKfBWWpo0TdRb4eRI7nOm/pRGbIYIupi48zfYNKSlrKks0vqcTjjSXmyjIUsHfsk0qcy2WGdf65fPdLiiwD9qas48Synt0FpIj/HSnqA4885Z8KmZpmpohtNkRWoY/Bwn9T6LayP1OxL6xFVdSxJO/GVBFupB17t4hqsCSjJ80ETLO+Os+yooKpsa+u71nntOq/7tu2EePA9aDcAOJOpUn359glMRLUu3opvewkHwokgFh03pyRYPW5tT7GsQFDQmohDlCc6bdR81B9smq9BpnnpmEX33vTeohm5YDzxK1ByDevfOZX4Hr9imj6vurqWT54LKKwWJqgx3tyJCyQ==;1OLTX8Ye+Y87eo8impumsw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/robotics/softbank-venture-artificial-i
 webUrl: "https://news.crunchbase.com/robotics/softbank-venture-artificial-intelligence-telexistence/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank backs robot startup as Masayoshi Son goes on the offensive"
-    excerpt: "SOFTBANK Group joined a US$170 million funding round for a robot maker, adding to its investment portfolio after founder Masayoshi Son said he’s going back on the offensive. Read more at The Business Times."
-    publishedDateTime: 2023-07-06T09:59:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/softbank-backs-robot-startup-masayoshi-son-goes-offensive"
+  - title: "Retail robotics startup Telexistence raises $170M"
+    excerpt: "Telexistence Inc., a startup developing artificial intelligence-powered robots for the retail sector, today announced that it has raised $170 million in funding. One of the investors in the Series B round was SoftBank Group Corp."
+    publishedDateTime: 2023-07-06T19:44:00Z
+    webUrl: "https://siliconangle.com/2023/07/06/retail-robotics-startup-telexistence-raises-170m/"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 19
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/telexistence1.png"
+        width: 957
+        height: 537
+        isCached: true
+  - title: "SoftBank backs Japanese robotics startup Telexistence in $170M funding round"
+    excerpt: "Tokyo-based robot startup Telexistence raises $170M in Series B funding from investors, including SoftBank and Foxconn."
+    publishedDateTime: 2023-07-06T18:00:00Z
+    webUrl: "https://techcrunch.com/2023/07/06/softbank-backs-japanese-robotics-startup-telexistence-in-170m-funding-round/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 61
 
 secured: "zLNsHUcidO9q5Xe4BGQsEMNyKTDCvXgit5hDlu/j6G+N+NWloijQlEWepLMKswIPjXsjvSCnQjH8qdcFILsO0QwDTpXRFLRgkUMezX/D5aVqVBTxg6WpTDGAkA7zOu1aiDzw34lr4jKw4sNQI4SgB8pJkxjywje8qi8sKUhXFVVTWQvNmGB32mneNzS1b3wnSBc77wY8QdAB6F3wvcuQsmrx5HHrkjwnwYSLgbnEz4xEYOioEJIju3aTLgdLudQd/x2lnM5Nt5mHNbZC5iGrA65Ldk5N3RryPU39Kw5He/H3FnkpczHGEyGmYRPz9MmPBH1gNSsojPJdZAim3NmtNvG3OQJiqUilyUR9sRTyAjc=;k2nVNnMWI4T4/OdDYfeL/A=="
 ---

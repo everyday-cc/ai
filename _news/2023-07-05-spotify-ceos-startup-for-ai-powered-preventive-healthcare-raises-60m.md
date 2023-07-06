@@ -37,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 78
+    quality: 80
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/Neko.jpeg?w=1200&strip=all"
         width: 1200

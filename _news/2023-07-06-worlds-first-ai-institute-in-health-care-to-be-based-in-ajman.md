@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/business/healthcare/worlds-first-ai-institu
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/healthcare/worlds-first-ai-institute-in-health-care-to-be-based-in-ajman-iqyij4j0?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Zawya
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "How 5 healthcare organizations are investing in AI for patient care"
+    excerpt: "Healthcare organizations are investing millions of dollars into artificial intelligence to achieve a faster and more accurate care delivery model."
+    publishedDateTime: 2023-07-06T19:08:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/ai-patient-care-cleveland-clinic-providence-adventhealth"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
   - title: "Uae: World's First Ai Institute In Health Care To Be Based In Ajman"
     excerpt: "UAE-based Gulf Medical University (GMU) on Wednesday launched the first-of-its-kind Institute of AI (Artificial Intelligence) and Technology in Health Care aimed at developing digital skills of medical professionals and improving the delivery of health care services."
     publishedDateTime: 2023-07-05T19:17:00Z

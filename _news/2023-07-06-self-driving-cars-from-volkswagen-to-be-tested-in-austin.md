@@ -36,6 +36,38 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 34
+  - title: "Volkswagen to start testing self-driving ID Buzz vans in Austin"
+    excerpt: "Volkswagen launched an autonomous vehicle test program in Austin using a fleet of ID Buzz vehicles equipped with partner Mobileye's technology"
+    publishedDateTime: 2023-07-06T18:03:00Z
+    webUrl: "https://techcrunch.com/2023/07/06/volkswagen-to-start-testing-self-driving-id-buzz-vans-in-austin/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
+  - title: "Volkswagen's Self-Driving Cars Begin Testing In Texas"
+    excerpt: "Volkswagen is saddling up for autonomous vehicles in the U.S. with a test fleet of self-driving ID Buzz EVs in Austin, Texas."
+    publishedDateTime: 2023-07-06T20:20:00Z
+    webUrl: "https://jalopnik.com/volkswagens-self-driving-cars-begin-testing-in-texas-1850612015"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 24
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2977d6cdde7cdbc405153eb1d092ef38.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VW selects Austin as U.S. hub for self-driving tests; ID Buzz electric vans to hit city streets"
+    excerpt: "These retro-looking VW vans will be seen cruising around town soon. Don't bother waving to the driver — there may not be one."
+    publishedDateTime: 2023-07-06T19:40:00Z
+    webUrl: "https://www.bizjournals.com/austin/news/2023/07/06/vw-self-driving-vans-in-austin.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "Oi51W72mBsREhhXW42zT2HSmD0uY5VyeqHfcl7GZ8CjgFeYrWI1bmn0qTL+0aGMcuRQuX0yjPYwoWiq5rpjqQV5P1nhcgHGcQS44HcXRBOwUBVwm0jNB0tixuj1WYKV980pEyQ9K92Kitx4czOdhndIldLAALutzAww9OBfy1zzZwg14UGkHkYojXKXjqbQctvfiRLdm+0BEWFswCrmnPNm/8C5favJjOJ8Tou59C62qY/WrredE5QxIZEa23Jcd1WqVN9ew8rKybU5Kfi4gFAQ2cTmRWGvV8orUeqe2AG7qOluP6dfbdB7s4WP1L1Sxohol6J/vztLmFaunOkX8+6Abw+8URABHFyi38A+yRZs=;zZzq8aHpEzV70HsYbTse9Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possibl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "U.S. Weighs Human Rights As It Looks To Expand China Chip Restrictions"
+    excerpt: "Since the controls affect other industries that rely on the restricted chips—most notably China’s AI industry—Beijing’s claims that the moves are an effort to undercut China’s technological and economic development have significant supporting ..."
+    publishedDateTime: 2023-07-06T19:43:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/us-weighs-human-rights-as-it-looks-to-expand-china-chip-restrictions/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "MPujnYKNU8Xdk5qln2DxWvgfVLk/eIdNHJSE7Yi4PGmhp4hSo2/R4a2sLR8cDyVmSuuP/vuCSoF2AuF0u2RNh8uBYf7K1YrbtLqdC0owvVmdtGGkbCTY/X9okhLVmc0Yg+x79bupms1xS8UsXCo//Wrifp1QlFF1ytYLqlyuFo3e1c/ESm1BQyPeGFL6E8MEDWPs7oFYi8QZxjIg5oiz3zhYbcG6oGmk2eDjq4G9YiqWkIE3zY35lxGDF/fm2pl8riekoG4KJn50xHyRykXECkt0dRyGvJn4omo0N6IVPkenIAB64DwThJEmlDu2B5fHuyVWHLTznpmj9vGDXaem183hgf8yKYXPNA7SKajKTdY6rjPDz/S/fYnN9sSPyNNFkhwWuJZ7cPWJHl8/+engGoBhKiUmLgvPHef7w60yBPf/hA3dfTt/8Xh+VNQ2Bsadzq0DmxKfMhIayHkAtifSKyuDRrDfDeRwrCLFR3ExvUiTSKZNXsmW3HUZVxpBLXi1krOz+2vja026MJLLojoZcw==;9xtaaDQ80iIP9sAddUlslw=="
 ---

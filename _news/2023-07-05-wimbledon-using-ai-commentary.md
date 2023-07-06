@@ -24,6 +24,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Commentary: Congress, before tackling AI, save local journalism"
+    excerpt: "Start by passing the Journalism Competition and Preservation Act, which would allow news outlets to collectively negotiate content deals with tech platforms. This is a straightforward response to the imbalance of power between news publishers and giant tech companies that dominate the digital advertising marketplace."
+    publishedDateTime: 2023-07-06T19:45:00Z
+    webUrl: "https://www.postandcourier.com/opinion/commentary/commentary-congress-before-tackling-ai-save-local-journalism/article_c017dc9c-16bc-11ee-a0bc-93bd951f9a7d.html"
+    type: article
+    provider:
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 19
+
 secured: "kA7dkJzNB0t80Wv+txthbm9y9DsZpq+hi+8irQu1nHHWmM9MSIbHYreF5uIOn3LrZ1WWEwBO8woft+Wwqb8rNB14zsTGeUVmXF+8tiftjFucwRlZtoNKiM0v11A4NcJnPv/9HY+1qJynBN+/B7QV2G6uoOGbxgEfWOHZGHMkVTWferWLqfXyUICT/GZvRR331jztMyyrQNkiSuJsPecdZ8jkk4XfcHzS26uVkVle0l0MhGqzTLQ8s6Gzah1t0Y301Lg0hauNQNoh+cGO2rPVAkiiTeHsyQjwCig99HI9zMvp5vYkTfDfZvf7Gl7i3F4y+JH6sgZXcWPhbxHAX+U3GcEBsCFDJjJdzZcVsTaAAlPTR7CJv19KwFy3yzJ73DXEAlfgzBarHDDOdRYJq8JToStESDnnTPE3mBC9WSE7fdfCfv5X+qHSmUINB6cZOvtLOkeD/AprKJGlruRE51PYOgF9y9HNZaMe16VbqZIkGxINr3ujC05gEWjWPvfUyGlSDkyTl++SEJQDi9mWNmcZ0g==;3ZwirgG6NBHP8rKw4VmiSA=="
 ---
 

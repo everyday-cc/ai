@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia
 ampWebUrl: "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/649ada9e812a0cb2f0daedd0/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 801
     isCached: true
 
-secured: "ZO3ysISGm2vJDZISRQx1DdTToOrI7wUvDwbEzbxjPlg9Ym7KB2pVGVbijiLUG0naaoTg0IrBT/E1SHxeOrDM/RMizCqf3Zvi2W8z942IQRsBoVs1r5ZtK2PshdV+UfyQ6AdsrAlX4e6F8PyYGYEPI8l0Vo7hL5gnQW0yAV1KWSeq9cfbPj03Z8dyyxbfTw0OcJP5/PV4T7cYVjZ5g3reVhZVnhBpLsP6glNTiGnvx/OQYTFZJ2ZgrDbKG/ZGBNwbzlFZQn6BkxjDJnU3kQJg0wg/Q2t1Q3S31yYwGTwxcLZXaVQ+1MIVD/zcbDbn6fxwYuI+xDqr0ICkjrEI257P86V94uB9Mozkl7ZsnsLc2FI=;OmDel4EOj0pf1E3zGF3gZw=="
+secured: "Nvn1y0tHuTRzE+ip+y1iSSWTrP6C4GF6wrrbGG3HYFfmONnU2SguFYYTFOaqP0eGU9k5LvmL7qiSowh0f1HRMFBvhTBTMPxH2EUVQHqA/frs64IFijzZi++qGCj1Amk5NLQNlawB1233tKsy6pqQA2M/4m10WbG8yh+L3TvBlBpJZh0SN/HNeBtJqZVi6+DTAboaV8LZFRepPmLCy9SAVTf/4UBsW8rRJSfm5kQQ++REwe2Q0wotmDUJWsrqV3i2NiYa2MoADxHnKOspJF0akZbRNnR+lDMzBjjxZQejXTpdWF1zKwIptoG13OSo/kBUi2+qrV98PyAWJSNKU2+7pCLaBGFDbqtNdp8Yoycr+qj+WhzalamLpptY+4Kdt8TYM5NWMQGSDo+AI6zMOIQOwE2f4rKXdh9vuhpbBAw0GzrG5UTfzhiHhd3dqBSmKBMqlnjop1f+yIqaoobnAxNyfHiONclfcx9HJx7zwGENXKc8bZ7eRTmRsLugnjKfHv6TPhu4FRPSMvrpWUncLSDtkQ==;nay5dN1aRlMKFBdY3jshew=="
 ---
 

@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles ‘later this year’, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated"
-publishedDateTime: 2023-07-06T12:48:00Z
-originalUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
-webUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+title: "Elon Musk predicts Tesla self-driving cars 'later this year'"
+excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone. \"In terms of where Tesla is at this stage,"
+publishedDateTime: 2023-07-06T05:54:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: New Age
-  domain: newagebd.net
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://th-i.thgim.com/public/incoming/3007p2/article67048051.ece/alternates/FREE_1200/2023-06-24T170512Z_85981581_RC2SP1AFUMP2_RTRMADP_3_MUSK-ZUCKERBERG-FIGHT.JPG"
+    width: 1200
+    height: 801
+    isCached: true
 
 related:
   - title: "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’"
@@ -191,7 +199,25 @@ related:
       name: manilastandard
       domain: manilastandard.net
     quality: 19
+  - title: "Musk Predicts Tesla Full Self-Driving Cars ‘Later This Year’"
+    excerpt: "Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated milestone. “In terms of where Tesla is at this stage,"
+    publishedDateTime: 2023-07-06T18:53:00Z
+    webUrl: "https://www.guideautoweb.com/en/articles/71180/musk-predicts-tesla-full-self-driving-cars-later-this-year/"
+    type: article
+    provider:
+      name: Guideautoweb.com
+      domain: guideautoweb.com
+    quality: 19
+  - title: "The Dawn Project publishes dangers that Tesla Full Self-Driving cars pose to school children"
+    excerpt: "Public safety advocacy group The Dawn Project recently conducted safety tests in collaboration with former Tesla ADAS test operator John Bernal. The latest findings,"
+    publishedDateTime: 2023-07-06T17:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33137280/the-dawn-project-publishes-dangers-that-tesla-full-self-driving-cars-pose-to-school-children"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
-secured: "as9TXL4Ynte/zxn/SXI0q0kRkaD6I5g/VtvHKvrNC0ASH0VE42PsCm/8WMz0sQ8sgVqoUCT5ykxnGb/lEWX/9cgWorPcUb6V1DHRQYcT3ffoNbsSTHsJoDgdbus9SpybcDIY1FN4zAu8WhBjCQY4yYQzDu5qU/xDXAGiQoEN15WyN3NTBqNUUVx8TQcyx3njj5KUj3YWB3qonk7ePvcwYb3mDExWgu3IcidJ+gEJ7qCA4S+wThhVRlRjn+1QbHQYISWg3NLeBXBM/PeAz8zFSxuDcOCMWI+FP+I0L2Kb6FOLtqZER+1a2xHPcnCTgXRfLDNfECl/oQAJtQdsuxiRmsUpYzw8kBIc6i8RkGzw2jQ=;4pacwk6TMbSypQ5/UNHgrA=="
+secured: "92prYQcPjRtfdRXB3WaksNEtEtYeGth1tfs3yb4SSs9j/PG6tmN3yRnGw3E+VhzpYfcOuA1jLwGqlE2r79dtVNO+yOA9gWYmBdXmLo3pFE2BRtE3ux/Rshm6YZhCkapHndj8KmMr24H2Fv1GTsf4Qd22HCyulKu5nTjKMgWYsWoQn3wDKK4LVteNPRVOHYMimOUDpYUSpSSyE9XxZEMelRGUqoSzCjSbiW+Dz2Q+jQ8AnEgfNzvwD9XV9uuiheTbty51bcpdhCrMH5en0m1yhO26YihVhW7/O7On6ffKs4lgzpZV/cWSHe56NFtwkAOm6rUNPXr7+UFjoFFPcT4f8kZaJaE2jeufDwyscwV2PM0=;ztB4Fr74VI6GFcVAV5OLNQ=="
 ---
 
