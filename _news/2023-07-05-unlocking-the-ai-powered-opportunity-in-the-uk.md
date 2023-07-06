@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1300
     height: 541
     isCached: true
-
-related:
-  - title: "AMD Stock Could Extend Gains, Thanks to AI Opportunity"
-    excerpt: "Advanced Micro Devices (NASDAQ:AMD) stock is a beneficiary of the jump in demand for chips that drive AI (Artificial"
-    publishedDateTime: 2023-07-01T10:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-stock-could-extend-gains-thanks-to-ai-opportunity-1032421855"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "Ws5J3dlbMuohrDratTtF1MTC5W8ycd5vZRV4/8HdQbU7ZwInMkTTNvB7SSpoCTuk6sDXWl+Dm9TPoHHBOz8jKl7zqh5QYxJC8gfijm8BKwdVKPlqwFkxfKtk1sbbjntuMGNh1CJUEj9sm+2NvS/XcaTb7OdGKcPOwKbg+N/q45mXCvlAOJFmRBxvFp4Ur855t5rfx6u96Pn5GKxQkce1YDdehfUht1+33MnpnAw/vp3dNlBSyqx1mD8vWEHmbbaQNJCqbWxs9pMgly5Pv69AdIkvojP5+5wLsvaYjiBs+v34Myzu4mA5y0e/CrsBpCBvSQ+/w+Vro1qShQWzt+Ceybco/peZWGAwaK2//Lr/x80=;6FQCdR+ieQ6ExEYIaMOUqA=="
 ---

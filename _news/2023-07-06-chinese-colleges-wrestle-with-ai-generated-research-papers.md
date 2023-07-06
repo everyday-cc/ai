@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Chinese colleges wrestle with AI-generated research papers"
-excerpt: "Cheng was not the only college student in China who has taken advantage of AI technology. In colleges across the country, a growing number of students are resorting to AI-writing applications when doing homework or writing research papers, with some going as far as finishing their graduation theses with the help of AI."
-publishedDateTime: 2023-07-06T01:20:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a60f5aa310bf8a75d6d88e.html"
-webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a60f5aa310bf8a75d6d88e.html"
+excerpt: "Photo/IC] It was the night before deadline and all through the house, Cheng Guangyu, a Beijing college junior, was still four research papers away from meeting the academic requi"
+publishedDateTime: 2023-07-06T01:35:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202307/06/WS64a60f5aa310bf8a75d6d88e.html"
+webUrl: "https://global.chinadaily.com.cn/a/202307/06/WS64a60f5aa310bf8a75d6d88e.html"
 type: article
 quality: 39
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202307/06/64a60f5aa310bf8a1d238561.jpeg"
+  - url: "https://img2.chinadaily.com.cn/images/202307/06/64a60f5aa310bf8a1d238561.jpeg"
     width: 640
     height: 426
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 900
         isCached: true
 
-secured: "ho3jV8UnKoGWtqOXFvqjH36GKbK93Meafqaf46C1HFD3jDKTdZbcmsJnXNr30E2b87oiTVHs9oyGF2zODbN6UBq67m0Qjhk78Zzwwr8Qi7bksVw2J6a9OlKW+SRy2kgKnGITWyU2EFV31cQht/yjfgtrQvEcoXwaFHt7ZVhfvjqa+XLPtdXyblakbZ5xbrRVHMSsZxAEWoNpXxYPL12ZrSl2WMi1bKrEU40OLklW6vlxS64JlJFPXLn/f8gNPWM6EbfZOnqbqTQMZicjRL0pMoSqnixGW4ovKEjmnGoIWSpJVW5n7837by0Po2Nph/pexpFGic2rbSI2Ldyhedob2HnK+wThYou/wax/mnqimYo=;vJwIg80tI30un2GPqmD65w=="
+secured: "5fZslqfevkokWaqXa/rqNQRHIB//uEioa74aCQ+25zf7vUlVF7ugX+pWdTf3cttr/A+zvEAyBOrIs9Aqxp8XlWN5LXtgHVp3CObjNapKKNH16BbbWRPMMBTfzlWgPr3GLOCskdyjkc+5U3wkrIfa7DLj8H8bag9KJ1HWSpOeiHeFsf+0pwRzqJHTM0Kl82X7T46YI5oAvojnOmscRRxB44Eo9W2hUTU0zY6CRrvjSPK63zA5Hp868EctVIJn83E/jEUIw8TKCsLSKTdiBLHekSZzMrq2dCvKz2gPd17xZEtoB9bstzpklnXi0a4n5emaByldSCH6lA5N6lMrP9ESiBMfKRPaxlBnpGDhprWrO6E=;+lNZj50WMItHM+eVezKyzw=="
 ---
 

@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Transforming Generative AI Into Domain-Savviness Via In-Context Learning And A Dash Of Data Engineering Seems Promising, Says AI Ethics And AI Law"
-    excerpt: "Latest efforts to imbue generative AI with domain expertise makes use of data engineering and in-context model learning. This close look explores how this works."
-    publishedDateTime: 2023-07-01T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3796,2530,x671,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI can help process waste and increase recycling"
     excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
     publishedDateTime: 2023-07-02T23:12:00Z
@@ -106,6 +90,6 @@ related:
         height: 576
         isCached: true
 
-secured: "gOBsXk3NxptfB+ZDoEwXcvqvRQthmqFhzK4srEtbcbMPZbldJO4DGi7M86vI3UCpe1U2uEl1v8DWrqgPsXpuW5H1VTpr40nVboh/rTr2xC6Bw/rv9Y9WnxsqPik+8E85i+RQp0xJZ+hb02PxsZjn66h5JD/zz+0fwiSz9t/1eCumNE0zLiLjg1sSsU4xH2AnUHqBREs2jKxoXgRoFQI0xOm5Nl+gbEtBjrmPoqWGqGNHiTYsok1q+TDCEXhZUcaMg0cYRowBOZWgKNNqwL8fkhw/BgBBb89t6shA2wXiTU2fyWEZ8hXhdz3uWcrx/RCf6bsLPVZfObwYp190feBgEHcspdWk+wMVWEi9ni6TZJc=;eNI5YBuUhafk0qRBAr9HrA=="
+secured: "iWcBPiXplgHsOojq36bPdAcGp4egICpbgdz/j7IpbInN6zatCjpfG78reE4JzsMl+Y8rQEps+nnpv6L0T2H4/+3rR44MrNaQZXgEzRWOE+S3gWd6lHFYLQnYwDhIkhM8YxSnxrOI3yBlW6JMjEx4ElFPAjNyIVp9RRZs+b21Wl0FMBtKb4W6M0sY4K0XrJ06W+0S7P0mjO4r7tnllrRM/C7Ww+aR3l1RbmbRYJ3CGiPhsPTjbsdVOlijQB7iNmJMtEL1v/HJhmpXm0NGNMOdebtihsfCtnUerJuPLwSxIiMfzdpuoQ0zspQS9+grJyfeQLS+vyRHq4I0Mfmq52Ib7T9Dgrze6wuw4qKglzo3RONcGGWrmHmtVmFC8UWmMBjuK1km1X5Aow7lknmgCcE2QMzLA8LdpdZqIFs3hhZGj4kJl6t5ARV3vx/PROGE1TT+5VcOEMYYzIQqqV0lTF8SYIByHtRrwi8NMn8WFvKd/cZ0kRVLH5XQP5NNos9qtU+QcX/EwmhhCFqaLZ1Zoj3+BA==;Px5Km3DOfNVAABpJe+qR0g=="
 ---
 

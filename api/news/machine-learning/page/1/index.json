@@ -4,19 +4,19 @@
     {
       "path": "_news/2023-07-05-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
       "title": "Growing bio-inspired polymer brains for artificial neural networks",
-      "excerpt": "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The",
+      "excerpt": "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The wetware comprises conductive polymer wires grown in a three-dimensional configuration,",
       "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192",
+      "webUrl": "https://www.eurekalert.org/news-releases/994504",
+      "originalUrl": "https://www.eurekalert.org/news-releases/994504",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/100851_logo_A.jpg",
-          "width": 2473,
-          "height": 3549,
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/75ace491-3ac5-4506-8cdc-a74e9c2efb27/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T17:42:00-07:00",
+      "publishedDateTime": "2023-07-04T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

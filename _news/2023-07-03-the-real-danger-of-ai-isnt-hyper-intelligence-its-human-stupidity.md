@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/ai-danger-human-stupidity-3340244
 webUrl: "https://www.androidauthority.com/ai-danger-human-stupidity-3340244/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/HqhGvFsUOChgmfgRV_4PvA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/67615990-1b79-11ee-9fcd-589a780dca15.cf.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "China's Fourier Intelligence Debuts General-Purpose Humanoid Robot at World AI Conference"
+    excerpt: "Fourier Intelligence, a Chinese tech company specialized in rehabilitation robotics and artificial intelligence, unveiled its first-generation humanoid robot at the 2023 World Artificial Intelligence Conference in Shanghai."
+    publishedDateTime: 2023-07-06T04:08:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230706-04-chinas-fourier-intelligence-debuts-general-purpose-humanoid-robot-at-world-ai-conference"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 45
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/27259387228869.jpg"
+        width: 770
+        height: 510
         isCached: true
   - title: "OpenAI forms research team to tackle dangers of AI ‘superintelligence’"
     excerpt: "OpenAI LP is forming a new research team to tackle the potential dangers that could be posed by future “superintelligent” machine learning models. OpenAI chief scientist Ilya Sutskever and Jan Leike,"

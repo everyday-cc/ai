@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 803
     isCached: true
-
-related:
-  - title: "My Greener Future: The pros and cons of AI"
-    excerpt: "President Franklin D. Roosevelt said at the beginning of World War II, “The only thing we have to fear is fear itself.” Well, he wasn’t facing the arrival of artificial intelligence. So, should we"
-    publishedDateTime: 2023-07-01T11:46:00Z
-    webUrl: "https://www.dailypress.com/2023/07/01/my-greener-future-the-pros-and-cons-of-ai/"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 19
 
 secured: "vXp9oZ+1Ep8fv769iRG6sGt26w/AfdGEC8ANNscb13/jshTUKYTsU9SnrpwIqVtSpGz0THMYPsUqFaCqehvcb08fVs83ZE+snVM2OeBGa1bdnTXUoiBmkQKp33sHSvhL6rVWOU2uKC880jDACxNIGV2phXq0v1HIRA0dIL2YdbkDatQJQRaGUmVgKy810ZRg3DbK/6ISDdebiZcyB+zi19go6po8LxAvIfOI6G0+JAh0GRHmpDwA4lAsDBr4/mqSXXvI+m8gSZoJBqQyCIworpY7RDobNO5mWjs02Fc0FBwsau1ioTy8sc6SaxjijRmZ7BLPGVStE7kmQGC81HfSVSkp7hW3MSfcf9hbFSZVhKA=;JDtY5z78gazpwMzd9SnIfQ=="
 ---

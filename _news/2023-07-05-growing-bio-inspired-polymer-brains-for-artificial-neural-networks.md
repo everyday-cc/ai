@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Growing bio-inspired polymer brains for artificial neural networks"
-excerpt: "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The"
-publishedDateTime: 2023-07-05T00:42:00Z
-originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192"
-webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235192"
+excerpt: "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The wetware comprises conductive polymer wires grown in a three-dimensional configuration,"
+publishedDateTime: 2023-07-05T00:01:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/994504"
+webUrl: "https://www.eurekalert.org/news-releases/994504"
 type: article
 quality: 54
-heat: 77
+heat: 74
 published: true
 
 provider:
-  name: AlphaGalileo
-  domain: alphagalileo.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/100851_logo_A.jpg"
-    width: 2473
-    height: 3549
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/75ace491-3ac5-4506-8cdc-a74e9c2efb27/Rendition/low-res/Content/Public"
+    width: 700
+    height: 250
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
       domain: phys.org
     quality: 32
 
-secured: "yEfyUbXpY5XHoFU0CRizq7RzwyOxjj53D2ikwJz5DJSO10ESpOS8ZJZiJa4ZJSYJPuBBHsBkTMim9oOtnzZRdvruhElRKpnlTmMm0UqGra3mzGH6eP1o+C5Ze3nM944c31tOtsYqJYHO0C7U6ORSIvWbAaX7qlDwT+zf2pOjI5OfaBacK5QaqAIqTHQgsb/jmxnK5sR2CrqPFUo1MSoE5+gUKb8c5+57qcPlpqM4ZF2VG5wzCx4uESOU8wJBX70Ag3msrvUghNKYDGnLHk9GUKSmm1hEkX0DxbtHUBkGV1r5JAClCQrclDYWnq/Y1b1MiWNIFGa9dlEeogD6QFXoYfollFxnSkNGf5FTPRczNIM=;S4dEv1Je+CWB4Uod23ZTwg=="
+secured: "P/HbnctdMJZpDudCw9JN49iIaXEUgGYBoTENb2S9A8bOQxLXSVkoPqOKFRxcWoHTivQwhjjkbri/WBwAneXnFxBxASlBvpmxy/IQ1hOyyLJNosx0Tg+UtOUfD2tHnpOd2d9I2Lb01XnFoYDf5ffRrkyoyjzERkBl/fcQgGz6UUZHPJS8l02HZ9b7k5Or3RQinCDxCpG7PS+bG5+ESE+zc6bVIGAH9i8/COeyqEZtZ5GCVV6ckW2bEPEH7BQHwXrkRu+uJSWfIJenAWnpU5zlaD3XiRsgrrOS7tWMHa1pzJAzYVPuAsL27g0NnFcuOEDTK6XaziHqOLLII/MvZDF5mouowpS6Q4+UWzVB8iRoFig=;hQIhVPz6iOupEZWus2OAWQ=="
 ---
 

@@ -23,21 +23,35 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft, TikTok give generative AI a sort of memory"
-    excerpt: "The programs use databases to beat ChatGPT at hundreds of turns of dialogue. The innovations can give any large language model ChatGPT-like abilities."
-    publishedDateTime: 2023-07-01T10:34:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
+  - title: "AI for business leaders: Discover AI advantages in this Microsoft AI learning series"
+    excerpt: "As a leader in all things AI, Microsoft has spearheaded a curriculum created especially for you and your colleagues to help you build the knowledge, insights, and skills needed to make the most of AI technologies. Transform Your Business with Microsoft AI is designed to bridge the gap between AI technology"
+    publishedDateTime: 2023-07-05T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
     images:
-      - url: "https://www.zdnet.com/a/img/resize/40efaf31e076a7b5738d107834bb0317e0dbb0fa/2023/06/30/23a7542e-8178-46ab-9918-d592cb186aec/tiktok-memory-bot-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Picture5.jpg"
+        width: 900
+        height: 503
+        isCached: true
+  - title: "Is Artificial Intelligence A Goldmine Or A Minefield For Leaders?"
+    excerpt: "Atif Sheikh, founder of consultancy Businessfourzero and co-author of Every Team Actually Doing Business Better, believes that AI is both a goldmine and a minefield. “As leaders,” he says, “we are together going to have to figure out how to recover as much of the gold as possible, without all getting blown till kingdom come in the process.”"
+    publishedDateTime: 2023-07-04T13:18:00Z
+    webUrl: "https://www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/"
+    ampWebUrl: "https://www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a417c24dd81fd776b4ddd4/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 652
         isCached: true
   - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
     excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."
@@ -70,34 +84,6 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/430944/hannover-messe-industrial-trade-fair-2023.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Microsoft, Nvidia Invest In Ai Startup Inflection Ai"
-    excerpt: "san francisco: microsoft and nvidia were among a host of investors who took a stake in ai company inflection ai.<br /> <br /> the company rai"
-    publishedDateTime: 2023-07-01T10:16:00Z
-    webUrl: "https://menafn.com/1106541563/Microsoft-Nvidia-Invest-In-Ai-Startup-Inflection-Ai"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/01/TP_ee5b5image_story.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
-    excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
-    publishedDateTime: 2023-07-01T15:40:00Z
-    webUrl: "https://technosports.co.in/tech-mahindra-and-microsoft-collaborate/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 45
-    images:
-      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "tX45dA63Xce2Vn4T+UQn3H2oUJk263LRHfX8Ic4PG+XhrzHkGXX7XubIMoc7ogawibv2eUYcrts0jZOwhQNfcvgG/4LTNae3VJDo0lwoIyvWdGB0ujP+j5DGinSUfv0IMiC1XOAQ/b5fCX03Ky9XPTxi4JIl/ZfN5qlKJUCaheccEWLMdiA8BCKUyzzYcVeQa422TTR2v7JlRJ1vIkBS8CmJTFm8oxZutpFbzl1XqhaNXzpXB7IdsRPuZu0xv14ZJxHqiMzKEH0fd8qcbMn4s7fq8g87+BY3V+yOsrsPk4Iy/K+fYsQgsb3wRyv4Ds+KSJ/lq793DO5i432rpOO32bB7uKSemYbFWKNDyWKAxzo=;tK1kfH+A9DLivfipltrDwQ=="

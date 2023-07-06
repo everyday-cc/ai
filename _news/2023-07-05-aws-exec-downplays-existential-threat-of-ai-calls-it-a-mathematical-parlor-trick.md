@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/aws-exec-downplays-existential-threat-o
 webUrl: "https://venturebeat.com/ai/aws-exec-downplays-existential-threat-of-ai-calls-it-a-mathematical-parlor-trick/"
 type: article
 quality: 80
-heat: 83
+heat: 85
 published: true
 
 provider:

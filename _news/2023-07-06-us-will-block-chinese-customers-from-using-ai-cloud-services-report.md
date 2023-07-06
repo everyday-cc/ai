@@ -27,16 +27,16 @@ images:
 
 related:
   - title: "Chinese colleges wrestle with AI-generated research papers"
-    excerpt: "Cheng was not the only college student in China who has taken advantage of AI technology. In colleges across the country, a growing number of students are resorting to AI-writing applications when doing homework or writing research papers, with some going as far as finishing their graduation theses with the help of AI."
-    publishedDateTime: 2023-07-06T01:20:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a60f5aa310bf8a75d6d88e.html"
+    excerpt: "Photo/IC] It was the night before deadline and all through the house, Cheng Guangyu, a Beijing college junior, was still four research papers away from meeting the academic requi"
+    publishedDateTime: 2023-07-06T01:35:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202307/06/WS64a60f5aa310bf8a75d6d88e.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 39
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202307/06/64a60f5aa310bf8a1d238561.jpeg"
+      - url: "https://img2.chinadaily.com.cn/images/202307/06/64a60f5aa310bf8a1d238561.jpeg"
         width: 640
         height: 426
         isCached: true

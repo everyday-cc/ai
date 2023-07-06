@@ -49,6 +49,20 @@ related:
         width: 390
         height: 205
         isCached: true
+  - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
+    excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
+    publishedDateTime: 2023-07-01T15:40:00Z
+    webUrl: "https://technosports.co.in/tech-mahindra-and-microsoft-collaborate/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 45
+    images:
+      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "cToppGu8D8PvVmU13Z0/6HLnZpWCfUVR4/JRyN9RMsMuxTmG1+bxF8I4DXjFEB34adx5zJNu/RsyrpJ55EyXbCedUC4rcDmlt+FwZ0WeheafLb2wp2Fmg4wud1nN8WdkqzhWaA6q1G2KRJbNpNf0eVY+eDKWds1u3H996jyUH5e7IbIghB07OgL2y2sRVsIIvgs3Q72cgkMgEMEzSfCB/o+eHhS/8ktavEEiaCCeRCjPlNpCrMXFNu2RlWuAlmZ154aZBgryaIKpXSaJO82DNt596ydDXXmV6cj5s4BCLQeQInh88zBTdYq+rF7bk6lLnrBER+d89cgeAifJX9c6f3FLbQKz/KxNXBqgfIk0T7L89UvsBgP3BD9gqgFP7LIZwHlbvcGjcfeOmUIrr08Gd8B5uWFBqnMNwqVTemEs80LOf+dliZwwUukpnzhFAsd8ccMERUMq86uuLUpklKtgcBqaK5dKr3epayOmy/aekQVKP+1fbU+b9tRXso9rUjVLgKx1oMufTFUtUuKM58L/dA==;c6+56JLVtLWUouatCrVLDw=="
 ---

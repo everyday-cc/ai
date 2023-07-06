@@ -25,77 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft, TikTok give generative AI a sort of memory"
-    excerpt: "The programs use databases to beat ChatGPT at hundreds of turns of dialogue. The innovations can give any large language model ChatGPT-like abilities."
-    publishedDateTime: 2023-07-01T10:34:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
+  - title: "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform"
+    excerpt: "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,"
+    publishedDateTime: 2023-07-05T15:48:00Z
+    webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 64
     images:
-      - url: "https://www.zdnet.com/a/img/resize/40efaf31e076a7b5738d107834bb0317e0dbb0fa/2023/06/30/23a7542e-8178-46ab-9918-d592cb186aec/tiktok-memory-bot-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4444/Unsplash_ThisisEngineering-RAEng_web.jpg"
+        width: 975
+        height: 548
         isCached: true
-  - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
-    excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."
-    publishedDateTime: 2023-07-03T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.html"
-    ampWebUrl: "https://www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.amp.html"
+  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
+    excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
+    publishedDateTime: 2023-07-04T16:30:00Z
+    webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
+      name: technuter.com
+      domain: technuter.com
+    quality: 62
     images:
-      - url: "https://images.idgesg.net/images/article/2020/02/usa_united_states_capitol_building_congress_by_uschools_gettyimages-607463592_abstract_digital_infrastructure_by_metamorworks_gettyimages-1129515465_2400x1600-100828810-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
+        width: 390
+        height: 205
         isCached: true
-  - title: "Microsoft Introduces New AI Tools from Singapore"
-    excerpt: "Singapore-based start-ups, Babbobox and Wiz.AI, have collaborated with Microsoft to develop new AI tools that showcase promising advancements in the field. These tools aim to bring significant changes to various industries through their unique applications of AI technology."
-    publishedDateTime: 2023-07-04T11:52:00Z
-    webUrl: "https://www.techtimes.com/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
+  - title: "ABB and Microsoft Partner to Integrate Azure OpenAI Service into Genix Industrial Analytics and AI Suite"
+    excerpt: "ABB and Microsoft have announced an expanded partnership to integrate Azure OpenAI Service into ABB's Genix Industrial Analytics and AI suite. Th"
+    publishedDateTime: 2023-07-04T07:45:00Z
+    webUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/"
+    ampWebUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
+    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 74
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430944/hannover-messe-industrial-trade-fair-2023.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Railtown AI's Commercial AI Solutions Achieve Microsoft Co-Sell Ready Status"
-    excerpt: "This milestone signifies that Railtown AI has met Microsoft's criteria for co-selling, fostering collaboration and visibility within the Microsoft ecosystem. This status enables Railtown AI to drive deeper collaboration and go-to-market momentum as the Company works with Microsoft's 7,"
-    publishedDateTime: 2023-07-05T13:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ais-commercial-ai-solutions-achieve-microsoft-cosell-ready-status-1032427100"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-  - title: "Microsoft, Nvidia Invest In Ai Startup Inflection Ai"
-    excerpt: "san francisco: microsoft and nvidia were among a host of investors who took a stake in ai company inflection ai.<br /> <br /> the company rai"
-    publishedDateTime: 2023-07-01T10:16:00Z
-    webUrl: "https://menafn.com/1106541563/Microsoft-Nvidia-Invest-In-Ai-Startup-Inflection-Ai"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/01/TP_ee5b5image_story.jpg"
-        width: 1000
-        height: 666
-        isCached: true
+      name: EuropaWire
+      domain: europawire.eu
+    quality: 52
 
 secured: "DWVe1JHZd97NUecKBOGCuXzppdZ6SjbHEMykEtocfoSjethbI8s0W7scp/YeRMIKccLK/5svS6A20lifJspJNS1DIYo6sZQKcQwSfFyjgMneT7zEBboH0R7DAIQGIFgTnjDAR6Mx7bIWf4ysbGDVGk1UrytMYH/e4hBcS6CKNZnEPcdAvYTCjv0sojloOEu/8nfmqzQ9zrH8f8Q+C96P3j/lGL9h9axM39gV6LtHQKaCV235FJOz6tC3a1vdl+Pprklg7/j/F7GlUtqCFmshRBQn7LF7JPDRcHaY8q9ri1aITLrWE5Dv+Wun32rEWztPTFGPSIqVtPwPWPVQodXaZQMUGonlB+9hv4nrWr3SmRQ=;QOte76nx0lflWHkxXyec9g=="
 ---

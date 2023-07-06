@@ -2,9 +2,9 @@
 category: news
 title: "Web3Go DIN: Creating AI-Native Digital Assets, Redefining Production Relations with Blockchain"
 excerpt: "Web3Go is set to revolutionize the production relations paradigm by leveraging the power of blockchain technology to address the ownership verification challenges of AI-native digital assets, thereby enabling creators to assert their ownership rights."
-publishedDateTime: 2023-07-05T15:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-web3go-d-creating-ai-native-digital-assets-redefining-/2023/07/05/9843507.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-web3go-d-creating-ai-native-digital-assets-redefining-/2023/07/05/9843507.htm"
+publishedDateTime: 2023-07-05T13:42:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/05/9843507.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/05/9843507.htm"
 type: article
 quality: 27
 heat: -1
@@ -55,6 +55,6 @@ related:
       domain: businesstimes.com.sg
     quality: 34
 
-secured: "Abqq+c4bXTB7emreNoQSS9XaCoITyKgkvRP/0VRdt1YVfkO7+EOwbB2SeDvaq8XutFIq6KtdARQgbrynNRUEWGC1uy3FFi6Jzbs+/EYfUvckw+XH5Lo0DJ1cJZ09Y5JJVWoUXGDD1GSEGiF0syErK46Lk7WG9sXGivqteonO82ZX/kQrwhi7pzzMYjvNkDzkw62Dkn56L/wIrJy5NpIV0Hlt4zms3YxmMFUGrn8olDPtkB2ONIZWEzWXTdIvPKfdRhUjHcPMaHNwjUcbe6c8a8o50fn8SCfbNx9glnmOUH0EhVDlSYbpCC8WIVh7hG2irDPjb163vW4u3NtOlIeyDeQIZKBJ/9lcLZn7N4xCo3srDk+T/figSWYVhQn208JqaJlLIt70AJA6uVerjZvozBwWS+cR2vt1n36SkrB6lwtRSo8SilhJVdwOe9zsdI4IchuZw8ejsVFR2uTKp/iO9HTjqG8dh7h37p0TgKhdNbnfBWEA1KzFXE12pU4L8Pv2+zKIY2tg/dg8kTd5XNU15A==;WGLcvyoss7vWyBG3LKooWQ=="
+secured: "yt3zec6Zrstfd1S5eLrJ3XoIJPU67zVOpA0Xts9MaRydJZJ2vwlSNOOqeR6Pyqef4ZnSAfhh2lUxHjMYjMmU72uSXw9XZhPYRC7pANMUTmdyg1H/2KRdpkKqbPqeWSpFJnEguxjfLJ0V3XGV4kh2ggjWTalP6OPbFSElB669/toVprGgw+7e+sJbApvX/V4wNedFnDp3vqtYk20wQtRpgDTn9AIyfAKrL3cMWKzc6Hxipoay/3f+tW+bmkEh+Zsx2BSH78UlA6KSGntZvH0hWl1XEr+i+F+mXYwos8quKTCcfsLX15WogSAuSx8A82txowXe11aZzpUl6qE9rVBREl34AVHSYMGjPlMTX8kCLj0=;rJeuRoR0+eh5gk/CDbYhig=="
 ---
 

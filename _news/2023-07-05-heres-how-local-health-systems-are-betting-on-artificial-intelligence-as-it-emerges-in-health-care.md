@@ -24,17 +24,6 @@ images:
     height: 335
     isCached: true
 
-related:
-  - title: "How actors are losing their voices to AI"
-    excerpt: "Performers forced to compete with themselves as companies’ use of technology for cloning prompts calls to update copyright law"
-    publishedDateTime: 2023-07-01T13:00:00Z
-    webUrl: "https://www.ft.com/content/07d75801-04fd-495c-9a68-310926221554"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-
 secured: "POTwB1P7JpmH15oq5CVsmu4OrxYdN4f86I9k1dhswy0Kf4MyOok5S3wW3bPPhyC+1U2pP3BQY1rR/kb15fAOjyU0jglIeWkzL825k81m9DH0hMkWyUVwuWDIfcfGq8Umqvk3/dNnEKMQmeGWxXsDmd1nDf1o1ITJdhtjNceq9luimbV/B2NPejusgoUN6YuxqqLJ6YdO7QXTLQHa5pNSkdxTz4NuWHdmiil00bUGJujcGcIj+Rik7PWayfVZ2lK32Yymn6zcDe9MvPKQOIPwxysru7h40neeRAjLr/TV1y2xGfRxNHKW7GHrJb4TbWI4SQw9KQxcJyTG4otQeVGx9LFJmxeYZKThowoBX3fdJpY=;t+D390t0kE72mcXzQVw1mA=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-06-09-fis-acquires-banking-as-a-service-startup-bond.md",
+      "title": "FIS acquires banking-as-a-service startup Bond",
+      "excerpt": "Fintech Business Weekly’s Jason Mikula broke ... to in turn sell on those services to their customers. Touting “an AI-powered infrastructure,” Bond works to help digital brands – including ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/09/fis-acquires-fintech-infrastructure-startup-bond/",
+      "originalUrl": "https://techcrunch.com/2023/06/09/fis-acquires-fintech-infrastructure-startup-bond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-tensorflow-lite-c-api-reference.md",
       "title": "TensorFlow Lite C API Reference",
       "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
@@ -1163,58 +1206,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-googles-deepmind-develops-a-system-that-writes-efficient-algorithms.md",
-      "title": "Google’s DeepMind develops a system that writes efficient algorithms",
-      "excerpt": "The description here sounds very similar to a genetic algorithm with a weighted/biased search space - use of Monte Carlo random selection of a mutation in the algorith, combined with a fitness ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/civis/threads/google’s-deepmind-develops-a-system-that-writes-efficient-algorithms.1492545/page-3",
-      "originalUrl": "https://arstechnica.com/civis/threads/google’s-deepmind-develops-a-system-that-writes-efficient-algorithms.1492545/page-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807d68d425bdd22cc43233_Copy%20of%20alphadev_01_06_crops_crop5_0114%20(1).png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

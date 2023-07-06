@@ -42,6 +42,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "China's Fourier Intelligence Debuts General-Purpose Humanoid Robot at World AI Conference"
+    excerpt: "Fourier Intelligence, a Chinese tech company specialized in rehabilitation robotics and artificial intelligence, unveiled its first-generation humanoid robot at the 2023 World Artificial Intelligence Conference in Shanghai."
+    publishedDateTime: 2023-07-06T04:08:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230706-04-chinas-fourier-intelligence-debuts-general-purpose-humanoid-robot-at-world-ai-conference"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 45
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/27259387228869.jpg"
+        width: 770
+        height: 510
+        isCached: true
   - title: "OpenAI forms research team to tackle dangers of AI ‘superintelligence’"
     excerpt: "OpenAI LP is forming a new research team to tackle the potential dangers that could be posed by future “superintelligent” machine learning models. OpenAI chief scientist Ilya Sutskever and Jan Leike,"
     publishedDateTime: 2023-07-05T21:19:00Z
