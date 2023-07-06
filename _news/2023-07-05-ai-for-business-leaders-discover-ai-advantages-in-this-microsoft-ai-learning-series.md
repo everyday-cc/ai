@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-dis
 webUrl: "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/"
 type: article
 quality: 97
-heat: 187
+heat: 217
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "TCS to train 25,000 employees on Microsoft, OpenAI’s generative AI tools"
+    excerpt: "The company also launched a generative AI business offering, called TCS Generative AI Enterprise Adoption, which will offer deployments of OpenAI’s generative AI business tools via the Azure cloud pla"
+    publishedDateTime: 2023-07-06T14:24:00Z
+    webUrl: "https://www.livemint.com/industry/infotech/tcs-to-train-25-000-employees-on-microsoft-openai-s-generative-ai-tools-11688653184491.html"
+    ampWebUrl: "https://www.livemint.com/industry/infotech/tcs-to-train-25-000-employees-on-microsoft-openai-s-generative-ai-tools/amp-11688653184491.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/tcs-to-train-25-000-employees-on-microsoft-openai-s-generative-ai-tools/amp-11688653184491.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 73
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/06/600x338/tcs_1688653355103_1688653355317.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Railtown AI's Commercial AI Solutions Achieve Microsoft Co-Sell Ready Status"
     excerpt: "This milestone signifies that Railtown AI has met Microsoft's criteria for co-selling, fostering collaboration and visibility within the Microsoft ecosystem. This status enables Railtown AI to drive deeper collaboration and go-to-market momentum as the Company works with Microsoft's 7,"
     publishedDateTime: 2023-07-05T13:01:00Z
@@ -161,6 +177,29 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
+  - title: "Why Microsoft won't be the company to mainstream consumer AI use"
+    excerpt: "Microsoft still doesn't get consumers. At the start of 2023, the internet was ablaze with the idea that Microsoft may have finally, finally found a way to dent Google's search dominance. Using the power of AI,"
+    publishedDateTime: 2023-07-06T14:52:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/why-microsoft-wont-be-the-company-to-mainstream-consumer-ai-use"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/4eKhWqEEDdruqRfxygYXyQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How the Microsoft ecosystem is making work easier"
+    excerpt: "The proportion of jobs in which people can work from home grew by 80 per cent between 1999 and 2023, according to the UK’s Chartered Institute of Personnel and Development. Working from home is not a new concept: the US Census Bureau reported an increase of 4."
+    publishedDateTime: 2023-07-06T12:52:00Z
+    webUrl: "https://www.technologyrecord.com/article/how-the-microsoft-ecosystem-is-making-work-easier"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 19
 
 secured: "QaWOd2UHGUDlr7C6+GtIh8xT7cEYsfUkXqNSGI1f/xFi52v4MnPZJ77d1grzqgw/ehhGM1eKg5s3nEVuO7HT/WxPYo+AoO8Bnv4AWizq+rhoFWSDxAlMyQlz0mT+nKbSdVp9/c/ANh69amqvjZdR4dbt+rwiWEkRbzJYvJncHmI4Zb98H3nQdt2fXzudYAOePvEY7u14gLwIpYVoaZbNnNePhp8rgt/1o76NNCSY7fRGKiJiX079tXc3GswlxwTYt9m5FBnTANNY5pTCPrzFkYgd+6K5MdP3ip3dvr5V28TdyXVq4WwZkZqUZfR2rmWieIEJ4PLqwxDeKRBh0LR53WrMFaDapGNUH04LIGiGetk=;Yu0iUC4s/XTuwJT1CItWpw=="
 ---

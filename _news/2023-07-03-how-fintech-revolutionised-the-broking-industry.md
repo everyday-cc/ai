@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 1217
         isCached: true
+  - title: "Fintech Firm Cheqly Launches Digital Banking Services By Leveraging Mbanq’s BaaS Platform"
+    excerpt: "Mbanq, the US-based fintech innovator and global Banking-as-a-Service (BaaS) provider, has recently announced a partnership with Cheqly."
+    publishedDateTime: 2023-07-06T14:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/209669-fintech-firm-cheqly-launches-digital-banking-services-by-leveraging-mbanqs-baas-platform/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209669-fintech-firm-cheqly-launches-digital-banking-services-by-leveraging-mbanqs-baas-platform/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209669-fintech-firm-cheqly-launches-digital-banking-services-by-leveraging-mbanqs-baas-platform/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 50
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Bank-Banking-Ask-Us-How.jpeg"
+        width: 1075
+        height: 1280
+        isCached: true
 
 secured: "FHLnpUEO2W6kg4e6K8Bt1LbZ0oZleOgA/VTsWp0tNVq+XaHPThExBpVdFdYh0tBNAkfwzLpO4MZYqL0K9MfWZOrnT+DZ8JYnwpDMv+IWY+BOmCddhel2G2YYEXKT47C0imOg4PB1u22YaepRJx9EgMlBTVK8v8HUSsMMueTiMxSrS/ey3Ne7FHcc3o9NyoGawplSERryHH89evV2xZYAhh8SC2DyXRe7Otf4Ge7AD/Q7ovCnQUl/8Qw1FoW4BRx3SBeKF3xi+3V196zHZwtWvkMSNokaq4QPpKPI6lJJvehYMhLpobae/QwRBQDoa1BUifuvOWtBt6mGqjJRjgg7tOo47c2MRW4mH2GO1v+0cZazmz7JSI0AFrCErahOHi1LcqeCFjiF4SFJ2g+sJWFQ94gcwJFP2Rv0TJ1NZYqox9NCZeRtam3plAo1kmMpdWAZBVjuFEZUeL1/8JbHLziAYWndSOVo1LWtsOmRwQR87zMWPYu4SCgXRaA3hXoh2Z/w8Xzp6PQYccJo9E1d3/fR3g==;VBTu0kfUQXtWC4tvewZexg=="
 ---

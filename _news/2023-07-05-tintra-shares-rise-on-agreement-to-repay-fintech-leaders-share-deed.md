@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreemen
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 4
+  - title: "E-Gates Launches Fintech Solution for Digital Asset Management"
+    excerpt: "Gates, a startup developing software solutions for fintechs, has launched its universal platform. Its flagship offering combines a unified solution for managing web2 and"
+    publishedDateTime: 2023-07-06T09:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ac33128595/e-gates-launches-fintech-solution-for-digital-asset-management"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 4
   - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
     excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"

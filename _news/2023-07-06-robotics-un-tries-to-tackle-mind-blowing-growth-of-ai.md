@@ -1,0 +1,25 @@
+---
+category: news
+title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
+excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
+publishedDateTime: 2023-07-06T14:51:00Z
+originalUrl: "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai"
+webUrl: "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai"
+ampWebUrl: "https://www.omanobserver.om/ampArticle/1139719"
+cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1139719"
+type: article
+quality: 69
+heat: 69
+published: false
+
+provider:
+  name: omanobserver
+  domain: omanobserver.om
+
+topics:
+  - AI in Robotics
+  - AI
+
+secured: "2n68nabQDeGWPPdMnp3uNRTlGVK5zlcdJzZoCWyFsaIIXmRIQKiXdoErWTxV2G0p6juLj5cy+Nme+d9Rd1HlaCkjTfsmeOiGeTNC4oJCXYX/40yzNHtu1Tg3FgfXoma05qSeYobK/DxCmhJj1hWCoRHWNmJvWlKaK8ZlL3Igf8K33DgD/KrCI9abjEHB3TbioID+P/EG+0nT9eBHdDEQAsNWTaE6sFhhFnxYxeGWyrqKBJGP/YzFSgn+LhVIkxudlKEgp7CF2y/KFAVS1U7l7foOiiWw8k7Xqe3i9MgVs6IkaAPhGWfBmIKq+rHApnVjOSw0pe0sbuBeaM7dtklxSoiomx2r5NEAVwsopI/38sCyefv87cKdseCdz+f7koHcWxoCZ6q3ff6uD0kOZM/NQQz24h2/0FTyEyTzEyOMbD/7ZX4UvYJb6RiKJeTzEBbvt5eURjq36+oN2Jwi0d9x8HM3acX3dwzj0yS204u4EO6g6Yu9N61ehUuZoGyfH/x94HSD2b/YCEO5WFPQj3a+0w==;VwKqyLxZx4qlmfLpID46Vg=="
+---
+

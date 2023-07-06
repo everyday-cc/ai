@@ -35,6 +35,20 @@ related:
         width: 470
         height: 264
         isCached: true
+  - title: "United Nations counting on AI and robots to save its failing Social Development Goals"
+    excerpt: "The United Nations AI for Good global summit in Geneva will host world’s largest gathering of humanoid robots."
+    publishedDateTime: 2023-07-06T13:39:00Z
+    webUrl: "https://interestingengineering.com/innovation/united-nations-counting-on-ai-and-robots-to-save-its-failing-social-development-goals"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 47
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/06/image/png/f4NfANmyZz5D9TGBjwuO8HmK2KUBCWJCPa3CLXFZ.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI summit showcases human-like robots to aid UN mission"
     excerpt: "Dozens of humanoid-like robots will take center stage at the United Nations “AI For Good” Global Summit, showcasing how AI can be used to support human wellbeing."
     publishedDateTime: 2023-07-05T21:20:00Z

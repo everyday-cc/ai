@@ -7,8 +7,8 @@ originalUrl: "https://www.eurekalert.org/news-releases/994504"
 webUrl: "https://www.eurekalert.org/news-releases/994504"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: EurekAlert!
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Growing bio-inspired polymer brains for artificial neural networks"
+    excerpt: "The development of neural networks to create artificial intelligence in computers was originally inspired by how biological systems work. These 'neuromorphic' networks, however, run on hardware that looks nothing like a biological brain, which limits ..."
+    publishedDateTime: 2023-07-05T19:02:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/07/230705105850.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Polymer \"Brains\" Could Advance Artificial Neural Networks"
     excerpt: "Researchers have developed a technique for growing conductive polymer wire connections between electrodes to realize artificial neural networks that overcome the limits of traditional computer hardware."
     publishedDateTime: 2023-07-04T08:33:00Z

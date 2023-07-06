@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
-publishedDateTime: 2023-07-06T05:00:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles ‘later this year’, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated"
+publishedDateTime: 2023-07-06T12:48:00Z
+originalUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+webUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: New Age
+  domain: newagebd.net
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
-    width: 1240
-    height: 826
-    isCached: true
 
 related:
   - title: "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’"
@@ -165,7 +159,16 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
+    excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"
+    publishedDateTime: 2023-07-06T12:10:00Z
+    webUrl: "https://www.manilastandard.net/business/biz-plus/314347270/teslas-self-driving-vehicles-ready-later-this-year-says-musk.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
-secured: "0wRsp56rts7+wurNfq1puGxUH1TI9XUnIOszlYLBYBaw6hZErmciTTkK5jb7LeRqxU3vshJjPbElgeWozyO/gZEFduk2brxnqpCfDzlew94uOrAYmOfqad95FvyPB3EeIe86yYxwL7oyMlYWkdK4KD2EEbdgg5oLkRuYwJRTx4Fz4ig4ZF5kP6tOA/5zr7YQuQnyTZWVB2AJFXdukPivPH/MBVt1QiJw/xWTJSqI0XRgRQHZfqjnxIBW66aWiuaTNk3/5HjZZJMmCm0xWyS8efmkZ6bxD2Ip5NtnlgrbuMayF+cTVgi3ypw/5Yv4vbTVRamjdlKmXl+Y+VXQUBnfeIrsZXl4l/PSwMBM0XwXioI=;Bt0K3FkjPKwnhOdzEIiONg=="
+secured: "as9TXL4Ynte/zxn/SXI0q0kRkaD6I5g/VtvHKvrNC0ASH0VE42PsCm/8WMz0sQ8sgVqoUCT5ykxnGb/lEWX/9cgWorPcUb6V1DHRQYcT3ffoNbsSTHsJoDgdbus9SpybcDIY1FN4zAu8WhBjCQY4yYQzDu5qU/xDXAGiQoEN15WyN3NTBqNUUVx8TQcyx3njj5KUj3YWB3qonk7ePvcwYb3mDExWgu3IcidJ+gEJ7qCA4S+wThhVRlRjn+1QbHQYISWg3NLeBXBM/PeAz8zFSxuDcOCMWI+FP+I0L2Kb6FOLtqZER+1a2xHPcnCTgXRfLDNfECl/oQAJtQdsuxiRmsUpYzw8kBIc6i8RkGzw2jQ=;4pacwk6TMbSypQ5/UNHgrA=="
 ---
 

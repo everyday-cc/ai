@@ -7,8 +7,8 @@ originalUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da
 webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: 中国日报网
@@ -34,7 +34,16 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 28
+  - title: "Mount Sinai Establishes Center for Ophthalmic AI and Human Health"
+    excerpt: "New Mount Sinai center aims to revolutionize AI in ophthalmology and advance research into the relationship between eye diseases and other conditions."
+    publishedDateTime: 2023-07-06T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/mount-sinai-establishes-center-for-ophthalmic-ai-and-human-health"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
-secured: "sdFEpXxCnHC0vVTaNp/Ws+8OlOugcUVn7zNBJNiDSE1yQ1AatWPknwnCnM3OBeCy8toZpY4nB20lZlj39Zpm5XwDPHMOTCdhB7kEwvqnhq698t3l8GI/I2ZPDYQxkd3H1k5yvu8+vLHMf775n7KrgKurvL7s4lUrZuEoQJwXGGYlqpWlRzPXZ3clYxnAllZom3nN9mXllnLNwT/Mn4vHYWIQelSk1XH2B/L4BTn5UZYPP9i6DuijrpsqV6EJdvU8GirBR0+kGPd2YwRrAIVxr5fWnBMTwobHIoaXMcfj9DcFTfWlHpN+2dee3KG2b1xSpStLfe3dhS2ZW2gcm2UVsH0f5Gq7n8btU/ZI4iTZucw=;D1pvcnLzW0oFqN5CV22o6w=="
+secured: "EYAktAY5jK45ivyWIJmLQiVqkn40+/5LBPoz/7cg6LyLYJsM2nR6QLvM2cBGYKhBvlAjGeQVaKR1s1wV7jLwt1J0lLHwNdT3wkY59NIHHfRATSD+50Eo00m8iLmbN9urQmwaZO+FbmOTUyuMnBxk/ikhKwidEtvxCjnvpG7oKuG22CQamlLWuZq7KJB1bpvpNATGFUkYfZv/TZQsrPGbeyYMru4sxyr70Bpt/JltxwJRgWaKx6ndbOPCZgxa9uT+tcPqSmSPpdDJGka6Db4r6Z27la/lQEV4S2gxkNIvbN4tXynL4PZjTRiayMq6ToUkc7HjGMvlEy39/gc1th1tWB5Yelfyb1Xh7eNqjKJCyq56zPWziCuJ6TNEfbe+QOn0+L9yVg+BX6KxNhFS/ZutmGtlZXA2ZEPs8ydaSt7Fc1nmeWOgRIh9uO9EqZ0JuF4DxhUsUE7T88XsemGB/HQYe9dsxR4m6e1VA1oAcrrTfqJ/4j6K+xaN+xzOolUes4QFO9NeogHHjT1QvtzJcAsHhg==;CQjywSg2dMTXb13jL6EgSg=="
 ---
 

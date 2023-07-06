@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/games/valve-raises-concerns-about-legality
 webUrl: "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,17 @@ images:
     width: 750
     height: 422
     isCached: true
+
+related:
+  - title: "The Opt Out: 4 privacy concerns in the age of AI"
+    excerpt: "AI development is moving quickly, and concerns about privacy are growing. Keep these issues on your mind as AI grows and improves."
+    publishedDateTime: 2023-07-06T13:00:00Z
+    webUrl: "https://www.popsci.com/diy/ai-privacy-issues/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "1N8EV2SSpAafma8zzhYOwNvmUmeQ2pudDGV148PfgU2bZWFqAiLBiO+rwQ2tpIxFnexzyX3TopkisvKJZ55M0wnZNZ5BfZ/kjBnDXAQkZAWA5y04C3IKLTJQz2yO01chrv9yuWj/0YiHfstIyU/TUm0L320+lxB2D0ArMCPRhEtZQKEJKxjUMnwA1H9EL8cCWT1/3/uJwfHGvGFyGVsWL7CtlMpRPv8qvzJlFFxJ40rsdYESfctmhLrbVfI6dEI5377o/l8GzhB7qqGWmAeVUvZ8U1F1QQ7nomL8qCfbJKEE77iXgalbLQO40BQqX+R9lgQAfzVIihvmr8RefjalhSe+8rlSMQF5uSFw0WccNMGtUpJgQavGmiPA/aKmz6fmPVQTtUTOT7ZB8bBYdcHLptkYsfk7TjnaelKTlHnRgu246Gpfa+eNEmuxIBJ76bgPiXKQTkfAgZMCB0PjE6uHd7rkPLg0DCfqTWahdT7KG3CjT+hwG7wA2EBcu8hBxnkPPHqSVEQTiIGgRgaYeaQY+w==;PAecUloPz/pKBaIkTiGSUg=="
 ---

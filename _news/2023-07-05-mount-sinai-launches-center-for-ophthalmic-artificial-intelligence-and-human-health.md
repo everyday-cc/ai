@@ -33,6 +33,15 @@ related:
         width: 607
         height: 404
         isCached: true
+  - title: "Mount Sinai Establishes Center for Ophthalmic AI and Human Health"
+    excerpt: "New Mount Sinai center aims to revolutionize AI in ophthalmology and advance research into the relationship between eye diseases and other conditions."
+    publishedDateTime: 2023-07-06T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/mount-sinai-establishes-center-for-ophthalmic-ai-and-human-health"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "Uvg5IWad6hXhisnH112gF1v9imiyEMzlrbkQn/8hT8xn5OJISBQYCsZ9DNOVfkzohkWBX40zn929jmvszdmnYPsejAVMBN0pj4xqTJSBeddRJo3TLfLLvmLITSXecaE6V/4XE+m207dx5NtWjM9lSoRA17pXtzjskNc1Kz+4/K6DXOQ5TdSaH6QPouXMrMJIIN0hR0fPX3IOQrdUzpquuzFl9rvFy0Rqza85JxWvx77D4gggMIWmTcijBEEsQB12KD9lzCXToBRUs22nuj0eGLgJdUhDah0wXgvyy3owtiBZLy5nIoO1UEdzZdmGcTclYomsUe7Wi/HivcO3jsA+APq4gC9x37NBWh4zgN6sfOk=;VkhnP3MkhELvjwcuxI+RrQ=="
 ---

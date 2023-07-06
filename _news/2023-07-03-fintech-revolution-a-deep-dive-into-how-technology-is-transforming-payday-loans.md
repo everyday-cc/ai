@@ -72,6 +72,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
+  - title: "E-Gates Launches Fintech Solution for Digital Asset Management"
+    excerpt: "Gates, a startup developing software solutions for fintechs, has launched its universal platform. Its flagship offering combines a unified solution for managing web2 and"
+    publishedDateTime: 2023-07-06T09:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ac33128595/e-gates-launches-fintech-solution-for-digital-asset-management"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "/KMB+Mc2PHze+/XQoafswLUhqwhGnfc/OMVW0ktM6FXeogIt9Re7yu6bBMmRhUYSEl7eQ1WJx6cF6pxhT2hqNJt7DGyE88FKmb9Raj6KFj9DwUUvC2F24dYZORaPllWtYWVNVAJ+nkRqxEoahvlHu4giuO19mx4ttgGZj/+YlCzAufVzFH+QjYFcX7LxFhOY6AQYpUl5pfyYkp2BrmlkETdDIglW2VCOf7ezq2t57iB4ZGlMeqHz5lH4dxmfn7HGOkMog1Xrr/mXvfRZPcgS5VlHItZBCE9awnXnrjHGUMXfi6Kr8NCrRKq7qbZXmCa2WEj6K7VIqzZeiKyA1UbMF1E2g0OL4SxWKEl18Bvkl2nN92XoHJTK+MToI0YI4ZxMyiLmod6T6+l6VLQjTmW5peb7gZ+jPa5rVt+/e0VehjTS7H/GGUXUn8QXb+E1xD9J0kN2Y4uLMl4CHJYdArn2oa0Mbn8tPXx2KnqKt2MAemaFTBmmpDqfQDEtO5NXdFM/L8avg8r9fxl7HRfsoRTp4A==;AZh2eBB510xjWE7y1CC6Dw=="
 ---

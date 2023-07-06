@@ -152,20 +152,24 @@ related:
         height: 540
         isCached: true
   - title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
-    publishedDateTime: 2023-07-06T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles ‘later this year’, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated"
+    publishedDateTime: 2023-07-06T12:48:00Z
+    webUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
-        width: 1240
-        height: 826
-        isCached: true
+      name: New Age
+      domain: newagebd.net
+    quality: 19
+  - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
+    excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"
+    publishedDateTime: 2023-07-06T12:10:00Z
+    webUrl: "https://www.manilastandard.net/business/biz-plus/314347270/teslas-self-driving-vehicles-ready-later-this-year-says-musk.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
-secured: "kFnRqqx0foTHbUGbAb38BLVmz/aqL3MY1GD/Ol+gNmb+3aww7+Uk/dE/1jNobuCtlJTu5myGYPvkMSh+qghiXlcaxJ/i42H0GArV/IAP+cOtPdT6r7hciPuhaMqQd/7o4Mi83Zfov3UnfAHBiYsb+2xjBDXCdiQ7NSiLhrweBEc+B8/U5DtQqbHaD53A8plrg71qCLI2Lh902CNEC533DGZhm/fsUipLBtJTTqfChwJR9lWyNl6z9m1VEn0IRD+pQX2SWaAhzQFWyBHb0Oq+cQKPjtbl2nqETWJqPtv2ZxtUZi8TKt5rbzT/W/6c8IVpM5HW4UNvwT2G4MNUe9ZL6MlTt7PAAn2rt5ZX4Op0+2M=;jtROEOt4l22h/nfROAJbyw=="
+secured: "8aVPO9BrdJkj58fa+rGIxgn/WfDE6ZHo7D+9w1izzvYKBq7R+xFyRs9IN7o/51KjK3hhZpOxwKWy/KDWdh1agBiZa9KDtyzLSE6FM4waZiXNv7zS3m9txECZqXroGz+6WL17rjDNa6n4VFSb9zB7F/avvwl/sBbjI8rPm+djydQ0vGj4Wmed5eF6xtuQEEZhGfGqRP4OIUUUr9RHeOqNmvVXLX6/6o8KDtiDtu19E37/aGINEBFERYH56BEwu92bXjk0rUbP1Mm6F5BjcKKSN5vD+5hElR2GqOSButrftRIYUlytiDj5JfLY3Uyx3HOFMF2wtsKRq39UxRkVpTNE4d636z06jnQbo7Bmn9agzZQUi+of9S0/ArxLkCniiVXybYWU6Xw8ouMa/f+SxCpqff7aNLmw5BjyUn3+AanqOx0AXgTacJJevhqiPgwwlnOPpk7o4bsB38DWn81RiQIWwz52IRZ11XkcuuS5OXFyRGTulhRPPYQcBcYeuWYX1UXkev3RHWvZ4ORbTldYh8nyRQ==;riheGUgwyron5a9oQosivA=="
 ---
 

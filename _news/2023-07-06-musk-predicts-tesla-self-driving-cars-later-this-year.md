@@ -152,19 +152,23 @@ related:
         height: 540
         isCached: true
   - title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
-    publishedDateTime: 2023-07-06T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles ‘later this year’, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated"
+    publishedDateTime: 2023-07-06T12:48:00Z
+    webUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
-        width: 1240
-        height: 826
-        isCached: true
+      name: New Age
+      domain: newagebd.net
+    quality: 19
+  - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
+    excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"
+    publishedDateTime: 2023-07-06T12:10:00Z
+    webUrl: "https://www.manilastandard.net/business/biz-plus/314347270/teslas-self-driving-vehicles-ready-later-this-year-says-musk.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
 secured: "PQ+M34FeQAoQX2ccl5XyWuTRRx1aGne8R7LNKtHPOsXpH7JvdGU17oflGwi6A6NV0Fu98TCK74VpIVmprtcfOzh8yz06WyQYnVK7pU6kQ9QrRB+kIHLZPhNbVli7BgyQK1plOIuCqEGph6cXpuLx30+9zJVrzJK1EgOtWerMT2SUzFLimys7lz5hvH29BEy71d6QvoS6PjY5soB+Dyu4RgnCxl7EQPhvPWkWRqDwIn7bxzK83OjpMe7Hg6eVtT4dlrKp0laQuq+4JeXO9kLzJr/sVB8QNGhhbl8NY+X8z+EWfGN3HD28KEmdWhgW3dIb3PuNiFFoVQt9Jg0cWCIXB9jRPFTlWAEggYIZnjWxOL5exIb1nswMYLJ1f3f9MEXsmRYydsZQwenZSAiE3ivckFUEjYC8VAIE/CW4LXE7aqFgYjfyfsF/zLA4K6JCnm5gKh3bMWcH2zxDJS6IaFU8jY7tSX2XRr6lusnCpqfdDoZJWloFVwMkiKGSnsCcl9hB3/MNbkaHHE8ViM1Y7xUSig==;C1DG6CP29cGYp5jBGJ35QQ=="
 ---

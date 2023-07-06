@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-clo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,7 +59,16 @@ related:
         width: 1000
         height: 716
         isCached: true
+  - title: "Shutterstock continues generative AI push with legal protection for enterprise customers"
+    excerpt: "Shutterstock announced it will offer enterprise customers full indemnification for the license and use of generative AI images."
+    publishedDateTime: 2023-07-06T13:08:00Z
+    webUrl: "https://venturebeat.com/ai/shutterstock-continues-generative-ai-push-with-legal-protection-for-enterprise-customers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 38
 
-secured: "soWKl/bI3+O2coQR/8U22HaXvz8Fd8zgNMm6MvYu5J35TzGY9EjZoVnMt7vuWkHhgKbRifggutFVnAoqjNEsEckPlKmj47axA0Apc9/KjEX2kjb2sp798+HYmysKDPFV3K49cYBR2CQ7vRRa2jca3YzR7CTomdilBwuM/8m7jtMiY3RqWviksojp9hAfWYXlkZgxTWoDG3xVXT+ViTJpPaHtfR3eHlX3kS6O8ZjkdiccyguWoIgG/f4ZRBpQWK2G1/yvjAsjaTHsfopjxba1Cnv5ihxDZv7IKeU4sgu4JzeceWmldaiZXkOBp9xbNswQNG4jfduTQbWrMnTGs55lUUmhuomGMZFPVwV9+sj/oU8=;i/5Sw4m4lkOnQDNcgd5XVA=="
+secured: "duk8K0poEDPZNcIkj0wqb5Ep8RZNurB90SvAAxiBedYU30ol6EPDOjlaW/7DoFxFKp+AzS/Qpa+JdrWUjxStypplm0ed3VFo8XZw+O/OS6Rz+M1xX1dbKOgQ5UWK+Cy2iicymfMCgJkDraOPef+Py4t3gAzTFZAGB98YKjL6nzTK1UUiLwNNmUmwZJaIx4tEhBwBVaVQ4jhA4eDHKp0dtq270H7HyU+btaHOMkSXUOW0gwFbU1XjwdlqM1Jw8QGKsvOAzfnKoTsYkMsNdj4erT7gcMzykklGQLODiq8bYkB4wjeoI7CiWxzgn3i7ACL8BVh+MySDvGe/YQKrLVO9liXKqBHwwtYggz2Hqvi9D2TCuBJbF+rOtRtdOWVVuLRCSHoDAwG+er7RjEryHOm58dXvnce5PN21VuIiS62Mtqf/znRqj2s+ejhDGZII/I7WuZxqw7cMdtTMrJv5WcNqreMVwQj9E5ahzQsFHfjIRn2ploQHqFghOptHDHpfj1BCAlCmYs8WIgciAjZshVwS/Q==;JLhpiG52o8Yc71bHDUfx5A=="
 ---
 

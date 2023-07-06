@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
+    excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
+    publishedDateTime: 2023-07-06T15:42:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/06/9844060.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "9IQf21XbFb1ok+o6Lg7vJ9pzm/mCF9LpRlSn+HNmvFxmqm6cAbIEL6ZLfdVf4VDSgKWWU3GnAYhBDoVoi2Jflrfw8CWsmhbuOgMSUjSsLllxwXGNbS1PUb49UQxpuQTNDafpD6iddDr5v46lRTKlb+Tsc570cgFqsWb48eX1WI43TMG0OyQRJuxsDHAwcmyZIsjZZLPwHB8QSx8Ajb5hHyyEh5O3etymx2JWIjv+nsOYrBs+jmA8zWzElM3n1U7TT0M8NXEHfnLSQKBd//qruz6TusTNqpoY3XZXmfPDLNrxIuCR2mj3l/CU6YQAQE3XsR4zd4cqEFai75sT8z2dNS0aRnGICnnhYiYhJy93zYo1925xdiqcAOnYXX92B/OEh/FJ06BMll/62zh0fZ+TcZDjiZGEggVmYBoRgiwx+PqALFwRJ1xIHI6dgAcrnp0ZvSHCb4IFdWpWTL4UiUa8dNGjwKnEyr14LXwurgFYtenGvd+QPyEOVHFzjuhWctwIBpSAExbLOMrZ3cwO9ObArw==;LXNjBheA7TOJXVgyQMiKzw=="
 ---

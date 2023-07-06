@@ -156,19 +156,23 @@ related:
         height: 540
         isCached: true
   - title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
-    publishedDateTime: 2023-07-06T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles ‘later this year’, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated"
+    publishedDateTime: 2023-07-06T12:48:00Z
+    webUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
-        width: 1240
-        height: 826
-        isCached: true
+      name: New Age
+      domain: newagebd.net
+    quality: 19
+  - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
+    excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"
+    publishedDateTime: 2023-07-06T12:10:00Z
+    webUrl: "https://www.manilastandard.net/business/biz-plus/314347270/teslas-self-driving-vehicles-ready-later-this-year-says-musk.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
 secured: "lElZhJo1CF5AVnoFGxQ9br3Kld/rm8fTBXpW20rf5D53JOcEjSoNkTMV32LJz8Forzp8iVPeYRzRRHDE9mbkTmNdlXOUIHkoAT9Bqu/3/GfcIzrUVtHMe/lX6VRTRZcmrfMF7CKGxYRBJERk8CEVVNQ38jcT4uqNnRN8XSiMkv1ey1/UNvLJt1GyMiRzy83bUbcXMTOGXjuJuTS9pCSX8C/JrCt78KKZrs5KXFMN6cIubksLuneP7747qgNfaSEtp/4xBu8YQdV/UXwtamuRufIYn6EURFK2h6g0reyCf8flEq2Amo+QthfViyXCFeH+1el55fOKmS+J9lm8qoEiIz64hsTZyReF4if3FE6Thk2fZ9XMZY7gIeNsm8uZ5j4EuXDyY90vfWXSQCRkY8dGBqCAoApXJYkkBGSahNXNk3N0Gjp3Nbyf6yuAXsoS3R+j3Yz9guyxqiswjMfud0gcA7A0mQSAl10Qu7re77qarLsAkSqWHA9Uf0nP4CE/gieJ7cUL+qd+Bpj2QpRvIKD6+w==;sy8Gfb+zadMB5aC0QbdE8Q=="
 ---

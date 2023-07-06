@@ -20,6 +20,15 @@ topics:
 
 related:
   - title: "Growing bio-inspired polymer brains for artificial neural networks"
+    excerpt: "The development of neural networks to create artificial intelligence in computers was originally inspired by how biological systems work. These 'neuromorphic' networks, however, run on hardware that looks nothing like a biological brain, which limits ..."
+    publishedDateTime: 2023-07-05T19:02:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/07/230705105850.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
+  - title: "Growing bio-inspired polymer brains for artificial neural networks"
     excerpt: "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The wetware comprises conductive polymer wires grown in a three-dimensional configuration,"
     publishedDateTime: 2023-07-05T00:01:00Z
     webUrl: "https://www.eurekalert.org/news-releases/994504"

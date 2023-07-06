@@ -1,21 +1,20 @@
 ---
 category: news
 title: "GeoX Partners with Insurity to Provide P&C Insurers with Enhanced Risk Assessment Using Machine Vision and Deep Learning Technology"
-excerpt: "From there, insurers can use the deep learning technology to accurately predict the properties ... For a limited time, Insurity is offering its customers discounted pricing for GeoX services. To learn more about Insurity’s partnership with GeoX and ..."
-publishedDateTime: 2023-06-27T00:00:00Z
-originalUrl: "https://financialpost.com/pmn/business-wire-news-releases-pmn/geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology"
-webUrl: "https://financialpost.com/pmn/business-wire-news-releases-pmn/geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology"
+excerpt: "Insurity, a leading provider of cloud-based software and analytics for insurance carriers, brokers, and MGAs, today announced that it has partnered with GeoX to provide P&C insurance organizations with geospatial property data and first floor elevation data to more accurately classify and assess risk."
+publishedDateTime: 2023-06-27T14:13:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9839942.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839942.htm"
 type: article
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "PHT82fa2Hfp66GUnePn5pGcnomZX7cif4b8a9GG8eWLZL+qMfJWwGZAlELunmJftBEYTPPuGSRffDJtB0t9nAIOkh/AwWEku5NHlvW86FFV7U3ELQDbjey6Yk7a1m+cfAg0lJTKWoEudkP6RMP8fqFXC7t0qfFJHZa05XJLLUmsAWKRCpl63/mtAEowyTV9lEa9t4/X0K9JlBXuo4Rnd7V+hp/iC/nZTR2VEF0ifxgv1VxIZ01zH3DQ4cgZN8WMzQnWclRyTtR6Yud1yzqJJU3DOha5JGagKFBHxb9f4jhfg0pIKP4tZbJVltGjC57kHZD3Se4KDF0rYfH38rbUr+R569Pa9Gx+OWlqNLSAvNHg=;prshp+RCwY/9FSaCGTPfdg=="
+secured: "x805z8mIYmCjRHXZDwkYSA1nWjrBWdLxWHvzXuZP08NjgOV4TnJnPGjBJRByeoBeyMQsj1n2n6iPBj3CVqdu++6GtIJaIZ9xSz4h1QsHnWmfCO50M2AwYzcO8ZBHloSC1AHjxzwwhf386gwmBgo/CHSBO7OLOjq4Mat6FxixzmpOkm/c4qReta5/H13+ACI5FBMDSFTsSiPBem9818EmOxQLt0woVAO9uO0RwcbXvaYvZVYUVUp5KdkkHN2ZJRbCvtzC3xtNRUxZFvAEVfoAXzsXplvMSeYgZhoPIU5BLyKoxn5hAVeb2oktlmJvN3WBd8I/TGcYe0S1VlJPuxMYnYvRt6RXesCbfwTEYSg1eAI=;GrlMYaLtuKC9hitFueRtfg=="
 ---
 

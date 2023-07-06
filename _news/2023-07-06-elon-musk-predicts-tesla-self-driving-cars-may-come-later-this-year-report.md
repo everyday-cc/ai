@@ -152,19 +152,23 @@ related:
         height: 540
         isCached: true
   - title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
-    publishedDateTime: 2023-07-06T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles ‘later this year’, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated"
+    publishedDateTime: 2023-07-06T12:48:00Z
+    webUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
-        width: 1240
-        height: 826
-        isCached: true
+      name: New Age
+      domain: newagebd.net
+    quality: 19
+  - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
+    excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"
+    publishedDateTime: 2023-07-06T12:10:00Z
+    webUrl: "https://www.manilastandard.net/business/biz-plus/314347270/teslas-self-driving-vehicles-ready-later-this-year-says-musk.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
 secured: "U7IvzGxtx/F8RFE8hlwznrdaXMl2qHn0pNa555fbfoRayxDQFrvF1AAN83hcvdqj25WbMHFQyuvv/kcLjUQB9yYPFfTgIKjX/1A4omiWKxPQ9x2Lgi2No8R200s4jMoe9ZxN4mAaZ9bNIWaFnHGN/X70sxTZuObEJzcbLlUeSCbrMYGwIpwpDBchQt38VVkNx99we4Ijcd6cy3ko/O45okFFrzkXO1DNSctUucoXbBt0wK4rZr8cQPyuMs7muC4RBQ3qVDG0mo/Gqhgw3d8uAxFdLPa90nSNf1V+0qMgCbD+jmo7ShIX3DPRprnjRRSPv8LpT0MPISnRuBts/Bgsnb0I4rCVoZCLmP5+P+v+Ilo=;tIwXSqz5ViHIe76psfgKng=="
 ---

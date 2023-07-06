@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predict
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -156,20 +156,24 @@ related:
         height: 540
         isCached: true
   - title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
-    publishedDateTime: 2023-07-06T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles ‘later this year’, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated"
+    publishedDateTime: 2023-07-06T12:48:00Z
+    webUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
-        width: 1240
-        height: 826
-        isCached: true
+      name: New Age
+      domain: newagebd.net
+    quality: 19
+  - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
+    excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"
+    publishedDateTime: 2023-07-06T12:10:00Z
+    webUrl: "https://www.manilastandard.net/business/biz-plus/314347270/teslas-self-driving-vehicles-ready-later-this-year-says-musk.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
-secured: "JbxM2r+3dl1uwa8s6yyxNNhBxZmRhJ91lpEb0oJltLQQ4rvY2SqK+RaVLAdgHnCunDQd27iA9ZdwER/EMTKAmVW0xSfOfMA0n6QSyRcM2zM8rlUlBkAD9YwxAQ5PSemRkgCK18HmjE89m1x5e+DyC3TVYFcRFa9eWu4C9s6f8FT3F9fcVSAhnUEMAJu+VWoRoUU+W/EDwH7xpKDJNdjC6GN1couqTkVB2tnb1jnZfPnvxHHGxEZtKEO0+I7FjXlMWPNGmg0C1ZGP5o/Gt9FkqwnJSxVVZQh2g1XwiRUdws7F6km+TqAB8gSAUjsrxjF2u2msAO8PK4VjEvuKhApncSeRVOgSOGbcIf+bwVY5sZo=;e+KQPfSB19/lZSHZhKt8Kw=="
+secured: "uz63JEJksJexyGYRTx4N5Mw7AmhH3fqKe6EJwrosKZPauP0vD46/mVyu53fXSBu77b95BReEn2RYn7aMdJOXcZxomT5MMuJXEHRs4CpiXnBpLmwpgmMkQTSVxxYkhD0034yU5ACSh0zSuPOfKLdLIQyD6QdzDIhaiMiuWjRgZMex82pjwQb2uyYolsMi9RAoY2Iint69H9uvIU9PaTOfnfoh0QWbjNKG66Ji7ZL25NoUgeE781mb1y0LnUotizyxx1NUnWR8fmRZiil8cq9i3DLrYYu2tX8j3nwSY2mSMtttrIugD1fHMBSZhnPFFYSjlb/1KlYVW6M0AOJsM5vihzc3m72ZnxyXi1LqXxS0AT35XNmFesjMIj34ZoUfdU0iG3bNm9WuFVv2OLK7MTdbGv27WL8hWZbAE/2fKbMSC21MS2et6dZO0MNG86U3bFCyNNRX2eJYy6pYrfH7HlmLCSnTY9N7/hK/8oDNrdK6spPoMRlCta6D43+YkXdAzgM3O7GinORpWzZ4eiKog7fgrw==;0F0UKaTlf5phCVj879ikuQ=="
 ---
 

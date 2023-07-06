@@ -52,6 +52,15 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 36
+  - title: "Navigating the ethical landscape of generative AI and journalism"
+    excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
+    publishedDateTime: 2023-07-06T11:21:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/07/06/navigating-the-ethical-landscape-of-generative-ai-and-journalism/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 34
 
 secured: "OUP7cOC4LU89lJaz92gqSBHyN1mCOQx6j1u/wuOHrvBgFs8t7vDCxhrhHc4V2ERXVQTfy6OqfrG1CGs0bupA05iVJvnLRaKoeJiBof3NNHU8S+BDuklRP23dz01ZgwZ9dgZVvklZ78oNlEtIN2Qf/pglHozLigMfhpAaAvcMXbD9uFMmYQPFlxUpISaNSR+Eu5qPDeR1qzOQPXNX/a8lRauo2b8b3hkh2nmL0CkvOK8XTpFlGTExo+IaiME4+wnoJT5eFOKKQ1WqwgPw4eYJmWy31WCGUW7v+tKg0Y369ZY5O/Eo8+dMQQH/0mLC1b3hZo9UDdK0qTtegDNEEoj55o9zOU6aXcEqEnBnfUzmrJZG1+L3wLoZlIPj4EGL5LpPmIANj5x0jh5neZ/hmgUCE50dHTDPykejO4nbj8tMR+3FNobpLgOD4pw5oUjqvnBxckYirgQnbMedX4/NyVnwpWLY6ypouVQ1xKEzKw5ZkHSsMgY2t4/LCOo1t/3dCrwm0n99G2aYzzeqCAMiRoiKfQ==;rIhJDIClo8/NlMjQ6qEt2A=="
 ---

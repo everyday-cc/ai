@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Human Virtual Assistants And AI Can Efficiently Work Together"
+    excerpt: "By combining the strengths of both human and AI assistants, businesses can achieve a level of efficiency and productivity that was previously unattainable."
+    publishedDateTime: 2023-07-06T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/how-human-virtual-assistants-and-ai-can-efficiently-work-together/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/how-human-virtual-assistants-and-ai-can-efficiently-work-together/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/how-human-virtual-assistants-and-ai-can-efficiently-work-together/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
     excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
     publishedDateTime: 2023-07-06T11:15:00Z
@@ -139,6 +155,6 @@ related:
         height: 250
         isCached: true
 
-secured: "gj6S4Ype7zPrH7HeCn3vxNiSBB3X4b/PX5QPZ1Th+PFlYTUDbT/cdIOvLeljFDNX/9CarumneIsItVnctnWZg4L/jR92LALyl00TmWOz9EUm6apI7pDcmFxmQHZ65s0WW0u6xrzFEw9F49/MXG55AC9Ugctd6UL0BYMs3UP26fU0ZlZnwF3M9RM/xXIpZqmifE4VnkyyLwgtnt4PQejB6/1NVuR0AmxCb0Unw73i5UNR6mvZi3jCg4jwS32w5A8WeuDpMwD3A1tJB88fgVfDTOhgcylMnAeBfsj5bNJX+A9XTsNfxmJFaMxENnXAxvrWQJKeQBnw9pSyT4NPw7tzS+umoD/SVc6MXrT0sZKb4Bw=;fsdHtZfqurN3bcsyOQ0yJg=="
+secured: "RK4AE7spuqRFWaUqbXq7blMRqnX8sdKNJEbDjewygE6DWKX+yOOxBHYoks8CcwdGOtKOJO28shSCVaZ3ENPaR7N9SWD0TJfC8BdH4SI6gN8nKdB3smZK+L5gFlQl6mYwbvTNVcD9EtiykyhdFq7g5pQNJzI3YkK7uTDh8QWzWoYUAtWXzaLBuriM5yaSKM7M5N5ZYgIjDtqUh9FDCjjT0BSuBfQqFIGijEK4tnK2V4DTrps5Qy2McC5cub3kkLNzbCF98DYat7hBGgC/uFKCk+VZLl1Jje+ZRg5OMnR8jZSYPXv6dNKQFHumOAWlU2wql6liXASzrMRRLNHFgBTy8HkDge/Snfs2pT2i4KFTPf98bKmGlPcD59ttL71EWAWIR11s4WURF/XwtcP4OVvt/LoEDsfGgMy2/OvyKasKGCvhnUVeOdyr8dWnx4DBiDTjkdocGUq0IoKLCDEpmPabGCKQn8R9Wy9EGAYI/SNWZ3ITZKecU3H8etfUOaqrbjaw9C05K2VZP/HPjEzf9lCzYA==;cQ06XHpgJdXLDQFMvQJ2yg=="
 ---
 

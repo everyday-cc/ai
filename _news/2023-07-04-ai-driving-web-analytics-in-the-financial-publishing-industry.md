@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
+    excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
+    publishedDateTime: 2023-07-06T15:42:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/06/9844060.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "FRHeNhrv01FS7o/ZQlm5Kl35gxEb4kFBwZUgzZn83EwptfROV74HUmY5sEVe89xiWy94dLL7W9riOk8IoRVO17mbepyqTKxY5hH+AvmyFLHxmW+ujSVEbqH1CdYN5dr6vPRw0KezUyRTUvn0o6X3hJaIsRJwoB/xDGdVoZ7U38kDNb6atB/yKzmpVkRTGrn9LULS6QJRC00FSwrSGPZ8DZrPMENAwwxFpEGJfWUzpGx3QUTGFt6qKq5P+hBAMHkd1EFc3sAmuwRr0fOqm4vDNfCOX0t0Abohn83h92GLs0Fpfz+X4uhBzmExuj2fa6isTP0UtSd/NQybsdAIoNemE8Qz5ojSmbg2yhzjfAsU7hA=;Ha44+qoMGueU1pvEQvMOkA=="
 ---

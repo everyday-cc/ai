@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-06T11:00:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/q2-2023-open-ai-investment-coreweave-charts/"
 webUrl: "https://news.crunchbase.com/ai-robotics/q2-2023-open-ai-investment-coreweave-charts/"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://news.crunchbase.com/wp-content/uploads/Halftime-AI.jpg"

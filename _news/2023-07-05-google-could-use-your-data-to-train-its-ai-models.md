@@ -55,6 +55,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Shutterstock continues generative AI push with legal protection for enterprise customers"
+    excerpt: "Shutterstock announced it will offer enterprise customers full indemnification for the license and use of generative AI images."
+    publishedDateTime: 2023-07-06T13:08:00Z
+    webUrl: "https://venturebeat.com/ai/shutterstock-continues-generative-ai-push-with-legal-protection-for-enterprise-customers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 38
 
 secured: "Ago7SRPZf+3XF6xWejj5O3WauwRo/fWT/AIsTKfmEGN+380mU729A6Rs3XL9QciEA3o50KybzCVyWg6dhwKWL2TTMqUmrrvfkwAIUY6NfxNELl78qdnItUA0UChoRdY4GRgXGZ20Yo1xjBqxu4KGAiN+wGWNbsVw/qOOFyjZlE3LM/MF8gwU64g0wrrsD6p8VbeHYFGjCwtKEVSR9I0jQANIsmQjsKod9gGBPvrikreabmZ0pul+XvGu/BX07bxraRulLxxd5KYUU0R5VGtI5C/mKI7CkH75Gi0xkSkeB8pEjI/vjjcBij4ueA8hNVJ0rYt8moP0ZvnH3AcnoQhRuQjNoM19rrfv4RP9Ui7O5W8=;+Vlqx3YhcnKXXUhq2tSDQw=="
 ---

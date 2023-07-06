@@ -20,6 +20,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Indigenous voice to parliament: ‘Black voices being muzzled by red tape’, says Megan Davis"
+    excerpt: "Voice architect Megan Davis has slammed the bureaucracy in Indigenous affairs as a monolith that “just exists for itself”, and says Aboriginal and Torres Strait Islander people want the commonwealth department that purports to represent them to be cut in half."
+    publishedDateTime: 2023-07-06T10:44:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-black-voices-being-muzzled-by-red-tape-says-megan-davis/news-story/416937daee2b1f8813d2543c750d4b5b"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
+
 secured: "gMIGJC8OooUtIKQ7MvjW43M4lqK628XJSKjBA0T6kLVnjXr20cYlZdohQPMrlNp4Y11miyAFiyjCWV0177PQZf7MhXO0iDqyf7SOG7EU7ooW29jfzK/AsfU2/J4MqPS42YyuDqS4kH+IdYTMxGGUvfLoHYZjNfJ4VwkgZ0mom03eBvvTzCvJjURgfabaPctQ/RGIlml0T4wDEY9OpbBkHcy1kY5eoX/3WMPBmmb+82MmVNXlXtv3xeddCES6KIMbzGH8FVXvjYzsExCzFlR1+gvHQYHN2JpYAvFDKY7gWb7wvKelHd2892ceqdLKUcD9Pmq3Z+2hy77bAgeZ7Fn/QJpE2aUrDVNncB40LYR16B8=;ejrUZkI6vTzXzkCpPYfh/w=="
 ---
 
