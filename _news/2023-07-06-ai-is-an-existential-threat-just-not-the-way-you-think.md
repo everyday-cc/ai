@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI Is an Existential Threat – Just Not the Way You Think"
-excerpt: "From open letters to congressional testimony, some AI leaders have stoked fears that the technology is a direct threat to humanity. The reality is less dramatic but perhaps more insidious."
-publishedDateTime: 2023-07-05T19:56:00Z
-originalUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think"
-webUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think"
+excerpt: "The rise of ChatGPT and similar artificial intelligence systems has been accompanied by a sharp increase in anxiety about AI. For the past few months, executives and AI safety researchers have been of"
+publishedDateTime: 2023-07-06T00:50:00Z
+originalUrl: "https://www.realclearscience.com/articles/2023/07/06/ai_is_an_existential_threat__just_not_the_way_you_think_964205.html#!"
+webUrl: "https://www.realclearscience.com/articles/2023/07/06/ai_is_an_existential_threat__just_not_the_way_you_think_964205.html#!"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: RealClearScience
+  domain: realclearscience.com
 
 topics:
   - AI
@@ -51,6 +51,6 @@ related:
       domain: phys.org
     quality: 17
 
-secured: "UA4g3pMITnklbdFZn76hymST1xsZ49LGpjR11+0720wc2MmKiITq7tdz40iT80CC5f4+pM+i+LRZ63pVIrSXoVuD/qyVEYSVMFIEIaQkmwdFF0iLpFgVluWhb706rRazVLP/8BNWdjgbwv/eMdkeuZtnFsQZzH2ZIsB7/6o+E/Erneqwi1lWloHSaTPXJltonHvy3mTEsW1/k6h61w0jeWFTxveER8JyZvz7RiQ96rw6gw1tXblu9snzlh+0+3w0WzfuIUj+l3XdmH3IVWpn3jrXIKtLu7XmAUCTm69WFdqANZFv+x+k58Rs5ooq4QDy3eoI0hglcR6ivyVaDia4U4mQ5/BIZLBElCa1rEtSTm8+OumCxGDcc+elUcxGgVdEbxn2+2RH1/JSnq81cb9Q/iUHWusAd5JegIkLWUs9rGTdrUAJB8drLcqZuM/Nn4P+NZYBHems77rBxqjnpR199JtkLYzlNUUewGqNWCRYEvO+mHsBOzQ2M0oPbCXRx8ZOxpi/I9/z5kC2BGgvjsqtrA==;cmf5O9vRSo20ArGtbk85MA=="
+secured: "6zfMFvKka+pNZqzsDd6/9O1rBuIA4iH/q0u+iSgxQ8d6SXVgpEWG1CHVxAI9YyUDSyOQYiRKAyF+9soB6VQsX6luO3IFJoDypQW48iWxw+Az/SzAC/xkUaib6P3nWfKyN4yj2kwME38OrCipusS1U8gB1LwKsC3Y+xuf81jaovn7UMaBUIWeBZQQ2PAW8dmL9TcB2xk2mxZNpaJFWFB2XS87wYkp5FYBoNgayZ7e/pOfJX8hcCR7iPkxcvirzcqBuxKERNfhcySyhF2S+sWnE9tjA++j/hIgxZmHNG8Va1tVzGry62Hddr/AtcF0hAJBXMsXAjdYrYTknX9RkQxvcXaOmcQX5Nb0pd9shKSgdTuHUjhyKoFiWV08XDvFFnU9sV9y7Gw4QRhxGN1l4xSuCtizyfY+IkH9h7C7EmXFBwHUgdHnEJzVhUL0qro9IlWYImUBnC4yxCBhf17H6vVMc2BwkzisayCGJQja8A47xXI7KJBR6ZwYiQ63MLMU9b74/q13VvgubMXZg+6lLDfuNQ==;Xt678RHQ45D7o9/JJQ0EIw=="
 ---
 

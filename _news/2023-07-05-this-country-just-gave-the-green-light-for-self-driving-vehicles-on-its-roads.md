@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/this-country-just-gave-green-light-s
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "UAE Awards China’s WeRide The First National Self-Driving Vehicle License Ever"
+    excerpt: "Although other companies are testing autonomous vehicles in the United Arab Emirates, WeRide will be the first company officially licensed to do it across the country"
+    publishedDateTime: 2023-07-06T00:00:00Z
+    webUrl: "https://www.carscoops.com/2023/07/uae-awards-chinas-weride-the-first-national-self-driving-vehicle-license-ever/"
+    ampWebUrl: "https://www.carscoops.com/2023/07/uae-awards-chinas-weride-the-first-national-self-driving-vehicle-license-ever/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/uae-awards-chinas-weride-the-first-national-self-driving-vehicle-license-ever/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 40
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/2022-TXAI-Robotaxi-by-WeRide-3.jpg"
+        width: 2200
+        height: 1238
+        isCached: true
   - title: "UAE approves first license for self-driving vehicles"
     excerpt: "The license was granted to WeRide company, Sheikh Mohammed said UAE approves first license for self-driving vehicles Abu Dhabi, Autonomous vehicles, Dubai, Self-driving vehicles, Sheikh Mohammed bin Rashid Al Maktoum,"
     publishedDateTime: 2023-07-03T13:18:00Z

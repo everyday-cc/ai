@@ -401,34 +401,25 @@
     },
     {
       "path": "_news/2023-06-27-micropsi-industries-ai-powered-robot-controller-is-now-hardware-agnostic.md",
-      "title": "Micropsi Industries’ AI-powered Robot Controller Is Now Hardware Agnostic",
-      "excerpt": "Micropsi Industries’ artificial intelligence-powered robot control software MIRAI, which helps automate complex tasks too difficult or costly to automate with traditional programming, will soon be accessible for all robot users.",
+      "title": "Micropsi Industries' AI-Powered Robot Controller Is Now Hardware Agnostic",
+      "excerpt": "Micropsi Industries' artificial intelligence-powered robot control software MIRAI, which helps automate complex tasks too difficult or costly to automate with traditional programming, will soon be accessible for all robot users.",
       "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/products/june-2023/micropsi-industries-ai-powered-robot-controller",
-      "originalUrl": "https://www.automation.com/en-us/products/june-2023/micropsi-industries-ai-powered-robot-controller",
+      "webUrl": "https://it.tmcnet.com/news/2023/06/26/9838985.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/26/9838985.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/ff419817-c750-449f-9ce5-b1f82ffe8000/Micropski-news-June-26-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:56:00-07:00",
+      "publishedDateTime": "2023-06-26T10:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

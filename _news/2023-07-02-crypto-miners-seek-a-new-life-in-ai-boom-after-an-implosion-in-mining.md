@@ -38,21 +38,14 @@ related:
       domain: forbes.com
     quality: 47
   - title: "Generative AI for Crypto Startup SuperSight Raises $1M Pre-seed to Build Crypto-Specific LLMs"
-    excerpt: "SuperSight, a London-based Generative AI startup, is redefining the crypto data landscape with its revolutionary Large Language Models (LLMs) tailored for crypto data. The company is"
-    publishedDateTime: 2023-07-05T12:32:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33114520/generative-ai-for-crypto-startup-supersight-raises-1m-pre-seed-to-build-crypto-specific-llms"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33114520"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33114520"
+    excerpt: "SuperSight, a London -based Generative AI startup, is redefining the crypto data landscape with its revolutionary Large Language Models (LLMs) tailored for crypto data. The company is thrilled to announce a $1M pre-seed round,"
+    publishedDateTime: 2023-07-05T13:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/05/9843411.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "0GkHfWMDVN4b9Td7sU3Ib47eSswFW6gWqAVxPdIYfZ64JPW7noGGbzKCXHOcmTe5bin+GrslGdQfNE5p9lT5dsW8szdm2lHbHGh+EHpV7BRSkPBqkmld6TfookP8mWIDXeE+sb46kpRdSmDhs3a1Pm5Np+y0QnxHkZOR5R3fr8dfTs+L0zVcDHOvhSOqRszUo1TaLBOMPZy8DMMsfBZ3IEuwlDjWcC1PfMBM+dZ2897kpPdoqWnr6DRz8RbdOG+PAR10Led994GXZzf9lDH1NOOo4ZvqPl9Y1j0e6yhq7LBm9XnCmxQeRz3v7aP8bmXB86l6aks7VmcO64oU4wlNAGaxK9FiqDNmpvwP+3RZAULSixbuWepS7F/X/FohfV9UrxicQGlemwJAxG7grgLsCy3MiaxV574AIOY1DeK0vhlquoN/WbRihS/wHDJujZdKPMl8hUv7mFTGHOgX/0h+VuOU3beRKuF9uFGXnZXi0RhKLGbf15nycV1GG/HqbI8nbei1hUm/Y8jX5ZN15sPsXQ==;5rzLkMDw/Mz/I60LHcZ9jA=="
 ---

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-15-demand-forecasting-at-getir-built-with-amazon-forecast.md",
+      "title": "Demand forecasting at Getir built with Amazon Forecast",
+      "excerpt": "This is a guest post co-authored by Nafi Ahmet Turgut, Mutlu Polatcan, Pınar Baki, Mehmet İkbal Özmen, Hasan Burak Yel, and Hamza Akyıldız from Getir. Getir is the pioneer of ultrafast grocery delivery. The tech company has revolutionized last-mile delivery with its “groceries in minutes” delivery proposition.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/demand-forecasting-at-getir-built-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/demand-forecasting-at-getir-built-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/15/demand-forecasting-getir.jpg",
+          "width": 1071,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T10:53:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-introducing-amazon-textract-bulk-document-uploader-for-enhanced-evaluation-and-analysis.md",
       "title": "Introducing Amazon Textract Bulk Document Uploader for enhanced evaluation and analysis",
       "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. To make it simpler to evaluate the capabilities of Amazon Textract, we have launched a new Bulk Document Uploader feature on the Amazon Textract console that enables",
@@ -1433,49 +1485,6 @@
         "AI",
         "AWS AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt.md",
-      "title": "Private AI says its new offering allows firms to safely leverage ChatGPT",
-      "excerpt": "Toronto-based Private AI, a developer of data privacy software offerings, yesterday launched PrivateGPT, an artificial intelligence (AI)-powered tool it said can help organizations “safely ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064",
-      "originalUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/GettyImages-1483618422.jpg",
-          "width": 703,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064?amp=1",
-      "publishedDateTime": "2023-05-02T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

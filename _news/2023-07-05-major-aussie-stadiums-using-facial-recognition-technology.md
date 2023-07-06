@@ -24,6 +24,22 @@ images:
     height: 607
     isCached: true
 
+related:
+  - title: "Aussie stadiums are using facial recognition on fans"
+    excerpt: "Four of Australia’s largest sports stadiums are using facial recognition cameras to identify and track event attendees without their knowledge, according to a new investigation that found Australian venues have joined a growing and controversial overseas trend."
+    publishedDateTime: 2023-07-06T01:57:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/aussie-stadiums-are-using-facial-recognition-on-fans.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/mcg-facial-recognition.jpg"
+        width: 1162
+        height: 653
+        isCached: true
+
 secured: "CgIg+dGzunkGpfmQAmOi/zn9YpiqnVLBLXOKpx+nP1pxdKSZgeXv6Zka5noJ286tSQiuYHvJ9p0DqCqBwdELrtPCib3/U+47jYYHW9oAMeWsKur2eaYVJeB1rBKJIA7JaM2MjBaGrSoLTUjC3jgQ78fO8lYE8iSvxw5XTWoveSTplinPTTiAEMGwlXN8CmKqeY7HsnUA0RGu9mnXqN4wSUo2JrB9m5QLEGAM2FL6u7+VOIZ3exfH8M7bpoOZs74bKZsOsKJQdp/9d5PtF1Yk9+Z1mhJlZ0CnXwIiLTB5P+WehDooDYSDUXGvv+Q+4oI9Ywl+xe4namowcmll0JGvsqnm8DG87B0DnNvzVPD6onw=;7HL93VC98AWipDhFdYDevA=="
 ---
 

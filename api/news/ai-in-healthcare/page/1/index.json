@@ -422,6 +422,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-ballad-health-partners-with-medaware-to-leverage-artificial-intelligence-platform-to-improve.md",
+      "title": "Ballad Health partners with MedAware to leverage artificial intelligence platform to improve ...",
+      "excerpt": "Ballad Health is partnering with Israeli-based MedAware, Ltd., to leverage artificial intelligence (AI) to improve patient safety by identifying potential medication-related",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/ballad-health-partners-with-medaware-to-leverage-artificial-intelligence-platform-to-improve/article_88f519fd-59f2-57ad-9099-d676928ce6f0.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/ballad-health-partners-with-medaware-to-leverage-artificial-intelligence-platform-to-improve/article_88f519fd-59f2-57ad-9099-d676928ce6f0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-wisconsin-healthcare-system-using-artificial-intelligence.md",
       "title": "Wisconsin healthcare system using artificial intelligence",
       "excerpt": "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON.",
@@ -1306,58 +1349,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization.md",
-      "title": "How Healthcare Can Pioneer Industry-Specific AI For Privacy And Optimization",
-      "excerpt": "As the healthcare sector pioneers ways to use AI within these rules, other sectors will have good reason to follow suit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/",
-      "publishedDateTime": "2023-06-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

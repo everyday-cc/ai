@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-06-27-primer-and-carahsoft-partner-to-provide-ai-and-natural-language-processing-applications-to-the-public-sector.md",
+      "title": "Primer and Carahsoft Partner to Provide AI and Natural Language Processing Applications to the Public Sector",
+      "excerpt": "Primer, The Trusted AI Partner for Government Agencies, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider ®, today announced a partnership. Under the agreement, Carahsoft will serve as Primer’s Master Government Aggregator ®,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/27/9840066.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/27/9840066.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens.md",
+      "title": "Brilliant Labs puts AI in front of your eye with its tiny open source AR lens",
+      "excerpt": "To integrate its AR device into people's daily life, Singapore-based Brilliant Labs aims to embed generative AI into its compact wearable.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
+      "originalUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Brilliant-Labs-Monocle-looking-down.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/",
+      "publishedDateTime": "2023-06-27T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-mlperf-30-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance.md",
       "title": "MLPerf 3.0 benchmark adds LLMs and shows dramatic rise in AI training performance",
       "excerpt": "MLCommons announces the latest results for MLPerf training 3.0, which aims to provide a standard for AI and ML model training performance.",
@@ -1091,109 +1177,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai.md",
-      "title": "Kindred Ventures foresees a ‘massive explosion of startups’ courtesy of AI",
-      "excerpt": "Last week, we talked with Kindred Ventures, a small, nine-year-old, San Francisco-based early-stage venture firm that, despite investing in a lot of nascent startups — more than 100 to date — takes a generalist approach,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/",
-      "originalUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-26-at-11.07.59-AM.png?resize=1200,818",
-          "width": 1200,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/",
-      "publishedDateTime": "2023-06-26T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking.md",
-      "title": "Obsbot’s New Tiny 2 Webcam Has A 4K Sensor And AI-Powered Tracking",
-      "excerpt": "If your laptop's webcam is spoiling your public image, this clever AI-powered Obsbot Tiny 2 webcam is a great upgrade and offers 4K resolution and subject tracking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6496c94fb99540d4135d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
-      "publishedDateTime": "2023-06-26T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

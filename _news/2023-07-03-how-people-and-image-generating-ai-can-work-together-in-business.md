@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-pe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4143/production/_130270761_recycling-gettyimages-150517191.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Artificial intelligence and its role in marketing a brand"
+    excerpt: "With almost every brand using AI, there is a wide scope of plagiarism leading to legal risks that are not addressed easily, says our guest author."
+    publishedDateTime: 2023-07-05T23:30:00Z
+    webUrl: "https://www.afaqs.com/news/guest-article/artificial-intelligence-and-its-role-in-marketing-a-brand"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F4e1cc1fc-6cf9-4076-a826-13324422cb14%2FAi_Art__07.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "YqjI2xfow0DzTB+/BkW2o8KDAmeO8GgujtVIgvQlTuj2SnO305Wzs0Hhb4FVXjhfnKX4NgYhbfRO/nzelUui7hHnp8I8XqUdyuiypjUJWgH6e32UbQIK4lU/AgFv/6r0t91Cw1WbisKNXFp19jsI0bdZE0AbJNudUI2GKcZ8iX+l1+sh5K9AisIShY8lwJqHI8rdxmtT0Kb5ah019dDEawMGwySqp7MnbTnpkWGNMVQj9v/qn/5D/p43vovXluOJfQkT6h31NF8zOhhLeTuaGdhZH1KykxLnVwUHPJQ+aUwHrc+pwCO5Tv4+NIsR0xR+MqgAVSPFZNdnOSC2z6JNrAsYXwmsclAUSXgeqeGjMdtuUiMGZI+p8RGD+1qbXNBwCRhUKeB7US2+vPJtyYJj2LSRiOEazxU2EsVFCm+AJ+fQ6dAB/ifJASVshqbvsSq5RxOYmbQEtzc0a+RFyQxP5UlTDIi7xQfdoabHhq2PiJyUf7n1DvoNLFpzcpfEt+cqOgsR9r91uvxF0oCYpnb02A==;kklrwaJ17CDy1BonW/2xOg=="

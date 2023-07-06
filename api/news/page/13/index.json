@@ -2,6 +2,109 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-06-27-kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai.md",
+      "title": "Kindred Ventures foresees a ‘massive explosion of startups’ courtesy of AI",
+      "excerpt": "Last week, we talked with Kindred Ventures, a small, nine-year-old, San Francisco-based early-stage venture firm that, despite investing in a lot of nascent startups — more than 100 to date — takes a generalist approach,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/",
+      "originalUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-26-at-11.07.59-AM.png?resize=1200,818",
+          "width": 1200,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/",
+      "publishedDateTime": "2023-06-26T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking.md",
+      "title": "Obsbot’s New Tiny 2 Webcam Has A 4K Sensor And AI-Powered Tracking",
+      "excerpt": "If your laptop's webcam is spoiling your public image, this clever AI-powered Obsbot Tiny 2 webcam is a great upgrade and offers 4K resolution and subject tracking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6496c94fb99540d4135d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
+      "publishedDateTime": "2023-06-26T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival.md",
       "title": "Tech leaders discuss future of AI at Aspen Ideas Festival",
       "excerpt": "Artificial intelligence was the talk of the Aspen Ideas Festival. NBC News' Tom Llamas sits down with panelist Daniel Huttonlocher in the Colorado Rockies to talk about AI's impact on society and its future.",
@@ -797,49 +900,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-27-micropsi-industries-ai-powered-robot-controller-is-now-hardware-agnostic.md",
-      "title": "Micropsi Industries’ AI-powered Robot Controller Is Now Hardware Agnostic",
-      "excerpt": "Micropsi Industries’ artificial intelligence-powered robot control software MIRAI, which helps automate complex tasks too difficult or costly to automate with traditional programming, will soon be accessible for all robot users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/products/june-2023/micropsi-industries-ai-powered-robot-controller",
-      "originalUrl": "https://www.automation.com/en-us/products/june-2023/micropsi-industries-ai-powered-robot-controller",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/ff419817-c750-449f-9ce5-b1f82ffe8000/Micropski-news-June-26-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-26-how-resilient-is-your-data-in-the-cloud.md",
       "title": "How resilient is your data in the cloud?",
       "excerpt": "IBM Storage Protect for Cloud ensures that your data has been scanned for threats and that a clean copy of that data is safely backed up.\nThe post How resilient is your data in the cloud? appeared first on IBM Blog.\n",
@@ -921,6 +981,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-micropsi-industries-ai-powered-robot-controller-is-now-hardware-agnostic.md",
+      "title": "Micropsi Industries' AI-Powered Robot Controller Is Now Hardware Agnostic",
+      "excerpt": "Micropsi Industries' artificial intelligence-powered robot control software MIRAI, which helps automate complex tasks too difficult or costly to automate with traditional programming, will soon be accessible for all robot users.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/26/9838985.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/26/9838985.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1076,108 +1170,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-ibm-tech-now-june-26-2023.md",
-      "title": "IBM Tech Now: June 26, 2023",
-      "excerpt": "The latest episode of IBM Tech Now looks at quantum utility and the GA of IBM Storage Defender.\nThe post IBM Tech Now: June 26, 2023 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-june-26-2023/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-june-26-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/IBM_Tech_Now_thumbnail_079-e1687798517469.png",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T09:46:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-three-ways-use-ai-to-create-a-seven-figure-e-commerce-storeeven-if-youre-not-a-techie.md",
-      "title": "Three Ways Use AI To Create A Seven-Figure E-Commerce Store—Even If You’re Not A Techie",
-      "excerpt": "When Huang surveyed more than 220 e-commerce sellers recently, 58% said they were not familiar with AI technology or were only somewhat familiar. Huang saw a need to bring them together to give them a place to start. After spending two months doing a deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/elainepofeldt/2023/06/26/three-ways-use-ai-to-create-a-seven-figure-e-commerce-store-even-if-youre-not-a-techie/",
-      "originalUrl": "https://www.forbes.com/sites/elainepofeldt/2023/06/26/three-ways-use-ai-to-create-a-seven-figure-e-commerce-store-even-if-youre-not-a-techie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6121218d5c555303e8592cc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 783,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/elainepofeldt/2023/06/26/three-ways-use-ai-to-create-a-seven-figure-e-commerce-store-even-if-youre-not-a-techie/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elainepofeldt/2023/06/26/three-ways-use-ai-to-create-a-seven-figure-e-commerce-store-even-if-youre-not-a-techie/amp/",
-      "publishedDateTime": "2023-06-26T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

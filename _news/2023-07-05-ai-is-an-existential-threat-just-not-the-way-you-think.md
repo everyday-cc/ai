@@ -43,13 +43,13 @@ related:
       domain: phys.org
     quality: 17
   - title: "AI Is an Existential Threat – Just Not the Way You Think"
-    excerpt: "From open letters to congressional testimony, some AI leaders have stoked fears that the technology is a direct threat to humanity. The reality is less dramatic but perhaps more insidious."
-    publishedDateTime: 2023-07-05T19:56:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think"
+    excerpt: "The rise of ChatGPT and similar artificial intelligence systems has been accompanied by a sharp increase in anxiety about AI. For the past few months, executives and AI safety researchers have been of"
+    publishedDateTime: 2023-07-06T00:50:00Z
+    webUrl: "https://www.realclearscience.com/articles/2023/07/06/ai_is_an_existential_threat__just_not_the_way_you_think_964205.html#!"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
+      name: RealClearScience
+      domain: realclearscience.com
     quality: 17
 
 secured: "vBjpvTjivSucHvDbrrZDom/hWI1CtH6ecboCQN4ZRhzMB5jbt7NleM6C12CY7qlL2Rd+qbb0yd8l1umocMCX5NBwe6VG9SH431eTEV7CvmaTwqlc6PLAUItCDQUIhkyfB+/O9N1j1uM0OkFJqIDxyYGdDeADhtxqyefVXh3z9pHulFNlLWuWuiKQ35DTn4iZq/xceyRAGF8U92jteuSqxCPcFL1rPa0qQB0HKvVsvS+/xqEqTTjdM6vJdRgiu3pV6pt1vFdlpMqCebM5DDHdUfRXnjezqgsDyadwDmNfbIQlCC4OAFtY5ZalIl2MSm9+vQMF13eFNifvW1f1Kzc1k413Ry2PsXNCqAh6decir8sz78QKEuj7TZmmRDcldTnXKnFFzdRrs9ThQGPRggPj0eI0DwqaT7pXMtwGU7HC6GcArIVTElkbmG+kS84qmyqfzuXItZLrbrpw3ek4dzTYDg/pl+Y03eRqnDVsSZpd62ntjaCnDOjX0ksxWHdu7Qm9GS9azjgxGiQ4kjjwjIRzMg==;DpywSlrxwImXMS593t925Q=="

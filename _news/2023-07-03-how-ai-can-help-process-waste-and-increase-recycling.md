@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial intelligence and its role in marketing a brand"
+    excerpt: "With almost every brand using AI, there is a wide scope of plagiarism leading to legal risks that are not addressed easily, says our guest author."
+    publishedDateTime: 2023-07-05T23:30:00Z
+    webUrl: "https://www.afaqs.com/news/guest-article/artificial-intelligence-and-its-role-in-marketing-a-brand"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F4e1cc1fc-6cf9-4076-a826-13324422cb14%2FAi_Art__07.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "zmucjPEGsrqbPkkmiYLJj0Agc1LGmQeg0jmmVwwDlNOslYJwMzNKCSW90faKo9LQwbQVGFe4yPLWk3e2c92pBsOCmvxSlrFIY5FYLb1JbO6D7VyHoXXcscetfsQNjmH3CQjMD8lYB0Q/yVVkmgRRLaqvFhDThLyASbQF+/KAkX2nT4D2Vfve41mqjFdYBzIyHk1Y4yj0LSikuAjjcUFvQEjpw/NKMGpPvBNrpLA0dttTLeKYBqin+Q/Q5fhVC82k8mYNbzVUu89SD9fnFlAVIkaNIEzMBFnrBB+cAVpA0OPaLspiLwOm24PwMt4dAjkEtEYOMdubFAb/O6T1AGCCCNhMYl1kLGrY+KNXaBkK8E8=;8TRlfOU4pOnH1l/2kybLtA=="
 ---

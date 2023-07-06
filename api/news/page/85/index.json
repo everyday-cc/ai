@@ -2,6 +2,164 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-05-11-google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development.md",
+      "title": "Google expands TensorFlow open-source tooling for accelerated machine learning development",
+      "excerpt": "Google enhances TensorFlow with deep learning capabilities and parallelism techniques for developer choice in machine language tooling.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
+      "originalUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_google_deepmind_annc_042023-copy.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
+      "publishedDateTime": "2023-05-10T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology.md",
+      "title": "US Federal Government CIOs Share Challenges And Insights Into Future Of AI And Technology",
+      "excerpt": "At the GITEC 2023 Conference hosted in Annapolis, government CIOs shared some of their insights into where hot technologies like AI, but also less “sexy” technology priorities such as IT modernization and big data analytics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645bf484b738ee39999c02fa/0x0.jpg?format=jpg&crop=2880,1350,x0,y405,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/05/10/us-federal-government-cios-share-challenges-and-insights-into-future-of-ai-and-technology/amp/",
+      "publishedDateTime": "2023-05-10T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-palm-2-is-a-major-ai-update-built-into-25-google-products.md",
+      "title": "PaLM 2 Is a Major AI Update Built Into 25 Google Products",
+      "excerpt": "Google on Wednesday unveiled a new AI system called PaLM 2, a major update to its most powerful language processing system. The artificial intelligence technology already is incorporated into 25 Google products, underscoring its importance as the company races to capitalize on a computing revolution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "originalUrl": "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/fe3d1d07b739cc3244a8a9fcfe9874465549ff2c/hub/2023/05/10/cdb8cbe0-b31f-453b-a7be-880690b5828c/palm2.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/",
+      "publishedDateTime": "2023-05-10T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals.md",
       "title": "Google I/O 2023 Live Blog: Pixel 7A, Fold, Tablet and Bard AI Reveals",
       "excerpt": "Google I/O 2023, the company's annual developer conference is now underway and is already including reveals for Google's AI plans, the new Pixel 7A, Pixel Fold and Pixel Tablet. Google's keynote has just wrapped, but you can check out all the major highlights from our live blog below.",
@@ -1052,154 +1210,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ai-and-modern-workforce-challenges.md",
-      "title": "AI And Modern Workforce Challenges",
-      "excerpt": "The global workforce should expect big changes over the next decade, and I believe humans will lead those changes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645a72f2a9a3d1f35644914e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/",
-      "publishedDateTime": "2023-05-10T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas.md",
-      "title": "Publish predictive dashboards in Amazon QuickSight using ML predictions from Amazon SageMaker Canvas",
-      "excerpt": "Understanding business trends, customer behavior, sales revenue, increase in demand, and buyer propensity all start with data. Exploring, analyzing, interpreting, and finding trends in data is essential for businesses to achieve successful outcomes. Business analysts play a pivotal role in facilitating",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/10/predictive-dashboards-quicksight-sagemaker-canvas.jpg",
-          "width": 1068,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T07:17:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-california-self-driving-technology-company-cruise-making-dallas-debut.md",
-      "title": "California self-driving technology company Cruise making Dallas debut",
-      "excerpt": "Driverless rides to public riders are expected ... The car feeds the data from the sensors into an artificial intelligence brain that powers the autonomous vehicle, giving real-time feedback.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/",
-      "originalUrl": "https://www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/uggb9Ue29ctrJBzd_8w7AK3TbCs=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/RLN6N3FIFBF5JD43YIGOBH6IR4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/?outputType=amp",
-      "publishedDateTime": "2023-05-10T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

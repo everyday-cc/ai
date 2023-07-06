@@ -2,6 +2,145 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-05-01-machine-learning-and-data-sciences-for-financial-markets.md",
+      "title": "Machine Learning and Data Sciences for Financial Markets",
+      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
+      "originalUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cambridge.org/97813165/16195/large_cover/9781316516195i.jpg",
+          "width": 451,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-30T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-two-healthy-babies-conceived-by-a-sperm-injecting-robot-that-is-controlled-by-a-playstation-5-controller-are-born-in-spain.md",
+      "title": "Two healthy babies conceived by a sperm-injecting robot that is controlled by a PlayStation 5 controller are born in Spain",
+      "excerpt": "Two babies have been born after a robot guided by a Playstation 5 controller fertilised human eggs. The procedure, completed in Barcelona, involved student engineer Eduard Alba manoeuvring a tiny ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-12030899/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-12030899/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/04/30/15/70405427-0-image-a-20_1682865620945.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12030899/amp/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12030899/amp/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
+      "publishedDateTime": "2023-04-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-ai-winners-arent-who-you-think.md",
+      "title": "AI Winners Aren't Who You Think",
+      "excerpt": "Artificial intelligence is the biggest buzzword on the market today, and there are a lot of ways to invest in this area of growth. But the biggest winners dominating the discussion today might not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/30/ai-winners-arent-who-you-think/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/30/ai-winners-arent-who-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729429/chatgpt-keyboard.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-30T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-30-how-are-educators-reacting-to-chat-gpt.md",
       "title": "How Are Educators Reacting To Chat GPT?",
       "excerpt": "ChatGPT has the opportunity to innovate how education is accessed, as well as could have severe consequences on student’s critical thinking skill development This blog will explore some of the views,",
@@ -1055,153 +1194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-2023-2031-object-recognition-imaging-systems-market-opportunities-and-company-growth-strategies.md",
-      "title": "2023-2031 \"Object Recognition Imaging Systems Market\" Opportunities and Company Growth Strategies",
-      "excerpt": "“Global Object Recognition Imaging Systems Research Observes Global Market Competition by Manufacturer: The study offers critical insights into key players, product information, and production ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2031-object-recognition-imaging-systems-market-opportunities-and-company-growth-strategies-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2031-object-recognition-imaging-systems-market-opportunities-and-company-growth-strategies-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-heres-how-the-cloud-is-revolutionizing-health-tech-and-fintech.md",
-      "title": "Here's How the Cloud is Revolutionizing Health Tech and FinTech",
-      "excerpt": "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/cloud-revolutionizes-healthtech-fintech/450667",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/cloud-revolutionizes-healthtech-fintech/450667",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1682721803-GettyImages-1365582863.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2nd time in the Fall of 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32097415",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097415",
-      "publishedDateTime": "2023-04-28T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
