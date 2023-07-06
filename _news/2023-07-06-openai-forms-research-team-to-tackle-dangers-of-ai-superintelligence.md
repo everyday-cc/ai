@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "OpenAI is forming a team to rein in superintelligent AI"
+    excerpt: "OpenAI is forming a dedicated team to manage the risks of superintelligent artificial intelligence. A superintelligence is a hypothetical AI model that is smarter than even the most gifted and intelligent human,"
+    publishedDateTime: 2023-07-05T22:18:00Z
+    webUrl: "https://www.engadget.com/openai-is-forming-a-team-to-rein-in-superintelligent-ai-214333388.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/HqhGvFsUOChgmfgRV_4PvA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/67615990-1b79-11ee-9fcd-589a780dca15.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'Artificial Intelligence will never be able to beat the complexity of Nature's Intelligence'"
     excerpt: "Artificial intelligence was the key focus, as participants explored its collaborative potential, impact across sectors, and the convergence of sports, media, and social networks in the tech era. Agam Khare,"
     publishedDateTime: 2023-07-02T13:42:00Z
@@ -54,6 +68,6 @@ related:
         height: 284
         isCached: true
 
-secured: "TQ7ppVAuQXMBxYpuXK3fBquM7e0sXCQ5vxUvYR0rb/HELc4NjvyJDzx6LvOqD64EEyxaucx6cD9RCo8QBr2MCpzmJYoDK5FAfSixlQmN9UxOhJZD+Jo+i90sJ67gphuztZ2CwPHZ3+OB+74XRpejkvD1z8twqOlhHdufcuSKg3WEtGWhdG11qlFJNJfnkKp1g50p9jv7rUetJB/Rv8snOD21lGAILiSqmKBNaP3U9R/1yKM+666ewji4JPCtN6MnHYkFwY8Wqzs2NXpeghWc/PsKnAyD0FpIj41OoMnfhAjjMW9GnL/YxEmUqujXhcB5MvyRI1Og3vw2UOLNl7rJtZPJLJVoAGC3cNd5XVItmY8=;06eW7/GWwte4DDygnUGAYw=="
+secured: "P+z8D7WCHzKA7LyOl42eGTmU6RyG4G5RNY2mPJwptlZres/El7dwte+VFhhGlg3DjOIIp2mnfAOcy8Dwk2ZuOfpw4Ngyf8EZ0EgmFKyQkWxPalz+UMTQJi5d+xm90aOeS5u56W6YV/uzlaOYQPlRZ2JTgW+Mc5K+UOVvF2fph8jkE3ToZa9YJ5x/RUBxzcsBkzHJ2sqrslP+aKICYr+fHki+VdBQxZ66dqz8H93Y+AH1bjdZlqtBlsWaitS53/MvPwDw8ZM9WlhZpEwlKpfC3h8BM22KF92AczN9RgQfm4X15HJvbqhg2vm/KxTT6uKG/6XPfUegTb7tByng/BEd8WyZLO7GSLgNNNFsge75VeA9Icr4E6BobwqBAy5NKpj954JQb+Ebl1FmK1ooPYgQ4evHtnx7AKZADOFGRkBdtXIjvHsn0gn8N/NU2Xhp2ICgo1bzv3GT9tYaQdTzBlBRuH46udsn342s8521LHA/PVWrs0euy3fKP4pEsLsBRYQtTkCGY4LekT8vQwwITmpcYQ==;0uOX126TlRx6yVttssG5iw=="
 ---
 

@@ -34,7 +34,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 39
+    quality: 41
   - title: "How fintech revolutionised the broking industry"
     excerpt: "Digital stock broking platforms are leveraging algorithms to deliver relevant content with targeted marketing to reach out to younger audiences and get them started to invest in the market."
     publishedDateTime: 2023-07-03T03:30:00Z

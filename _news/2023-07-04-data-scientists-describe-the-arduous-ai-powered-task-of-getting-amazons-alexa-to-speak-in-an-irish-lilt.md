@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/data-scientists-use-ai-create-irish-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp"
 type: article
 quality: 70
-heat: 73
+heat: 70
 published: true
 
 provider:

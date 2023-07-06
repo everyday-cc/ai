@@ -35,7 +35,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 39
+    quality: 41
   - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
     excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
     publishedDateTime: 2023-07-02T10:00:00Z

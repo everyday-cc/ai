@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-05T19:57:00Z
 originalUrl: "https://moneymorning.com/investing/what-even-is-artificial-intelligence-anyway/"
 webUrl: "https://moneymorning.com/investing/what-even-is-artificial-intelligence-anyway/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/06/bp-report-01.png"

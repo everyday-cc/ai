@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-05T21:21:00Z
 originalUrl: "https://venturebeat.com/ai/gartner-survey-most-corporate-strategists-find-ai-and-analytics-critical-to-success/"
 webUrl: "https://venturebeat.com/ai/gartner-survey-most-corporate-strategists-find-ai-and-analytics-critical-to-success/"
 type: article
-quality: 60
+quality: 62
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/01/GettyImages-1373296586.jpg?w=1200&strip=all"
@@ -59,6 +60,6 @@ related:
         height: 363
         isCached: true
 
-secured: "JoXW1OTuV9mhQ5Up3b2zQXUw+Wfey2LKoFwTPnOA6W55/W2KuTq2L87VQkR052DUWx9OuYElkkh5IhBJKPb/qxLQQGJxltwQJB6nTtOyrz/xfoLaWrtpAZpGalcY+E8IQ1yEB0GZqCaY5mjqRF470uA517KYJJUIT2fPl5VR8EAnbWvfPDZ5fWOtfxbEdtJKXvue6k5U5sk5X7Q1S2LZpDVMQwNm/9ks3sdwIUCjP78Psz5ieuby7HJwcHjCVMFs3tF5lVpzKFISIZNmFSL+pQHzUupaORIi8kFzpbX0jItC8TFfzzRqGeqgyY5YbIkqdALicSxuHbLKjcX8oin1qtIJLz+yo14aSvOvE1/sgyE=;dbOFCeVYE0ddmMR+SKeG8w=="
+secured: "qH1sA0OP/fxta92t+aH9Ed66qECqCrYqeFT3NGvoLizL+6ds8s4Ecth/2T8UX4UoHy028fm7Ub4SDdDcYT6ZUD0Hc1FKjZY2UCyB9Yen9Jet4MZlv+hEsOOfr2dZe1y0n7oPAOP1sqZF49jD6VkrNOV/qnhG+Kr7Evn6TokwPM7Dhj5biUN4rT1+T5kXUBhEknJfiXBf67W7JVtE7vUOj67lMOBuDPTMhwd1hfg2efmbREYtoXgP/SPsOWw9N2BJrctMkdJzGq6bDnxFIijA0XFaOWDRiB/yIvk/mxeFvXiIIJubIxpvP0kb4o6Wf+COAtCko4WROzqEjMxZl/MESbZduR01/r08bUA0O4v85K7ml1WA4acZlzXUqrwSUd5w9FJp3EwayvnR+4lmuydfM1dlVR7lPihBfYiYF46ME8uAd9dMn5ocOIjjBhcvC5wwJ/+D8WK3JtWdWvegK4EAslySB2GQtJv+nEeDr3YC4Rs32JPnDsfNrcqXrUv/n15ikwkBPOzHOAO0f/tbbAB4dQ==;Wnhq60S0MQ9sLBasGd/l+g=="
 ---
 

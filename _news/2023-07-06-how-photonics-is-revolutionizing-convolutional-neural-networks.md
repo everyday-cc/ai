@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-07-photonics-revolutionizing-convoluti
 ampWebUrl: "https://techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.amp"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 related:
   - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
