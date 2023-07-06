@@ -24,6 +24,22 @@ images:
     height: 1350
     isCached: true
 
+related:
+  - title: "A vision for the future"
+    excerpt: "Breakthroughs in human and machine vision are happening at speed, but even more exciting is what can be achieved when the two are combined."
+    publishedDateTime: 2023-07-06T11:03:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/07/a-vision-for-the-future/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 24
+    images:
+      - url: "https://eandt.theiet.org/media/21861/alamy_2mjxrgw-hero.jpg?crop=0,0.31791666666666668,0,0.18989583333333326&cropmode=percentage&width=1200&height=450&rnd=133323356610000000"
+        width: 1200
+        height: 450
+        isCached: true
+
 secured: "5ir349en0kJqFOjb7VuU898UsWVgaIV5X7J/xx8ycCK8DI/4qUrZavu0jeLsL08DKHGcBGcp89YUR7PUE1oVDRZGK9ufgxGwqkO+f4LOWq3uESYm1wBUcEO5zj0xdTqu15tTauFIf2xOuhU2aGPkED6tP3xOcZ1Lp/THd7h7FCCbtnckPsQY7Igtcgu8E3A3PPB1k4MmEWCHy5v78ReMdYB5ipxYzt8W2DQxueSAMZWjMBTB7mmS35sUDfzpGIfYZpAL1dD50vUMIG6udu4pPgMYS+it/8kvBvKYGeX93hx568QGDNpgB11Cfw37z4+ljM9cECcB6A2v7EpaMSLX7YhDnGhpjwJLCAYqvC/YKtQ=;OQT9MaHOWcWA2F5fmYV/9w=="
 ---
 

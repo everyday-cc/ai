@@ -2,6 +2,135 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-02-sigmaos-launches-a-contextual-ai-assistant-for-its-browser.md",
+      "title": "SigmaOS launches a contextual AI assistant for its browser",
+      "excerpt": "LocalGlobe- and Y Combinator-backed web browser startup SigmaOS launched its own AI assistant on Thursday to a limited set of people.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
+      "originalUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Explain.jpg?resize=1200,750",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/",
+      "publishedDateTime": "2023-06-02T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-ai-terminology-101-transformer-networks-revolutionizing-natural-language-processing-and-beyond.md",
+      "title": "AI TERMINOLOGY 101: Transformer Networks - Revolutionizing Natural Language Processing and Beyond",
+      "excerpt": "Traditional NLP models struggled to capture long-range dependencies and contextual relationships in language due to their ... relevant words or phrases while processing input.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/06/transformer-networks-revolutionizing-nlp-ai",
+      "originalUrl": "https://yourstory.com/2023/06/transformer-networks-revolutionizing-nlp-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Screenshot2023-06-01at4-1685617785273.png?fm=png&auto=format",
+          "width": 2126,
+          "height": 1052,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-amazon-to-pay-31-million-in-privacy-violation-penalties-for-alexa-voice-assistant-and-ring-camera.md",
+      "title": "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera",
+      "excerpt": "Amazon kept the kids' data to refine its voice recognition algorithm, the artificial intelligence behind Alexa, which powers Echo and other smart speakers, Bedoya said. The FTC complaint sends a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/business/2023/05/31/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/",
+      "originalUrl": "https://www.clickondetroit.com/business/2023/05/31/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T18:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-wolters-kluwer-at-187-how-an-information-company-adapts-to-ai.md",
       "title": "Wolters Kluwer At 187: How An Information Company Adapts To AI",
       "excerpt": "It’s widely known that to succeed with AI, a company needs to have some distinctive information. Wolters Kluwer, the Netherlands-based professional information, software solutions and services company that does business in over 180 countries today,",
@@ -1241,145 +1370,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup.md",
-      "title": "Scaling Human Kindness In The Age Of AI: A New Kind Of Israeli Startup",
-      "excerpt": "In this age of dizzying technological innovation, no one has invented the technology to scale human capital. a humanitarian startup aims to scale kindness",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/",
-      "originalUrl": "https://www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646602d32c4c4bdd28b1abc6/0x0.jpg?format=jpg&crop=2889,1864,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/amp/",
-      "publishedDateTime": "2023-05-18T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-are-alexa-and-siri-ai.md",
-      "title": "Are Alexa and Siri AI?",
-      "excerpt": "Conversational AI is a type of artificial intelligence that ... They have extensive amounts of data that allow them to recognize speech and text to then translate these inputs into meaning. Natural Language Processing in Alexa and Siri Natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
-      "originalUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c69365-fe8d-493b-bfed-036295311cf9/fa99226e-59e6-4ec3-a739-7a0c2ea9d800/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/alexa-siri-ai.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/alexa-siri-ai.amp",
-      "publishedDateTime": "2023-05-17T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-how-common-is-common-sense-in-ai-and-why-should-we-care.md",
-      "title": "How Common is Common Sense in AI, and Why Should We Care?",
-      "excerpt": "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
-      "originalUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
-      "publishedDateTime": "2023-05-17T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

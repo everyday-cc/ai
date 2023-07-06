@@ -2,6 +2,273 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-04-better-than-humans-ai-attack-drones-to-join-us-military-soon.md",
+      "title": "Better Than Humans? AI Attack Drones to Join US Military Soon",
+      "excerpt": "The AI system, developed by Athena AI, aims to enhance target identification and assist human drone operators. While the potential benefits are significant, concerns about ethics and AI reliability have been raised by experts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm",
+      "originalUrl": "https://www.techtimes.com/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/430949/better-than-human-ai-attack-drones-to-fight-for-us-military-soon.jpg",
+          "width": 618,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm",
+      "publishedDateTime": "2023-07-04T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-choice-campaigns-on-extremely-concerning-rollout-of-facial-recognition-tech-at-concert-venues.md",
+      "title": "Choice Campaigns on ‘Extremely Concerning’ Rollout of Facial Recognition Tech at Concert Venues",
+      "excerpt": "Choice, calls for “stronger laws” to regulate the controversial technology, after its analysis found many major venues use facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://themusicnetwork.com/choice-campaign-facial-recognition-technology-concert-venues/",
+      "originalUrl": "https://themusicnetwork.com/choice-campaign-facial-recognition-technology-concert-venues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://app.thebrag.com/img-socl/?url=https://images.thebrag.com/tmn/uploads/QUDOS.jpg&nologo=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://themusicnetwork.com/choice-campaign-facial-recognition-technology-concert-venues/amp/",
+      "cdnAmpWebUrl": "https://themusicnetwork-com.cdn.ampproject.org/c/s/themusicnetwork.com/choice-campaign-facial-recognition-technology-concert-venues/amp/",
+      "publishedDateTime": "2023-07-04T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Music Network",
+        "domain": "themusicnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-china-to-tighten-control-on-exports-of-ai-chip-making-materials.md",
+      "title": "China to tighten control on exports of AI chip-making materials",
+      "excerpt": "According to Chinese officials, anyone wanting to export gallium or germanium products must receive a license from the government and comply with new export limits or else face punishment.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials",
+      "originalUrl": "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/66606f2a-ac65-441f-b002-136dda05c141.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp",
+      "publishedDateTime": "2023-07-04T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models.md",
+      "title": "Google's updated privacy policy states it can use public data to train its AI models",
+      "excerpt": "Google has updated its privacy policy to state that it can use publicly available data to help train its AI models..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html",
+      "originalUrl": "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/6L6HePy3d.EWSSl5xz0bjQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/583fa560-a703-11ed-9ded-448b8300fa76.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-top-7-best-ai-writing-software-tool.md",
+      "title": "Top 7 Best AI Writing Software Tool",
+      "excerpt": "Here is a list of the top 7 best AI writing software tools to help you create content with the best quality and SEO optimization. You will also find a guide on selecting the best AI writing software tool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210",
+      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1688464900.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210/amp",
+      "publishedDateTime": "2023-07-04T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-artificial-intelligence-could-change-outlook-of-education-in-the-near-future.md",
+      "title": "Artificial Intelligence could change outlook of education in the near future",
+      "excerpt": "It may not be long before schools and education as a whole change the way of learning due to recent advances in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
+      "originalUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/OTtXcWqzkFBkso3YLO3pO1TUI7U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DUPMDHIGTFGE3GEHQIE2AGV3BA.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp",
+      "publishedDateTime": "2023-07-03T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wbng",
+        "domain": "wbng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-data-scientists-describe-the-arduous-ai-powered-task-of-getting-amazons-alexa-to-speak-in-an-irish-lilt.md",
       "title": "Data scientists describe the arduous, AI-powered task of getting Amazon's Alexa to speak in an Irish lilt",
       "excerpt": "Two data scientists told The New York Times that text-to-speech AI models helped them overcome the difficulty of creating Irish Alexa.",
@@ -151,58 +418,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-tesla-is-valuing-full-self-driving-high-only-when-its-convenient.md",
-      "title": "Tesla is valuing Full Self-Driving high only when it’s convenient",
-      "excerpt": "Tesla is only valuing its Full Self-Driving package high when it’s convenient for the company. When it’s not, like",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/07/03/tesla-valuing-full-self-driving-high-when-convenient/",
-      "originalUrl": "https://electrek.co/2023/07/03/tesla-valuing-full-self-driving-high-when-convenient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -403,7 +618,7 @@
       "originalUrl": "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -707,7 +922,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -982,246 +1197,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-report-artificial-intelligence-market-growing-at-37-a-year.md",
-      "title": "Report: Artificial intelligence market growing at 37% a year",
-      "excerpt": "All that buzz about artificial intelligence is not just hype. It's rapidly becoming big business and demand is growing at 37% a year, says a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/07/03/report-artificial-intelligence-market-growing-at-37-a-year/",
-      "originalUrl": "https://wraltechwire.com/2023/07/03/report-artificial-intelligence-market-growing-at-37-a-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg",
-          "width": 772,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/07/03/report-artificial-intelligence-market-growing-at-37-a-year/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/03/report-artificial-intelligence-market-growing-at-37-a-year/?amp=1",
-      "publishedDateTime": "2023-07-03T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-the-future-of-ai-powered-personalization-the-potential-of-choices.md",
-      "title": "The Future Of AI-Powered Personalization: The Potential Of Choices",
-      "excerpt": "In the ever-expanding digital landscape, where choices seem limitless, AI-powered personalization has emerged as a game-changer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61b218c1ca901f3c7454ff62/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/",
-      "publishedDateTime": "2023-07-03T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-leonardo-da-vinci-inside-a-genius-mind.md",
-      "title": "Leonardo da Vinci: Inside a genius mind",
-      "excerpt": "28 institutions from around the world  join forces to showcase Leonardo da Vinci's unparalleled legacy, blending art, science, and AI innovation",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/",
-      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/amp/",
-      "publishedDateTime": "2023-07-03T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-build-accelerated-ai-apps-for-npus-with-olive.md",
-      "title": "Build accelerated AI apps for NPUs with Olive",
-      "excerpt": "Microsoft’s open-source, hardware-aware optimization tool for ONNX models is an essential part of its AI application development tool chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
-      "originalUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
-      "publishedDateTime": "2023-07-03T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-ais-impact-on-cost-savings-productivity-and-jobs.md",
-      "title": "AI’s impact on cost savings, productivity, and jobs",
-      "excerpt": "While short-sighted companies may look to AI to cut jobs and costs, smart companies will use AI to increase productivity and agility. Just as they did with open source and cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html",
-      "originalUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-526811863-100648031-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html",
-      "publishedDateTime": "2023-07-03T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

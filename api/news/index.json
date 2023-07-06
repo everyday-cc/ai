@@ -2,6 +2,368 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-06-the-indian-business-responsibility-and-sustainability-report-brsr-explained.md",
+      "title": "The Indian Business Responsibility and Sustainability Report (BRSR) explained",
+      "excerpt": "India&#8217;s Business Responsibility and Sustainability Report (BRSR)&#8212;a framework for environmental, social and governance (ESG) reporting&#8212;comes into effect in 2023. These new reporting standards represent an evolution from the voluntary guidelines first issued in 2009 by India&#8217;s Ministry",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/indian-brsr-reporting/",
+      "originalUrl": "https://www.ibm.com/blog/indian-brsr-reporting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-06-at-3.37.53-AM.png",
+          "width": 2138,
+          "height": 996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-responsible-ai-a-mandate-in-finance-and-insurance.md",
+      "title": "Responsible AI: A Mandate In Finance And Insurance",
+      "excerpt": "Companies that deploy AI responsibly can stand out from competitors while avoiding legal problems and other mistakes that can erode customer trust and damage reputations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a570a8e38d3ff4b58aa486/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/amp/",
+      "publishedDateTime": "2023-07-06T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-artificial-intelligence-and-new-styles-of-learning-with-david-giron.md",
+      "title": "Artificial Intelligence And New Styles Of Learning. With David Giron",
+      "excerpt": "The education sector may well be impacted by advanced AI more profoundly than any other - there's obvious potential benefit in applying more intelligence to education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2023/07/06/artificial-intelligence-and-new-styles-of-learning-with-david-giron/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/07/06/artificial-intelligence-and-new-styles-of-learning-with-david-giron/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a69f522e282c674c8aa486/0x0.jpg?format=jpg&width=1200",
+          "width": 987,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/07/06/artificial-intelligence-and-new-styles-of-learning-with-david-giron/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/07/06/artificial-intelligence-and-new-styles-of-learning-with-david-giron/amp/",
+      "publishedDateTime": "2023-07-06T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-5-science-based-strategies-for-optimizing-your-work-and-beating-ai.md",
+      "title": "5 Science-Based Strategies For Optimizing Your Work And Beating AI",
+      "excerpt": "What can be done? Leaving aside issues that can only be tackled by nation-states, I believe we have practical responses available that mitigate potential harm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a57819dc1ae53b048aa486/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/amp/",
+      "publishedDateTime": "2023-07-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-what-the-impact-of-global-voice-recognition-means-for-todays-brands.md",
+      "title": "What The Impact Of Global Voice Recognition Means For Today’s Brands",
+      "excerpt": "Text-based SEO is taking a back seat to the rise of voice search. From websites to blogs to paid ad campaigns, peppering online content with relevant, long-tail keywords is indisp",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5c2e07beb1649c1b4ddd4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/amp/",
+      "publishedDateTime": "2023-07-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-four-google-cloud-customers-share-how-they-use-ai-to-deliver-value.md",
+      "title": "Four Google Cloud Customers Share How They Use AI To Deliver Value",
+      "excerpt": "translation and multilingual proficiency, and natural language generation. Additionally, Google offers Vertex AI, an end-to-end AI platform that streamlines the deployment of AI and generative models, allowing companies to customize AI models for their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/",
+      "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a59969816ad28ab94c321a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/",
+      "publishedDateTime": "2023-07-06T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
+      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
+      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "publishedDateTime": "2023-07-06T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-air-force-colonel-says-it-took-ai-10-minutes-to-complete-a-task-that-can-take-humans-days.md",
       "title": "Air Force colonel says it took AI 10 minutes to complete a task that can take humans days",
       "excerpt": "The US is testing AI to help defense agencies' internal communications, Bloomberg reported. Some AI models have even been fed classified information.",
@@ -49,49 +411,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-later-this-year.md",
-      "title": "Elon Musk predicts Tesla self-driving cars 'later this year'",
-      "excerpt": "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone. \"In terms of where Tesla is at this stage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/3007p2/article67048051.ece/alternates/FREE_1200/2023-06-24T170512Z_85981581_RC2SP1AFUMP2_RTRMADP_3_MUSK-ZUCKERBERG-FIGHT.JPG",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/",
-      "publishedDateTime": "2023-07-05T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -475,49 +794,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-05-facial-recognition-technology-could-soon-be-everywhereheres-how-to-make-it-safer.md",
-      "title": "Facial recognition technology could soon be everywhere—here's how to make it safer",
-      "excerpt": "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement all over the UK and other countries.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/facial-recognition-tec.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp",
-      "publishedDateTime": "2023-07-05T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-05-why-big-tech-wants-to-help-congress-regulate-ai.md",
       "title": "Why Big Tech Wants to Help Congress Regulate AI",
       "excerpt": "Tech interests, especially OpenAI, the nonprofit that created ChatGPT, have gone on the offensive in Washington, arguing for regulations that will prevent the technology from posing an existential threat to humanity.",
@@ -714,7 +990,7 @@
       "originalUrl": "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -944,235 +1220,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-this-country-just-gave-the-green-light-for-self-driving-vehicles-on-its-roads.md",
-      "title": "This country just gave the green light for self-driving vehicles on its roads",
-      "excerpt": "The United Arab Emirates granted China's WeRide a nationwide license to operate its autonomous robotaxis, buses, vans, and sweepers on its roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7",
-      "originalUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a580c16075be0019c2acdc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp",
-      "publishedDateTime": "2023-07-05T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-decoding-the-impact-of-ai-on-seo-why-value-is-still-king.md",
-      "title": "Decoding The Impact Of AI On SEO: Why Value Is Still King",
-      "excerpt": "While the future is uncertain, one thing remains clear—value always wins. Regardless of the changes in search engines or the introduction of new monetization models, if you focus on providing value to your audience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a2e189739c70fd46b4ddd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/amp/",
-      "publishedDateTime": "2023-07-05T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-what-is-cloud-cost-optimization.md",
-      "title": "What is cloud cost optimization?",
-      "excerpt": "Cloud cost optimization combines strategies, techniques, best practices and tools to help reduce cloud costs and much more.\nThe post What is cloud cost optimization? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-cloud-cost-optimization/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-cloud-cost-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T05:56:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-asset-lifecycle-management-best-practices-building-a-strategy-for-success.md",
-      "title": "Asset lifecycle management best practices: Building a strategy for success",
-      "excerpt": "Asset lifecycle management best practices that successful businesses use to care for their assets and extend their useful lives.\nThe post Asset lifecycle management best practices: Building a strategy for success appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/asset-lifecycle-management-best-practices-building-a-strategy-for-success/",
-      "originalUrl": "https://www.ibm.com/blog/asset-lifecycle-management-best-practices-building-a-strategy-for-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T05:53:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-the-hybrid-cloud-forecast-part-3.md",
-      "title": "The Hybrid Cloud Forecast: Part 3",
-      "excerpt": "If you have ever talked with one of them, you will know that IBM Fellows are storytellers. It’s part of their DNA. \nThe post The Hybrid Cloud Forecast: Part 3 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-3/",
-      "originalUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T05:51:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

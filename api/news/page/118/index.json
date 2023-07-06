@@ -2,6 +2,342 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2023-04-24-britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education.md",
+      "title": "Britain sets up $125 million taskforce to drive AI in healthcare, education",
+      "excerpt": "The taskforce will help develop foundation models - a type of artificial intelligence (AI) used by chatbots like ChatGPT - for use in fields like healthcare and education",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/articleshow/99732037.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/articleshow/99732037.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/msid-99712095,imgsize-,width-600,height-450/.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/amp_articleshow/99732037.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/amp_articleshow/99732037.cms",
+      "publishedDateTime": "2023-04-24T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-5-crucial-components-of-an-ai-company.md",
+      "title": "5 Crucial Components Of An AI Company",
+      "excerpt": "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200",
+          "width": 1014,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
+      "publishedDateTime": "2023-04-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-how-ai-can-transform-the-software-engineering-process.md",
+      "title": "How AI Can Transform The Software Engineering Process",
+      "excerpt": "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200",
+          "width": 790,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
+      "publishedDateTime": "2023-04-24T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-how-gpt-4-could-affect-marketing-leaders.md",
+      "title": "How GPT-4 Could Affect Marketing Leaders",
+      "excerpt": "Marketers have always had to adapt to their changing technological environment. GPT technologies are no different.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6442c991c58a2f3beb23907c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/amp/",
+      "publishedDateTime": "2023-04-24T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai.md",
+      "title": "KPMG: US executives unprepared for immediate adoption of generative AI",
+      "excerpt": "In a KPMG survey of executives on generative AI, the technology is seen as potentially the most disruptive to date.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-648066032-e1682331357491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/",
+      "publishedDateTime": "2023-04-24T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-ai-to-help-fight-next-public-health-crisis-top-chinese-scientist-says.md",
+      "title": "AI to Help Fight Next Public Health Crisis, Top Chinese Scientist Says",
+      "excerpt": "Hi, it’s Jinshan in Hong Kong. With AI buzz sweeping sectors across the world, I take a look at how the technology might reshape the health-care industry. Before we get to",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-04-24/ai-to-help-fight-next-public-health-crisis-top-chinese-scientist-says",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-04-24/ai-to-help-fight-next-public-health-crisis-top-chinese-scientist-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYdk5e1nL4Po/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-german-manufacturers-hope-for-ai-boost-in-factories.md",
+      "title": "German manufacturers hope for AI boost in factories",
+      "excerpt": "operates a robot developed in cooperation between HPE and German AI startup Aleph Alpha. Photo: Axel Heimken/AFP. Manufacturers are hoping for the artificial intelligence revolution to reach their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thelocal.de/20230423/manufacturers-hope-for-ai-boost-in-factories",
+      "originalUrl": "https://www.thelocal.de/20230423/manufacturers-hope-for-ai-boost-in-factories",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Local",
+        "domain": "thelocal.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-googles-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.md",
       "title": "Google’s Bard AI to take on GitHub Copilot and Amazon CodeWhisperer",
       "excerpt": "Google’s generative AI offering is now capable of helping developers write and debug code in 20 programming languages including Python and Typescript, the company said.",
@@ -846,306 +1182,6 @@
         "name": "The Business Journals",
         "domain": "bizjournals.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-self-driving-cars-autonomous-driving-levels-explained.md",
-      "title": "Self-driving cars: Autonomous driving levels explained",
-      "excerpt": "They have no autonomous or self-driving controls at all, with all aspects of driving needing to be taken care of by the driver, including reacting to hazards. Level 1: Level 1 autonomy is the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/sae-autonomous-driving-levels-explained/",
-      "originalUrl": "https://www.pocket-lint.com/sae-autonomous-driving-levels-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/143955-cars-feature-autonomous-vehicles-the-various-levels-of-autonomy-explained-image1-yfsj6ukbpj.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-baidu-future-ai-giant-with-improving-core-ad-business.md",
-      "title": "Baidu: Future AI Giant With Improving Core Ad Business",
-      "excerpt": "I like Baidu as the key enabler of AI adoption across industries in China, working on autonomous driving, ML/ AI cloud computing, and even chip design. Baidu recently leveraged its AI research ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4595821-baidu-bidu-future-ai-giant-improving-core-ad-business",
-      "originalUrl": "https://seekingalpha.com/article/4595821-baidu-bidu-future-ai-giant-improving-core-ad-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488987708/image_488987708.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-manufacturers-hope-for-ai-boost-in-factories.md",
-      "title": "Manufacturers Hope For AI Boost In Factories",
-      "excerpt": "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "originalUrl": "https://www.barrons.com/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "publishedDateTime": "2023-04-23T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-michael-schumacher-magazine-editor-sacked-over-ai-generated-interview-with-seven-time-f1-champion.md",
-      "title": "Michael Schumacher: Magazine editor sacked over AI-generated 'interview' with seven-time F1 champion",
-      "excerpt": "The editor of a German magazine that published an artificial intelligence-generated 'interview' with Michael Schumacher has been sacked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/formula1/65361193",
-      "originalUrl": "https://www.bbc.com/sport/formula1/65361193",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/1086B/production/_129419676_hi020461788.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/formula1/65361193.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/formula1/65361193.amp",
-      "publishedDateTime": "2023-04-22T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-5-emerging-trends-in-deep-learning-and-artificial-intelligence.md",
-      "title": "5 emerging trends in deep learning and artificial intelligence",
-      "excerpt": "Deep learning and artificial intelligence (AI) are rapidly evolving fields with new technologies emerging constantly. Five of the most promising emerging trends in this area include federated ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-04/2685aac9-95d3-4cc0-911c-64fc6de81bba.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence/amp",
-      "publishedDateTime": "2023-04-22T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-unveiling-the-power-of-large-language-models-llms.md",
-      "title": "Unveiling the Power of Large Language Models (LLMs)",
-      "excerpt": "Over the past few years, artificial intelligence has made significant strides in the field of natural language processing. Among these advancements, Large Language Models (LLMs) have emerged as a dominant force,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/large-language-models/",
-      "originalUrl": "https://www.unite.ai/large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2021/09/brain-4521220_1280-942x600.jpg",
-          "width": 942,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-22T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-have-robots-take-care-of-your-cat-when-you-travel.md",
-      "title": "Have Robots Take Care Of Your Cat When You Travel",
-      "excerpt": "If you like to travel, a cat is the perfect pet. They don't need constant walking. They don't need an overabundance of interaction (if they want any), and they don't destroy your house if left alone for a few days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anthonykarcz/2023/04/22/have-robots-take-care-of-your-cat-when-you-travel/",
-      "originalUrl": "https://www.forbes.com/sites/anthonykarcz/2023/04/22/have-robots-take-care-of-your-cat-when-you-travel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-22T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

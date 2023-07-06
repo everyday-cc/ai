@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-generative-ai-will-play-a-r
 webUrl: "https://www.businessinsider.com/sc/how-generative-ai-will-play-a-role-in-our-customer-experiences"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Responsible AI: A Mandate In Finance And Insurance"
+    excerpt: "Companies that deploy AI responsibly can stand out from competitors while avoiding legal problems and other mistakes that can erode customer trust and damage reputations."
+    publishedDateTime: 2023-07-06T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a570a8e38d3ff4b58aa486/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "4URS8d7Bz8pSNeKZBVNeuyibvT5DBbKKLBeEPgoyQxfx+M4Gt/qcXBjnavZsKpfXpIIft+sHMridkNC9XXoMrVmONtLwjOEuoUJpvQESVgB0SNFsZvlC79rjM95E/zkNCZx+/C8MsAJlA9EvSpDUn1znKO2urwREkdYkFlcq/qgMD0Fn1/AXUqquCrME1uxWGrCH14CgEwtPsEZHEX8TpO0VFf4C56O47xoBCMA2OztxfY8amzCp1AwyNgKA6OzQd8sZNZ9m1cyFnB59QaPVJKnQasvJUhggBHS/kbQFu8JuGoAIlbBukMrLivQbo7q8RzEMvEpB91tV4pTwHFIzAs0RF3IJt0Sgp/scU+l1WrAqnFgr/Nzj3DmqUmLlMTLR7nPs/TKVXp3hbh/kTuduFMxahcJdexEqHeg9jvMtp7MmsWEcP5aXujnveHOt1FODbtHdfQD3Yxhx1sS49iliSWqy4Crp5bT1VwmooQrN2n7GTxVgyK03Bqow1Iyv01sRgc501lgoGMLurODx6A1I5w==;w1SxMs0/4yO+IfQ6WFGaxg=="
 ---

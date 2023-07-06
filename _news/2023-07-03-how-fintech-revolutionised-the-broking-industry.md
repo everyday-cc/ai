@@ -25,30 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How photonics is revolutionizing convolutional neural networks"
-    excerpt: "In the modern era, there has been explosive growth in the demand for computing power for cognitive image and video processing. While convolutional neural networks offer improved performance for image processing,"
-    publishedDateTime: 2023-07-05T20:46:00Z
-    webUrl: "https://techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-photonics-revolutionizing-convolutional-neural-networks.amp"
+  - title: "Fintech Salt Edge, Kindgeek to Enhance Open Banking Solutions"
+    excerpt: "Kindgeek, a one-stop shop fintech software developer, and Salt Edge, an open banking service provider, announce their partnership."
+    publishedDateTime: 2023-07-06T11:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 41
-  - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
-    excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
-    publishedDateTime: 2023-07-02T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 37
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
-        width: 1100
-        height: 550
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Salt.jpeg"
+        width: 1280
+        height: 1217
         isCached: true
 
 secured: "FHLnpUEO2W6kg4e6K8Bt1LbZ0oZleOgA/VTsWp0tNVq+XaHPThExBpVdFdYh0tBNAkfwzLpO4MZYqL0K9MfWZOrnT+DZ8JYnwpDMv+IWY+BOmCddhel2G2YYEXKT47C0imOg4PB1u22YaepRJx9EgMlBTVK8v8HUSsMMueTiMxSrS/ey3Ne7FHcc3o9NyoGawplSERryHH89evV2xZYAhh8SC2DyXRe7Otf4Ge7AD/Q7ovCnQUl/8Qw1FoW4BRx3SBeKF3xi+3V196zHZwtWvkMSNokaq4QPpKPI6lJJvehYMhLpobae/QwRBQDoa1BUifuvOWtBt6mGqjJRjgg7tOo47c2MRW4mH2GO1v+0cZazmz7JSI0AFrCErahOHi1LcqeCFjiF4SFJ2g+sJWFQ94gcwJFP2Rv0TJ1NZYqox9NCZeRtam3plAo1kmMpdWAZBVjuFEZUeL1/8JbHLziAYWndSOVo1LWtsOmRwQR87zMWPYu4SCgXRaA3hXoh2Z/w8Xzp6PQYccJo9E1d3/fR3g==;VBTu0kfUQXtWC4tvewZexg=="

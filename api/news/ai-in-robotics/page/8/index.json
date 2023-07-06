@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-10-will-robots-and-ai-take-our-jobs.md",
+      "title": "Will robots and AI take our jobs?",
+      "excerpt": "05:12 BOSTON - These days you can find robots at warehouses, in restaurants, and grocery stores. Artificial intelligence has computers completing jobs humans usually do. Together, they have a lot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/boston/news/question-everything-ai-artificial-intelligence-robots-future-workforce/",
+      "originalUrl": "https://www.cbsnews.com/boston/news/question-everything-ai-artificial-intelligence-robots-future-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/09/ea6ac30b-1c8b-4b2a-a571-666cd3d8b1fb/thumbnail/1200x630/14ed417437e5f764ccc2463103998cff/ai.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/boston/news/question-everything-ai-artificial-intelligence-robots-future-workforce/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/question-everything-ai-artificial-intelligence-robots-future-workforce/",
+      "publishedDateTime": "2023-05-09T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-valley-health-system-hospital-innovations-include-robots-at-nursing-stations.md",
       "title": "Valley Health System hospital innovations include robots at nursing stations",
       "excerpt": "Artificial intelligence may be intimidating to some, but robotic support is about to be making an innovative debut on your hospital floor as a way to improve",
@@ -1322,40 +1365,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-could-create-religions-to-control-humans-warns-sapiens-author-harari.md",
-      "title": "AI could create religions to control humans, warns Sapiens author Harari",
-      "excerpt": "The world could soon see the first religion that attracts devotees with sacred texts created by artificial intelligence, the historian Yuval Noah Harari has s",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f&trk=public_post_comment-text",
-      "originalUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f&trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

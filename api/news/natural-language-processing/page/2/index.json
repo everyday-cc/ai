@@ -2,6 +2,127 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-28-snowflake-unveils-new-large-language-model-to-extract-deeper-insights-from-documents-while-continuing-to-advance-platform-speed-and-performance.md",
+      "title": "Snowflake Unveils New Large Language Model to Extract Deeper Insights from Documents, While Continuing to Advance Platform Speed and Performance",
+      "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today announced at its annual user conference, Snowflake Summit 2023, new advancements to its single, unified platform that make it easier for organizations to get value from all of their data,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/27/9840070.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/27/9840070.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-primer-and-carahsoft-partner-to-provide-ai-and-natural-language-processing-applications-to-the-public-sector.md",
+      "title": "Primer and Carahsoft Partner to Provide AI and Natural Language Processing Applications to the Public Sector",
+      "excerpt": "Primer, The Trusted AI Partner for Government Agencies, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider ®, today announced a partnership. Under the agreement, Carahsoft will serve as Primer’s Master Government Aggregator ®,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-primer-carahsoft-partner-provide-ai-natural-language-processing-/2023/06/27/9840066.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-primer-carahsoft-partner-provide-ai-natural-language-processing-/2023/06/27/9840066.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support.md",
+      "title": "Ramp's Acquisition Of Cohere.io Signals The Rise Of Generative AI In Customer Support",
+      "excerpt": "The finance automation platform Ramp has acquired Cohere.io, a generative AI startup focusing on Large Language Models ... credit cards and cost management in the financial technology (fintech) sector. The company was founded in 2019 by Eric Glyman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b205c8c6cb2e7546aa417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/",
+      "publishedDateTime": "2023-06-27T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-primer-and-carahsoft-partner-to-provide-ai-and-natural-language-processing-applications-to-the-public-sector.md",
       "title": "Primer and Carahsoft Partner to Provide AI and Natural Language Processing Applications to the Public Sector",
       "excerpt": "Primer, The Trusted AI Partner for Government Agencies, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today",
@@ -1243,155 +1364,6 @@
       "topics": [
         "Computer Vision",
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition.md",
-      "title": "Facebook Parent Company Meta Uses Bible Translations To Train Artificial Intelligence In Speech Recognition",
-      "excerpt": "The artificial intelligence arm of Facebook parent company Meta has turned to widely translated religious texts like the Bible to provide data for its Massively Multilingual Speech project, which aims to expand text-to-speech and speech-to-text technology to underserved languages.",
-      "sourceUrl": null,
-      "webUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition",
-      "originalUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/586d154f03596e5605562ea7/1686861909051-3NPADGDTEKDDVYNEYHWT/image-asset.jpeg?format=500w",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition?format=amp",
-      "cdnAmpWebUrl": "https://religionunplugged-com.cdn.ampproject.org/c/s/religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition?format=amp",
-      "publishedDateTime": "2023-06-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Religion Unplugged",
-        "domain": "religionunplugged.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-why-experts-cant-understand-or-predict-ai-behaviors.md",
-      "title": "Why Experts Can’t Understand Or Predict AI Behaviors",
-      "excerpt": "These systems are engineered using techniques for optimization rather than engineered for specific purposes,” says Blake Richards, who worked in Geoffrey Hinton's lab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/",
-      "originalUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648b5dfc6c909f5e645e44a7/0x0.jpg?format=jpg&width=1200",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/amp/",
-      "publishedDateTime": "2023-06-15T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation.md",
-      "title": "Build a multilingual automatic translation pipeline with Amazon Translate Active Custom Translation",
-      "excerpt": "Dive into Deep Learning (D2L.ai) is an open-source textbook that makes deep learning accessible to everyone. It features interactive Jupyter notebooks with self-contained code in PyTorch, JAX, TensorFlow, and MXNet, as well as real-world examples, exposition figures, and math. So far, D2L has been adopted",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/15/multilingual-translation-pipeline.jpg",
-          "width": 1017,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T09:49:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Natural Language Processing"
       ]
     }

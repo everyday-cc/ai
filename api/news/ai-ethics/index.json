@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-06-responsible-ai-a-mandate-in-finance-and-insurance.md",
+      "title": "Responsible AI: A Mandate In Finance And Insurance",
+      "excerpt": "Companies that deploy AI responsibly can stand out from competitors while avoiding legal problems and other mistakes that can erode customer trust and damage reputations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a570a8e38d3ff4b58aa486/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/amp/",
+      "publishedDateTime": "2023-07-06T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-why-big-tech-wants-to-help-congress-regulate-ai.md",
       "title": "Why Big Tech Wants to Help Congress Regulate AI",
       "excerpt": "Tech interests, especially OpenAI, the nonprofit that created ChatGPT, have gone on the offensive in Washington, arguing for regulations that will prevent the technology from posing an existential threat to humanity.",
@@ -203,7 +256,7 @@
       "originalUrl": "https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1401,59 +1454,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.md",
-      "title": "'AI Jesus' talks dating, relationships, morals — even offers video-gaming tips",
-      "excerpt": "An AI \"version\" of Jesus nicknamed \"AI Jesus\" takes questions via livestream and gives answers on topics from dating to faith to video gaming. Faith leaders weighed in on where truth can be found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
-      "originalUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c85df20d-1b6f-439b-a609-8fcc7f5d33f2/95dc3e58-3f6c-463e-97b3-ac92fda0f9e5/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp",
-      "publishedDateTime": "2023-06-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

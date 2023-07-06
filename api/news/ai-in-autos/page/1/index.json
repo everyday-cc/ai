@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-later-this-year.md",
-      "title": "Elon Musk predicts Tesla self-driving cars 'later this year'",
-      "excerpt": "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone. \"In terms of where Tesla is at this stage,",
+      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
+      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
+      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece",
+      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 179,
       "tags": null,
       "images": [
         {
-          "url": "https://th-i.thgim.com/public/incoming/3007p2/article67048051.ece/alternates/FREE_1200/2023-06-24T170512Z_85981581_RC2SP1AFUMP2_RTRMADP_3_MUSK-ZUCKERBERG-FIGHT.JPG",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
           "width": 1200,
-          "height": 801,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/",
-      "publishedDateTime": "2023-07-05T22:54:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "publishedDateTime": "2023-07-06T03:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -120,58 +129,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-tesla-is-valuing-full-self-driving-high-only-when-its-convenient.md",
-      "title": "Tesla is valuing Full Self-Driving high only when it’s convenient",
-      "excerpt": "Tesla is only valuing its Full Self-Driving package high when it’s convenient for the company. When it’s not, like",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/07/03/tesla-valuing-full-self-driving-high-when-convenient/",
-      "originalUrl": "https://electrek.co/2023/07/03/tesla-valuing-full-self-driving-high-when-convenient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -449,9 +406,9 @@
       "tags": null,
       "images": [
         {
-          "url": "http://img2.chinadaily.com.cn/images/202306/29/649cbee9a310bf8a1d231853.jpeg",
-          "width": 668,
-          "height": 445,
+          "url": "https://img2.chinadaily.com.cn/images/202306/29/649cbee8a310bf8a1d23183e.jpeg",
+          "width": 1198,
+          "height": 741,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1425,6 +1382,40 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program.md",
+      "title": "Moveworks Recognized for Generative AI Innovation in 2023 Artificial Intelligence Breakthrough Awards Program",
+      "excerpt": "About AI Breakthrough Part of Tech Breakthrough, a leading market intelligence and recognition platform for global technology innovation and leadership, the AI Breakthrough Awards program is devoted to honoring excellence in Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230621128127/en/Moveworks-Recognized-for-Generative-AI-Innovation-in-2023-Artificial-Intelligence-Breakthrough-Awards-Program/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230621128127/en/Moveworks-Recognized-for-Generative-AI-Innovation-in-2023-Artificial-Intelligence-Breakthrough-Awards-Program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

@@ -49,20 +49,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Google Could Use Your Data to Train Its AI Models"
-    excerpt: "Google has recently updated its Privacy Policy to retain anything posted publicly by users so it can train its AI models."
-    publishedDateTime: 2023-07-05T15:36:00Z
-    webUrl: "https://tech.co/news/google-could-use-your-data-train-ai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/07/05112525/google-sign-logo-e1688570794675.jpg"
-        width: 1000
-        height: 716
-        isCached: true
   - title: "Communities can use artificial intelligence"
     excerpt: "Small local businesses face numerous challenges in effectively promoting, marketing,"
     publishedDateTime: 2023-07-05T13:41:00Z

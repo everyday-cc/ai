@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition technology in use at major stadiums across Australia"
-    excerpt: "The collection of sensitive biometric data is happening at stadiums across the country, with affected consumers largely left in the dark."
-    publishedDateTime: 2023-07-04T21:41:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 39
-    images:
-      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
-        width: 700
-        height: 390
-        isCached: true
   - title: "Indigenous Australians Minister Linda Burney comes under fire from Jacinta Price over claims of Voice independence"
     excerpt: "Opposition indigenous affairs spokeswoman Jacinta Nampijinpa Price has hit back at “false” claims made by Linda Burney in her address to the National Press Club and accused the minister of trying to “muddy the water” of the Voice proposal."
     publishedDateTime: 2023-07-05T09:18:00Z

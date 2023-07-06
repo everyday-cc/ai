@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-mic
 webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: EuropaWire
       domain: europawire.eu
     quality: 52
+  - title: "Rubrik and Microsoft announce Generative AI-Powered Cyber Recovery and Remediation"
+    excerpt: "Rubrik, the Zero Trust Data Security Company, today announced a joint collaboration to integrate Rubrik Security Cloud with Microsoft Sentinel and Azure OpenAI Service to accelerate cyber recovery through the use of generative AI and Natural Language Processing (NLP)."
+    publishedDateTime: 2023-07-06T11:12:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20230706/4096430.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 28
 
 secured: "dyr3z145jl62E77zpZxgiaTebFZZHzwgmJ5LK1XjkX/Ct1g547cUy2QrgGXR2ZFLpFRd7hvwp4jDRqRZBU53IDpLbEXPz0ulUS3tuZZNjNVQ1OipKzk6sv+my/rlXdX9uIJnIWWpaCNuTfBys67/+dIs5REpVKO3FjGKlhqnor5khRtaVUEOTbL128jfMsbNNCzo0lOnUJ4M79wg7zcy24UR2bx69DU3ySddBLmZvhkOGN2FAfnCiMmm2RBBGJkwQFeAUmWfpQZLKPoP7fOe0X5TdD+8u2AvrpO+qVU+tYg1wiLcLikoBbTh7zC+DsooGn6FOuuzAYvVfndqt6AU9OAyBNi/QGtuzrBS2DQibq/mqY3h5XgBfxw63Aqpb6Gpc+Z63R5I62MyKnTGZb1s8CB5tcAjNpgxKO357d/gKGcGnj9NCp+W9sGUMT0wlW7taVXgISUXxqv8EfAhgHCU5Wr0nMNt/Aml1s9ha/mk5K3GJHR9z+CiRDHtMdlFXFgcsS5VVaviGKPn3ETcZiky0A==;OYct9pEurSZCwHl5sK2Jag=="
 ---

@@ -45,49 +45,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-05-facial-recognition-technology-could-soon-be-everywhereheres-how-to-make-it-safer.md",
-      "title": "Facial recognition technology could soon be everywhere—here's how to make it safer",
-      "excerpt": "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement all over the UK and other countries.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/facial-recognition-tec.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp",
-      "publishedDateTime": "2023-07-05T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-05-teg-responds-to-choice-campaign-on-face-recognition-tech.md",
       "title": "TEG Responds to Choice Campaign on Face Recognition Tech",
       "excerpt": "TEG does not collect biometric data at Qudos Bank Arena and ASM Global does not share any such data with TEG,\" a spokesman says.",
@@ -203,6 +160,49 @@
       "provider": {
         "name": "The Music Network",
         "domain": "themusicnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-musicians-revolt-against-facial-recognition-technology.md",
+      "title": "Musicians revolt against facial recognition technology",
+      "excerpt": "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
+      "originalUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg",
+          "width": 620,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
         "images": null,
         "publishers": null,
         "authors": null

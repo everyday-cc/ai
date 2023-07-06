@@ -57,15 +57,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Deep Learning Redefines Mortality Forecasting in Pneumonia Patients"
-    excerpt: "Sophisticated deep learning-based model helps in accurately predicting 30-day mortality for patients diagnosed with community-acquired pneumonia (CAP)."
-    publishedDateTime: 2023-07-01T18:55:00Z
-    webUrl: "https://www.medindia.net/news/deep-learning-redefines-mortality-forecasting-in-pneumonia-patients-212521-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 19
 
 secured: "DYuRleRb/5sjaG+VL302msuK6JwYzrQuoCvytMu0jIrcvGBSNk6El4fcS767iAtf0Qrytof4droLqqvBtvvRH27GJij9BCq9Bxj2TdI2LITy+yklmVplTeYHgVkU8UnmqRa3GPD1n9006C6y+kCAUC2YxRBqZWZXUsCIz+XnVe+2uvz3ubmwH/0gkKgZLyQt9qFSgMHD9hSyPSIy5owy1FT5K6YCnym4Q/a4hiMM+lIUM6z65ByGDNTNj2uJ5Oz6WLl4/nSZos4RoVTaxOxKsBpeNHlCIALjjvUwokoNP4xuuUb9SxGB/V5/z0qcw7Vp/I4YWylhZiTRa/SavIThRwFzRTbe+2XN+UAVCsfgJ7aYdqlltW/TXj49cZu6ghmlaq5GjR7VcGBu1XcSE/qJtjI2ZXTQuWFJx9K+dy4qzpb43WQU2lJqDO7g4qsIYT2M7Yl9yybCATP861f3vZhvTM81932Sxvy0EGxyDu6DSQfOQHecFZSDXoJ/gAp5pjp/p2Nrc9zYbCbueY/YCFg8vA==;3TYxAhAMxzGpohwaXXmTiQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Outlookindia
@@ -40,6 +40,20 @@ related:
       - url: "https://www.assetservicingtimes.com/assetservicesnews/images/WednesdayJuly520231688549698.jpg"
         width: 990
         height: 640
+        isCached: true
+  - title: "Journalists beware, WordPress launches AI writing tool"
+    excerpt: "The new WordPress can now write articles, put together headlines and more in seconds, trivialising work that often takes hours."
+    publishedDateTime: 2023-07-06T11:45:00Z
+    webUrl: "https://htxt.co.za/2023/07/06/journalists-beware-wordpress-launches-ai-writing-tool/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 39
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2023/07/WordPress-AI1.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "8Je5e2150rQ0+hceQvNK2/495570mUn2IvSqNQN4PtTG15hi766et1tJuuSi7MIbWm0i/+mXgzG0AsCbLh1+VInAQXer5227Yj2p/sJQZFMiyFUXwxEmbTmnk/ejk9W7NJtcQ8I6WG1IvP3dD1Mrcqytppn7tTNarj2qAPYkJtDgmxRac4GqdLB4Eu3FkoJ6NAB8CMA/WBhewmFos8MUPENpwzAy0GWixXWm4H0gwfrZnqo8X2TWHpT1j9mezC8cCtsEwgyUETZUtdac2pQN2ebbFYagG9aqcqD10MTr01m9a6EWWOIDGRmJ7v0z9t53QvgCj0gqq46L38JYliHaKMXrAIzcHd5R9a/N/DIajTE=;b7HAzjLdXdECsZZ5fdjKmw=="

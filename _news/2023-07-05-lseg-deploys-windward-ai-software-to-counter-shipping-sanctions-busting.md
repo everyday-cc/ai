@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Journalists beware, WordPress launches AI writing tool"
+    excerpt: "The new WordPress can now write articles, put together headlines and more in seconds, trivialising work that often takes hours."
+    publishedDateTime: 2023-07-06T11:45:00Z
+    webUrl: "https://htxt.co.za/2023/07/06/journalists-beware-wordpress-launches-ai-writing-tool/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 39
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2023/07/WordPress-AI1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fm3qyafizQ5ueUPYWbpj394MgEB/Qjj9ga3fWpbJ91PLuIsmGtrGeGnRExhVBz2hCyWPkEzuh/cPYLr4kzNBVa/HhHqnZKnOtQ8brvCDnq/DmoCLv5QxAkcrbJx2s13LW7WcMZ0inWWLFU2Dc/1+z76fJt3xewcJB+sKqstDAfVW6YyoJKM/V1QX+eYftBkhsc0NNmoiD4jOonjFyQuHTVyo9lCbW/eamT2sAa5q5zpXX3qz4eB3Re2EONo5S8dIykrcfUlZY/l2d3ZGnj8Np1AARuKIogd2/3+T8Hk7T0jlgCDUaq0T7kqICRpAmONXZ2c91LWHRYiRfzSP8HDRGE95Xn+RCcKYbLy40Z5OI15lYN8F5xSjKuAB4xrS0LzFHRv65nTBNZHpvnPpkDQNzXHMGOdBmfSrihqyqoNdcIYM8kuObMmvvGG7GnplK5y9TsxKDE3XwJ4a35VAl/NwjSwf/pg4vMvlFmVRT3KhQm9MGxDpPL2lpBWACcdUV8+6nHLL/B2B+v3iApiL+QiwiA==;TdoN+2ZQpOIiSBTUoMDMeQ=="
 ---

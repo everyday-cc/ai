@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-19-ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.md",
+      "title": "'AI Jesus' talks dating, relationships, morals — even offers video-gaming tips",
+      "excerpt": "An AI \"version\" of Jesus nicknamed \"AI Jesus\" takes questions via livestream and gives answers on topics from dating to faith to video gaming. Faith leaders weighed in on where truth can be found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
+      "originalUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c85df20d-1b6f-439b-a609-8fcc7f5d33f2/95dc3e58-3f6c-463e-97b3-ac92fda0f9e5/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp",
+      "publishedDateTime": "2023-06-18T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-data-and-ai-ethics-market-making-progress-with-tips-and-deceives-by-our-specialists.md",
       "title": "Data and AI Ethics Market | Making Progress with Tips and Deceives by Our Specialists",
       "excerpt": "In addition, the examination report gives definite information about the main considerations affecting the development of the Data and AI Ethics market at the public and neighbourhood level ...",
@@ -1408,58 +1461,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses.md",
-      "title": "How the generative AI boom could deliver a wave of successful businesses",
-      "excerpt": "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
-      "originalUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

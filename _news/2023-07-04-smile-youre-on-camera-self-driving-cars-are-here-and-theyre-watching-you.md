@@ -30,6 +30,22 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "Go slower on self-driving cars"
+    excerpt: "Star Tribune Opinion publishes a mix of national and local commentaries online and in print each day. To contribute, click here. ••• Self-driving cars"
+    publishedDateTime: 2023-07-02T22:00:00Z
+    webUrl: "https://www.startribune.com/go-slower-on-self-driving-cars/600287017/"
+    type: article
+    provider:
+      name: Star Tribune
+      domain: startribune.com
+    quality: 24
+    images:
+      - url: "https://chorus.stimg.co/24763507/merlin_70425261.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "hdLDRPFOBn74yiwYyUTFAP9cm1iI9WORg65vM/2AyEI1NpR82pmA6ieauM9EqzB8BthKs89M9II2h6FkqwU5ncgiZsvCuP4/8BQK1bLTX+w0jBq7u89CwUIWyyQXE0wlEMMK9Y2hm/O5atx19v8gXHxzar/+aTTksgbXQN79vvqOqKc9mgoi+GmSk4kAT3c3bEtc8EIpVdxdmqzprFKSndb+3Un1FofbnrTCZKt/RMVkiz9L1DIwV7IhxmDskbR21oBesDfd133VA5yBja5yi2iMkXuzRnGnTcU9jMrv6O/oV/d+V+OhAkvbBHw6uyqAQeWubFM5hTWvEL8pZX9GEdTeVkHsnDEeYOaIka7vlkz/5ne8RfuK7+ZbPVjg367IPuou0C7Bx4XSbyxWGSNml4Z9StHFjtGcProrQWphI48wXXYTR/U7joDUKdeirhH4zCSaFxoU4HmiHBXeuDJZu5VwXu/PugpWcAsfRjZ5JfSAp5Wu+BLs4jaM6XQRv3oEvlrrrPo4OALqNVJmm8EGcw==;9zBdXHhtcBBXfNZVaF/U6Q=="
 ---
 

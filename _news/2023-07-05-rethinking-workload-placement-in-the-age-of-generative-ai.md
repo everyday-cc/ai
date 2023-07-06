@@ -62,6 +62,38 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
+    excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
+    publishedDateTime: 2023-07-06T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6476266dfe66ffb1e6569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
+    excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
+    publishedDateTime: 2023-07-06T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a570171d6feda6a59805d4/0x0.jpg?format=jpg&crop=1450,815,x0,y6,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "How AI can help process waste and increase recycling"
     excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
     publishedDateTime: 2023-07-02T23:12:00Z

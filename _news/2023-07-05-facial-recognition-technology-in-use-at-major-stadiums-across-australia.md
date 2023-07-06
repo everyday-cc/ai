@@ -25,68 +25,108 @@ images:
     isCached: true
 
 related:
-  - title: "Educating Australia on Indigenous Voice"
-    excerpt: "Australia's failure to readily accept the need for an Indigenous Voice highlights our lack of an inclusive curriculum, says University of Melbourne expert."
-    publishedDateTime: 2023-07-03T08:51:00Z
-    webUrl: "https://pursuit.unimelb.edu.au/articles/educating-australia-on-indigenous-voice"
-    ampWebUrl: "https://pursuit.unimelb.edu.au/articles/educating-australia-on-indigenous-voice.amp"
-    cdnAmpWebUrl: "https://pursuit-unimelb-edu-au.cdn.ampproject.org/c/s/pursuit.unimelb.edu.au/articles/educating-australia-on-indigenous-voice.amp"
+  - title: "Musicians revolt against facial recognition technology"
+    excerpt: "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology."
+    publishedDateTime: 2023-07-03T09:52:00Z
+    webUrl: "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology"
     type: article
     provider:
-      name: pursuit.unimelb
-      domain: unimelb.edu.au
-    quality: 44
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
     images:
-      - url: "https://res-5.cloudinary.com/the-university-of-melbourne/image/upload/s--sxVRT40U--/c_fill,f_auto,h_630,q_75,w_1200/v1/pursuit-uploads/e82/f01/001/e82f01001f380529b6d65e2119b13d96069e15eacfbbdd806abffc03d023.jpg"
+      - url: "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg"
+        width: 620
+        height: 434
+        isCached: true
+  - title: "Army explores increase in facial recognition at gates"
+    excerpt: "Facial recognition cameras have been installed at Gate 10. According to Brian Reinwald, chief of physical security with the Garrison’s Directorate of Operations, these devices are part of a research and development program run by the Corps of Engineers and its contractors to evaluate new and upcoming access control technology."
+    publishedDateTime: 2023-07-05T07:00:00Z
+    webUrl: "https://www.theredstonerocket.com/military_scene/article_dd4fddec-1ada-11ee-a0c3-4bd43929d152.html"
+    type: article
+    provider:
+      name: The Redstone Rocket
+      domain: theredstonerocket.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/assets/v3/editorial/4/87/48791946-1acf-11ee-9c6a-e395f6b9fe12/64a4c09727461.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
-  - title: "Indigenous Australians Minister Linda Burney comes under fire from Jacinta Price over claims of Voice independence"
-    excerpt: "Opposition indigenous affairs spokeswoman Jacinta Nampijinpa Price has hit back at “false” claims made by Linda Burney in her address to the National Press Club and accused the minister of trying to “muddy the water” of the Voice proposal."
-    publishedDateTime: 2023-07-05T09:18:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/indigenous-australians-minister-linda-burney-comes-under-fire-from-jacinta-price-over-claims-of-voice-independence/news-story/f0aebd213fe246c676bf07a6be9bb299"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/indigenous-australians-minister-linda-burney-comes-under-fire-from-jacinta-price-over-claims-of-voice-independence/news-story/f0aebd213fe246c676bf07a6be9bb299?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/indigenous-australians-minister-linda-burney-comes-under-fire-from-jacinta-price-over-claims-of-voice-independence/news-story/f0aebd213fe246c676bf07a6be9bb299?amp"
+  - title: "Major Aussie stadiums using facial recognition technology"
+    excerpt: "S﻿ome of Australia's major stadiums are using controversial facial recognition technology often without spectators' knowledge or consent. Added an hour ago"
+    publishedDateTime: 2023-07-05T07:18:00Z
+    webUrl: "https://www.9news.com.au/videos/national/major-aussie-stadiums-using-facial-recognition-technology/cljpblpb2000o0jo2rxxaa0d3"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 37
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 39
     images:
-      - url: "https://content.api.news/v3/images/bin/a79b30eaeffaf9bf55baac59c0496356"
-        width: 1280
-        height: 720
+      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2023/07/520190/camera.png"
+        width: 1080
+        height: 607
         isCached: true
-  - title: "Pro-Indigenous Voice to Parliament campaign records 20,000 attendees at Australia rallies"
-    excerpt: "Thousands of Australians gathered on Sunday in support of the Yes vote for the upcoming Indigenous Voice to Parliament referendum later this year. The rally was organised by the campaign group"
-    publishedDateTime: 2023-07-04T19:01:00Z
-    webUrl: "https://www.jurist.org/news/2023/07/pro-indigenous-voice-to-parliament-campaign-records-20000-attendees-at-australia-rallies/"
+  - title: "Aussie stadiums are using facial recognition on fans"
+    excerpt: "Four of Australia’s largest sports stadiums are using facial recognition cameras to identify and track event attendees without their knowledge, according to a new investigation that found Australian venues have joined a growing and controversial overseas trend."
+    publishedDateTime: 2023-07-06T01:57:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/aussie-stadiums-are-using-facial-recognition-on-fans.html"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 30
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
     images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/09/Parliament_House_at_dusk_Canberra_ACT.jpg"
-        width: 640
-        height: 427
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/mcg-facial-recognition.jpg"
+        width: 1162
+        height: 653
         isCached: true
-  - title: "Australia news live: corruption commission receives 300 referrals in a few days; Burney condemns ‘Trump-style’ voice politics"
-    excerpt: "Follow live"
-    publishedDateTime: 2023-07-05T02:54:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/jul/05/australia-news-live-tanya-plibersek-murray-darling-basin-water-plan-voice-indigenous-referendum-linda-burney-pwc-china-anthony-albanese?page=with:block-64a4e78b8f081d0996a3625a"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jul/05/australia-news-live-tanya-plibersek-murray-darling-basin-water-plan-voice-indigenous-referendum-linda-burney-pwc-china-anthony-albanese"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jul/05/australia-news-live-tanya-plibersek-murray-darling-basin-water-plan-voice-indigenous-referendum-linda-burney-pwc-china-anthony-albanese"
+  - title: "Lost pet? RivCo uses facial recognition technology to reunite animals and owners"
+    excerpt: "The Riverside County Department of Animal Services is using a new tool to help reunite pets with their owners. This partnership came right on time with the Fourth of July holiday season. This is a time animal control finds more pets lost in the streets because of fireworks noises."
+    publishedDateTime: 2023-07-04T12:37:00Z
+    webUrl: "https://kesq.com/news/2023/07/04/a-new-way-to-reunite-lost-pets-with-its-owners/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
+      name: KESQ News
+      domain: kesq.com
+    quality: 34
     images:
-      - url: "https://i.guim.co.uk/img/media/066c9057fc95744497b2702ae0b6937144989226/0_4_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=58b9dbe280f1e08234900269e254fbcb"
-        width: 620
-        height: 372
+      - url: "https://kesq.b-cdn.net/2023/07/Screenshot-2023-07-03-at-12.13.31-PM.png"
+        width: 1200
+        height: 681
         isCached: true
+  - title: "Facial recognition technology could soon be everywhere – here's how to make it safer"
+    excerpt: "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement"
+    publishedDateTime: 2023-07-05T03:35:00Z
+    webUrl: "https://www.econotimes.com/Facial-recognition-technology-could-soon-be-everywhere--heres-how-to-make-it-safer-1658891"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 32
+    images:
+      - url: "https://f1.econotimes.com/2023/07/8kl8g5holb_th_1024x0.jpg"
+        width: 496
+        height: 321
+        isCached: true
+  - title: "Barred from grocery stores by facial recognition"
+    excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
+    publishedDateTime: 2023-07-03T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
+  - title: "Facial recognition technology could soon be everywhere – here’s how to make it safer"
+    excerpt: "However, there are ways that the technology could be used more safely. Law enforcement teams could perform two preliminary steps – activity recognition or event detection – before they resort to face recognition. This approach can help minimise the potential for privacy violations and false positive matches."
+    publishedDateTime: 2023-07-04T12:08:00Z
+    webUrl: "https://theconversation.com/facial-recognition-technology-could-soon-be-everywhere-heres-how-to-make-it-safer-205040"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 12
 
 secured: "8COSyfeFT/GZSICdPmV37wNXx5KgPKXwpWvfux8zsQORT94yZ7wbum5zTgBTur+AfNg8RrVDROWS2ODLN+n6MdNef074pweB01NHoZzK0G9TYODjkaW83v4py7pfAS+kozuq8fkfvXMUY0gE0YeriMxI0PAwgHIAO3G3iVznQ/gtqgiOoPtzOIMtaov8diSRaVrUfCSwSMWd1hee7eyYRama5lccSsBOsmnUT/o4yvn6B0iEomFjBc2XtU+YRmaY7w0fmCDijoi+6fRgyPUPd3fx9pAKimnYMhyxtihtEy5rtcp/7Ivc1xveDgtkD7XB3HnU5ddsexKNe9yKlDu+jUJRScwQRVKODU4Cjv7AJhjnyX5BVy86kijDrGv+kgMQqh+W7OGYZ6yblY6h/7WeQ2mzTaZszV1uhtN70aZWhXjRFCakdB4AgJaOLB6Cpesq8nIiiu8F2AwNkKIhSh9VdNGO3SlD79eyRawGXXbmfBi1Ki6ZKTJIpJ3J7NFAET895SaralE5GmDVNKC1LfcttA==;9Wz01FOyCssQAXeGLLcWXg=="
 ---

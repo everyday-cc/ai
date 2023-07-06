@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202306/29/649cbee9a310bf8a1d231853.jpeg"
-    width: 668
-    height: 445
+  - url: "https://img2.chinadaily.com.cn/images/202306/29/649cbee8a310bf8a1d23183e.jpeg"
+    width: 1198
+    height: 741
     isCached: true
 
-secured: "Y5ZtqTlUBJm6WuJljk5zNgaGDwsUmACHAdKDt2rubRzLv+RepgmVkkxiwhDfNXd/BEjonXLgeMAo4WWO6VGSSADqE5MpIx856GrsrG8c7KruI2MPBbis5D3QvODm4ddyMoOS23Dmm+l7tRaCdisFmRx1hLdJ7dqpkIagVkyK7XqGQdC00plgnr/MO8GRab2+sBu8G9iUNRO76qNKWTSOyV3eO1k8NnDz6C6aO5uSFj6J/BSKXgEsZOwVlemf+wTkowKwdasx1dtLTrGj4MG3tyZ8INKc0nfMhuQU/ZF2KtObfCAwCpFmsrgJZnXyfAP3Vr21jf2jEPo7aKiN2/mrqwoTbvllOH+C8fAalyxudg0=;C8BbDGz5ZvrIJTWpTVK15Q=="
+secured: "wbN07mSgFOMJUotrxElrtDQW5jjvcJUKUy5hH6uwEN5xQOiB6aoGWPqtuAIEbYbdbHn/q+GpJiSwz4N3M/U7t0eOV7NlN+hnQpyZTPUWGnx9t9gZu3IniZDgsgSbVYu9icWwHliKR7Peo5+f/QL/pge6bJNBLxumtG9iLSGsyD5Baryy3/vBR7TpS3PZfgD82I8xS+BdV9W9jiLouKOxgG070Bmd5Te5kFPQsD0SihlOYcxnBFIhOKa19DZmm3gH1lncjRjVvm3YV3XgOOuJtlx7PgA19Kqfos5oua9csmLIDt3DS4K8PWXWJFijjPZgHDOlxPV3An+sRoczOuzIqU8TpDtOcLR9VTrwBlkS1Yk=;8uCzjqI/7CbjkJJcaITepg=="
 ---
 

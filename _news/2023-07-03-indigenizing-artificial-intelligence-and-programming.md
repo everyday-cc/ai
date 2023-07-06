@@ -24,35 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "DLRob Groundbreaking AI Robot Controller Revolutionizes Autonomous Packing and Stacking with Cutting-Edge Self-Training Technology"
-    excerpt: "Deep Learning Robotics (DLRob), a pioneering leader in artificial intelligence and robotics technology, announced in the framework of the Robot Tech Show 2023 last week"
-    publishedDateTime: 2023-07-03T16:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33099147/dlrob-groundbreaking-ai-robot-controller-revolutionizes-autonomous-packing-and-stacking-with-cutti"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33099147"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33099147"
+  - title: "5 Science-Based Strategies For Optimizing Your Work And Beating AI"
+    excerpt: "What can be done? Leaving aside issues that can only be tackled by nation-states, I believe we have practical responses available that mitigate potential harm."
+    publishedDateTime: 2023-07-06T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a57819dc1ae53b048aa486/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
         isCached: true
-  - title: "China accelerating commercial use of self-driving technology, expert says"
-    excerpt: "China is playing a prominent role in accelerating the commercial use of self-driving technology, and the fully autonomous vehicles will become an important part of urban mobility in the coming years, said Nikolaus Lang, managing director and senior partner at Boston Consulting Group."
-    publishedDateTime: 2023-07-03T03:14:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202307/03/WS64a235b5a310bf8a75d6cebc.html"
+  - title: "Transforming Trading Strategies with Advanced Al and Machine Learning - OptionsAlgo.ai"
+    excerpt: "OptionsAlgo.ai To view an enhanced version of this graphic, please visit:  Options trading has long been recognized as a complex and intricate financial practice. Traders face multiple challenges, including market volatility,"
+    publishedDateTime: 2023-07-04T03:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/transforming-trading-strategies-with-advanced-al-and-machine-learning-optionsalgo.ai-1032424351"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 23
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202307/03/64a235b5a310bf8a1d235002.png"
-        width: 544
-        height: 362
+      - url: "https://images.newsfilecorp.com/files/9551/172279_ef170d1c24ba7a82_001.jpg"
+        width: 550
+        height: 308
         isCached: true
 
 secured: "zzfCNwAl6bHSnj7mQVQTZLo80A7Blmq796vrsmsWMUs0nFlXCiMSFNDBxmNSgQArdcofdSYV6zjjbN0l7oo683HG297UgDjF0CnkBkrJlG41iAlE9v6hZ3ozmakP/kRpWUmId0Q0NDS2SuKn8zSWrCN1wQhWJ8ifenM9rCIZTYePVRbQoqhUYOTwUtwPfrkSJnWCkBf6o1RYk0HJw8ME9YJJisYZ8i9U00mCiOzHyaVkb7iwth+KSMXpWRMnsf5BmBR9Yb77lFwtISQkH/hZLtwKFG6jWVkLmJiBCdxRT2GZFNi00e8DvNpKNuWHW+ryAJBXWYfad7KHnzuw2KgexQQT3bUvOrqK65zcIS+PcJkJUAPDiP9oRxWfAj3G1tp8Aen87nVmVoBCWA/Vgz/ix4v9/2sPhyUAC4JBTpqWDnkw0q2ZIw4Ijgc4dqwj7YjR/VUlCWynPLpA8QfeTKr418ZK0EnLCjCIGWbgTLBPesJd1fd1B+bhK3wPihWFUcQBJrKn3bm3yI1f1xcRroTXUg==;u/yLVm2muGuUa43jK1ok5Q=="

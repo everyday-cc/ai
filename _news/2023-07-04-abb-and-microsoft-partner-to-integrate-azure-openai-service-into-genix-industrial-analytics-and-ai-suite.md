@@ -49,6 +49,15 @@ related:
         width: 390
         height: 205
         isCached: true
+  - title: "Rubrik and Microsoft announce Generative AI-Powered Cyber Recovery and Remediation"
+    excerpt: "Rubrik, the Zero Trust Data Security Company, today announced a joint collaboration to integrate Rubrik Security Cloud with Microsoft Sentinel and Azure OpenAI Service to accelerate cyber recovery through the use of generative AI and Natural Language Processing (NLP)."
+    publishedDateTime: 2023-07-06T11:12:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20230706/4096430.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 28
 
 secured: "cToppGu8D8PvVmU13Z0/6HLnZpWCfUVR4/JRyN9RMsMuxTmG1+bxF8I4DXjFEB34adx5zJNu/RsyrpJ55EyXbCedUC4rcDmlt+FwZ0WeheafLb2wp2Fmg4wud1nN8WdkqzhWaA6q1G2KRJbNpNf0eVY+eDKWds1u3H996jyUH5e7IbIghB07OgL2y2sRVsIIvgs3Q72cgkMgEMEzSfCB/o+eHhS/8ktavEEiaCCeRCjPlNpCrMXFNu2RlWuAlmZ154aZBgryaIKpXSaJO82DNt596ydDXXmV6cj5s4BCLQeQInh88zBTdYq+rF7bk6lLnrBER+d89cgeAifJX9c6f3FLbQKz/KxNXBqgfIk0T7L89UvsBgP3BD9gqgFP7LIZwHlbvcGjcfeOmUIrr08Gd8B5uWFBqnMNwqVTemEs80LOf+dliZwwUukpnzhFAsd8ccMERUMq86uuLUpklKtgcBqaK5dKr3epayOmy/aekQVKP+1fbU+b9tRXso9rUjVLgKx1oMufTFUtUuKM58L/dA==;c6+56JLVtLWUouatCrVLDw=="
 ---

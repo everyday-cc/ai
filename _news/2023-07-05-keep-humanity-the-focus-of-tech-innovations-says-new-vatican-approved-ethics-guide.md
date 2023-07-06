@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pope Francis Takes a Stand on AI: Vatican Releases AI Ethics Handbook"
+    excerpt: "The Vatican has delved into artificial intelligence (AI) ethics by releasing an extensive handbook. The Pope Francis-founded Institute for Technology, Ethics, and Culture (ITEC) and the Markkula ..."
+    publishedDateTime: 2023-07-05T11:27:00Z
+    webUrl: "https://www.techtimes.com/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 74
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430554/pope-francis-takes-a-stand-on-ai-vatican-releases-ai-ethics-handbook.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "God’s Take on Tech: Vatican Launches AI Ethics Think Tank"
     excerpt: "Pope Francis and Santa Clara University's Markkula Center released an AI ethics manual. They founded ITEC, a Vatican-led think tank promoting meaningful discussions on the ethical impact of technology."
     publishedDateTime: 2023-07-03T07:26:00Z
