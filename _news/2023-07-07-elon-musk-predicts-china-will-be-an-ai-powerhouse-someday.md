@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/293523/20230706/elon-musk-pre
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293523/20230706/elon-musk-predicts-china-will-ai-powerhouse-someday.htm"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techtimes
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Expresses Concerns Over Artificial Intelligence, Calls for Regulatory Oversight"
+    excerpt: "Elon Musk called for AI oversight in a video keynote address at a China-backed artificial intelligence conference."
+    publishedDateTime: 2023-07-07T07:42:00Z
+    webUrl: "https://www.coinspeaker.com/elon-musk-artificial-intelligence/"
+    ampWebUrl: "https://www.coinspeaker.com/elon-musk-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/elon-musk-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 52
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/07/elon-musk-artificial-intelligence.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Elon Musk blames AI scraping for Twitter problems"
     excerpt: "Ongoing issues over the last few days at Twitter Inc., including the introduction of usage limits, have been blamed by owner Elon Musk as a response to artificial intelligence data scraping. The latest issue at Twitter — there’s rarely a dull moment since Musk took over — emerged on Friday when users started seeing messages such as “rate limit exceeded” and “cannot retrieve tweets."
     publishedDateTime: 2023-07-03T00:27:00Z

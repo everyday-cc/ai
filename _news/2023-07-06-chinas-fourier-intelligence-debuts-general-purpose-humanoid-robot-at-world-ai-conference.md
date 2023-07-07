@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "'Artificial Intelligence will never be able to beat the complexity of Nature's Intelligence'"
-    excerpt: "Artificial intelligence was the key focus, as participants explored its collaborative potential, impact across sectors, and the convergence of sports, media, and social networks in the tech era. Agam Khare,"
-    publishedDateTime: 2023-07-02T13:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/02/9842572.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/2145754/India_Global_Forum.jpg"
-        width: 400
-        height: 284
-        isCached: true
 
 secured: "FT0fBLXJeohuhny1UE8v3/JsjYtwMlHR1yTBdwVj4QTMWhMbXeTbf1ifpAs+jRRvQ1M/NRheJ3ipZexbtoXjDNxCnwORN85aCm2rKmRh2oGtksdxnBLtM6UuJLqr4YCYkgIXRWfpwdQrJaJBeuzECDAG5GyuD22pMW3tiuvur14rUXhMDwoLYyCqeLC8nueK2O+qfikG8JwUrrMoBX6fYQhSQzp7NaUh2OIxhuYSfJJ+uCtP7GDHWDduyGPnA1FAGZtxPuZ9hQcCrN03welM//OwDP71RLtkPw6u3V9kjDrUw+m5o/fRV+etT+wDohGq5Fkw2f+18qvjr2Amxg9HxOzdi8GHUW20rQ8Ah/NJpm8=;Sn2DsneeFf5l+g1a68QMoQ=="
 ---

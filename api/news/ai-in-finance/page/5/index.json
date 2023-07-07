@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-18-fintech-media-advertising-the-first-eu-company-fully-based-on-ai.md",
+      "title": "Fintech Media Advertising - The first EU company fully based on AI",
+      "excerpt": "BUCHAREST, Romania, April 18, 2023 /PRNewswire/ -- Fintech Media Advertising SA is a Romanian startup that specializes in performance marketing for financial companies, including Neo Banks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/fintech-media-advertising---the-first-eu-company-fully-based-on-ai-301800230.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/fintech-media-advertising---the-first-eu-company-fully-based-on-ai-301800230.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimates-forbes-ai-newsletter-april-15th.md",
       "title": "CPI Hits Two-Year Low And Bank Earnings Smash Wall Street Estimates - Forbes AI Newsletter April 15th",
       "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",

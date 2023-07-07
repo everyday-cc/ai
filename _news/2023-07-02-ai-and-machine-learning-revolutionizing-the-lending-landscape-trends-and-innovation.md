@@ -3,14 +3,11 @@ category: news
 title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
 excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
 publishedDateTime: 2023-07-02T09:53:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
-webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
 type: article
-quality: 69
-heat: -1
-published: false
 
 provider:
   name: Indiatimes
@@ -27,54 +24,6 @@ images:
     height: 2560
     isCached: true
 
-related:
-  - title: "How AI Is Transforming The Leadership Landscape In The 21st Century"
-    excerpt: "I believe we stand at the threshold of a new era: the AI-powered leadership revolution that promises to redefine the way we work, live and communicate."
-    publishedDateTime: 2023-07-03T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649ee304e60ed64f9d324232/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI Is Transforming Waste Management, Recycling"
-    excerpt: "While some view AI as a threat, environmental advocates see it as a powerful tool for resolving waste problems."
-    publishedDateTime: 2023-07-03T16:38:00Z
-    webUrl: "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Understanding assessment in the age of AI"
-    excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
-    publishedDateTime: 2023-07-05T10:08:00Z
-    webUrl: "https://www.cambridge.org/news-and-insights/news/understanding-assessment-in-the-age-of-ai"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 39
-    images:
-      - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
-        width: 5500
-        height: 3667
-        isCached: true
-
-secured: "r2Rnod0uCkmGUZ5KZvNYkvpght6RKt86UKyvVwDTfHL/2VAZGCL3mQbwqw5g7QkhIqGrk9MaP5jce79r6qhauxGT3EF58D3h4CdE1Erq6ivACmCeI6B53VxFpHwsOAUMFgjnmFJiRXuMS3DfZKaWDYOA/Xs+/tg1kwFDOe+2LAozujhVwVB+uKxnC8aj0k8GoyEFl36/H3iucHEtmisjJOvkLlqRYWrv+IJEVmgGTxnZTnKQoCtfqR/EDS3LP1gAXT3pS6g50R1+J6MUjkHXUadI1iPnlr7Dk4I3FbhDcllhTA031OHr+ykc7jxHU34jxDxPKzR+7c+Vmjo01Yz4OznQhB9ao7Vt+wsSadY8hdDPn0mGT7Tx6CfzKbPQF4qgWiwLTXbve2s4+gA2qtSqLC9XnjASjNm9SgJp5wI9Ze/hjFz1zqlpb9EX7Slq1yRukiGTDbRkqsoxh53LTARzlHN5+rvJB/fBROjArOwPKcNPthtKzqg1ITCClMP9HkzN0Ra5uFl8VxUZdvN7BsUR7A==;GBEnGGEl8IR+wXZZUrkZvA=="
+secured: "T5nR+gh5HJlYxXRfcQakTN8JZyPAkaTORSjatBiAlDhezH2E/8AprPCwNV3EZlPyfCOOy3heuYdtEF/UgQs+xIKnkTlkDdMthaL+rrrBCQzHZNH4MzENX4Te5KtBrzWEnqscd7DRyXwiJh6EBPpR6lwicoKWOeg4JZuq3M8UNq1Z9QMzP6QNLPM6uwOXKvqWRK8gwO7nGLYCIp/iLldMKu1KYgTY1qaJqndlZDRwjDyJGZN56zAsVs1OkAOdMP1p17FnUpzhgCFpUbee398aIgJnEsDiL4W6IqCBCKUCaooRGCu1lgzYlJEYcQloDKHsI3/S7SiGrYM4lfpMZCw09/8z4AaF7BSzOJu5AvmHPMs=;J9v3FuB19wZsCNwBNFJiSQ=="
 ---
 

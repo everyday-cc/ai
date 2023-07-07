@@ -74,6 +74,20 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 14
+  - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
+    excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"
+    publishedDateTime: 2023-07-07T07:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "wWkZEaLMXBXkalQEuVIC/AgvpLflUGTC+HBZYwToI6oSJhxXoctxmBd8HZbujfqdd0/7SCWCXPcOf2cCn19QrnlgUP+TTwuwocLN9WNV4i0uZ4sE5YHLuxtbSUdqDPe7J91ob3ZmtX8nsPIQnzrTBqXb9JFwqAGMOYGHqcuk9HyuE85LocIQmJkQT7nDRJTxFgJGEHE2hkYfu9bBx/M4OxTAggVuhprym8u2hT51/RWssABWT2m3UNN3iCnERje7k2ZiMjuo0f0IdrRJwUfHE0FGqsRJsxARwIfHKcIx/eo2GG+JrqQKNbu1xJ1onjBznTSAlnwdOYFWWlDGjUEiCq9cGJ+FtzGHN1B+OCQ7r20=;oBD8rFIkhaX8jH2IxkS/cQ=="
 ---

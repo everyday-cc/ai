@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI robots could play future role as companions in care homes"
+    excerpt: "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it. Nadia Magnenat Thalmann ..."
+    publishedDateTime: 2023-07-07T07:39:00Z
+    webUrl: "https://tribune.com.pk/story/2425145/ai-robots-could-play-future-role-as-companions-in-care-homes"
+    ampWebUrl: "https://tribune.com.pk/story/2425145/ai-robots-could-play-future-role-as-companions-in-care-homes?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2425145/ai-robots-could-play-future-role-as-companions-in-care-homes?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: "https://i.tribune.com.pk/media/images/Nadine-robot1688715019-0/Nadine-robot1688715019-0.jpg"
+        width: 5500
+        height: 3668
+        isCached: true
   - title: "Here’s how local health systems are betting on artificial intelligence as it emerges in health care"
     excerpt: "Plus: FY24 city budget includes funds for mental health, addiction, nonprofit wages Newmark named leasing agent for Upper East Side medical development Meet more Notable LGBTQIA+ Leaders who work in h"
     publishedDateTime: 2023-07-05T09:31:00Z
@@ -56,6 +72,6 @@ related:
         height: 335
         isCached: true
 
-secured: "oGPxSDWAvIwxt3jtt6LJh2s82Nb8A5utHBM/P/VMgO7l49LE67zYrt657xmznW5PffXmQxH0wO7VS4pSeRxcgy4DQOryBv0oe4113/TRD1JWTkaECkPZidkLmHo9NdXTNk8X4JlFEwtf3/tFrJk7dU45OIXzxHNI5Z+tFyWL5PXu9F5MhDzYt2diEzI9O1ejtV8gv6T46QIzws7AP9FYJg2cFgzRGRo3MJNvJcQdTjfBzQgjbPV1UtQv56Xc6nK67qv0Lqsn/McqeMSO3e4Gx2v3OzMEfN3s90Qf8Dxz6R1U7vvCFYFJYjpvdQCc2OtHnTPu5ODNO5MmBzvWCHiJtx1Om3AedoHQql3ER2jiIX8=;vVSYktOldvoKBLi9wII3PA=="
+secured: "k/6qqphkLAu+oIDO13sASPbXYIaR76LS0CjpBjphfvRfw8mVHdjtBYCGJzqlF4EAqlqt0hQjDXYxpFKHK0ZHkluYpILlB8FfLdLJwhU6/AUWd9cZdzLm8VjW/fvkIdUQ7pAO3uKSCT1+mEJivOpCfIlLDP51DTwYMyu63jJVvkrjJ1tzuVocoUyy+eRh6UCwD/lKNdc4S/bhynqDwd911X16PwyxzUYhJoclwZm8MCH1gwvfUAgC6bUeeMKwv6biy9fGZ1qmFvby5mvhZwaduBtVYwrh0eU7MEQ7U3YQgaWH9lQmInfimUDatV1C9PUBvruBjBx0bNz8CAEV4p5ncfR/b4uiQ4lg1+Z3gXH9nMSS++fhhOs4pGGrs1Z4Dh0Sg0X1txkmNxFbpARdIOzYF2+wry/yPBZdIxJkh/PwyfMKBXpmM4PODQduJEw6/8upHaoc55d2gjoC6ccRqrqOgZXjh4vJ6URkVUFJBSaaFhLyDNBRn/YpiPqLqOdjx2+PNhCkrJMkpzGlFQ+V6EpxEw==;prTWO69435vZldSiQlRBfg=="
 ---
 
