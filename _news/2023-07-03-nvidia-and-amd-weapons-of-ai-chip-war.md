@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-wea
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
 type: article
 quality: 86
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imlWQwojNL.U/v1/1200x800.jpg"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "AMD making big gains on Nvidia in AI chips: research"
-    excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
-    publishedDateTime: 2023-07-02T06:35:00Z
-    webUrl: "https://techcentral.co.za/amd-making-big-gains-on-nvidia-in-ai-chips-research/227735/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 54
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/07/artificial-intelligence-ai-1500-800.jpg"
-        width: 1500
         height: 800
         isCached: true
   - title: "TSMC sees robust AI chip orders from Nvidia, Broadcom, AMD through 2024"

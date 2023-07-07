@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-it
 webUrl: "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/"
 type: article
 quality: 106
-heat: 106
+heat: 108
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/cancer-research/news/ai-biomark
 webUrl: "https://www.technologynetworks.com/cancer-research/news/ai-biomarker-approach-for-prostate-cancer-therapy-shows-promise-for-some-patients-375596"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Unlocks Prostate Cancer Treatment Benefits"
+    excerpt: "Data from a new study published in NEJM Evidence shows promise for personalized use of short-term ADT in men with predominantly intermediate-risk prostate cancer. The study involved ArteraAI,"
+    publishedDateTime: 2023-07-03T03:46:00Z
+    webUrl: "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    ampWebUrl: "https://medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 59
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2023/07/03/213394-new-study-validates-the-first-ever-predictive-ai-biomarker-of-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "AI May Predict Benefit with Hormone Therapy Plus Radiotherapy in Prostate Cancer"
     excerpt: "Artificial intelligence was used to develop a predictive biomarker to identify patients with intermediate-risk prostate cancer who would benefit from adding androgen deprivation therapy to radiotherapy."
     publishedDateTime: 2023-07-06T13:00:00Z

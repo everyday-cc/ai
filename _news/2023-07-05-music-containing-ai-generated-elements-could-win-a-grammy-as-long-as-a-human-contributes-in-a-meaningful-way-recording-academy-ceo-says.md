@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-generated-music-could-win-grammy-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7?amp"
 type: article
 quality: 53
-heat: 86
+heat: 83
 published: true
 
 provider:

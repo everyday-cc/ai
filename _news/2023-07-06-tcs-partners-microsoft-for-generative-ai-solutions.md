@@ -186,6 +186,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft and Google Advance Quantum Computing While AI Hype Rages"
+    excerpt: "Generative AI may be dominating the tech hype cycle these days, but amid the hoopla Microsoft and Google have been making advances in another mind-boggling future technology: quantum computing."
+    publishedDateTime: 2023-07-06T21:37:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/07/06/quantum-advances.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/introimages2014/140106REDPaoliNSAQuantum.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "How the Microsoft ecosystem is making work easier"
     excerpt: "The proportion of jobs in which people can work from home grew by 80 per cent between 1999 and 2023, according to the UK’s Chartered Institute of Personnel and Development. Working from home is not a new concept: the US Census Bureau reported an increase of 4."
     publishedDateTime: 2023-07-06T12:52:00Z

@@ -41,6 +41,20 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "An Update on Artificial Intelligence and the Law"
+    excerpt: "Part of our presentation addressed the rise of artificial intelligence (“AI”) in the law and in insurance adjusting. We have seen several interesting developments over the past few months in terms of AI and the law. Here are some of the highlights ..."
+    publishedDateTime: 2023-07-06T23:36:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/an-update-on-artificial-intelligence-8543469/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15680_183.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Japan Takes a Relaxed Stance on AI Regulations to Drive Economic Growth and Lead in Chip Technology"
     excerpt: "The proposed leniency in Japan’s AI regulations could potentially undermine the EU’s efforts to establish its regulations as the global standard, particularly concerning the disclosure of copyrighted materials used in training AI systems responsible for generating content."
     publishedDateTime: 2023-07-03T18:20:00Z

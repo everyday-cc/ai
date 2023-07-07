@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-vehicle-fleet-failure-probability-using-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -168,7 +168,7 @@
       "originalUrl": "https://www.techradar.com/pro/us-looks-to-cut-china-cloud-access-to-aws-azure-and-more",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1032,20 +1032,20 @@
     },
     {
       "path": "_news/2023-06-23-aws-announces-generative-ai-innovation-center.md",
-      "title": "AWS Announces Generative AI Innovation Center",
-      "excerpt": "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,",
+      "title": "Aws Announces Generative Ai Innovation Center",
+      "excerpt": "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor",
       "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/",
-      "originalUrl": "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/",
+      "webUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
+      "originalUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg",
+          "url": "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg",
           "width": 800,
-          "height": 480,
+          "height": 418,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1055,11 +1055,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T17:00:00-07:00",
+      "publishedDateTime": "2023-06-22T21:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1423,10 +1423,10 @@
     {
       "path": "_news/2023-06-21-old-mutual-completes-all-in-migration-to-aws.md",
       "title": "Old Mutual Completes All-In Migration to AWS",
-      "excerpt": "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ...",
+      "excerpt": "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/",
+      "webUrl": "https://it.tmcnet.com/news/2023/06/21/9836258.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/21/9836258.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1436,11 +1436,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T01:55:00-07:00",
+      "publishedDateTime": "2023-06-21T03:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

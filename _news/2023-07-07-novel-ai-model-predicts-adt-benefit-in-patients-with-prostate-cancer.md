@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Unlocks Prostate Cancer Treatment Benefits"
+    excerpt: "Data from a new study published in NEJM Evidence shows promise for personalized use of short-term ADT in men with predominantly intermediate-risk prostate cancer. The study involved ArteraAI,"
+    publishedDateTime: 2023-07-03T03:46:00Z
+    webUrl: "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    ampWebUrl: "https://medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 59
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2023/07/03/213394-new-study-validates-the-first-ever-predictive-ai-biomarker-of-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "AI Biomarker Approach for Prostate Cancer Therapy Shows Promise for Some Patients"
     excerpt: "Data from a new study validates the first-ever predictive AI biomarker of androgen deprivation therapy benefit in prostate cancer."
     publishedDateTime: 2023-07-03T08:45:00Z

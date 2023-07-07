@@ -195,6 +195,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft and Google Advance Quantum Computing While AI Hype Rages"
+    excerpt: "Generative AI may be dominating the tech hype cycle these days, but amid the hoopla Microsoft and Google have been making advances in another mind-boggling future technology: quantum computing."
+    publishedDateTime: 2023-07-06T21:37:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/07/06/quantum-advances.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/introimages2014/140106REDPaoliNSAQuantum.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "ib1VgXPT1Tj5hBE6bQnbd7VkJFlwgE5Fmq+V69a33frWroMa0HuTyeSZdqC777eTg12r7mWJ+UlHXAsd2mmW5S8Wl185DDzS001g5EpRJFI2tJNwFPIeFIbGKqYhee8dd3X4omq1QgyhfNshSEUDloHBWIuZI9lFZROBK6CiC4ICZsYlSSU5FwLW6We5nPorURrzkx3nwo7peQqSZtfa1ErzFVGOwxe3nkhQz9STUKNLbnS/xnN9n1rZpua5K4JrCx7bg6swoRCkNlCUXRcYRXJuHyUKiDsuTJ2KVnXQgDNTt/fMTB8gRq9FkOkHn6OLxOgzyQ5Oog/2tFPZKEc9yv6K2j1AuLNTkoFdXODPJ+veOUsxzX0qwoc/Id7gTfZGAR200M4R1AjZBlS4BS7jS4IdseYgY3W6UPpJzWxsaXEG+vOb69qq5JF3Ea3+610Pf8zFPWqp/xsGYCPMuZIS8FTx2lg2blOTU3pVew92Zvw4RvHage/xegSfAiPyLC5CPGQWAhwJRzAysSxlLyxXSA==;wMCF0WCFIp3zRtTp3SmBTg=="
 ---

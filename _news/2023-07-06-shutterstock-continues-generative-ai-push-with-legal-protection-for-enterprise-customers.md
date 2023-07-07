@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 708
         isCached: true
+  - title: "TCS to train 25,000 engineers on generative artificial intelligence tools"
+    excerpt: "The Tata group company will also launch its new generative AI enterprise adoption offering on Microsoft Cloud, a move that will help customers \"jumpstart\" their generative AI journey."
+    publishedDateTime: 2023-07-06T22:15:00Z
+    webUrl: "https://www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/"
+    ampWebUrl: "https://www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 73
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/ai1-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Could Use Your Data to Train Its AI Models"
     excerpt: "Google has recently updated its Privacy Policy to retain anything posted publicly by users so it can train its AI models."
     publishedDateTime: 2023-07-05T15:36:00Z

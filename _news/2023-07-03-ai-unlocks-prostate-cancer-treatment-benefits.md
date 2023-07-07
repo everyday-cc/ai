@@ -9,8 +9,8 @@ ampWebUrl: "https://medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-pros
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Daily
@@ -27,22 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence can shorten cancer radiation treatment duration"
-    excerpt: "Predictive AI models can assess a person's likelihood of developing cancer by identifying risk factors. A new AI tool shortens cancer patients' waiting time for treatment."
-    publishedDateTime: 2023-07-02T05:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp"
+  - title: "AI Biomarker Approach for Prostate Cancer Therapy Shows Promise for Some Patients"
+    excerpt: "Data from a new study validates the first-ever predictive AI biomarker of androgen deprivation therapy benefit in prostate cancer."
+    publishedDateTime: 2023-07-03T08:45:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/ai-biomarker-approach-for-prostate-cancer-therapy-shows-promise-for-some-patients-375596"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 61
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 49
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/julien-tromeur-V2G1YnMHZwk-unsplash-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375596/ai-biomarker-approach-for-prostate-cancer-therapy-shows-promise-for-some-patients-375596-640x360.jpg?cb=20230703"
+        width: 640
+        height: 360
         isCached: true
+  - title: "AI May Predict Benefit with Hormone Therapy Plus Radiotherapy in Prostate Cancer"
+    excerpt: "Artificial intelligence was used to develop a predictive biomarker to identify patients with intermediate-risk prostate cancer who would benefit from adding androgen deprivation therapy to radiotherapy."
+    publishedDateTime: 2023-07-06T13:00:00Z
+    webUrl: "https://www.curetoday.com/view/ai-may-predict-benefit-with-hormone-therapy-plus-radiotherapy-in-prostate-cancer"
+    type: article
+    provider:
+      name: Cure Today
+      domain: curetoday.com
+    quality: 29
+  - title: "Novel AI Model Predicts ADT Benefit in Patients With Prostate Cancer"
+    excerpt: "A predictive artificial intelligence (AI) biomarker of androgen deprivation therapy (ADT) benefit in prostate cancer was validated in a recent study published in NEJM Evidence."
+    publishedDateTime: 2023-07-06T19:39:00Z
+    webUrl: "https://www.ajmc.com/view/novel-ai-model-predicts-adt-benefit-in-patients-with-prostate-cancer"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 19
 
 secured: "MSEPDoRxYWxqmG8hB3NwlViIMq9Qk2YzNTKiq5lmBly61fpGu8iIzv4wDBNED2Aep9BKZLETNaIKZRmkSD30bR7nuZUplXdktI7KTGZClb20Ivj0ncnLcKDS6u1MBMiC+IH8TSAL2Th6PUYfDXuM1AhyEgiYKGMbiVBBsPeE2Nm5wXwe0I74kjb/B5MOKjK86Yg/LRKDu3nnp3n2LzUG0SKQnbzqU8ngLEPPgX/3QGL643/AmtdW3XZ5yYNGrjkZPo+2gyW6Eq3P9+1Cx0efVrUD1hpWRAhJV/UjxwY3ovLAaZ8xGCSxfOoX9bYJF9H5hfHSzVBclebYEB4BTEsCqaDk73gye1D+XoTO3Kq3ay0=;FSb3UOZRA8CcFBkglSk5cA=="
 ---

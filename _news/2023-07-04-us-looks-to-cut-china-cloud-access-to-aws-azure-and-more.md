@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/pro/us-looks-to-cut-china-cloud-access-t
 webUrl: "https://www.techradar.com/pro/us-looks-to-cut-china-cloud-access-to-aws-azure-and-more"
 type: article
 quality: 86
-heat: 89
+heat: 86
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-0
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 600
     height: 800
     isCached: true
+
+related:
+  - title: "Quick Custom Intelligence Deploys Artificial General Intelligence as COO"
+    excerpt: "Quick Custom Intelligence (QCI), a world leader in Generative Artificial Intelligence, today announced the deployment of Jarvis as their Chief Operating Officer. Jarvis is a Generative AI rules engine that talks to 4 target operational systems."
+    publishedDateTime: 2023-07-06T22:23:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/06/9844436.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "uDdSA2cMdK7JQmRUrkE53xdioxu5+/BjKr8gvAz+Db7veg+BsnAQlNcdyBaCWuDDIBgGQO87bLPhbr7fiwZxdXIA6dXY3ejZujohRi8VRFV6LcWJsBcPh3QqQJ0Nn6CZ2JrxzYgfZ7Rv9AjRG17l8AzRLHaYu6oF5KzNV37s2eKNtucgcxe50tL8seVFKOsi4v0rX8F3g8PPfTHTbnUz11GPu5zUQ2WnurlpGDl4Gy66q6P2wQLyWqgjrhmCCsInNuZqyZ8HjKDLiPZe4cYZ40wV+C/bNZiRyiB0UBAnM7EUfqZI150Lqtek2BDcAZ88BFevIRg5YFq3LnQfM8yH0/VAIHMv4wiXKmKHEpFq4aM=;LmORsxWk0q0gtfGVwAngJw=="
 ---

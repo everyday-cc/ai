@@ -3,10 +3,10 @@ category: news
 title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
 excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
 publishedDateTime: 2023-07-02T09:53:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
-webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/"
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
 type: article
 quality: 69
 heat: -1
@@ -75,6 +75,6 @@ related:
         height: 3667
         isCached: true
 
-secured: "UjxbIHROY+Ept0p+GyQBI78Gi5Xy97vmRK1pfZD6QAn+emF6R/YFs2eYmlYo8dtO91F3uOS2uy64BVvhIKOr4bjMX1v+/GPMomW+lN5FonVbFdFkTsZQp7LB9wIWG8DNyfy55Rmqdlg3I8aQr9r88x9KC+Mws5d1/MUVydaNkeeBzDFJwNYMPajsOH6zqWyhptuqGc2KAy0cmsSUsnQKSSiYrsgBlaeBNrGAKGLi8s6+7Ng+x3Qj7bTlQEU7VTuVqCwnqZ701RU/Ra3MgN4QmXGOsN6amYKPatoHXTwERNNRG9w0BrO/bpIw28yHFx3kO7eYSa35WJeSbapo122h28aa4xbojxYyhLzGRLNFySBmRW5Nvubg0MdE/OeEtfrgI4ycNVXWnlMjGGqfWc/0ETZBJllbNRV0cmElQO7hnrFNHI+u7xdH/7T6g66ptXNc5aM673oGEHQ1uThj0RtLp5fcZfeVJYTDQ/xjLEuNyWpQsAp3W4fMR8FBS2rcBfvNxuUh9vuKVlq16V3H1bimew==;x7kmAon6knJvX89q12j7Cg=="
+secured: "0vKr/5mmFU5RA7FJTodn/CMj1a2RWBEn4EoppmAT122zpn2kt1dzqAq36mDklHs9XtulAgOIUlxpDCpQaMFsnZjkV1dyhZZ7xvpTYmx0YhARfR6EbTbcbm3psLLXYNm9Pyiu0Tjciij36T+ji1h3DXdWQShitccdZ85AURQkSF/1pM1+b6RbpXFiJAjyWa1XATo5YAIh3naIp+8ZiDSrVE152iIModH+XAS20DjI8LVwgl43uVtKf3hEw43EIkp3v/xCNJo0NtYKXxSmEaplby99iooNsIEygOfSlPYrQLH5j4kI3SzAYJ+wR96YHN+vnldcU7FKmC/9QyFxablEaIOQnTLgj1oOM5l5Ifc/lig=;s14j5jKhk12IWxvmC5m5Mg=="
 ---
 

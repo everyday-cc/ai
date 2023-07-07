@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intel
 webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "AI Stocks: Here’s Where to Invest $1,000 Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the dynamic landscape of AI stocks, it’s crucial to carefully"
+    publishedDateTime: 2023-07-06T21:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-heres-where-to-invest-1000-right-now-1032431105"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Best Under-the-Radar Stocks: 3 That AI Predicts Will Soar in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Under-the-radar stocks have provided compelling returns in 2023. Indeed, the"
     publishedDateTime: 2023-07-04T16:45:00Z

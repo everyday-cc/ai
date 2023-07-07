@@ -48,6 +48,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 61
+  - title: "Japanese Robotics startup Telexistence secures $160M, partners with Softbank, Foxconn"
+    excerpt: "Tokyo-based Telexistence, the Japanese startup developing remote-controlled ... robots using a variety of technologies, including robotics, telecommunications, VR, tactile sensation, and AI. TX SCARA, the company’s current model, is known for having ..."
+    publishedDateTime: 2023-07-06T21:07:00Z
+    webUrl: "https://thebridge.jp/en/2023/07/telexistence-series-b-round-funding"
+    type: article
+    provider:
+      name: BRIDGE
+      domain: thebridge.jp
+    quality: 47
+    images:
+      - url: "https://thebridge.jp/en/wp-content/uploads/2023/07/telexistence-team-ghost.jpg"
+        width: 1240
+        height: 780
+        isCached: true
 
 secured: "zLNsHUcidO9q5Xe4BGQsEMNyKTDCvXgit5hDlu/j6G+N+NWloijQlEWepLMKswIPjXsjvSCnQjH8qdcFILsO0QwDTpXRFLRgkUMezX/D5aVqVBTxg6WpTDGAkA7zOu1aiDzw34lr4jKw4sNQI4SgB8pJkxjywje8qi8sKUhXFVVTWQvNmGB32mneNzS1b3wnSBc77wY8QdAB6F3wvcuQsmrx5HHrkjwnwYSLgbnEz4xEYOioEJIju3aTLgdLudQd/x2lnM5Nt5mHNbZC5iGrA65Ldk5N3RryPU39Kw5He/H3FnkpczHGEyGmYRPz9MmPBH1gNSsojPJdZAim3NmtNvG3OQJiqUilyUR9sRTyAjc=;k2nVNnMWI4T4/OdDYfeL/A=="
 ---

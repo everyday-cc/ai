@@ -121,6 +121,20 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "Elon Musk believes Tesla will have ‘level 4 or 5’ self-driving this year – what does that mean?"
+    excerpt: "Elon Musk has again decided to share a timeline about Tesla’s self-driving effort – again claiming it will achieve"
+    publishedDateTime: 2023-07-06T22:27:00Z
+    webUrl: "https://electrek.co/2023/07/06/elon-musk-tesla-level-4-or-5-self-driving-this-year/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 57
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "NHTSA Looking Into Details on Tesla’s Self-Driving Changes"
     excerpt: "U.S. automobile safety regulators at the NHTSA are zeroing in on changes that Tesla has made to its Autopilot partially automated driving system."
     publishedDateTime: 2023-07-06T17:37:00Z

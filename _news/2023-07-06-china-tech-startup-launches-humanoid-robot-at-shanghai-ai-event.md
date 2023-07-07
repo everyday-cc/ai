@@ -7,7 +7,7 @@ originalUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da
 webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "World AI talks start"
+    excerpt: "The 2023 World Artificial Intelligence Conference (WAIC) commenced in Shanghai yesterday under the theme “Intelligent Connectivity: Generating the Future.” Scheduled to run until tomorrow, the conference comprises four key sections: conference and forum,"
+    publishedDateTime: 2023-07-06T22:46:00Z
+    webUrl: "https://www.herald.co.zw/world-ai-talks-start/"
+    type: article
+    provider:
+      name: The Herald-Zimbabwe
+      domain: herald.co.zw
+    quality: 39
+    images:
+      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2020/02/20180626210156-GettyImages-917581126.jpg"
+        width: 680
+        height: 380
+        isCached: true
   - title: "Mount Sinai launches Center for Ophthalmic Artificial Intelligence and Human Health"
     excerpt: "First-of-its-kind initiative aims to transform patient care with more timely diagnosis of eye disease and innovative risk assessment of systemic health conditions"
     publishedDateTime: 2023-07-05T00:01:00Z

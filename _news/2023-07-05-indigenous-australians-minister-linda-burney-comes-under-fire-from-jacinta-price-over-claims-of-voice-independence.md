@@ -73,6 +73,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Yes campaign turns to everyday Indigenous Australias ahead of voice to parliament vote"
+    excerpt: "These are the faces of everyday Indigenous Australians that the Yes campaign will increasingly lean on to encourage support of the voice to parliament referendum."
+    publishedDateTime: 2023-07-06T23:50:00Z
+    webUrl: "https://www.news.com.au/national/politics/yes-campaign-turns-to-everyday-indigenous-australias-ahead-of-voice-to-parliament-vote/news-story/d209c3143df825403b0d46654d1ca946"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 11
 
 secured: "k8qpf37VrYI33dqVyZyuOfEBG3p/XBv4cU1S6xi14U/b+ldApnWf1DkLZWLSbq/HqEs534Be3ydjOq9QM01DA8bL8+dFaDIv7KU1PZ0X+oJRH6fqMENbxCjImclYY8mQFdgKx1Vupnq6mZuvrU2qs6+H5+SQ1q6o74Wi35rMZ6n/9nvlLbxbWCDBmqPl9CKY+TZV134hoXvCNDQ6U6JpOv7u8W4YU+gvQ6k0CUXh8p2UqRSJD6sVr2YKLKGGaqiIiH4horUsa4I0+8mpeN6IKjjoz0kXHHB22TCy2JXPTjRPe6XvGZKERJ0ML8bk9Gjk446hTyMGzk7pY9FEDkUGUiu8T2po4ui0pKh4DJ0uRUU=;PrSBG0nsHLIethNMQOBsoQ=="
 ---

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
+    excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about"
+    publishedDateTime: 2023-07-05T21:13:00Z
+    webUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
+    ampWebUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
+    cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
+    type: article
+    provider:
+      name: WTVO
+      domain: mystateline.com
+    quality: 66
+    images:
+      - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2023/07/64a5ddb2475494.99392003.jpeg?w=1280"
+        width: 1280
+        height: 851
+        isCached: true
   - title: "Miami Mayor Francis Suarez launches an AI chatbot for his presidential campaign"
     excerpt: "A super PAC supporting Miami Mayor Francis Suarez's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
     publishedDateTime: 2023-07-05T21:17:00Z
@@ -40,15 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him, marking yet another example of how generative AI tools are being used in 2024 presidential campaigns."
-    publishedDateTime: 2023-07-06T01:13:00Z
-    webUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
 
 secured: "ogMNeAL77dxeXV2cx7q5amb68PinnSUuA117BOkvszAyTPvjaPcn5p9tDtBdZn5LUpzeVS2t/yUvt/oac4gMFo9x3p+0TEOj6vRTIfCY8D6XhG/JN8nHYTz9LpBj14mjVEm7yHSYORFpS3IoRcmdmJqz4Vg4fdJkxuDTh7l0OpyVqYI4Uq7T83s+ymxgM53iu3h9kGfq1F0wUpCE9KHQoPEalDcWd2qTRzdda821alCUjJZ2hHVdDx4/VRAoE1GiJGKbHRFzbPvGz6ZJjRMPKdLBI3sHMUUMJGQl5R8/NRHXCcK/r+4vZuF8JJemFpT+wcUNF9bSwtIQ9kzV2i2Ta89E6ABxbv1OBK/TY1u6PfI=;R+9n0V8F/UmyIstubYv7yQ=="
 ---
