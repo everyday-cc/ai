@@ -35,15 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Global Healthcare Predictive Analytics Market Report 2023: Sector is Expected to Reach $30.71 Billion by 2028 at a CAGR of 22.23%"
-    excerpt: "The global healthcare predictive analytics market is expected to reach $30.71 billion by 2028 from $9.21 billion by 2022 grow at a CAGR of 22.23% from 2022-2028. Market Trends and"
-    publishedDateTime: 2023-07-04T16:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-healthcare-predictive-analytics-market-report-2023-sector-/2023/07/04/9843101.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "dHcsmskQMQLTVEyMeca21WmKvlB2zuCvOESG+g3yC62DE1Bazo95S++eFvjdaZOI3sGWN4wrxRu/s8Qysza0+KHIS4re+aMa1+kbWG+dFmyq99/D+dY16PSO13o9X8/I74lzO0QIfNpGaqBYDGHcZwigI12dP80iRSz3mZTxBMg7IzsJdiM2PuaEM7AY3M0+1Z/+yYwYMbEX3WpVvMuPZhAG05ORBSqAmFtcLNPWv5rTgH6lb9EFBpeH5bv41kmjAcJdC0Lu+UXARKlFEJJKyETF+xB1H/frACR+vokfGtICY8QdeW10ArPHFgQ5yePfg0LFHKDto3p789tddXXW715VIHnMxMGWw6l3uSIudrQ=;VU7iFFnRzvW8EF0IjEPabg=="
 ---

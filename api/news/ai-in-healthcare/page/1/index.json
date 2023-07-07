@@ -149,49 +149,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-05-threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-151-by-2033-visiongain.md",
-      "title": "Threat Intelligence market is projected to grow at a CAGR of 15.1% by 2033: Visiongain",
-      "excerpt": "Visiongain has published a new report entitled Threat Intelligence Market Report 2023-2033: Forecasts by Deployment Mode (Cloud, On-premises), by Application (Security Information and Event Management (SIEM),",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33111353/threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-15-1-by-2033-visiongain",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33111353/threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-15-1-by-2033-visiongain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33111353",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33111353",
-      "publishedDateTime": "2023-07-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-03-ai-unlocks-prostate-cancer-treatment-benefits.md",
       "title": "AI Unlocks Prostate Cancer Treatment Benefits",
       "excerpt": "Data from a new study published in NEJM Evidence shows promise for personalized use of short-term ADT in men with predominantly intermediate-risk prostate cancer. The study involved ArteraAI,",
@@ -1351,6 +1308,40 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-nuwellis-davita-partner-on-ultrafiltration-therapy-pilot-program.md",
+      "title": "Nuwellis, DaVita partner on ultrafiltration therapy pilot program",
+      "excerpt": "Nuwellis (Nasdaq:NUWE) announced today that it entered into a supply and collaboration agreement with DaVita (NYSE:DVA). The agreement enables Nuwellis — formerly CHF Solutions — to pilot its Aquadex ultrafiltration therapy within selected U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/nuwellis-davita-partner-ultrafiltration-therapy-pilot/",
+      "originalUrl": "https://www.massdevice.com/nuwellis-davita-partner-ultrafiltration-therapy-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
         "images": null,
         "publishers": null,
         "authors": null

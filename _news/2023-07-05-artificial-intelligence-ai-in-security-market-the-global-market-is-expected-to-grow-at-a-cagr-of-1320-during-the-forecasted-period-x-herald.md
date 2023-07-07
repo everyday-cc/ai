@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Service Robotics Market to grow at a CAGR of 22...."
+    excerpt: "The service robotics market is set to grow by USD 48,788.55 million from 2022 to 2027, progressing at a CAGR of 22.75% during the forecast period. The report offers an up-to-date"
+    publishedDateTime: 2023-07-07T01:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33142292"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33142292"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Threat Intelligence market is projected to grow at a CAGR of 15.1% by 2033: Visiongain"
     excerpt: "Visiongain has published a new report entitled Threat Intelligence Market Report 2023-2033: Forecasts by Deployment Mode (Cloud, On-premises), by Application (Security Information and Event Management (SIEM),"
     publishedDateTime: 2023-07-05T08:00:00Z
@@ -41,34 +57,24 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Global Artificial Intelligence In Computer Vision Market Size To Worth Usd 100.42 Billion By 2032 | Cagr Of 19.5%"
-    excerpt: "New York, United States , July 05, 2023 (GLOBE NEWSWIRE) -- The Global Artificial Intelligence In Computer Vision Market Size is to grow from USD 16.91 billion in 2022 to USD 100.42 billion by 2032, at a Compound Annual Growth Rate (CAGR) of 19."
-    publishedDateTime: 2023-07-05T10:52:00Z
-    webUrl: "https://menafn.com/1106556267/Global-Artificial-Intelligence-In-Computer-Vision-Market-Size-To-Worth-Usd-10042-Billion-By-2032-Cagr-Of-195"
+  - title: "Consumer Robotics Market to Reach US$ 76 Billion, Globally by 2032 at 24.3% CAGR: Future Market Insights, Inc."
+    excerpt: "The global consumer robotics market was worth US$ 8.7 Billion in the year 2022 and is expected to reach US$ 76 Billion by the year 2032 at a staggering CAGR of 24.3% between 2022 and 2032. An influx of smart homes all across is the factor majorly fueling the consumer robotics market and the scenario is expected to remain unchanged"
+    publishedDateTime: 2023-07-05T03:12:00Z
+    webUrl: "https://www.fmiblog.com/2023/07/05/consumer-robotics-market-to-reach-us-76-billion-globally-by-2032-at-24-3-cagr-future-market-insights-inc/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?995995"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Vision Screeners Market is anticipated to reach US$ 815.2 Million by 2029, with a CAGR of 5.9%"
-    excerpt: "The global Vision Screeners Market demand is predicted to grow at a CAGR of 5.9% between 2022 and 2029. The increased prevalence of eye diseases is a major factor driving market growth.Increased government support and funding for vision screening exams in schools and businesses is expected to"
-    publishedDateTime: 2023-07-03T05:45:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-07-03/vision-screeners-market-is-anticipated-to-reach-us-8152-million-by-2029-with-a-cagr-of-59"
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 14
+  - title: "Global Healthcare Predictive Analytics Market Report 2023: Sector is Expected to Reach $30.71 Billion by 2028 at a CAGR of 22.23%"
+    excerpt: "The global healthcare predictive analytics market is expected to reach $30.71 billion by 2028 from $9.21 billion by 2022 grow at a CAGR of 22.23% from 2022-2028. Market Trends and"
+    publishedDateTime: 2023-07-04T16:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-healthcare-predictive-analytics-market-report-2023-sector-/2023/07/04/9843101.htm"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 12
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "8bRgunnlscqEwkCFahsiRXnhgx9ntAHS1rUUvhl5wMI+1Te0Ezh8IbEgVx8PSPsOjrPJ6NJu8hNDBXKBRAca4F9OqtMkdCbBoffHl3s6GMV5+n57+5usGs7LcFyrHX//YD9cKkQo2+QNvTxFPH5jGoOCl2wmqc9SsM9DY5jd1uRfBTZYMuVFFmdv41Sbc5zNaLR6gr+oEM1YZxkt8SJGCqYKnmbAmh4txpuaJHUJKh0CNoQxR+nQlEPJf23ACyCD0By1D/46J7jOGiM7v2+y4N4VesovHJbAs+R/4QpUmjC6HO5V4SNc1DAeWot7pFfciAP+6a4qJgc3wqZwtx7Jm2Icp9sr6BLXROY0hBFcdfs=;WnA/ZDi9Irf/xFmC5elWrQ=="
 ---

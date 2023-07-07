@@ -53,6 +53,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Volkswagen bringing self-driving vehicle tech to Austin"
+    excerpt: "Car manufacturer Volkswagen announced Thursday it would roll out self-driving vehicle technology in the Texas capital later in July, per CNBC reporting."
+    publishedDateTime: 2023-07-06T15:26:00Z
+    webUrl: "https://www.kxan.com/news/local/austin/volkswagen-bringing-self-driving-vehicle-tech-to-austin/"
+    ampWebUrl: "https://www.kxan.com/news/local/austin/volkswagen-bringing-self-driving-vehicle-tech-to-austin/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/volkswagen-bringing-self-driving-vehicle-tech-to-austin/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 44
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/07/Large-16699-VolkswagenGroupofAmericarollsoutautonomousdrivingvehicletestfleetwithID.BuzzADvehiclesinAustinTexas.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Volkswagen to start testing self-driving ID Buzz vans in Austin"
     excerpt: "Volkswagen launched an autonomous vehicle test program in Austin using a fleet of ID Buzz vehicles equipped with partner Mobileye's technology"
     publishedDateTime: 2023-07-06T18:03:00Z
@@ -89,6 +105,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2977d6cdde7cdbc405153eb1d092ef38.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Volkswagen is about to launch a self-driving car testing program in Texas"
+    excerpt: "This will be the first time that VW has tested self-driving vehicles in the U.S. The move comes just months after a multibillion-dollar VW and Ford Motor Co. project with self-driving car startup Argo AI LLC came to an end after the latter shut down."
+    publishedDateTime: 2023-07-07T02:07:00Z
+    webUrl: "https://siliconangle.com/2023/07/06/volkswagen-launch-self-driving-car-testing-program-texas/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/Small-16703-VolkswagenGroupofAmericarollsoutautonomousdrivingvehicletestfleetwithID.BuzzADvehiclesinAustinTexas.jpg"
+        width: 1500
+        height: 1893
         isCached: true
 
 secured: "bD83eA2tVLun6ETxrRtz7Y2rjongmB9QCBncX2q0Byj1Bmlq7Q8ATSMQLgqLSJAelzz23yPYKyZUtiW8bw9+ejKIU3ErLpopHufcVfTApaQgtFsYzgGecrXAH2g1KkXlDtFrdL/L2s0BCX4x2pYC6rNn5mg5V4bxWzeG1QDPpk95O5jSrcr6BI8nhxhMk7/ualnEei4O43GM8KZHwHYhf6H0Uv1Kb2I+nF6LP4A8wnTigdwAwCposSzXSzSg0T/ZFoqQfpqXsSfts6xM35zu5yTg9810ADIIX/IyvRsJncLWXEPmd60o6wAQuuTEnfMjxIxd6s4tLy4RjCGlceVY7Qns8pHtPYVbfJ/A8L1/3Ny8mZIwe2j0Q6vhVnLpmu2CnRB9Hv7y3PDyt/L9t3MRhbUX11/mbbzhGoXafqL+QAvEyhEs2365BhgGK7ygf3NQo+60fIM1wmVXOZJBtY7SICmjA+VKoxV8QempHdHjQvqlX1ZjBmjGdgKrSBPXGCIeyycg51SEYHr4RT7iCuD/nA==;l8PlNnmu8VI71OxvTwFAqw=="

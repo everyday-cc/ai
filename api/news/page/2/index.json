@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-06-what-the-impact-of-global-voice-recognition-means-for-todays-brands.md",
+      "title": "What The Impact Of Global Voice Recognition Means For Today’s Brands",
+      "excerpt": "Text-based SEO is taking a back seat to the rise of voice search. From websites to blogs to paid ad campaigns, peppering online content with relevant, long-tail keywords is indisp",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5c2e07beb1649c1b4ddd4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/amp/",
+      "publishedDateTime": "2023-07-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-four-google-cloud-customers-share-how-they-use-ai-to-deliver-value.md",
       "title": "Four Google Cloud Customers Share How They Use AI To Deliver Value",
       "excerpt": "translation and multilingual proficiency, and natural language generation. Additionally, Google offers Vertex AI, an end-to-end AI platform that streamlines the deployment of AI and generative models, allowing companies to customize AI models for their ...",
@@ -302,7 +354,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -818,7 +870,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -1141,58 +1193,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-this-country-just-gave-the-green-light-for-self-driving-vehicles-on-its-roads.md",
-      "title": "This country just gave the green light for self-driving vehicles on its roads",
-      "excerpt": "The United Arab Emirates granted China's WeRide a nationwide license to operate its autonomous robotaxis, buses, vans, and sweepers on its roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7",
-      "originalUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a580c16075be0019c2acdc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp",
-      "publishedDateTime": "2023-07-05T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

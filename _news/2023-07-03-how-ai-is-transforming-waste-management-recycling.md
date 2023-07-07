@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI and machine learning revolutionizing the lending landscape: Trends and innovation"
-    excerpt: "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing"
-    publishedDateTime: 2023-07-02T09:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/?source=app&frmapp=yes"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg"
-        width: 1706
-        height: 2560
-        isCached: true
   - title: "Understanding assessment in the age of AI"
     excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
     publishedDateTime: 2023-07-05T10:08:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-07-service-robotics-market-to-grow-at-a-cagr-of-22.md",
+      "title": "Service Robotics Market to grow at a CAGR of 22....",
+      "excerpt": "The service robotics market is set to grow by USD 48,788.55 million from 2022 to 2027, progressing at a CAGR of 22.75% during the forecast period. The report offers an up-to-date",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33142292",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33142292",
+      "publishedDateTime": "2023-07-06T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-the-ai-boom-isnt-breaking-the-memory-chip-slumpyet.md",
       "title": "The AI Boom Isn’t Breaking the Memory-Chip Slump—Yet",
       "excerpt": "Samsung Electronics forecast a 96% drop in its operating profit for its second quarter—a sign that even the world’s largest maker of memory chips isn’t able to capitalize on the moment.",
@@ -398,58 +441,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-06-data-science-vs-machine-learning-whats-the-difference.md",
-      "title": "Data science vs. machine learning: What’s the difference?",
-      "excerpt": "While data science and machine learning are related, they are very different fields. Dive deeper into the nuances of each.\nThe post Data science vs. machine learning: What’s the difference? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/data-science-vs-machine-learning-whats-the-difference/",
-      "originalUrl": "https://www.ibm.com/blog/data-science-vs-machine-learning-whats-the-difference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/coding_1.2.1-scaled-e1688660694983.jpg",
-          "width": 2393,
-          "height": 1196,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:29:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-07-06-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
       "title": "AI robots could play future role as companions in care homes",
       "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
@@ -499,6 +490,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-ai-vs-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
+      "title": "AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference?",
+      "excerpt": "Discover the differences and commonalities of artificial intelligence, machine learning, deep learning and neural networks.\nThe post AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
+      "originalUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -605,7 +640,7 @@
       "originalUrl": "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -878,7 +913,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -981,7 +1016,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1077,7 +1112,7 @@
       "originalUrl": "https://www.forbes.com/sites/calumchace/2023/07/06/artificial-intelligence-and-new-styles-of-learning-with-david-giron/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1167,58 +1202,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-what-the-impact-of-global-voice-recognition-means-for-todays-brands.md",
-      "title": "What The Impact Of Global Voice Recognition Means For Today’s Brands",
-      "excerpt": "Text-based SEO is taking a back seat to the rise of voice search. From websites to blogs to paid ad campaigns, peppering online content with relevant, long-tail keywords is indisp",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5c2e07beb1649c1b4ddd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/amp/",
-      "publishedDateTime": "2023-07-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

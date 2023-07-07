@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How new AI tools like ChatGPT can transform human productivity in the enterprise"
+    excerpt: "With AI, businesses can automate repetitive tasks, use intelligent data analysis, augment productivity, enhance collaboration and more."
+    publishedDateTime: 2023-07-02T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-new-ai-tools-like-chatgpt-can-transform-human-productivity-in-the-enterprise/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_artificial_intelligence_enhancing_human_productivity._C_42ae2946-beae-44e1-b10f-949d52a27c98.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "A couple in Colorado had their wedding officiated by ChatGPT — only after the AI chatbot initially turned down the honor"
     excerpt: "The bride's father told CBS Colorado that ChatGPT initially declined the request, saying, \"I can't do this, I don't have eyes, I don't have a body.\""
     publishedDateTime: 2023-07-05T15:33:00Z
@@ -83,6 +97,22 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/05/MWL_SKT_AI_Service_A_650.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "ChatGPT's Website Traffic Down 9.7% From June as AI Fatigue Sets In: Report"
+    excerpt: "ChatGPT, the fastest-growing consumer app in the world, saw its traffic plunge 9.7% in June from a month before, marking the first monthly drop since its launch. Still, the artificial intelligence (AI) sensation remains the world’s most-used chatbot,"
+    publishedDateTime: 2023-07-07T02:22:00Z
+    webUrl: "https://247wallst.com/investing/2023/07/06/chatgpts-website-traffic-down-9-7-from-june-as-ai-fatigue-sets-in-report/"
+    ampWebUrl: "https://247wallst.com/investing/2023/07/06/chatgpts-website-traffic-down-9-7-from-june-as-ai-fatigue-sets-in-report/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/07/06/chatgpts-website-traffic-down-9-7-from-june-as-ai-fatigue-sets-in-report/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 57
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2022/03/imageForEntry16-cPB.jpg?w=400"
+        width: 400
+        height: 224
         isCached: true
   - title: "ChatGPT Successors: Humanoid Robots, AI lawyers, AI-driven science"
     excerpt: "There are several AI technologies waiting in the wings of next-level ChatGPT, including humanoid robots, AI lawyers, and AI-driven science."
@@ -151,6 +181,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 34
+  - title: "Everyday Use of AI and ChatGPT in Oncology Practice"
+    excerpt: "Bonilla, MD, MSEd, discussed the growing use of artificial intelligence (AI) in oncology practices. Loaiza-Bonilla is a medical oncologist and cofounder of Massive Bio, a company that uses AI to connect oncologists and patients with cancer to clinical trials of novel treatments."
+    publishedDateTime: 2023-07-05T13:46:00Z
+    webUrl: "https://www.targetedonc.com/view/everyday-use-of-ai-and-chatgpt-in-oncology-practice"
+    type: article
+    provider:
+      name: Targeted Oncology
+      domain: targetedonc.com
+    quality: 19
   - title: "LARGEST CHATGPT PLUGIN STORE DEVELOPER, MIXERBOX, TRANSFORMS THE FUTURE OF NAVIGATION WITH WORLD'S FIRST AI CHATBOT FOR MAPS"
     excerpt: "Silicon Valley-based AI startup MixerBox, the largest developer in the ChatGPT Plugin Store, has released a Beta version of the company's latest plugin— MixerBox ChatMap —with built-in Google Maps API integration to transform navigation for the age of AI."
     publishedDateTime: 2023-07-05T15:59:00Z

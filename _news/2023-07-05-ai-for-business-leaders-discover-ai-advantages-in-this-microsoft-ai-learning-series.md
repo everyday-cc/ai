@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-dis
 webUrl: "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/"
 type: article
 quality: 97
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/07/06/600x338/tcs_1688653355103_1688653355317.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "TCS to upskill 25,000 engineers on Microsoft's Azure Open AI"
+    excerpt: "The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space."
+    publishedDateTime: 2023-07-07T03:05:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai/101559422"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101559422,imgsize-94338,width-1200,height=765,overlay-etcio/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Railtown AI's Commercial AI Solutions Achieve Microsoft Co-Sell Ready Status"
     excerpt: "This milestone signifies that Railtown AI has met Microsoft's criteria for co-selling, fostering collaboration and visibility within the Microsoft ecosystem. This status enables Railtown AI to drive deeper collaboration and go-to-market momentum as the Company works with Microsoft's 7,"

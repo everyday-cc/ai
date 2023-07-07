@@ -21,22 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-related:
-  - title: "Artificial Intelligence: Real Estate Revolution or Evolution?"
-    excerpt: "Artificial Intelligence (AI) is increasingly becoming the most important topic of the year. From data centers to financial services to technology, every real estate sector is involved in AI in one way or another,"
-    publishedDateTime: 2023-07-02T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/07/02/artificial-intelligence-real-estate-revolution-or-evolution/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 37
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
-        width: 1100
-        height: 550
-        isCached: true
-
 secured: "5VGuMVw7aN/7g/M4g9fACx871zTbzOxofwAG1UUii9Het0XQA+lLkSTRQAhvsid6mlY7YSJf5aXVol+cHZdST3IaeuD62PS8Mj+WojHBQEW9/nsG6ku9bmADcHFWV8ukmMV6UVaLKCOjcTkvf2SKi0x6xH+9MEXlAX/GIIz4Vi3azxdKEROztj3lrCt3LIiFI5Pc/OI5RdozTHInd6HKd56sKRFXsYsbnYZDCgCw8GE7dqTbJxB3pnjCXvfGSvBIbeV0vNmWT1YCdyAU7YzlcTkNHA+XzDqSE5fWxGmPc7fbiN/TPAu6R6PlglotLAo8JLKWjyR1wyEgz4cjUW/THe+6ytBk2i9yY+ZrQNkkW50=;vRd3JTibTQ58r8r12jGe2w=="
 ---
 

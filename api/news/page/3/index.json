@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-05-this-country-just-gave-the-green-light-for-self-driving-vehicles-on-its-roads.md",
+      "title": "This country just gave the green light for self-driving vehicles on its roads",
+      "excerpt": "The United Arab Emirates granted China's WeRide a nationwide license to operate its autonomous robotaxis, buses, vans, and sweepers on its roads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7",
+      "originalUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a580c16075be0019c2acdc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp",
+      "publishedDateTime": "2023-07-05T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-decoding-the-impact-of-ai-on-seo-why-value-is-still-king.md",
       "title": "Decoding The Impact Of AI On SEO: Why Value Is Still King",
       "excerpt": "While the future is uncertain, one thing remains clear—value always wins. Regardless of the changes in search engines or the introduction of new monetization models, if you focus on providing value to your audience,",
@@ -685,49 +737,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-05-threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-151-by-2033-visiongain.md",
-      "title": "Threat Intelligence market is projected to grow at a CAGR of 15.1% by 2033: Visiongain",
-      "excerpt": "Visiongain has published a new report entitled Threat Intelligence Market Report 2023-2033: Forecasts by Deployment Mode (Cloud, On-premises), by Application (Security Information and Event Management (SIEM),",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33111353/threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-15-1-by-2033-visiongain",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33111353/threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-15-1-by-2033-visiongain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33111353",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33111353",
-      "publishedDateTime": "2023-07-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-05-tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed.md",
       "title": "Tintra Shares Rise on Agreement to Repay Fintech Leaders Share Deed",
       "excerpt": "By Joe Hoppe Tintra shares rose Wednesday after the company said it has agreed to fully repay and terminate a $3 million share placement deed with",
@@ -883,7 +892,7 @@
       "originalUrl": "https://mashable.com/uk/deals/ai-chatgpt-free-courses",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 199,
       "tags": null,
       "images": [
         {

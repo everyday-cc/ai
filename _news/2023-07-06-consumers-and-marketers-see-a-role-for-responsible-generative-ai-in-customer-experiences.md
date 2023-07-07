@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence: Asia’s Generative AI Professionals Call for Guardrails, “Responsible” Design"
+    excerpt: "Researchers are \"cautiously optimistic\" about where generative artificial intelligence will lead humanity, but “we must develop more guardrails.”"
+    publishedDateTime: 2023-07-07T02:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/209543-artificial-intelligence-asias-generative-ai-professionals-call-for-guardrails-responsible-design/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209543-artificial-intelligence-asias-generative-ai-professionals-call-for-guardrails-responsible-design/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209543-artificial-intelligence-asias-generative-ai-professionals-call-for-guardrails-responsible-design/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 57
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/06/Open-Road-Highway-Canada-Car-Traffic.jpg"
+        width: 1086
+        height: 1280
+        isCached: true
 
 secured: "4URS8d7Bz8pSNeKZBVNeuyibvT5DBbKKLBeEPgoyQxfx+M4Gt/qcXBjnavZsKpfXpIIft+sHMridkNC9XXoMrVmONtLwjOEuoUJpvQESVgB0SNFsZvlC79rjM95E/zkNCZx+/C8MsAJlA9EvSpDUn1znKO2urwREkdYkFlcq/qgMD0Fn1/AXUqquCrME1uxWGrCH14CgEwtPsEZHEX8TpO0VFf4C56O47xoBCMA2OztxfY8amzCp1AwyNgKA6OzQd8sZNZ9m1cyFnB59QaPVJKnQasvJUhggBHS/kbQFu8JuGoAIlbBukMrLivQbo7q8RzEMvEpB91tV4pTwHFIzAs0RF3IJt0Sgp/scU+l1WrAqnFgr/Nzj3DmqUmLlMTLR7nPs/TKVXp3hbh/kTuduFMxahcJdexEqHeg9jvMtp7MmsWEcP5aXujnveHOt1FODbtHdfQD3Yxhx1sS49iliSWqy4Crp5bT1VwmooQrN2n7GTxVgyK03Bqow1Iyv01sRgc501lgoGMLurODx6A1I5w==;w1SxMs0/4yO+IfQ6WFGaxg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsibl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://i.insider.com/649dc1d0693d6c00191d6737?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence: Asia’s Generative AI Professionals Call for Guardrails, “Responsible” Design"
+    excerpt: "Researchers are \"cautiously optimistic\" about where generative artificial intelligence will lead humanity, but “we must develop more guardrails.”"
+    publishedDateTime: 2023-07-07T02:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/209543-artificial-intelligence-asias-generative-ai-professionals-call-for-guardrails-responsible-design/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209543-artificial-intelligence-asias-generative-ai-professionals-call-for-guardrails-responsible-design/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209543-artificial-intelligence-asias-generative-ai-professionals-call-for-guardrails-responsible-design/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 57
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/06/Open-Road-Highway-Canada-Car-Traffic.jpg"
+        width: 1086
+        height: 1280
         isCached: true
 
 secured: "I+o7AjewyWAUahKDpEDLMP4SD3EzevQ76IxKNDCvDegKvU9hYTVWNc8Yg47tZKzCSXuaGYxF3uToOunlHoM//ogI8A+NVeyE1vLOcdcRS6IWLxw8EQZZyyw1FWVGGboZnOofQP8nLbtN+U9VahIpF9DzEeHOhbofqZkaR2w3X19sGZ5knl+1Ad2iGV4Rx7wa9XHmLJhcQbGOjbkb/Byvvx2jX+QsABVkdhtsaes3tJuYxfmrbh/Hrx0JP7snruzAte/GK8fNIKFD8cXkUZX8J6NWuLy509SuNq057Xa34YGWwjLV5ZWq0oDHp7fMs3FYoyrGR8vutM36pq1vg4fCpz/4uCspholCdE4i2WImaZOvEsw9Qusu/AKqp6dHx5w88OZgwV1xgJmc6pHHTQPD5dFpwq84TNTjUqMOAhggu0s0JwEzAAB8fumb4hztIBYSWpSG0HPt5vYj0dquCDfBSOqDqOxE/vPbGlliAd2tjRpQyf7riY08jx2r1pfj4ZMFkpPEa8COqCheYgPUY3Zmiw==;dIHxUtwmATD+imU6LAbvhA=="

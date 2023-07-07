@@ -2,31 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-06-data-science-vs-machine-learning-whats-the-difference.md",
-      "title": "Data science vs. machine learning: What’s the difference?",
-      "excerpt": "While data science and machine learning are related, they are very different fields. Dive deeper into the nuances of each.\nThe post Data science vs. machine learning: What’s the difference? appeared first on IBM Blog.\n",
+      "path": "_news/2023-07-06-ai-vs-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
+      "title": "AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference?",
+      "excerpt": "Discover the differences and commonalities of artificial intelligence, machine learning, deep learning and neural networks.\nThe post AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference? appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/data-science-vs-machine-learning-whats-the-difference/",
-      "originalUrl": "https://www.ibm.com/blog/data-science-vs-machine-learning-whats-the-difference/",
+      "webUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
+      "originalUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 149,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/coding_1.2.1-scaled-e1688660694983.jpg",
-          "width": 2393,
-          "height": 1196,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:29:20-07:00",
+      "publishedDateTime": "2023-07-06T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -50,6 +41,7 @@
       ],
       "topics": [
         "IBM AI",
+        "AI",
         "Machine Learning"
       ]
     },

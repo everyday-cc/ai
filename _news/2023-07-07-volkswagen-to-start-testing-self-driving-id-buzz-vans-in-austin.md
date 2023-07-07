@@ -53,6 +53,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Volkswagen bringing self-driving vehicle tech to Austin"
+    excerpt: "Car manufacturer Volkswagen announced Thursday it would roll out self-driving vehicle technology in the Texas capital later in July, per CNBC reporting."
+    publishedDateTime: 2023-07-06T15:26:00Z
+    webUrl: "https://www.kxan.com/news/local/austin/volkswagen-bringing-self-driving-vehicle-tech-to-austin/"
+    ampWebUrl: "https://www.kxan.com/news/local/austin/volkswagen-bringing-self-driving-vehicle-tech-to-austin/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/volkswagen-bringing-self-driving-vehicle-tech-to-austin/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 44
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/07/Large-16699-VolkswagenGroupofAmericarollsoutautonomousdrivingvehicletestfleetwithID.BuzzADvehiclesinAustinTexas.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Volkswagen starts an autonomous driving pilot program in Texas"
     excerpt: "In 2019 VW Group invested $2.6 billion in Argo AI, an autonomous vehicle startup backed by Ford. At the time, Argo's self-driving stack was to be incorporated into future autonomous VWs as well as autonomous Fords. But Ford's original timeline of launching ..."
     publishedDateTime: 2023-07-06T13:32:00Z
@@ -89,6 +105,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2977d6cdde7cdbc405153eb1d092ef38.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Volkswagen is about to launch a self-driving car testing program in Texas"
+    excerpt: "This will be the first time that VW has tested self-driving vehicles in the U.S. The move comes just months after a multibillion-dollar VW and Ford Motor Co. project with self-driving car startup Argo AI LLC came to an end after the latter shut down."
+    publishedDateTime: 2023-07-07T02:07:00Z
+    webUrl: "https://siliconangle.com/2023/07/06/volkswagen-launch-self-driving-car-testing-program-texas/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/Small-16703-VolkswagenGroupofAmericarollsoutautonomousdrivingvehicletestfleetwithID.BuzzADvehiclesinAustinTexas.jpg"
+        width: 1500
+        height: 1893
         isCached: true
 
 secured: "zDeIC/y33pNa2xGYEzETzDDn6nVAPAbtUU/J950N+3nx/LDgSKyokiQDJPaSBLOoTePBWHUMneJ1vCn9mGi3TZnPdEL0HtUkJUFw6w8W14ORIbaWVAYf5FSZ5oUUoDr1wFbuMKang5a8xS5+FLkLVfYP+0ZdxKb0LMwafJntbhKME2EbPFJmF9G/EfUAhLwUG/V4Qx8bwPRNh7ejlPCvCzhzlZxg7D5X3YaJseXYZh+U40e6S61X2+jsGRo8tQ/9HXbuhX+DyPQwsgbKKGcOcpl4GcTm7X+K3C6WAaOcOhEqmHKF+jEGeTbBnEX14tE6OouN5Sw8yZR8r1ru0P9y/XqrDud3basByW8K3MauaDdjkHuDESvtf8Xmig2sUYaaurov67ZtIsjB0CzXoNIXw0+6mhlMeVCKiarFW8H5whSsZqxSgBjWcuyxQVqI88eDyMCOq6fZZ4pLM6lxEVuh+v87+RViLrRsaGcirHA7Z2hZ86KV1r/5w2zTcu2wCUxRRpJaitj1hmUAdGhLJxsEdg==;+hKhkQ6nwXiUqWm58PBp3A=="

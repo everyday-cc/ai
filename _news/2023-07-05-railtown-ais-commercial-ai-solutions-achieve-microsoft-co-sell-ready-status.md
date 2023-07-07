@@ -165,6 +165,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "TCS to upskill 25,000 engineers on Microsoft's Azure Open AI"
+    excerpt: "The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space."
+    publishedDateTime: 2023-07-07T03:05:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai/101559422"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101559422,imgsize-94338,width-1200,height=765,overlay-etcio/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "TCS partners Microsoft for generative AI solutions"
     excerpt: "Tata Consultancy Services has deepened its partnership with Microsoft by announcing plans to significantly scale its Azure Open AI expertise, and launching its new Generative AI Enterprise Adoption offering on Microsoft Cloud to help customers jumpstart their generative AI journey."
     publishedDateTime: 2023-07-06T06:39:00Z

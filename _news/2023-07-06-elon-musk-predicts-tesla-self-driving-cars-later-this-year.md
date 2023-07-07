@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Elon Musk predicts Tesla self-driving cars 'later this year'"
-excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone. \"In terms of where Tesla is at this stage,"
-publishedDateTime: 2023-07-06T05:54:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-predicts-tesla-self-driving-cars-later-this-year/article67048049.ece/amp/"
+title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
+excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
+publishedDateTime: 2023-07-06T05:00:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://th-i.thgim.com/public/incoming/3007p2/article67048051.ece/alternates/FREE_1200/2023-06-24T170512Z_85981581_RC2SP1AFUMP2_RTRMADP_3_MUSK-ZUCKERBERG-FIGHT.JPG"
-    width: 1200
-    height: 801
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -232,6 +230,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "92prYQcPjRtfdRXB3WaksNEtEtYeGth1tfs3yb4SSs9j/PG6tmN3yRnGw3E+VhzpYfcOuA1jLwGqlE2r79dtVNO+yOA9gWYmBdXmLo3pFE2BRtE3ux/Rshm6YZhCkapHndj8KmMr24H2Fv1GTsf4Qd22HCyulKu5nTjKMgWYsWoQn3wDKK4LVteNPRVOHYMimOUDpYUSpSSyE9XxZEMelRGUqoSzCjSbiW+Dz2Q+jQ8AnEgfNzvwD9XV9uuiheTbty51bcpdhCrMH5en0m1yhO26YihVhW7/O7On6ffKs4lgzpZV/cWSHe56NFtwkAOm6rUNPXr7+UFjoFFPcT4f8kZaJaE2jeufDwyscwV2PM0=;ztB4Fr74VI6GFcVAV5OLNQ=="
+secured: "91XnbWW8pBL6pHh+5zguLf45bp91x9L5gt/hInnMwH0uhENHX4h5FN+LsZ5LhAu89y5oPOapM0HuOS4LiNBLzXO70s5DjLw2auri0TIiOeN0ElfgRZDN66gYjCrZ7IYVnP/oSVG7AV9PBag/Wn/KbEqpXUq57iofq5GHzyBQAVQ2pFAdDGNzqXnHuvB4JIoEi8Sp9yiPB9FQFr7VvKS3uHXQH3T7OH9UMPP3cY25BiGQCSpiIswJXdxY6x69sLF5MMOcXvLp0woD7D5fhkSDvLOP2Ga2qjy6FT1TvPaL1eBOGeDXXQRRru6l9qUZqzPUEPfRpfWrWm62LqtNhJY8NFa0/J/B2W49MCMwHRPGbWo=;OFHt6uZheDFNVUAWD1TKwA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.omanobserver.om/ampArticle/1139719"
 cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1139719"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

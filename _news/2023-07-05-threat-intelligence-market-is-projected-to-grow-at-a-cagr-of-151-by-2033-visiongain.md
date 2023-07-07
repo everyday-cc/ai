@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33111353"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33111353"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence In Computer Vision Market Size To Worth Usd 100.42 Billion By 2032 | Cagr Of 19.5%"
-    excerpt: "New York, United States , July 05, 2023 (GLOBE NEWSWIRE) -- The Global Artificial Intelligence In Computer Vision Market Size is to grow from USD 16.91 billion in 2022 to USD 100.42 billion by 2032, at a Compound Annual Growth Rate (CAGR) of 19."
-    publishedDateTime: 2023-07-05T10:52:00Z
-    webUrl: "https://menafn.com/1106556267/Global-Artificial-Intelligence-In-Computer-Vision-Market-Size-To-Worth-Usd-10042-Billion-By-2032-Cagr-Of-195"
+  - title: "Service Robotics Market to grow at a CAGR of 22...."
+    excerpt: "The service robotics market is set to grow by USD 48,788.55 million from 2022 to 2027, progressing at a CAGR of 22.75% during the forecast period. The report offers an up-to-date"
+    publishedDateTime: 2023-07-07T01:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33142292"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33142292"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 35
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?995995"
-        width: 333
-        height: 250
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Artificial Intelligence (Ai) In Security Market: The Global Market Is Expected To Grow At A Cagr Of 13.20% During The Forecasted Period. X Herald"
     excerpt: "As per the study initiated by Evolve Business Intelligence, Artificial Intelligence (AI) in Security market size accounted for USD 20.44 billion in"
@@ -55,20 +57,24 @@ related:
         width: 300
         height: 254
         isCached: true
-  - title: "Vision Screeners Market is anticipated to reach US$ 815.2 Million by 2029, with a CAGR of 5.9%"
-    excerpt: "The global Vision Screeners Market demand is predicted to grow at a CAGR of 5.9% between 2022 and 2029. The increased prevalence of eye diseases is a major factor driving market growth.Increased government support and funding for vision screening exams in schools and businesses is expected to"
-    publishedDateTime: 2023-07-03T05:45:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-07-03/vision-screeners-market-is-anticipated-to-reach-us-8152-million-by-2029-with-a-cagr-of-59"
+  - title: "Consumer Robotics Market to Reach US$ 76 Billion, Globally by 2032 at 24.3% CAGR: Future Market Insights, Inc."
+    excerpt: "The global consumer robotics market was worth US$ 8.7 Billion in the year 2022 and is expected to reach US$ 76 Billion by the year 2032 at a staggering CAGR of 24.3% between 2022 and 2032. An influx of smart homes all across is the factor majorly fueling the consumer robotics market and the scenario is expected to remain unchanged"
+    publishedDateTime: 2023-07-05T03:12:00Z
+    webUrl: "https://www.fmiblog.com/2023/07/05/consumer-robotics-market-to-reach-us-76-billion-globally-by-2032-at-24-3-cagr-future-market-insights-inc/"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 12
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 14
+  - title: "Global Healthcare Predictive Analytics Market Report 2023: Sector is Expected to Reach $30.71 Billion by 2028 at a CAGR of 22.23%"
+    excerpt: "The global healthcare predictive analytics market is expected to reach $30.71 billion by 2028 from $9.21 billion by 2022 grow at a CAGR of 22.23% from 2022-2028. Market Trends and"
+    publishedDateTime: 2023-07-04T16:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-healthcare-predictive-analytics-market-report-2023-sector-/2023/07/04/9843101.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Sx1yiB2rZutVO1jaLcydxfYEKMmSF1vhz7k5gLfjnLvGNfsPsrlJ7LM6ZtkPaHpxaqXNBUc9rz4nId/REO/tyzqp/Ut1y4+0laQn8ebsx0/GsBgYJcJtIsfR//c3W/LCUOEqxnMS1Unl2XGawZNrrHyyQSCsgAlemEoiifNRF1vIWMMsR98+FPxbpXj0wwwDISkA+Xpm5BTCJazztwVfdR2LSkxgPHpPOQwyJTchKgTB0CqNGJ8QnbA4+C0G0BOHixcodsEU35xtxJ7RLHgyfT0SpSwWKf/sHTmum+0d/+5OZK5p2zwHkNkuuLmpec24sxIapxMreEEb2iNzvyU1vowQxxAxdin2oVDT+6qd/8Q=;sRNszOOIbQ+AOZTe12kuIw=="
 ---
