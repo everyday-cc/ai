@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "PM Modi presents AI language platform Bhashini: What it is"
+    excerpt: "Bhashini is an AI-based language platform. Artificial intelligence (AI) tools are taking over the world. From businesses to governments, everyone is busy exploring how AI can impr"
+    publishedDateTime: 2023-07-05T13:20:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/pm-narendra-modi-presents-ai-language-platform-bhashini-at-sco/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 39
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l13920230705183006.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Today in AI: US plans to restrict China's cloud service access; PM Modi spotlights 'Bhashini' at SCO Summit; and more"
     excerpt: "Number decals are displayed on a wall of a conference room at the cloud infrastructure department of an Oracle Corp. office in Seattle, Washington, US (Photographer: Chona Kasinger/Bloomberg)"
     publishedDateTime: 2023-07-05T05:20:00Z

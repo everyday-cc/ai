@@ -83,6 +83,20 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Chinese AI startup Fourth Paradigm receives China's nod for Hong Kong IPO"
+    excerpt: "Beijing Fourth Paradigm Technology, an AI startup, has completed procedural work for a Hong Kong initial public offering, becoming only one of a handful of companies to get the nod from China's securities regulator since new rules became effective this year."
+    publishedDateTime: 2023-07-05T11:50:00Z
+    webUrl: "https://www.aol.com/news/chinese-ai-startup-fourth-paradigm-085041020.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 36
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/4f59596b75cfaa878a2137c10ed88238"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "f2pfRrQwp+2o9Tn/sBpEiINIIMEY7HGhkVQxn1ih2pvTk0YI7dnDFWRFreNj6UWQd0Oaa9y6OgMBoCp2cqJxDOvn1IZl6Fmtq1QE8w11G54RxLPRcHw46JaghplwzcPlYaUco1q+vWbB9BEOBbPGVe3NNqfPSo65FGTOMCVYzBZ72jnDLhsIYYNA74W3kkhIdvPGUipyCMJNXWZW0yBcv1GU76xR4xnkLrXDCBDiww7RHV0lH4WIM7lN7JLBWS1vdMvfNqXNabFwt77uXEwrPaKYYByUu3UsZbjvt/oXlrgruoy85Zi3K+LcMjhM5Ifi7WmpiJb/fP7CyrjfzV7CWkHjt5n1FwkzbFDZdhdNcoQ=;UcrocaE4x4iG5hCA29I81g=="
 ---

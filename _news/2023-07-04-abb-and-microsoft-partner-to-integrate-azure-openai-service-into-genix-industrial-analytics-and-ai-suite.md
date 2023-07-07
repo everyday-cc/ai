@@ -37,6 +37,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "TCS plans to train 25,000 engineers on Azure Open AI"
+    excerpt: "TCS said that it plans to significantly scale its Azure Open AI expertise and launch its new Generative AI offering for enterprises"
+    publishedDateTime: 2023-07-07T07:18:00Z
+    webUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954"
+    ampWebUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 74
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044335.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
     excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
     publishedDateTime: 2023-07-04T16:30:00Z

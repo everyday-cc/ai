@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Tintra Shares Rise on Agreement to Repay Fintech Leaders Share Deed"
-excerpt: "By Joe Hoppe Tintra shares rose Wednesday after the company said it has agreed to fully repay and terminate a $3 million share placement deed with"
-publishedDateTime: 2023-07-05T07:29:00Z
-originalUrl: "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
-webUrl: "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
-ampWebUrl: "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
-cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
+title: "What skills are fintech employers seeking in 2023?"
+excerpt: "Meanwhile, the WEF’s 2023 report says that for 73% of companies, analytical thinking will become the biggest draw among candidates within the next five years, so if you are looking to future-proof your career, focus energy on developing your analytical thinking."
+publishedDateTime: 2023-07-07T09:22:00Z
+originalUrl: "https://www.finextra.com/the-long-read/739/what-skills-are-fintech-employers-seeking-in-2023"
+webUrl: "https://www.finextra.com/the-long-read/739/what-skills-are-fintech-employers-seeking-in-2023"
 type: article
-quality: 74
-heat: 154
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.finextra.com/finextra-images/oped/739.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
+  - title: "Tintra Shares Rise on Agreement to Repay Fintech Leaders Share Deed"
+    excerpt: "By Joe Hoppe Tintra shares rose Wednesday after the company said it has agreed to fully repay and terminate a $3 million share placement deed with"
+    publishedDateTime: 2023-07-05T07:29:00Z
+    webUrl: "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Dobin, an AI-powered FinTech solution announces its launch"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-03T11:46:00Z
@@ -73,20 +83,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "What skills are fintech employers seeking in 2023?"
-    excerpt: "Meanwhile, the WEF’s 2023 report says that for 73% of companies, analytical thinking will become the biggest draw among candidates within the next five years, so if you are looking to future-proof your career, focus energy on developing your analytical thinking."
-    publishedDateTime: 2023-07-07T09:22:00Z
-    webUrl: "https://www.finextra.com/the-long-read/739/what-skills-are-fintech-employers-seeking-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/739.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI frenzy bites into fintech"
     excerpt: "Driving the news: Fintech has been a primary victim. Some 64% of investors at Collision said AI/ML could become the most disruptive technology in the next five to 10 years, per a Pitchbook survey. A year ago, the hottest category was fintech/blockchain, with some 29% of investors. Dollar figures reinforce the narrative."
     publishedDateTime: 2023-07-06T16:15:00Z
@@ -124,6 +120,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "WFtyZgBD/35X0kAhaZ11sOK6z2Spf/ZzJX53D7oaMrE0nmcyChVhcJ1zS7eGOj/Nr9p1oO5WJDnsyF4QMZ9XeEBguUkQn5eqq4lCJiVq5cE3thwS/975JT8QGsQs7ytZdRQDPQ8pQxr8w+JegQi8KQj76HTUbEA/kbgjH98a8FIpHHVew4OHO9XdEp2PJhY0PSdQB4rspGIfzb5J3QQklTz28mfoPwGS9N4R8hS7sZ6+iWoe3fqq3rvGoFG3ooRw6KJ2ZlmufIqjtvnhdFUyseNTErTxsS4X6qoP4gznYAuTieTc2Yc3KHopprHnvJBkWCU0ILukOKBrLG2llfZMFxdkBmLRBNIj8rO/Hi8N9tw=;n4dLpRPRPv2knkVm5LYLfg=="
+secured: "+3N2sS2jzI//g2PXsnzHu4hZoOls9KBn4dSON+XFLWzIqqJwCse7Naxh5wHmkuJxjiTU1a6cDGLY/azvJ9OJiazC0kYnSF2DKp3Hq5ajRgaLC/ltNWNb6OpU0RUwu4mpXtsqaVxuyo9KWsqSk/bMAKy5BSae0E3YP/3OuOEHGuwtHJqYWoMVDX+qSfAzGiVYcp0nZUbnycDRT5IZkAIr60UBOTefLeTTZE3aDEvQfTC2SGtq8JpjpG4aw4NiXuiSn2qVNxpqbzFWZsCXxY9NOHpeqXoPTT7Uj5loPASTRtBFGmAs29MgSsB3Jj6rxAHAITcmojsLxRgP9l4DPW/bpItY79kpPXncFOsn/Cj8NVE=;D82KpYD+hucOE4XZIDzqPw=="
 ---
 

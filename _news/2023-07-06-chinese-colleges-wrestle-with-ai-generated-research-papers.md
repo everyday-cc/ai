@@ -69,6 +69,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Chinese AI startup Fourth Paradigm receives China's nod for Hong Kong IPO"
+    excerpt: "Beijing Fourth Paradigm Technology, an AI startup, has completed procedural work for a Hong Kong initial public offering, becoming only one of a handful of companies to get the nod from China's securities regulator since new rules became effective this year."
+    publishedDateTime: 2023-07-05T11:50:00Z
+    webUrl: "https://www.aol.com/news/chinese-ai-startup-fourth-paradigm-085041020.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 36
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/4f59596b75cfaa878a2137c10ed88238"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Apple chip production unaffected by Chinese sanctions, but things could get much worse"
     excerpt: "TSMC‘s Apple chip production is not expected to be affected by China’s decision to restrict exports of two key"
     publishedDateTime: 2023-07-06T13:25:00Z

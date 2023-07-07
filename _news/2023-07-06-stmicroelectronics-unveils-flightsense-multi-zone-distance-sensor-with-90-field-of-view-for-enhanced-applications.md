@@ -9,7 +9,7 @@ ampWebUrl: "https://news.europawire.eu/stmicroelectronics-unveils-flightsense-mu
 cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/stmicroelectronics-unveils-flightsense-multi-zone-distance-sensor-with-90-field-of-view-for-enhanced-applications/eu-press-release/2023/07/06/09/10/24/118441/?amp"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "ST reveals latest FlightSense multi-zone distance sensor"
+    excerpt: "STMicroelectronics has launched a new FlightSense multi-zone distance sensor with 90° field of view – said to be the industry’s best and 33% larger than the previous generation."
+    publishedDateTime: 2023-07-07T07:42:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/st-reveals-latest-flightsense-multi-zone-distance-sensor"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 24
+    images:
+      - url: "https://www.newelectronics.co.uk/media/u0spx2ew/vl53l7cx-tof-sensor-p4560d-s.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ThvGYaFQX+fDg4l3h+Hz7GUW4bzAZHHyCKSTG5i/O+atfzKxK09M3fPAJFWWoxzQ4SfvuTO7NO8qc6nvTa+2v06f8E5uvLaIbtofxxkKhxBfxvz7O601BfRmU54q6BIdci9+ev2kX537T5PY92H18R4W2tmNxGkv1/pGkrq+aO/bPer80uJZIuRbbt4AcHumK+TcQBSBfemtGYEiaiBaY5gB6p0d9XWv37cRdxNXdFsoB2oE5AS3uJvOX084QyPjhaieC1um6QdgS8EKf7VvNBUt/sjk+zOMzh+Ob9XeezjTw0hkY27sHCsBrCzwNl3K4AKElk/tDTdJ6GFzhykz0fDP4herR9cC+bUFYiacilQ=;y8TK594nu3qevndvdGRrhA=="
 ---

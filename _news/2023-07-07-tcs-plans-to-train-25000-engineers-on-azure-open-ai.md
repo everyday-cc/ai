@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
-excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
-publishedDateTime: 2023-07-04T16:30:00Z
-originalUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
-webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
+title: "TCS plans to train 25,000 engineers on Azure Open AI"
+excerpt: "TCS said that it plans to significantly scale its Azure Open AI expertise and launch its new Generative AI offering for enterprises"
+publishedDateTime: 2023-07-07T07:18:00Z
+originalUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954"
+webUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954"
+ampWebUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
+cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
 type: article
-quality: 62
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: technuter.com
-  domain: technuter.com
+  name: Outlookindia
+  domain: outlookindia.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
-    width: 390
-    height: 205
+  - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044335.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -41,21 +43,19 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "TCS plans to train 25,000 engineers on Azure Open AI"
-    excerpt: "TCS said that it plans to significantly scale its Azure Open AI expertise and launch its new Generative AI offering for enterprises"
-    publishedDateTime: 2023-07-07T07:18:00Z
-    webUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954"
-    ampWebUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
+  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
+    excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
+    publishedDateTime: 2023-07-04T16:30:00Z
+    webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 74
+      name: technuter.com
+      domain: technuter.com
+    quality: 62
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044335.jpg"
-        width: 1200
-        height: 675
+      - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
+        width: 390
+        height: 205
         isCached: true
   - title: "Legal Blaze Hits OpenAI: Copyright & Privacy Battles Test AI Ethics"
     excerpt: "Two authors, known for their works in science fiction and horror, claimed that the AI model could accurately summarize their books. This suggests that ChatGPT may have used their works unlawfully. OpenAI is also alleged to have collected images ..."
@@ -106,6 +106,6 @@ related:
       domain: axios.com
     quality: 19
 
-secured: "IkOp6MkUvAdK0a0O+wejRADDO9/Gn3G4x97kGpiwcLzFAH0uMI2G5oNiam9kS9OW4u9p6Hk9Z2Wharva8krW26mGJ3mbE1XMkQO2cTu4TprXOAwoSfOS+2vCiR1mNG5/emxAOR+CpzRLGvXw3rLnOPXHzzLs2l9tUcaIHAispvpFfeIbTIAFV5YJAO19OK8QmwOGiJCCD5EhXKnf41tEJcsJKtYRkrBzP7MrVBeTW+ajWPk4aP3wOMZL9G3Ynpp4YgbdrJU0hSllisdDNpmbIztibeTe7jvX8LyQ9PW/pS4ka0nmjstpMDJoc/qN2Fh3XNXKsNBVUbhe7GebONGi/2uQT34EPbT5cmGLa2q8638cDQyBTJ+lAI42+kdEhvKVsxaQyIR3B63tBADphAgjZflZh2Uaz9xuWoDOXLEDr7eHR47pjm04DIylgLGtfVi56pAQsPXuWM0akTCI8P3a/MCRKvycLcEcKJ3SM786o7aX7tFKiR6KbPgituy2u7N2/ZI214xeicGKbIdcr9ivcA==;lNce5xq/2ARvmR65gdWp/w=="
+secured: "zUiVRrQd9luquSfjAx+wN1kXeGKUZ89RLquLRAUTdBbvZaO01YhwztI4bJM71zlxKluVv+aHqVWzVLscNug+ygU1aoG+T6o5xpjU4U3I+r4/CAjx8ZkbLsmUFdYXe7LmkGREdmZLU5B/J46D06iJ0QwNJXdVhox32+0p3svDtXYXxjU2AF6lhpqBv+5/HNFLzk08gsEp8/FUKD/rCWPokxdy10+XZVAQmSBuNEYBRy/teYVAZDU/xgBCMQGydtYtD2tTKJ2OUTOgPCUafd95Ul5/fCApefGQbcpkjWE+4xa2JcwkIRv7HLmRBH9K2mYOpbYVV3CmmpHik9hsXvWSKeaRGiG9HJYzpTAsZW89GGo=;6ZtabwF/xb1RokIuC+IEsw=="
 ---
 

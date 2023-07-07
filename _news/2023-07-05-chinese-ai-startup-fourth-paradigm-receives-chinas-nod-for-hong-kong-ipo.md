@@ -1,28 +1,26 @@
 ---
 category: news
-title: "US will block Chinese customers from using AI cloud services: report"
-excerpt: "The US Department of Commerce could ban Amazon, Microsoft and Google from selling AI-related cloud computing services to Chinese companies, a new report said."
-publishedDateTime: 2023-07-05T18:19:00Z
-originalUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.html"
-webUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.html"
-ampWebUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.amp.html"
-cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.amp.html"
+title: "Chinese AI startup Fourth Paradigm receives China's nod for Hong Kong IPO"
+excerpt: "Beijing Fourth Paradigm Technology, an AI startup, has completed procedural work for a Hong Kong initial public offering, becoming only one of a handful of companies to get the nod from China's securities regulator since new rules became effective this year."
+publishedDateTime: 2023-07-05T11:50:00Z
+originalUrl: "https://www.aol.com/news/chinese-ai-startup-fourth-paradigm-085041020.html"
+webUrl: "https://www.aol.com/news/chinese-ai-startup-fourth-paradigm-085041020.html"
 type: article
-quality: 57
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/07/06/thinkstockphotos-528443527-100610461-large-100941889-large.jpg?auto=webp&quality=85,70"
-    width: 1200
-    height: 900
+  - url: "https://media.zenfs.com/en/aol_reuters_29/4f59596b75cfaa878a2137c10ed88238"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -39,6 +37,22 @@ related:
       - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "US will block Chinese customers from using AI cloud services: report"
+    excerpt: "The US Department of Commerce could ban Amazon, Microsoft and Google from selling AI-related cloud computing services to Chinese companies, a new report said."
+    publishedDateTime: 2023-07-05T18:19:00Z
+    webUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.html"
+    ampWebUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/07/06/thinkstockphotos-528443527-100610461-large-100941889-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Report: US to restrict sale of AI cloud services to Chinese companies"
     excerpt: "The U.S. Commerce Department is reportedly readying new rules that would restrict American cloud providers from selling certain services to customers in China. The Wall Street Journal reported the development today,"
@@ -68,20 +82,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Chinese AI startup Fourth Paradigm receives China's nod for Hong Kong IPO"
-    excerpt: "Beijing Fourth Paradigm Technology, an AI startup, has completed procedural work for a Hong Kong initial public offering, becoming only one of a handful of companies to get the nod from China's securities regulator since new rules became effective this year."
-    publishedDateTime: 2023-07-05T11:50:00Z
-    webUrl: "https://www.aol.com/news/chinese-ai-startup-fourth-paradigm-085041020.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/4f59596b75cfaa878a2137c10ed88238"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Apple chip production unaffected by Chinese sanctions, but things could get much worse"
     excerpt: "TSMC‘s Apple chip production is not expected to be affected by China’s decision to restrict exports of two key"
     publishedDateTime: 2023-07-06T13:25:00Z
@@ -97,6 +97,6 @@ related:
         height: 628
         isCached: true
 
-secured: "O6r0vRyeFBw/aRvwwcOvvtilZvgxXdq5BvL03aiMkfNsHBHca+gr/yiQuAOnHrC0DFo+GPXiFwS6rtmvHmjDXB0b+d0IbKLaxRgMu4YVj4FEc2fkAEAkoxuDJ3u3f5gsE0zNMIcxCRhskv0JY9w4wZiXqWA0FHtfcrN1V0LP/kKOVU8uB87qgEXZSFr7JyvSpAnNQ0X3mRtZmfKKdnSh9xZNvdXR25MC7C2baTk1jpHxeLIqRPSS3qSFFpxD7VjiQf9L/GbrMiCoyeF3Vs9WtLe4vODR5+Th6Hn6Hn4tLuGa6dW28OSp0erHmtWLp6AJRI/sKKchZw6olsoHKzRZ/LVKbSSywMDYEwX/G4DpkAqxkF3YKUmxhBv3khbx4kt8wv2kw/Qq5x6pT6n/5sqzH7/AJpRFg8IwgQxJ0NlP8uIRFtwzp1CAwvtt9tyhD47FKimcoJ5WBjUbMHsyo8lxjNQCX8rokD6rqcId8s2GcuScZUpfF7f7pCDrR3TsjLypTacVzUN+0r5ALA+VN1TbFA==;BX7OadYbZyaRzoxB3ME9lA=="
+secured: "leaDfdQn0IFR6/pfRv8IHfAbJskj7Rgk5iLkhS4CRF212BMpqObl45cHPxdncSZakWlKxu7/WgUrjvUNCYcTEa9nqMAI1n+rhzTSzfxR0n5MqEFtv5As+U+kB/fBz+ZRMgoNCV9IGGZ/+jbUwKw+/8JvNzyMum3S9weyHd7YlSAsxaURpwhNBaojjDPGsVTCpT+KEGKDJ2sprZ7j7gq6rLQ1GaYWHOFw1HAWDhmZHNteMBvOg81VRw2aIsLYgacUZykzVkJ5D+O8W0u8SYX1Z8cyjzgFE2JLa/U82fFAcjwb4GIsby8iYaqJ63+HgXYvIaNvZC9Q0R9qImtnH8LMUMfevXaXBSf2xsQoHkjy5Ik=;Z12vRlsY1gVtou3LMASR2Q=="
 ---
 
