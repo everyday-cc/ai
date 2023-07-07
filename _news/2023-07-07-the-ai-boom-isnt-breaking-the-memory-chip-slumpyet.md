@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/the-ai-boom-isnt-breaking-the-memory-
 webUrl: "https://www.wsj.com/articles/the-ai-boom-isnt-breaking-the-memory-chip-slumpyet-e980bfb3"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:

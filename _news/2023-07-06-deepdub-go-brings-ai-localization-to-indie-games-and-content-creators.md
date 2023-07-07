@@ -6,9 +6,9 @@ publishedDateTime: 2023-07-06T13:00:00Z
 originalUrl: "https://venturebeat.com/games/deepdub-go-brings-ai-localization-to-indie-games-and-content-creators/"
 webUrl: "https://venturebeat.com/games/deepdub-go-brings-ai-localization-to-indie-games-and-content-creators/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/07/Deepdub-Go-capture3.jpg?w=1200&strip=all"
+    width: 1200
+    height: 611
+    isCached: true
 
 related:
   - title: "Deepdub GO uses generative AI platform to dub any video content professionally"
@@ -38,6 +44,6 @@ related:
         height: 575
         isCached: true
 
-secured: "3ojrYiIrsVO2dfTT9ubuvAcXtPmy6Ci+0dPriWRxDwxuZInAI/3BPHXM5egB3I1Th5KcNY/No5LSV0PCt324o3Xl+pmVVBBnjq6g0QLwwX0DHI86qwr0Afw69yl13FnSo9gngVguYDRLh8ExiGOOHcwbcD4iHDeQUqdaiZYEGcOWBABA725dyp5Yicq2LD7w+dVbu6VkLQ8vUf79WA/06vl7IHEzU8EGW5Kpd3LYt4Q28EtMcBDmaDkW6E//7l6O2u9mtKqVrIyamL8X/Bs0tyPwuZMne2LrcNzbW5TCM2Q2Yqzna840yrgunxrlgZBQcUYYB5ZkTmjOwdJx160BCGVt971DLfirTTO+1dYV7G4=;0eOZsoL/MOzJ7kga/E2spg=="
+secured: "7tR/yVxL3XmH0iXuDFPFjTDI0VFtSTUs8uHZgMucElrNa5xMKdPWAczdiIqKc0Al6HJDYtbf60VGJsmVs5Ovz+E4cHyX/CI0E6JR5THNXof7BuQbYCHPtwojou4c2N7dT7bw/9p/tdST/FEVzelV6N8ohDz14+BKMVv1417s0N68lMaEgrkbw4S/odRA4AIVcXH9b2RZ4M1zx+E95IBduhEOb++TyB6A27fRYoBUq9aZpFLDIgxuWTa+7rfkrq76a599no4sWmiC5UoOCHNB6vRnQoSSvPrYlsbLTOpg/nkrTaVGxKcsvsyfp527qf/oNS/+uvUEejxnMgeKPt5BhUd/36ykvLY8/b3pErjy8fc=;ix1cEnbivw5BTdLxAQCikg=="
 ---
 

@@ -33,7 +33,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 49
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Deepdub-Go-capture3.jpg?w=1200&strip=all"
+        width: 1200
+        height: 611
+        isCached: true
 
 secured: "N2UBQVFu54cEh2UJFAR2nq+6HzzZNRXmtV5ZirxkNE1wqNZ6e89QfFrzxd1hu5wQ3ietKM4jqFN16mjAzqua9ZSNCInmqKNzE5FczDQdPqwT1PNW4l0o8ihddKfJqadJsK2hmDcTUCOvcQNpEhR/vtYG/m6EwL7pF1C5oKjSOBWZ8NAcXAwBjuC6rMrnVOw6msvROPA+ezlxIsN0uY+0dLPQciywITga2C3g37bXz7h9HLqPZedD/o7LarLpceLs3yZL4NbgYxghfIkAh/MjO5VuJE4Um990HCvOUO8BpdW9DUzCMAvTfrygS6sctwD1RmHVWLTSrWEWMEHvwBXvn8/BNSDmwOIoCWDcuKIMxxo=;m5Bxo4HuCv5bftt7f1/51w=="
 ---

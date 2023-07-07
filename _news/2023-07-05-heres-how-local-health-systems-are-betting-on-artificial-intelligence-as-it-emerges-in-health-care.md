@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Odd News Roundup: AI robots could play future role as companions in care homes"
+    excerpt: "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it."
+    publishedDateTime: 2023-07-07T05:04:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2514345-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2514345-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2514345-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 70
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/04_02_2023_12_15_10_8349154.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "POTwB1P7JpmH15oq5CVsmu4OrxYdN4f86I9k1dhswy0Kf4MyOok5S3wW3bPPhyC+1U2pP3BQY1rR/kb15fAOjyU0jglIeWkzL825k81m9DH0hMkWyUVwuWDIfcfGq8Umqvk3/dNnEKMQmeGWxXsDmd1nDf1o1ITJdhtjNceq9luimbV/B2NPejusgoUN6YuxqqLJ6YdO7QXTLQHa5pNSkdxTz4NuWHdmiil00bUGJujcGcIj+Rik7PWayfVZ2lK32Yymn6zcDe9MvPKQOIPwxysru7h40neeRAjLr/TV1y2xGfRxNHKW7GHrJb4TbWI4SQw9KQxcJyTG4otQeVGx9LFJmxeYZKThowoBX3fdJpY=;t+D390t0kE72mcXzQVw1mA=="
 ---

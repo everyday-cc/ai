@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://mg.co.za/wp-content/uploads/2020/03/a44e475b-artificialintelligence.jpeg"
         width: 696
         height: 445
+        isCached: true
+  - title: "Building the AI Talent Pipeline"
+    excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
+    publishedDateTime: 2023-07-07T04:45:00Z
+    webUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"
+        width: 480
+        height: 320
         isCached: true
 
 secured: "Ws5J3dlbMuohrDratTtF1MTC5W8ycd5vZRV4/8HdQbU7ZwInMkTTNvB7SSpoCTuk6sDXWl+Dm9TPoHHBOz8jKl7zqh5QYxJC8gfijm8BKwdVKPlqwFkxfKtk1sbbjntuMGNh1CJUEj9sm+2NvS/XcaTb7OdGKcPOwKbg+N/q45mXCvlAOJFmRBxvFp4Ur855t5rfx6u96Pn5GKxQkce1YDdehfUht1+33MnpnAw/vp3dNlBSyqx1mD8vWEHmbbaQNJCqbWxs9pMgly5Pv69AdIkvojP5+5wLsvaYjiBs+v34Myzu4mA5y0e/CrsBpCBvSQ+/w+Vro1qShQWzt+Ceybco/peZWGAwaK2//Lr/x80=;6FQCdR+ieQ6ExEYIaMOUqA=="

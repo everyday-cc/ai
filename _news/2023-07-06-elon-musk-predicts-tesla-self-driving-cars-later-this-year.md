@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
-publishedDateTime: 2023-07-06T05:00:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles ‘later this year’, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated"
+publishedDateTime: 2023-07-06T12:48:00Z
+originalUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+webUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: New Age
+  domain: newagebd.net
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
-    width: 1240
-    height: 826
+  - url: "https://www.newagebd.com/files/records/news/202307/205911_139.jpg"
+    width: 790
+    height: 452
     isCached: true
 
 related:
@@ -230,6 +230,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "91XnbWW8pBL6pHh+5zguLf45bp91x9L5gt/hInnMwH0uhENHX4h5FN+LsZ5LhAu89y5oPOapM0HuOS4LiNBLzXO70s5DjLw2auri0TIiOeN0ElfgRZDN66gYjCrZ7IYVnP/oSVG7AV9PBag/Wn/KbEqpXUq57iofq5GHzyBQAVQ2pFAdDGNzqXnHuvB4JIoEi8Sp9yiPB9FQFr7VvKS3uHXQH3T7OH9UMPP3cY25BiGQCSpiIswJXdxY6x69sLF5MMOcXvLp0woD7D5fhkSDvLOP2Ga2qjy6FT1TvPaL1eBOGeDXXQRRru6l9qUZqzPUEPfRpfWrWm62LqtNhJY8NFa0/J/B2W49MCMwHRPGbWo=;OFHt6uZheDFNVUAWD1TKwA=="
+secured: "RE65+kr38yZsXYtunFj6QmhHGy9aJU9WJjwtvWqfWZPLaR7uVYtI6O5D7LUSy14a1wteWF0IQDP6N0kzFFT9FQ1itWQ6jDmDv2QsuT22O1ymlnigCKZ3npUfGs7If5X6vBE1tzZn7KL3ZwXCx2tCmnSuw61T+Ebucrrf8Kd/cNJLTThL3uwEpPtoGmzGSUJ3vOqT9bW+EXCVVNqNl5WlMMr2lfhkOoBMIb174bT69CFDgqAr5yVRKFxBaWJFZvVFcOqBXWMOeuV5gZYwS9uBP3AUaEqG/YkWuJAJkH6SasTUU+8uOZ549wr8SZQhj2GhbjxykHaC1lvpnYOXMw4yceDUl4NN8VrzORGm1IFgAPg=;JOsvV9eD1oweE09p/KhPaQ=="
 ---
 
