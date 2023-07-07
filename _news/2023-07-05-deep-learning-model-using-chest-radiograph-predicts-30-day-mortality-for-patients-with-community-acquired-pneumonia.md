@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Deep-learning chest radiograph model predicts community-acquired pneumonia mortality"
-    excerpt: "According to an accepted manuscript published in ARRS' own American Journal of Roentgenology (AJR), a deep learning-based model using initial chest radiographs predicted 30-day mortality"
-    publishedDateTime: 2023-07-03T04:00:00Z
-    webUrl: "https://medicaldialogues.in/mdtv/radiology/videos/deep-learning-chest-radiograph-model-predicts-community-acquired-pneumonia-mortality-113826"
-    ampWebUrl: "https://medicaldialogues.in/amp/mdtv/radiology/videos/deep-learning-chest-radiograph-model-predicts-community-acquired-pneumonia-mortality-113826"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/radiology/videos/deep-learning-chest-radiograph-model-predicts-community-acquired-pneumonia-mortality-113826"
+  - title: "Artificial intelligence better predicts death in pneumonia patients, study suggests"
+    excerpt: "Compared to the established CURB-65 risk-prediction tool, a deep-learning model had a higher specificity at the same sensitivity."
+    publishedDateTime: 2023-07-03T17:48:00Z
+    webUrl: "https://www.cidrap.umn.edu/pneumonia/artificial-intelligence-better-predicts-death-pneumonia-patients-study-suggests"
     type: article
     provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 37
+      name: cidrap.umn
+      domain: umn.edu
+    quality: 31
     images:
-      - url: "https://medicaldialogues.in/h-upload/2023/07/03/213395-deep-learning-chest-radiograph-model-predicts-community-acquired-pneumonia-mortality.jpg"
-        width: 1500
-        height: 900
-        isCached: true
-  - title: "Deep learning model could help identify high-risk patients with community-acquired pneumonia"
-    excerpt: "According to an accepted manuscript published in ARRS' own American Journal of Roentgenology (AJR), a deep learning-based model using initial chest radiographs predicted 30-day mortality in patients with community-acquired pneumonia (CAP),"
-    publishedDateTime: 2023-07-03T02:51:00Z
-    webUrl: "https://www.news-medical.net/news/20230630/Deep-learning-model-could-help-identify-high-risk-patients-with-community-acquired-pneumonia.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 28
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pneumonia-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://www.cidrap.umn.edu/themes/custom/cidrap_theme/images/cidrap-og-image.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "DYuRleRb/5sjaG+VL302msuK6JwYzrQuoCvytMu0jIrcvGBSNk6El4fcS767iAtf0Qrytof4droLqqvBtvvRH27GJij9BCq9Bxj2TdI2LITy+yklmVplTeYHgVkU8UnmqRa3GPD1n9006C6y+kCAUC2YxRBqZWZXUsCIz+XnVe+2uvz3ubmwH/0gkKgZLyQt9qFSgMHD9hSyPSIy5owy1FT5K6YCnym4Q/a4hiMM+lIUM6z65ByGDNTNj2uJ5Oz6WLl4/nSZos4RoVTaxOxKsBpeNHlCIALjjvUwokoNP4xuuUb9SxGB/V5/z0qcw7Vp/I4YWylhZiTRa/SavIThRwFzRTbe+2XN+UAVCsfgJ7aYdqlltW/TXj49cZu6ghmlaq5GjR7VcGBu1XcSE/qJtjI2ZXTQuWFJx9K+dy4qzpb43WQU2lJqDO7g4qsIYT2M7Yl9yybCATP861f3vZhvTM81932Sxvy0EGxyDu6DSQfOQHecFZSDXoJ/gAp5pjp/p2Nrc9zYbCbueY/YCFg8vA==;3TYxAhAMxzGpohwaXXmTiQ=="

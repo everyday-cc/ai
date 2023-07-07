@@ -53,6 +53,15 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
+    excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity"
+    publishedDateTime: 2023-07-07T19:26:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2023/07/08/chinese-firms-advance-in-ai-chips-amid-possible-looming-us-restrictions/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 34
 
 secured: "qd1CBzYQxeSV30ITbqmnyf9TRAEa0fK8ns+itGowzqUblsxrlwd3f23p6nqHSZIn75wtrbtE9NsSVzhKYGz0jRq1DmOyKiJE3oEZ4abp+kBERfJPJUPcKM4UciSaKu9230jgAPGt8b6RNgjmPweyoAkq67+ijSzmak5R2RdrlXRKtijdEvrIsdwqYyzx1cMetIyY6Arl3lQal+FoN9OdQFuZPNqq4TCQbOBLvb7Bh/+qMiMdHPZVUtio+ZUba2hbhIBh3uJupZ8sqDchkJKDAz1orCFAxig1gpr/B1rJbRJTDeJbMUev6MrQOmW+rXb3wqhknYxtbWtY2xU6qHlEruXusUs1WM+kwFDEc40ZUPHHRg99qb1jBjxO0LQwhdyDQMp3LDGv5vquzouB+W1Zc1UV2686nvPLZwWutEgAbXDeRmGxOYvw6/VeiYdsQ+jRI/r+qFGDhOHidMoQD+rAuDKm9R8bSjdSieIQh40tgXL5+eeXzDPJpBMnnEWtvOnABQsCk8d6YqneMLXxNHVSZg==;ORYGh37lPuZEAHHljKTFLw=="
 ---

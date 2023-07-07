@@ -183,6 +183,20 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "The potential healthcare privacy risks of ChatGPT"
+    excerpt: "Protect patient data or risk HIPAA violations and lawsuits — two health policy experts explain the risks of using ChatGPT and offer tips for healthcare organizations."
+    publishedDateTime: 2023-07-07T20:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/cybersecurity/the-potential-healthcare-privacy-risks-of-chatgpt.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "ChatGPT: Elevating Natural Language Processing With AI"
     excerpt: "Introduction With the advent of artificial intelligence (AI), several groundbreaking advancements have been made, and OpenAI’s ChatGPT stands testament to this fact. This cutting-edge language model is upending the field of natural language processing (NLP) with its superior text-generation capabilities."
     publishedDateTime: 2023-07-05T12:29:00Z

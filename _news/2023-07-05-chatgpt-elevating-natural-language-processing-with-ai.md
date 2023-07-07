@@ -178,6 +178,20 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "The potential healthcare privacy risks of ChatGPT"
+    excerpt: "Protect patient data or risk HIPAA violations and lawsuits — two health policy experts explain the risks of using ChatGPT and offer tips for healthcare organizations."
+    publishedDateTime: 2023-07-07T20:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/cybersecurity/the-potential-healthcare-privacy-risks-of-chatgpt.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "ChatGPT loses users for first time, shaking faith in AI revolution"
     excerpt: "OpenAI's chatbot has been heralded as spurring a revolution in the tech world. But its spectacular growth has suddenly slowed down."
     publishedDateTime: 2023-07-07T12:50:00Z

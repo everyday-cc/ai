@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/check-point-ai-in-cy
 webUrl: "https://www.eweek.com/artificial-intelligence/check-point-ai-in-cybersecurity/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.ft.com/partnercontent/images/cisco/1/hero.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "How to Safely Architect AI in Your Cybersecurity Programs"
+    excerpt: "Guardrails need to be set in place to ensure confidentiality of sensitive information, while still leveraging AI as a force multiplier for productivity."
+    publishedDateTime: 2023-07-07T21:38:00Z
+    webUrl: "https://www.darkreading.com/edge/how-to-safely-architect-ai-in-your-cybersecurity-programs"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7f54a4bb7b161028/64a8656f902db65e03619ad8/robotglass-claude_thibault-alamy.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AI to tackle cybersecurity: Rubrik and Microsoft deepen collaborations"
     excerpt: "Accelerating cyber recovery through generative AI and natural language processing (NLP) is the aim of a joint collaboration between zero-trust security vendor Rubrik, Microsoft and Azure OpenAI. This integration is hoped to offer a \"truly actionable use of AI\" to reduce the time required to investigate and determine responses to cyber events,"

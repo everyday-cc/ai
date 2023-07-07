@@ -37,7 +37,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
         width: 1200

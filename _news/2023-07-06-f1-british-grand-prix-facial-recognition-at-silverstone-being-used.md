@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,7 +59,16 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "F1 British Grand Prix to use facial recognition at Silverstone to prevent 'criminal activity'"
+    excerpt: "The race, taking place at the Silverstone Circuit on Sunday, will use the technology after last year's installment featured protestors occupying a high-speed part of the track."
+    publishedDateTime: 2023-07-07T18:44:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/07/07/Technology/formula-one-british-grand-prix-facial-recognition.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 8
 
-secured: "pAo5QwyfCztLo7wuu5ZQDbHwBrCRbAZfoNc7Bu5QN2orMgVD53239cRNPcrDfjDuZgQMvSTDEIQC2Q0cMb1tiEAz70SFE7ow10r9ZosrK4S72rK2bs9W8smQ6hgFDI1YXdzqhAKOjBbEuMwdh/ARodQKJWl4wRYFmDcGNNPQJiZmU4r+9r7e/yrUCWkuyQ0fcC1wQ6sBPRZB9KnWU99Nu32lLm/LEJtSmyctBX4yjCbLnd9uN7yGPbq89dgll3QvaubizEXIPVAgOw7xGNLKErxACUvJ3cYHCEhybZo+FdMzaPsjbqpY/UJpqiyukQTCw9UClKqF2x23hGyGgDBnoELITIeu8k4xndS73t1VaN8=;gVXeFlceeoWhJsT6WMVLCQ=="
+secured: "LjO5T1VzwyvqIIAFRteZtHErhGOg6rLUzhgELNWjfgIvWv02Kh01+eDGoJ2vSBXX2eW0/9nAbQj9AviEnpQxcNQHKRHNso1pe4+rlG/Jxs91C90c4lgMta/TezBIky4d4Q7WIiHkGLLF57V3Q4rdEVlSzstuvuoGGYDPzwKjf1xo2rlpSrDeIpRURIw4MDuJkHxQG4qQLtGgnYRB+8SNuR/QzGVt4tn0LsVfQLDd5IBZDrP6+T+YwBP9fRzwDcfIWU0LrDIkQxLqLFo8Weyf4Bthb0jkvM4puBRIlOy2hc8FEJmdPI48hRpyE2DQ0VjLWap0FCubH41qPkpr2zYsvDlVkn7bpz6nBKtUElciXl6nFM7rmFQXHN67YOJkzeumNlfCSWlbZki/9lBpeokNGQGLYhBDK/Qa4ceOnQcQQcu9xQI7BTE8roINMSldW/hRURU8kz4pBT1xkgrr3OnL6NnmqSL+qxUfEWzabtIy3Xam48lYi1S8Mj5z1ULgkum0iW+hUD2fHmUAHnNjL+4UtQ==;G0HOrt9wRcpqNGiMnFNxGA=="
 ---
 

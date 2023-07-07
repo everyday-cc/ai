@@ -74,6 +74,15 @@ related:
         width: 1144
         height: 600
         isCached: true
+  - title: "DigitalOcean Buys Cloud Startup Paperspace To ‘Expand’ AI, ML For SMBs, Startups"
+    excerpt: "DigitalOcean acquires cloud computing company Paperspace for $111 million to build new AI and machine learning products targeting SMBs and startup companies."
+    publishedDateTime: 2023-07-07T19:39:00Z
+    webUrl: "https://www.crn.com/news/cloud/digitalocean-buys-cloud-startup-paperspace-to-expand-ai-ml-for-smbs-startups"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 29
 
 secured: "l0wWSfksrGRRwlP9o9OD4+VkggcMKsUb2gDqgLYdjsYVf9SGzE5sHLn0416PYr1NmKbtJkXWhDDLHbxZYG+J77gFHT0L4KOaiaFuhOMEANiXOqpWu+mR1A0H7Q00tHzE/Jug+Xl+ViWKtIsUZbqS01kQcNDkdAMrN5CDSMRAk/QKPYOCNCEiraB4M32N2t4NXhr7Efpa8i/gxUIqkgQfGjecmPx3f663fevCkvJxa+Jb7f2ruOdKGlZHXU314E1AhI/0t93PoMpXPYW8mI9FOE4udebvHUKkTXjHg1jSp+Pd9aSuaN9vrjTPwKndSOzayD7bUDflRKHX6AnCdfrof8i74QODZrreP9MOnCssroQMUGK9xUOXrcAnTyhtqXeoJXCH/JP7Duq/5rBH3g0PyIT8WqDClAYeNw1N8W4klNzP6zoqFWDJw6iQ41LOPmXPfSpf7QhBTBULPFmwr0K0+fVQCCX/lAAIoDRBKcZDluc9zqaAgi2kB41wzSXh9ua/nNVU3CTCWXiHfn+OlteLOw==;PgSRrv5VQfumrCDRwJLx1w=="
 ---

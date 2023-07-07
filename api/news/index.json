@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-08-this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams.md",
+      "title": "This Week In Credit Card News: PayPal Launches Tap-To-Pay For Business; AI Tool Tackles Payment Scams",
+      "excerpt": "PayPal has announced the introduction of Tap to Pay technology for Venmo and PayPal Zettle businesses in the United States. Small businesses can now accept contactless payments—including cards and digital wallets—directly on their mobile devices without the need for additional hardware or upfront costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/",
+      "originalUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a868f7050ca7013b91cf1d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/amp/",
+      "publishedDateTime": "2023-07-07T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-ai-ethics-in-the-age-of-chatgpt-what-businesses-need-to-know.md",
       "title": "AI Ethics In The Age Of ChatGPT - What Businesses Need To Know",
       "excerpt": "Photo: Arne Dedert/dpa (Photo by Arne Dedert/picture alliance via Getty Images) AI Ethics was a complicated topic even before ChatGPT (and other Large Language Models - LLMs) and Generative AI burst onto the scene. In this article - we cover how LLMs and ...",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -62,7 +113,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -102,7 +153,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -154,6 +206,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-ethical-governance-of-ai-urged-at-waic.md",
+      "title": "Ethical governance of AI urged at WAIC",
+      "excerpt": "And, on Friday, the Science and Technology Ethics Research Center of the CAICT, a research institute under the MIIT, issued “Self-regulatory Convention on Generative Artificial Intelligence Ethics (Draft Comments)” at the WAIC. “We hope more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202307/07/WS64a82a97a310bf8a75d6df30.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202307/07/WS64a82a97a310bf8a75d6df30.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202307/07/64a82a97a310bf8a1d23a92f.jpeg",
+          "width": 608,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -218,7 +313,7 @@
       "originalUrl": "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -356,6 +451,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-07-world-artificial-intelligence-conference-kicks-off-with-five-highlights-creating-a-global-ai-event.md",
+      "title": "World Artificial Intelligence Conference Kicks Off with Five Highlights, Creating a Global AI Event",
+      "excerpt": "On July 6, 2023, the World Artificial Intelligence Conference (WAIC2023) with the theme \"Intelligent Connectivity, Generating Future\" was held in Shanghai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33148783/world-artificial-intelligence-conference-kicks-off-with-five-highlights-creating-a-global-ai-event",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33148783/world-artificial-intelligence-conference-kicks-off-with-five-highlights-creating-a-global-ai-event",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33148783",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33148783",
+      "publishedDateTime": "2023-07-07T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-ai-in-healthcare-and-other-scary-stories.md",
       "title": "AI In Healthcare And Other Scary Stories",
       "excerpt": "No greater buzzword exists than Artificial Intelligence (AI) to make a story headline flash. In healthcare, stories about AI being used to discover new drugs and faster, more accurate medical diagnoses are guaranteed clickbait. These goals may be the stuff ...",
@@ -364,7 +502,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1067,153 +1205,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-what-happens-if-a-superintelligent-ai-goes-rogue-openai-doesnt-want-to-find-out.md",
-      "title": "What happens if a superintelligent AI goes rogue? OpenAI doesn't want to find out",
-      "excerpt": "OpenAI is warning that a super-smart AI could 'lead to the disempowerment of humanity or even human extinction.' So it's building a team to stop it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/",
-      "originalUrl": "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a27bcb6ac15e312d7b316c9880953a5713305bfc/2023/07/06/f56b62d2-b51c-454e-b950-3948506ffda0/gettyimages-1499492092.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/",
-      "publishedDateTime": "2023-07-06T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai.md",
-      "title": "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI",
-      "excerpt": "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e",
-      "originalUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1068567945374523030379734546671221318998---1.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e",
-      "publishedDateTime": "2023-07-06T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-generative-ais-secret-sauce-data-scraping-comes-under-attack.md",
-      "title": "Generative AI’s secret sauce — data scraping— comes under attack",
-      "excerpt": "Data scraping of the internet for massive amounts of data could be described as generative AI's secret sauce. Experts say the current blowback is unsurprising.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-06T120228.476.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Ethics"
       ]
     }
   ],

@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg"

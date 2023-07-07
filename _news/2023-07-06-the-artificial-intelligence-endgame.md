@@ -80,6 +80,15 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
+    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
+    publishedDateTime: 2023-07-07T19:44:00Z
+    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
 
 secured: "Dbzm61MOZCAgCU/K2zEq0ebRFA9dO7L0+Ff0CEnoNcXhWe1UHMvbCQ1yMLcv6kRR7PHGwfads5zEe4WOW8IW0pUxutWcHtrJadKotLgucAHkgPtAXKSYMVPQf/m35JkwFS6j+EnrU396JFEtpjt5c/WArw1hDrZlvuxOTUwd0Y4U0WUrX53OYBzwFB3M4Eaaz49f93SkFYxtVpucWXxj9YRppV8sTP52+WU9YaCFlNezCZPinRy2a1VjsPtHX3rH2UsDFPh/SlDi4OLaSicJm64iymQPeby3mUMatqUZdNCiPSNJ34G+Aa2roTp338SvULvlmk0ygZzKGDnYdsKJeuso/3hI1gnKdUP1q1ZJ0N8=;QPrgCwwDhn8mh3OY3qst4A=="
 ---

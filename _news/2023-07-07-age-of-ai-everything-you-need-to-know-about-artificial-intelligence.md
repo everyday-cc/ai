@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know
 ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
-quality: 104
-heat: 204
+quality: 106
+heat: 206
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
@@ -158,6 +159,6 @@ related:
       domain: inc.com
     quality: 17
 
-secured: "QjaaJXu7g/tayttWcPSTODnx/P22hWPh4JH9fiKS5GYA+qmoDRySkGwHtXXVR2phLWaMtEGJNL/qIFhP3NrrSViiPtRlwDtcMqAxPY7yTfzxeQlzw2tXi6GY/ua3LYOs1+TUKZElgmiifZmjzGejcTKoJxLkBrCBe+1FL5HRs4emRcs0psgpCJSQIuIGNQUqjPMn2xh4ezzudDH1WCC+OkqpKcY8UNRSGaCLJkWoO8Ou1tc1A/lyVLskrlKpBF4AfFaEAy8chAwMilH9p2bUJeTMfElJeqXAVD2wJwvUICSsJpWojsivuyvPLzK7l9yl+HKiPxv4KAm7COfgmqvhALSQWHkkW378LEtmwGOKgaw=;F09gGrFUXjcgGvH8EQfuGg=="
+secured: "U1ApAca/dTQCozMhRDhuxrcI6Mp/tw1OUzipNN6rPjzCmb6AsL7k51QBIss6ETrk6R/eLtWT5Q7FFxkqyEv7NmU84leFor00G1ja92xbxoJ9xkTLZb+QgBAw9Dx67nJqqk639eXSNuzQSUokbo81x7iKxYiI2Z1IaE54elUxhmTSkSmjlQvN/9C5ztWZqLafjHbMhHsd7qIKljAylQi+wVhviQSEK0bDE3n750ryF3pjSckFLa0/Vu02adxfBI2wGMi83hhiPCtKdUQBUILEdwQPoSectWG/EZUO1T2f/K9R35crziSgQBHJwEU1KznRsWNjeGr7ICwZ4bN9dHrUHkQ905WIxVcFVb/v78OckhozLYIS4+NYS8ORHWWSQuak08PKOAJuxaluUHGNQf784yY/F0lwIdWBmVk5T/UguTMv/Ba3DkBAFhtjPQ0s5bzP7tyUapup7RzbR5ysEiNAemCXpvb7MYSRK9BGpaOC1nzJmkhDrfmzVPMTA1obBgGQ4tuuk3IYIau8JFk8McI/Qw==;RdXLsVdWcSG9zkJcA6UfOQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-c
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 3000
     height: 1688
     isCached: true
+
+related:
+  - title: "AI forecasts could help us plan for a world with more extreme weather"
+    excerpt: "A new wave of AI models can forecast either worldwide events or local precipitation, but have some limits compared with traditional systems."
+    publishedDateTime: 2023-07-07T18:00:00Z
+    webUrl: "https://www.popsci.com/environment/ai-weather-prediction-accuracy/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "S3HCcbrpLhRdHJdsWoRxFS6bK3fo8BVx8LtogWNdDngLADf1VAwoApPP0sZtyqfZJin3O7jWn73Mrtlc5z4kc5ph9Z3QfH9XcEzhQ7ZLLZp6T91vklK7p86JJfEep2Dw/nz9sTGSStPhpQqihPJfG68Nz/fHtP27QOVhkGNCOjbB8iuBaRaeLKP0bEkjUoul7Ac26IzUV7gvNWe2lsKrfdJQbcX873u3xj07eaoFsEihJM2KjofeIJ7UK1+zOyClAgxV1MlP4TXpyXWQ6Wn1iMB5zsOZ4LRqp8LVXKrvsPi4WrVaOX4PcUVBDIj6lu5EcfbPb9ZeV4YY9HSE0OKfwjdbG15scuRY0fVR8ZbbxY46577h+j/7pEpBMlCG0Jyrwe5PDEyVlQw2+wnV4NNj214pIuwdnTjh8I3lX9/8p4E9eIYZ+yJfPVOjJqgKPiCFKSZGIZqdrbH8d+m5cJ7j9iYRUtKCxQY7AHThRuThRaIzi+j4cwlTjy3abCRoTCRnhDLcrzrlczDB+GLFSWDIPQ==;qUmx7s1pugRODMZ2eq6emA=="
 ---

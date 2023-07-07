@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "AWS Exec: Generative AI can create a flywheel effect for business growth"
+    excerpt: "Matt Wood of AWS shares insights with VentureBeat on how generative AI can create a flywheel effect for business growth."
+    publishedDateTime: 2023-07-07T20:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_Color_photo_of_a_server_room_filled_with_racks_of_se_2607795c-93c9-486d-8345-65765efe0615.png?w=1200&strip=all"
+        width: 1059
+        height: 706
+        isCached: true
   - title: "3 Ways Generative AI Can Drive Operational Excellence"
     excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
     publishedDateTime: 2023-07-07T15:39:00Z

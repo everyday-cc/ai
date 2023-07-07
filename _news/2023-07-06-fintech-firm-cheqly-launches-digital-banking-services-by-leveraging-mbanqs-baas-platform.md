@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 1217
         isCached: true
-  - title: "How fintech revolutionised the broking industry"
-    excerpt: "Digital stock broking platforms are leveraging algorithms to deliver relevant content with targeted marketing to reach out to younger audiences and get them started to invest in the market."
-    publishedDateTime: 2023-07-03T03:30:00Z
-    webUrl: "https://yourstory.com/2023/07/how-fintech-revolutionised-the-broking-industry"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 24
-    images:
-      - url: "https://images.yourstory.com/cs/1/4e3ddc80d8fb11eb80d70bdc06fbfe07/HowtoOpenDematAccountwithKotakSecurities-TradeFREEPlan-1624986035827.jpg?fm=png&auto=format"
-        width: 600
-        height: 380
-        isCached: true
 
 secured: "vm6XGPjJvbQlMdLTqTE723+D8rLsHM6R24W2mn8P0Xcxb/L0tixuQRdKAVWuphK+rMcgpFCjSc9fnZM7FvYP8KIO0svZWeFQmAW1cOF5aBjfJe3jH0HjxZ18fwwv8GgGtEYCsu0Kfu169NpvXuuNAXcnTa30TBesWzv99zLCJp7jfMJxwdJrTspWIqVcQOPOHqkvDuWPiDDrtscOYkjXbMyuWiztNT2j5dHLAdN5QIGtdVBl/7pnPI8Ul38WNTe95CUFe+U+DB8Gvm++Di6u8hc31lMmaGtrnDwSJPrBCIXjBF2VbMgTQtyDioEr8QXJz54vhm+jraRqJ0YyaUIQUdQF2B9U2o4rARWRTIaR1mmA/2Ct/0xvZtEkAkcKP3Kfm6gk2yOTEwuOwKg8ajikM+EZRVh8jiLnYL7pMrXAO6KIfaRKBrYq6oSEjuwCd17xoDvD69LP2r8NENIgr/vJtjk7Kz1mGcWQLeoo6Pr9q6EQE02TJrsy2Zu36Agxsxo2V70kprDaFhAfZz2UtKY1Pg==;l6yWSt46ZazikBV9ewjNEA=="
 ---

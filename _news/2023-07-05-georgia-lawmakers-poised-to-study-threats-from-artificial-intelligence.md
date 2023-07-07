@@ -25,20 +25,6 @@ images:
 
 related:
   - title: "Georgia lawmakers poised to study real and imagined threats from artificial intelligence"
-    excerpt: "Georgia lawmakers are attempting to understand what artificial intelligence could mean for resident's jobs and safety."
-    publishedDateTime: 2023-07-03T05:01:00Z
-    webUrl: "https://georgiarecorder.com/2023/07/03/georgia-lawmakers-poised-to-study-real-and-imagined-threats-from-artificial-intelligence/"
-    type: article
-    provider:
-      name: Georgia Recorder
-      domain: georgiarecorder.com
-    quality: 28
-    images:
-      - url: "https://georgiarecorder.com/wp-content/uploads/2023/06/Computer-chip-Getty-Images.jpeg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Georgia lawmakers poised to study real and imagined threats from artificial intelligence"
     excerpt: "Like many Georgians, Woodstock Republican state Rep. Brad Thomas has taken the opportunity to spend some time with ChatGPT, the popular AI-powered chatbot that has become the face of an […]"
     publishedDateTime: 2023-07-05T13:36:00Z
     webUrl: "https://www.wabe.org/georgia-lawmakers-poised-to-study-real-and-imagined-threats-from-artificial-intelligence/"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -174,6 +174,20 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "The potential healthcare privacy risks of ChatGPT"
+    excerpt: "Protect patient data or risk HIPAA violations and lawsuits — two health policy experts explain the risks of using ChatGPT and offer tips for healthcare organizations."
+    publishedDateTime: 2023-07-07T20:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/cybersecurity/the-potential-healthcare-privacy-risks-of-chatgpt.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "ChatGPT loses users for first time, shaking faith in AI revolution"
     excerpt: "OpenAI's chatbot has been heralded as spurring a revolution in the tech world. But its spectacular growth has suddenly slowed down."
     publishedDateTime: 2023-07-07T12:50:00Z
@@ -235,6 +249,6 @@ related:
         height: 228
         isCached: true
 
-secured: "UujVFiVpsviy/kmoxbBEJE1u/peFvClAE7fKs82rFzo3ZcRr6X/4ZoR1UMiZ/uvX3AnJbYtnCgN1zPvSo4b9ZXuyvzvIOE4xuC0mrU+F49Re7qkFTbihbwkzCZUuMWQUCIXwJ2wLywvnr+4RNryYz4IzhlscGmp90TqMOoRrM0ne5yGLD3RLV1fI6yMSgjaRwu+8xnqgIN+I/Sir7z6hnG8NKYQD7xLbkBvRMTq4IM6ttwXlAhAtluRiA6NLxWI319uJU1NAaBSY2efGNbEhBq+uFjBF+hsaVrrv/IVeTfsC6OwvFq4pr1A9yXJ439GiIq+I2JezVOY5QdDe9T8TrhAbEBI0Id4GvOB9upPf5P8=;D193EkYgcnlTrQVzT3sHIg=="
+secured: "9F0Cz5yReT94/tCEf7MIBUm9bmvlGp1KFjPLm5LwuIuQIKAe7qenqex7bt/VT8+9n2oa3fntot/v9afKdJZixXHNAhnCgBnGtWA5x3XpHmuU1WZwCPjUgIMAqErN8vjrTujHs+wnxnk6dya59vnknn+Qd4KA4Tzm8hPq6D/QcOpHmwiwRF0vHaep70H22nGVPwTHYact3FLVV4KL4zamPIk0t3FCA5Xd2RmSo/SYsczL+fJisbOMzAtf+g8gHzuqqrUbTUsdwnIagILVv+qh9WCzvsWyPL/zgc7bSxlZkGgN4GUtVqJPvdjohKUA7pz9czJpyj1QLNOHTI2W/xLqJuOeoNmh5r45TWjCyS6wnuglEUxEAVGSIAadppZyycghBdzMADPgqLH5BgjDYjezB4zw9Kld7bEe0Sf1MP4lBSN1Q37Ph2x3rmNf9VAIBK9OWVqc0E5ehNQWdJlHl7dVTb5hbc18h/OLjOYpR9BHI3uRnHkzPnQ363FPORg3fDS6oWaSyaquTOv9TrQJUv/41Q==;cRBLGNKEdPu01KyZnGDKKQ=="
 ---
 

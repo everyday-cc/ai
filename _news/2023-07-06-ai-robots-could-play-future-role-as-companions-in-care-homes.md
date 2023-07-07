@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-rol
 webUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
     quality: 70
     images:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/04_02_2023_12_15_10_8349154.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Odd News Roundup: AI robots could play future role as companions in care homes"
+    excerpt: "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it."
+    publishedDateTime: 2023-07-07T21:07:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2515634-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2515634-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2515634-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 70
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_06_2023_15_04_38_5263051.jpg?width=1280"
         width: 1280
         height: 720
         isCached: true

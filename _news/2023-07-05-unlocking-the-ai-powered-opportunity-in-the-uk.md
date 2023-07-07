@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/"
 type: article
 quality: 109
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
+    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
+    publishedDateTime: 2023-07-07T19:44:00Z
+    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
 
 secured: "Ws5J3dlbMuohrDratTtF1MTC5W8ycd5vZRV4/8HdQbU7ZwInMkTTNvB7SSpoCTuk6sDXWl+Dm9TPoHHBOz8jKl7zqh5QYxJC8gfijm8BKwdVKPlqwFkxfKtk1sbbjntuMGNh1CJUEj9sm+2NvS/XcaTb7OdGKcPOwKbg+N/q45mXCvlAOJFmRBxvFp4Ur855t5rfx6u96Pn5GKxQkce1YDdehfUht1+33MnpnAw/vp3dNlBSyqx1mD8vWEHmbbaQNJCqbWxs9pMgly5Pv69AdIkvojP5+5wLsvaYjiBs+v34Myzu4mA5y0e/CrsBpCBvSQ+/w+Vro1qShQWzt+Ceybco/peZWGAwaK2//Lr/x80=;6FQCdR+ieQ6ExEYIaMOUqA=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Georgia lawmakers poised to study real and imagined threats from artificial intelligence"
-    excerpt: "Georgia lawmakers are attempting to understand what artificial intelligence could mean for resident's jobs and safety."
-    publishedDateTime: 2023-07-03T05:01:00Z
-    webUrl: "https://georgiarecorder.com/2023/07/03/georgia-lawmakers-poised-to-study-real-and-imagined-threats-from-artificial-intelligence/"
-    type: article
-    provider:
-      name: Georgia Recorder
-      domain: georgiarecorder.com
-    quality: 28
-    images:
-      - url: "https://georgiarecorder.com/wp-content/uploads/2023/06/Computer-chip-Getty-Images.jpeg"
-        width: 2121
-        height: 1414
-        isCached: true
 
 secured: "XnizKhBYIKj3pNOxwgF8l3loyLnhpUq+swfkzI1t3TLD52HzVl74t62j2yOYmDFfGdugS1BreJL/iiwoB7xLo4nnoW9ebuYkKHbM96kLLYQ4mtLFfkWtDgpndgxY8hVMTuudi9uXZyJt8k9QHM2o36rXbfd5PERm6kRZBEZLvruWfHsMNUed/5uWlZkqKuFHgSE6IcTFNEHbcN5LSBuAOOHRJ7/rQorhOVnlzegpvftjr44n/WDnafPFUBP0WWN3De7B8DgBESOf/VKvhb6HQFO+fkSfQQA+3gpzsWgesDtx9SwJnD0xrCnCOen2RArSwLEwSbnC50RJoPqQwhrN8c4E8yRuAWAsxguIWnfu52zU8SExcIb+NUEhta6h7JkH1P/vsfrm7dPNhx93KpBxWnq5RFysk0eEVl+NcxMx5pSOkIgXbH8IQfboQqdxE40PQNSY5TFUSK4yQrm9TE6V1DOkfqz1CmrEXKbu35dn2SR60gaitZQvQBZgHjXF3l7vxE/3cT+ZfSoKtTxkRJ1rmw==;yQ29KQO7YJcfiJp8xrhkrA=="
 ---

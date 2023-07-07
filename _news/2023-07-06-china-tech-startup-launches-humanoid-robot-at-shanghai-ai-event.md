@@ -7,7 +7,7 @@ originalUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da
 webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "World AI talks start"
-    excerpt: "The 2023 World Artificial Intelligence Conference (WAIC) commenced in Shanghai yesterday under the theme “Intelligent Connectivity: Generating the Future.” Scheduled to run until tomorrow, the conference comprises four key sections: conference and forum,"
-    publishedDateTime: 2023-07-06T22:46:00Z
-    webUrl: "https://www.herald.co.zw/world-ai-talks-start/"
-    type: article
-    provider:
-      name: The Herald-Zimbabwe
-      domain: herald.co.zw
-    quality: 39
-    images:
-      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2020/02/20180626210156-GettyImages-917581126.jpg"
-        width: 680
-        height: 380
-        isCached: true
   - title: "Amid industry boom, dozens of AI products debut at Shanghai AI conference"
     excerpt: "SHANGHAI, July 7 (Xinhua) -- With China's artificial intelligence (AI) boom, dozens of related products are making their global debut at the World Artificial Intelligence Conference (WAIC) 2023 in Shanghai."
     publishedDateTime: 2023-07-07T12:32:00Z
@@ -63,7 +49,7 @@ related:
       domain: bignewsnetwork.com
     quality: 38
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1688615705639.jpg"
+      - url: "https://cdn.bignewsnetwork.com/cus1688700966358.jpg"
         width: 630
         height: 420
         isCached: true

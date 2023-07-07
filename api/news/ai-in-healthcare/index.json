@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -333,6 +333,41 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-artificial-intelligence-market-worth-13452-billion-by-2030-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
         "AI in Healthcare"
       ]
@@ -1317,40 +1352,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-nuwellis-davita-partner-on-ultrafiltration-therapy-pilot-program.md",
-      "title": "Nuwellis, DaVita partner on ultrafiltration therapy pilot program",
-      "excerpt": "Nuwellis (Nasdaq:NUWE) announced today that it entered into a supply and collaboration agreement with DaVita (NYSE:DVA). The agreement enables Nuwellis — formerly CHF Solutions — to pilot its Aquadex ultrafiltration therapy within selected U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.massdevice.com/nuwellis-davita-partner-ultrafiltration-therapy-pilot/",
-      "originalUrl": "https://www.massdevice.com/nuwellis-davita-partner-ultrafiltration-therapy-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassDevice",
-        "domain": "massdevice.com",
         "images": null,
         "publishers": null,
         "authors": null

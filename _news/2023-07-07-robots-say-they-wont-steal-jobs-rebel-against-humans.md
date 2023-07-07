@@ -50,6 +50,15 @@ related:
       name: KSAT
       domain: ksat.com
     quality: 24
+  - title: "Robots in world's first AI press conference say they won't steal jobs or rebel against humans"
+    excerpt: "In the world's first robot-human conference in Geneva, robots say they expect to increase in number, help solve global problems, and will not steal humans jobs or rebel."
+    publishedDateTime: 2023-07-07T19:50:00Z
+    webUrl: "https://www.abc.net.au/news/2023-07-08/robots-say-they-wont-steal-jobs-rebel-against-humans/102578292"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 23
 
 secured: "BtDI47Uh4Mpga5paPelV3ej2OKq88k2bMIYwBufCWgYcJdw1NMobvWxtwqYogpmMf5OuaerS4Cuanup3MX5tEmmODjj2SjCMp7Nl51aSCcnMY96ekmPnUmCu2f55cEmY65vCqnIxOxbSCEOJVxZMX6ummgQzKdUmiGMZesgwSCzn7jVDPB5lskH1MjwH9KzQVP6J/fXjetb5zGjVFbT/jFcFswP+ZQHAqs46vYojcxpA+yGnmSMOha6Is2LMhQfVCxwKrcZCMecP5YTvowXtyfYveDguj3vJNRyrQ2z2p3iKwSK0zkbshrLXFni0zUIfoYaEo1rzzL6vaT2io6ahg4tv2TLOX3ZDzZbnmMreLsY=;T1iICppYcj5LUJZRvqYvSQ=="
 ---

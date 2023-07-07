@@ -1,10 +1,12 @@
 ---
 category: news
 title: "How artificial intelligence will help, or hinder, your workforce"
-excerpt: "AI tools can boost productivity, but business owners also should be mindful of certain risks."
+excerpt: "He already has asked staff to come up with low-risk ways AI tools and technology can be used at the firm. That doesn’t, however, mean throwing caution to the wind. “We are in the infancy of this, and with all new emerging technologies,"
 publishedDateTime: 2023-06-26T17:37:00Z
-originalUrl: "https://www.bizjournals.com/baltimore/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html"
-webUrl: "https://www.bizjournals.com/baltimore/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html"
+originalUrl: "https://www.bizjournals.com/newyork/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html"
+webUrl: "https://www.bizjournals.com/newyork/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html"
+ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.amp.html"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "tJJ8J8yivPcL7O5m44b9GxOF2NGugFZvS5ECu5AyXhy153ub7EJhGlJO+Yt6DXZO3SVeursN7W+6WEGm+qLkoHARCsO/+laDyIrvy97mL4ilEIw2hnPzLgl3rQ2ApC9VhMsxe7xj2BQpoAbwB/XSpmGQlyu9R7t8CV3Z7t4RP0IwyhxYmqB87NHIgCXSu/cCtF6WsYj4hFaWnNOIJsShuYNo19cpnrlziK8LY5Vt2Hh2Pk9soy0eK1q1qtdJwQyUS51D8EcmcXU5nzEMp7SXllgR6UzP6OecwcjoJIFIhSaaYPtyVpL3EuYvn4nDTxRR0HzJF3vpJLF6GiX0jr5z7t1BB18YSu7fj9uwvTQ6ADJlYNp9LNtHSptw/Hhkut0hmwrHInNO05flZalmJGpIBccC25O0Wghh/Ni4TUy2fPJTcSjJxebF1VNlKTkM+sM4mf2SVXhtfpartuOR56bYHhbtc38e4bm8/VyKaYX4eo06qDw1jazPJ+jmDIngH5VE9ZYXOG+8pnSZ3xG+Fad3Dw==;fq6RTIvBhe8c/QtJL62tqg=="
+secured: "UcIps3pgcCVu1LCRUi2fyVc86YLDNGW7IalxA4BnDxKksnDgfPZz+cJeppqqpdv6JVEg7UcNF5LF3x7PH2JQxg++FhzAABHZsOIpMmOKKUM+WEApJJZU813jF5SHBPnXcyRsBmmiFzzSuYYUONXp/bvCgKH0GPY+gBfcEm0PDpKUFym3GI+NKp2TvQlTMjIRZY87YESUac95KDQ5L2oKpn7lsSGCeIK8wroFE2t/c8gZIM2l3hFR20GDp893JkF4rI9IaPETnUCt3rMPQ5Gq4ARWzpH2Y5pQiNVPe9JlEVY+kBLwW5Kfog+z8H9ubCiWu5PIs4C142+/WJCZG9x42E4JKlCDFJGuQqf+zMBX3bJLNl7lHOR9DdjXt6nFWQ/AcV6k/0oAXks0B7pepbUoLTkcUqmQeL8brZ2E+xy1TVeJcnVutbd3sGori6qfgdcAdRzLSqBDG2Xtva79xNimTEbIyAb9MuOa3Tfpj27HkecmK7Aai1AL1x1xpNAQRTP4W5VerBTfljUeqpKfEPgKDg==;i0cz6NlKr/LZEYDA3di4WA=="
 ---
 

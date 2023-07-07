@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1688615705639.jpg"
+  - url: "https://cdn.bignewsnetwork.com/cus1688700966358.jpg"
     width: 630
     height: 420
     isCached: true
@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "World AI talks start"
-    excerpt: "The 2023 World Artificial Intelligence Conference (WAIC) commenced in Shanghai yesterday under the theme “Intelligent Connectivity: Generating the Future.” Scheduled to run until tomorrow, the conference comprises four key sections: conference and forum,"
-    publishedDateTime: 2023-07-06T22:46:00Z
-    webUrl: "https://www.herald.co.zw/world-ai-talks-start/"
-    type: article
-    provider:
-      name: The Herald-Zimbabwe
-      domain: herald.co.zw
-    quality: 39
-    images:
-      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2020/02/20180626210156-GettyImages-917581126.jpg"
-        width: 680
-        height: 380
-        isCached: true
   - title: "Mount Sinai launches Center for Ophthalmic Artificial Intelligence and Human Health"
     excerpt: "First-of-its-kind initiative aims to transform patient care with more timely diagnosis of eye disease and innovative risk assessment of systemic health conditions"
     publishedDateTime: 2023-07-05T00:01:00Z
@@ -86,6 +72,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "BA++RyQjLUuLzVSJXEyLLmnKnjVrnId8joUxGzXjgRQDmL/L5sBxZlsU/0NS7GHQluycaKklWMUaHb62l/7JKWRIVyKYZWg1CAp1iLc0BJGWeAqVI/7Q/F5xj390GidRsfU7ZSW54RKXGlgZb5gdKTG2E1ZL8/zh4XsA8CyuVt3htzSVIPQ33JV8+J5gj4BqyjJ9lEZju/e8W3ZgyhoQngZBpUKSWj7GYSFTIJYpBg0TExYu9qKld+XXgIXGG49zcZPXGoSkZkkJpRbFX77qoRO7XYffrd1gt6g6+LlXLrTY5hd9T9hr3sr3mkrO8m3RXCxbdp3/Eh+CvTA+X1zwRxIm37cpRGNmtpB30WkqAgo=;9bEuVvkwnz4EVECbEgGhGg=="
+secured: "X6oISQJT+++oqQ3rl5eNCuvddyaWPFaZOa63phdn/W9Uq9+gsgc78ZStXnmfIqz3hVLbUoPW0ZO1v7YL32oc1ztPcKHg21Z4qKPxFX9o7qeG1GJ+E8szVZRsQx+9EM+OuCOMik7pmbHP9Rot1f82FITAvEs/sETcZivTO0crfFUe/HEwdKAB9+3ksgxMrgLXPVPRnr5Bho0CSRUg+GaDuva1dhEnD0WrrhS/0XjL1+ljlhXDRJQHn3Uwq2pG7nfIB67X59zRr7qhBoE/f/w+W6MchvhqejO/V3ml9rPLiScUb3DlXYaEVabcQBTNiiokDFPfT1WSPFX4fURytpD+ikf72bUpBL0D7IWE/l2rEqU=;ZP3Fj0k58nGJKfQeXY0DnQ=="
 ---
 

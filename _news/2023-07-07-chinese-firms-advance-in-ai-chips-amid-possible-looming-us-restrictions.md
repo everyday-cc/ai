@@ -50,6 +50,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
+    excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity"
+    publishedDateTime: 2023-07-07T19:26:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2023/07/08/chinese-firms-advance-in-ai-chips-amid-possible-looming-us-restrictions/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 34
 
 secured: "L/c7vLYFqi0gIG7Wsmw7IxKsL9GNBE1wVfEptRMf0VoQuaYYptF6hv4P75zUJFULxdwf3kIhuX4fmSfmkmdLX/znC2vJSRtd39iE5ssxxgtHdnL89RKAP2RvKw7gQm5/z9GX6iLpSd5VJ8wPURhhWxC7P3PiKjR7pXMHznHIBt9KWLf19NT0KSOjuuTWDJnuyDmevLEPnOvkPK4xIbI4IEcBaET+LgrkDGxX7SVSXrKsMV0itDEwhEZJLxQ4M9Lp1EQ13OcVy/1Uzbfk5NoQGki7wqkZE5gY5tbgZ3L5XVI0TXyNpHHF51SYLW/Z5ahGoHjGURqkPhaSccPEWu797D62lCk/bp5gzalF5XxQxJNnd5lJyygxJO25Ye9hOt1Suh/DWvKS5bWxlzNDe3y/5EJRRQlcrSf+o51zpL7GWOE14ndC/NMSIHuOZt6P3wmXLtklG19YFGCCH3Dar7046nIfNxHialOkN21DOPZALZZLpMpJdRtU8rolm9XuJ1R+UJ5wBdv55wQ+6442Uo9ylw==;cF533jZ7VI28b8eOMziZiA=="
 ---

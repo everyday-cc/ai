@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind alum wants to use AI to speed the development of green materials"
-    excerpt: "For the same idea to work in chemistry, an AI system would need to predict how a new molecule would behave, not just in a lab but in the real world."
-    publishedDateTime: 2023-07-03T02:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials"
+  - title: "The rise of AI and deepfake: My personal reflections"
+    excerpt: "As a technology enthusiast, I have always been fascinated by the potential of artificial intelligence (AI) to transform our lives for the better. AI has enabled many breakthroughs in various fields, such as medicine,"
+    publishedDateTime: 2023-07-04T13:33:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/The-rise-of-AI-and-deepfake-My-personal-reflections-1797593"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 53
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/02/2155848.JPG"
-        width: 1240
-        height: 826
-        isCached: true
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 19
 
 secured: "JRbUCBdzymw9x+dHPoinM946B3ofIqhAsBWE2VUSUgzjYbZfgYU/MJqeHBBwDi72tWXP10mCf+aqg9cdSb1DvFHn36jQ9xF+O9w5aBePCm0SByvY8w9e/bZudmB0SjWjvYL42eMIq/y68Clp5Pen06Cqx9/fvHjyAfMEbkivkGY0dQaF+dxWz0Mj8OC8WIgvMahnGxSBYeqiC6ttMRCn0WLwhK01+f/x9SOVt0RJtq/BaK5LZkHuLHlUav+Kio5dsqMuqs9y4U3eoQteoMwruFrTXifWqdRfNBaH7C5E9g3uLVUnDnMmjM0WxjrNTIS7GJJZR1Gu9fizpEU2u2xdA6PLK2txo/CGB/C7yArL6plvDH2zGjrozTq6wnIvg40ghcfYO92Wxxu6jgGs7pTKSNbX+SVTrDhg5P8ZgKUUqRaFtQvm3G/9+I5VvLx65jD/T8Q4lfkode2tVG2OeLQVP7Wx8NRhmLxf6spkTfC/eqaDQc/ZnAYyj4j1HYq03fFU8aO3jg1OOJnEtoOQ7PxoRA==;+Veiv5TAMNdNYsCzpn7kJA=="
 ---

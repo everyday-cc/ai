@@ -55,6 +55,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "F1 British Grand Prix to use facial recognition at Silverstone to prevent 'criminal activity'"
+    excerpt: "The race, taking place at the Silverstone Circuit on Sunday, will use the technology after last year's installment featured protestors occupying a high-speed part of the track."
+    publishedDateTime: 2023-07-07T18:44:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/07/07/Technology/formula-one-british-grand-prix-facial-recognition.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 8
 
 secured: "PWD/PJa7d6k7/5sVm9A1kh2nTc3rUblup/rPh7ufCzqb+WJ5cIzjfu9/3JJJFScdUYYwpUF7PNLarEPsZOALwtwokhEw+9YP5iBH0sPX1edWw4hCkKYMMD2SQbaGQxQoHEOXJfl1xpvEPwSuV3wdgd7v/jES1xAwCXMzu6pUeqeUhlr2oqekOPg8DWtxIoIPQCfSnG3rY0peqOddfPSJv23Ttpe1EibBB/OBfkcsw1mRtFeSYJLRgeBys6cNy+QglqEy3961QS+wpDSm0LZpEbv87MfxyUQ3qY3FE3G4ERw5uV5AdyokDscSBNfMRnXydzPxjXKj31TdROoiLxlLc+Keo4RC4AdHZLAwI2YU58Y=;HyhuGJqpoMEt6YqEVv1bsg=="
 ---

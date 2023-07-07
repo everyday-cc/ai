@@ -35,6 +35,22 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "AI Robots At UN Reckon They Could Run The World Better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-07T17:39:00Z
+    webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg"
+        width: 768
+        height: 506
+        isCached: true
   - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
     excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
     publishedDateTime: 2023-07-06T14:51:00Z

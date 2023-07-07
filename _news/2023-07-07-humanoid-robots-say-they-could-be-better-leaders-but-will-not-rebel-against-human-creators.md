@@ -49,6 +49,15 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Robots in world's first AI press conference say they won't steal jobs or rebel against humans"
+    excerpt: "In the world's first robot-human conference in Geneva, robots say they expect to increase in number, help solve global problems, and will not steal humans jobs or rebel."
+    publishedDateTime: 2023-07-07T19:50:00Z
+    webUrl: "https://www.abc.net.au/news/2023-07-08/robots-say-they-wont-steal-jobs-rebel-against-humans/102578292"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 23
 
 secured: "dEiT7WSFSnwGiHs/hI6UuwF9n/sF49pyXYmKjL8nXhUIKur6So+Idh/OKFJlTCqMnkeJs4UElJfuIGIuXiR6zXVqs84UEJ9lRw4if9uvtqob4/iLI19voiuOKB3HqmZnZeFXuOExfjvZCGLFlIfFxYjfnXiY7mHd64B0aYjb0s0Y1fGSqqQv7HQkdNgBccfWmHTYaMEnRxaTRcrKVpo0zNvH/Z/0ZBwwOP9LM0yfqode3mH+Oaiy6Hf9m1MxAIfGZNh6HyxrytvfQjMxrmsX7YY+LXXqgNUXM8Zgso/UgZP360kWecgBprbvfMWme4r8bOLD1NhLNdZeGPhMfZvyO8qY7MAcsSSTnarpwguNfFM=;Y6P/LkGKYRqhU7QUsFbOYQ=="
 ---

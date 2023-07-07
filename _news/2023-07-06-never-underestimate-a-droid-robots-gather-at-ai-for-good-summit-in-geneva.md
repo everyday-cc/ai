@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/06/humanoid-robots-g
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/06/humanoid-robots-gather-ai-summit-geneva"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
+    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an"
+    publishedDateTime: 2023-07-07T19:34:00Z
+    webUrl: "https://www.mcall.com/2023/07/07/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 11
 
 secured: "Z+rGNk3cYIrrhrKaHG7eNQKnBzssWaxAXrOrflyDvBI76aX1cN1nRqxkBqlWvxhLsauPsKnTjtD0Uhex7qiGHj+Re6wUHad+rKOx0gGrVwftx81kB4XowqcUeG57eAUDU0cFQZjNShkHvknvZHUqs8vD0fXk0YXZZ1jAB6C5sltDkobVBT2k0ic+D3VuzuekJ/guvn/Bk99UHtKoO+0GqEJqgQZi8Vylrb31V3+R7iOVTXJBTeTRDShjZxrD1N362tsVvNnCUQ/ynJZOjTx49JAQTonvhmleRQ8SMXKyb8eX3w4Q6bSyV8zm1NOm2RaNBmEoTx5VeiqsJUJCQaET/aksJcU0ewCnhQrvYKGbBS/z24fbbnS3Mi8Rq186IqpgLns/LSLNFNk5YWHMagWD+boOAwhtDGCv2aVgZGDfhpW+5MkpJ2aJRwuPmNf/dQKySZBD2y8VITSwFbusNOxGH9Yg3FnI3rGSAf+KTCfo/DWgtUIYErqB3MLXhvONwuE6yHIFPjcul5+KbLpze2BcXQ==;XAv7xZr+IuM8LadcohYuYA=="
 ---

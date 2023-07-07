@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthca
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
     provider:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
+    quality: 34
+  - title: "Healthcare’s AI revolution is well underway"
+    excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
+    publishedDateTime: 2023-07-07T18:42:00Z
+    webUrl: "https://www.limaohio.com/features/lifestyle/2023/07/07/healthcares-ai-revolution-is-well-underway/"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
     quality: 34
   - title: "Here’s how local health systems are betting on artificial intelligence as it emerges in health care"
     excerpt: "Plus: FY24 city budget includes funds for mental health, addiction, nonprofit wages Newmark named leasing agent for Upper East Side medical development Meet more Notable LGBTQIA+ Leaders who work in h"

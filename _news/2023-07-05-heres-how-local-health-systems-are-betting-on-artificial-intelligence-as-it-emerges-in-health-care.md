@@ -115,6 +115,15 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 34
+  - title: "Healthcare’s AI revolution is well underway"
+    excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
+    publishedDateTime: 2023-07-07T18:42:00Z
+    webUrl: "https://www.limaohio.com/features/lifestyle/2023/07/07/healthcares-ai-revolution-is-well-underway/"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 34
   - title: "AI in Health Care: Regulatory Landscape & Risk Mitigation"
     excerpt: "Health care, like most industries, is grappling with the proliferation of artificial intelligence (AI) and the novel risks and benefits it presents. Balancing these risks and benefits can be especially challenging for attorneys, as the laws and regulatory ..."
     publishedDateTime: 2023-07-05T19:17:00Z
