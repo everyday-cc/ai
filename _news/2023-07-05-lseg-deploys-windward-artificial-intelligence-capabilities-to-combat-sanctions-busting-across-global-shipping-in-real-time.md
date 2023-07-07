@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33110893"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33110893"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "LSEG deploys Windward AI software to counter shipping sanctions-busting"
+    excerpt: "London Stock Exchange Group has announced a partnership with artificial intelligence fintech Windward AI to combat sanctions-busting in global shipping"
+    publishedDateTime: 2023-07-05T09:38:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=14554&navigationaction=home&page=1&newssection=technology"
+    type: article
+    provider:
+      name: Asset Servicing Times
+      domain: assetservicingtimes.com
+    quality: 39
+    images:
+      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/WednesdayJuly520231688549698.jpg"
+        width: 990
+        height: 640
+        isCached: true
 
 secured: "6SPLglfZIlU9RgZCygyTWMnTr573lJfTKidPYdUEroliqUpJje9HAr6kDSoOMwQhFZh+oJJYREgIE3W6eNZqM22ZCmkUPrLzaLTiScgwOmaUwgif2IZxdokBftTiOZRd3dzyXczaO3HLD3MKqIxzLxGvLnOqdoVgm9zlP9oS3xNJD1PO3qz0jPSofk11huMe1txQMkHI40tpKmxbvd0oEg6CoxFkSGwuXwMfUxTWSH10S+5XaX6LMaW36V+S4BUhurZDvXKkKXM0+aGEDZK0in+B9Ibn2/vRDmwQNWAeMEQOD0S/+K2CBcY9/iHJQaF1xnglRZCjlC7Tpi7u1OvTT2HK6Wo66emAu46uTdxdF+s=;FapEqRqTQDsFKaR1MxyvLg=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 607
         height: 404
         isCached: true
+  - title: "Chip War May Thwart Shanghai Plans To Build Ai Hub"
+    excerpt: "The Shanghai government is stepping up its efforts to attract artificial intelligence (AI) talent and investments and improve regulations with the o"
+    publishedDateTime: 2023-07-07T00:08:00Z
+    webUrl: "https://menafn.com/1106566860/Chip-War-May-Thwart-Shanghai-Plans-To-Build-Ai-Hub"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/06/AT_14e18image_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mount Sinai launches Center for Ophthalmic Artificial Intelligence and Human Health"
     excerpt: "First-of-its-kind initiative aims to transform patient care with more timely diagnosis of eye disease and innovative risk assessment of systemic health conditions"
     publishedDateTime: 2023-07-05T00:01:00Z
@@ -58,6 +72,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "qW+LE+h3PxUDAUVyUpQmdNdWw7IX5/v7Mes0GoaMUwgu8VyxqU9YB6taVAiKW43W9sucLXWjGUZOJ8XPRLFAU+0ePc6dZxGG5Jwp1MgRACib1idjR0E6mllGvviFAMpssjPa4Mc6OXuNvOQfJVtA1lQP849m+bLi5PRLoHrh6D4MyDVm5Mm1HpnYS7uDcgr5Akywbsaw+KyMAGM2FPa9SCOlGs6ymgAwe+j5eMC87f+xMypjlWUpnqf9Lc//woAriGEktuMLEm/qHfArTfnH5pSD2XwJ+4WDfYOctVI4D1X1M8NIPA8aoIm8/6NVONP5L86naY2ulC0lvGLgmIT6OjXldsigb182o30ILUEkqUc=;Nw/0rv5tw922nap2tbfSdw=="
+secured: "tXlNaZVVUNhY8oPKFXzbrSiCXpjCIEe45EdYWJsgSGhgaT87Ztl6IuuLcpall67wFsA1otuXSKUwozv6fOha8cT9TeoPiP5fzWu+o5d1fgWJCnY7HYsBiqZAk69YmaMmP4FwCUAMc9dDQA9V63+gchwWmEz7AXgbDgI4CUE6cElbAstwXU16PbxuScXRfzTXvTfLefqN4jB5xFeGQlYxGf3tjzWZS1r+MBnM/4pcKlOy7MaX7qG5d0FENyal7OFCz9IO5qsJYCkQwTcqoXhLIEPePGfKROg39PSNH09BBodsNW42oRqRWeFF7bNRMTEXU0AMc6v3MYTzjUnUxVDJ9m2nXBoO49luULpWxcymK/dl+CRhUgPnqQ/a2jrkvm1tJDSZToCdQOtep4yDm8nGUV/c/e+pTigE1EJo8NnLwo5V4b5h/gbXHkU7eJ3Gn/caCwST99yKtfc2imhV+6ZHmmPRX4qwtxL1hJtUhbB8F07t0a4e2U20FAFJeukp05GalZc0rmqgOTMj1OOLoMM+gA==;DajmeYHIp9+l4e5sG6gD9w=="
 ---
 

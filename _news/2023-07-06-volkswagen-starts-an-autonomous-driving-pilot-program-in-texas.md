@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Volkswagen to launch self-driving vehicles in Texas by 2026"
+    excerpt: "Volkswagen said on Thursday that it plans to launch autonomous, or self-driving, vehicles for ride hailing and goods delivery services in Austin, Texas by 2026."
+    publishedDateTime: 2023-07-06T12:40:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/XnP2m4tHU8tXOVIUZVRSSduElIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D7EEG2GECFIAJHYSPAB7AIXDKY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-driving cars from Volkswagen to be tested in Austin"
     excerpt: "AUSTIN, Texas - Joining an ever-growing number of autonomous vehicles in Austin, Volkswagen announced plans today to start testing a fleet of self-driving electric ID. Buzz vans. \"We are excited and ready to roll out our autonomous pilot and test fleet in Austin,"
     publishedDateTime: 2023-07-06T16:57:00Z
@@ -48,6 +62,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
+  - title: "Expressway lane in Shizuoka to serve self-driving trucks in FY 2024"
+    excerpt: "To cope with a shortage of truck drivers, the government plans to designate a lane for self-driving vehicles on the Shin-Tomei Expressway in Shizuoka Prefecture in fiscal 2024. Officials aim to introduce distribution services by autonomous trucks in fiscal ..."
+    publishedDateTime: 2023-07-06T09:05:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14950085"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 24
+    images:
+      - url: "https://p.potaufeu.asahi.com/1a02-p/picture/27690606/076ca1c463d00175e70e322d507bae6e.jpg"
+        width: 660
+        height: 324
+        isCached: true
   - title: "Volkswagen's Self-Driving Cars Begin Testing In Texas"
     excerpt: "Volkswagen is saddling up for autonomous vehicles in the U.S. with a test fleet of self-driving ID Buzz EVs in Austin, Texas."
     publishedDateTime: 2023-07-06T20:20:00Z
@@ -62,15 +90,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VW selects Austin as U.S. hub for self-driving tests; ID Buzz electric vans to hit city streets"
-    excerpt: "These retro-looking VW vans will be seen cruising around town soon. Don't bother waving to the driver — there may not be one."
-    publishedDateTime: 2023-07-06T19:40:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2023/07/06/vw-self-driving-vans-in-austin.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "bD83eA2tVLun6ETxrRtz7Y2rjongmB9QCBncX2q0Byj1Bmlq7Q8ATSMQLgqLSJAelzz23yPYKyZUtiW8bw9+ejKIU3ErLpopHufcVfTApaQgtFsYzgGecrXAH2g1KkXlDtFrdL/L2s0BCX4x2pYC6rNn5mg5V4bxWzeG1QDPpk95O5jSrcr6BI8nhxhMk7/ualnEei4O43GM8KZHwHYhf6H0Uv1Kb2I+nF6LP4A8wnTigdwAwCposSzXSzSg0T/ZFoqQfpqXsSfts6xM35zu5yTg9810ADIIX/IyvRsJncLWXEPmd60o6wAQuuTEnfMjxIxd6s4tLy4RjCGlceVY7Qns8pHtPYVbfJ/A8L1/3Ny8mZIwe2j0Q6vhVnLpmu2CnRB9Hv7y3PDyt/L9t3MRhbUX11/mbbzhGoXafqL+QAvEyhEs2365BhgGK7ygf3NQo+60fIM1wmVXOZJBtY7SICmjA+VKoxV8QempHdHjQvqlX1ZjBmjGdgKrSBPXGCIeyycg51SEYHr4RT7iCuD/nA==;l8PlNnmu8VI71OxvTwFAqw=="
 ---

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-29-thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-innovation.md",
+      "title": "Thundercomm Demonstrated GenAI Integrated Robotics Solution to Accelerate a New Wave of Robotics Innovation",
+      "excerpt": "Thundercomm, a world leading IoT product and solution provider, announced the successful integration of its privately deployed Rubik large language model(LLM) with Qualcomm RB5 AMR Reference Design. T",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33053388",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33053388",
+      "publishedDateTime": "2023-06-28T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market.md",
       "title": "Gather AI acquires assets of Ware Robotics to consolidate drone based inventory market",
       "excerpt": "Gather AI acquires Ware's drone-based warehouse inventory management business, doubling staff and enhancing growth opportunities.",
@@ -964,6 +1008,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-23-googles-deepmind-unveils-ai-robot-that-can-teach-itself-without-supervision.md",
+      "title": "Google’s DeepMind unveils AI robot that can teach itself without supervision",
+      "excerpt": "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/google-deepmind-unveils-ai-robot-133922285.html",
+      "originalUrl": "https://www.aol.com/google-deepmind-unveils-ai-robot-133922285.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/30c3e726818c4deab3a7caf00c74cce8",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/google-deepmind-unveils-ai-robot-133922285.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/google-deepmind-unveils-ai-robot-133922285.html",
+      "publishedDateTime": "2023-06-23T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-ai-leaders-have-an-incentive-for-us-to-believe-robots-can-kill-us.md",
       "title": "AI Leaders Have an Incentive for Us to Believe Robots Can Kill Us",
       "excerpt": "Onstage, leaders in the field kept repeating one idea: that AI, and the people building it, are very important. “This is unquestionably going to be the most radical transformation of our lifetimes,” said Mustafa Suleyman,",
@@ -1227,93 +1315,6 @@
       "provider": {
         "name": "Times Union",
         "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks.md",
-      "title": "DeepMind’s RoboCat learns to perform a range of robotics tasks",
-      "excerpt": "Researchers at DeepMind, the Google AI research division, have devised a model called RoboCat that can learn to perform new robotics tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
-      "originalUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023.md",
-      "title": "Global X ETFs: Artificial Intelligence, Robotics & Automation, and Mobility are the key investment themes for 2H2023",
-      "excerpt": "Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook. Jon",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
-      "originalUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/IMG-2019-w5ZVad.jpeg",
-          "width": 1210,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

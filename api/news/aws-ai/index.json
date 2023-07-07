@@ -63,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-vehicle-fleet-failure-probability-using-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -509,6 +509,40 @@
       ]
     },
     {
+      "path": "_news/2023-06-30-artificial-intelligence-market-worth-13452-billion-by-2030-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets",
+      "excerpt": "The future of the AI market appears promising with the development of conversational AI and autonomous systems, as well as the penetration of new industries",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-06/59472759-artificial-intelligence-market-worth-dollar-1-345-2-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-06/59472759-artificial-intelligence-market-worth-dollar-1-345-2-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-the-best-movies-on-amazon-prime-video-july-2023.md",
       "title": "The best movies on Amazon Prime Video (July 2023)",
       "excerpt": "As with other streamers, movies are always coming and going on Amazon Prime Video. And while Prime Video’s original films are picking up more momentum, Amazon is still largely dependent on ...",
@@ -707,6 +741,49 @@
         "AWS AI",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-artificial-intelligence-to-be-hot-topic-at-collision-tech-conference-in-toronto.md",
+      "title": "Artificial intelligence to be hot topic at Collision tech conference in Toronto",
+      "excerpt": "As the Collision tech conference gets underway in Toronto, its chief executive expects much of the chatter at the event to focus on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://q107.com/news/9795522/collision-tech-conference-toronto-ai/",
+      "originalUrl": "https://q107.com/news/9795522/collision-tech-conference-toronto-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://q107.com/wp-content/themes/corus-fm-radio/assets/dist/images/blank-featured.png",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Q107 Toronto",
+        "domain": "q107.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1366,92 +1443,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-boost-agent-productivity-with-salesforce-integration-for-live-call-analytics.md",
-      "title": "Boost agent productivity with Salesforce integration for Live Call Analytics",
-      "excerpt": "As a contact center agent, would you rather focus on having productive customer conversations or get distracted by having to look up customer information and knowledge articles that could exist in various systems? We’ve all been there. Having a productive conversation while multitasking is challenging.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/17/LCA_CRM_Arch-1018x630.png",
-          "width": 1018,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T08:20:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-old-mutual-completes-all-in-migration-to-aws.md",
-      "title": "Old Mutual Completes All-In Migration to AWS",
-      "excerpt": "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/21/9836258.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/21/9836258.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

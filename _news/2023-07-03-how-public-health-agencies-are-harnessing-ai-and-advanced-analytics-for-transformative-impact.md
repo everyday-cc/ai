@@ -68,13 +68,13 @@ related:
       domain: tmcnet.com
     quality: 7
   - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-    excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
-    publishedDateTime: 2023-07-06T17:44:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1332532&cat=PR News Wire"
+    excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London,"
+    publishedDateTime: 2023-07-07T01:05:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/269347"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: RYT9
+      domain: ryt9.com
     quality: 7
 
 secured: "9IQf21XbFb1ok+o6Lg7vJ9pzm/mCF9LpRlSn+HNmvFxmqm6cAbIEL6ZLfdVf4VDSgKWWU3GnAYhBDoVoi2Jflrfw8CWsmhbuOgMSUjSsLllxwXGNbS1PUb49UQxpuQTNDafpD6iddDr5v46lRTKlb+Tsc570cgFqsWb48eX1WI43TMG0OyQRJuxsDHAwcmyZIsjZZLPwHB8QSx8Ajb5hHyyEh5O3etymx2JWIjv+nsOYrBs+jmA8zWzElM3n1U7TT0M8NXEHfnLSQKBd//qruz6TusTNqpoY3XZXmfPDLNrxIuCR2mj3l/CU6YQAQE3XsR4zd4cqEFai75sT8z2dNS0aRnGICnnhYiYhJy93zYo1925xdiqcAOnYXX92B/OEh/FJ06BMll/62zh0fZ+TcZDjiZGEggVmYBoRgiwx+PqALFwRJ1xIHI6dgAcrnp0ZvSHCb4IFdWpWTL4UiUa8dNGjwKnEyr14LXwurgFYtenGvd+QPyEOVHFzjuhWctwIBpSAExbLOMrZ3cwO9ObArw==;LXNjBheA7TOJXVgyQMiKzw=="

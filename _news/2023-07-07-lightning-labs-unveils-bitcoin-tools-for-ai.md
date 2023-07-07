@@ -50,15 +50,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "NYC will require audits of AI hiring tools for bias"
-    excerpt: "AI is far from an impartial judge of potential candidates—the technology can often perpetuate human biases such as racism, sexism, and ageism."
-    publishedDateTime: 2023-07-06T19:30:00Z
-    webUrl: "https://www.popsci.com/technology/hiring-ai-law-new-york-city/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
   - title: "‘Nonsensical, Bulls**t’: Artificial Intelligence Hiring Software Must Be Audited For Bias Under New NYC Law"
     excerpt: "Artificial Intelligence Hiring Software Must Be Audited For Bias Under New NYC Law Ireland Walker on July 5, 2023 Companies in"
     publishedDateTime: 2023-07-05T18:05:00Z

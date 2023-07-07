@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
-publishedDateTime: 2023-07-06T17:44:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1332532&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1332532&cat=PR News Wire"
+excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London,"
+publishedDateTime: 2023-07-07T01:05:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/269347"
+webUrl: "https://www.ryt9.com/en/anpi/269347"
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - AI in Finance
@@ -73,6 +73,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "H0THtJ7GUNGMHYwGyETwXD7rzAhpie0m6Gn9kdgi6icOemHG9kZs5QxBgy4L8lQR/45cfsgkWm9B4XhpC74mzwSycO/VwGo5bCZba17NtmTSoCsKvBv+GQntG89Yl2/Fhbw9Z/cFFOMTSwZw6G1Hyv7ApqdT9nAmm1I0Y/xRHqidLIBh2vjzPtsEgWrDiE90E6yIsrhm5PRy3aWcpAv6v7gjV77HBS+J9UQiE+vbnnbxI0LiTWzVH8QqYT5/LVnrWRuGwfRafjeMJB5KY19SZ5qQ5ksGD6k5bWy9KmhT7CMjHWaB7xrX6X/+W1dVUSsCt6XCQSzk12vaeIjWXIPeONC8kvHupXT9aMGvJrOvr3Y=;bvmFf3fl8ZYvY23JSVyajw=="
+secured: "/HCcqxF5zXi4wGaoQSUhpGY8WJLY2hcku3SR3Zm2n9ucwOfCptj9CUZJ5iT4JIyDy4cSG6Qwv7UnvzojqZNcZ9FlgsVP7TGfV2GYoB4E6UP7gncx1K9nb/UNvBXMG+9LCgBY2XNtxzZV9s7eBihtnk7+rDa6Xb7OapRsJWHFQF+6VChug1uIb5xbdNlkmlBRN4n6phGD5+YohwY8ByLsYbi1FWFCfXj8BhTXeiFugK6g6k/XtKacktxRCPDLBNFR7fOz3nzgMuMBoW33H9dx7svC+R4KEKaFZsnKwzXVCKfdxbIn+pYfNXDFp5+FxbS/euV4R9mo4NCE34LLXEg4B4OfKO+jpwQnrVRFsY4+5ww=;tG/vJyg434vGLWbwFAUyPA=="
 ---
 

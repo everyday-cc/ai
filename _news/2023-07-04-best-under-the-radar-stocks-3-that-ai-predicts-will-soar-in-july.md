@@ -40,6 +40,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "3 AI Stocks That Have Big Investors Running for the Exit"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence trade appears to be fading, meaning"
+    publishedDateTime: 2023-07-03T10:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-have-big-investors-running-for-the-exit-1032423115"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "4 AI stocks to invest in"
+    excerpt: "Artificial intelligence (AI) is a fast growing sector, but how can investors profit? We look at 4 AI stocks to invest in"
+    publishedDateTime: 2023-07-05T15:29:00Z
+    webUrl: "https://moneyweek.com/investments/4-ai-stocks-to-invest-in"
+    type: article
+    provider:
+      name: MoneyWeek
+      domain: moneyweek.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MDtp2a5dV6RZJ9KHWDhivK-1200-80.jpg"
+        width: 1200
+        height: 738
+        isCached: true
 
 secured: "JjAuMux9bRl+FHxLTbIkH6vbvcMFLGUBZx8bWyBNFq9tfUf/vJFKz1csranv3coyFXNTIdU45JDYamWWf72GYZZHFovwD8DxM2jbZNScbX1y5K7EIdD6PYwaxOTu7SgKcjmb8ORzLMNHpUuG/Fp0J80cOnKyGqMOQTn8jQsNmsRohOW62hWVKIjqJuKZUGEB5VNh/etdtgZSB24ZK3piiwr326vcqU/HgTnuPhYz8nZG68rC14D926FoicVIYCHGma3jAJYNegpYrCXqj9gmXEn1LGd36cjuK25Q9YEqJ+63vIgcX3HZhXs1Jx3SWDBr7gCHYy5ggbzgnPTlRzsyri2JU61y/jxt1KUDrY3Pp1+8CgMau1C6qWTQVcBnqMrmm+xf0ZhIo17dMMFbOXxSqjti7yXDLrjx8G4NUYmBe2pFEboKIF/uvAcFJfQ/rJFUzNGa8tEksTTOfXFsmGRRPStBcHI3RrSbrvofVxA5fJswbTOfpDCG9uP/r0bCJ5dosJ1S/6UvuUWXbsGB41Felg==;ObaTTiVC5oepA/8cepdoMQ=="
 ---

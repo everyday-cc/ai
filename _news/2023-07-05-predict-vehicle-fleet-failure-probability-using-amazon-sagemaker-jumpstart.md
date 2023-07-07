@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/predict-vehicle-flee
 webUrl: "https://aws.amazon.com/blogs/machine-learning/predict-vehicle-fleet-failure-probability-using-amazon-sagemaker-jumpstart/"
 type: article
 quality: 102
-heat: 113
+heat: 112
 published: true
 
 provider:

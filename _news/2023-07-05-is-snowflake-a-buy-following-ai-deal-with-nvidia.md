@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Enhanced AI security on the horizon with Nvidia and Intel collaboration"
+    excerpt: "Nvidia Corp. is collaborating with Intel Corp. to provide extensive attestation services for Nvidia H100 GPUs, using Intel Trust Domain Extensions and Intel’s trust service, “Project Amber,” for customers that deploy confidentiality-preserving artificial intelligence solutions."
+    publishedDateTime: 2023-07-07T00:04:00Z
+    webUrl: "https://siliconangle.com/2023/07/06/enhanced-ai-security-horizon-nvidia-intel-collaboration/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/intelnvidia.jpg"
+        width: 910
+        height: 512
+        isCached: true
   - title: "TSMC sees robust AI chip orders from Nvidia, Broadcom, AMD through 2024"
     excerpt: "TSMC is expected to see a significant revenue rebound in the second half of the year, which will be driven by not only the launch of new iPhones but also strong demand for AI chips from Nvidia, Broadcom and AMD, with robust wafer-start momentum from..."
     publishedDateTime: 2023-07-03T07:23:00Z

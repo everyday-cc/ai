@@ -9,8 +9,8 @@ ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Outlookindia
@@ -27,34 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "LSEG deploys Windward AI software to counter shipping sanctions-busting"
-    excerpt: "London Stock Exchange Group has announced a partnership with artificial intelligence fintech Windward AI to combat sanctions-busting in global shipping"
-    publishedDateTime: 2023-07-05T09:38:00Z
-    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=14554&navigationaction=home&page=1&newssection=technology"
+  - title: "In NYC, companies will have to prove their AI hiring software isn't sexist or racist"
+    excerpt: "AI-infused hiring programs have drawn scrutiny, most notably over whether they end up exhibiting biases based on the data they’re trained on."
+    publishedDateTime: 2023-07-06T14:22:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna92336"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna92336"
     type: article
     provider:
-      name: Asset Servicing Times
-      domain: assetservicingtimes.com
-    quality: 39
+      name: NBC News
+      domain: nbcnews.com
+    quality: 80
     images:
-      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/WednesdayJuly520231688549698.jpg"
-        width: 990
-        height: 640
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230703-new-york-morning-commuters-al-0927-b18cc4.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Journalists beware, WordPress launches AI writing tool"
-    excerpt: "The new WordPress can now write articles, put together headlines and more in seconds, trivialising work that often takes hours."
-    publishedDateTime: 2023-07-06T11:45:00Z
-    webUrl: "https://htxt.co.za/2023/07/06/journalists-beware-wordpress-launches-ai-writing-tool/"
+  - title: "NYC will require audits of AI hiring tools for bias"
+    excerpt: "AI is far from an impartial judge of potential candidates—the technology can often perpetuate human biases such as racism, sexism, and ageism."
+    publishedDateTime: 2023-07-06T19:30:00Z
+    webUrl: "https://www.popsci.com/technology/hiring-ai-law-new-york-city/"
     type: article
     provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 39
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/07/WordPress-AI1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "8Je5e2150rQ0+hceQvNK2/495570mUn2IvSqNQN4PtTG15hi766et1tJuuSi7MIbWm0i/+mXgzG0AsCbLh1+VInAQXer5227Yj2p/sJQZFMiyFUXwxEmbTmnk/ejk9W7NJtcQ8I6WG1IvP3dD1Mrcqytppn7tTNarj2qAPYkJtDgmxRac4GqdLB4Eu3FkoJ6NAB8CMA/WBhewmFos8MUPENpwzAy0GWixXWm4H0gwfrZnqo8X2TWHpT1j9mezC8cCtsEwgyUETZUtdac2pQN2ebbFYagG9aqcqD10MTr01m9a6EWWOIDGRmJ7v0z9t53QvgCj0gqq46L38JYliHaKMXrAIzcHd5R9a/N/DIajTE=;b7HAzjLdXdECsZZ5fdjKmw=="
 ---

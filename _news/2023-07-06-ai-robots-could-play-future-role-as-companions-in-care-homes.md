@@ -1,25 +1,32 @@
 ---
 category: news
-title: "AI Robots Could Play Future Role as Companions in Care Homes"
-excerpt: "GENEVA (Reuters) - Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it."
-publishedDateTime: 2023-07-06T13:22:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2023-07-06/ai-robots-could-play-future-role-as-companions-in-care-homes"
-webUrl: "https://www.usnews.com/news/top-news/articles/2023-07-06/ai-robots-could-play-future-role-as-companions-in-care-homes"
+title: "AI robots could play future role as companions in care homes"
+excerpt: "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it."
+publishedDateTime: 2023-07-06T16:00:00Z
+originalUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/"
+webUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/E9v889KGpiT_0ZzHIGcK9Sp20y0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ES6WJHBTJMRDA3BT6QDD63V5I.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Here’s how local health systems are betting on artificial intelligence as it emerges in health care"
@@ -37,6 +44,6 @@ related:
         height: 335
         isCached: true
 
-secured: "5NX8PQrt5FoVggySt15O4vQVM0JNqERSC/rySCceGnzSYYwIKGOxHi+1dqFAphg1fXjVtJzOvRyHl7DBW7lgdq2kkEl9C9PLxNByPXASskNjjE5SqaOwh6S2q8a21IhTfXlMzrb8OA68psLEmpEpCYEjMadmHJdnOiHYaJdp7XI0FT9zf7L/dnO7kQ6eLF9PRkocSOrfEuGbl97kWR9D2FRsXelxh3iEnB/LrlYdirKl9yjbMnT0GZo8XvUIod2ZV/hrSEDGa2PKdNxHOSQqXHjwpO6KGGumKYXHoyhEWtWJbpoiKCDbr0z6Bl0zI+yaeclWocalN5kkR1+UpKmPhYf3SULcos0Q1SXG/sbhz8wzeEakMrBrNDWcyNKPvQ7jP0wXMcuBAOhit6R6LhWgcxqRkeApTOIfLX3PStej/K3XtPcW/jwm/yjVSoNDcGtR81k4G6JPQTgzu/lKQJ8mfDsd/s/vXv8RxX9OtnfupU1XedX4yRl2C9u27U6LQgnr5BWvTOH+OEV7yGY+IjrgMg==;DcP43aBTZdOxZWHEhOx1Ug=="
+secured: "U7XDifucnNAYFd6l+TzchYXrZLOSdfqaYW4rx8b4LxwrMvuTwwZiOkT/BTdiiZ8UjOw/pnPwKoCcQJDhf07WkBu/ofxgOESIxr4WYXGZOvVZj2IYmAJsfFQ869L+zbbQ3cSCqIH0/leFQqPMyt1C9XX1VfheHOkSJooRJpfubuHcFr0hEqXMbRni80lP/AKJ/JuoEJuX4Dhk/akqJ0qcSyJDxnoJtpO4oCr7IWcJx2z1uaHd3WqHWzXfNfeFYb91+uDNwsnzfahcsiEGWA8WN37M4qlJ0SuljhwqY0PTNLkQE4M7IRsWe+s7Va5dyd5BnSN4BZ88fd+mhAIbZKJOsSdKuXxS+3JoqaIt2p3tM44=;3ULGHRnJhyB1ULcbQH8JNw=="
 ---
 

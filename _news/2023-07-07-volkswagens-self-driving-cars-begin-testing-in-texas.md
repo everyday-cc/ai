@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Volkswagen to launch self-driving vehicles in Texas by 2026"
+    excerpt: "Volkswagen said on Thursday that it plans to launch autonomous, or self-driving, vehicles for ride hailing and goods delivery services in Austin, Texas by 2026."
+    publishedDateTime: 2023-07-06T12:40:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/XnP2m4tHU8tXOVIUZVRSSduElIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D7EEG2GECFIAJHYSPAB7AIXDKY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-driving cars from Volkswagen to be tested in Austin"
     excerpt: "AUSTIN, Texas - Joining an ever-growing number of autonomous vehicles in Austin, Volkswagen announced plans today to start testing a fleet of self-driving electric ID. Buzz vans. \"We are excited and ready to roll out our autonomous pilot and test fleet in Austin,"
     publishedDateTime: 2023-07-06T16:57:00Z
@@ -59,15 +73,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "VW selects Austin as U.S. hub for self-driving tests; ID Buzz electric vans to hit city streets"
-    excerpt: "These retro-looking VW vans will be seen cruising around town soon. Don't bother waving to the driver — there may not be one."
-    publishedDateTime: 2023-07-06T19:40:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2023/07/06/vw-self-driving-vans-in-austin.html"
+  - title: "Expressway lane in Shizuoka to serve self-driving trucks in FY 2024"
+    excerpt: "To cope with a shortage of truck drivers, the government plans to designate a lane for self-driving vehicles on the Shin-Tomei Expressway in Shizuoka Prefecture in fiscal 2024. Officials aim to introduce distribution services by autonomous trucks in fiscal ..."
+    publishedDateTime: 2023-07-06T09:05:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14950085"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 24
+    images:
+      - url: "https://p.potaufeu.asahi.com/1a02-p/picture/27690606/076ca1c463d00175e70e322d507bae6e.jpg"
+        width: 660
+        height: 324
+        isCached: true
 
 secured: "NwmTsSD7P+3hSIVxPZ/f53aMd2JykxwQtmLFkofy15ltnx2im5XLJoI2cBVU/GKuRKGYvP7n/sotKkp64I11B2qDunNzrXc5zgNX/NIuab1qwLQTk8935P3/4XIb1y5yPTM3LjJ+xKh6pynJ0VjXe7kaRvLNPLDbpFKLhQ/pL2TAAsgDxqzUXo0a2MaoiXp6Tm1lM45GpsWe7Z3+FoEpEa7S7PhdQuE/xO4xoJ2e50h9dn88y8d9NN151MuEU9HeStVOVajJ8cAabX3KiUjMMdjG9I5e9/Pp3LklcSAUS8StpomCQUCryrX530qW7pz5hll1TIZimWtSbJSJB1YJzTwqhc52wjSb/YOZLdnTfwk=;+5xUAYQlsMRprJJMiN5BzA=="
 ---

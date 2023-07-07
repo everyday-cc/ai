@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-07-the-ai-boom-isnt-breaking-the-memory-chip-slumpyet.md",
+      "title": "The AI Boom Isn’t Breaking the Memory-Chip Slump—Yet",
+      "excerpt": "Samsung Electronics forecast a 96% drop in its operating profit for its second quarter—a sign that even the world’s largest maker of memory chips isn’t able to capitalize on the moment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-ai-boom-isnt-breaking-the-memory-chip-slumpyet-e980bfb3",
+      "originalUrl": "https://www.wsj.com/articles/the-ai-boom-isnt-breaking-the-memory-chip-slumpyet-e980bfb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-811509/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-c3ai-inc-stock-falls-thursday-underperforms-market.md",
       "title": "C3.ai Inc. stock falls Thursday, underperforms market",
       "excerpt": "Shares of C3.ai Inc. slid 2.59% to $39.08 Thursday, on what proved to be an all-around grim trading session for the stock market, with the S&P 500",
@@ -398,6 +450,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-06-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
+      "title": "AI robots could play future role as companions in care homes",
+      "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/",
+      "originalUrl": "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/E9v889KGpiT_0ZzHIGcK9Sp20y0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ES6WJHBTJMRDA3BT6QDD63V5I.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay.md",
       "title": "Beware Technophobia Spreading Amid AI Fears And Calls For Delay",
       "excerpt": "ChatGPT is the fastest new technology to reach 100 million users. Artificial intelligence has brought hope and fears— as well as calls for a pause.",
@@ -501,7 +605,7 @@
       "originalUrl": "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -630,6 +734,48 @@
       ]
     },
     {
+      "path": "_news/2023-07-06-in-nyc-companies-will-have-to-prove-their-ai-hiring-software-isnt-sexist-or-racist.md",
+      "title": "In NYC, companies will have to prove their AI hiring software isn't sexist or racist",
+      "excerpt": "AI-infused hiring programs have drawn scrutiny, most notably over whether they end up exhibiting biases based on the data they’re trained on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230703-new-york-morning-commuters-al-0927-b18cc4.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna92336",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna92336",
+      "publishedDateTime": "2023-07-06T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-smarter-it-operations-management-with-ibm-aiops-insights.md",
       "title": "Smarter IT operations management with IBM AIOps Insights",
       "excerpt": "IBM is thrilled to announce the General Availability of IBM AIOps Insights.\nThe post Smarter IT operations management with IBM AIOps Insights appeared first on IBM Blog.\n",
@@ -720,6 +866,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-volkswagen-to-launch-self-driving-vehicles-in-texas-by-2026.md",
+      "title": "Volkswagen to launch self-driving vehicles in Texas by 2026",
+      "excerpt": "Volkswagen said on Thursday that it plans to launch autonomous, or self-driving, vehicles for ride hailing and goods delivery services in Austin, Texas by 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/XnP2m4tHU8tXOVIUZVRSSduElIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D7EEG2GECFIAJHYSPAB7AIXDKY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -879,7 +1077,7 @@
       "originalUrl": "https://www.forbes.com/sites/calumchace/2023/07/06/artificial-intelligence-and-new-styles-of-learning-with-david-giron/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1021,204 +1219,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-four-google-cloud-customers-share-how-they-use-ai-to-deliver-value.md",
-      "title": "Four Google Cloud Customers Share How They Use AI To Deliver Value",
-      "excerpt": "translation and multilingual proficiency, and natural language generation. Additionally, Google offers Vertex AI, an end-to-end AI platform that streamlines the deployment of AI and generative models, allowing companies to customize AI models for their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/",
-      "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a59969816ad28ab94c321a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/",
-      "publishedDateTime": "2023-07-06T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
-      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
-      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
-      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
-      "publishedDateTime": "2023-07-06T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-ai-boom-stems-techs-downturn.md",
-      "title": "AI Boom Stems Tech’s Downturn",
-      "excerpt": "Excitement over artificial intelligence is proving to be a powerful counterforce for a tech economy that had been slowing, lifting share prices and growth outlooks at many giants—and igniting new startups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-boom-stems-techs-downturn-a669b4a3",
-      "originalUrl": "https://www.wsj.com/articles/ai-boom-stems-techs-downturn-a669b4a3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-810571/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-china-tech-startup-launches-humanoid-robot-at-shanghai-ai-event.md",
-      "title": "China tech startup launches humanoid robot at Shanghai AI event",
-      "excerpt": "Fourier Intelligence, a Chinese tech startup specializing in rehabilitation robotics and artificial intelligence, on Thursday unveiled its first-generation humanoid robot at the ongoing World Artificial Intelligence Conference in Shanghai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202307/06/64a67cc9a310bf8a1d238e8a.jpeg",
-          "width": 607,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

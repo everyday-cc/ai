@@ -1,30 +1,22 @@
 ---
 category: news
 title: "UN council to hold first meeting on potential threats of artificial intelligence to global peace"
-excerpt: "The U.N. Security Council will hold a first-ever meeting on the potential threats of artificial intelligence to international peace and security organized by the United Kingdom"
-publishedDateTime: 2023-07-03T23:47:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637407"
-webUrl: "https://abcnews.go.com/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637407"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637407"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/council-hold-meeting-potential-threats-artificial-intelligence-global-100637407"
+excerpt: "The U.N. Security Council will hold a first-ever meeting on the potential threats of artificial intelligence to international peace and security, organized by the United Kingdom which sees tremendous potential but also major risks about AI’s possible use for example in autonomous weapons or in control of nuclear weapons."
+publishedDateTime: 2023-07-04T02:56:00Z
+originalUrl: "https://www.chron.com/business/article/un-council-to-hold-first-meeting-on-potential-18183450.php"
+webUrl: "https://www.chron.com/business/article/un-council-to-hold-first-meeting-on-potential-18183450.php"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
-
-secured: "Vq7QYD7V3MBWEf+4ftpQpwvJz+yF6p7UNliPdw+bGToMyfH8WvRjlge0Q6KUy1sbSqV4oII1C2loNCRrBCsiQfY5fqhpoZmQs9g1WzLnqhP6vUzBIV38r0gp1zVG/81gHrpfxMBXfpw7HVGO3b2+8ahKIstr8a7UB+balcwKNB4R8WZV2nsZAfOQ+HSnaxK97wsT5fGtUINJWqNmdOu76460ExFQ64H6oKhQleAT6R+fBWA/PHaNk8vII0WQQ0md3f6/H1MqZ8rpsjmDFrMM9GbUpzwPxy0AYKIPWmR0pYSvOaIm+FtzzxwbUaB+iqB6kOPW4hDhF8qJErpIx98k81k5/Bk/2f5CF+pv1AjrhyLFrDX6oObAEqKKUqofM4gc5qDpLoVdG1e5BdQCmAGAfxBo3/+Aq+5tVCu5AKXXjTrXGSfAFf0mmXX7IANlKGkP9dBe6v3fPbEmYNyZMCsF8+6enu3LH8wZq4QrA1Oo/9LKctVB71eBZB4N4kbq+kL0lSbS3UsJ4D5ZpYd+kH2V6Q==;dXUKpgKZ0jG/3c1Sk+qVZw=="
+secured: "OOmomd+zuWm37tarJJHDmb6oTsCp+UpUDqlUbqnAzNhWSKvMeAj/qDU/U/QNpshmYsixFAd1TQzix0Opu+DDj2NpfwB8m/BL8nLz1ff/+S05IbEqIgYH6DBWzhd3WMqx//bXDbSY+FMTd9jxwgoA17Ymebg/mkStBn1rzQkLHR4NRhDwSRtE1tSyY5ssVwdf+nfJDbhQpxv6vmwYeG5ZwrTzFggAZ+LftkNk7OnGd2vqi4RYy5NjvBcqA4VyDAGTKKqAsS9YZ7C3dYdwM+rNtSsVuQpYyxLNBWL+O7j6cVGU1gfx06ON+NetUyVScMiP1KPAh611rOsjqwjcimI+a78X2SLOqt7vDP/qhKXZAofmvbT3/QjzGRAPtRNTXpfvtjZEsogS1iRJzlcIYhiJWFfZB/PFwdeVz4aSlDmWLS6hiKvZa8RWCEjWm1ZJRxigkXUy+oZjxPwpi2a3PVd7IuvGfCOGnEIooXoYyx3xTbB6q1Ml9vfqLF90TCBIQ5mT+z92nUmdVAQsUjEGnp2YPA==;gxMvT0vMt6l9gqJSdEpC0w=="
 ---
 

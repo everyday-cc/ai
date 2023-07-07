@@ -7,7 +7,7 @@ originalUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da
 webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chip War May Thwart Shanghai Plans To Build Ai Hub"
+    excerpt: "The Shanghai government is stepping up its efforts to attract artificial intelligence (AI) talent and investments and improve regulations with the o"
+    publishedDateTime: 2023-07-07T00:08:00Z
+    webUrl: "https://menafn.com/1106566860/Chip-War-May-Thwart-Shanghai-Plans-To-Build-Ai-Hub"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/06/AT_14e18image_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "World AI talks start"
     excerpt: "The 2023 World Artificial Intelligence Conference (WAIC) commenced in Shanghai yesterday under the theme “Intelligent Connectivity: Generating the Future.” Scheduled to run until tomorrow, the conference comprises four key sections: conference and forum,"
     publishedDateTime: 2023-07-06T22:46:00Z

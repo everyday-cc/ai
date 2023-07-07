@@ -25,24 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Investors Spurn Dividend-Paying Stocks as AI Booms"
-    excerpt: "The shares have suffered their worst first-half performance relative to nonpayers since 2009."
-    publishedDateTime: 2023-07-02T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/investors-spurn-dividend-paying-stocks-as-ai-booms-344f431d"
+  - title: "3 Artificial Intelligence Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The most exciting rally in the tech sector since 2021 has undeniably been in"
+    publishedDateTime: 2023-07-02T19:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-809630/social"
-        width: 1280
-        height: 640
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "AI Stocks: Here’s Where to Invest $1,000 Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the dynamic landscape of AI stocks, it’s crucial to carefully"
+    publishedDateTime: 2023-07-06T21:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-heres-where-to-invest-1000-right-now-1032431105"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "3 AI Stocks That Have Big Investors Running for the Exit"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence trade appears to be fading, meaning"
     publishedDateTime: 2023-07-03T10:20:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-have-big-investors-running-for-the-exit-1032423115"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Best Under-the-Radar Stocks: 3 That AI Predicts Will Soar in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Under-the-radar stocks have provided compelling returns in 2023. Indeed, the"
+    publishedDateTime: 2023-07-04T16:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/best-under-the-radar-stocks-3-that-ai-predicts-will-soar-in-july-1032425911"
     type: article
     provider:
       name: Business Insider

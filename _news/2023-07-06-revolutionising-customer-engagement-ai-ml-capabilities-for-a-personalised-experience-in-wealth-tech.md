@@ -58,20 +58,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Community Conversation: “AI is as important to the future of national security as the invention of the airplane.”"
-    excerpt: "On Wednesday, June 28, the Dayton Daily News held a Community Conversation on the Dayton Daily News Facebook Page to discuss how artificial intelligence might affect the future of the Miami Valley. The event was co-hosted by Community Impact Editor Nick Hrkman and reporter London Bishop."
-    publishedDateTime: 2023-07-02T09:00:00Z
-    webUrl: "https://www.daytondailynews.com/ideas-voices/community-conversation-ai-is-as-important-to-the-future-of-national-security-as-the-invention-of-the-airplane/ZIW3HZHRO5BSXLQLOJVUAGERYQ/"
-    type: article
-    provider:
-      name: Dayton Daily News
-      domain: daytondailynews.com
-    quality: 35
-    images:
-      - url: "https://www.daytondailynews.com/resizer/l6MxPEOYJIVCuD12tSWRxCWwqY0=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/YVM5ZMN7H5AJFMMZJ54DCARIU4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2IEaFet2QTaSMZ9cKlVbtDVKPny9Wv94TaAkh/vdeC2ZEhaEyIhwKySooYcD0VGZcmPz65N/6BtLAs9m0ca4Nyb4Ctrf6IDb/+VkOjSeowT2m41bnr3EMih8OO4MNrX53jLamQf1j+ygkWPUZQmvSD+1K/c12G1lZmb3d5DC2dWzQxQ3b6GPG8wxfVbRPfxRkUOSTzDuZjxGCzKr2fmPZnWz9ghlzPW0NEb/EF90yn013lbSlutKE75J4v1rX2wAuo+r7bS9nxX+xkjtiuui9gJ5mu26+lwii1IY3a1H/r0/Zfz9wG/ohcQ5U8f+SR0/J5ZciQjt0k3CxPJEZfT/R0LzOaQUIencTeYVqO9XiPhwp9QpvUVeckYvKf5gveXrFbpt6LWl3gAJZAlupZUI6N5ut3RcuuGkDJScWz9NLYAwDb/pctMAhjHmJMotVjmFPcMDGdWPFFJ/4lR3CvXgc50lpkr4WVtN/Jt388ad5uCFxQw7/XiivIYwvr4EY/CGLb3V05LjIbV1QSWGojVO1w==;fKfOQK/lhlNwdfpIGNMzRg=="
 ---

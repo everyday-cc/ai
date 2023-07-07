@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/calumchace/2023/07/06/artificial-intell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/07/06/artificial-intelligence-and-new-styles-of-learning-with-david-giron/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

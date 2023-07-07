@@ -316,49 +316,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-04-top-7-best-ai-writing-software-tool.md",
-      "title": "Top 7 Best AI Writing Software Tool",
-      "excerpt": "Here is a list of the top 7 best AI writing software tools to help you create content with the best quality and SEO optimization. You will also find a guide on selecting the best AI writing software tool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210",
-      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1688464900.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210/amp",
-      "publishedDateTime": "2023-07-04T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-03-humanes-aspiring-smartphone-killer-ai-pin-may-be-the-most-2023-product-yet.md",
       "title": "Humane's aspiring smartphone-killer 'Ai Pin' may be the most 2023 product yet",
       "excerpt": "The secretive start-up, founded by ex-Apple employees and backed by OpenAI's CEO, has named its AI-powered wearable launching later this year.",
@@ -1402,6 +1359,58 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-voice-recognition-leaked-trump-tape-contradicts-denials-on-sharing-iran-war-plan.md",
+      "title": "Voice recognition: Leaked Trump tape contradicts denials on sharing Iran war plan",
+      "excerpt": "There’s nothing stronger than the power of a person’s voice. And few have a more recognizable one than Donald Trump. The media have gone into high-decibel mode over an audio recording ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan",
+      "originalUrl": "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb408128-7d4a-48fd-8d51-7f163fbebcb4/40683727-51bc-4311-8026-8eb3a74ebd3c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan.amp",
+      "publishedDateTime": "2023-06-27T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],
