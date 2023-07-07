@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-06-f1-british-grand-prix-facial-recognition-at-silverstone-being-used.md",
+      "title": "F1 British Grand Prix: Facial recognition at Silverstone being used",
+      "excerpt": "Facial recognition technology will be used for the first time at the Formula 1 British Grand Prix to try to stop protesters disrupting the race. Last year, climate activists from Just Stop Oil got on to the Silverstone track in the first lap and sat down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010",
+      "originalUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15798/production/_130306978_silverstonecarpa.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp",
+      "publishedDateTime": "2023-07-06T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-deepdub-go-brings-ai-localization-to-indie-games-and-content-creators.md",
+      "title": "Deepdub Go brings AI localization to indie games and content creators",
+      "excerpt": "Deepdub, an AI-based audiovisual dubbing company, has announced the launch of Deepdub Go, a way for creators to localize in 65 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/deepdub-go-brings-ai-localization-to-indie-games-and-content-creators/",
+      "originalUrl": "https://venturebeat.com/games/deepdub-go-brings-ai-localization-to-indie-games-and-content-creators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Deepdub-Go-capture3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-volkswagen-to-launch-self-driving-vehicles-in-texas-by-2026.md",
+      "title": "Volkswagen to launch self-driving vehicles in Texas by 2026",
+      "excerpt": "Volkswagen said on Thursday that it plans to launch autonomous, or self-driving, vehicles for ride hailing and goods delivery services in Austin, Texas by 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/XnP2m4tHU8tXOVIUZVRSSduElIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D7EEG2GECFIAJHYSPAB7AIXDKY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-the-indian-business-responsibility-and-sustainability-report-brsr-explained.md",
       "title": "The Indian Business Responsibility and Sustainability Report (BRSR) explained",
       "excerpt": "India&#8217;s Business Responsibility and Sustainability Report (BRSR)&#8212;a framework for environmental, social and governance (ESG) reporting&#8212;comes into effect in 2023. These new reporting standards represent an evolution from the voluntary guidelines first issued in 2009 by India&#8217;s Ministry",
@@ -552,49 +708,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-06-worlds-first-ai-institute-in-health-care-to-be-based-in-ajman.md",
-      "title": "World’s first AI institute in health care to be based in Ajman",
-      "excerpt": "The institute, which is set to open in September this year, will bring together experts in medicine, computer science, data analytics, and metaverse technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/healthcare/worlds-first-ai-institute-in-health-care-to-be-based-in-ajman-iqyij4j0",
-      "originalUrl": "https://www.zawya.com/en/business/healthcare/worlds-first-ai-institute-in-health-care-to-be-based-in-ajman-iqyij4j0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YmE3OGUyZmYtNDMxOS00/2/1421939040.jpeg?f=3%3A2",
-          "width": 889,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/healthcare/worlds-first-ai-institute-in-health-care-to-be-based-in-ajman-iqyij4j0?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/healthcare/worlds-first-ai-institute-in-health-care-to-be-based-in-ajman-iqyij4j0?amp=1",
-      "publishedDateTime": "2023-07-05T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-06-south-korea-wants-to-be-a-top-ai-hub-its-memory-chip-dominance-could-be-an-advantage.md",
       "title": "South Korea wants to be a top A.I. hub — its memory chip dominance could be an advantage",
       "excerpt": "South Korea is aiming to become one of the world's top three AI powerhouses by 2027, following closely behind the U.S. and China, according to the nation's \"digital strategy.\"",
@@ -702,15 +815,15 @@
       "title": "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign",
       "excerpt": "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about",
       "sourceUrl": null,
-      "webUrl": "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
-      "originalUrl": "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
+      "webUrl": "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
+      "originalUrl": "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mystateline.com/wp-content/uploads/sites/17/2023/07/64a5ddb2475494.99392003.jpeg?w=1280",
+          "url": "https://www.wboy.com/wp-content/uploads/sites/43/2023/07/64a5ddaa0b9f70.19433627.jpeg?w=1280",
           "width": 1280,
           "height": 851,
           "title": null,
@@ -720,13 +833,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/",
-      "cdnAmpWebUrl": "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/",
+      "ampWebUrl": "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/",
+      "cdnAmpWebUrl": "https://www-wboy-com.cdn.ampproject.org/c/s/www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/",
       "publishedDateTime": "2023-07-05T14:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTVO",
-        "domain": "mystateline.com",
+        "name": "WBOY",
+        "domain": "wboy.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1108,100 +1221,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learning-series.md",
-      "title": "AI for business leaders: Discover AI advantages in this Microsoft AI learning series",
-      "excerpt": "As a leader in all things AI, Microsoft has spearheaded a curriculum created especially for you and your colleagues to help you build the knowledge, insights, and skills needed to make the most of AI technologies. Transform Your Business with Microsoft AI is designed to bridge the gap between AI technology",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Picture5.jpg",
-          "width": 900,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-how-to-modernize-data-lakes-with-a-data-lakehouse-architecture.md",
-      "title": "How to modernize data lakes with a data lakehouse architecture",
-      "excerpt": "Learn how a data lakehouse architecture and watsonx.data can help you modernize you data management strategy.\nThe post How to modernize data lakes with a data lakehouse architecture appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-modernize-data-lakes-with-a-data-lakehouse-architecture/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-modernize-data-lakes-with-a-data-lakehouse-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T08:58:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

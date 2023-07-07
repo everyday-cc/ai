@@ -42,6 +42,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 28
+  - title: "IHiS Inks MOU with Microsoft to Deepen Collaboration and Trailblaze Generative AI and Cloud Innovation in Healthcare"
+    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcare. SINGAPORE – Media OutReach – 7 July 2023 – The Integrated Health Information"
+    publishedDateTime: 2023-07-07T10:15:00Z
+    webUrl: "https://www.sinchew.com.my/20230707/ihis-inks-mou-with-microsoft-to-deepen-collaboration-and-trailblaze-generative-ai-and-cloud-innovation-in-healthcare/"
+    type: article
+    provider:
+      name: sinchew
+      domain: sinchew.com.my
+    quality: 28
 
 secured: "QGFNUJ477hQ19dSaKQgnRfT7gTOgQha4KD1+CuTbfHiJrUY4/RG51hD5u0VlKX5Iv7xnkuuLjinAWY0QcYJD9hl3rhPip2g+ENdYVxooIT62eyCNWWfxhOp7WZG62wuDkvT7xCDc0AMVbsIEQTztfiEznNbBlabrrqczMB2joqg/D02t7TixGL/6N/HxH7ZiEvCtk/qzlNd6vjkQ04sTXNjpFW0mdL6tK/BklQ0hCQe0IsgghYEY6PqLV8P8KSV8T7YlI3dSr+B/qJBwCFFs9LMknKq0b0tr60TJxMYSN1WBDmGgILGR+iMMkHBnWepNn6gBXDgZzrEG+6Ndpr/erk06KBkR4FY0so+XAPty1lc=;WBmNUUaWsgmgWr9QVrBBwQ=="
 ---

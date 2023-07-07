@@ -3,10 +3,10 @@ category: news
 title: "Odd News Roundup: AI robots could play future role as companions in care homes"
 excerpt: "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it."
 publishedDateTime: 2023-07-07T05:04:00Z
-originalUrl: "https://www.devdiscourse.com/article/science-environment/2514345-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes"
-webUrl: "https://www.devdiscourse.com/article/science-environment/2514345-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes"
-ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2514345-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2514345-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes?amp"
+originalUrl: "https://www.devdiscourse.com/article/science-environment/2514345-reuters-odd-news-summary"
+webUrl: "https://www.devdiscourse.com/article/science-environment/2514345-reuters-odd-news-summary"
+ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2514345-reuters-odd-news-summary?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2514345-reuters-odd-news-summary?amp"
 type: article
 quality: 70
 heat: -1
@@ -72,6 +72,6 @@ related:
         height: 335
         isCached: true
 
-secured: "k/6qqphkLAu+oIDO13sASPbXYIaR76LS0CjpBjphfvRfw8mVHdjtBYCGJzqlF4EAqlqt0hQjDXYxpFKHK0ZHkluYpILlB8FfLdLJwhU6/AUWd9cZdzLm8VjW/fvkIdUQ7pAO3uKSCT1+mEJivOpCfIlLDP51DTwYMyu63jJVvkrjJ1tzuVocoUyy+eRh6UCwD/lKNdc4S/bhynqDwd911X16PwyxzUYhJoclwZm8MCH1gwvfUAgC6bUeeMKwv6biy9fGZ1qmFvby5mvhZwaduBtVYwrh0eU7MEQ7U3YQgaWH9lQmInfimUDatV1C9PUBvruBjBx0bNz8CAEV4p5ncfR/b4uiQ4lg1+Z3gXH9nMSS++fhhOs4pGGrs1Z4Dh0Sg0X1txkmNxFbpARdIOzYF2+wry/yPBZdIxJkh/PwyfMKBXpmM4PODQduJEw6/8upHaoc55d2gjoC6ccRqrqOgZXjh4vJ6URkVUFJBSaaFhLyDNBRn/YpiPqLqOdjx2+PNhCkrJMkpzGlFQ+V6EpxEw==;prTWO69435vZldSiQlRBfg=="
+secured: "vJz/6WKx1sanHiYWHlcxuiXYvwTUXN2ioETlWEiwqPORHzYOO+tTRqiva/JXsU7gA+UyB0aZkib44qZjy8sbT4XOB/vpWQ+axDYuXSFYg0+zN+kSUEmC7S7Ht8TR1JZRz+zkXphT0jkA7/RP/c0SOkVY/6Ig76GvxG+zyODByHSTqom+c1TujnK2/p+ovQ2mdAhXvSntkNBekWGrJfyjZvcl2SpBWRsSLP/PdcffX2UJEMc2UVgVyza4iTKaJrUpWMNBMxgrEzAq5YV4ha+b5/U6BFolKSmLJvz457xcr5JDnWndOxpDGsfvK+UGhejz9vIzpKRSpKjyJ2D72BJ1rptNn91BEXOs9APAbAqAc94=;/gZwIxtXAyliPg0by7Joxg=="
 ---
 

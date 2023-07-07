@@ -19,45 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "UN recruits robots in effort to meet global development goals"
-    excerpt: "Dozens of robots, including several humanoid ones, will take centre stage at a conference organized by the United Nations technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals."
-    publishedDateTime: 2023-07-05T14:50:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html"
+  - title: "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI"
+    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots."
+    publishedDateTime: 2023-07-06T18:40:00Z
+    webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e"
+    ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 59
+      name: Barron's
+      domain: barrons.com
+    quality: 74
     images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/24/1_4782295.jpg"
-        width: 470
-        height: 264
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1068567945374523030379734546671221318998---1.jpg"
+        width: 768
+        height: 511
         isCached: true
-  - title: "United Nations counting on AI and robots to save its failing Social Development Goals"
-    excerpt: "The United Nations AI for Good global summit in Geneva will host world’s largest gathering of humanoid robots."
-    publishedDateTime: 2023-07-06T13:39:00Z
-    webUrl: "https://interestingengineering.com/innovation/united-nations-counting-on-ai-and-robots-to-save-its-failing-social-development-goals"
+  - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
+    excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
+    publishedDateTime: 2023-07-06T14:51:00Z
+    webUrl: "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1139719"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1139719"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 49
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 69
+  - title: "Rise of the robots: UN tries to tackle ‘mind-blowing’ growth of artificial intelligence"
+    excerpt: "A nightmare scenario has unchecked AI advances leading to “geopolitical instability and economic disparity on a scale we’ve never seen before”. Read more at straitstimes.com."
+    publishedDateTime: 2023-07-06T16:20:00Z
+    webUrl: "https://www.straitstimes.com/world/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 46
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/06/image/png/f4NfANmyZz5D9TGBjwuO8HmK2KUBCWJCPa3CLXFZ.png"
-        width: 1920
-        height: 1080
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/SWITZERLAND-SCIENCE-COMPUTERS-ITU-AI-105057.jpg?VersionId=Mw9deeUvgnDmOBg7QFc9gmZ3Qw0RBaSa"
+        width: 860
+        height: 573
         isCached: true
-  - title: "UN recruits robots in strive to meet global development goals"
-    excerpt: "Dozens of robots, including several humanoid ones, will take centre stage at a conference organised by the U.N. technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals."
-    publishedDateTime: 2023-07-05T13:04:00Z
-    webUrl: "https://www.aol.com/news/un-recruits-robots-strive-meet-100434379.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "crZAC8t5OPFocwicemTzsbTz1dBiQ8XixB0HACSl6SZo3kBqO9Ri7O2za89EvdF8ypWfb1dE9xEZbOzPK/N85KzayvoxroZOWrWyMs3mZOBv1OyDPO2LNjNwLUactwYXwng+URHY1xTMZLmL5QAiWN1kGgwsQDMXH3AkuJ2WyckVrJQVhgZmAWvmU3VdEAOF6BYenC2uWQNuhVg/+r9tfHzAbH5RFOBJgRnhFYLPMdrXXXqppOCrv50pKkMExbTi6FIKIEaY3zr4TdD6oNKLGJpFAOmvWMnrRhTJU5mOVGstxMgRtSwY86MgtpEbpOe1gPYK0d1fzVrz1tUH/BqkZsXtE64L/U+4TcNUs/icjJ54mhqus/DC45MEa7mGDDPZEplSU3yP7iceB3W4J5d1OStwSelpSMfrdSMr2VD1dGQcrTkmBBfpji8Dc5ApOkTDUyN0IpkuTlaGQ7wvdriHx54j8+6BcjbvYb6vcgBHD4AeZsog8dSBz3imtF6leFpxKOT4U7f/KXk71gqlP8Luzw==;mr/RQ2Xvn0fND0FDFCf2Iw=="
 ---

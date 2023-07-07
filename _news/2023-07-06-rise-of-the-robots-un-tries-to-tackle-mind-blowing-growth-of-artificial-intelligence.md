@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI"
+    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots."
+    publishedDateTime: 2023-07-06T18:40:00Z
+    webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e"
+    ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1068567945374523030379734546671221318998---1.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
     excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
     publishedDateTime: 2023-07-06T14:51:00Z
@@ -36,6 +52,15 @@ related:
       name: omanobserver
       domain: omanobserver.om
     quality: 69
+  - title: "AI summit showcases human-like robots to aid UN mission"
+    excerpt: "Dozens of humanoid-like robots will take center stage at the United Nations “AI For Good” Global Summit, showcasing how AI can be used to support human wellbeing."
+    publishedDateTime: 2023-07-05T21:20:00Z
+    webUrl: "https://cybernews.com/tech/united-nations-ai-summit-robots-human-wellbeing/"
+    type: article
+    provider:
+      name: cybernews
+      domain: cybernews.com
+    quality: 34
 
 secured: "Zoy1H04S3Qr9865TOwqt6emmOgyYfjj1xvIDRhkHPsgcQ98I3Ci1x9Hw11/abxqz+WsmSDWgwC+chQzMaRHMveAhDUV7gqi0unLZq8DM1ouaEksBYknVbYa7Qd0fjfbgEpzMX9eoyaiz2TUiq9DSO/1p1QtoGe+2p7D3U+zyB5m90GyEreQo0ngvW1O2hDnOcpuZlWEChIw+JrWFGyhbs0NmlScJh4hNjGoXMRZGVnCxVuiRXChiXhNpDjuj2UucrUFXYTPRiPK6LNjx0Awa1f6gLM7urh2tLrvySBHwHcXSV7RK/+0Ei6eKEoJNk9WB0nEHImfpzNEfgx/ix8EIbMm47kc1vy3od/DUmMu890E57LlaqkBOvOoZfQKNGIUbvRCZiZVtvjFZ0azqiWqqgNEWK+nUgkQr5pofbzg5+oRWtZlEnTBq5VmqdvyMs220G/GM7AfqhLl6NX0Wheta9nb1TOpP224JIiicOlDv0kCIMObqeMTgUc47j7gvS7RnWB2zMLE3nL/qBfK1KIPJVA==;fDt2qcGBze6jcy/V2puHEw=="
 ---

@@ -47,6 +47,20 @@ related:
         width: 939
         height: 630
         isCached: true
+  - title: "WeRide given national licence for self-driving cars in UAE"
+    excerpt: "He said: “We approved the first national license for self-driving vehicles on the country’s roads, which was granted to the specialised WeRide company.” Earlier this year, Sheikh Mohammed bin Rashid announced new laws to cover the issue of self ..."
+    publishedDateTime: 2023-07-07T09:53:00Z
+    webUrl: "https://www.just-auto.com/news/weride-given-national-licence-for-self-driving-cars-in-uae/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/07/WeRideDubai.jpg"
+        width: 602
+        height: 334
+        isCached: true
   - title: "WeRide receives autonomous driving license from UAE government"
     excerpt: "Photo provided to] WeRide, a Chinese autonomous driving company, received its first national license for self-driving vehicles from the United Arab Emirates gov"
     publishedDateTime: 2023-07-04T12:52:00Z

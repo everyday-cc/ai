@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possibl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
+    excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity and large language models,"
+    publishedDateTime: 2023-07-07T11:07:00Z
+    webUrl: "https://www.globaltimes.cn/page/202307/1293938.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-07-06/cec72acb-baa5-4f80-b201-354117b3562b_s.jpeg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "U.S. Weighs Human Rights As It Looks To Expand China Chip Restrictions"
     excerpt: "Since the controls affect other industries that rely on the restricted chips—most notably China’s AI industry—Beijing’s claims that the moves are an effort to undercut China’s technological and economic development have significant supporting ..."
     publishedDateTime: 2023-07-06T19:43:00Z

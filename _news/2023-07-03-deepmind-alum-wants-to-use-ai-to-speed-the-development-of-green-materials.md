@@ -7,8 +7,8 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/03/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: The Star
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s Why Google DeepMind’s Gemini Algorithm Could Be Next-Level AI"
-    excerpt: "Google DeepMind's CEO, Demis Hassabis, says their Gemini algorithm will use reinforcement learning to take AI beyond GPT-4."
-    publishedDateTime: 2023-07-02T18:11:00Z
-    webUrl: "https://singularityhub.com/2023/07/02/heres-why-google-deepminds-gemini-algorithm-could-be-next-level-ai/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 34
   - title: "Scientists use deepfake AI images to understand the sun's atmosphere"
     excerpt: "Solar scientists are using deepfake AI images to unravel the mysteries of the sun's atmosphere. The research, being presented at the National Astronomy Meeting this week, was carried out as part of a collaboration between Northumbria University and the University of Bern."
     publishedDateTime: 2023-07-03T18:33:00Z

@@ -177,6 +177,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "MOH agency, Microsoft to develop AI tool to help healthcare workers in Singapore"
+    excerpt: "SINGAPORE – Healthcare professionals in Singapore will have an artificial intelligence (AI) tool to help them get quick and accurate answers to questions about care protocols for medical conditions or subsidies available to patients."
+    publishedDateTime: 2023-07-07T11:04:00Z
+    webUrl: "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 66
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/hzhospital070723_0.jpg?VersionId=DmWmvyy8TAXRSC55NTAwkREwOC2gKdiw&h=40abc946"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Railtown AI's Commercial AI Solutions Achieve Microsoft Co-Sell Ready Status"
     excerpt: "This milestone signifies that Railtown AI has met Microsoft's criteria for co-selling, fostering collaboration and visibility within the Microsoft ecosystem. This status enables Railtown AI to drive deeper collaboration and go-to-market momentum as the Company works with Microsoft's 7,"
     publishedDateTime: 2023-07-05T13:01:00Z
@@ -186,6 +200,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
+  - title: "IHiS to develop a Secure GPT for healthcare with Microsoft"
+    excerpt: "It is a custom-built common platform using Azure OpenAI Service to enhance healthcare workers' productivity and patient care."
+    publishedDateTime: 2023-07-07T10:24:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/ihis-develop-secure-gpt-healthcare-microsoft"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/ihis-develop-secure-gpt-healthcare-microsoft"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/ihis-develop-secure-gpt-healthcare-microsoft"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 56
   - title: "Why Microsoft won't be the company to mainstream consumer AI use"
     excerpt: "Microsoft still doesn't get consumers. At the start of 2023, the internet was ablaze with the idea that Microsoft may have finally, finally found a way to dent Google's search dominance. Using the power of AI,"
     publishedDateTime: 2023-07-06T14:52:00Z

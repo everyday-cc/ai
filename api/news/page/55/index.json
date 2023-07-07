@@ -2,6 +2,100 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-05-31-laurus-labs-invests-rs-80-crore-in-cell-gene-therapy-firm-immunoact.md",
+      "title": "Laurus Labs invests Rs 80 crore in cell & gene therapy firm ImmunoACT",
+      "excerpt": "The fresh infusion of capital will enable ImmunoACT to fast-track the scale-up of its lead candidate HCAR-19 by expansion of the multi-location cGMP facilities and R&D of new product pipeline. \"This investment will further help ImmunoACT to gear up for the manufacture of more treatments,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/laurus-labs-invests-rs-80-crore-in-cell-gene-therapy-firm-immunoact/articleshow/100655546.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/laurus-labs-invests-rs-80-crore-in-cell-gene-therapy-firm-immunoact/articleshow/100655546.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/msid-100655522,width-1070,height-580,imgsize-10972,overlay-economictimes/photo.jpg",
+          "width": 1070,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/laurus-labs-invests-rs-80-crore-in-cell-gene-therapy-firm-immunoact/articleshow/100655546.cms",
+      "cdnAmpWebUrl": "https://economictimes-indiatimes-com.cdn.ampproject.org/c/s/economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/laurus-labs-invests-rs-80-crore-in-cell-gene-therapy-firm-immunoact/articleshow/100655546.cms",
+      "publishedDateTime": "2023-05-31T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-ai-rules-coming-way-too-late-eu-official-warnscalls-for-code-of-conduct.md",
+      "title": "AI Rules Coming ‘Way Too Late,’ EU Official Warns—Calls For Code Of Conduct",
+      "excerpt": "Margrethe Vestager, the European Union’s tech chief, said standards were necessary “in order for society to trust what is ongoing.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tylerroush/2023/05/31/ai-rules-coming-way-too-late-eu-official-warns-calls-for-code-of-conduct/",
+      "originalUrl": "https://www.forbes.com/sites/tylerroush/2023/05/31/ai-rules-coming-way-too-late-eu-official-warns-calls-for-code-of-conduct/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647754bcdd66b5203b7b69d7/0x0.jpg?format=jpg&crop=4781,2691,x113,y418,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tylerroush/2023/05/31/ai-rules-coming-way-too-late-eu-official-warns-calls-for-code-of-conduct/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tylerroush/2023/05/31/ai-rules-coming-way-too-late-eu-official-warns-calls-for-code-of-conduct/amp/",
+      "publishedDateTime": "2023-05-31T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures.md",
       "title": "China warns of artificial intelligence risks, calls for beefed-up national security measures",
       "excerpt": "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies.",
@@ -1077,101 +1171,6 @@
         "AI",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world.md",
-      "title": "Game On! Emirates Group and AWS team up to craft an immersive digital world",
-      "excerpt": "The Emirates Group is embarking on a futuristic, immersive digital journey to transform its employee experiences – a first for the industry – by collabo",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
-      "originalUrl": "https://www.albawaba.com/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-05/ixr4.jpg?itok=gIOz0nbP",
-          "width": 6678,
-          "height": 5344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
-      "publishedDateTime": "2023-05-31T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-asm-sees-impact-from-china-chip-curbs-offset-by-ai-driven-demand.md",
-      "title": "ASM Sees Impact From China Chip Curbs Offset by AI-Driven Demand",
-      "excerpt": "Dutch chip gear firm ASM International NV said the impact on its sales from US semiconductor export controls on China is “not a big deal” amid strong demand for chips driven by artificial intelligence applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-31/asm-sees-impact-from-china-chip-curbs-offset-by-ai-driven-demand",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-31/asm-sees-impact-from-china-chip-curbs-offset-by-ai-driven-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWtUlDBoHJr8/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

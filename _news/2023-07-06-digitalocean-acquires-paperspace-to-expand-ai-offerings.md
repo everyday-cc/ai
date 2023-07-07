@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/digitalocean-acquires-paperspace-to-expand-
 webUrl: "https://sdtimes.com/ai/digitalocean-acquires-paperspace-to-expand-ai-offerings/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/image-1.png"
         width: 1034
         height: 580
+        isCached: true
+  - title: "DigitalOcean acquires cloud computing and AI start-up Paperspace for $111 million"
+    excerpt: "Cloud hosting business DigitalOcean has acquired an artificial intelligence (AI) and cloud computing startup, Paperspace, for $111 million. New York-based Paperspace, launched in 2014, runs three data center regions with custom-configured GPUs."
+    publishedDateTime: 2023-07-07T11:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/digitalocean-acquires-cloud-computing-and-ai-start-up-paperspace-for-111-million/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 32
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Digital_Ocean.2e16d0ba.fill-1200x630.jpg"
+        width: 1144
+        height: 600
         isCached: true
 
 secured: "bk76olRys9lnOmd1AWLtcKBB3cCebm+fpnuMvohoGS5nZA0cb8qwr4TXiBvacll+t6DPxQ1SLCq0VrL7BxeUQUTzLCARau3A+gH8UT89GJM01ytxUzlq6y0A1mxEcYJ/lSf8sSbuFrUj+k378h0iDHf3WujHJvsB7uvSmVOpjuUphVRGS6jKYgrm8bu9O6YnRibjXbxy1YOGFsIWGNNjXZtpXpuSqgk0j452DonGEWo10u6nmhQkZQK/KBRgMkrr3sIsFJ94JwSsZ+2gjj4GBtALvxqfNUH65ihVSpF2vz7QoWSRCe6R5BR+RwxMlRtX7U/4Gs6cUoeBORfIA/QKP/7fe153crjFan0lwJARzFI=;O8sFPbk++45B0VJH95UkUg=="

@@ -27,16 +27,16 @@ related:
   - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
     excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about"
     publishedDateTime: 2023-07-05T21:13:00Z
-    webUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
-    ampWebUrl: "https://www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
-    cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
+    webUrl: "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
+    ampWebUrl: "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
+    cdnAmpWebUrl: "https://www-wboy-com.cdn.ampproject.org/c/s/www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
     type: article
     provider:
-      name: WTVO
-      domain: mystateline.com
+      name: WBOY
+      domain: wboy.com
     quality: 66
     images:
-      - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2023/07/64a5ddb2475494.99392003.jpeg?w=1280"
+      - url: "https://www.wboy.com/wp-content/uploads/sites/43/2023/07/64a5ddaa0b9f70.19433627.jpeg?w=1280"
         width: 1280
         height: 851
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-mic
 webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -33,6 +33,15 @@ related:
     provider:
       name: Mint
       domain: livemint.com
+    quality: 28
+  - title: "IHiS Inks MOU with Microsoft to Deepen Collaboration and Trailblaze Generative AI and Cloud Innovation in Healthcare"
+    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcare. SINGAPORE – Media OutReach – 7 July 2023 – The Integrated Health Information"
+    publishedDateTime: 2023-07-07T10:15:00Z
+    webUrl: "https://www.sinchew.com.my/20230707/ihis-inks-mou-with-microsoft-to-deepen-collaboration-and-trailblaze-generative-ai-and-cloud-innovation-in-healthcare/"
+    type: article
+    provider:
+      name: sinchew
+      domain: sinchew.com.my
     quality: 28
   - title: "Rubrik and Microsoft announce Generative AI-Powered Cyber Recovery and Remediation"
     excerpt: "Rubrik, the Zero Trust Data Security Company, today announced a joint collaboration to integrate Rubrik Security Cloud with Microsoft Sentinel and Azure OpenAI Service to accelerate cyber recovery through the use of generative AI and Natural Language Processing (NLP)."

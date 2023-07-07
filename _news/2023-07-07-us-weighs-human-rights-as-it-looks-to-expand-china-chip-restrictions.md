@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
+    excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity and large language models,"
+    publishedDateTime: 2023-07-07T11:07:00Z
+    webUrl: "https://www.globaltimes.cn/page/202307/1293938.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-07-06/cec72acb-baa5-4f80-b201-354117b3562b_s.jpeg"
+        width: 500
+        height: 300
+        isCached: true
 
 secured: "qd1CBzYQxeSV30ITbqmnyf9TRAEa0fK8ns+itGowzqUblsxrlwd3f23p6nqHSZIn75wtrbtE9NsSVzhKYGz0jRq1DmOyKiJE3oEZ4abp+kBERfJPJUPcKM4UciSaKu9230jgAPGt8b6RNgjmPweyoAkq67+ijSzmak5R2RdrlXRKtijdEvrIsdwqYyzx1cMetIyY6Arl3lQal+FoN9OdQFuZPNqq4TCQbOBLvb7Bh/+qMiMdHPZVUtio+ZUba2hbhIBh3uJupZ8sqDchkJKDAz1orCFAxig1gpr/B1rJbRJTDeJbMUev6MrQOmW+rXb3wqhknYxtbWtY2xU6qHlEruXusUs1WM+kwFDEc40ZUPHHRg99qb1jBjxO0LQwhdyDQMp3LDGv5vquzouB+W1Zc1UV2686nvPLZwWutEgAbXDeRmGxOYvw6/VeiYdsQ+jRI/r+qFGDhOHidMoQD+rAuDKm9R8bSjdSieIQh40tgXL5+eeXzDPJpBMnnEWtvOnABQsCk8d6YqneMLXxNHVSZg==;ORYGh37lPuZEAHHljKTFLw=="
 ---
