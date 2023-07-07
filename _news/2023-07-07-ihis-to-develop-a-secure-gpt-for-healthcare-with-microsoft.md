@@ -201,6 +201,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
+  - title: "Microsoft's 10 biggest healthcare moves of 2023"
+    excerpt: "Microsoft continues to make strides in the healthcare industry, from partnering with Epic Systems to collaborating with hospitals and health systems."
+    publishedDateTime: 2023-07-07T14:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsofts-10-biggest-healthcare-moves-of-2023.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "TCS partners Microsoft for generative AI solutions"
     excerpt: "Tata Consultancy Services has deepened its partnership with Microsoft by announcing plans to significantly scale its Azure Open AI expertise, and launching its new Generative AI Enterprise Adoption offering on Microsoft Cloud to help customers jumpstart their generative AI journey."
     publishedDateTime: 2023-07-06T06:39:00Z

@@ -122,15 +122,6 @@ related:
         width: 1024
         height: 400
         isCached: true
-  - title: "AMD's AI Chips Could Match Nvidia's Offerings"
-    excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp, with a future path to matching their performance, according a Friday report by an AI software firm."
-    publishedDateTime: 2023-07-02T19:48:00Z
-    webUrl: "https://financialtribune.com/articles/sci-tech/118911/amds-ai-chips-could-match-nvidias-offerings"
-    type: article
-    provider:
-      name: Financial Tribune
-      domain: financialtribune.com
-    quality: 34
   - title: "Nvidia acquires OmniML for AI Edge workloads"
     excerpt: "AI is so big today that Edge devices aren’t equipped to handle its computational power,” OmniML co-founder and CEO Di Wu said when the company raised $10 million last year."
     publishedDateTime: 2023-07-03T12:17:00Z

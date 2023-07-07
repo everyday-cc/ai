@@ -1,18 +1,18 @@
 ---
 category: news
 title: "IHiS Inks MOU with Microsoft to Deepen Collaboration and Trailblaze Generative AI and Cloud Innovation in Healthcare"
-excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcare. SINGAPORE – Media OutReach – 7 July 2023 – The Integrated Health Information"
-publishedDateTime: 2023-07-07T10:15:00Z
-originalUrl: "https://www.sinchew.com.my/20230707/ihis-inks-mou-with-microsoft-to-deepen-collaboration-and-trailblaze-generative-ai-and-cloud-innovation-in-healthcare/"
-webUrl: "https://www.sinchew.com.my/20230707/ihis-inks-mou-with-microsoft-to-deepen-collaboration-and-trailblaze-generative-ai-and-cloud-innovation-in-healthcare/"
+excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcare. SINGAPORE – Media OutReach – 7 July 2023 – The Integrated Health Information Systems (IHiS) inked a Memorandum of Understanding (MOU) with Microsoft for deeper collaboration in generative AI and cloud innovation today."
+publishedDateTime: 2023-07-07T02:14:00Z
+originalUrl: "https://www.macaubusiness.com/ihis-inks-mou-with-microsoft-to-deepen-collaboration-and-trailblaze-generative-ai-and-cloud-innovation-in-healthcare/"
+webUrl: "https://www.macaubusiness.com/ihis-inks-mou-with-microsoft-to-deepen-collaboration-and-trailblaze-generative-ai-and-cloud-innovation-in-healthcare/"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: sinchew
-  domain: sinchew.com.my
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - Microsoft AI
@@ -53,6 +53,6 @@ related:
       domain: webindia123.com
     quality: 28
 
-secured: "Y4XBaJOeD1WDyDVlGWQLmViZV4h0gEZ51Xi3uPOKeYFXbuBdja6D7ctcIzL/7Les7lpi+y3zsofYMq4XrrPQ7+7P4S+x3sawAmAPSyApQPE58RbIAkYvUVh70+AWkbolgpA63bUmESloIv8G/ybZ2aCUnRgzu8yqSXUyIdPGou0ZGyjscVQ7cjXawbjNaGAPWwsow3slBn1LG3VdDqOVoXZfhtNZr4/be+MJwpkzY/KqODchtwIZ3juDHgJZVGcEEUufucXZ43NeDPduMhqJjV361cSaTVS2pFL43KSEKHeL4ErQKOTsZPsd9ksn+hsb1Rcz+N7Lh+uzR8h+UhsU78ok4Prj5nx82wEp9yAOgeE=;HqVdh3gNPFiusXUCNuO/Kg=="
+secured: "Wh5ZpRHKXkregEufQs/Ooi9RgN3w5rtV/AwIQ+8bJ6zPxMFazZzLCJsTgL1xWSfVDxwn68KFoY68tBhUuD0mk0GqxPv7LCkCR1XWur2duvLMnwpmeJARqefyGF73SBUfI982FBOoZy7Q8WqDYg38ueCyoff4ZXizTatdN2b3OQSFLH3j/KEr6HuCO9Eq4giSNk+HLBtyB/8ZTagP+Z428UwniyvGh4cIDF8cNQEvqfW8sEo5ThaAYTmrYXEoiCGGlI3kSwaxMq9F71wwGi8btQ6WZkptpSohPkJ+ltx/P0A5vlN9nAkDCLuGPy50w7LrVExPM2imqdvvUbkd2P9PMiVa+/9GYdJ2G5JstmmVEyaWGLp+nLHLzwlWFj4Pad1uT/HZL2/f6Q2yMQD+/fo85ThF3vabtXbQGlYJIn9VCKSrAFJ9hmFEE1I0myDhWdVzjoPXKTOj1BSJobd9WbwCgI/6/K1X0iKwV7Xmb9Cm9YlbO82nslh4e0mPIlLOvuh77CmjXV5bdKP+pzA1XJA5pw==;0gQdhTl8Twkply19PhoGrg=="
 ---
 

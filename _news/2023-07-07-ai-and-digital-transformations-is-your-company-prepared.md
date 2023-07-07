@@ -1,0 +1,90 @@
+---
+category: news
+title: "AI And Digital Transformations: Is Your Company Prepared?"
+excerpt: "As powerful as AI may be, it’s also just an added tool for amplifying corporate efforts. Using it for the sake of implementation shouldn’t ever be a main goal in itself. Start by building a clear implementation strategy that identifies specific needs ..."
+publishedDateTime: 2023-07-07T13:22:00Z
+originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/ai-and-digital-transformations-is-your-company-prepared/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/ai-and-digital-transformations-is-your-company-prepared/"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "How Public Health Agencies Are Harnessing AI And Advanced Analytics For Transformative Impact"
+    excerpt: "In recent years health agencies like CDC have leveraged data and analytics to enhance their capabilities and become more efficient."
+    publishedDateTime: 2023-07-03T16:32:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a2f741ef05b2265d8aa488/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI Driving Web Analytics in the Financial Publishing Industry"
+    excerpt: "What The Finance, a popular news website, has taken its web analytics capabilities to the next level with a partnership with Social Media"
+    publishedDateTime: 2023-07-04T08:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-driving-web-analytics-in-the-financial-publishing-industry-1032424364"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/89101410-1688437795.jpg"
+        width: 650
+        height: 363
+        isCached: true
+  - title: "Gartner survey: Most corporate strategists find AI and analytics critical to success"
+    excerpt: "A new survey from Gartner has revealed that most corporate strategists think that AI and analytics are critical to their success."
+    publishedDateTime: 2023-07-05T21:21:00Z
+    webUrl: "https://venturebeat.com/ai/gartner-survey-most-corporate-strategists-find-ai-and-analytics-critical-to-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/GettyImages-1373296586.jpg?w=1200&strip=all"
+        width: 1200
+        height: 680
+        isCached: true
+  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
+    excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
+    publishedDateTime: 2023-07-06T15:42:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/06/9844060.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
+  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
+    excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London,"
+    publishedDateTime: 2023-07-07T01:05:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/269347"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 7
+
+secured: "euX6QN0Z1QqTuApgPV7DEEkY0NH8U28E4UuLDojOIwrfxN7Ax5Ryc7DcW9Y+cffY2FkpwCk7cCDbBFayKS7xP3z/IIa04Vo++NvM2dDrgkUijx3LqHBt6YA18t6+NOusulEqdzz/znB7+g7YqmdEzGSMrcCSGK+yHqs4DPeTMnMN0KTfixW5O2cZU/FurnZ6viCer1PSE0dSZVxdpN7mapzqF87xl4FRZdlTyUEWEH70qe5qMrNo0sgGjDCumoWI/DDF/j4iWEoIEfRcZl3TVhnKahvaXYEqv+nbZKytkI7cxtQPWG/4ebLecZEL+xRpQ99N18Ko2krSx3sK+hrkIE7+ytrVrrGH0rEyA3OzHzapEm7xSgmcY6P5jIJLIOjJ1l98tv1j9ildO7RSUEJ8eU3T4soKojdDn6VQPBu4lnoipQHO2Op1VEw4kjzu5fyO+hUH/QBSO1H7HYZc+fEV/XLY+2QGzhg915CnncSQ/0HesR/bRinrKs/uN2o85uaAo55N56FYmV5A62WS64HlXQ==;aKfE13qZQFHAC7ygKDv5FQ=="
+---
+

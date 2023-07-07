@@ -3,11 +3,11 @@ category: news
 title: "Companies Are Drowning in Too Much AI"
 excerpt: "IT sellers are rolling out an avalanche of new generative AI features, leaving CIOs overwhelmed and workers confused."
 publishedDateTime: 2023-07-07T10:00:00Z
-originalUrl: "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003"
-webUrl: "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003"
+originalUrl: "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4"
+webUrl: "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -42,16 +42,7 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "How 5 healthcare organizations are investing in AI for patient care"
-    excerpt: "Healthcare organizations are investing millions of dollars into artificial intelligence to achieve a faster and more accurate care delivery model."
-    publishedDateTime: 2023-07-06T19:08:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/ai-patient-care-cleveland-clinic-providence-adventhealth"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
 
-secured: "t2cXy/Sbs8mwL2q2p5RpqGW+2rlEIaf6OgK5FZeYXlMCCS+xGvsKd0ad9FCiCbKCW4INeDrnyGlRyvpKvZSid4GuerUOn1HgidIAFZSp9ei2FpgomBvkaReJUm4SYc3zFHWMPXzEQErqiGQ0UJh9QsQKJWJR48C97QFyzPJ6cTV31JCKdWODHJrVkMzCniGggqFNO2Vpml6ivybwBPIJ2FfxXKyM/afCE18VDBOgFY5VsNWBOaII8JLg7uI5JHvFLsq275J+228xF9cnwq3kOiJGxvtSB2uuiSkv1IxRnmfkSYuyV3o/y8rVY0o+7+0G6WIMkq6oZym94rLa5S1SLDUUm1YgH1BUDAsv4o3J7uM=;QHrP3ljGn7bGMQyWKobR7w=="
+secured: "QQ2Vji3qSxCpVpRLNZftwF92zSjoYlxfpcf2Sg0Lk1bXrBgfeYF4TdpgzSgtSPloumixTjmC586xJ66ajg0trw4dKf49zbwUi5cJYzFC+PJ6AR0CoRyT4n4nHQWLN/NuQZHwF1/Dz/rpKqnmHj3lPZq4DLwviU0DIUN573fO4huC2hGWt1usUo3X13hVViiou7yocypFT4CPFOW+SzWGtypE1cdIigql0MtJahqwxl1yVGDYIm/iRcLitDkoEYyMaD4iF9moQdM+iYTDp9fDkIv4TS5y3nXXW5G5qW7fJnxhpXsBJs0KmXNJPPV9ryLbm8MH4WmXCpYCoZ1jfpcwpDYqOv3/CikFYYP3SqFogWg=;m8Ith42ZjqLLLWQYy+Ji2g=="
 ---
 

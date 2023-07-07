@@ -159,6 +159,20 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "ChatGPT loses users for first time, shaking faith in AI revolution"
+    excerpt: "OpenAI's chatbot has been heralded as spurring a revolution in the tech world. But its spectacular growth has suddenly slowed down."
+    publishedDateTime: 2023-07-07T12:50:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BWVWREBAARAMPRKG6SHTDWITBY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "ChatGPT: Elevating Natural Language Processing With AI"
     excerpt: "Introduction With the advent of artificial intelligence (AI), several groundbreaking advancements have been made, and OpenAI’s ChatGPT stands testament to this fact. This cutting-edge language model is upending the field of natural language processing (NLP) with its superior text-generation capabilities."
     publishedDateTime: 2023-07-05T12:29:00Z
@@ -168,6 +182,20 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 34
+  - title: "AI ChatGPT-powered smart toys are coming for the holidays. How to keep your kids safe."
+    excerpt: "We're bound to see a slew of AI ChatGPT-powered toys hitting the scene this holiday season. When the kids start asking for them, you’ll already know it's not all fun and games. Kim in your inbox: I share smart stories like this about the tech news that ..."
+    publishedDateTime: 2023-07-07T15:34:00Z
+    webUrl: "https://www.azcentral.com/story/tech/columnist/komando/2023/07/06/ai-toys-kids-parents/70374598007/"
+    type: article
+    provider:
+      name: AZ Central
+      domain: azcentral.com
+    quality: 29
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/01/24/PPYR/08ac3d3f-0a28-4ec1-be0d-9bca079b40d4-FJy01NJX0AIuzoV.jpg?auto=webp&crop=1199,675,x0,y40&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Everyday Use of AI and ChatGPT in Oncology Practice"
     excerpt: "Bonilla, MD, MSEd, discussed the growing use of artificial intelligence (AI) in oncology practices. Loaiza-Bonilla is a medical oncologist and cofounder of Massive Bio, a company that uses AI to connect oncologists and patients with cancer to clinical trials of novel treatments."
     publishedDateTime: 2023-07-05T13:46:00Z

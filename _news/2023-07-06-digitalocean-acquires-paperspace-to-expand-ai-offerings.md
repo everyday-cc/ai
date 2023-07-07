@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/digitalocean-acquires-paperspace-to-expand-
 webUrl: "https://sdtimes.com/ai/digitalocean-acquires-paperspace-to-expand-ai-offerings/"
 type: article
 quality: 69
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 1034
         height: 580
         isCached: true
+  - title: "DigitalOcean Rides AI Wave After Acquisition: Here's My Trading Strategy"
+    excerpt: "DigitalOcean Holdings (DOCN) has announced they are acquiring the cloud computing and AI startup Paperspace for $111M in cash. DOCS surged higher Thursday on the news and is continuing its upward move in Friday trading."
+    publishedDateTime: 2023-07-07T15:43:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/technology/digitalocean-rides-ai-wave-after-acquisition-trading-strategy-16128215"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 36
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/97bb47b9-1cdc-11ee-9f06-5d835836b475.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DigitalOcean acquires cloud computing and AI start-up Paperspace for $111 million"
     excerpt: "Cloud hosting business DigitalOcean has acquired an artificial intelligence (AI) and cloud computing startup, Paperspace, for $111 million. New York-based Paperspace, launched in 2014, runs three data center regions with custom-configured GPUs."
     publishedDateTime: 2023-07-07T11:29:00Z
@@ -57,6 +71,15 @@ related:
         width: 1144
         height: 600
         isCached: true
+  - title: "DigitalOcean buys AI startup Paperspace for $111 million"
+    excerpt: "DigitalOcean is acquiring cloud infrastructure player Paperspace for $111 million (102 million euros). With this, DigitalOcean aims to provide its public"
+    publishedDateTime: 2023-07-07T08:24:00Z
+    webUrl: "https://www.techzine.eu/news/devops/108665/digitalocean-buys-ai-startup-paperspace-for-111-million/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 17
 
 secured: "bk76olRys9lnOmd1AWLtcKBB3cCebm+fpnuMvohoGS5nZA0cb8qwr4TXiBvacll+t6DPxQ1SLCq0VrL7BxeUQUTzLCARau3A+gH8UT89GJM01ytxUzlq6y0A1mxEcYJ/lSf8sSbuFrUj+k378h0iDHf3WujHJvsB7uvSmVOpjuUphVRGS6jKYgrm8bu9O6YnRibjXbxy1YOGFsIWGNNjXZtpXpuSqgk0j452DonGEWo10u6nmhQkZQK/KBRgMkrr3sIsFJ94JwSsZ+2gjj4GBtALvxqfNUH65ihVSpF2vz7QoWSRCe6R5BR+RwxMlRtX7U/4Gs6cUoeBORfIA/QKP/7fe153crjFan0lwJARzFI=;O8sFPbk++45B0VJH95UkUg=="
 ---

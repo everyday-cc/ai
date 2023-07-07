@@ -41,6 +41,29 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "How are university design courses adapting to incorporate AI?"
+    excerpt: "We asked design educators how AI is being integrated into the design higher education system and what they are doing to ensure it is ethically and responsibly used."
+    publishedDateTime: 2023-07-07T15:36:00Z
+    webUrl: "https://www.designweek.co.uk/issues/03-july-7-july-2023/ai-design-higher-education/"
+    type: article
+    provider:
+      name: Design Week
+      domain: designweek.co.uk
+    quality: 39
+    images:
+      - url: "https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2023/07/07154439/Dean-Drobot.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Five Reasons Why You Should be Monitoring These Four Artificial Intelligence Cases"
+    excerpt: "The first wave of litigation involving generative AI and/or machine learning is well under way. There are (at least) five reasons why you should be monitoring four significant ongoing cases that involve artificial intelligence-related platforms and issues."
+    publishedDateTime: 2023-07-07T13:21:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/07/07/five-reasons-why-you-should-be-monitoring-these-four-artificial-intelligence-cases/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 11
 
 secured: "a24fas/gtklWYpQ7FUReFaycSX0Q5/oMZTR9LdQc2rK733vFBVb7s54Kd48a8VSHVrZqbooL4IDYeAvCvFRZnylm9kIBXex+S2I76n78MSeLpeWZCSSmNU2cVus2MNAlH6kTJ/MtxVDNk2eFhGNfnaKbkxkkXL1vK/MKgYrj8GyzR+nn3/c1zv9hgfjobsNPVsXkjyVjzY29NNS2HzcW7Q2tXY5F70rlQPDHenHGWBSkZMac/7T9rx66vVjTwEIf1iTGLMr0CI/D2V8S7M0ptZmYhX3J7WxtT+KYK4f4YVyHQFyiYTRoZshrPLLNjTw0cx+cqqrr/7eRl570CzqRO9T1qmcXgleL6+wkGJ7wbNCGibIsx5FV6e+QNt1JQA0EiB1DQQGPdZJu50hvs5iWeiTCpb7GpEkZHJmg6oOpbALZJ8dlu8mwAdLGe9Equ21KfwVg5Q5k5capvsBasTOI32aic/QO/s4saNudJlzdtQrcXrKlKvjdeDVFdbA8g4owPRKKkSy5NjOyLXqt5kcdoQ==;dewVoEsqWljfV0h3JLhy3w=="
 ---

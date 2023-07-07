@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 5500
         height: 3667
         isCached: true
+  - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
+    excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
+    publishedDateTime: 2023-07-07T12:26:00Z
+    webUrl: "https://www.benzinga.com/tech/23/07/33146451/farm-ai-this-start-up-is-bringing-agriculture-into-the-21st-century-with-artificial-intelligence-and"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "+Mza1Ls+EIlKyj6t6FZqQDpVoADHC++B4gjTb0cFdkrVIF3XXH0uzwd1FEOVOwDhPBH7t+uslT/+1H8T0/2vXZK0OUGWQvIoYTsdi8qgeyJ6csguzdf//bDiZpXdLyANkQ0Fwz90dn6o3OeqipBLxpU/v2eIR4nQb6Cb84f1Wpfh1u1MDS3rE6kVFeVuHzbZ6l3euOYmCt6eEQOlPKsRSdqTZaJJU+Q5ofBp7Ktg4kkGPNuF0tT15tXCToFtlixm9JdL/mw8d8LRu1Ek5dGtVDuFDjeVsHsDX9PV4XfTrRCTI8H+r+IYP4JA6KQ/JhrveH0SpIKfhdSEr68RZzvAsmj6Y6/CuwIQD6Zeg8dEQ6Zvx+6aH+9k0oGBYVW7AwPSIXnGqq8P/72QeGTbKn4uqf2djQ2F61f+/Qoz+lHDpltAftgq8wUZ+HC2TJBnXKvj+a4I6RASXZrBOUwZdb1drcnE/OKLLeYkHRZzJq2t8lR0FZ0snpAq9E/sExcIWP+PXBzkHk3PJL/GrdBoPn+Zlg==;RbL6c1/ct8ofru7gb+Ytvg=="
 ---

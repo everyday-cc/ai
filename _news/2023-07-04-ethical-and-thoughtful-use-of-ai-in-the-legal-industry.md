@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The AI healthcare revolution: 4 insights into the future of patient care"
-    excerpt: "The future of healthcare lies in the seamless integration of AI to empower professionals and revolutionise the way we approach healthcare"
-    publishedDateTime: 2023-07-06T09:08:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-healthcare-revolution-future-patient-care/162991/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 55
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1396694854-scaled.jpg"
-        width: 2000
-        height: 1182
-        isCached: true
   - title: "The Integration of Artificial Intelligence and the Future of Education that is Still Taking Shape"
     excerpt: "The future of education continues to take shape with the changing world and technological developments such as artificial intelligence. Education with technology is believed to still prioritize humans."
     publishedDateTime: 2023-07-03T11:27:00Z
@@ -87,15 +73,6 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 19
-  - title: "Congress faces learning curve on AI in health care"
-    excerpt: "Congress isn’t moving any legislation on AI in health care yet — but lawmakers are definitely interested in the topic. Why it matters: New generative AI technologies are already being incorporated into health care systems with little oversight."
-    publishedDateTime: 2023-07-06T16:55:00Z
-    webUrl: "https://www.axios.com/pro/health-care-policy/2023/07/06/congress-ai-health-care"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
     quality: 19
   - title: "AI is already linked to layoffs in the industry that created it"
     excerpt: "Many have raised alarms about the potential for artificial intelligence to displace jobs in the years ahead, but it’s already causing upheaval in one industry where workers once seemed invincible: tech."

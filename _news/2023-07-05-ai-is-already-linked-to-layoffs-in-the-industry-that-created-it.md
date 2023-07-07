@@ -62,20 +62,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "The AI healthcare revolution: 4 insights into the future of patient care"
-    excerpt: "The future of healthcare lies in the seamless integration of AI to empower professionals and revolutionise the way we approach healthcare"
-    publishedDateTime: 2023-07-06T09:08:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-healthcare-revolution-future-patient-care/162991/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 55
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1396694854-scaled.jpg"
-        width: 2000
-        height: 1182
-        isCached: true
   - title: "The Integration of Artificial Intelligence and the Future of Education that is Still Taking Shape"
     excerpt: "The future of education continues to take shape with the changing world and technological developments such as artificial intelligence. Education with technology is believed to still prioritize humans."
     publishedDateTime: 2023-07-03T11:27:00Z
@@ -93,15 +79,6 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 19
-  - title: "Congress faces learning curve on AI in health care"
-    excerpt: "Congress isn’t moving any legislation on AI in health care yet — but lawmakers are definitely interested in the topic. Why it matters: New generative AI technologies are already being incorporated into health care systems with little oversight."
-    publishedDateTime: 2023-07-06T16:55:00Z
-    webUrl: "https://www.axios.com/pro/health-care-policy/2023/07/06/congress-ai-health-care"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
     quality: 19
 
 secured: "/vOJEbeHYV8zCEuetAcgm9MWPaPDm3aOm+3r1ZNp9Jv7E99ulXxvL2dXcav0+s0PSNH/xXTBwyxCjE+sclUnHkcoc1t0CBbwTnznCO9ipCyhqMo6/X8Py9VTURB6ywdzs3DdQGhpmnWKE1yiPEac/sjBX9789F01KIKlsTBanTh5jWKXWEYdSL+J+MDbdqnGxClwd1PU7UfCIkybG+kAArzYrmwdgWAP3e4kYnfQN+TTN6NBadpk0zzywTpae3kF9GJIxHEadcnXQkbhB0IY9uUTh3cUvhNCZ27R8ETeJ/pScLQvyFK5CeERDC93wEB2pUPeNhB1TxJL7OevyKwvZuX3zbmX3kzB6ZV0BAERaC3QRHzbEKsqk7rk98ImfglBPNQeJyrhHl85LxrViX5yFTyn5Qo4HFLBzETPTNBippyx8/+UEGLW4WCOrsaXte/4C7FZf/Rvbp2HtsgfIwQAJuuQHVo3XRnlC44x4Nj3TLp9nmOW1FYgwT4BTHD8wFyLu8v6wz/T19pBgTp6sjBFlw==;EV8CkyOME6FH7nLG+F6kmA=="

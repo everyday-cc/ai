@@ -7,7 +7,7 @@ originalUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da
 webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2020/02/20180626210156-GettyImages-917581126.jpg"
         width: 680
         height: 380
+        isCached: true
+  - title: "Amid industry boom, dozens of AI products debut at Shanghai AI conference"
+    excerpt: "With China's artificial intelligence (AI) boom, dozens of related products are making their global debut at the World Artificial Intelligence Conference (WAIC) 2023 in Shanghai. A record number of enterprises are participating in the exhibition amid the industry frenzy triggered by ChatGPT that took the world by storm late last year."
+    publishedDateTime: 2023-07-07T12:17:00Z
+    webUrl: "https://www.malaysiasun.com/news/273891467/amid-industry-boom-dozens-of-ai-products-debut-at-shanghai-ai-conference"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 38
+    images:
+      - url: "https://cdn.bignewsnetwork.com/xih1688732282.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Mount Sinai launches Center for Ophthalmic Artificial Intelligence and Human Health"
     excerpt: "First-of-its-kind initiative aims to transform patient care with more timely diagnosis of eye disease and innovative risk assessment of systemic health conditions"

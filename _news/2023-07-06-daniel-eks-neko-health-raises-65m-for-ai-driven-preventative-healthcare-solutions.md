@@ -44,20 +44,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Neko Health raises $65M for AI-powered preventative healthcare body scanner"
-    excerpt: "Neko Health, which is named after the Japanese word for cat, was founded in 2018 by Daniel Ek, co-founder and chief executive of Spotify Technology SA, and Hjalmar Nilsonne with the intent to build a full-body scanner backed by AI that can detect common ailments."
-    publishedDateTime: 2023-07-05T16:26:00Z
-    webUrl: "https://siliconangle.com/2023/07/05/neko-health-raises-65m-ai-powered-preventative-healthcare-body-scanner/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/2.-Neko-Body-Scan-Experience.jpg"
-        width: 11600
-        height: 8700
-        isCached: true
 
 secured: "VXU3Xm9/19plM+dWsB9mPJyTmjYbzwkDng3VwLKs5Kx8415Vs0CgFNnk0/pS/tmI8qojZM+gfG768TKRaTWmVMaOsEMrz1nC5dxqe9VBtFg7YMAtfUwRkbIVs7cFZhmfguR3a9m3IMsEge1fKcVTB3f1B0E5/ox0r+LR3k4KIOlK2zBsf/joommF1zOLK45T8IuvKfBWWpo0TdRb4eRI7nOm/pRGbIYIupi48zfYNKSlrKks0vqcTjjSXmyjIUsHfsk0qcy2WGdf65fPdLiiwD9qas48Synt0FpIj/HSnqA4885Z8KmZpmpohtNkRWoY/Bwn9T6LayP1OxL6xFVdSxJO/GVBFupB17t4hqsCSjJ80ETLO+Os+yooKpsa+u71nntOq/7tu2EePA9aDcAOJOpUn359glMRLUu3opvewkHwokgFh03pyRYPW5tT7GsQFDQmohDlCc6bdR81B9smq9BpnnpmEX33vTeohm5YDzxK1ByDevfOZX4Hr9imj6vurqWT54LKKwWJqgx3tyJCyQ==;1OLTX8Ye+Y87eo8impumsw=="
 ---

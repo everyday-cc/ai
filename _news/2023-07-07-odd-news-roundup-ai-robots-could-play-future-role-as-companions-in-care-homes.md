@@ -57,21 +57,7 @@ related:
         width: 5500
         height: 3668
         isCached: true
-  - title: "Here’s how local health systems are betting on artificial intelligence as it emerges in health care"
-    excerpt: "Plus: FY24 city budget includes funds for mental health, addiction, nonprofit wages Newmark named leasing agent for Upper East Side medical development Meet more Notable LGBTQIA+ Leaders who work in h"
-    publishedDateTime: 2023-07-05T09:31:00Z
-    webUrl: "https://www.crainsnewyork.com/health-pulse/heres-how-local-health-systems-are-betting-artificial-intelligence-it-emerges-health"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 25
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/hp_0.png"
-        width: 600
-        height: 335
-        isCached: true
 
-secured: "vJz/6WKx1sanHiYWHlcxuiXYvwTUXN2ioETlWEiwqPORHzYOO+tTRqiva/JXsU7gA+UyB0aZkib44qZjy8sbT4XOB/vpWQ+axDYuXSFYg0+zN+kSUEmC7S7Ht8TR1JZRz+zkXphT0jkA7/RP/c0SOkVY/6Ig76GvxG+zyODByHSTqom+c1TujnK2/p+ovQ2mdAhXvSntkNBekWGrJfyjZvcl2SpBWRsSLP/PdcffX2UJEMc2UVgVyza4iTKaJrUpWMNBMxgrEzAq5YV4ha+b5/U6BFolKSmLJvz457xcr5JDnWndOxpDGsfvK+UGhejz9vIzpKRSpKjyJ2D72BJ1rptNn91BEXOs9APAbAqAc94=;/gZwIxtXAyliPg0by7Joxg=="
+secured: "YadIG3vmRs03lm68mOt3OhuaBKihJsAgFBOPJc+LpJrq8OlseF1FL0laP+wkRkYdsW0NqIm5wC4P7jTstBFPNL1pK5YTdIEz7H8p+5v72SBnCfi2tkM8Bk1kRClrGLAYqoMAOkFpGNm3+gohZIKsYPn50/By5A7gxxhqkzODcW9cfKuEij9Cw2RzPjoedD2zJWXenfUURaIeVO4VR2RT5NX/mifTnXhRbnYIK070JDJejT0frtCqjmXGDq7jV80VfSeLAmWvl5WSXZ4AniDGfI27siA1wMmTjRmnI9RP2EgQdZVZmZEmrqkDm0HZqrqJ/ub81dbLgk4fkPWBz6a3pjjfStIIZDVD4u1VFfDcidizzVPzLTH0uTANqY3oy05lylCv8HDAcxyZn0x3fU6w8v3X/+sNRNxzd0H9woNNOgZpN+KGhQSEUAoVnFS2qjSc0obRIAIHgJvHObvTsNdRvL4HDOp2Otxi6SB38NwqOtwFeMyGHODPRX1vT2FQmectJpdjfowYtFBJThMAuypghQ==;/3YPmnaBCGDWsZw7Pn/CkA=="
 ---
 

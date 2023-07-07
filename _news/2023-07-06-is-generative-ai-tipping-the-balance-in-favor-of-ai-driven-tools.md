@@ -140,20 +140,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nec Develops And Provides Generative Ai For Business Use"
-    excerpt: "NEC develops and provides generative AI for business use <br />  - Partnership program launched for linking industry knowledge -  <b"
-    publishedDateTime: 2023-07-06T09:27:00Z
-    webUrl: "https://menafn.com/1106562069/Nec-Develops-And-Provides-Generative-Ai-For-Business-Use"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?307890"
-        width: 351
-        height: 250
-        isCached: true
 
 secured: "RK4AE7spuqRFWaUqbXq7blMRqnX8sdKNJEbDjewygE6DWKX+yOOxBHYoks8CcwdGOtKOJO28shSCVaZ3ENPaR7N9SWD0TJfC8BdH4SI6gN8nKdB3smZK+L5gFlQl6mYwbvTNVcD9EtiykyhdFq7g5pQNJzI3YkK7uTDh8QWzWoYUAtWXzaLBuriM5yaSKM7M5N5ZYgIjDtqUh9FDCjjT0BSuBfQqFIGijEK4tnK2V4DTrps5Qy2McC5cub3kkLNzbCF98DYat7hBGgC/uFKCk+VZLl1Jje+ZRg5OMnR8jZSYPXv6dNKQFHumOAWlU2wql6liXASzrMRRLNHFgBTy8HkDge/Snfs2pT2i4KFTPf98bKmGlPcD59ttL71EWAWIR11s4WURF/XwtcP4OVvt/LoEDsfGgMy2/OvyKasKGCvhnUVeOdyr8dWnx4DBiDTjkdocGUq0IoKLCDEpmPabGCKQn8R9Wy9EGAYI/SNWZ3ITZKecU3H8etfUOaqrbjaw9C05K2VZP/HPjEzf9lCzYA==;cQ06XHpgJdXLDQFMvQJ2yg=="
 ---

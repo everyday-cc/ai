@@ -126,15 +126,6 @@ related:
         width: 1024
         height: 400
         isCached: true
-  - title: "AMD's AI Chips Could Match Nvidia's Offerings"
-    excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp, with a future path to matching their performance, according a Friday report by an AI software firm."
-    publishedDateTime: 2023-07-02T19:48:00Z
-    webUrl: "https://financialtribune.com/articles/sci-tech/118911/amds-ai-chips-could-match-nvidias-offerings"
-    type: article
-    provider:
-      name: Financial Tribune
-      domain: financialtribune.com
-    quality: 34
   - title: "Does Nvidia Ai Stand For Artificially Inflated?"
     excerpt: "Does Nvidia AI Stand for Artificially Inflated? When Nvidia (NVDA) rallied to $400, it briefly fell below that only to continue its climb. The GP"
     publishedDateTime: 2023-07-05T18:25:00Z

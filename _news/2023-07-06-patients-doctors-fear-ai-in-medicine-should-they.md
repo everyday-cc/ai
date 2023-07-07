@@ -7,7 +7,7 @@ originalUrl: "https://www.medpagetoday.com/popmedicine/popmedicine/105330"
 webUrl: "https://www.medpagetoday.com/popmedicine/popmedicine/105330"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Artificial intelligence making inroads in medicine"
-    excerpt: "Artificial intelligence (AI) seems dangerous just because of its name. If it’s real, then it’s not artificial. Dictionary.com defines AI as: “the capacity of a computer, robot, or other programmed"
-    publishedDateTime: 2023-07-02T21:14:00Z
-    webUrl: "https://scnow.com/news/local/artificial-intelligence-making-inroads-in-medicine/article_e41822aa-16c1-11ee-b5bd-fbc2dd5c21a9.html"
-    type: article
-    provider:
-      name: SCNow
-      domain: scnow.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/2/7c/27c30524-16c2-11ee-a2f8-2f590ea537bd/649df49427cc8.image.jpg?crop=938%2C492%2C0%2C66&resize=938%2C492&order=crop%2Cresize"
-        width: 938
-        height: 492
-        isCached: true
 
 secured: "ythB6YcO2TmXSCg/XdK9DcxjYcdmwhK4a5ouTD5/WANBuvsbQslrl/GvVQXdV9ua0kic8DBZiirhajDSYrg/RwJpPicc4dDTy+i4fLWyH+/NzlUDB4wgea1WLAENvDGzOXoLAv4g/QNEfSLySAzTMnHzw15lHvs/d506y9g1kfmGXMWQcY5ypyBjFoyBQrRFzqrAH7qBM2vumQ7fzMGC3oqLOImMW3o1v02Sj/0pqD1+WDPUzxe2oSn3VAIyzugSOQ34ehy13kVGoYZWQjgzOxLb6wgDwyxAPFF+kh64V2JhekW9vlvPv4U0WYf26KeDzT8zucKlKQ0DIhCE6QF6x4HvUKErzay7c3ihQ2mxc3gYSeNS74UhW0pHqo55Pay5sue6sgiLOvTtM+Zk+EGms2Le6Rxa18NJ+OM7v8ec053vgPj50Neq1aztSgF3iKR6Fuz7ud5efGfwIMmMfjvuIP3Gdw0DvUC0LAEdWB1o5Mk+TUSkFmGyORYsDPRXJRGa7VnljHmx7lwE/9dWGTcUow==;YOS5QSUdBEaxPIMOmjrdIg=="
 ---

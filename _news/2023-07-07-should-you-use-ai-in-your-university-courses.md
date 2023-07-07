@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-you
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Daily Star
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How are university design courses adapting to incorporate AI?"
+    excerpt: "We asked design educators how AI is being integrated into the design higher education system and what they are doing to ensure it is ethically and responsibly used."
+    publishedDateTime: 2023-07-07T15:36:00Z
+    webUrl: "https://www.designweek.co.uk/issues/03-july-7-july-2023/ai-design-higher-education/"
+    type: article
+    provider:
+      name: Design Week
+      domain: designweek.co.uk
+    quality: 39
+    images:
+      - url: "https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2023/07/07154439/Dean-Drobot.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Harvard University to encourage AI use in popular Computer Science coding module"
     excerpt: "Last month, Harvard University announced the introduction of AI to its popular Computer Science Coding module, where students will be able to use a class bot to learn. Computer Science 50 (CS50) professor David J Malan stated in an email:"
     publishedDateTime: 2023-07-03T17:29:00Z
@@ -41,6 +55,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Five Reasons Why You Should be Monitoring These Four Artificial Intelligence Cases"
+    excerpt: "The first wave of litigation involving generative AI and/or machine learning is well under way. There are (at least) five reasons why you should be monitoring four significant ongoing cases that involve artificial intelligence-related platforms and issues."
+    publishedDateTime: 2023-07-07T13:21:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/07/07/five-reasons-why-you-should-be-monitoring-these-four-artificial-intelligence-cases/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 11
 
 secured: "N95NCtoM4R2yz2qb4f4tSbfMQs4R5/oLeEmDiM3aIUU1DobkTWXsupbgtBOiNekj8xQTSODUoSrC7/gpbQvfkf56lNfelzy7V2xmJ+0+zuq0DidRmWpIijtQHaZHZ7JMDNNBnhcJjYLTLXyrCn6RMI7ZRYcu3pf2Z0GbdmwlrjnS7MJb9QhX7cYov5J5ChzdPVjfiB9Kbr5ZhAP4Vp21dA1bAtwncEuzLAuNi1+KWDYg88k9gMtlRdQkzWWGHxO+n/DIjB9LtsTU+bjVVarAEgeW7TofMRmQt1LjpjzRjVNJoCXIuXhiPf9ei66sWSW05TvSjx0fCU3e/1AP06SjXzMNYvA86JbLDb70fYIPcxHttGqdRRGyQ5uxcUeoJ5nyRTBtK0PGibK1wxiNfkBFU4AXYmsEmLznSXYnrVMGZC8Pn3FTFMG7+m/WvYw5CFOzL+TqfI+GKZkayr4DhTmWKBDWpidjt7Am1eBfW0r9t/TGpHeGnc6vDivw70+L/HCT374v8uI+ADaI59JEL4da0w==;NTkLWhWAHiewDsvf8DdsrA=="
 ---

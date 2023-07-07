@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Download: tricking AI text-detectors, and covid’s unanswered questions"
+    excerpt: "The news: As soon as ChatGPT launched, there were fears that students would use the chatbot to churn out passable essays. In response, startups started creating products that promise to spot whether text was written by a human or a machine. The problem is, it’s relatively simple to trick these tools and avoid detection, according to new research."
+    publishedDateTime: 2023-07-07T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/07/1075994/the-download-tricking-ai-text-detectors-and-covids-unanswered-questions/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 15
   - title: "The Download: how AI is changing science, and limits on White House contact with tech firms"
     excerpt: "MIT Technology Review can confirm the exploit was developed and sold by an American firm named Accuvant—shedding new light on the role played by American companies and mercenaries in the proliferation of powerful hacking capabilities around the world. Read the full story."
     publishedDateTime: 2023-07-05T12:11:00Z

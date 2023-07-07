@@ -57,6 +57,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
+    excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
+    publishedDateTime: 2023-07-07T12:26:00Z
+    webUrl: "https://www.benzinga.com/tech/23/07/33146451/farm-ai-this-start-up-is-bringing-agriculture-into-the-21st-century-with-artificial-intelligence-and"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "IK02mDX+YmjiKH83/KmkwFhHFesF44Dgq5lh9xf1/N9aIMos1Az22fhczl6t/5VpmA0pLj4FyUZ41py4RgZsOh/gsxCMhlKeBrF6U24QqIKbWnqk7yx4GYER4sINtclZbTLrUkyhX5yNnDLFiGLpEVUWzzpe2kurplqBvPyu6fu6koe0Sys1SfEFfuvVqhVHd9X3jDIN4ieU5CZNwWam8DwwDeyp4qIK+Lt/X0sVQKjYfIF8hWWiEQNA2HTl65ETNzP5tYU5znquPJ84x1ymTUqWWCBOMKnlbh65ptoBi5d3gpsIZpeOHFC6w9+ODEq/ktsfRJ0zQ9qcBhuDwxc3/hdqcx0snbb32ptXzwpesSvQC4fVlcTWG8pPWPmYZA3zlvEJ1dm/p97NJU4YNhvKwXujrl6hYcKENCt0uvPUmlEF3dNiT5dRuAPTJheKnlr0l40Rx10Qrn5iph6MzFR3eGFEuaKY8zNVNZ6vw+Tx+yScIPin8NdX3LY0KTOgJ8KeLyWyBweXfndKIkHLcTmh/A==;GoleEc7fp9ixqGSJZVyDpQ=="
 ---

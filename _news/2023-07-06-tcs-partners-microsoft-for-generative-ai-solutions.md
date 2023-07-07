@@ -211,6 +211,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 56
+  - title: "Microsoft's 10 biggest healthcare moves of 2023"
+    excerpt: "Microsoft continues to make strides in the healthcare industry, from partnering with Epic Systems to collaborating with hospitals and health systems."
+    publishedDateTime: 2023-07-07T14:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsofts-10-biggest-healthcare-moves-of-2023.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Why Microsoft won't be the company to mainstream consumer AI use"
     excerpt: "Microsoft still doesn't get consumers. At the start of 2023, the internet was ablaze with the idea that Microsoft may have finally, finally found a way to dent Google's search dominance. Using the power of AI,"
     publishedDateTime: 2023-07-06T14:52:00Z

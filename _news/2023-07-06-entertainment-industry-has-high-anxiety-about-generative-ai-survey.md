@@ -7,7 +7,7 @@ originalUrl: "https://variety.com/vip/generative-ai-survey-entertainment-industr
 webUrl: "https://variety.com/vip/generative-ai-survey-entertainment-industry-anxiety-jobs-1235662009/#!"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Generative AI: We Need To Talk About Value"
+    excerpt: "It’s not about simply getting your hands on generative AI—it’s about knowing how to put the technology to work to create real, tangible value."
+    publishedDateTime: 2023-07-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/generative-ai-we-need-to-talk-about-value/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "urmu6IDZe3NynOYdpv54Zk48Qbu6X7lRyuVN5Ft9OQDuOVyR9BT+4Vu7Wm17j04E8MCh1ohU1sWRgIylAn/s6p49k1JPljQ3eAxcGt8to+FRE4p3MRGUS9mV1PULp4fHapwmOUwbRLGho9JLGH/PS5G8Q76ihX/HyuaqIjNa2Zk0DF+ijM4PzaIAxpehRCLiTUPE4i1zl0oKVoM6S1XOjHe1XWZuBE4ziwNRstOmORmoXT5qHt1q23FlKi26hF8zCMf53s0d1Nb+JWgci/OLvyeffRXNyNsHo9kcXR11RFgSNBFUDUPg3hC0loqAMBIkE2oTjvAxH8WhnnB+9lYcqPREp4xY6+AnYd1rDqoPCcHfGIaEUPXM/jSfB9Y58hW3VadsJMxP5wH8eqrLw7ELe+YPIrwLThFkb6czpDvJgYpJ2GzPZRuxNF31FuSIgXmwDy7B84PNDRlvoVffqwKoCsZMsxUZJdb3AOLxPRFOMMHr2+6q6i5reMkQ32GoxVFDwE7tmgtuir/haFC2Z66Bsw==;DI3RXy4wRKfdmCYM+h2LjA=="
 ---

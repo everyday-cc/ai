@@ -28,7 +28,7 @@ related:
   - title: "Companies Are Drowning in Too Much AI"
     excerpt: "IT sellers are rolling out an avalanche of new generative AI features, leaving CIOs overwhelmed and workers confused."
     publishedDateTime: 2023-07-07T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003"
+    webUrl: "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4"
     type: article
     provider:
       name: Wall Street Journal
@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How 5 healthcare organizations are investing in AI for patient care"
-    excerpt: "Healthcare organizations are investing millions of dollars into artificial intelligence to achieve a faster and more accurate care delivery model."
-    publishedDateTime: 2023-07-06T19:08:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/ai-patient-care-cleveland-clinic-providence-adventhealth"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
 
 secured: "mUPJ+ZvL4bsoBDJ2BWxFpdQtnBNvc+IStL7u+PZX2d4kTyx4lZnAilZT8GWpW5g+SAefwyfz/LRLqIZz8iLr/knccj3dzQA2SPGjK1wquO/Dtm0BZj5lf/yy59r9EkNF1kJA9u4LnURRlmhYb6dXhTTLB/9gvG5PEJLIPbgKAGDBao/ytG9WNFqJfpCPBeFDbVxrINVc7NbxZ9AQobIwuRlL2E5akmFTbA2Th12VbpSZbZAziOiXt0Ec5uFBeNv3I6V0qFUh4GN05vA/ABqrrxxuT+QSeCTdCory+045k+zmZlLkCQ/GHyf9kctjc28Xch0w7nPpIE4gQJe31qINsYB/Wsv2g/pQpbu6pSSh/ARqfuUOMMr495lw8dijxD8NRa7f17Vax4C3+Ee2mWZLnvOb3U11sCvkGjl9h44SfX3rxow2l3+TOQbvaO71Yh3CKpWP4FLdJ8S2pO14EH9gTb+4S+j/pPkdhHOljpdpXqEH4EvSmq74iIuM8jJ27kZgLi0yQnk6O8HbYkFl+KEWlA==;jxnV91Gqf7AZ6U3CCoyU3g=="
 ---
