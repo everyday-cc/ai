@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-29-this-transformer-like-robot-can-roll-fly-stand-walk-and-more.md",
+      "title": "This Transformer-Like Robot Can Roll, Fly, Stand, Walk, and More",
+      "excerpt": "Robots are slowly getting smarter, mostly thanks to advances in artificial intelligence that enables them to learn on their own rather than requiring constant human guidance. But despite being able to independently learn new tasks, most robots are still ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/",
+      "originalUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/06/Gharib_Mory-Lab-M4-Robot-063.2e16d0ba.fill-1600x810-c100.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1",
+      "publishedDateTime": "2023-06-29T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era.md",
       "title": "Why Startups Need An Old-School Approach To Talent Development In The AI Era",
       "excerpt": "It was an era that took computers from room-sized systems that seemed to consume punch cards to something smaller and more usable. We were on the verge of enormous change, introducing computers into business processes,",
@@ -1272,40 +1315,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-parkview-dekalb-introduces-robotic-surgery-program.md",
-      "title": "Parkview DeKalb introduces robotic surgery program",
-      "excerpt": "AUBURN — Parkview DeKalb Hospital has entered a new era in patient care in launching a robotic surgery program using the da Vinci Surgical System.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpcnews.com/thestar/article_a25d9279-aa65-541e-876f-81fef3d36ff1.html",
-      "originalUrl": "https://www.kpcnews.com/thestar/article_a25d9279-aa65-541e-876f-81fef3d36ff1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPCNews",
-        "domain": "kpcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

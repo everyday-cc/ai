@@ -94,38 +94,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
-    excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
-    publishedDateTime: 2023-07-06T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6476266dfe66ffb1e6569955/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI can help process waste and increase recycling"
-    excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
-    publishedDateTime: 2023-07-02T23:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66042169"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4143/production/_130270761_recycling-gettyimages-150517191.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Artificial intelligence and its role in marketing a brand"
     excerpt: "With almost every brand using AI, there is a wide scope of plagiarism leading to legal risks that are not addressed easily, says our guest author."
     publishedDateTime: 2023-07-05T23:30:00Z
@@ -140,6 +108,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 Ways Generative AI Can Drive Operational Excellence"
+    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
+    publishedDateTime: 2023-07-07T15:39:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "rs2JYpsKwcPlOLYvL7oJMohnfvbY6GekP2KqFkUBQEAl/HKvzFG/BMC765ClGU34xneHRmjEsnci8RPec2igYEXPaOru2NobufBzGuLSt9ip2211f+CqqCCslZrFkT+lWZWlD2Ky/9wgII7KmaxGe7leb9WrvIpEX89g8DVkhbQ6NBg00AzaX7hSwlVIIq99exLMGS4aa4iEs5VuzxIurP186NKd3nd6u5VbU/9+n04GTArHvwVK7vs6/cYwLPnzS/FF1mKlXmId11BEumm0+fxCuEoMSRNhPW6wY62FZXr2E2Qp+zO98GEjxfOqoinc3jEu7ywAsTcPPlQrwvd0ypnwriwiyvdOxb3aBEncszs=;xC1V8pMIfU5sMR4si/0QrA=="
 ---

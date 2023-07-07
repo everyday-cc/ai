@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Report: US to restrict sale of AI cloud services to Chinese companies"
-    excerpt: "The U.S. Commerce Department is reportedly readying new rules that would restrict American cloud providers from selling certain services to customers in China. The Wall Street Journal reported the development today,"
-    publishedDateTime: 2023-07-04T17:23:00Z
-    webUrl: "https://siliconangle.com/2023/07/04/report-us-restrict-sale-ai-cloud-services-chinese-companies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/cloud.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Chinese AI startup Fourth Paradigm receives China's nod for Hong Kong IPO"
     excerpt: "Beijing Fourth Paradigm Technology, an AI startup, has completed procedural work for a Hong Kong initial public offering, becoming only one of a handful of companies to get the nod from China's securities regulator since new rules became effective this year."
     publishedDateTime: 2023-07-05T11:50:00Z

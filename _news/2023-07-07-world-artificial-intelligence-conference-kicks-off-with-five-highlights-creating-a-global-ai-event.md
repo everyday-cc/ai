@@ -1,10 +1,10 @@
 ---
 category: news
 title: "World Artificial Intelligence Conference Kicks Off with Five Highlights, Creating a Global AI Event"
-excerpt: "On July 6, 2023, the World Artificial Intelligence Conference (WAIC2023) with the theme \"Intelligent Connectivity, Generating Future\" was held in Shanghai. WAIC 2023 coincided with the vigorous rise of large-scale models and generative artificial intelligence (AIGC) globally."
-publishedDateTime: 2023-07-07T15:14:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/07/9844655.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/07/9844655.htm"
+excerpt: "On July 6, 2023, the World Artificial Intelligence Conference (WAIC2023) with the theme \"Intelligent Connectivity, Generating Fu"
+publishedDateTime: 2023-07-07T16:47:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/07/07/9844655.htm"
+webUrl: "https://it.tmcnet.com/news/2023/07/07/9844655.htm"
 type: article
 quality: 42
 heat: 42
@@ -15,9 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
+  - AI Ethics
   - AI
   - AI in Robotics
-  - AI Ethics
 
 images:
   - url: "https://api.contentsyndicate.net/uploads/Bitglobalnews/editor_image/55c9adae-565c-4a7c-8bc4-debd015fcf18.png"
@@ -25,6 +25,6 @@ images:
     height: 845
     isCached: true
 
-secured: "7OsByuP4b26UdOx8gm7EyH3gUejtLNI3s/i8dVYglUBAa6uSPFTerYR3nWZwq7U7ahRcLlgEkDt/sRliNoXOWzZ0TqrTvDDNlm2KBEmFOWMBXOOPEZYY7lAn6itds1Wic64P3PoEkom1MCKNQmTDr8KoCY3EdmNwivhYi/LL+bt8kkXRzuBSbYGdA32qsZEeMKZcicbQKvfaVmrkoCvYp/Ve81O6Xa3Sgx97MrfFFWJHY0OEbloF6OTSauH3f8gj3OvThaYuCiCSLYnRmEJ/Q6z05exiJHJqauWxONvXjJBr0K90nrbXwiJpAIYHJaHAWmL4BlULZ8mWjvhsOLKAise61OAMq1dKQ6oAvQL5xCg=;pPrn8zP4t40uy/MlRG4wcw=="
+secured: "btZ+9xTYS27hBOvtUfz9LRP36vyA31dNlvWC1D0yqqH1j6SvZL3PIENuE0j2sDhXRZJ9qfbHfUgaqcSzxJgmci0NdeK5X9OLQvpHcMJ+fMO7cgdp9D7u/VBr63xLXwREw0FrFnjDc+aMmWkrg14nFm/MX8aliAzrxIhwmnaSruLTtrEGRWsfQZ1V38KZWTd0aFMi3qF7ll7qw23RcHqbE7M5j2F9IuAbiTqp631QgjgzTdLjsisr9f6Y7Q+9CCj2eqTolsX2LNVRay8tZNA+eZepgwSjqVroSb3GEm5eo4leQ0y42nHV/jy9IW1HWguUNTVvC6e7+HtQbO1tmyTkkr/bnGqR1WR0n36MszR5Cs4=;q9+QRk1KcQzozSJtoylobA=="
 ---
 

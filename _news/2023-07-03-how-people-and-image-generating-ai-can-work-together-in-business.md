@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-pe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
-    excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
-    publishedDateTime: 2023-07-06T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6476266dfe66ffb1e6569955/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
     excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
     publishedDateTime: 2023-07-06T11:15:00Z
@@ -110,22 +94,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "How AI can help process waste and increase recycling"
-    excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
-    publishedDateTime: 2023-07-02T23:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66042169"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4143/production/_130270761_recycling-gettyimages-150517191.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Artificial intelligence and its role in marketing a brand"
     excerpt: "With almost every brand using AI, there is a wide scope of plagiarism leading to legal risks that are not addressed easily, says our guest author."
     publishedDateTime: 2023-07-05T23:30:00Z
@@ -140,6 +108,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 Ways Generative AI Can Drive Operational Excellence"
+    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
+    publishedDateTime: 2023-07-07T15:39:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "YqjI2xfow0DzTB+/BkW2o8KDAmeO8GgujtVIgvQlTuj2SnO305Wzs0Hhb4FVXjhfnKX4NgYhbfRO/nzelUui7hHnp8I8XqUdyuiypjUJWgH6e32UbQIK4lU/AgFv/6r0t91Cw1WbisKNXFp19jsI0bdZE0AbJNudUI2GKcZ8iX+l1+sh5K9AisIShY8lwJqHI8rdxmtT0Kb5ah019dDEawMGwySqp7MnbTnpkWGNMVQj9v/qn/5D/p43vovXluOJfQkT6h31NF8zOhhLeTuaGdhZH1KykxLnVwUHPJQ+aUwHrc+pwCO5Tv4+NIsR0xR+MqgAVSPFZNdnOSC2z6JNrAsYXwmsclAUSXgeqeGjMdtuUiMGZI+p8RGD+1qbXNBwCRhUKeB7US2+vPJtyYJj2LSRiOEazxU2EsVFCm+AJ+fQ6dAB/ifJASVshqbvsSq5RxOYmbQEtzc0a+RFyQxP5UlTDIi7xQfdoabHhq2PiJyUf7n1DvoNLFpzcpfEt+cqOgsR9r91uvxF0oCYpnb02A==;kklrwaJ17CDy1BonW/2xOg=="
 ---

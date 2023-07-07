@@ -30,116 +30,132 @@ images:
     isCached: true
 
 related:
-  - title: "How People And Image-Generating AI Can Work Together In Business"
-    excerpt: "There are a few tips and strategies companies can use to work with AI tools and make the most of their creative teams."
-    publishedDateTime: 2023-07-03T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/amp/"
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ..."
+    publishedDateTime: 2023-07-07T16:57:00Z
+    webUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&width=1200"
-        width: 855
-        height: 570
-        isCached: true
-  - title: "Generative AI in Games Will Create a Copyright Crisis"
-    excerpt: "Yet games like AI Dungeon (and games people have made with ChatGPT, such as Love in the Classroom) are built on models that have scraped human creativity in order to generate their own content. Fanfic writers are finding their ideas in writing tools like Sudowrite, which uses OpenAI’s GPT-3, the precursor to GPT-4."
-    publishedDateTime: 2023-07-04T15:57:00Z
-    webUrl: "https://www.wired.com/story/video-games-ai-copyright/"
-    ampWebUrl: "https://www.wired.com/story/video-games-ai-copyright/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/video-games-ai-copyright/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/64a43fe6c3f2cf2daf39fc6a/master/pass/Generative-AI-in-Games-Is-Sure-to-Cause-a-Copyright-Crisis-Culture-GettyImages-1407088969.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Rethinking Workload Placement In The Age Of Generative AI"
-    excerpt: "How organizations build, tune and run AI means the difference between gaining a competitive edge or losing one. Here are our tips."
-    publishedDateTime: 2023-07-05T14:39:00Z
-    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649cb761c029eedc5ae45c84/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Human Virtual Assistants And AI Can Efficiently Work Together"
-    excerpt: "By combining the strengths of both human and AI assistants, businesses can achieve a level of efficiency and productivity that was previously unattainable."
-    publishedDateTime: 2023-07-06T13:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/how-human-virtual-assistants-and-ai-can-efficiently-work-together/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/how-human-virtual-assistants-and-ai-can-efficiently-work-together/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/how-human-virtual-assistants-and-ai-can-efficiently-work-together/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
-    excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
-    publishedDateTime: 2023-07-06T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a570171d6feda6a59805d4/0x0.jpg?format=jpg&crop=1450,815,x0,y6,safe&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "How AI can help process waste and increase recycling"
-    excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
-    publishedDateTime: 2023-07-02T23:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66042169"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4143/production/_130270761_recycling-gettyimages-150517191.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Artificial intelligence and its role in marketing a brand"
-    excerpt: "With almost every brand using AI, there is a wide scope of plagiarism leading to legal risks that are not addressed easily, says our guest author."
-    publishedDateTime: 2023-07-05T23:30:00Z
-    webUrl: "https://www.afaqs.com/news/guest-article/artificial-intelligence-and-its-role-in-marketing-a-brand"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 54
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F4e1cc1fc-6cf9-4076-a826-13324422cb14%2FAi_Art__07.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
         width: 1200
         height: 675
         isCached: true
+  - title: "Now anything you post publicly online could be used to train Google’s AI"
+    excerpt: "AI chatbots like Google’s Bard, Open AI’s ChatGPT and other generative AI systems create content using large amounts of data scraped from the internet. This includes data publicly available on social media platforms. We’re already seeing owners of social media platforms try and curb this."
+    publishedDateTime: 2023-07-04T17:43:00Z
+    webUrl: "https://metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/"
+    ampWebUrl: "https://metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 58
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2023/05/SEI151527065-0764.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Three things to know about how the US Congress might regulate AI"
+    excerpt: "Last week, Senate majority leader Chuck Schumer (a Democrat from New York) announced his grand strategy for AI policymaking at a speech in Washington, DC, ushering in what might be a new era for US tech policy. He outlined some key principles for AI regulation and argued that Congress ought to introduce new laws quickly."
+    publishedDateTime: 2023-07-03T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/ai_congress.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "The 3 Best AI Stocks Nobody’s Talking About Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have emerged as a top investment trend, driven by the increasing"
+    publishedDateTime: 2023-07-07T11:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-nobodys-talking-about-right-now-1032432143"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Google updates privacy policy to train its AI on everything you post online"
+    excerpt: "Google quietly updated its privacy policy over the weekend to mention that it will use public data to help train its AI models."
+    publishedDateTime: 2023-07-03T20:44:00Z
+    webUrl: "https://www.androidauthority.com/google-privacy-policy-ai-3341871/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
+  - title: "Generative AI: We Need To Talk About Value"
+    excerpt: "It’s not about simply getting your hands on generative AI—it’s about knowing how to put the technology to work to create real, tangible value."
+    publishedDateTime: 2023-07-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/generative-ai-we-need-to-talk-about-value/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Report: US to restrict sale of AI cloud services to Chinese companies"
+    excerpt: "The U.S. Commerce Department is reportedly readying new rules that would restrict American cloud providers from selling certain services to customers in China. The Wall Street Journal reported the development today,"
+    publishedDateTime: 2023-07-04T17:23:00Z
+    webUrl: "https://siliconangle.com/2023/07/04/report-us-restrict-sale-ai-cloud-services-chinese-companies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/cloud.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "Understanding assessment in the age of AI"
+    excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
+    publishedDateTime: 2023-07-05T10:08:00Z
+    webUrl: "https://www.cambridge.org/news-and-insights/news/understanding-assessment-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 39
+    images:
+      - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
+        width: 5500
+        height: 3667
+        isCached: true
+  - title: "Infera AI: Bridging the gap between hardware manufacturing and advanced AI"
+    excerpt: "Canada-based startup Infera AI seeks to bridge the gap between hardware manufacturing and cutting-edge artificial intelligence (AI) technologies. With their bespoke solutions and subject-matter expertise,"
+    publishedDateTime: 2023-07-04T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20230703VL206/ai-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230703vl206_files/3_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "What Does AI Know About Wine, Camping, and Airport Food?"
+    excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
+    publishedDateTime: 2023-07-07T14:24:00Z
+    webUrl: "https://www.inc.com/inc-masters/what-does-ai-know-about-wine-camping-and.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "RK4AE7spuqRFWaUqbXq7blMRqnX8sdKNJEbDjewygE6DWKX+yOOxBHYoks8CcwdGOtKOJO28shSCVaZ3ENPaR7N9SWD0TJfC8BdH4SI6gN8nKdB3smZK+L5gFlQl6mYwbvTNVcD9EtiykyhdFq7g5pQNJzI3YkK7uTDh8QWzWoYUAtWXzaLBuriM5yaSKM7M5N5ZYgIjDtqUh9FDCjjT0BSuBfQqFIGijEK4tnK2V4DTrps5Qy2McC5cub3kkLNzbCF98DYat7hBGgC/uFKCk+VZLl1Jje+ZRg5OMnR8jZSYPXv6dNKQFHumOAWlU2wql6liXASzrMRRLNHFgBTy8HkDge/Snfs2pT2i4KFTPf98bKmGlPcD59ttL71EWAWIR11s4WURF/XwtcP4OVvt/LoEDsfGgMy2/OvyKasKGCvhnUVeOdyr8dWnx4DBiDTjkdocGUq0IoKLCDEpmPabGCKQn8R9Wy9EGAYI/SNWZ3ITZKecU3H8etfUOaqrbjaw9C05K2VZP/HPjEzf9lCzYA==;cQ06XHpgJdXLDQFMvQJ2yg=="
 ---

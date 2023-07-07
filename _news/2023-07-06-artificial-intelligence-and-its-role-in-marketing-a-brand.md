@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
-    excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
-    publishedDateTime: 2023-07-06T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6476266dfe66ffb1e6569955/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
     excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
     publishedDateTime: 2023-07-06T11:15:00Z
@@ -121,22 +105,15 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "How AI can help process waste and increase recycling"
-    excerpt: "Someone who will not find those statistics surprising is Mikela Druckman. She has spent a lot of time looking at what we throw away, as the founder of Greyparrot, a UK start-up that has created an AI system designed to analyse waste processing and recycling facilities."
-    publishedDateTime: 2023-07-02T23:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66042169"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66042169.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66042169.amp"
+  - title: "3 Ways Generative AI Can Drive Operational Excellence"
+    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
+    publishedDateTime: 2023-07-07T15:39:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4143/production/_130270761_recycling-gettyimages-150517191.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "iWcBPiXplgHsOojq36bPdAcGp4egICpbgdz/j7IpbInN6zatCjpfG78reE4JzsMl+Y8rQEps+nnpv6L0T2H4/+3rR44MrNaQZXgEzRWOE+S3gWd6lHFYLQnYwDhIkhM8YxSnxrOI3yBlW6JMjEx4ElFPAjNyIVp9RRZs+b21Wl0FMBtKb4W6M0sY4K0XrJ06W+0S7P0mjO4r7tnllrRM/C7Ww+aR3l1RbmbRYJ3CGiPhsPTjbsdVOlijQB7iNmJMtEL1v/HJhmpXm0NGNMOdebtihsfCtnUerJuPLwSxIiMfzdpuoQ0zspQS9+grJyfeQLS+vyRHq4I0Mfmq52Ib7T9Dgrze6wuw4qKglzo3RONcGGWrmHmtVmFC8UWmMBjuK1km1X5Aow7lknmgCcE2QMzLA8LdpdZqIFs3hhZGj4kJl6t5ARV3vx/PROGE1TT+5VcOEMYYzIQqqV0lTF8SYIByHtRrwi8NMn8WFvKd/cZ0kRVLH5XQP5NNos9qtU+QcX/EwmhhCFqaLZ1Zoj3+BA==;Px5Km3DOfNVAABpJe+qR0g=="
 ---

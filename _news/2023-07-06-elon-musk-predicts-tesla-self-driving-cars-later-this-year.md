@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Elon Musk predicts Tesla self-driving cars 'later this year'"
-excerpt: "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai."
-publishedDateTime: 2023-07-06T03:46:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/elon-musk-predicts-tesla-self-driving-cars-later-this-year-10912811.html"
-webUrl: "https://www.moneycontrol.com/news/world/elon-musk-predicts-tesla-self-driving-cars-later-this-year-10912811.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/elon-musk-predicts-tesla-self-driving-cars-later-this-year-10912811.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-predicts-tesla-self-driving-cars-later-this-year-10912811.html/amp"
+title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
+excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
+publishedDateTime: 2023-07-06T05:00:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla.jpg"
-    width: 1280
-    height: 720
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -59,17 +57,17 @@ related:
         isCached: true
   - title: "Musk Predicts Tesla Self-driving Cars 'Later This Year'"
     excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
-    publishedDateTime: 2023-07-06T03:35:00Z
-    webUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
-    ampWebUrl: "https://www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
+    publishedDateTime: 2023-07-06T07:34:00Z
+    webUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
+    ampWebUrl: "https://www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
     quality: 59
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP8259960226130620083595855329811169866700---1.jpg"
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1139930421076092946202235115251316877702---1.jpg"
         width: 768
         height: 511
         isCached: true
@@ -241,6 +239,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "x13cr4TV00tVAD+JX7yh+bJ0HcSMLSHGyy0n6ff2/l4HYnSjBJ4GVED6UnEbtU6y8oQyvDUbXek/oc++WEsCaKjS6UgPGXh4dfC11orinaDko0ePGxM2jANou/qYl+fMpkwwmLOnrbnbIMxdmaRokVpdEFeM5KC32g8tYzm48Ik1cFVT7FB7T2fWHsL+1BOjV7BOpYx7OTbd9czp6k3YSLjr9Gypfx9YOb5mYX44qaOLTn7slNMalC9DvMa7siEadxYD2Sg1uBX69nOvqzAzN7HnDMcFaV5fDLH1ME59UTCc8Qsa4s3ywnOijyF5QtdMfmx4FkX6QzMor2b/TbvM7I1mziyeTAgbSbaPQAmTxts=;383XKyATqeH2nzmPrXTnAA=="
+secured: "No9F7etDBwfJJBf7R2ip/jHV/OBXf7uA/nDAab0rLAZDuTaIJutry+qW9REf3excgs0aPSenURfTAx6Qekmf99OtCfsQnucnjSVWYKS3B11/nEjrJoZ9L5OWeAxwSpJ4l0OOZ2Zq4ovHySxMdL1Fa8FdyVPFeYjwgS0J9/Cbifa/s3/NbVB0GvaMfKQG9759xfccjyLmcoNQL6B4SkdhiuCfCHnp2HV+zmBbMq3nVcoE53urWYpUndytcoDpPyD9bD+pxV90X0EmM3GUI73p8RJ29qgYJbALPpWOOb3mmgyFKX6UykW33t6Y4qJdZ1HAoSaf/a4ULD0Zj4NUg0GWjCZsz6WOhe+TFDgQOXKdA/w=;jP1ChIk+iYoZfGnLZbonqA=="
 ---
 

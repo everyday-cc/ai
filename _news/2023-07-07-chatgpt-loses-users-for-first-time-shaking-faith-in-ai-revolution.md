@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Ethics In The Age Of ChatGPT - What Businesses Need To Know"
+    excerpt: "Photo: Arne Dedert/dpa (Photo by Arne Dedert/picture alliance via Getty Images) AI Ethics was a complicated topic even before ChatGPT (and other Large Language Models - LLMs) and Generative AI burst onto the scene. In this article - we cover how LLMs and ..."
+    publishedDateTime: 2023-07-07T17:18:00Z
+    webUrl: "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/"
+    ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a8463e4ab326e88191cf1d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 784
+        isCached: true
   - title: "15 of the best AI and ChatGPT courses you can take online for free"
     excerpt: "Techniques for AI Image Generation(opens in a new tab) Microsoft Azure AI Fundamentals: Get started with AI(opens in a new tab) Midjourney 101: Unleash AI for Unique Image Generation(opens in a new tab) Midjourney Guide: How to Generate AI Art in Seconds ..."
     publishedDateTime: 2023-07-05T04:08:00Z
@@ -37,22 +53,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/002kxdo3R48XSCpBxasXOLq/hero-image.fill.size_1200x675.v1688467571.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "ChatGPT and other AI bots are bad stock pickers - but they can still help investors, Bridgewater co-CIO says"
-    excerpt: "Using ChatGPT to pick investments is \"a hopeless path,\" Greg Jensen told Bloomberg's \"Odd Lots\" podcast Monday."
-    publishedDateTime: 2023-07-04T10:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-ai-artificial-intelligence-stock-market-outlook-bridgewater-greg-jensen-2023-7"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-ai-artificial-intelligence-stock-market-outlook-bridgewater-greg-jensen-2023-7?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-ai-artificial-intelligence-stock-market-outlook-bridgewater-greg-jensen-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/64a3eb1f6075be0019c29808?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "A couple in Colorado had their wedding officiated by ChatGPT — only after the AI chatbot initially turned down the honor"
     excerpt: "The bride's father told CBS Colorado that ChatGPT initially declined the request, saying, \"I can't do this, I don't have eyes, I don't have a body.\""
@@ -101,6 +101,20 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2022/03/imageForEntry16-cPB.jpg?w=400"
         width: 400
         height: 224
+        isCached: true
+  - title: "Ethical and Thoughtful Use of AI in the Legal Industry"
+    excerpt: "This is especially true when it comes to publicly available generative AI tools such as ChatGPT, the large language model chatbot developed by OpenAI that, among other things, can generate text, translate languages, write different kinds of creative ..."
+    publishedDateTime: 2023-07-03T17:43:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2023/07/03/ethical-and-thoughtful-use-of-ai-in-the-legal-industry/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 56
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/06/Mark-McCreary-767x633-1.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "ChatGPT Successors: Humanoid Robots, AI lawyers, AI-driven science"
     excerpt: "There are several AI technologies waiting in the wings of next-level ChatGPT, including humanoid robots, AI lawyers, and AI-driven science."
@@ -216,6 +230,6 @@ related:
         height: 228
         isCached: true
 
-secured: "ijtd+n7Fi7ftgFZzg2F1Mgsj7mU0QwTKggdahHJZDdZ/GPcrGbwxvexavRPQtzE2HzpZQJNi+7t1Uv+yDUqFZWbmeKrD6SmXR9RsGZGJQwW0Rmsc2AARs55ANI6NyOLdcl8d1Amo0CkyNT6vV7NUvuOfUp2WZx1hRTMflx+RoZVqhrcpiK6Hm41JjPwXxn1ER/7OgSyU97cjxFIb4WhUQD5PHd+VL1QkaMAICxK0eg+8e5RS+7bvFkF+ENxwn+uUt/R0hWRmQNKgMY63enflJ9ej0jwLgty/aTCyqctb2+D6FMOOvribV7/N2UzXLf6l4jniOfCerncwcAf3YZDoKeZKRB5Q8ebP8fKLeINbSq8=;6kCDivc8BG1nBYywKCLoFA=="
+secured: "q0hS9ogtLRRQySqWaqZuSfGVIF60HKmggENS4opImQ5XHyeT6aWSOKnX2gNdkOpGC3qjLAeZLPlsOx5JkhdJf9F0oonbb/AqK6XMM0QgMY1cQkXEYJROHJdgoUulS7PcrXqNf5FEf0mIF4dPWZELlDhzv2LkCfg4rBmz3d8tACe+OLjlbvFhktfZzm/RomndSNKY5Z7r+yrk+1bMXVhXes6QkAtPcme2dJs7F4b2ojeeJ3GQ94BSPkoVx9nXPUtU1ubAG/o4FoVAegWO5ORmuv32+y3mZ3D++QVMdlKfG/6nIL6QYVEKyTcpy49BCg4w7onJTEkiz71D3vgz+E1dh+uUBbl/VYXd+9+zef5DtfaqCYjfobEoGHIT9jcpLv1WbZQ9AT7QEJWnURGcn0hlDxvIo3KyNrY9wRbLzHAxmkZkAZiMEGEPSEpgp2odIzzRoMziH6VKfBEMFkmd7rbglnvQhayLlv6YAyjh9n0wRiaLp+wZ6AbF3hIJ/XgqbZ8KL8yNEO1xJxgra+IfzMBGag==;ieivjefuRbGIH2IkNnnQNA=="
 ---
 

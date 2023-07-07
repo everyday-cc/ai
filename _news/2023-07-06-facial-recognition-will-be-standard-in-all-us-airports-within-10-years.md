@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99294-facial-recognition-standard-al
 webUrl: "https://www.techspot.com/news/99294-facial-recognition-standard-all-us-airports-within-10.html"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
     quality: 54
     images:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/07/20230315_AMX_BIZ_TSA_CHIEF_SAYS_BIOMETRICS_AND_1_DA.64a2f21f6090f.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial recognition used at stadiums"
-    excerpt: "Facial recognition technology is being deployed at major concert venues and sporting events across Australia, with attendees largely left in the dark about what it is being used for. An investigation from consumer advocates Choice found the widespread collection of unique “faceprints” of attendees ( Choice );"
-    publishedDateTime: 2023-07-05T21:02:00Z
-    webUrl: "https://www.thesaturdaypaper.com.au/post/max-opray/2023/07/06/facial-recognition-used-stadiums"
-    type: article
-    provider:
-      name: The Saturday Paper
-      domain: thesaturdaypaper.com.au
-    quality: 39
-    images:
-      - url: "https://www.thesaturdaypaper.com.au/sites/default/files/post4.png"
         width: 1200
         height: 630
         isCached: true

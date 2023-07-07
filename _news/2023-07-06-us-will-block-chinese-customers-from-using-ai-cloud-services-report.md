@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Report: US to restrict sale of AI cloud services to Chinese companies"
-    excerpt: "The U.S. Commerce Department is reportedly readying new rules that would restrict American cloud providers from selling certain services to customers in China. The Wall Street Journal reported the development today,"
-    publishedDateTime: 2023-07-04T17:23:00Z
-    webUrl: "https://siliconangle.com/2023/07/04/report-us-restrict-sale-ai-cloud-services-chinese-companies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/cloud.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Chinese colleges wrestle with AI-generated research papers"
     excerpt: "Photo/IC] It was the night before deadline and all through the house, Cheng Guangyu, a Beijing college junior, was still four research papers away from meeting the academic requi"
     publishedDateTime: 2023-07-06T01:35:00Z

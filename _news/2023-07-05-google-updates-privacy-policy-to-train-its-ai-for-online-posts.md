@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google updates privacy policy to train its AI on everything you post online"
-    excerpt: "Google quietly updated its privacy policy over the weekend to mention that it will use public data to help train its AI models."
-    publishedDateTime: 2023-07-03T20:44:00Z
-    webUrl: "https://www.androidauthority.com/google-privacy-policy-ai-3341871/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 47
   - title: "Google’s plan to train its AI now includes the entire public internet"
     excerpt: "Google has made a change to its privacy policy that clarifies the extent of its growing AI ambitions. In essence, the search giant says anything posted publicly online is fair game to be scraped and used to improve AI tools like its ChatGPT rival, Google Bard."
     publishedDateTime: 2023-07-04T10:39:00Z

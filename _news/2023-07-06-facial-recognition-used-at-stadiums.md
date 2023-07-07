@@ -25,28 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition will be standard in all US airports within 10 years"
-    excerpt: "TSA agents have been testing the new ID technology for the past two years, and now the federal agency plans to expand the program to screen"
-    publishedDateTime: 2023-07-05T17:58:00Z
-    webUrl: "https://www.techspot.com/news/99294-facial-recognition-standard-all-us-airports-within-10.html"
+  - title: "F1 British Grand Prix: Facial recognition at Silverstone being used"
+    excerpt: "Facial recognition technology will be used for the first time at the Formula 1 British Grand Prix to try to stop protesters disrupting the race. Last year, climate activists from Just Stop Oil got on to the Silverstone track in the first lap and sat down."
+    publishedDateTime: 2023-07-06T13:30:00Z
+    webUrl: "https://www.bbc.com/news/uk-england-northamptonshire-66120010"
+    ampWebUrl: "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 64
-  - title: "TSA to expand its facial recognition program to over 400 airports"
-    excerpt: "The expansion comes amid allegations by rights advocates that the agency is improperly coercing travelers to participate."
-    publishedDateTime: 2023-07-03T16:27:00Z
-    webUrl: "https://www.securityinfowatch.com/critical-infrastructure/news/53065120/tsa-to-expand-its-facial-recognition-program-to-over-400-airports"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/07/20230315_AMX_BIZ_TSA_CHIEF_SAYS_BIOMETRICS_AND_1_DA.64a2f21f6090f.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15798/production/_130306978_silverstonecarpa.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "British Grand Prix: Northamptonshire Police crackdown on protests with facial recognition technology"
+    excerpt: "At last year's race protestors invaded and sat on the track, with police boosting security to prevent the same happening this weekend. | ITV News Anglia"
+    publishedDateTime: 2023-07-06T13:29:00Z
+    webUrl: "https://www.itv.com/news/anglia/2023-07-06/british-grand-prix-facial-recognition-to-be-used-in-protest-crackdown"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 24
+    images:
+      - url: "https://images.ctfassets.net/pjshm78m9jt4/6pCCdnz6YNEXq56qm3gkyo/d49b8c69b3d3cc9c15e97c6d9e1a13ac/G-SILVERSTONE.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "PWD/PJa7d6k7/5sVm9A1kh2nTc3rUblup/rPh7ufCzqb+WJ5cIzjfu9/3JJJFScdUYYwpUF7PNLarEPsZOALwtwokhEw+9YP5iBH0sPX1edWw4hCkKYMMD2SQbaGQxQoHEOXJfl1xpvEPwSuV3wdgd7v/jES1xAwCXMzu6pUeqeUhlr2oqekOPg8DWtxIoIPQCfSnG3rY0peqOddfPSJv23Ttpe1EibBB/OBfkcsw1mRtFeSYJLRgeBys6cNy+QglqEy3961QS+wpDSm0LZpEbv87MfxyUQ3qY3FE3G4ERw5uV5AdyokDscSBNfMRnXydzPxjXKj31TdROoiLxlLc+Keo4RC4AdHZLAwI2YU58Y=;HyhuGJqpoMEt6YqEVv1bsg=="

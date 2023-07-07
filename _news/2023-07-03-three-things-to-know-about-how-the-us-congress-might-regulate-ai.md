@@ -26,64 +26,132 @@ images:
     isCached: true
 
 related:
-  - title: "Why Big Tech Wants to Help Congress Regulate AI"
-    excerpt: "Tech interests, especially OpenAI, the nonprofit that created ChatGPT, have gone on the offensive in Washington, arguing for regulations that will prevent the technology from posing an existential threat to humanity."
-    publishedDateTime: 2023-07-05T16:20:00Z
-    webUrl: "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai"
-    ampWebUrl: "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true"
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ..."
+    publishedDateTime: 2023-07-07T16:57:00Z
+    webUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/f154ebe/2147483647/strip/true/crop/1175x613+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb5%2F42%2Fe656e308c9a0040121ef5c7565dc%2Fcongress-flickr.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Congress wants to regulate AI. Big Tech is eager to help"
-    excerpt: "Members of Congress want to regulate artificial intelligence, and Big Tech is watching — and lobbying. Senate Majority Leader Charles E. Schumer (D-N.Y.) launched a major push on AI regulation late last month,"
-    publishedDateTime: 2023-07-05T15:00:00Z
-    webUrl: "https://www.aol.com/news/congress-wants-regulate-ai-big-120041224.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/68dc6cd933ab8846393767699e51281d"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Firms racing to meet AI tech challenge"
-    excerpt: "A special battle is going on in China as established tech heavyweights and startups scramble to develop their own artificial intelligence large language models to pounce on the opportunities created by AI-generated content."
-    publishedDateTime: 2023-07-05T01:37:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/05/WS64a4bf6ca310bf8a75d6d4ea.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/05/64a4bf6ca310bf8a1d2369b2.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "This Is the Help Congress Needs to Regulate AI"
-    excerpt: "When OpenAI CEO Sam Altman testified before Congress in May about the existential risks large-language models and other generative artificial intelligence technologies pose to humanity, there was an elephant in the room."
-    publishedDateTime: 2023-07-05T16:00:00Z
-    webUrl: "https://www.theinformation.com/articles/this-is-the-help-congress-needs-to-regulate-ai"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 39
-    images:
-      - url: "https://tii.imgix.net/production/articles/10789/895565bc-7088-40b0-ab78-517b5db040b5.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
         width: 1200
-        height: 673
+        height: 675
         isCached: true
+  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
+    excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
+    publishedDateTime: 2023-07-06T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6476266dfe66ffb1e6569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Now anything you post publicly online could be used to train Google’s AI"
+    excerpt: "AI chatbots like Google’s Bard, Open AI’s ChatGPT and other generative AI systems create content using large amounts of data scraped from the internet. This includes data publicly available on social media platforms. We’re already seeing owners of social media platforms try and curb this."
+    publishedDateTime: 2023-07-04T17:43:00Z
+    webUrl: "https://metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/"
+    ampWebUrl: "https://metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 58
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2023/05/SEI151527065-0764.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "The 3 Best AI Stocks Nobody’s Talking About Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have emerged as a top investment trend, driven by the increasing"
+    publishedDateTime: 2023-07-07T11:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-nobodys-talking-about-right-now-1032432143"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Google updates privacy policy to train its AI on everything you post online"
+    excerpt: "Google quietly updated its privacy policy over the weekend to mention that it will use public data to help train its AI models."
+    publishedDateTime: 2023-07-03T20:44:00Z
+    webUrl: "https://www.androidauthority.com/google-privacy-policy-ai-3341871/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
+  - title: "Generative AI: We Need To Talk About Value"
+    excerpt: "It’s not about simply getting your hands on generative AI—it’s about knowing how to put the technology to work to create real, tangible value."
+    publishedDateTime: 2023-07-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/generative-ai-we-need-to-talk-about-value/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Report: US to restrict sale of AI cloud services to Chinese companies"
+    excerpt: "The U.S. Commerce Department is reportedly readying new rules that would restrict American cloud providers from selling certain services to customers in China. The Wall Street Journal reported the development today,"
+    publishedDateTime: 2023-07-04T17:23:00Z
+    webUrl: "https://siliconangle.com/2023/07/04/report-us-restrict-sale-ai-cloud-services-chinese-companies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/cloud.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "Understanding assessment in the age of AI"
+    excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
+    publishedDateTime: 2023-07-05T10:08:00Z
+    webUrl: "https://www.cambridge.org/news-and-insights/news/understanding-assessment-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 39
+    images:
+      - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
+        width: 5500
+        height: 3667
+        isCached: true
+  - title: "Infera AI: Bridging the gap between hardware manufacturing and advanced AI"
+    excerpt: "Canada-based startup Infera AI seeks to bridge the gap between hardware manufacturing and cutting-edge artificial intelligence (AI) technologies. With their bespoke solutions and subject-matter expertise,"
+    publishedDateTime: 2023-07-04T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20230703VL206/ai-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230703vl206_files/3_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "What Does AI Know About Wine, Camping, and Airport Food?"
+    excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
+    publishedDateTime: 2023-07-07T14:24:00Z
+    webUrl: "https://www.inc.com/inc-masters/what-does-ai-know-about-wine-camping-and.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "uW43Qlmsg4o8D/p3U9TPxBM7F6DWey47rRxybsTe8nQydrRC+rhXPV9TaLJPlUleO9BlRorC269BsITC/IfpYb+Gyd5uq4zkSE2W+lTgJwY5S7wptsc910uLaccb3eoHmmnrtr2LGMAaWdvbFt7Gh9iWsv34SHH+gxpfoGTUf3IjASinA5/lSgDWI45GpowjCY1hmj60ttIayNphgKBIIJnNV/LeOPLegE8719ZZ38JCS+/G5LE2UGQSoGQT+N+S0cY5OMuWPUy43p8jXI0CZ0VDtJdPsyFUTexZZh9uhgFvnojscWW88vqjdEr1cwGo7kbutHzkWnUPva2ainA2KG8//h/MHqeWQF4H0HUraDdoKW+plpr1VrZsty139pCiYuw7StWrOUaIKd1UjcA1sM0zhORVaHUrgDGQ4mTzZekvJ4BySAaX2H5hSkX5oCwoxiMuTZ0FkUVD8ZKTYacPncd43m4BS3GEdZDgWKBN6+2mIltgb15WIMPpC4moHRsporUbFcFjFaMxWA3BtOptpQ==;6seFKX5b6iRlNTdMoBwdeQ=="
 ---

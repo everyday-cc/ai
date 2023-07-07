@@ -25,78 +25,134 @@ images:
     isCached: true
 
 related:
-  - title: "Musk praises Chinese artificial intelligence as Tesla faces tough competition"
-    excerpt: "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6."
-    publishedDateTime: 2023-07-06T15:24:00Z
-    webUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/"
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ..."
+    publishedDateTime: 2023-07-07T16:57:00Z
+    webUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
     type: article
     provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 66
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg"
-        width: 1000
-        height: 667
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "US will block Chinese customers from using AI cloud services: report"
-    excerpt: "The US Department of Commerce could ban Amazon, Microsoft and Google from selling AI-related cloud computing services to Chinese companies, a new report said."
-    publishedDateTime: 2023-07-05T18:19:00Z
-    webUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.amp.html"
+  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
+    excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
+    publishedDateTime: 2023-07-06T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6476266dfe66ffb1e6569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Now anything you post publicly online could be used to train Google’s AI"
+    excerpt: "AI chatbots like Google’s Bard, Open AI’s ChatGPT and other generative AI systems create content using large amounts of data scraped from the internet. This includes data publicly available on social media platforms. We’re already seeing owners of social media platforms try and curb this."
+    publishedDateTime: 2023-07-04T17:43:00Z
+    webUrl: "https://metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/"
+    ampWebUrl: "https://metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 58
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2023/05/SEI151527065-0764.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Three things to know about how the US Congress might regulate AI"
+    excerpt: "Last week, Senate majority leader Chuck Schumer (a Democrat from New York) announced his grand strategy for AI policymaking at a speech in Washington, DC, ushering in what might be a new era for US tech policy. He outlined some key principles for AI regulation and argued that Congress ought to introduce new laws quickly."
+    publishedDateTime: 2023-07-03T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 57
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/07/06/thinkstockphotos-528443527-100610461-large-100941889-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/ai_congress.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "Chinese colleges wrestle with AI-generated research papers"
-    excerpt: "Photo/IC] It was the night before deadline and all through the house, Cheng Guangyu, a Beijing college junior, was still four research papers away from meeting the academic requi"
-    publishedDateTime: 2023-07-06T01:35:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/06/WS64a60f5aa310bf8a75d6d88e.html"
+  - title: "The 3 Best AI Stocks Nobody’s Talking About Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have emerged as a top investment trend, driven by the increasing"
+    publishedDateTime: 2023-07-07T11:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-nobodys-talking-about-right-now-1032432143"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Google updates privacy policy to train its AI on everything you post online"
+    excerpt: "Google quietly updated its privacy policy over the weekend to mention that it will use public data to help train its AI models."
+    publishedDateTime: 2023-07-03T20:44:00Z
+    webUrl: "https://www.androidauthority.com/google-privacy-policy-ai-3341871/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
+  - title: "Generative AI: We Need To Talk About Value"
+    excerpt: "It’s not about simply getting your hands on generative AI—it’s about knowing how to put the technology to work to create real, tangible value."
+    publishedDateTime: 2023-07-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/generative-ai-we-need-to-talk-about-value/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Understanding assessment in the age of AI"
+    excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
+    publishedDateTime: 2023-07-05T10:08:00Z
+    webUrl: "https://www.cambridge.org/news-and-insights/news/understanding-assessment-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
     quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/06/64a60f5aa310bf8a1d238561.jpeg"
-        width: 640
-        height: 426
+      - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
+        width: 5500
+        height: 3667
         isCached: true
-  - title: "Chinese AI startup Fourth Paradigm receives China's nod for Hong Kong IPO"
-    excerpt: "Beijing Fourth Paradigm Technology, an AI startup, has completed procedural work for a Hong Kong initial public offering, becoming only one of a handful of companies to get the nod from China's securities regulator since new rules became effective this year."
-    publishedDateTime: 2023-07-05T11:50:00Z
-    webUrl: "https://www.aol.com/news/chinese-ai-startup-fourth-paradigm-085041020.html"
+  - title: "Infera AI: Bridging the gap between hardware manufacturing and advanced AI"
+    excerpt: "Canada-based startup Infera AI seeks to bridge the gap between hardware manufacturing and cutting-edge artificial intelligence (AI) technologies. With their bespoke solutions and subject-matter expertise,"
+    publishedDateTime: 2023-07-04T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20230703VL206/ai-software-big-data.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/4f59596b75cfaa878a2137c10ed88238"
-        width: 800
-        height: 533
+      - url: "https://img.digitimes.com/newsshow/20230703vl206_files/3_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Apple chip production unaffected by Chinese sanctions, but things could get much worse"
-    excerpt: "TSMC‘s Apple chip production is not expected to be affected by China’s decision to restrict exports of two key"
-    publishedDateTime: 2023-07-06T13:25:00Z
-    webUrl: "https://9to5mac.com/2023/07/06/apple-chip-production/"
+  - title: "What Does AI Know About Wine, Camping, and Airport Food?"
+    excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
+    publishedDateTime: 2023-07-07T14:24:00Z
+    webUrl: "https://www.inc.com/inc-masters/what-does-ai-know-about-wine-camping-and.html"
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 31
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/Apple-chip-production.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "19Z9kQqrsstFIlIw8Riv+rsILWZs+B06Or+c2/VLmmGs63yp8ie92qzeoSly5q6KitQcI2ZGLIRWEfwzGj9QV1b5dCawBwEcZ0Wt3Uy2Q6wXy+L3S6NcWuplNfF+LKNDXG1REln1yrbq0tDNHQXzeJeuAeyMGeZPLrvAWGDxMf/63kLzYv43MizJ+TmBYIvOZKh5d0o3NFIwNCf+dDQIrw+lh9GFk1PkJo67KFlWB5YNthfe4EcmK6+dPAqVzXL+/pPh5CkPYCTi/xu+sWO4rVHCcIqf225IhvyX02oNS/veMN1zUTZ8+wnM5m4kDNdQK1jJ2tAE6V2CYvFMgxaMI0m4ollvew6czSZx36yPfrk=;PGec9SjdZBLMAt+RT5iDeA=="
 ---

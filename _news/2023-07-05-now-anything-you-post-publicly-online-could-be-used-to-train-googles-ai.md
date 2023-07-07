@@ -27,59 +27,132 @@ images:
     isCached: true
 
 related:
-  - title: "Are your Google Docs safe from AI training?"
-    excerpt: "With AI continuing it's slow rise to prominence, consumers are concerned their personal content is being used to train Google's generative service."
-    publishedDateTime: 2023-07-05T09:20:00Z
-    webUrl: "https://www.zdnet.com/article/are-your-google-docs-safe-from-ai-training/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/"
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ..."
+    publishedDateTime: 2023-07-07T16:57:00Z
+    webUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://www.zdnet.com/a/img/resize/95e2805311885fe7027cba0a08ef3c351722cec5/2023/07/04/64866159-45b8-43d9-9022-6eedf92fa564/gettyimages-1239914872-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's policy update verifies that all your posted content will be utilized for AI training"
-    excerpt: "Google's update over the weekend introduced new wording to its privacy policy. It previously stated that people's data would be used to train \"language\" models, mentioning"
-    publishedDateTime: 2023-07-04T11:46:00Z
-    webUrl: "https://www.techspot.com/news/99281-google-policy-update-confirms-itll-scrape-everything-you.html"
+  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
+    excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
+    publishedDateTime: 2023-07-06T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-04-image.jpg"
-        width: 1017
-        height: 891
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6476266dfe66ffb1e6569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Google Updates Privacy Policy To Collect Public Data For AI Training"
-    excerpt: "Over the weekend, Google updated its privacy policy to allow the company to collect and analyze information people share online to train its AI models. Google says it will use this information to improve its services and develop new AI-powered products."
-    publishedDateTime: 2023-07-03T20:47:00Z
-    webUrl: "https://www.searchenginejournal.com/google-updates-privacy-policy-to-collect-public-data-for-ai-training/490715/"
+  - title: "Three things to know about how the US Congress might regulate AI"
+    excerpt: "Last week, Senate majority leader Chuck Schumer (a Democrat from New York) announced his grand strategy for AI policymaking at a speech in Washington, DC, ushering in what might be a new era for US tech policy. He outlined some key principles for AI regulation and argued that Congress ought to introduce new laws quickly."
+    publishedDateTime: 2023-07-03T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
     type: article
     provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/ai_congress.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "The 3 Best AI Stocks Nobody’s Talking About Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have emerged as a top investment trend, driven by the increasing"
+    publishedDateTime: 2023-07-07T11:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-nobodys-talking-about-right-now-1032432143"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Google updates privacy policy to train its AI on everything you post online"
+    excerpt: "Google quietly updated its privacy policy over the weekend to mention that it will use public data to help train its AI models."
+    publishedDateTime: 2023-07-03T20:44:00Z
+    webUrl: "https://www.androidauthority.com/google-privacy-policy-ai-3341871/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
+  - title: "Generative AI: We Need To Talk About Value"
+    excerpt: "It’s not about simply getting your hands on generative AI—it’s about knowing how to put the technology to work to create real, tangible value."
+    publishedDateTime: 2023-07-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/generative-ai-we-need-to-talk-about-value/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Report: US to restrict sale of AI cloud services to Chinese companies"
+    excerpt: "The U.S. Commerce Department is reportedly readying new rules that would restrict American cloud providers from selling certain services to customers in China. The Wall Street Journal reported the development today,"
+    publishedDateTime: 2023-07-04T17:23:00Z
+    webUrl: "https://siliconangle.com/2023/07/04/report-us-restrict-sale-ai-cloud-services-chinese-companies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 39
     images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/07/img_2023-7-3-164236-64a332f829dc6-sej.jpeg"
-        width: 1600
-        height: 840
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/cloud.png"
+        width: 718
+        height: 400
         isCached: true
-  - title: "Google Reveals Use of Public Web Data in AI Training"
-    excerpt: "In a recent update to its privacy policy, Google has openly admitted to using publicly available information from the web to train its AI models. This disclosure, spotted by Gizmodo, includes services like Bard and Cloud AI."
-    publishedDateTime: 2023-07-05T19:43:00Z
-    webUrl: "https://www.unite.ai/google-reveals-use-of-public-web-data-in-ai-training/"
+  - title: "Understanding assessment in the age of AI"
+    excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
+    publishedDateTime: 2023-07-05T10:08:00Z
+    webUrl: "https://www.cambridge.org/news-and-insights/news/understanding-assessment-in-the-age-of-ai"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 39
+    images:
+      - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
+        width: 5500
+        height: 3667
+        isCached: true
+  - title: "Infera AI: Bridging the gap between hardware manufacturing and advanced AI"
+    excerpt: "Canada-based startup Infera AI seeks to bridge the gap between hardware manufacturing and cutting-edge artificial intelligence (AI) technologies. With their bespoke solutions and subject-matter expertise,"
+    publishedDateTime: 2023-07-04T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20230703VL206/ai-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230703vl206_files/3_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "What Does AI Know About Wine, Camping, and Airport Food?"
+    excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
+    publishedDateTime: 2023-07-07T14:24:00Z
+    webUrl: "https://www.inc.com/inc-masters/what-does-ai-know-about-wine-camping-and.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "hTnytuCym4IB957KMSMYXP+zKjCeMgJlDBryzcdkYAI94y53kk0KDgIjxjwZ6tgbuUkgsJ90xzSxOoTZr2hwUd3YyWyFKOhQ72b0hgpvtNW5ETxv6UaleUXH9OMlKcQWzR5r4Rl/GEly8sA1W9gRjXcPi+tSi4cMBpujFecFLOasCJpfpe4Z+1t/P1Cg9OFuOl5YXGV1gDO+6Hq+XLKQ/5hexKVt6PO4Kh7QiEp6mwFSrUXGh7lxZSdM9Mg777aTvVWoeEk4Rv9Nxi2w9DJ+16iX0Bj9/7c0k/0XGcDiLjkDulzxATLkfi/OsgOjXi7D7VOfi4XaHVKt+vBpBv7YoB65oOZ+48ELBi1772N/gYI=;SetbF6pL/p2d7zT3MPgqPQ=="
 ---

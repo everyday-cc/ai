@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Report: US to restrict sale of AI cloud services to Chinese companies"
-    excerpt: "The U.S. Commerce Department is reportedly readying new rules that would restrict American cloud providers from selling certain services to customers in China. The Wall Street Journal reported the development today,"
-    publishedDateTime: 2023-07-04T17:23:00Z
-    webUrl: "https://siliconangle.com/2023/07/04/report-us-restrict-sale-ai-cloud-services-chinese-companies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/cloud.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Chinese colleges wrestle with AI-generated research papers"
     excerpt: "Photo/IC] It was the night before deadline and all through the house, Cheng Guangyu, a Beijing college junior, was still four research papers away from meeting the academic requi"
     publishedDateTime: 2023-07-06T01:35:00Z
@@ -97,6 +83,6 @@ related:
         height: 628
         isCached: true
 
-secured: "leaDfdQn0IFR6/pfRv8IHfAbJskj7Rgk5iLkhS4CRF212BMpqObl45cHPxdncSZakWlKxu7/WgUrjvUNCYcTEa9nqMAI1n+rhzTSzfxR0n5MqEFtv5As+U+kB/fBz+ZRMgoNCV9IGGZ/+jbUwKw+/8JvNzyMum3S9weyHd7YlSAsxaURpwhNBaojjDPGsVTCpT+KEGKDJ2sprZ7j7gq6rLQ1GaYWHOFw1HAWDhmZHNteMBvOg81VRw2aIsLYgacUZykzVkJ5D+O8W0u8SYX1Z8cyjzgFE2JLa/U82fFAcjwb4GIsby8iYaqJ63+HgXYvIaNvZC9Q0R9qImtnH8LMUMfevXaXBSf2xsQoHkjy5Ik=;Z12vRlsY1gVtou3LMASR2Q=="
+secured: "WLEt0vnNqwANSUNTa0TLnmdYAk4LVriuqZLtc3jw7pTSdGDSCwkvgANu3OQKfnLDpre2Qzb5bizUzOfPWBGPnnHwIdDYOFnQiesY4CDnvZCjm5NE9Mva45nMhq4o6EwKrgQ8x3VrCpabK86+peCbkCLIyglUcTHiLscGMNaN8fM04zAHond2/4zrnK6H4MK0w+9uqkxzLRzJogiqDZtamVqnoWGt0Ns748gshx+Dnxw0FoixDriWRRQoEdplhaTbej1kXeLZWoVYIv2fWK3xyeL7W4Eedm92WLhO+CC5j/+2ThPV/kkW/97hLKTE6kFHqb7tHk6wUhnHy/YwSLDXCr+m5FR/sPiO4/iawwAhfBROWacOY39/fxitfDeN+FpXK44xyZAyWOW5lZvGcSw7gGX1yG5SBaQJQOgFbJ+2m5p9lR6m75tItjHyLUTslLSovxTvd434FktVorNm8J8VMzoEKrQ/HLnL+1/XxBO/JSTUcNZNb9aHrrZncZrc+SianUEukI0bTwDWF7cxvV7J1w==;5f7fCBC7lTKYseQCOFBfIQ=="
 ---
 

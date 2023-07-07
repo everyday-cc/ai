@@ -7,8 +7,8 @@ originalUrl: "https://mashable.com/uk/deals/ai-chatgpt-free-courses"
 webUrl: "https://mashable.com/uk/deals/ai-chatgpt-free-courses"
 type: article
 quality: 69
-heat: 209
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and other AI bots are bad stock pickers - but they can still help investors, Bridgewater co-CIO says"
-    excerpt: "Using ChatGPT to pick investments is \"a hopeless path,\" Greg Jensen told Bloomberg's \"Odd Lots\" podcast Monday."
-    publishedDateTime: 2023-07-04T10:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-ai-artificial-intelligence-stock-market-outlook-bridgewater-greg-jensen-2023-7"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-ai-artificial-intelligence-stock-market-outlook-bridgewater-greg-jensen-2023-7?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-ai-artificial-intelligence-stock-market-outlook-bridgewater-greg-jensen-2023-7?amp"
+  - title: "AI Ethics In The Age Of ChatGPT - What Businesses Need To Know"
+    excerpt: "Photo: Arne Dedert/dpa (Photo by Arne Dedert/picture alliance via Getty Images) AI Ethics was a complicated topic even before ChatGPT (and other Large Language Models - LLMs) and Generative AI burst onto the scene. In this article - we cover how LLMs and ..."
+    publishedDateTime: 2023-07-07T17:18:00Z
+    webUrl: "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/"
+    ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://i.insider.com/64a3eb1f6075be0019c29808?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a8463e4ab326e88191cf1d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 600
+        height: 784
         isCached: true
   - title: "A couple in Colorado had their wedding officiated by ChatGPT — only after the AI chatbot initially turned down the honor"
     excerpt: "The bride's father told CBS Colorado that ChatGPT initially declined the request, saying, \"I can't do this, I don't have eyes, I don't have a body.\""
@@ -88,6 +88,20 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2022/03/imageForEntry16-cPB.jpg?w=400"
         width: 400
         height: 224
+        isCached: true
+  - title: "Ethical and Thoughtful Use of AI in the Legal Industry"
+    excerpt: "This is especially true when it comes to publicly available generative AI tools such as ChatGPT, the large language model chatbot developed by OpenAI that, among other things, can generate text, translate languages, write different kinds of creative ..."
+    publishedDateTime: 2023-07-03T17:43:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2023/07/03/ethical-and-thoughtful-use-of-ai-in-the-legal-industry/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 56
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/06/Mark-McCreary-767x633-1.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "ChatGPT Successors: Humanoid Robots, AI lawyers, AI-driven science"
     excerpt: "There are several AI technologies waiting in the wings of next-level ChatGPT, including humanoid robots, AI lawyers, and AI-driven science."

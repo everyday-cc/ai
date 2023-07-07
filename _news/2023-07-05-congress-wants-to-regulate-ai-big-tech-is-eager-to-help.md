@@ -41,22 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Three things to know about how the US Congress might regulate AI"
-    excerpt: "Last week, Senate majority leader Chuck Schumer (a Democrat from New York) announced his grand strategy for AI policymaking at a speech in Washington, DC, ushering in what might be a new era for US tech policy. He outlined some key principles for AI regulation and argued that Congress ought to introduce new laws quickly."
-    publishedDateTime: 2023-07-03T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075807/three-things-to-know-about-how-the-us-congress-might-regulate-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/ai_congress.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Firms racing to meet AI tech challenge"
     excerpt: "A special battle is going on in China as established tech heavyweights and startups scramble to develop their own artificial intelligence large language models to pounce on the opportunities created by AI-generated content."
     publishedDateTime: 2023-07-05T01:37:00Z

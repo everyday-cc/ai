@@ -52,6 +52,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Ramp acquires AI-powered Cohere"
+    excerpt: "The finance automation platform acquired the startup to help drive AI-powered projects and solve problems for its customers, it said."
+    publishedDateTime: 2023-07-05T21:31:00Z
+    webUrl: "https://www.bankingdive.com/news/ramp-acquires-ai-cohere-fintech/685024/"
+    type: article
+    provider:
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 39
+    images:
+      - url: "https://www.bankingdive.com/imgproxy/pNO5BpZOo8I-BP88Z6UGIxjuYttZqWDdqRxOfHkcLK8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1JhbXBfMS5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Building the AI Talent Pipeline"
     excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
     publishedDateTime: 2023-07-07T04:45:00Z

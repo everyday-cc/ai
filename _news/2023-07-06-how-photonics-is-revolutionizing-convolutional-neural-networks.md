@@ -21,6 +21,17 @@ topics:
   - AI
   - Computer Vision
 
+related:
+  - title: "How photonics is revolutionizing convolutional neural networks"
+    excerpt: "In the modern era, there has been explosive growth in the demand for computing power for cognitive image and video processing. While convolutional neural networks offer improved performance for image processing,"
+    publishedDateTime: 2023-07-05T00:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/994608"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
+
 secured: "5VGuMVw7aN/7g/M4g9fACx871zTbzOxofwAG1UUii9Het0XQA+lLkSTRQAhvsid6mlY7YSJf5aXVol+cHZdST3IaeuD62PS8Mj+WojHBQEW9/nsG6ku9bmADcHFWV8ukmMV6UVaLKCOjcTkvf2SKi0x6xH+9MEXlAX/GIIz4Vi3azxdKEROztj3lrCt3LIiFI5Pc/OI5RdozTHInd6HKd56sKRFXsYsbnYZDCgCw8GE7dqTbJxB3pnjCXvfGSvBIbeV0vNmWT1YCdyAU7YzlcTkNHA+XzDqSE5fWxGmPc7fbiN/TPAu6R6PlglotLAo8JLKWjyR1wyEgz4cjUW/THe+6ytBk2i9yY+ZrQNkkW50=;vRd3JTibTQ58r8r12jGe2w=="
 ---
 

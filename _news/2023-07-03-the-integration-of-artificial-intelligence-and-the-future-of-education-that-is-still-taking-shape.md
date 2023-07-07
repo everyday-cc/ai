@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ethical and Thoughtful Use of AI in the Legal Industry"
-    excerpt: "This is especially true when it comes to publicly available generative AI tools such as ChatGPT, the large language model chatbot developed by OpenAI that, among other things, can generate text, translate languages, write different kinds of creative ..."
-    publishedDateTime: 2023-07-03T17:43:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/07/03/ethical-and-thoughtful-use-of-ai-in-the-legal-industry/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 56
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/06/Mark-McCreary-767x633-1.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Work 2.0: How Artificial Intelligence Is Changing The Future Of Work"
     excerpt: "How Artificial Intelligence is Changing the Future of Work(Amazon Kindle Cover) A New Book by Warren H. Lau, C.E.O. and Investo"
     publishedDateTime: 2023-07-04T18:15:00Z
