@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2023/07/a-vision-for-the
 webUrl: "https://eandt.theiet.org/content/articles/2023/07/a-vision-for-the-future/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,36 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Agriculture Isn't the Future; It's Now"
-    excerpt: "Part of Cengiz Koparan's research involves using artificial intelligence to reduce labor shortages and make farm technology more approachable for producers."
-    publishedDateTime: 2023-07-03T05:16:00Z
-    webUrl: "https://news.uark.edu/articles/64596/artificial-intelligence-in-agriculture-isn-t-the-future-it-s-now"
+  - title: "Engineers look to an old source to empower the future of computer vision"
+    excerpt: "Artificial intelligence seems perfect for creating massive sets of images needed to train autonomous cars and other machines to see their environment, but current generative AI systems have shortcomings that can limit their use."
+    publishedDateTime: 2023-07-07T17:26:00Z
+    webUrl: "https://techxplore.com/news/2023-07-source-empower-future-vision.html"
     type: article
     provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 39
-    images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2023-06-23_10-15-51-AMCengizKoparan.jpg"
-        width: 900
-        height: 1350
-        isCached: true
-  - title: "How AI can be used in Sub-Saharan agriculture: Expert discusses open access publishing and the climate crisis"
-    excerpt: "Catherine Nakalembe, Assistant Professor at the University of Maryland, has recently published a paper about the use of artificial intelligence (AI) in agriculture in Sub-Saharan Africa in Environmental Research Letters."
-    publishedDateTime: 2023-07-07T17:21:00Z
-    webUrl: "https://phys.org/news/2023-07-ai-sub-saharan-agriculture-expert-discusses.html"
-    ampWebUrl: "https://phys.org/news/2023-07-ai-sub-saharan-agriculture-expert-discusses.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-ai-sub-saharan-agriculture-expert-discusses.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 38
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/dry-crops.jpg"
-        width: 2880
-        height: 1921
-        isCached: true
+      name: techxplore
+      domain: techxplore.com
+    quality: 18
 
 secured: "jxFkwBVKL8wXVh5xZBmlbokvX4kcb5AK8MALwj6WNX5uyTm2hy9pXwyKG2dsZ6TQ3HbJrsGWkGpfd874k6mr88wS19v47sKt+j3X8XOlGFdpJTSR53qFFC3Ff3YXQjt2pN89cWHqz/oclw1FHDXJLMiccK4KpTP8UnAoonAJd0VtzNieM1b0M00F3r9SP0Kzre8UxdB3msqS0lqxwe9eTuTyFiqCI4nEEe7aPDHAl6QS+r1hXvFpzuin8StEKKK4jv93sK1M9vIgIi9G9EY7FL3ILsV8uuYRTmgKKSda1XXcwBHrW7KD1LSKYnk3q6fBk9xoYgCVE/oHQNo0PT0uJMLWKVxT+MDBxBDz6gPUtuoR7rBvs8/mPhPxIrAVh5lOeXCFrCyBqDS02EAQzBZjDYB2pvyI2eKh7Vf4ZRdmgqEaycniZEJe3ms6X7kGIbVVZ1pd+7zCuAVyLzGdHjVOHevEQ0dvsVdcNdnUMagwBuwCAYea9gamtaGoaeS7zQO14qOGfhobu1xLuwDzdz5O2Q==;wHVpmUT3srpwNPdtO3u8Mg=="
 ---

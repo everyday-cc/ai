@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Worldwide Voice Recognition Software Market to 2030: Increasing Demand for Voice Biometric System for User Authentication"
-excerpt: "DUBLIN, June 29, 2023 /PRNewswire/ -- The \"Global Voice Recognition Software Market by Type (Speech Recognition, Voice Recognition), Technology (Artificial Intelligence (AI) Based, Non-Artificial ..."
-publishedDateTime: 2023-06-29T18:52:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/n33065636/worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-f"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/n33065636/worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-f"
-ampWebUrl: "https://www.benzinga.com/amp/content/33065636"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33065636"
+excerpt: "DUBLIN, June 29, 2023 /PRNewswire/ -- The \"Global Voice Recognition Software Market by Type (Speech Recognition, Voice Recognition), Technology (Artificial Intelligence (AI) Based, Non-Artificial Intelligence Based), Industry, Deployment - Cumulative ..."
+publishedDateTime: 2023-06-29T18:50:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-worldwide-voice-recognition-software-market-2030-increasing-demand-/2023/06/29/9842031.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-worldwide-voice-recognition-software-market-2030-increasing-demand-/2023/06/29/9842031.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "silobxE5dBN2sk9zzxnhlqPksvTJieNURel4xK0fzQsMi6cPQIrDZGP179bWROrAwEBak2qHwiQXtWU4kjkBYGjq/1PA4iqium10A7qsERndODWkLkjfkyg1uBwH9V0TLTdryPnnoDlvxHMDUDzIMej+2B9mUx1Jti6nvWIc8Hq35Az436KIbxMkMGMbUvIlSrrbR3M8wQQWjQMF1705peElzj5dEdMGr8z5QSYTT8OSA649n5uRZnOzweTou2TH0ijDJ9FtZRtls9ucMtAoJLiDbKtBSrFZtDsYi5cMqldQpcPBwrhKB7Ger4bRK2f2mfgy3cCKBA9bclQ74OT9ketGHAnyKaGSLQeTzSAbaF0=;R8h9Pmn0/7syi9CIhgUHUw=="
+secured: "r6C85OAwH/2tEoUMwsLa8JEs4eaoNyZm9BMtCn9qu1UGZwDcOqsJqvEN8QS4/IcpERtQmRGaybOiFXJW0XqcjEHUeGmkGLKKlAMU3dEv76+1VKxJLwut6pn+iS2c4QEAiGNK0Zi/s18ltp31R5flHZbt1EorLN6iIM0W/nTrbzK/0xk1XT5n4twVc6dHQURmDCKm6xzD1aL6ETaXsKy3VaOuQ4MxKP9pud7xFRESfKKFIhPq7fRJEMolT0J70s3PXVikdvREWygLvksnvBaM/CN5Jxz2Hffyn9vMqrD0lfplqg9FkfSiXEvGLB7SM2drTZdoLeJ87QsS2XNO4Z57eyCKJ/qCK3JKs2yoozk2ENU=;oO99YwRvQo+cd9XZLHzjrQ=="
 ---
 

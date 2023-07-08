@@ -32,6 +32,22 @@ related:
         width: 600
         height: 800
         isCached: true
+  - title: "Quick Custom Intelligence Reveals Artificial General Intelligence as COO"
+    excerpt: "Quick Custom Intelligence (QCI), a Generative Artificial Intelligence company, revealed the launch of Jarvis as their Chief Operating Officer (COO)."
+    publishedDateTime: 2023-07-07T14:13:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/quick-custom-intelligence-reveals-artificial-general-intelligence-as-coo/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/quick-custom-intelligence-reveals-artificial-general-intelligence-as-coo/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/quick-custom-intelligence-reveals-artificial-general-intelligence-as-coo/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 41
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/07/Quick-Custom-Intelligence-Reveals-Artificial-General-Intelligence-as.jpg"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "mS4g7SoB3MeQFkKBYY/skfxArRx1KImC/gGv1GZHzWjqjvRJH9OcOS3mpi7SIl7RCECz4zYUE0uD1dgx/ukwUgJvBFVU84mkJtDv76IpA9Q6LCkIQNQqgL8SypD8cCqWapQhC3aYDRPD0WBQ+9mjR1ZFpUis4DD4bLjAk0kNMSa0eXkscEnPOAlAp2Wq89LlIuYM2pnXtyzCAMzWt+qoOrjO3WiGXdLAZ1LJQRBy7ZbuJW1QFNha2Bm4z54MvNyWgBzh9Jx2eAMqfWpjrYVUt8TRpKlECdXiGQCXa+KWSFl9Bh17GxxiOWw/BMzQzpeceTKQ3ztWBlIn+bgEj/7fAweIAq6dcP+G80W5Z7HGCAg=;8xnhPB+DDPW7drVYupPu2A=="
 ---

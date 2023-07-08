@@ -117,22 +117,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft pushes for government regulation of AI. Should we trust it?"
-    excerpt: "The generative AI gold rush is on, but there are few real guardrails now governing its use. If action isn’t taken soon, any regulations might be too late to do any good."
-    publishedDateTime: 2023-07-03T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.html"
-    ampWebUrl: "https://www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/02/usa_united_states_capitol_building_congress_by_uschools_gettyimages-607463592_abstract_digital_infrastructure_by_metamorworks_gettyimages-1129515465_2400x1600-100828810-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Introduces New AI Tools from Singapore"
     excerpt: "Singapore-based start-ups, Babbobox and Wiz.AI, have collaborated with Microsoft to develop new AI tools that showcase promising advancements in the field. These tools aim to bring significant changes to various industries through their unique applications of AI technology."
     publishedDateTime: 2023-07-04T11:52:00Z

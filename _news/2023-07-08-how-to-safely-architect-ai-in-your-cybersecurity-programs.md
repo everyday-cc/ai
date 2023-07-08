@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Cyber security’s biggest challenge isn’t AI – it’s the awareness gap"
-    excerpt: "In November 2022, ChatGPT – the artificial intelligence chatbot that can create human-like text based on a prompt – was launched by OpenAI. Already, scam and phishing attempts that were once revealed by bad grammar and clunky sentences are now being replaced by more convincing versions thanks to the sophisticated phrasing and intelligent technology behind this new chatbot."
-    publishedDateTime: 2023-07-03T07:00:00Z
-    webUrl: "https://www.ft.com/partnercontent/cisco/cyber-securitys-biggest-challenge-isnt-ai-its-the-awareness-gap.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/partnercontent/images/cisco/1/hero.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI to tackle cybersecurity: Rubrik and Microsoft deepen collaborations"
     excerpt: "Accelerating cyber recovery through generative AI and natural language processing (NLP) is the aim of a joint collaboration between zero-trust security vendor Rubrik, Microsoft and Azure OpenAI. This integration is hoped to offer a \"truly actionable use of AI\" to reduce the time required to investigate and determine responses to cyber events,"
     publishedDateTime: 2023-07-03T12:05:00Z
@@ -63,6 +49,6 @@ related:
       domain: channelweb.co.uk
     quality: 34
 
-secured: "YE7ZzV6CWzvGF4IvB//KFvAbQxIPynX/yaC42Lr+qoWCmo7TuEFNMobSJTTREK5RAADfhV1SQjVmNPGUWZb6Z2CUeKhG4WVYmdOczdjfDZRkFOahTxuOn13esRvt8j0rVCwGqPLBtd6uXJoyqiq2eZ85CxB63GeW+V9YKj2sJ0NPyd+W7yE9B++5Z1O/vB1GYhwercFTsw8S9Z1tpQWRmyzL2wrfJ/igjclK8tstqt+OEl4EFjLDsPEsQORzyZ3QZ066XV/k99BZpwxeyIPgWZxYMPEyzc5QGkwcJKTeoP7hIGO0umj7yaGAsWgAGvCRxUbHlKk3UEPB2JDtaZkOleKBgNSn3Kf84q62LFWnJdk=;M6cm4bUBuTk+MSmA9KAGOg=="
+secured: "q04gboFKKoqD2B9G7GLzC4gP8tube6/31nzMl6F3a0E79P40H6R4BT5eRzkjaSmS6gizlJ6mkCzkm+oWf8//PSqN8fQo9gB/7wXmSaByNZDU8k/25JpAqZYt8o6Voc/bp8IiWhVuK+Wb6TmwEoMCh/l7XzyccjdbAvF7NDj5qk/Ex0mCgIgK4Yys8w3evryOsWNyzLHNdZXEUzstYX7HiRzxvOCFQV0HowCIKWpjuh3FChj3AULiESGE2A17qIKEKuLfNHdWmwxbjMeiUKU1qQAGIudjskWrZbB4JnIORzIB+XWk3CP5crAdh04i+s2D/a39cG4TIEyl7foaDZykAwWcXyPuXVngvfNKmiDDtxQQzvfEzmoap7mgt+AGx0ByWWDc4ygGdj0A3+zYqLhLVhRYxOj3Vsd0fgArrNZeYmxn19BqDPvP8PdUW3IGKO6J7srAW78iltJ+nq1DeqmUt+e6fe+xwYiP5P0ATgFqg22Yq6z0EkFDUgyQAN5HyPufkdfjFrPZsz/7Qo+DEw7UKQ==;ddxeLzUklGGjBA31eJ0Rkg=="
 ---
 

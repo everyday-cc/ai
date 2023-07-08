@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Human-looking robots take questions at a Geneva news conference"
+    excerpt: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters."
+    publishedDateTime: 2023-07-07T22:42:00Z
+    webUrl: "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
+    ampWebUrl: "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 59
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Never underestimate a droid: robots gather at AI for Good summit in Geneva"
     excerpt: "Ai-da, Desdemona, Nadine and Geminoid join world’s largest gathering of humanoids to promote AI as force for good"
     publishedDateTime: 2023-07-06T04:00:00Z

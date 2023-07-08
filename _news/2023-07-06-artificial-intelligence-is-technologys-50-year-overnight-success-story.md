@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-07-05/artificial-i
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-07-05/artificial-intelligence-is-technology-s-50-year-overnight-success-story"
 type: article
 quality: 66
-heat: 78
+heat: 76
 published: true
 
 provider:

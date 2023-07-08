@@ -3,10 +3,12 @@ category: news
 title: "Musk Predicts Tesla Self-driving Cars 'Later This Year'"
 excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
 publishedDateTime: 2023-07-06T07:34:00Z
-originalUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
-webUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
+originalUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
+webUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
+ampWebUrl: "https://www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP1139930421076092946202235115251316877702---1.jpg"
+    width: 768
+    height: 511
+    isCached: true
 
 related:
   - title: "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’"
@@ -231,6 +239,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "ec0jaFxmmx2+sivhqLSfBf3XZAAokZSWUiuOjdlce39fOpMEVRiBWSzAR8FotFHHXN3c+avQBsD9/UZRelfNDAHBGloTcxmfYT91RFr6MCy8QZPyZEdOsObgqxNiPR5+7S4vKsEZShBERNN6jWJL+zaUAuh6sluTJO+q/qwBznQlglRJMJK7tf9NDV8pm7U48/EMGz6YsTcLF/mPFa5t8ke1MRBTY+hr7UwCKANLfezP+pRVa4keRt2PkioBbsUGNw3iPwK/czG7tv+9q83rjk4nzwAGluZscImNM0UyogUw5bqH55roG4x/iN44LjCh5Wcz7D9UOkP5Ko/XEHh742BnRHJYXn1/ziLphD9sQUbQeO+SPmypgxBsSm8pLpqkkpHrdCc3mRDaI/DSvNqsnFj/g+y1NyTe7Ur4RU22NkDxA+iKta1PV19jtN7D3u1Dj77bYBnBLkB6bAIKhMXNJd3lik+kV0EADHqzxWBnMfp2pa+Eaamhv7xX+MZ/8Xw00gh6QT+H8YloGeemoxEaQQ==;+d8H5YkpqsI8a3F0PEzsEw=="
+secured: "nIpFzTFyrDr5YvbOzZgQqW4gGVoOOBYbkR7soanfKAITSj4rF2O6AZt2TLdFDhv+4R3aX3MR0ke6yFt+jv9TL9tswML3wkgDIcFPu99UgtgA+ob+94XkojcaxO3LfMERwmvF76NeATR2Jq3qzEdtRj9ddirDTrIjXydOk2GbxZ0Rfm87Ji3CvZ0jkhl1h4auR6ylFdV0TnVbwG2jP6ovCHydwDiAY1rcs4SyADdS/BYwnL0aQ3K1MT9sVKGYj/tMb+FGRuZ8CbyxAs0/cmyzdIi4ty2pzvCaCFcTobp4bZfJQARMAXIMCphKERllweJJmexCGWlsGQ6HjhwSQnJSgcEgkLXi986XkP0ljErUQn0=;3ZBVJw/aWsj0FIVf+PkWRw=="
 ---
 

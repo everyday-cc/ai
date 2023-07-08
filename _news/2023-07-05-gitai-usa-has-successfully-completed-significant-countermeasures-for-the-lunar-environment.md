@@ -1,29 +1,31 @@
 ---
 category: news
 title: "GITAI USA Has Successfully Completed Significant Countermeasures for the Lunar Environment"
-excerpt: "GITAI's mission is to provide safe and affordable means of labor in space, and as part of this endeavor, GITAI has designed and engineered the lunar Inch-worm type robotic arm and the lunar robotic rover entirely in-house."
-publishedDateTime: 2023-07-05T13:19:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/05/9843412.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/05/9843412.htm"
+excerpt: "GITAI USA Inc. (GITAI), a leading space robotics startup, is pleased to announce the successful completion of lunar environment testing for the major components of the"
+publishedDateTime: 2023-07-05T12:32:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33114523/gitai-usa-has-successfully-completed-significant-countermeasures-for-the-lunar-environment"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33114523/gitai-usa-has-successfully-completed-significant-countermeasures-for-the-lunar-environment"
+ampWebUrl: "https://www.benzinga.com/amp/content/33114523"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33114523"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2146384/GITAI_USA_Major_countermeasures_for_the_lunar_environment.jpg"
-    width: 400
-    height: 218
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "+JOXNHsY5bPenJRoOQSgsycyXFnkQVKbchq4FRqpEaXNc1NGr+Od1fOIeaNRoENFbJa6a6Rd+kIioIopdMgFxxK0kVAALGFbKcWeTG8NaNHYX2jR2Pd21M4GbR+6073WmrmlGBHSImllWd7YOMN4wEf/gfTjrw/wzSmnm8gg88g+f/t8e99XUmZuHSjfoW0+HRsiFWdlvkPtsS7c2+ZRHg/sJ99r0CIMV51CXmAW87z+9m247Ou4bwnL8wmeXkxsgHKabQlIfeU02BeEvpuud4PctSlqyFVJkvf56gliy9jY2FWZ8RAbfwyHJSYdntw+ltlEtOklh4/xjz7NbzHbAOnucT5Z17hNhGQzJNOSC6A=;vLC22ahlZ613jBKecL/elw=="
+secured: "5K2ahwFlxznbkpnSiZVmdeaU+vC3fYN68ynRWAuVLzkHSS3X2rmOmSSWH+RxOWahTw2kKdBWKUJ9+eIip1oUiT1jCTKB+iw6yVQounlRA89dhkS06k07H+2/1O1xeow9Lsg/gclZtyi2gm7GAcShCLzmFDwmH/xheSEbYRmOsiCOsmfBpxyVfEgT24VZCUxswrDdGCRVVnUity8INdcWwJpC3h5MgvougWpqjfPkays+Tbo3N0I29It3HC8QpyW8ZSOIi7jO10adIs5MSklguIlUvhNpC5G3boXtiKnKlmg2PM2gjYlIgkSRBxrX27fmL2eLyNSuhrorr48AM7deQoFjEfgKhyoAOH2hIZ2PvJA=;vI+/RG36EFM0A8vKa4llDw=="
 ---
 

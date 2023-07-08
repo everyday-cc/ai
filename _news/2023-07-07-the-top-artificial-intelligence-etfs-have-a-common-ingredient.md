@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-0
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Wall Street Journal
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Quick Custom Intelligence Reveals Artificial General Intelligence as COO"
+    excerpt: "Quick Custom Intelligence (QCI), a Generative Artificial Intelligence company, revealed the launch of Jarvis as their Chief Operating Officer (COO)."
+    publishedDateTime: 2023-07-07T14:13:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/quick-custom-intelligence-reveals-artificial-general-intelligence-as-coo/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/quick-custom-intelligence-reveals-artificial-general-intelligence-as-coo/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/quick-custom-intelligence-reveals-artificial-general-intelligence-as-coo/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 41
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/07/Quick-Custom-Intelligence-Reveals-Artificial-General-Intelligence-as.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Quick Custom Intelligence Deploys Artificial General Intelligence as COO"
     excerpt: "Quick Custom Intelligence (QCI), a world leader in Generative Artificial Intelligence, today announced the deployment of Jarvis as their Chief Operating Officer. Jarvis is a Generative AI rules engine that talks to 4 target operational systems."
     publishedDateTime: 2023-07-06T22:23:00Z

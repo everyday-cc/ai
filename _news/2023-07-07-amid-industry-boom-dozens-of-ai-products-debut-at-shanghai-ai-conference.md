@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Amid industry boom, dozens of AI products debut at Shanghai AI conference"
-excerpt: "SHANGHAI, July 7 (Xinhua) -- With China's artificial intelligence (AI) boom, dozens of related products are making their global debut at the World Artificial Intelligence Conference (WAIC) 2023 in Shanghai."
-publishedDateTime: 2023-07-07T12:32:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273891467/amid-industry-boom-dozens-of-ai-products-debut-at-shanghai-ai-conference"
-webUrl: "https://www.bignewsnetwork.com/news/273891467/amid-industry-boom-dozens-of-ai-products-debut-at-shanghai-ai-conference"
+excerpt: "With China's artificial intelligence (AI) boom, dozens of related products are making their global debut at the World Artificial Intelligence Conference (WAIC) 2023 in Shanghai. A record number of enterprises are participating in the exhibition amid the industry frenzy triggered by ChatGPT that took the world by storm late last year."
+publishedDateTime: 2023-07-07T12:17:00Z
+originalUrl: "https://www.malaysiasun.com/news/273891467/amid-industry-boom-dozens-of-ai-products-debut-at-shanghai-ai-conference"
+webUrl: "https://www.malaysiasun.com/news/273891467/amid-industry-boom-dozens-of-ai-products-debut-at-shanghai-ai-conference"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Malaysia Sun
+  domain: malaysiasun.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1688700966358.jpg"
+  - url: "https://cdn.bignewsnetwork.com/xih1688732282.jpg"
     width: 630
     height: 420
     isCached: true
@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "World AI talks start"
+    excerpt: "The 2023 World Artificial Intelligence Conference (WAIC) commenced in Shanghai yesterday under the theme “Intelligent Connectivity: Generating the Future.” Scheduled to run until tomorrow, the conference comprises four key sections: conference and forum,"
+    publishedDateTime: 2023-07-06T22:46:00Z
+    webUrl: "https://www.herald.co.zw/world-ai-talks-start/"
+    type: article
+    provider:
+      name: The Herald-Zimbabwe
+      domain: herald.co.zw
+    quality: 39
+    images:
+      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2020/02/20180626210156-GettyImages-917581126.jpg"
+        width: 680
+        height: 380
+        isCached: true
   - title: "Mount Sinai launches Center for Ophthalmic Artificial Intelligence and Human Health"
     excerpt: "First-of-its-kind initiative aims to transform patient care with more timely diagnosis of eye disease and innovative risk assessment of systemic health conditions"
     publishedDateTime: 2023-07-05T00:01:00Z
@@ -72,6 +86,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "X6oISQJT+++oqQ3rl5eNCuvddyaWPFaZOa63phdn/W9Uq9+gsgc78ZStXnmfIqz3hVLbUoPW0ZO1v7YL32oc1ztPcKHg21Z4qKPxFX9o7qeG1GJ+E8szVZRsQx+9EM+OuCOMik7pmbHP9Rot1f82FITAvEs/sETcZivTO0crfFUe/HEwdKAB9+3ksgxMrgLXPVPRnr5Bho0CSRUg+GaDuva1dhEnD0WrrhS/0XjL1+ljlhXDRJQHn3Uwq2pG7nfIB67X59zRr7qhBoE/f/w+W6MchvhqejO/V3ml9rPLiScUb3DlXYaEVabcQBTNiiokDFPfT1WSPFX4fURytpD+ikf72bUpBL0D7IWE/l2rEqU=;ZP3Fj0k58nGJKfQeXY0DnQ=="
+secured: "ioNdHjaSJiSm1mshnzs0pBCkBnrFXmCELlXsdHUsbcvT0i3jc/0KnsUNxjKzQrTbI3KJR2LgbOmS0trrbHrpOiBiK4cIP5pXowvRwjzryoqESnpJz8nj7UWFU3qyrXtlcSWEP35W6k0kYSiFWQPfL3WQ444N1680ey948abjFqbDNrQMDJ3WgX9OkeLWLiBwPaFZn8yiSukIWImjcSJYP9+4HBF4M2lTRNXYZRTcDZIY7Vjnk+dCo1xZRFrbNvB7IocyllGyHcb9RUHqXp9xmalzxZ8oOD6VbisPXKZLvkipi6lluIqskWdt9DcWI1X5iJnfy3pOUpaYDN063Eq5y5JlqbPFgE/W7SAjzmoB4Qs=;hGGcFGPW6v2xuEbTdnHErQ=="
 ---
 

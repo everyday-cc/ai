@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/06/humanoid-robots-g
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/06/humanoid-robots-gather-ai-summit-geneva"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Human-looking robots take questions at a Geneva news conference"
+    excerpt: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters."
+    publishedDateTime: 2023-07-07T22:42:00Z
+    webUrl: "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
+    ampWebUrl: "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 59
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
     excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an"
     publishedDateTime: 2023-07-07T19:34:00Z

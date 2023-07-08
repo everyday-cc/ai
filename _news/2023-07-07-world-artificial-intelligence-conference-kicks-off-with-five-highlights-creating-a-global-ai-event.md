@@ -1,47 +1,28 @@
 ---
 category: news
 title: "World Artificial Intelligence Conference Kicks Off with Five Highlights, Creating a Global AI Event"
-excerpt: "On July 6, 2023, the World Artificial Intelligence Conference (WAIC2023) with the theme \"Intelligent Connectivity, Generating Future\" was held in Shanghai."
-publishedDateTime: 2023-07-07T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/g33148783/world-artificial-intelligence-conference-kicks-off-with-five-highlights-creating-a-global-ai-event"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/g33148783/world-artificial-intelligence-conference-kicks-off-with-five-highlights-creating-a-global-ai-event"
-ampWebUrl: "https://www.benzinga.com/amp/content/33148783"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33148783"
+excerpt: "On July 6, 2023, the World Artificial Intelligence Conference (WAIC2023) with the theme \"Intelligent Connectivity, Generating Future\" was held in Shanghai. WAIC 2023 coincided with the vigorous rise of large-scale models and generative artificial intelligence (AIGC) globally."
+publishedDateTime: 2023-07-07T15:14:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/07/9844655.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/07/9844655.htm"
 type: article
-quality: 60
-heat: 70
-published: true
+quality: 38
+heat: 38
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://api.contentsyndicate.net/uploads/Bitglobalnews/editor_image/55c9adae-565c-4a7c-8bc4-debd015fcf18.png"
+    width: 1268
+    height: 845
     isCached: true
 
-related:
-  - title: "World AI talks start"
-    excerpt: "The 2023 World Artificial Intelligence Conference (WAIC) commenced in Shanghai yesterday under the theme “Intelligent Connectivity: Generating the Future.” Scheduled to run until tomorrow, the conference comprises four key sections: conference and forum,"
-    publishedDateTime: 2023-07-06T22:46:00Z
-    webUrl: "https://www.herald.co.zw/world-ai-talks-start/"
-    type: article
-    provider:
-      name: The Herald-Zimbabwe
-      domain: herald.co.zw
-    quality: 39
-    images:
-      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2020/02/20180626210156-GettyImages-917581126.jpg"
-        width: 680
-        height: 380
-        isCached: true
-
-secured: "YAIGVAxhIv1FvR/gtXsAZwihD/TsQrakQBN3LmaXNPW88SgOVcdRwd2Y96rj/fv53NgNImmF+1tx8XbJhsLl0a+huwwwlIB9XiKof4fqMj7Vwpq1vul/QbBsT2yacvtRWGM2hsGMfs00P0DutfpIoksPffIX6EH9EwuGIxgq+C8BDUGvAzza4kT/lfijATzd217p5hfqSFDbsMeieyp+n/CZsjd584apPG8Yo8I5ox0hT9tbMojRDjCi5SMNS1YY49oeKs7NhLSuN/WQogOqeZE0L1jlozmqldEssdbwPOkIGsp8E37Urp/CqgeNo+v+yaXGHG7fRhyQm9CSLilGIMrli84Q48uFhmPRv89MXl8=;rjrO1KLWf8ytV6U2IN8b5Q=="
+secured: "odOWd7K6M5RRDDyUmYSCZjampb4zZVP0h6USpLUKarEtFV8ugXs2fHKjFxU+qQ+1i1JZ+nHMe6FtCnl+otvlDPSJdOahWJPhOVjc66eWkUHoHsxLfWsDOO26i8CUyj6A2gHKcXds5oTHXW/eQxr1BoCStdwgYdUvnBZMQzt9Cgk96vXGVLFO4WtRN3opyfcOGKCZHmDNmRXYH5B6PIlCJdkEjv1vYYR5bDvN1eReXLEYZvPMmS0ElRdEq+1YNOrDJZN4SzRPGdaAMKbA+Lgp3qlpceoPAPyMYLqZjJv7gL8OyjYGyrt+BBQxyfVJV2O6RpmerKdCtKjCWOA2LR2dx+5ke7ETz+gw42T3qLpcr9A=;Y0xg62vpD3B59i/NAQpoJw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-07T20:29:00Z
 originalUrl: "https://www.aol.com/news/breast-cancer-detection-language-learning-202919130.html"
 webUrl: "https://www.aol.com/news/breast-cancer-detection-language-learning-202919130.html"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/oRQaPjxTRbEO.SQT3PQS2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_news_184/3927f5615cfa74b86473bd069ee67d23"
@@ -24,6 +25,6 @@ images:
     height: 675
     isCached: true
 
-secured: "ENd2wSGLhVGRUvo0WxL1l2ebjnISM95vATFVpnDXtWYShzwuQKphjtKChBl7M5Pxl1bepb8j1UuFBziNq7SaIDijhmuNgmn5JE/VP/w3efVdtF+IakmxCacff16HbvBUOwqmsXZYt9Hq4Fzirj+uIrpl6vT+zKMOmdAh6DJwDH6Yg1920KQSZRf3W6bf6ZjmpfaOQKKKmV8fZF1MGvP4mgntpejEMKl1i1zf8zOfjEecfFAYkPc2ncLmyyf7iLuIM/6e6Nrhq2WaSEnpAowX850XVAGkG0LMBpkpf5qiB2EfklkRh/bpwmw7TbdYDaabVJilkjzRltOQB3HpX8M4Z1HPFbDIk1dEso0RjwO3dQ8=;Lbxkwh5RtpjPENuyKrURBg=="
+secured: "gfG2WM6QUCaNGmJv+Y9lpRTDJJhFpVGy3ravwN8RmZkXObV5CcxIS9CoEEzpEdzeU/sY/tFw1Vft9VlffZsXNYLBX/Zg/O99Ae/82xi0P3lbmJs1flwF9OsRkg9xWCE9w2N3o3gLd0s2/BPomXW4NXmyGNddOc0ym72iAMc7h7KSpTmBxj4EVEgt7xKw8KQ2njeJmqSexiXH+M3n9ljSq/AQBZgsyYmKyes/bGwXIook/OspohXNdw1/Bha3y3eBZFIzM8CGbDM4CKQs1CyPnia1HsemnZ5DRx7q6hEihg45aJJmpuXzcoW8IrACwz/BaeoqqFVtD9mPJwIh6gtHSdKPzoQoEj0O3apNhy5thrNWziFr2E3uKwmLgVhILnWbD7Gl9ZRnTzB/mAB2F5ljeV02a0sErS4472wVlC79OtdkSqJZ2Y1+zUO0+z2K1fJsoBV/HZ8d8v9NSgGnE3A4viq8ldoHs7LH2U5yWrOnikJqz33DmqfLRsN/MlPyPfQgygFz1bXesRdOFkpVLJ3luQ==;+yHDyIYwyj7ekwKdy3M/4w=="
 ---
 

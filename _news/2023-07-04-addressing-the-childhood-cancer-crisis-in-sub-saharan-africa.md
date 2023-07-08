@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "African robotics developing in leaps and bounds"
-    excerpt: "These actuators, placed at the knees of the robot, produced the effect the team were hoping for. The name of the African jumping robot is Kemba, based on inkemba, an isiZulu word for sword. While Kemba does cut through the air like a blade, it is also capable of finer controlled movement when necessary."
-    publishedDateTime: 2023-07-03T12:26:00Z
-    webUrl: "https://www.news.uct.ac.za/article/-2023-07-03-african-robotics-developing-in-leaps-and-bounds"
+  - title: "How AI can be used in Sub-Saharan agriculture: Expert discusses open access publishing and the climate crisis"
+    excerpt: "Catherine Nakalembe, Assistant Professor at the University of Maryland, has recently published a paper about the use of artificial intelligence (AI) in agriculture in Sub-Saharan Africa in Environmental Research Letters."
+    publishedDateTime: 2023-07-07T17:21:00Z
+    webUrl: "https://phys.org/news/2023-07-ai-sub-saharan-agriculture-expert-discusses.html"
+    ampWebUrl: "https://phys.org/news/2023-07-ai-sub-saharan-agriculture-expert-discusses.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-ai-sub-saharan-agriculture-expert-discusses.amp"
     type: article
     provider:
-      name: news.uct
-      domain: uct.ac.za
-    quality: 34
+      name: Phys.org
+      domain: phys.org
+    quality: 38
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/dry-crops.jpg"
+        width: 2880
+        height: 1921
+        isCached: true
 
 secured: "m658Qsl9LVKEa0KhnNnpUzxbiTqDsWlu816IJdA4FeXWcs/GULNZSLS04tUrzJZQxI5OZ2ULNRhr+cyMgWvvfODa3ZOnx99pBMJkb0fvoQRjDdUkp4NvzcWmQCjcG0qf4Z/WexEuL8jTUB53hRv5ROtLg0RZchJcHUMDljhPjjAjY0b4qG7lOORyCh7bixA3PIc/n7Cki3zkxSnTvH5DEjKKCRElaoxbQkNc/RoXBilsHtSh0rqPANDGEuj6G7AGlp26WLdRohwmnUgAI/WFoV0492evAnXUgjM953hK0gwMK6AuilE1ieszxoTQzaTNdmga4CMawHSCsHWW+rKygoQVHYZCICJXUlIFbG1rHY8=;Xef/eRh6c9adCIm8GyRxMQ=="
 ---

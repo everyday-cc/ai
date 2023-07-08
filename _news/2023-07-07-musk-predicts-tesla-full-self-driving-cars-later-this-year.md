@@ -49,6 +49,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Musk Predicts Tesla Self-driving Cars 'Later This Year'"
+    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
+    publishedDateTime: 2023-07-06T07:34:00Z
+    webUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
+    ampWebUrl: "https://www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1139930421076092946202235115251316877702---1.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "Tesla self-driving cars to be ready 'later this year', predicts Musk"
     excerpt: "Musk has missed his own deadlines for a fully autonomous vehicle -- and Tesla's driver-assistance technology has provoked regulatory probes in the United States."
     publishedDateTime: 2023-07-06T03:54:00Z
@@ -202,15 +218,6 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
-    quality: 19
-  - title: "Musk Predicts Tesla Self-driving Cars 'Later This Year'"
-    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
-    publishedDateTime: 2023-07-06T07:34:00Z
-    webUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
     quality: 19
   - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
     excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"
