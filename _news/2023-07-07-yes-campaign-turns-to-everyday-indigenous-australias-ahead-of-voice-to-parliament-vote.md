@@ -19,21 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "Indigenous Australians Minister Linda Burney comes under fire from Jacinta Price over claims of Voice independence"
-    excerpt: "Opposition indigenous affairs spokeswoman Jacinta Nampijinpa Price has hit back at “false” claims made by Linda Burney in her address to the National Press Club and accused the minister of trying to “muddy the water” of the Voice proposal."
-    publishedDateTime: 2023-07-05T09:18:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/indigenous-australians-minister-linda-burney-comes-under-fire-from-jacinta-price-over-claims-of-voice-independence/news-story/f0aebd213fe246c676bf07a6be9bb299"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/indigenous-australians-minister-linda-burney-comes-under-fire-from-jacinta-price-over-claims-of-voice-independence/news-story/f0aebd213fe246c676bf07a6be9bb299?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/indigenous-australians-minister-linda-burney-comes-under-fire-from-jacinta-price-over-claims-of-voice-independence/news-story/f0aebd213fe246c676bf07a6be9bb299?amp"
+  - title: "Facial recognition technology in use at major stadiums across Australia"
+    excerpt: "The collection of sensitive biometric data is happening at stadiums across the country, with affected consumers largely left in the dark."
+    publishedDateTime: 2023-07-04T21:41:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 37
+      name: Choice
+      domain: choice.com.au
+    quality: 39
     images:
-      - url: "https://content.api.news/v3/images/bin/a79b30eaeffaf9bf55baac59c0496356"
-        width: 1280
-        height: 720
+      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
+        width: 700
+        height: 390
+        isCached: true
+  - title: "Major Aussie stadiums using facial recognition technology"
+    excerpt: "S﻿ome of Australia's major stadiums are using controversial facial recognition technology often without spectators' knowledge or consent. Added an hour ago"
+    publishedDateTime: 2023-07-05T07:18:00Z
+    webUrl: "https://www.9news.com.au/videos/national/major-aussie-stadiums-using-facial-recognition-technology/cljpblpb2000o0jo2rxxaa0d3"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 39
+    images:
+      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2023/07/520190/camera.png"
+        width: 1080
+        height: 607
+        isCached: true
+  - title: "UK and Australia law enforcement facial recognition projects under public microscope"
+    excerpt: "The UK police in Northern Ireland are debating facial recognition and biometric data retention rules, with some stakeholders calling for more transparency."
+    publishedDateTime: 2023-07-07T15:54:00Z
+    webUrl: "https://www.biometricupdate.com/202307/uk-and-australia-law-enforcement-facial-recognition-projects-under-public-microscope"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg"
+        width: 2048
+        height: 1360
         isCached: true
   - title: "Pro-Indigenous Voice to Parliament campaign records 20,000 attendees at Australia rallies"
     excerpt: "Thousands of Australians gathered on Sunday in support of the Yes vote for the upcoming Indigenous Voice to Parliament referendum later this year. The rally was organised by the campaign group"
@@ -49,26 +75,15 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "David Littleproud takes aim at Linda Burney over Voice to Parliament speech"
-    excerpt: "David Littleproud has slammed a “disappointing” speech by Linda Burney in which she accused Peter Dutton of being a “bully boy” and claimed the No campaign was using Trump-style politics."
-    publishedDateTime: 2023-07-06T00:20:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/david-littleproud-takes-aim-at-linda-burney-over-voice-to-parliament-speech/news-story/f1e7fe39ad3da11fef243db5200cb5a6"
+  - title: "Facial recognition brings ‘human rights and privacy implications’ in major stadiums"
+    excerpt: "Choice Consumer Data Advocate Kate Bower discusses the use of facial recognition in major Australian stadiums, saying the technology has some serious “human rights and privacy implications”. “We use our face prints now for example to access our phones,"
+    publishedDateTime: 2023-07-05T02:55:00Z
+    webUrl: "https://www.news.com.au/national/facial-recognition-brings-human-rights-and-privacy-implications-in-major-stadiums/video/91b933546c100981f18cc16a019e951f"
     type: article
     provider:
       name: Couriermail
       domain: news.com.au
-    quality: 17
-  - title: "Linda Burney didn’t rule out legislating priorities for the Indigenous voice to parliament"
-    excerpt: "Linda Burney has left open the possibility of legislating the four priority areas the government wants the voice to focus on, as Peter Dutton accuses the Indigenous Australians Minister of “pretending” the advisory body’s scope is restricted to health,"
-    publishedDateTime: 2023-07-05T11:27:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/linda-burney-didnt-rule-out-legislating-priorities-for-the-indigenous-voice-to-parliament/news-story/779b33c3b5f2a03d45452d2b8be66462"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/linda-burney-didnt-rule-out-legislating-priorities-for-the-indigenous-voice-to-parliament/news-story/779b33c3b5f2a03d45452d2b8be66462?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/linda-burney-didnt-rule-out-legislating-priorities-for-the-indigenous-voice-to-parliament/news-story/779b33c3b5f2a03d45452d2b8be66462?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 14
+    quality: 13
 
 secured: "thANxfXbVVVnkdvh/rYL/9ixD47RyTbpI3gJqiryDKV4hozyvFCLaruf12yzO7n12gHb74A4R+dBdTO6Ci0wgdCvgeG3ewntEQjhaBwW2xDTi/FcS771SRPCxOHk+CbUM+Y1yGXVg+g1jFyQSye/jVAVTkO8V984sNuOb6EQmTbmq42Lvfj+BoYld5sJOpq7LmBI1BYvK8TzkQQ2LybZQyOyIK3aWUNuNhtXLSG87DVCdB1qsscfhHnpLq8tf1Kz6T1IPmzS8TXRORg8absOKAyHnB7h8jcZK6U9Cs5PHACIpXd2Dtznu3r+GjfNVIt4trPy35JaIru/ZjMkIpCxSrOPo0iUJvG8hiEeNt0mwcW4FYLKb0lk3FyIVWPgB9zTBQVoqEytRlGJ3Ai5I2GfC5JAJbyoo+nXqVQMkIV+dcr44iCrzWhTtZbQR+RBlRFLU20RYD7Dscz4NKkLYVayYb8xtyWK+OXr5VlQnhX/yUO4sDX+/SZ5PfmT4vO2zscQ5wrUuzYJPANfFIMbz6IpDA==;ea5aDMz91lzFhB2ZNm19+w=="
 ---

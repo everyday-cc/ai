@@ -3,13 +3,13 @@ category: news
 title: "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI"
 excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots."
 publishedDateTime: 2023-07-06T18:40:00Z
-originalUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e"
-webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e"
-ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-6db82f9e"
+originalUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
+webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
+ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -21,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP1068567945374523030379734546671221318998---1.jpg"
-    width: 768
-    height: 511
+  - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+    width: 1320
+    height: 742
     isCached: true
 
 related:
@@ -54,6 +54,20 @@ related:
       name: omanobserver
       domain: omanobserver.om
     quality: 69
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
+    publishedDateTime: 2023-07-08T03:45:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world/101587755"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Rise of the robots: UN tries to tackle ‘mind-blowing’ growth of artificial intelligence"
     excerpt: "A nightmare scenario has unchecked AI advances leading to “geopolitical instability and economic disparity on a scale we’ve never seen before”. Read more at straitstimes.com."
     publishedDateTime: 2023-07-06T16:20:00Z
@@ -78,6 +92,6 @@ related:
       domain: cybernews.com
     quality: 34
 
-secured: "EcJFbW7v9l3h1/o64G1UuHrX0WB1yYVbCdLoiREBZSoROZo2tGbyzyuBYjOg5zVM1WshPFt+sTNfaOB/ZObPxXbqUGF0NYXzljxK2l45Nz/TMcnslcO3vmG5cZ8i6TN4hEiVbIQKwjZKTliDBARjle0ymuK6Cq2iYpKIu9uMOYuLuXDfY4culLD8m2HNHvoeo7RaTTyJ2Bt91uD/f8pVjva6/jkKsu+LaAYRpxMCRsYRzzdOgQTCvTbpof5E9IMco0iZDtzUkGyQyf80Dq+fLy5u5vFEWv6vGjIMZ54gi/aWOEgjhatCrXluMS2S0aCTrF7aZFe06Y4LdSepAXtrUHOvu+i/Q1L5iZMbJAtklt1XyEt7xR6PPWGAR31KZSHDwAm5ZIiS8IbBmD7CipPk/QNGB/hglwGbHLnD77VwHEdnBcTyWZfunjBjfhdRefHEEyM8KNT4YSmboSRNFyMSssrMIetAP2vApWvkheS+vb3isgNnEraEgDLxckA+zACD5plB0vO1eylbxNd3sJrdpQ==;PLgNG+RWiEUqUN6Z2EQxpg=="
+secured: "cMj0yzmDM7C6D9GOR3kYfVIKbG9UftneK7gn6/fZWrXYeGH8JFZMWf4CBIOJgQ36ipSSEnenhzK/h0wMvq5SneZZvh2qinyZNyhxN5LC+h8vH2lAPqyYecP4VO+IwLOX5c93XcrmP4Hblt3J3rN0kxTEwYkw/Xk2W2yP6NSfddF06yP3L41MxdXNqKTPrzbiC5hId7qG3uWA0Hu6royA+AwL6Uo/wBHaJdM+mneu8/JhdHsfpwGDTLml6nKP8LNl/xWuNJ+3K9s/4gUWckQRfiurDzlmxnWIRbMNkuTjYzUrOOT6pNOq4UPUg1NxnVn0eXax9mZ2AVqcWahDaSooAr6QP6N0WrB0Na4BjYnt2yw=;qPHP1klzbY6tl+dSa8Atcg=="
 ---
 

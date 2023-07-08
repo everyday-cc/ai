@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "SKT sprinkles ChatGPT over AI chatbot"
-    excerpt: "SK Telecom upgraded its A. chatbot with new features it pledged deliver a smarter conversational AI, including ChatGPT elements."
-    publishedDateTime: 2023-07-03T10:53:00Z
-    webUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/"
-    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/skt-sprinkles-chatgpt-over-ai-chatbot/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/05/MWL_SKT_AI_Service_A_650.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "ChatGPT's Website Traffic Down 9.7% From June as AI Fatigue Sets In: Report"
     excerpt: "ChatGPT, the fastest-growing consumer app in the world, saw its traffic plunge 9.7% in June from a month before, marking the first monthly drop since its launch. Still, the artificial intelligence (AI) sensation remains the world’s most-used chatbot,"
     publishedDateTime: 2023-07-07T02:22:00Z

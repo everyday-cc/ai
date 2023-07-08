@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.eu/article/russia-illegally-used-facial-recogni
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/amp/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Politico Europe
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Barred from grocery stores by facial recognition"
+    excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
+    publishedDateTime: 2023-07-03T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
   - title: "ECJ hits Russia with human rights violations due to facial recognition use"
     excerpt: "The European Court of Human Rights decided unanimously that Russia is guilty of human rights violations due to use of facial-recognition to find a protestor."
     publishedDateTime: 2023-07-04T19:20:00Z

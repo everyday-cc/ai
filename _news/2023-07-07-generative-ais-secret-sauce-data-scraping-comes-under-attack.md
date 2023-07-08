@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scrapin
 webUrl: "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

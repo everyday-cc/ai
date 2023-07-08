@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Indigenous Voice to Parliament campaign records 20,000 attendees at Australia rallies"
-    excerpt: "Thousands of Australians gathered on Sunday in support of the Yes vote for the upcoming Indigenous Voice to Parliament referendum later this year. The rally was organised by the campaign group"
-    publishedDateTime: 2023-07-04T19:01:00Z
-    webUrl: "https://www.jurist.org/news/2023/07/pro-indigenous-voice-to-parliament-campaign-records-20000-attendees-at-australia-rallies/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 30
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/09/Parliament_House_at_dusk_Canberra_ACT.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "David Littleproud takes aim at Linda Burney over Voice to Parliament speech"
     excerpt: "David Littleproud has slammed a “disappointing” speech by Linda Burney in which she accused Peter Dutton of being a “bully boy” and claimed the No campaign was using Trump-style politics."
     publishedDateTime: 2023-07-06T00:20:00Z
@@ -61,15 +47,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 14
-  - title: "Yes campaign turns to everyday Indigenous Australias ahead of voice to parliament vote"
-    excerpt: "These are the faces of everyday Indigenous Australians that the Yes campaign will increasingly lean on to encourage support of the voice to parliament referendum."
-    publishedDateTime: 2023-07-06T23:50:00Z
-    webUrl: "https://www.news.com.au/national/politics/yes-campaign-turns-to-everyday-indigenous-australias-ahead-of-voice-to-parliament-vote/news-story/d209c3143df825403b0d46654d1ca946"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 11
 
 secured: "k8qpf37VrYI33dqVyZyuOfEBG3p/XBv4cU1S6xi14U/b+ldApnWf1DkLZWLSbq/HqEs534Be3ydjOq9QM01DA8bL8+dFaDIv7KU1PZ0X+oJRH6fqMENbxCjImclYY8mQFdgKx1Vupnq6mZuvrU2qs6+H5+SQ1q6o74Wi35rMZ6n/9nvlLbxbWCDBmqPl9CKY+TZV134hoXvCNDQ6U6JpOv7u8W4YU+gvQ6k0CUXh8p2UqRSJD6sVr2YKLKGGaqiIiH4horUsa4I0+8mpeN6IKjjoz0kXHHB22TCy2JXPTjRPe6XvGZKERJ0ML8bk9Gjk446hTyMGzk7pY9FEDkUGUiu8T2po4ui0pKh4DJ0uRUU=;PrSBG0nsHLIethNMQOBsoQ=="
 ---

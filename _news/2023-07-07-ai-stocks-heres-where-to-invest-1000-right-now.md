@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "3 AI Stocks That Have Big Investors Running for the Exit"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence trade appears to be fading, meaning"
-    publishedDateTime: 2023-07-03T10:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-have-big-investors-running-for-the-exit-1032423115"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Best Under-the-Radar Stocks: 3 That AI Predicts Will Soar in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Under-the-radar stocks have provided compelling returns in 2023. Indeed, the"
     publishedDateTime: 2023-07-04T16:45:00Z

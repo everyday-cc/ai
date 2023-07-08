@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Amid industry boom, dozens of AI products debut at Shanghai AI conference"
-excerpt: "With China's artificial intelligence (AI) boom, dozens of related products are making their global debut at the World Artificial Intelligence Conference (WAIC) 2023 in Shanghai. A record number of enterprises are participating in the exhibition amid the industry frenzy triggered by ChatGPT that took the world by storm late last year."
-publishedDateTime: 2023-07-07T12:17:00Z
-originalUrl: "https://www.malaysiasun.com/news/273891467/amid-industry-boom-dozens-of-ai-products-debut-at-shanghai-ai-conference"
-webUrl: "https://www.malaysiasun.com/news/273891467/amid-industry-boom-dozens-of-ai-products-debut-at-shanghai-ai-conference"
+excerpt: "SHANGHAI, July 7 (Xinhua) -- With China's artificial intelligence (AI) boom, dozens of related products are making their global debut at the World Artificial Intelligence Conference (WAIC) 2023 in Shanghai."
+publishedDateTime: 2023-07-07T12:32:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/273891467/amid-industry-boom-dozens-of-ai-products-debut-at-shanghai-ai-conference"
+webUrl: "https://www.bignewsnetwork.com/news/273891467/amid-industry-boom-dozens-of-ai-products-debut-at-shanghai-ai-conference"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Malaysia Sun
-  domain: malaysiasun.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/xih1688732282.jpg"
+  - url: "https://cdn.bignewsnetwork.com/cus1688615310747.jpg"
     width: 630
     height: 420
     isCached: true
@@ -86,6 +86,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "ioNdHjaSJiSm1mshnzs0pBCkBnrFXmCELlXsdHUsbcvT0i3jc/0KnsUNxjKzQrTbI3KJR2LgbOmS0trrbHrpOiBiK4cIP5pXowvRwjzryoqESnpJz8nj7UWFU3qyrXtlcSWEP35W6k0kYSiFWQPfL3WQ444N1680ey948abjFqbDNrQMDJ3WgX9OkeLWLiBwPaFZn8yiSukIWImjcSJYP9+4HBF4M2lTRNXYZRTcDZIY7Vjnk+dCo1xZRFrbNvB7IocyllGyHcb9RUHqXp9xmalzxZ8oOD6VbisPXKZLvkipi6lluIqskWdt9DcWI1X5iJnfy3pOUpaYDN063Eq5y5JlqbPFgE/W7SAjzmoB4Qs=;hGGcFGPW6v2xuEbTdnHErQ=="
+secured: "f4snA8Eeo4klAOVfXXQvku3YeGJx4RH/3ElR1quVPlXUTlJ1Pkt2pxSWuynZ2/j+sst3SIss6mUTJGyHxzwXOYUcbmgF790lqpb+OKegSrYD/WKpW0rxDIY9XHjwv1SqRtgrVqxUEWKxkfRO7mbkAQZkZluj+fe0MFKtw0LTDfiO1x5jXdprtBJ4MmnPeqB3Rewjo5l6NY/nudQiarwynegdJxyCvftw0Qribe6mT/XAiw6evpFx0qN8auFQj78P70xUghukHMe401u3yd/XP60V3dzOZx6KZwDdY8kpf7LwTL9RNb/h0PJYIBgJ2BDAIQqLQDu2r8Yb21xm8CkM0Qk/MOaxhO3AUFRnPEgLzQc=;cpXBJCVbY8yRGU/bgobjKw=="
 ---
 

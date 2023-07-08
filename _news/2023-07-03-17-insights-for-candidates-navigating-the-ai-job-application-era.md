@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -49,22 +49,6 @@ related:
       name: Digital Content Next
       domain: digitalcontentnext.org
     quality: 34
-  - title: "All in for generative AI, but organizational jitters remain - Workday and Salesforce research airs the opportunities and the challenges"
-    excerpt: "Despite corporate enthusiasm around generative AI, business leaders are still nervous about incorporating this into their operations and feel there are many challenges ahead, not"
-    publishedDateTime: 2023-07-03T10:22:00Z
-    webUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities"
-    ampWebUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 27
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-07/Screenshot%202023-07-03%20at%2011.19.41.png"
-        width: 1124
-        height: 750
-        isCached: true
 
 secured: "nc1sJTlACvLnTUUfS8KrDBA58avSvztvuHLzBfwVIhwnl+GOb1uLGuF0G4Q7E4UK52lhgFjFUrBbIHYJKuazmykptbQs/dAUJXavi5UdaWXPvJm883otKPJW48ViBwbQFhBob+z+D4VFrxN1bBxRnBzxf1eGfwFEqr2YrRo6wYLMmjsEScDQtyNkMpbnzA+9OHR+8hGvQen/LFcCoxSJaMFj+VUar8jViKgHh+FTupyD2C/hh4PG0bOYbgTK4lMvJvOb1PaoK9rEPoiJ482+8ITJ8YFWyHfXojoVytw0uQOz3u2zobMRO1++EQlIxvIeWsFFuvbX5srEanSKvnimz3CeIjcZz5Wo+W7wAmXdPZtk48iGyGfAOK8qoJQrFekJBsjZY0vgx6U2VBLveVt3G6yNBaNyKhho7yo9ACeIqkk31yezIYVOYOfWZZqm+2ot+v0WjmyEhEGlx05DJnL6be7WSC/OefoRwU7hf9c14gqgYRsAEdkEU2mcZSg5SgPSoTe4YSGzR6K2hFQoj6Lfzw==;ACrTdWc+2XZDpchgWmWg+g=="
 ---

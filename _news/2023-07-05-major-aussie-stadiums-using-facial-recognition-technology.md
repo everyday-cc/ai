@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musicians revolt against facial recognition technology"
-    excerpt: "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology."
-    publishedDateTime: 2023-07-03T09:52:00Z
-    webUrl: "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg"
-        width: 620
-        height: 434
-        isCached: true
-  - title: "Army explores increase in facial recognition at gates"
-    excerpt: "Facial recognition cameras have been installed at Gate 10. According to Brian Reinwald, chief of physical security with the Garrison’s Directorate of Operations, these devices are part of a research and development program run by the Corps of Engineers and its contractors to evaluate new and upcoming access control technology."
-    publishedDateTime: 2023-07-05T07:00:00Z
-    webUrl: "https://www.theredstonerocket.com/military_scene/article_dd4fddec-1ada-11ee-a0c3-4bd43929d152.html"
-    type: article
-    provider:
-      name: The Redstone Rocket
-      domain: theredstonerocket.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/assets/v3/editorial/4/87/48791946-1acf-11ee-9c6a-e395f6b9fe12/64a4c09727461.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition technology in use at major stadiums across Australia"
     excerpt: "The collection of sensitive biometric data is happening at stadiums across the country, with affected consumers largely left in the dark."
     publishedDateTime: 2023-07-04T21:41:00Z
@@ -67,66 +39,52 @@ related:
         width: 700
         height: 390
         isCached: true
-  - title: "Aussie stadiums are using facial recognition on fans"
-    excerpt: "Four of Australia’s largest sports stadiums are using facial recognition cameras to identify and track event attendees without their knowledge, according to a new investigation that found Australian venues have joined a growing and controversial overseas trend."
-    publishedDateTime: 2023-07-06T01:57:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/aussie-stadiums-are-using-facial-recognition-on-fans.html"
+  - title: "UK and Australia law enforcement facial recognition projects under public microscope"
+    excerpt: "The UK police in Northern Ireland are debating facial recognition and biometric data retention rules, with some stakeholders calling for more transparency."
+    publishedDateTime: 2023-07-07T15:54:00Z
+    webUrl: "https://www.biometricupdate.com/202307/uk-and-australia-law-enforcement-facial-recognition-projects-under-public-microscope"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/mcg-facial-recognition.jpg"
-        width: 1162
-        height: 653
-        isCached: true
-  - title: "Lost pet? RivCo uses facial recognition technology to reunite animals and owners"
-    excerpt: "The Riverside County Department of Animal Services is using a new tool to help reunite pets with their owners. This partnership came right on time with the Fourth of July holiday season. This is a time animal control finds more pets lost in the streets because of fireworks noises."
-    publishedDateTime: 2023-07-04T12:37:00Z
-    webUrl: "https://kesq.com/news/2023/07/04/a-new-way-to-reunite-lost-pets-with-its-owners/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 34
-    images:
-      - url: "https://kesq.b-cdn.net/2023/07/Screenshot-2023-07-03-at-12.13.31-PM.png"
-        width: 1200
-        height: 681
-        isCached: true
-  - title: "Facial recognition technology could soon be everywhere – here's how to make it safer"
-    excerpt: "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement"
-    publishedDateTime: 2023-07-05T03:35:00Z
-    webUrl: "https://www.econotimes.com/Facial-recognition-technology-could-soon-be-everywhere--heres-how-to-make-it-safer-1658891"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 32
     images:
-      - url: "https://f1.econotimes.com/2023/07/8kl8g5holb_th_1024x0.jpg"
-        width: 496
-        height: 321
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg"
+        width: 2048
+        height: 1360
         isCached: true
-  - title: "Barred from grocery stores by facial recognition"
-    excerpt: "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain."
-    publishedDateTime: 2023-07-03T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/"
+  - title: "Pro-Indigenous Voice to Parliament campaign records 20,000 attendees at Australia rallies"
+    excerpt: "Thousands of Australians gathered on Sunday in support of the Yes vote for the upcoming Indigenous Voice to Parliament referendum later this year. The rally was organised by the campaign group"
+    publishedDateTime: 2023-07-04T19:01:00Z
+    webUrl: "https://www.jurist.org/news/2023/07/pro-indigenous-voice-to-parliament-campaign-records-20000-attendees-at-australia-rallies/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
-  - title: "Facial recognition technology could soon be everywhere – here’s how to make it safer"
-    excerpt: "However, there are ways that the technology could be used more safely. Law enforcement teams could perform two preliminary steps – activity recognition or event detection – before they resort to face recognition. This approach can help minimise the potential for privacy violations and false positive matches."
-    publishedDateTime: 2023-07-04T12:08:00Z
-    webUrl: "https://theconversation.com/facial-recognition-technology-could-soon-be-everywhere-heres-how-to-make-it-safer-205040"
+      name: Jurist
+      domain: jurist.org
+    quality: 30
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/09/Parliament_House_at_dusk_Canberra_ACT.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Facial recognition brings ‘human rights and privacy implications’ in major stadiums"
+    excerpt: "Choice Consumer Data Advocate Kate Bower discusses the use of facial recognition in major Australian stadiums, saying the technology has some serious “human rights and privacy implications”. “We use our face prints now for example to access our phones,"
+    publishedDateTime: 2023-07-05T02:55:00Z
+    webUrl: "https://www.news.com.au/national/facial-recognition-brings-human-rights-and-privacy-implications-in-major-stadiums/video/91b933546c100981f18cc16a019e951f"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 12
+      name: Couriermail
+      domain: news.com.au
+    quality: 13
+  - title: "Yes campaign turns to everyday Indigenous Australias ahead of voice to parliament vote"
+    excerpt: "These are the faces of everyday Indigenous Australians that the Yes campaign will increasingly lean on to encourage support of the voice to parliament referendum."
+    publishedDateTime: 2023-07-06T23:50:00Z
+    webUrl: "https://www.news.com.au/national/politics/yes-campaign-turns-to-everyday-indigenous-australias-ahead-of-voice-to-parliament-vote/news-story/d209c3143df825403b0d46654d1ca946"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 11
 
 secured: "CgIg+dGzunkGpfmQAmOi/zn9YpiqnVLBLXOKpx+nP1pxdKSZgeXv6Zka5noJ286tSQiuYHvJ9p0DqCqBwdELrtPCib3/U+47jYYHW9oAMeWsKur2eaYVJeB1rBKJIA7JaM2MjBaGrSoLTUjC3jgQ78fO8lYE8iSvxw5XTWoveSTplinPTTiAEMGwlXN8CmKqeY7HsnUA0RGu9mnXqN4wSUo2JrB9m5QLEGAM2FL6u7+VOIZ3exfH8M7bpoOZs74bKZsOsKJQdp/9d5PtF1Yk9+Z1mhJlZ0CnXwIiLTB5P+WehDooDYSDUXGvv+Q+4oI9Ywl+xe4namowcmll0JGvsqnm8DG87B0DnNvzVPD6onw=;7HL93VC98AWipDhFdYDevA=="
 ---

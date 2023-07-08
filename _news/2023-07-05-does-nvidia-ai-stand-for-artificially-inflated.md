@@ -90,20 +90,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "AMD is getting closer to Nvidia on AI"
-    excerpt: "MosaicML has a look under the bonnet of both Artificial intelligence chips from AMD are about 80 per cent as fast as those from Nvidia but the way its chips are designed means that it is going to match its performance soon."
-    publishedDateTime: 2023-07-03T09:58:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57189-amd-is-getting-closer-to-nvidia-on-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/5b05043d249467edb61b8cae5ee36068_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Nvidia acquires OmniML for AI Edge workloads"
     excerpt: "AI is so big today that Edge devices aren’t equipped to handle its computational power,” OmniML co-founder and CEO Di Wu said when the company raised $10 million last year."
     publishedDateTime: 2023-07-03T12:17:00Z

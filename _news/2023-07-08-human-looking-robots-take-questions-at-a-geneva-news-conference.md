@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-
 cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:

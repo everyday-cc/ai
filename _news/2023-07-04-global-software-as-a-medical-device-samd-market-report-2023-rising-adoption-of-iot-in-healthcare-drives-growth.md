@@ -26,17 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Global Fintech Market Research 2023: A Bundled Research Offering of 5 Reports"
-    excerpt: "The \"Fintech Market Research Subscription 2023: Market Forecasts, Market Sectors, Market Driving Forces, Regional Analysis, and Leading Companies Analysis\" report from Wintergreen Research, Inc has been added to ResearchAndMarkets."
-    publishedDateTime: 2023-07-03T10:08:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/03/9842690.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
-
 secured: "+ygWRKQE76BQJ2OTK+hyyjAIu1ZIEEK+LgY3Yyhv6clBTPWdmBsScdneEXdbUenABJ2V64xmKBU1rRe9yWYjpex4gOxwOt3M9XH57ank8Sr0kA6eL8ulLkuCaGwe+XbhZDNWQPvQU6jjQ40IMBsoNH9qU5T9PX4LCKpLHKyrU/jZ87GZD76esDqpP5zRLfEWMQ0mCfBbCVXm0pOr69m0aKTS6r+EfOz2w6PDex/QPRENuRtoCusuxZsgbIKNGhbZbmRme7EEPypNfroz7LeUbk4N8Lx5/ubZ7VkKUhC6qZ50cy4AhdHoqwf2tMhe7JyTyITeJ8tgGs/UBeKp8LknVnWR/wiKjX1V8tait9BCU8U=;ZmyOF3kpyN2GNPYMDE/SAA=="
 ---
 

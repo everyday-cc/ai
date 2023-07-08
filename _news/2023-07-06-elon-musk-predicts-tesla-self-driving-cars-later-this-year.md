@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Elon Musk predicts Tesla self-driving cars 'later this year'"
-excerpt: "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai."
-publishedDateTime: 2023-07-06T03:46:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/elon-musk-predicts-tesla-self-driving-cars-later-this-year-10912811.html"
-webUrl: "https://www.moneycontrol.com/news/world/elon-musk-predicts-tesla-self-driving-cars-later-this-year-10912811.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/elon-musk-predicts-tesla-self-driving-cars-later-this-year-10912811.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-predicts-tesla-self-driving-cars-later-this-year-10912811.html/amp"
+title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
+excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone."
+publishedDateTime: 2023-07-06T05:00:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla.jpg"
-    width: 1280
-    height: 720
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -241,6 +239,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "AM4r38C+mIHgifPBb8fugltkjeq8+kJCt9tkpf5l5+2sSLRNYKAxzYonMzznBr7i6D5xLlQy2X7788TijtWCfn1BvOmcJxKrHfE5xxLLTLOm8Kao93Vfd9xMx+/HH6oE5voR+e8xiqoPKUyT/daCBRf7yGHXqM3lP13Ks7I+4hq5KI27Kgbe7/GRW6NY/MqP8kvzwwaWUXSx6S2vsOqL8r9tDbQFoxzd7at1YVsIugP6U9svF33U1Rw5QDsXxpLcs2X1yheNLCEDXa9j5ESmyny5fPNIWN1id8OdzADkdyB8QYaYHYJD6M8uJMPge8czCdUFrWnFLC3LCaox36RvK9H7CpKzteU7GEXv1IB9pMA=;mXOmo0oWOzIbKZeO80KLPw=="
+secured: "xDsIqrz7ghdZEIKRfZ/up90et1qSdcE9VdJZB/u2CUsnlucZL4bcAz7VD1waMwHkgfBQglAla5vP5J4wSIsIhbLnHngvaRmnAyhe4QoDFBQdRKtuyUssEO2kzww9cy2FTgQViHTgleqYKFZNBd3+9hGUBed+KnPKn/lue3FrTrVxHpm+XvM/JifOhfLmlY93mZP9W4lVr3hnRKyoA/ARSVB4UnUyfJH+1Uyu+UpP6Z5Sn3aPgKaWkb2JuOUgWxlHPgwbbRCz+Xvn0/Ug5g2S4FH7LGgo0B8Mq59gOnGsY/Z1q6/znKqHx7mMxV2b1Hr7NDo0uyFeshiMmWmgnBQiVBf98GcdV0sFEpXWdV3Y5E8=;GcNsS1/r7q0xoJSGC4fQMQ=="
 ---
 

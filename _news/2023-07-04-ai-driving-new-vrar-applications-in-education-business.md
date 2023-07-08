@@ -45,22 +45,6 @@ related:
       name: Digital Content Next
       domain: digitalcontentnext.org
     quality: 34
-  - title: "All in for generative AI, but organizational jitters remain - Workday and Salesforce research airs the opportunities and the challenges"
-    excerpt: "Despite corporate enthusiasm around generative AI, business leaders are still nervous about incorporating this into their operations and feel there are many challenges ahead, not"
-    publishedDateTime: 2023-07-03T10:22:00Z
-    webUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities"
-    ampWebUrl: "https://diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/all-generative-ai-organizational-jitters-remain-workday-and-salesforce-research-airs-opportunities?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 27
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-07/Screenshot%202023-07-03%20at%2011.19.41.png"
-        width: 1124
-        height: 750
-        isCached: true
 
 secured: "C8UpC/gN841E5dDsE9cQUa9vdou+cQrDjTM3AQX4sHQa19c9tpIenQSXYq/HGeHuY1vU9YcglyPjC7ANwGnLiq3VLpXeZ0zeM5Q4ofuRrAInUrhKV77TSYtLZx2O7tgG1BOBNArzmfnmJkGks8dV9F5qt0CIMAeFhxzuvGd/RpBbSN1H6Vx+VJiDQnE31YZrS1irv1Bpp2gu0Z0oIVQmdfLqPhR81OxpDrvG3/NtxboQI390masK6H3KEskx8ZQDG0FIakcINO7jP1Fv07FU67zauMW91G+fBLIqsw3y9MlHDKYUsgJTDimHUq9jr30cL3++nnrTGwRUkNy6AWGxytNDaI6swuZVB9TdgYMR3ZEZCUSxEyNNWgIewHitHFwdgUDgA3QVDdrPAQhqHDc+3IbUFrVoxT7mMpAdm7oiL9gMWoTDnYf92KyPoU3EDjv0CAzEaQEpwbpln1aIncLRpVHiswf1oS0YjS4va08ZoDFeseJNHrVgjoSDLAXI369aSXKSkmB/AGmwiKowFOxO3Q==;F7F+wRBnpwcJPDtbm2h5BQ=="
 ---
