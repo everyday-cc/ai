@@ -66,6 +66,22 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 14
+  - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
+    excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date"
+    publishedDateTime: 2023-07-07T07:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33144055/fintech-software-market-to-grow-at-cagr-of-8-82-from-2022-to-2027-north-america-estimated-to-accou"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33144055"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33144055"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Global Healthcare Predictive Analytics Market Report 2023: Sector is Expected to Reach $30.71 Billion by 2028 at a CAGR of 22.23%"
     excerpt: "The global healthcare predictive analytics market is expected to reach $30.71 billion by 2028 from $9.21 billion by 2022 grow at a CAGR of 22.23% from 2022-2028. Market Trends and"
     publishedDateTime: 2023-07-04T16:28:00Z
@@ -75,20 +91,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
-  - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
-    excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"
-    publishedDateTime: 2023-07-07T07:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "8bRgunnlscqEwkCFahsiRXnhgx9ntAHS1rUUvhl5wMI+1Te0Ezh8IbEgVx8PSPsOjrPJ6NJu8hNDBXKBRAca4F9OqtMkdCbBoffHl3s6GMV5+n57+5usGs7LcFyrHX//YD9cKkQo2+QNvTxFPH5jGoOCl2wmqc9SsM9DY5jd1uRfBTZYMuVFFmdv41Sbc5zNaLR6gr+oEM1YZxkt8SJGCqYKnmbAmh4txpuaJHUJKh0CNoQxR+nQlEPJf23ACyCD0By1D/46J7jOGiM7v2+y4N4VesovHJbAs+R/4QpUmjC6HO5V4SNc1DAeWot7pFfciAP+6a4qJgc3wqZwtx7Jm2Icp9sr6BLXROY0hBFcdfs=;WnA/ZDi9Irf/xFmC5elWrQ=="
 ---

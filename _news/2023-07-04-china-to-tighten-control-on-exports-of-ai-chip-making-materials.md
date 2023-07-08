@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-o
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: CoinTelegraph
@@ -27,35 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Chip war escalates: China bans key metal exports to US – one used by Wolfspeed"
-    excerpt: "Beijing hit back in an escalating battle over semiconductors with the U.S. on Monday by playing a trump card: It imposed export controls on two strategic raw materials, gallium and germanium, that are critical to the global chipmaking industry."
-    publishedDateTime: 2023-07-04T11:08:00Z
-    webUrl: "https://wraltechwire.com/2023/07/04/chip-war-escalates-china-bans-key-metal-exports-to-us-one-used-by-wolfspeed/"
-    ampWebUrl: "https://wraltechwire.com/2023/07/04/chip-war-escalates-china-bans-key-metal-exports-to-us-one-used-by-wolfspeed/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/04/chip-war-escalates-china-bans-key-metal-exports-to-us-one-used-by-wolfspeed/?amp=1"
+  - title: "China says US consideration of AI chip export controls hurts China's legitimate interests"
+    excerpt: "The United States' consideration of export controls on artificial intelligence chips is detrimental to Chinese companies' legitimate interests and hinders global economic and trade exchanges and cooperation,"
+    publishedDateTime: 2023-07-06T06:47:00Z
+    webUrl: "https://www.reuters.com/article/china-tech-usa/china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests-idUSB9N38402E"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 55
+      name: Reuters
+      domain: reuters.com
+    quality: 75
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2021/03/processor-540254_1280-e1616494859780.jpg"
-        width: 1270
-        height: 713
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "China looks to AI-generated chip design as US tightens EDA chokehold"
-    excerpt: "Scientists from the Institute of Computing Technology under Chinese Academy of Sciences have recently published a research paper showcasing capability to use AI in automating chip design. Titled \"Pushing the Limits of Machine Design: Automated CPU Design with AI\","
-    publishedDateTime: 2023-07-05T07:03:00Z
-    webUrl: "https://www.digitimes.com/news/a20230705VL205/ai-china-ic-design-distribution-risc-v.html"
+  - title: "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls"
+    excerpt: "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U."
+    publishedDateTime: 2023-07-06T14:37:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/"
+    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://img.digitimes.com/newsshow/20230705vl205_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a6d1908a417ec697b1aad2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "China retaliates to US chip restrictions with export controls on vital tech metals gallium and germanium"
     excerpt: "As reported by Bloomberg, China's Ministry of Commerce said in a statement yesterday (Monday) that as of August 1, the exporters of gallium and germanium, as"
@@ -85,6 +85,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "U.S. Weighs Human Rights As It Looks To Expand China Chip Restrictions"
+    excerpt: "Since the controls affect other industries that rely on the restricted chips—most notably China’s AI industry—Beijing’s claims that the moves are an effort to undercut China’s technological and economic development have significant supporting ..."
+    publishedDateTime: 2023-07-06T19:43:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/us-weighs-human-rights-as-it-looks-to-expand-china-chip-restrictions/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "szef/RvW2g5dYk2vKEdast0TMAR2F9SEAjnjDIVVyxoOqR9RvRHwQRVxMiWt3NwcPHxkHx4/VseQ4q2of//cGrJqW1uZbGTcQnfH0DuzL5eD3LcCEE5Urinpaf5GLjr6SOXYukElr0WRFKm+2gbqr8PQqFSLuyLonAL54fe+CXH+NZQ1RjvfxmPELwCPWz4km26vEoyWDZRRyYreVlFNkpgyLyT5GG69fZyIAtA35s8uR1bJs4M0xg2B9xWDBrX10ZpatB+IQQdcTUB4QhMlnl9xw6+BFB3YVC+2usr6nBvRGrZpu3hIcgng2Uvtg0Zr7J+vj4oip2d6iHmU0e+bTDM9Uzm5HYbRt68y5/Lwm58GvnUi2WbQVJbdpfqK8z/YbmCJLmq8LTJcv5MUeOBP9UTXwKtjyLC53HnZUeFKe0iq+HpzFd8sq1KMHJovQUrLA/H7vMCOBDAmx2PjDO53t1g54tCWI6vyS6n0ITz8+c3nHq8+atX5ruPKaqX6//JSEoQYzcib0EGcIfkqPuUmuQ==;BBycsIDbWeVqvMTG232H7g=="
 ---

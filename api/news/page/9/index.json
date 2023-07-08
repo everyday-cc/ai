@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-30-natural-language-processing-germany.md",
+      "title": "Natural Language Processing - Germany",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$1.02bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.92%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/germany",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/germany",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-when-bytes-bias-unraveling-the-myth-of-neutral-ai.md",
+      "title": "When Bytes Bias: Unraveling The Myth Of Neutral AI",
+      "excerpt": "In this article, we discuss the concept of technochauvinism, shedding light on the often-overlooked societal implications and biases in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649e7325a69e4ef2a20b96c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/amp/",
+      "publishedDateTime": "2023-06-29T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-this-ai-startup-generates-videos-with-text-and-it-just-raised-141m-led-by-google-and-nvidia.md",
       "title": "This AI Startup Generates Videos With Text — And It Just Raised $141M Led By Google And Nvidia",
       "excerpt": "Generative AI startup Runway has raised $141 million from investors which include Alphabet Inc.-owned GOOGL Google and Nvidia Corp. NVDA. Runway helps content creators generate videos and tweak ...",
@@ -949,24 +1043,33 @@
     {
       "path": "_news/2023-06-30-worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-for-user-authentication.md",
       "title": "Worldwide Voice Recognition Software Market to 2030: Increasing Demand for Voice Biometric System for User Authentication",
-      "excerpt": "DUBLIN, June 29, 2023 /PRNewswire/ -- The \"Global Voice Recognition Software Market by Type (Speech Recognition, Voice Recognition), Technology (Artificial Intelligence (AI) Based, Non-Artificial Intelligence Based), Industry, Deployment - Cumulative ...",
+      "excerpt": "DUBLIN, June 29, 2023 /PRNewswire/ -- The \"Global Voice Recognition Software Market by Type (Speech Recognition, Voice Recognition), Technology (Artificial Intelligence (AI) Based, Non-Artificial ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-worldwide-voice-recognition-software-market-2030-increasing-demand-/2023/06/29/9842031.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-worldwide-voice-recognition-software-market-2030-increasing-demand-/2023/06/29/9842031.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33065636/worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33065636/worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-f",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T11:50:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33065636",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33065636",
+      "publishedDateTime": "2023-06-29T11:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1028,101 +1131,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-inflection-lands-13b-investment-to-build-more-personal-ai.md",
-      "title": "Inflection lands $1.3B investment to build more ‘personal’ AI",
-      "excerpt": "Inflection AI, an AI startup aiming to build more 'personal' AI assistants, has raised $1.3 billion at a $4 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
-      "originalUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1448152453.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/",
-      "publishedDateTime": "2023-06-29T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-service-robotics-d-a-ch.md",
-      "title": "AI Service Robotics - D-A-CH",
-      "excerpt": "Value in the AI Service Robotics market is projected to reach US$0.42bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.46%, resulting in a market volume of US$1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/d-a-ch",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/d-a-ch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

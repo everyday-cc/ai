@@ -79,20 +79,6 @@ related:
         width: 910
         height: 512
         isCached: true
-  - title: "TSMC sees robust AI chip orders from Nvidia, Broadcom, AMD through 2024"
-    excerpt: "TSMC is expected to see a significant revenue rebound in the second half of the year, which will be driven by not only the launch of new iPhones but also strong demand for AI chips from Nvidia, Broadcom and AMD, with robust wafer-start momentum from..."
-    publishedDateTime: 2023-07-03T07:23:00Z
-    webUrl: "https://www.digitimes.com/news/a20230703PD200/tsmc-cowos-generative-ai-gpu-chips+components.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230703pd200_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "AMD is getting closer to Nvidia on AI"
     excerpt: "MosaicML has a look under the bonnet of both Artificial intelligence chips from AMD are about 80 per cent as fast as those from Nvidia but the way its chips are designed means that it is going to match its performance soon."
     publishedDateTime: 2023-07-03T09:58:00Z

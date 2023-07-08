@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Educating Australia on Indigenous Voice"
-    excerpt: "Australia's failure to readily accept the need for an Indigenous Voice highlights our lack of an inclusive curriculum, says University of Melbourne expert."
-    publishedDateTime: 2023-07-03T08:51:00Z
-    webUrl: "https://pursuit.unimelb.edu.au/articles/educating-australia-on-indigenous-voice"
-    ampWebUrl: "https://pursuit.unimelb.edu.au/articles/educating-australia-on-indigenous-voice.amp"
-    cdnAmpWebUrl: "https://pursuit-unimelb-edu-au.cdn.ampproject.org/c/s/pursuit.unimelb.edu.au/articles/educating-australia-on-indigenous-voice.amp"
-    type: article
-    provider:
-      name: pursuit.unimelb
-      domain: unimelb.edu.au
-    quality: 44
-    images:
-      - url: "https://res-5.cloudinary.com/the-university-of-melbourne/image/upload/s--sxVRT40U--/c_fill,f_auto,h_630,q_75,w_1200/v1/pursuit-uploads/e82/f01/001/e82f01001f380529b6d65e2119b13d96069e15eacfbbdd806abffc03d023.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Indigenous Australians Minister Linda Burney comes under fire from Jacinta Price over claims of Voice independence"
     excerpt: "Opposition indigenous affairs spokeswoman Jacinta Nampijinpa Price has hit back at “false” claims made by Linda Burney in her address to the National Press Club and accused the minister of trying to “muddy the water” of the Voice proposal."
     publishedDateTime: 2023-07-05T09:18:00Z
@@ -65,22 +49,26 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Australia news live: corruption commission receives 300 referrals in a few days; Burney condemns ‘Trump-style’ voice politics"
-    excerpt: "Follow live"
-    publishedDateTime: 2023-07-05T02:54:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/jul/05/australia-news-live-tanya-plibersek-murray-darling-basin-water-plan-voice-indigenous-referendum-linda-burney-pwc-china-anthony-albanese?page=with:block-64a4e78b8f081d0996a3625a"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jul/05/australia-news-live-tanya-plibersek-murray-darling-basin-water-plan-voice-indigenous-referendum-linda-burney-pwc-china-anthony-albanese"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jul/05/australia-news-live-tanya-plibersek-murray-darling-basin-water-plan-voice-indigenous-referendum-linda-burney-pwc-china-anthony-albanese"
+  - title: "David Littleproud takes aim at Linda Burney over Voice to Parliament speech"
+    excerpt: "David Littleproud has slammed a “disappointing” speech by Linda Burney in which she accused Peter Dutton of being a “bully boy” and claimed the No campaign was using Trump-style politics."
+    publishedDateTime: 2023-07-06T00:20:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/david-littleproud-takes-aim-at-linda-burney-over-voice-to-parliament-speech/news-story/f1e7fe39ad3da11fef243db5200cb5a6"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Couriermail
+      domain: news.com.au
     quality: 17
-    images:
-      - url: "https://i.guim.co.uk/img/media/066c9057fc95744497b2702ae0b6937144989226/0_4_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=58b9dbe280f1e08234900269e254fbcb"
-        width: 620
-        height: 372
-        isCached: true
+  - title: "Linda Burney didn’t rule out legislating priorities for the Indigenous voice to parliament"
+    excerpt: "Linda Burney has left open the possibility of legislating the four priority areas the government wants the voice to focus on, as Peter Dutton accuses the Indigenous Australians Minister of “pretending” the advisory body’s scope is restricted to health,"
+    publishedDateTime: 2023-07-05T11:27:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/linda-burney-didnt-rule-out-legislating-priorities-for-the-indigenous-voice-to-parliament/news-story/779b33c3b5f2a03d45452d2b8be66462"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/linda-burney-didnt-rule-out-legislating-priorities-for-the-indigenous-voice-to-parliament/news-story/779b33c3b5f2a03d45452d2b8be66462?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/linda-burney-didnt-rule-out-legislating-priorities-for-the-indigenous-voice-to-parliament/news-story/779b33c3b5f2a03d45452d2b8be66462?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 14
 
 secured: "thANxfXbVVVnkdvh/rYL/9ixD47RyTbpI3gJqiryDKV4hozyvFCLaruf12yzO7n12gHb74A4R+dBdTO6Ci0wgdCvgeG3ewntEQjhaBwW2xDTi/FcS771SRPCxOHk+CbUM+Y1yGXVg+g1jFyQSye/jVAVTkO8V984sNuOb6EQmTbmq42Lvfj+BoYld5sJOpq7LmBI1BYvK8TzkQQ2LybZQyOyIK3aWUNuNhtXLSG87DVCdB1qsscfhHnpLq8tf1Kz6T1IPmzS8TXRORg8absOKAyHnB7h8jcZK6U9Cs5PHACIpXd2Dtznu3r+GjfNVIt4trPy35JaIru/ZjMkIpCxSrOPo0iUJvG8hiEeNt0mwcW4FYLKb0lk3FyIVWPgB9zTBQVoqEytRlGJ3Ai5I2GfC5JAJbyoo+nXqVQMkIV+dcr44iCrzWhTtZbQR+RBlRFLU20RYD7Dscz4NKkLYVayYb8xtyWK+OXr5VlQnhX/yUO4sDX+/SZ5PfmT4vO2zscQ5wrUuzYJPANfFIMbz6IpDA==;ea5aDMz91lzFhB2ZNm19+w=="
 ---

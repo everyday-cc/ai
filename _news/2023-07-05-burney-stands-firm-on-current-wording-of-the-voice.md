@@ -24,19 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Linda Burney didn’t rule out legislating priorities for the Indigenous voice to parliament"
-    excerpt: "Linda Burney has left open the possibility of legislating the four priority areas the government wants the voice to focus on, as Peter Dutton accuses the Indigenous Australians Minister of “pretending” the advisory body’s scope is restricted to health,"
-    publishedDateTime: 2023-07-05T11:27:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/linda-burney-didnt-rule-out-legislating-priorities-for-the-indigenous-voice-to-parliament/news-story/779b33c3b5f2a03d45452d2b8be66462"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/linda-burney-didnt-rule-out-legislating-priorities-for-the-indigenous-voice-to-parliament/news-story/779b33c3b5f2a03d45452d2b8be66462?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/linda-burney-didnt-rule-out-legislating-priorities-for-the-indigenous-voice-to-parliament/news-story/779b33c3b5f2a03d45452d2b8be66462?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 14
-
 secured: "+bYTMvPYcKk/vYr9rM1MVCJdSda7MJw7R1qQaLe2KsfojdD8JUDQEHwXeOaj7kI5QxCMgJ3gbN1/5tUP5mdsp5RRymDRN0fl+6AgSPOHVwEAxB7oLuxnJQeqmOT8I6YeOdRtPZpFio1FLcV+gIMxhi+Nrfj80ODqm/CmQE1gXof1UCkj6pAAfEZmQ9BlRbnKqvsXUPKmZ3FR4VWbyJWZA7B8XAQl2bVdONxkt2rRMJJut5DIOcsS9nKgmCsVdsxUHxFKYQRsKB7HRDSppxy9oEehkWD5lJ6Exw/JoTU8bxJQrzX4JmMlHLpl+Ol+R/lHEDkKXhitShK0E8C0KXatVIcvY4BE9da3iXTpR+duJN0=;pOXk9dfJ7lXdhmcnPtlMMg=="
 ---
 

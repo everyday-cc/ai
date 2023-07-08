@@ -2,6 +2,111 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2023-04-25-ai-for-security-is-here-now-we-need-security-for-ai.md",
+      "title": "AI for security is here. Now we need security for AI",
+      "excerpt": "As the mass adoption and application of AI are fairly new, the security of AI is not yet well understood. Why we must change that — now.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-for-security-is-here-now-we-need-security-for-ai/",
+      "originalUrl": "https://venturebeat.com/ai/ai-for-security-is-here-now-we-need-security-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1223541497.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-for-security-is-here-now-we-need-security-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-for-security-is-here-now-we-need-security-for-ai/amp/",
+      "publishedDateTime": "2023-04-24T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-europe-zooming-in-on-ai-rates-and-chips-wars.md",
+      "title": "EUROPE Zooming in on AI, rates and chips wars",
+      "excerpt": "A look at the day ahead in European and global markets from Vidya Ranganathan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/europe/global-markets-view-europe-2023-04-25/",
+      "originalUrl": "https://www.reuters.com/markets/europe/global-markets-view-europe-2023-04-25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/sCjPgigxGRsErknWN7eSfxLsGZY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/45VBV2HLUJOF7NWNRIGT6ESZLE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-traders-have-little-to-fear-from-artificial-intelligence.md",
       "title": "Traders have little to fear from artificial intelligence",
       "excerpt": "Artificial Intelligence may indeed hurt some traders but algos have already done half the work. Trading strategies that require human intervention and long-term investors don’t need to worry, yet",
@@ -1105,102 +1210,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-chatgpt-how-to-use-ai-as-a-virtual-financial-adviser.md",
-      "title": "ChatGPT: how to use AI as a virtual financial adviser",
-      "excerpt": "The study found that, particularly when ChatGPT models are fine tuned, they are more accurate than other machine learning models ... and what data it uses. Some financial planning companies already offer robo-advisors – services that use algorithms ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser-204207",
-      "originalUrl": "https://theconversation.com/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser-204207",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/522314/original/file-20230421-20-89ix5g.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser-204207",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser-204207",
-      "publishedDateTime": "2023-04-24T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-this-machine-learning-project-could-help-jumpstart-self-driving-cars-again.md",
-      "title": "This machine learning project could help jumpstart self-driving cars again",
-      "excerpt": "So far autonomous vehicles just don't seem to be able to do the one essential thing that they should -- predict the glorious unpredictability of other erratic humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
-      "originalUrl": "https://www.zdnet.com/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/142e9efc1a7ef87046e4afae2561ac1b6a12443f/2023/04/19/a4b9a446-4b42-4184-abae-8595075942f8/testtrack.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
-      "publishedDateTime": "2023-04-24T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

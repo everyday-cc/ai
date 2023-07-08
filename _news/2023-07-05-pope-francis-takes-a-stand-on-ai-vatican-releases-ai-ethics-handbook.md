@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/293157/20230628/pope-francis-
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "God’s Take on Tech: Vatican Launches AI Ethics Think Tank"
-    excerpt: "Pope Francis and Santa Clara University's Markkula Center released an AI ethics manual. They founded ITEC, a Vatican-led think tank promoting meaningful discussions on the ethical impact of technology."
-    publishedDateTime: 2023-07-03T07:26:00Z
-    webUrl: "https://analyticsindiamag.com/gods-take-on-tech-vatican-launches-ai-ethics-think-tank/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/pope-francis-1300x731.png"
-        width: 1300
-        height: 731
-        isCached: true
   - title: "AI: Academic integrity vs artificial intelligence"
     excerpt: "Frederick Luis Aldama, an English and radio-television-film professor, intends to radically adopt AI into class activities and encourages students to embrace its possibilities while accepting its risks to academic integrity."
     publishedDateTime: 2023-07-07T03:05:00Z

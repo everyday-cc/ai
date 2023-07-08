@@ -7,7 +7,7 @@ originalUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligen
 webUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/"
 type: article
 quality: 66
-heat: 106
+heat: 126
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
+    excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity and large language models,"
+    publishedDateTime: 2023-07-07T11:07:00Z
+    webUrl: "https://www.globaltimes.cn/page/202307/1293938.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-07-06/cec72acb-baa5-4f80-b201-354117b3562b_s.jpeg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Chinese colleges wrestle with AI-generated research papers"
     excerpt: "Photo/IC] It was the night before deadline and all through the house, Cheng Guangyu, a Beijing college junior, was still four research papers away from meeting the academic requi"
     publishedDateTime: 2023-07-06T01:35:00Z
@@ -69,6 +83,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
+    excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity"
+    publishedDateTime: 2023-07-07T19:26:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2023/07/08/chinese-firms-advance-in-ai-chips-amid-possible-looming-us-restrictions/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 34
   - title: "Apple chip production unaffected by Chinese sanctions, but things could get much worse"
     excerpt: "TSMC‘s Apple chip production is not expected to be affected by China’s decision to restrict exports of two key"
     publishedDateTime: 2023-07-06T13:25:00Z

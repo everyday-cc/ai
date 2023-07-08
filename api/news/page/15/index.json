@@ -2,6 +2,108 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-06-27-snowflake-launches-llm-driven-document-ai-and-more-at-annual-conference.md",
+      "title": "Snowflake launches LLM-driven Document AI and more at annual conference",
+      "excerpt": "At its annual conference today, Snowflake debuted Document AI, a new LLM-powered offering to extract insights from unstructured documents.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/snowflake-launches-llm-driven-document-ai-and-more-at-annual-conference/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/snowflake-launches-llm-driven-document-ai-and-more-at-annual-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/snowflake-circuuits-code-e1687808581398.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes.md",
+      "title": "Can AI Reinvent Song Creation Without Cutting Out Humans? Music Sample Platform Splice Says ‘Yes’",
+      "excerpt": "One of the hottest sample libraries in the music biz is introducing AI that opens new avenues for song creation while keeping human-created loops at the forefront.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/",
+      "originalUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6499e4a91cfff1423c225776/0x0.jpg?format=jpg&crop=1722,876,x102,y53,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/amp/",
+      "publishedDateTime": "2023-06-27T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-faros-ai-raises-20m-to-bring-visibility-to-software-engineering-teams.md",
       "title": "Faros AI raises $20M to bring visibility to software engineering teams",
       "excerpt": "Faros AI, a startup building tools to increase visibility into software engineering processes, has raised $20 million in a venture round.",
@@ -1076,99 +1178,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
       "publishedDateTime": "2023-06-26T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival.md",
-      "title": "Tech leaders discuss future of AI at Aspen Ideas Festival",
-      "excerpt": "Artificial intelligence was the talk of the Aspen Ideas Festival. NBC News' Tom Llamas sits down with panelist Daniel Huttonlocher in the Colorado Rockies to talk about AI's impact on society and its future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival-185196101717",
-      "originalUrl": "https://www.nbcnews.com/now/video/tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival-185196101717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687836128249_now_topstory_aspen_festival_ai_230626_1920x1080-u407mb.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo185196101717",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo185196101717",
-      "publishedDateTime": "2023-06-26T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ai-awareness-now-a-must-on-any-business-resume.md",
-      "title": "AI Awareness Now A Must On Any Business Resume",
-      "excerpt": "Succeeding in business — across all occupations — will require at least some working knowledge of AI, industry experts concur. “In today’s global business environment, you’d be hard-pressed to find many roles that don’t require digital skills to complete daily tasks,” says Maureen Lonergan, vice president for training and certification at AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621921e91ed8cdeb7a949c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1525,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/",
-      "publishedDateTime": "2023-06-26T19:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

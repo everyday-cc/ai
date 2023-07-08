@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-06-aws-launches-generative-ai-accelerator-program-in-anz.md",
+      "title": "AWS launches generative AI accelerator program in A/NZ",
+      "excerpt": "Start-ups in Australia and New Zealand are being called to join a new accelerator program from Amazon Web Services (AWS) focused on generative artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/707936/aws-launches-generative-ai-accelerator-program-in-anz/",
+      "originalUrl": "https://www.arnnet.com.au/article/707936/aws-launches-generative-ai-accelerator-program-in-anz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12_1.jpg",
+          "width": 505,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-highlight-text-as-its-being-spoken-using-amazon-polly.md",
       "title": "Highlight text as it’s being spoken using Amazon Polly",
       "excerpt": "Amazon Polly is a service that turns text into lifelike speech. It enables the development of a whole class of applications that can convert text into speech in multiple languages. This service can be used by chatbots, audio books, and other text-to-speech applications in conjunction with other AWS AI",
@@ -1392,58 +1435,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-use-the-aws-cdk-to-deploy-amazon-sagemaker-studio-lifecycle-configurations.md",
-      "title": "Use the AWS CDK to deploy Amazon SageMaker Studio lifecycle configurations",
-      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). Studio provides a single web-based visual interface where you can perform all ML development steps required to prepare data, as well as build, train, and deploy models. Lifecycle configurations",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cdk-to-deploy-amazon-sagemaker-studio-lifecycle-configurations/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cdk-to-deploy-amazon-sagemaker-studio-lifecycle-configurations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/21/aws-cdk-sagemaker-lifestyle-1260x630.jpg",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T08:26:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

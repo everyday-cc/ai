@@ -2,6 +2,103 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-06-12-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
+      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
+      "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "publishedDateTime": "2023-06-11T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features.md",
+      "title": "Scality ARTESCA 2.0 Object Storage Focuses On CyberSecurity And Enterprise Features",
+      "excerpt": "Scality ARTESCA 2.0 S3 software-defined object storage enables new cybersecurity and cyber-resilience capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648642d4a607fe1d81f4b945/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/",
+      "publishedDateTime": "2023-06-11T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation.md",
       "title": "Sunak Keeps Up Push To Make UK a Leader in AI Regulation",
       "excerpt": "UK Prime Minister Rishi Sunak will on Monday keep up his push to give Britain a leading role in global regulation of artificial intelligence, while warning industry leaders the nation must act quickly to retain its position as one of the world’s tech capitals.",
@@ -1120,92 +1217,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-tesla-driver-hits-a-dog-claim-they-were-on-full-self-driving-beta.md",
-      "title": "Tesla driver hits a dog, claim they were on Full Self-Driving Beta",
-      "excerpt": "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/",
-      "originalUrl": "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-153-billion-by-2028-at-a-357-cagr.md",
-      "title": "Artificial Intelligence (AI) in MRI Global Market Report 2023: Sector to Reach $1.53 Billion by 2028 at a 35.7% CAGR",
-      "excerpt": "The \"Artificial Intelligence (AI) in MRI Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence in",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32799034/artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32799034/artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

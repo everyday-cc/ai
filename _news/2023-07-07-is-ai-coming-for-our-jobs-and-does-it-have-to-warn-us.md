@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/is-ai-coming-our-jobs-
 webUrl: "https://www.reuters.com/legal/legalindustry/is-ai-coming-our-jobs-does-it-have-warn-us-2023-07-07/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

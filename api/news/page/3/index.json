@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
-      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
-      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
-      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
-      "publishedDateTime": "2023-07-06T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-06-ai-boom-stems-techs-downturn.md",
       "title": "AI Boom Stems Tech’s Downturn",
       "excerpt": "Excitement over artificial intelligence is proving to be a powerful counterforce for a tech economy that had been slowing, lifting share prices and growth outlooks at many giants—and igniting new startups.",
@@ -195,6 +143,101 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests.md",
+      "title": "China says US consideration of AI chip export controls hurts China's legitimate interests",
+      "excerpt": "The United States' consideration of export controls on artificial intelligence chips is detrimental to Chinese companies' legitimate interests and hinders global economic and trade exchanges and cooperation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/china-tech-usa/china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests-idUSB9N38402E",
+      "originalUrl": "https://www.reuters.com/article/china-tech-usa/china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests-idUSB9N38402E",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-aws-launches-generative-ai-accelerator-program-in-anz.md",
+      "title": "AWS launches generative AI accelerator program in A/NZ",
+      "excerpt": "Start-ups in Australia and New Zealand are being called to join a new accelerator program from Amazon Web Services (AWS) focused on generative artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/707936/aws-launches-generative-ai-accelerator-program-in-anz/",
+      "originalUrl": "https://www.arnnet.com.au/article/707936/aws-launches-generative-ai-accelerator-program-in-anz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12_1.jpg",
+          "width": 505,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -447,6 +490,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-ai-is-an-existential-threat-just-not-the-way-you-think.md",
+      "title": "AI Is an Existential Threat – Just Not the Way You Think",
+      "excerpt": "From open letters to congressional testimony, some AI leaders have stoked fears that the technology is a direct threat to humanity. The reality is less dramatic but perhaps more insidious.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/c8ba128/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdb%2Ff3%2F9562a34bd0eeecd34cc29020dba9%2Fshutterstock-424934146.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true",
+      "publishedDateTime": "2023-07-05T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1099,99 +1185,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-decoding-the-impact-of-ai-on-seo-why-value-is-still-king.md",
-      "title": "Decoding The Impact Of AI On SEO: Why Value Is Still King",
-      "excerpt": "While the future is uncertain, one thing remains clear—value always wins. Regardless of the changes in search engines or the introduction of new monetization models, if you focus on providing value to your audience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a2e189739c70fd46b4ddd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/amp/",
-      "publishedDateTime": "2023-07-05T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-what-is-cloud-cost-optimization.md",
-      "title": "What is cloud cost optimization?",
-      "excerpt": "Cloud cost optimization combines strategies, techniques, best practices and tools to help reduce cloud costs and much more.\nThe post What is cloud cost optimization? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-cloud-cost-optimization/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-cloud-cost-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T05:56:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

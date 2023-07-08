@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsibl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/amp/"
 type: article
 quality: 106
-heat: 127
+heat: 126
 published: true
 
 provider:

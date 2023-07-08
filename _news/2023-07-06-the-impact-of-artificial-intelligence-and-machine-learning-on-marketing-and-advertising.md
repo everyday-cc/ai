@@ -26,35 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s impact on cost savings, productivity, and jobs"
-    excerpt: "While short-sighted companies may look to AI to cut jobs and costs, smart companies will use AI to increase productivity and agility. Just as they did with open source and cloud."
-    publishedDateTime: 2023-07-03T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html"
-    ampWebUrl: "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html"
+  - title: "Decoding The Impact Of AI On SEO: Why Value Is Still King"
+    excerpt: "While the future is uncertain, one thing remains clear—value always wins. Regardless of the changes in search engines or the introduction of new monetization models, if you focus on providing value to your audience,"
+    publishedDateTime: 2023-07-05T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://images.techhive.com/images/article/2016/03/thinkstockphotos-526811863-100648031-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Digital transformation, AI, and the productivity problem"
-    excerpt: "There's a lot of talk about generative AI could boost productivity at companies in the midst of digital transformation. But moving too fast could make things worse."
-    publishedDateTime: 2023-07-06T14:01:00Z
-    webUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.techhive.com/images/article/2014/09/worker_productivity-100413905-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a2e189739c70fd46b4ddd4/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true

@@ -105,7 +105,7 @@
       "originalUrl": "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -546,7 +546,7 @@
       "originalUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -578,58 +578,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls.md",
-      "title": "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls",
-      "excerpt": "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6d1908a417ec697b1aad2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
-      "publishedDateTime": "2023-07-06T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -983,7 +931,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1230,6 +1178,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
+      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
+      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "publishedDateTime": "2023-07-06T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

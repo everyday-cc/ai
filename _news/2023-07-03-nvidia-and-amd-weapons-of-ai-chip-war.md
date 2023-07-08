@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-wea
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
 type: article
 quality: 86
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/intelnvidia.jpg"
         width: 910
         height: 512
-        isCached: true
-  - title: "TSMC sees robust AI chip orders from Nvidia, Broadcom, AMD through 2024"
-    excerpt: "TSMC is expected to see a significant revenue rebound in the second half of the year, which will be driven by not only the launch of new iPhones but also strong demand for AI chips from Nvidia, Broadcom and AMD, with robust wafer-start momentum from..."
-    publishedDateTime: 2023-07-03T07:23:00Z
-    webUrl: "https://www.digitimes.com/news/a20230703PD200/tsmc-cowos-generative-ai-gpu-chips+components.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230703pd200_files/2_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Is Snowflake A Buy Following AI Deal With Nvidia?"
     excerpt: "Snowflake stock has gained about 27% year-to-date, underperforming the Nasdaq-100, which remains up by about 37%."

@@ -7,8 +7,8 @@ originalUrl: "https://www.arnnet.com.au/article/707936/aws-launches-generative-a
 webUrl: "https://www.arnnet.com.au/article/707936/aws-launches-generative-ai-accelerator-program-in-anz/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: ARN
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "FAST Accelerator Program Accepting Startup Applicants with AI-Powered Solutions for 2nd Cohort"
+    excerpt: "Ten Companies Based in Africa to be Selected for Five Week Bootcamp in CaliforniaSILICON VALLEY, Calif., July 5, 2023 /PRNewswire/ -- Flapmax, a"
+    publishedDateTime: 2023-07-05T15:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fast-accelerator-program-accepting-startup-applicants-with-ai-powered-solutions-for-2nd-cohort-1032427843"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "AWS CEO’s 5 Bullish New Generative AI Investments"
     excerpt: "AWS’ Adam Selipsky launches new generative AI products and investments, from an AI innovation center and startup program to AWS AppFabric and Amazon Bedrock."
     publishedDateTime: 2023-07-06T18:01:00Z

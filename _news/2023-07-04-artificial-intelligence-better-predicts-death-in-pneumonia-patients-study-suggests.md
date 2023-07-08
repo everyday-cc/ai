@@ -40,6 +40,15 @@ related:
         width: 1500
         height: 900
         isCached: true
+  - title: "Novel AI Model Predicts ADT Benefit in Patients With Prostate Cancer"
+    excerpt: "A predictive artificial intelligence (AI) biomarker of androgen deprivation therapy (ADT) benefit in prostate cancer was validated in a recent study published in NEJM Evidence."
+    publishedDateTime: 2023-07-06T19:39:00Z
+    webUrl: "https://www.ajmc.com/view/novel-ai-model-predicts-adt-benefit-in-patients-with-prostate-cancer"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 19
 
 secured: "w4q4er1PT2Jb30SNTUn7BCChobqaXayyvpgNZNFz5P0w22csp3PQuonFsb2drqnbtR+7mGMfx+C+VivLR2WeUiAygctwqn5szP4m8JOhFnXToobn8US2I/T99Rclgluvjofzw0T6xhHlToxlPm5sqApSunB+hERouFSMokkZrp7JPUF+9ReclxH1ySzEpkTJljf2mHrArvu0OYSVg8J0fv0xyJOg6hiO+5Ewxirgnw9UlALqUPknNdzrVSUaqCGFRlGietNBOZXIzx4S9RdToC66xr+KHYJInGEepSLk42NobXGAkV7trg5GbGzo5kJ3kes0S8C74R+PSYSiFKohYvQr0CNvtMEy1nzP/46RAeU=;/TVoEr2k1CRaSD/ffFgJ+Q=="
 ---

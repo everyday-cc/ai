@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 207
 published: true
 
 provider:

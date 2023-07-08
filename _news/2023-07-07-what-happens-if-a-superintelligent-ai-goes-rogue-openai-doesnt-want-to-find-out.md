@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-if-a-superintelligent-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
 type: article
 quality: 82
-heat: 142
+heat: 143
 published: true
 
 provider:
