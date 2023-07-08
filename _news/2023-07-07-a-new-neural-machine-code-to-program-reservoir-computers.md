@@ -26,17 +26,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "Researchers develop a redox-based transistor as a reservoir system for neuromorphic computing"
-    excerpt: "Physical systems known as \"reservoirs\" are designed to emulate neural networks and meet the need for improved computational efficiency and speed. Overcoming the previous issues with compatibility, performance,"
-    publishedDateTime: 2023-07-03T19:25:00Z
-    webUrl: "https://techxplore.com/news/2023-07-redox-based-transistor-reservoir-neuromorphic.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 0
-
 secured: "kyTv9GQLJ+2JHmT3AGLRH6qjnAdgucxm8PBqvDJ13cWVgGwwLd3S3YaQESHKVM5jQnabYeAGfSvSgCIPjyu6yaxJhEmDiOLduIvcML3HNgpiVKahtR5MvdipgHTO2hl/xrvkT0dl/WVKeo5gEQRcnG1QjLTItLXKvaXohiENhJogvLq0H5Cg4Yut3sJ4TriatwI6G24fEO/izS7RC5apN8jqWwgPoWmP22QdomEIVwsdQRxuUXJrwLUxCjKayyeJqnMWxIdN5sBEk3kCb0Cr97O7mn1w/5kAm8Pn2CBQF/BTnfhRm8pNBv2KXSCQl7AObP7jbNIP3gkcBKBskeQHCVkhGGDCxsQL4KJmgADDzO4S+oSv/of/OB/6lsXg4Tu8+mbfi5xyrw36fYuSDsWKeM6JjsO8uBBpR7bz06fQBYol3IJcX8MTfNNHXxkZPaEvXd18u/yW0NqQYPGSTbQW/ojQ7lioEU3qE1E76aU00A+1CSEq/nNfTKNkdQlMSv9sVpCB6ZfnnE9KNkvZESrVmA==;CKp7nGVV7ZmhLtz9EzpJlw=="
 ---
 

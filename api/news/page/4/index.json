@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-05-ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learning-series.md",
+      "title": "AI for business leaders: Discover AI advantages in this Microsoft AI learning series",
+      "excerpt": "As a leader in all things AI, Microsoft has spearheaded a curriculum created especially for you and your colleagues to help you build the knowledge, insights, and skills needed to make the most of AI technologies. Transform Your Business with Microsoft AI is designed to bridge the gap between AI technology",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Picture5.jpg",
+          "width": 900,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-how-to-modernize-data-lakes-with-a-data-lakehouse-architecture.md",
+      "title": "How to modernize data lakes with a data lakehouse architecture",
+      "excerpt": "Learn how a data lakehouse architecture and watsonx.data can help you modernize you data management strategy.\nThe post How to modernize data lakes with a data lakehouse architecture appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-modernize-data-lakes-with-a-data-lakehouse-architecture/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-modernize-data-lakes-with-a-data-lakehouse-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T08:58:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-ai-and-history-predicts-a-bull-market.md",
       "title": "AI (And History) Predicts A Bull Market",
       "excerpt": "But if we’re predicting the long-term direction of the stock market, despite or because of technological shifts, history provides us a much simpler answer: it goes up.",
@@ -739,7 +833,7 @@
       "originalUrl": "https://www.zdnet.com/article/are-your-google-docs-safe-from-ai-training/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1131,108 +1225,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-check-points-tony-sabaj-on-ai-in-cybersecurity.md",
-      "title": "Check Point’s Tony Sabaj on AI in Cybersecurity",
-      "excerpt": "The Check Point executive offers advice to companies on how to understand the role of AI in cybersecurity, and he also highlights key AI trends driving the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/check-point-ai-in-cybersecurity/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/check-point-ai-in-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/07/eSPEAKS-thumbnail.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-music-containing-ai-generated-elements-could-win-a-grammy-as-long-as-a-human-contributes-in-a-meaningful-way-recording-academy-ceo-says.md",
-      "title": "Music containing AI-generated elements could win a Grammy as long as a human contributes in 'a meaningful way,' Recording Academy CEO says",
-      "excerpt": "The music industry's highest award will still only be given to \"human creators,\" but those artists can use AI in their work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7",
-      "originalUrl": "https://www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a48b724cc8540019cb5f60?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-generated-music-could-win-grammy-academy-ceo-says-2023-7?amp",
-      "publishedDateTime": "2023-07-04T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

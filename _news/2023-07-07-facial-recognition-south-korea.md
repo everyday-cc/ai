@@ -41,6 +41,20 @@ related:
         width: 8256
         height: 5504
         isCached: true
+  - title: "AI Robotics - South Korea"
+    excerpt: "Value in the AI Robotics market is projected to reach US$301.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.32%, resulting in a market volume of US$768.30m by ..."
+    publishedDateTime: 2023-07-07T16:29:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/south-korea"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "pFEunXGN5r9VNk2cTsdqAsIzdr1ULTLjPvl/KBOIaCri0AmiC1oEbPZ6wtQRcsMpSXjGsnx7WvqUbs99eE0Yg/GB1Bxfan/gxUf7QezlXUI4cuWO78FcL1guCqnVe4sgGk6m+tBpNaJX5BBPgGUPOzoAx/NeWG5qcmkHhA0GPU3ppeHXZZBAYG2xafi0CiNYCm37/0/BKZHKSCZ3vYznDsrNFd4JI2cXrvhCleh5XUEeeB8WJzSj1gO4U/dvN818N79SRDv1OhPw+AfU47nLVLMReYS+PA1W4nECUYUgTO8HrBet5mjDISrWd0+q69QD2CRMqtPw7Xwh+gLtbENT/HlEfd55gTRsQsvsWPl509E=;ZXNqV0vsQ/n4Vgn7+6E+jw=="
 ---

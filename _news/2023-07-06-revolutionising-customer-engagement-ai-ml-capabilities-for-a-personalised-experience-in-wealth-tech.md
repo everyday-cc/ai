@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-cus
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Smartling Integrates with Custom.MT for Expanded Machine Translation Options"
-    excerpt: "VThrough the integration of Custom.MT's console, Smartling customers gain access to additional machine translation providers"
-    publishedDateTime: 2023-07-06T07:00:00Z
-    webUrl: "https://slator.com/smartling-integrates-with-custom-mt-for-more-machine-translation-options/"
+  - title: "How new AI tools can transform customer engagement and retention"
+    excerpt: "New technologies present new opportunities, but hard work is needed to gain the benefits of AI and ML as cookies and third-party data go away."
+    publishedDateTime: 2023-07-08T15:20:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/ai-tools-help-businesses-reimagine-reach-out-to-customers/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 16
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_new_artificial_intelligence_tools_helping_businesses_re_5dfab3ec-f116-4eca-9cb0-5909738ad7d0.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "2IEaFet2QTaSMZ9cKlVbtDVKPny9Wv94TaAkh/vdeC2ZEhaEyIhwKySooYcD0VGZcmPz65N/6BtLAs9m0ca4Nyb4Ctrf6IDb/+VkOjSeowT2m41bnr3EMih8OO4MNrX53jLamQf1j+ygkWPUZQmvSD+1K/c12G1lZmb3d5DC2dWzQxQ3b6GPG8wxfVbRPfxRkUOSTzDuZjxGCzKr2fmPZnWz9ghlzPW0NEb/EF90yn013lbSlutKE75J4v1rX2wAuo+r7bS9nxX+xkjtiuui9gJ5mu26+lwii1IY3a1H/r0/Zfz9wG/ohcQ5U8f+SR0/J5ZciQjt0k3CxPJEZfT/R0LzOaQUIencTeYVqO9XiPhwp9QpvUVeckYvKf5gveXrFbpt6LWl3gAJZAlupZUI6N5ut3RcuuGkDJScWz9NLYAwDb/pctMAhjHmJMotVjmFPcMDGdWPFFJ/4lR3CvXgc50lpkr4WVtN/Jt388ad5uCFxQw7/XiivIYwvr4EY/CGLb3V05LjIbV1QSWGojVO1w==;fKfOQK/lhlNwdfpIGNMzRg=="
 ---

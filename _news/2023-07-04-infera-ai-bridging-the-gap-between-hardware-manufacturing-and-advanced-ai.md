@@ -56,6 +56,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The week in AI: Generative AI spams up the web"
+    excerpt: "This week in AI, a startup for SEO-optimized, AI-generated web content, OpenAI releases GPT-4 to the public, and a smart intubator."
+    publishedDateTime: 2023-07-08T15:01:00Z
+    webUrl: "https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/"
+    ampWebUrl: "https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/ETH-zurich-pixar-smoke.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Are You Getting Scammed Through AI Voice Swindles? 4 Safeguards You Need To Know"
+    excerpt: "According to a new report by the Identity Theft Resource Center (ITRC), “80% of identity theft victims are due to scams, and thieves are becoming more sophisticated in their quests to steal personal identifying information (PII) from victims with 61% of them being conducted through AI voice.”"
+    publishedDateTime: 2023-07-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6481f0a20bd1d57b30595934/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 836
+        isCached: true
   - title: "Now anything you post publicly online could be used to train Google’s AI"
     excerpt: "AI chatbots like Google’s Bard, Open AI’s ChatGPT and other generative AI systems create content using large amounts of data scraped from the internet. This includes data publicly available on social media platforms. We’re already seeing owners of social media platforms try and curb this."
     publishedDateTime: 2023-07-04T17:43:00Z
@@ -81,15 +113,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Google updates privacy policy to train its AI on everything you post online"
-    excerpt: "Google quietly updated its privacy policy over the weekend to mention that it will use public data to help train its AI models."
-    publishedDateTime: 2023-07-03T20:44:00Z
-    webUrl: "https://www.androidauthority.com/google-privacy-policy-ai-3341871/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 47
   - title: "Generative AI: We Need To Talk About Value"
     excerpt: "It’s not about simply getting your hands on generative AI—it’s about knowing how to put the technology to work to create real, tangible value."
     publishedDateTime: 2023-07-07T12:30:00Z

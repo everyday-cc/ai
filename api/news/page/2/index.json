@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-07-morgan-stanley-upgrades-asia-chip-stocks-on-ai-clamor.md",
+      "title": "Morgan Stanley Upgrades Asia Chip Stocks on AI Clamor",
+      "excerpt": "The long-term prospects for artificial intelligence-linked semiconductors is making Morgan Stanley even more bullish about chip stocks in Greater China, Japan and South Korea.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-07/morgan-stanley-upgrades-asia-chip-stocks-on-long-term-ai-outlook",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-07/morgan-stanley-upgrades-asia-chip-stocks-on-long-term-ai-outlook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFnFohcCzeQE/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-should-you-use-ai-in-your-university-courses.md",
+      "title": "Should you use AI in your university courses?",
+      "excerpt": "The remarkable level of accessibility and proficiency exhibited by AI tools has educators, students, and tech enthusiasts engaged in vigorous debates about one big question: should university students use AI in their courses?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/06/ai_university_courses.jpg?itok=pIVQh-TB",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831?amp",
+      "publishedDateTime": "2023-07-06T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-service-robotics-market-to-grow-at-a-cagr-of-22.md",
+      "title": "Service Robotics Market to grow at a CAGR of 22....",
+      "excerpt": "The service robotics market is set to grow by USD 48,788.55 million from 2022 to 2027, progressing at a CAGR of 22.75% during the forecast period. The report offers an up-to-date",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33142292",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33142292",
+      "publishedDateTime": "2023-07-06T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-the-ai-boom-isnt-breaking-the-memory-chip-slumpyet.md",
       "title": "The AI Boom Isn’t Breaking the Memory-Chip Slump—Yet",
       "excerpt": "Samsung Electronics forecast a 96% drop in its operating profit for its second quarter—a sign that even the world’s largest maker of memory chips isn’t able to capitalize on the moment.",
@@ -208,7 +346,7 @@
       "originalUrl": "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -255,8 +393,8 @@
       "title": "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI",
       "excerpt": "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
-      "originalUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
+      "webUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "originalUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
       "featuredContent": null,
       "highlight": null,
       "heat": 124,
@@ -273,9 +411,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
-      "publishedDateTime": "2023-07-06T11:40:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "publishedDateTime": "2023-07-06T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Barron's",
@@ -785,7 +923,7 @@
       "originalUrl": "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1065,162 +1203,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-amazon-prime-day-2023-best-deals-available-now.md",
-      "title": "Amazon Prime Day 2023: best deals available now",
-      "excerpt": "Another day and another set of early Prime Day deals are now live at Amazon. Continuing on from the cheapest ever price for the Fire TV Stick 4K Max are today's record-low offers on the Echo Dot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
-      "originalUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-the-indian-business-responsibility-and-sustainability-report-brsr-explained.md",
-      "title": "The Indian Business Responsibility and Sustainability Report (BRSR) explained",
-      "excerpt": "India&#8217;s Business Responsibility and Sustainability Report (BRSR)&#8212;a framework for environmental, social and governance (ESG) reporting&#8212;comes into effect in 2023. These new reporting standards represent an evolution from the voluntary guidelines first issued in 2009 by India&#8217;s Ministry",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/indian-brsr-reporting/",
-      "originalUrl": "https://www.ibm.com/blog/indian-brsr-reporting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-06-at-3.37.53-AM.png",
-          "width": 2138,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-responsible-ai-a-mandate-in-finance-and-insurance.md",
-      "title": "Responsible AI: A Mandate In Finance And Insurance",
-      "excerpt": "Companies that deploy AI responsibly can stand out from competitors while avoiding legal problems and other mistakes that can erode customer trust and damage reputations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a570a8e38d3ff4b58aa486/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/responsible-ai-a-mandate-in-finance-and-insurance/amp/",
-      "publishedDateTime": "2023-07-06T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

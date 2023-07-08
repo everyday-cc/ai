@@ -1,25 +1,25 @@
 ---
 category: news
 title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-excerpt: "Robots are presented during a press conference with a panel of AI-enabled humanoid social robots as part of International Telecommunication Union (ITU) 'AI for Good' global summit in Geneva, Switzerland,"
-publishedDateTime: 2023-07-08T11:51:00Z
-originalUrl: "https://www.altoonamirror.com/wire/?category=760&ID=297029"
-webUrl: "https://www.altoonamirror.com/wire/?category=760&ID=297029"
+excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
+publishedDateTime: 2023-07-08T15:09:00Z
+originalUrl: "https://www.mauinews.com/wire/?category=5187&ID=297029"
+webUrl: "https://www.mauinews.com/wire/?category=5187&ID=297029"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Altoona Mirror
-  domain: altoonamirror.com
+  name: The Maui News
+  domain: mauinews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg"
+  - url: "https://s3.amazonaws.com/ogden_images/www.mauinews.com/images/2018/02/20104449/fb.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 720
         isCached: true
 
-secured: "KCrx4KmSnTMUT5O9Qv2A6R3AkoOvfFlz7caDuuDit5sChSBSVwWr3ADTLg9deAaItceULDomqHGRTwSuJC9mjYCXPZW0yxiO1T3tm59wGN+XjL2v+Xs3ZBPxi7R/iq3DajYpx4l2OQhwu/ynAOUElOhCXiOycTyfnjNXc4qD9o5YG0WOOU82MsnoUxpEi+exQ0gEfI2J7vpA5k1nkMIipd7FJ4KmgaeHYDGmWb039fgulAn6eXFjcJTIO4HNyrcm1pcffxdC7pRr4HLCGzsiu1bQ60hmyr5OAi5S5NDsSbOUVKmel6A1h3N6YL1o497piZCY+T2LxS6LbSK8qCD7qP3f1GbW0PZoIvND/QGED78=;LOHCWAdZhDuj6o77IHQ8Gg=="
+secured: "ro90rG8JP4L7oLhBOeqNPzMesFsUA9zpUU4RA0dFYa3q+oz7/IywsPRTwut0QNxzkc+oep8s7j7UDl+eaTUzBAAqNzmW0TXD/XzPig5XTFDHINiOlK6g5F9M7BjvQE8ShR7ZP6f7vjR/Zic+kIezpn4ePxiaaO4A0ODLaau/vvykXKe0CAVU2xuAEqBGWbn7RuH69fk2accsqBMCyTtPKWkwRomG6PpjigXjPvzBVrNVrIg4T0UEhTIET0zZ4qvJafU2GVKPofdrsdu2n/SqT2zL1NN10R8Osc86zSwvG0vtzn5UCP2OqxSvUT6fteQ+N5Y+cpNRVFYOG9hSZHpkg4bnNBwfooMmXvLujrj0MU8=;IhUMiPAQbFSApNkwwFlRNg=="
 ---
 

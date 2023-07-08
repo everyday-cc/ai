@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       - url: "https://kvia.b-cdn.net/2023/07/0100QQSX_4.jpg"
         width: 1080
         height: 770
-        isCached: true
-  - title: "Rapid growth of artificial intelligence could transform 2024 election"
-    excerpt: "Artificial intelligence has the potential to be game-changing for political ads - but is it ethical? Should it be regulated? Washington is struggling to answer these questions."
-    publishedDateTime: 2023-07-03T22:00:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/rapid-growth-of-artificial-intelligence-could-transform-2024-election/video_5a5c96b4-8b7a-503a-8f64-c2c335de6c4b.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/a5/5a5c96b4-8b7a-503a-8f64-c2c335de6c4b/64a336a3c44a0.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "l2AzjbfHHEVj++/gOcSoX5jNvrzNwTRc1wRomqVV9RhMGUPFdKoKLGkbF2nvF+MYqAd/of1jO2jTnZMUGjW4FS0jLH2prK7ghF596O/YTdsH6/HQlNduLVpSoV7XlnwDhLVjR5KrAreDgJwJPI69/ITx2ZYoP6mk0ET+iZWDiTuAhG5FxdT8FtvAY4Yk417hAV2yjAwl+5dpyRZahQUM0cVG8uqjXUy+ZMWCkrbg1NtCW3s19EK33DfkHlxcLJTsFBYGM3OUixkG9bhzosrD+dfP69ecWy5/rqvNsnf94CQJkvbPfybqred6z3/T1OhIor79GstSPOBmfdAIY/bVgh8KtwNPMFQWEXkJz0Rfxd8W5dM9XAsNDqBst5X1DiqVyL5qTk/l/2rER5P0tq8VmBGEUyHSUjfj00v6ISrRIhX1KCgpWFaDdIUmSxahDKWLEhtRQXFgcrA+tvmMs1uzXX2Dt3ml82EIrtX81r7JzIvuLPClZSSgOLmvCN7+zyGk4jueR7cwCjLyEayizSCYqA==;fzQ7IPSJiLbzwDhY2xx6fw=="

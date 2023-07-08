@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -52,6 +52,49 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-scientists-build-a-system-that-can-generate-ai-models-for-biology-research.md",
+      "title": "Scientists build a system that can generate AI models for biology research",
+      "excerpt": "Automated machine-learning (AutoML) systems are still in a relatively nascent stage of development, with current usage primarily focused on image and text recognition, but largely unused in subfields of biology, points out first co-author and Jameel Clinic ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/scientists-build-a-sys.jpg",
+          "width": 900,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-scientists-generate-ai-biology.amp",
+      "publishedDateTime": "2023-07-07T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -137,50 +180,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech.md",
-      "title": "Revolutionising customer engagement: AI-ML capabilities for a personalised experience in Wealth Tech",
-      "excerpt": "Over the past decade, there has been a significant shift in customer expectations. The rise of digitalization has propelled the importance of personalization and customized customer experiences to the forefront of achieving business success.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/07/CoinSwitch-Ramakrishna-M-Senior-Director-Contact-Centre.jpeg",
-          "width": 1600,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/",
-      "publishedDateTime": "2023-07-06T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
@@ -980,8 +979,8 @@
       "title": "Predactica integrates Azure OpenAI capabilities into its SaaS Machine Learning platform",
       "excerpt": "Predactica is thrilled to announce the integration of Azure's OpenAI capabilities into its AI/ML platform, complementing its existing no-code SaaS AI capabilities aimed at citizen data scientists.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_e3591700-9c59-5eee-ac8c-94bddea6f8f7.html",
-      "originalUrl": "https://www.news-journal.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_e3591700-9c59-5eee-ac8c-94bddea6f8f7.html",
+      "webUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
+      "originalUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -994,8 +993,8 @@
       "publishedDateTime": "2023-06-26T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null

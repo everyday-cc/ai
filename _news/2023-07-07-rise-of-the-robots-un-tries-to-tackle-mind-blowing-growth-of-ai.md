@@ -2,11 +2,11 @@
 category: news
 title: "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI"
 excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots."
-publishedDateTime: 2023-07-06T18:40:00Z
-originalUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
-webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
-ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
+publishedDateTime: 2023-07-06T18:04:00Z
+originalUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
+webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
+ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
 type: article
 quality: 74
 heat: 124
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Robots At UN Reckon They Could Run The World Better"
-    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
-    publishedDateTime: 2023-07-07T17:39:00Z
-    webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
-    ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9103350529626727026872206727563737693825---1.jpg"
-        width: 768
-        height: 506
-        isCached: true
   - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
     excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
     publishedDateTime: 2023-07-06T14:51:00Z
@@ -91,7 +75,16 @@ related:
       name: cybernews
       domain: cybernews.com
     quality: 34
+  - title: "AI robots at UN reckon they could run the world better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-08T12:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-robots-at-un-reckon-they-could-run-the-world-better/articleshow/101598689.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
 
-secured: "ZruAnG7+qEF3/HXdr8DeOyWg4HKl0gzVPfM1zVfdhRbBFE62eq3tu+7MKsixv0oUld0ZaLbv+kZ8sygL7Y/iFT9gazXZdyDr9Q/fALPJXi+koSVqJC1OU8G8oSs8A61J8Xdw47tWcXwZ83EsEJbG1Rw4nLtTFgQpg0knAiu5hunww+yjMHoYFG1wuDN+NEX0+NqLSs2bi14qpu/dEXAA7UKpiNdWmXwKjtY3fBqJ38KO/Q5ApUEXvvvMT5Ngxvc8EKOmOL5oe7U+GWSkBHkp+806tuK8neBgjWZ1hmQpfBcT/2v83m8xCvDsl6Sd3yLzlyimQg7V1v4VsKO6EzY8npjFYhOUs9Spqa8XVkGMBMY=;JRkZaKEsiAnTKRLsWbFHxA=="
+secured: "8Q6W3R0HWyEbtylJ8hnphHTcBxnxAAUM/BVDnPV8u46fwN16B2twlqgsJ3Zuil2MUSKVAb3E24lXR6krdnnAOiRAaRQuJcmPSDbz3SnpIS7IkYYvzZqgzoUhIvoxtMN9vZQ9DXmsE7oOKX2YwVugtJxxTmD9awW9ZytOVqQSthzPxv8qwUZ6VdfFrd6iNgY24vDJ6WX/wBQH9pqxp1a2AmZKAF92Gno0ofs7RFELvJnbU9jfod9OynAOUh5Epvf5W6uwpk/skR8Vi+FvdoxC6Pfgc9CsoJgUqxFSjF5GTuToQpN+AI0WefL52ACmi6crVa+/SqtHv8+vgG8zQqGuDtsMvIO4FQKMA/B6LPo5P0E=;jnV1xBkwhnYAz7xDn5kVMA=="
 ---
 

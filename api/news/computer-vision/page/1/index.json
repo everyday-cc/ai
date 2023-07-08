@@ -226,6 +226,40 @@
       ]
     },
     {
+      "path": "_news/2023-07-03-barred-from-grocery-stores-by-facial-recognition.md",
+      "title": "Barred from grocery stores by facial recognition",
+      "excerpt": "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?mibextid=Zxz2cZ",
+      "originalUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?mibextid=Zxz2cZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?amp=1",
+      "publishedDateTime": "2023-07-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-musicians-revolt-against-facial-recognition-technology.md",
       "title": "Musicians revolt against facial recognition technology",
       "excerpt": "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology.",
@@ -506,10 +540,10 @@
     {
       "path": "_news/2023-06-30-scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report.md",
       "title": "Scanbot SDK Named Among Vendors in Computer Vision Tools Landscape Report",
-      "excerpt": "Scanbot SDK has been included by research and advisory firm Forrester among vendors of computer vision technology in their recently released report \"The Computer Vision Tools Landscape, Q2 2023 - Forrester's Overview Of 38 Vendors\".",
+      "excerpt": "The Scanbot Barcode Scanner SDK turns any mobile device into a reliable, easy-to-use barcode scanner, while the Document Scanner SDK enables enterprises to transform physical docu",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153",
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/30/9842182.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/30/9842182.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -528,21 +562,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:46:00-07:00",
+      "publishedDateTime": "2023-06-29T23:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1331,58 +1356,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-face-recognition-the-key-to-safe-future.md",
-      "title": "Face Recognition – The Key to Safe Future",
-      "excerpt": "Generally, face recognition works by analyzing and comparing various facial features to identify an individual. The whole process is n noted below: Face Detection: At first, it detects and locates a face in an image or video by using algorithms to analyze patterns of light and dark pixels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

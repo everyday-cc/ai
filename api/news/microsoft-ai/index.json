@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-08-in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry.md",
+      "title": "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry",
+      "excerpt": "The search giant is fine-tuning chatbot technology via medical licensing exams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8",
+      "originalUrl": "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-tcs-to-train-25k-staff-on-azure-openai-gen-ai-tools.md",
       "title": "TCS to train 25K staff on Azure, OpenAI Gen AI tools",
       "excerpt": "TCS also launched a generative AI business offering, called TCS Generative AI Enterprise Adoption, which will offer deployments of OpenAI’s generative AI business tools via the Azure platform to businesses.",
@@ -1417,59 +1461,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ibm-to-acquire-apptio-for-46-billion-boosting-hybrid-cloud-and-ml-services.md",
-      "title": "IBM to Acquire Apptio for $4.6 Billion, Boosting Hybrid Cloud and ML Services",
-      "excerpt": "The ApptioOne, Apptio Cloudability and Apptio Targetprocess services will join the portfolio of IBM acquisitions later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-acquires-apptio/",
-      "originalUrl": "https://www.techrepublic.com/article/ibm-acquires-apptio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/06/Apptio_Newsroom_Banner_1920x720.jpeg",
-          "width": 1343,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

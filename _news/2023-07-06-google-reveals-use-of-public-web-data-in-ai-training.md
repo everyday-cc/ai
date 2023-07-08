@@ -49,20 +49,6 @@ related:
         width: 1017
         height: 891
         isCached: true
-  - title: "Google Updates Privacy Policy To Collect Public Data For AI Training"
-    excerpt: "Over the weekend, Google updated its privacy policy to allow the company to collect and analyze information people share online to train its AI models. Google says it will use this information to improve its services and develop new AI-powered products."
-    publishedDateTime: 2023-07-03T20:47:00Z
-    webUrl: "https://www.searchenginejournal.com/google-updates-privacy-policy-to-collect-public-data-for-ai-training/490715/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 39
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/07/img_2023-7-3-164236-64a332f829dc6-sej.jpeg"
-        width: 1600
-        height: 840
-        isCached: true
 
 secured: "rzEcWshbYATu6k2zzVMDewxXjDQNMw90d7Jj/pZNbAkXlvOUAlxHuavl+a6x0C9jcR0eFK14H8LLrARfoqOfOrWZvqxiajzpyvupn+L7PZ0QGppNgLwnq7yQeeAHCr32lOBtaBf8d/x5svfg44rS0uO1fJU1xh8tf4U8gbAd4Zqk8+s/KZMM2VvjYKzpc6ZXTm6/YA1RT0Zp+7L7n6ze5f/YZyNWuoKQlaP8a8KIT9TE0G1ziw7WymmEMW08IL6U+6G6Qtww86CSBebPLaxB8oPEtyp3VPeF6Qa1esWuqxcQNki0aR8/ll1Lggq8rKCnXD8cuA4fgy9m4uHasvRUkEU8EXcvWGz9swOp3WgBVXQ=;PDi98mgoKQcl6igkjfekbg=="
 ---

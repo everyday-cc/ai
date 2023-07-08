@@ -25,61 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "AI Driving Web Analytics in the Financial Publishing Industry"
-    excerpt: "What The Finance, a popular news website, has taken its web analytics capabilities to the next level with a partnership with Social Media"
-    publishedDateTime: 2023-07-04T08:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-driving-web-analytics-in-the-financial-publishing-industry-1032424364"
+  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
+    excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
+    publishedDateTime: 2023-07-08T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/89101410-1688437795.jpg"
-        width: 650
-        height: 363
-        isCached: true
-  - title: "Gartner survey: Most corporate strategists find AI and analytics critical to success"
-    excerpt: "A new survey from Gartner has revealed that most corporate strategists think that AI and analytics are critical to their success."
-    publishedDateTime: 2023-07-05T21:21:00Z
-    webUrl: "https://venturebeat.com/ai/gartner-survey-most-corporate-strategists-find-ai-and-analytics-critical-to-success/"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 72
+  - title: "IHiS to develop a secure ChatGPT for healthcare with Microsoft"
+    excerpt: "Secure GPT is a custom-built common platform using Azure OpenAI Service that will enhance productivity for healthcare workers."
+    publishedDateTime: 2023-07-07T10:22:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/ihis-develop-secure-chatgpt-healthcare-microsoft"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/ihis-develop-secure-chatgpt-healthcare-microsoft"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/ihis-develop-secure-chatgpt-healthcare-microsoft"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/GettyImages-1373296586.jpg?w=1200&strip=all"
-        width: 1200
-        height: 680
-        isCached: true
-  - title: "infinitii ai enters Quebec's smart infrastructure market with machine learning analytics sales with two major customers"
-    excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\") (CSE: IAI) (FSE: 7C5) (OTC: CDTAF) is proud to announce its entry into Quebec's smart infrastructure market by contracting with two new large-scale customers ­– the Montreal Metropolitan Community (\"CMM\") and the City of Montreal."
-    publishedDateTime: 2023-07-06T12:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/06/9844056.htm"
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 56
+  - title: "Rubrik and Microsoft Announce Generative AI-Powered Cyber Recovery and Remediation"
+    excerpt: "Rubrik Security Cloud, Microsoft Sentinel, and Azure OpenAI Service integration demonstrates how organizations can strengthen their cyber resilience and recover faster and more effectively from cybera"
+    publishedDateTime: 2023-07-06T12:48:00Z
+    webUrl: "https://www.livemint.com/brand-stories/rubrik-and-microsoft-announce-generative-ai-powered-cyber-recovery-and-remediation-11687434659947.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-    excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
-    publishedDateTime: 2023-07-06T15:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/06/9844060.htm"
+      name: Mint
+      domain: livemint.com
+    quality: 28
+  - title: "Rubrik and Microsoft announce Generative AI-Powered Cyber Recovery and Remediation"
+    excerpt: "Rubrik, the Zero Trust Data Security Company, today announced a joint collaboration to integrate Rubrik Security Cloud with Microsoft Sentinel and Azure OpenAI Service to accelerate cyber recovery through the use of generative AI and Natural Language Processing (NLP)."
+    publishedDateTime: 2023-07-06T23:13:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20230706/4096430.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
-  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-    excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London,"
-    publishedDateTime: 2023-07-07T01:05:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/269347"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 7
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 28
 
 secured: "dyr3z145jl62E77zpZxgiaTebFZZHzwgmJ5LK1XjkX/Ct1g547cUy2QrgGXR2ZFLpFRd7hvwp4jDRqRZBU53IDpLbEXPz0ulUS3tuZZNjNVQ1OipKzk6sv+my/rlXdX9uIJnIWWpaCNuTfBys67/+dIs5REpVKO3FjGKlhqnor5khRtaVUEOTbL128jfMsbNNCzo0lOnUJ4M79wg7zcy24UR2bx69DU3ySddBLmZvhkOGN2FAfnCiMmm2RBBGJkwQFeAUmWfpQZLKPoP7fOe0X5TdD+8u2AvrpO+qVU+tYg1wiLcLikoBbTh7zC+DsooGn6FOuuzAYvVfndqt6AU9OAyBNi/QGtuzrBS2DQibq/mqY3h5XgBfxw63Aqpb6Gpc+Z63R5I62MyKnTGZb1s8CB5tcAjNpgxKO357d/gKGcGnj9NCp+W9sGUMT0wlW7taVXgISUXxqv8EfAhgHCU5Wr0nMNt/Aml1s9ha/mk5K3GJHR9z+CiRDHtMdlFXFgcsS5VVaviGKPn3ETcZiky0A==;OYct9pEurSZCwHl5sK2Jag=="
 ---

@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform"
-    excerpt: "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,"
-    publishedDateTime: 2023-07-05T15:48:00Z
-    webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 64
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4444/Unsplash_ThisisEngineering-RAEng_web.jpg"
-        width: 975
-        height: 548
-        isCached: true
   - title: "Gartner survey: Most corporate strategists find AI and analytics critical to success"
     excerpt: "A new survey from Gartner has revealed that most corporate strategists think that AI and analytics are critical to their success."
     publishedDateTime: 2023-07-05T21:21:00Z
@@ -83,6 +69,15 @@ related:
       name: RYT9
       domain: ryt9.com
     quality: 7
+  - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
+    excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
+    publishedDateTime: 2023-07-08T05:45:00Z
+    webUrl: "https://www.inferse.com/598680/top-10-alternatives-to-gpt-3-analytics-india-magazine/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 4
 
 secured: "FRHeNhrv01FS7o/ZQlm5Kl35gxEb4kFBwZUgzZn83EwptfROV74HUmY5sEVe89xiWy94dLL7W9riOk8IoRVO17mbepyqTKxY5hH+AvmyFLHxmW+ujSVEbqH1CdYN5dr6vPRw0KezUyRTUvn0o6X3hJaIsRJwoB/xDGdVoZ7U38kDNb6atB/yKzmpVkRTGrn9LULS6QJRC00FSwrSGPZ8DZrPMENAwwxFpEGJfWUzpGx3QUTGFt6qKq5P+hBAMHkd1EFc3sAmuwRr0fOqm4vDNfCOX0t0Abohn83h92GLs0Fpfz+X4uhBzmExuj2fa6isTP0UtSd/NQybsdAIoNemE8Qz5ojSmbg2yhzjfAsU7hA=;Ha44+qoMGueU1pvEQvMOkA=="
 ---

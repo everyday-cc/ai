@@ -79,6 +79,29 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI robots say they can run the world better than humans but won't steal jobs"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-08T12:39:00Z
+    webUrl: "https://interestingengineering.com/science/ai-robots-say-they-can-run-the-world-better-than-humans"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/08/image/png/p4wBehFwZ5eUshfj5u7xc3d1x3tS9fc2ym1oyPn4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Robots say they have no plans to steal jobs or rebel against humans"
+    excerpt: "nine of the most advanced humanoid robots have told an artificial intelligence summit in Geneva. In what was described as “the world’s first human-robot press conference”, one robot, Sophia, said humanoid robots had the potential to lead with “a ..."
+    publishedDateTime: 2023-07-08T13:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/08/robots-say-no-plans-steal-jobs-rebel-against-humans"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 34
   - title: "Robots in world's first AI press conference say they won't steal jobs or rebel against humans"
     excerpt: "In the world's first robot-human conference in Geneva, robots say they expect to increase in number, help solve global problems, and will not steal humans jobs or rebel."
     publishedDateTime: 2023-07-07T19:50:00Z

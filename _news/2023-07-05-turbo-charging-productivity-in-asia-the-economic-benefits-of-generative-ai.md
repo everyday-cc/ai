@@ -65,20 +65,6 @@ related:
         width: 1080
         height: 770
         isCached: true
-  - title: "Rapid growth of artificial intelligence could transform 2024 election"
-    excerpt: "Artificial intelligence has the potential to be game-changing for political ads - but is it ethical? Should it be regulated? Washington is struggling to answer these questions."
-    publishedDateTime: 2023-07-03T22:00:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/rapid-growth-of-artificial-intelligence-could-transform-2024-election/video_5a5c96b4-8b7a-503a-8f64-c2c335de6c4b.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/a5/5a5c96b4-8b7a-503a-8f64-c2c335de6c4b/64a336a3c44a0.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3UHhzNUS3716TtXYYAp1GsQUiMku4eaNQEwet9aw+eeL0fgXqNE5YFirNkmQH50t2UGi39TvVPM0rOlkF4cqWVdr+RjWJOoiq9FGyIIHyjDxUEdqwnU/aHBgc7G+PnaRANlcrQSJJyTHgnGJUW53hUUSp6HAHtvuGPVZzZZyzZkKB5oFfOZolLWDvR67dU/pJtut2M5SavsOV+L2XNVRBgGPMAoGABmYF2vY0cg/J7hRocbnlxC6QvcjILytKQcqIhJGejJQ3bw1Kw0hXKDUxc1L6Yt0QCCjPRP90Wa88PkLfvzjDIDLbUggTimcHqGxb8TgJcG7cBpbWsyEO9DvU+P9m6vcMiLcInkZ7vQoMQCTXqZeDzD+A1XsysZ8xQNod9d28FCA7AK/Tj0iA+wvLv8NBGYV69tivotH6g7G077qEU7kzCIlPooZOcTtqvSMKXN6A4jJRDWTD4kqysU/3TM21rvZ1fQP2/DS2mohS1tkmAzf/8f+shdIF61YYeguaRuvNYfsViMes+W6hT/nqQ==;wUgL3feahN2M387dOHmwKw=="
 ---

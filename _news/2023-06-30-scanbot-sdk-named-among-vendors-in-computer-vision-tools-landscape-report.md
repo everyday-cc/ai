@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Scanbot SDK Named Among Vendors in Computer Vision Tools Landscape Report"
-excerpt: "Scanbot SDK has been included by research and advisory firm Forrester among vendors of computer vision technology in their recently released report \"The Computer Vision Tools Landscape, Q2 2023 - Forrester's Overview Of 38 Vendors\"."
-publishedDateTime: 2023-06-30T12:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153"
-webUrl: "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153"
+excerpt: "The Scanbot Barcode Scanner SDK turns any mobile device into a reliable, easy-to-use barcode scanner, while the Document Scanner SDK enables enterprises to transform physical docu"
+publishedDateTime: 2023-06-30T06:23:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/30/9842182.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/30/9842182.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -25,6 +21,6 @@ images:
     height: 267
     isCached: true
 
-secured: "ovinYJMgrhmSFK/6eq2GICE6+ICLbaCNpetPpZR4y6U90D2p45JKCjMfCxu5pNir8kUlIu72kTw9aP5sIM+Hms1n6zt3+8+cjnzwa+l+kRdXUWfmVy4r23jvQlOG0qCkXtMfBraujFtEf2IDbgEQ8WbaAX7XSkO6Rb1uDNyrdj9GOXOPbDP4doNmAS2DbYSVR+MNbO8xDHCawprsir08mzdlsMOdj3QGP5D0soTVwYLmcUuW0umb3h3MV652R7bsFG/BsBfOeG/oIoH3UciKy5rvbD2VLOy5s0T0QCHxgxHEk2T1nwVXj6eGpzHVseA/DyLT1VevQvMuU2DymOSMyCYMzvGJT2+bAwrKnK/e6K0=;yNPHCjjYnuahueDAWJF0zA=="
+secured: "mOOHdzvzBXrgeGEgfSkzYyHNvXG6MoEAbzltqHHdFjQPWwKvuil8ahCzNuDpdC2xMAgiE9UqK6L3oHm6vD4R0+T+YxwNvBZCBqcTl3ZzVrCFCyEifHFh1dccxqdbp+NhuzRTWdcDvADtveNtw0hk7rUKOAbPUMk31Wa55XdKMnxG4V1ig7urycCBvFQ9xtlOfjVavZh+os1liwI1TLQfmKji2GmVw3fSaqbpMSWxxXV8JaYrdWyv9z+TcgIUxK1BiS6UUNfLhkv0Rvt8KLaBdri8I/cXiLwgfMo9LtmiELjCnIj6qa2fyNRnFsbtkeY456i3x1kYoMRDmJoyUeHZAmjbziYyl5pJUtAEX5v3tkE=;RTcQmrUkDuQo61htj3J72A=="
 ---
 

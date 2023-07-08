@@ -27,10 +27,10 @@ images:
 related:
   - title: "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI"
     excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots."
-    publishedDateTime: 2023-07-06T18:40:00Z
-    webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
-    ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
+    publishedDateTime: 2023-07-06T18:04:00Z
+    webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
+    ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
     type: article
     provider:
       name: Barron's
@@ -40,22 +40,6 @@ related:
       - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
         width: 1320
         height: 742
-        isCached: true
-  - title: "AI Robots At UN Reckon They Could Run The World Better"
-    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
-    publishedDateTime: 2023-07-07T17:39:00Z
-    webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
-    ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9103350529626727026872206727563737693825---1.jpg"
-        width: 768
-        height: 506
         isCached: true
   - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
     excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
@@ -90,6 +74,15 @@ related:
     provider:
       name: cybernews
       domain: cybernews.com
+    quality: 34
+  - title: "AI robots at UN reckon they could run the world better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-08T12:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-robots-at-un-reckon-they-could-run-the-world-better/articleshow/101598689.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 34
 
 secured: "P7C0eexOuZPhqOYImU41Lwcfo/q8V/BjC6v5T5rYc2HLd2jLOuxGV0acL/haU71pPJnzJMckBy3lRayDFGOpmT97ajOb9qK295ZBsyltaRmB593NXKq4yDA1B2NqhyW1J5ETn7zyq2NUao1U7mnpDTgK4iR2jnKj0ajgYpUQkE5zO/TZaQNqi+FBCs08Xds+8mJlwcdQIUeOJTsaKQrnE00l742+nIYynMYaJmU/nXrjEd9J/Bhc3KSwtgSeWnnuG4tsfQPxro2c19FkledkglEYvSJy6Xs+mj5WydXnKzjgiBa7BP4svKPTLcVBaJRb1TbjAH/z7kV1eqNFiJb+jlgAhmUM4tv5KSAjv03EtvA=;xT1Z6aKyrGQKFHA7f1+DOw=="

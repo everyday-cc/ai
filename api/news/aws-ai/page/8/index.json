@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-14-amazon-takes-the-lead-in-generative-ai-with-two-new-large-language-models.md",
+      "title": "Amazon takes the lead in generative AI with two new large language models",
+      "excerpt": "In a recent blog post, Amazon Web Services (AWS) has announced its entry into the rapidly growing generative AI industry. The company has introduced Amazon Bedrock, a new service that allows AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.merca20.com/amazon-aws-artificial-intelligence-models/",
+      "originalUrl": "https://www.merca20.com/amazon-aws-artificial-intelligence-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "promocionar",
+        "domain": "merca20.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-amazons-aws-business-faces-short-term-headwinds-with-companies-cautious-on-spending.md",
+      "title": "Amazon’s AWS business faces short-term headwinds with companies cautious on spending",
+      "excerpt": "Amazon CEO Andy Jassy outlines progress in transforming fulfillment centers to a regional network, continued ambitions in grocery and hopes for",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "originalUrl": "https://www.marketwatch.com/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-762849/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "publishedDateTime": "2023-04-14T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-the-best-movies-on-amazon-prime-video-april-2023.md",
       "title": "The best movies on Amazon Prime Video (April 2023)",
       "excerpt": "If Amazon Prime Video ever had to rely solely on its original films, it might not be among the streaming giants. Amazon’s MGM library is robust, but Prime Video’s selections can range from ...",
@@ -1205,74 +1291,6 @@
       "provider": {
         "name": "Fintech Singapore",
         "domain": "fintechnews.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-leaning-into-ai-keynote-speakers.md",
-      "title": "Leaning into AI: Keynote speakers",
-      "excerpt": "As AI becomes embedded in our everyday lives, organisations are harnessing its power and affordability to revolutionise the way we do business. Across two Leaning into AI seminars, SmartCompany and AWS partnered to explore the rise of AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartcompany.com.au/partner-content/articles/leaning-into-ai-keynote-speakers/",
-      "originalUrl": "https://www.smartcompany.com.au/partner-content/articles/leaning-into-ai-keynote-speakers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartCompany",
-        "domain": "smartcompany.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-amazon-signs-ppas-with-iberdrola.md",
-      "title": "Amazon signs PPAs with Iberdrola",
-      "excerpt": "Amazon has signed a number of Power Purchase Agreements (PPAs) with energy company Iberdrola. Iberdrola announced last week that it and Amazon.com Inc. have signed PPAs for new wind and solar capacity in Europe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/amazon-signs-ppas-with-iberdrola/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/amazon-signs-ppas-with-iberdrola/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
         "images": null,
         "publishers": null,
         "authors": null

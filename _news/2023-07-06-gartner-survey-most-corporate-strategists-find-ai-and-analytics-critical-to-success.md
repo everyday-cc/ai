@@ -43,20 +43,6 @@ related:
         width: 650
         height: 363
         isCached: true
-  - title: "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform"
-    excerpt: "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,"
-    publishedDateTime: 2023-07-05T15:48:00Z
-    webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 64
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4444/Unsplash_ThisisEngineering-RAEng_web.jpg"
-        width: 975
-        height: 548
-        isCached: true
   - title: "infinitii ai enters Quebec's smart infrastructure market with machine learning analytics sales with two major customers"
     excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\") (CSE: IAI) (FSE: 7C5) (OTC: CDTAF) is proud to announce its entry into Quebec's smart infrastructure market by contracting with two new large-scale customers ­– the Montreal Metropolitan Community (\"CMM\") and the City of Montreal."
     publishedDateTime: 2023-07-06T12:59:00Z
@@ -84,6 +70,15 @@ related:
       name: RYT9
       domain: ryt9.com
     quality: 7
+  - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
+    excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
+    publishedDateTime: 2023-07-08T05:45:00Z
+    webUrl: "https://www.inferse.com/598680/top-10-alternatives-to-gpt-3-analytics-india-magazine/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 4
 
 secured: "qH1sA0OP/fxta92t+aH9Ed66qECqCrYqeFT3NGvoLizL+6ds8s4Ecth/2T8UX4UoHy028fm7Ub4SDdDcYT6ZUD0Hc1FKjZY2UCyB9Yen9Jet4MZlv+hEsOOfr2dZe1y0n7oPAOP1sqZF49jD6VkrNOV/qnhG+Kr7Evn6TokwPM7Dhj5biUN4rT1+T5kXUBhEknJfiXBf67W7JVtE7vUOj67lMOBuDPTMhwd1hfg2efmbREYtoXgP/SPsOWw9N2BJrctMkdJzGq6bDnxFIijA0XFaOWDRiB/yIvk/mxeFvXiIIJubIxpvP0kb4o6Wf+COAtCko4WROzqEjMxZl/MESbZduR01/r08bUA0O4v85K7ml1WA4acZlzXUqrwSUd5w9FJp3EwayvnR+4lmuydfM1dlVR7lPihBfYiYF46ME8uAd9dMn5ocOIjjBhcvC5wwJ/+D8WK3JtWdWvegK4EAslySB2GQtJv+nEeDr3YC4Rs32JPnDsfNrcqXrUv/n15ikwkBPOzHOAO0f/tbbAB4dQ==;Wnhq60S0MQ9sLBasGd/l+g=="
 ---

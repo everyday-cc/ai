@@ -71,6 +71,29 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "AI robots say they can run the world better than humans but won't steal jobs"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-08T12:39:00Z
+    webUrl: "https://interestingengineering.com/science/ai-robots-say-they-can-run-the-world-better-than-humans"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/08/image/png/p4wBehFwZ5eUshfj5u7xc3d1x3tS9fc2ym1oyPn4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Robots say they have no plans to steal jobs or rebel against humans"
+    excerpt: "nine of the most advanced humanoid robots have told an artificial intelligence summit in Geneva. In what was described as “the world’s first human-robot press conference”, one robot, Sophia, said humanoid robots had the potential to lead with “a ..."
+    publishedDateTime: 2023-07-08T13:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/08/robots-say-no-plans-steal-jobs-rebel-against-humans"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 34
   - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
     excerpt: "Humanoid robots say they could lead more efficiently than humans, but wouldn’t take anyone’s job away and had no intention of rebelling against their creators."
     publishedDateTime: 2023-07-07T13:15:00Z
@@ -90,6 +113,6 @@ related:
       domain: abc.net.au
     quality: 23
 
-secured: "km5I1gl5qArwVzSmyu3oitqkLELIf4PTFRTnU43IHYQIMafpfgYq8k7xdp7m4ZDRJ8qIBxxg6vEZoJ8IJlShRzs7vtR/ku2yQI0nqF65qmcKxheOjBPKaBMPDI+IZWqr2ddZCHo3kS66sZ1Pp4QeQDn6regmZ4Pkwsx/6P2Tv7D2nhwK2SCA84OrAhW81NedH49d1RNidkBJPW59cQngE8NjPcx7LT3woco+OZpJB6FUjyXr1X8Jbb738xijjOdmTf8t1sKUa5lelYEW7PqCq6YhN5iilS84Zvt+6jBzuJ5+nME0JrDRvE9kJ4wf04J4Smdu8BxB0LDIel0pV2HiPIuQBGOKWibWie1nZpyioVU=;u5b/FEGMJNlSkW0R235DUg=="
+secured: "L33Vij5j2vVJW6nVmeAqiAjY87dIztisfRt6JCKUutByOYymxYMDPZXQWuW4a9iR/Ynf02iF3rBPsRTm3xhiB+3itBBtH/ktS3l5Tiw4u2KR3Rs7g19nbxFXe66bYvN1iaxQXTAsDnb3XFsInhgfnSj8RXhj2i7fTKCUUKUq9/nNdaKEGP7ql22ra9VNBWplkZnN6ywq0GLt1G4LOx7xY7g1zwTmGIrPWgkiGWqoAAlfXLtKx5j582k2qfSDGBmGTnPcIC2llXSnMvSbeXp6+LIlHhVLtXDtq93ai1VKqxyFDPNNQ8etX1jDeOTTSozVrECiWSk95k/cWWCgEc7FsOZy16juhbh+NsEvgyZDIuuAtBcHds9Wx2LQ5MP3zLu6OU/9pm2Iyx+QqSfRZI/17I5mtDYfNQICc7ppnJNJiUijXsAF3zv0b3SPgY6tsFmo2b1ATniskkdyf7SMtrU452DPJ4LeHQJuj+8VyQ66Fpd5EyCXHn61dPWVQ/jgQbHwqwq6A7dZ3670qLpAChcWVA==;v/pw850sBSlSYNxGTZKN5g=="
 ---
 

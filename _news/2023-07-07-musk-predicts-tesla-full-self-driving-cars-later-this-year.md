@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla is valuing Full Self-Driving high only when it’s convenient"
-    excerpt: "Tesla is only valuing its Full Self-Driving package high when it’s convenient for the company. When it’s not, like"
-    publishedDateTime: 2023-07-03T19:58:00Z
-    webUrl: "https://electrek.co/2023/07/03/tesla-valuing-full-self-driving-high-when-convenient/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 69
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Musk Predicts Tesla Self-driving Cars 'Later This Year'"
     excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
     publishedDateTime: 2023-07-06T07:34:00Z

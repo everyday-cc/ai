@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-    excerpt: "Robots are presented during a press conference with a panel of AI-enabled humanoid social robots as part of International Telecommunication Union (ITU) 'AI for Good' global summit in Geneva, Switzerland,"
-    publishedDateTime: 2023-07-08T11:51:00Z
-    webUrl: "https://www.altoonamirror.com/wire/?category=760&ID=297029"
+    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
+    publishedDateTime: 2023-07-08T15:09:00Z
+    webUrl: "https://www.mauinews.com/wire/?category=5187&ID=297029"
     type: article
     provider:
-      name: Altoona Mirror
-      domain: altoonamirror.com
+      name: The Maui News
+      domain: mauinews.com
     quality: 31
     images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg"
+      - url: "https://s3.amazonaws.com/ogden_images/www.mauinews.com/images/2018/02/20104449/fb.jpg"
         width: 1200
         height: 630
         isCached: true

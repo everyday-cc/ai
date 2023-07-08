@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Robotics - South Korea"
+    excerpt: "Value in the AI Robotics market is projected to reach US$301.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.32%, resulting in a market volume of US$768.30m by ..."
+    publishedDateTime: 2023-07-07T16:29:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/south-korea"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition - South Korea"
     excerpt: "Value in the Facial Recognition market is projected to reach US$91.20m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.10%, resulting in a market volume of US$215 ..."
     publishedDateTime: 2023-07-07T16:29:00Z

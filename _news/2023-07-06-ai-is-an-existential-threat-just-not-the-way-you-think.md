@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true"
 type: article
 quality: 59
-heat: 80
+heat: 81
 published: true
 
 provider:

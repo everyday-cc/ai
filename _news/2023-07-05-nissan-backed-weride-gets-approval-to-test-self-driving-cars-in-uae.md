@@ -53,15 +53,6 @@ related:
         width: 602
         height: 334
         isCached: true
-  - title: "Uae Approves First Licence For Self-Driving Cars"
-    excerpt: "The UAE has approved the first national licence of its kind for self-driving vehicles to run on the country's roads. His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Prime Minister of the UAE and Ruler of Dubai,"
-    publishedDateTime: 2023-07-03T19:14:00Z
-    webUrl: "https://menafn.com/1106548813/Uae-Approves-First-Licence-For-Self-Driving-Cars"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
   - title: "WeRide receives autonomous driving license from UAE government"
     excerpt: "Photo provided to] WeRide, a Chinese autonomous driving company, received its first national license for self-driving vehicles from the United Arab Emirates gov"
     publishedDateTime: 2023-07-04T12:52:00Z

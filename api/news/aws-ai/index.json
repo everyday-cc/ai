@@ -537,8 +537,7 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
@@ -635,6 +634,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-6-ways-you-didnt-know-ai-can-help-with-your-side-gig.md",
+      "title": "6 Ways You Didn’t Know AI Can Help With Your Side Gig",
+      "excerpt": "“Moreover, Rekognition by Amazon Web Services is yet another helpful AI tool. I can now offer services like content moderation, object recognition and facial analysis thanks to Rekognition’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/6-ways-didn-t-know-190004758.html",
+      "originalUrl": "https://www.aol.com/6-ways-didn-t-know-190004758.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/HTRB65PBcZTgoXWrYFVJlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/830fa60e94844d97ed0eeb4ac34f6f41",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1401,49 +1443,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-aws-invests-100-million-in-new-generative-ai-innovation-center.md",
-      "title": "AWS invests $100 million in new Generative AI Innovation Center",
-      "excerpt": "The new center, which will offer free workshops and training, is expected to help enterprises accelerate the development of generative AI-based applications while promoting AWS technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/642829/aws-invests-100-million-in-new-generative-ai-innovation-center.html",
-      "originalUrl": "https://www.cio.com/article/642829/aws-invests-100-million-in-new-generative-ai-innovation-center.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2023/06/shutterstock_1682713585-5.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/642829/aws-invests-100-million-in-new-generative-ai-innovation-center.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/642829/aws-invests-100-million-in-new-generative-ai-innovation-center.html/amp/",
-      "publishedDateTime": "2023-06-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

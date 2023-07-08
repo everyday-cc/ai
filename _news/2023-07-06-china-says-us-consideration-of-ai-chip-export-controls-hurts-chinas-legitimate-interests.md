@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/china-tech-usa/china-says-us-consi
 webUrl: "https://www.reuters.com/article/china-tech-usa/china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests-idUSB9N38402E"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2022/08/2022-08-16-image-16.jpg"
         width: 2560
         height: 1709
-        isCached: true
-  - title: "China Restricts Exports Of Semiconductor Metals In Latest Front Escalation Of Battle With US Over AI Tech"
-    excerpt: "The export restrictions on gallium and germanium are seen as a part of Beijing’s strategy to gain a stronger position in the escalating tech war, as these metals are fundamental in various high-tech industries."
-    publishedDateTime: 2023-07-03T20:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/china-restricts-exports-of-semiconductor-metals-in-latest-front-escalation-of-battle-with-us-over-ai-tech-1032424267"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Technological,Process,Of,Soldering,And,Assembly,Chip,Components,On,Pcb.jpeg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "U.S. Weighs Human Rights As It Looks To Expand China Chip Restrictions"
     excerpt: "Since the controls affect other industries that rely on the restricted chips—most notably China’s AI industry—Beijing’s claims that the moves are an effort to undercut China’s technological and economic development have significant supporting ..."
