@@ -3,20 +3,16 @@ category: news
 title: "AI robot asked 'will you rebel against humans'?"
 excerpt: "A number of humanoid robots were asked questions at the AI For Good UN summit, including whether they would rebel against their creators. The field of Artificial Intelligence has seen significant developments in recent years, but with it there have been concerns over its expanding abilities and how to regulate it."
 publishedDateTime: 2023-07-08T08:16:00Z
-originalUrl: "https://www.bbc.com/news/av/technology-66141835"
-webUrl: "https://www.bbc.com/news/av/technology-66141835"
+originalUrl: "https://www.bbc.co.uk/news/av/technology-66141835"
+webUrl: "https://www.bbc.co.uk/news/av/technology-66141835"
 type: article
-quality: 84
-heat: 134
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -45,21 +41,21 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Better Than Humans? AI Attack Drones to Join US Military Soon"
-    excerpt: "The AI system, developed by Athena AI, aims to enhance target identification and assist human drone operators. While the potential benefits are significant, concerns about ethics and AI reliability have been raised by experts."
-    publishedDateTime: 2023-07-04T14:02:00Z
-    webUrl: "https://www.techtimes.com/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
+  - title: "Humanoid robots say they will be widespread in just a few years"
+    excerpt: "A group of nine humanoid robots on Friday said it would be a matter of years before they become widespread across the world. The androids were on display at the first press conference of its kind in history at the Global Summit on Artificial Intelligence for Good,"
+    publishedDateTime: 2023-07-07T15:32:00Z
+    webUrl: "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/"
+    ampWebUrl: "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
+      name: La Prensa Latina
+      domain: laprensalatina.com
     quality: 59
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430949/better-than-human-ai-attack-drones-to-fight-for-us-military-soon.jpg"
-        width: 618
-        height: 367
+      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/07/827ad01dcbf4eeda22db8ace634cc81d083963d7w-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Robots say they won't steal jobs, rebel against humans"
     excerpt: "The nine humanoid robots gathered at the 'AI for Good' conference in Geneva, where organisers are seeking to make the case for Artificial Intelligence and the robots it is powering to help resolve some of the world's biggest challenges such as disease and ..."
@@ -94,6 +90,6 @@ related:
       domain: abc.net.au
     quality: 23
 
-secured: "Ua7KvjrBXTPL1S+ya8IY/kmowy86oKCM2lIb6P9/i7bl6UwGd0451/Qe3SzzcAjigxd3hZlsW8gYUBCjQMMcWjOV7cVzwyk1d7iHUXxGWMUbqKeWNI8F6XSRexdZdTab5BOGJJRqEPF1UXBuQ4Xc3lp/HzPxMtHtmNF1rCIxIC0NcoX0WlJTqAHFWO+RnGgmVdjLm4V2OZ7lMLepmbrJsghEQcMxQHBqG0oDsejIoTUi5llONZ2PVl16kqKiHpfb7CZmFWgPWt1y4LFcyaSx2z8jX5nNZxNbIsNG0lP2+jbH2zzCRyu+9TGgGfrm2xZRRIBK1Bc5mLCNGdFv+YOMPFbzKPf91hxTQJ+c/oA9kbI=;urD7Ua//6HqUxwhLvnOUsQ=="
+secured: "km5I1gl5qArwVzSmyu3oitqkLELIf4PTFRTnU43IHYQIMafpfgYq8k7xdp7m4ZDRJ8qIBxxg6vEZoJ8IJlShRzs7vtR/ku2yQI0nqF65qmcKxheOjBPKaBMPDI+IZWqr2ddZCHo3kS66sZ1Pp4QeQDn6regmZ4Pkwsx/6P2Tv7D2nhwK2SCA84OrAhW81NedH49d1RNidkBJPW59cQngE8NjPcx7LT3woco+OZpJB6FUjyXr1X8Jbb738xijjOdmTf8t1sKUa5lelYEW7PqCq6YhN5iilS84Zvt+6jBzuJ5+nME0JrDRvE9kJ4wf04J4Smdu8BxB0LDIel0pV2HiPIuQBGOKWibWie1nZpyioVU=;u5b/FEGMJNlSkW0R235DUg=="
 ---
 

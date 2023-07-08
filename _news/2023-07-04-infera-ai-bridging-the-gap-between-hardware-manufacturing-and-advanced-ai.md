@@ -127,6 +127,20 @@ related:
         width: 5500
         height: 3667
         isCached: true
+  - title: "In the age of AI, tech's little guys need big friends"
+    excerpt: "The tech industry loves its garage startup stories. From Hewlett-Packard to Google, the tales of bootstrapped companies that have turned into giants have inspired generations of entrepreneurs."
+    publishedDateTime: 2023-07-08T11:12:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/in-the-age-of-ai-techs-little-guys-need-big-friends/articleshow/101596819.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://img.etimg.com/thumb/msid-101596863,width-1070,height-580,imgsize-31368,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
   - title: "What Does AI Know About Wine, Camping, and Airport Food?"
     excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
     publishedDateTime: 2023-07-07T14:24:00Z

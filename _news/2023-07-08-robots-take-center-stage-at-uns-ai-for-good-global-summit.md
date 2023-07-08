@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/07/08/exp-un-ai-summit-rob
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:

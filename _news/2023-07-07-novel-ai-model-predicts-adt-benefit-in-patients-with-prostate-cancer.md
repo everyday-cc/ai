@@ -19,36 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence better predicts death in pneumonia patients, study suggests"
-    excerpt: "Compared to the established CURB-65 risk-prediction tool, a deep-learning model had a higher specificity at the same sensitivity."
-    publishedDateTime: 2023-07-03T17:48:00Z
-    webUrl: "https://www.cidrap.umn.edu/pneumonia/artificial-intelligence-better-predicts-death-pneumonia-patients-study-suggests"
+  - title: "AI May Predict Benefit with Hormone Therapy Plus Radiotherapy in Prostate Cancer"
+    excerpt: "Artificial intelligence was used to develop a predictive biomarker to identify patients with intermediate-risk prostate cancer who would benefit from adding androgen deprivation therapy to radiotherapy."
+    publishedDateTime: 2023-07-06T13:00:00Z
+    webUrl: "https://www.curetoday.com/view/ai-may-predict-benefit-with-hormone-therapy-plus-radiotherapy-in-prostate-cancer"
     type: article
     provider:
-      name: cidrap.umn
-      domain: umn.edu
-    quality: 31
-    images:
-      - url: "https://www.cidrap.umn.edu/themes/custom/cidrap_theme/images/cidrap-og-image.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Deep-learning model using chest radiograph predicts 30-day mortality for patients with community-acquired pneumonia"
-    excerpt: "Korea: A deep learning-based model using initial chest radiographs predicted 30-day mortality in patients with community-acquired pneumonia (CAP), improving upon the performance of an"
-    publishedDateTime: 2023-07-05T14:30:00Z
-    webUrl: "https://medicaldialogues.in/radiology/news/deep-learning-model-using-chest-radiograph-predicts-30-day-mortality-for-patients-with-community-acquired-pneumonia-113890"
-    ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/deep-learning-model-using-chest-radiograph-predicts-30-day-mortality-for-patients-with-community-acquired-pneumonia-113890"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/deep-learning-model-using-chest-radiograph-predicts-30-day-mortality-for-patients-with-community-acquired-pneumonia-113890"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 22
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2023/07/04/213436-pneumonia-1.jpg"
-        width: 1500
-        height: 900
-        isCached: true
+      name: Cure Today
+      domain: curetoday.com
+    quality: 29
 
 secured: "5WuYk9JugZkfyCjKzeZSUoziWpnsflkjHHgsTPWdm98kNEtiH/g8Qj/3TFJyHJxWY24jRsLPqmuJEWrHCFpyMVOe3LVDHCf2U3p25QWIrcyFX1drKDvAVHQquGM4P6ZcGFMvJYSSvelzw/Y6Sn1k08ZybnydcBuLX2HF76FII8Fm3wYetK8GVacP1k8sc8vGkBwtt125qc1Om0P7swNMig7svb32iCtXW8KI/RGBXyAvFWqSrDdjmN2kS6TcOK3bWnolHoAyFgT63ptMi/vvBwUM7gMdjCaqOjazsLU3TIzfBdY+2VlO2mlBxFdXpOU+jlrGC2Xnac3fkWzShf6W0ZYMyc/g935bjZy1YbeIpY2aCvl9GZkDql+5bWfgCJAlQby0YaX9+/sv0+bpB3j93DfgN6zbv0yGiNSQyDi34xuuOPPv0HG91sO9D0HlOv7s8GGnXAjlQWr6rf84g3jUNAm7uDT+eZzIhyq8fRDqCbkbjTf7VYvn4o5mgU+vfDs1ehIr1oq8QvNZBqbJ4mRLAA==;djrHdpQeJhhFCmtOY7Bluw=="
 ---

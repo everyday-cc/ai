@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 106
-heat: 197
+heat: 206
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
         width: 5500
         height: 3667
+        isCached: true
+  - title: "In the age of AI, tech's little guys need big friends"
+    excerpt: "The tech industry loves its garage startup stories. From Hewlett-Packard to Google, the tales of bootstrapped companies that have turned into giants have inspired generations of entrepreneurs."
+    publishedDateTime: 2023-07-08T11:12:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/in-the-age-of-ai-techs-little-guys-need-big-friends/articleshow/101596819.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://img.etimg.com/thumb/msid-101596863,width-1070,height-580,imgsize-31368,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
         isCached: true
   - title: "Infera AI: Bridging the gap between hardware manufacturing and advanced AI"
     excerpt: "Canada-based startup Infera AI seeks to bridge the gap between hardware manufacturing and cutting-edge artificial intelligence (AI) technologies. With their bespoke solutions and subject-matter expertise,"

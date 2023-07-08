@@ -1,22 +1,28 @@
 ---
 category: news
 title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an"
-publishedDateTime: 2023-07-07T19:34:00Z
-originalUrl: "https://www.mcall.com/2023/07/07/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/"
-webUrl: "https://www.mcall.com/2023/07/07/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/"
+excerpt: "Robots are presented during a press conference with a panel of AI-enabled humanoid social robots as part of International Telecommunication Union (ITU) 'AI for Good' global summit in Geneva, Switzerland,"
+publishedDateTime: 2023-07-08T11:51:00Z
+originalUrl: "https://www.altoonamirror.com/wire/?category=760&ID=297029"
+webUrl: "https://www.altoonamirror.com/wire/?category=760&ID=297029"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Morning Call PA
-  domain: mcall.com
+  name: Altoona Mirror
+  domain: altoonamirror.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Human-looking robots take questions at a Geneva news conference"
@@ -36,6 +42,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ZUd0rS0HgLA/04Arf2HwqOaNSKAqv8Tvo/8G+bWu8K00cwpCqoJlXlsVuCVnQl5NevCX86fT2koeWqrZuBYMAaZ2g9yNGiP9QEDjGi69/SRSr1T4XHIO9s1YTy6GL2aKgGEZsE0hbUZhln1bHc2IimlvYyqLN+wRPKj1u/RvFfi6pxy0wOrBElxOUmOizkn0B/ywSFxF9g4FRgCfV/dO3zQClT6Mb/uYghGXBwKbkEFcuDC097BOvKXzAXKbTT3eandRRhNRL39NmLqiOSGe7map6kn9aNHkPdYnugz6e1Pu5YCvRjdwYV+OOFqkCWcTUC7mdfma6z3TWbCVgF7tW+vivAP+6uW1vrwP0ZquCd97SjIvoEnF4R8yfGqiF3YHRFZVxWtMX9v9JvMguWxB2KUoK/CPhmRCJC+j2hBKqjGoo8cNc0ZIj/pmsjrB5K1A92Ax34vpKOSLwAu9uHB/LAVwEq9CUkiY8gD8kVQX/V/zmyWsnjlV7vjT2pc4d/xnWf4gLz6tpPrmf0+GTZyCJQ==;VcIMLmNLyBiHsTYSQVYf/Q=="
+secured: "KCrx4KmSnTMUT5O9Qv2A6R3AkoOvfFlz7caDuuDit5sChSBSVwWr3ADTLg9deAaItceULDomqHGRTwSuJC9mjYCXPZW0yxiO1T3tm59wGN+XjL2v+Xs3ZBPxi7R/iq3DajYpx4l2OQhwu/ynAOUElOhCXiOycTyfnjNXc4qD9o5YG0WOOU82MsnoUxpEi+exQ0gEfI2J7vpA5k1nkMIipd7FJ4KmgaeHYDGmWb039fgulAn6eXFjcJTIO4HNyrcm1pcffxdC7pRr4HLCGzsiu1bQ60hmyr5OAi5S5NDsSbOUVKmel6A1h3N6YL1o497piZCY+T2LxS6LbSK8qCD7qP3f1GbW0PZoIvND/QGED78=;LOHCWAdZhDuj6o77IHQ8Gg=="
 ---
 

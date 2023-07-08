@@ -48,20 +48,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Harvard University to encourage AI use in popular Computer Science coding module"
-    excerpt: "Last month, Harvard University announced the introduction of AI to its popular Computer Science Coding module, where students will be able to use a class bot to learn. Computer Science 50 (CS50) professor David J Malan stated in an email:"
-    publishedDateTime: 2023-07-03T17:29:00Z
-    webUrl: "https://interestingengineering.com/culture/harvard-to-use-ai-to-teach-computer-coding-in-class"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/03/image/jpeg/yjnY6lQEB0H6WPb4sJ6XULIFJ6XYO0q7SE98THrE.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "MUFe73LOxwA8dqHFtSjQBqmTRYLpuKa3J1dCU8mnlM0M380jx6z7dj1GuLStgwGuGuGFhPjjn4Walros0ta4xFc5hGjkDXZyonRgG6EFvh4ni4Poyf7atsnfyh1jztyVMGqOyzbRQ8AVdz2Y9PB4qMSIK8W1HCKz+UsoPnugSyWFBG+ZofG5KptDjUI2sheGLiRBXE9lyQZ813m8j6DG2T+mSXqDmO1ee/hg4OPg08TgFTPOVaqA39CpplcC7XkbBNNbE+4UPTkuCdyrEye984FyfwLgMrBKIkEe5+1mzhVrwXcD6zpe1/JY3L70N6lotGvlFdI/VA+xj6uQgXXEvAk0oD3WLTbhDXEZ6fl42Gs=;L40kbMwJjDbC0CHnp0Nnyg=="
 ---

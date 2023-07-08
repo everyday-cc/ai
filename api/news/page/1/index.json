@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-08-im-a-gen-zer-who-uses-ai-to-improve-my-work-as-a-content-creator-and-beat-writers-block.md",
+      "title": "I'm a Gen Zer who uses AI to improve my work as a content creator and beat writer's block",
+      "excerpt": "Morgan Young is a content creator who uses AI to build her brand. She says generative AI helps her brainstorm and create catchy content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7",
+      "originalUrl": "https://www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63f5f0d55ca81e001855ab7f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7?amp",
+      "publishedDateTime": "2023-07-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-robots-take-center-stage-at-uns-ai-for-good-global-summit.md",
       "title": "Robots take center stage at U.N.’s AI for Good Global Summit",
       "excerpt": "CNN’s Kim Brunhuber speaks with one of the creators of a robot featured at the U.N.’s AI for Good Global Summit in Geneva, Switzerland.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.cnn.com/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -53,21 +104,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-08-ai-robot-asked-will-you-rebel-against-humans.md",
-      "title": "AI robot asked 'will you rebel against humans'?",
-      "excerpt": "A number of humanoid robots were asked questions at the AI For Good UN summit, including whether they would rebel against their creators. The field of Artificial Intelligence has seen significant developments in recent years, but with it there have been concerns over its expanding abilities and how to regulate it.",
+      "path": "_news/2023-07-08-robots-say-they-wont-steal-jobs-rebel-against-humans.md",
+      "title": "Robots say they won't steal jobs, rebel against humans",
+      "excerpt": "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans' jobs or rebel against us.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/technology-66141835",
-      "originalUrl": "https://www.bbc.com/news/av/technology-66141835",
+      "webUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906",
+      "originalUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/33C4/production/_130325231_p0fzqs3d.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/08/eaai-robtt.jpg",
+          "width": 750,
+          "height": 393,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,23 +126,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-08T01:16:00-07:00",
+      "ampWebUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp",
+      "publishedDateTime": "2023-07-08T01:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -100,8 +142,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -113,7 +155,7 @@
       "originalUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -207,7 +249,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -259,7 +301,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -312,7 +354,7 @@
       "originalUrl": "https://www.reuters.com/legal/legalindustry/is-ai-coming-our-jobs-does-it-have-warn-us-2023-07-07/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -510,7 +552,7 @@
       "originalUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -846,7 +888,7 @@
       "originalUrl": "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1087,7 +1129,7 @@
       "originalUrl": "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1161,58 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-the-ai-boom-isnt-breaking-the-memory-chip-slumpyet.md",
-      "title": "The AI Boom Isn’t Breaking the Memory-Chip Slump—Yet",
-      "excerpt": "Samsung Electronics forecast a 96% drop in its operating profit for its second quarter—a sign that even the world’s largest maker of memory chips isn’t able to capitalize on the moment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-ai-boom-isnt-breaking-the-memory-chip-slumpyet-e980bfb3",
-      "originalUrl": "https://www.wsj.com/articles/the-ai-boom-isnt-breaking-the-memory-chip-slumpyet-e980bfb3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-811509/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

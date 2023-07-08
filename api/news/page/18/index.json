@@ -2,6 +2,101 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-06-26-metas-new-ai-lets-people-make-chatbots-theyre-using-it-for-sex.md",
+      "title": "Meta’s new AI lets people make chatbots. They’re using it for sex.",
+      "excerpt": "But Allie is fake, an artificial intelligence chatbot created for sexual ... “That’s why we shared LLaMA with members of the research community to help us evaluate, make improvements and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2023/06/26/facebook-chatbot-sex/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2023/06/26/facebook-chatbot-sex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJZARMOWBVE6DGUKXM7TQGMZSI.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-beyond-nvidia-does-ai-processing-gpus.md",
+      "title": "Beyond Nvidia: Does AI processing = GPUs?",
+      "excerpt": "With all the hype excitement around AI recently, we have noticed that most people have taken the default position that all AI workloads will always be",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99197-beyond-nvidia-does-ai-processing-gpus.html",
+      "originalUrl": "https://www.techspot.com/news/99197-beyond-nvidia-does-ai-processing-gpus.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-26-image-13.jpg",
+          "width": 4000,
+          "height": 2623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says.md",
       "title": "AI Will Make 2024 Election A ‘Mess,’ Billionaire Ex-Google Chief Schmidt Says",
       "excerpt": "Eric Schmidt, the former CEO of Google parent Alphabet, warned Monday that generative artificial intelligence will throw a wrench in upcoming elections, questioning social media companies’ ability to rein in false claims on the burgeoning technology amidst a tense political climate.",
@@ -828,8 +923,8 @@
       "title": "Predactica integrates Azure OpenAI capabilities into its SaaS Machine Learning platform",
       "excerpt": "Predactica is thrilled to announce the integration of Azure's OpenAI capabilities into its AI/ML platform, complementing its existing no-code SaaS AI capabilities aimed at citizen data scientists.",
       "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
-      "originalUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
+      "webUrl": "https://www.news-journal.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_e3591700-9c59-5eee-ac8c-94bddea6f8f7.html",
+      "originalUrl": "https://www.news-journal.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_e3591700-9c59-5eee-ac8c-94bddea6f8f7.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -842,8 +937,8 @@
       "publishedDateTime": "2023-06-26T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1082,108 +1177,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape.md",
-      "title": "Future CEO Rishi Mandal: AI Fitness Doesn’t Address “Historical Barrier” Of Staying In Shape",
-      "excerpt": "Rishi Mandal is the co-founder and CEO of Future. Future is a digital fitness coaching app that connects elite performance fitness coaches to individuals virtually",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6498cdf2fa73fa357e8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1409,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/amp/",
-      "publishedDateTime": "2023-06-25T16:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-cheers-can-ai-help-drinkers-buy-a-better-bottle-of-wine.md",
-      "title": "Cheers! Can AI help drinkers buy a better bottle of wine?",
-      "excerpt": "Artificial intelligence (AI) can't taste or smell - at least not yet - but it is now increasingly helping people buy a decent bottle of wine. Blake Hershey says that the inspiration for his AI-powered wine recommendation app Sippd came from his wife.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-65959815",
-      "originalUrl": "https://www.bbc.com/news/business-65959815",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17EE/production/_130162160_gettyimages-186478070.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-65959815.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65959815.amp",
-      "publishedDateTime": "2023-06-25T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

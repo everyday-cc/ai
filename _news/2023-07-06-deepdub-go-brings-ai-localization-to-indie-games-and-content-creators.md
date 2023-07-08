@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/deepdub-go-brings-ai-localization-to
 webUrl: "https://venturebeat.com/games/deepdub-go-brings-ai-localization-to-indie-games-and-content-creators/"
 type: article
 quality: 69
-heat: 79
+heat: 81
 published: true
 
 provider:

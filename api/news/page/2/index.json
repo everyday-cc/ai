@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-07-the-ai-boom-isnt-breaking-the-memory-chip-slumpyet.md",
+      "title": "The AI Boom Isn’t Breaking the Memory-Chip Slump—Yet",
+      "excerpt": "Samsung Electronics forecast a 96% drop in its operating profit for its second quarter—a sign that even the world’s largest maker of memory chips isn’t able to capitalize on the moment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-ai-boom-isnt-breaking-the-memory-chip-slumpyet-e980bfb3",
+      "originalUrl": "https://www.wsj.com/articles/the-ai-boom-isnt-breaking-the-memory-chip-slumpyet-e980bfb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-811509/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-c3ai-inc-stock-falls-thursday-underperforms-market.md",
       "title": "C3.ai Inc. stock falls Thursday, underperforms market",
       "excerpt": "Shares of C3.ai Inc. slid 2.59% to $39.08 Thursday, on what proved to be an all-around grim trading session for the stock market, with the S&P 500",
@@ -203,8 +255,8 @@
       "title": "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI",
       "excerpt": "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
-      "originalUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "webUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
+      "originalUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
       "featuredContent": null,
       "highlight": null,
       "heat": 124,
@@ -221,9 +273,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
-      "publishedDateTime": "2023-07-06T11:04:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
+      "publishedDateTime": "2023-07-06T11:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Barron's",
@@ -817,7 +869,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -920,7 +972,7 @@
       "originalUrl": "https://venturebeat.com/games/deepdub-go-brings-ai-localization-to-indie-games-and-content-creators/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1169,57 +1221,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation.md",
-      "title": "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation",
-      "excerpt": "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a570171d6feda6a59805d4/0x0.jpg?format=jpg&crop=1450,815,x0,y6,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/",
-      "publishedDateTime": "2023-07-06T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

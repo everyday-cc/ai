@@ -90,20 +90,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Ethical and Thoughtful Use of AI in the Legal Industry"
-    excerpt: "This is especially true when it comes to publicly available generative AI tools such as ChatGPT, the large language model chatbot developed by OpenAI that, among other things, can generate text, translate languages, write different kinds of creative ..."
-    publishedDateTime: 2023-07-03T17:43:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/07/03/ethical-and-thoughtful-use-of-ai-in-the-legal-industry/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 56
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/06/Mark-McCreary-767x633-1.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "ChatGPT Successors: Humanoid Robots, AI lawyers, AI-driven science"
     excerpt: "There are several AI technologies waiting in the wings of next-level ChatGPT, including humanoid robots, AI lawyers, and AI-driven science."
     publishedDateTime: 2023-07-04T07:57:00Z
@@ -246,6 +232,6 @@ related:
         height: 228
         isCached: true
 
-secured: "QWdtIGSoaUcczEHoZmpPzgeYRPUo7iqFbKQlnNH+27rMIpzk6l480206esLYP1yX4u23Qgt1+QqZWVZfvTp8S2WPmZppC+9SdEVWIbaPAhh1piJiQml7KapTm6kJIP4rpBIrGnyoXBEN+h9SYNFkEwzi6VYCtw45Sob1PKFL8C1hRqbLHlZc75zSVacMf6qQqNpB0Fq2XR9SFYYVFyzrMQKhcPHXjuRtsCta0hjDh8VRiAsjVZJMPaBofbfnnS5bC7XER0ks8GjxG62jWwtxUdRzoqsCX+SRbqE38yDZMmAFMRrEqmKYjsklJJ0Q+nIsMynY0/V1y9wTo5V+WPK+4eDHz5TvLgY0Y2Gl/TAMy/A=;7iHCgdP37KOS3Cp59bQuiA=="
+secured: "QfhdTK5DT01BpGCoJx7+i/vYfiXUlgfEQL9JFxn9Wj0Am8GDAcXl2/dIQnjXqIhu8byZey8x7Z7X6C5AmO4pNHcwk8xMMSf6Ar7tmJEcS+8DrLpxUNLaBLEIY6COblsTmWF2Z4yedPsZ2cSQNPkFVddr0dNZClGhxoR0GDfw0Xzxxf/yKES9bOJ7RzMYb3QwpHV8bQKMQH/4fFAnBloue5gTgT0dcKcZQS+4YqmOn2zSfPPUrZTaNAlIsZfhwG14wQ/hUQr+M4YxBUTL7dzK4m0QJGv6tzne1JggNFi/BOgdufINagMxaM9mQjVC3Spnn2UFv/GfuqqgLhH2BtdZXGL7sJNDl8XS7RE8o9X7xPVYTVX/DcdGdniatyp6Z2WVVPHRkGC8xHUJWAHDAd0fjrqltwKTZpeJIg3j8f0jwNgLCqWH24EIix1oH2zqG1Khc9g67EY45FfmhZqLiZDD/iH5K2ROb2THakfhBYUXKxsZOeVusL7VpH5rK2slOTKBnAV4+t0AXq/oCH5t3zfEDw==;lSwGUVleCZmkgiSw1Blcdw=="
 ---
 

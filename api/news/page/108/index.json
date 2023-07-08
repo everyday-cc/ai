@@ -2,6 +2,110 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-05-01-is-artificial-intelligence-relevant-to-insurance.md",
+      "title": "Is Artificial Intelligence relevant to Insurance?",
+      "excerpt": "Discover the benefits and challenges the insurance industry is facing with the growing use of artificial intelligence (AI).\nThe post Is Artificial Intelligence relevant to Insurance? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/is-artificial-intelligence-relevant-to-insurance/",
+      "originalUrl": "https://www.ibm.com/blog/is-artificial-intelligence-relevant-to-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/fil04436.l-e1682940146701.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-up-to-60-of-stroke-survivors-may-develop-cognitive-decline-within-a-year.md",
+      "title": "Up to 60% of stroke survivors may develop cognitive decline within a year",
+      "excerpt": "Up to 60% of all stroke survivors develop memory and thinking problems within a year, and one-third go on to develop dementia within five years, according to a new American Stroke Association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230428154745-head-in-hands-stock-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "publishedDateTime": "2023-05-01T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple.md",
       "title": "Baidu Announces Breakthrough In Speech Recognition, Claiming To Top Google And Apple",
       "excerpt": "But he couldn't help revealing better speech recognition as a key area of interest in the age of the smartphone. Today, Baidu, often called China's Google, unveiled the first results of what the ...",
@@ -1091,110 +1195,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-30-new-artificial-intelligence-tool-can-accurately-identify-cancer.md",
-      "title": "New artificial intelligence tool can accurately identify cancer",
-      "excerpt": "Exclusive: Algorithm performs more efficiently and effectively than current methods, according to a study",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai",
-      "originalUrl": "https://www.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/bb3f0c91259b7b84c127dbabbddb38b00f8b3af8/0_564_4800_2880/master/4800.jpg?width=620&quality=85&auto=format&fit=max&s=e7e286299c54a2c6095c14ce34cf1a56",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai",
-      "publishedDateTime": "2023-04-30T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-30-the-big-cybersecurity-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.md",
-      "title": "The big cybersecurity risks when ChatGPT and AI are secretly used by employees",
-      "excerpt": "Generative AI is seeping into the workplace, whether companies approve of its use or not, and cybersecurity caution is needed with these breakthrough chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107206075-1678389148948-gettyimages-1246494152-AFP_337P9F8.jpeg?v=1682863975",
-          "width": 7885,
-          "height": 5257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html",
-      "publishedDateTime": "2023-04-30T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

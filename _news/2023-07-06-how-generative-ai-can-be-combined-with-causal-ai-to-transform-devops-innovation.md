@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ihis Inks Mou With Microsoft To Deepen Collaboration And Trailblaze Generative Ai And Cloud Innovation In Healthcare"
+    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcar"
+    publishedDateTime: 2023-07-08T11:32:00Z
+    webUrl: "https://menafn.com/1106571871/Ihis-Inks-Mou-With-Microsoft-To-Deepen-Collaboration-And-Trailblaze-Generative-Ai-And-Cloud-Innovation-In-Healthcare"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 48
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?522220"
+        width: 375
+        height: 250
+        isCached: true
   - title: "IHiS Inks MOU with Microsoft to Deepen Collaboration and Trailblaze Generative AI and Cloud Innovation in Healthcare"
     excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcare. SINGAPORE – Media OutReach – 7 July 2023 – The Integrated Health Information Systems (IHiS) inked a Memorandum of Understanding (MOU) with Microsoft for deeper collaboration in generative AI and cloud innovation today."
     publishedDateTime: 2023-07-07T02:14:00Z

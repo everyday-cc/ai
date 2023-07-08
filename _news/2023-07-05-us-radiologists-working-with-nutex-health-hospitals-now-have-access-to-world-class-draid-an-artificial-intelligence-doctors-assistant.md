@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "US radiologists working with Nutex Health Hospitals now have access to world-class DrAid™, an artificial intelligence doctor’s assistant"
-    excerpt: "VinBrain’s advanced AI assistant in diagnostic imaging, DrAid™ Chest XR, was successfully integrated into the radiology workflow of Nutex Health Inc. in Houston, Texas, United States through a Software Subscription License Agreement – SaaS (Software as a Service) model."
-    publishedDateTime: 2023-07-03T17:29:00Z
-    webUrl: "https://www.macaubusiness.com/us-radiologists-working-with-nutex-health-hospitals-now-have-access-to-world-class-draid-an-artificial-intelligence-doctors-assistant/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 21
-    images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/07/Photo-1-1-ZMnjBb.jpeg"
-        width: 400
-        height: 263
-        isCached: true
   - title: "Us Radiologists Working With Nutex Health Hospitals Now Have Access To World-Class Draidtm, An Artificial Intelligence Doctor's Assistant"
     excerpt: "HANOI, VIETNAM - media outreach - 4 July 2023 - VinBrain's advanced AI assistant in diagnostic imaging, draidtm Chest XR, was successfully integrate"
     publishedDateTime: 2023-07-04T14:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-c
 webUrl: "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/"
 type: article
 quality: 79
-heat: 80
+heat: 79
 published: true
 
 provider:

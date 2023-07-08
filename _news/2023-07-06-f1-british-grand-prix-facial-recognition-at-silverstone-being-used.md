@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Police using live facial recognition at British Grand Prix"
+    excerpt: "Northamptonshire force says technology adds ‘extra layer of security’ at Silverstone for F1 race"
+    publishedDateTime: 2023-07-08T10:39:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/08/police-live-facial-recognition-british-grand-prix"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/08/police-live-facial-recognition-british-grand-prix"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/08/police-live-facial-recognition-british-grand-prix"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/f28c4811e4a3cd748aea9ec6a35d64938c8d48aa/0_43_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=41922cecdda0905795c8c4468dab053c"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Facial recognition used at stadiums"
     excerpt: "Facial recognition technology is being deployed at major concert venues and sporting events across Australia, with attendees largely left in the dark about what it is being used for. An investigation from consumer advocates Choice found the widespread collection of unique “faceprints” of attendees ( Choice );"
     publishedDateTime: 2023-07-05T21:02:00Z

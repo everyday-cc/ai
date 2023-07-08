@@ -101,20 +101,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Ethical and Thoughtful Use of AI in the Legal Industry"
-    excerpt: "This is especially true when it comes to publicly available generative AI tools such as ChatGPT, the large language model chatbot developed by OpenAI that, among other things, can generate text, translate languages, write different kinds of creative ..."
-    publishedDateTime: 2023-07-03T17:43:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/07/03/ethical-and-thoughtful-use-of-ai-in-the-legal-industry/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 56
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/06/Mark-McCreary-767x633-1.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "A guy tried using ChatGPT to turn $100 into a business making 'as much money as possible.' Here are the first 4 steps the AI chatbot gave him."
     excerpt: "Jackson Greathouse Fall asked ChatGPT in March to turn $100 into \"as much money as possible.\" He ended the project a month later."
     publishedDateTime: 2023-07-04T13:47:00Z

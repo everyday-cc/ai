@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai
 webUrl: "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

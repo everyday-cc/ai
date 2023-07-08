@@ -41,20 +41,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Harvard University to encourage AI use in popular Computer Science coding module"
-    excerpt: "Last month, Harvard University announced the introduction of AI to its popular Computer Science Coding module, where students will be able to use a class bot to learn. Computer Science 50 (CS50) professor David J Malan stated in an email:"
-    publishedDateTime: 2023-07-03T17:29:00Z
-    webUrl: "https://interestingengineering.com/culture/harvard-to-use-ai-to-teach-computer-coding-in-class"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/03/image/jpeg/yjnY6lQEB0H6WPb4sJ6XULIFJ6XYO0q7SE98THrE.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Five Reasons Why You Should be Monitoring These Four Artificial Intelligence Cases"
     excerpt: "The first wave of litigation involving generative AI and/or machine learning is well under way. There are (at least) five reasons why you should be monitoring four significant ongoing cases that involve artificial intelligence-related platforms and issues."
     publishedDateTime: 2023-07-07T13:21:00Z

@@ -3,19 +3,19 @@ category: news
 title: "Predactica integrates Azure OpenAI capabilities into its SaaS Machine Learning platform"
 excerpt: "Predactica is thrilled to announce the integration of Azure's OpenAI capabilities into its AI/ML platform, complementing its existing no-code SaaS AI capabilities aimed at citizen data scientists."
 publishedDateTime: 2023-06-26T08:00:00Z
-originalUrl: "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html"
-webUrl: "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html"
+originalUrl: "https://www.news-journal.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_e3591700-9c59-5eee-ac8c-94bddea6f8f7.html"
+webUrl: "https://www.news-journal.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_e3591700-9c59-5eee-ac8c-94bddea6f8f7.html"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-secured: "BLm4eil0bGZpKyvVCXVM1qfMJuAqQc277cn9sKX2Fm9Q+QSnHQsLkpzzjMTFrAw6Pq20akVIRfSHf5lrgfFzP8Y3xsoJJOYTVujUNHsEkHObpnqWFGcXyDNBdeBgvQ41TXpG/s7xBYpfkXEzEDiqXey/Uc+N/6uY4sLL7nIwT48/zkvBCqv0lw7b74z0obXnT3HPRfSC2+/PxqLGJWzpjn45zmYXRFwXuUIa5QHL4EBsBhSWxXzkqHGO5vswjGfRceexhQjndRZuet1LP9B7VlMJ8yk0H92AQVlSRm99943RgmROuTFUWpdI8SDCGIe2TF8vuhtw8edcxDx7IYP6Bcs1AOGHdP/nGNeitekAuU0=;4xF+9uYDKmx1LYzV3w3N5A=="
+secured: "4kIGuTf4KQ2wIm4MIrMxpyDQy/JRJD/0u6S84wnAnsxzepHqgsEleX2oHklJU+JD0bvSoS5qqFAtb2eTBSJbqiGlpAiiPhFZkyr6gF7ewmcZl8st2kPJTWaWTr4lsP0UGRtLX554ucNjPJCpLBWHEXHVTj+3h8Z9T7Mc1FsYtWsKhe2IkstjFLFpVQjQ5BsHxEnibXlpeUxEUq9xMgiQUZzPXiKR96u/9yr7lfphWLUs3wWezs78tNFdzD7DlxysgoNe4XWwPAOXALK/sYOsUFPajqAP1q2NHxnZuQclcGQm2FBWao0rzbkOJGpnqy8Ny5VEeoQvuzFR0zBKu0CIxSaU7nutbrtb1MHaC0YP1sw=;YftPNLYnW2RGSmH4oWRtCg=="
 ---
 
