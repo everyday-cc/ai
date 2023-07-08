@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-scien
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.newsfilecorp.com/files/9551/172279_ef170d1c24ba7a82_001.jpg"
         width: 550
         height: 308
-        isCached: true
-  - title: "Indigenizing artificial intelligence and programming"
-    excerpt: "The Lakota AI Camp has returned for a second year, from June 11-30, to bring Indigenous teens to the Black Hills for a three-week AI crash course camp while simultaneously"
-    publishedDateTime: 2023-07-03T11:31:00Z
-    webUrl: "https://rapidcityjournal.com/news/indigenizing-artificial-intelligence-and-programming/article_4e761cb4-1209-11ee-8a43-677bcecc3cc0.html"
-    type: article
-    provider:
-      name: Rapid City Journal
-      domain: rapidcityjournal.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/4/e7/4e761cb4-1209-11ee-8a43-677bcecc3cc0/649f40bf75ea7.preview.jpg?crop=1810%2C950%2C0%2C97&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "Z91rVPGBAJ8BYEmhxnH64J+8c+VZ5P4HglbjkrzSWrSQI78Bc7gs6H1R6oX0bMocNJIWibGtQb8gXCh+3WxWQtMlu//TUijxIzDSFRAt4gJoFj6wBGczAfepkSwdr3yBF/5N8uovIclofL3Q2cnCVB4xv4e/fmxc3PYLGVnou93Oh45kUntHEViH5H7Bhr4TQnkjaioJFLrc7xEjU8djC7KiO2VT2jqVQOAjQccK3Zoa5AsdN+Hpj2x7i21FFi5iNfhZhDa3H5RpeZT+b0eYtcLjOQwlzQrb8Hj96hcMffAGKBBR4Pquz8Mq40zpAmS+QAvW5Y++ryIO/9Pn8u6lmeVh0gRnBpkYfi8lpF+KX/k=;t/mRYWyUAm9hZg7+0VtDVQ=="

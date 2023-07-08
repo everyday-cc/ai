@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/this-country-just-gave-green-light-s
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
       name: Al-Monitor
       domain: al-monitor.com
     quality: 4
-  - title: "UAE approves national license for self-driving vehicles in region’s first"
-    excerpt: "Sheikh Mohammed said on Twitter, “We approve the establishment of a Ministry of Investment in the state within the federal government structure and appoint Mohammed Hassan Al Suwaidi as Minister of Investment in the state."
-    publishedDateTime: 2023-07-03T12:26:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/07/03/uae-approves-national-license-for-self-driving-vehicles"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 3
 
 secured: "cvCPiL9R2A2IwWG+vYrjzyWpoYBvSLgBkTJQP1413bw0VBZ6jdUbJL1PM4DqhVjN/0X4aMJrGASj9H8ER8KRCdmKHnTFcQcQuih3S0RsOW0R15o0fxtD3Ge4cmgGjbYjcHusv6O1AOtCoWu4Ygp197uIbw/rnBp/wZQR7AQlbE/BVP01YaDGZmq67Z9t9/c8eB643LwG/Ho6wu8O5wp4AMagLwepo3VuJv+TpBIFRrXGJ8u/E+A6Y4yqorzzaOhOcbInu3oV4MOLl89iYQg7SVGwj1wTlF2/ggWEJEY9W61H/d4CS1jkw04Z42jj01PhRww/qZYRBuAkGVzyRinud0qPwuiZOJYE2XVfzsfcz+M9TBASROfIzSmNf3R6fhrkaStaYmyPBM9RMDq03SGfgfDlZp6ShugE1WMRbVfpfByx5bv9sD/Dq+EnmNvCdhUaiYzQgCucrLe1MknWmF582aTtmCBwAgRkMPq5xAIGGm9tNidqiHAWAcIebkZj35JvhsKQKVXkuLq8f81Qqfgv0w==;cUcf60KpvALMI+cQR5922Q=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-08-robots-say-they-wont-steal-jobs-rebel-against-humans.md",
+      "title": "Robots say they won't steal jobs, rebel against humans",
+      "excerpt": "Many of the robots have recently been upgraded with the latest versions of generative AI and surprised even their inventors with the sophistication of their responses to questions.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/articleshow/101587768.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/articleshow/101587768.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91584,msid-101588160/robots.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/amp_articleshow/101587768.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/amp_articleshow/101587768.cms",
+      "publishedDateTime": "2023-07-07T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-human-looking-robots-take-questions-at-a-geneva-news-conference.md",
       "title": "Human-looking robots take questions at a Geneva news conference",
       "excerpt": "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters.",
@@ -45,35 +88,26 @@
       ]
     },
     {
-      "path": "_news/2023-07-07-humanoid-robots-say-they-will-be-widespread-in-just-a-few-years.md",
-      "title": "Humanoid robots say they will be widespread in just a few years",
-      "excerpt": "A group of nine humanoid robots on Friday said it would be a matter of years before they become widespread across the world. The androids were on display at the first press conference of its kind in history at the Global Summit on Artificial Intelligence for Good,",
+      "path": "_news/2023-07-07-3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai.md",
+      "title": "3 Red-Hot Nasdaq Stocks That Are Leading Industrial Automation, Robotics, and AI",
+      "excerpt": "Here's why PTC, Cognex, and Luminar are three red-hot Nasdaq stocks worth looking at today. Image source: . Invest in the industrial software that powers automation, A",
       "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/",
-      "originalUrl": "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/",
+      "webUrl": "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai",
+      "originalUrl": "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 94,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.laprensalatina.com/wp-content/uploads/2023/07/827ad01dcbf4eeda22db8ace634cc81d083963d7w-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/",
-      "publishedDateTime": "2023-07-07T08:32:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T03:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -88,26 +122,35 @@
       ]
     },
     {
-      "path": "_news/2023-07-07-3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai.md",
-      "title": "3 Red-Hot Nasdaq Stocks That Are Leading Industrial Automation, Robotics, and AI",
-      "excerpt": "Here's why PTC, Cognex, and Luminar are three red-hot Nasdaq stocks worth looking at today. Image source: . Invest in the industrial software that powers automation, A",
+      "path": "_news/2023-07-07-ai-service-robotics-netherlands.md",
+      "title": "AI Service Robotics - Netherlands",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$110.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.68%, resulting in a market volume of US$271 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai",
-      "originalUrl": "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai",
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/netherlands",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/netherlands",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T03:15:00-07:00",
+      "publishedDateTime": "2023-07-06T23:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Statista",
+        "domain": "statista.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -316,8 +359,8 @@
       "title": "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI",
       "excerpt": "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
-      "originalUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
+      "webUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "originalUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
       "featuredContent": null,
       "highlight": null,
       "heat": 124,
@@ -334,9 +377,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2",
-      "publishedDateTime": "2023-07-06T11:40:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "publishedDateTime": "2023-07-06T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Barron's",
@@ -556,6 +599,49 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-how-ai-is-transforming-waste-management-recycling.md",
+      "title": "How AI Is Transforming Waste Management, Recycling",
+      "excerpt": "While some view AI as a threat, environmental advocates see it as a powerful tool for resolving waste problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "originalUrl": "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "publishedDateTime": "2023-07-03T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1206,92 +1292,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-service-robotics-d-a-ch.md",
-      "title": "AI Service Robotics - D-A-CH",
-      "excerpt": "Value in the AI Service Robotics market is projected to reach US$0.42bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.46%, resulting in a market volume of US$1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/d-a-ch",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/d-a-ch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-service-robotics-africa.md",
-      "title": "AI Service Robotics - Africa",
-      "excerpt": "Value in the AI Service Robotics market is projected to reach US$153.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.41%, resulting in a market volume of US$417 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/africa",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
         "images": null,
         "publishers": null,
         "authors": null

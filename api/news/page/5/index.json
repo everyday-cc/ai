@@ -2,21 +2,21 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-07-04-russia-illegally-used-facial-recognition-to-arrest-protestor-human-rights-court-rules.md",
-      "title": "Russia illegally used facial recognition to arrest protestor, human rights court rules",
-      "excerpt": "The use of facial recognition in this case was ‘incompatible with the ideals and values of a democratic society governed by the rule of law,’ court rules.",
+      "path": "_news/2023-07-04-better-than-humans-ai-attack-drones-to-join-us-military-soon.md",
+      "title": "Better Than Humans? AI Attack Drones to Join US Military Soon",
+      "excerpt": "The AI system, developed by Athena AI, aims to enhance target identification and assist human drone operators. While the potential benefits are significant, concerns about ethics and AI reliability have been raised by experts.",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/",
-      "originalUrl": "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/",
+      "webUrl": "https://www.techtimes.com/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm",
+      "originalUrl": "https://www.techtimes.com/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/04/GettyImages-1208074535-scaled.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/430949/better-than-human-ai-attack-drones-to-fight-for-us-military-soon.jpg",
+          "width": 618,
+          "height": 367,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,56 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/amp/",
-      "publishedDateTime": "2023-07-04T04:07:00-07:00",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm",
+      "publishedDateTime": "2023-07-04T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-choice-campaigns-on-extremely-concerning-rollout-of-facial-recognition-tech-at-concert-venues.md",
+      "title": "Choice Campaigns on ‘Extremely Concerning’ Rollout of Facial Recognition Tech at Concert Venues",
+      "excerpt": "Choice, calls for “stronger laws” to regulate the controversial technology, after its analysis found many major venues use facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://themusicnetwork.com/choice-campaign-facial-recognition-technology-concert-venues/",
+      "originalUrl": "https://themusicnetwork.com/choice-campaign-facial-recognition-technology-concert-venues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://app.thebrag.com/img-socl/?url=https://images.thebrag.com/tmn/uploads/QUDOS.jpg&nologo=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://themusicnetwork.com/choice-campaign-facial-recognition-technology-concert-venues/amp/",
+      "cdnAmpWebUrl": "https://themusicnetwork-com.cdn.ampproject.org/c/s/themusicnetwork.com/choice-campaign-facial-recognition-technology-concert-venues/amp/",
+      "publishedDateTime": "2023-07-04T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Music Network",
+        "domain": "themusicnetwork.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -93,6 +136,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income.md",
+      "title": "Japan Dreams of AI, Overtaking Nvidia and Universal Basic Income",
+      "excerpt": "Japan is laying the groundwork to become home to some of the world’s top companies in artificial intelligence, the country’s Economy Minister Yasutoshi Nishimura told a group of University of Tokyo students Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-04/japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-04/japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imlWQwojNL.U/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -387,6 +481,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-03-how-ai-is-transforming-waste-management-recycling.md",
+      "title": "How AI Is Transforming Waste Management, Recycling",
+      "excerpt": "While some view AI as a threat, environmental advocates see it as a powerful tool for resolving waste problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "originalUrl": "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "publishedDateTime": "2023-07-03T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact.md",
       "title": "How Public Health Agencies Are Harnessing AI And Advanced Analytics For Transformative Impact",
       "excerpt": "In recent years health agencies like CDC have leveraged data and analytics to enhance their capabilities and become more efficient.",
@@ -434,6 +571,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-amd-ai-chips-are-nearly-as-fast-as-nvidias-mosaicml-says.md",
+      "title": "AMD AI chips are nearly as fast as Nvidia's, MosaicML says",
+      "excerpt": "As Nvidia's recent surge in market capitalization clearly demonstrates, the AI industry is in desperate need of new hardware to train large language models (LLMs) and",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99271-amd-ai-chips-punch-above-their-weight-mosaicml.html",
+      "originalUrl": "https://www.techspot.com/news/99271-amd-ai-chips-punch-above-their-weight-mosaicml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-03-image-10.jpg",
+          "width": 2000,
+          "height": 1231,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -644,7 +833,7 @@
       "originalUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -844,7 +1033,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/03/how-people-and-image-generating-ai-can-work-together-in-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1032,202 +1221,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-the-download-lab-grown-meats-climate-impact-and-congress-ai-plans.md",
-      "title": "The Download: lab-grown meat’s climate impact, and Congress’ AI plans",
-      "excerpt": "Here’s what we know about lab-grown meat and climate change Soon, the menu in your favorite burger joint could include not only options made with meat, mushrooms, and black beans but also patties packed with lab-grown animal cells.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/",
-      "originalUrl": "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh6.googleusercontent.com/idagLePClVlRAuCmyVUgaM9OuiDg9FDXu78kMXBosQPxpUeaBXwu4FxlBhuQJirxnxElVxXeBX0LIUurVGyAO6LlM5PG3s_oj6z51VNEA_WrffVI--xEcdgtAEQZSHqdxXZQ8ljLHB1t98wyQwTmYCI",
-          "width": 1455,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/amp/",
-      "publishedDateTime": "2023-07-03T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry.md",
-      "title": "Are Embedded And Federated Machine Learning The Future Of The AI Industry?",
-      "excerpt": "These revolutionary technologies are poised to redefine our interaction with AI, and their integration across varied sectors is only set to accelerate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/are-embedded-and-federated-machine-learning-the-future-of-the-ai-industry/amp/",
-      "publishedDateTime": "2023-07-03T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-how-ai-is-transforming-the-leadership-landscape-in-the-21st-century.md",
-      "title": "How AI Is Transforming The Leadership Landscape In The 21st Century",
-      "excerpt": "I believe we stand at the threshold of a new era: the AI-powered leadership revolution that promises to redefine the way we work, live and communicate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649ee304e60ed64f9d324232/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/",
-      "publishedDateTime": "2023-07-03T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-the-future-of-ai-powered-personalization-the-potential-of-choices.md",
-      "title": "The Future Of AI-Powered Personalization: The Potential Of Choices",
-      "excerpt": "In the ever-expanding digital landscape, where choices seem limitless, AI-powered personalization has emerged as a game-changer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61b218c1ca901f3c7454ff62/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/03/the-future-of-ai-powered-personalization-the-potential-of-choices/amp/",
-      "publishedDateTime": "2023-07-03T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -61,15 +61,6 @@ related:
       name: Al-Monitor
       domain: al-monitor.com
     quality: 4
-  - title: "UAE approves national license for self-driving vehicles in region’s first"
-    excerpt: "Sheikh Mohammed said on Twitter, “We approve the establishment of a Ministry of Investment in the state within the federal government structure and appoint Mohammed Hassan Al Suwaidi as Minister of Investment in the state."
-    publishedDateTime: 2023-07-03T12:26:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/07/03/uae-approves-national-license-for-self-driving-vehicles"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 3
 
 secured: "1+e+kYopPKcliwPSVE/nWgbDFD9rOm2ntVNTxOJ2gX8oWM6ZIb69jWk6EbaeYWVRUZUgw7NhJFbPw3oRkfPfjt00cGRPaIfiw/5tSOXQIxLwLrbS9JahV9LbWpK5rDfRngcW+Lg9KzSiKh7PGiR0dmqrBou0XOU2PtV55qpcu2PDHg4e6ggyp5f5thadfU/An5ZG/W+NYW3Laih1oOJ/ClYJp+IZn5AbAQcw+UY4wJejX6RFUsmdyT3xwECl/D+dyV8cPVYLNzZJ73ED2L/8HTVDvFVngyGyDmyYUo0IsvJU5a6i9ZJGvR4eJlwa2qV4a+Adce1PQmYyVIxzwB22MVXqTe8zX1HizDl0Mw+K5dw=;E8lOSFNvNevJxaiRdc5cgg=="
 ---

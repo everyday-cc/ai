@@ -123,6 +123,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Navigating the ethical landscape of generative AI and journalism"
+    excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
+    publishedDateTime: 2023-07-06T11:21:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/07/06/navigating-the-ethical-landscape-of-generative-ai-and-journalism/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 34
   - title: "3 Ways Generative AI Can Drive Operational Excellence"
     excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
     publishedDateTime: 2023-07-07T15:39:00Z

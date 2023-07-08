@@ -34,6 +34,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
+  - title: "Facial recognition used at stadiums"
+    excerpt: "Facial recognition technology is being deployed at major concert venues and sporting events across Australia, with attendees largely left in the dark about what it is being used for. An investigation from consumer advocates Choice found the widespread collection of unique “faceprints” of attendees ( Choice );"
+    publishedDateTime: 2023-07-05T21:02:00Z
+    webUrl: "https://www.thesaturdaypaper.com.au/post/max-opray/2023/07/06/facial-recognition-used-stadiums"
+    type: article
+    provider:
+      name: The Saturday Paper
+      domain: thesaturdaypaper.com.au
+    quality: 39
+    images:
+      - url: "https://www.thesaturdaypaper.com.au/sites/default/files/post4.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VnsSk+CeSeZO9rwo9bQ70X4OB8O9BdpES9zjRqylWGUYfYkkKyU9O9cpdS4Piaw6MAfsifVzAYUy36ffHog3hojDbDhJ+jXp68KpDc3Y0Ug7Y5w/Z8RFx2r3bxzlfoMnML35A9LvcEyUFIBiqP/TBLnDVXbwzqdM+Yw+4fotpvCXb0uXz9+xJFDyYXdVDvDGOZAhKDtmCTvpYkczDZp61eD7LM6MVfDEVlcxCXsJPCJulZHH08NJYbw3YliuCcipCIx00cVL7RmboXShttzqMW96BhIDK8P0SPvsbA/BxOOKEw1zt7W08982vaBhvlqSzr0dWtHAVK7/v87qlwwew5csddME3lyt81bZM53cIWtIBWxYVjrN9DYVaQ+sOhuW+tH4b5NZpc/CWuugbYOCIaXbEdM1UfC/UfXa9aY3K23CaAkB8wroY75d2iwJA+cgXCCww8pvup5lUAF71Udy15AhvSefTb0QlEDVRyApWwg8rDIR7BaPYs3fREYFM7CFnyIECRX/XHcF8kWzASDIVg==;RfG2bc7rSZI54DQHrTst/Q=="
 ---

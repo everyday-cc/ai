@@ -39,15 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI to tackle cybersecurity: Rubrik and Microsoft deepen collaborations"
-    excerpt: "Accelerating cyber recovery through generative AI and natural language processing (NLP) is the aim of a joint collaboration between zero-trust security vendor Rubrik, Microsoft and Azure OpenAI. This integration is hoped to offer a \"truly actionable use of AI\" to reduce the time required to investigate and determine responses to cyber events,"
-    publishedDateTime: 2023-07-03T12:05:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4119310/ai-tackle-cybersecurity-rubrik-microsoft-deepen-collaborations"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 34
 
 secured: "q04gboFKKoqD2B9G7GLzC4gP8tube6/31nzMl6F3a0E79P40H6R4BT5eRzkjaSmS6gizlJ6mkCzkm+oWf8//PSqN8fQo9gB/7wXmSaByNZDU8k/25JpAqZYt8o6Voc/bp8IiWhVuK+Wb6TmwEoMCh/l7XzyccjdbAvF7NDj5qk/Ex0mCgIgK4Yys8w3evryOsWNyzLHNdZXEUzstYX7HiRzxvOCFQV0HowCIKWpjuh3FChj3AULiESGE2A17qIKEKuLfNHdWmwxbjMeiUKU1qQAGIudjskWrZbB4JnIORzIB+XWk3CP5crAdh04i+s2D/a39cG4TIEyl7foaDZykAwWcXyPuXVngvfNKmiDDtxQQzvfEzmoap7mgt+AGx0ByWWDc4ygGdj0A3+zYqLhLVhRYxOj3Vsd0fgArrNZeYmxn19BqDPvP8PdUW3IGKO6J7srAW78iltJ+nq1DeqmUt+e6fe+xwYiP5P0ATgFqg22Yq6z0EkFDUgyQAN5HyPufkdfjFrPZsz/7Qo+DEw7UKQ==;ddxeLzUklGGjBA31eJ0Rkg=="
 ---

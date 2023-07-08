@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/2023/07/07/1075994/the-download-t
 webUrl: "https://www.technologyreview.com/2023/07/07/1075994/the-download-tricking-ai-text-detectors-and-covids-unanswered-questions/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "The Download: lab-grown meat’s climate impact, and Congress’ AI plans"
-    excerpt: "Here’s what we know about lab-grown meat and climate change Soon, the menu in your favorite burger joint could include not only options made with meat, mushrooms, and black beans but also patties packed with lab-grown animal cells."
-    publishedDateTime: 2023-07-03T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://lh6.googleusercontent.com/idagLePClVlRAuCmyVUgaM9OuiDg9FDXu78kMXBosQPxpUeaBXwu4FxlBhuQJirxnxElVxXeBX0LIUurVGyAO6LlM5PG3s_oj6z51VNEA_WrffVI--xEcdgtAEQZSHqdxXZQ8ljLHB1t98wyQwTmYCI"
-        width: 1455
-        height: 818
-        isCached: true
   - title: "The Download: how AI is changing science, and limits on White House contact with tech firms"
     excerpt: "MIT Technology Review can confirm the exploit was developed and sold by an American firm named Accuvant—shedding new light on the role played by American companies and mercenaries in the proliferation of powerful hacking capabilities around the world. Read the full story."
     publishedDateTime: 2023-07-05T12:11:00Z

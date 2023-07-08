@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/293157/20230628/pope-francis-
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pope Francis launches a guide to using artificial intelligence"
+    excerpt: "There are more and more voices that are warning about the use and consequences of artificial intelligence. They are often the voices of tech entrepreneurs like Elon Musk or the experts involved in their development."
+    publishedDateTime: 2023-07-08T05:42:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/Pope-Francis-arrives-for-his-weekly-general-audience-in-St.-Peters-Square-ap.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "AI: Academic integrity vs artificial intelligence"
     excerpt: "Frederick Luis Aldama, an English and radio-television-film professor, intends to radically adopt AI into class activities and encourages students to embrace its possibilities while accepting its risks to academic integrity."
     publishedDateTime: 2023-07-07T03:05:00Z

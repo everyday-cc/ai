@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dobin, an AI-powered FinTech solution announces its launch"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-03T11:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/dobin-an-ai-powered-fintech-solution-announces-its-launch/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/05/Small-IBSi-ad-3.png"
-        width: 600
-        height: 500
-        isCached: true
   - title: "UBS Teams up With Financial Solutions Fintech"
     excerpt: "UBS enters a strategic partnership with fintech Numarics to help Swiss SMEs with their financial and administrative tasks."
     publishedDateTime: 2023-07-06T08:20:00Z
@@ -110,15 +96,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 4
-  - title: "Fintech Revolution A Deep Dive into How Technology is Transforming Payday Loans"
-    excerpt: "Introduction In the global financial landscape, payday loans represent a crucial, albeit controversial, instrument of short-term borrowing. Technology, through the rise of fintech (financial technology) enterprises,"
-    publishedDateTime: 2023-07-03T11:24:00Z
-    webUrl: "https://techbullion.com/fintech-revolution-a-deep-dive-into-how-technology-is-transforming-payday-loans/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "LTt0+U5yNX/mAuDUxWANo03rjCzt96eD1UgSdQc0NTs6cV1ZxN3MVKyqkIWegYSvjPDV5VlLXXRum5O7T/XxlK0HL5zzrnfQndS0o+LOFdHxcuQwo6cXnHQo0RgCoXgO+9O7Ign7FjCozbA9fUz6XPw1OBTyGFkSxhFH6CU1fE6Nt5ckLoLpuS+yFOuHDYb6JiPpt+RiuacgYY3JOZZtF9Kjl/BesYTs2zYLi5hbwc7uS8F3z2rz/aBN4tqhYoIXzKHP+/+y9y/Qm2NKCsQkB+y2mF6wee14oUBDlHG3KJdKCkXEAm2guW0R6OG9AFmR9ftmVMRyWozIDBH6DdOLxFsIUmk71gz8wBgKYLa9+z4=;ZCXQAq+XedEP0Z9xMNY1ng=="
 ---

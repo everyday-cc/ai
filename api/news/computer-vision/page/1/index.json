@@ -6,11 +6,11 @@
       "title": "F1 British Grand Prix: Facial recognition at Silverstone being used",
       "excerpt": "Facial recognition technology will be used for the first time at the Formula 1 British Grand Prix to try to stop protesters disrupting the race. Last year, climate activists from Just Stop Oil got on to the Silverstone track in the first lap and sat down.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010",
-      "originalUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010",
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-northamptonshire-66120010",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-northamptonshire-66120010",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-northamptonshire-66120010.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-northamptonshire-66120010.amp",
       "publishedDateTime": "2023-07-06T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "domain": "bbc.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -62,7 +53,7 @@
       "originalUrl": "https://www.techspot.com/news/99294-facial-recognition-standard-all-us-airports-within-10.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -255,49 +246,6 @@
       "provider": {
         "name": "The Music Network",
         "domain": "themusicnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-russia-illegally-used-facial-recognition-to-arrest-protestor-human-rights-court-rules.md",
-      "title": "Russia illegally used facial recognition to arrest protestor, human rights court rules",
-      "excerpt": "The use of facial recognition in this case was ‘incompatible with the ideals and values of a democratic society governed by the rule of law,’ court rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/",
-      "originalUrl": "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/04/GettyImages-1208074535-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/amp/",
-      "publishedDateTime": "2023-07-04T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
         "images": null,
         "publishers": null,
         "authors": null
@@ -667,6 +615,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-29T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-computer-vision-d-a-ch.md",
+      "title": "Computer Vision - D-A-CH",
+      "excerpt": "Value in the Computer Vision market is projected to reach US$1.49bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.25%, resulting in a market volume of US$3.35bn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/d-a-ch",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/d-a-ch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T10:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",

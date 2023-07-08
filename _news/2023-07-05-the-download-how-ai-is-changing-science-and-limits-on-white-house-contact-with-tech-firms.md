@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "The Download: lab-grown meat’s climate impact, and Congress’ AI plans"
-    excerpt: "Here’s what we know about lab-grown meat and climate change Soon, the menu in your favorite burger joint could include not only options made with meat, mushrooms, and black beans but also patties packed with lab-grown animal cells."
-    publishedDateTime: 2023-07-03T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://lh6.googleusercontent.com/idagLePClVlRAuCmyVUgaM9OuiDg9FDXu78kMXBosQPxpUeaBXwu4FxlBhuQJirxnxElVxXeBX0LIUurVGyAO6LlM5PG3s_oj6z51VNEA_WrffVI--xEcdgtAEQZSHqdxXZQ8ljLHB1t98wyQwTmYCI"
-        width: 1455
-        height: 818
-        isCached: true
   - title: "The Download: tricking AI text-detectors, and covid’s unanswered questions"
     excerpt: "The news: As soon as ChatGPT launched, there were fears that students would use the chatbot to churn out passable essays. In response, startups started creating products that promise to spot whether text was written by a human or a machine. The problem is, it’s relatively simple to trick these tools and avoid detection, according to new research."
     publishedDateTime: 2023-07-07T12:10:00Z

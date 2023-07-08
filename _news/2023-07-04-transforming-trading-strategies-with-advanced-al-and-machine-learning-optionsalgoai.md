@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Indigenizing artificial intelligence and programming"
-    excerpt: "The Lakota AI Camp has returned for a second year, from June 11-30, to bring Indigenous teens to the Black Hills for a three-week AI crash course camp while simultaneously"
-    publishedDateTime: 2023-07-03T11:31:00Z
-    webUrl: "https://rapidcityjournal.com/news/indigenizing-artificial-intelligence-and-programming/article_4e761cb4-1209-11ee-8a43-677bcecc3cc0.html"
-    type: article
-    provider:
-      name: Rapid City Journal
-      domain: rapidcityjournal.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/4/e7/4e761cb4-1209-11ee-8a43-677bcecc3cc0/649f40bf75ea7.preview.jpg?crop=1810%2C950%2C0%2C97&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "48JjKqlRyOTrF6Gt9aO06XVeiiaXgapV4O0yW3HIjgZH+/tpP3cVtVaIfQjlpG2yRiBSfCLPE65uBfWhGnJ+r1UW6tt6yLPlTgDhdsbVUj4YpdqjsJdBSEhwE0JOYJlo0bx0lcfVdscqv17Zwy6k7fC0o4bGqyThgkBuReL5NY3jb+Kb4rfWzw8OUU9U43tHc6yggbab8RwK7jMzBq6DOoEgzhJVte0ri7nt5uwUzqAopwlRNqQn4tI4AsBNtDbUWs5ojHUob1lv3JI5HaRSiX+otpnYD27i8dgmWRN/7P2A/EGXd3+OvwndjLEdo7c9Ep174ApZaxuHGiHKFzGSWMt/tAu25iRgs0xwkY+65iAlyuZO8qHY+O9pgk8JaIx+dyFs77UE9ag8M7r4zIV6c5mG3HYrJauYiaWrakq07vrWxsfjmtb0G7agmjXX+b9zEMowZ3QILIDD8eF7M9UT+FRluqZv1O9+ulTen9Xalr+uTjB9vhvv+OfQldwHxQyxqKyu+Comb+gQf+EJqivcBw==;CxZHTtW/FTe6GAHdJFqZwQ=="
 ---

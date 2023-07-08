@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-confer
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Enhanced AI security on the horizon with Nvidia and Intel collaboration"
+    excerpt: "Nvidia Corp. is collaborating with Intel Corp. to provide extensive attestation services for Nvidia H100 GPUs, using Intel Trust Domain Extensions and Intel’s trust service, “Project Amber,” for customers that deploy confidentiality-preserving artificial intelligence solutions."
+    publishedDateTime: 2023-07-07T00:04:00Z
+    webUrl: "https://siliconangle.com/2023/07/06/enhanced-ai-security-horizon-nvidia-intel-collaboration/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/intelnvidia.jpg"
+        width: 910
+        height: 512
+        isCached: true
   - title: "Artificial intelligence takes centre stage at Collision tech conference in Toronto"
     excerpt: "TORONTO - When the Collision tech conference got underway in Toronto on Tuesday, there were two words that dominated discussions across the Enercare Centre: artificial intelligence ... impacts of AI will come in health care, where it could be used for ..."
     publishedDateTime: 2023-07-06T06:18:00Z

@@ -32,7 +32,7 @@ related:
     provider:
       name: The American Spectator
       domain: spectator.org
-    quality: 48
+    quality: 50
     images:
       - url: "https://149366087.v2.pressablecdn.com/wp-content/uploads/2023/07/Girl_with_a_Pearl_Earring-1-min.jpg"
         width: 1808

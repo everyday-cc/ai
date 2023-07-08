@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/check-point-ai-in-cy
 webUrl: "https://www.eweek.com/artificial-intelligence/check-point-ai-in-cybersecurity/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI to tackle cybersecurity: Rubrik and Microsoft deepen collaborations"
-    excerpt: "Accelerating cyber recovery through generative AI and natural language processing (NLP) is the aim of a joint collaboration between zero-trust security vendor Rubrik, Microsoft and Azure OpenAI. This integration is hoped to offer a \"truly actionable use of AI\" to reduce the time required to investigate and determine responses to cyber events,"
-    publishedDateTime: 2023-07-03T12:05:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4119310/ai-tackle-cybersecurity-rubrik-microsoft-deepen-collaborations"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 34
 
 secured: "hLqn86FFDSqFU8rptffzIq/cMxPJr5pTGJo4Q33zLcQIICIUf1RkJ0/8BrTz65uyz6W0NOvdrvqurNXXG+rK+goX/fhmvoSq7HW4kBt9CBlx3GuoDb4LytTPsQecvo+/6EKARJ78rcoxu9mnGb6alCReXjKARm/DD2XvLhn9oV+8hSR4esHdqtNR/aHs2LlK8K8cCc1HR6M3l2JVyOcTRYxliOzA881uLqX/M3sW31RpX+IUk2Zxhci3F3NJTukCSeCQjMxeulgRmQrtD3q64aebSP+UVJw9LFwOLFmAwKPrPDlmovAYsZ/Ee7e0VnQo7UNsGMb8mr6nREjjhEAKm/IgpSaFxJLEqcqE5MYXZ5nepfe7MDbVFLK/kwMu83pIjK665Q0ktIai7XH1s3+0Y8z7vE9OX+wgb+MV3M/rqGKHdpxMvvMC89kD8Cm/o8WTClO4PFsqJG9f6zlNFiKfnrN4D9XOQMQez0kRmjMGI+TUnsRM8onx7xtLMV1co5inZTjE1z9mMWXWrcXRvOsJ+g==;CBAs1SAvurgJU3Z644Rbtg=="
 ---

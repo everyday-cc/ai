@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-08T03:04:00Z
 originalUrl: "https://spectator.org/the-painter-and-the-chatbot-artificial-intelligence-and-the-perils-of-progress/"
 webUrl: "https://spectator.org/the-painter-and-the-chatbot-artificial-intelligence-and-the-perils-of-progress/"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 60
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://149366087.v2.pressablecdn.com/wp-content/uploads/2023/07/Girl_with_a_Pearl_Earring-1-min.jpg"
@@ -39,6 +40,6 @@ related:
         height: 1697
         isCached: true
 
-secured: "XqbZCRxjrJbD5zhZRiYdHZMjChIBMuNMglS7IC0rfpf0jPIK10RJsATmi+WzeN1AXlAhqmYivLSkuMAMFOpWYHuWq0rkvRS0irji1yCIaU5yWPLA0RYF+rqUYscVpgfJjccC95STvG1+ltoNA0/h/Una+AA2dpM9VY4eElRl8ykt/72DlXCqEDJHMEklVkGwwfKIh50nDgzbOXHBXP2SQyczMsPoYfgWKeYQFkecPQ4+KvA0KpK4CdBlJ1JkPV9F1DK21Guo94PlUAidIrOFeiNks01PP4NLEGEn8q/vqc88fsruFld1qcqEMyL3OXS7jUwu48W/8se8B1BdlF8JveV/mmxneD3NgkDfyAXNo/A=;AsMmwtLdzs4eNgT7ynGTCA=="
+secured: "Hsw+SF9rkZGyMkyiE/u/z1asJgngcuMku/6VPfZSeA0n5NeswWE7a6Eu7ZSJ6VC/1Nt3NyCzpaa4HovC5/0+/yh1AA9OXYPkIX/CoiMDTuT3599NYd/wna6OHSUrN5+HERbfLmUaW6pEQ+qG4na8hhgqyKNdtm98QTYT63YV+nZd3tFvTYbN8rinLrMkV4WP7E4a2Wh4sPbmu8bU2TMp1x69tpV7xEzryiW+azemZ+z7qRLErkNKsyCiaEhcKbK3J8KTky9JKjEjHmTdKK6J5KcCvFdjLPvh2+68l+pT8ax/RkBUJyzSw7Wc5+lL28SiksmlFikUubsjICoEOEiQmPCx4DNu5Of4dOmy5/8E4gwAAJITegfm6qPeuD1SJycVzdWkqwawRT6bIeLnuDXDzEi8O0+Vj9Az0d8wbVPJWPDmeJ75mgBCRLrNARuZ5kjfMfTaTZ8piDMMmo8A/t7751UtaIXBsA2M5emT9QgyVH0nUb2Wel7eMkaHqYRYF5uZ49nfrz6FaUQM81fiiSdh7Q==;0GHHeWUdXha/EUTxgj3LAg=="
 ---
 

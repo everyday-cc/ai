@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ahead-of-ai-this-other-tech
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
+    excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
+    publishedDateTime: 2023-07-07T12:26:00Z
+    webUrl: "https://www.benzinga.com/tech/23/07/33146451/farm-ai-this-start-up-is-bringing-agriculture-into-the-21st-century-with-artificial-intelligence-and"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "f/zKXBy2Vuobh21UBJ/58OslY4mQIz0Ufr30AMu1wMhYuGw7OnL/ISIRVYCDN5T2N0PwrtB1MLzQemPUuqw2dniU2N1I+27zswzjpVqtWEi+bZRE2ItQ929Bxjj2dA4+A7BvEwUAMwa16jQ3sOcbuO16biJpYzLsSR8MtRNVl0u9hxyZKuYudt/6q1k5j3jZunii+oZz6tandavvpAURJ0eQCPmZeYV2X08544MmEPeCSDntnS/pCM+Edn1O8bWSajBVmQml3wGywEarzRnC3q20yBrwNZJud8GVJe7LnwH9yusvC4rnfRYYoY0qUqy1O9TNks7xMftF2HJZqNOQpZk+7U0fxhudIYZHo/IqeO0FeIYcp4Fj6fwHU/rEyMzThK6N2M+km8RyoyLXrvGpeqWdCuhGu1JCra9/yKrm9JUM0fjRReokUC4txLHCAiqz2xJKKwKJutjFX0VgG0KGCIUnYn4fMxsGEX/h6KQmt07KsZJjmNwxQ2VY6ZsQIt+dxn51Zp3kMVpxKwVxRCkp8A==;FyybDJ8RAypPwm+Qnnk4lA=="
 ---

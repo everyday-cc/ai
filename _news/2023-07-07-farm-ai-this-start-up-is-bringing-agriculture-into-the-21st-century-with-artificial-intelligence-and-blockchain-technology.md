@@ -18,37 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "How AI Is Transforming The Leadership Landscape In The 21st Century"
-    excerpt: "I believe we stand at the threshold of a new era: the AI-powered leadership revolution that promises to redefine the way we work, live and communicate."
-    publishedDateTime: 2023-07-03T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/03/how-ai-is-transforming-the-leadership-landscape-in-the-21st-century/amp/"
+  - title: "Ahead of AI, this other technology wave is sweeping in fast"
+    excerpt: "It's all around us, and keeps proliferating unabated -- in sensors, trackers, production machines, appliances, wearables, vehicles, and buildings. Welcome to the edge, which is likely to shape and shift our jobs and businesses before AI makes its mark. Many of the devices and products seen here at ZDNET represent the edge wave."
+    publishedDateTime: 2023-07-05T08:45:00Z
+    webUrl: "https://www.zdnet.com/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649ee304e60ed64f9d324232/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/7f8f9958018ed7ccbbceb5ed330adfe138127b6e/2023/07/04/2bb4198f-c7ab-4b46-8a2b-03680b9ce3e7/gettyimages-1395926351.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "How AI Is Transforming Waste Management, Recycling"
-    excerpt: "While some view AI as a threat, environmental advocates see it as a powerful tool for resolving waste problems."
-    publishedDateTime: 2023-07-03T16:38:00Z
-    webUrl: "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+  - title: "How hair salons are embracing AI technology"
+    excerpt: "Oyin Adeybayo is the CEO of Digbeth based Niyo Group which has two areas of business - hair and beauty and technology. The company is dedicated to empowering women with textured hair as well as upskilling one million black women in technology."
+    publishedDateTime: 2023-07-03T16:48:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0fypwwr"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg"
-        width: 1024
-        height: 683
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0fyq0gl.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "IyEeRP0UUbmXu9lywc5IwNz0QAL9A/Prx1xg63S9N61HhcRBeq5ndNdJoTY9GDzXdbWmUe5J6K2GEZMGsjViD1ONNRTDcGBQXGwceFsQu8JNotJjXUF1wl2JLZiDrgGLLBBTplYLNq4WO9RQovGoMAgzYDAqYY+qSi4TtLK6HRU8Z30Ogc/EiyU9+3Ypf+n6gJ39zwgP2TvfNxi5X7FTRceEOOon9SkDU/MCns5YBRzFe96QYBwfcTxTfGwcIyaoF4Fo4BHVbBF3I4BmN3JatYFNM7kHNSAe+NQByG3B+7+oxUn6Xe04qNHL2F1rJUOswnBs1s/haA32+2GZ/LVxnCRD1HOWjbPLwJoVUAyjjjQ=;Fmk14KqxXJ7JIPnszHym+g=="

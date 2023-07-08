@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pope Francis launches a guide to using artificial intelligence"
+    excerpt: "There are more and more voices that are warning about the use and consequences of artificial intelligence. They are often the voices of tech entrepreneurs like Elon Musk or the experts involved in their development."
+    publishedDateTime: 2023-07-08T05:42:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/Pope-Francis-arrives-for-his-weekly-general-audience-in-St.-Peters-Square-ap.jpg"
+        width: 760
+        height: 443
+        isCached: true
 
 secured: "tbg7ObxXaQzUVqA62zCG8kII/dm7rZgvcijV3IH9L1QRiSaVdG/E9vgKGOJk6E9b/pAhtDf67Gph2WgFRLvTmZuQPAlNOjdX1BXURDzuvtHdbidyhRoImK7/8zag2Z6OQdjTiWcjQQKf3eCQl7NWSERNuOFPdKNag1VP2Rgb/Ct0YUfJXe4kbMW3laqJuwlOTpM+Lo96TuMchP+Ys6R+CSsRCDpfB2qSYppblFMkLVsEcOdpJKNediOn/GP5K/HkhlISJO+NT3wCIzEjfGowULQZcxElsOoJOxl2xIiRLGLa5GGZnpjUHIP7ALBtg2AenpAwnqM6M7w5VneRMQOZGrvTN6QZFM2HfUxV+WicBW4=;OYTgW2AHXYL1K9cvEz8nFA=="
 ---

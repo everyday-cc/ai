@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Humanoid robots say they will be widespread in just a few years"
-    excerpt: "A group of nine humanoid robots on Friday said it would be a matter of years before they become widespread across the world. The androids were on display at the first press conference of its kind in history at the Global Summit on Artificial Intelligence for Good,"
-    publishedDateTime: 2023-07-07T15:32:00Z
-    webUrl: "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/"
-    ampWebUrl: "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/"
-    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/"
+  - title: "Robots say they won't steal jobs, rebel against humans"
+    excerpt: "Many of the robots have recently been upgraded with the latest versions of generative AI and surprised even their inventors with the sophistication of their responses to questions."
+    publishedDateTime: 2023-07-08T04:18:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/articleshow/101587768.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/amp_articleshow/101587768.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/amp_articleshow/101587768.cms"
     type: article
     provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 59
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/07/827ad01dcbf4eeda22db8ace634cc81d083963d7w-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91584,msid-101588160/robots.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Robots say they won't steal jobs, rebel against humans"
     excerpt: "The nine humanoid robots gathered at the 'AI for Good' conference in Geneva, where organisers are seeking to make the case for Artificial Intelligence and the robots it is powering to help resolve some of the world's biggest challenges such as disease and ..."

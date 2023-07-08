@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia and AMD: Weapons of AI Chip War"
-    excerpt: "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy."
-    publishedDateTime: 2023-07-03T12:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/larx-kla-amat.jpg?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 995
-        height: 716
-        isCached: true
-  - title: "AMD AI chips are nearly as fast as Nvidia's, MosaicML says"
-    excerpt: "As Nvidia's recent surge in market capitalization clearly demonstrates, the AI industry is in desperate need of new hardware to train large language models (LLMs) and"
-    publishedDateTime: 2023-07-03T16:16:00Z
-    webUrl: "https://www.techspot.com/news/99271-amd-ai-chips-punch-above-their-weight-mosaicml.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-03-image-10.jpg"
-        width: 2000
-        height: 1231
-        isCached: true
   - title: "Japan Dreams of AI, Overtaking Nvidia and Universal Basic Income"
     excerpt: "Japan is laying the groundwork to become home to some of the world’s top companies in artificial intelligence, the country’s Economy Minister Yasutoshi Nishimura told a group of University of Tokyo students Tuesday."
     publishedDateTime: 2023-07-04T07:16:00Z
@@ -67,19 +39,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Enhanced AI security on the horizon with Nvidia and Intel collaboration"
-    excerpt: "Nvidia Corp. is collaborating with Intel Corp. to provide extensive attestation services for Nvidia H100 GPUs, using Intel Trust Domain Extensions and Intel’s trust service, “Project Amber,” for customers that deploy confidentiality-preserving artificial intelligence solutions."
-    publishedDateTime: 2023-07-07T00:04:00Z
-    webUrl: "https://siliconangle.com/2023/07/06/enhanced-ai-security-horizon-nvidia-intel-collaboration/"
+  - title: "Nvidia reportedly mulls outsourcing partial AI GPU production to Samsung"
+    excerpt: "Nvidia is reportedly mulling outsourcing a portion of its AI GPUs to Samsung Electronics for fabrication amid increasingly tight capacity supply from TSMC. Industry observers noted that Samsung could potentially secure some orders from Nvidia if its 3nm trial products pass performance validation and its 2."
+    publishedDateTime: 2023-07-05T06:48:00Z
+    webUrl: "https://www.digitimes.com/news/a20230705PD201/nvidia-ai-gpu-outsourcing-samsung-electronics-tsmc.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
+      name: Digi Times
+      domain: digitimes.com
+    quality: 53
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/intelnvidia.jpg"
-        width: 910
-        height: 512
+      - url: "https://img.digitimes.com/newsshow/20230705pd201_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Is Snowflake A Buy Following AI Deal With Nvidia?"
     excerpt: "Snowflake stock has gained about 27% year-to-date, underperforming the Nasdaq-100, which remains up by about 37%."
@@ -90,15 +62,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Nvidia acquires OmniML for AI Edge workloads"
-    excerpt: "AI is so big today that Edge devices aren’t equipped to handle its computational power,” OmniML co-founder and CEO Di Wu said when the company raised $10 million last year."
-    publishedDateTime: 2023-07-03T12:17:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-acquires-omniml-for-ai-edge-workloads/"
+  - title: "Intel, NVIDIA to Collaborate on Confidential Computing for AI Workloads"
+    excerpt: "Chip rivals Intel and NVIDIA have joined in a “coopetition” collaboration for Confidential Computing solutions targeting AI workloads. At the recent Confidential Computing Summit in San Francisco, Intel said it working with NVIDIA to offer “attestation” services for NVIDIA H100 GPUs via Intel Trust Domain Extensions and Intel’s upcoming cloud-based trust service,"
+    publishedDateTime: 2023-07-07T17:04:00Z
+    webUrl: "https://insidehpc.com/2023/07/intel-nvidia-to-collaborate-on-confidential-computing-for-ai-workloads/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 19
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/07/Data-security-shutterstock-2025433394.jpg"
+        width: 500
+        height: 263
+        isCached: true
   - title: "Does Nvidia Ai Stand For Artificially Inflated?"
     excerpt: "Does Nvidia AI Stand for Artificially Inflated? When Nvidia (NVDA) rallied to $400, it briefly fell below that only to continue its climb. The GP"
     publishedDateTime: 2023-07-05T18:25:00Z

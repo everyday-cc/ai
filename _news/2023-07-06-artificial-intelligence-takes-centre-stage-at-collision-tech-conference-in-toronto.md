@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Enhanced AI security on the horizon with Nvidia and Intel collaboration"
+    excerpt: "Nvidia Corp. is collaborating with Intel Corp. to provide extensive attestation services for Nvidia H100 GPUs, using Intel Trust Domain Extensions and Intel’s trust service, “Project Amber,” for customers that deploy confidentiality-preserving artificial intelligence solutions."
+    publishedDateTime: 2023-07-07T00:04:00Z
+    webUrl: "https://siliconangle.com/2023/07/06/enhanced-ai-security-horizon-nvidia-intel-collaboration/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/intelnvidia.jpg"
+        width: 910
+        height: 512
+        isCached: true
 
 secured: "uNqDZjkB0JpsLNEkbnZhPjnjsBswmH2hIRN7zZ8BjN7w1A1xp8ltdGrXUN/DZc0wMEJ+FB0IZe1MMaY+V7EEEx88MweATBgWJbTSl70se6y16CU/bXxR2sWzckqWW86KcivXQSYn+7GTIdQUG3z5fqX0EgMDQF4FhDDDvxsJLpZoafgaRrFCzMDRbajnAjnoLRcs/k75ivCI2oIuVkb4btidsV/z/EWePhBEvY+jBqF6pSinycM7i6xlGVEjRXSLujae+XJCyqC1n17GQWej6jsJ2DcPKWUT2Qgh5bpMrSKodo7dqo+hX3A7AAPsL42R8J6S+FJRgEglbC1uMpQ648uvlptIWYa+UwVPhsoCYpjbpUJIiPJZmhRVoWideQJpIdZoihW6ZxJY1TqMRJh6242tlJSQFSgqXZ04Xo505ncFkoAbPc3KcHH6ZTTMcfxytF3Q6gkgNALeY0vCynZfUmBkKbXRwjJ9Fze5HP4PzT9BjxG0+HsaRqjKLmNYV3S5/WizctUC8sVurRATpUCguQ==;XivUxSCzvE8xqK4BpYyTLQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/education/higher-ed/ai-driving-new-vr-ar-a
 webUrl: "https://www.govtech.com/education/higher-ed/ai-driving-new-vr-ar-applications-in-education-business"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -18,33 +18,6 @@ topics:
   - AI Ethics
   - AI
   - AI in Education
-
-related:
-  - title: "17 Insights For Candidates Navigating The AI Job Application Era"
-    excerpt: "We encourage candidates to personalize their resumes, cover letters and applications. This shows genuine interest and helps you stand out in a competitive market."
-    publishedDateTime: 2023-07-03T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62913326f44d3e367ddf131d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 812
-        isCached: true
-  - title: "Navigating the ethical landscape of generative AI and journalism"
-    excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
-    publishedDateTime: 2023-07-06T11:21:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/07/06/navigating-the-ethical-landscape-of-generative-ai-and-journalism/"
-    type: article
-    provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 34
 
 secured: "C8UpC/gN841E5dDsE9cQUa9vdou+cQrDjTM3AQX4sHQa19c9tpIenQSXYq/HGeHuY1vU9YcglyPjC7ANwGnLiq3VLpXeZ0zeM5Q4ofuRrAInUrhKV77TSYtLZx2O7tgG1BOBNArzmfnmJkGks8dV9F5qt0CIMAeFhxzuvGd/RpBbSN1H6Vx+VJiDQnE31YZrS1irv1Bpp2gu0Z0oIVQmdfLqPhR81OxpDrvG3/NtxboQI390masK6H3KEskx8ZQDG0FIakcINO7jP1Fv07FU67zauMW91G+fBLIqsw3y9MlHDKYUsgJTDimHUq9jr30cL3++nnrTGwRUkNy6AWGxytNDaI6swuZVB9TdgYMR3ZEZCUSxEyNNWgIewHitHFwdgUDgA3QVDdrPAQhqHDc+3IbUFrVoxT7mMpAdm7oiL9gMWoTDnYf92KyPoU3EDjv0CAzEaQEpwbpln1aIncLRpVHiswf1oS0YjS4va08ZoDFeseJNHrVgjoSDLAXI369aSXKSkmB/AGmwiKowFOxO3Q==;F7F+wRBnpwcJPDtbm2h5BQ=="
 ---
