@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/04/uk-universities-d
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Talon CEO on Bringing Security, Compliance to Generative AI"
-    excerpt: "With the growth of generative AI services, organizations want better control of the data going in and coming out of AI. Talon CEO Ofer Ben-Noon discussed how his"
-    publishedDateTime: 2023-07-03T16:27:00Z
-    webUrl: "https://www.inforisktoday.com/talon-ceo-on-bringing-security-compliance-to-generative-ai-a-22429"
-    type: article
-    provider:
-      name: Info Risk Today
-      domain: inforisktoday.com
-    quality: 56
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/-showcase_image-1-a-22429.jpg"
-        width: 860
-        height: 520
-        isCached: true
 
 secured: "cLtT342+ia6hK8I7n1rfJ7b2EiDJE61MJqgJRG9hRcjDP6kSh5Kpvp7kOPzQvd4Z0IJyBzIeVosGQAtmWJQCE0JnBphyxAJemqCS2ZQ1GKA8IqcKkiNbLcPPdC7VqPG6F5an/tj+8HGJ/6eGJO8iHnxv2MBDYjtoWWTs2JJ7clsMdu0F++7SD5baYzWFA4opCNffWM8ZiLFdaEghMEE9hFnHIiwRkkfYC6Wf39xwpI6J0CpgNwjmORV5bhGCZNInb7/ELaisWGkizYixBygpkt+aEaHWgJmj59v7o3UoSR7K3jna7g/USSz2WoLFmq0R2ZX+cuB3p6eR6TmV8G5s84fWfKyVwgLamtoho9S4VPBFRIDDdKhGJ6vkz/znqT95jvlzPusyCi8QTvess3MVXQ/aJP7XqZhok8ZyIvNSU6qN/3HWW634HhtgIvkGgmuPWmolUQq7QV3GLQNKf/58iwoRJHPNjBxThM5GSXw7yhEIZmdVRjJiuctUy4RYvMBGzcCuPiO1tGGyMeFuHnDCgw==;S/8EASIrnAQlG6G/KsvDVA=="
 ---

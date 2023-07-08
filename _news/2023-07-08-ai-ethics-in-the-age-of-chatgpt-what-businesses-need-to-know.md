@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
     quality: 69
     images:
       - url: "https://helios-i.mashable.com/imagery/articles/002kxdo3R48XSCpBxasXOLq/hero-image.fill.size_1200x675.v1688467571.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI and You: ChatGPT's 'Novelty' May Be Wearing Off, No Programmers in 5 Years"
+    excerpt: "A weekly recap of worthwhile news around generative AI."
+    publishedDateTime: 2023-07-08T09:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-and-you-chatgpts-novelty-may-be-wearing-off-no-programmers-in-5-years/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
+    images:
+      - url: "https://www.cnet.com/a/img/resize/41cbb157c049beddd7df0797c19f328cabbfe0a1/hub/2023/07/07/e34a2ecf-f8c7-41ca-b901-08e6679a6de8/gettyimages-1502789130.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true

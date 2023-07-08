@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Computerworld
@@ -26,49 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Public Health Agencies Are Harnessing AI And Advanced Analytics For Transformative Impact"
-    excerpt: "In recent years health agencies like CDC have leveraged data and analytics to enhance their capabilities and become more efficient."
-    publishedDateTime: 2023-07-03T16:32:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
+  - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
+    excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
+    publishedDateTime: 2023-07-05T16:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 55
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a2f741ef05b2265d8aa488/0x0.jpg?format=jpg&width=1200"
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Tokyo-skyline2_1200.png?w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI Driving Web Analytics in the Financial Publishing Industry"
-    excerpt: "What The Finance, a popular news website, has taken its web analytics capabilities to the next level with a partnership with Social Media"
-    publishedDateTime: 2023-07-04T08:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-driving-web-analytics-in-the-financial-publishing-industry-1032424364"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/89101410-1688437795.jpg"
-        width: 650
-        height: 363
-        isCached: true
-  - title: "Gartner survey: Most corporate strategists find AI and analytics critical to success"
-    excerpt: "A new survey from Gartner has revealed that most corporate strategists think that AI and analytics are critical to their success."
-    publishedDateTime: 2023-07-05T21:21:00Z
-    webUrl: "https://venturebeat.com/ai/gartner-survey-most-corporate-strategists-find-ai-and-analytics-critical-to-success/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/GettyImages-1373296586.jpg?w=1200&strip=all"
-        width: 1200
-        height: 680
         isCached: true
   - title: "AI And Digital Transformations: Is Your Company Prepared?"
     excerpt: "As powerful as AI may be, it’s also just an added tool for amplifying corporate efforts. Using it for the sake of implementation shouldn’t ever be a main goal in itself. Start by building a clear implementation strategy that identifies specific needs ..."
@@ -79,24 +51,34 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-    excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
-    publishedDateTime: 2023-07-06T15:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/06/9844060.htm"
+  - title: "Growing demand for AI skills will transform these 10 jobs"
+    excerpt: "Employers are seeking workers with AI skills. Freshworks analyzed more than a year of public job posting data compiled by Revelio from popular hiring platforms."
+    publishedDateTime: 2023-07-07T08:19:00Z
+    webUrl: "https://kvia.com/news/business-technology/stacker-money/2023/07/07/growing-demand-for-ai-skills-will-transform-these-10-jobs/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
-  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-    excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London,"
-    publishedDateTime: 2023-07-07T01:05:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/269347"
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/07/0100QQSX_4.jpg"
+        width: 1080
+        height: 770
+        isCached: true
+  - title: "Rapid growth of artificial intelligence could transform 2024 election"
+    excerpt: "Artificial intelligence has the potential to be game-changing for political ads - but is it ethical? Should it be regulated? Washington is struggling to answer these questions."
+    publishedDateTime: 2023-07-03T22:00:00Z
+    webUrl: "https://www.stltoday.com/news/nation-world/rapid-growth-of-artificial-intelligence-could-transform-2024-election/video_5a5c96b4-8b7a-503a-8f64-c2c335de6c4b.html"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 7
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/a5/5a5c96b4-8b7a-503a-8f64-c2c335de6c4b/64a336a3c44a0.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "l2AzjbfHHEVj++/gOcSoX5jNvrzNwTRc1wRomqVV9RhMGUPFdKoKLGkbF2nvF+MYqAd/of1jO2jTnZMUGjW4FS0jLH2prK7ghF596O/YTdsH6/HQlNduLVpSoV7XlnwDhLVjR5KrAreDgJwJPI69/ITx2ZYoP6mk0ET+iZWDiTuAhG5FxdT8FtvAY4Yk417hAV2yjAwl+5dpyRZahQUM0cVG8uqjXUy+ZMWCkrbg1NtCW3s19EK33DfkHlxcLJTsFBYGM3OUixkG9bhzosrD+dfP69ecWy5/rqvNsnf94CQJkvbPfybqred6z3/T1OhIor79GstSPOBmfdAIY/bVgh8KtwNPMFQWEXkJz0Rfxd8W5dM9XAsNDqBst5X1DiqVyL5qTk/l/2rER5P0tq8VmBGEUyHSUjfj00v6ISrRIhX1KCgpWFaDdIUmSxahDKWLEhtRQXFgcrA+tvmMs1uzXX2Dt3ml82EIrtX81r7JzIvuLPClZSSgOLmvCN7+zyGk4jueR7cwCjLyEayizSCYqA==;fzQ7IPSJiLbzwDhY2xx6fw=="
 ---

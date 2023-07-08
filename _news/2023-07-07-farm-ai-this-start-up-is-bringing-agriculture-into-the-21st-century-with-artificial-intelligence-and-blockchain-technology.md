@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How hair salons are embracing AI technology"
-    excerpt: "Oyin Adeybayo is the CEO of Digbeth based Niyo Group which has two areas of business - hair and beauty and technology. The company is dedicated to empowering women with textured hair as well as upskilling one million black women in technology."
-    publishedDateTime: 2023-07-03T16:48:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0fypwwr"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0fyq0gl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "IyEeRP0UUbmXu9lywc5IwNz0QAL9A/Prx1xg63S9N61HhcRBeq5ndNdJoTY9GDzXdbWmUe5J6K2GEZMGsjViD1ONNRTDcGBQXGwceFsQu8JNotJjXUF1wl2JLZiDrgGLLBBTplYLNq4WO9RQovGoMAgzYDAqYY+qSi4TtLK6HRU8Z30Ogc/EiyU9+3Ypf+n6gJ39zwgP2TvfNxi5X7FTRceEOOon9SkDU/MCns5YBRzFe96QYBwfcTxTfGwcIyaoF4Fo4BHVbBF3I4BmN3JatYFNM7kHNSAe+NQByG3B+7+oxUn6Xe04qNHL2F1rJUOswnBs1s/haA32+2GZ/LVxnCRD1HOWjbPLwJoVUAyjjjQ=;Fmk14KqxXJ7JIPnszHym+g=="
 ---

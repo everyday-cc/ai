@@ -25,47 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Transforming Waste Management, Recycling"
-    excerpt: "While some view AI as a threat, environmental advocates see it as a powerful tool for resolving waste problems."
-    publishedDateTime: 2023-07-03T16:38:00Z
-    webUrl: "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm"
+  - title: "Digital transformation, AI, and the productivity problem"
+    excerpt: "There's a lot of talk about generative AI could boost productivity at companies in the midst of digital transformation. But moving too fast could make things worse."
+    publishedDateTime: 2023-07-06T14:01:00Z
+    webUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html"
+    ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg"
-        width: 1024
-        height: 683
+      - url: "https://images.techhive.com/images/article/2014/09/worker_productivity-100413905-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "How the Federal Government Is Using Artificial Intelligence So Far"
-    excerpt: "Agencies should leverage foundational artificial intelligence models being crowdsourced by top universities and large tech companies so that they’re not starting from scratch as they embrace the technology. Open source paved the way for crowdsourced AI ..."
-    publishedDateTime: 2023-07-03T20:07:00Z
-    webUrl: "https://fedtechmagazine.com/article/2023/07/how-federal-government-using-artificial-intelligence-so-far"
-    ampWebUrl: "https://fedtechmagazine.com/article/2023/07/how-federal-government-using-artificial-intelligence-so-far?amp"
-    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2023/07/how-federal-government-using-artificial-intelligence-so-far?amp"
+  - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
+    excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
+    publishedDateTime: 2023-07-05T16:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
     type: article
     provider:
-      name: https//fedtechmagazine.com
-      domain: fedtechmagazine.com
-    quality: 59
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 55
     images:
-      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1503223319.jpg?itok=VdkQvFd2"
-        width: 1440
-        height: 500
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Tokyo-skyline2_1200.png?w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "How AI Will Change Wealth Management"
-    excerpt: "Artificial intelligence will transform the way firms provide financial advice. But don’t write off the human element just yet."
-    publishedDateTime: 2023-07-05T12:50:00Z
-    webUrl: "https://www.barrons.com/advisor/articles/how-ai-will-change-wealth-management-ed7c4ee9"
+  - title: "AI And Digital Transformations: Is Your Company Prepared?"
+    excerpt: "As powerful as AI may be, it’s also just an added tool for amplifying corporate efforts. Using it for the sake of implementation shouldn’t ever be a main goal in itself. Start by building a clear implementation strategy that identifies specific needs ..."
+    publishedDateTime: 2023-07-07T13:22:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/ai-and-digital-transformations-is-your-company-prepared/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Rapid growth of artificial intelligence could transform 2024 election"
+    excerpt: "Artificial intelligence has the potential to be game-changing for political ads - but is it ethical? Should it be regulated? Washington is struggling to answer these questions."
+    publishedDateTime: 2023-07-03T22:00:00Z
+    webUrl: "https://www.stltoday.com/news/nation-world/rapid-growth-of-artificial-intelligence-could-transform-2024-election/video_5a5c96b4-8b7a-503a-8f64-c2c335de6c4b.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/a5/5a5c96b4-8b7a-503a-8f64-c2c335de6c4b/64a336a3c44a0.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/pZStTLetWMkwWM5p8N6yNptLDaf6kyJmyO7jJV6pWx4YFmsz4ntQRIzlyW6HJ5YtddfelMsXTkTpz3W5wOFdh/zpYWNUgpJFDjxXju89FYneoc7l0a1BqsKA/bCTgiybPS5+nQ8Vm8e1340glEhfI6gZHRPEX0z0JVo1xQa7UsyY1ylBn8ZSbLDRoxhv2xbSJCYlWcOsZY3SZOSsLC+K5dNC8/4DfJcwRWa9Y9La8F8NAVT6Ty6vmjTQl+SfxOArpoWEXXXEqfyoDzEPco+7DTgeTONOlxdZx1tiRJCgfVUrzty7b8wk5B0aYWglqHC4bGlgJiBa8TVfE2JDYUAmUnC7RkJVubf1DllPy7Us44=;NEYF/e8V9Y6q1OwZcslRSw=="
 ---

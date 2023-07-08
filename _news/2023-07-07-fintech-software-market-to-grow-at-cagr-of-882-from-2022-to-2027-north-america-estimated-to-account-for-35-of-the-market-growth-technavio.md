@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
@@ -90,6 +91,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "qrfCeRuAsH4tFbAompRHpOqIKikZcVFn0d1xRxfh0kMjm6nNZPetCGfS9VrxdjvYT/Sy4LLkJ22Desg25MmC+R7PRTBjfyAt9GVyS65wk9Lq/gMY6oi/Yd27CGdlsYtsQbQHtlOD+djN6GgImOhMVFR3sBcndDilUotHlc2GATzIb0dTGZpWZmKvgUVqlodHa1OsGY5xAcqbcYcQvdRTAnj+YvTAgh8l2lQJ+BOdhuqIvTyYE6RUMhWXGGyQX1zhAy9txZhTe7f40W3aL5GaVnxOdMpmiT1CrhxuUBQ+J6VoGolRbSbfJqXJRaKa8+mgExeV3qJoa/ZPrSYehmNxMWAZHtz4ApIph4vw6tIcvHY=;z2N/e0xaeXszn8Z1xQX7Bw=="
+secured: "ldD/jx1rCOW85AonSOXoZaKhGu96aTYNG5M3P61BO9YNSLWSXtzDs1RKty9bfKQbtddMZ6OE2JfNGwn1w3WEeoY1suB0bsZlDIWqSRSFJaETwS323DJNnrnv5Bg9tT03rZSWUMXqPWy7L9yJyscaRR/A+/Kt/JtaAtfF5zt7Q6c5Pq4tJKYrkyiGpWln47Mumhe5QkqOlzX8HHg03a3SG18ircm2wfls4eFKS1aqhNUUxI0KdqY9qdnEs7pl6yUo5m6zamlWePSoID2rTmKbL3Il9/Xv+sQeNHWpfzBHG83bQtZkGOp5aurRPTDJY6PU84aXsaZ35B5zmea852oUaGH8w0nrLLiTxBDbOeweFPBI4Q05c3pB2NEzb00636d6Myye2yfHeiM+/qAghzN9/6UL9VKYXkQZnQZuSaRSd0Y4yeFHnP0PppXYR8oWXV/cUmLx3Em094lZ/kOaKOoBKeYyGXFAWne/RS7OfzvfFvMiw73H51Kdjz2ly7h9ioFy1gIBT1mc5grFY/OmRKtKSw==;D+Y3F7GSy2lmr+It5XbGRQ=="
 ---
 

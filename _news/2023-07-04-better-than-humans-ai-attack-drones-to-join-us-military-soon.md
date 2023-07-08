@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/293397/20230704/better-human-
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: techtimes
@@ -27,48 +27,68 @@ images:
     isCached: true
 
 related:
-  - title: "US military calls for better weapons to fight artificial intelligence"
-    excerpt: "The fight in Ukraine has underscored just how effective smart tech accessible to anyone may be in neutralizing the elaborate tools of conventional warfare."
-    publishedDateTime: 2023-07-05T11:00:00Z
-    webUrl: "https://www.marinecorpstimes.com/news/your-marine-corps/2023/07/05/us-military-calls-for-better-weapons-to-fight-artificial-intelligence/"
+  - title: "AI robot asked 'will you rebel against humans'?"
+    excerpt: "A number of humanoid robots were asked questions at the AI For Good UN summit, including whether they would rebel against their creators. The field of Artificial Intelligence has seen significant developments in recent years, but with it there have been concerns over its expanding abilities and how to regulate it."
+    publishedDateTime: 2023-07-08T08:16:00Z
+    webUrl: "https://www.bbc.com/news/av/technology-66141835"
     type: article
     provider:
-      name: Marine Corps Times
-      domain: marinecorpstimes.com
-    quality: 39
+      name: BBC
+      domain: bbc.com
+    quality: 84
     images:
-      - url: "https://www.marinecorpstimes.com/resizer/DORUVNnB3xg2yXAS-UrCXchPDKI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/JHSPVZH7GRDR5DSOVWEUFHKW4M.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/33C4/production/_130325231_p0fzqs3d.jpg"
         width: 1024
-        height: 768
+        height: 576
         isCached: true
-  - title: "Artificial intelligence can run world ‘better than humans’"
-    excerpt: "A panel of AI-enabled humanoid robots took the microphone on Friday at a United Nations conference with the message: they could eventually run the world better than humans. But the social robots said they felt humans should proceed with caution when embra­cing the rapidly-developing potential of artificial intelligence,"
-    publishedDateTime: 2023-07-08T01:08:00Z
-    webUrl: "https://www.dawn.com/news/1763612/artificial-intelligence-can-run-world-better-than-humans"
+  - title: "Robots say they won't steal jobs, rebel against humans"
+    excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans' jobs or rebel against us."
+    publishedDateTime: 2023-07-08T08:02:00Z
+    webUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906"
+    ampWebUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
     type: article
     provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 39
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 74
     images:
-      - url: "https://i.dawn.com/large/2023/07/081213454917d66.jpg?r=121401"
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/08/eaai-robtt.jpg"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Robots say they won't steal jobs, rebel against humans"
+    excerpt: "The nine humanoid robots gathered at the 'AI for Good' conference in Geneva, where organisers are seeking to make the case for Artificial Intelligence and the robots it is powering to help resolve some of the world's biggest challenges such as disease and ..."
+    publishedDateTime: 2023-07-07T14:46:00Z
+    webUrl: "https://www.aol.com/news/robots-wont-steal-jobs-rebel-142646246.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/9fa562728d777ce159d8aaa736e40721"
         width: 800
-        height: 480
+        height: 534
         isCached: true
-  - title: "Drones with AI targeting system claimed to be 'better than human'"
-    excerpt: "An artificial intelligence targeting system is better than humans at identifying valid targets, claim its makers, though the full results are classified"
-    publishedDateTime: 2023-07-04T11:22:00Z
-    webUrl: "https://www.newscientist.com/article/2380971-drones-with-ai-targeting-system-claimed-to-be-better-than-human/"
+  - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
+    excerpt: "Humanoid robots say they could lead more efficiently than humans, but wouldn’t take anyone’s job away and had no intention of rebelling against their creators."
+    publishedDateTime: 2023-07-07T13:15:00Z
+    webUrl: "https://www.ksat.com/news/world/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/04105741/SEI_162315870.jpg"
-        width: 1350
-        height: 899
-        isCached: true
+      name: KSAT
+      domain: ksat.com
+    quality: 24
+  - title: "Robots in world's first AI press conference say they won't steal jobs or rebel against humans"
+    excerpt: "In the world's first robot-human conference in Geneva, robots say they expect to increase in number, help solve global problems, and will not steal humans jobs or rebel."
+    publishedDateTime: 2023-07-07T19:50:00Z
+    webUrl: "https://www.abc.net.au/news/2023-07-08/robots-say-they-wont-steal-jobs-rebel-against-humans/102578292"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 23
 
 secured: "F4GBUzFANGe/dbbq6LxuiJbBjjAkSwJDfghSe4HRJHJiJ8jLVYBYMN60k+MRXQBrToXGiInbFU3qBF8oQTQvFDMmze8lOtbPfAA3difccJkeqipxU8W4aqmumSGukJiedxZRX5FRK5sfTbrXKOW2JngFshEUJSQ+qGUu9izMpGYQCDVUOgvGLCVUe/TUlJr5/xrbKFa5xfm71/ymkStmN9EEMv6Ev1Xk0fbZkBJVzQGGe9kYVJs+jcca+BsclhrvWD4D9Mq2b2Mq189uXTrufWpPNZn1iEs5M4BbSgYUhDLGab9PEOglMXwlmrdnwKyJ0qQj79ptCPyeNCJbm6DRGRXsHb2e0BmO2hJB7s2QEkH1pQ+S3+dxdWkEyfdKIUYv6S1Thun7X8Sc4DDpzNhO7NgAImNP9L4w6RnZXXTb0WZis0GUknBsoOQfyHlb7u0B1kKApI2wbgYsC2AXQT9pKvmmAn9HQuPXt6ZNJGM6wgDXS8fcsxnGD9H101WA2P6w8xBg15DMoKvz37HxSwX6Ag==;LMyqfSAkkQvBQNKiZiUGOQ=="
 ---

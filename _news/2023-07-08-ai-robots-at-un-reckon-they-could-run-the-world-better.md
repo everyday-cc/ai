@@ -3,10 +3,10 @@ category: news
 title: "AI Robots At UN Reckon They Could Run The World Better"
 excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
 publishedDateTime: 2023-07-07T17:39:00Z
-originalUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
-webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
-ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+originalUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
+webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
+ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
 type: article
 quality: 74
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg"
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP9103350529626727026872206727563737693825---1.jpg"
     width: 768
     height: 506
     isCached: true
@@ -29,10 +29,10 @@ images:
 related:
   - title: "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI"
     excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots."
-    publishedDateTime: 2023-07-06T18:40:00Z
-    webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
-    ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-502be7d2"
+    publishedDateTime: 2023-07-06T18:04:00Z
+    webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
+    ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
     type: article
     provider:
       name: Barron's
@@ -92,6 +92,6 @@ related:
       domain: cybernews.com
     quality: 34
 
-secured: "puwZwcduRJiuCHlNYhPYS7Cuu3YFlT6LVXJPUzX3NdOKn6R0buTK41x6BuaFKLG2wuWW4p+R9Z3gKk7/J2jOXsFvYduRz56Y9OBSC3UQNO9MXgvNnl0dcfo9qX8a7e+gCITtqlrSASAVIzV3jMrWm8tnbsbmzFle9zmgiHOe+a/zUBaTHmAkZSc61+byXtIJMxr9A0gEcj8Y/PTWjb97W75856lPA6qX9vLPnKMDkvNpnz8dp+fs8qb3TwWkPDqg4lSGOI3KZ5aBh9jN4Abc/K8eDG+OTvXK9EtiPwoB8kzD2d0dMsGabMlKxnYF4HC9yhSiE6NalTSStulTiDDl1p767qgdduOtHQYxTDh8sT4=;J+7HL84ahBaclJQ+Rq6RTQ=="
+secured: "oydYoJ5m8ZTUQ1VSEhK3eKVHG7xPRXTmOFsfaap2oQTmZ/gaB8QtaMlVDn4YpmOTPqosVyhJcWX7Tz19VWH7o5pH3ozrYG4e18M0Bu8aXn4nv/OjuTiVjE/JQo3G5E72CDDWaKpr8cW6TNSHhOWytD1zaY6PDCMiTq6zCIApl4S8IyYGqejSCk0xBCwxOddUPBtItE6w4h933GY3OXP+AVVnfkI89kjalLDZ84CEJK5Vsu3U7VUsv6OFoHSpR60mvqA+a4fN1FcoZRHQu2bVzu10l/b5gvdbPbyKMbRy9Rz2ssdKIf4oyJRgpBZkt5WPvc3OuQKePLeFzV69qyrC0gTgjQj2kPVW89oksgQ+YwA=;3VyRb4h4x8w5T3D01zjnsQ=="
 ---
 

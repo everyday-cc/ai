@@ -1,32 +1,62 @@
 ---
 category: news
 title: "Robots say they won't steal jobs, rebel against humans"
-excerpt: "Many of the robots have recently been upgraded with the latest versions of generative AI and surprised even their inventors with the sophistication of their responses to questions."
-publishedDateTime: 2023-07-08T04:18:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/articleshow/101587768.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/articleshow/101587768.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/amp_articleshow/101587768.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/robots-say-they-wont-steal-jobs-rebel-against-humans/amp_articleshow/101587768.cms"
+excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans' jobs or rebel against us."
+publishedDateTime: 2023-07-08T08:02:00Z
+originalUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906"
+webUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906"
+ampWebUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
+cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: The Daily Star
+  domain: thedailystar.net
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91584,msid-101588160/robots.jpg"
-    width: 600
-    height: 450
+  - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/08/eaai-robtt.jpg"
+    width: 750
+    height: 393
     isCached: true
 
 related:
+  - title: "AI robot asked 'will you rebel against humans'?"
+    excerpt: "A number of humanoid robots were asked questions at the AI For Good UN summit, including whether they would rebel against their creators. The field of Artificial Intelligence has seen significant developments in recent years, but with it there have been concerns over its expanding abilities and how to regulate it."
+    publishedDateTime: 2023-07-08T08:16:00Z
+    webUrl: "https://www.bbc.com/news/av/technology-66141835"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 84
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/33C4/production/_130325231_p0fzqs3d.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Better Than Humans? AI Attack Drones to Join US Military Soon"
+    excerpt: "The AI system, developed by Athena AI, aims to enhance target identification and assist human drone operators. While the potential benefits are significant, concerns about ethics and AI reliability have been raised by experts."
+    publishedDateTime: 2023-07-04T14:02:00Z
+    webUrl: "https://www.techtimes.com/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430949/better-than-human-ai-attack-drones-to-fight-for-us-military-soon.jpg"
+        width: 618
+        height: 367
+        isCached: true
   - title: "Robots say they won't steal jobs, rebel against humans"
     excerpt: "The nine humanoid robots gathered at the 'AI for Good' conference in Geneva, where organisers are seeking to make the case for Artificial Intelligence and the robots it is powering to help resolve some of the world's biggest challenges such as disease and ..."
     publishedDateTime: 2023-07-07T14:46:00Z
@@ -60,6 +90,6 @@ related:
       domain: abc.net.au
     quality: 23
 
-secured: "7makMauYzltPkqVbL7SlNarFB1qFihh/RHPOmmgMwPsrIg5xVYjkDsBSJfW7mXaiPLAdK9kF1GXagROrph1HJrQYITVncC0o8T228T4+1wV4SlCBQzr/r1PEwB9QLa8GZQdrNmn6iibGDsowHzknwqny8tpr9pu8mA6R99hmC3i9k8e/AQM7Xc1PGeFrsPSqJw4jBg5s3tJroa4GPx5FBSxwhAn/4YgFnOfPBkAjtoy9yBFtVTCZA6YXeNBCLDlkDrB0o2Y/Drd7dbainREsc82AfhzxhJ/y6yi2dar3yCEuYCZvd39LuEqHiXTvjqUXKsJR6L2njJjkqjDBssC6Q+ZwxxadgGrTOmEcx+AAAGU=;gVOdZ0xSvfH1ved3Eob2yQ=="
+secured: "AV9i/wiygylX6THEODykFb3g2gSzoOj8ofD4idPY1BVEm/f/suPXBbkKGOn7T+jS4ppPjhziRLe7KxbPYcbMxYrGYcY4O4f5rj0DvZBatQDO+BUSwsft3+H5+2P5kFQYmyur6HIIyxwJ1bPviNhxgr5ktymxJefthfdvamTHWWHJHLP1lK1HcEBSO4b3ANdodHiNK2gRupA2S1MV9YyyKM07o1gcGcLyL8y2VpXcw+a2ooW3JHxAB/Jk+hISTb4YatHI5/vXVR1KANfll6TzxpbyTDUn+u45LhaLkYDgJFAGm+Lo4KcUlaxe+3s66PdPC42umiWlbpviRAeJ6vD7Q2fl90tTaUx3GXek8ByWeFs=;2QC9hSk+fkvPt93JBbAotw=="
 ---
 

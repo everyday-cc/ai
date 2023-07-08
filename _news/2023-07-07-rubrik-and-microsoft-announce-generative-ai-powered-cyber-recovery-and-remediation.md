@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform"
-    excerpt: "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,"
-    publishedDateTime: 2023-07-05T15:48:00Z
-    webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 64
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4444/Unsplash_ThisisEngineering-RAEng_web.jpg"
-        width: 975
-        height: 548
-        isCached: true
   - title: "Rubrik and Microsoft Announce Generative AI-Powered Cyber Recovery and Remediation"
     excerpt: "Rubrik Security Cloud, Microsoft Sentinel, and Azure OpenAI Service integration demonstrates how organizations can strengthen their cyber resilience and recover faster and more effectively from cybera"
     publishedDateTime: 2023-07-06T12:48:00Z

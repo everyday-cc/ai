@@ -7,7 +7,7 @@ originalUrl: "https://www.thewindowsclub.com/ai-speech-classifier-free-ai-speech
 webUrl: "https://www.thewindowsclub.com/ai-speech-classifier-free-ai-speech-detector-tool"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "US military giving artificial intelligence classified operation info"
+    excerpt: "The Air Force is running successful tests of “large-language model” AI experiments amid concerns of military operations relying on AI."
+    publishedDateTime: 2023-07-08T08:59:00Z
+    webUrl: "https://americanmilitarynews.com/2023/07/us-military-giving-artificial-intelligence-classified-operation-info/"
+    type: article
+    provider:
+      name: American Military News
+      domain: americanmilitarynews.com
+    quality: 39
+    images:
+      - url: "https://americanmilitarynews.com/wp-content/uploads/original-21.jpg"
+        width: 1581
+        height: 903
+        isCached: true
 
 secured: "0LqtFRD9BAzkYt5BuwrfFt4OfIroTF9K8IvxV0VBWGiJ2G4x+4TaqWmidui2lDelS/toZApRE8VGPXsCm6X8eIIPpSMWat57xL5xCSoRZhxYetcqiNRGS6Z8s3SzEvHx9MY/whnKZRcdXTxXo44wEoJN0eRBoNzAQpttKEZXZUHludFGPiRxB3hEQPRvoC5O2x3kXbqOA2reI5j1wfFvbp9CucQIGmFEXrNk+oT17MMlqQyHHTyQBq0e2byzlo8Fs+Y80dVM7pdrV0n+2cP68JNyGeiVwqgJjWUwWZuk32+212rcewS2wuBUzxbA3shp4+POvU9n+RT3LgTZJWwL3Dp3vM9YhUdnyV9E5+WsTgY=;/AUiVDlw3TQoxAaiCWYkJA=="
 ---

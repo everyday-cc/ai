@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 8256
     height: 5504
     isCached: true
+
+related:
+  - title: "Facial Recognition - South Korea"
+    excerpt: "Value in the Facial Recognition market is projected to reach US$91.20m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.10%, resulting in a market volume of US$215 ..."
+    publishedDateTime: 2023-07-07T16:29:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/facial-recognition/south-korea"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yb6ESmGCyx1kJcf8QIDyf+AmT8TSzBbvfjd7GOHN6H4zN8H3GY2URJPB3s9VioGAuDDuwbQILRRnu3xorBqXaSYzYOsflIHsCZO297v2Ds0rqbjs+fihV9+2x5ZOAB44NyRoqxuYL5jpgfENY+deJ/3tBu7tsLIbTlewWryiYSQcfw+UGE1eQtpOCei8jlPkqyrPBqaEQV3E//XYTXjJZi/nAFu/RQUZEHoVqmeX0Au6zTNMVOLl+47R6Hx2IbguP1gh6ikBTwHTXXpiZAK9qabsLprHj/9TLcGU1EMC80XukZTR7mk89AqQQBvaB6CyF86WpZiH6OKh+VPeYG1qgkfS9fJt3KwT1a3930vRvGk=;SLRB61slEXg25rDjhRMBWg=="
 ---

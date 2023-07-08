@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI and You: ChatGPT's 'Novelty' May Be Wearing Off, No Programmers in 5 Years"
+    excerpt: "A weekly recap of worthwhile news around generative AI."
+    publishedDateTime: 2023-07-08T09:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-and-you-chatgpts-novelty-may-be-wearing-off-no-programmers-in-5-years/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
+    images:
+      - url: "https://www.cnet.com/a/img/resize/41cbb157c049beddd7df0797c19f328cabbfe0a1/hub/2023/07/07/e34a2ecf-f8c7-41ca-b901-08e6679a6de8/gettyimages-1502789130.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ChatGPT's Website Traffic Down 9.7% From June as AI Fatigue Sets In: Report"
     excerpt: "ChatGPT, the fastest-growing consumer app in the world, saw its traffic plunge 9.7% in June from a month before, marking the first monthly drop since its launch. Still, the artificial intelligence (AI) sensation remains the world’s most-used chatbot,"
     publishedDateTime: 2023-07-07T02:22:00Z

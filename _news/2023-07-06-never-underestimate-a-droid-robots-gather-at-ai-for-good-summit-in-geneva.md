@@ -30,31 +30,36 @@ images:
     isCached: true
 
 related:
-  - title: "Human-looking robots take questions at a Geneva news conference"
-    excerpt: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters."
-    publishedDateTime: 2023-07-07T22:42:00Z
-    webUrl: "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
-    ampWebUrl: "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
+  - title: "Robots take center stage at U.N.’s AI for Good Global Summit"
+    excerpt: "CNN’s Kim Brunhuber speaks with one of the creators of a robot featured at the U.N.’s AI for Good Global Summit in Geneva, Switzerland."
+    publishedDateTime: 2023-07-08T09:47:00Z
+    webUrl: "https://www.cnn.com/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 59
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230708054024-exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world-00002001.png?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
         isCached: true
-  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an"
-    publishedDateTime: 2023-07-07T19:34:00Z
-    webUrl: "https://www.mcall.com/2023/07/07/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/"
+  - title: "UN prepares for global summit to map the future of artificial intelligence"
+    excerpt: "Get insights on the UN's 'AI for Good Global Summit', its mission to manage AI's future, and notable attendees' contributions."
+    publishedDateTime: 2023-07-05T08:59:00Z
+    webUrl: "https://thethaiger.com/ph/news/546500/"
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 11
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 39
+    images:
+      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/07/Screen-Shot-2023-07-05-at-3.58.08-PM-1024x585.png"
+        width: 1024
+        height: 585
+        isCached: true
 
 secured: "Z+rGNk3cYIrrhrKaHG7eNQKnBzssWaxAXrOrflyDvBI76aX1cN1nRqxkBqlWvxhLsauPsKnTjtD0Uhex7qiGHj+Re6wUHad+rKOx0gGrVwftx81kB4XowqcUeG57eAUDU0cFQZjNShkHvknvZHUqs8vD0fXk0YXZZ1jAB6C5sltDkobVBT2k0ic+D3VuzuekJ/guvn/Bk99UHtKoO+0GqEJqgQZi8Vylrb31V3+R7iOVTXJBTeTRDShjZxrD1N362tsVvNnCUQ/ynJZOjTx49JAQTonvhmleRQ8SMXKyb8eX3w4Q6bSyV8zm1NOm2RaNBmEoTx5VeiqsJUJCQaET/aksJcU0ewCnhQrvYKGbBS/z24fbbnS3Mi8Rq186IqpgLns/LSLNFNk5YWHMagWD+boOAwhtDGCv2aVgZGDfhpW+5MkpJ2aJRwuPmNf/dQKySZBD2y8VITSwFbusNOxGH9Yg3FnI3rGSAf+KTCfo/DWgtUIYErqB3MLXhvONwuE6yHIFPjcul5+KbLpze2BcXQ==;XAv7xZr+IuM8LadcohYuYA=="
 ---

@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Public Health Agencies Are Harnessing AI And Advanced Analytics For Transformative Impact"
-    excerpt: "In recent years health agencies like CDC have leveraged data and analytics to enhance their capabilities and become more efficient."
-    publishedDateTime: 2023-07-03T16:32:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a2f741ef05b2265d8aa488/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Driving Web Analytics in the Financial Publishing Industry"
     excerpt: "What The Finance, a popular news website, has taken its web analytics capabilities to the next level with a partnership with Social Media"
     publishedDateTime: 2023-07-04T08:29:00Z
@@ -59,31 +43,29 @@ related:
         width: 650
         height: 363
         isCached: true
-  - title: "Digital transformation, AI, and the productivity problem"
-    excerpt: "There's a lot of talk about generative AI could boost productivity at companies in the midst of digital transformation. But moving too fast could make things worse."
-    publishedDateTime: 2023-07-06T14:01:00Z
-    webUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
+  - title: "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform"
+    excerpt: "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,"
+    publishedDateTime: 2023-07-05T15:48:00Z
+    webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 64
     images:
-      - url: "https://images.techhive.com/images/article/2014/09/worker_productivity-100413905-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4444/Unsplash_ThisisEngineering-RAEng_web.jpg"
+        width: 975
+        height: 548
         isCached: true
-  - title: "AI And Digital Transformations: Is Your Company Prepared?"
-    excerpt: "As powerful as AI may be, it’s also just an added tool for amplifying corporate efforts. Using it for the sake of implementation shouldn’t ever be a main goal in itself. Start by building a clear implementation strategy that identifies specific needs ..."
-    publishedDateTime: 2023-07-07T13:22:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/ai-and-digital-transformations-is-your-company-prepared/"
+  - title: "infinitii ai enters Quebec's smart infrastructure market with machine learning analytics sales with two major customers"
+    excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\") (CSE: IAI) (FSE: 7C5) (OTC: CDTAF) is proud to announce its entry into Quebec's smart infrastructure market by contracting with two new large-scale customers ­– the Montreal Metropolitan Community (\"CMM\") and the City of Montreal."
+    publishedDateTime: 2023-07-06T12:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/06/9844056.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
   - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
     excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
     publishedDateTime: 2023-07-06T15:42:00Z
