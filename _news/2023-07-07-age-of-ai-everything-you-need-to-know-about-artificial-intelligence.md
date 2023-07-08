@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 106
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -155,20 +155,6 @@ related:
       - url: "https://img.etimg.com/thumb/msid-101596863,width-1070,height-580,imgsize-31368,overlay-ettech/photo.jpg"
         width: 1070
         height: 580
-        isCached: true
-  - title: "Infera AI: Bridging the gap between hardware manufacturing and advanced AI"
-    excerpt: "Canada-based startup Infera AI seeks to bridge the gap between hardware manufacturing and cutting-edge artificial intelligence (AI) technologies. With their bespoke solutions and subject-matter expertise,"
-    publishedDateTime: 2023-07-04T02:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20230703VL206/ai-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 35
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230703vl206_files/3_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "What Does AI Know About Wine, Camping, and Airport Food?"
     excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."

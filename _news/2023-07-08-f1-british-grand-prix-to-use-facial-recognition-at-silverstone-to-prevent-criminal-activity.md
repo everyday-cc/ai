@@ -2,9 +2,9 @@
 category: news
 title: "F1 British Grand Prix to use facial recognition at Silverstone to prevent 'criminal activity'"
 excerpt: "The race, taking place at the Silverstone Circuit on Sunday, will use the technology after last year's installment featured protestors occupying a high-speed part of the track."
-publishedDateTime: 2023-07-07T18:44:00Z
-originalUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/07/07/Technology/formula-one-british-grand-prix-facial-recognition.aspx"
-webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/07/07/Technology/formula-one-british-grand-prix-facial-recognition.aspx"
+publishedDateTime: 2023-07-07T18:36:00Z
+originalUrl: "https://www.sportsbusinessdaily.com/Daily/Issues/2023/07/07/Technology/formula-one-british-grand-prix-facial-recognition.aspx"
+webUrl: "https://www.sportsbusinessdaily.com/Daily/Issues/2023/07/07/Technology/formula-one-british-grand-prix-facial-recognition.aspx"
 type: article
 quality: 8
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: Sports Business Journal
-  domain: sportsbusinessjournal.com
+  domain: sportsbusinessdaily.com
 
 topics:
   - Computer Vision
@@ -80,6 +80,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "oWsAznxXLO9wg9nY5u+NR6hhTEhbq38F9EyA0f+0EjQuX1mOJH0qOkhU9NMmHiiS79NXwR4oSGQiR0D+5KzWfuU7i1R5KNvxK/5A7pBT39I7dA916gOHm36SNKR0O3zMftW3fP5K0Qnbs49prMCQ+HhXr8o3bD2MV+QBGy3OZMAzz6t+fjwinZ+I9cUhxmP9CqxyJTiltnldnTwwcv/CfXKsJl8ThGRJo1usqLkdhVWy2VbhZBPSaL0GUzJOkXmL81WX6ZQ4Z7ry1rz/f864Taz14aeqe7hkAB3ckgAUiMc0WRtW9Abnzjt0OzodBysC/oaICWd90od3T+ypNLw2hIkJBj97wpG2KS89GXWq5Tk=;hv81y+3EMCU3xZWb3oMGRA=="
+secured: "7nATcHpfD8CT0vw2XY2Ul8tc4LOzngaodYyudUxChGHRapkt6sSTYv0pY1aAAx6mydzJZRxImpR38COPaa82GlZvFCY84knX++gk6tq/N8j8hbSC+rCUdnkX47QcWqTj90KSeZ8wEj31X9LVjjrW816yjz1Ndz9kn4v9LMtt/oQTfH4oRmVviWQJfEFuakcQRWwiSENBtfXdu81cESx7yU40AnIyH01bDRZB9xFTv0eTV+ARIFRuTU3oOZmACMKXoZBFil+ctEz1LD/HTwxRmp++qqcZsuQQKU6LPU8GlrqCDGEpVFBrgffhejrxShBH0Gc4QYHi9D3MzKGgjvD5Or1iKI1MgUT/hTv7gqDjQ5qnE01Ztp6sYRhMy8KCEUpirot4CyiNANACw1qSwEC31ukqjVJT0I9ymt3xfCjfxhg+4Me3M+0zeVZW7FMkJ3Vq4M/IcxVhom+jOjUnc8HKtRFkA+SYKIbAmzA2w+NwpxbTG+Fd0oj9jqIFjyeUjm5k7Nu9E2rGZsx7QNuOeHKR7g==;yjaFQVU4shko7lZ0/T9h5w=="
 ---
 

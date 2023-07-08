@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
-publishedDateTime: 2023-07-06T15:42:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/07/06/9844060.htm"
-webUrl: "https://it.tmcnet.com/news/2023/07/06/9844060.htm"
+excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI LONDON, July 6,"
+publishedDateTime: 2023-07-06T14:57:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/analytics-leaders-highlight-potential-of-generative-ai-at-mixpanel-s-annual-emea-customer-forum-1032430062"
+webUrl: "https://markets.businessinsider.com/news/stocks/analytics-leaders-highlight-potential-of-generative-ai-at-mixpanel-s-annual-emea-customer-forum-1032430062"
 type: article
-quality: 7
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
@@ -75,6 +79,6 @@ related:
       domain: inferse.com
     quality: 4
 
-secured: "KEIBQDmg87m7iv4fdMzw6ijP76qYOho9ig6RVpXxZSzQGDQQ1fbTbIXk9cUPKz1xgg86Bm5Rb1h8XNZJFrLNK1Zai3+LHB6IXb+ZLaTcocEDIZF9AA7no+aekVCJ6opHD4wSqgEf7dQU3G/VARJcC9zyvi1WmGKFCaUnp0ZLpXE9Ew3e+3R3yLpR3xNJi2sfUKH6DtrtfFMyG49aQAFv4kK5v+9Zk7a0+qcAQDsHGw8giJHiiZrcEkPVDQXV+m04tzFwilYmqR9Xasx7SQAaL+khCkAsHY2NDwdaKUq9gkHVlX1USj4h1xmPkuWN0KFo8f5wDbcUoPXm/VrTDjrfSEs0qoMR7S/oWGc4yrkq7j4=;4aN19O1lcPfHAP96H1x/iA=="
+secured: "z1IeHRQud769SXtdsRVossAoSNnTJ02MzSyiR9w3gp27Q7jotwfaVlle+vZfiWDnhIqcHNhwgO3NGKJb153nM8cWzg2h5c6Cn9JZMnbsC0Ki3Mid7qq3NYaMP1LO4Hxyqc09TEDQU3RqpZ38rKii4ozwi020k7oW2s9CzV1NPg/rSNGRi511eXeZVx5MA/wYaDi3qrn1JtHp3axHYf+vsR8lhcU36c6Io6iRh5TOhMf5Z0PaLUXD9RQVs5FwwO8SyvDMc1l+LJh5Jvdsp2dsNEMFFkZz2hbXt54Nn6+tUKpbVub0XEyZ02/u+0XqQrA39jfGMWvXQENV1fRxYs+D1k4cWA4PUdx4UrEfQDMFnyo=;EY/7hT9IlfuJBsW8lWRTKA=="
 ---
 

@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Scanbot SDK Named Among Vendors in Computer Vision Tools Landscape Report"
-excerpt: "The Scanbot Barcode Scanner SDK turns any mobile device into a reliable, easy-to-use barcode scanner, while the Document Scanner SDK enables enterprises to transform physical docu"
-publishedDateTime: 2023-06-30T06:23:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/30/9842182.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/30/9842182.htm"
+excerpt: "Scanbot SDK has been included by research and advisory firm Forrester among vendors of computer vision technology in their recently released report \"The Computer Vision Tools Landscape, Q2 2023 - Forrester's Overview Of 38 Vendors\"."
+publishedDateTime: 2023-06-30T12:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153"
+webUrl: "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/2142895/Scanbot_SDK_Tool.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "nQ8n18U6F/gIsea3Wm6uq6mxsW/xBQHM5yBQ/WLsJpMBKybWLtt3u8YzPOIEyLK7tv4RxHz4oBwU4LNhGz8ji5dKq6Gyk11oSLyY7CxBWiF5NgJ8o8RGTd9rnMIR6ks4vF91tFQpG+O+KJtglxyK7xFa49GyBtX+8OporiX3kfWfeS5c0O+7zVc/ZhWNK1nHoI4xW1TfUwIICQn5zdSGKWrMPF4Yjnz3fyZ6R5ghK+mN5HXnbF2Q0ZP88DIkn5QMhJu3l9UGy08cfriZKZ7gDmfBYHzQfHMyulCxU3LLKeaOQ4oPBnmqrPdKdqXwKvMdGiLT7ObAPeGa0MSwK3X/koe2tS7TwuRrwX4X62XKZYE1llRnQUem7AGGNB1e3B28hlPW3q5Jx2OiN5zaZbqBxpfhZwe+rd5jXSvpRW2PlnTeO0jZxbEV/QPYtAC6BVOcy7mcqzokwfiQVqearoTRKtNtDr6iX3FlY0IPcTjL1qQeII8di22LaFuhLJ/GHg9AaJEj3lsNQGsH+hlMUS+weg==;Q7j5wBCnPOtOMIfQdggzAw=="
+secured: "zKN4ktBopcgdCMLWJb65WNlz0+9/R+jDDvoXAsrcSB0MqvmyU1H8d0SQW5lFyukkemJy+hghxWu7omTUi23LsZHg+lfbRWkM1lcH08ZPhTdNj1HbMqiFOyC67jTKyxC2c2qkpn49g382zBe+JMiZqGaYe/WMhrnanCXGK4TsHXh3NVqWWU40aLrOngbe1d4+F8LU32oUSMzBXNYrmeK/lSqUBe0DSVlTBe3J2d2Bq59Fpxt/4WFLT/9N5uzff79C1CKTzROYfp67/NSk9Z/z2zjBmmAGJXpdN54aOzUWyLj8I+J6fEyPwU/iCYl5Z8JhvZi+kQpGs4ptyy6//uypM6Bku5CPoDDt1iw5eDzTEhk=;TWJ3HCD2UjhtvPcMR3AbiQ=="
 ---
 

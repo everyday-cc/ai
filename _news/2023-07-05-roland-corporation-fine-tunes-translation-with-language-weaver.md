@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing - Belgium"
+    excerpt: "Value in the Natural Language Processing market is projected to reach US$186.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.52%, resulting in a market volume ..."
+    publishedDateTime: 2023-07-08T04:39:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/belgium"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 19
 
 secured: "VfxQVJJnTpAKMYcZ61mbBcasXmnEh6lA9ueg7hpIgwBYOQfMD7DLED8AMHNMIQlYzN0UqWVsXkLwjwLMlNnCldS4B6UDcJyNoO41MBGTRb3qEhCy7t5e9otXYPf/0B/dt46eZT45S9AqE0GVEwL/fBBr3cp8T30ihpYNagyFAQ8GhmH2g7i5FVSiD8RhZJpaWZRPSp3phT40iLEJ07AOJkDHwmTuQMIf2KesJ7tGq8/SHimt9Dxu2n0CBxOCtI77j26RdDWzchIAJRJvmYNq7n1qSy1vdACKpB4oqQY9zs/gUPSnZjxJlxYqbjfiqneQN8bhF4pBQTIg6u1y1ht7CWtm4l5177BCYibpNxVurhc=;DxgF7nL4f9NAF2gyKWgxQg=="
 ---

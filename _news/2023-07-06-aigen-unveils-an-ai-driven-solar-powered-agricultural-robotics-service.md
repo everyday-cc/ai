@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/aigen-unveils-an-ai-driven-solar-po
 webUrl: "https://www.therobotreport.com/aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service/"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "AI Service Robotics - Spain"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$99.63m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.71%, resulting in a market volume of US$260 ..."
+    publishedDateTime: 2023-07-07T20:07:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/spain"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 49
 
 secured: "a/SYV8caVq1LxfvkpSpM4YFdHU6Di7P9mqNLXc4fOqnZwqoFMAwiNqtu2edCtuMmbg/ekJ0JGm7ykSH+wB3WEoI7aYQyKaGuFt6fF2iKkDnY/86D1ygGcQ7JjkMJFTuun0OwD2L1X1/wFxgO3GmHsMCqajyEMuRh0HZc5d9QwVKTd36HbDQWtPscicTT60Ta0lMu4RtFndYcj/OnJ6dWjmkhbud/fE+8JA7kL44XWpAYTApTwmOm3wX9FJo2iAikjwkh4Gxh6rU3oR7aL6+qIgXc1FsZpx50+HG8K67cPnENs5qVfJ0uOv2itlYrFTUcNjbZX5640v1pCv8CWEnNMgBN5qWimiGX6M3DkSgWj/apcrafNXYK3LtscSIGYQiH8QfLkketOm/Vs/7U+5tQVivAxIAxQO0c8hNJLPBX7Utdm0uV8z32o/Z1jc7Vvb3GI7BreHe0P1vhEPzQXgEXqtNKJ9gUC+IO94yxb6Cc2a0nI8pM9f+PIYCZh0o+i+ccJLHGNiub4NKW31KwCiZtfQ==;f2xR6cnlTordUuOHS5v3ww=="
 ---

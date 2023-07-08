@@ -43,6 +43,15 @@ related:
         width: 650
         height: 363
         isCached: true
+  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
+    excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI LONDON, July 6,"
+    publishedDateTime: 2023-07-06T14:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analytics-leaders-highlight-potential-of-generative-ai-at-mixpanel-s-annual-emea-customer-forum-1032430062"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "infinitii ai enters Quebec's smart infrastructure market with machine learning analytics sales with two major customers"
     excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\") (CSE: IAI) (FSE: 7C5) (OTC: CDTAF) is proud to announce its entry into Quebec's smart infrastructure market by contracting with two new large-scale customers ­– the Montreal Metropolitan Community (\"CMM\") and the City of Montreal."
     publishedDateTime: 2023-07-06T12:59:00Z
@@ -52,15 +61,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 27
-  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-    excerpt: "Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London, where more than 100 product and analytics leaders from the world's most exciting digital innovators gathered to exchange ideas,"
-    publishedDateTime: 2023-07-06T15:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/06/9844060.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
   - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
     excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London,"
     publishedDateTime: 2023-07-07T01:05:00Z

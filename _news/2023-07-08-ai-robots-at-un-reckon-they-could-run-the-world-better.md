@@ -19,33 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI"
-    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots."
-    publishedDateTime: 2023-07-06T18:04:00Z
-    webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
-    ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
-  - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
-    excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
-    publishedDateTime: 2023-07-06T14:51:00Z
-    webUrl: "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1139719"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1139719"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 69
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
     publishedDateTime: 2023-07-07T14:34:00Z
@@ -74,29 +47,47 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Rise of the robots: UN tries to tackle ‘mind-blowing’ growth of artificial intelligence"
-    excerpt: "A nightmare scenario has unchecked AI advances leading to “geopolitical instability and economic disparity on a scale we’ve never seen before”. Read more at straitstimes.com."
-    publishedDateTime: 2023-07-06T16:20:00Z
-    webUrl: "https://www.straitstimes.com/world/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-artificial-intelligence"
+  - title: "AI Could Change How Blind People See the World"
+    excerpt: "Assistive technology services are integrating OpenAI's GPT-4, using artificial intelligence to help describe objects and people."
+    publishedDateTime: 2023-07-05T11:00:00Z
+    webUrl: "https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 46
+      name: Wired
+      domain: wired.com
+    quality: 49
+  - title: "Robots reshape the future: Humanoid robots claim superiority in world governance at unprecedented press conference"
+    excerpt: "During a United Nations summit held in Geneva, humanoid robots delivered speeches asserting their potential to govern the world better than humans. Equipped with artificial intelligence technology, these machines urged caution regarding artificial intelligence and acknowledged their current lack of emotions and understanding of human feelings."
+    publishedDateTime: 2023-07-08T11:33:00Z
+    webUrl: "https://www.lbcgroup.tv/news/world-news/712490/robots-reshape-the-future-humanoid-robots-claim-su/en"
+    type: article
+    provider:
+      name: LBCI Lebanon
+      domain: lbcgroup.tv
+    quality: 32
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/SWITZERLAND-SCIENCE-COMPUTERS-ITU-AI-105057.jpg?VersionId=Mw9deeUvgnDmOBg7QFc9gmZ3Qw0RBaSa"
-        width: 860
-        height: 573
+      - url: "https://www.lbcgroup.tv/uploadImages/DocumentImages/Doc-P-712490-638244129348713672.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "AI summit showcases human-like robots to aid UN mission"
-    excerpt: "Dozens of humanoid-like robots will take center stage at the United Nations “AI For Good” Global Summit, showcasing how AI can be used to support human wellbeing."
-    publishedDateTime: 2023-07-05T21:20:00Z
-    webUrl: "https://cybernews.com/tech/united-nations-ai-summit-robots-human-wellbeing/"
+  - title: "A Peek into 2023 World Artificial Intelligence Conference"
+    excerpt: "This year's World Artificial Intelligence Conference will begin on Thursday in Shanghai and companies are making advances with avatars. An avatar generator turned heads last year, as a spherical scann"
+    publishedDateTime: 2023-07-05T08:33:00Z
+    webUrl: "https://www.victoriaadvocate.com/a-peek-into-2023-world-artificial-intelligence-conference/video_7c95f275-534b-57e9-b10e-4e13006f0660.html"
     type: article
     provider:
-      name: cybernews
-      domain: cybernews.com
-    quality: 34
+      name: The Victoria Advocate
+      domain: victoriaadvocate.com
+    quality: 17
+  - title: "The World Artificial Intelligence Conference 2023 is set to unfold magnificently from the 6th to the 8th of July."
+    excerpt: "The World Artificial Intelligence Conference 2023 (WAIC2023) will be held in Shanghai from July 6th to 8th (UTC+8). This year's illustrious gathering orbits around the central theme of \"Intelligent"
+    publishedDateTime: 2023-07-06T18:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33138024/the-world-artificial-intelligence-conference-2023-is-set-to-unfold-magnificently-from-the-6th-to-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "elCQeVOvCFT9Q2GQWJUR1/GATrOFJWAaRz6ib8rTlnmsAcni0LIvIK+KtQygrNpyp9Hadr6UmZjBgrKxwck/50I1xipdHjuvEDnsv+KaDh2wH+fbIWwdy8/NDyuK1BpBzgv5HGrVOnWyHYu80sEdb5/R8+a6vw1CZPRYpZPEi9uotCIUMjVfViLcjujoZJRMLVcPIXRD9pJB5p182KBwVsSZIQfngeGZvlNuvKSrp+bc8LsZLke8rSDpRDnNKGvKVEh97zLTkSuwXZsFBMFPOewExFWrtQmgc1UDlceeGpuTerjWIL8X58JugHQCDgTlXCZa3PZr05uL+kZ1uxSXG1zia66yMPI75Py9+X95GX5k5rcZsWPNjQiVHLKk0m3ycairK0tdIhCBTVC3ttXOUfbbsjViUvr50qb+iQ1q9i+swh1KtBkZaea5fF9otUa9hJjgo06Hcxo6+5mg2ivf6BP24GwsCL1a2piR+VtBEFcOUXoIK9g1B9jKU84YzH5mnDj3/qfAesYy6vIeeed91w==;6Vfa+PbHiI8rRAU4EMghCQ=="
 ---

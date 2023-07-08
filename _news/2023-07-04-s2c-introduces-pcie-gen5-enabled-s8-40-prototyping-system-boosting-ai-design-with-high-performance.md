@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/s2c-introduces-pcie-gen5-enab
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/s2c-introduces-pcie-gen5-enabled-s8-40-prototyping-system-boosting-ai-design-with-high-performance/amp/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1500
     height: 844
     isCached: true
-
-related:
-  - title: "S2C's PCIe Gen5-Enabled S8-40 Prototyping System, Accelerating AI Design with High Performance"
-    excerpt: "S2C, a recognized leader in FPGA-based prototyping solutions, announces the release of S8-40 Prodigy Logic System, featuring the latest generation FPGA from AMD. Supporting"
-    publishedDateTime: 2023-07-04T02:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33103641/s2cs-pcie-gen5-enabled-s8-40-prototyping-system-accelerating-ai-design-with-high-performance"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33103641"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33103641"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "rk7ePcoBMEhRurweIbyNpRTHBbNbXoQLQEgFRH/r8a5NNLR6OW3x84ktTgmpBVjN9TDp03dHtl0Ix1iyHCBQDtYMTEnS6pFz0eviWwYpXPRS+VewtCCSnurpgRRGz9Sh9NTr2G7f7p/2g+NUlsTqn64tX+vNnNNyDGYHPppw0M/1IDHBpPUkk0VPNziUw5ejqBTy5IYAuVrCAZokwyAdAwwkShndg85f5RLgpqwXS1djQmgnvx7LkFAyXhgOgECY5/O4df29ORsRC5a0/GynNjsYJjt+iVQ+J3B7rVeaYxFHGo1HL/HoCbeySCbMX+JOT4gNjBP1idFGODpmGNyD1ovkaHuyTcmq91XqWDztM6Q=;49d652cffsV3dN0aPdOVMQ=="
 ---

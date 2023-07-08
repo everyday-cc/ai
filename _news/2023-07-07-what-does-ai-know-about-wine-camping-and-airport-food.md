@@ -158,20 +158,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Infera AI: Bridging the gap between hardware manufacturing and advanced AI"
-    excerpt: "Canada-based startup Infera AI seeks to bridge the gap between hardware manufacturing and cutting-edge artificial intelligence (AI) technologies. With their bespoke solutions and subject-matter expertise,"
-    publishedDateTime: 2023-07-04T02:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20230703VL206/ai-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 35
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230703vl206_files/3_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "HmNFozTf/WlbAtfzS37dpnVZOtkg0AoerWSiX6eG9Ci10d5aelcYdylm/viO2d8UuecVHKF2M5fPGlXMXYT8A0V2cq1yekzcJQBFkgI/VnapxD67+rICiGuem8kn6VsUKrLzxoh0RhvTNOj3gd2SkgXAHD8Jt0CYu726K1rXVL+eepyWG7/xKqIg6b3dWggOyZ59bYvFBUAvhh5YkAWH+wfzG+/5C8MUrKDmpXEHi5wNaPZGELRzowKu2UG/Xuo4eW1HFoP5Qe6T0H38tXx/qT5GMgHm2WvlBRQW7KHUG40091NJyWkTMDvvi7iGw+B+C1j1Cv8K/StM7iWjbzqGcPLzJC/XUDE68iD87crENHPZIJA3kfkIW6FS3znsY8TLJwxASHI7vzH7feIylDzmyMYBB/5a1TEOd6No8NLZyHIxsjnQBj4Iu/tdrs8+rj0zvIRhSc4F6W/pMPsYNpy50xzdEBvG5pHIrYGZFsplQOUNzFsXF+K2SmIDrrw9jQjUtTxFYb6RFgxx4T6tdMhAYg==;qZr+0wVVioqzWBTBXRlogA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/07/ab33138024/the-world-
 webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33138024/the-world-artificial-intelligence-conference-2023-is-set-to-unfold-magnificently-from-the-6th-to-"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,77 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
+    publishedDateTime: 2023-07-07T14:34:00Z
+    webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
+        width: 1024
+        height: 673
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
+    publishedDateTime: 2023-07-08T03:45:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world/101587755"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "AI Could Change How Blind People See the World"
+    excerpt: "Assistive technology services are integrating OpenAI's GPT-4, using artificial intelligence to help describe objects and people."
+    publishedDateTime: 2023-07-05T11:00:00Z
+    webUrl: "https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
+  - title: "AI robots at UN reckon they could run the world better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-08T12:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-robots-at-un-reckon-they-could-run-the-world-better/articleshow/101598689.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+  - title: "Robots reshape the future: Humanoid robots claim superiority in world governance at unprecedented press conference"
+    excerpt: "During a United Nations summit held in Geneva, humanoid robots delivered speeches asserting their potential to govern the world better than humans. Equipped with artificial intelligence technology, these machines urged caution regarding artificial intelligence and acknowledged their current lack of emotions and understanding of human feelings."
+    publishedDateTime: 2023-07-08T11:33:00Z
+    webUrl: "https://www.lbcgroup.tv/news/world-news/712490/robots-reshape-the-future-humanoid-robots-claim-su/en"
+    type: article
+    provider:
+      name: LBCI Lebanon
+      domain: lbcgroup.tv
+    quality: 32
+    images:
+      - url: "https://www.lbcgroup.tv/uploadImages/DocumentImages/Doc-P-712490-638244129348713672.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "A Peek into 2023 World Artificial Intelligence Conference"
+    excerpt: "This year's World Artificial Intelligence Conference will begin on Thursday in Shanghai and companies are making advances with avatars. An avatar generator turned heads last year, as a spherical scann"
+    publishedDateTime: 2023-07-05T08:33:00Z
+    webUrl: "https://www.victoriaadvocate.com/a-peek-into-2023-world-artificial-intelligence-conference/video_7c95f275-534b-57e9-b10e-4e13006f0660.html"
+    type: article
+    provider:
+      name: The Victoria Advocate
+      domain: victoriaadvocate.com
+    quality: 17
 
 secured: "RA1godNoe6cThCO7n6fLvcLypwa/KqQGCULfqq/g6GprS6FsRRM104Wq6ARoQDMKa1r+6rofwE6GwO5CALp1LLZz2lEFwejTFskvV+0S9cuO939IXrGr42c4akN+JReQZNB31Aqz7EaPKc2MlDBbpRcadMe/Z1dp7kaCbNd8pK37j9E/VBOV8zSZQaX6O0c95bLAXxZgPU+PAvavxVal6/lWevkH/fH4QdrQVgp6/dKUMg+gRpLfl9Ao6rnCkgbq1jY1ri3/HwccHW/bf+mLQnXz5gKcv0OOWRtUPc5ZWNKw4UavoHDuOT+HHmmYs/p+cZ5UQTnDsmxI+KcqC6DAcEll6PEQASIqvbOiNly9Ziw=;CAmLTVgOWx8e5FqdFTZjhA=="
 ---

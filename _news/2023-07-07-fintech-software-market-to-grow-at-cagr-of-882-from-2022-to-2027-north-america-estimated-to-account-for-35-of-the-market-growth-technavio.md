@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
-excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date"
-publishedDateTime: 2023-07-07T07:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33144055/fintech-software-market-to-grow-at-cagr-of-8-82-from-2022-to-2027-north-america-estimated-to-accou"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/n33144055/fintech-software-market-to-grow-at-cagr-of-8-82-from-2022-to-2027-north-america-estimated-to-accou"
-ampWebUrl: "https://www.benzinga.com/amp/content/33144055"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33144055"
+excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"
+publishedDateTime: 2023-07-07T07:18:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
 type: article
-quality: 7
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -106,6 +105,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "be6eqTndp4W380j6yUugFsoqMBzfaPuT28WTLfjMZCJapjRuAawCF1AE0p0kXkY/ZmaMPX0A3NH9Zc7KPupJSBRJFwA25KleMXhkOtfKiyRZZdRec4M1NVL0/rwLmkgXjF92JTZcYN+fWWmJE8obnIqX/nZSSyPpHVYG5g+OtLNUMu9jfZ494yqgehCVEGmj4mvJMgTRjDQHTHyVXYoeAzFc7dUKIfv/jIW+5Sf4AHGsXAq3Dj39dxRDQOyf8ABqExAhhMUq44fP1Lwp7D3EvPJnQUT40a9McEy/Wb0xjzZtkITTsBS9+rMDCawhRNeHaEMn1T4B6pl0EQqTgtm/J7O5QaVJxls23pv46lx83DA=;uayzPEELAShUFj0lSvaieQ=="
+secured: "1lshbhseEcOySMZgFuqpsKpO4NCbSkETyQkmvUci1mEhOJYRwIOh7rxC17MbP4kkPDXFj9PnKHThXvwFCWx9nQU9z8d4TBeD3LPfUMHwu3Yk9ZHG9PNIWffGjxUPIWdh59dC8H0JsQECZQNMkHIxwcQ2L4p4sPlK0bwXinRFZAOS/mHYPYP1jTzInUYTPPPcbsxiRwqjxPj7mkwVeBgv8Q7Jn0l9hibmuiCSPm5AftHAlmcKWQ5Y+2ZBGT5Yvn3oaQNpKXntnyOiPza5JD3MaYJVTcGN4ukIhjW8vV+cSYuMIXKN88TVbuiE+kF72vAHjHNaZo0DB2OJagnMU8Qr83/engYcKUut8ef9sTBkFjg=;BeLb1aD4lJ59LY3hN7fu8w=="
 ---
 

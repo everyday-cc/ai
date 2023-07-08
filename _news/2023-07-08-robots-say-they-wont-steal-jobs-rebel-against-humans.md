@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-stea
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
+    quality: 34
+  - title: "Robots say won’t steal jobs, rebel against humans"
+    excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us."
+    publishedDateTime: 2023-07-08T18:42:00Z
+    webUrl: "https://www.thedailystar.net/news/world/news/robots-say-wont-steal-jobs-rebel-against-humans-3364466"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
     quality: 34
   - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
     excerpt: "Humanoid robots say they could lead more efficiently than humans, but wouldn’t take anyone’s job away and had no intention of rebelling against their creators."

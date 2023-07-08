@@ -1,27 +1,29 @@
 ---
 category: news
 title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-excerpt: "A U.N. technology agency assembled a group of robots that physically resembled humans at a news conference. The International Telecommunication Union invited reporters to ask them questions on Friday"
-publishedDateTime: 2023-07-07T19:15:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/article_54bd9f55-9ff3-573d-a3c5-c18ac445cb29.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/article_54bd9f55-9ff3-573d-a3c5-c18ac445cb29.html"
+excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
+publishedDateTime: 2023-07-08T10:41:00Z
+originalUrl: "https://techxplore.com/news/2023-07-tech-agency-human-looking-robots-geneva.html"
+webUrl: "https://techxplore.com/news/2023-07-tech-agency-human-looking-robots-geneva.html"
+ampWebUrl: "https://techxplore.com/news/2023-07-tech-agency-human-looking-robots-geneva.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-tech-agency-human-looking-robots-geneva.amp"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/35/33550780-bc0c-513c-9192-0169d375f3d5/64a8143dc00e6.image.jpg?crop=1780%2C935%2C0%2C114&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/un-tech-agency-rolls-o.jpg"
+    width: 2880
+    height: 1884
     isCached: true
 
 related:
@@ -41,7 +43,16 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
+    excerpt: "Robots are presented during a press conference with a panel of AI-enabled humanoid social robots as part of International Telecommunication Union (ITU) 'AI for Good' global summit in Geneva, Switzerland,"
+    publishedDateTime: 2023-07-08T18:38:00Z
+    webUrl: "https://www.vindy.com/wire/?category=6&ID=297029"
+    type: article
+    provider:
+      name: The Vindicator
+      domain: vindy.com
+    quality: 11
 
-secured: "Mp/SlxbSDaozBpoiFr1Y2/qBdTTcXhYn70nECKAhL1/tjR+RQ2rayaEIojN4IGGJRQuJfUfAs1IhtqQsGHFl4kcdribEn/P7TVS0JBPppSPkQ7zd7G8EbTmab7SlfWV03AxMFFaTyZ02+yiU7z+78RSAbiHPk8qe2iUyFymFtVU1zBUFmepJl/eIOzggGXzVQyitBUJ/zs+MP8lFlF49DaLX/ToomuC1zJF/B8zQHPHxs/vJyRQeZGnW9K99k2vUzKxEQGdA2/gnY48Bw40u7uAw6ph9TXYdtu7sY5pjU6QvxvqOKLv66dlwbUAj9Ysn0JO9uOGPAc60U73ehhP+W/Z9sfbHPpzZUMBDJ5cLH04=;fVuwrWOLsMoUs4TdiHNJgw=="
+secured: "3PvFNzL3skYCoqF038tevAnUYNjKoOJGMTwuirZ76dDXudiMZTy3Vza8RrkRnCovwOM+125Xcx/ArZduLdgdZ+u1Et9PBAs/3o1MxIaz27LN+dzKuytXTDMEgn8QHSQ6x9B33iupMLSASIzm5m5sVItZYsEd/SgSe0m5Vaa1MqzcmsnxRfURoj0iCBfsGVDzhiUo8ojRaBTWSeb5/OF0Tt6wFTi32/gsAAymkt4I1+iG+P+i3V9LG/ll1eAN405qlKgAelLoJ15Ko5LOv4Zt1qnXmojOB3vX8sXlbMkRqAwqxVvSFNeMFMlLRaBr0Hzn/lUdO3oNHedHenqg1dgN0ZU85bnN2OsUUseQjzGLOF8=;I/rEiVCGkuRqaL3iylkhNg=="
 ---
 

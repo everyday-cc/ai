@@ -18,15 +18,75 @@ topics:
   - AI
 
 related:
-  - title: "Compact Computing Device for AI Edge Inference"
-    excerpt: "ASUS IoT has introduced next-generation computing devices with highly efficient and powerful GPU for AI-powered IoT applications."
-    publishedDateTime: 2023-07-05T11:17:00Z
-    webUrl: "https://www.electronicsforu.com/news/compact-computing-device-for-ai-edge-inference"
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
+    publishedDateTime: 2023-07-07T14:34:00Z
+    webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
     type: article
     provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 19
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
+        width: 1024
+        height: 673
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
+    publishedDateTime: 2023-07-08T03:45:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world/101587755"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "AI Could Change How Blind People See the World"
+    excerpt: "Assistive technology services are integrating OpenAI's GPT-4, using artificial intelligence to help describe objects and people."
+    publishedDateTime: 2023-07-05T11:00:00Z
+    webUrl: "https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
+  - title: "AI robots at UN reckon they could run the world better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-08T12:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-robots-at-un-reckon-they-could-run-the-world-better/articleshow/101598689.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+  - title: "Robots reshape the future: Humanoid robots claim superiority in world governance at unprecedented press conference"
+    excerpt: "During a United Nations summit held in Geneva, humanoid robots delivered speeches asserting their potential to govern the world better than humans. Equipped with artificial intelligence technology, these machines urged caution regarding artificial intelligence and acknowledged their current lack of emotions and understanding of human feelings."
+    publishedDateTime: 2023-07-08T11:33:00Z
+    webUrl: "https://www.lbcgroup.tv/news/world-news/712490/robots-reshape-the-future-humanoid-robots-claim-su/en"
+    type: article
+    provider:
+      name: LBCI Lebanon
+      domain: lbcgroup.tv
+    quality: 32
+    images:
+      - url: "https://www.lbcgroup.tv/uploadImages/DocumentImages/Doc-P-712490-638244129348713672.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The World Artificial Intelligence Conference 2023 is set to unfold magnificently from the 6th to the 8th of July."
+    excerpt: "The World Artificial Intelligence Conference 2023 (WAIC2023) will be held in Shanghai from July 6th to 8th (UTC+8). This year's illustrious gathering orbits around the central theme of \"Intelligent"
+    publishedDateTime: 2023-07-06T18:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33138024/the-world-artificial-intelligence-conference-2023-is-set-to-unfold-magnificently-from-the-6th-to-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "6F6M8w4kmrokhcrDMxo+6v/DrhNyLPk9vkiCpDfGqvPbq5iFMYuS2VBHGbNYVpDln+2zIqgkLzmmLHb607STAhwh4so9+d8YJL+dgqRQFzjbwbAB/0FJO3nH8cUYzHhGvKFZnOA2r9Fg+inTivTIB1utBVrvkpoZh18+vhsxuP6ge8j21xZ1LU0mnb+t7heLJfECMRZFdzGCuHArz848+vbSSHbOEC5Q82JpBlDH6Fsm+wTj51VIYCS33uWTM84U7vN5lw1j/AYt5+K4YRD4VbaByiS2TWYM67DDrICq/tWWcOg6GFmOw1gKEDi1Hn599/OTjysjLXMjZGbc6t4XoW6TwOFqVP6Y17ryZ0XSnRjkFPgk7bXchmjYUaSweckVfvc0hRk44vKSd812JzfAe+95uJB1iM2AwpgOlGcOVtuZUaD+7lg0d/orj8C6aUbM92HNf0GQrvPFAfjOrs+MRAyUuVNWuLZHVxIWZe9fJfEwsURfH0h9y9JZChw2s+xTF0DxdEOuaLJ20B6mHLxfnA==;U+9Nv9jZuccMlsJsPVaHDQ=="
 ---

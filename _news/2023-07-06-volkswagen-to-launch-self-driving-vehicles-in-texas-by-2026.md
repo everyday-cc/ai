@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-l
 webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/"
 type: article
 quality: 54
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
         width: 1500
         height: 1893
         isCached: true
+  - title: "Self-Driving VW ID. Buzz Will Start Testing In The US"
+    excerpt: "As part of its future expansion strategy into more US cities, Volkswagen has announced its plans to conduct tests on self-driving microbuses in Austin, Texas. The brand will utilize the autonomous technology developed by Mobileye to operate a fleet of ten all-electric ID."
+    publishedDateTime: 2023-07-08T18:50:00Z
+    webUrl: "https://carbuzz.com/news/self-driving-vw-id-buzz-will-start-testing-in-the-us"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 4
 
 secured: "npQbJdHb2jSCFjgjExW7E1VL9kWdUNNC20Rl2JHnSMtJO2KHB//eNdsO9hRwhIsGExkX2lM0OUgoRhV/4T4UhMNrsWpiLrmmKgLlbS0HC4oCJ1jBpwhUXAd7KQDK+NYWleaJdFD/Rk6+q3l7GXEh9G7nI5+9GAf1c5hewPI9lFANJmJ7v+hq7iV71KDM+wvFwqjTecYIrI7JcvuSd96+1QCawwBqtv3gk4lu3nzovQEY3OGzgVbmMCym1RbE67dHqEyZ4oXC7MuEfirVx16nbposQwgXVdak1h14jwVKPdjTC8d+4QlmQx+DIIs4yA97ZtEcmd8H16lYLREkzwk9gV7uXoboQWUL0fDGkAiCxofVpexTAr/Q22L/Mu4kyBtpezO9MKCdBnHiDdBsp1By27PwYeQrEBgU/efYKyFSSnI59xrN63idLXrKpobtwnjGfFLyY3Z7i28CXMqdGrkDK7r6J2i3mC+31AVsU+kR3YECV+atDR5zsk25OYQBlafT5i+ZOT7V5AzoDHbzLGqSrw==;bxb3BKmec8go2QepoaBSKw=="
 ---

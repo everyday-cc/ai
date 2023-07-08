@@ -131,6 +131,15 @@ related:
         width: 1500
         height: 1893
         isCached: true
+  - title: "Self-Driving VW ID. Buzz Will Start Testing In The US"
+    excerpt: "As part of its future expansion strategy into more US cities, Volkswagen has announced its plans to conduct tests on self-driving microbuses in Austin, Texas. The brand will utilize the autonomous technology developed by Mobileye to operate a fleet of ten all-electric ID."
+    publishedDateTime: 2023-07-08T18:50:00Z
+    webUrl: "https://carbuzz.com/news/self-driving-vw-id-buzz-will-start-testing-in-the-us"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 4
 
 secured: "2n1Lt0RTFlKmWyAPHozL/HNZwDI6u0uJ8URxwpTkQDQiDggVCjijZKVX63R8i2l0ZcdMV59+2ypQtq9X41gALNn7BuzNbdV0fU2tWSwsXIvsgvwCAAMxMEVbexd0LwhDoVEYtad21PeXdukypX77Tb7YAWWFzV+itDrSK9jHb6wFwJAZhJFRZYv64KnIl55jyOZSa1O4G1rRDx/uvfqGMKD8vDtiUYMd3etZ+vNs5eoTrTw/EMHdVesewdBjCi2rX4dBKeoIeWTQn1hA6kzbnmvcVOjK0RWNH1DQ98Da0bpPg9uY7COF8Lw7d9lL8QZOk7K7UU/xw2nendgZRS/QMLWnUNC4gPlOeyy7Fj0HZnIbXE23OK5exU128qspiTYfVwUeCCrGxiaZo0jWdetk7tFt9msAaAlAR16pXBvbps/4wj/W7hoCiYGTPj1aneu42rBS4Evjrolg5b+oZMwOUdCtN/g9BoPms+9xOP+YeEH/QsiBR6aDzzK08TIrP3wKYeTZwDvdr3dPKVbFKo/q9g==;38rPQJhEHzH+NeadzGWhzA=="
 ---

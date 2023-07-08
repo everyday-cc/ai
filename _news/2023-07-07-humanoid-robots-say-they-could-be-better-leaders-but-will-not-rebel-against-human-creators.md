@@ -102,6 +102,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 34
+  - title: "Robots say won’t steal jobs, rebel against humans"
+    excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us."
+    publishedDateTime: 2023-07-08T18:42:00Z
+    webUrl: "https://www.thedailystar.net/news/world/news/robots-say-wont-steal-jobs-rebel-against-humans-3364466"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 34
   - title: "Robots in world's first AI press conference say they won't steal jobs or rebel against humans"
     excerpt: "In the world's first robot-human conference in Geneva, robots say they expect to increase in number, help solve global problems, and will not steal humans jobs or rebel."
     publishedDateTime: 2023-07-07T19:50:00Z

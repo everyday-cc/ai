@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Best Amazon deals in July 2023: Today's best sales"
+    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. And with Prime ..."
+    publishedDateTime: 2023-07-07T15:43:00Z
+    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 21
 
 secured: "MmFs9krkvbcbe4fS67jBMbDka3x57d82CBdIS5gz0q6emVfTPNF2slZnOsWVF3b0LQIPK2FMjsXtOcPncuz05A90hg6XsRP4Ei8b8pglVzZ7evLHYzweocoV5nfwoIT/7850VEhT2x9u++Z3mpU+PMSUQnR1AVYYuIwHdTYo7gLMan4GW9oHk3YYoWTVgPeAku/4KA9ZKde6efJefnYo/RajKJ9gKpwYCf6oQRtRcJpNQMYSSxE4qVimGO0rqc44T6+HjVV0fguWBhAqB2Nbsrqr83T9Gnob54L1HnBgO7m1Z9EbLENfO6H1par9FTI7e6y5La9FOoIm2nSRnjH81huvDuZvNg9MJjBxeCaNg70=;mFSSZ7U0hPbJYQHeCXSMzQ=="
 ---

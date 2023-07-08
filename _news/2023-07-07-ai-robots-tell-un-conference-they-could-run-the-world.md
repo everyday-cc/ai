@@ -7,8 +7,8 @@ originalUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-
 webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Digital Journal
@@ -25,33 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI"
-    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots."
-    publishedDateTime: 2023-07-06T18:04:00Z
-    webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
-    ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
-  - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
-    excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
-    publishedDateTime: 2023-07-06T14:51:00Z
-    webUrl: "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1139719"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1139719"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 69
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
     publishedDateTime: 2023-07-08T03:45:00Z
@@ -66,29 +39,15 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Rise of the robots: UN tries to tackle ‘mind-blowing’ growth of artificial intelligence"
-    excerpt: "A nightmare scenario has unchecked AI advances leading to “geopolitical instability and economic disparity on a scale we’ve never seen before”. Read more at straitstimes.com."
-    publishedDateTime: 2023-07-06T16:20:00Z
-    webUrl: "https://www.straitstimes.com/world/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-artificial-intelligence"
+  - title: "AI Could Change How Blind People See the World"
+    excerpt: "Assistive technology services are integrating OpenAI's GPT-4, using artificial intelligence to help describe objects and people."
+    publishedDateTime: 2023-07-05T11:00:00Z
+    webUrl: "https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 46
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/SWITZERLAND-SCIENCE-COMPUTERS-ITU-AI-105057.jpg?VersionId=Mw9deeUvgnDmOBg7QFc9gmZ3Qw0RBaSa"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "AI summit showcases human-like robots to aid UN mission"
-    excerpt: "Dozens of humanoid-like robots will take center stage at the United Nations “AI For Good” Global Summit, showcasing how AI can be used to support human wellbeing."
-    publishedDateTime: 2023-07-05T21:20:00Z
-    webUrl: "https://cybernews.com/tech/united-nations-ai-summit-robots-human-wellbeing/"
-    type: article
-    provider:
-      name: cybernews
-      domain: cybernews.com
-    quality: 34
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "AI robots at UN reckon they could run the world better"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
     publishedDateTime: 2023-07-08T12:22:00Z
@@ -98,7 +57,39 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
+  - title: "Robots reshape the future: Humanoid robots claim superiority in world governance at unprecedented press conference"
+    excerpt: "During a United Nations summit held in Geneva, humanoid robots delivered speeches asserting their potential to govern the world better than humans. Equipped with artificial intelligence technology, these machines urged caution regarding artificial intelligence and acknowledged their current lack of emotions and understanding of human feelings."
+    publishedDateTime: 2023-07-08T11:33:00Z
+    webUrl: "https://www.lbcgroup.tv/news/world-news/712490/robots-reshape-the-future-humanoid-robots-claim-su/en"
+    type: article
+    provider:
+      name: LBCI Lebanon
+      domain: lbcgroup.tv
+    quality: 32
+    images:
+      - url: "https://www.lbcgroup.tv/uploadImages/DocumentImages/Doc-P-712490-638244129348713672.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "A Peek into 2023 World Artificial Intelligence Conference"
+    excerpt: "This year's World Artificial Intelligence Conference will begin on Thursday in Shanghai and companies are making advances with avatars. An avatar generator turned heads last year, as a spherical scann"
+    publishedDateTime: 2023-07-05T08:33:00Z
+    webUrl: "https://www.victoriaadvocate.com/a-peek-into-2023-world-artificial-intelligence-conference/video_7c95f275-534b-57e9-b10e-4e13006f0660.html"
+    type: article
+    provider:
+      name: The Victoria Advocate
+      domain: victoriaadvocate.com
+    quality: 17
+  - title: "The World Artificial Intelligence Conference 2023 is set to unfold magnificently from the 6th to the 8th of July."
+    excerpt: "The World Artificial Intelligence Conference 2023 (WAIC2023) will be held in Shanghai from July 6th to 8th (UTC+8). This year's illustrious gathering orbits around the central theme of \"Intelligent"
+    publishedDateTime: 2023-07-06T18:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33138024/the-world-artificial-intelligence-conference-2023-is-set-to-unfold-magnificently-from-the-6th-to-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
-secured: "ZLWj7TrFVsjTT1QqCWoO/IwAdrxSQ2HlpkbRzcxX7XdaYsm4sWZZFwBNTed8cb/WVOLFJg/l9K2BoTXcSL2rtoy34Rg6jbqB+HYN3i15Z3YlcVZHD8H2wb2CwZzClsdXr+1wdo5dNh3jhDv7mW+S/DQ6PiBs9Ebd4rdIsZd0DvrNGwzHSM5FV+YuL0mVlVzgaocX7lwHnr8pJBo9txxja3nyco8AfljCNgBhG8GRKQIYZ6phd6oa3ONUaua+1eevVxd6c928k+eRjW8R3hmZqIVwoTQSU1mmbHVjQgzZwWDO4xNajvrZEiyfv88J9DP4/i56uh+Wgl7mhHrlta10u8mmYYI0+xz3kN4an19Z5ng=;7V7eyJGgEcmrxSHlm11tWQ=="
+secured: "ufweTsbw2ephlRW4J0uxdOxSQDylvja/+efyJ/XXx7VEF6F7BDA09DN78BS4MK/U6vA/eEvrI6qZ/mZfygbLuzoA6qFArR8l5Ewfw/RexyHz3hCqcboV08/hLDs0x+PHL1tu3Oe6SCg8BwS2l/J/YUs1thWI58Ep4Qrbv0+aLAyzrK+0ES4WMH4k9U3DdCFbTM6O0lnVELmLiSi/Nou9RAwCcazMso1a1BHhSTYCLHvqP+E3vXEE99HYC2Fo6wzNwqFVbemVd/toqbZ9YX8mPmceTYuUCQCKc8OtabkUtlldjGBhXUBkKJIf/aI9Ki8ny8WaifRYKndiR/+8j55JqRVx1KDWH6KSfP4XUnl6sy6KMFMRTwZ3E5temMnUYeHoFnNZ1tnmCNoUX70WbccXbRRM2/NZ9wSt0A2WXTxlYu6xtxe0hMjE18ZKRFN6ORGgNhMGRNzdHvInxl/vTkKkZ+pUGIeZLVx2Y4oCMM49qqMi23PDJgP8rwNi8aEAVseDYf+CzBXe5uTF+ZoMv0U94g==;6QFvuoSeu5FpML5lee6TQA=="
 ---
 
