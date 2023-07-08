@@ -52,6 +52,20 @@ related:
       name: omanobserver
       domain: omanobserver.om
     quality: 69
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
+    publishedDateTime: 2023-07-07T14:34:00Z
+    webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
+        width: 1024
+        height: 673
+        isCached: true
   - title: "Rise of the robots: UN tries to tackle ‘mind-blowing’ growth of artificial intelligence"
     excerpt: "A nightmare scenario has unchecked AI advances leading to “geopolitical instability and economic disparity on a scale we’ve never seen before”. Read more at straitstimes.com."
     publishedDateTime: 2023-07-06T16:20:00Z

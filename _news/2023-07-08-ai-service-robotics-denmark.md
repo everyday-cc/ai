@@ -1,0 +1,111 @@
+---
+category: news
+title: "AI Service Robotics - Denmark"
+excerpt: "Value in the AI Service Robotics market is projected to reach US$38.78m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$102 ..."
+publishedDateTime: 2023-07-08T13:02:00Z
+originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/denmark"
+webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/denmark"
+type: article
+quality: 69
+heat: -1
+published: false
+
+provider:
+  name: Statista
+  domain: statista.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Service Robotics Market to grow at a CAGR of 22...."
+    excerpt: "The service robotics market is set to grow by USD 48,788.55 million from 2022 to 2027, progressing at a CAGR of 22.75% during the forecast period. The report offers an up-to-date"
+    publishedDateTime: 2023-07-07T01:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33142292"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33142292"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Threat Intelligence market is projected to grow at a CAGR of 15.1% by 2033: Visiongain"
+    excerpt: "Visiongain has published a new report entitled Threat Intelligence Market Report 2023-2033: Forecasts by Deployment Mode (Cloud, On-premises), by Application (Security Information and Event Management (SIEM),"
+    publishedDateTime: 2023-07-05T08:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33111353/threat-intelligence-market-is-projected-to-grow-at-a-cagr-of-15-1-by-2033-visiongain"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33111353"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33111353"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Artificial Intelligence (Ai) In Security Market: The Global Market Is Expected To Grow At A Cagr Of 13.20% During The Forecasted Period. X Herald"
+    excerpt: "As per the study initiated by Evolve Business Intelligence, Artificial Intelligence (AI) in Security market size accounted for USD 20.44 billion in"
+    publishedDateTime: 2023-07-04T21:26:00Z
+    webUrl: "https://menafn.com/1106553902/Artificial-Intelligence-Ai-In-Security-Market-The-Global-Market-Is-Expected-To-Grow-At-A-Cagr-Of-1320-During-The-Forecasted-Period-X-Herald"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/04/ADC_97d85175-a_Image_In_Body.jpeg"
+        width: 300
+        height: 254
+        isCached: true
+  - title: "Consumer Robotics Market to Reach US$ 76 Billion, Globally by 2032 at 24.3% CAGR: Future Market Insights, Inc."
+    excerpt: "The global consumer robotics market was worth US$ 8.7 Billion in the year 2022 and is expected to reach US$ 76 Billion by the year 2032 at a staggering CAGR of 24.3% between 2022 and 2032. An influx of smart homes all across is the factor majorly fueling the consumer robotics market and the scenario is expected to remain unchanged"
+    publishedDateTime: 2023-07-05T03:12:00Z
+    webUrl: "https://www.fmiblog.com/2023/07/05/consumer-robotics-market-to-reach-us-76-billion-globally-by-2032-at-24-3-cagr-future-market-insights-inc/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 14
+  - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
+    excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date"
+    publishedDateTime: 2023-07-07T07:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33144055/fintech-software-market-to-grow-at-cagr-of-8-82-from-2022-to-2027-north-america-estimated-to-accou"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33144055"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33144055"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Global Healthcare Predictive Analytics Market Report 2023: Sector is Expected to Reach $30.71 Billion by 2028 at a CAGR of 22.23%"
+    excerpt: "The global healthcare predictive analytics market is expected to reach $30.71 billion by 2028 from $9.21 billion by 2022 grow at a CAGR of 22.23% from 2022-2028. Market Trends and"
+    publishedDateTime: 2023-07-04T16:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-healthcare-predictive-analytics-market-report-2023-sector-/2023/07/04/9843101.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "N7wEY7Lw7kAXK/Wp5NnmdK+60JpFtW5b1kCOh2NAlgEG5vYzR5QesmeC0oymTemwc9NGv2iUPpnzJTZJU3+48BgR5qSY1ftfws5UL4WCrn/Ia6OrW3+qJNrfNxYqHJHUjXYNQzTP6fIygRun1TnrruRJuNkkT5GHzpTEQ+5VYfOk4WNc6X1iRRw+SSIyd1sF1HPWK3Cbh/klbZLRCiqS7bh1JSCQtmq5t2vjYjQMi8KXXTYIvSYSs0WS9khZiw4YxgYbs0vupfDK3ngLXQeluan1wj9LX886JS2mMY5xjgv89v0A4s8SHee6I/ddHyZi5VHYk/cSIhJdWxWcawj0CXMlM+94HctBIz80B5MLMNE=;XP8XJLvvsw6wc8i6Ne6LaA=="
+---
+

@@ -35,6 +35,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AI Service Robotics - Denmark"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$38.78m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$102 ..."
+    publishedDateTime: 2023-07-08T13:02:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/denmark"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Threat Intelligence market is projected to grow at a CAGR of 15.1% by 2033: Visiongain"
     excerpt: "Visiongain has published a new report entitled Threat Intelligence Market Report 2023-2033: Forecasts by Deployment Mode (Cloud, On-premises), by Application (Security Information and Event Management (SIEM),"
     publishedDateTime: 2023-07-05T08:00:00Z
@@ -65,6 +79,22 @@ related:
         width: 300
         height: 254
         isCached: true
+  - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
+    excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date"
+    publishedDateTime: 2023-07-07T07:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33144055/fintech-software-market-to-grow-at-cagr-of-8-82-from-2022-to-2027-north-america-estimated-to-accou"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33144055"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33144055"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Global Healthcare Predictive Analytics Market Report 2023: Sector is Expected to Reach $30.71 Billion by 2028 at a CAGR of 22.23%"
     excerpt: "The global healthcare predictive analytics market is expected to reach $30.71 billion by 2028 from $9.21 billion by 2022 grow at a CAGR of 22.23% from 2022-2028. Market Trends and"
     publishedDateTime: 2023-07-04T16:28:00Z
@@ -74,20 +104,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
-  - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
-    excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"
-    publishedDateTime: 2023-07-07T07:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "TuOsjIsbGX053hVA8lbl0Jocr4wxOhsnU06PJXcYNM179CHxBtiaeHIMoiP0UTx0AiC2gI5qz7NMHJUyW4TkTo4uWJhh3FFLyBXoVG/ijtqdkWYGs2qJhGkiotBDTjC0VxHFg+AWCTmIbLmRxHe7eIZZQB4NGRig7hLlM9AB2aiFo6A8yhT+mR+0ASvOo1h748cxLerm1f83J5QUN5c5vWS8c4xpjy75nXnSFgIjTcUWNf1fCAm9uN7Y4BxqlmV/4BpG7FKp3FIaXko3JJwci5BzvhkHB81AP0GYDzvATzRtSzc2rvJRDh5d5wtZhRujhl4G6eOJGGvhC2yOho4H0VGW5Aop/ojAqoQvHeGMHew=;SAR86H5AnykJhUs0CWSKjA=="
 ---

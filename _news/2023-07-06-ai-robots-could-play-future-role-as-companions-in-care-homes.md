@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-rol
 webUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_06_2023_15_04_38_5263051.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "AI robots can run world better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
+    publishedDateTime: 2023-07-08T16:00:00Z
+    webUrl: "https://manilastandard.net/news/314348091/ai-robots-can-run-world-better.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 54
+    images:
+      - url: "https://manilastandard.net/wp-content/uploads/2023/07/ai-robot.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "NGN/k3PR1ZPnu56a9ixzP2bcmUijUGEOznUW77n+Xv+lALHmz1HrYRiH4JrXWG1Zml8qdnDntLs85UL4oZrYmzGJ90HC3ZSHPomuOgCiDnDjmGVZmS0CnZYUrnCp4gk2OYRQqGFnfASEDRoiYGUZYz7WZUI0MCSSmP60I5IcMAUbX2PX6WGeyIZ7a33NHNs86F7sbuEomoS/BJOKOl3If0YmudktUBJeE4IOoc0CjhMfEJSj4fQB3qOUwu7OxoLcMVWBWidZtFhbmeU78rloj9C7dtVLR5qNAtgVlBL0tmcu6/PisNO1x8la5dEX5cw7BJQ3N2/gXhp6OsqfeNLxJ9DKf8v6qRSkir0NgHOlpJ8OdDh32ZW7Htl0HQ4NmAXndX7fjanaSvnppx2Qzbod3ZiDpDg3S5bfhigEaJHN/PzJv0SZ5Bj3u8qr7ipvExOFYtkeehSrNNxYj0hjIMZI0wl5gjuduG9PSetKjtvYfbdy8IdveM5FN5wn/rAFWcaSdUvu3Tjw4y8je7Pe7ixR0w==;60tPNiSTdbBpgZgX2YEPkg=="

@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI robots can run world better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
+    publishedDateTime: 2023-07-08T16:00:00Z
+    webUrl: "https://manilastandard.net/news/314348091/ai-robots-can-run-world-better.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 54
+    images:
+      - url: "https://manilastandard.net/wp-content/uploads/2023/07/ai-robot.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "YadIG3vmRs03lm68mOt3OhuaBKihJsAgFBOPJc+LpJrq8OlseF1FL0laP+wkRkYdsW0NqIm5wC4P7jTstBFPNL1pK5YTdIEz7H8p+5v72SBnCfi2tkM8Bk1kRClrGLAYqoMAOkFpGNm3+gohZIKsYPn50/By5A7gxxhqkzODcW9cfKuEij9Cw2RzPjoedD2zJWXenfUURaIeVO4VR2RT5NX/mifTnXhRbnYIK070JDJejT0frtCqjmXGDq7jV80VfSeLAmWvl5WSXZ4AniDGfI27siA1wMmTjRmnI9RP2EgQdZVZmZEmrqkDm0HZqrqJ/ub81dbLgk4fkPWBz6a3pjjfStIIZDVD4u1VFfDcidizzVPzLTH0uTANqY3oy05lylCv8HDAcxyZn0x3fU6w8v3X/+sNRNxzd0H9woNNOgZpN+KGhQSEUAoVnFS2qjSc0obRIAIHgJvHObvTsNdRvL4HDOp2Otxi6SB38NwqOtwFeMyGHODPRX1vT2FQmectJpdjfowYtFBJThMAuypghQ==;/3YPmnaBCGDWsZw7Pn/CkA=="
 ---

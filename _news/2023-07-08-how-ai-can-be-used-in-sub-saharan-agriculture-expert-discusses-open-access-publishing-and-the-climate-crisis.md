@@ -25,17 +25,6 @@ images:
     height: 1921
     isCached: true
 
-related:
-  - title: "Addressing the childhood cancer crisis in sub-Saharan Africa"
-    excerpt: "Sub-Saharan Africa is facing a childhood cancer crisis. Annually, nearly 90% of the more than 100 000 children who develop cancer in sub-Saharan Africa die. By contrast, 85% of paediatric patients with cancer survive in high-income countries,"
-    publishedDateTime: 2023-07-03T23:26:00Z
-    webUrl: "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00173-0/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 4
-
 secured: "cFEbYZx5H8RKO8WhzrN57MNW2YIISAVktnKC3MMdyOHUYvXbL7Va52YaRCWTwGtdgHmgdgVe/IFlzzfrDolcAWgmCylTr/OE3KtyMsUb2AmDN+kVLoN5A2ks/vpNz+rZSrKPG14tqELFoBGuXQU/PdJcJl+PumeZm18vtu0j1unn/WPBqnZqjdkpVmydiAYYz2rmauNjcSdJRi9H8i1jewSIWamSGUU2NBkeWbE00lVzRCXhnygrUfgyl07jM7S+InSHXSwn/Ka9uLqXzDH62e4SXy4hrERv6eCsTv6ruiqwhoVJW6muOIwTMzhbQS0rIGrL6QwSQPPy1nOY295NWD6/tZIZkA0hxjxPLhEVU1I=;T3jR5q2Clzbp12tCivs06Q=="
 ---
 

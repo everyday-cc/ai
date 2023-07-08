@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
-excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"
-publishedDateTime: 2023-07-07T07:18:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
+excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date"
+publishedDateTime: 2023-07-07T07:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33144055/fintech-software-market-to-grow-at-cagr-of-8-82-from-2022-to-2027-north-america-estimated-to-accou"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33144055/fintech-software-market-to-grow-at-cagr-of-8-82-from-2022-to-2027-north-america-estimated-to-accou"
+ampWebUrl: "https://www.benzinga.com/amp/content/33144055"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33144055"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
-  - AI in Finance
 
 images:
-  - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -41,6 +42,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "AI Service Robotics - Denmark"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$38.78m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$102 ..."
+    publishedDateTime: 2023-07-08T13:02:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/denmark"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Threat Intelligence market is projected to grow at a CAGR of 15.1% by 2033: Visiongain"
     excerpt: "Visiongain has published a new report entitled Threat Intelligence Market Report 2023-2033: Forecasts by Deployment Mode (Cloud, On-premises), by Application (Security Information and Event Management (SIEM),"
@@ -91,6 +106,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "ldD/jx1rCOW85AonSOXoZaKhGu96aTYNG5M3P61BO9YNSLWSXtzDs1RKty9bfKQbtddMZ6OE2JfNGwn1w3WEeoY1suB0bsZlDIWqSRSFJaETwS323DJNnrnv5Bg9tT03rZSWUMXqPWy7L9yJyscaRR/A+/Kt/JtaAtfF5zt7Q6c5Pq4tJKYrkyiGpWln47Mumhe5QkqOlzX8HHg03a3SG18ircm2wfls4eFKS1aqhNUUxI0KdqY9qdnEs7pl6yUo5m6zamlWePSoID2rTmKbL3Il9/Xv+sQeNHWpfzBHG83bQtZkGOp5aurRPTDJY6PU84aXsaZ35B5zmea852oUaGH8w0nrLLiTxBDbOeweFPBI4Q05c3pB2NEzb00636d6Myye2yfHeiM+/qAghzN9/6UL9VKYXkQZnQZuSaRSd0Y4yeFHnP0PppXYR8oWXV/cUmLx3Em094lZ/kOaKOoBKeYyGXFAWne/RS7OfzvfFvMiw73H51Kdjz2ly7h9ioFy1gIBT1mc5grFY/OmRKtKSw==;D+Y3F7GSy2lmr+It5XbGRQ=="
+secured: "be6eqTndp4W380j6yUugFsoqMBzfaPuT28WTLfjMZCJapjRuAawCF1AE0p0kXkY/ZmaMPX0A3NH9Zc7KPupJSBRJFwA25KleMXhkOtfKiyRZZdRec4M1NVL0/rwLmkgXjF92JTZcYN+fWWmJE8obnIqX/nZSSyPpHVYG5g+OtLNUMu9jfZ494yqgehCVEGmj4mvJMgTRjDQHTHyVXYoeAzFc7dUKIfv/jIW+5Sf4AHGsXAq3Dj39dxRDQOyf8ABqExAhhMUq44fP1Lwp7D3EvPJnQUT40a9McEy/Wb0xjzZtkITTsBS9+rMDCawhRNeHaEMn1T4B6pl0EQqTgtm/J7O5QaVJxls23pv46lx83DA=;uayzPEELAShUFj0lSvaieQ=="
 ---
 

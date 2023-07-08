@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Company-X boosts NZ fintech start-up Tania.AI"
-    excerpt: "Waikato-based software specialist Company-X has boosted financial technology start-up Tania.AI’s mobile and web apps. Due to a growing number of users, the volume of data being imported nightly from Xero was creating a challenge of triggering manual updates."
-    publishedDateTime: 2023-07-04T00:03:00Z
-    webUrl: "https://www.reseller.co.nz/article/707903/company-x-boosts-nz-fintech-start-up-tania-ai/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/company-x_jeremy_hughes_david_hallett_3.jpg"
-        width: 529
-        height: 315
-        isCached: true
   - title: "Money World Needs Its Own AI Models, Baidu Fintech Arm’s CTO Says"
     excerpt: "The financial industry needs customized large language models, as general LLMs are unsuitable, according to the chief technology officer of Baidu’s fintech unit Duxiaoman Financial. The financial industry stores data locally because of security and privacy protection and has high risk control,"
     publishedDateTime: 2023-07-04T07:21:00Z

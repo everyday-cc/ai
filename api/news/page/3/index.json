@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-06-volkswagen-to-launch-self-driving-vehicles-in-texas-by-2026.md",
+      "title": "Volkswagen to launch self-driving vehicles in Texas by 2026",
+      "excerpt": "Volkswagen said on Thursday that it plans to launch autonomous, or self-driving, vehicles for ride hailing and goods delivery services in Austin, Texas by 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/XnP2m4tHU8tXOVIUZVRSSduElIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D7EEG2GECFIAJHYSPAB7AIXDKY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-amazon-prime-day-2023-best-deals-available-now.md",
       "title": "Amazon Prime Day 2023: best deals available now",
       "excerpt": "Another day and another set of early Prime Day deals are now live at Amazon. Continuing on from the cheapest ever price for the Fire TV Stick 4K Max are today's record-low offers on the Echo Dot ...",
@@ -915,7 +967,7 @@
       "originalUrl": "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1160,57 +1212,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-flight-booking-platform-using-ai-to-make-travel-less-miserable.md",
-      "title": "Flight Booking Platform Using AI To Make Travel Less Miserable",
-      "excerpt": "Given the common frustration plaguing the experience of exploring new destinations, travel companies are testing out new options to ease that pain with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/",
-      "originalUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a594387c1a55c6f8b4ddd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/amp/",
-      "publishedDateTime": "2023-07-05T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

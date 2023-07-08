@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How generative AI tools like ChatGPT can revolutionize web accessibility"
+    excerpt: "ChatGPT's ability to handle complex conversations can lead to more effective communication and accessibility for those with disabilities."
+    publishedDateTime: 2023-07-08T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-tools-like-chatgpt-can-revolutionize-web-accessibility/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1270805299.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI and You: ChatGPT's 'Novelty' May Be Wearing Off, No Programmers in 5 Years"
     excerpt: "A weekly recap of worthwhile news around generative AI."
     publishedDateTime: 2023-07-08T09:00:00Z
@@ -140,20 +154,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "These four AI technologies could be the next ChatGPT"
-    excerpt: "The rapid acceptance of ChatGPT leaves us with a lingering question: what’s next? Here are four AI technologies that hold promise."
-    publishedDateTime: 2023-07-03T23:38:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/emerging-technology/four-ai-technologies-the-next-chatgpt/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 39
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/07/andy-kelly-0E_vhMVqL9g-unsplash-1.jpg?resize=1200,630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The potential healthcare privacy risks of ChatGPT"
     excerpt: "Protect patient data or risk HIPAA violations and lawsuits — two health policy experts explain the risks of using ChatGPT and offer tips for healthcare organizations."
     publishedDateTime: 2023-07-07T20:04:00Z

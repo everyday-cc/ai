@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
-    publishedDateTime: 2023-07-08T15:09:00Z
-    webUrl: "https://www.mauinews.com/wire/?category=5187&ID=297029"
+    excerpt: "A U.N. technology agency assembled a group of robots that physically resembled humans at a news conference. The International Telecommunication Union invited reporters to ask them questions on Friday"
+    publishedDateTime: 2023-07-07T19:15:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/article_54bd9f55-9ff3-573d-a3c5-c18ac445cb29.html"
     type: article
     provider:
-      name: The Maui News
-      domain: mauinews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 31
     images:
-      - url: "https://s3.amazonaws.com/ogden_images/www.mauinews.com/images/2018/02/20104449/fb.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/35/33550780-bc0c-513c-9192-0169d375f3d5/64a8143dc00e6.image.jpg?crop=1780%2C935%2C0%2C114&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

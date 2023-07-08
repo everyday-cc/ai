@@ -1,25 +1,25 @@
 ---
 category: news
 title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
-publishedDateTime: 2023-07-08T15:09:00Z
-originalUrl: "https://www.mauinews.com/wire/?category=5187&ID=297029"
-webUrl: "https://www.mauinews.com/wire/?category=5187&ID=297029"
+excerpt: "A U.N. technology agency assembled a group of robots that physically resembled humans at a news conference. The International Telecommunication Union invited reporters to ask them questions on Friday"
+publishedDateTime: 2023-07-07T19:15:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/article_54bd9f55-9ff3-573d-a3c5-c18ac445cb29.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/article_54bd9f55-9ff3-573d-a3c5-c18ac445cb29.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: The Maui News
-  domain: mauinews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s3.amazonaws.com/ogden_images/www.mauinews.com/images/2018/02/20104449/fb.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/35/33550780-bc0c-513c-9192-0169d375f3d5/64a8143dc00e6.image.jpg?crop=1780%2C935%2C0%2C114&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ro90rG8JP4L7oLhBOeqNPzMesFsUA9zpUU4RA0dFYa3q+oz7/IywsPRTwut0QNxzkc+oep8s7j7UDl+eaTUzBAAqNzmW0TXD/XzPig5XTFDHINiOlK6g5F9M7BjvQE8ShR7ZP6f7vjR/Zic+kIezpn4ePxiaaO4A0ODLaau/vvykXKe0CAVU2xuAEqBGWbn7RuH69fk2accsqBMCyTtPKWkwRomG6PpjigXjPvzBVrNVrIg4T0UEhTIET0zZ4qvJafU2GVKPofdrsdu2n/SqT2zL1NN10R8Osc86zSwvG0vtzn5UCP2OqxSvUT6fteQ+N5Y+cpNRVFYOG9hSZHpkg4bnNBwfooMmXvLujrj0MU8=;IhUMiPAQbFSApNkwwFlRNg=="
+secured: "Mp/SlxbSDaozBpoiFr1Y2/qBdTTcXhYn70nECKAhL1/tjR+RQ2rayaEIojN4IGGJRQuJfUfAs1IhtqQsGHFl4kcdribEn/P7TVS0JBPppSPkQ7zd7G8EbTmab7SlfWV03AxMFFaTyZ02+yiU7z+78RSAbiHPk8qe2iUyFymFtVU1zBUFmepJl/eIOzggGXzVQyitBUJ/zs+MP8lFlF49DaLX/ToomuC1zJF/B8zQHPHxs/vJyRQeZGnW9K99k2vUzKxEQGdA2/gnY48Bw40u7uAw6ph9TXYdtu7sY5pjU6QvxvqOKLv66dlwbUAj9Ysn0JO9uOGPAc60U73ehhP+W/Z9sfbHPpzZUMBDJ5cLH04=;fVuwrWOLsMoUs4TdiHNJgw=="
 ---
 

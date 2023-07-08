@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tack
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: omanobserver
       domain: omanobserver.om
     quality: 69
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
+    publishedDateTime: 2023-07-07T14:34:00Z
+    webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
+        width: 1024
+        height: 673
+        isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
     publishedDateTime: 2023-07-08T03:45:00Z

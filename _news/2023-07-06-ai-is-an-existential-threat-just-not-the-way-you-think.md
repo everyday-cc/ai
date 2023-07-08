@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true"
 type: article
 quality: 59
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00501792:19e48f25f754ab656a2f8c462ffdce6d:arc614x376:w1200.jpg"
         width: 1200
         height: 735
+        isCached: true
+  - title: "Opinion: AI is an existential threat, just not the way you think"
+    excerpt: "Worries peaked in May 2023 when the nonprofit research and advocacy organization Center for AI Safety released a one-sentence statement: \"Mitigating the risk of extinction from A.I. should be a global priority alongside other societal-scale risks,"
+    publishedDateTime: 2023-07-08T16:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jul/08/opinion-ai-is-an-existential-threat-just-not-the/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2023/07/06/102856675_AI-illustration-Getty-web_t800_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
         isCached: true
   - title: "AI is an existential threat – just not the way you think"
     excerpt: "From open letters to congressional testimony, some AI leaders have stoked fears that the technology is a direct threat to humanity. The reality is less dramatic but perhaps more insidious."

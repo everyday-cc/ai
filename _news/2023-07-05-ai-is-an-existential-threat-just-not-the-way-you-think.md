@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 735
         isCached: true
+  - title: "Opinion: AI is an existential threat, just not the way you think"
+    excerpt: "Worries peaked in May 2023 when the nonprofit research and advocacy organization Center for AI Safety released a one-sentence statement: \"Mitigating the risk of extinction from A.I. should be a global priority alongside other societal-scale risks,"
+    publishedDateTime: 2023-07-08T16:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jul/08/opinion-ai-is-an-existential-threat-just-not-the/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2023/07/06/102856675_AI-illustration-Getty-web_t800_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
 
 secured: "vBjpvTjivSucHvDbrrZDom/hWI1CtH6ecboCQN4ZRhzMB5jbt7NleM6C12CY7qlL2Rd+qbb0yd8l1umocMCX5NBwe6VG9SH431eTEV7CvmaTwqlc6PLAUItCDQUIhkyfB+/O9N1j1uM0OkFJqIDxyYGdDeADhtxqyefVXh3z9pHulFNlLWuWuiKQ35DTn4iZq/xceyRAGF8U92jteuSqxCPcFL1rPa0qQB0HKvVsvS+/xqEqTTjdM6vJdRgiu3pV6pt1vFdlpMqCebM5DDHdUfRXnjezqgsDyadwDmNfbIQlCC4OAFtY5ZalIl2MSm9+vQMF13eFNifvW1f1Kzc1k413Ry2PsXNCqAh6decir8sz78QKEuj7TZmmRDcldTnXKnFFzdRrs9ThQGPRggPj0eI0DwqaT7pXMtwGU7HC6GcArIVTElkbmG+kS84qmyqfzuXItZLrbrpw3ek4dzTYDg/pl+Y03eRqnDVsSZpd62ntjaCnDOjX0ksxWHdu7Qm9GS9azjgxGiQ4kjjwjIRzMg==;DpywSlrxwImXMS593t925Q=="
 ---
