@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Amazon Prime Day 2023: best deals available now"
+    excerpt: "Another day and another set of early Prime Day deals are now live at Amazon. Continuing on from the cheapest ever price for the Fire TV Stick 4K Max are today's record-low offers on the Echo Dot ..."
+    publishedDateTime: 2023-07-06T12:09:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "MmFs9krkvbcbe4fS67jBMbDka3x57d82CBdIS5gz0q6emVfTPNF2slZnOsWVF3b0LQIPK2FMjsXtOcPncuz05A90hg6XsRP4Ei8b8pglVzZ7evLHYzweocoV5nfwoIT/7850VEhT2x9u++Z3mpU+PMSUQnR1AVYYuIwHdTYo7gLMan4GW9oHk3YYoWTVgPeAku/4KA9ZKde6efJefnYo/RajKJ9gKpwYCf6oQRtRcJpNQMYSSxE4qVimGO0rqc44T6+HjVV0fguWBhAqB2Nbsrqr83T9Gnob54L1HnBgO7m1Z9EbLENfO6H1par9FTI7e6y5La9FOoIm2nSRnjH81huvDuZvNg9MJjBxeCaNg70=;mFSSZ7U0hPbJYQHeCXSMzQ=="
 ---

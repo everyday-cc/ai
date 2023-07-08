@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesberman/2023/07/05/ai-and-history-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesberman/2023/07/05/ai-and-history-predicts-a-bull-market/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Artificial intelligence and its role in marketing a brand"
+    excerpt: "With almost every brand using AI, there is a wide scope of plagiarism leading to legal risks that are not addressed easily, says our guest author."
+    publishedDateTime: 2023-07-05T23:30:00Z
+    webUrl: "https://www.afaqs.com/news/guest-article/artificial-intelligence-and-its-role-in-marketing-a-brand"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F4e1cc1fc-6cf9-4076-a826-13324422cb14%2FAi_Art__07.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "dlb5I4Y+Z6K2FzMADaozQeM/Nn1wP11YrppENsIGHjbx0a8QC25GoGLtKMHK44ck3uimNy+hWpSuaXFo6ex8FaMSGfBeCz/83xqKTkY3yG63YtuQACU3V87YNcS+Fh4Gw20DTY6q06l/BBeRRkB3LeFMpwf5xGT6HTsXHnA18J/SEpiT+I/aX/DBjP5uiVo1Phau0oqxXS3qs02jrdA+yoZwIykFEvH+o4mh6w3xmVLRyO1TiBa78hqx9ea/zv+aYtj1TDzsrK9EalPj8JpMnLrZk8DKLjkkiMo4VDVC15LOhDijJp8io251V452Ihp1hT63olscJQokTuC+dYICJq2WuVrsU5wkX4A8M08Kc/w=;Gp7TsBFi4DEVXRMuK+0JmA=="
 ---

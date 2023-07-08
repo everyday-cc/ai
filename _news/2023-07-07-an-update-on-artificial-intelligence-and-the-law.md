@@ -24,31 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "EU to Work with Japan on AI and Chip Supply Chain"
-    excerpt: "The European Union (EU) is set to work with Japan in a bid to boost its Artificial Intelligence (AI) and chip supply chain."
-    publishedDateTime: 2023-07-03T14:29:00Z
-    webUrl: "https://www.coinspeaker.com/eu-japan-ai-chip/"
-    ampWebUrl: "https://www.coinspeaker.com/eu-japan-ai-chip/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/eu-japan-ai-chip/amp/"
+  - title: "The $1 Billion And Higher Ante To Play The AI Game"
+    excerpt: "If you want to get the attention of server makers and compute engine providers and especially if you are going to be building GPU-laden clusters with shiny new gear to drive AI training and possibly AI inference for large language models and recommendation engines,"
+    publishedDateTime: 2023-07-05T20:46:00Z
+    webUrl: "https://www.nextplatform.com/2023/07/05/the-1-billion-and-higher-ante-to-play-the-ai-game/"
+    ampWebUrl: "https://www.nextplatform.com/2023/07/05/the-1-billion-and-higher-ante-to-play-the-ai-game/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/05/the-1-billion-and-higher-ante-to-play-the-ai-game/amp/"
     type: article
     provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 74
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/07/eu-japan-ai-chip.jpg"
-        width: 1170
-        height: 780
+      - url: "http://www.nextplatform.com/wp-content/uploads/2022/03/nvidia-hopper-die-shot.jpg"
+        width: 435
+        height: 275
         isCached: true
-  - title: "Japan Takes a Relaxed Stance on AI Regulations to Drive Economic Growth and Lead in Chip Technology"
-    excerpt: "The proposed leniency in Japan’s AI regulations could potentially undermine the EU’s efforts to establish its regulations as the global standard, particularly concerning the disclosure of copyrighted materials used in training AI systems responsible for generating content."
-    publishedDateTime: 2023-07-03T18:20:00Z
-    webUrl: "https://techstory.in/japan-takes-a-relaxed-stance-on-ai-regulations-to-drive-economic-growth-and-lead-in-chip-technology/"
+  - title: "Artificial Intelligence and Dehumanization Anxiety"
+    excerpt: "Anxiety that AI is dehumanizing is necessary, although it should not be overdone. Technology is needed to help and facilitate our lives. Also not doing dehumanization, but for humanization."
+    publishedDateTime: 2023-07-04T22:27:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/07/04/en-kecerdasan-buatan-dan-kecemasan-dehumanisas"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 20
+      name: Kompas.id
+      domain: kompas.id
+    quality: 41
+    images:
+      - url: "https://dmm0a91a1r04e.cloudfront.net/A65YmETo-1yB04_qb8d7KTkygTE=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F04%2Fb74a31ce-6223-4430-8a5b-df32f7e168e5_jpg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "MP/06yj+zEOULwhpV4yUBBPxubbEAIhdPy2V+P+qNsFlYFmgnITFNpanGOjkhOcviEgHeboCRRIytEAnhRB2MmLcDA94EEJQH+Mp8Db+HC2ge9P2OZI+ltS6S/vlFY7F3Dl2OCqcZJl9rrK8rePzjyWdlucg07lPTHoajalg6Of7UHSKBFf1H0eJajEaKDs2h4MgW6GSSkbmc/fXzRL46/8ZYVSfJSyZsSbKuDHN4+UO1LAuvG9YPNtBlutfQrmPUoqjSUIiU82DX3rd54zzsaX/4yU0xKyPAqhQW5zU3YhSYk1Amf1MG6/erRl5svMPBffwEi7kAChUjd0HnZs+37CQQGvhGB2yGTX3ObVYERc=;mM7qCKcCnnBevkauQ5KTtg=="
 ---

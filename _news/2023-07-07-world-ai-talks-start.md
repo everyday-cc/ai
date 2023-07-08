@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "China's Fourier Intelligence Debuts General-Purpose Humanoid Robot at World AI Conference"
+    excerpt: "Fourier Intelligence, a Chinese tech company specialized in rehabilitation robotics and artificial intelligence, unveiled its first-generation humanoid robot at the 2023 World Artificial Intelligence Conference in Shanghai."
+    publishedDateTime: 2023-07-06T04:08:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230706-04-chinas-fourier-intelligence-debuts-general-purpose-humanoid-robot-at-world-ai-conference"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 47
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/27259387228869.jpg"
+        width: 770
+        height: 510
+        isCached: true
   - title: "Amid industry boom, dozens of AI products debut at Shanghai AI conference"
     excerpt: "SHANGHAI, July 7 (Xinhua) -- With China's artificial intelligence (AI) boom, dozens of related products are making their global debut at the World Artificial Intelligence Conference (WAIC) 2023 in Shanghai."
     publishedDateTime: 2023-07-07T12:32:00Z

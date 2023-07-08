@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "China's Fourier Intelligence Debuts General-Purpose Humanoid Robot at World AI Conference"
+    excerpt: "Fourier Intelligence, a Chinese tech company specialized in rehabilitation robotics and artificial intelligence, unveiled its first-generation humanoid robot at the 2023 World Artificial Intelligence Conference in Shanghai."
+    publishedDateTime: 2023-07-06T04:08:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230706-04-chinas-fourier-intelligence-debuts-general-purpose-humanoid-robot-at-world-ai-conference"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 47
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/27259387228869.jpg"
+        width: 770
+        height: 510
+        isCached: true
   - title: "World AI talks start"
     excerpt: "The 2023 World Artificial Intelligence Conference (WAIC) commenced in Shanghai yesterday under the theme “Intelligent Connectivity: Generating the Future.” Scheduled to run until tomorrow, the conference comprises four key sections: conference and forum,"
     publishedDateTime: 2023-07-06T22:46:00Z
@@ -86,6 +100,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "f4snA8Eeo4klAOVfXXQvku3YeGJx4RH/3ElR1quVPlXUTlJ1Pkt2pxSWuynZ2/j+sst3SIss6mUTJGyHxzwXOYUcbmgF790lqpb+OKegSrYD/WKpW0rxDIY9XHjwv1SqRtgrVqxUEWKxkfRO7mbkAQZkZluj+fe0MFKtw0LTDfiO1x5jXdprtBJ4MmnPeqB3Rewjo5l6NY/nudQiarwynegdJxyCvftw0Qribe6mT/XAiw6evpFx0qN8auFQj78P70xUghukHMe401u3yd/XP60V3dzOZx6KZwDdY8kpf7LwTL9RNb/h0PJYIBgJ2BDAIQqLQDu2r8Yb21xm8CkM0Qk/MOaxhO3AUFRnPEgLzQc=;cpXBJCVbY8yRGU/bgobjKw=="
+secured: "nLNPZbE2DpE1oC1sS0ea0sh73eutDj8FG6jAcI0hihcp+tjxyldROojOGTWFpPG+y1+wyr3+XbdDsBKofVtLfXkDL2Z64lSVd6xZqCWVKmFiYGEDhikPXThoEh1NTZBrg3bKyPlF7jQx+viqM3dhPJszzLAtt6KU3tq9sec6V84YjXWEmlL4fAcIweWHR0i7zwO+Hj5kyEM8Gy+YolizbgHPDpA9GSQzytlf9nrhdjif+tj0sXSixOIhC0jda8pnfPew0fnDMTgnKXeXsY0IPbMwXq+5nvpsoK47Z8BXnmjKvuwxeI0O4QKervunBilEbFwaFp+0lQvi9Mlb0Rjzjqef+he7annwo3WX6P52oot4uihgN8apDIBgD8ECpvpkkHbTP0H3oJxYKU8hfYC8SlV466+tdU1iUoxoCGRXUdDSg7OfW1D52esUYN/JRmy2537lnOXz0tXymkPRn5rjs82WNVxfMFHJrqhtYnQlILLbKrU0l/aA9YRsQ5oGnJfq6VEhuEmwDSiPvOnyhQtBXQ==;rQiwDVC15KLjiAiDJ/Q5vw=="
 ---
 

@@ -54,6 +54,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Artificial intelligence can run world ‘better than humans’"
+    excerpt: "A panel of AI-enabled humanoid robots took the microphone on Friday at a United Nations conference with the message: they could eventually run the world better than humans. But the social robots said they felt humans should proceed with caution when embra­cing the rapidly-developing potential of artificial intelligence,"
+    publishedDateTime: 2023-07-08T01:08:00Z
+    webUrl: "https://www.dawn.com/news/1763612/artificial-intelligence-can-run-world-better-than-humans"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 39
+    images:
+      - url: "https://i.dawn.com/large/2023/07/081213454917d66.jpg?r=121401"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "bu0DPhN9h0FCQ2way1IEVC+aVljkQkyt/vp0jgGA2auVMfZJgEpsCwF2OYvlav43mVhS60pNwTzaSwv76lOvHIW4KT9etRKBOXGHQOqXIqx1jKA4K51bqGF20mmcEhnEqrOIj6xkHeUor19yECmGSWq+RwDWTUsu6jZ7dZheLq0VRyjJLP3S6DwTXiyl1eZrUwilDF3m6MtAxKaLAbt418S0KqL/2nF4xSBaKrDKYJTORHXuiG6QIHIHDOomblX8C4udzBM9T/xiBYy/fhITJfD14X0+hO0mqYIYUEtMtPTSzobIU2Cf0uETkpQycSBKTKWQ7NeH0+yH39f4sgwyLUKnnmm3+Hz2X5HMHcRmgUG+O737rCh7vCQ+yzPiFUi2OHxOYG8ahosbHgXVt/4GENe+sL4PKLtyQ5Fvqykk0BUFEKr0G7EuH97N9L0hV18yzGLm81T2iu8z0PnC3r08/eAokNVIxsoT0dI5fhrdYEIrFxnMU1k1nZZVz7SqIdoq8sfeJbf3pvVncWgDNDyJJw==;lJHId+CXgQfNUhIGy2BkiQ=="
 ---

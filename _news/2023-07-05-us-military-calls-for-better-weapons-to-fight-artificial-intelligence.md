@@ -41,6 +41,20 @@ related:
         width: 618
         height: 367
         isCached: true
+  - title: "Artificial intelligence can run world ‘better than humans’"
+    excerpt: "A panel of AI-enabled humanoid robots took the microphone on Friday at a United Nations conference with the message: they could eventually run the world better than humans. But the social robots said they felt humans should proceed with caution when embra­cing the rapidly-developing potential of artificial intelligence,"
+    publishedDateTime: 2023-07-08T01:08:00Z
+    webUrl: "https://www.dawn.com/news/1763612/artificial-intelligence-can-run-world-better-than-humans"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 39
+    images:
+      - url: "https://i.dawn.com/large/2023/07/081213454917d66.jpg?r=121401"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Drones with AI targeting system claimed to be 'better than human'"
     excerpt: "An artificial intelligence targeting system is better than humans at identifying valid targets, claim its makers, though the full results are classified"
     publishedDateTime: 2023-07-04T11:22:00Z

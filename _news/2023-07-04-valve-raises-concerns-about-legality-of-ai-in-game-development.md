@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/valve-raises-concerns-about-legality
 webUrl: "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Valve Does Not Want To Discourage The Use Of AI In Games"
+    excerpt: "Banning AI art never really sounded like a Valve move in the first place. The libertarian company has long sought to place as few inhibitions on what can be sold on Steam as is possible, while steering wide of ever engaging with any political matter."
+    publishedDateTime: 2023-07-04T14:10:00Z
+    webUrl: "https://kotaku.com/valve-steam-pc-games-ai-art-hentai-copyright-dalle-1850603853"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8904cf5da80123f20e10106002132185.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Opt Out: 4 privacy concerns in the age of AI"
     excerpt: "AI development is moving quickly, and concerns about privacy are growing. Keep these issues on your mind as AI grows and improves."
     publishedDateTime: 2023-07-06T13:00:00Z

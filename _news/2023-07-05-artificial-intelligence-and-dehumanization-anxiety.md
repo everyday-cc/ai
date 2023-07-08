@@ -42,6 +42,20 @@ related:
         width: 435
         height: 275
         isCached: true
+  - title: "An Update on Artificial Intelligence and the Law"
+    excerpt: "Part of our presentation addressed the rise of artificial intelligence (“AI”) in the law and in insurance adjusting. We have seen several interesting developments over the past few months in terms of AI and the law. Here are some of the highlights ..."
+    publishedDateTime: 2023-07-06T23:36:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/an-update-on-artificial-intelligence-8543469/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15680_183.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "pCBFKQtx2hlORkxdzjJ17+wsp8A+DKvGNucvaQJtYG5QPKp4C/sSgYLAuUZs/uen/TeaJEomfwobn4NgneJaDN4dyHfqlxWFSMHy7PFiodIIUkAUQ7Zdl5L3KHHexooEBwHbt/hCufM8SqnBgQIKsY3YmUgknmV8IktM9oJbduV/yRkur58riBoqI9GvSxdzKyCXC0+bqxL5QlRKqzGbPaWJF3x03G83iEqnp5xCv0/QeATOmIHYmzF0BEHEMoRgtoJRtXXJ1dhyTVaWHuw7YH6vRhCQQQLqf5kiBlScEq/gh7E4bLAdG5kGgP33k1XOOr9Gqw7aJwe0Wtjika986JphET9LnTEtA2FR8oFL9dH5HEcY2FUNPSAmOawfbBolg0xCyAe6f6YFxq+IRLhQG5QchNacYlIaU5iASN/IzxFa8Xs4vXUuw808/lWlDApfTDUEwPpLQXySGQXkbmuAYIPB+5MZPptIpTd//+fX/z9s7QTX3Bwo+IzuVe15EcLDhx/485okRBq0zb+coSDzog==;nKwxjE1zJ/PMm7RTx7k+MA=="
 ---

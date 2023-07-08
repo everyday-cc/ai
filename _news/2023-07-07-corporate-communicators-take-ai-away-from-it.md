@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporate-communicators-take-ai-away-from-it/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Communities can use artificial intelligence"
+    excerpt: "Small local businesses face numerous challenges in effectively promoting, marketing,"
+    publishedDateTime: 2023-07-05T13:41:00Z
+    webUrl: "https://www.thetelegraph.com/opinion/article/communities-use-artificial-intelligence-18182537.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/56/50/21686837/4/rawImage.jpg"
+        width: 456
+        height: 640
+        isCached: true
 
 secured: "AwtLGV/MkcDXapyyIqKjnaFde7RMCp4bBl4F/XPybu6t4tD+2aCw+xZcohOKiYWtZMdKNK6IFW2UHPlceGu4VN7Xp9FnNi/Y/eipq5ANU+fZLFslZVUDQZJolUAZLSjkccbnmjEj+74iAG7v7Ip6baGdUvWsm09hKjE3+Y2QGml+OpbJPCFmxBGjMM5QnrLjzgVFPf1Goey0A/zvMEKdYRyy1sPetjQxLy8IoBgNf3Gmqbt7GMy6qKAMC1FrUAOwyQtO6IWu256AQf1WAhABxBIKejasME+fa89xqI4HRmjRKPTrkFO1MundJhjK0+SyaAi9jyVLunM4UMkn+lx1M2+WpxZ7FKYlnhdgIX2W73Ymb5iPvKH4BRqW1Vj5SYfHohHxtQ5PF5bip6epbo7JhAIcmYBmOnf5STOGIPXTq1bvPgWT3V2QnRVbiTk8JCvnKpQDbk4VaZuWloY45md2B773tdgXMe6+JjCk9trOIgIhNP8NHgT+UaLbzoW+5m0F/34CaPukcH6A9OKDbm4Y1w==;I5zBNGCxvc+aSS+LrBBgmg=="
 ---

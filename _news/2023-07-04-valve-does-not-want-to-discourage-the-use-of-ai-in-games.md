@@ -24,45 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Valve says Steam games can’t use AI models trained on copyrighted works"
-    excerpt: "Last week, we shared an anonymous report that Valve was blocking from Steam at least some games that make use of AI-generated artwork. Over the weekend, Valve confirmed that report, telling Ars in an e-mailed statement that the company is blocking games that use AI-generated content unless developers can prove those AI models were trained with data that does not \"infringe on existing copyrights."
-    publishedDateTime: 2023-07-03T14:41:00Z
-    webUrl: "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/"
-    ampWebUrl: "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/amp/"
+  - title: "Valve raises concerns about legality of AI in game development"
+    excerpt: "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright."
+    publishedDateTime: 2023-07-04T00:15:00Z
+    webUrl: "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/steamvalve2-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/steam-library-update-2.png?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Generative AI in games will create a copyright crisis"
-    excerpt: "As lame as this story is, it hints at a knotty copyright issue the games industry is only just beginning to unravel. I’ve created a story using my imagination—but to do that I’ve used an AI helper. So who wrote the tale?"
-    publishedDateTime: 2023-07-05T17:12:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/"
+  - title: "The Opt Out: 4 privacy concerns in the age of AI"
+    excerpt: "AI development is moving quickly, and concerns about privacy are growing. Keep these issues on your mind as AI grows and improves."
+    publishedDateTime: 2023-07-06T13:00:00Z
+    webUrl: "https://www.popsci.com/diy/ai-privacy-issues/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
-  - title: "Communities can use artificial intelligence"
-    excerpt: "Small local businesses face numerous challenges in effectively promoting, marketing,"
-    publishedDateTime: 2023-07-05T13:41:00Z
-    webUrl: "https://www.thetelegraph.com/opinion/article/communities-use-artificial-intelligence-18182537.php"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: thetelegraph.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/56/50/21686837/4/rawImage.jpg"
-        width: 456
-        height: 640
-        isCached: true
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "Q4XDb2+Fv0NIKQdDCNrMF0kKCNzT4ihgBw+yPp9wURzUIXqw9/Di6kVN4MnyZIVjVAZlLsG43J13A07NGVaOfw++RAhmyhci+Txa2KzL6RkSIrVr9tt2Ak5nnhYqst51H62g1lXcpvj9VMWTiW4mFXCPKmCIJX4bdQFKGnVBROdKVBYufmhXZYHQV6vjQmSg8ca0Y2KuuFCkG7ov63dpuIO4imNlYpLthcumyXzFsW+qG0Cgw+hzs+1zgUuZHDxZz3Ov4YYVQiozKPGyQjA4aiOvO9fDSnKAc+y6bxcu7Repcd5MQxZSgNpF5H/Lo5PvSfmUu/XddQD1TBASsen+0pWZz75xvLcGT+THt2a25Z5kcK7osF+6QL6iqJXYED6gT8Sh+5VRn9/mIaYLmrWK0zLWVH8RP+TqO4uODIo9gUzmsZWLaxiuzyd11jYRelK48n1BGIK/62Cd0zsKR4wVyLFiQYIRVHkGvAcmouusvLITMkNmPwJyFf6T00YMCLYbRVVJtUTNcIHhlc/pdPcuwQ==;4QBVGrey8k2en1UzX0iTlw=="
 ---

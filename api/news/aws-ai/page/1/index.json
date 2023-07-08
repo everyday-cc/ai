@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-06-aws-launches-generative-ai-accelerator-program-in-anz.md",
-      "title": "AWS launches generative AI accelerator program in A/NZ",
-      "excerpt": "Start-ups in Australia and New Zealand are being called to join a new accelerator program from Amazon Web Services (AWS) focused on generative artificial intelligence.",
+      "path": "_news/2023-07-06-amazon-prime-day-2023-best-deals-available-now.md",
+      "title": "Amazon Prime Day 2023: best deals available now",
+      "excerpt": "Another day and another set of early Prime Day deals are now live at Amazon. Continuing on from the cheapest ever price for the Fire TV Stick 4K Max are today's record-low offers on the Echo Dot ...",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/707936/aws-launches-generative-ai-accelerator-program-in-anz/",
-      "originalUrl": "https://www.arnnet.com.au/article/707936/aws-launches-generative-ai-accelerator-program-in-anz/",
+      "webUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
+      "originalUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12_1.jpg",
-          "width": 505,
-          "height": 315,
+          "url": "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T22:34:00-07:00",
+      "publishedDateTime": "2023-07-06T05:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

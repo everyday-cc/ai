@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/this-country-just-gave-green-light-s
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 2200
         height: 1238
         isCached: true
-  - title: "UAE approves first license for self-driving vehicles"
-    excerpt: "The license was granted to WeRide company, Sheikh Mohammed said UAE approves first license for self-driving vehicles Abu Dhabi, Autonomous vehicles, Dubai, Self-driving vehicles, Sheikh Mohammed bin Rashid Al Maktoum,"
-    publishedDateTime: 2023-07-03T13:18:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/uae-approves-first-license-for-self-driving-vehicles"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 4
   - title: "UAE awards China’s WeRide first license to operate self-driving cars"
     excerpt: "The UAE permit will allow the Guangzhou-based driving technology company to test its level 4 human-free and fully autonomous vehicles on public roads throughout the emirates."
     publishedDateTime: 2023-07-05T19:23:00Z

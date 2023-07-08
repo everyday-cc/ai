@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106568093/Ai-Will-Continue-To-Create-Smarter-R
 webUrl: "https://menafn.com/1106568093/Ai-Will-Continue-To-Create-Smarter-Robots"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,100 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Generative AI in Games Will Create a Copyright Crisis"
+    excerpt: "Yet games like AI Dungeon (and games people have made with ChatGPT, such as Love in the Classroom) are built on models that have scraped human creativity in order to generate their own content. Fanfic writers are finding their ideas in writing tools like Sudowrite, which uses OpenAI’s GPT-3, the precursor to GPT-4."
+    publishedDateTime: 2023-07-04T15:57:00Z
+    webUrl: "https://www.wired.com/story/video-games-ai-copyright/"
+    ampWebUrl: "https://www.wired.com/story/video-games-ai-copyright/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/video-games-ai-copyright/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/64a43fe6c3f2cf2daf39fc6a/master/pass/Generative-AI-in-Games-Is-Sure-to-Cause-a-Copyright-Crisis-Culture-GettyImages-1407088969.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Rethinking Workload Placement In The Age Of Generative AI"
+    excerpt: "How organizations build, tune and run AI means the difference between gaining a competitive edge or losing one. Here are our tips."
+    publishedDateTime: 2023-07-05T14:39:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649cb761c029eedc5ae45c84/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AWS Exec: Generative AI can create a flywheel effect for business growth"
+    excerpt: "Matt Wood of AWS shares insights with VentureBeat on how generative AI can create a flywheel effect for business growth."
+    publishedDateTime: 2023-07-07T20:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_Color_photo_of_a_server_room_filled_with_racks_of_se_2607795c-93c9-486d-8345-65765efe0615.png?w=1200&strip=all"
+        width: 1059
+        height: 706
+        isCached: true
+  - title: "AWS launches generative AI accelerator program in A/NZ"
+    excerpt: "Start-ups in Australia and New Zealand are being called to join a new accelerator program from Amazon Web Services (AWS) focused on generative artificial intelligence."
+    publishedDateTime: 2023-07-06T05:34:00Z
+    webUrl: "https://www.arnnet.com.au/article/707936/aws-launches-generative-ai-accelerator-program-in-anz/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12_1.jpg"
+        width: 505
+        height: 315
+        isCached: true
+  - title: "Generative AI in games will create a copyright crisis"
+    excerpt: "As lame as this story is, it hints at a knotty copyright issue the games industry is only just beginning to unravel. I’ve created a story using my imagination—but to do that I’ve used an AI helper. So who wrote the tale?"
+    publishedDateTime: 2023-07-05T17:12:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "Mindbreeze Incorporates Generative AI"
+    excerpt: "Mindbreeze, a provider of knowledge management, has added generative artificial intelligence to Mindbreeze InSpire to improve customer experiences in natural language processing, text generation, and data security."
+    publishedDateTime: 2023-07-07T13:47:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=159533"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/153076-0623_Concentrix_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
+  - title: "3 Ways Generative AI Can Drive Operational Excellence"
+    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
+    publishedDateTime: 2023-07-07T15:39:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "xsshBH6RMTG4Mnkjt81AZRtR76yloigaZQuuBzc2cpTFoLIY7meVjQErqS+HkkpErdUumV4suWtTB/qpu2txp/W/2zfWmQYI9x8tU5sUvwm67zkkonHSP1YxMsqnvDeavhqnvG5Qo+yhByB4TeonN8+5z43IRMhsMnuOKM5APbrwacuynT0Ie0+fTIrGdYe9Rswy6ww6ujCZPc0EK+B9FKA44XnuoxaglIelxMFN1yVdA3D24wJra7pb6XccfXwMY98inOFbdHl8cT0M5TcX/ONy3P1O2px4Oo0bKT/gMfSvjbXny+cWVIPCvozilxknNIdcgq6Am99cx/LaOAs57gfrRr5pQ+9I2wi2T1rsKms=;82oOoTMRFl4m6fpZkxmcNg=="
 ---

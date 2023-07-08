@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/04/uk-universities-d
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Guardian
@@ -43,20 +43,6 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/-showcase_image-1-a-22429.jpg"
         width: 860
         height: 520
-        isCached: true
-  - title: "The H100: The chip driving generative AI"
-    excerpt: "It's rare that a computer component sets pulses racing beyond the tech industry. But when Nvidia issued a blowout sales forecast in May to send its market value above $1"
-    publishedDateTime: 2023-07-03T14:00:00Z
-    webUrl: "https://www.postguam.com/business/the-h100-the-chip-driving-generative-ai/article_126abd50-1930-11ee-ae3b-db5cdfa0a0bd.html"
-    type: article
-    provider:
-      name: The Guam Daily Post
-      domain: postguam.com
-    quality: 56
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/7/08/70815cbe-1930-11ee-8e84-bb61fbf895b0/64a2093050e7f.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "cLtT342+ia6hK8I7n1rfJ7b2EiDJE61MJqgJRG9hRcjDP6kSh5Kpvp7kOPzQvd4Z0IJyBzIeVosGQAtmWJQCE0JnBphyxAJemqCS2ZQ1GKA8IqcKkiNbLcPPdC7VqPG6F5an/tj+8HGJ/6eGJO8iHnxv2MBDYjtoWWTs2JJ7clsMdu0F++7SD5baYzWFA4opCNffWM8ZiLFdaEghMEE9hFnHIiwRkkfYC6Wf39xwpI6J0CpgNwjmORV5bhGCZNInb7/ELaisWGkizYixBygpkt+aEaHWgJmj59v7o3UoSR7K3jna7g/USSz2WoLFmq0R2ZX+cuB3p6eR6TmV8G5s84fWfKyVwgLamtoho9S4VPBFRIDDdKhGJ6vkz/znqT95jvlzPusyCi8QTvess3MVXQ/aJP7XqZhok8ZyIvNSU6qN/3HWW634HhtgIvkGgmuPWmolUQq7QV3GLQNKf/58iwoRJHPNjBxThM5GSXw7yhEIZmdVRjJiuctUy4RYvMBGzcCuPiO1tGGyMeFuHnDCgw==;S/8EASIrnAQlG6G/KsvDVA=="

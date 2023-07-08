@@ -20,38 +20,22 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform"
-    excerpt: "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,"
-    publishedDateTime: 2023-07-05T15:48:00Z
-    webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
+  - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
+    excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
+    publishedDateTime: 2023-07-06T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 64
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4444/Unsplash_ThisisEngineering-RAEng_web.jpg"
-        width: 975
-        height: 548
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a570171d6feda6a59805d4/0x0.jpg?format=jpg&crop=1450,815,x0,y6,safe&width=1200"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "Rubrik and Microsoft Announce Generative AI-Powered Cyber Recovery and Remediation"
-    excerpt: "Rubrik Security Cloud, Microsoft Sentinel, and Azure OpenAI Service integration demonstrates how organizations can strengthen their cyber resilience and recover faster and more effectively from cybera"
-    publishedDateTime: 2023-07-06T12:48:00Z
-    webUrl: "https://www.livemint.com/brand-stories/rubrik-and-microsoft-announce-generative-ai-powered-cyber-recovery-and-remediation-11687434659947.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 28
-  - title: "Rubrik and Microsoft announce Generative AI-Powered Cyber Recovery and Remediation"
-    excerpt: "Rubrik, the Zero Trust Data Security Company, today announced a joint collaboration to integrate Rubrik Security Cloud with Microsoft Sentinel and Azure OpenAI Service to accelerate cyber recovery through the use of generative AI and Natural Language Processing (NLP)."
-    publishedDateTime: 2023-07-06T23:13:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20230706/4096430.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 28
 
 secured: "Wh5ZpRHKXkregEufQs/Ooi9RgN3w5rtV/AwIQ+8bJ6zPxMFazZzLCJsTgL1xWSfVDxwn68KFoY68tBhUuD0mk0GqxPv7LCkCR1XWur2duvLMnwpmeJARqefyGF73SBUfI982FBOoZy7Q8WqDYg38ueCyoff4ZXizTatdN2b3OQSFLH3j/KEr6HuCO9Eq4giSNk+HLBtyB/8ZTagP+Z428UwniyvGh4cIDF8cNQEvqfW8sEo5ThaAYTmrYXEoiCGGlI3kSwaxMq9F71wwGi8btQ6WZkptpSohPkJ+ltx/P0A5vlN9nAkDCLuGPy50w7LrVExPM2imqdvvUbkd2P9PMiVa+/9GYdJ2G5JstmmVEyaWGLp+nLHLzwlWFj4Pad1uT/HZL2/f6Q2yMQD+/fo85ThF3vabtXbQGlYJIn9VCKSrAFJ9hmFEE1I0myDhWdVzjoPXKTOj1BSJobd9WbwCgI/6/K1X0iKwV7Xmb9Cm9YlbO82nslh4e0mPIlLOvuh77CmjXV5bdKP+pzA1XJA5pw==;0gQdhTl8Twkply19PhoGrg=="
 ---
