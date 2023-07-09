@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-10-ai-will-change-your-work-significantly-heres-how-to-respond.md",
+      "title": "AI Will Change Your Work Significantly: Here’s How To Respond",
+      "excerpt": "AI will shift things fundamentally—including the content of work, the work available and who’s doing it. You’ll need to be aware, ready and responsive to what’s coming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
+      "originalUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64aa095b9866235e854c321c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
+      "publishedDateTime": "2023-07-09T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-09-volkswagen-is-testing-its-driverless-vehicles-in-austin.md",
       "title": "Volkswagen Is Testing Its Driverless Vehicles in Austin",
       "excerpt": "Volkswagen's autonomous driving program kicks off in Austin, Texas, this month with two all-electric ID. Buzz vehicles.",
@@ -158,7 +210,7 @@
       "originalUrl": "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -915,7 +967,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -1154,58 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-speeding-up-shipping.md",
-      "title": "Amazon CEO Andy Jassy on making AI chips, Prime Video spend, speeding up shipping",
-      "excerpt": "Amazon CEO Andy Jassy spoke with CNBC for a wide-ranging interview about AI, Prime Video, and more. Here were some of the key takeaways (comments edited for brevity and clarity):… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
-      "originalUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0716-GW-Summit-2021105-1.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

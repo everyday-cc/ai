@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -254,7 +254,7 @@
       "originalUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -434,6 +434,40 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-teaching-kids-the-ethics-of-artificial-intelligence.md",
+      "title": "Teaching Kids The Ethics Of Artificial Intelligence",
+      "excerpt": "But a new kind of summer camp wants kids to know that artificial intelligence (AI) is far from perfect. Welcome to AI Ethics camp. In a classroom on the second floor of the Massachusetts Institute of Technology’s Media Lab, two dozen middle school-aged ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgbh.org/news/science-and-technology/2019/07/31/teaching-kids-the-ethics-of-artificial-intelligence",
+      "originalUrl": "https://www.wgbh.org/news/science-and-technology/2019/07/31/teaching-kids-the-ethics-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -724,6 +758,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-the-vatican-has-a-plan-to-help-keep-ai-in-control.md",
+      "title": "The Vatican Has A Plan To Help Keep AI In Control",
+      "excerpt": "In 2020, Pope Francis also called for AI regulation using \"algor-ethics,\" as reported by Reuters. Titled \"Ethics In The Age Of Disruptive Technologies,\" the ITEC handbook cites Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1326207/vatican-plan-to-keep-ai-in-control-ethics/",
+      "originalUrl": "https://www.slashgear.com/1326207/vatican-plan-to-keep-ai-in-control-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/the-vatican-has-a-plan-to-help-keep-ai-in-control/l-intro-1687991003.jpg",
+          "width": 1600,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-how-generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-hr-software.md",
       "title": "How generative AI is already changing the workplace: Oracle just added it to HR software",
       "excerpt": "Generative AI-powered features will improve the job posting, search, and hiring processes for HR pros​ and job applicants alike, the company says.",
@@ -881,6 +967,40 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-catholic-churchs-stance-on-ai-ethics-technology-should-be-at-the-service-of-humanity.md",
+      "title": "Catholic Church's stance on AI ethics: Technology should be 'at the service of humanity'",
+      "excerpt": "\"Ethics in the Age of Disruptive Technologies: An Operational Roadmap,\" a handbook for enterprise action around technology and AI, is the result of a collaboration between the Vatican and the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20230628346/catholic-churchs-stance-on-ai-ethics-technology-should-be-at-the-service-of-humanity",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230628346/catholic-churchs-stance-on-ai-ethics-technology-should-be-at-the-service-of-humanity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-the-vatican-releases-its-own-ai-ethics-handbook.md",
       "title": "The Vatican Releases Its Own AI Ethics Handbook",
       "excerpt": "The Vatican is getting in on the AI craze. The Holy See has released a handbook on the ethics of artificial intelligence as defined by the Pope. The guidelines are the result of a partnership between Francis and Santa Clara University’s Markkula Centre for Applied Ethics.",
@@ -965,6 +1085,40 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko.md",
+      "title": "Leadership & Ethics of AI in Medicine: Introduction with Dr. Molly Wasko",
+      "excerpt": "The institute’s AI in Medicine Graduate Certificate provides current and future health care leaders with important foundations in understanding and applying artificial intelligence (AI), as well as the safety, security, and ethics of using AI to improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uab.edu/medicine/news/latest/item/2809-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko",
+      "originalUrl": "https://www.uab.edu/medicine/news/latest/item/2809-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kaleido Scope",
+        "domain": "uab.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1243,196 +1397,6 @@
       "provider": {
         "name": "KPNX",
         "domain": "12news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-get-a-clue-says-panel-about-buzzy-ai-tech-its-being-deployed-as-surveillance.md",
-      "title": "Get a clue, says panel about buzzy AI tech: it’s being “deployed as surveillance”",
-      "excerpt": "Earlier today at a Bloomberg conference in San Francisco, some of the biggest names in AI turned up, including, briefly, Sam Altman of OpenAI, who just ended his two-month world tour, and Stability AI founder Emad Mostaque.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Meredith-Whittaker.jpg?resize=1200,1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/",
-      "publishedDateTime": "2023-06-22T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is.md",
-      "title": "If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?",
-      "excerpt": "This isn't a facetious question; it's an unanswered one. Is there an ethical way to use generative AI in a prominent piece of art?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/",
-      "publishedDateTime": "2023-06-22T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-how-regulating-ai-could-empower-bad-actors.md",
-      "title": "How Regulating AI Could Empower Bad Actors",
-      "excerpt": "While it’s easy to criticize Silicon Valley tech behemoths, hindering their development through regulation could mean handing the future of AI to very dangerous entities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/",
-      "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6494260aedc6b2a6518f46c2/0x0.jpg?format=jpg&crop=2533,1426,x0,y262,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/",
-      "publishedDateTime": "2023-06-22T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai.md",
-      "title": "Korean webtoon uses AI to copy anime artwork and characters raising questions on the ethics of using AI",
-      "excerpt": "A South Korean webtoon has allegedly plagiarised Mushoku Tensei's artwork using AI causing uproar among the community. The ethics of AI usage are under scrutiny A South Korean webtoon is under fire as it is accused of plagiarism and for using artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html",
-      "originalUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/Jobless_Reincarnation_1687438850587_1687438860004.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html",
-      "publishedDateTime": "2023-06-22T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

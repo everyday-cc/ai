@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Simple data gets the most out of quantum machine learning"
-excerpt: "New theoretical research proves that machine learning on quantum computers requires far simpler data than previously believed. The finding paves a path to maximizing the usability of today's noisy, intermediate-scale quantum computers for simulating quantum systems and other tasks better than classical digital computers,"
-publishedDateTime: 2023-07-05T21:02:00Z
-originalUrl: "https://techxplore.com/news/2023-07-simple-quantum-machine.html"
-webUrl: "https://techxplore.com/news/2023-07-simple-quantum-machine.html"
-ampWebUrl: "https://techxplore.com/news/2023-07-simple-quantum-machine.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-simple-quantum-machine.amp"
+title: "Simple Data Gets the Most Out of Quantum Machine Learning"
+excerpt: "New theoretical research proves that machine learning on quantum computers requires far simpler data than previously believed. The finding paves a path to maximizing the usability of today’s noisy, intermediate-scale quantum computers for simulating ..."
+publishedDateTime: 2023-07-06T04:51:00Z
+originalUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/simple-data-gets-the-most-out-of-quantum-machine-learning/"
+webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/simple-data-gets-the-most-out-of-quantum-machine-learning/"
 type: article
-quality: 59
-heat: 69
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Homeland Security Today
+  domain: hstoday.us
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/simple-data-gets-the-m.jpg"
-    width: 1000
-    height: 425
-    isCached: true
 
 related:
   - title: "Decoding the Quantum Riddle: Learning Quantum Processes Made Easier"
@@ -37,6 +29,6 @@ related:
       domain: scitechdaily.com
     quality: 4
 
-secured: "JxPqdVfVV5DfEAjFR6uuD0NoMUEPDq9JoOpA7GHTd5+vUpfvT8ZS0Z7QB1nOlXMX65bSyOzjGDwedcxfcedppsGM3ypn4HxNU9eMcUAWsPFar70ye9PWByqb8kvJUxpzzQnjwaHD9JA53n3a7yo1Wc38Uad5P/Gy7dz5y4EAuI0J/avs0LqZ//3PX1B3uDYnELeSB5a64mufK35r+DYNZ5OVdQpTN70GGh/6V909xW1t2q2VnD5SzILYKo7kSkVXS6aBZvGtfT4GcYCev5rrMSHbGudJVUxJuh5hrU4lh9s8GzGKdpa0w/t6XQ0i1l8gwj1l+yg0sz8J5F/iMEVpi5B8QbpNvdxdR68AkQFrei6nOrWwxMzWQe55L6K6nb0kzoTCraotCiwOtqHLz6jz9jA0kb34gzFKwziHtCwhbz8/ACxjX3Iko98J8PlcLzNqRyGlcOybVVMRumsaF/5/TOQpJ1Jn417AQmdA2KyM9LkCXWlwajXs+8DrHeVC1+uSOsOASAqundwakk0RORLFtQ==;1Ut5YSx4FCOzedNw1KQIpA=="
+secured: "PdBXtNU2YxoJGZvXmQkMnrs6byt7SZKka/F/6JjYpCXtl2q829h5IEdj+YcbjEhiWIyx3aEY2qAxU4NQ15t1vIzTl8OPFYbLDxshrenmbVv8ILF0g2qEy0+DxHo73qC47aLsQhrbzScs/VDF2qc8HU8NzXPxrhMMIlG5/EhWQd9G76NxbhoZn1cmzR+DqPUmen+1+crdMTZ2bb3H3mLy4aZqT3BYjLyFvnHMGh9XzE4HMD1bNxV4MGDgeHD59Q4yJgYbOlRrCIyoIFzBun/LNv/27G0oR4CEfEuIy2y45iLtHe4G5BhQUKadkpgLHVA+1jgxsownYWLzZP4JN7pZXKmtsg3KSNbA7JRI1eaxxVq+OCjWrWMjHQTdPWyfQPD7FhqOxplk7yEEEUk7F7EcjAuDrQ335Cz0mka7eeohOZUzE7Jls336mKBslNd6NuUqon0oVTPtlaIeL++fDXtDiy7lotFJ8bi8B0SVA+sdCAG+P4qDwtmIuHKh1RVJmTr1dW7FaZrngBSfQZK3/ZxZGg==;7ShQUbEK7c39J+Yr4QpJpQ=="
 ---
 

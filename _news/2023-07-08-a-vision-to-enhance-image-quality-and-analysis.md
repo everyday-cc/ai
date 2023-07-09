@@ -7,7 +7,7 @@ originalUrl: "https://sciencex.com/wire-news/450195611/a-vision-to-enhance-image
 webUrl: "https://sciencex.com/wire-news/450195611/a-vision-to-enhance-image-quality-and-analysis.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "A vision to enhance image quality and analysis"
+    excerpt: "The high-quality images and videos on our smartphones and digital devices nowadays are the product of scientists’ scrupulous research on innovative solutions. Prof. Lei ZHANG, Chair Professor of Computer Vision and Image at The Hong Kong Polytechnic University (PolyU),"
+    publishedDateTime: 2023-07-07T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/994855"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f53cbd38-6e4b-47ab-bbb5-6d7f418629f6/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "eUPFiKY+mOEXA46Naeq/CZJR23188k4pdBdHzXIjzG+swyNSPZpOjfZwbeIP/afH5lC+o3bKsEjxG85dWI/VydE+JAeR4lRjh7AUCYRSr5GB17IUeYVij6TbXWJ8Y8UyH7Tien6cjLRwLz391htiHDBqOhKdmZKRXVNagvClRGw2d3GQ0m3xBtae/bnPl/1QrKqE06NmCjs8UPfmY7TE+dBfrK56P7ACr+0CmKmy//EdHVbpoBP2Juap8KG2Nl0q1Z811r9RSZuHn+g9ItwPhYWkRJcOMW//x5FNvjUXTVft1LkP8r8V2Rk+qcDcyFVmn3pIeBW7j5KHCDFThj2QWEt0WPe/uJG9Z+5wAWFq6ODlF6/v5lhjcHpL753tL0H/T5m0rtix+QZFodiYrjefW1zNUm0hlESHUTgH0FzOP3DRI7H1gBYZ8QnaoZIbNdOpCH/Omlgboe98vR1gJMb1Qwq2w8ZZ/iaCFgO3X3RQu2HXkBhoKtpeUOh330dbd0PzFdPdgGCSt6dnNKVWDU2cmA==;pnPUBVVoWk++jomQlP58gw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ophthalmologytimes.com/view/center-for-ophthalmic-arti
 webUrl: "https://www.ophthalmologytimes.com/view/center-for-ophthalmic-artificial-intelligence-and-human-health-opens-door-for-new-advanced-treatment-options"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,12 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Getty_correct_size_eye.png"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "2B3u/KN9HK+j5icmo9vmEPLehx9JPdocozsXIGxO6H6oxN5Xn3NpIApn9F48CjL5KwJyg3vOCvLik9R2vqiJx2tX35jfWOPSVJ1+/RZ2tNlBbJlOyAX6dEg/ilrkvlBahHzv4JMCIJ46lQPeFC44l1OyGyqrNOOeC6itsuGbRnMMSVxQh+ZcxSxJJsczQBPRJGLHIVToBCvwz6aSpdrtOcAZJVLjQz74I43NsYUT76nDN+8MaedlXwTE83/ZNU4YPkytmla28kG642tb7hbH5baIPjATBIs39sItqzUpTsjjRm9YuSts4a27JooQMg1ZseJtnBlumHlvdnKyIVrpCfVuxvzmQVsUaTGNV8r0ZrDdqI87KUwDFNCU1PrdhqGthF+17GFnry8rrnozmEyT2V1kklWCGh6OiCMg9SEdVdFbiVRFHxSByYFxf2MuOLJU9DQ+fZj1PAeiU73mMx970qeJ2ALRgt7SjFox0zPEB+kGBN5y9mzRf/18muI2+9Z6gF60YaR2dfG1e4XP8VvOxQ==;F4ge1QQQo++hGVpb9wgIwQ=="
 ---

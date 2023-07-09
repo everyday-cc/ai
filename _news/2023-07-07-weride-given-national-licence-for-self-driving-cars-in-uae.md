@@ -39,20 +39,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "WeRide receives UAE’s first self-driving licence"
-    excerpt: "The licence will allow WeRide to conduct various road testing exercises and autonomous driving operations across the UAE"
-    publishedDateTime: 2023-07-05T03:28:00Z
-    webUrl: "https://gulfbusiness.com/weride-receives-uaes-first-self-driving-licence/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 24
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/07/weride-vehicles.jpg"
-        width: 939
-        height: 630
-        isCached: true
 
 secured: "8/rhD0ACPeEvrPmFCOwFyknZcTW1qoV+ONSW4gL8LM8X+TQJaEXEqM8a+vXXduT6CPzoDxBIA8J2gLWmrElrgZrDug4wVRrie8niuS7ihgGiYCSQxSF6g5rH+KGIEJonhtirSTUw4+K1gOaVXjyYGpAGywDB/bBooQoYHcQ0CFMPFH2WdtJuxpjd7oYrGAGCSdnQPOYBiTUtNPsKZs8hV9ceXv77WxMcqSTYjOnP9kwu/UwrPEo1jM8s30ciXUZ8N6wieqFxZssG3lvtLadecsn7CmwW43Z6J79beLbqvALVMpbvGXgOEeDd551ieWYae+sVMXu4f5Hw+w3FPKU/PCXh4kcjqrD99pAQCKYx2B7dQ8ZyvJdngpZE8kw9nrrS69HqjR+PGC2Io3XrUXTtZkBfLxRx3hKR/i0SefB83SeNG11vMLFE5MayfkkOsdrbOzWNAtyEBjqwd2ZGw4ziSUawhVn5KJV/1bgh7sA0n0BSkGtJqmKhUXfFYy/7rwedp4Z9JeuefUQ6a93IUdWT8w==;R0IBdLqWf6ruDL0lsWmMbg=="
 ---

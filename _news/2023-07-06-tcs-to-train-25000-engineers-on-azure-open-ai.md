@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Legal Blaze Hits OpenAI: Copyright & Privacy Battles Test AI Ethics"
-    excerpt: "Two authors, known for their works in science fiction and horror, claimed that the AI model could accurately summarize their books. This suggests that ChatGPT may have used their works unlawfully. OpenAI is also alleged to have collected images ..."
-    publishedDateTime: 2023-07-05T01:22:00Z
-    webUrl: "https://techreport.com/news/legal-blaze-hits-openai-copyright-privacy-battles-test-ai-ethics/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/07/shutterstock_2318038065-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
   - title: "Republican AI staffers to watch"
     excerpt: "Here's a look at some of the Republican staffers working to get legislation across the finish line. (We profiled top Democratic AI staffers here .) Young, a key player in CHIPS passage last year, was tapped again by Schumer to help write AI legislation. O’Brien and Cheever will be leading Young’s efforts."
     publishedDateTime: 2023-07-05T17:55:00Z

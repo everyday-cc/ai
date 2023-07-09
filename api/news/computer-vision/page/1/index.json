@@ -235,6 +235,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-04-counting-africas-largest-bat-colony.md",
+      "title": "Counting Africa's largest bat colony",
+      "excerpt": "Artificial intelligence and computer vision provide most accurate estimate yet. Once a year, a small forest in Zambia becomes the site of one of the world's greatest natural spectacles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230703133110.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230703133110.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-barred-from-grocery-stores-by-facial-recognition.md",
       "title": "Barred from grocery stores by facial recognition",
       "excerpt": "He then logged in to a facial recognition program, Facewatch, which his store uses to identify shoplifters. The next time those people enter any shop within a few miles that uses Facewatch ...",
@@ -978,6 +1021,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-cvpr-reveals-top-five-trends-in-computer-vision.md",
+      "title": "CVPR Reveals Top Five Trends in Computer Vision",
+      "excerpt": "Top paper categories included 3D computer vision; image and video generation; and understanding humans in video. Create an autonomous ecosystem. With advances in autonomous vehicles making their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33049624/cvpr-reveals-top-five-trends-in-computer-vision",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33049624/cvpr-reveals-top-five-trends-in-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33049624",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33049624",
+      "publishedDateTime": "2023-06-28T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-barred-from-grocery-stores-by-facial-recognition.md",
       "title": "Barred From Grocery Stores by Facial Recognition",
       "excerpt": "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ...",
@@ -1250,110 +1336,6 @@
         "name": "The Tribune",
         "domain": "tribuneindia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031.md",
-      "title": "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031",
-      "excerpt": "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-kibsi-raises-93m-for-its-no-code-computer-vision-platform.md",
-      "title": "Kibsi raises $9.3M for its no-code computer vision platform",
-      "excerpt": "Kibsi is an Irvine, California-based startup that is building a no-code computer vision platform that allows businesses to build and deploy computer vision applications. Among the things that set Kibsi apart from many other players in this space is that it ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Kibsi-Founders.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/",
-      "publishedDateTime": "2023-06-22T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

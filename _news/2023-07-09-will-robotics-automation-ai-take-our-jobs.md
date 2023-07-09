@@ -9,7 +9,7 @@ ampWebUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp
 cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "UBOT Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares ETF"
+    excerpt: "The chart has 1 X axis displaying Time. Data ranges from 2022-05-12 00:00:00 to 2022-05-12 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -0.5 to 0.5."
+    publishedDateTime: 2023-07-07T00:00:00Z
+    webUrl: "https://seekingalpha.com/symbol/UBOT/peers/comparison"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
   - title: "Is AI Coming to Take Your Job?"
     excerpt: "AI is now so commonplace and all-encompassing that there are now AI assistants that will map out your daily schedule, and make changes depending on what you do and don’t get done on any given day. This means you aren’t even controlling your schedule anymore;"
     publishedDateTime: 2023-07-05T07:21:00Z

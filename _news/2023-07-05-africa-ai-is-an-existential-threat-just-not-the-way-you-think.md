@@ -64,6 +64,15 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 19
+  - title: "Commentary: AI is an existential threat – just not the way you think"
+    excerpt: "The rise of ChatGPT and similar artificial intelligence systems has been accompanied by a sharp increase in anxiety about AI. For the past few months, executives and AI safety researchers"
+    publishedDateTime: 2023-07-07T21:00:00Z
+    webUrl: "https://www.thedailystar.com/opinion/columns/commentary-ai-is-an-existential-threat-just-not-the-way-you-think/article_af155844-1b75-11ee-aee0-ff9ba1a40749.html"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.com
+    quality: 19
   - title: "Guest opinion: Nir Eisikovits: AI is an existential threat – just not the way you think"
     excerpt: "AI is not going to blow up the world. But there is an existential danger inherent in using AI. That risk, though, is existential in the philosophical rather than apocalyptic sense. AI in its"
     publishedDateTime: 2023-07-09T12:00:00Z

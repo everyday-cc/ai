@@ -55,20 +55,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "Firms racing to meet AI tech challenge"
-    excerpt: "A special battle is going on in China as established tech heavyweights and startups scramble to develop their own artificial intelligence large language models to pounce on the opportunities created by AI-generated content."
-    publishedDateTime: 2023-07-05T01:37:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/05/WS64a4bf6ca310bf8a75d6d4ea.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/05/64a4bf6ca310bf8a1d2369b2.jpeg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "JEE0h6mjLVu/xJ9JVqPQdXW00Y6dnVKQXQPp2Bq/ZbeUE+1Ruyl5jF5JI+qTlmsHKOvFzpGiIl1AV/z3wRd24prgWS9tA1KM2lII9La1szJd+Dxwwh01hHorOD0ahvGH2XY4imi6RdpAvHC8xdYfU325A7APqNKvrItP9fRWTS58b32jmDIvMc7O1wappzwujgvnoMRYlnVT5n5XQ8Kd8VdKuipQu/Iwm5/Cjkx8Fs0tHovIJu779TpmazYCe58AXXYVFrj9v0TjcvL/N+uG2wAznz+KIOeCZYTGGtkEnYXYfDszrGXVwGR5+saqeRqlDB/FX8+j3Ljx+vvBBTVD++nGoZZBX674z0Ch5bnvVp8=;b17a7pkYJs6iCjccvW41Eg=="
 ---

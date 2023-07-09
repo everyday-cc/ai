@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-06-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
+      "title": "AI robots could play future role as companions in care homes",
+      "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ",
+      "originalUrl": "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/E9v889KGpiT_0ZzHIGcK9Sp20y0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ES6WJHBTJMRDA3BT6QDD63V5I.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-ai-vs-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
       "title": "AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference?",
       "excerpt": "Discover the differences and commonalities of artificial intelligence, machine learning, deep learning and neural networks.\nThe post AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference? appeared first on IBM Blog.\n",
@@ -1175,57 +1227,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai.md",
-      "title": "The Brain Technology Treating Neurological Disorders That Will Benefit From AI",
-      "excerpt": "Deep brain stimulation meets machine learning and AI in order to deliver better functional outcomes and quality of life for patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5de0aef231c76774c321a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/amp/",
-      "publishedDateTime": "2023-07-05T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

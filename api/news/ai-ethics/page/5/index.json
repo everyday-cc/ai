@@ -2,6 +2,207 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-02-dont-pause-ai-development-prioritize-ethics-instead.md",
+      "title": "Don’t pause AI development, prioritize ethics instead",
+      "excerpt": "Some tech companies and lawmakers are getting it wrong when it comes to AI. Instead of pausing progress, they should be prioritizing AI ethics. Here's how.\nThe post Don’t pause AI development, prioritize ethics instead appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/",
+      "originalUrl": "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T11:43:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-microsoft-has-a-new-way-to-keep-chatgpt-ethical-but-will-it-work.md",
+      "title": "Microsoft has a new way to keep ChatGPT ethical, but will it work?",
+      "excerpt": "Microsoft caught a lot of flak when it shut down its artificial intelligence (AI) Ethics & Society team in March 2023. It wasn’t a good look given the near-simultaneous scandals engulfing AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/",
+      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/02/bing-chat-human-featured.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/?amp",
+      "publishedDateTime": "2023-05-02T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom.md",
+      "title": "Letter from the editor: How generative AI is shaping the future of journalism and our newsroom",
+      "excerpt": "I sent this memo to the editorial staff at VentureBeat today, explaining the way I think that we should approach this moment in digital media.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/",
+      "originalUrl": "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/journo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/amp/",
+      "publishedDateTime": "2023-05-02T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-the-godfather-of-ai-quit-google-and-says-he-now-regrets-his-role-creating-technology-that-poses-a-threat-to-humanity.md",
+      "title": "The 'Godfather of AI' quit Google — and says he now regrets his role creating technology that poses a threat to humanity",
+      "excerpt": "Employees who spoke with Bloomberg said they thought Google wasn't prioritizing AI ethics, and trying to develop the tech quickly to catch up to OpenAI's ChatGPT. Two employees tried to stop the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
+      "originalUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/644fe1b9da6d7b0019bdca65?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp",
+      "publishedDateTime": "2023-05-01T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears.md",
       "title": "Geoffrey Hinton, a pioneer in artificial intelligence, resigns from Google over ethical fears",
       "excerpt": "Geoffrey Hinton, a pioneer in artificial intelligence and a longtime leader of Google’s AI research division, has resigned from his position at the tech giant, citing growing concerns about the ethical implications of the technology he helped create,",
@@ -1268,188 +1469,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-meet-the-worlds-least-ambitious-ai.md",
-      "title": "Meet the World’s Least Ambitious AI",
-      "excerpt": "“People want to have consent to having technology used on them,” Margaret Mitchell, a co-author of the response and an AI-ethics researcher at Hugging Face, told me. “And there aren’t good ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2023/04/generative-ai-playing-chess-martin-bot/673697/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/04/generative-ai-playing-chess-martin-bot/673697/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/w27VJFP0-GwD-Rdtsx13ENmwaJA=/0x43:2000x1085/1200x625/media/img/mt/2023/04/Chess_layers_2/original.gif",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-exploring-ai-ethics-and-accountability.md",
-      "title": "Exploring AI ethics and accountability",
-      "excerpt": "Do you pull the lever? What if the other person is elderly? A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/?platform=hootsuite",
-      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/?platform=hootsuite",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2018/02/GettyImages-679721306.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/?platform=hootsuite",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/?platform=hootsuite",
-      "publishedDateTime": "2023-04-13T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm.md",
-      "title": "How our commitment to ethics, trust and transparency is differentiating IBM",
-      "excerpt": "Emerging technologies and the rapid development of innovations are raising questions and challenges in today&#8217;s marketplace. At IBM, we&#8217;ve been bringing new technologies into the world responsibly and with clear purpose for more than a century.&#160;And we know that nobody can address these",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm/",
-      "originalUrl": "https://www.ibm.com/blog/how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T06:05:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-coach-soch-ai-and-ethics-heres-why-the-policy-makers-should-worry-about-it.md",
-      "title": "Coach Soch: AI and ethics — here's why the policy makers should worry about it",
-      "excerpt": "Regulating artificial intelligence (AI) presents a unique challenge for regulators due to the complexity of the technology and its potential impact on society. The pace of AI innovation and commercialisation is so rapid,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm",
-      "originalUrl": "https://www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2021/09/artificial-intelligence-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm/amp",
-      "publishedDateTime": "2023-04-09T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 784
         isCached: true
-  - title: "15 of the best AI and ChatGPT courses you can take online for free"
-    excerpt: "Techniques for AI Image Generation(opens in a new tab) Microsoft Azure AI Fundamentals: Get started with AI(opens in a new tab) Midjourney 101: Unleash AI for Unique Image Generation(opens in a new tab) Midjourney Guide: How to Generate AI Art in Seconds ..."
-    publishedDateTime: 2023-07-05T04:08:00Z
-    webUrl: "https://mashable.com/uk/deals/ai-chatgpt-free-courses"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/002kxdo3R48XSCpBxasXOLq/hero-image.fill.size_1200x675.v1688467571.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How generative AI tools like ChatGPT can revolutionize web accessibility"
     excerpt: "ChatGPT's ability to handle complex conversations can lead to more effective communication and accessibility for those with disabilities."
     publishedDateTime: 2023-07-08T16:10:00Z
@@ -219,6 +205,6 @@ related:
         height: 228
         isCached: true
 
-secured: "4EfyRE8uRlcF+0wb+Fu9HjIUaGBn+KyX/H5gKisZy8iWhBRrihThu5CmvZv9WRBo3squjWZbHWK7+G+RTDBN8ZE84WsOHmrxaZ+Efzh0eu3USnTdDT8IR1wnzi17mhyRy86NgnnQYWxyUStkR1fEIfOrrXoxKXxlIhD6HKxOVkw00pgg8AcquZHXdARsthmYL/du5xdMFjWP4vnLOdOWbKd8k2INhPD9lSnIsEctrj+247vXMf/hK3V/pZ7qkxoUJR11z6WPLtPjrjAHfRIJ2X5ZIpF+z+P3aXgFGJ+liwBoFuYZleDHa8ieXo6EUikGumizCoJr++rcdndQTcrNP/mNokrPH0rwnbBS74O4CPg=;EVHLMdM3+PRKnWlMRe41iw=="
+secured: "S4ezKm54kTt6n2hXr7uq13ecKXL5bZ1KkNJT+P0SKMoLjsPh9/wJqJIu2Q6hJ4s7Q6FwTLr3xWZIrbn5+a5CnVSdK588w+GgXiWfE2NtvVBwt9miKt1TMPx178ZGZrlgfpBOwT4HN/UzRpm1kPbbH8Mi7/G/q4mF5bEM8MGktyhZ+NFwv/XbncCcL3I5HIgRM95MVIpQHyUyyrOCB99jvMNyKF7tTS7WV/wrC2ByhpFieyaTvCUQN2Min/B5p/NFSz2XACLKiH1MRck2NMtbpRDr5FMfjw4UVFQhQ6AxwAd8qZdNBy+/JNrVGo0Pn9jxhxGtqMU6YmJ4sVWYX61OIpI8wfTcrVF5awUIaeHY0n2FJX7wk0ytFXUWiR5yMHW0nHfyyFrKHKfRY2N+JWp7LcSrMNdHTTDNUOpeSh/XB11FVTPkrEvRvJqZ2++mrJneRkePrpF91gERned9rM/OOCvaVDQmgRTokoc5O+mUKLj1PL90AnJ3q6vlrrz8CGCpaPn99HXYVj4s+mUF6iBvPQ==;6YMIPqok1CurxLINGzqboQ=="
 ---
 

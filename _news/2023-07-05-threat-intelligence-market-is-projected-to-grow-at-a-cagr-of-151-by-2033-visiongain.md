@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Consumer Robotics Market to Reach US$ 76 Billion, Globally by 2032 at 24.3% CAGR: Future Market Insights, Inc."
-    excerpt: "The global consumer robotics market was worth US$ 8.7 Billion in the year 2022 and is expected to reach US$ 76 Billion by the year 2032 at a staggering CAGR of 24.3% between 2022 and 2032. An influx of smart homes all across is the factor majorly fueling the consumer robotics market and the scenario is expected to remain unchanged"
-    publishedDateTime: 2023-07-05T03:12:00Z
-    webUrl: "https://www.fmiblog.com/2023/07/05/consumer-robotics-market-to-reach-us-76-billion-globally-by-2032-at-24-3-cagr-future-market-insights-inc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 14
   - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
     excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"
     publishedDateTime: 2023-07-07T07:18:00Z

@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "15 of the best AI and ChatGPT courses you can take online for free"
-    excerpt: "Techniques for AI Image Generation(opens in a new tab) Microsoft Azure AI Fundamentals: Get started with AI(opens in a new tab) Midjourney 101: Unleash AI for Unique Image Generation(opens in a new tab) Midjourney Guide: How to Generate AI Art in Seconds ..."
-    publishedDateTime: 2023-07-05T04:08:00Z
-    webUrl: "https://mashable.com/uk/deals/ai-chatgpt-free-courses"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/002kxdo3R48XSCpBxasXOLq/hero-image.fill.size_1200x675.v1688467571.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How generative AI tools like ChatGPT can revolutionize web accessibility"
     excerpt: "ChatGPT's ability to handle complex conversations can lead to more effective communication and accessibility for those with disabilities."
     publishedDateTime: 2023-07-08T16:10:00Z

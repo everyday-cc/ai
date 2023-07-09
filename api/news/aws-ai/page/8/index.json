@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-17-posts-tagged-aws-artificial-intelligence-and-machine-learning-practice-lead.md",
+      "title": "Posts tagged \"AWS Artificial Intelligence and Machine Learning Practice Lead\"",
+      "excerpt": "Download this eBook to look at each of these trends to give you background on why AI and ML is so powerful today, how businesses are using it responsibly and to their benefit, and how the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
+      "originalUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2022/11/Smartcompany_Horizontal_Black_Logo_3000x4000px-e1668556442225.png?fit=3000%2C3000",
+          "width": 3000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-16-aws-launches-new-tools-for-building-with-generative-ai.md",
       "title": "AWS launches new tools for building with generative AI",
       "excerpt": "Amazon Web Services (AWS), an Amazon.com company, today (April 15) announced four innovations across its machine learning portfolio to make to make generative AI more accessible to customers. As an AI pioneer, AWS has helped more than 100,000 customers of ...",
@@ -1250,49 +1294,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-aws-launches-new-accelerator-program-for-generative-ai-startups.md",
-      "title": "AWS launches new accelerator program for generative AI startups",
-      "excerpt": "Applications for the AWS Generative AI Accelerator, as the program is called, opened today. Startups have until April 17 to apply. The program is geared toward startups that have a minimal viable product,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/04/aws-launches-new-accelerator-program-generative-ai-startups/",
-      "originalUrl": "https://siliconangle.com/2023/04/04/aws-launches-new-accelerator-program-generative-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/46600198075_8477bdd292_k-1.jpg",
-          "width": 2048,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

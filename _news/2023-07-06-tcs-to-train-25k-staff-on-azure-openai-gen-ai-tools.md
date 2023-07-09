@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-eng
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044335.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Legal Blaze Hits OpenAI: Copyright & Privacy Battles Test AI Ethics"
-    excerpt: "Two authors, known for their works in science fiction and horror, claimed that the AI model could accurately summarize their books. This suggests that ChatGPT may have used their works unlawfully. OpenAI is also alleged to have collected images ..."
-    publishedDateTime: 2023-07-05T01:22:00Z
-    webUrl: "https://techreport.com/news/legal-blaze-hits-openai-copyright-privacy-battles-test-ai-ethics/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/07/shutterstock_2318038065-scaled.jpg"
-        width: 2048
-        height: 1333
         isCached: true
   - title: "TCS to Train 25,000 Engineers on Azure Open AI"
     excerpt: "TCS on Thursday announced plans to significantly scale its Azure Open AI expertise and plans to get 25,000 associates trained and certified on Azure Open AI to help clients accelerate their adoption of this powerful new technology."

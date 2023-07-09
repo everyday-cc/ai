@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-23-fire-chief-warns-against-unleashing-self-driving-taxis-in-san-francisco.md",
+      "title": "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco",
+      "excerpt": "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "originalUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "publishedDateTime": "2023-06-23T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-hacker-claims-to-discover-elon-mode-for-tesla-self-driving-cars.md",
+      "title": "Hacker claims to discover “Elon Mode” for Tesla self-driving cars",
+      "excerpt": "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
+      "originalUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technology.inquirer.net/files/2023/06/tesla-car-issues.png-620x382.png",
+          "width": 620,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
+      "publishedDateTime": "2023-06-22T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-how-this-self-driving-boat-is-helping-to-tackle-the-issue-of-plastic-waste.md",
       "title": "How This Self-Driving Boat Is Helping To Tackle The Issue Of Plastic Waste",
       "excerpt": "Sometimes inspiration can come from the unlikeliest of sources. In the case of the Hong Kong-based autonomous boat startup Clearbot, it was a trip to Bali, where its founders saw the extent of the plastic pollution crisis first hand. “We were on the ...",
@@ -660,6 +755,40 @@
       ]
     },
     {
+      "path": "_news/2023-06-20-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution.md",
+      "title": "Baidu gets upgrade at Morgan Stanley on likely benefit from China's AI evolution",
+      "excerpt": "In effect, the firm expects Baidu's core revenue to reach RMB 151B, driving a 17% CAGR 2022-25, versus 12% CAGR under the firm's base case.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3980904-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution",
+      "originalUrl": "https://seekingalpha.com/news/3980904-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5.md",
       "title": "AI Utopia And Dystopia. What Will The Future Have In Store? Artificial Intelligence Series 5 Of 5",
       "excerpt": "Human Flourishing And A Utopian Future In a utopian future empowered by artificial intelligence ... Here are some ways AI could be beneficial to individuals and society: Healthcare spans beyond internal health. There are also companies such as Coralai ...",
@@ -1240,135 +1369,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-elon-musk-gives-google-a-driving-test.md",
-      "title": "Elon Musk Gives Google a Driving Test",
-      "excerpt": "Waymo didn't immediately respond to a request ... chatbot that has become the face of the progress made by artificial intelligence. \"Three million cars will drive themselves with no one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-gives-google-a-driving-test",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-gives-google-a-driving-test",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
-      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
-      "excerpt": "Baidu first brought self-driving cars to Shenzhen in 2022 but its cars then were not allowed to go on the roads without human supervisors onboard. Its fleet was also prohibited from collecting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/baidu-wins-commercial-licence-driverless-taxis-shenzhen-3566851",
-      "originalUrl": "https://www.channelnewsasia.com/business/baidu-wins-commercial-licence-driverless-taxis-shenzhen-3566851",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--fFhN_mG5--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-16t082609z_1_lynxmpej5f09b_rtroptp_3_china-baidu-robotaxi.jpg?itok=D8sSFWKj",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-self-driving-or-driverless-cars-market-growth-2030.md",
-      "title": "Self-Driving or Driverless Cars Market Growth | 2030",
-      "excerpt": "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-growth-2030-2023-06-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-growth-2030-2023-06-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

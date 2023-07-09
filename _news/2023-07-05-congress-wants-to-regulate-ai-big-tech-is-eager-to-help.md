@@ -41,20 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Firms racing to meet AI tech challenge"
-    excerpt: "A special battle is going on in China as established tech heavyweights and startups scramble to develop their own artificial intelligence large language models to pounce on the opportunities created by AI-generated content."
-    publishedDateTime: 2023-07-05T01:37:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/05/WS64a4bf6ca310bf8a75d6d4ea.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/05/64a4bf6ca310bf8a1d2369b2.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "This Is the Help Congress Needs to Regulate AI"
     excerpt: "When OpenAI CEO Sam Altman testified before Congress in May about the existential risks large-language models and other generative artificial intelligence technologies pose to humanity, there was an elephant in the room."
     publishedDateTime: 2023-07-05T16:00:00Z

@@ -72,15 +72,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Consumer Robotics Market to Reach US$ 76 Billion, Globally by 2032 at 24.3% CAGR: Future Market Insights, Inc."
-    excerpt: "The global consumer robotics market was worth US$ 8.7 Billion in the year 2022 and is expected to reach US$ 76 Billion by the year 2032 at a staggering CAGR of 24.3% between 2022 and 2032. An influx of smart homes all across is the factor majorly fueling the consumer robotics market and the scenario is expected to remain unchanged"
-    publishedDateTime: 2023-07-05T03:12:00Z
-    webUrl: "https://www.fmiblog.com/2023/07/05/consumer-robotics-market-to-reach-us-76-billion-globally-by-2032-at-24-3-cagr-future-market-insights-inc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 14
 
 secured: "pqTCuJ2b30gmOJKfuH3Vzf0CWqm3Mdh5r2RYbACUSFUMOSc8lUurDqHW6RQafv4Pgm9tk61ibSd81AlDjASqE74aOWV1hPZqbppVgZNnGiPRBCdfFeXWHqBQctGlLVFmQb7Js1GCJjaiy53KKEQMbc4lbvkDIr1jMUcv8qRxZFCysR9vLx5wqKTfSx8YtpVJDXelb4K3W0AN1/6w0q3yinL7wQRPX1ALSvrH9kOoRCpW/RZf+bgSzSm2sMp1PiZU2WqUA2beVcIswIHUs6pEQJy5uj7Y+SwR77aPfcB2StE+syiJj5x996CxI20rnJaHOFhYcv6abDvR+HSCUUIemHUgBi3+rYZC2e6dwX/Upl65vl2GxRwR/tpKR2TPP+AJx3qGpi9pjyH7SpyWhtW8kGZxzJwSihQs8tdJnTqcaKlx2yUI4JR5xmseDyK9I62qik/DjwSJhGEdxQ+xjkD7c3tC67+FWrS1fCvqU+yhNszU/9L1qbt3NjyozYEbHIjNqvcy9ZBAQOBT0yhwhx8pFQ==;plvoge6RPHsyu2/oo6Pflg=="
 ---

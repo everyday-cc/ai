@@ -78,6 +78,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
+  - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
+    excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
+    publishedDateTime: 2023-07-09T18:16:00Z
+    webUrl: "https://menafn.com/1106574082/From-Banks-To-Bitcoin-How-Fintech-Is-Shaping-The-Economy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
   - title: "E-Gates Launches Fintech Solution for Digital Asset Management"
     excerpt: "Gates, a startup developing software solutions for fintechs, has launched its universal platform. Its flagship offering combines a unified solution for managing web2 and"
     publishedDateTime: 2023-07-06T09:01:00Z

@@ -503,6 +503,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-30-how-to-start-a-career-in-artificial-intelligence.md",
+      "title": "How to start a career in artificial intelligence",
+      "excerpt": "Global industry disruption brought about by artificial intelligence (AI ... how we live and work with technologies like self-driving cars and virtual assistants. If you’re interested in ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/58d12984-a56f-4a58-8ef9-1db84c7cbdeb.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/start-a-career-in-artificial-intelligence/amp",
+      "publishedDateTime": "2023-06-29T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-one-mans-quest-to-ban-teslas-full-self-driving-and-take-on-elon-musk.md",
       "title": "One Man’s Quest to Ban Tesla’s Full Self Driving and Take on Elon Musk",
       "excerpt": "The Dawn Project’s Dan O’Dowd paid for a Super Bowl ad and conducts regular tests to show that Tesla’s FSD technology is dangerous and should be outlawed.",
@@ -867,6 +910,40 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-artificial-intelligence-now-being-used-in-grandparent-scam-what-you-need-to-know.md",
+      "title": "Artificial intelligence now being used in Grandparent Scam. What you need to know",
+      "excerpt": "If it wasn’t bad enough that scammers target grandparents, trying to pull on their heartstrings with a panicked call from a \"grandchild\" in trouble, now artificial intelligence is involved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1316,101 +1393,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-fire-chief-warns-against-unleashing-self-driving-taxis-in-san-francisco.md",
-      "title": "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco",
-      "excerpt": "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "publishedDateTime": "2023-06-23T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-hacker-claims-to-discover-elon-mode-for-tesla-self-driving-cars.md",
-      "title": "Hacker claims to discover “Elon Mode” for Tesla self-driving cars",
-      "excerpt": "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
-      "originalUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technology.inquirer.net/files/2023/06/tesla-car-issues.png-620x382.png",
-          "width": 620,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
-      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
-      "publishedDateTime": "2023-06-22T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-06T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/mount-sinai-establishes-center-for-ophthalmic-ai-and-human-health"
 webUrl: "https://healthitanalytics.com/news/mount-sinai-establishes-center-for-ophthalmic-ai-and-human-health"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Getty_correct_size_eye.png"
+    width: 690
+    height: 400
+    isCached: true
 
 related:
   - title: "Center for Ophthalmic Artificial Intelligence and Human Health opens door for new, advanced treatment options"
@@ -34,6 +40,6 @@ related:
         height: 763
         isCached: true
 
-secured: "a8aNNjyN7hTTbKJ0sAyUaqJmZ6Qdl6v0mGZHtRDhHA+v0CXqrhaz8Ofa/IHinU2YKwIRWbxD05A2kVn0HzYls2jQI/crOuR6EOfnbSMsqg3MuX+t5eAgcIcxxfeFpyafjYrObykfpadTOdQQ71nQgeU+da7CZ01tRnFe0MnR8vOwwIL/hFcLYzDoAz76EpPpedrWOPe2OxCoVCVHtnxzWktJ3lnze3WPjkx9u+4fDFSHoPDqAfuo84Bg+dM05PofPZn7Upho5hHxse8sB9kOa1WbhIQviZ6iNEUDs5GC667KUO0FPxsfUQ9lsJ6+LTCdbeVjARyJ2QFLziFL26zyWfEaLEes3kYSqVvs1sS2TZ0=;bKoUxzuuDWBsKObRAluAOw=="
+secured: "3eOyqsHL3GUrArlUoF3IA504j5vrBXPDEHOoq3kdu700XLIaeVDFK5Zr5KwLt3eBg+OWfbbEzZh45I6cN/Zdi3bMpP4CbBXKk6Kwr8nXu2N15BYOHjXmThpX4fSgASFoD8YIhQKAp7CHqeq78X+9fY2iA3e9xLsVwblTHALQ/pMTsAt5/qvEKNaKR2zkBsIIK2CcgGtdKMiDfP/NBZogu8jCP5ACBLr7obAdJxytLMhKa/e4EOdGXCFEsIU4WkW5PHoRwda3Fqq7lvtpk1n/JQh4I6Z/Ohcc71X3X2h3cUdGlgT0LLQjS0B8y9z+9zwZGi5D3pBXsomFPnv3CwztOgbWA929flVT8z55+QG8CHg=;vr4ba6Hrj4ckMZSx8T6Few=="
 ---
 

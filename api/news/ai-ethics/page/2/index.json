@@ -2,6 +2,196 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-23-get-a-clue-says-panel-about-buzzy-ai-tech-its-being-deployed-as-surveillance.md",
+      "title": "Get a clue, says panel about buzzy AI tech: it’s being “deployed as surveillance”",
+      "excerpt": "Earlier today at a Bloomberg conference in San Francisco, some of the biggest names in AI turned up, including, briefly, Sam Altman of OpenAI, who just ended his two-month world tour, and Stability AI founder Emad Mostaque.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/",
+      "originalUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Meredith-Whittaker.jpg?resize=1200,1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/",
+      "publishedDateTime": "2023-06-22T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is.md",
+      "title": "If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?",
+      "excerpt": "This isn't a facetious question; it's an unanswered one. Is there an ethical way to use generative AI in a prominent piece of art?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/",
+      "originalUrl": "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/",
+      "publishedDateTime": "2023-06-22T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-how-regulating-ai-could-empower-bad-actors.md",
+      "title": "How Regulating AI Could Empower Bad Actors",
+      "excerpt": "While it’s easy to criticize Silicon Valley tech behemoths, hindering their development through regulation could mean handing the future of AI to very dangerous entities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/",
+      "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6494260aedc6b2a6518f46c2/0x0.jpg?format=jpg&crop=2533,1426,x0,y262,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/",
+      "publishedDateTime": "2023-06-22T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai.md",
+      "title": "Korean webtoon uses AI to copy anime artwork and characters raising questions on the ethics of using AI",
+      "excerpt": "A South Korean webtoon has allegedly plagiarised Mushoku Tensei's artwork using AI causing uproar among the community. The ethics of AI usage are under scrutiny A South Korean webtoon is under fire as it is accused of plagiarism and for using artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html",
+      "originalUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/Jobless_Reincarnation_1687438850587_1687438860004.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html",
+      "publishedDateTime": "2023-06-22T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit.md",
       "title": "Mass adoption of generative AI tools is derailing one very important factor, says MIT",
       "excerpt": "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ...",
@@ -1278,197 +1468,6 @@
         "name": "Purdue University",
         "domain": "purdue.edu",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-baidus-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of-ai-ethics.md",
-      "title": "Baidu's 2022 ESG Report Highlights \"Safe and Controllable\" as Highest Principle of AI Ethics",
-      "excerpt": "autonomous driving, smart terminals, system services, and a wide range of additional components. In 2022, Baidu's self-developed ERNIE Big Model has been used in place of traditional data classification technique to achieve automatic data management ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2023/06/05/baidu-s-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2023/06/05/baidu-s-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-the-devious-dance-of-ai-generated-misinformation.md",
-      "title": "The Devious Dance Of AI-Generated Misinformation",
-      "excerpt": "The rise of generative AI poses a significant threat of misinformation. We must safeguard the truth and integrity of our information landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/",
-      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647aecbada2ba3a38c0e1090/0x0.jpg?format=jpg&width=1200",
-          "width": 1125,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/",
-      "publishedDateTime": "2023-06-04T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce.md",
-      "title": "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce",
-      "excerpt": "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
-      "publishedDateTime": "2023-06-03T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-is-generative-ai-a-friend-or-foe-to-pr-practitioners.md",
-      "title": "Is Generative AI A Friend Or Foe To PR Practitioners?",
-      "excerpt": "The capabilities of AI are impressive and guaranteed to advance at light speed, but don’t hang your communications hats up just yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6478b9c953bca67d1aa62ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/",
-      "publishedDateTime": "2023-06-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

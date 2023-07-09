@@ -2,6 +2,528 @@
   "page": 150,
   "value": [
     {
+      "path": "_news/2023-03-30-natural-language-processing-nlp-in-healthcare-market-by-2031.md",
+      "title": "Natural Language Processing (NLP) in Healthcare Market by 2031",
+      "excerpt": "The \"Natural Language Processing (NLP) in Healthcare Market\" study describes how the technology industry is evolving",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-by-2031-2023-03-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-by-2031-2023-03-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-29T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-3-companies-leading-the-charge-to-the-driverless-car-future.md",
+      "title": "3 Companies Leading the Charge to the Driverless Car Future",
+      "excerpt": "Driverless cars, also known as autonomous vehicles, are quickly becoming a reality. With advancements in artificial intelligence and sensor technology, these cars are able to navigate roads and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/indices/TTUT/pressreleases/15522899/3-companies-leading-the-charge-to-the-driverless-car-future/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/indices/TTUT/pressreleases/15522899/3-companies-leading-the-charge-to-the-driverless-car-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Chip%20During%20Rush%20Hour.jpg",
+          "width": 1600,
+          "height": 1065,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-29T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-achieve-effective-business-outcomes-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
+      "title": "Achieve effective business outcomes with no-code machine learning using Amazon SageMaker Canvas",
+      "excerpt": "On November 30, 2021, we announced the general availability of Amazon SageMaker Canvas, a visual point-and-click interface that enables business analysts to generate highly accurate machine learning (ML) predictions without having to write a single line of code. With Canvas, you can take ML mainstream",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-effective-business-outcomes-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-effective-business-outcomes-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-29T10:50:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-synopsysai-new-ai-solutions-across-the-entire-chip-development-workflow.md",
+      "title": "Synopsys.ai: New AI Solutions Across The Entire Chip Development Workflow",
+      "excerpt": "The company has added Verification and Test AI tools to its already-successful Design tools, DSO.ai, with more to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/",
+      "publishedDateTime": "2023-03-29T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning.md",
+      "title": "AI-Focused Crypto Protocol Fetch.ai Raises $40M to Deploy Decentralized Machine Learning",
+      "excerpt": "Join the most important conversation in crypto and Web3 taking place in Austin, Texas, April 26-28. Artificial intelligence-focused crypto protocol Fetch.ai has raised $40 million from market maker and investment firm DWF Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/",
+      "originalUrl": "https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/d6S0I7swBBiulVIIo6kE57o4ucs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZO3ZU6FHZ5FCBCC5HZPNQD5UBY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/?outputType=amp",
+      "publishedDateTime": "2023-03-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-10-best-ai-art-generators-create-stunning-art-with-deep-learning.md",
+      "title": "10 Best AI Art Generators: Create Stunning Art with Deep Learning",
+      "excerpt": "AI Art Generators are the latest trend in digital art, creating beautiful and intricate artworks using complex algorithms and deep learning techniques. This article explores the world of AI art ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business-spotlight/10-best-ai-art-generators-create-stunning-art-with-deep-learning-news-274345",
+      "originalUrl": "https://www.outlookindia.com/business-spotlight/10-best-ai-art-generators-create-stunning-art-with-deep-learning-news-274345",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1680091620.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/10-best-ai-art-generators-create-stunning-art-with-deep-learning-news-274345/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/10-best-ai-art-generators-create-stunning-art-with-deep-learning-news-274345/amp",
+      "publishedDateTime": "2023-03-29T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Market [2023-2030] | The Future of Industry a Look at the Next Decade of Growth",
+      "excerpt": "Artificial intelligence in healthcare is an overarching term used to describe the use of machine-learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-healthcare-ai-market-2023-size-and-forecast-to-2030.md",
+      "title": "Healthcare AI Market 2023 Size and Forecast to 2030",
+      "excerpt": "Mar 28, 2023 (The Expresswire) -- Healthcare AI Marketinformation for each competitor includes (GENERAL ELECTRIC, IBM Watson Health, Intel Corporation, Next IT Corp, Google, DEEP GENOMICS, Koninklijke Philips N.V, General Vision, NVIDIA Corporation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-size-and-forecast-to-2030-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-size-and-forecast-to-2030-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets.md",
+      "title": "Former White House AI policy advisor slams Sen. Chris Murphy’s ‘fear-mongering’ ChatGPT tweets",
+      "excerpt": "Because the hypotheticals around generative AI are not as critical as the real harms. If ChatGPT are going used in, as being claimed, in a suicide hotline, people are gonna get hurt. We can wait till then, or we can start saying that any system that gets ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/",
+      "originalUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-31.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/amp/",
+      "publishedDateTime": "2023-03-28T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-enable-predictive-maintenance-for-line-of-business-users-with-amazon-lookout-for-equipment.md",
+      "title": "Enable predictive maintenance for line of business users with Amazon Lookout for Equipment",
+      "excerpt": "Predictive maintenance is a data-driven maintenance strategy for monitoring industrial assets in order to detect anomalies in equipment operations and health that could lead to equipment failures. Through proactive monitoring of an asset’s condition, maintenance personnel can be alerted before issues",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-predictive-maintenance-for-line-of-business-users-with-amazon-lookout-for-equipment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-predictive-maintenance-for-line-of-business-users-with-amazon-lookout-for-equipment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/28/predictive-maintenance-lookout.jpg",
+          "width": 1151,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T10:12:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware.md",
+      "title": "Hugging Face reveals generative AI performance gains with Intel hardware",
+      "excerpt": "Learn More Nvidia’s A100 GPU accelerator has enabled groundbreaking innovations in generative AI, powering cutting-edge research that is reshaping what artificial intelligence can achieve. But in the fiercely competitive field of AI hardware, others are ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_Intel-xeo-4_1200px.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/",
+      "publishedDateTime": "2023-03-28T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-a-shared-agenda-for-responsible-ai-progress.md",
       "title": "A shared agenda for responsible AI progress",
       "excerpt": "AI can be hugely beneficial to society if citizens, educators, academics, civil society and governments unite to shape it responsibly.",
@@ -714,558 +1236,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech.md",
-      "title": "Facial recognition is helping Putin curb dissent with the aid of US tech",
-      "excerpt": "Facial recognition equipment is pictured at the exhibition during the Sixth Eastern Economic Forum in Vladivostok, Russia, in 2021.  LONDON — Andrey Chernyshov had just entered a Moscow metro station on his way to an anti-war protest last May,",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html",
-      "originalUrl": "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/93/993af131-23e1-5844-8bc6-1dea6eabbb81/6422c31341ace.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-what-do-ai-art-generators-think-a-ceo-looks-like-most-of-the-time-a-white-guy.md",
-      "title": "What do AI art generators think a CEO looks like? Most of the time a white guy",
-      "excerpt": "A team of researchers from AI firm Hugging Face — one of whom is a former AI ethics researcher at Google — and a professor from Germany's Leipzig University published a study to identify how ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3",
-      "originalUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6421d4d0b50c290018641ec3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3?amp",
-      "publishedDateTime": "2023-03-28T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead.md",
-      "title": "AI's Tipping Point: From Dark Forces To Creative Liberation, What's Ahead?",
-      "excerpt": "We believe that it can start very low, by just answering the basic concerns of people: will my work be disintermediated by AI? Will AI become sentient? And then progressively open up more complex issues to people; let them understand what is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/",
-      "originalUrl": "https://www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6422a2be50a1d9dd6c10b24d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/amp/",
-      "publishedDateTime": "2023-03-28T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-artificial-intelligence-ai-in-automotive-market-2023-size-growing-rapidly-with-recent-trends.md",
-      "title": "Artificial Intelligence (AI) in Automotive Market 2023 Size Growing Rapidly with Recent Trends",
-      "excerpt": "Artificial Intelligence (AI) in Automotive Market Analysis 2023 \\| by Product Type (, Context Awareness Computing, Machine Learning, Natural Language Processing, Computer Vision, ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-automatic-speech-recognitionasr-software-market-share-business-till-2030.md",
-      "title": "Automatic Speech Recognition(ASR) Software Market Share | Business till 2030",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- “Automatic Speech Recognition(ASR) Software Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-ai-ification-welcome-to-the-next-business-revolution.md",
-      "title": "AI-ification: Welcome To The Next Business Revolution",
-      "excerpt": "Think of any business and imagine the AI-ification of its purpose and processes. Start building the future based on what you see. Artificial intelligence in its current form is giving entrepreneurs the opportunity to completely disrupt existing industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64212664402fcb379210b24f/0x0.jpg?format=jpg&crop=1635,919,x0,y137,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/amp/",
-      "publishedDateTime": "2023-03-27T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-gpt-4-menya-ibishya-byubu-buryo-bushya-bwa-artificial-intelligence.md",
-      "title": "GPT-4: Menya ibishya by'ubu buryo bushya bwa 'artificial intelligence'",
-      "excerpt": "ChatGPT yari imaze kumenywa nk’imwe muri za robot za artificial intelligence (AI) zikomeye ku isi, ariko abayikoresha ntibashoboraga kuyiha amabwiriza cyangwa kuyibaza ibibazo utabanje kuyandikira. Ariko ubu, ubwoko (version) bushya bw’iyi chatbot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/gahuza/articles/cv24vkvyd4mo",
-      "originalUrl": "https://www.bbc.com/gahuza/articles/cv24vkvyd4mo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_gahuza/b09a/live/44da6b50-cd31-11ed-be2e-754a65c11505.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/gahuza/articles/cv24vkvyd4mo.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/gahuza/articles/cv24vkvyd4mo.amp",
-      "publishedDateTime": "2023-03-27T23:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-2023-a-research-report-on-the-ai-infrastructure-market-with-statistics-and-forecasts.md",
-      "title": "2023, A Research Report on the AI Infrastructure Market With Statistics and Forecasts",
-      "excerpt": "the AI Infrastructure Market Report includes data on research and development, New product launches, product feedback from global and regional markets by key players. This structured analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-a-research-report-on-the-ai-infrastructure-market-with-statistics-and-forecasts-2023-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-a-research-report-on-the-ai-infrastructure-market-with-statistics-and-forecasts-2023-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world.md",
-      "title": "As Adobe Shows Its Generative AI Hand, Hollywood Grapples With Changing World",
-      "excerpt": "Adobe joined the generative AI gold rush, announcing Firefly and other additions to its creative and marketing software tools. But for Oscar-winning screenwriter Aaron Sorkin and the Writers Guild of America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/",
-      "originalUrl": "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642280892f0c387d9de2d105/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/",
-      "publishedDateTime": "2023-03-27T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-deep-learning-chipsets-market-insight-2023-driving-factors-by-manufacturers.md",
-      "title": "Deep Learning Chipsets Market Insight 2023: Driving Factors by Manufacturers",
-      "excerpt": "The \"Deep Learning Chipset Market\" analysis [UPDATED REPORT] 2023 provides an assessment of a specific industry, niche,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-insight-2023-driving-factors-by-manufacturers-2023-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-insight-2023-driving-factors-by-manufacturers-2023-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-public-health-ai-and-ethics.md",
-      "title": "Public health, AI and ethics",
-      "excerpt": "First, we must note that medical ethics in the country are far from where they ought ... In this environment, a potent new tool needs to be handled with great care. Increased reliance on AI for diagnosis may sound cool to many, but the system is far ...",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics",
-      "originalUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/1078711-MuhammadHamidZamanNew-1459790290/1078711-MuhammadHamidZamanNew-1459790290.JPG",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1",
-      "publishedDateTime": "2023-03-27T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

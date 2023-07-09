@@ -86,6 +86,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
+  - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
+    excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
+    publishedDateTime: 2023-07-09T18:16:00Z
+    webUrl: "https://menafn.com/1106574082/From-Banks-To-Bitcoin-How-Fintech-Is-Shaping-The-Economy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "3ECi/uVHMkfHqdVyiM1FcryW4OP92WJI1iodCik1TcDbGcii4n9TjZEE+wHzgt8vu16PK9ytc0epCnLoJJjUjHts3kyi6dlhKwJRo34qfqMZ4tNBAC4KD7n0RMb8mxv8bkQBgmnSavtXSTd9s1CaKQPBiHRziBcn3yirw9bs9ASRFJ0x7GItOWeYVk4ErSjUSF/VrnQvsoMeFybktJjDXbjnGUitA6KrSjJ3uA3USqp2zBB5wY8wvWfsCMtDMp1w/qqlb7g0OSSs1olW8STvtJwn9zLw+78VaoDh/qbdx+PzOkuh5uNnXX/DiLFdn10YS1VgeO3Ep/uOEH7+bqHPJ0L8z4C9lwW4ig5Xg0Q+8OI=;Tm5D1wSdYl2Xe/Pusex/rQ=="
 ---

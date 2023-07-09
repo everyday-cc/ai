@@ -43,20 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Legal Blaze Hits OpenAI: Copyright & Privacy Battles Test AI Ethics"
-    excerpt: "Two authors, known for their works in science fiction and horror, claimed that the AI model could accurately summarize their books. This suggests that ChatGPT may have used their works unlawfully. OpenAI is also alleged to have collected images ..."
-    publishedDateTime: 2023-07-05T01:22:00Z
-    webUrl: "https://techreport.com/news/legal-blaze-hits-openai-copyright-privacy-battles-test-ai-ethics/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/07/shutterstock_2318038065-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
   - title: "TCS to Train 25,000 Engineers on Azure Open AI"
     excerpt: "TCS on Thursday announced plans to significantly scale its Azure Open AI expertise and plans to get 25,000 associates trained and certified on Azure Open AI to help clients accelerate their adoption of this powerful new technology."
     publishedDateTime: 2023-07-06T08:30:00Z

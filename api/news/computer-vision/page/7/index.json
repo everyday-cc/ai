@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-17-face-recognition-device-market-2023-2030-detailed-growth-analysis.md",
+      "title": "Face Recognition Device Market [2023-2030]: Detailed Growth Analysis",
+      "excerpt": "Apr 17, 2023 (The Expresswire) -- The Global \"Face Recognition Device Market\" report analyzes crucial growth factors, key strategies employed by economic players [Cloudwalk , Dahua Technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-2023-2030-detailed-growth-analysis-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-2023-2030-detailed-growth-analysis-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-computer-vision-ip-listing.md",
+      "title": "Computer vision IP Listing",
+      "excerpt": "CEVA-XM6 is the 5th generation imaging and computer vision processor IP from CEVA, designed to bring deep learning and artificial intelligence capabilities to low-power embedded systems, targeting ... NeuPro-S™ is a low power AI processor architecture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/sip/?q=computer+vision",
+      "originalUrl": "https://www.design-reuse.com/sip/?q=computer+vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-16-financial-institutions-directed-to-adopt-facial-recognition-feature.md",
       "title": "Financial institutions directed to adopt facial recognition feature",
       "excerpt": "According to the central bank, the measures require commercial banks and microfinance banks (MFBs) to implement a combination of at least two controls, such as facial recognition, in-app live original identity document verification, in-app live picture verification, and call-back verification.",
@@ -1180,101 +1266,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-facial-recognition-phone-market-international-business-analysis-2023-2029.md",
-      "title": "Facial Recognition Phone Market International Business Analysis 2023-2029",
-      "excerpt": "Mar 27, 2023 (The Expresswire) -- Facial Recognition Phone Marketinformation for each End Users [, Commercial, Individual], Product Types [, Operating System Android, Operating System IOS], Main ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-phone-market-international-business-analysis-2023-2029-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-phone-market-international-business-analysis-2023-2029-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech.md",
-      "title": "Facial recognition is helping Putin curb dissent with the aid of US tech",
-      "excerpt": "Facial recognition equipment is pictured at the exhibition during the Sixth Eastern Economic Forum in Vladivostok, Russia, in 2021.  LONDON — Andrey Chernyshov had just entered a Moscow metro station on his way to an anti-war protest last May,",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html",
-      "originalUrl": "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/93/993af131-23e1-5844-8bc6-1dea6eabbb81/6422c31341ace.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
