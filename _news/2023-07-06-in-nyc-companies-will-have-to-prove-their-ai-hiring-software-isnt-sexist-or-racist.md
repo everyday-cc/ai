@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna92336"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna92336"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 7 Best AI Writing Software Tool"
-    excerpt: "Here is a list of the top 7 best AI writing software tools to help you create content with the best quality and SEO optimization. You will also find a guide on selecting the best AI writing software tool."
-    publishedDateTime: 2023-07-04T10:14:00Z
-    webUrl: "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210"
-    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-7-best-ai-writing-software-tool-news-300210/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 59
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1688464900.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NYC will require audits of AI hiring tools for bias"
     excerpt: "AI is far from an impartial judge of potential candidates—the technology can often perpetuate human biases such as racism, sexism, and ageism."
     publishedDateTime: 2023-07-06T19:30:00Z

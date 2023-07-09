@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-rol
 webUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://manilastandard.net/wp-content/uploads/2023/07/ai-robot.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "AI robots could play future role as companions in care homes"
+    excerpt: "Ms Nadia Magnenat Thalmann, a robot expert from the University of Geneva, who served as the model for Nadine’s dark brown eyes and auburn hair, said Nadine and robots like it could prove more effective than human carers."
+    publishedDateTime: 2023-07-09T03:40:00Z
+    webUrl: "https://www.straitstimes.com/world/ai-robots-could-play-future-role-as-companions-in-care-homes"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/09/2023-07-06T101928Z977844868RC2LX1AQ8WLPRTRMADP3TECH-AI-UN.JPG?VersionId=KhTog3RPxutQKA34UApriBBwqrcMj1Lr"
+        width: 860
+        height: 573
         isCached: true
 
 secured: "NGN/k3PR1ZPnu56a9ixzP2bcmUijUGEOznUW77n+Xv+lALHmz1HrYRiH4JrXWG1Zml8qdnDntLs85UL4oZrYmzGJ90HC3ZSHPomuOgCiDnDjmGVZmS0CnZYUrnCp4gk2OYRQqGFnfASEDRoiYGUZYz7WZUI0MCSSmP60I5IcMAUbX2PX6WGeyIZ7a33NHNs86F7sbuEomoS/BJOKOl3If0YmudktUBJeE4IOoc0CjhMfEJSj4fQB3qOUwu7OxoLcMVWBWidZtFhbmeU78rloj9C7dtVLR5qNAtgVlBL0tmcu6/PisNO1x8la5dEX5cw7BJQ3N2/gXhp6OsqfeNLxJ9DKf8v6qRSkir0NgHOlpJ8OdDh32ZW7Htl0HQ4NmAXndX7fjanaSvnppx2Qzbod3ZiDpDg3S5bfhigEaJHN/PzJv0SZ5Bj3u8qr7ipvExOFYtkeehSrNNxYj0hjIMZI0wl5gjuduG9PSetKjtvYfbdy8IdveM5FN5wn/rAFWcaSdUvu3Tjw4y8je7Pe7ixR0w==;60tPNiSTdbBpgZgX2YEPkg=="

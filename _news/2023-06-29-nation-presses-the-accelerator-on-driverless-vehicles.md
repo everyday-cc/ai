@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nation presses the accelerator on driverless vehicles"
-excerpt: "Lou Tiancheng, cofounder and chief technology officer of Pony.ai, said, \"The inclusion of autonomous vehicles in the unified and standardized management of taxis proves that both government policy and the public are increasingly accepting robotaxis as a form of everyday transportation.\""
-publishedDateTime: 2023-06-28T23:46:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
-webUrl: "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
+excerpt: "A passenger travels in a driverless car at Baidu Technology Park in Beijing. [DU LIANYI/CHINA DAILY] Lou Tiancheng, cofounder and chief technology officer of Pony.ai, said, \"The inclusion of autonomous vehicles in the unified and standardized management of taxis proves that both government policy and the public are increasingly accepting robotaxis as a form of everyday transportation."
+publishedDateTime: 2023-06-29T01:36:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
+webUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 445
     isCached: true
 
-secured: "Ebc4/a0B4mk8MYZkcJKRyJs5FpouwYeNwy9Fzx+kfoYG3JiEi9diXehxF7MIWeCbjHf33Q3SNVOGUh3ErL25thLvG3CKkFEfc1rY2XjK3qeUcakJV0BORoaAU8Z2Wc/GmwiJ4aBOU3viNDjPPHNuDpQ+voTskETLKHO0Iqhfx52Dl0zJQ4YyBESNwrdrQiM9Fe0tmu+9PlUnmdRSAYdOQmMjsz/hMhEBdG2jZDJm4nEXvI++vieatKluO3SqaVY3q0zGJ9tRkqblZakKLmzKXFZZMlAhhX6iNBn7p2SrnSdbo5bSAjNjVpFN2CUJIulKVPiemGnlNKL1Cirkxk4f8MbzQ/3THmHVnpmZ4c2/GnM=;AuR9bhNQdnoEiVaDMnlITg=="
+secured: "P6QmlQjRQBT8NcYXfd5q42wNjkuYML+nebdCGRmNoiQFXs53nqjKimks5+XMa7zJAgqAlcz6v7pflSHWDLiGkBmV3yVRwe/hbG4TxMiUeFwtpHGC9+7Ir9t11qYhptobBRmYetKo06S1+MUpnvaJKp/B5vc5C5HpEfYGo6N+WDMIcknBY1G3YbmYC/IzbfyugcDe0ikKEljvCK5EwJ7Mnts5mE5BnnwjjA9G19N83VsBuFQjGfZF8B75RRD2VHXDvpaXz8o7OXDL63UiS+3h0lrf6UP/aKcwIDOMQKRlT9P4xVgpHYK1REZflptRD0JvhPkhEEMzf4Aga9Wykf8TroU9y2qGhWJoc6Gb2bH4JzQ=;j1R7caOWMVEPUnu8wlFOKA=="
 ---
 

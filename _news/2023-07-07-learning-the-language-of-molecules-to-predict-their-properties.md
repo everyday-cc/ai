@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Learning the language of molecules to predict their properties"
-excerpt: "A new framework uses machine learning to simultaneously predict molecular properties and generate new molecules using only a small amount of data for training ..."
+excerpt: "A new MIT framework uses machine learning to simultaneously predict molecular properties and generate new molecules using only a small amount of data for training."
 publishedDateTime: 2023-07-07T00:00:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/07/230707153847.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/07/230707153847.htm"
+originalUrl: "https://www.eurekalert.org/news-releases/994929"
+webUrl: "https://www.eurekalert.org/news-releases/994929"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3f20a56a-99ae-4186-bc51-6a2f8460ef00/Rendition/low-res/Content/Public"
+    width: 700
+    height: 467
+    isCached: true
 
 related:
   - title: "This AI system only needs a small amount of data to predict molecular properties"
@@ -40,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aF8/sfRnV26G39kMxT0M+9K6uax58YBmMaU9xzUecP/hF1N7m+O0C1cijzPHl55HQrnncDARinDPwmAAwXd9slMqinAFWoH7e4ShM7JiBBecahWKTaAwVDXT1LCRS4nOhMuNNdy/gviPW2ideZAII5bq8MXh4sv4IoVR/bvvXjg+Ll+XWD0N2CxwezrWuQ33CNSGGPAmf7Sy7oeESE5AHPJypa9D/373X6wzqzjIw7WNQryN3iWefMmWGcvnIpKMG068PkCTivhnYDL2L1Jv0y4EsoxjF8QTGe0+zfZ13YexcyUM5F6hqd1lKDYmnaa9h3d/EBF1MDQAdHmWvS36xD5lKycnQeuSdikcDOrhBYY=;0HB/OzYSZsFC76lENW2wBA=="
+secured: "18p607K6ASylU/h/08MFhpWchF1eZNo2Aj/Zq45JixC5ExA7gKUQ61enkMcrcuYHY7Pf14H828OoXfLtmBGoxcv/amLj3igMcYbxU4qoVFHL6UZYL22rpcUUArxUK0IVX2Y/pFsL9+KR0miHW9sUDvyp32uSZvGysrbnfNmwOn+IinBLUUvxYud91fpPzJzZOWCO9UujCHE0aOB3YG1ap5LaQQmZbCYVGM/hVhmoTPZZdT2Nps036dGS/NO6LgKQrrRhO+Cpqxoi893nB6L88oRSqNrlK+jKujm7jPWRAprjCwroMS7dJod46WlOSOqWhgFQVnPKYcxou7I8bHMNbEh7fFuW96tOB+jML4nUZs4=;4KQUvIzFpsgGw+y/qkCPbg=="
 ---
 

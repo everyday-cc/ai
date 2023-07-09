@@ -87,6 +87,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AI robots could play future role as companions in care homes"
+    excerpt: "Ms Nadia Magnenat Thalmann, a robot expert from the University of Geneva, who served as the model for Nadine’s dark brown eyes and auburn hair, said Nadine and robots like it could prove more effective than human carers."
+    publishedDateTime: 2023-07-09T03:40:00Z
+    webUrl: "https://www.straitstimes.com/world/ai-robots-could-play-future-role-as-companions-in-care-homes"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/09/2023-07-06T101928Z977844868RC2LX1AQ8WLPRTRMADP3TECH-AI-UN.JPG?VersionId=KhTog3RPxutQKA34UApriBBwqrcMj1Lr"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "YadIG3vmRs03lm68mOt3OhuaBKihJsAgFBOPJc+LpJrq8OlseF1FL0laP+wkRkYdsW0NqIm5wC4P7jTstBFPNL1pK5YTdIEz7H8p+5v72SBnCfi2tkM8Bk1kRClrGLAYqoMAOkFpGNm3+gohZIKsYPn50/By5A7gxxhqkzODcW9cfKuEij9Cw2RzPjoedD2zJWXenfUURaIeVO4VR2RT5NX/mifTnXhRbnYIK070JDJejT0frtCqjmXGDq7jV80VfSeLAmWvl5WSXZ4AniDGfI27siA1wMmTjRmnI9RP2EgQdZVZmZEmrqkDm0HZqrqJ/ub81dbLgk4fkPWBz6a3pjjfStIIZDVD4u1VFfDcidizzVPzLTH0uTANqY3oy05lylCv8HDAcxyZn0x3fU6w8v3X/+sNRNxzd0H9woNNOgZpN+KGhQSEUAoVnFS2qjSc0obRIAIHgJvHObvTsNdRvL4HDOp2Otxi6SB38NwqOtwFeMyGHODPRX1vT2FQmectJpdjfowYtFBJThMAuypghQ==;/3YPmnaBCGDWsZw7Pn/CkA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-09T00:43:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/looking-for-biotech-ai-stocks-3-names-that-will-benefit-from-the-ai-boom-1032433236"
 webUrl: "https://markets.businessinsider.com/news/stocks/looking-for-biotech-ai-stocks-3-names-that-will-benefit-from-the-ai-boom-1032433236"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "The Brain Technology Treating Neurological Disorders That Will Benefit From AI"
