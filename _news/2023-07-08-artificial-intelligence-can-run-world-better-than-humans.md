@@ -25,35 +25,72 @@ images:
     isCached: true
 
 related:
-  - title: "Better Than Humans? AI Attack Drones to Join US Military Soon"
-    excerpt: "The AI system, developed by Athena AI, aims to enhance target identification and assist human drone operators. While the potential benefits are significant, concerns about ethics and AI reliability have been raised by experts."
-    publishedDateTime: 2023-07-04T14:02:00Z
-    webUrl: "https://www.techtimes.com/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
+  - title: "Human-looking robots tell UN they could run world better, but won’t rebel"
+    excerpt: "Robots tell UN summit humans should proceed with caution when embracing rapidly-developing potential of artificial intelligence and admit they can't -- yet -- grasp human emotions"
+    publishedDateTime: 2023-07-08T23:55:00Z
+    webUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/"
+    ampWebUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 58
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430949/better-than-human-ai-attack-drones-to-fight-for-us-military-soon.jpg"
-        width: 618
-        height: 367
+      - url: "https://static.timesofisrael.com/www/uploads/2023/07/AP23188470818991-640x400.jpg"
+        width: 640
+        height: 400
         isCached: true
-  - title: "US military calls for better weapons to fight artificial intelligence"
-    excerpt: "The fight in Ukraine has underscored just how effective smart tech accessible to anyone may be in neutralizing the elaborate tools of conventional warfare."
-    publishedDateTime: 2023-07-05T11:00:00Z
-    webUrl: "https://www.marinecorpstimes.com/news/your-marine-corps/2023/07/05/us-military-calls-for-better-weapons-to-fight-artificial-intelligence/"
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
+    publishedDateTime: 2023-07-07T14:34:00Z
+    webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
     type: article
     provider:
-      name: Marine Corps Times
-      domain: marinecorpstimes.com
-    quality: 39
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
     images:
-      - url: "https://www.marinecorpstimes.com/resizer/DORUVNnB3xg2yXAS-UrCXchPDKI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/JHSPVZH7GRDR5DSOVWEUFHKW4M.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
         width: 1024
-        height: 768
+        height: 673
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
+    publishedDateTime: 2023-07-08T03:45:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world/101587755"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "AI robots at UN reckon they could run the world better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-08T12:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-robots-at-un-reckon-they-could-run-the-world-better/articleshow/101598689.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+  - title: "Robots reshape the future: Humanoid robots claim superiority in world governance at unprecedented press conference"
+    excerpt: "During a United Nations summit held in Geneva, humanoid robots delivered speeches asserting their potential to govern the world better than humans. Equipped with artificial intelligence technology, these machines urged caution regarding artificial intelligence and acknowledged their current lack of emotions and understanding of human feelings."
+    publishedDateTime: 2023-07-08T11:33:00Z
+    webUrl: "https://www.lbcgroup.tv/news/world-news/712490/robots-reshape-the-future-humanoid-robots-claim-su/en"
+    type: article
+    provider:
+      name: LBCI Lebanon
+      domain: lbcgroup.tv
+    quality: 32
+    images:
+      - url: "https://www.lbcgroup.tv/uploadImages/DocumentImages/Doc-P-712490-638244129348713672.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Mcy+QsXgfz+AiBS9ceQp0anqyH1d59hVTc0Y10TmM7qB6An7io35cIrNDzjzUmyq0yTvn6cRKT+yG+FEXFoVyk3pmFCTHWse+Zn7D6qpnLla0WzqJwIn8ejIxQHvcH1EH9GPNyALuS9L2yrCuKQapFGtHecRLqXvD0w+DA3OPTwJq1JQQ4/L1S9ld0HwdW/gN2+Rnq5pI34BiHVvXJhrdPaFCUsYqRBroFZMdnhh5cP3TxXi+stQJJhBhSo7f7MLOfpEvPsf/h4Gz1nqOGO2qwV3ORkxZPXCgNh/MnB1A9OswWj6AO3y3REhkMnnxLnEHk9jkr0QLeXcAfcjZWUG1FEWmlewoJqSw2cZdglU0RU=;IRqBd2XYCVc9CvJLoGaT0A=="

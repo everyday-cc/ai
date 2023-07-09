@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Learning the language of molecules to predict their properties"
-excerpt: "Researchers from MIT and the MIT-Watson AI Lab have developed a new, unified framework that can simultaneously predict molecular properties and generate new molecules much more efficiently than these popular deep-learning approaches. To teach a machine ..."
+excerpt: "A new MIT framework uses machine learning to simultaneously predict molecular properties and generate new molecules using only a small amount of data for training."
 publishedDateTime: 2023-07-07T00:00:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/07/230707153847.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/07/230707153847.htm"
+originalUrl: "https://www.eurekalert.org/news-releases/994929"
+webUrl: "https://www.eurekalert.org/news-releases/994929"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3f20a56a-99ae-4186-bc51-6a2f8460ef00/Rendition/low-res/Content/Public"
+    width: 700
+    height: 467
+    isCached: true
 
 related:
   - title: "This AI system only needs a small amount of data to predict molecular properties"
@@ -40,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "u5Z4qA9EnFLZpfvmXgvSbtrnNYSxiycH1JNDcku88BYyKeA3TEAle0/BGmxLuXObIp0mz55txk5G340hpZMRJDf1X/oGYvbQ+R/AEMUltEl2lOAhdpvpHnZBefEEi3pKhfnzjSRq0Im7r+4/Q4vk2Yh2tzQiKQN4RpdWzFRY4xWknUrZePwEiu7LCd8v4p/SKrUykAcVNX4HNv5+Vao+A9NnyCHXET0s0vD544LnASwjsfRNCOCwiAyLx+mDMvvGEpXZlMmBCCrppst0S/8KeYzsZxJj7sl400eG6oXgb3p4tZBA0fn+hKbezXbZQpRF7arBCYnhHHKUBzRmm+Iza5O5fDRPjkTdA4UL8cd1H1g=;6X0kb1lJnySfNTvwQ714AQ=="
+secured: "CSZuWdftyZV1DIJbpjnWvJnaLihlpv4QhYpoWjYwkSU1C31dHbUo6HL3VKQnioY8j8OLyEHtJIPY6/bXLDVwXCPjAZ6Ew+VI1YfvvyYBJ6WKHC+ynJZADbogLf77iQUMK9RVnW9LWn6L2WpAxHPmSzJMjnDp8ylKTuEIGDoPQb9bbbbaQdax2/OVKxFc9u8Hk0aJ9Gun7MJc6UirzMM35nyAz5luvuLFpnOb2SQDvZHxPg06Awfq/QrxyT3RratJe/neTV5NDUE6u2mNaRKE9+Y/oALApo0rZ+ry8MsaTmsitds0roBu7qBGQPZSMgWincd/qiwNT8zR0d2P7zpgrZSLOm34OIdTPFHldD7CLYs=;JU5LFmq6V6pRQ4TyL82ChQ=="
 ---
 

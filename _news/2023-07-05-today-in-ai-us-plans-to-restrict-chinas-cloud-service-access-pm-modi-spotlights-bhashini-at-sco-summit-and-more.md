@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "PM Modi highlights 'Bhashini' at SCO summit: Here is all you need to know about the AI-based translation tool"
-    excerpt: "The prime minister launched Bhashini, the National Language Technology Mission, in July 2022 to use technology to break down barriers between distinct Indian languages"
-    publishedDateTime: 2023-07-04T14:26:00Z
-    webUrl: "https://www.moneycontrol.com/news/india/pm-modi-talks-about-the-bhashini-platform-during-sco-summit-10903351.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/india/pm-modi-talks-about-the-bhashini-platform-during-sco-summit-10903351.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/pm-modi-talks-about-the-bhashini-platform-during-sco-summit-10903351.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 40
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Iran-joins-SCO-770x340.jpg"
-        width: 770
-        height: 340
-        isCached: true
   - title: "PM Modi presents AI language platform Bhashini: What it is"
     excerpt: "Bhashini is an AI-based language platform. Artificial intelligence (AI) tools are taking over the world. From businesses to governments, everyone is busy exploring how AI can impr"
     publishedDateTime: 2023-07-05T13:20:00Z

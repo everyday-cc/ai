@@ -112,22 +112,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "A guy tried using ChatGPT to turn $100 into a business making 'as much money as possible.' Here are the first 4 steps the AI chatbot gave him."
-    excerpt: "Jackson Greathouse Fall asked ChatGPT in March to turn $100 into \"as much money as possible.\" He ended the project a month later."
-    publishedDateTime: 2023-07-04T13:47:00Z
-    webUrl: "https://www.businessinsider.com/how-to-use-chatgpt-to-start-business-make-money-quickly-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/how-to-use-chatgpt-to-start-business-make-money-quickly-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-use-chatgpt-to-start-business-make-money-quickly-2023-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://i.insider.com/6418c8c050c7b20018f159a8?width=1200&format=jpeg"
-        width: 723
-        height: 361
-        isCached: true
   - title: "ChatGPT & AI – The 21st century calculator"
     excerpt: "ChatGPT has shaken the world, with record-breaking sign-ups and a revolutionary impact on tasks that were once thought to be exclusively human. The efforts behind ChatGPT, though arduous, have been in the making for years,"
     publishedDateTime: 2023-07-05T09:53:00Z

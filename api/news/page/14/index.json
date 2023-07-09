@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-06-28-five-microsoft-ai-advances-that-business-leaders-should-know-about.md",
+      "title": "Five Microsoft AI Advances That Business Leaders Should Know About",
+      "excerpt": "Microsoft announced developer tools, analytics solutions, Windows and Edge upgrades to help companies add generative AI into applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
+      "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 586,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c227727a2d87aa15d41a8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/",
+      "publishedDateTime": "2023-06-28T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics.md",
       "title": "Achieve competitive advantage in precision medicine with IBM and Amazon Omics",
       "excerpt": "A deeper understanding of biology has the potential to transform how healthcare is delivered, how people are screened, how clinical conditions are treated and monitored. The exponential growth of biomedical datasets over the recent years has resulted in the identification of a great number of molecular",
@@ -246,8 +299,8 @@
       "title": "Here's the Only AI Stock on the Market With a Dividend Yield of 5%",
       "excerpt": "In 2011, IBM Watson made headlines by beating Jeopardy! champions Ken Jennings and Brad Rutter. IBM continues to invest heavily in AI development today. The company recently announced several new ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5",
-      "originalUrl": "https://www.nasdaq.com/articles/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/18072909/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/18072909/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -257,11 +310,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T03:02:00-07:00",
+      "publishedDateTime": "2023-06-28T02:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1125,49 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-xsurgical-an-ai-surgical-robotics-company-announces-qa-webinar.md",
-      "title": "XSurgical, an AI Surgical Robotics Company, Announces Q&A Webinar",
-      "excerpt": "XSurgical Inc., an artificial intelligence surgical robotics company, today announces it will host a Q&A webinar on July 11 at 11 a.m. PDT, hosted by",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g33034897/xsurgical-an-ai-surgical-robotics-company-announces-q-a-webinar",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g33034897/xsurgical-an-ai-surgical-robotics-company-announces-q-a-webinar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33034897",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33034897",
-      "publishedDateTime": "2023-06-27T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

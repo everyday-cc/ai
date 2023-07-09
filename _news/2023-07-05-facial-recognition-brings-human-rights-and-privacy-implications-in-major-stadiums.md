@@ -75,6 +75,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "‘Concerning’ rise of facial recognition cameras in major Australian stadiums"
+    excerpt: "Major sporting and concert venues are using facial recognition technology often without patrons knowledge or consent, a disturbing investigation has found."
+    publishedDateTime: 2023-07-05T00:46:00Z
+    webUrl: "https://www.news.com.au/technology/online/security/concerning-rise-of-facial-recognition-cameras-in-major-australian-stadiums/news-story/477a34fa6fe1270c726398d62dc51ad7"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 16
   - title: "Yes campaign turns to everyday Indigenous Australias ahead of voice to parliament vote"
     excerpt: "These are the faces of everyday Indigenous Australians that the Yes campaign will increasingly lean on to encourage support of the voice to parliament referendum."
     publishedDateTime: 2023-07-06T23:50:00Z

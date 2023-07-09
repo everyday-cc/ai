@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Prime Day 2023: all today's best early deals"
-    excerpt: "Even more early Prime Day deals have just dropped at Amazon so you don't have to wait until next week to bag a bargain. The retailer's big summer sale may not properly get underway until July 11 ..."
-    publishedDateTime: 2023-07-04T13:58:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZefaoejrEEiKKo7pBmCaL6-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Best Amazon deals in July 2023: Today's best sales"
     excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. And with Prime ..."
     publishedDateTime: 2023-07-07T15:43:00Z

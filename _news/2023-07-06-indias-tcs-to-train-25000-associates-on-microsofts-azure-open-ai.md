@@ -41,22 +41,6 @@ related:
         width: 900
         height: 503
         isCached: true
-  - title: "Is Artificial Intelligence A Goldmine Or A Minefield For Leaders?"
-    excerpt: "Atif Sheikh, founder of consultancy Businessfourzero and co-author of Every Team Actually Doing Business Better, believes that AI is both a goldmine and a minefield. “As leaders,” he says, “we are together going to have to figure out how to recover as much of the gold as possible, without all getting blown till kingdom come in the process.”"
-    publishedDateTime: 2023-07-04T13:18:00Z
-    webUrl: "https://www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/"
-    ampWebUrl: "https://www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sallypercy/2023/07/04/is-artificial-intelligence-a-goldmine-or-a-minefield-for-leaders/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a417c24dd81fd776b4ddd4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 652
-        isCached: true
   - title: "TCS to get 25,000 employees trained in Microsoft's Azure Open AI"
     excerpt: "It has also launched its Generative AI Enterprise Adoption offering, which uses a proprietary transformation framework to help clients with customer service, new business models and more."
     publishedDateTime: 2023-07-06T06:47:00Z

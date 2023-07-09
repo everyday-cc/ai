@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-coul
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
 type: article
 quality: 58
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "Artificial intelligence can run world ‘better than humans’"
+    excerpt: "A panel of AI-enabled humanoid robots took the microphone on Friday at a United Nations conference with the message: they could eventually run the world better than humans. But the social robots said they felt humans should proceed with caution when embra­cing the rapidly-developing potential of artificial intelligence,"
+    publishedDateTime: 2023-07-08T01:08:00Z
+    webUrl: "https://www.dawn.com/news/1763612/artificial-intelligence-can-run-world-better-than-humans"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 39
+    images:
+      - url: "https://i.dawn.com/large/2023/07/081213454917d66.jpg?r=121401"
+        width: 800
+        height: 480
         isCached: true
   - title: "AI robots at UN reckon they could run the world better"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."

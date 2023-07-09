@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-06-25-youtube-is-testing-an-ai-powered-dub-tool-to-translate-creators-videos.md",
+      "title": "YouTube is testing an AI-powered dub tool to translate creators' videos",
+      "excerpt": "YouTube is testing out an AI-powered multi-language dubbing feature for creators. Credit: Mateusz Slodkowski/SOPA Images/LightRocket via Getty Images) YouTube has been making some big ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/youtube-ai-powered-dubbing-tool-aloud",
+      "originalUrl": "https://mashable.com/article/youtube-ai-powered-dubbing-tool-aloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/033TXxSPosNJOZ5ZMWXOEVK/hero-image.fill.size_1200x675.v1687620649.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-24-google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians.md",
       "title": "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians",
       "excerpt": "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund.",
@@ -1079,49 +1122,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-national-artificial-intelligence-advisory-committee-releases-first-report.md",
-      "title": "National Artificial Intelligence Advisory Committee releases first report",
-      "excerpt": "The National Artificial Intelligence Advisory Committee (NAIAC) has delivered its first report to the president, established a Law Enforcement Subcommittee to address the use of AI technologies in the criminal justice system,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/national-artificial-in.jpg",
-          "width": 1916,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.amp",
-      "publishedDateTime": "2023-06-23T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

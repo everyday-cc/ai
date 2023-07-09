@@ -67,6 +67,15 @@ related:
         width: 2048
         height: 1360
         isCached: true
+  - title: "‘Concerning’ rise of facial recognition cameras in major Australian stadiums"
+    excerpt: "Major sporting and concert venues are using facial recognition technology often without patrons knowledge or consent, a disturbing investigation has found."
+    publishedDateTime: 2023-07-05T00:46:00Z
+    webUrl: "https://www.news.com.au/technology/online/security/concerning-rise-of-facial-recognition-cameras-in-major-australian-stadiums/news-story/477a34fa6fe1270c726398d62dc51ad7"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 16
   - title: "Facial recognition brings ‘human rights and privacy implications’ in major stadiums"
     excerpt: "Choice Consumer Data Advocate Kate Bower discusses the use of facial recognition in major Australian stadiums, saying the technology has some serious “human rights and privacy implications”. “We use our face prints now for example to access our phones,"
     publishedDateTime: 2023-07-05T02:55:00Z

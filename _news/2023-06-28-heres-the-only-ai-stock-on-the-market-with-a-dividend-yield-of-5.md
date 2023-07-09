@@ -2,19 +2,19 @@
 category: news
 title: "Here's the Only AI Stock on the Market With a Dividend Yield of 5%"
 excerpt: "In 2011, IBM Watson made headlines by beating Jeopardy! champions Ken Jennings and Brad Rutter. IBM continues to invest heavily in AI development today. The company recently announced several new ..."
-publishedDateTime: 2023-06-28T10:02:00Z
-originalUrl: "https://www.nasdaq.com/articles/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5"
-webUrl: "https://www.nasdaq.com/articles/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5"
+publishedDateTime: 2023-06-28T09:57:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/18072909/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/18072909/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "wZ8EpW2t+bNSlTIVBJ3z6HI3IbBYrbvGsTsQbHyYR0szbhCPt9O1v8OiXPgMHOHfexVJ6XM4JP6kuXI1TLbBKQd5hhQ06bfQGfR+Hum1PNETSriC+FWHcesQlTUSeKzCvRpQ03dxS8pEAptPQ6hrGagO3lXmWbvWpLKq9GT9YxcmiA+0Vq+BzAd/omG2vAjy6JSShPqQIsyYgWNNpMQd8fY6OQyNpDEo+guEZP9pnHRZIxpwqvC2JYK2U1/VJImIBeGBvJQTzNSTQ0748K2dxwC2YamJL8R5EG9+ig6SNcPiUoHtQGhVCHP7ziY0UtIdXF/OodppMnswuY1lGMl4WLYi+WAxCGVqa7ziiEOeC6U=;sUpSLYudNkA3qJeOWNtpzw=="
+secured: "0fMvZxr9Kp5TQU2AJWoEMKQvQBrcYux6L9A/cVGRPDEid9RLhYzQKkRve9k1rFkpR/T05MMias1U9kvTn/WLW5Kn3Rmu8/p6Kjk020yAl6FZcqFuYyiDoZxEU3aRawWC9iBWQ6s5VhG8fNi9kmQuLinjuJVcqD4zYg34xwNRVAtp39kvP3eiUlbF8Q2UGf0TJmJa8s2ilSMsie399I1TDbT+KEXOig6G0l1zcz+jW2NYmAcaWt8MqAxUiMfx+odufJ4liBWF6mP9bFt+0QnST3meDi8/2pRROfpqDg79MtYR3HYRDb7uPO1gNOcNmKjCVkyUnDkMqwDQ1Sg+RYhDgssPKXxzFDo89OehgqOLmV8=;eA+B9uanV1yWONPaIcWsJA=="
 ---
 

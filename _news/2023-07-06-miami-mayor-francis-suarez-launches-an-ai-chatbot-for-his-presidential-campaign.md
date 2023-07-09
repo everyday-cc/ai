@@ -42,14 +42,14 @@ related:
         isCached: true
   - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
     excerpt: "A super PAC supporting Miami Mayor Francis Suarez’s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
-    publishedDateTime: 2023-07-08T12:59:00Z
-    webUrl: "https://www.kentucky.com/news/nation-world/national/article277040893.html"
-    ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article277040893.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article277040893.html"
+    publishedDateTime: 2023-07-07T19:48:00Z
+    webUrl: "https://www.kansascity.com/news/nation-world/national/article277040893.html"
+    ampWebUrl: "https://amp.kansascity.com/news/nation-world/national/article277040893.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/national/article277040893.html"
     type: article
     provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 44
   - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
     excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"

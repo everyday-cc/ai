@@ -24,22 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Us Radiologists Working With Nutex Health Hospitals Now Have Access To World-Class Draidtm, An Artificial Intelligence Doctor's Assistant"
-    excerpt: "HANOI, VIETNAM - media outreach - 4 July 2023 - VinBrain's advanced AI assistant in diagnostic imaging, draidtm Chest XR, was successfully integrate"
-    publishedDateTime: 2023-07-04T14:30:00Z
-    webUrl: "https://menafn.com/1106549716/Us-Radiologists-Working-With-Nutex-Health-Hospitals-Now-Have-Access-To-World-Class-Draidtm-An-Artificial-Intelligence-Doctors-Assistant"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/03/MON_00a9aimage_story.jpg"
-        width: 800
-        height: 418
-        isCached: true
-
 secured: "hXepDOyJvkhbW9p2uEMy0Qw69ybjp0nqWkhFaDvD3S99vS3/MB046862BWzOjXmttqchXlKtLGuLAjRvvQq0OYxcGixh3xOuo4mQlnimXqLqucUrM72HkAQs7SWRARM8muIfIXJmmbqUeYDAbKJpUMgKLmhy4kDeRowUYmTBYL86OfsVjVGnMRfTWcyLpo/XMJd4o35PBPv1Z9uziZl/rp/QEtP0g8Mt2sI0NKmPGdFB9L6j4bBix+yflzluXkigWFA3kZGkW26iZpKORXvgmrcTBCzfQ9OyuHIiQVNgjrPLUsi21NKDW1itNDUZSJF4eCM983ynUCUlFd3p/helDj8KH5y4/2DfdnVXXM/rdXmNNTkOWWC0xQGgXJSJ5rOHiUEhyJAnvya4ZeSrvUej/3+3RfYK49Mt8N/Oi+HXUXjj7iXKJSKvStIobbhRmKNN5pHvH8zfeL7APMN2e168gnn+vYBe4yZur+taQR2a70yC8m0YEa63JUEegqQDLIp/OrTkdRu1EExVD0vvGItsrg==;9bpt93atE53ZxZV1JYVPsQ=="
 ---
 
