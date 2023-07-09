@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-b
 webUrl: "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-best/"
 type: article
 quality: 119
-heat: 119
+heat: 120
 published: true
 
 provider:

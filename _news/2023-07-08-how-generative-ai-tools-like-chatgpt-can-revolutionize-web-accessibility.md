@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-08T16:10:00Z
 originalUrl: "https://venturebeat.com/ai/how-generative-ai-tools-like-chatgpt-can-revolutionize-web-accessibility/"
 webUrl: "https://venturebeat.com/ai/how-generative-ai-tools-like-chatgpt-can-revolutionize-web-accessibility/"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1270805299.jpg?w=1200&strip=all"

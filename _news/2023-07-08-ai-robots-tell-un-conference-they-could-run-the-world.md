@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Human-looking robots tell UN they could run world better, but won’t rebel"
+    excerpt: "Robots tell UN summit humans should proceed with caution when embracing rapidly-developing potential of artificial intelligence and admit they can't -- yet -- grasp human emotions"
+    publishedDateTime: 2023-07-08T23:55:00Z
+    webUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/"
+    ampWebUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 58
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2023/07/AP23188470818991-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
     publishedDateTime: 2023-07-07T14:34:00Z
@@ -39,15 +55,6 @@ related:
         width: 1024
         height: 673
         isCached: true
-  - title: "AI Could Change How Blind People See the World"
-    excerpt: "Assistive technology services are integrating OpenAI's GPT-4, using artificial intelligence to help describe objects and people."
-    publishedDateTime: 2023-07-05T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
   - title: "AI robots at UN reckon they could run the world better"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
     publishedDateTime: 2023-07-08T12:22:00Z
@@ -71,24 +78,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "A Peek into 2023 World Artificial Intelligence Conference"
-    excerpt: "This year's World Artificial Intelligence Conference will begin on Thursday in Shanghai and companies are making advances with avatars. An avatar generator turned heads last year, as a spherical scann"
-    publishedDateTime: 2023-07-05T08:33:00Z
-    webUrl: "https://www.victoriaadvocate.com/a-peek-into-2023-world-artificial-intelligence-conference/video_7c95f275-534b-57e9-b10e-4e13006f0660.html"
-    type: article
-    provider:
-      name: The Victoria Advocate
-      domain: victoriaadvocate.com
-    quality: 17
-  - title: "The World Artificial Intelligence Conference 2023 is set to unfold magnificently from the 6th to the 8th of July."
-    excerpt: "The World Artificial Intelligence Conference 2023 (WAIC2023) will be held in Shanghai from July 6th to 8th (UTC+8). This year's illustrious gathering orbits around the central theme of \"Intelligent"
-    publishedDateTime: 2023-07-06T18:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33138024/the-world-artificial-intelligence-conference-2023-is-set-to-unfold-magnificently-from-the-6th-to-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "P7C0eexOuZPhqOYImU41Lwcfo/q8V/BjC6v5T5rYc2HLd2jLOuxGV0acL/haU71pPJnzJMckBy3lRayDFGOpmT97ajOb9qK295ZBsyltaRmB593NXKq4yDA1B2NqhyW1J5ETn7zyq2NUao1U7mnpDTgK4iR2jnKj0ajgYpUQkE5zO/TZaQNqi+FBCs08Xds+8mJlwcdQIUeOJTsaKQrnE00l742+nIYynMYaJmU/nXrjEd9J/Bhc3KSwtgSeWnnuG4tsfQPxro2c19FkledkglEYvSJy6Xs+mj5WydXnKzjgiBa7BP4svKPTLcVBaJRb1TbjAH/z7kV1eqNFiJb+jlgAhmUM4tv5KSAjv03EtvA=;xT1Z6aKyrGQKFHA7f1+DOw=="
 ---

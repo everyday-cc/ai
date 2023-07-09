@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/un-ai-for-good-summit/"
 webUrl: "https://www.techrepublic.com/article/un-ai-for-good-summit/"
 type: article
 quality: 62
-heat: 62
+heat: 63
 published: false
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 933
     isCached: true
 
-secured: "B6H0YSqCO8ldlLxFkxP+daegr9q6687+HS+2pcUlFLaoFoNit6hlsHPBWkPviZ60I9pBrVhwd6pf4gFxzP1cAUNUNgqtMzQRgHSOlB3Py9kcG42m619bhDLdDgCRgpTt9uaK2Oe4GN92SOwr86rvZxmLt7E7FTVQ3yVgEDdUppzERvJHdIEB0iOj2aUj0X2vPIlgpQMjqUNus4+SsGbNhRyHgFx/2ea3Oj1rlk2P5XDF/zthZk8ueU8krjbXm6WrR45yEBcQ/aqyuWlWiwlLK7t4lrCavmcwsDZxHbfMKq8xk8gBDU3GSGV97lVGttQnLMMgWR+/Z/8jwy+fDtxplnNPsTZ+U3p9YKqdVy/m7nQ=;WKveK6316JHbqWi+3lcUJA=="
+secured: "9d8HDZ3DpxVcPCqYp4oa1ohZFtPkzDB4yoV/FSZjV/W7l9hhNzB2+S0I6dHdycOaJbskdf3UAvRkFjH+Hi1tkDdbkxq3GGaiYWC2l1JzNaO6QGuHPRPAlO7q/A/Cy0ouReZafNRVFm5r6g3bICD3nYt/6pcwNUG/DDxSEAEPRIpu1LgoLSAZyQmelkn9PbOFDQ9d3EZDGe/pOI8HPHdyaU34Qm7JxxWvL6QgutIG23IjzMTLp2EY7hk7DsSE/1yb6KDVpZQ7Hhpm3b32UAVwz6oGOe6E6odJq1Qqf9fEBct3iQt4H7ZTWrHXDbavcah2xQgZww2QhqWlzzTHkBKnpPzqmJ2qaPDNGzddJs0+7xBvWBfu15Tl36ieopSuEfi94wtv1DFOl+Q7pq0fCoS238xZ5pM+om2454tT0NwP7oSSh+AJThgDNps+wdxdSfa2wRYcH7urZ1IeEfLRdpJVDDsaLIekKYL10165a6MGL6fG5MuE6tw3TvJhWXw0i1Ehouea6XzgqW3g4ve9rrYppQ==;z44O4KsLpMmxZSmyOfc7qg=="
 ---
 

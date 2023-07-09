@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about"
-publishedDateTime: 2023-07-05T21:13:00Z
-originalUrl: "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
-webUrl: "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
-ampWebUrl: "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
-cdnAmpWebUrl: "https://www-wboy-com.cdn.ampproject.org/c/s/www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/"
+excerpt: "A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him, marking yet another example of how generative AI tools are being used in 2024 presidential campaigns."
+publishedDateTime: 2023-07-06T01:13:00Z
+originalUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
+webUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
 type: article
-quality: 66
-heat: 86
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
-  name: WBOY
-  domain: wboy.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.wboy.com/wp-content/uploads/sites/43/2023/07/64a5ddaa0b9f70.19433627.jpeg?w=1280"
-    width: 1280
-    height: 851
+  - url: "https://s.hdnux.com/photos/01/33/27/26/23950753/6/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -58,6 +55,6 @@ related:
         height: 500
         isCached: true
 
-secured: "WtoiJxHzWz4ezoLnZzOQ8eEvfE0z8bFHGDl7896u7k6I98d+C9xFftOwf8Pa+EhsWzH+4VZEy3H85fe/uz8KehGVmKy5bogBbp5lPhzVh09dFoMwnkUC9E62L5bBQ6y6iIMuEo4FOSc14r2GqLHuYkkIRLg1pqVtXEjofY1YjoPcqxh7nKGp+ZjBtEkszHxZW282zbHegMarWjwMxX77hUHHYsEk7ghQw+4jXVcSNjIXhOzyelaFWkkrHLzVWm70iTxNfjoS26jowBX+F0PjK8TJdtZEc3lBQOgbhjG6w4kQDulJcvVdWdaNBedFSi5hmOIk9oh10VxjqTp/B8nGeWopBAIQdEVRo/cVXOddW7m2bEDQ83FMrL1T8fQnM/eLa3fsKyTV50IPPyJCMMzC8Fznh+FsjIoNlDV4Y/ZJ/gzRHnTr49vzRlFEt1TifCt14bLLOfsxP9s7po/mUKF1hxRH7FAzIZd+bEqjlw1jmDUGOJGQwRgajN1/ngeY46xFbHEooHxMIiH3283sRv18oA==;oswyhj1tCt3C+qN5sF4jjw=="
+secured: "0XMbvu5axWF6knLIvx+yvIr0NHQefkdZAf3sxONrm5bTHRp+arkU4ZCHl/EsD/vd2sAacjnLPU6tRUyTNrO9fKVidCbi1fjeQSBqiOzr/u6xTKeLtkwXXyYd4TwkC5Rwk03gENeHZ708+aGGIOzfjc0dyl63E2FqVYnX/TezzJ+9SXVKDT8KUhh2NHGL2I3TFIL6v/SdhI2mAU0VWQzbsNGVsevvz5C/W+Cp3dq8fUahv1dTRYooZy4OtLJQIAHeAAjZJ7n/qRW+JNFiAX/5XDJ4gFKza/HFXWMAVoOPd9qaUCzbKpJ4nd142bcdnyuV1F4Qrf9fdN9DGmYTDGo0omgIwk7B0OHgWV4cWPbvexc=;6aDcM2zn42SrOCTa55tljg=="
 ---
 

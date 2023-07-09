@@ -871,21 +871,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-06-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign.md",
-      "title": "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign",
-      "excerpt": "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about",
+      "path": "_news/2023-07-06-miami-mayor-francis-suarez-launches-an-ai-chatbot-for-his-presidential-campaign.md",
+      "title": "Miami Mayor Francis Suarez launches an AI chatbot for his presidential campaign",
+      "excerpt": "A super PAC supporting Miami Mayor Francis Suarez's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him.",
       "sourceUrl": null,
-      "webUrl": "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
-      "originalUrl": "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
+      "webUrl": "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
+      "originalUrl": "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wboy.com/wp-content/uploads/sites/43/2023/07/64a5ddaa0b9f70.19433627.jpeg?w=1280",
-          "width": 1280,
-          "height": 851,
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/19/24495736-37dd-4d3b-9103-abfc805dffc9/thumbnail/1200x630/a6c44b98546d47942b5410043736db42/b-ptz-suarez-interv-wfor7ne7.jpg?v=46148a329842187f630d57e5930d74c4",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -893,13 +893,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/",
-      "cdnAmpWebUrl": "https://www-wboy-com.cdn.ampproject.org/c/s/www.wboy.com/news/politics/ap-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/amp/",
-      "publishedDateTime": "2023-07-05T14:13:00-07:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
+      "publishedDateTime": "2023-07-05T14:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WBOY",
-        "domain": "wboy.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -909,7 +909,6 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
