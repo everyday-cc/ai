@@ -1,46 +1,34 @@
 ---
 category: news
-title: "Self-driving cars from Volkswagen to be tested in Austin"
-excerpt: "AUSTIN, Texas - Joining an ever-growing number of autonomous vehicles in Austin, Volkswagen announced plans today to start testing a fleet of self-driving electric ID. Buzz vans. \"We are excited and ready to roll out our autonomous pilot and test fleet in Austin,"
-publishedDateTime: 2023-07-06T16:57:00Z
-originalUrl: "https://www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas"
-webUrl: "https://www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas"
-ampWebUrl: "https://www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas.amp"
-cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas.amp"
+title: "Volkswagen Is Testing Its Driverless Vehicles in Austin"
+excerpt: "Volkswagen's autonomous driving program kicks off in Austin, Texas, this month with two all-electric ID. Buzz vehicles."
+publishedDateTime: 2023-07-09T16:57:00Z
+originalUrl: "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin"
+webUrl: "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 69
+heat: 179
+published: true
 
 provider:
-  name: FOX 7 Austin KTBC
-  domain: fox7austin.com
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/07/932/470/16699-VolkswagenGroupofAmericarollsoutautonomousdrivingvehicletestfleetwithID.BuzzADvehiclesinAustinTexas.jpg?ve=1&tl=1"
-    width: 932
-    height: 470
+  - url: "https://i.pcmag.com/imagery/articles/04zsyA3dJ4DvBc0sOcGH1XJ-2.fit_lim.size_1200x630.v1688921824.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
-  - title: "Volkswagen Is Testing Its Driverless Vehicles in Austin"
-    excerpt: "Volkswagen's autonomous driving program kicks off in Austin, Texas, this month with two all-electric ID. Buzz vehicles."
-    publishedDateTime: 2023-07-09T16:57:00Z
-    webUrl: "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04zsyA3dJ4DvBc0sOcGH1XJ-2.fit_lim.size_1200x630.v1688921824.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Volkswagen to launch self-driving vehicles in Texas by 2026"
     excerpt: "Volkswagen said on Thursday that it plans to launch autonomous, or self-driving, vehicles for ride hailing and goods delivery services in Austin, Texas by 2026."
     publishedDateTime: 2023-07-06T12:40:00Z
@@ -68,6 +56,22 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202307/09/64aad722a310bf8a1d23b54c.jpeg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Self-driving cars from Volkswagen to be tested in Austin"
+    excerpt: "AUSTIN, Texas - Joining an ever-growing number of autonomous vehicles in Austin, Volkswagen announced plans today to start testing a fleet of self-driving electric ID. Buzz vans. \"We are excited and ready to roll out our autonomous pilot and test fleet in Austin,"
+    publishedDateTime: 2023-07-06T16:57:00Z
+    webUrl: "https://www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas"
+    ampWebUrl: "https://www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas.amp"
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 44
+    images:
+      - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/07/932/470/16699-VolkswagenGroupofAmericarollsoutautonomousdrivingvehicletestfleetwithID.BuzzADvehiclesinAustinTexas.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
   - title: "Volkswagen bringing self-driving vehicle tech to Austin"
     excerpt: "Car manufacturer Volkswagen announced Thursday it would roll out self-driving vehicle technology in the Texas capital later in July, per CNBC reporting."
@@ -164,6 +168,6 @@ related:
       domain: futurism.com
     quality: 4
 
-secured: "Oi51W72mBsREhhXW42zT2HSmD0uY5VyeqHfcl7GZ8CjgFeYrWI1bmn0qTL+0aGMcuRQuX0yjPYwoWiq5rpjqQV5P1nhcgHGcQS44HcXRBOwUBVwm0jNB0tixuj1WYKV980pEyQ9K92Kitx4czOdhndIldLAALutzAww9OBfy1zzZwg14UGkHkYojXKXjqbQctvfiRLdm+0BEWFswCrmnPNm/8C5favJjOJ8Tou59C62qY/WrredE5QxIZEa23Jcd1WqVN9ew8rKybU5Kfi4gFAQ2cTmRWGvV8orUeqe2AG7qOluP6dfbdB7s4WP1L1Sxohol6J/vztLmFaunOkX8+6Abw+8URABHFyi38A+yRZs=;zZzq8aHpEzV70HsYbTse9Q=="
+secured: "wKNMrnZKT5gwn2Z0D45WOvvAyylum6EyAU+Kf/H3NNml0g1qCh/9rw4pA+D9GiFz6VGsnwRSliJh4oIQ3Kf5q9HC5Sn/a0Y/OeERSaJnp8olXHgNTwVJpbKUh+iMGwSB4sfJD4Cq+8ZENpdCxYMEIJ1VMpscCWa7Y69soyKI/xX6CVN5F3YdNdYpaRABobeqPpDDgdD/WZPUa24U/dkOhzNXDqZBjeeEZ27EFO5Z0cXRwYtyIju9xnsSPhzF6+Rw4OAMD2SFwBAgT18kDC3D92YnngXRz1t0XGf5VhVNrCstt5jNX7MCZryVtQKR6/sSc4xDw6SvaUZhvjCwGBnpqu9ovXuIZydBzguqF2Dt95U=;MhcfN3r2xiFDOZ2Njj/1Xw=="
 ---
 

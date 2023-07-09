@@ -1,29 +1,29 @@
 ---
 category: news
 title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
-publishedDateTime: 2023-07-08T10:41:00Z
-originalUrl: "https://techxplore.com/news/2023-07-tech-agency-human-looking-robots-geneva.html"
-webUrl: "https://techxplore.com/news/2023-07-tech-agency-human-looking-robots-geneva.html"
-ampWebUrl: "https://techxplore.com/news/2023-07-tech-agency-human-looking-robots-geneva.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-tech-agency-human-looking-robots-geneva.amp"
+excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event"
+publishedDateTime: 2023-07-07T19:15:00Z
+originalUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/"
+webUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/"
+ampWebUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/amp/"
+cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/amp/"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Wane
+  domain: wane.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/un-tech-agency-rolls-o.jpg"
-    width: 2880
-    height: 1884
+  - url: "https://www.wane.com/wp-content/uploads/sites/21/2023/07/64a864b6b53c47.22505085.jpeg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "zJXOt1GLTcHknVAsvxQLypnEDfQ2irLQI+3MM2VJCd/AKg5Uihp1OAWzeXvnuEjkPfAnbQlMupTclqffdZWiWUH6OyteTWPqeyTBl6A3w9XL+9xiiku3dkHz8x4N/XUsHAi9QTC3MZ7uRuR1Ck3V0+nH/01KSeDRqhXfvYfRbKPC0B6OYpKac1eOLkj0CRdn4jCFN/7ukyw6OkOZRj3KKjlXTRBxyx5QjIoXin06WFM0QYLhEwpFm8e0/NhCV0DTH660CqQo0v9Mclgr3MaEZgY9gzqIgnrKF0mCoa+LhHiupTTFPy0aiEkgRgl0nT939NSIc1uxdSMoI2Y4PLBRzXr/r+AsIF0IxWmJWeT6aNOdNOtOx1WANFgr66fatGiCFUTmpDK8LHJWbXnDVlD2Te4xHmLo7QYZM/zJJg6oA7B1Ke8XIWyFkpwsn0gA78DXopclCRuiNAXr7yQ+x2MFzUiPkOS3WV40UwJSjZW92xXElM2TMtnSP8WlrDy14th7eYGEWECJUmtrWbWRfO7O4A==;U/obCpIsB0ciygc5U/O8BQ=="
+secured: "SHRJpwsOr2OeLWvtIynEIh5LGoNnxAeBpjJOQ6o4YgZJFHWXtnf6+CF81flcuiu4kv7YW6UO9rgrcXcrkxcvdTEkAy+ZSC4U6zaK6/0rip4nUZ5O6osxI5P7ulWPFIORHWM6sARwKasgft0g2FsqiAhi460SYV/fFHhDf94g6t88rae4TezPw0RKGJAq2o1FTUz7PWZC+ZP9H/uPZLP2ejvDno292byda98yEd/DSsTx2jiD1IGpxoRZYgxawBXfVZ7VFa+/+j8MIVtPQNuw5TynkICtVNhznJGLzahUW5tmehgzL7kgEYqTA+a9ujc+sOE654EjeUL8N9CA8IRlx0CvVFa2aTRzLLh0ZFNg0DA=;VwopahXNf96olndMD1TcXA=="
 ---
 

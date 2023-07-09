@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Self-driving cars from Volkswagen to be tested in Austin"
-excerpt: "AUSTIN, Texas - Joining an ever-growing number of autonomous vehicles in Austin, Volkswagen announced plans today to start testing a fleet of self-driving electric ID. Buzz vans. \"We are excited and ready to roll out our autonomous pilot and test fleet in Austin,"
-publishedDateTime: 2023-07-06T16:57:00Z
-originalUrl: "https://www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas"
-webUrl: "https://www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas"
-ampWebUrl: "https://www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas.amp"
-cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas.amp"
+title: "Driverless taxis to start paid service in capital"
+excerpt: "On Friday, authorities in Beijing made a policy decision to allow eligible companies to operate driverless taxis without safety supervisors on board and charge passengers for the rides, marking a definite step in commercialization of intelligent transportation."
+publishedDateTime: 2023-07-09T16:41:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202307/10/WS64aad722a310bf8a75d6e165.html"
+webUrl: "https://global.chinadaily.com.cn/a/202307/10/WS64aad722a310bf8a75d6e165.html"
 type: article
-quality: 44
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: FOX 7 Austin KTBC
-  domain: fox7austin.com
+  name: 中国日报网
+  domain: chinadaily.com.cn
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/07/932/470/16699-VolkswagenGroupofAmericarollsoutautonomousdrivingvehicletestfleetwithID.BuzzADvehiclesinAustinTexas.jpg?ve=1&tl=1"
-    width: 932
-    height: 470
+  - url: "https://img2.chinadaily.com.cn/images/202307/09/64aad722a310bf8a1d23b54c.jpeg"
+    width: 720
+    height: 480
     isCached: true
 
 related:
@@ -55,19 +53,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Driverless taxis to start paid service in capital"
-    excerpt: "On Friday, authorities in Beijing made a policy decision to allow eligible companies to operate driverless taxis without safety supervisors on board and charge passengers for the rides, marking a definite step in commercialization of intelligent transportation."
-    publishedDateTime: 2023-07-09T16:41:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/10/WS64aad722a310bf8a75d6e165.html"
+  - title: "Self-driving cars from Volkswagen to be tested in Austin"
+    excerpt: "AUSTIN, Texas - Joining an ever-growing number of autonomous vehicles in Austin, Volkswagen announced plans today to start testing a fleet of self-driving electric ID. Buzz vans. \"We are excited and ready to roll out our autonomous pilot and test fleet in Austin,"
+    publishedDateTime: 2023-07-06T16:57:00Z
+    webUrl: "https://www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas"
+    ampWebUrl: "https://www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/volkswagen-self-driving-cars-austin-texas.amp"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 44
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/09/64aad722a310bf8a1d23b54c.jpeg"
-        width: 720
-        height: 480
+      - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/07/932/470/16699-VolkswagenGroupofAmericarollsoutautonomousdrivingvehicletestfleetwithID.BuzzADvehiclesinAustinTexas.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
   - title: "Volkswagen bringing self-driving vehicle tech to Austin"
     excerpt: "Car manufacturer Volkswagen announced Thursday it would roll out self-driving vehicle technology in the Texas capital later in July, per CNBC reporting."
@@ -164,6 +164,6 @@ related:
       domain: futurism.com
     quality: 4
 
-secured: "Oi51W72mBsREhhXW42zT2HSmD0uY5VyeqHfcl7GZ8CjgFeYrWI1bmn0qTL+0aGMcuRQuX0yjPYwoWiq5rpjqQV5P1nhcgHGcQS44HcXRBOwUBVwm0jNB0tixuj1WYKV980pEyQ9K92Kitx4czOdhndIldLAALutzAww9OBfy1zzZwg14UGkHkYojXKXjqbQctvfiRLdm+0BEWFswCrmnPNm/8C5favJjOJ8Tou59C62qY/WrredE5QxIZEa23Jcd1WqVN9ew8rKybU5Kfi4gFAQ2cTmRWGvV8orUeqe2AG7qOluP6dfbdB7s4WP1L1Sxohol6J/vztLmFaunOkX8+6Abw+8URABHFyi38A+yRZs=;zZzq8aHpEzV70HsYbTse9Q=="
+secured: "JM4TG8xbvEZpzTXvSzHAYGsmtNGGYqS1hO+5NlrCIlDkzZadEqv1C2UHhsGUbirIwyBaIrfL+OqJ1DnxqTMlGTmhBfkKAR7k1aNLiEv/0WT1Ojz2hMOIBFGNucaQ9XMlaAEZrXdBxHogQ4SmgYX0rchGkPizNYieBQCNY2DaaiXy7XlA+cjecWTSNIlT7Za7Jh/Mh8o3wVk2qz/y3aI3qKiX91xj6EcyIhmSGSuISnhfQm9T0V+00ENX33bP4a2SBXxCJ/wviDB3ES1D47Cwwno3+4T8eyvoHtL21mwXUauFCt4kksliMipDAVjsV/+zh1pwj1GZuw9fgMuqzgXqpplwvh/5oZG2xLsrPzK8ukg=;3SR0TSgkaigS6LRkHXsWIw=="
 ---
 

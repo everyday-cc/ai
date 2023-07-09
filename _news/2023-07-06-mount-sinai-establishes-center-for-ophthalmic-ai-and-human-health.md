@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mount Sinai launches Center for Ophthalmic Artificial Intelligence and Human Health"
-    excerpt: "First-of-its-kind initiative aims to transform patient care with more timely diagnosis of eye disease and innovative risk assessment of systemic health conditions"
-    publishedDateTime: 2023-07-05T00:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/994460"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 28
   - title: "Center for Ophthalmic Artificial Intelligence and Human Health opens door for new, advanced treatment options"
     excerpt: "The Icahn School of Medicine at Mount Sinai opened the Center for Ophthalmic Artificial Intelligence and Human Health, which is dedicated to advancing artificial intelligence to offer faster diagnosis and treatment."
     publishedDateTime: 2023-07-06T23:00:00Z

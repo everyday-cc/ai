@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-l
 webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/"
 type: article
 quality: 54
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Volkswagen Is Testing Its Driverless Vehicles in Austin"
+    excerpt: "Volkswagen's autonomous driving program kicks off in Austin, Texas, this month with two all-electric ID. Buzz vehicles."
+    publishedDateTime: 2023-07-09T16:57:00Z
+    webUrl: "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04zsyA3dJ4DvBc0sOcGH1XJ-2.fit_lim.size_1200x630.v1688921824.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Driverless taxis to start paid service in capital"
+    excerpt: "On Friday, authorities in Beijing made a policy decision to allow eligible companies to operate driverless taxis without safety supervisors on board and charge passengers for the rides, marking a definite step in commercialization of intelligent transportation."
+    publishedDateTime: 2023-07-09T16:41:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202307/10/WS64aad722a310bf8a75d6e165.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202307/09/64aad722a310bf8a1d23b54c.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Self-driving cars from Volkswagen to be tested in Austin"
     excerpt: "AUSTIN, Texas - Joining an ever-growing number of autonomous vehicles in Austin, Volkswagen announced plans today to start testing a fleet of self-driving electric ID. Buzz vans. \"We are excited and ready to roll out our autonomous pilot and test fleet in Austin,"
     publishedDateTime: 2023-07-06T16:57:00Z
@@ -79,20 +107,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "Expressway lane in Shizuoka to serve self-driving trucks in FY 2024"
-    excerpt: "To cope with a shortage of truck drivers, the government plans to designate a lane for self-driving vehicles on the Shin-Tomei Expressway in Shizuoka Prefecture in fiscal 2024. Officials aim to introduce distribution services by autonomous trucks in fiscal ..."
-    publishedDateTime: 2023-07-06T09:05:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14950085"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 24
-    images:
-      - url: "https://p.potaufeu.asahi.com/1a02-p/picture/27690606/076ca1c463d00175e70e322d507bae6e.jpg"
-        width: 660
-        height: 324
-        isCached: true
   - title: "Volkswagen to Test Self-Driving ID. Buzz Microbus Fleet in Austin"
     excerpt: "Volkswagen chose Austin for its self-driving testing program because it has a reputation for being supportive of innovation."
     publishedDateTime: 2023-07-07T16:11:00Z

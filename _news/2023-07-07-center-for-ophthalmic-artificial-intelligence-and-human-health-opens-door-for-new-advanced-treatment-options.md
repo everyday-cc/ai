@@ -7,7 +7,7 @@ originalUrl: "https://www.ophthalmologytimes.com/view/center-for-ophthalmic-arti
 webUrl: "https://www.ophthalmologytimes.com/view/center-for-ophthalmic-artificial-intelligence-and-human-health-opens-door-for-new-advanced-treatment-options"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mount Sinai launches Center for Ophthalmic Artificial Intelligence and Human Health"
-    excerpt: "First-of-its-kind initiative aims to transform patient care with more timely diagnosis of eye disease and innovative risk assessment of systemic health conditions"
-    publishedDateTime: 2023-07-05T00:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/994460"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 28
   - title: "Mount Sinai Establishes Center for Ophthalmic AI and Human Health"
     excerpt: "New Mount Sinai center aims to revolutionize AI in ophthalmology and advance research into the relationship between eye diseases and other conditions."
     publishedDateTime: 2023-07-06T13:30:00Z

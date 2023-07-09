@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Concerning’ rise of facial recognition cameras in major Australian stadiums"
-    excerpt: "Major sporting and concert venues are using facial recognition technology often without patrons knowledge or consent, a disturbing investigation has found."
-    publishedDateTime: 2023-07-05T00:46:00Z
-    webUrl: "https://www.news.com.au/technology/online/security/concerning-rise-of-facial-recognition-cameras-in-major-australian-stadiums/news-story/477a34fa6fe1270c726398d62dc51ad7"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 16
   - title: "Big Tech: Meta launches its Twitter rival, Twitter limits user posts and sports stadium using facial recognition tech"
     excerpt: "Mark Zuckerberg's Meta has launched Threads, a rival to Twitter, with the app seeking to draw users away from Elon Musk's embattled platform.  The release was brought forward by 15 hours and is now freely available in 100 countries – including Australia."
     publishedDateTime: 2023-07-06T06:52:00Z

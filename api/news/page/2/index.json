@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-07-scientists-build-a-system-that-can-generate-ai-models-for-biology-research.md",
+      "title": "Scientists build a system that can generate AI models for biology research",
+      "excerpt": "Automated machine-learning (AutoML) systems are still in a relatively nascent stage of development, with current usage primarily focused on image and text recognition, but largely unused in subfields of biology, points out first co-author and Jameel Clinic ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/scientists-build-a-sys.jpg",
+          "width": 900,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-scientists-generate-ai-biology.amp",
+      "publishedDateTime": "2023-07-07T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-ai-in-healthcare-and-other-scary-stories.md",
+      "title": "AI In Healthcare And Other Scary Stories",
+      "excerpt": "No greater buzzword exists than Artificial Intelligence (AI) to make a story headline flash. In healthcare, stories about AI being used to discover new drugs and faster, more accurate medical diagnoses are guaranteed clickbait. These goals may be the stuff ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/",
+      "originalUrl": "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a42934cf75fa7c8db4ddd4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/",
+      "publishedDateTime": "2023-07-07T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-what-is-a-knowledge-worker-and-what-do-they-do.md",
       "title": "What is a knowledge worker and what do they do?",
       "excerpt": "A knowledge worker is a professional who generates value for the organization with their expertise, critical thinking and interpersonal skills. \nThe post What is a knowledge worker and what do they do? appeared first on IBM Blog.\n",
@@ -1101,102 +1196,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-ai-vs-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
-      "title": "AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference?",
-      "excerpt": "Discover the differences and commonalities of artificial intelligence, machine learning, deep learning and neural networks.\nThe post AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
-      "originalUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay.md",
-      "title": "Beware Technophobia Spreading Amid AI Fears And Calls For Delay",
-      "excerpt": "ChatGPT is the fastest new technology to reach 100 million users. Artificial intelligence has brought hope and fears— as well as calls for a pause.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/",
-      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649ada9e812a0cb2f0daedd0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/amp/",
-      "publishedDateTime": "2023-07-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

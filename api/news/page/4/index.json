@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-06-miami-mayor-francis-suarez-launches-an-ai-chatbot-for-his-presidential-campaign.md",
+      "title": "Miami Mayor Francis Suarez launches an AI chatbot for his presidential campaign",
+      "excerpt": "A super PAC supporting Miami Mayor Francis Suarez's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
+      "originalUrl": "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/19/24495736-37dd-4d3b-9103-abfc805dffc9/thumbnail/1200x630/a6c44b98546d47942b5410043736db42/b-ptz-suarez-interv-wfor7ne7.jpg?v=46148a329842187f630d57e5930d74c4",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
+      "publishedDateTime": "2023-07-05T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-highlight-text-as-its-being-spoken-using-amazon-polly.md",
       "title": "Highlight text as it’s being spoken using Amazon Polly",
       "excerpt": "Amazon Polly is a service that turns text into lifelike speech. It enables the development of a whole class of applications that can convert text into speech in multiple languages. This service can be used by chatbots, audio books, and other text-to-speech applications in conjunction with other AWS AI",
@@ -180,49 +222,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
-      "title": "Growing bio-inspired polymer brains for artificial neural networks",
-      "excerpt": "The development of neural networks to create artificial intelligence in computers was originally inspired by how biological systems work. These 'neuromorphic' networks, however, run on hardware that looks nothing like a biological brain, which limits ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230705105850.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230705105850.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

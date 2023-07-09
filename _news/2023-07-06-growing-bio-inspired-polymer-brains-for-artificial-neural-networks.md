@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/07/230705105850.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/07/230705105850.htm"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Science Daily
@@ -21,22 +21,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Growing bio-inspired polymer brains for artificial neural networks"
-    excerpt: "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The wetware comprises conductive polymer wires grown in a three-dimensional configuration,"
-    publishedDateTime: 2023-07-05T00:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/994504"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/75ace491-3ac5-4506-8cdc-a74e9c2efb27/Rendition/low-res/Content/Public"
-        width: 700
-        height: 250
-        isCached: true
 
 secured: "j432Bws5IVXXX6KethY3mpzLoySu94CkY7G7ver91FFbtAvpH8znAACK9r5COFmMgsPOCI7j29tE2f3u+CS/4STQ9ZKsA6xjaPNvRrGKZX2WjRVoaNR21cgheilp7IX84MfYRDklOoGI0r3m0yOEtQ6yTbs+A/qGd8WSA+cUFrGZbDLH+egurPJpYuePGijZp7cCTOCIRvbebLHCMy2tG6n9nRIyy1D0qSMlFaPqIeOJFS69xDk8E64WNw66bZJqdek93U1TuwGhL8yFL7qptxP6Ip1J3ebQSaoL65gZ1oHacLtwpI1pf2vLN6x/Z9YL448Ji84ZnS0TQ9QxNgw/yP+LBeu+TPvuT4cj7X1AK8U=;8aZQCpu7DPz/9lgPtAj5Xg=="
 ---

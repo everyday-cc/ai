@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-09-liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training.md",
+      "title": "Liquid Neural Networks, A New Idea That Allows AI To Learn Even After Training",
+      "excerpt": "Daniela Rus currently serves as the Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. She has made significant contributions to areas such as autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
+      "originalUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/07/09/6330833102112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/",
+      "publishedDateTime": "2023-07-09T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
       "title": "Age of AI: Everything you need to know about artificial intelligence",
       "excerpt": "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ...",
@@ -182,49 +234,6 @@
         "IBM AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
-      "title": "Growing bio-inspired polymer brains for artificial neural networks",
-      "excerpt": "The development of neural networks to create artificial intelligence in computers was originally inspired by how biological systems work. These 'neuromorphic' networks, however, run on hardware that looks nothing like a biological brain, which limits ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230705105850.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230705105850.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -987,8 +996,8 @@
       "title": "Predactica integrates Azure OpenAI capabilities into its SaaS Machine Learning platform",
       "excerpt": "Predactica is thrilled to announce the integration of Azure's OpenAI capabilities into its AI/ML platform, complementing its existing no-code SaaS AI capabilities aimed at citizen data scientists.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_e3591700-9c59-5eee-ac8c-94bddea6f8f7.html",
-      "originalUrl": "https://www.news-journal.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_e3591700-9c59-5eee-ac8c-94bddea6f8f7.html",
+      "webUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
+      "originalUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1001,8 +1010,8 @@
       "publishedDateTime": "2023-06-26T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null
