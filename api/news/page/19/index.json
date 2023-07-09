@@ -2,100 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2023-06-26-heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers.md",
-      "title": "Here’s what happens when artificial intelligence falls into the hands of scammers",
-      "excerpt": "Artificial intelligence is like a gift from the gods to scammers all over the world. Here’s how they’re starting to use A.I. against us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/news/watchdog/2023/06/26/heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers/",
-      "originalUrl": "https://www.dallasnews.com/news/watchdog/2023/06/26/heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/3ttUwLSBu_69d2upjCov9PAs9_0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/KX3GONKME5HZVLUEP5QA4ICVVM.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/news/watchdog/2023/06/26/heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/watchdog/2023/06/26/heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers/?outputType=amp",
-      "publishedDateTime": "2023-06-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-how-to-responsibly-scale-business-ready-generative-ai.md",
-      "title": "How to responsibly scale business-ready generative AI",
-      "excerpt": "Generative AI is being analyzed for a variety of use cases across businesses. Learn how you can responsibly scale AI for your business.\nThe post How to responsibly scale business-ready generative AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 379,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM_WatsonXData_A05.l-e1683578205623-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-26-responsible-ai-a-practical-roadmap-for-business-executives.md",
       "title": "Responsible AI: A Practical Roadmap For Business Executives",
       "excerpt": "The need for a responsible AI approach isn't merely virtuous but also pivotal for sustainable development. Responsible AI upholds principles of equity, clarity and accountability, among others, thereby laying the foundation for a wide array of potential benefits.",
@@ -1205,6 +1111,84 @@
         "IBM AI",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-25-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
+      "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
+      "excerpt": "“The application of Azure’s OpenAI service within PowerSchool ... strategies of both algorithmic and data fairness in the machine learning process to inculcate fairness, accountability ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230621956382/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230621956382/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-06-25-youtube-is-testing-an-ai-powered-dub-tool-to-translate-creators-videos.md",
+      "title": "YouTube is testing an AI-powered dub tool to translate creators' videos",
+      "excerpt": "YouTube is testing out an AI-powered multi-language dubbing feature for creators. Credit: Mateusz Slodkowski/SOPA Images/LightRocket via Getty Images) YouTube has been making some big ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/youtube-ai-powered-dubbing-tool-aloud",
+      "originalUrl": "https://mashable.com/article/youtube-ai-powered-dubbing-tool-aloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/033TXxSPosNJOZ5ZMWXOEVK/hero-image.fill.size_1200x675.v1687620649.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

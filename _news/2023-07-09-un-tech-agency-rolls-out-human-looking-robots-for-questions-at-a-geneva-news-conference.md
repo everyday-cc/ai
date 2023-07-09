@@ -1,22 +1,28 @@
 ---
 category: news
 title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-excerpt: "Robots are presented during a press conference with a panel of AI-enabled humanoid social robots as part of International Telecommunication Union (ITU) 'AI for Good' global summit in Geneva, Switzerland,"
-publishedDateTime: 2023-07-08T18:38:00Z
-originalUrl: "https://www.vindy.com/wire/?category=6&ID=297029"
-webUrl: "https://www.vindy.com/wire/?category=6&ID=297029"
+excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
+publishedDateTime: 2023-07-09T05:28:00Z
+originalUrl: "https://www.mariettatimes.com/wire/?ID=297029"
+webUrl: "https://www.mariettatimes.com/wire/?ID=297029"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: The Vindicator
-  domain: vindy.com
+  name: The Marietta Times
+  domain: mariettatimes.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "http://d14e0irai0gcaa.cloudfront.net/www.mariettatimes.com/images/2016/09/15131252/mt_fb.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Human-looking robots take questions at a Geneva news conference"
@@ -52,6 +58,6 @@ related:
         height: 1884
         isCached: true
 
-secured: "6pAh0uZvEo++VmsRHRKmr4wWKU20rwHGtX5hNHf7TySWPU0WywZFP72ABd4pFR/S3OWBxfdfvkgQNOe7UCWfNMdrmMylc2xiTsl7V7JaB3mBzE0fOkU7MSQENhYLiipoeitEMuNQShOg9xTJygRSfD1YN65fOXjzkbNoJHZAegab7zdij921fhWKCmqt8v++YDqHthiifvxZxspgsNcxQNUdC0dLt13MjcUmFn1oX9zHFmC1SSRQsiDHM8mnA+BHuMDjWHfszzBi0Y25Z0Aj6T5Fm7bVtHl28dgd8bioE26o3bzL5fkXM5f/42uU9o2Cs0vj2ymrrAfDN/2GXIQ0eiC8tQuSIc+tVHIknn6E+yKpsHnoTdrO4hO2/02FKxvg/y+BDFdI6ioZ6DfB5gOmaUl2F/ZCcY6nv5mYzDsdVACShM6K9epNg1YU/VhN0uxVjOLEBOBDI5y0Knud6dkxZIzLjlWH9Hb6v3b5nldsp0/yK4UhmYc3GaMQFBkyegMCo3bmAGItQIxVxyEJSSQn8g==;JcCazVNpFI8xyRaROs/BoQ=="
+secured: "/Pfcyr/83l7vdj5ZW9pQH1Iax207mlQ/uUP0szrUz06g3xzoSYtSqbJjI/SJmU9hDFsIPuQzig2/HO9BPxrOh7iHFzBWQWJg+dEPcWkKbCIsvXMHuklJ3UzujGYBS5WcK2SVZxl4GBip+7jNI8hdgjHfhMmcNj4FQ3RGhN7haW35M5qPmaczAX1roHzMMayLAcZv7lmr0z8TGYmf1jOXaLUzZqBzA7U9/8s/f0tbnktm4n9ss+M5OGVvuFcPpho4I40Vp63Izmx7UMLjBmLlXfQucHJfobyNR1CKH5ZBLgvNY7gLp0N4HvJTJPrCKONRhmCv5OBM7v9PxVV3i0/s3jTXXDX2KXA2OYviywzMwt4=;V0CIY3KuWUXXVq5jlKKh0A=="
 ---
 

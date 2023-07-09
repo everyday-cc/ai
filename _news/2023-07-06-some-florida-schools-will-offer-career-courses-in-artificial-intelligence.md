@@ -7,7 +7,7 @@ originalUrl: "https://www.abcactionnews.com/news/region-pasco/some-florida-schoo
 webUrl: "https://www.abcactionnews.com/news/region-pasco/some-florida-schools-will-offer-career-courses-in-artificial-intelligence"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Robot Dogs Train at South Florida Firm's New AI Facility"
+    excerpt: "We also hire people to help build out the AI models internally,\" Popp says. \"But don’t get me wrong, there will probably be some displacement to start with.\" Within two to three years, Popp anticipates more corporations will utilize inspection robots in ..."
+    publishedDateTime: 2023-07-06T17:04:00Z
+    webUrl: "https://www.miaminewtimes.com/news/levatas-ai-robot-dogs-train-as-safety-inspectors-in-florida-17354332"
+    type: article
+    provider:
+      name: Miami New Times
+      domain: miaminewtimes.com
+    quality: 54
+    images:
+      - url: "https://media1.miaminewtimes.com/mia/imager/u/slideshow/17355477/levatas-inspection-ai-robot-dog.jpg"
+        width: 1524
+        height: 1089
+        isCached: true
 
 secured: "3HtRopz9uvrMMfPMfMYQ17r/WvsPqQ8iY/NLF0+jrZy9P7hmjgAxgHy6QvViwBa3JWgZlu1soXPZl+l6obJ/8BB3aBa9spCv3yt+WCigujbf+UhkXID1eD2lIdbmu+LBlfvWU6Hs0BwvCdI1lvPYM5uK38R7Hr9lSJRvWToSJWv1nM79gATA6vTmUqj/PUQrCuSnBqcLOlm6GOBe2XTJuEq00C5d2YuZsOlk9VKB23676cJqAxEfp3cDEMP7l2VMLABI4GXJ0mpA4SRLYKQZohB9+RzruuHl9wi5/FFKsqDWrGrKaYwF/+wKRSGBhuqWkJe9DPjY88Q/v0yUz6YVhqddJ0nX8h605kyQTWfhooo=;DpKy6AcFq1pfx6RYCXoA9Q=="
 ---

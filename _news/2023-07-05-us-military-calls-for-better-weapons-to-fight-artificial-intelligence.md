@@ -55,20 +55,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Drones with AI targeting system claimed to be 'better than human'"
-    excerpt: "An artificial intelligence targeting system is better than humans at identifying valid targets, claim its makers, though the full results are classified"
-    publishedDateTime: 2023-07-04T11:22:00Z
-    webUrl: "https://www.newscientist.com/article/2380971-drones-with-ai-targeting-system-claimed-to-be-better-than-human/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/04105741/SEI_162315870.jpg"
-        width: 1350
-        height: 899
-        isCached: true
 
 secured: "fh8TNy+eCu+dHKFMlQlQb/1uovRM87QFt5WbIfewLFpQjTZGSthipFdSiyBWqVcMAOYAR4ceLObZ3eBz3rItUyWAm0lVXDQB+yoEhaLck8SS3yDj1iPysD1PwLuJPV8m29Aa554woqwKibauyFt44RhQgdN5QsChv4XQ0mTAgYxddduUpFn5GZ807jO6ioatJ6q2kaVtE+mgygZuJ00ODnZYmSFgFp850alKFc8hZummLWTM4QtXjdefYhWZNnQbJjBy0s10aUhDBxqBcySUkO8BzglNoX0WbSs6JhPGc69okssDYGgVcfohXgYC0TkElMYhsALlLPEFYetOiqp9h2Z90aQsIo4Qm9J9UQYHi4/fWH/lZP1/SjWAeFu1UplYekbS9sy3KlhPs0iLrT71CiL7j/pQ2xvjDT4M4b3Bzh2tK3fBFjgooQjJEoweIyHN7lg9NS9AJJv1K6cixH10FAtyfPsqiDxVvFPKyS92+VERDhhmHb9/kxnJtyWPtbUp8zXvhWRnBYbkFMurkdIQ2g==;kyZRon+JVN6RiyPZsYObYQ=="
 ---

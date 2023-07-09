@@ -109,22 +109,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft Introduces New AI Tools from Singapore"
-    excerpt: "Singapore-based start-ups, Babbobox and Wiz.AI, have collaborated with Microsoft to develop new AI tools that showcase promising advancements in the field. These tools aim to bring significant changes to various industries through their unique applications of AI technology."
-    publishedDateTime: 2023-07-04T11:52:00Z
-    webUrl: "https://www.techtimes.com/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293392/20230704/microsoft-introduces-new-ai-tools-singapore.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 74
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430944/hannover-messe-industrial-trade-fair-2023.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "TCS to train 25,000 employees on Microsoft, OpenAI’s generative AI tools"
     excerpt: "The company also launched a generative AI business offering, called TCS Generative AI Enterprise Adoption, which will offer deployments of OpenAI’s generative AI business tools via the Azure cloud pla"
     publishedDateTime: 2023-07-06T14:24:00Z

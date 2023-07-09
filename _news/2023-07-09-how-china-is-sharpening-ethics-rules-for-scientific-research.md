@@ -1,0 +1,29 @@
+---
+category: news
+title: "How China is sharpening ethics rules for scientific research"
+excerpt: "In late 2018, news of the world's first gene-edited babies sent shock waves across the scientific community, resulting in almost-universal condemnation for the Chinese scientist behind the experiment that broke ethical norms."
+publishedDateTime: 2023-07-09T04:02:00Z
+originalUrl: "https://asia.nikkei.com/Spotlight/Caixin/How-China-is-sharpening-ethics-rules-for-scientific-research"
+webUrl: "https://asia.nikkei.com/Spotlight/Caixin/How-China-is-sharpening-ethics-rules-for-scientific-research"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Nikkei Asia
+  domain: nikkei.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F3%252F4%252F8%252F0%252F46190843-3-eng-GB%252FCropped-16886242472018-11-28T050928Z_637937548_RC160E366BC0_RTRMADP_3_HEALTH-CHINA-BABIES-PANEL.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+    width: 1260
+    height: 630
+    isCached: true
+
+secured: "nQQLcB7ocpZRWvwDvJcluutDf2kQqly8tFHimNBPbLli4gbWCK+jftiNZXPQsBGHPuLFEJUXoeLJUpM/o8ciV7NrJMCWJqeY428fKQJ3FYuXD0MHYC2NIbWW2PFHf0TbU4gRu9p7Pa9Mr592ZpuPqYO6Yu6NhHqs1mYAT6aDwa/If/5xqpSXsGq3HYgJJGSe4ryttnvvlzgDrGjF4ZUuBI10hj22AXKTH5RHjt8EP+wt7nZUh+I4X/piqOReRtG+AUMBO8Dzo4VDrkOsDw2ye2YFXzNiWrcIDUWRzu4hFnvGkU76eYefl/jrM/EZSREBRe8lMfvoZCg2RA1otqmQ+HYG4DtcYpvmbcS6yrv0lMY=;MgFQxHKy2DzVGsnW48gUiw=="
+---
+

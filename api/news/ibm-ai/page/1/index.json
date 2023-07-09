@@ -1124,58 +1124,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-28-will-ibms-ai-investments-actually-pay-off.md",
-      "title": "Will IBM's AI Investments Actually Pay Off?",
-      "excerpt": "Chief Commercial Officer Rob Thomas outlined how far IBM's Watson systems have come in the last three years: We've been investing [in the WatsonX generative AI platform] for 3 years. And if you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/27/will-ibms-ai-investments-actually-pay-off/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/27/will-ibms-ai-investments-actually-pay-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737699/robot-with-laptop-counting-coins-by-a-window-with-skyscraper-view.jpg",
-          "width": 2256,
-          "height": 1329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-27-spectrum-scale-on-ibm-cloud-performance.md",
       "title": "Spectrum Scale on IBM Cloud performance",
       "excerpt": "The IBM Cloud Spectrum Scale catalog tile has been designed to offer you the shortest path to get to a high-performance compute and storage cluster.\nThe post Spectrum Scale on IBM Cloud performance appeared first on IBM Blog.\n",
@@ -1224,6 +1172,40 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-will-ibms-ai-investments-actually-pay-off.md",
+      "title": "Will IBM's AI Investments Actually Pay Off?",
+      "excerpt": "Chief Commercial Officer Rob Thomas outlined how far IBM's Watson systems have come in the last three years: We've been investing [in the WatsonX generative AI platform] for 3 years. And if you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/will-ibms-ai-investments-actually-pay-off",
+      "originalUrl": "https://www.nasdaq.com/articles/will-ibms-ai-investments-actually-pay-off",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {

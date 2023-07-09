@@ -44,14 +44,19 @@ related:
         height: 720
         isCached: true
   - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-    excerpt: "Robots are presented during a press conference with a panel of AI-enabled humanoid social robots as part of International Telecommunication Union (ITU) 'AI for Good' global summit in Geneva, Switzerland,"
-    publishedDateTime: 2023-07-08T18:38:00Z
-    webUrl: "https://www.vindy.com/wire/?category=6&ID=297029"
+    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
+    publishedDateTime: 2023-07-09T05:28:00Z
+    webUrl: "https://www.mariettatimes.com/wire/?ID=297029"
     type: article
     provider:
-      name: The Vindicator
-      domain: vindy.com
-    quality: 11
+      name: The Marietta Times
+      domain: mariettatimes.com
+    quality: 31
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.mariettatimes.com/images/2016/09/15131252/mt_fb.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zJXOt1GLTcHknVAsvxQLypnEDfQ2irLQI+3MM2VJCd/AKg5Uihp1OAWzeXvnuEjkPfAnbQlMupTclqffdZWiWUH6OyteTWPqeyTBl6A3w9XL+9xiiku3dkHz8x4N/XUsHAi9QTC3MZ7uRuR1Ck3V0+nH/01KSeDRqhXfvYfRbKPC0B6OYpKac1eOLkj0CRdn4jCFN/7ukyw6OkOZRj3KKjlXTRBxyx5QjIoXin06WFM0QYLhEwpFm8e0/NhCV0DTH660CqQo0v9Mclgr3MaEZgY9gzqIgnrKF0mCoa+LhHiupTTFPy0aiEkgRgl0nT939NSIc1uxdSMoI2Y4PLBRzXr/r+AsIF0IxWmJWeT6aNOdNOtOx1WANFgr66fatGiCFUTmpDK8LHJWbXnDVlD2Te4xHmLo7QYZM/zJJg6oA7B1Ke8XIWyFkpwsn0gA78DXopclCRuiNAXr7yQ+x2MFzUiPkOS3WV40UwJSjZW92xXElM2TMtnSP8WlrDy14th7eYGEWECJUmtrWbWRfO7O4A==;U/obCpIsB0ciygc5U/O8BQ=="
 ---

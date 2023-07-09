@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-07-ai-service-robotics-netherlands.md",
+      "title": "AI Service Robotics - Netherlands",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$110.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.68%, resulting in a market volume of US$271 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/netherlands",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/netherlands",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023.md",
       "title": "Artificial Intelligence In Manufacturing: Four Use Cases You Need To Know In 2023",
       "excerpt": "Discover how AI-powered cobots, 3D printing enhancements, futuristic generative designs, and predictive maintenance are revolutionizing the manufacturing industry in 2023",
@@ -1091,49 +1134,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-f1-british-grand-prix-facial-recognition-at-silverstone-being-used.md",
-      "title": "F1 British Grand Prix: Facial recognition at Silverstone being used",
-      "excerpt": "Facial recognition technology will be used for the first time at the Formula 1 British Grand Prix to try and stop protesters disrupting the race. Last year, climate activists from Just Stop Oil got on to the Silverstone track in the first lap and sat down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/uk-england-northamptonshire-66120010?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.co.uk/news/uk-england-northamptonshire-66120010?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15798/production/_130306978_silverstonecarpa.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-northamptonshire-66120010.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-northamptonshire-66120010.amp",
-      "publishedDateTime": "2023-07-06T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

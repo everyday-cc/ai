@@ -2,100 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-07-06-artificial-intelligence-is-technologys-50-year-overnight-success-story.md",
-      "title": "Artificial Intelligence is Technology's '50-Year Overnight Success Story’",
-      "excerpt": "Hi, it’s Katie Roof, now back in Los Angeles, bringing you the word from a recent gathering of the tech industry in Canada. Elsewhere, a landmark IPO in Europe and another Credit Suisse banker jumps ship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-07-05/artificial-intelligence-is-technology-s-50-year-overnight-success-story",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-07-05/artificial-intelligence-is-technology-s-50-year-overnight-success-story",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id5hihqqWyz4/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-facial-recognition-technology-could-soon-be-everywhereheres-how-to-make-it-safer.md",
-      "title": "Facial recognition technology could soon be everywhere—here's how to make it safer",
-      "excerpt": "The recent coronation of King Charles III was a high-profile example of when facial recognition technology has been used to monitor a crowd, but there are plenty of others. The technology is used by law enforcement all over the UK and other countries.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/facial-recognition-tec.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp",
-      "publishedDateTime": "2023-07-05T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-05-why-big-tech-wants-to-help-congress-regulate-ai.md",
       "title": "Why Big Tech Wants to Help Congress Regulate AI",
       "excerpt": "Tech interests, especially OpenAI, the nonprofit that created ChatGPT, have gone on the offensive in Washington, arguing for regulations that will prevent the technology from posing an existential threat to humanity.",
@@ -198,7 +104,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 257,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -1021,7 +927,7 @@
       "originalUrl": "https://www.zdnet.com/article/are-your-google-docs-safe-from-ai-training/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1214,6 +1120,109 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-auto-executive-ai-will-be-used-for-more-than-just-the-products.md",
+      "title": "Auto Executive: “AI Will Be Used For More Than Just The Products”",
+      "excerpt": "Artificial Intelligence will certainly revamp must of the future vehicles. But an automotive executive states productized AI is just the tip of the iceberg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/",
+      "originalUrl": "https://www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649eb35815540c75d4324232/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/amp/",
+      "publishedDateTime": "2023-07-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed.md",
+      "title": "Tintra Shares Rise on Agreement to Repay Fintech Leaders Share Deed",
+      "excerpt": "By Joe Hoppe Tintra shares rose Wednesday after the company said it has agreed to fully repay and terminate a $3 million share placement deed with",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
+      "originalUrl": "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
+      "publishedDateTime": "2023-07-05T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

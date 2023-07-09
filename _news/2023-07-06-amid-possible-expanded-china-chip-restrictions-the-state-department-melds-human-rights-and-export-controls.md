@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China to tighten control on exports of AI chip-making materials"
-    excerpt: "According to Chinese officials, anyone wanting to export gallium or germanium products must receive a license from the government and comply with new export limits or else face punishment."
-    publishedDateTime: 2023-07-04T11:15:00Z
-    webUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials"
-    ampWebUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/66606f2a-ac65-441f-b002-136dda05c141.jpg"
-        width: 740
-        height: 492
-        isCached: true
   - title: "China retaliates to US chip restrictions with export controls on vital tech metals gallium and germanium"
     excerpt: "As reported by Bloomberg, China's Ministry of Commerce said in a statement yesterday (Monday) that as of August 1, the exporters of gallium and germanium, as"
     publishedDateTime: 2023-07-04T15:38:00Z

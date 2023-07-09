@@ -2,110 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-05-16-ministers-looking-at-putting-facial-recognition-technology-in-police-bodycams.md",
-      "title": "Ministers looking at putting facial recognition technology in police bodycams",
-      "excerpt": "Government’s intentions revealed in document produced for surveillance camera commissioner",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "originalUrl": "https://www.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/973bd12a9c69e4d93f70f9900a8300f9e302bb63/0_93_5312_3187/master/5312.jpg?width=620&quality=85&auto=format&fit=max&s=cea2774a8b212916ecedeb4e5451b693",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "publishedDateTime": "2023-05-16T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-2023-face-recognition-systems-market-global-industry-analysis-till-2030.md",
-      "title": "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030",
-      "excerpt": "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T23:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
       "title": "TSA is testing facial recognition at more airports, raising privacy concerns",
       "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country.",
@@ -1437,6 +1333,101 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-ai-in-computer-vision-market-recent-growing-trend-2030.md",
+      "title": "AI In Computer Vision Market: Recent Growing Trend 2030",
+      "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Qualcomm Technologies, Inc., Google LLC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-recent-growing-trend-2030-2023-05-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-recent-growing-trend-2030-2023-05-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-opinion-california-wrong-to-expand-facial-recognition-use.md",
+      "title": "Opinion: California Wrong to Expand Facial Recognition Use",
+      "excerpt": "The technology still misidentifies individuals, especially when it’s focused on people of color. While the technology has advanced, the problems haven't gone away, and new legislation won’t fix them either.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use",
+      "originalUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/cf6e9f9/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F77%2F5763ddd14e65eb9c7594500441fc%2Fshutterstock-1270097047.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true",
+      "publishedDateTime": "2023-05-04T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

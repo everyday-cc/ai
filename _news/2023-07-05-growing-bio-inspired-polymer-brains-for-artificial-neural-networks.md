@@ -34,15 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Researchers grow bio-inspired polymer brains for artificial neural networks"
-    excerpt: "The development of neural networks to create artificial intelligence in computers was originally inspired by how biological systems work. These \"neuromorphic\" networks, however, run on hardware that looks nothing like a biological brain,"
-    publishedDateTime: 2023-07-04T11:44:00Z
-    webUrl: "https://phys.org/news/2023-07-bio-inspired-polymer-brains-artificial-neural.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
 
 secured: "P/HbnctdMJZpDudCw9JN49iIaXEUgGYBoTENb2S9A8bOQxLXSVkoPqOKFRxcWoHTivQwhjjkbri/WBwAneXnFxBxASlBvpmxy/IQ1hOyyLJNosx0Tg+UtOUfD2tHnpOd2d9I2Lb01XnFoYDf5ffRrkyoyjzERkBl/fcQgGz6UUZHPJS8l02HZ9b7k5Or3RQinCDxCpG7PS+bG5+ESE+zc6bVIGAH9i8/COeyqEZtZ5GCVV6ckW2bEPEH7BQHwXrkRu+uJSWfIJenAWnpU5zlaD3XiRsgrrOS7tWMHa1pzJAzYVPuAsL27g0NnFcuOEDTK6XaziHqOLLII/MvZDF5mouowpS6Q4+UWzVB8iRoFig=;hQIhVPz6iOupEZWus2OAWQ=="
 ---

@@ -271,7 +271,7 @@
       "originalUrl": "https://www.reuters.com/article/china-tech-usa/china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests-idUSB9N38402E",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -354,49 +354,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-the-1-billion-and-higher-ante-to-play-the-ai-game.md",
-      "title": "The $1 Billion And Higher Ante To Play The AI Game",
-      "excerpt": "If you want to get the attention of server makers and compute engine providers and especially if you are going to be building GPU-laden clusters with shiny new gear to drive AI training and possibly AI inference for large language models and recommendation engines,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/07/05/the-1-billion-and-higher-ante-to-play-the-ai-game/",
-      "originalUrl": "https://www.nextplatform.com/2023/07/05/the-1-billion-and-higher-ante-to-play-the-ai-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2022/03/nvidia-hopper-die-shot.jpg",
-          "width": 435,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/07/05/the-1-billion-and-higher-ante-to-play-the-ai-game/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/05/the-1-billion-and-higher-ante-to-play-the-ai-game/amp/",
-      "publishedDateTime": "2023-07-05T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1485,6 +1442,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-edge-ai-will-shape-all-aspects-of-mediatek-business.md",
+      "title": "Edge AI will shape all aspects of MediaTek business",
+      "excerpt": "Dr. Finbarr Moynihan, head of Corporate Marketing at MediaTek, will speak at the event to explore AI adoption for smart edge devices. In a preliminary interview with DIGITIMES Asia, the MediaTek VP shares his insights on where the leading mobile chipmaker stands when it comes to AI deployment,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape-all-aspects-of-mediatek-business-1032412981",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape-all-aspects-of-mediatek-business-1032412981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2141507/image_800964_20918992.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's policy update verifies that all your posted content will be utilized for AI training"
-    excerpt: "Google's update over the weekend introduced new wording to its privacy policy. It previously stated that people's data would be used to train \"language\" models, mentioning"
-    publishedDateTime: 2023-07-04T11:46:00Z
-    webUrl: "https://www.techspot.com/news/99281-google-policy-update-confirms-itll-scrape-everything-you.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-04-image.jpg"
-        width: 1017
-        height: 891
-        isCached: true
 
 secured: "rzEcWshbYATu6k2zzVMDewxXjDQNMw90d7Jj/pZNbAkXlvOUAlxHuavl+a6x0C9jcR0eFK14H8LLrARfoqOfOrWZvqxiajzpyvupn+L7PZ0QGppNgLwnq7yQeeAHCr32lOBtaBf8d/x5svfg44rS0uO1fJU1xh8tf4U8gbAd4Zqk8+s/KZMM2VvjYKzpc6ZXTm6/YA1RT0Zp+7L7n6ze5f/YZyNWuoKQlaP8a8KIT9TE0G1ziw7WymmEMW08IL6U+6G6Qtww86CSBebPLaxB8oPEtyp3VPeF6Qa1esWuqxcQNki0aR8/ll1Lggq8rKCnXD8cuA4fgy9m4uHasvRUkEU8EXcvWGz9swOp3WgBVXQ=;PDi98mgoKQcl6igkjfekbg=="
 ---

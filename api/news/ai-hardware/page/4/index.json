@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-06-06-ai-driven-security-processors-on-a-single-chip.md",
-      "title": "AI-Driven Security Processors On A Single Chip",
-      "excerpt": "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip",
-      "originalUrl": "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg",
-          "width": 1024,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electronicsforu",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-06-06-ai-for-value-investors-megacap-tech-etn-dlr.md",
       "title": "AI For Value Investors: MegaCap Tech, ETN & DLR",
       "excerpt": "No doubt, the big news on the individual stock front was the euphoria surrounding just about any stock having anything to do with artificial intelligence (AI),",
@@ -1386,6 +1342,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-tech-up-on-ai-enthusiasm-tech-roundup.md",
+      "title": "Tech Up on AI Enthusiasm -- Tech Roundup",
+      "excerpt": "Shares of technology companies rose slightly as optimism about new artificial-intelligence developments buoyed some mega cap stocks. Nvidia crossed",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-up-on-ai-enthusiasm-tech-roundup-3a20fb95",
+      "originalUrl": "https://www.marketwatch.com/story/tech-up-on-ai-enthusiasm-tech-roundup-3a20fb95",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-up-on-ai-enthusiasm-tech-roundup-3a20fb95",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-on-ai-enthusiasm-tech-roundup-3a20fb95",
+      "publishedDateTime": "2023-05-30T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-arti
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -40,6 +40,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
+    excerpt: "A super PAC supporting Miami Mayor Francis Suarez’s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
+    publishedDateTime: 2023-07-08T12:59:00Z
+    webUrl: "https://www.kentucky.com/news/nation-world/national/article277040893.html"
+    ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article277040893.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article277040893.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 44
   - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
     excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"
     publishedDateTime: 2023-07-06T11:29:00Z

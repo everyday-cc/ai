@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/china-tech-usa/china-says-us-consi
 webUrl: "https://www.reuters.com/article/china-tech-usa/china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests-idUSB9N38402E"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "China to tighten control on exports of AI chip-making materials"
-    excerpt: "According to Chinese officials, anyone wanting to export gallium or germanium products must receive a license from the government and comply with new export limits or else face punishment."
-    publishedDateTime: 2023-07-04T11:15:00Z
-    webUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials"
-    ampWebUrl: "https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/66606f2a-ac65-441f-b002-136dda05c141.jpg"
-        width: 740
-        height: 492
-        isCached: true
   - title: "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls"
     excerpt: "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U."
     publishedDateTime: 2023-07-06T14:37:00Z

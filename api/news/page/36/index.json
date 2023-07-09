@@ -2,91 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2023-06-14-smart-manufacturing-technology-is-transforming-mass-production.md",
-      "title": "Smart manufacturing technology is transforming mass production",
-      "excerpt": "Smart manufacturing (SM)—the use of advanced, highly integrated technologies in manufacturing processes—is revolutionizing how companies operate.\nThe post Smart manufacturing technology is transforming mass production appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/smart-manufacturing-technology-is-transforming-mass-production/",
-      "originalUrl": "https://www.ibm.com/blog/smart-manufacturing-technology-is-transforming-mass-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T12:44:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-hybrid-ai-powered-computer-vision-combines-physics-and-big-data.md",
-      "title": "Hybrid AI-powered computer vision combines physics and big data",
-      "excerpt": "Researchers from UCLA and the United States Army Research Laboratory have laid out a new approach to enhance artificial intelligence-powered computer vision technologies by adding physics-based awareness to data-driven techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/hybrid-ai-powered-comp.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.amp",
-      "publishedDateTime": "2023-06-14T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-15-amds-take-on-ai-instinct-mi300x-combines-gpu-cores-with-192-gb-of-hbm3-memory.md",
       "title": "AMD's take on AI: Instinct MI300X combines GPU cores with 192 GB of HBM3 memory",
       "excerpt": "Up until now, the big winner in the generative AI GPU game has been Nvidia, thanks to a combination of strong hardware and a large installed",
@@ -1230,6 +1145,109 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-octoml-debuts-self-optimizing-compute-services-for-generative-ai.md",
+      "title": "OctoML debuts self-optimizing compute services for generative AI",
+      "excerpt": "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-openshift-version-413-now-available-in-red-hat-openshift-on-ibm-cloud.md",
+      "title": "OpenShift version 4.13 now available in Red Hat OpenShift on IBM Cloud",
+      "excerpt": "We are excited to announce the availability of OpenShift version 4.13 for your clusters that are running in Red Hat OpenShift on IBM Cloud.\nThe post OpenShift version 4.13 now available in Red Hat OpenShift on IBM Cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/openshift-version-4-13-now-available-in-red-hat-openshift-on-ibm-cloud/",
+      "originalUrl": "https://www.ibm.com/blog/openshift-version-4-13-now-available-in-red-hat-openshift-on-ibm-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/ee0d6256-c147-4628-a6bd-14ccb48d7e9d.lr_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T05:50:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

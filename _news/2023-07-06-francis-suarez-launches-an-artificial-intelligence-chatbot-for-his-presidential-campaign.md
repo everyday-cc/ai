@@ -54,6 +54,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
+    excerpt: "A super PAC supporting Miami Mayor Francis Suarez’s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
+    publishedDateTime: 2023-07-08T12:59:00Z
+    webUrl: "https://www.kentucky.com/news/nation-world/national/article277040893.html"
+    ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article277040893.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article277040893.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 44
 
 secured: "ogMNeAL77dxeXV2cx7q5amb68PinnSUuA117BOkvszAyTPvjaPcn5p9tDtBdZn5LUpzeVS2t/yUvt/oac4gMFo9x3p+0TEOj6vRTIfCY8D6XhG/JN8nHYTz9LpBj14mjVEm7yHSYORFpS3IoRcmdmJqz4Vg4fdJkxuDTh7l0OpyVqYI4Uq7T83s+ymxgM53iu3h9kGfq1F0wUpCE9KHQoPEalDcWd2qTRzdda821alCUjJZ2hHVdDx4/VRAoE1GiJGKbHRFzbPvGz6ZJjRMPKdLBI3sHMUUMJGQl5R8/NRHXCcK/r+4vZuF8JJemFpT+wcUNF9bSwtIQ9kzV2i2Ta89E6ABxbv1OBK/TY1u6PfI=;R+9n0V8F/UmyIstubYv7yQ=="
 ---

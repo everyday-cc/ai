@@ -53,15 +53,6 @@ related:
         width: 602
         height: 334
         isCached: true
-  - title: "WeRide receives autonomous driving license from UAE government"
-    excerpt: "Photo provided to] WeRide, a Chinese autonomous driving company, received its first national license for self-driving vehicles from the United Arab Emirates gov"
-    publishedDateTime: 2023-07-04T12:52:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/04/WS64a40a86a310bf8a75d6d338.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 4
 
 secured: "tKvlUNhmewQZ4tzpsgOoj2bUpa/FKr70r576ID31pxqUJm3muJws6R+Ch2/1wN5CDXGzolDZY9tOfuja7yhm9EYmMcKdp5ef/pU96wKSwJbdEWNc5EmcVSjWK26U/BiByEnegOKRX35uUULNlZHkm4pgDePquL2cr8t9y+5lhdKneq1hAgTNNHlKtwXqAy/w0Ijs76B71qRJjQVg0eQcRzi2CSVhsS8tj/5ViME9jVUiETPFnnuyOxqkcCFJ8U2dS/cjfYVmiEEF1S9+/fA2hOgSibnXba615U6jY++ntGwuoS18JSle0TfT414vQrgklHlzRDf5sYqWRpzdUw3XI5H8scRVEJp6+DbVAiSehoodRK5ptSlFZA3cgciFtTP3eGtagR1mUf0002RGhetYxllv6QDCxYOVvlJ1lATqE1DTqGE729+YzCKEwPAViO+51lOhCjDGEwuP0i7GET91NOMmijXyjaAMddRnMSOXChmYdYpYgcJ7r7569bFLFQC8LmtaxI+xvvRFsgL2BVNu/A==;FyaIVOqueWQQDtMLyAXEHQ=="
 ---

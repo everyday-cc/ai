@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/are-your-google-docs-safe-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's policy update verifies that all your posted content will be utilized for AI training"
-    excerpt: "Google's update over the weekend introduced new wording to its privacy policy. It previously stated that people's data would be used to train \"language\" models, mentioning"
-    publishedDateTime: 2023-07-04T11:46:00Z
-    webUrl: "https://www.techspot.com/news/99281-google-policy-update-confirms-itll-scrape-everything-you.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-04-image.jpg"
-        width: 1017
-        height: 891
-        isCached: true
   - title: "Google Reveals Use of Public Web Data in AI Training"
     excerpt: "In a recent update to its privacy policy, Google has openly admitted to using publicly available information from the web to train its AI models. This disclosure, spotted by Gizmodo, includes services like Bard and Cloud AI."
     publishedDateTime: 2023-07-05T19:43:00Z

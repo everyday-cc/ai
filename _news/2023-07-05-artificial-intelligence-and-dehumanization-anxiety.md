@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "The $1 Billion And Higher Ante To Play The AI Game"
-    excerpt: "If you want to get the attention of server makers and compute engine providers and especially if you are going to be building GPU-laden clusters with shiny new gear to drive AI training and possibly AI inference for large language models and recommendation engines,"
-    publishedDateTime: 2023-07-05T20:46:00Z
-    webUrl: "https://www.nextplatform.com/2023/07/05/the-1-billion-and-higher-ante-to-play-the-ai-game/"
-    ampWebUrl: "https://www.nextplatform.com/2023/07/05/the-1-billion-and-higher-ante-to-play-the-ai-game/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/05/the-1-billion-and-higher-ante-to-play-the-ai-game/amp/"
+  - title: "AI anxiety: The top 20 professions bracing for the robot takeover"
+    excerpt: "A recent study has revealed the professions most concerned about being replaced by artificial intelligence (AI). The study, 'AI Anxiety: The Top 20 Professions Bracing for the Robot Takeover',"
+    publishedDateTime: 2023-07-09T05:33:00Z
+    webUrl: "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/"
+    ampWebUrl: "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/amp/"
+    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/amp/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: The Jamaica Observer
+      domain: jamaicaobserver.com
+    quality: 74
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2022/03/nvidia-hopper-die-shot.jpg"
-        width: 435
-        height: 275
-        isCached: true
-  - title: "An Update on Artificial Intelligence and the Law"
-    excerpt: "Part of our presentation addressed the rise of artificial intelligence (“AI”) in the law and in insurance adjusting. We have seen several interesting developments over the past few months in terms of AI and the law. Here are some of the highlights ..."
-    publishedDateTime: 2023-07-06T23:36:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/an-update-on-artificial-intelligence-8543469/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 37
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15680_183.jpg"
-        width: 1200
-        height: 900
+      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=d3c486b1-1b3d-5c2c-be50-172687391156&function=fit&type=preview"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "pCBFKQtx2hlORkxdzjJ17+wsp8A+DKvGNucvaQJtYG5QPKp4C/sSgYLAuUZs/uen/TeaJEomfwobn4NgneJaDN4dyHfqlxWFSMHy7PFiodIIUkAUQ7Zdl5L3KHHexooEBwHbt/hCufM8SqnBgQIKsY3YmUgknmV8IktM9oJbduV/yRkur58riBoqI9GvSxdzKyCXC0+bqxL5QlRKqzGbPaWJF3x03G83iEqnp5xCv0/QeATOmIHYmzF0BEHEMoRgtoJRtXXJ1dhyTVaWHuw7YH6vRhCQQQLqf5kiBlScEq/gh7E4bLAdG5kGgP33k1XOOr9Gqw7aJwe0Wtjika986JphET9LnTEtA2FR8oFL9dH5HEcY2FUNPSAmOawfbBolg0xCyAe6f6YFxq+IRLhQG5QchNacYlIaU5iASN/IzxFa8Xs4vXUuw808/lWlDApfTDUEwPpLQXySGQXkbmuAYIPB+5MZPptIpTd//+fX/z9s7QTX3Bwo+IzuVe15EcLDhx/485okRBq0zb+coSDzog==;nKwxjE1zJ/PMm7RTx7k+MA=="

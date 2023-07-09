@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/293397/20230704/better-human-
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293397/20230704/better-human-ai-attack-drones-fight-us-military-soon.htm"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://i.dawn.com/large/2023/07/081213454917d66.jpg?r=121401"
         width: 800
         height: 480
-        isCached: true
-  - title: "Drones with AI targeting system claimed to be 'better than human'"
-    excerpt: "An artificial intelligence targeting system is better than humans at identifying valid targets, claim its makers, though the full results are classified"
-    publishedDateTime: 2023-07-04T11:22:00Z
-    webUrl: "https://www.newscientist.com/article/2380971-drones-with-ai-targeting-system-claimed-to-be-better-than-human/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/04105741/SEI_162315870.jpg"
-        width: 1350
-        height: 899
         isCached: true
 
 secured: "F4GBUzFANGe/dbbq6LxuiJbBjjAkSwJDfghSe4HRJHJiJ8jLVYBYMN60k+MRXQBrToXGiInbFU3qBF8oQTQvFDMmze8lOtbPfAA3difccJkeqipxU8W4aqmumSGukJiedxZRX5FRK5sfTbrXKOW2JngFshEUJSQ+qGUu9izMpGYQCDVUOgvGLCVUe/TUlJr5/xrbKFa5xfm71/ymkStmN9EEMv6Ev1Xk0fbZkBJVzQGGe9kYVJs+jcca+BsclhrvWD4D9Mq2b2Mq189uXTrufWpPNZn1iEs5M4BbSgYUhDLGab9PEOglMXwlmrdnwKyJ0qQj79ptCPyeNCJbm6DRGRXsHb2e0BmO2hJB7s2QEkH1pQ+S3+dxdWkEyfdKIUYv6S1Thun7X8Sc4DDpzNhO7NgAImNP9L4w6RnZXXTb0WZis0GUknBsoOQfyHlb7u0B1kKApI2wbgYsC2AXQT9pKvmmAn9HQuPXt6ZNJGM6wgDXS8fcsxnGD9H101WA2P6w8xBg15DMoKvz37HxSwX6Ag==;LMyqfSAkkQvBQNKiZiUGOQ=="
