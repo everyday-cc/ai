@@ -86,15 +86,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
-  - title: "Latest Trends In Fintech - A Comprehensive Analysis"
-    excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
-    publishedDateTime: 2023-07-04T18:11:00Z
-    webUrl: "https://menafn.com/1106553250/Latest-Trends-In-Fintech-A-Comprehensive-Analysis"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "3ECi/uVHMkfHqdVyiM1FcryW4OP92WJI1iodCik1TcDbGcii4n9TjZEE+wHzgt8vu16PK9ytc0epCnLoJJjUjHts3kyi6dlhKwJRo34qfqMZ4tNBAC4KD7n0RMb8mxv8bkQBgmnSavtXSTd9s1CaKQPBiHRziBcn3yirw9bs9ASRFJ0x7GItOWeYVk4ErSjUSF/VrnQvsoMeFybktJjDXbjnGUitA6KrSjJ3uA3USqp2zBB5wY8wvWfsCMtDMp1w/qqlb7g0OSSs1olW8STvtJwn9zLw+78VaoDh/qbdx+PzOkuh5uNnXX/DiLFdn10YS1VgeO3Ep/uOEH7+bqHPJ0L8z4C9lwW4ig5Xg0Q+8OI=;Tm5D1wSdYl2Xe/Pusex/rQ=="
 ---

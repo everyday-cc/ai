@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporate-communicators-take-ai-away-from-it/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "6 best translator apps: How Artificial Intelligence can help break communication barriers"
+    excerpt: "If you find yourself in a place where you don't know the language, these smartphone translator apps will assist you in learning a different language, conversing in another nation, and more."
+    publishedDateTime: 2023-07-09T11:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/6-best-translator-apps-how-artificial-intelligence-can-help-break-communication-barriers-10928631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/6-best-translator-apps-how-artificial-intelligence-can-help-break-communication-barriers-10928631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/6-best-translator-apps-how-artificial-intelligence-can-help-break-communication-barriers-10928631.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 50
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/AI-breaking-communication-barriers.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Communities can use artificial intelligence"
     excerpt: "Small local businesses face numerous challenges in effectively promoting, marketing,"
     publishedDateTime: 2023-07-05T13:41:00Z

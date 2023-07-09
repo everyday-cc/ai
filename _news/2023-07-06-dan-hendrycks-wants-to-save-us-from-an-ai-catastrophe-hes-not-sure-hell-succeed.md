@@ -7,7 +7,7 @@ originalUrl: "https://www.bostonglobe.com/2023/07/06/opinion/ai-safety-human-ext
 webUrl: "https://www.bostonglobe.com/2023/07/06/opinion/ai-safety-human-extinction-dan-hendrycks-cais/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 506
     height: 337
     isCached: true
+
+related:
+  - title: "Deception is ‘perfectly within the capacity’ of AI robots: Dan Hendrycks"
+    excerpt: "Center for AI Safety director Dan Hendrycks joined ‘Fox & Friends Weekend’ to discuss the world’s first human-robot press conference amid the growing concerns about the use of A.I."
+    publishedDateTime: 2023-07-09T11:56:00Z
+    webUrl: "https://www.foxnews.com/video/6330862925112"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 66
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12f32090-d466-4946-8d6a-cfb9c81363bd/7511282e-5719-497f-be58-09896b59eaff/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "rO5ahcLb4Ug8c7fOmB2kOxy3suMl0/95kFR/uUHz+b2W77RBEQA6eSGAoQLpXRYuemK70nPflWFK4FMAMoqLI2LxFtX+hc0Wodehr+HSYZMU/7yzc5+LvA4bWitwwSyQ0K3eXCHVl33DX9r44Y7In5+8LGcQU1llaDGXMaSif/qcj7v+qf5BC0MPcm9oVnhC02TWJ7By4QWKLncLqdh0Mqo6AdMCMhH/wgahZgz83fBYZ/Z6u41RYS7c8XftP/YICi4633StVv57R6qPAveM10HdP3HVd+NLKChgKGUgUDyoXyHkVY00xQX8QckXhBiNwzBgnzw5XOZEqPMDu/TNtpcM9P72+My2ohKRPa01teg=;zkH2vENLV7QTTJstSLKJnA=="
 ---

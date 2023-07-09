@@ -82,22 +82,6 @@ related:
         width: 1200
         height: 836
         isCached: true
-  - title: "Now anything you post publicly online could be used to train Google’s AI"
-    excerpt: "AI chatbots like Google’s Bard, Open AI’s ChatGPT and other generative AI systems create content using large amounts of data scraped from the internet. This includes data publicly available on social media platforms. We’re already seeing owners of social media platforms try and curb this."
-    publishedDateTime: 2023-07-04T17:43:00Z
-    webUrl: "https://metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/"
-    ampWebUrl: "https://metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/04/now-anything-you-post-online-could-be-used-to-train-googles-ai-19066210/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 58
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/05/SEI151527065-0764.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
   - title: "The 3 Best AI Stocks Nobody’s Talking About Right Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have emerged as a top investment trend, driven by the increasing"
     publishedDateTime: 2023-07-07T11:58:00Z
@@ -116,20 +100,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Report: US to restrict sale of AI cloud services to Chinese companies"
-    excerpt: "The U.S. Commerce Department is reportedly readying new rules that would restrict American cloud providers from selling certain services to customers in China. The Wall Street Journal reported the development today,"
-    publishedDateTime: 2023-07-04T17:23:00Z
-    webUrl: "https://siliconangle.com/2023/07/04/report-us-restrict-sale-ai-cloud-services-chinese-companies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/cloud.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Understanding assessment in the age of AI"
     excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
     publishedDateTime: 2023-07-05T10:08:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/are-your-google-docs-safe-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "5 Artificial Intelligence apps you can use for your sports training and fitness"
+    excerpt: "AI in sports is gaining traction across the business, with applications ranging from post-game analysis to in-game activity and even the fan experience."
+    publishedDateTime: 2023-07-09T11:06:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 68
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Sports-AI-workout-app-fitness-trainer-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google Reveals Use of Public Web Data in AI Training"
     excerpt: "In a recent update to its privacy policy, Google has openly admitted to using publicly available information from the web to train its AI models. This disclosure, spotted by Gizmodo, includes services like Bard and Cloud AI."
     publishedDateTime: 2023-07-05T19:43:00Z

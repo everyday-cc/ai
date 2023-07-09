@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "6 best translator apps: How Artificial Intelligence can help break communication barriers"
+    excerpt: "If you find yourself in a place where you don't know the language, these smartphone translator apps will assist you in learning a different language, conversing in another nation, and more."
+    publishedDateTime: 2023-07-09T11:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/6-best-translator-apps-how-artificial-intelligence-can-help-break-communication-barriers-10928631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/6-best-translator-apps-how-artificial-intelligence-can-help-break-communication-barriers-10928631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/6-best-translator-apps-how-artificial-intelligence-can-help-break-communication-barriers-10928631.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 50
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/AI-breaking-communication-barriers.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "9XyNFgJX192XM8MdzrGSo2RruZPkWYMzYasJ15qmp4tNV9VBWikfm/AnY4m1IBn5YyOTMZ23z+F0hyhG7BUdSGGjljHBh9uA2Tojo31crTqNqpDp+Q+jOE0JUwwJQ+PGg25QlApKBoN4dUyDgtkD7sK136QwTwAHxaLx84TLMpdFTiScUi5lPQRtPgl3gF7rNb8DPE56NSYbzDWBSlu89I3wWv8q1tIgXgLXvS9LEOFf4u+N+zQe/mzoYo6NKgHQDLEtxJ+RP8PlXxPkiR5TwFAcPoxvat6R/Y6vSneWkUdenKAziGeBgkZ4ezotqUxBH3ZrjGQ6TVo49VsSybPcpdgy5JMhjAUD5MGqL3r7Ob4=;2qGdu6ckUN8a7kn4LzvxRQ=="
 ---

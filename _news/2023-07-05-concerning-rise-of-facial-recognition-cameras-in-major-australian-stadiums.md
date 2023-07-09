@@ -61,20 +61,6 @@ related:
         width: 2048
         height: 1360
         isCached: true
-  - title: "Pro-Indigenous Voice to Parliament campaign records 20,000 attendees at Australia rallies"
-    excerpt: "Thousands of Australians gathered on Sunday in support of the Yes vote for the upcoming Indigenous Voice to Parliament referendum later this year. The rally was organised by the campaign group"
-    publishedDateTime: 2023-07-04T19:01:00Z
-    webUrl: "https://www.jurist.org/news/2023/07/pro-indigenous-voice-to-parliament-campaign-records-20000-attendees-at-australia-rallies/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 30
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/09/Parliament_House_at_dusk_Canberra_ACT.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Facial recognition brings ‘human rights and privacy implications’ in major stadiums"
     excerpt: "Choice Consumer Data Advocate Kate Bower discusses the use of facial recognition in major Australian stadiums, saying the technology has some serious “human rights and privacy implications”. “We use our face prints now for example to access our phones,"
     publishedDateTime: 2023-07-05T02:55:00Z

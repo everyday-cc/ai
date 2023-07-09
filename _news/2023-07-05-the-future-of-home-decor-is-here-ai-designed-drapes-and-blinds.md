@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 803
     isCached: true
-
-related:
-  - title: "Work 2.0: How Artificial Intelligence Is Changing The Future Of Work"
-    excerpt: "How Artificial Intelligence is Changing the Future of Work(Amazon Kindle Cover) A New Book by Warren H. Lau, C.E.O. and Investo"
-    publishedDateTime: 2023-07-04T18:15:00Z
-    webUrl: "https://menafn.com/1106553214/Work-20-How-Artificial-Intelligence-Is-Changing-The-Future-Of-Work"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
 
 secured: "vXp9oZ+1Ep8fv769iRG6sGt26w/AfdGEC8ANNscb13/jshTUKYTsU9SnrpwIqVtSpGz0THMYPsUqFaCqehvcb08fVs83ZE+snVM2OeBGa1bdnTXUoiBmkQKp33sHSvhL6rVWOU2uKC880jDACxNIGV2phXq0v1HIRA0dIL2YdbkDatQJQRaGUmVgKy810ZRg3DbK/6ISDdebiZcyB+zi19go6po8LxAvIfOI6G0+JAh0GRHmpDwA4lAsDBr4/mqSXXvI+m8gSZoJBqQyCIworpY7RDobNO5mWjs02Fc0FBwsau1ioTy8sc6SaxjijRmZ7BLPGVStE7kmQGC81HfSVSkp7hW3MSfcf9hbFSZVhKA=;JDtY5z78gazpwMzd9SnIfQ=="
 ---

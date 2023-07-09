@@ -81,20 +81,18 @@ related:
       domain: fmiblog.com
     quality: 14
   - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
-    excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date"
-    publishedDateTime: 2023-07-07T07:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33144055/fintech-software-market-to-grow-at-cagr-of-8-82-from-2022-to-2027-north-america-estimated-to-accou"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33144055"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33144055"
+    excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"
+    publishedDateTime: 2023-07-07T07:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "N7wEY7Lw7kAXK/Wp5NnmdK+60JpFtW5b1kCOh2NAlgEG5vYzR5QesmeC0oymTemwc9NGv2iUPpnzJTZJU3+48BgR5qSY1ftfws5UL4WCrn/Ia6OrW3+qJNrfNxYqHJHUjXYNQzTP6fIygRun1TnrruRJuNkkT5GHzpTEQ+5VYfOk4WNc6X1iRRw+SSIyd1sF1HPWK3Cbh/klbZLRCiqS7bh1JSCQtmq5t2vjYjQMi8KXXTYIvSYSs0WS9khZiw4YxgYbs0vupfDK3ngLXQeluan1wj9LX886JS2mMY5xjgv89v0A4s8SHee6I/ddHyZi5VHYk/cSIhJdWxWcawj0CXMlM+94HctBIz80B5MLMNE=;XP8XJLvvsw6wc8i6Ne6LaA=="

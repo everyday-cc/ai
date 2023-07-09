@@ -77,15 +77,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Latest Trends In Fintech - A Comprehensive Analysis"
-    excerpt: "The financial technology industry , known as fintech, has experienced rapid growth and innovation in recent years. Fintech has revolutionized tradit"
-    publishedDateTime: 2023-07-04T18:11:00Z
-    webUrl: "https://menafn.com/1106553250/Latest-Trends-In-Fintech-A-Comprehensive-Analysis"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
   - title: "E-Gates Launches Fintech Solution for Digital Asset Management"
     excerpt: "Gates, a startup developing software solutions for fintechs, has launched its universal platform. Its flagship offering combines a unified solution for managing web2 and"
     publishedDateTime: 2023-07-06T09:01:00Z
