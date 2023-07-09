@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-09-in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry.md",
+      "title": "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry",
+      "excerpt": "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html",
+      "originalUrl": "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html",
+      "publishedDateTime": "2023-07-08T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-language-translation-nlp-spain.md",
       "title": "Language translation NLP - Spain",
       "excerpt": "Value in the Language translation NLP market is projected to reach US$80.08m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.70%, resulting in a market volume of US ...",
@@ -1165,24 +1210,33 @@
     {
       "path": "_news/2023-06-30-worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-for-user-authentication.md",
       "title": "Worldwide Voice Recognition Software Market to 2030: Increasing Demand for Voice Biometric System for User Authentication",
-      "excerpt": "DUBLIN, June 29, 2023 /PRNewswire/ -- The \"Global Voice Recognition Software Market by Type (Speech Recognition, Voice Recognition), Technology (Artificial Intelligence (AI) Based, Non-Artificial Intelligence Based), Industry, Deployment - Cumulative ...",
+      "excerpt": "DUBLIN, June 29, 2023 /PRNewswire/ -- The \"Global Voice Recognition Software Market by Type (Speech Recognition, Voice Recognition), Technology (Artificial Intelligence (AI) Based, Non-Artificial ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-worldwide-voice-recognition-software-market-2030-increasing-demand-/2023/06/29/9842031.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-worldwide-voice-recognition-software-market-2030-increasing-demand-/2023/06/29/9842031.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33065636/worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33065636/worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-f",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T11:50:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33065636",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33065636",
+      "publishedDateTime": "2023-06-29T11:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1332,49 +1386,6 @@
       "sourceUrl": null,
       "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/south-america",
       "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/south-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-speech-recognition-south-america.md",
-      "title": "Speech Recognition - South America",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$160.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.79%, resulting in a market volume of US$506 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-america",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-america",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

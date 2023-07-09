@@ -26,6 +26,22 @@ images:
 
 related:
   - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
+    excerpt: "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT."
+    publishedDateTime: 2023-07-09T01:59:00Z
+    webUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 84
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
     excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
     publishedDateTime: 2023-07-08T12:00:00Z
     webUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
@@ -34,6 +50,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 72
+  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
+    excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
+    publishedDateTime: 2023-07-04T16:30:00Z
+    webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 62
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
+        width: 390
+        height: 205
+        isCached: true
   - title: "IHiS to develop a secure ChatGPT for healthcare with Microsoft"
     excerpt: "Secure GPT is a custom-built common platform using Azure OpenAI Service that will enhance productivity for healthcare workers."
     publishedDateTime: 2023-07-07T10:22:00Z
@@ -45,6 +75,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 56
+  - title: "Ihis Inks Mou With Microsoft To Deepen Collaboration And Trailblaze Generative Ai And Cloud Innovation In Healthcare"
+    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcar"
+    publishedDateTime: 2023-07-08T11:32:00Z
+    webUrl: "https://menafn.com/1106571871/Ihis-Inks-Mou-With-Microsoft-To-Deepen-Collaboration-And-Trailblaze-Generative-Ai-And-Cloud-Innovation-In-Healthcare"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 48
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?522220"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Rubrik and Microsoft Announce Generative AI-Powered Cyber Recovery and Remediation"
     excerpt: "Rubrik Security Cloud, Microsoft Sentinel, and Azure OpenAI Service integration demonstrates how organizations can strengthen their cyber resilience and recover faster and more effectively from cybera"
     publishedDateTime: 2023-07-06T12:48:00Z
@@ -53,6 +97,15 @@ related:
     provider:
       name: Mint
       domain: livemint.com
+    quality: 28
+  - title: "IHiS Inks MOU with Microsoft to Deepen Collaboration and Trailblaze Generative AI and Cloud Innovation in Healthcare"
+    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcare. SINGAPORE – Media OutReach – 7 July 2023 – The Integrated Health Information Systems (IHiS) inked a Memorandum of Understanding (MOU) with Microsoft for deeper collaboration in generative AI and cloud innovation today."
+    publishedDateTime: 2023-07-07T02:14:00Z
+    webUrl: "https://www.macaubusiness.com/ihis-inks-mou-with-microsoft-to-deepen-collaboration-and-trailblaze-generative-ai-and-cloud-innovation-in-healthcare/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
     quality: 28
   - title: "Rubrik and Microsoft announce Generative AI-Powered Cyber Recovery and Remediation"
     excerpt: "Rubrik, the Zero Trust Data Security Company, today announced a joint collaboration to integrate Rubrik Security Cloud with Microsoft Sentinel and Azure OpenAI Service to accelerate cyber recovery through the use of generative AI and Natural Language Processing (NLP)."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 244
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2022/03/imageForEntry16-cPB.jpg?w=400"
         width: 400
         height: 224
-        isCached: true
-  - title: "ChatGPT Successors: Humanoid Robots, AI lawyers, AI-driven science"
-    excerpt: "There are several AI technologies waiting in the wings of next-level ChatGPT, including humanoid robots, AI lawyers, and AI-driven science."
-    publishedDateTime: 2023-07-04T07:57:00Z
-    webUrl: "https://greekreporter.com/2023/07/04/chatgpt-new-ai-technologies/"
-    type: article
-    provider:
-      name: Greek Reporter
-      domain: greekreporter.com
-    quality: 54
-    images:
-      - url: "https://greekreporter.com/wp-content/uploads/2023/03/AI-artificial-intelligence-machine-learning.jpg"
-        width: 1024
-        height: 819
         isCached: true
   - title: "A guy tried using ChatGPT to turn $100 into a business making 'as much money as possible.' Here are the first 4 steps the AI chatbot gave him."
     excerpt: "Jackson Greathouse Fall asked ChatGPT in March to turn $100 into \"as much money as possible.\" He ended the project a month later."

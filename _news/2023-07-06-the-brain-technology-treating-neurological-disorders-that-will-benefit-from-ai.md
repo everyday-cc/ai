@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-tech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Looking for Biotech AI Stocks? 3 Names That Will Benefit From the AI Boom"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI is coming to biotech in a big way. From protein folding to drug screening,"
+    publishedDateTime: 2023-07-09T00:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/looking-for-biotech-ai-stocks-3-names-that-will-benefit-from-the-ai-boom-1032433236"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
 
 secured: "JtfE73+5zRWA4bi3CzLTmLZUN9YSsmwk+6rwwQs+x4CDA4omBdr4FKP89ZiJqPwX6MlOUjQ+VY+7v4xEkzVyMILde/rOYRrAoWx6+n/9y22jX7gDako+jgL3d5tyLYHd4F0/dvgB6aGSZd8qlLOb4eR02/LXb49S2Olxc+KdHXCtZZtM8PJGU3UAnXpQZIyvBCd5vMn5/ME3h4iyvokP4A4/APeQ2l7DO2y1ZJQ+RQBUdLwFgcEbXGzGzUhHNmJhViSDIMmHjCb3+A0LDIhJhbyu52j6Dj+x90M5DSRGcrUf1jl7omtHzTF/v3oeZ/WL9AfPeAXJpQ1cK9UA2pA+MiJDbHF4b7n3q5qxW4DE0cpefLt6v1zLIpj6I52OmRISjWkKnqjPMzPxyPoESG9Mov0iOu/GUn6k/kgZuovmuFx+BlYuHWKytvJjEr7GbgwvowbOqllhpl29zTzro/Kx3nJ/OvaDg0y1z8dGLcTwNYXhyv9Zjm7tbD/FxLuqOsmw2ED8J9S5Q5qALy4d5xTlgQ==;9nYcqZybsikpfgCCSHhn2w=="
 ---

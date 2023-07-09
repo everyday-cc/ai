@@ -121,20 +121,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "ChatGPT Successors: Humanoid Robots, AI lawyers, AI-driven science"
-    excerpt: "There are several AI technologies waiting in the wings of next-level ChatGPT, including humanoid robots, AI lawyers, and AI-driven science."
-    publishedDateTime: 2023-07-04T07:57:00Z
-    webUrl: "https://greekreporter.com/2023/07/04/chatgpt-new-ai-technologies/"
-    type: article
-    provider:
-      name: Greek Reporter
-      domain: greekreporter.com
-    quality: 54
-    images:
-      - url: "https://greekreporter.com/wp-content/uploads/2023/03/AI-artificial-intelligence-machine-learning.jpg"
-        width: 1024
-        height: 819
-        isCached: true
   - title: "Are We Sick of AI Chatbots Already? ChatGPT Site Sees Traffic Dip"
     excerpt: "Interest in OpenAI's ChatGPT skyrocketed earlier this year, but the chatbot's growth now appears to be waning. Worldwide user traffic to ChatGPT’s website dropped 9.7% from May to June, according to traffic analytics provider Similarweb."
     publishedDateTime: 2023-07-05T19:08:00Z

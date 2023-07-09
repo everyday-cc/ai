@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/greatspeculations/2023/07/05/is-snowf
 webUrl: "https://www.forbes.com/sites/greatspeculations/2023/07/05/is-snowflake-a-buy-following-ai-deal-with-nvidia/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,34 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Japan Dreams of AI, Overtaking Nvidia and Universal Basic Income"
-    excerpt: "Japan is laying the groundwork to become home to some of the world’s top companies in artificial intelligence, the country’s Economy Minister Yasutoshi Nishimura told a group of University of Tokyo students Tuesday."
-    publishedDateTime: 2023-07-04T07:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-04/japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imlWQwojNL.U/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nvidia reportedly mulls outsourcing partial AI GPU production to Samsung"
-    excerpt: "Nvidia is reportedly mulling outsourcing a portion of its AI GPUs to Samsung Electronics for fabrication amid increasingly tight capacity supply from TSMC. Industry observers noted that Samsung could potentially secure some orders from Nvidia if its 3nm trial products pass performance validation and its 2."
-    publishedDateTime: 2023-07-05T06:48:00Z
-    webUrl: "https://www.digitimes.com/news/a20230705PD201/nvidia-ai-gpu-outsourcing-samsung-electronics-tsmc.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230705pd201_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Does Nvidia AI Stand for Artificially Inflated?"
     excerpt: "When Nvidia (NVDA) rallied to $400, it briefly fell below that only to continue its climb. The GPU server supplier expects billions of dollars in revenue in the next quarter alone. Is AI a real long-term growth play or does AI stand for artificially"
     publishedDateTime: 2023-07-05T13:30:00Z

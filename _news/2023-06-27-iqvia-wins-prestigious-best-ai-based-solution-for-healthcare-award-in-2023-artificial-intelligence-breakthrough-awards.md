@@ -1,20 +1,20 @@
 ---
 category: news
 title: "IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards"
-excerpt: "IQVIA ™ (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life science industry, today announced that it has been selected as winner of the \"Best AI-based Solution for Healthcare\" award in the sixth annual AI Breakthrough Awards,"
-publishedDateTime: 2023-06-27T13:44:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9839877.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839877.htm"
+excerpt: "NYSE:IQV) IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards"
+publishedDateTime: 2023-06-27T14:19:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2023/06/27/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023"
+webUrl: "https://stockhouse.com/news/press-releases/2023/06/27/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "QueC8AhKRM0pjDipmqBdBvxy4xrXWqURXv0at8fqydBaLsq9Qd3Q2aAO5cIPelvlMp/5DC5wNG6pR/+bnVr7YhifBe90XgNvBGhG/r6w46H1XeN56Dk0Qf/qt27Rtg2qQqTaU5HoiU3GRZcBzMWVmJQxBgrMM2SlFIsQ3+doG0Hjt03WwynWWTvBD+GHKRke4/WqOid5WIAvkRo42FDS6WjrMnTpLACJT5NcJT1+dIw2sDVBHJtN0bfQ2+Hkzd+5LvpCyEXgh5Ev5tmoX47U56AesyIc5ZJqsg1fxtOePlqdqC9XSxKKLOnaL9IaiMDAu8tn/vkmztLZMUMSjj+wXtotGCQz0j0Mth+FO3X7mCI=;d+6NkxZ87hQLnwhaYeSOyA=="
+secured: "2SzGdBS6DMqEd6X1WhkUK5Xn5cpNdF1KWTWmBkG3jRJdKnpSZAPLAXkf34D0j2jf7HfC9MU28fqDCPHMfCECQ0ssG0u1TJZuTj0TatmQYmKJIOLck2QDAjmGkoEilYaa2bJ10TXb6wqsrbP5FqrpfU0JBryZF3l+0AfDCL9iZZH4iIKIGG5HsWf+wsUVHhWT+oI7FISpNtyTM2kLDP8NOtqgxgEzL7gRQ8iDpeW0JfQE22uFUNdMl0X8XfVSxbgP8RwuPGEzATlwOhWO2scCeG3AVS9W/FR28qJHSiWtdo2fUhBxYxHgaeMxt6RZPb38bhyMOKbGMEpQXO4uYuuSDRmxJzeLNCnwIb5GfCCmsio+yWuTGGQei1JCH16gv11m48FBkRh5pGEohA5qOz7bJTWjK+DQC8Zg2wv8o8xZzJhxXQs8EdATPCp50RbgjpThp7cBRnECDzaGZRSK6/MYbgXsyo+gFFcF0jmkSaNWn45b2SQuSXPj+ARNC3WxXaxVGbvM92XweyzLGsok42Rh6w==;+U3JBGsCCUbBWVG7XjrXfA=="
 ---
 

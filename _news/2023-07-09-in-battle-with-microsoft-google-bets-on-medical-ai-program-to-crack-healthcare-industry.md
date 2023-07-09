@@ -1,45 +1,43 @@
 ---
 category: news
 title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
-excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
-publishedDateTime: 2023-07-08T12:00:00Z
-originalUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
-webUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
+excerpt: "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT."
+publishedDateTime: 2023-07-09T01:59:00Z
+originalUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html"
+webUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html"
+ampWebUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
 type: article
-quality: 72
-heat: -1
-published: false
+quality: 84
+heat: 164
+published: true
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI in Healthcare
   - AI
   - Microsoft AI
+  - Natural Language Processing
+
+images:
+  - url: "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
-    excerpt: "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT."
-    publishedDateTime: 2023-07-09T01:59:00Z
-    webUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
+    excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
+    publishedDateTime: 2023-07-08T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 84
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG"
-        width: 600
-        height: 337
-        isCached: true
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 72
   - title: "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform"
     excerpt: "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,"
     publishedDateTime: 2023-07-05T15:48:00Z
@@ -121,6 +119,6 @@ related:
       domain: webindia123.com
     quality: 28
 
-secured: "svOp9LfCNQlBY5O0klcXAqAM4PZYdQGgOmpGhHkvFXP87vHSPidhroZlicnkMsP4NbVsLYXh5UMzEsZSrHuNqD3FdqOItYSbAvivC7ARY9Ge8vFAA0AKv5aF6KP455WZuOprnmFCMgv3501IR2IC/FPxFNUhNEHVRxLQ6j+gZOnk9BWn3EOHLGvJn/gQZSlcFMWNo4p80ZN8nbuus4yCRdmKhEhhqyDlUZ2eJOAbnDtXpkeU4+6hanlEIqXo8e2Ze4j70bsOyRZmFMALow6Jy4MPfJxaOJRTcjLS5A2/MbKN80cc6AxP5U8q/jNY8dA6X+05eP32T9Xobw4b1BaGy1afPJKckqNFVFFBX5B4KdyIF8qFKObvvUkBK9Up9+OoU23hqlS7fDSl10P3QYqHjthLwNcDNYZR1oOOhnbYGc8VMN/01igPTPZOCgPjRHWYGUJO06wjUsplsc5KHw5i0vdABxZ2WMx5td4au+Yz77K5Q2Trj0pRcmjTNpZ8k8L6OA7QJQDcm28z9w9mAl0guQ==;mlWpAEwKRRMn2w3U831Y6Q=="
+secured: "bkE84K3WemNkZM+K8TlbZ3sA5R8SR8E5zCfinmAKwJGm/HhjweH0RIKwW94BzfTxzfbmoF82We6j3his1gE13R/ywlfdcwMxFmmdFnXpJauhM5ko6gXD6kwcE5Az30JL2OZBcLh7Nn/f4/uS+l+UNV0z/2w+8z+dfl4AQnHNo3alAAzGen+71ggnQ3BMU6DQehAMzVJS9n2QT1hnL5dxYkhkKeLjfl4ILdVHfPpqHhKXZI2Nth9w4oQMohmMtCtIRGqDYhh3xawrO4MJRO9/lJFo0sZVhZAHdbaoU+PjcHtnr0bIv6TdZGRbgG/B92U8azfOCe5euz7dDhhKZLgpT0KvaN2OQduzy4ITi8SV4Dc=;3L+Ji/gn4lhbfzkGkv40Ww=="
 ---
 

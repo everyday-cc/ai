@@ -25,86 +25,97 @@ images:
     isCached: true
 
 related:
-  - title: "TCS to train 25K staff on Azure, OpenAI Gen AI tools"
-    excerpt: "TCS also launched a generative AI business offering, called TCS Generative AI Enterprise Adoption, which will offer deployments of OpenAI’s generative AI business tools via the Azure platform to businesses."
-    publishedDateTime: 2023-07-06T16:46:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings-11688661860898.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
+  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
+    excerpt: "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT."
+    publishedDateTime: 2023-07-09T01:59:00Z
+    webUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
     type: article
     provider:
       name: Mint
       domain: livemint.com
-    quality: 74
+    quality: 84
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/06/600x338/-Mint-_1688661819003.jpg"
+      - url: "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG"
         width: 600
-        height: 338
+        height: 337
         isCached: true
-  - title: "TCS plans to train 25,000 engineers on Azure Open AI"
-    excerpt: "TCS said that it plans to significantly scale its Azure Open AI expertise and launch its new Generative AI offering for enterprises"
-    publishedDateTime: 2023-07-07T07:18:00Z
-    webUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954"
-    ampWebUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
+  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
+    excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
+    publishedDateTime: 2023-07-08T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 74
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 72
+  - title: "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform"
+    excerpt: "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,"
+    publishedDateTime: 2023-07-05T15:48:00Z
+    webUrl: "https://www.technologyrecord.com/article/abb-collaborates-with-microsoft-to-integrate-azure-openai-with-analytics-platform"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 64
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044335.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4444/Unsplash_ThisisEngineering-RAEng_web.jpg"
+        width: 975
+        height: 548
         isCached: true
-  - title: "Legal Blaze Hits OpenAI: Copyright & Privacy Battles Test AI Ethics"
-    excerpt: "Two authors, known for their works in science fiction and horror, claimed that the AI model could accurately summarize their books. This suggests that ChatGPT may have used their works unlawfully. OpenAI is also alleged to have collected images ..."
-    publishedDateTime: 2023-07-05T01:22:00Z
-    webUrl: "https://techreport.com/news/legal-blaze-hits-openai-copyright-privacy-battles-test-ai-ethics/"
+  - title: "IHiS to develop a secure ChatGPT for healthcare with Microsoft"
+    excerpt: "Secure GPT is a custom-built common platform using Azure OpenAI Service that will enhance productivity for healthcare workers."
+    publishedDateTime: 2023-07-07T10:22:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/ihis-develop-secure-chatgpt-healthcare-microsoft"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/ihis-develop-secure-chatgpt-healthcare-microsoft"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/ihis-develop-secure-chatgpt-healthcare-microsoft"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 56
+  - title: "Ihis Inks Mou With Microsoft To Deepen Collaboration And Trailblaze Generative Ai And Cloud Innovation In Healthcare"
+    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcar"
+    publishedDateTime: 2023-07-08T11:32:00Z
+    webUrl: "https://menafn.com/1106571871/Ihis-Inks-Mou-With-Microsoft-To-Deepen-Collaboration-And-Trailblaze-Generative-Ai-And-Cloud-Innovation-In-Healthcare"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 48
     images:
-      - url: "https://techreport.com/wp-content/uploads/2023/07/shutterstock_2318038065-scaled.jpg"
-        width: 2048
-        height: 1333
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?522220"
+        width: 375
+        height: 250
         isCached: true
-  - title: "TCS to Train 25,000 Engineers on Azure Open AI"
-    excerpt: "TCS on Thursday announced plans to significantly scale its Azure Open AI expertise and plans to get 25,000 associates trained and certified on Azure Open AI to help clients accelerate their adoption of this powerful new technology."
-    publishedDateTime: 2023-07-06T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/tcs-to-train-25000-engineers-on-azure-open-ai/"
+  - title: "Rubrik and Microsoft Announce Generative AI-Powered Cyber Recovery and Remediation"
+    excerpt: "Rubrik Security Cloud, Microsoft Sentinel, and Azure OpenAI Service integration demonstrates how organizations can strengthen their cyber resilience and recover faster and more effectively from cybera"
+    publishedDateTime: 2023-07-06T12:48:00Z
+    webUrl: "https://www.livemint.com/brand-stories/rubrik-and-microsoft-announce-generative-ai-powered-cyber-recovery-and-remediation-11687434659947.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/tcs-fy23-1.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "ABB and Microsoft Partner to Integrate Azure OpenAI Service into Genix Industrial Analytics and AI Suite"
-    excerpt: "ABB and Microsoft have announced an expanded partnership to integrate Azure OpenAI Service into ABB's Genix Industrial Analytics and AI suite. Th"
-    publishedDateTime: 2023-07-04T07:45:00Z
-    webUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/"
-    ampWebUrl: "https://news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/abb-and-microsoft-partner-to-integrate-azure-openai-service-into-genix-industrial-analytics-and-ai-suite/eu-press-release/2023/07/04/09/42/01/118281/?amp"
+      name: Mint
+      domain: livemint.com
+    quality: 28
+  - title: "IHiS Inks MOU with Microsoft to Deepen Collaboration and Trailblaze Generative AI and Cloud Innovation in Healthcare"
+    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcare. SINGAPORE – Media OutReach – 7 July 2023 – The Integrated Health Information Systems (IHiS) inked a Memorandum of Understanding (MOU) with Microsoft for deeper collaboration in generative AI and cloud innovation today."
+    publishedDateTime: 2023-07-07T02:14:00Z
+    webUrl: "https://www.macaubusiness.com/ihis-inks-mou-with-microsoft-to-deepen-collaboration-and-trailblaze-generative-ai-and-cloud-innovation-in-healthcare/"
     type: article
     provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 52
-  - title: "Republican AI staffers to watch"
-    excerpt: "Here's a look at some of the Republican staffers working to get legislation across the finish line. (We profiled top Democratic AI staffers here .) Young, a key player in CHIPS passage last year, was tapped again by Schumer to help write AI legislation. O’Brien and Cheever will be leading Young’s efforts."
-    publishedDateTime: 2023-07-05T17:55:00Z
-    webUrl: "https://www.axios.com/pro/tech-policy/2023/07/05/republican-ai-staffers-to-watch"
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 28
+  - title: "Rubrik and Microsoft announce Generative AI-Powered Cyber Recovery and Remediation"
+    excerpt: "Rubrik, the Zero Trust Data Security Company, today announced a joint collaboration to integrate Rubrik Security Cloud with Microsoft Sentinel and Azure OpenAI Service to accelerate cyber recovery through the use of generative AI and Natural Language Processing (NLP)."
+    publishedDateTime: 2023-07-06T23:13:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20230706/4096430.html"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 28
 
 secured: "IkOp6MkUvAdK0a0O+wejRADDO9/Gn3G4x97kGpiwcLzFAH0uMI2G5oNiam9kS9OW4u9p6Hk9Z2Wharva8krW26mGJ3mbE1XMkQO2cTu4TprXOAwoSfOS+2vCiR1mNG5/emxAOR+CpzRLGvXw3rLnOPXHzzLs2l9tUcaIHAispvpFfeIbTIAFV5YJAO19OK8QmwOGiJCCD5EhXKnf41tEJcsJKtYRkrBzP7MrVBeTW+ajWPk4aP3wOMZL9G3Ynpp4YgbdrJU0hSllisdDNpmbIztibeTe7jvX8LyQ9PW/pS4ka0nmjstpMDJoc/qN2Fh3XNXKsNBVUbhe7GebONGi/2uQT34EPbT5cmGLa2q8638cDQyBTJ+lAI42+kdEhvKVsxaQyIR3B63tBADphAgjZflZh2Uaz9xuWoDOXLEDr7eHR47pjm04DIylgLGtfVi56pAQsPXuWM0akTCI8P3a/MCRKvycLcEcKJ3SM786o7aX7tFKiR6KbPgituy2u7N2/ZI214xeicGKbIdcr9ivcA==;lNce5xq/2ARvmR65gdWp/w=="
 ---

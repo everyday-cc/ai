@@ -34,15 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Polymer \"Brains\" Could Advance Artificial Neural Networks"
-    excerpt: "Researchers have developed a technique for growing conductive polymer wire connections between electrodes to realize artificial neural networks that overcome the limits of traditional computer hardware."
-    publishedDateTime: 2023-07-04T08:33:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/polymer-brains-could-advance-artificial-neural-networks-375668"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 34
   - title: "Researchers grow bio-inspired polymer brains for artificial neural networks"
     excerpt: "The development of neural networks to create artificial intelligence in computers was originally inspired by how biological systems work. These \"neuromorphic\" networks, however, run on hardware that looks nothing like a biological brain,"
     publishedDateTime: 2023-07-04T11:44:00Z
