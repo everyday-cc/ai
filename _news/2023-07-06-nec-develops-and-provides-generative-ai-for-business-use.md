@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "3 ways businesses can ethically and effectively develop generative AI models"
+    excerpt: "Join top executives in San Francisco on July 11-12 and learn how business leaders are getting ahead of the generative AI revolution. Learn More President Biden is meeting with AI experts to examine the dangers of AI."
+    publishedDateTime: 2023-07-09T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/3-ways-businesses-can-ethically-and-effectively-develop-generative-ai-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_3_ways_businesses_can_develop_technology._Colorful_futu_5067db3c-a533-4f1b-aa1e-19214cd4e44f.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "V9OFl/LK63u0BaIV+VN42Hn3k3902H4imudBcoD05acorWcVEhGDJRYdFoS9wcuiDkcQqyjZFEPbo/mYPAVVf2qck8jRLm1H1qq8Fsh6qRNofj8y0sNk2nQyGcBoDTdBIFS4IxHMRyrFBfv/PwWGe6995qE2W4dVrq/Xgw4NQwzqM6k1n8nGYT6l3rzhZYOytZIPCrZ+cwdMJYoIPv93gHolX2x0YhyDmSAcOldYhhfRre4aBeeV2IhiTxGgLFitH92QmQJTzsm+RPYfn0BeW43ks140PEV8loeYUXEsvXCRASgVZIiqkkjbrG5SbifLEKDj6ZGtxFbFN4KjuBbiqNwLD8ZjEPvNy3+PgXIIKE4=;8+l88lxaCmE3iohClPY8OA=="
 ---

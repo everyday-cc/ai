@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
@@ -71,20 +72,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence (Ai) In Security Market: The Global Market Is Expected To Grow At A Cagr Of 13.20% During The Forecasted Period. X Herald"
-    excerpt: "As per the study initiated by Evolve Business Intelligence, Artificial Intelligence (AI) in Security market size accounted for USD 20.44 billion in"
-    publishedDateTime: 2023-07-04T21:26:00Z
-    webUrl: "https://menafn.com/1106553902/Artificial-Intelligence-Ai-In-Security-Market-The-Global-Market-Is-Expected-To-Grow-At-A-Cagr-Of-1320-During-The-Forecasted-Period-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/04/ADC_97d85175-a_Image_In_Body.jpeg"
-        width: 300
-        height: 254
-        isCached: true
   - title: "Consumer Robotics Market to Reach US$ 76 Billion, Globally by 2032 at 24.3% CAGR: Future Market Insights, Inc."
     excerpt: "The global consumer robotics market was worth US$ 8.7 Billion in the year 2022 and is expected to reach US$ 76 Billion by the year 2032 at a staggering CAGR of 24.3% between 2022 and 2032. An influx of smart homes all across is the factor majorly fueling the consumer robotics market and the scenario is expected to remain unchanged"
     publishedDateTime: 2023-07-05T03:12:00Z
@@ -95,6 +82,6 @@ related:
       domain: fmiblog.com
     quality: 14
 
-secured: "rP75FxP0a2QeskFmC7g6FAEsKLcHzZaDScmcGYGzIQyAPekVEDPUc4C9ofGZOykGMQ7wRLecIEdatMlL+gwUk94YYCq6HrNRF/QwNFde0FKVEpM5X2ffloLT8SX2hTqoLYovMhQ7DrnAM2Yb+e+0n4o5MjLrnexlBgdTuE/8D58Vcyo4/e6WdP91LfT1lbpDlffh6ngofXzssdsQyQ5PTwPNCR5GCJz0ZQ9l0Y3t45tTyuqgicAoQaV1i4yyt71zgwN1rJ8PRRBPbrcXY+uRb7oHDKAwsLdCK4cxKc14V3HxBDfXD7hGw7ttvDKPPZ5OX2JYOgh00fxV15pIMuKMWWSqZ5BdCwa+5ZRwVwcAe9A=;JvuKDBQrWl5bL606H2x7hw=="
+secured: "pqTCuJ2b30gmOJKfuH3Vzf0CWqm3Mdh5r2RYbACUSFUMOSc8lUurDqHW6RQafv4Pgm9tk61ibSd81AlDjASqE74aOWV1hPZqbppVgZNnGiPRBCdfFeXWHqBQctGlLVFmQb7Js1GCJjaiy53KKEQMbc4lbvkDIr1jMUcv8qRxZFCysR9vLx5wqKTfSx8YtpVJDXelb4K3W0AN1/6w0q3yinL7wQRPX1ALSvrH9kOoRCpW/RZf+bgSzSm2sMp1PiZU2WqUA2beVcIswIHUs6pEQJy5uj7Y+SwR77aPfcB2StE+syiJj5x996CxI20rnJaHOFhYcv6abDvR+HSCUUIemHUgBi3+rYZC2e6dwX/Upl65vl2GxRwR/tpKR2TPP+AJx3qGpi9pjyH7SpyWhtW8kGZxzJwSihQs8tdJnTqcaKlx2yUI4JR5xmseDyK9I62qik/DjwSJhGEdxQ+xjkD7c3tC67+FWrS1fCvqU+yhNszU/9L1qbt3NjyozYEbHIjNqvcy9ZBAQOBT0yhwhx8pFQ==;plvoge6RPHsyu2/oo6Pflg=="
 ---
 

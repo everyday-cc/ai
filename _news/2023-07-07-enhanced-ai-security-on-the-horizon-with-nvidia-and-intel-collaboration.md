@@ -58,6 +58,15 @@ related:
         width: 974
         height: 548
         isCached: true
+  - title: "Crypto And AI Innovation: The London Attraction"
+    excerpt: "Exploring London's Emergence as the Global Nexus of Crypto, AI, and Tech Innovation: Balancing Tradition, Regulation, and Disruptive Potential."
+    publishedDateTime: 2023-07-09T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/07/09/crypto-and-ai-innovation-the-london-attraction/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "aviuQ1ZCmb+bNDP+dVIYD+4Snmw9z/LuV3clkkzOrlPLA5pbZpf8xXj3q/k5e/L9VWy5LSdR2ZPJ9tPSmsspD8AO1UuJBr/PFq+5Lijk954xYZ4frt6rlU1EDLk64+GN7QsrS53O84312xezzKoKFbK1FBAc0eDnk0P1QcxvukIBWf/K85/EzK8jtyWpIij+t3YchS+yjzvSpIIhGRQDua1fn1X5NSECGue7Li4tBcxzSXJkGdcvlR3vZyZW0P+AzGUCwRUq67uVrVYoS+T0RdDMQT3SPN3k5YBRbG8rU+t3FZpGeuJHvhwyfDwlbgcATFN4BzIjgi5le9efR8IdVRhKheMNrF5GJHx3fjNtu/zdY31FRkJbbEdIZObzgfbj4GY5QS2v0FbKbuWMsr19aUzbfxjH7r7JrkXZorrV8zMGJfkdXEwsaQrD3D+v1N/UlSaoaeSWKwdD2lA49zcCQhL2UFyODgNO+0BkMvwl7KBDYmHpVQp/x/MuasjqqFcn6w1iat898+GWnLyUORUySw==;/4lbru1sE7DzIO3VeauYsA=="
 ---

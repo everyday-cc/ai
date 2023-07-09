@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Will Robotics Automation & AI Take Our Jobs?"
+    excerpt: "There's a big concern about robotics automation and artificial intelligence. We think it's a $150 trillion question: Will AI take our jobs?"
+    publishedDateTime: 2023-07-09T14:59:00Z
+    webUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/"
+    ampWebUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
+    cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
+    type: article
+    provider:
+      name: Banyan Hill Publishing
+      domain: banyanhill.com
+    quality: 89
+    images:
+      - url: "https://banyanhill.com/wp-content/uploads/2023/07/shutterstock_151615517-scaled.jpg"
+        width: 2560
+        height: 2560
+        isCached: true
   - title: "Is AI coming for our jobs? And does it have to WARN us?"
     excerpt: "For example, e-Commerce company Shopify has considered the use of AI translation tools to provide customer support in multiple languages, following employee layoffs earlier this year. (Madeline Stone, \"Shopify Asks its Customer-Support Staff to Test New AI ..."
     publishedDateTime: 2023-07-07T16:50:00Z

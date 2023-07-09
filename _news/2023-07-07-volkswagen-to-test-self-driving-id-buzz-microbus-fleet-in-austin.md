@@ -140,6 +140,15 @@ related:
       name: https//carbuzz
       domain: carbuzz.com
     quality: 4
+  - title: "Volkswagen to Start Testing Its Adorable Self-Driving Vans"
+    excerpt: "Volkswagen says it will start testing two of its self-driving ID Buzz electric vans in Austin by the end of July."
+    publishedDateTime: 2023-07-09T13:50:00Z
+    webUrl: "https://futurism.com/the-byte/volkswagen-testing-self-driving-vans-texas"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 4
 
 secured: "2n1Lt0RTFlKmWyAPHozL/HNZwDI6u0uJ8URxwpTkQDQiDggVCjijZKVX63R8i2l0ZcdMV59+2ypQtq9X41gALNn7BuzNbdV0fU2tWSwsXIvsgvwCAAMxMEVbexd0LwhDoVEYtad21PeXdukypX77Tb7YAWWFzV+itDrSK9jHb6wFwJAZhJFRZYv64KnIl55jyOZSa1O4G1rRDx/uvfqGMKD8vDtiUYMd3etZ+vNs5eoTrTw/EMHdVesewdBjCi2rX4dBKeoIeWTQn1hA6kzbnmvcVOjK0RWNH1DQ98Da0bpPg9uY7COF8Lw7d9lL8QZOk7K7UU/xw2nendgZRS/QMLWnUNC4gPlOeyy7Fj0HZnIbXE23OK5exU128qspiTYfVwUeCCrGxiaZo0jWdetk7tFt9msAaAlAR16pXBvbps/4wj/W7hoCiYGTPj1aneu42rBS4Evjrolg5b+oZMwOUdCtN/g9BoPms+9xOP+YeEH/QsiBR6aDzzK08TIrP3wKYeTZwDvdr3dPKVbFKo/q9g==;38rPQJhEHzH+NeadzGWhzA=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "65% Of Top AI Companies Have Immigrant Founders"
+    excerpt: "New research shows immigrants fuel artificial intelligence in America by founding many of the country’s top AI companies."
+    publishedDateTime: 2023-07-09T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/stuartanderson/2023/07/09/65-of-top-ai-companies-have-immigrant-founders/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "'AI is not something to fear': How these local companies use artificial intelligence"
     excerpt: "Regular use of AI is becoming more of a necessity for businesses. Here are examples of this with two Greater Lafayette companies."
     publishedDateTime: 2023-07-09T09:01:00Z

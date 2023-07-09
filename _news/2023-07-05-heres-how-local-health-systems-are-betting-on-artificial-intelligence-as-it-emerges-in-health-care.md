@@ -69,6 +69,20 @@ related:
         width: 293
         height: 514
         isCached: true
+  - title: "GE Healthcare survey: AI faces skepticism in the medical care business"
+    excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the U.S."
+    publishedDateTime: 2023-07-09T14:59:00Z
+    webUrl: "https://www.aol.com/finance/ge-healthcare-survey-ai-faces-150026709.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/4wlq8nqY2d9FStWQo6CVzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/916049f182d780a2b27a878f29944726"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Neko Health raises $65M for AI-powered preventative healthcare body scanner"
     excerpt: "Neko Health, which is named after the Japanese word for cat, was founded in 2018 by Daniel Ek, co-founder and chief executive of Spotify Technology SA, and Hjalmar Nilsonne with the intent to build a full-body scanner backed by AI that can detect common ailments."
     publishedDateTime: 2023-07-05T16:26:00Z

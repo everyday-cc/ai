@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Resolution on AI, emerging technologies intended to be timely statement"
-    excerpt: "With artificial intelligence becoming an increasingly hot-button issue and other technologies being developed at a rapid rate, representatives from the 2023 SBC Committee on Resolutions hope"
-    publishedDateTime: 2023-07-04T19:19:00Z
-    webUrl: "https://www.kentuckytoday.com/baptist_life/resolution-on-ai-emerging-technologies-intended-to-be-timely-statement/article_b8da44ba-1a9f-11ee-a90e-e3ecabe3db02.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 19
-
 secured: "HIKdbpc1MclOIALLhsumqLQ82apolEydk8HcCuVXdJBn+9TpP/eP3VHPnJ16zHfi6/uE4ngA7RtT/ZvttqUa/aP9pW5uco6NgXcYBHPOFXJdwiOdqPSI+BSSAWLUhoROa54U7f+9r+GlzMXrTHYqYVzVs/MbfANSchl8Z5kRNVdk3N2nsGPqGKKkYMhQ9oghz4Uv0JZO+nu15sbiAUfcMV0cVUPFrcg5VKQPN0vewGenlfZTaaSSH4VACu9YdDTCMmeLV8VfaMEpVdbh4hheb6zreSkvBmfSYRaqnI+Gw4UR+KmWQhnY7qEDsQH44NrLEL6DKcKkqx8RFyIOaHHemA+uoyTjSW3vsv3Lx65McYmoQ6tFvYJGTtJysomGL+WBsVWLo/hcH7ec0Najxk6xiF9kLXi01L3TQih9kUiWLeQXnRMbzSdrcMCb4vIh4Kj+WeAQ3MTjCegH1voXO5rxFbLlK2dgJjQcwagzy1nQET+WnyV1TFO1/z6j5FpOXXp78uzayUCfAN2vPmIqzRjaMQ==;g0HO8N4itRisehAJiV7HGQ=="
 ---
 

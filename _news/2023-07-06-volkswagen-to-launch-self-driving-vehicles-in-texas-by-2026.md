@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-l
 webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/"
 type: article
 quality: 54
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -143,6 +143,15 @@ related:
     provider:
       name: https//carbuzz
       domain: carbuzz.com
+    quality: 4
+  - title: "Volkswagen to Start Testing Its Adorable Self-Driving Vans"
+    excerpt: "Volkswagen says it will start testing two of its self-driving ID Buzz electric vans in Austin by the end of July."
+    publishedDateTime: 2023-07-09T13:50:00Z
+    webUrl: "https://futurism.com/the-byte/volkswagen-testing-self-driving-vans-texas"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
     quality: 4
 
 secured: "npQbJdHb2jSCFjgjExW7E1VL9kWdUNNC20Rl2JHnSMtJO2KHB//eNdsO9hRwhIsGExkX2lM0OUgoRhV/4T4UhMNrsWpiLrmmKgLlbS0HC4oCJ1jBpwhUXAd7KQDK+NYWleaJdFD/Rk6+q3l7GXEh9G7nI5+9GAf1c5hewPI9lFANJmJ7v+hq7iV71KDM+wvFwqjTecYIrI7JcvuSd96+1QCawwBqtv3gk4lu3nzovQEY3OGzgVbmMCym1RbE67dHqEyZ4oXC7MuEfirVx16nbposQwgXVdak1h14jwVKPdjTC8d+4QlmQx+DIIs4yA97ZtEcmd8H16lYLREkzwk9gV7uXoboQWUL0fDGkAiCxofVpexTAr/Q22L/Mu4kyBtpezO9MKCdBnHiDdBsp1By27PwYeQrEBgU/efYKyFSSnI59xrN63idLXrKpobtwnjGfFLyY3Z7i28CXMqdGrkDK7r6J2i3mC+31AVsU+kR3YECV+atDR5zsk25OYQBlafT5i+ZOT7V5AzoDHbzLGqSrw==;bxb3BKmec8go2QepoaBSKw=="

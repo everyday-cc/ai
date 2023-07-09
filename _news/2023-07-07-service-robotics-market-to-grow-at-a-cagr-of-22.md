@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33142292"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33142292"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Artificial Intelligence (Ai) In Security Market: The Global Market Is Expected To Grow At A Cagr Of 13.20% During The Forecasted Period. X Herald"
-    excerpt: "As per the study initiated by Evolve Business Intelligence, Artificial Intelligence (AI) in Security market size accounted for USD 20.44 billion in"
-    publishedDateTime: 2023-07-04T21:26:00Z
-    webUrl: "https://menafn.com/1106553902/Artificial-Intelligence-Ai-In-Security-Market-The-Global-Market-Is-Expected-To-Grow-At-A-Cagr-Of-1320-During-The-Forecasted-Period-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/04/ADC_97d85175-a_Image_In_Body.jpeg"
-        width: 300
-        height: 254
         isCached: true
   - title: "Consumer Robotics Market to Reach US$ 76 Billion, Globally by 2032 at 24.3% CAGR: Future Market Insights, Inc."
     excerpt: "The global consumer robotics market was worth US$ 8.7 Billion in the year 2022 and is expected to reach US$ 76 Billion by the year 2032 at a staggering CAGR of 24.3% between 2022 and 2032. An influx of smart homes all across is the factor majorly fueling the consumer robotics market and the scenario is expected to remain unchanged"

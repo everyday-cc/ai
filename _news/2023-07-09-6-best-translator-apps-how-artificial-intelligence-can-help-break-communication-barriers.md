@@ -8,7 +8,7 @@ webUrl: "https://www.moneycontrol.com/news/technology/6-best-translator-apps-how
 ampWebUrl: "https://www.moneycontrol.com/news/technology/6-best-translator-apps-how-artificial-intelligence-can-help-break-communication-barriers-10928631.html/amp"
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/6-best-translator-apps-how-artificial-intelligence-can-help-break-communication-barriers-10928631.html/amp"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.moneycontrol.com/static-mcnews/2023/07/AI-breaking-communication-barriers.jpg"
@@ -58,6 +59,6 @@ related:
         height: 640
         isCached: true
 
-secured: "7e2JUegsSpWIgfBBQakIH9164PN/lUFa2lvObBkzX6Ob5rjcmU2Rw24TYZY0sqT6dsXZFZkL4HMHM8t23ra1bjVWvW7d1eEldpcKXgrb+9Uwnlbsqen2lOa96Ohw7/fBjsnM16vimIDDhYPF8+sIkVAQiE6YY9UhK30fIyJzUmhAV1c3XrsLTOhD0xI2I7dl93sskjY7pAc9hTjsCZqo/P/6Hek8TEXeKrIbY/SHD9tQGWAhNku0c1b8zhuw9sBuPS7ScHSvB+282ljdVTrM8y91jXIWp7pAQnG8c/EmN0jMEvlcQHG2QQ8htdbrsrL32PX6d7+z/36uIk+7DCVnLkqPPQJka0ThKj/GHt47gnE=;bgkVvogh/+W3UmoTw1o0qw=="
+secured: "7Uc6v6xhBuR4Q1qCLYYj3xjgHpagHQjB/TsOEZGXhNhdMFA0xAZzcDzMbczdNV9K6NIp1wDq43eknECldg//YUZMzzRTQqf1bDupe9hJIOxywQwGMNyjKYEvV7U3bH5VHo2l9Houv1x0ZogTGEW1DdTqGztHWS1iEsafkzJzz8P6ixQcLM4fAiHwHlqqH84+D/Iavoyr86hZb007hUsvJ8gdVlC5w8HrfZJgY9F+iYLD90XY+Lzl06u8Rrlt5L+oa0riHdz3n3CtQ1leBzpAn74khDcrRhx/Q6+M208iAOjNc8WqbmSXFBB7p82m8rC0Yj/VcocRO+mk1mnLEOMi16mOGovgb0MKZjl2WuEn9xlEfHOgGx6DQt7eBuG+/NlBMFHE0SSW2M79e5sy//5AN/COFXu3uPRUhIF2sxQQE/BJqQmZctB6qGkgbdAnPoBh8mMB2UCMUFwNssKk7lvbZOo95ZFX73dq8g9ZPUY+eHJ5aKs1EDoBy2NWjouZt8vjZt96aKHcgVVDaS8Zs3xGEA==;lwC3QWg1O+Q1YP1mT9bIag=="
 ---
 

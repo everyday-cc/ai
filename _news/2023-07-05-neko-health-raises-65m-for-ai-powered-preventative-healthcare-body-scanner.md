@@ -69,6 +69,20 @@ related:
         width: 293
         height: 514
         isCached: true
+  - title: "GE Healthcare survey: AI faces skepticism in the medical care business"
+    excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the U.S."
+    publishedDateTime: 2023-07-09T14:59:00Z
+    webUrl: "https://www.aol.com/finance/ge-healthcare-survey-ai-faces-150026709.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/4wlq8nqY2d9FStWQo6CVzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/916049f182d780a2b27a878f29944726"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI in Health Care: Regulatory Landscape & Risk Mitigation"
     excerpt: "Health care, like most industries, is grappling with the proliferation of artificial intelligence (AI) and the novel risks and benefits it presents. Balancing these risks and benefits can be especially challenging for attorneys, as the laws and regulatory ..."
     publishedDateTime: 2023-07-06T23:50:00Z

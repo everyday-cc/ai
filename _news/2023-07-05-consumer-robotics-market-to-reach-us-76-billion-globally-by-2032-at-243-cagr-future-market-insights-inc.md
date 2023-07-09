@@ -65,20 +65,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence (Ai) In Security Market: The Global Market Is Expected To Grow At A Cagr Of 13.20% During The Forecasted Period. X Herald"
-    excerpt: "As per the study initiated by Evolve Business Intelligence, Artificial Intelligence (AI) in Security market size accounted for USD 20.44 billion in"
-    publishedDateTime: 2023-07-04T21:26:00Z
-    webUrl: "https://menafn.com/1106553902/Artificial-Intelligence-Ai-In-Security-Market-The-Global-Market-Is-Expected-To-Grow-At-A-Cagr-Of-1320-During-The-Forecasted-Period-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/04/ADC_97d85175-a_Image_In_Body.jpeg"
-        width: 300
-        height: 254
-        isCached: true
   - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
     excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"
     publishedDateTime: 2023-07-07T07:18:00Z

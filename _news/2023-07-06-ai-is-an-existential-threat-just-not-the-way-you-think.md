@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 19
+  - title: "Guest opinion: Nir Eisikovits: AI is an existential threat – just not the way you think"
+    excerpt: "AI is not going to blow up the world. But there is an existential danger inherent in using AI. That risk, though, is existential in the philosophical rather than apocalyptic sense. AI in its"
+    publishedDateTime: 2023-07-09T12:00:00Z
+    webUrl: "https://www.dailycamera.com/2023/07/09/guest-opinion-nir-eisikovits-ai-is-an-existential-threat-just-not-the-way-you-think/"
+    type: article
+    provider:
+      name: Daily Camera
+      domain: dailycamera.com
+    quality: 11
 
 secured: "yWzKWHqBpGQXmHZs5Dpst7mciCHrpli0UdoYqR/W/7CE0pJ7mQvYBrKoJdtoMXxExZ+aBtrvbXE8i7/xS21O06aqh5ih6am/h0Q00bE1OImpV22dLmpZhXg3J7fx+GYBUrsu//PMLvd6OpfR1iK5vqLpet62n9rv3rFP1T9ujkEJ1wRh/PgaEd8PeVzrhBNcExal5ut1xNkOE7wVxkuDxdRgFoMFLJJvS7dxdHCzj4vFoYZRRRl/Bf6/q/Pzz/AJRKBImyFSvNlMVGI+fVOKbd1DuqEqccpg5c6i3MmEbYKmmpf66HsFh0xzHxsimvGR6LeSWCqjw+3OyFRrk05CbMA4JfQYtlZ4ZCBbo31C67tyl6wSNzDp3MKv3f6fAzc4ht2QN8H/RkDukozL/cOUnCB0Snz4s3kEG4tq8y/JWy3Ig+B3FMmyAceKKzMWoVx/XRA1E0rLM64Yeh8z8FRQAKHIpcpeTTI/mHu94dedcAqRzA8LsLZ01RyYEVCGkW2lS768Y8Xro3IF7e3b10qDnA==;ydtXK/7KaH2VYq8h0hE5qw=="
 ---

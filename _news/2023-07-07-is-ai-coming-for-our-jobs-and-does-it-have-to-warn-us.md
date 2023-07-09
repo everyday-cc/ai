@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/is-ai-coming-our-jobs-
 webUrl: "https://www.reuters.com/legal/legalindustry/is-ai-coming-our-jobs-does-it-have-warn-us-2023-07-07/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Will Robotics Automation & AI Take Our Jobs?"
+    excerpt: "There's a big concern about robotics automation and artificial intelligence. We think it's a $150 trillion question: Will AI take our jobs?"
+    publishedDateTime: 2023-07-09T14:59:00Z
+    webUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/"
+    ampWebUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
+    cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
+    type: article
+    provider:
+      name: Banyan Hill Publishing
+      domain: banyanhill.com
+    quality: 89
+    images:
+      - url: "https://banyanhill.com/wp-content/uploads/2023/07/shutterstock_151615517-scaled.jpg"
+        width: 2560
+        height: 2560
+        isCached: true
   - title: "Is AI Coming to Take Your Job?"
     excerpt: "AI is now so commonplace and all-encompassing that there are now AI assistants that will map out your daily schedule, and make changes depending on what you do and don’t get done on any given day. This means you aren’t even controlling your schedule anymore;"
     publishedDateTime: 2023-07-05T07:21:00Z

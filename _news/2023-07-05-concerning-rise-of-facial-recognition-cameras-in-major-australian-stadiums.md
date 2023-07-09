@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition technology in use at major stadiums across Australia"
-    excerpt: "The collection of sensitive biometric data is happening at stadiums across the country, with affected consumers largely left in the dark."
-    publishedDateTime: 2023-07-04T21:41:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 39
-    images:
-      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
-        width: 700
-        height: 390
-        isCached: true
   - title: "Major Aussie stadiums using facial recognition technology"
     excerpt: "S﻿ome of Australia's major stadiums are using controversial facial recognition technology often without spectators' knowledge or consent. Added an hour ago"
     publishedDateTime: 2023-07-05T07:18:00Z
@@ -47,38 +33,20 @@ related:
         width: 1080
         height: 607
         isCached: true
-  - title: "UK and Australia law enforcement facial recognition projects under public microscope"
-    excerpt: "The UK police in Northern Ireland are debating facial recognition and biometric data retention rules, with some stakeholders calling for more transparency."
-    publishedDateTime: 2023-07-07T15:54:00Z
-    webUrl: "https://www.biometricupdate.com/202307/uk-and-australia-law-enforcement-facial-recognition-projects-under-public-microscope"
+  - title: "Big Tech: Meta launches its Twitter rival, Twitter limits user posts and sports stadium using facial recognition tech"
+    excerpt: "Mark Zuckerberg's Meta has launched Threads, a rival to Twitter, with the app seeking to draw users away from Elon Musk's embattled platform.  The release was brought forward by 15 hours and is now freely available in 100 countries – including Australia."
+    publishedDateTime: 2023-07-06T06:52:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/drive/big-tech-twitter-rival-facial-recognition-/102572324"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 16
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg"
-        width: 2048
-        height: 1360
+      - url: "https://live-production.wcms.abc-cdn.net.au/856fa140f3fa9047032436204be8b4ed?impolicy=wcms_crop_resize&cropH=2228&cropW=3961&xPos=0&yPos=186&width=862&height=485"
+        width: 862
+        height: 485
         isCached: true
-  - title: "Facial recognition brings ‘human rights and privacy implications’ in major stadiums"
-    excerpt: "Choice Consumer Data Advocate Kate Bower discusses the use of facial recognition in major Australian stadiums, saying the technology has some serious “human rights and privacy implications”. “We use our face prints now for example to access our phones,"
-    publishedDateTime: 2023-07-05T02:55:00Z
-    webUrl: "https://www.news.com.au/national/facial-recognition-brings-human-rights-and-privacy-implications-in-major-stadiums/video/91b933546c100981f18cc16a019e951f"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 13
-  - title: "Yes campaign turns to everyday Indigenous Australias ahead of voice to parliament vote"
-    excerpt: "These are the faces of everyday Indigenous Australians that the Yes campaign will increasingly lean on to encourage support of the voice to parliament referendum."
-    publishedDateTime: 2023-07-06T23:50:00Z
-    webUrl: "https://www.news.com.au/national/politics/yes-campaign-turns-to-everyday-indigenous-australias-ahead-of-voice-to-parliament-vote/news-story/d209c3143df825403b0d46654d1ca946"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 11
 
 secured: "ZrTxVwjabGMjhujGo9ueU6lU7a2VJ3P3RjRL1nZEgxmN6xUtBY4IpnarQ+Qy1IVkHUuvXSTRCpFL5Ekdl6Ktg7Gbzf9yrEVl52MqR8ZtEsqf3Dk1CfWjgHBSYWpyQXc33HkTUeDbgVtO2gkUkWXGUaphgPVWjgIhhmEt/073RJwcjx1b8tN6rIZKhnl9kazl1ty38N1VvnLzS5w2rItJ6A8gwBnfYgY8mfTi/KTgJcjl7nhKE5UM3cHISpMFSv4nuUULY3yaXpqglfG7iTUSCB7eM3j8tUTTKQ4SS6MTyywHBxwpWNbjy+POA32DPxykmXGhHCOOFmpJJcciEeg+3nINVfmGJFrKU1P3YuEYsf3P1nHjVvIMwkVOhxJhJ9fK6TnGmLn4mhSafNnbk8imFD8ovQrmpn9L8TiY2tutncQici9VKEbRoqCF1jH8uRn17v0Hf5Su/i5E/wa3YsK7M1imrHp7/KVphGFU8Egk7cLC+SEIrEWZc2PUhO2q9UvQg9PAPnyAyQqCS40OkGbLaQ==;OeRg2XLUBewAXANcIarBTw=="
 ---

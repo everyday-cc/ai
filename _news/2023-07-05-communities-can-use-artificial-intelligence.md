@@ -50,7 +50,7 @@ related:
     provider:
       name: moneycontrol.com
       domain: moneycontrol.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/07/AI-breaking-communication-barriers.jpg"
         width: 1280

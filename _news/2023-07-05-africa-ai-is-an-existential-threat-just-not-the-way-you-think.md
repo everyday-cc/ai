@@ -64,6 +64,15 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 19
+  - title: "Guest opinion: Nir Eisikovits: AI is an existential threat – just not the way you think"
+    excerpt: "AI is not going to blow up the world. But there is an existential danger inherent in using AI. That risk, though, is existential in the philosophical rather than apocalyptic sense. AI in its"
+    publishedDateTime: 2023-07-09T12:00:00Z
+    webUrl: "https://www.dailycamera.com/2023/07/09/guest-opinion-nir-eisikovits-ai-is-an-existential-threat-just-not-the-way-you-think/"
+    type: article
+    provider:
+      name: Daily Camera
+      domain: dailycamera.com
+    quality: 11
 
 secured: "QRxg3fywXnoOUZIkw1i2S3LlLKn0BAHUGSUmMZ2fwKO60YuxipvJoDCrxU8Tu0PkTdNKLlvHB+1e7BgORTKs+59Ty+p9sjZpeWCnIAKky1ZRt0vF3hcimlFvetF7Zcd2emIYLgo+K8RU5/76ht8eFld7G14gpTtQu1i+FrTrrIiNjSPS1FtQRTwU7NuEsFAbIV5ywKWgwPWiUL06x3Ad++1nbWQuTU2s/wivCs4Be+C5gwoWAdv3BD+XZ+2rEh3p+F1NJrl9Io1U9gvaiRCkcASoj7SDyDgxvsy6aFnJ67n4gXtDwsh8BRPS6bo8XCEg9zvWuho8DKpjBALosRZwWyS8Ma20Vd3tfyl3y9IKyPA=;LiRAGsfokPlLls23/kmYug=="
 ---
