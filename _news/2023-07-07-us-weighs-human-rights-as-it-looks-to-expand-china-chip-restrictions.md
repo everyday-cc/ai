@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "China retaliates to US chip restrictions with export controls on vital tech metals gallium and germanium"
-    excerpt: "As reported by Bloomberg, China's Ministry of Commerce said in a statement yesterday (Monday) that as of August 1, the exporters of gallium and germanium, as"
-    publishedDateTime: 2023-07-04T15:38:00Z
-    webUrl: "https://www.techspot.com/news/99286-china-retaliates-us-chip-restrictions-export-controls-vital.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 52
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2022/08/2022-08-16-image-16.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
 
 secured: "qd1CBzYQxeSV30ITbqmnyf9TRAEa0fK8ns+itGowzqUblsxrlwd3f23p6nqHSZIn75wtrbtE9NsSVzhKYGz0jRq1DmOyKiJE3oEZ4abp+kBERfJPJUPcKM4UciSaKu9230jgAPGt8b6RNgjmPweyoAkq67+ijSzmak5R2RdrlXRKtijdEvrIsdwqYyzx1cMetIyY6Arl3lQal+FoN9OdQFuZPNqq4TCQbOBLvb7Bh/+qMiMdHPZVUtio+ZUba2hbhIBh3uJupZ8sqDchkJKDAz1orCFAxig1gpr/B1rJbRJTDeJbMUev6MrQOmW+rXb3wqhknYxtbWtY2xU6qHlEruXusUs1WM+kwFDEc40ZUPHHRg99qb1jBjxO0LQwhdyDQMp3LDGv5vquzouB+W1Zc1UV2686nvPLZwWutEgAbXDeRmGxOYvw6/VeiYdsQ+jRI/r+qFGDhOHidMoQD+rAuDKm9R8bSjdSieIQh40tgXL5+eeXzDPJpBMnnEWtvOnABQsCk8d6YqneMLXxNHVSZg==;ORYGh37lPuZEAHHljKTFLw=="
 ---

@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-09-in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry.md",
+      "title": "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry",
+      "excerpt": "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html",
+      "originalUrl": "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html",
+      "publishedDateTime": "2023-07-08T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models.md",
       "title": "IBM Watsonx Empowers Businesses To Build, Tune And Deploy Reliable Generative AI Models",
       "excerpt": "Watsonx is IBM's next-generation AI platform for building and tuning foundation models, generative AI and machine learning systems. The platform contains a studio, data store and governance toolkit. Additionally,",
@@ -145,6 +191,49 @@
       "topics": [
         "IBM AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-this-ai-system-only-needs-a-small-amount-of-data-to-predict-molecular-properties.md",
+      "title": "This AI system only needs a small amount of data to predict molecular properties",
+      "excerpt": "Discovering new materials and drugs typically involves a manual, trial-and-error process that can take decades and cost millions of dollars. To streamline this process, scientists often use machine learning to predict molecular properties and narrow down the molecules they need to synthesize and test in the lab.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-07-ai-small-amount-molecular-properties.html",
+      "originalUrl": "https://phys.org/news/2023-07-ai-small-amount-molecular-properties.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/learning-the-language.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-07-ai-small-amount-molecular-properties.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-ai-small-amount-molecular-properties.amp",
+      "publishedDateTime": "2023-07-07T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -1094,8 +1183,8 @@
       "title": "Here's the Only AI Stock on the Market With a Dividend Yield of 5%",
       "excerpt": "In 2011, IBM Watson made headlines by beating Jeopardy! champions Ken Jennings and Brad Rutter. IBM continues to invest heavily in AI development today. The company recently announced several new ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/18072909/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/18072909/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5/",
+      "webUrl": "https://www.nasdaq.com/articles/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5",
+      "originalUrl": "https://www.nasdaq.com/articles/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1105,11 +1194,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T02:57:00-07:00",
+      "publishedDateTime": "2023-06-28T03:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1243,100 +1332,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-27T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation.md",
-      "title": "Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation",
-      "excerpt": "Learn how Yanfeng Auto works with advanced technology and technical experts to accelerate its own data-driven digital transformation.\nThe post Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/",
-      "originalUrl": "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T11:52:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-how-resilient-is-your-data-in-the-cloud.md",
-      "title": "How resilient is your data in the cloud?",
-      "excerpt": "IBM Storage Protect for Cloud ensures that your data has been scanned for threats and that a clean copy of that data is safely backed up.\nThe post How resilient is your data in the cloud? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-resilient-is-your-data-in-the-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/how-resilient-is-your-data-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/chileargentina_194_getty_getty.xl_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:43:56-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Grammys CEO on new AI guidelines: Music that contains AI-created elements is eligible. 'Period.'"
-    excerpt: "In June, the Recording Academy announced a series of changes to the forthcoming Grammy Awards to better reflect an evolving music industry, including new AI protocols."
-    publishedDateTime: 2023-07-04T16:59:00Z
-    webUrl: "https://www.clickondetroit.com/entertainment/2023/07/04/grammys-ceo-on-new-ai-guidelines-music-that-contains-ai-created-elements-is-eligible-period/"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 26
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2I2VVISS6ZAYFEDVMPWSIIIJVI.jpg?_a=ATAPphC0"
-        width: 700
-        height: 465
-        isCached: true
 
 secured: "h6jqiKXz7hzXkDQWjFBMnwPLGuEx9Klx+YAyjIbYnuWKGXzEQqKxquW2asph9lEwJJ7xS80XRdxNfxPoeH0ZKbOCIV62SsZrqDB8qdRaZDtbSKchSAcPgjU6w8SoMxiRdDMEXnkVhHUUfn4udbBciy1DdLvfAhyWcTH/m3GSV/vVnXvmAW2bzXKqGLIk1QuTl3QA0DCG8aR69bx7Q7d7njSfJwaUm25jz2NN06RUYMuvzNvl01YZDtUc287IK7AVjMRbJgegvKFP1Xj/bjDyrkaJGfvY+Tzagv7yHl+Tu9mRL06T87eegKtiznE803Hz1PG5ttR4Zlme+l+Xgvgil6bXHrIoVGyRzZjpzY7RysePx0NlXgnHI/FYjjd6M/i8y1PWC/jDuaRHUokJflCAAgxHFW2kyfCPCkrK6vGUlbn9YuC0vU6vITaaVzqqq1YhSJxSX/jiCYN5g3xbY7vh29IU9BYJ32Np6XQ2CHtiwuuO5C9LjY+Tfj/VZGNNxPXj4xjYFRYlbN/9g3Dd7TWCvg==;H2vM+fcuq3bz+fPRSpvPvg=="
 ---

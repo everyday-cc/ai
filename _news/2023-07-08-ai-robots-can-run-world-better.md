@@ -3,8 +3,8 @@ category: news
 title: "AI robots can run world better"
 excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
 publishedDateTime: 2023-07-08T16:00:00Z
-originalUrl: "https://manilastandard.net/news/314348091/ai-robots-can-run-world-better.html"
-webUrl: "https://manilastandard.net/news/314348091/ai-robots-can-run-world-better.html"
+originalUrl: "https://manilastandard.net/news/top-stories/314348091/ai-robots-can-run-world-better.html"
+webUrl: "https://manilastandard.net/news/top-stories/314348091/ai-robots-can-run-world-better.html"
 type: article
 quality: 54
 heat: -1
@@ -28,7 +28,7 @@ related:
   - title: "AI robots could play future role as companions in care homes"
     excerpt: "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it."
     publishedDateTime: 2023-07-06T16:00:00Z
-    webUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/"
+    webUrl: "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ"
     type: article
     provider:
       name: Reuters
@@ -102,6 +102,6 @@ related:
         height: 573
         isCached: true
 
-secured: "ygLQbrQvHRMP3er9Dmmqo80OveKHZmzIoXKGwEeW/zzyJXc7eTRqPajPbTGMH4TKFbSOZ5ZofaM3WiQBQXQ7Eh/qd6h88FAhfV3AVcMFtwIMBuXG5szLvSECyeBVLDQ/EHTjWrIKAbePsKsioMVzmiZe5VX11v90dO+ypSWyiHlxXYEONUf2u59TTKKZ+/zALpMdAeTD6O71s34YtclVttx+akkKvRMdzaQei+CaPuFnj35I3BCr4t0K4xjD1Rbb2dWcV7VzqxcR4rudJNrJfUzTuD8pnYAxcSxoUH5+6V970sVoJNJY44nve59PlvH27+/5k7EfP5KIZ8CXXr5gsc3EjbVhHsDxogUjIXCXZIy0XsLCx9iv+a1WRayLleoA0EqyBTRKSJUzoOxO6BX0qGQ2nhml52sdSMfmgR/uYS64JfqO1hYg0AAWTim4DyMAPb9AC4umbLvb/Hy8VWEmWTBZt4CqKTLKf/cuOo3zDW1DIRQHbjjow4atBQYyfnFzyGTkjjGmfcOTitSGSxXm+A==;BucXJ387Ni1E2ZOVD5Ag6g=="
+secured: "PMZJdZNEB/63mZ8cXULWKvPr06VnFmf82tIxEZZ2J4BStxjlVk3hdf/9558zJjznEva4Gl7cpksh3+iZm+BEOKB41/dvBI2LfinzPYwY3daN6NEaXIxBnFUpFc0Ni5FdKPCczeismoKXClYwywqwGpejfh3kq2mWtTSLXc2//JDsXaurzBD46cL3Brtbj2vJuOOSjoWt3XK6ncH2ASmwCKBb7MKg5Nj7P7Hb+OhWWmq3eB7wqLjg+Puhulf1unqP97upA3fukmtemsBorClRcL3wF2MsjolJQi9IOHABkX56Py0DQBj89UUZwhnWLwiF0/HJ+nWpEM2dOtgGgyIqpepyKQu8jYQXW/sJAx1K6YU=;4/BEWYgznTOO7EGIknvedw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/994460"
 webUrl: "https://www.eurekalert.org/news-releases/994460"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -19,75 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "China tech startup launches humanoid robot at Shanghai AI event"
-    excerpt: "Fourier Intelligence, a Chinese tech startup specializing in rehabilitation robotics and artificial intelligence, on Thursday unveiled its first-generation humanoid robot at the ongoing World Artificial Intelligence Conference in Shanghai."
-    publishedDateTime: 2023-07-06T09:07:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html"
+  - title: "Center for Ophthalmic Artificial Intelligence and Human Health opens door for new, advanced treatment options"
+    excerpt: "The Icahn School of Medicine at Mount Sinai opened the Center for Ophthalmic Artificial Intelligence and Human Health, which is dedicated to advancing artificial intelligence to offer faster diagnosis and treatment."
+    publishedDateTime: 2023-07-06T23:00:00Z
+    webUrl: "https://www.ophthalmologytimes.com/view/center-for-ophthalmic-artificial-intelligence-and-human-health-opens-door-for-new-advanced-treatment-options"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
+      name: ophthalmologytimes
+      domain: ophthalmologytimes.com
+    quality: 20
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202307/06/64a67cc9a310bf8a1d238e8a.jpeg"
-        width: 607
-        height: 404
-        isCached: true
-  - title: "Chip War May Thwart Shanghai Plans To Build Ai Hub"
-    excerpt: "The Shanghai government is stepping up its efforts to attract artificial intelligence (AI) talent and investments and improve regulations with the o"
-    publishedDateTime: 2023-07-07T00:08:00Z
-    webUrl: "https://menafn.com/1106566860/Chip-War-May-Thwart-Shanghai-Plans-To-Build-Ai-Hub"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/06/AT_14e18image_story.jpg"
+      - url: "https://cdn.sanity.io/images/0vv8moc6/ophtalmology/8747956a11fdc549c09ca544ab94ee4f890371a4-1200x763.jpg?fit=crop&auto=format"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "China's Fourier Intelligence Debuts General-Purpose Humanoid Robot at World AI Conference"
-    excerpt: "Fourier Intelligence, a Chinese tech company specialized in rehabilitation robotics and artificial intelligence, unveiled its first-generation humanoid robot at the 2023 World Artificial Intelligence Conference in Shanghai."
-    publishedDateTime: 2023-07-06T04:08:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230706-04-chinas-fourier-intelligence-debuts-general-purpose-humanoid-robot-at-world-ai-conference"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 47
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/07/27259387228869.jpg"
-        width: 770
-        height: 510
-        isCached: true
-  - title: "World AI talks start"
-    excerpt: "The 2023 World Artificial Intelligence Conference (WAIC) commenced in Shanghai yesterday under the theme “Intelligent Connectivity: Generating the Future.” Scheduled to run until tomorrow, the conference comprises four key sections: conference and forum,"
-    publishedDateTime: 2023-07-06T22:46:00Z
-    webUrl: "https://www.herald.co.zw/world-ai-talks-start/"
-    type: article
-    provider:
-      name: The Herald-Zimbabwe
-      domain: herald.co.zw
-    quality: 39
-    images:
-      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2020/02/20180626210156-GettyImages-917581126.jpg"
-        width: 680
-        height: 380
-        isCached: true
-  - title: "Amid industry boom, dozens of AI products debut at Shanghai AI conference"
-    excerpt: "SHANGHAI, July 7 (Xinhua) -- With China's artificial intelligence (AI) boom, dozens of related products are making their global debut at the World Artificial Intelligence Conference (WAIC) 2023 in Shanghai."
-    publishedDateTime: 2023-07-07T12:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273891467/amid-industry-boom-dozens-of-ai-products-debut-at-shanghai-ai-conference"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 38
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1688618124767.jpg"
-        width: 630
-        height: 420
+        height: 763
         isCached: true
   - title: "Mount Sinai Establishes Center for Ophthalmic AI and Human Health"
     excerpt: "New Mount Sinai center aims to revolutionize AI in ophthalmology and advance research into the relationship between eye diseases and other conditions."

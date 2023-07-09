@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "At a UN Summit, AI Robots Just Said That They Could Run the World Much Better Than Us"
+    excerpt: "Ever wondered what a group of robots would say about humans in a press conference? Well, you don't need to wonder anymore. At a United Nations summit earlier this week, a panel of artificial intelligence (AI)-powered humanoids just banded together to tell us a thing or two about the future of AI technology."
+    publishedDateTime: 2023-07-09T09:30:00Z
+    webUrl: "https://www.esquiremag.ph/culture/tech/artificial-intelligence-humanoid-robots-united-nations-ai-summit-a00203-20230709"
+    type: article
+    provider:
+      name: esquiremag
+      domain: esquiremag.ph
+    quality: 47
+    images:
+      - url: "http://images.summitmedia-digital.com/esquiremagph/images/2022/07/29/shutterstock-235214128-1-1656294336.jpg"
+        width: 970
+        height: 546
+        isCached: true
   - title: "AI robots at UN reckon they could run the world better"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
     publishedDateTime: 2023-07-08T12:22:00Z

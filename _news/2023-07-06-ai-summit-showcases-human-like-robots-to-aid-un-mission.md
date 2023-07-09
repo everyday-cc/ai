@@ -19,45 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "UN recruits robots in effort to meet global development goals"
-    excerpt: "Dozens of robots, including several humanoid ones, will take centre stage at a conference organized by the United Nations technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals."
-    publishedDateTime: 2023-07-05T14:50:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html"
+  - title: "Robots vows not to erase human role at AI Forum"
+    excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
+    publishedDateTime: 2023-07-09T08:54:00Z
+    webUrl: "https://www.albawaba.com/node/1525829"
+    ampWebUrl: "https://www.albawaba.com/amp/node/1525829"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 59
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 74
     images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/24/1_4782295.jpg"
-        width: 470
-        height: 264
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "United Nations counting on AI and robots to save its failing Social Development Goals"
-    excerpt: "The United Nations AI for Good global summit in Geneva will host world’s largest gathering of humanoid robots."
-    publishedDateTime: 2023-07-06T13:39:00Z
-    webUrl: "https://interestingengineering.com/innovation/united-nations-counting-on-ai-and-robots-to-save-its-failing-social-development-goals"
+  - title: "Robots highlight potential and cooperation at AI Forum ensuring human collaboration"
+    excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
+    publishedDateTime: 2023-07-09T08:54:00Z
+    webUrl: "https://www.albawaba.com/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
+    ampWebUrl: "https://www.albawaba.com/amp/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 49
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 68
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/06/image/png/f4NfANmyZz5D9TGBjwuO8HmK2KUBCWJCPa3CLXFZ.png"
-        width: 1920
-        height: 1080
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "UN recruits robots in strive to meet global development goals"
-    excerpt: "Dozens of robots, including several humanoid ones, will take centre stage at a conference organised by the U.N. technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals."
-    publishedDateTime: 2023-07-05T13:04:00Z
-    webUrl: "https://www.aol.com/news/un-recruits-robots-strive-meet-100434379.html"
+  - title: "China tech startup launches humanoid robot at Shanghai AI event"
+    excerpt: "Fourier Intelligence, a Chinese tech startup specializing in rehabilitation robotics and artificial intelligence, on Thursday unveiled its first-generation humanoid robot at the ongoing World Artificial Intelligence Conference in Shanghai."
+    publishedDateTime: 2023-07-06T09:07:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202307/06/64a67cc9a310bf8a1d238e8a.jpeg"
+        width: 607
+        height: 404
+        isCached: true
 
 secured: "crZAC8t5OPFocwicemTzsbTz1dBiQ8XixB0HACSl6SZo3kBqO9Ri7O2za89EvdF8ypWfb1dE9xEZbOzPK/N85KzayvoxroZOWrWyMs3mZOBv1OyDPO2LNjNwLUactwYXwng+URHY1xTMZLmL5QAiWN1kGgwsQDMXH3AkuJ2WyckVrJQVhgZmAWvmU3VdEAOF6BYenC2uWQNuhVg/+r9tfHzAbH5RFOBJgRnhFYLPMdrXXXqppOCrv50pKkMExbTi6FIKIEaY3zr4TdD6oNKLGJpFAOmvWMnrRhTJU5mOVGstxMgRtSwY86MgtpEbpOe1gPYK0d1fzVrz1tUH/BqkZsXtE64L/U+4TcNUs/icjJ54mhqus/DC45MEa7mGDDPZEplSU3yP7iceB3W4J5d1OStwSelpSMfrdSMr2VD1dGQcrTkmBBfpji8Dc5ApOkTDUyN0IpkuTlaGQ7wvdriHx54j8+6BcjbvYb6vcgBHD4AeZsog8dSBz3imtF6leFpxKOT4U7f/KXk71gqlP8Luzw==;mr/RQ2Xvn0fND0FDFCf2Iw=="
 ---

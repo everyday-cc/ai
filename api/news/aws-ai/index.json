@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-08-aws-exec-generative-ai-can-create-a-flywheel-effect-for-business-growth.md",
+      "title": "AWS Exec: Generative AI can create a flywheel effect for business growth",
+      "excerpt": "Matt Wood of AWS shares insights with VentureBeat on how generative AI can create a flywheel effect for business growth.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/",
+      "originalUrl": "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_Color_photo_of_a_server_room_filled_with_racks_of_se_2607795c-93c9-486d-8345-65765efe0615.png?w=1200&strip=all",
+          "width": 1059,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-amazon-prime-day-2023-best-deals-available-now.md",
       "title": "Amazon Prime Day 2023: best deals available now",
       "excerpt": "Another day and another set of early Prime Day deals are now live at Amazon. Continuing on from the cheapest ever price for the Fire TV Stick 4K Max are today's record-low offers on the Echo Dot ...",
@@ -1399,50 +1451,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-a-comprehensive-guide-to-building-event-driven-architecture-on-azure-aws-and-google-cloud.md",
-      "title": "A Comprehensive Guide to Building Event-Driven Architecture on Azure, AWS, and Google Cloud",
-      "excerpt": "CostFilters': { 'Service': ['AWS Lambda', 'Amazon EC2'] }, 'BudgetType': 'COST', 'Notification ... For instance, one can stream data from cameras or mobile devices to Kinesis and use AWS Rekognition or SageMaker to analyze the stream.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/event-driven-architecture-clouds/",
-      "originalUrl": "https://www.infoq.com/articles/event-driven-architecture-clouds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/event-driven-architecture-clouds/en/headerimage/a-comprehensive-guide-to-building-event-driven-architecture-header-1687167469391.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

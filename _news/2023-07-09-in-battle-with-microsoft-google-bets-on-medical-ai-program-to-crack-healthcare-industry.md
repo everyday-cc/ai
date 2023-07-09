@@ -8,8 +8,8 @@ webUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google
 ampWebUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
 type: article
-quality: 84
-heat: 164
+quality: 86
+heat: 166
 published: true
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - AI
   - Microsoft AI
   - Natural Language Processing
+  - IBM AI
 
 images:
   - url: "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG"
@@ -29,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Today in AI: Morgan Stanley predicts Microsoft value surge, TCS employees to get trained in Azure Open AI"
+    excerpt: "Artificial intelligence-driven gains can propel Microsoft Corp. to join Apple Inc. in the elite category of stocks with a market capitalization of more than $3 trillion. That’s according to analysts at Morgan Stanley, whose new $415 price target for the software giant implies a valuation of around $3.1 trillion."
+    publishedDateTime: 2023-07-07T04:35:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-morgan-stanley-predicts-microsoft-value-surge-tcs-employees-to-get-trained-in-azure-open-ai-10919411.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-morgan-stanley-predicts-microsoft-value-surge-tcs-employees-to-get-trained-in-azure-open-ai-10919411.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-morgan-stanley-predicts-microsoft-value-surge-tcs-employees-to-get-trained-in-azure-open-ai-10919411.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 72
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
     excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
     publishedDateTime: 2023-07-08T12:00:00Z
@@ -51,20 +68,6 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4444/Unsplash_ThisisEngineering-RAEng_web.jpg"
         width: 975
         height: 548
-        isCached: true
-  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
-    excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
-    publishedDateTime: 2023-07-04T16:30:00Z
-    webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 62
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
-        width: 390
-        height: 205
         isCached: true
   - title: "IHiS to develop a secure ChatGPT for healthcare with Microsoft"
     excerpt: "Secure GPT is a custom-built common platform using Azure OpenAI Service that will enhance productivity for healthcare workers."
@@ -119,6 +122,6 @@ related:
       domain: webindia123.com
     quality: 28
 
-secured: "bkE84K3WemNkZM+K8TlbZ3sA5R8SR8E5zCfinmAKwJGm/HhjweH0RIKwW94BzfTxzfbmoF82We6j3his1gE13R/ywlfdcwMxFmmdFnXpJauhM5ko6gXD6kwcE5Az30JL2OZBcLh7Nn/f4/uS+l+UNV0z/2w+8z+dfl4AQnHNo3alAAzGen+71ggnQ3BMU6DQehAMzVJS9n2QT1hnL5dxYkhkKeLjfl4ILdVHfPpqHhKXZI2Nth9w4oQMohmMtCtIRGqDYhh3xawrO4MJRO9/lJFo0sZVhZAHdbaoU+PjcHtnr0bIv6TdZGRbgG/B92U8azfOCe5euz7dDhhKZLgpT0KvaN2OQduzy4ITi8SV4Dc=;3L+Ji/gn4lhbfzkGkv40Ww=="
+secured: "JG0D/wpuctS2+dMZfq0ezZGgUF7e1jND4bEJRlMIsuEHg8MM0f9hJ+wOE1nsareP/gCYYjrOc2dFXRKl+PqlxeaJJ5C+r4BV4IhyiK0bJVK/cnHUBTlAWpDljUXsczpt21lvtazopbtRDPUEqTHWUKeE4UHKo8pqeqdcaXQCFL+SVQFc0ykFojqK+2JvTEZkEClwd3ZLN2DdihIXQRhDa0jP3PE8hwR1Pb7HSFg1FqeZ992bXMqAGIS/GX3rLTA3K+9WBOkpmzfvScscO6epomZpuejqwt4wiq2+OrC0ort/kI8kLQJwH1eqPxl3tK86yDRXOnQipS99wHA55gKMCwcr/i7DazVds+yf6uvl6n2oD1ZxXaBJNpSspIsNwm1VyNa3Yw+/qukzumuiic6n2Ukl5JSC3kZ05kimps64Pr0SRuyvb+fBY+65f985YOfzpkkqeu20EWFoXoNGM/zyeDXgQzvr/D1TW0K29/hJ9X0Eut3KBlsu9EHDoDTWL9Q4lQ0ms3qYf4is3inNh8rRtA==;Cis/6nnMgG6dAWw1zq8yXA=="
 ---
 

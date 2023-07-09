@@ -28,7 +28,7 @@ related:
   - title: "AI robots could play future role as companions in care homes"
     excerpt: "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it."
     publishedDateTime: 2023-07-06T16:00:00Z
-    webUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/"
+    webUrl: "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ"
     type: article
     provider:
       name: Reuters
@@ -90,7 +90,7 @@ related:
   - title: "AI robots can run world better"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
     publishedDateTime: 2023-07-08T16:00:00Z
-    webUrl: "https://manilastandard.net/news/314348091/ai-robots-can-run-world-better.html"
+    webUrl: "https://manilastandard.net/news/top-stories/314348091/ai-robots-can-run-world-better.html"
     type: article
     provider:
       name: manilastandard

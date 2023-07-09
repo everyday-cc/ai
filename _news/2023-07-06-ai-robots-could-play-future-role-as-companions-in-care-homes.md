@@ -3,8 +3,8 @@ category: news
 title: "AI robots could play future role as companions in care homes"
 excerpt: "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it."
 publishedDateTime: 2023-07-06T16:00:00Z
-originalUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/"
-webUrl: "https://www.reuters.com/technology/ai-robots-could-play-future-role-companions-care-homes-2023-07-06/"
+originalUrl: "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ"
+webUrl: "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ"
 type: article
 quality: 84
 heat: 134
@@ -80,7 +80,7 @@ related:
   - title: "AI robots can run world better"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
     publishedDateTime: 2023-07-08T16:00:00Z
-    webUrl: "https://manilastandard.net/news/314348091/ai-robots-can-run-world-better.html"
+    webUrl: "https://manilastandard.net/news/top-stories/314348091/ai-robots-can-run-world-better.html"
     type: article
     provider:
       name: manilastandard
@@ -106,6 +106,6 @@ related:
         height: 573
         isCached: true
 
-secured: "NGN/k3PR1ZPnu56a9ixzP2bcmUijUGEOznUW77n+Xv+lALHmz1HrYRiH4JrXWG1Zml8qdnDntLs85UL4oZrYmzGJ90HC3ZSHPomuOgCiDnDjmGVZmS0CnZYUrnCp4gk2OYRQqGFnfASEDRoiYGUZYz7WZUI0MCSSmP60I5IcMAUbX2PX6WGeyIZ7a33NHNs86F7sbuEomoS/BJOKOl3If0YmudktUBJeE4IOoc0CjhMfEJSj4fQB3qOUwu7OxoLcMVWBWidZtFhbmeU78rloj9C7dtVLR5qNAtgVlBL0tmcu6/PisNO1x8la5dEX5cw7BJQ3N2/gXhp6OsqfeNLxJ9DKf8v6qRSkir0NgHOlpJ8OdDh32ZW7Htl0HQ4NmAXndX7fjanaSvnppx2Qzbod3ZiDpDg3S5bfhigEaJHN/PzJv0SZ5Bj3u8qr7ipvExOFYtkeehSrNNxYj0hjIMZI0wl5gjuduG9PSetKjtvYfbdy8IdveM5FN5wn/rAFWcaSdUvu3Tjw4y8je7Pe7ixR0w==;60tPNiSTdbBpgZgX2YEPkg=="
+secured: "ET6IEW4LmcP2PjT3a3CtFmOTYLHHHuJQKNPhtWNMdSLRlDGgrckCuG4sfA6A4R6Kxu7/MBwr9Q9AwDTcl6+dC3fLxnRlMHYgtxmQcJxPAD388TdamVooA9s2UWqk58H8oT+X4PWKUDY+etShq+euC4XMHEE2EmoXYAxZUERwfgOlNgQ6Ol06KstWofBuvLUn+RQDAMSoUHs6VSs6QLXiN24CRKIUYl9nRueDGrmHhB/uSUMn2lag8jTZq5xFYfibBPZek8NCFvs4PFOTF6ezgt4PyntX30HYW6GNA7MRVqx/5squJ6z2goBmYBeIvTUFfbjLcpHRsDISzgdDaRQruYgByhMZoV/sl0G6AxCkanM=;ZyIPkbIURxFaFCpz7g5mFA=="
 ---
 

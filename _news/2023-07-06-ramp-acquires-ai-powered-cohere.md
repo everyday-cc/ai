@@ -74,7 +74,7 @@ related:
     provider:
       name: Inside Higher Ed
       domain: insidehighered.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"
         width: 480

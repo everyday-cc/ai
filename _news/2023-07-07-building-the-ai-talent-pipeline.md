@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-07T04:45:00Z
 originalUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
 webUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"

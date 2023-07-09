@@ -9,7 +9,7 @@ ampWebUrl: "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-
 cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 87
 published: true
 
 provider:

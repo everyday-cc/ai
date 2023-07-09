@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 784
         isCached: true
+  - title: "How does ChatGPT decide what to say next? Here's a quick explainer."
+    excerpt: "Ever wonder how bots like ChatGPT figure out what the next word should be, but you don't have time to pore over AI white papers? You're not alone."
+    publishedDateTime: 2023-07-09T09:45:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/64a852158ed31300199e1ff2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How generative AI tools like ChatGPT can revolutionize web accessibility"
     excerpt: "ChatGPT's ability to handle complex conversations can lead to more effective communication and accessibility for those with disabilities."
     publishedDateTime: 2023-07-08T16:10:00Z

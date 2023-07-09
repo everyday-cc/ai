@@ -26,45 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "Digital transformation, AI, and the productivity problem"
-    excerpt: "There's a lot of talk about generative AI could boost productivity at companies in the midst of digital transformation. But moving too fast could make things worse."
-    publishedDateTime: 2023-07-06T14:01:00Z
-    webUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.techhive.com/images/article/2014/09/worker_productivity-100413905-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI And Digital Transformations: Is Your Company Prepared?"
-    excerpt: "As powerful as AI may be, it’s also just an added tool for amplifying corporate efforts. Using it for the sake of implementation shouldn’t ever be a main goal in itself. Start by building a clear implementation strategy that identifies specific needs ..."
-    publishedDateTime: 2023-07-07T13:22:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/ai-and-digital-transformations-is-your-company-prepared/"
+  - title: "Rethinking Workload Placement In The Age Of Generative AI"
+    excerpt: "How organizations build, tune and run AI means the difference between gaining a competitive edge or losing one. Here are our tips."
+    publishedDateTime: 2023-07-05T14:39:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "Growing demand for AI skills will transform these 10 jobs"
-    excerpt: "Employers are seeking workers with AI skills. Freshworks analyzed more than a year of public job posting data compiled by Revelio from popular hiring platforms."
-    publishedDateTime: 2023-07-07T08:19:00Z
-    webUrl: "https://kvia.com/news/business-technology/stacker-money/2023/07/07/growing-demand-for-ai-skills-will-transform-these-10-jobs/"
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649cb761c029eedc5ae45c84/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI in games will create a copyright crisis"
+    excerpt: "As lame as this story is, it hints at a knotty copyright issue the games industry is only just beginning to unravel. I’ve created a story using my imagination—but to do that I’ve used an AI helper. So who wrote the tale?"
+    publishedDateTime: 2023-07-05T17:12:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/07/0100QQSX_4.jpg"
-        width: 1080
-        height: 770
-        isCached: true
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "Navigating the ethical landscape of generative AI and journalism"
+    excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
+    publishedDateTime: 2023-07-06T11:21:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/07/06/navigating-the-ethical-landscape-of-generative-ai-and-journalism/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 34
+  - title: "AWS CEO’s 5 Bullish New Generative AI Investments"
+    excerpt: "AWS’ Adam Selipsky launches new generative AI products and investments, from an AI innovation center and startup program to AWS AppFabric and Amazon Bedrock."
+    publishedDateTime: 2023-07-06T18:01:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-ceo-s-5-bullish-new-generative-ai-investments"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+  - title: "3 Ways Generative AI Can Drive Operational Excellence"
+    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
+    publishedDateTime: 2023-07-07T15:39:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
+  - title: "3 Lessons from State Street's Move Into Generative Artificial Intelligence"
+    excerpt: "Relieve genuine customer pain, bring world-class skills to solve the problem, partner to close the capability gap."
+    publishedDateTime: 2023-07-09T08:08:00Z
+    webUrl: "https://www.inc.com/peter-cohan/3-lessons-from-state-streets-move-into-generative-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 15
 
 secured: "3UHhzNUS3716TtXYYAp1GsQUiMku4eaNQEwet9aw+eeL0fgXqNE5YFirNkmQH50t2UGi39TvVPM0rOlkF4cqWVdr+RjWJOoiq9FGyIIHyjDxUEdqwnU/aHBgc7G+PnaRANlcrQSJJyTHgnGJUW53hUUSp6HAHtvuGPVZzZZyzZkKB5oFfOZolLWDvR67dU/pJtut2M5SavsOV+L2XNVRBgGPMAoGABmYF2vY0cg/J7hRocbnlxC6QvcjILytKQcqIhJGejJQ3bw1Kw0hXKDUxc1L6Yt0QCCjPRP90Wa88PkLfvzjDIDLbUggTimcHqGxb8TgJcG7cBpbWsyEO9DvU+P9m6vcMiLcInkZ7vQoMQCTXqZeDzD+A1XsysZ8xQNod9d28FCA7AK/Tj0iA+wvLv8NBGYV69tivotH6g7G077qEU7kzCIlPooZOcTtqvSMKXN6A4jJRDWTD4kqysU/3TM21rvZ1fQP2/DS2mohS1tkmAzf/8f+shdIF61YYeguaRuvNYfsViMes+W6hT/nqQ==;wUgL3feahN2M387dOHmwKw=="
 ---

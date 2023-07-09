@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
-    excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
-    publishedDateTime: 2023-07-05T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Tokyo-skyline2_1200.png?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI And Digital Transformations: Is Your Company Prepared?"
     excerpt: "As powerful as AI may be, it’s also just an added tool for amplifying corporate efforts. Using it for the sake of implementation shouldn’t ever be a main goal in itself. Start by building a clear implementation strategy that identifies specific needs ..."
     publishedDateTime: 2023-07-07T13:22:00Z

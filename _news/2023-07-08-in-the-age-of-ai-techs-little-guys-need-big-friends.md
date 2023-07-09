@@ -151,6 +151,20 @@ related:
         width: 5500
         height: 3667
         isCached: true
+  - title: "Using AI To Understand the Language of Molecules"
+    excerpt: "This AI system only needs a small amount of data to predict molecular properties, which could speed up drug discovery and material development."
+    publishedDateTime: 2023-07-07T15:00:00Z
+    webUrl: "https://www.technologynetworks.com/drug-discovery/news/using-ai-to-understand-the-language-of-molecules-375903"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375903/using-ai-to-understand-the-language-of-molecules-375903-640x360.jpg?cb=20230707"
+        width: 640
+        height: 360
+        isCached: true
   - title: "What Does AI Know About Wine, Camping, and Airport Food?"
     excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
     publishedDateTime: 2023-07-07T14:24:00Z

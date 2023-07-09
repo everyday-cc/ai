@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Today in AI: Morgan Stanley predicts Microsoft value surge, TCS employees to get trained in Azure Open AI"
-    excerpt: "Artificial intelligence-driven gains can propel Microsoft Corp. to join Apple Inc. in the elite category of stocks with a market capitalization of more than $3 trillion. That’s according to analysts at Morgan Stanley, whose new $415 price target for the software giant implies a valuation of around $3.1 trillion."
-    publishedDateTime: 2023-07-07T04:35:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-morgan-stanley-predicts-microsoft-value-surge-tcs-employees-to-get-trained-in-azure-open-ai-10919411.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-morgan-stanley-predicts-microsoft-value-surge-tcs-employees-to-get-trained-in-azure-open-ai-10919411.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-morgan-stanley-predicts-microsoft-value-surge-tcs-employees-to-get-trained-in-azure-open-ai-10919411.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 72
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "6VzQU4z8iG84HE74INfHnk3LGBrKsfvHzwyocQs5iP4WFuYx12AyzmZsXtnLUMOEwl3n6xPJxtKgPZJTupsvxp6WAGtTIxVB+rHiPt/BiP2sluzYnoYVLrMkg0dQbRH/D4CgnXF+MyhBC2LijP/y+UN0GsX0600MkEJh5AzIpFVZOrTBFWnsry9c20lV8M1K0SDn/J/xPqelOoPvsbNw/iIuhFJ/bXietmHRrWpXNlt45l47+oY4+8r0rGcVv8q7kVB+bhGbvg8wR5hVkzAf9vEgCm2NfeN00NvyLPj5hFCHKiQid4fPlnXimPOloHrbK0WTefnsGiOELlwksEf1q5ai1kOof4yp/AtrJT9JQLMmeSYqiI8+8B/p5kSTNl063r72rBRXtzUnuclF49fS5IMo1bEeB69rDJ6tpW17boEgYeOmfJgmWqNVguHZH4boWtQAmaoxIguwDQnBvWVokXcGTJIIwMbNktu2bgCoyPt619H/zC8gLgZ4d+vdGu/LBNynRMLG3D8hs9IX00xZFw==;FEDqCtWfqGbDU+LPsedB3w=="
 ---

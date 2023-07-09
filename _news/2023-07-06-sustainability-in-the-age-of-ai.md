@@ -55,6 +55,20 @@ related:
         width: 696
         height: 445
         isCached: true
+  - title: "Building the AI Talent Pipeline"
+    excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
+    publishedDateTime: 2023-07-07T04:45:00Z
+    webUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 41
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Ramp acquires AI-powered Cohere"
     excerpt: "The finance automation platform acquired the startup to help drive AI-powered projects and solve problems for its customers, it said."
     publishedDateTime: 2023-07-05T21:31:00Z
@@ -68,20 +82,6 @@ related:
       - url: "https://www.bankingdive.com/imgproxy/pNO5BpZOo8I-BP88Z6UGIxjuYttZqWDdqRxOfHkcLK8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1JhbXBfMS5qcGc.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "Building the AI Talent Pipeline"
-    excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
-    publishedDateTime: 2023-07-07T04:45:00Z
-    webUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 39
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"
-        width: 480
-        height: 320
         isCached: true
   - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
     excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"

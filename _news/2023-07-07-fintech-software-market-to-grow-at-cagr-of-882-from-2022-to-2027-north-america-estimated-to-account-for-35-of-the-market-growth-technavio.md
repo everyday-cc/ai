@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
-excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"
-publishedDateTime: 2023-07-07T07:18:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
+excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date"
+publishedDateTime: 2023-07-07T07:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33144055/fintech-software-market-to-grow-at-cagr-of-8-82-from-2022-to-2027-north-america-estimated-to-accou"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33144055/fintech-software-market-to-grow-at-cagr-of-8-82-from-2022-to-2027-north-america-estimated-to-accou"
+ampWebUrl: "https://www.benzinga.com/amp/content/33144055"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33144055"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -94,16 +96,7 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 14
-  - title: "Global Healthcare Predictive Analytics Market Report 2023: Sector is Expected to Reach $30.71 Billion by 2028 at a CAGR of 22.23%"
-    excerpt: "The global healthcare predictive analytics market is expected to reach $30.71 billion by 2028 from $9.21 billion by 2022 grow at a CAGR of 22.23% from 2022-2028. Market Trends and"
-    publishedDateTime: 2023-07-04T16:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-healthcare-predictive-analytics-market-report-2023-sector-/2023/07/04/9843101.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "U1DTjzBvbHPClIt62e7Hr0Y9Cl+f5/5CysAKSBm+qD6YQ/ikSifHo4jP5MfQr49fCzY5DYr3YoqwijuhPz7t/MeJugPQ8d8RfEWCUswpAPU/wp29GU5W6Hu9wCrD2jdjnwE7yWEiek1uqxFcLUOWtJg+w2u8aAWM+Tu62wFU84S2cOiSfpoQBi/OfeTON5x/CFWaSMkSA0n+sTt8SJZ8S4AzrR30OGFQzp1tO5wgKhwF3iHfVIc8MNVgkDJIouBEJFdbtnn0vJqRZKxXUh1befDtQbTWnUyhcficI9AbL6T1lqDQQgf7DordBJAYMY9jVNJdLWKsjFPYzi4HWidgiGKkmHQhZ5s2HOc5hhyyPBY=;0zl70wEAPQwXJ4DFoMAWPA=="
+secured: "BpEzMQxcGgKgU0bLf11nUGDXqj02/QIgvJJHUQv3QgAQJ33TSIyLeWmc5Y1vfGLLxKVJV9kst1wgJUpx5ThHy02W08zWA06AqiYpc9BmkHloE40uaecNdgVk4lHAPurBfbgv3mmoRt5GSmBPnbgYuqWj5f9oVdfJDx7mtB2cWiq5GF6/8nLbJzTM33gpDZFGbZxdcZIGaUgk+Bxk6/DbRw7S7FtUd1BXV/nwwLj4vmq4tfR5o9u9MATSEN9C0sM7cIpFs1QUcCQrk+elk0trLYdqVgCETiTAE4amW3fckH9BY4PTVso1gobEPa1EpU6qfrzHUQcWmV0yrxLE4lZ06y/JB1rtfCcsB7/mz7wjmbk=;SMsEY7yTfJJYxV7+RlrqaQ=="
 ---
 

@@ -34,11 +34,27 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG"
         width: 600
         height: 337
+        isCached: true
+  - title: "Today in AI: Morgan Stanley predicts Microsoft value surge, TCS employees to get trained in Azure Open AI"
+    excerpt: "Artificial intelligence-driven gains can propel Microsoft Corp. to join Apple Inc. in the elite category of stocks with a market capitalization of more than $3 trillion. That’s according to analysts at Morgan Stanley, whose new $415 price target for the software giant implies a valuation of around $3.1 trillion."
+    publishedDateTime: 2023-07-07T04:35:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-morgan-stanley-predicts-microsoft-value-surge-tcs-employees-to-get-trained-in-azure-open-ai-10919411.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-morgan-stanley-predicts-microsoft-value-surge-tcs-employees-to-get-trained-in-azure-open-ai-10919411.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-morgan-stanley-predicts-microsoft-value-surge-tcs-employees-to-get-trained-in-azure-open-ai-10919411.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 72
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "ABB collaborates with Microsoft to integrate Azure OpenAI with analytics platform"
     excerpt: "Manufacturing solutions provider ABB is collaborating with Microsoft to introduce the Azure OpenAI Service into its ABB Ability Genix Industrial Analytics and artificial intelligence suite. The integration of generative AI,"
@@ -53,20 +69,6 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4444/Unsplash_ThisisEngineering-RAEng_web.jpg"
         width: 975
         height: 548
-        isCached: true
-  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
-    excerpt: "Tech Mahindra announced an integration with Microsoft to enable Generative AI Powered Enterprise Search. The new offering, Generative AI Powered Enterprise Knowledge Search under Tech Mahindra's TechM amplifAI0->∞ suite of AI offerings and solutions,"
-    publishedDateTime: 2023-07-04T16:30:00Z
-    webUrl: "https://technuter.com/software-2/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 62
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2023/06/Apple-previews-new-features-coming-to-Apple-services-this-fall-390x205.jpg"
-        width: 390
-        height: 205
         isCached: true
   - title: "IHiS to develop a secure ChatGPT for healthcare with Microsoft"
     excerpt: "Secure GPT is a custom-built common platform using Azure OpenAI Service that will enhance productivity for healthcare workers."
