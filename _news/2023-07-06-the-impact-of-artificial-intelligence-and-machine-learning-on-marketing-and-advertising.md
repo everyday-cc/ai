@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Navigating the ethical landscape of generative AI and journalism"
-    excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
-    publishedDateTime: 2023-07-06T11:21:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/07/06/navigating-the-ethical-landscape-of-generative-ai-and-journalism/"
-    type: article
-    provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 34
 
 secured: "Gm1KGdrKtjRUcHgMPUoiM8RAfTsvBBX2fface6G5e6SIBJxaYOOrPEtqyI+a2RJ92DhMF2yaFf/VsR8I/M1OPIIg1p6JsUixbWAOOXp6wQtu8H5TMq6iAJcPkY8ouJzOxMH5M8K4at5dYLjwCa42947W1SrPZ7MfYTKJll0yjMTRyHDJAcFMzvRu374bWIVGJNzAxM15t2nWRk6padcv3ADWRe/PjeipM1mOYO4FEr1s0eTSrb3s79PCgRVm0kWN1QF7/FV2Dj0k0hBfTq2BvXFXKCtTZd0rHbDrMaiBhSJE5MGclDS4OmOjQOgpaMxbxtoc1iAxG/VWrmYqdgtua9si0oAPVThUXqRGfs/imDE=;rV7vjVx0ScerI0NEsLemqQ=="
 ---

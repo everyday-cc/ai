@@ -22,52 +22,141 @@ topics:
   - AI
 
 related:
-  - title: "Collision Conference, Toronto: Igniting Inclusion And AI Innovation - An Interview With Paddy Cosgrave"
-    excerpt: "With 36,000 attendees from over 118 countries descending in Toronto for Collision, I sat down with Paddy Cosgrave, the visionary behind this globally acclaimed conference"
-    publishedDateTime: 2023-07-06T16:44:00Z
-    webUrl: "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/"
-    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/"
+  - title: "Transforming IT operations and application modernization with artificial intelligence"
+    excerpt: "Many organizations have embraced the hybrid cloud for its flexibility, scalability and capacity to accelerate market deployment. Hybrid cloud enables businesses worldwide to promote data security and accessibility for various projects and analysis. However, managing multiple hybrid clouds can be a complex"
+    publishedDateTime: 2023-07-10T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 92
+  - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
+    excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
+    publishedDateTime: 2023-07-06T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 71
+    quality: 83
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a6ef085dca0075bbb4ddd6/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a570171d6feda6a59805d4/0x0.jpg?format=jpg&crop=1450,815,x0,y6,safe&width=1200"
         width: 1200
-        height: 675
+        height: 674
         isCached: true
-  - title: "Enhanced AI security on the horizon with Nvidia and Intel collaboration"
-    excerpt: "Nvidia Corp. is collaborating with Intel Corp. to provide extensive attestation services for Nvidia H100 GPUs, using Intel Trust Domain Extensions and Intel’s trust service, “Project Amber,” for customers that deploy confidentiality-preserving artificial intelligence solutions."
-    publishedDateTime: 2023-07-07T00:04:00Z
-    webUrl: "https://siliconangle.com/2023/07/06/enhanced-ai-security-horizon-nvidia-intel-collaboration/"
+  - title: "Robots highlight potential and cooperation at AI Forum ensuring human collaboration"
+    excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
+    publishedDateTime: 2023-07-09T08:54:00Z
+    webUrl: "https://www.albawaba.com/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
+    ampWebUrl: "https://www.albawaba.com/amp/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 68
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/intelnvidia.jpg"
-        width: 910
-        height: 512
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Artificial intelligence takes centre stage at Collision tech conference in Toronto"
-    excerpt: "TORONTO - When the Collision tech conference got underway in Toronto on Tuesday, there were two words that dominated discussions across the Enercare Centre: artificial intelligence ... impacts of AI will come in health care, where it could be used for ..."
-    publishedDateTime: 2023-07-06T06:18:00Z
-    webUrl: "https://www.cp24.com/news/artificial-intelligence-takes-centre-stage-at-collision-tech-conference-in-toronto-1.6458040?cache=xceuacapshbcr%3FclipId%3D89578"
-    ampWebUrl: "https://beta.cp24.com/news/2023/6/27/1_6458040.html"
-    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/6/27/1_6458040.html"
+  - title: "Digital transformation, AI, and the productivity problem"
+    excerpt: "There's a lot of talk about generative AI could boost productivity at companies in the midst of digital transformation. But moving too fast could make things worse."
+    publishedDateTime: 2023-07-06T14:01:00Z
+    webUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html"
+    ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
     type: article
     provider:
-      name: CP24
-      domain: cp24.com
-    quality: 55
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
     images:
-      - url: "https://beta.cp24.com/content/dam/cp24/videos/axis/2023/6/27/2716151/_jcr_content/renditions/videothumbnail.1687903788912.jpg"
-        width: 974
-        height: 548
+      - url: "https://images.techhive.com/images/article/2014/09/worker_productivity-100413905-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "AI And Digital Transformations: Is Your Company Prepared?"
+    excerpt: "As powerful as AI may be, it’s also just an added tool for amplifying corporate efforts. Using it for the sake of implementation shouldn’t ever be a main goal in itself. Start by building a clear implementation strategy that identifies specific needs ..."
+    publishedDateTime: 2023-07-07T13:22:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/ai-and-digital-transformations-is-your-company-prepared/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AWS Launches AWS Appfabric Empowering SaaS Applications with Enhanced Productivity and Security"
+    excerpt: "In the future release of AWS AppFabric, users can benefit from additional generative artificial intelligence capabilities powered by Amazon Bedrock. This service makes popular foundational models available and customizable through an API. AWS AppFabric is ..."
+    publishedDateTime: 2023-07-07T09:55:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/aws-appfabric-saas-security/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 44
+    images:
+      - url: "https://res.infoq.com/news/2023/07/aws-appfabric-saas-security/en/headerimage/generatedHeaderImage-1688313683266.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vecow and Solectrix Partner to Accelerate AI-based Vision Applications"
+    excerpt: "Vecow Co., Ltd., a team of global embedded experts, announced its partnership with Solectrix, a German provider of high-end electronics solutions."
+    publishedDateTime: 2023-07-06T22:43:00Z
+    webUrl: "https://www.automation.com/en-us/articles/july-2023/vecow-solectrix-accelerate-ai-based-vision-app"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 39
+    images:
+      - url: "https://www.automation.com/getmedia/6bff5c26-3afd-432f-8d48-2d30bdfd7341/Vecow-July-6-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "New and advanced AI tech debuted at WAIC, with diverse applications"
+    excerpt: "This year's World Artificial Intelligence Conference is debuting a range of new AI tech, from driverless vehicle technology, new large language models, and practical software. Artificial intelligence innovations are making global debuts at the ongoing WAIC in Shanghai."
+    publishedDateTime: 2023-07-07T20:03:00Z
+    webUrl: "https://www.shine.cn/biz/tech/2307077617/"
+    type: article
+    provider:
+      name: SHINE
+      domain: shine.cn
+    quality: 39
+    images:
+      - url: "https://obj.shine.cn/files/2023/07/07/20a28c71-a211-4c84-8dec-db98ee16ebb8_0.jpg"
+        width: 940
+        height: 528
+        isCached: true
+  - title: "3 Ways Generative AI Can Drive Operational Excellence"
+    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
+    publishedDateTime: 2023-07-07T15:39:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
+  - title: "Smartling Integrates with Custom.MT for Expanded Machine Translation Options"
+    excerpt: "VThrough the integration of Custom.MT's console, Smartling customers gain access to additional machine translation providers"
+    publishedDateTime: 2023-07-06T07:00:00Z
+    webUrl: "https://slator.com/smartling-integrates-with-custom-mt-for-more-machine-translation-options/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 16
+  - title: "Transforming Fashion & Luxury: Exploring The Implications Of Apple’s Vision Pro And The Spatial Computing Era"
+    excerpt: "The impact of Apple’s new spatial computing device on fashion, luxury, and retail shouldn’t be underestimated. Are we ready for this new shift?"
+    publishedDateTime: 2023-07-06T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/cathyhackl/2023/07/06/transforming-fashion--luxury-exploring-the-implications-of-apples-vision-pro-and-the-spatial-computing-era/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 15
 
 secured: "YRJIXixxbkmhDLdhwDl14/FQC6Ku5CoA9ruqyPCmYWXmQMzTI2nx+fLNaUyDafEgRKH3fzMLwd9gdYanOurrZThKsv11KbcqVpWtWKhfro7UC0PD7yWpi4xZJoH49Oa8OwNXeIT2hwD6jCRNR6gXxLKR6PHZKkqPd/q62Npl9mXo2aVt2fP8SCOprGyv6nnZ/hzv6Wqdy4yGo5rJliMaYRyczpwgIKrnqt5aYrQz/TP9Bjsgxz3DZ+RWTN7sB3dV1Z/mZ2lumeyg1fKPrEY42blRLLcbwMKx5NkirVxTRl35xubDT4KOGOiHFTSTlagi0A0q82ome093CrO10h2qNWaGBcF297LJtXztquO9+WSki+2fwPYUXn03V/wPz9/kBG8ahQ09mpKpiZgt/KCcCcmd4jgpbIbBRR4fj4rjr87grJ/sF0wZBc8Z447T/28ZVLbX1TdA/p84qTSQlgPOW7IhXX1H4/e9CXpDdBsmQG/kDdInyHI7b2ohWjZZAzBG+X3aAo5XQkNdl9K3oegfKw==;erZXsO/gpdjvK4JzUPo07g=="
 ---

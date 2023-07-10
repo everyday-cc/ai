@@ -56,6 +56,15 @@ related:
       name: Statista
       domain: statista.com
     quality: 49
+  - title: "AI Service Robotics - Spain"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$99.63m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.71%, resulting in a market volume of US$260 ..."
+    publishedDateTime: 2023-07-07T20:07:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/spain"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 49
 
 secured: "LVoBTAbWTR7QODeqATf5yZ5OQfwD31CH73pjCzq5mB2XNw79m3SiTuB3Hqe9s4OpqyaJhWFfviD05e4QA9xxtx4jn40YN84F0PMMCXXdKkCGbPKcqYMUT9AcVbN+7RGqATphbRYN5982f4fmvoecfvPqh4mrrhYUzrzkyDYRZUrHf1V2T4gVO7WE7IdSoxytBmhTqSceh+swI4yqR0KX5NEyYN+eZBtmVDN0vux6Rrp+peVRLreCJLM8EwmAskdE92qdFvAPVvDc1I8e20Ltd+Xx5TkgJUIddlOoZeiwULNNho5GH9s7uzsUO5o2RAyCKAKcniXTGSPUsVQhwyXExIkh9VuaRwYeTOgpndDrws8=;KUkbwfTYIQUSYjbh1kfYnw=="
 ---

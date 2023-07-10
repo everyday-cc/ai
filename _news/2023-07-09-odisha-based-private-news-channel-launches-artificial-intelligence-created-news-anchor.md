@@ -25,6 +25,19 @@ images:
     height: 853
     isCached: true
 
+related:
+  - title: "Meet Lisa! Odisha's First Artificial Intelligence News Anchor Launched By OTV"
+    excerpt: "Meet Lisa, OTV and Odisha’s first virtual AI news anchor, set to revolutionize TV Broadcasting & Journalism. OTV’s AI news anchor Lisa has the capability to speak in multiple languages. She will seamlessly present news in Odia apart from English for OTV and its digital platforms. pic.twitter.com/DUvcY4TQMQ"
+    publishedDateTime: 2023-07-10T11:43:00Z
+    webUrl: "https://www.freepressjournal.in/viral/meet-lisa-odishas-first-artificial-intelligence-news-anchor-launched-by-otv"
+    ampWebUrl: "https://www.freepressjournal.in/amp/viral/meet-lisa-odishas-first-artificial-intelligence-news-anchor-launched-by-otv"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/meet-lisa-odishas-first-artificial-intelligence-news-anchor-launched-by-otv"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 34
+
 secured: "XdjaFJgztIvMq9IiTpqOvyBnHOCloql2NyML0DOIDRqc6STvLmSc4WKiNiOI7JIxdNBUo4b+CNG6HnMwoDRrMvR7v7BP9hszJiaq7zYKUnpIH9RRBAIqfjjreNYX1GbFiQS0soxz46c7yc2Dl6VDsHENiZwmexYCX+SGi/rjqdeBXEYMj+0f9Ylmle02J/kNGdUt9nONy4B7tz01oNypcD2OqxoaLXg/OnxGU50nx6xS4+UU4wjrXA+jfJMKrVT8w3/wc6ItyAIuzcCz+fB2am8Wd/Pg/y+M6muK69bG8Eu+WyPdlcDl8Os0TSNPkMs8s8JSVLtCNxRBQxsLILTihlL7YcT+/vI4K4uHmkH/D6o=;HdkEHxQQAKyEBPG8/f2pgQ=="
 ---
 

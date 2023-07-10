@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Why everyone is mad about New York’s AI hiring law"
+    excerpt: "Last week, a law about AI and hiring went into effect in New York City, and everyone is up in arms about it. It’s one of the first AI laws in the country, and so the way it plays out will offer clues about how AI policy and debate might take shape in other cities."
+    publishedDateTime: 2023-07-10T10:59:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/10/1076013/new-york-ai-hiring-law/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/10/1076013/new-york-ai-hiring-law/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/10/1076013/new-york-ai-hiring-law/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/hiring-hands2b.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Generative AI: We Need To Talk About Value"
     excerpt: "It’s not about simply getting your hands on generative AI—it’s about knowing how to put the technology to work to create real, tangible value."
     publishedDateTime: 2023-07-07T12:30:00Z

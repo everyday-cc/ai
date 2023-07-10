@@ -19,49 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Does Generative AI herald the end of an era or the start of a new chapter in marketing?"
-    excerpt: "Despite concerns about job losses and potential changes in the marketing industry, generative AI is a great asset for the marketing team, rather than a threat. Generative AI presents unparalleled opportunities to accelerate creativity,"
-    publishedDateTime: 2023-07-10T03:17:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+  - title: "Are We Going Too Far By Allowing Generative AI To Control Robots, Worriedly Asks AI Ethics And AI Law"
+    excerpt: "Generative AI such as ChatGPT is increasingly being used to control robots. This bodes for concern since the AI might produce faulty instructions and endanger humans."
+    publishedDateTime: 2023-07-10T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 66
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101624579,imgsize-800807,width-1200,height=765,overlay-etbrandequity/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ab64847d894a41bf534a0b/0x0.jpg?format=jpg&crop=2557,1917,x116,y106,safe&width=1200"
         width: 1200
-        height: 765
-        isCached: true
-  - title: "The Impact of Artificial Intelligence and Machine Learning on Marketing and Advertising"
-    excerpt: "This is a Guest Post by Sana Afreen, CCO & Asst. Director Program Management, Rizzle In today’s fast-paced digital era, the realm of marketing and advertising has undergone a significant transformation."
-    publishedDateTime: 2023-07-05T23:38:00Z
-    webUrl: "https://trak.in/stories/the-impact-of-artificial-intelligence-and-machine-learning-on-marketing-and-advertising/"
-    type: article
-    provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 63
-    images:
-      - url: "https://trak.in/stories/wp-content/uploads/2023/07/Untitled-design-1-6-1280x720-1-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Artificial intelligence and its role in marketing a brand"
-    excerpt: "With almost every brand using AI, there is a wide scope of plagiarism leading to legal risks that are not addressed easily, says our guest author."
-    publishedDateTime: 2023-07-05T23:30:00Z
-    webUrl: "https://www.afaqs.com/news/guest-article/artificial-intelligence-and-its-role-in-marketing-a-brand"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 54
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F4e1cc1fc-6cf9-4076-a826-13324422cb14%2FAi_Art__07.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
+        height: 900
         isCached: true
 
 secured: "Xqv9FsebVyaIoD9gITCwxdsm073nhPucXvVrWBizbpTcUxH8Kw2WKUE+OJ0K44qDA/OWHIwlMwAcF0zJ3xHWRd1fZY7Pp297pEYbrNum12p2vQPyFJNArDqVldvdsyaRmXfavCXStkU121ycnVW5UufSTxorT8gluR1PPgRwGj9MqSkpkJV6vS/Yl4wRojJkxIKr0qIxIJ0xgOKKd5W83qRs4sIFqUTmISm/HfHi3ajU6rWyPjF02XvFTPp8Amfip69EwOOVGrPWRb+0Phw57prxcbbHsnnrehPONww4La4JA3x8C4zeJv8H7Na/chcqbX7eawJBmm2QF+vv2s/jbE0+fHvS3RUs44tsgbvnX7o=;V73DSvIrvP3wZV13BkCZcQ=="

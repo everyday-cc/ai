@@ -7,7 +7,7 @@ originalUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligen
 webUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/"
 type: article
 quality: 66
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "US will block Chinese customers from using AI cloud services: report"
-    excerpt: "The US Department of Commerce could ban Amazon, Microsoft and Google from selling AI-related cloud computing services to Chinese companies, a new report said."
-    publishedDateTime: 2023-07-05T18:19:00Z
-    webUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/07/06/thinkstockphotos-528443527-100610461-large-100941889-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
     excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity and large language models,"
     publishedDateTime: 2023-07-07T11:07:00Z

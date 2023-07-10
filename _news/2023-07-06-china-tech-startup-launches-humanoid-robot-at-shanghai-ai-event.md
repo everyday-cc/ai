@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Robots highlight potential and cooperation at AI Forum ensuring human collaboration"
-    excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
-    publishedDateTime: 2023-07-09T08:54:00Z
-    webUrl: "https://www.albawaba.com/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
-    ampWebUrl: "https://www.albawaba.com/amp/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 68
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "EYAktAY5jK45ivyWIJmLQiVqkn40+/5LBPoz/7cg6LyLYJsM2nR6QLvM2cBGYKhBvlAjGeQVaKR1s1wV7jLwt1J0lLHwNdT3wkY59NIHHfRATSD+50Eo00m8iLmbN9urQmwaZO+FbmOTUyuMnBxk/ikhKwidEtvxCjnvpG7oKuG22CQamlLWuZq7KJB1bpvpNATGFUkYfZv/TZQsrPGbeyYMru4sxyr70Bpt/JltxwJRgWaKx6ndbOPCZgxa9uT+tcPqSmSPpdDJGka6Db4r6Z27la/lQEV4S2gxkNIvbN4tXynL4PZjTRiayMq6ToUkc7HjGMvlEy39/gc1th1tWB5Yelfyb1Xh7eNqjKJCyq56zPWziCuJ6TNEfbe+QOn0+L9yVg+BX6KxNhFS/ZutmGtlZXA2ZEPs8ydaSt7Fc1nmeWOgRIh9uO9EqZ0JuF4DxhUsUE7T88XsemGB/HQYe9dsxR4m6e1VA1oAcrrTfqJ/4j6K+xaN+xzOolUes4QFO9NeogHHjT1QvtzJcAsHhg==;CQjywSg2dMTXb13jL6EgSg=="
 ---

@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Consumers and marketers see a role for (responsible) generative AI in customer experiences"
-    excerpt: "Insights from an Adobe survey show how generative AI is changing both what customers expect and how brands deliver experiences."
-    publishedDateTime: 2023-07-05T17:06:00Z
-    webUrl: "https://www.businessinsider.com/sc/how-generative-ai-will-play-a-role-in-our-customer-experiences"
+  - title: "Shaping A Responsible AI-Powered Future In Life Science"
+    excerpt: "Our ethical commitment to harnessing AI's potential responsibly will be instrumental in realizing its promise of a healthier, more equitable future for all."
+    publishedDateTime: 2023-07-10T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://i.insider.com/649dc1d0693d6c00191d6737?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a812fccab7d777f691cf1d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
   - title: "Artificial Intelligence: Asia’s Generative AI Professionals Call for Guardrails, “Responsible” Design"
     excerpt: "Researchers are \"cautiously optimistic\" about where generative artificial intelligence will lead humanity, but “we must develop more guardrails.”"

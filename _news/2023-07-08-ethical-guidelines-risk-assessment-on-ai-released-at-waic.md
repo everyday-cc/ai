@@ -39,20 +39,6 @@ related:
         width: 608
         height: 405
         isCached: true
-  - title: "New and advanced AI tech debuted at WAIC, with diverse applications"
-    excerpt: "This year's World Artificial Intelligence Conference is debuting a range of new AI tech, from driverless vehicle technology, new large language models, and practical software. Artificial intelligence innovations are making global debuts at the ongoing WAIC in Shanghai."
-    publishedDateTime: 2023-07-07T20:03:00Z
-    webUrl: "https://www.shine.cn/biz/tech/2307077617/"
-    type: article
-    provider:
-      name: SHINE
-      domain: shine.cn
-    quality: 39
-    images:
-      - url: "https://obj.shine.cn/files/2023/07/07/20a28c71-a211-4c84-8dec-db98ee16ebb8_0.jpg"
-        width: 940
-        height: 528
-        isCached: true
 
 secured: "pthd1T9Jq2VjTV3sgNp3rfsC/LDV+rJva7dmCkYNNu871uvzxTUBy4/7g/3XHLyjAo8zMrP+3Mt9gWubgDQopIyCQXKU6qfP50raFbPlbypXhHihdqTUyc20H0Xr4p9I1eZZ4zC71rG3djYEJeqAGAg8uEK13wkcSEOx3Sa/qBrvgLP5LoQ3KgEJadrLUpYpfA5nczI2lFWczSp5EynMsoNvW/vr42FASq+iQe/cW3nYqI4xeVsIceLINa3z/u7aTnxmtQjGV+EzVtFIyO42Hd4svI+iIihTW1zBaSJB6viy1qWBY91g41sYIbWjXgWa/QZq3YN3VeU2fC1GDUU/ewWCwDsNdGD2RkV87uHY8iQQ2V12+cYwFsGLYrcAmeS51Q0CCT7EMZuIquhvSbqb1UhFaE1h/3chfJlCb6APsYtQ2CVfqrR7SwpvXT/XHx/S+d622w3yqRm5St8ayIo7YUld+iDMoaaewhb5oJo2Uu9m8AxRe11pwBigGGYZmArg1GyYX1pyqiAzi/TDC/JiNA==;rH7KyRFFrnw6p5afI/1IYw=="
 ---

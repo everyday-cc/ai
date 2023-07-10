@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-08-pro-take-ai-boom-will-test-readiness-of-ibm-and-its-customers.md",
+      "title": "Pro Take: AI Boom Will Test Readiness of IBM, and Its Customers",
+      "excerpt": "CEO Arvind Krishna says IBM is taking a more realistic approach to artificial intelligence these days, and customers are more prepared to use the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pro-take-ai-boom-will-test-readiness-of-ibm-and-its-customers-96f878c8",
+      "originalUrl": "https://www.wsj.com/articles/pro-take-ai-boom-will-test-readiness-of-ibm-and-its-customers-96f878c8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-756626/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-ibm-watson-services-industry-is-poised-to-surge-at-a-cagr-of-30-over-the-next-ten-years.md",
+      "title": "IBM Watson Services Industry Is Poised To Surge At A CAGR Of 30% Over The Next Ten Years",
+      "excerpt": "The global IBM Watson services market analysis shows that global demand enjoyed year-on-year (YoY) growth of  27%  in 2021, to tota",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105960797/IBM-Watson-Services-Industry-Is-Poised-To-Surge-At-A-CAGR-Of-30-Over-The-Next-Ten-Years",
+      "originalUrl": "https://menafn.com/1105960797/IBM-Watson-Services-Industry-Is-Poised-To-Surge-At-A-CAGR-Of-30-Over-The-Next-Ten-Years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-jon-rahm-four-putted-the-first-hole-at-the-masters-and-even-ibm-watson-was-speechless.md",
       "title": "Jon Rahm Four-Putted the First Hole at The Masters and Even IBM Watson Was Speechless",
       "excerpt": "So when faced with Rahm missing a very short putt for bogey the Masters' exclusive Artificial Intelligence commentary provided by IBM simply did not compute. Even Watson was speechless when Rahm ...",

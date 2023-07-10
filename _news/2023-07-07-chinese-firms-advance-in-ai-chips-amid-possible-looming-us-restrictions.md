@@ -39,22 +39,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "US will block Chinese customers from using AI cloud services: report"
-    excerpt: "The US Department of Commerce could ban Amazon, Microsoft and Google from selling AI-related cloud computing services to Chinese companies, a new report said."
-    publishedDateTime: 2023-07-05T18:19:00Z
-    webUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/07/06/thinkstockphotos-528443527-100610461-large-100941889-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Chinese AI-powered robot developer CloudMinds raises $138m"
     excerpt: "Chinese artificial intelligence-powered robot developer CloudMinds has raised over 1 billion yuan ($138.1 million) in a Series C round of financing, as the firm is said to be weighing an initial public offering in Hong Kong."
     publishedDateTime: 2023-07-10T03:27:00Z

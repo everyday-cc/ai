@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 749
         isCached: true
+  - title: "The Promise And Challenges Of AI In Healthcare"
+    excerpt: "Fueled by the flashy arrival of OpenAI’s ChatGPT and its newest large language model, GPT-4, the race is on among IT vendors and care providers to use AI to improve everything from triage to patient communications to treatment to discharge."
+    publishedDateTime: 2023-07-10T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The AI healthcare revolution: 4 insights into the future of patient care"
     excerpt: "The future of healthcare lies in the seamless integration of AI to empower professionals and revolutionise the way we approach healthcare"
     publishedDateTime: 2023-07-06T09:08:00Z

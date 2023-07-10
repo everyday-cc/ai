@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-confer
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 974
         height: 548
         isCached: true
-  - title: "Crypto And AI Innovation: The London Attraction"
-    excerpt: "Exploring London's Emergence as the Global Nexus of Crypto, AI, and Tech Innovation: Balancing Tradition, Regulation, and Disruptive Potential."
-    publishedDateTime: 2023-07-09T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/07/09/crypto-and-ai-innovation-the-london-attraction/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "pB19JPbMdL/UR8nTx/hTmIdCT4QHMi/odpZz9eoyhCt3L7sui68hNtcTzQlWnUoH9ArpyNdowW441rNqefrWJ4C+xYpfbRFoBVI84XGA25LKKCLjgcWA2iEgbq8mbS5Jn79ENEGBYJpL2f8exnu8Rpjg50puHxGzcQdBt/UjmBlHkK60vZynyIFzmYb+9Al1Cd1MSMoWp1+xxspzo/9GYMNRt/cFmCOiPzlaV8pAFRibI5ooScWb6kVXHnSihxLRTbJPtLMu7fCafenWGNt0JDBzMXdgFZQDA6iawBrY+pgt/fvk3m2CM+Hgbm0pV0poKv+UhFUlG1Nxw3xX3uaw6TjPfEHnCsrt93AZnOEzevJpPKRgX9Hvp+yRCN24iaRfnT4u6vkRafiTXrLz8RScf8pj9yMYUaP41YNJ4N/8HB4G8mheYetMRLB/VDVEg7P1DtfNqr2xcVxygpYMpVKRHgmmG2wRaKX+GOjxzdbl2EHJvjCantOh+AbQ0+JlyWQYYqRe3tihjgSEeMgpUKQr6g==;gwTsQu6ZZZ8fvdp5peeCAA=="
 ---

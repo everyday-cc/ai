@@ -47,15 +47,6 @@ related:
         width: 505
         height: 315
         isCached: true
-  - title: "Generative AI in games will create a copyright crisis"
-    excerpt: "As lame as this story is, it hints at a knotty copyright issue the games industry is only just beginning to unravel. I’ve created a story using my imagination—but to do that I’ve used an AI helper. So who wrote the tale?"
-    publishedDateTime: 2023-07-05T17:12:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
 
 secured: "A+i8RZS8Wu1TQ3PCiK6kBNSmK0eRBxKBOSD8gwy3eRIZ5jjiyNdNaEBUJ04a+6akfZbf3b2LTytZxjJYysCJuC/EWl6kDBQegZf7ruUBsXy1V8ZCD8W5k8dUP/wpyEis+pjdFk09iDmsJtD9mHGES4W944gFheq9GkWb1D+rwxt+Kla6mtxW8H3tu0cLkPJO7IekEl+YGp5YpLwwIH8xasHDFeV/c5PGzfVQggvjcLrgb6TDa2Wb4gcE4kTUcALJ5EOyDJXi+f0aKJa8UswufXZma5VANBxA5DR9OiTMkqcRwe4DAOpD7cEs7SmdFnZf9nKiFtxEYBhDtNmmL32PBK77paGie/TFjd80tZKraxk=;0VaqLs1iaobkH6H3+M3wBg=="
 ---

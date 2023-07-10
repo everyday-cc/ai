@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 749
         isCached: true
+  - title: "The Promise And Challenges Of AI In Healthcare"
+    excerpt: "Fueled by the flashy arrival of OpenAI’s ChatGPT and its newest large language model, GPT-4, the race is on among IT vendors and care providers to use AI to improve everything from triage to patient communications to treatment to discharge."
+    publishedDateTime: 2023-07-10T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Generative AI in Healthcare Market Size is Expanding Around USD 21.74 Billion by 2032"
     excerpt: "As per Precedence Research, the U.S. generative AI in healthcare market size will reach at USD 8.7 billion by 2032. Generative AI, refers to a class of artificial intelligence"
     publishedDateTime: 2023-07-10T07:47:00Z

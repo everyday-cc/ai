@@ -75,6 +75,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 29
+  - title: "DigitalOcean snaps up Paperspace to enhance AI offerings"
+    excerpt: "Paperspace’s high-performance GPU tooling enables small and medium-sized businesses around the globe to test, build, and scale AI models in the cloud."
+    publishedDateTime: 2023-07-10T10:11:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2023/jul/10/digitalocean-snaps-up-paperspace-to-enhance-ai-offerings/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 19
   - title: "DigitalOcean buys AI startup Paperspace for $111 million"
     excerpt: "DigitalOcean is acquiring cloud infrastructure player Paperspace for $111 million (102 million euros). With this, DigitalOcean aims to provide its public"
     publishedDateTime: 2023-07-07T08:24:00Z

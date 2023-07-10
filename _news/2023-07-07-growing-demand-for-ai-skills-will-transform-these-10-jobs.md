@@ -7,7 +7,7 @@ originalUrl: "https://kvia.com/news/business-technology/stacker-money/2023/07/07
 webUrl: "https://kvia.com/news/business-technology/stacker-money/2023/07/07/growing-demand-for-ai-skills-will-transform-these-10-jobs/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 1080
     height: 770
     isCached: true
-
-related:
-  - title: "Digital transformation, AI, and the productivity problem"
-    excerpt: "There's a lot of talk about generative AI could boost productivity at companies in the midst of digital transformation. But moving too fast could make things worse."
-    publishedDateTime: 2023-07-06T14:01:00Z
-    webUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.techhive.com/images/article/2014/09/worker_productivity-100413905-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI And Digital Transformations: Is Your Company Prepared?"
-    excerpt: "As powerful as AI may be, it’s also just an added tool for amplifying corporate efforts. Using it for the sake of implementation shouldn’t ever be a main goal in itself. Start by building a clear implementation strategy that identifies specific needs ..."
-    publishedDateTime: 2023-07-07T13:22:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/ai-and-digital-transformations-is-your-company-prepared/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "/pZStTLetWMkwWM5p8N6yNptLDaf6kyJmyO7jJV6pWx4YFmsz4ntQRIzlyW6HJ5YtddfelMsXTkTpz3W5wOFdh/zpYWNUgpJFDjxXju89FYneoc7l0a1BqsKA/bCTgiybPS5+nQ8Vm8e1340glEhfI6gZHRPEX0z0JVo1xQa7UsyY1ylBn8ZSbLDRoxhv2xbSJCYlWcOsZY3SZOSsLC+K5dNC8/4DfJcwRWa9Y9La8F8NAVT6Ty6vmjTQl+SfxOArpoWEXXXEqfyoDzEPco+7DTgeTONOlxdZx1tiRJCgfVUrzty7b8wk5B0aYWglqHC4bGlgJiBa8TVfE2JDYUAmUnC7RkJVubf1DllPy7Us44=;NEYF/e8V9Y6q1OwZcslRSw=="
 ---

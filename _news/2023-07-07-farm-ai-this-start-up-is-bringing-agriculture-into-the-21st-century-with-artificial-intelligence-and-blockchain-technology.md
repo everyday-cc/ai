@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "AI-Backed Blockchain Data Startup Web3Go Raises $4M"
-    excerpt: "Web3Go, a blockchain company offering data tools backed by artificial intelligence (AI), has raised $4 million in a seed round led by Binance"
-    publishedDateTime: 2023-07-05T17:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/ai-backed-blockchain-data-startup-web3go-raises-4m-1032428295"
+  - title: "What is Web3 and how does blockchain enable it?"
+    excerpt: "Web3is a vision and technology effort&#8212;coupled with economic incentives&#8212;to rebalance economic power in the web across service providers, application developers and consumers. This effort envisages a decentralized, more balanced world. Trust and power are distributed across service providers"
+    publishedDateTime: 2023-07-10T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: IBM
+      domain: ibm.com
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-06-at-5.12.28-AM.png"
+        width: 2126
+        height: 922
+        isCached: true
   - title: "Binance Labs Leads $4M Funding for AI Blockchain Data Firm Web3Go"
     excerpt: "Singapore-based blockchain start-up Web3Go has raised $4 million in a seed round led by Binance Labs, the venture capital and incubator arm of crypto exchange giant Binance."
     publishedDateTime: 2023-07-06T09:51:00Z

@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Top 10 venture capital firms investing in fintech"
-    excerpt: "With fintechs needing access to capital, we take a look at the top 10 VC firms that are investing money into the sector right now"
-    publishedDateTime: 2023-07-06T15:41:00Z
-    webUrl: "https://fintechmagazine.com/top10/top-10-venture-capital-firms-investing-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/4d31b47942cc4a29e0df04c78f69e979:781a737d79a3cb6a15879541c8c7f95b/fintech-top10-venture-capital-firms-investing-in-fintech.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What skills are fintech employers seeking in 2023?"
     excerpt: "Meanwhile, the WEF’s 2023 report says that for 73% of companies, analytical thinking will become the biggest draw among candidates within the next five years, so if you are looking to future-proof your career, focus energy on developing your analytical thinking."
     publishedDateTime: 2023-07-07T09:22:00Z
@@ -98,6 +84,20 @@ related:
       name: Reseller News
       domain: reseller.co.nz
     quality: 19
+  - title: "FINEXPO Brings FinTech Industry Leaders and Enthusiasts Together at FinTech Festival Asia 2023"
+    excerpt: "FINEXPO, the world's leading event organiser, announced today that it is hosting its first-ever FinTech Festival Asia (FTF Asia) on 27 and 28 September 2023 at the Royal Paragon Hall in Bangkok, Thailand."
+    publishedDateTime: 2023-07-10T10:15:00Z
+    webUrl: "https://financialit.net/news/fintech-startups/finexpo-brings-fintech-industry-leaders-and-enthusiasts-together-fintech"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 12
+    images:
+      - url: "https://financialit.net/sites/default/files/bfsi_11200x628-px.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "xzoyyHl3wW/j+F+ibdD8IGJkqBSMN8TelVBatJvz7lDUsy1OmTxasfYoHR/Kccpo1J8fYCj3pmT/wUEQyk5t0PM5yYiDQr1kTt1CZWCDSaACK/xKtVb5jEUIgnnFhkMIV/hH+RH+t2xUHkIhrOORj4o718+O5Hoe+B0pJMSwwPSZX5ugxY4oDQO8xy9cpUa4DPK4NpCqsTOPiISRUxqw9Y18I/bDLJ5Z7zHa6iv8qfF/5PkVcsoQ7grdkJlGVHRjmcaYl8aylkZOTZEQzFgC5OfEC0GDswP00oNiRuC++NFO9sIMxYhh0puqqh8G2hCHUesaXcDZ4xDg4xxCuPVnWvHEActxMdR3fgRwVW0hwbo=;X1Ts8P3Ueq9MteOOiIgSZA=="
 ---

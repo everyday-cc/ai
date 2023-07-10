@@ -83,6 +83,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 29
+  - title: "DigitalOcean snaps up Paperspace to enhance AI offerings"
+    excerpt: "Paperspace’s high-performance GPU tooling enables small and medium-sized businesses around the globe to test, build, and scale AI models in the cloud."
+    publishedDateTime: 2023-07-10T10:11:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2023/jul/10/digitalocean-snaps-up-paperspace-to-enhance-ai-offerings/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 19
 
 secured: "l0wWSfksrGRRwlP9o9OD4+VkggcMKsUb2gDqgLYdjsYVf9SGzE5sHLn0416PYr1NmKbtJkXWhDDLHbxZYG+J77gFHT0L4KOaiaFuhOMEANiXOqpWu+mR1A0H7Q00tHzE/Jug+Xl+ViWKtIsUZbqS01kQcNDkdAMrN5CDSMRAk/QKPYOCNCEiraB4M32N2t4NXhr7Efpa8i/gxUIqkgQfGjecmPx3f663fevCkvJxa+Jb7f2ruOdKGlZHXU314E1AhI/0t93PoMpXPYW8mI9FOE4udebvHUKkTXjHg1jSp+Pd9aSuaN9vrjTPwKndSOzayD7bUDflRKHX6AnCdfrof8i74QODZrreP9MOnCssroQMUGK9xUOXrcAnTyhtqXeoJXCH/JP7Duq/5rBH3g0PyIT8WqDClAYeNw1N8W4klNzP6zoqFWDJw6iQ41LOPmXPfSpf7QhBTBULPFmwr0K0+fVQCCX/lAAIoDRBKcZDluc9zqaAgi2kB41wzSXh9ua/nNVU3CTCWXiHfn+OlteLOw==;PgSRrv5VQfumrCDRwJLx1w=="
 ---

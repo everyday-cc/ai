@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Backed Blockchain Data Startup Web3Go Raises $4M"
-    excerpt: "Web3Go, a blockchain company offering data tools backed by artificial intelligence (AI), has raised $4 million in a seed round led by Binance"
-    publishedDateTime: 2023-07-05T17:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/ai-backed-blockchain-data-startup-web3go-raises-4m-1032428295"
+  - title: "What is Web3 and how does blockchain enable it?"
+    excerpt: "Web3is a vision and technology effort&#8212;coupled with economic incentives&#8212;to rebalance economic power in the web across service providers, application developers and consumers. This effort envisages a decentralized, more balanced world. Trust and power are distributed across service providers"
+    publishedDateTime: 2023-07-10T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: IBM
+      domain: ibm.com
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-06-at-5.12.28-AM.png"
+        width: 2126
+        height: 922
+        isCached: true
   - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
     excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
     publishedDateTime: 2023-07-07T12:26:00Z

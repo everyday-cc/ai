@@ -101,15 +101,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Are We Sick of AI Chatbots Already? ChatGPT Site Sees Traffic Dip"
-    excerpt: "Interest in OpenAI's ChatGPT skyrocketed earlier this year, but the chatbot's growth now appears to be waning. Worldwide user traffic to ChatGPT’s website dropped 9.7% from May to June, according to traffic analytics provider Similarweb."
-    publishedDateTime: 2023-07-05T19:08:00Z
-    webUrl: "https://www.pcmag.com/news/are-we-sick-of-ai-chatbots-already-chatgpt-site-sees-traffic-dip"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
   - title: "ChatGPT loses users for first time, shaking faith in AI revolution"
     excerpt: "OpenAI's chatbot has been heralded as spurring a revolution in the tech world. But its spectacular growth has suddenly slowed down."
     publishedDateTime: 2023-07-07T12:50:00Z

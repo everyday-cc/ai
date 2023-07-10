@@ -39,15 +39,6 @@ related:
         width: 1059
         height: 706
         isCached: true
-  - title: "Generative AI in games will create a copyright crisis"
-    excerpt: "As lame as this story is, it hints at a knotty copyright issue the games industry is only just beginning to unravel. I’ve created a story using my imagination—but to do that I’ve used an AI helper. So who wrote the tale?"
-    publishedDateTime: 2023-07-05T17:12:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "AWS CEO’s 5 Bullish New Generative AI Investments"
     excerpt: "AWS’ Adam Selipsky launches new generative AI products and investments, from an AI innovation center and startup program to AWS AppFabric and Amazon Bedrock."
     publishedDateTime: 2023-07-06T18:01:00Z

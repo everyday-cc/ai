@@ -7,7 +7,7 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-ro
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/netherlands"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
     excerpt: "Value in the AI Service Robotics market is projected to reach US$52.67m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.88%, resulting in a market volume of US$130 ..."
     publishedDateTime: 2023-07-08T04:39:00Z
     webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/belgium"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 49
+  - title: "AI Service Robotics - Spain"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$99.63m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.71%, resulting in a market volume of US$260 ..."
+    publishedDateTime: 2023-07-07T20:07:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/spain"
     type: article
     provider:
       name: Statista
