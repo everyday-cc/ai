@@ -28,6 +28,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
+  - title: "How AI And Automation Are Transforming The World"
+    excerpt: "Artificial intelligence holds revolutionizing potential across industries. Generally, AI can be divided into two categories: automation and augmentation. By automating, we can eliminate the need for human labor, and by augmenting, we can use AI to enhance the intelligence and performance of human beings."
+    publishedDateTime: 2023-07-10T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/how-ai-and-automation-are-transforming-the-world/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/how-ai-and-automation-are-transforming-the-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/how-ai-and-automation-are-transforming-the-world/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
     excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
     publishedDateTime: 2023-07-06T11:15:00Z
@@ -94,20 +110,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AWS Launches AWS Appfabric Empowering SaaS Applications with Enhanced Productivity and Security"
-    excerpt: "In the future release of AWS AppFabric, users can benefit from additional generative artificial intelligence capabilities powered by Amazon Bedrock. This service makes popular foundational models available and customizable through an API. AWS AppFabric is ..."
-    publishedDateTime: 2023-07-07T09:55:00Z
-    webUrl: "https://www.infoq.com/news/2023/07/aws-appfabric-saas-security/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 44
-    images:
-      - url: "https://res.infoq.com/news/2023/07/aws-appfabric-saas-security/en/headerimage/generatedHeaderImage-1688313683266.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vecow and Solectrix Partner to Accelerate AI-based Vision Applications"
     excerpt: "Vecow Co., Ltd., a team of global embedded experts, announced its partnership with Solectrix, a German provider of high-end electronics solutions."
     publishedDateTime: 2023-07-06T22:43:00Z

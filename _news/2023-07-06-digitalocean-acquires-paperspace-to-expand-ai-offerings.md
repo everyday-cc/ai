@@ -7,8 +7,8 @@ originalUrl: "https://sdtimes.com/ai/digitalocean-acquires-paperspace-to-expand-
 webUrl: "https://sdtimes.com/ai/digitalocean-acquires-paperspace-to-expand-ai-offerings/"
 type: article
 quality: 69
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: SD Times
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "DigitalOcean Adds AI Capabilities With Acquisition Of Paperspace"
+    excerpt: "The buzz around generative AI is forcing cloud providers to move fast in adding GPU-based infrastructure and machine learning platforms."
+    publishedDateTime: 2023-07-10T14:50:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ac198d45697841e291cf25/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "DigitalOcean acquires AI-focused GPU cloud operator Paperspace for $111M"
     excerpt: "DigitalOcean Holdings Inc. has inked a $111 million deal to acquire Paperspace Co., a Brooklyn-based startup that provides cloud infrastructure for artificial intelligence developers. The transaction was announced this morning."
     publishedDateTime: 2023-07-06T18:00:00Z

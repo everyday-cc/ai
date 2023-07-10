@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predict
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -183,6 +183,15 @@ related:
         width: 790
         height: 452
         isCached: true
+  - title: "Self-driving Tesla cars expected 'later this year', Musk tells AI conference"
+    excerpt: "I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai."
+    publishedDateTime: 2023-07-07T02:56:00Z
+    webUrl: "https://www.france24.com/en/business/20230706-self-driving-tesla-cars-expected-later-this-year-musk-tells-ai-conference"
+    type: article
+    provider:
+      name: France 24
+      domain: france24.com
+    quality: 31
   - title: "Elon Musk Says Teslas Will Be Self-Driving Teslas by the End of the Year, Again"
     excerpt: "Tesla CEO Elon Musk claimed the automaker could have a fully self-driving car on the road by the end of the year. Musk made the familiar statement during a video call at an artificial intelligence conference in Shanghai,"
     publishedDateTime: 2023-07-06T14:30:00Z

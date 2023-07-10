@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Gartner survey: Most corporate strategists find AI and analytics critical to success"
-    excerpt: "A new survey from Gartner has revealed that most corporate strategists think that AI and analytics are critical to their success."
-    publishedDateTime: 2023-07-05T21:21:00Z
-    webUrl: "https://venturebeat.com/ai/gartner-survey-most-corporate-strategists-find-ai-and-analytics-critical-to-success/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/GettyImages-1373296586.jpg?w=1200&strip=all"
-        width: 1200
-        height: 680
-        isCached: true
   - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
     excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI LONDON, July 6,"
     publishedDateTime: 2023-07-06T14:57:00Z

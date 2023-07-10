@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
+    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
+    publishedDateTime: 2023-07-10T13:37:00Z
+    webUrl: "https://kvia.com/ap-news/2023/07/10/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 31
+    images:
+      - url: "https://kvia.b-cdn.net/2023/07/AI.jpg"
+        width: 1200
+        height: 783
+        isCached: true
   - title: "Robots take questions at Geneva press conference, say they could be better leaders than humans"
     excerpt: "Ameca, engineered with social interaction in mind, dismissed the idea of starting a possible robot rebellion in the near future."
     publishedDateTime: 2023-07-07T16:01:00Z

@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
 
 images:
@@ -70,6 +70,6 @@ related:
         height: 300
         isCached: true
 
-secured: "4dUNsTItTzGzx/BphJ9/5F28Mqm8vZsA6e2yaAGS5woyJdw32ZnTZ6CqwXO87XAhhcdjknwpnzuyUDg894WxWauX5ulzGtyb8sNfNuyvOyzoNYo4hku5S/M9e7MEr7c0JkbpzY961XH4U0cgw+dSl56YXNrO9t1Jo/woRUJNVeyagWpf74YfIELCMYk6f8BARDOsxrtpWue1ll2JBiGtE3N2zeJVIei9thY4pu9ViJQ4qv8ZVlNXTuGJ0KwKnnF4rP1AUUBqxj7PsN2tltW72p0gQybg6dJKunGXhcdFuC1JKkiVDYmDZnjvzRyaQ6U1AqcKCJzolPHeFun0UZTlgZPbyFciXVVvPnL4tF8DBwg=;b5D0Laa9zXqrSUYe3xxhPg=="
+secured: "mFLbt2DIAUXuDeXeSbDp0tBwAQhbyObBQWJbVsqBZIUvho3/+NOJBfo/2Id3FthaLMyI8t5uby5VdQnDjz5v2VpNaEjLaOHEB1bZmUBAUIuzUkplCTB58N51PPieTudL3uZKwVUBqoOCZ7d9zDxOvL94oNlm3Ofar52jtnEgBZPJ+ywejOel2cPjrvk/KEmG5njUUWBtgObJbZQz8Jm8ADrIoyQOOjuFKWWR50kgHK8mQ41baDtqnxqSMAfpMppNuWHiUDBLTm3VjoEznhlW9YTfoh27EEHvqO87kt0aIBECrg2/jVUXzF1EP0bXyOyoErkpY6WW1yVt/d2/w30HDjXWa/oFG3QnmC5N/fNvdh4=;yumYWmb44gNa1dmOn6sFpQ=="
 ---
 

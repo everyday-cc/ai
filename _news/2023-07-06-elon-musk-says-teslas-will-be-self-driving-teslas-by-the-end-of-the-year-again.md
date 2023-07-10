@@ -187,6 +187,15 @@ related:
         width: 790
         height: 452
         isCached: true
+  - title: "Self-driving Tesla cars expected 'later this year', Musk tells AI conference"
+    excerpt: "I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai."
+    publishedDateTime: 2023-07-07T02:56:00Z
+    webUrl: "https://www.france24.com/en/business/20230706-self-driving-tesla-cars-expected-later-this-year-musk-tells-ai-conference"
+    type: article
+    provider:
+      name: France 24
+      domain: france24.com
+    quality: 31
   - title: "Elon Musk: Tesla Full Self-Driving Will Arrive ‘Later This Year’"
     excerpt: "Via a video link on Thursday, Musk mentioned he believes Tesla is “very close to achieving full self-driving without human supervision.” The company is so close to realizing its goal that Musk predicts the technology will make its way into production vehicles before the year’s end."
     publishedDateTime: 2023-07-06T16:44:00Z

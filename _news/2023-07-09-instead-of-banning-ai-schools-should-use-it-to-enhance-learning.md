@@ -3,13 +3,11 @@ category: news
 title: "Instead of banning AI, schools should use it to enhance learning"
 excerpt: "Letters: I am 13, so I know first-hand the efforts to combat ChatGPT, and the enormous potential of such technologies, writes Amedeo Bettauer"
 publishedDateTime: 2023-07-09T14:50:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/09/instead-of-banning-ai-schools-should-use-it-to-enhance-learning?ref=futurepedia"
-webUrl: "https://www.theguardian.com/technology/2023/jul/09/instead-of-banning-ai-schools-should-use-it-to-enhance-learning?ref=futurepedia"
-ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/09/instead-of-banning-ai-schools-should-use-it-to-enhance-learning"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/09/instead-of-banning-ai-schools-should-use-it-to-enhance-learning"
+originalUrl: "https://www.theguardian.com/technology/2023/jul/09/instead-of-banning-ai-schools-should-use-it-to-enhance-learning"
+webUrl: "https://www.theguardian.com/technology/2023/jul/09/instead-of-banning-ai-schools-should-use-it-to-enhance-learning"
 type: article
-quality: 57
-heat: 57
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -23,12 +21,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/e851d834aecf3d7210bc52c2c9bf823dbb26114b/0_0_4912_2947/master/4912.jpg?width=620&quality=85&auto=format&fit=max&s=7a3f24715fc7ac496f35c120ec2e0e0e"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "q9NtKCSqAlDJCoMGyAwMxxSEfaZJ5RHkXx4yeYVOCZTnBXABvk4eq3LhJ916LqrNYkvH5p/EBWH8sHPBKNyCFYdSOgb5epoIwrDDFPjC6CkxSQjeE3IDPgJ7Tgvc3T7G38vYgCn9jPhzjbYxRjNyRVjDvfH5MZuzEgCq0U+o7Y9IjjHQboKGbzYXFbJu5Bbbi0W487aJypK73maPlC8hyb8X4JURe+zoRk+pT12Nzi1I1ixvNh72Qr7E2HuVkzKEHVYGSq6BxF/tF+mmJXBfbo84yj/zBtr79QucNh+iZorG0C/30gjfeAT1TC4K8sg59Del535nbRMz7+8lahatdItvecdU2tdxVw5aHREfpxOwO2in324LNES2Gn7LitZpHLSmeXygJGkFEqnL//2VwOWXVIeliOU3flX6vKUEi7tolrQsvEWurNdkPrdgKcWzlGPxlT0/AdJOJDi7BPQakPaqlgjMtYbcatrMT613rwhxo4lCB8Z4P4ku/Q/Kv04CRSLK8WZ5lYdNA8WTqlPwmA==;bgDpuYrDWgC54s8KN86gzQ=="
+secured: "Lrfdv3z++/Wp0OT89pE1zc5olIs21+4W7Mr3ek/reoe690irb1TkJHlXxNpY9W4EGK9qXdPEwtTekbfcyKRHNXJ5jYE/wwbvjXTwkwvAHvHc6t7IhicfkkZRcKHDafKi8b6vNH8K2MFxOuGS0PeaMVuly7vA8hDchC7Pf0elncSROwGOeSxSRL2f18EToJbAl8vSj29ynCoJXzoG83gxlZfq/UI0X0cVt537XMn+jODU2nG+SNWlct+sUdigMTjm5HSiGMFuKcY7/AhVU9iAo6Ny+5Qmlv0kbABvpS5Rat7TR6JRvYK3uqUuY6qZByhbkQ5n40ymb6NCXEJT0J6q0HM470GVISRBuhGctwUcf48YmIqyS5ci22Zy1J8QoV4Kr6NfMg41mZ1DgK4BOxR/wRYZAlrP8IjcBj/odnzyObJ1YN/snLXp2xx2nLmM/CCT2yk9mkmFxofaaN2SvLYL6prsX//bDkjcMNLXd+urkbSRAjll80QIUIVR3NSJ6c0M6KYS6ih71DI2kLg1U1vfcA==;K/iQ1//ZOP7A8zawnXAM3w=="
 ---
 

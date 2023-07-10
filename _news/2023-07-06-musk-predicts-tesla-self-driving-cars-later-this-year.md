@@ -179,6 +179,15 @@ related:
         width: 790
         height: 452
         isCached: true
+  - title: "Self-driving Tesla cars expected 'later this year', Musk tells AI conference"
+    excerpt: "I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai."
+    publishedDateTime: 2023-07-07T02:56:00Z
+    webUrl: "https://www.france24.com/en/business/20230706-self-driving-tesla-cars-expected-later-this-year-musk-tells-ai-conference"
+    type: article
+    provider:
+      name: France 24
+      domain: france24.com
+    quality: 31
   - title: "Elon Musk Says Teslas Will Be Self-Driving Teslas by the End of the Year, Again"
     excerpt: "Tesla CEO Elon Musk claimed the automaker could have a fully self-driving car on the road by the end of the year. Musk made the familiar statement during a video call at an artificial intelligence conference in Shanghai,"
     publishedDateTime: 2023-07-06T14:30:00Z
@@ -225,6 +234,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "AxCS+dyRIpN/eKaxkegwoI7LAp4oQinj9w8B9p9hqPIcslKBBbv6cVXI5XQ0rGY0Pfyh8zC6g+yT3eY9vFSiml6kQiXZdzaWHSioUXWG7Iya2dkpbyFG0+It8C449ETJsy1Q8DrEht76wOK/qh6JeAEKy72JgKA3o4wF5t8Ebl4MFk64kJn12mMoUnZdcyi93j1/cibEq75ab5R2HYcR/KqHC51UKFAu7BD8zva+pPYsbutFSySPTZlwB3sLIph9pS0TunpEaGLbHBQxKenGcv3/jy+AMT95MHUhiFz3CDPYjdG9ECsoSNH8Hlr7qUNwMOryoFEezyDADAa8C0SH2b+HjUTwVk/ByBqfbN70SK+H4Ya69pBOnQySQs2YHFqUpMAKBTgNN0QrC78w22DGaO/PH54gRI2SX1H60IXkoOA3Af8saFoaWu/Gd73/7uiT+Joj7+e0/0ekVB9vT5EYrijwsxsf97gDzJm5MhBn3m1oafGoTnD9TqeNHLYw/Q2nT5Tg0RohUm1JZ4WmT/gJTw==;fEks0Gud5Q/bKxP/hf7CrA=="
+secured: "4b6Bt+g64gy+bXPI7hjZjKG1o4Zp4ATTQXu2Tmi1Z8O5CYFqerKNf9M64oDWDzfR/cAC9rtqOPZ1/aENL8pHXO5q9+MEWXWW3JlHIXra4dXzCnlvMEIEa/Cpg30ANcQo/H8sf56oiTCeLWta+gUMocOdAkIuFwhRjHuADk6axhf4/4GxoQJGETxp79/O+6awGWfLNmud6wXRvhEBvy8+pMLQGxtgA8HlHDNnNxjBvh+W6+8+Wm/5u2rkuE/+fmz8Hi3b+EleMaJC3Bb1jZTcTwdUBTBIuYepIVhOLO6bKtGxQ0SXyHT45r5h/lja+J2+4W6dGrnDUdoexTrKV5pm3/iuJSdQf40xDnyx8MEt0AA=;KQOYoe3wSsD1inOhsu3Qaw=="
 ---
 

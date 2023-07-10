@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ"
 webUrl: "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://i.tribune.com.pk/media/images/Nadine-robot1688715019-0/Nadine-robot1688715019-0.jpg"
         width: 5500
         height: 3668
+        isCached: true
+  - title: "The UN holds a robot press conference about the state of AI"
+    excerpt: "The robots were posed questions by journalists from around the world regarding their future roles in leadership, collaboration with humans and potentially replacing human labor in the workforce."
+    publishedDateTime: 2023-07-10T14:15:00Z
+    webUrl: "https://cointelegraph.com/news/un-holds-ai-robot-press-conference"
+    ampWebUrl: "https://cointelegraph.com/news/un-holds-ai-robot-press-conference/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/un-holds-ai-robot-press-conference/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 74
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/1dc3a963-18dc-48a8-9af3-bfd14282f792.jpg"
+        width: 740
+        height: 492
         isCached: true
   - title: "Odd News Roundup: AI robots could play future role as companions in care homes"
     excerpt: "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it."

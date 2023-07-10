@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot Conducts Orchestra in South Korea"
+    excerpt: "An android robot, named “EveR 6,” took the conductor's podium in Seoul, South Korea, on the evening of Friday, July 1, to lead a performance by South Korea's national orchestra, marking the first such attempt in the country."
+    publishedDateTime: 2023-07-10T13:12:00Z
+    webUrl: "https://www.insideedition.com/robot-conducts-orchestra-in-south-korea-82399"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 19
 
 secured: "umH+MFJBSCXoOtdZafjcou0fC4c6VmV26eatXwRzcQ081H71WHGE52Jskc1GXmL9omolSY50txrvX+4BOCrpp6pCFTKpM7yabi0PCfr8DZ1ZLGceX5o/8pgRaAkNj8UYhO5GWjIGB7ZQkptpyLXPbJok3UD928jxR4fkoYJyiZMOb4lzTpStMoP1EEz3eSp30uxN18CPFu/VX72WjHdCCsofx2wR5wmZ6v2NePYjuUgito7YxHCFwBDvHAtCrO0/b8s7dtGA+iU3o9C1xEBQXiRvwSszroAwDtRvG0BwkLvJLDGBs1jv/yNyyX19ens5vOT0+qFT3/WxVohnoSRLa8Bfptd+ugXAo68LpyDk/Ww=;BsCazhtV+8HsD7QlwpzVSg=="
 ---

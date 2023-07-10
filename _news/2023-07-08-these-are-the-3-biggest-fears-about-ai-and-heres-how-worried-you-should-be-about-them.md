@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Five Reasons Why You Should be Monitoring These Four Artificial Intelligence Cases"
-    excerpt: "The first wave of litigation involving generative AI and/or machine learning is well under way. There are (at least) five reasons why you should be monitoring four significant ongoing cases that involve artificial intelligence-related platforms and issues."
-    publishedDateTime: 2023-07-07T13:21:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/07/07/five-reasons-why-you-should-be-monitoring-these-four-artificial-intelligence-cases/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 11
 
 secured: "XfFuB6l2HHP073D0rMEqPzejobV9OJOLLBeaCcC61dBrAGvyJ7E6RfW+3HeIEgFpALk3Rw+tcukoTcN6Gcmy/azpMVfg24y8+08kYy5MNioAUnvswY+5/qYbV7paXffbxPpfCskwSydDeInrraZ/kMFdxix43jmr7DFocTa/iJWKSQaeeNu1+RwNUS8eFtTa51QpxLNFBBM3XoplV9kqP3deV8w1EMrXecKN5cyT1lGUYYPF3K37tlJWr4ZwH7X5/+VxEWT0tqGHseB/DZ/vpjidkSCDXFhBYFBheKWuKVvbl956I8PmHEpxgPUbkozP6lnnYN4EgGzVOLk6hdzm0zbPIATnhE5XgfFeS4H2ETI=;2Pku+kwsmpBwSGhzSlgRZw=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 106
+heat: 126
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64ab64847d894a41bf534a0b/0x0.jpg?format=jpg&crop=2557,1917,x116,y106,safe&width=1200"
@@ -31,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "A creepy collective of nine AI-based robots showcased at UN news conference"
+    excerpt: "As one of the world's leading institutions for ICT technology, the ITU is naturally highly interested in artificial intelligence and the increasingly prevalent new generation of"
+    publishedDateTime: 2023-07-10T14:17:00Z
+    webUrl: "https://www.techspot.com/news/99335-creepy-collective-nine-ai-based-robots-showcased-un.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 82
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-10-image-10.jpg"
+        width: 2000
+        height: 1308
+        isCached: true
   - title: "Navigating the ethical landscape of generative AI and journalism"
     excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
     publishedDateTime: 2023-07-06T11:21:00Z
@@ -41,6 +56,6 @@ related:
       domain: digitalcontentnext.org
     quality: 34
 
-secured: "8kCXRU+Q+Dqd1MvSJTGBffnHw3MAc9GkUoFMcmEWr66JPEZgB7vA6och6fwq4UhZCk9EItdJeEDc3i+HXTGYmbkg5WY1XhdTsiVMEZvdS+lU2LeESadPGYgVOs4TL5hFGqqeapCZhXAN3y6mCU1GSJ1Dx3YRNHETGxzatsFS4uZMgx/2kQXhjnZWz8r/mZjK2ZLCLQYCmPWJfOI9snsF6W5LZmWEsB5WN9I27bbHWkUf0N03jaASScb+sv7PWGslJdsRWFjKG/TiDlbdwjHXJK8jzTlN3iBP7tSxGXE0kQu1OmaT1nG2RcHX+1DaOYqFRAvbn1imIoMxxSBF5bIW/6/bWWach2tBuk+x3mCCcDs=;d9TJOpWWT1ik78WEtJTxUw=="
+secured: "i4YgIEv5KuSkmHFLhiSuQoH5WoQRAMNA28Ubp92NBD4gGCI9oIoa4UU7ovGQXzZq9fi9V/XMahvXp9/6yFQ/XNQhOq1ghStGPfICTNw9BRX4Pj41ODLXr6JdGIHm6VgOC0nyWZr3fJXPSjF2KrXjzVfxKYcBmPdIbWG+nQKcvRXCTdnLV9MNqXc5RoKOph3773LN3yjYGcsRpXcLUYGEpal5e4Tc5+XyiKA0C/EDOoPzn5w+qguJo6owFts3zkxmfCoEnv7kvKzmZfcLIruuS5n24slHUD3Eevz0pSRh1O6FdOLtEmLExSZL4cWT/rTbbphHnfr2HEK3zTtNixmawfEEgVBUiPMyJPIZG1eReCOaayIQT8zrIxu7boT+NURXrUYHZxLVtozGk/pZvVlx7KivkR2vDZrMtsVRDgzFTyhQolE0dKEsEOCXQLpk84UNpR5au9plW2yw9s5c4ZEOPqNpKjTQN2OY6BlcpAf1mlTmkJmJpZF0mG9sOqnUiqb2T89I+AB0D6EH2uhFd6UT1g==;t4sCuBovCqAUbicWQ9oSJQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 800
     isCached: true
 
-secured: "CdzLE60nhvJWW89O7vVR8ettjvPp1F5GyC20Y+M8P96dW+ssfkzQeLj8SD6fj4JnjdjOLOi0iYOuuKtvkC8Am6Ai3YErYbe/NlR3Ja7CYxB/7R1JkYXy6unDbVeZXx2f+c9g1FjX60d4qmuteoap2gwfZjbE0D2PYwJ8tOON/bQ7+b3AGBCXhTmWSU3hPhhODihSYuL5GDH0RcE4UGPkH/Os9axUJdVT2itNJZrZOGTXpOYWkmet32q1perhceiV7BHlXHP9G7KC0iBUalxYrRqTcM2iA0pssJbqyf2/+ZiHYpSKqUZHrFvLlBpKG3ltJdio3sBbu2ai0xkf9ipmjiIIyangyg0j/lrvhIt7aUQ=;iak4Q0kRCdKFucKjy9DQXQ=="
+related:
+  - title: "As Retailers Adopt AI, One Thing’s Unchanged: The Value Of Location"
+    excerpt: "Successful retailers are using AI and location data to predict and respond to business disruptions and opportunities, and gaining a competitive edge."
+    publishedDateTime: 2023-07-10T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/esri/2023/07/10/as-retailers-adopt-ai-one-things-unchanged-the-value-of-location/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+
+secured: "DYQIvxDzBUjbNzlihGs3meTsl+6mknVaocKAAqiOeagCv2dFj9PO33r7l/l3cZ3UcuXzAjy8nNIhPYIYFznhkY3wIb2i5YqTCQSnKcRV2MYfbdY9/EoWfNpl6t0srcepchO47qIpdCx6zg692ggYPF36US4ArPaiSa2yd74xWh/bwN4g/G2sNglzs0EtQUH3EP5e2kEc56Ss80Up21H0xmGL3Q7xNE7CAJQ6FnX0pC29bH1M+8O3AhqgTWfwj/TYoJzL2+yMlbDCVdIznkrqYARPV8ss+3i3DEHdiiJu7JvjsvqrM8gGxXbtzgMVw9UVXNGyDYawz6QjkjaPZmcKUZsDIQ0+xEZfQ+M/7bxvJVUV+cKZLUldOPkQihLr+ipYzCzjFmTeRRp2AOhgZfArGhcn5cItWSP1wUJEGubH4XeHcfltwGOwegf0Q33iDlaPmo3sibbSr2YpKniFlzhfmuRHfJhjy7TNLbPSA+6mf94ptrxi4AyLoOY7FUVNRA2bBuYC/BA0nF490rES52Li7A==;/gxo8VbwrsMkfEZ80/pN9w=="
 ---
 

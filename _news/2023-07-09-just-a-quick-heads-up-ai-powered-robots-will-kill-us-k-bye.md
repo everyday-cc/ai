@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ramp acquires AI-powered Cohere"
-    excerpt: "The finance automation platform acquired the startup to help drive AI-powered projects and solve problems for its customers, it said."
-    publishedDateTime: 2023-07-05T21:31:00Z
-    webUrl: "https://www.bankingdive.com/news/ramp-acquires-ai-cohere-fintech/685024/"
-    type: article
-    provider:
-      name: bankingdive
-      domain: bankingdive.com
-    quality: 39
-    images:
-      - url: "https://www.bankingdive.com/imgproxy/pNO5BpZOo8I-BP88Z6UGIxjuYttZqWDdqRxOfHkcLK8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1JhbXBfMS5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
 
 secured: "YloNIXUlaZmJoUJo/t1oKgpIWg8PtmRzVhSY+BLSDAoZb7A2SWb3JHFGTleuqfttZT6BGqn8GxfR07yeI4+5l/t5P+Wfg8aLczz38i/hT9jnTMBE9f4G1uHFU9lr2eU+8awgDSu/K7yxjb2XwofODhNh/1YkOGNaHfGztMk4VZSThdajxSTRCG6BnZiP0fO+DNA0zMKo8QiQI6m+aroMTt2rZZL8DyDPfE4WYPJUbl5wDh9e01puKzBpCD+DZZI5duc7Hx1V6DVF2hZk5SzE7B2NxqvtwbELCae6ficdtKQUjjcqoPkpDqnTzS8mNiaZlqoA1o07YYYitpwI4hpI4musaLqLVYOH2LEwRVmsQ7ABOLHbX5uKQSzhh81BXuQr/oy70AUIEDqP7OrobZBP8M+sj5G96/YRm13PgwmcK2FpvC4wjpvmVO1OORXNBg/x1trBF597HtCyFJUqEzOWMYq1bqWlt9OQffdbKIpCMsnxMAuR9OdMAx463LQDsOHyMY858zJfGrvgfKNv2ajvHg==;8zDMweDNQ+tiNhfL7qGOAQ=="
 ---

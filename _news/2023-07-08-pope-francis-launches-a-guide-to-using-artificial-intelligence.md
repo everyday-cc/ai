@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launche
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Miami Mayor Francis Suarez launches an AI chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
-    publishedDateTime: 2023-07-05T21:17:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
-    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 53
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/19/24495736-37dd-4d3b-9103-abfc805dffc9/thumbnail/1200x630/a6c44b98546d47942b5410043736db42/b-ptz-suarez-interv-wfor7ne7.jpg?v=46148a329842187f630d57e5930d74c4"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
     excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"
     publishedDateTime: 2023-07-06T11:29:00Z
@@ -57,6 +41,29 @@ related:
         width: 300
         height: 500
         isCached: true
+  - title: "Can AI save commercial real estate in San Francisco?"
+    excerpt: "When MosaicML, a generative AI platform company, decided to upgrade its office space, its CEO and co-founder, Naveen Rao, was set on San Francisco, even though he lives in Southern California. “Everyone is talking about doom and gloom,"
+    publishedDateTime: 2023-07-10T14:00:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/10/can-ai-save-commercial-real-estate-in-san-francisco/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xYTI0NjU0ODZmZjUyYTExZWYzNjM1ZmRhYjAzMjkyZg-L19wYWdlcy9oXzAzYjdlY2I3ZmI3NDJkZmVjNzRkY2UzODgyM2RjYmM4-300.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Pope Francis announces new AI ethics handbook: Report"
+    excerpt: "The handbook aims to provide guidance on the ethical implications of AI, machine learning, encryption, tracking, and more Pope Francis announces new AI ethics handbook: Report Artificial intelligence,"
+    publishedDateTime: 2023-07-10T13:16:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/pope-francis-announces-new-ai-ethics-handbook-report"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 34
   - title: "San Francisco group placing traffic cones on self-driving cars to disable them"
     excerpt: "The Safe Street Rebels, known for advocating for pedestrian safety and public transit usage, are calling their protest the \"Week of Cone.\""
     publishedDateTime: 2023-07-08T19:31:00Z

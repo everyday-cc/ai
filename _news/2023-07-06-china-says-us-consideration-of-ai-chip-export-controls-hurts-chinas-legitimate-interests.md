@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/china-tech-usa/china-says-us-consi
 webUrl: "https://www.reuters.com/article/china-tech-usa/china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests-idUSB9N38402E"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Tech Giants Race to Incorporate AI in China’s Offices"
+    excerpt: "AI integration is fueling fierce competition among tech giants like Kingsoft Office, Baidu, and Alibaba, who are developing their own ChatGPT-like models."
+    publishedDateTime: 2023-07-10T04:31:00Z
+    webUrl: "https://www.sixthtone.com/news/1013271"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 19
 
 secured: "ELJT+qG4nQP569hktigBcjXaWVJYlDQ1ozeoc/e6TD25fig0kS/6KVQsezYB0izB45GAATrGCAapcKrgmd6qWdqp1iNRZAcsN4rI310Pu+GZEH05T1cuZaJPWQ9sg+ZGrObHj1LHT8Zjm61SCcu7I1HjdlHPgboqf1bTpkponyiustQe2LO7TLvfT5055PyzGoqxiHG7ZSJ4wLzHqhDMGMNygpqJFuwUMTdfOahvkXUlUYHDNvDn63RuY1ABkx2UgbJyAFNn/CfqFYRfgYra0gmkjnr5vfGNqXwtdmqrUz+mLJTkwBlxFfQeX677GH9RqRwReVKpPLmNuRkhL6O5PqqnOzKD/mJLCU1KK0XU0Q0=;ZA90fE7bYxkO+OsEKWWjdA=="
 ---

@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "As AI Becomes Mainstream, Who Will Remain In The Fourth Stage Of Technological Business Development?"
+    excerpt: "The future belongs to those who can effectively harness the power of technologies, including AI, to solve real problems and create new opportunities."
+    publishedDateTime: 2023-07-10T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b51b21f424212056aa415/0x0.jpg?format=jpg&crop=1392,783,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "/YGfUTmLhvoFST7ezjsMP5QIl8iOoHsFY5xdljLbbkH5ot3kHLOn9rLnE/doRFdFGFclRA1lZX7AHTJVV/BAIZPyJ4nlTqCKqjTqYedKulLRwyXiFj7Hq1JD7QCwuMJm1POL+QRNaABclaq6N8fSa1DiI3QLAu/DZc/RNWm17Jdjw84WjCyaMuxJqHN89qDRcLOI5bf/bsLX1C+6/gNtwb4hHjYKuF5m/mq3zYMljYCs7dEQj8tKBGQ3Vc+5L3iWCbrOye5cOIkiBV6n8JnAp0kfHzkIkz8kWA+g9pSKSdsbRIgb1cZE6A4sChqT1ujpJtB5gQID/K730X6E+GmPfSgOs91Ig0hppJKk7dXm3DPIhk92cFwZ8lviWDHvHcsWyaKt24aQ/KdzAPMUMtFZXZTL1Iw88HKSbEBSoFO9bIY0EeYE1CpZmauCqMJrL8Z//YdudET7ap/xxaHipKPnrsN1lk5nBclNM79c5kZxUCgAuxyHJT6SJPxgQTXGoFBHOWEuf+MRoYDJBJbBtM5OmA==;81eqdPBIifPnjRH2OfQ4jA=="
 ---

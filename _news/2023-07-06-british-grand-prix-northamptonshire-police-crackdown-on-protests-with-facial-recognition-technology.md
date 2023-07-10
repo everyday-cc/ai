@@ -57,20 +57,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Facial recognition used at stadiums"
-    excerpt: "Facial recognition technology is being deployed at major concert venues and sporting events across Australia, with attendees largely left in the dark about what it is being used for. An investigation from consumer advocates Choice found the widespread collection of unique “faceprints” of attendees ( Choice );"
-    publishedDateTime: 2023-07-05T21:02:00Z
-    webUrl: "https://www.thesaturdaypaper.com.au/post/max-opray/2023/07/06/facial-recognition-used-stadiums"
-    type: article
-    provider:
-      name: The Saturday Paper
-      domain: thesaturdaypaper.com.au
-    quality: 39
-    images:
-      - url: "https://www.thesaturdaypaper.com.au/sites/default/files/post4.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "F1 British Grand Prix to use facial recognition at Silverstone to prevent 'criminal activity'"
     excerpt: "The race, taking place at the Silverstone Circuit on Sunday, will use the technology after last year's installment featured protestors occupying a high-speed part of the track."
     publishedDateTime: 2023-07-07T18:36:00Z

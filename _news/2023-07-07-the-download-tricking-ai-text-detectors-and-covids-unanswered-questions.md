@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "The Download: China’s semiconductor fightback, and New York’s controversial AI law"
+    excerpt: "On July 3, the Chinese Ministry of Commerce announced that the export of gallium and germanium, two elements used in producing chips, solar panels, and fiber optics, will soon be heavily restricted. Exports of the materials will need to be approved by the government, and Western companies that rely on them could have a hard time securing a supply."
+    publishedDateTime: 2023-07-10T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/10/1076043/the-download-chinas-semiconductor-fightback-and-new-yorks-controversial-ai-law/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 13
+
 secured: "XGeRoGx1qH3W63oxc1OCgVDYT6n+cboSjngv/AG/O1nNa44pL+WCm/sZCGZHLYcg4jb7LjEWVMP3rETeHYA6q+zlQYgTTXl2mCm0/hkOpcz+ZWghLLXluqcGlidUz7A/G2VU8TQc1mOHKbJJGU5waoamLVd5AvN53LaEx+n5P3wr1iYYuj5KLcMqpZ2TlvbN/RbhVSgQdL42Ej1Y2ZrDfOn/6umjlEe7GvckZi5fv/J81PSHqoTlB/Zc3JH0NzmfEtHfaGw3ZaNe4rSZFiZTDZllVEbMz1sDBpEPxYQcXUdyF+KMQ/eIcJQf6Bj8u87oH0pYwSxDX9H99eUtfeQ7nkN5QKAHnQWqu5rIUtlcn1YXh4apLsYcRXoWEB9gbedItnwdbS0hwvkh5VglmajaJnrRMxIkSM/SqklTQ7v8dEEwzyYk0bzy75EaAkI9II14GrddDSykjX9NqyrtA+fxxphmrEKDRHwrjzWa+oUedofFgENld09uGLrLqaY1cV4Q6HRqeRYnmCeM+BFUqNZ7jw==;xXPjwnFfRdtUbdxt2a9j8A=="
 ---
 

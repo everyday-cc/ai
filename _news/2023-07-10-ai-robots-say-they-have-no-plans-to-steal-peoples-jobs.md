@@ -101,6 +101,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "No plan to steal jobs or rebel against humans, says robots"
+    excerpt: "At an artificial intelligence (AI) summit in Switzerland, nine of the most advanced humanoid robots stated they have no plans to steal the jobs of humans or rebel against their creators but desire to make the world their playground."
+    publishedDateTime: 2023-07-10T15:26:00Z
+    webUrl: "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094"
+    ampWebUrl: "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp"
+    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp"
+    type: article
+    provider:
+      name: Odisha TV
+      domain: odishatv.in
+    quality: 54
   - title: "AI robots say they can run the world better than humans but won't steal jobs"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
     publishedDateTime: 2023-07-08T12:39:00Z

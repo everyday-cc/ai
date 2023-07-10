@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Service Robotics - Italy"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$114.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.09%, resulting in a market volume of US$288 ..."
+    publishedDateTime: 2023-07-10T09:28:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/italy"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Industrial Robotics - Germany"
     excerpt: "Value in the AI Industrial Robotics market is projected to reach US$0.37bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.47%, resulting in a market volume of US$0 ..."
     publishedDateTime: 2023-07-07T05:05:00Z

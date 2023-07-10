@@ -81,15 +81,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Company-X bolsters NZ fintech start-up Tania.AI"
-    excerpt: "Waikato-based software specialist Company-X has boosted financial technology start-up Tania.AI’s mobile and web apps. Due to a growing number of users, the volume of data being imported nightly from Xero was creating a challenge of triggering manual updates."
-    publishedDateTime: 2023-07-05T19:24:00Z
-    webUrl: "https://www.reseller.co.nz/article/707903/company-x-boosts-nz-fintech-start-up-tania-ai/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 19
   - title: "Provenir Shortlisted as Finalist for Asia Fintech Awards' LendTech of the Year"
     excerpt: "Provenir, a global leader in data and AI-powered risk decisioning software, today announced that its Data and Decisioning Platform has been shortlisted as a finalist in the \"LendTech of the Year\" cate"
     publishedDateTime: 2023-07-06T02:01:00Z
@@ -100,6 +91,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "XuJUUn9VcOYZA0h40I6zrMgSIApS+453GiuutkZOGrcT0mIGZO5+UJKxsB+Gn1sn7ELsZMSJNkvUt++XR5rkoUSmfpCJ7wDOImpM+9aRUrbe5ed2p9DqKcv2B2X7zFpfRPuE7+EGhOu4voIadd4Ss5BhW6kpvhWtpkzGzS21BxG+noAxKTNk3L5gopKvflw7IC2wO4CHjFzjcL/okhOHNFT7FnWuvE627Tmv2gWEeA0kdmfOngNQ5HcBKZQqGAGZCdVnKhcxzqMDwgowTDqjdyRXLo6nJ43SsOV6GgIzeIOxF01DVXkvTOEHKenkuHYvV0NjSuoCUv9BhkWbAQrwy4MGoRGkTwxmuxx2++Mf8qU=;5uTh8Gyncp/BUwTsg4fCHg=="
+secured: "cVSj9/4oB7qaAZvcXkJHOl7Ckr0r0Od54CSKCFPMwslg14SI0WQ1CHVVX7h2y33HoAKA0Oe3GDKcyv66VPk1X845lKkpdxq/97wIYz1H1++q6rV0CV6hycPhU+RPUHytjN8uhqRJdNo38thKLzyJnqRQmKwC9LaaOcRRRDNEGQfU3DTxYC/2FYkYk5ynYEtt0UawUyA6HpCm232iBPz5gGG8mzYURpzRi+y1YvR6cz+G11YyOYvzevFn1kvs1tIEwpUO+fB6l5bn24DMptPjq0Y+cVgR0tfKgmDspm+ki9dG9WLGhy/UzmA2lnYGYyNyBd4xD1p65Dl3kDSlxJEwqKUk1D6uQfdhRM8jmoH387HFExCpspOtbrGSBYd2UM6pTlYk89wPjb4Vkg234DX7xyES7bK9Ga9G065ms8WQbSoYqr2sq+SbzrP8tMUfG6pbPPL/vAuOq+FG+Q5OITY9BMOmvJTJaLQt/SzNjRRlPBmolUp9sZRRIgwsdC+5VJs0m+/v1QHfTW4O/KFhb4n3mw==;fOW3arLY/6kIFs/0wNFUrQ=="
 ---
 

@@ -35,22 +35,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "Miami Mayor Francis Suarez launches an AI chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
-    publishedDateTime: 2023-07-05T21:17:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
-    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 53
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/19/24495736-37dd-4d3b-9103-abfc805dffc9/thumbnail/1200x630/a6c44b98546d47942b5410043736db42/b-ptz-suarez-interv-wfor7ne7.jpg?v=46148a329842187f630d57e5930d74c4"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
     excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"
     publishedDateTime: 2023-07-06T11:29:00Z
@@ -65,6 +49,29 @@ related:
         width: 300
         height: 500
         isCached: true
+  - title: "Can AI save commercial real estate in San Francisco?"
+    excerpt: "When MosaicML, a generative AI platform company, decided to upgrade its office space, its CEO and co-founder, Naveen Rao, was set on San Francisco, even though he lives in Southern California. “Everyone is talking about doom and gloom,"
+    publishedDateTime: 2023-07-10T14:00:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/10/can-ai-save-commercial-real-estate-in-san-francisco/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xYTI0NjU0ODZmZjUyYTExZWYzNjM1ZmRhYjAzMjkyZg-L19wYWdlcy9oXzAzYjdlY2I3ZmI3NDJkZmVjNzRkY2UzODgyM2RjYmM4-300.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Pope Francis announces new AI ethics handbook: Report"
+    excerpt: "The handbook aims to provide guidance on the ethical implications of AI, machine learning, encryption, tracking, and more Pope Francis announces new AI ethics handbook: Report Artificial intelligence,"
+    publishedDateTime: 2023-07-10T13:16:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/pope-francis-announces-new-ai-ethics-handbook-report"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 34
 
 secured: "wCpPWtG8gwKYcezsPQksm8vek+q5KCOHDK+THA/rVfkdTtNU3kKDh59lRU/aVBU7tQfYt2rdkKAn6v03a017zzXho7QTzd8eZoR4cQNgSyiIlWiIWI0D+7IpMR5ioz0AlOyCLp6HhHdAs0vLGy4lq3aDYSeF8sUbbVAimLE2YEpWDSbYDQA9ZAoO7X9Dcj1+9fF/EIp+RndaIeCOqJg1ff5uhkxqCYUOT1oZNkliQGA7EFMHtS2txSFjbWhHJc0UKTDjq6SmVLK1HYSbCdw/KwzQqq1gfvvFO3g0SlfudeLRGFnObt+ObRjIDzh296O0WyFn4+1AmSE8VoHoNidftMKWp1KG5a6v0mR15B18IxYE/m170UJ2NmJdDodFYkZR5Cqnnx3J16/rGpaELbm+sxHx4AW4qyegVHK6+kxirTbHlU1AvxbnJUecQ2h4nJJKma5qrbS+xSvL8QIlKBaVvbBl//j9i+YYn7HLELQF4o6mFVsnf/RaU1inSlCpummvt/AXVQGEjr8RD8CHnLCgDg==;cUPy9iCVRDAtuiYWBIaR2w=="
 ---

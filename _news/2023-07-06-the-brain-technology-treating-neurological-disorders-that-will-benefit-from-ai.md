@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-tech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "As AI Becomes Mainstream, Who Will Remain In The Fourth Stage Of Technological Business Development?"
+    excerpt: "The future belongs to those who can effectively harness the power of technologies, including AI, to solve real problems and create new opportunities."
+    publishedDateTime: 2023-07-10T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b51b21f424212056aa415/0x0.jpg?format=jpg&crop=1392,783,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Looking for Biotech AI Stocks? 3 Names That Will Benefit From the AI Boom"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI is coming to biotech in a big way. From protein folding to drug screening,"
     publishedDateTime: 2023-07-09T00:43:00Z

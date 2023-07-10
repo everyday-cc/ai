@@ -54,6 +54,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Tech Giants Race to Incorporate AI in China’s Offices"
+    excerpt: "AI integration is fueling fierce competition among tech giants like Kingsoft Office, Baidu, and Alibaba, who are developing their own ChatGPT-like models."
+    publishedDateTime: 2023-07-10T04:31:00Z
+    webUrl: "https://www.sixthtone.com/news/1013271"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 19
 
 secured: "MPujnYKNU8Xdk5qln2DxWvgfVLk/eIdNHJSE7Yi4PGmhp4hSo2/R4a2sLR8cDyVmSuuP/vuCSoF2AuF0u2RNh8uBYf7K1YrbtLqdC0owvVmdtGGkbCTY/X9okhLVmc0Yg+x79bupms1xS8UsXCo//Wrifp1QlFF1ytYLqlyuFo3e1c/ESm1BQyPeGFL6E8MEDWPs7oFYi8QZxjIg5oiz3zhYbcG6oGmk2eDjq4G9YiqWkIE3zY35lxGDF/fm2pl8riekoG4KJn50xHyRykXECkt0dRyGvJn4omo0N6IVPkenIAB64DwThJEmlDu2B5fHuyVWHLTznpmj9vGDXaem183hgf8yKYXPNA7SKajKTdY6rjPDz/S/fYnN9sSPyNNFkhwWuJZ7cPWJHl8/+engGoBhKiUmLgvPHef7w60yBPf/hA3dfTt/8Xh+VNQ2Bsadzq0DmxKfMhIayHkAtifSKyuDRrDfDeRwrCLFR3ExvUiTSKZNXsmW3HUZVxpBLXi1krOz+2vja026MJLLojoZcw==;9xtaaDQ80iIP9sAddUlslw=="
 ---

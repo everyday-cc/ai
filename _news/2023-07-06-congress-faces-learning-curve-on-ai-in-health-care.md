@@ -150,15 +150,6 @@ related:
       name: The Lima News
       domain: limaohio.com
     quality: 34
-  - title: "AI in Health Care: Regulatory Landscape & Risk Mitigation"
-    excerpt: "Health care, like most industries, is grappling with the proliferation of artificial intelligence (AI) and the novel risks and benefits it presents. Balancing these risks and benefits can be especially challenging for attorneys, as the laws and regulatory ..."
-    publishedDateTime: 2023-07-05T19:17:00Z
-    webUrl: "https://www.natlawreview.com/article/ai-health-care-regulatory-landscape-risk-mitigation"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 19
   - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
     excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
     publishedDateTime: 2023-07-07T19:44:00Z

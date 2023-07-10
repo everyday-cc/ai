@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI is forming a team to rein in superintelligent AI"
-    excerpt: "OpenAI is forming a dedicated team to manage the risks of superintelligent artificial intelligence. A superintelligence is a hypothetical AI model that is smarter than even the most gifted and intelligent human,"
-    publishedDateTime: 2023-07-05T22:18:00Z
-    webUrl: "https://www.engadget.com/openai-is-forming-a-team-to-rein-in-superintelligent-ai-214333388.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/HqhGvFsUOChgmfgRV_4PvA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/67615990-1b79-11ee-9fcd-589a780dca15.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI launches new alignment division to tackle risks of superintelligent AI"
     excerpt: "The makers of ChatGPT have announced the company will be dedicating 20% of its compute processing power over the next four years to stop superintelligent AI from “going rogue.\""
     publishedDateTime: 2023-07-07T11:29:00Z
@@ -99,20 +85,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
-  - title: "OpenAI forms research team to tackle dangers of AI ‘superintelligence’"
-    excerpt: "OpenAI LP is forming a new research team to tackle the potential dangers that could be posed by future “superintelligent” machine learning models. OpenAI chief scientist Ilya Sutskever and Jan Leike,"
-    publishedDateTime: 2023-07-05T21:19:00Z
-    webUrl: "https://siliconangle.com/2023/07/05/openai-forms-research-team-tackle-dangers-ai-superintelligence/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/openai-2.png"
-        width: 989
-        height: 520
-        isCached: true
 
 secured: "yesljPGpVGtpFsq5f4WA77UhwIeXNTGB90tZbqGdaekpCe+TnfNRjRtPHTvowNPGGeXcVrtcwAtAPIfpyz7qnoOVC5+6fHrUgiynzJ1gNbqoY455Dn1Q5+Qk+0yC5R9tuRxD3IOO3M4iTpBbSA2uVRZ9/WM1GJt9zLKmCjy6QoCcn9w8M8PHBoCRaOZsGMVqbfjXYcSAAb4JFiWrpMLli/jO1gOVu0uUTF26zNJRVVf2rC6kd5Jw8/rSpqzP7G5ZEObsM0IMLRMP1glKhVmbnKtSoLERlCnnuT+CCqyeWJsqJcRcbLuZBKUwONWYn48l2+bCHOGyyXiYz2/nM6TGdEhU0RlgSy7xl9ruS7i/LWq5Dipsy//aGu3hFU3HyX/9p9qFViZIXemVQJKqfDGuNKmYmar5kOIkqv8BVr/bYSqdNTo1zQXsboenZi8hVmPjEgaIgfS9/h5TB8ZECq8R7u0fGFrn9kxqsxVUMrXmiQE7q92iSA3XNxaRBzaxQVJRHL3k7bBRSisW+8ZPy9lA3A==;LioAvyzXyHpUyo9LHVXnmw=="
 ---

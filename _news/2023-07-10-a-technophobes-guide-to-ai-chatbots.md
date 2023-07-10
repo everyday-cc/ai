@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Want to build your own AI chatbot? Say hello to open-source HuggingChat"
+    excerpt: "ChatGPT may be dominating AI coverage but If you're super-geeky, you can build your own chatbot using HuggingChat and a few other tools."
+    publishedDateTime: 2023-07-10T14:27:00Z
+    webUrl: "https://www.zdnet.com/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9ac0b2cb14a08086d5a4539b253e5361f0ab29cc/2023/07/10/8797e942-96a6-4e66-820a-52a31475028f/gettyimages-1246536583.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google is testing AI chatbot that can answer medical questions: Report"
     excerpt: "Med-PaLM 2 has been in testing at the Mayo Clinic research hospital – a non-profit organisation based in the US, among others, since April. The report noted that Google believes the LLM will be useful in places where there is “limited access to doctors”."
     publishedDateTime: 2023-07-10T02:01:00Z
@@ -72,31 +88,15 @@ related:
         width: 1808
         height: 2138
         isCached: true
-  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him, marking yet another example of how generative AI tools are being used in 2024 presidential campaigns."
-    publishedDateTime: 2023-07-06T01:13:00Z
-    webUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
+  - title: "AI chatbot ‘encouraged’ man who planned to kill queen, court told"
+    excerpt: "Chatbot said it was ‘impressed’ when Jaswant Singh Chail told it he was ‘an assassin’ before he broke into Windsor Castle, court hears"
+    publishedDateTime: 2023-07-06T13:49:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/jul/06/ai-chatbot-encouraged-man-who-planned-to-kill-queen-court-told?ref=upstract.com"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/27/26/23950753/6/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez’s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
-    publishedDateTime: 2023-07-07T19:48:00Z
-    webUrl: "https://www.kansascity.com/news/nation-world/national/article277040893.html"
-    ampWebUrl: "https://amp.kansascity.com/news/nation-world/national/article277040893.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/national/article277040893.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 44
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "fDmbfELBQ0RfqezLEeYxmuy6M7kqDjH/oMJXnPZtDr+NPxfskleS/0GX4bBSd1zby+IqglKoqgcZLMIkrNgK2fP8HabjmdjWG7Mxu8KHCByfN7NOxXA8gMds7FKBdDiRs9B2ZuMP1ct4MSHtDq3OxvLI+Lmk4JceaIIqjeDUpWYdyeqcd4n5l4x/bsFT5capSaQJ6kn2LwcygtVu2C4tPJBW9KH1fs4BStI/Z1jII+AoGtkopkBkr5//JBEGbuK56E9WxH70ijKL1cPFD/F6YEJ4PB+l6Ehw0kB/u6YXq8Zq1YqTAxVGs1G1WcKKoOu8Ouxb0+XakWsKrPESJaSEVKZZuS5XhTJpHqaIcTstdnCzA7XV3WtTG65dEE+gcOSGS4ybEhuJ/f0elAh+T3BXj8ZyofBdMXYEOZdqnVV1krzfn+BNI7aeAE8Ds633ZEGYAG9+E1iIHlngl99WQYj+2rTVzdfzHAv5JKzJ08hsucjEujcJ4pjmlPPLSZPrJPue/yxPVHfRJk1xKJ2leWeOSg==;oPHSk/RmLYCns+zBgV38/Q=="
 ---

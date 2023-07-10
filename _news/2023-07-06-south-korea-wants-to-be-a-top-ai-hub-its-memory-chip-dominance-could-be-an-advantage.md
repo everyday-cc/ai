@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot Conducts Orchestra in South Korea"
+    excerpt: "An android robot, named “EveR 6,” took the conductor's podium in Seoul, South Korea, on the evening of Friday, July 1, to lead a performance by South Korea's national orchestra, marking the first such attempt in the country."
+    publishedDateTime: 2023-07-10T13:12:00Z
+    webUrl: "https://www.insideedition.com/robot-conducts-orchestra-in-south-korea-82399"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 19
 
 secured: "yb6ESmGCyx1kJcf8QIDyf+AmT8TSzBbvfjd7GOHN6H4zN8H3GY2URJPB3s9VioGAuDDuwbQILRRnu3xorBqXaSYzYOsflIHsCZO297v2Ds0rqbjs+fihV9+2x5ZOAB44NyRoqxuYL5jpgfENY+deJ/3tBu7tsLIbTlewWryiYSQcfw+UGE1eQtpOCei8jlPkqyrPBqaEQV3E//XYTXjJZi/nAFu/RQUZEHoVqmeX0Au6zTNMVOLl+47R6Hx2IbguP1gh6ikBTwHTXXpiZAK9qabsLprHj/9TLcGU1EMC80XukZTR7mk89AqQQBvaB6CyF86WpZiH6OKh+VPeYG1qgkfS9fJt3KwT1a3930vRvGk=;SLRB61slEXg25rDjhRMBWg=="
 ---

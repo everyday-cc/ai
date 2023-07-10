@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Is an Existential Threat – Just Not the Way You Think"
-    excerpt: "From open letters to congressional testimony, some AI leaders have stoked fears that the technology is a direct threat to humanity. The reality is less dramatic but perhaps more insidious."
-    publishedDateTime: 2023-07-05T19:56:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think"
-    ampWebUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/c8ba128/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdb%2Ff3%2F9562a34bd0eeecd34cc29020dba9%2Fshutterstock-424934146.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Opinion: AI is an existential threat, just not the way you think"
     excerpt: "Worries peaked in May 2023 when the nonprofit research and advocacy organization Center for AI Safety released a one-sentence statement: \"Mitigating the risk of extinction from A.I. should be a global priority alongside other societal-scale risks,"
     publishedDateTime: 2023-07-08T16:00:00Z

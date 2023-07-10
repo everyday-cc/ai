@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "DigitalOcean Adds AI Capabilities With Acquisition Of Paperspace"
+    excerpt: "The buzz around generative AI is forcing cloud providers to move fast in adding GPU-based infrastructure and machine learning platforms."
+    publishedDateTime: 2023-07-10T14:50:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ac198d45697841e291cf25/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "DigitalOcean Acquires Paperspace to Expand AI Offerings"
     excerpt: "The increasing demand for AI/ML cloud solutions makes Paperspace’s GPU-powered infrastructure and AI/ML-focused software stack valuable additions to DigitalOcean’s portfolio."
     publishedDateTime: 2023-07-06T16:52:00Z

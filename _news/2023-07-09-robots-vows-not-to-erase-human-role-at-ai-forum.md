@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/node/1525829"
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Panel Of AI-Enabled Humanoid Robots Take Questions From Humans"
+    excerpt: "The world's first human-robot conference was held in Geneva, where a panel of AI-enabled humanoid robots told the United Nations they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-10T15:30:00Z
+    webUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955"
+    ampWebUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://c.ndtvimg.com/2023-07/3ise4dbo_air-robot_625x300_10_July_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "China tech startup launches humanoid robot at Shanghai AI event"
     excerpt: "Fourier Intelligence, a Chinese tech startup specializing in rehabilitation robotics and artificial intelligence, on Thursday unveiled its first-generation humanoid robot at the ongoing World Artificial Intelligence Conference in Shanghai."
     publishedDateTime: 2023-07-06T09:07:00Z

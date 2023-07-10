@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Panel Of AI-Enabled Humanoid Robots Take Questions From Humans"
+    excerpt: "The world's first human-robot conference was held in Geneva, where a panel of AI-enabled humanoid robots told the United Nations they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-10T15:30:00Z
+    webUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955"
+    ampWebUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://c.ndtvimg.com/2023-07/3ise4dbo_air-robot_625x300_10_July_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
 
 secured: "EYAktAY5jK45ivyWIJmLQiVqkn40+/5LBPoz/7cg6LyLYJsM2nR6QLvM2cBGYKhBvlAjGeQVaKR1s1wV7jLwt1J0lLHwNdT3wkY59NIHHfRATSD+50Eo00m8iLmbN9urQmwaZO+FbmOTUyuMnBxk/ikhKwidEtvxCjnvpG7oKuG22CQamlLWuZq7KJB1bpvpNATGFUkYfZv/TZQsrPGbeyYMru4sxyr70Bpt/JltxwJRgWaKx6ndbOPCZgxa9uT+tcPqSmSPpdDJGka6Db4r6Z27la/lQEV4S2gxkNIvbN4tXynL4PZjTRiayMq6ToUkc7HjGMvlEy39/gc1th1tWB5Yelfyb1Xh7eNqjKJCyq56zPWziCuJ6TNEfbe+QOn0+L9yVg+BX6KxNhFS/ZutmGtlZXA2ZEPs8ydaSt7Fc1nmeWOgRIh9uO9EqZ0JuF4DxhUsUE7T88XsemGB/HQYe9dsxR4m6e1VA1oAcrrTfqJ/4j6K+xaN+xzOolUes4QFO9NeogHHjT1QvtzJcAsHhg==;CQjywSg2dMTXb13jL6EgSg=="
 ---

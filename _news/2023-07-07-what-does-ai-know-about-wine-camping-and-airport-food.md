@@ -153,6 +153,20 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "China, AI and Earnings: What Investors Need to Know Right Now"
+    excerpt: "The battle for rare earth and critical minerals is alive and well and is spreading into a 'chip war.' China, artificial intelligence and the upcoming earnings season are on my mind, after a holiday shortened week and a whole bunch of jobs data,"
+    publishedDateTime: 2023-07-10T14:00:00Z
+    webUrl: "https://realmoney.thestreet.com/markets/china/china-ai-earnings-what-investors-need-to-know-right-now-16128321"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 39
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/6d5263cc-488b-11e8-a89a-a7c6266bff86.png"
+        width: 1152
+        height: 768
+        isCached: true
 
 secured: "HmNFozTf/WlbAtfzS37dpnVZOtkg0AoerWSiX6eG9Ci10d5aelcYdylm/viO2d8UuecVHKF2M5fPGlXMXYT8A0V2cq1yekzcJQBFkgI/VnapxD67+rICiGuem8kn6VsUKrLzxoh0RhvTNOj3gd2SkgXAHD8Jt0CYu726K1rXVL+eepyWG7/xKqIg6b3dWggOyZ59bYvFBUAvhh5YkAWH+wfzG+/5C8MUrKDmpXEHi5wNaPZGELRzowKu2UG/Xuo4eW1HFoP5Qe6T0H38tXx/qT5GMgHm2WvlBRQW7KHUG40091NJyWkTMDvvi7iGw+B+C1j1Cv8K/StM7iWjbzqGcPLzJC/XUDE68iD87crENHPZIJA3kfkIW6FS3znsY8TLJwxASHI7vzH7feIylDzmyMYBB/5a1TEOd6No8NLZyHIxsjnQBj4Iu/tdrs8+rj0zvIRhSc4F6W/pMPsYNpy50xzdEBvG5pHIrYGZFsplQOUNzFsXF+K2SmIDrrw9jQjUtTxFYb6RFgxx4T6tdMhAYg==;qZr+0wVVioqzWBTBXRlogA=="
 ---

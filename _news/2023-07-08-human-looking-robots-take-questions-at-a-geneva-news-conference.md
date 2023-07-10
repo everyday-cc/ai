@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-
 cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "http://d14e0irai0gcaa.cloudfront.net/www.mariettatimes.com/images/2016/09/15131252/mt_fb.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
+    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
+    publishedDateTime: 2023-07-10T13:37:00Z
+    webUrl: "https://kvia.com/ap-news/2023/07/10/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 31
+    images:
+      - url: "https://kvia.b-cdn.net/2023/07/AI.jpg"
+        width: 1200
+        height: 783
         isCached: true
   - title: "Robots take questions at Geneva press conference, say they could be better leaders than humans"
     excerpt: "Ameca, engineered with social interaction in mind, dismissed the idea of starting a possible robot rebellion in the near future."

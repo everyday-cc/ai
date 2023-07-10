@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tech Giants Race to Incorporate AI in China’s Offices"
+    excerpt: "AI integration is fueling fierce competition among tech giants like Kingsoft Office, Baidu, and Alibaba, who are developing their own ChatGPT-like models."
+    publishedDateTime: 2023-07-10T04:31:00Z
+    webUrl: "https://www.sixthtone.com/news/1013271"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 19
 
 secured: "qd1CBzYQxeSV30ITbqmnyf9TRAEa0fK8ns+itGowzqUblsxrlwd3f23p6nqHSZIn75wtrbtE9NsSVzhKYGz0jRq1DmOyKiJE3oEZ4abp+kBERfJPJUPcKM4UciSaKu9230jgAPGt8b6RNgjmPweyoAkq67+ijSzmak5R2RdrlXRKtijdEvrIsdwqYyzx1cMetIyY6Arl3lQal+FoN9OdQFuZPNqq4TCQbOBLvb7Bh/+qMiMdHPZVUtio+ZUba2hbhIBh3uJupZ8sqDchkJKDAz1orCFAxig1gpr/B1rJbRJTDeJbMUev6MrQOmW+rXb3wqhknYxtbWtY2xU6qHlEruXusUs1WM+kwFDEc40ZUPHHRg99qb1jBjxO0LQwhdyDQMp3LDGv5vquzouB+W1Zc1UV2686nvPLZwWutEgAbXDeRmGxOYvw6/VeiYdsQ+jRI/r+qFGDhOHidMoQD+rAuDKm9R8bSjdSieIQh40tgXL5+eeXzDPJpBMnnEWtvOnABQsCk8d6YqneMLXxNHVSZg==;ORYGh37lPuZEAHHljKTFLw=="
 ---

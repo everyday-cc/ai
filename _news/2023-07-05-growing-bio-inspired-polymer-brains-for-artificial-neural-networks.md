@@ -1,40 +1,26 @@
 ---
 category: news
 title: "Growing bio-inspired polymer brains for artificial neural networks"
-excerpt: "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The wetware comprises conductive polymer wires grown in a three-dimensional configuration,"
-publishedDateTime: 2023-07-05T00:01:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/994504"
-webUrl: "https://www.eurekalert.org/news-releases/994504"
+excerpt: "Advanced Functional Materials) While neural-network models have achieved remarkable success in applications such as image generation and cancer diagnosis, they still lag far behind the general processing abilities of the human brain. In part, this is ..."
+publishedDateTime: 2023-07-05T08:22:00Z
+originalUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php"
+webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Nanowerk
+  domain: nanowerk.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/75ace491-3ac5-4506-8cdc-a74e9c2efb27/Rendition/low-res/Content/Public"
-    width: 700
-    height: 250
+  - url: "https://www.nanowerk.com/nanotechnology-news2/id63278_1.jpg"
+    width: 1075
+    height: 393
     isCached: true
 
-related:
-  - title: "Growing bio-inspired polymer brains for artificial neural networks"
-    excerpt: "The development of neural networks to create artificial intelligence in computers was originally inspired by how biological systems work. These 'neuromorphic' networks, however, run on hardware that looks nothing like a biological brain, which limits ..."
-    publishedDateTime: 2023-07-05T19:02:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/07/230705105850.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-
-secured: "P/HbnctdMJZpDudCw9JN49iIaXEUgGYBoTENb2S9A8bOQxLXSVkoPqOKFRxcWoHTivQwhjjkbri/WBwAneXnFxBxASlBvpmxy/IQ1hOyyLJNosx0Tg+UtOUfD2tHnpOd2d9I2Lb01XnFoYDf5ffRrkyoyjzERkBl/fcQgGz6UUZHPJS8l02HZ9b7k5Or3RQinCDxCpG7PS+bG5+ESE+zc6bVIGAH9i8/COeyqEZtZ5GCVV6ckW2bEPEH7BQHwXrkRu+uJSWfIJenAWnpU5zlaD3XiRsgrrOS7tWMHa1pzJAzYVPuAsL27g0NnFcuOEDTK6XaziHqOLLII/MvZDF5mouowpS6Q4+UWzVB8iRoFig=;hQIhVPz6iOupEZWus2OAWQ=="
+secured: "5LGoUjOjf5Sp1AFhYdk0Qj7eLV7nEwg9//Hdn1Bt57mWdfmwxyygn3vj8Ws5N5LAoV5urLrtM2MrlOjIW5V5Y0v6qQiTfS2iVSd8yS0K6nGtb/Qa8Pxi61dzBsESDVN2Nn31+/J9WxRqfFc8pTG0QAJKPci2SDvUQniglQespJd5s+YMW4ifZyJMePYi4cRWa7Lptv7jDRV2c+EMzE9apU0onosnv3lMGTXVtXNWmJFLwZlqJwxNQpxCTBGjW0knXCZ5A8Lj8RD2UNKuD4TgsXVW7P03ZK6ThCaslGjtqqTeTKkGmOEJWlPxgOtC0WNORY0A9q1uG/ktLax2jroffzm/Fx6qquVaY4J3e8mrYag=;FE8qzURGt3FN9ldLa2g94Q=="
 ---
 

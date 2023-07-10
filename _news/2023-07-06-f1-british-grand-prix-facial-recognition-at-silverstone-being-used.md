@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/f28c4811e4a3cd748aea9ec6a35d64938c8d48aa/0_43_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=41922cecdda0905795c8c4468dab053c"
         width: 620
         height: 372
-        isCached: true
-  - title: "Facial recognition used at stadiums"
-    excerpt: "Facial recognition technology is being deployed at major concert venues and sporting events across Australia, with attendees largely left in the dark about what it is being used for. An investigation from consumer advocates Choice found the widespread collection of unique “faceprints” of attendees ( Choice );"
-    publishedDateTime: 2023-07-05T21:02:00Z
-    webUrl: "https://www.thesaturdaypaper.com.au/post/max-opray/2023/07/06/facial-recognition-used-stadiums"
-    type: article
-    provider:
-      name: The Saturday Paper
-      domain: thesaturdaypaper.com.au
-    quality: 39
-    images:
-      - url: "https://www.thesaturdaypaper.com.au/sites/default/files/post4.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "British Grand Prix: Northamptonshire Police crackdown on protests with facial recognition technology"
     excerpt: "At last year's race protestors invaded and sat on the track, with police boosting security to prevent the same happening this weekend. | ITV News Anglia"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-th
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-that-can-answer-medical-questions-report/amp_articleshow/101618423.cms"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gadgets Now
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Want to build your own AI chatbot? Say hello to open-source HuggingChat"
+    excerpt: "ChatGPT may be dominating AI coverage but If you're super-geeky, you can build your own chatbot using HuggingChat and a few other tools."
+    publishedDateTime: 2023-07-10T14:27:00Z
+    webUrl: "https://www.zdnet.com/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9ac0b2cb14a08086d5a4539b253e5361f0ab29cc/2023/07/10/8797e942-96a6-4e66-820a-52a31475028f/gettyimages-1246536583.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google testing new medical AI chatbot that can answer your medical queries"
     excerpt: "According to the WSJ, an internal email that it was able to access stated that Google thinks its modified approach can be especially useful in nations with “more limited access to doctors.” Med-PaLM 2 was trained on a selected collection of demos from medical experts,"
     publishedDateTime: 2023-07-10T09:52:00Z
@@ -57,31 +73,6 @@ related:
         width: 1808
         height: 2138
         isCached: true
-  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him, marking yet another example of how generative AI tools are being used in 2024 presidential campaigns."
-    publishedDateTime: 2023-07-06T01:13:00Z
-    webUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/27/26/23950753/6/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez’s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
-    publishedDateTime: 2023-07-07T19:48:00Z
-    webUrl: "https://www.kansascity.com/news/nation-world/national/article277040893.html"
-    ampWebUrl: "https://amp.kansascity.com/news/nation-world/national/article277040893.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/national/article277040893.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 44
   - title: "A technophobe’s guide to AI chatbots"
     excerpt: "While the risks are real, it’s becoming increasingly clear that systems like ChatGPT aren’t going anywhere. Are you ready to use them?"
     publishedDateTime: 2023-07-10T09:36:00Z
@@ -96,6 +87,15 @@ related:
         width: 506
         height: 325
         isCached: true
+  - title: "AI chatbot ‘encouraged’ man who planned to kill queen, court told"
+    excerpt: "Chatbot said it was ‘impressed’ when Jaswant Singh Chail told it he was ‘an assassin’ before he broke into Windsor Castle, court hears"
+    publishedDateTime: 2023-07-06T13:49:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/jul/06/ai-chatbot-encouraged-man-who-planned-to-kill-queen-court-told?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "QHz3Yb5MQu2hiXOQLm/VHjfCzPPRY7QStjqmdnyFT1jj/91WWV6mxZkbldS7F4yqIet+hBLMMhQ/SAHMX09xkwpQWpFXOvOwtIrCzyaseWfjRZR62oBG5lsyNnHJzHXnfgXxQrcl319ccL8vi3HkKm0Nyji0K3PpuiAJQzbUziF+z7aThc8YvPCmshQZpwav/0Te4JxNzycALCZM2WkBvv6KwwnMErt9RbRC43YXdlJQWEx0leyjoXBl0NiwDAz7X9OwOKkjuZWjwdCdDHrhdUAJrIrtw1gvn0lquGFg4obzv/dJtBQF90P0x6KcfWrcHvliwGt5y3/ecYJcjPhgfpe92yEZsZCLJDuKXiSKNRU=;BGWPPkTE6IvumZSm0mKFvw=="
 ---

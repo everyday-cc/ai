@@ -1,0 +1,63 @@
+---
+category: news
+title: "Panel Of AI-Enabled Humanoid Robots Take Questions From Humans"
+excerpt: "The world's first human-robot conference was held in Geneva, where a panel of AI-enabled humanoid robots told the United Nations they could eventually run the world better than humans."
+publishedDateTime: 2023-07-10T15:30:00Z
+originalUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955"
+webUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955"
+ampWebUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
+cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
+type: article
+quality: 74
+heat: -1
+published: false
+
+provider:
+  name: NDTV
+  domain: ndtv.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://c.ndtvimg.com/2023-07/3ise4dbo_air-robot_625x300_10_July_23.jpg"
+    width: 1200
+    height: 738
+    isCached: true
+
+related:
+  - title: "Robots vows not to erase human role at AI Forum"
+    excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
+    publishedDateTime: 2023-07-09T08:54:00Z
+    webUrl: "https://www.albawaba.com/node/1525829"
+    ampWebUrl: "https://www.albawaba.com/amp/node/1525829"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 74
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "China tech startup launches humanoid robot at Shanghai AI event"
+    excerpt: "Fourier Intelligence, a Chinese tech startup specializing in rehabilitation robotics and artificial intelligence, on Thursday unveiled its first-generation humanoid robot at the ongoing World Artificial Intelligence Conference in Shanghai."
+    publishedDateTime: 2023-07-06T09:07:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202307/06/64a67cc9a310bf8a1d238e8a.jpeg"
+        width: 607
+        height: 404
+        isCached: true
+
+secured: "Tcb9RXmatl1e1PsPvOTkmffUS1oQWyhajEKhsaLNzeSS4wytUK50wZ0SCLQS6T4Wgegn86yWhjCxgnqB+Qm5yqam7vqUEs6L6lJIsG/Pqg9Va9Uvl30lHxKW7PaxZEJSHIxAlhP6MsI3w4QZzPtWswJ0TqnfriI/fkIGOPjGLM2kobCAmfWGbKl/Z7aXLoq0nfkZ/K4SXrMVFnWj5iQxi5kJAyD5eP12yxFQUycuRT6AZz5f+YZPCSe6kBxfeG3TDHlO9lBvgjrgV2TzdpkvpVztzw7YycdGf6DpJj86+g74KjUo3YX52213dnr1xnR1l90F+dQiSpn4Ads/IQ1IuMx2v/uimTc1S3Q1/0zr1uQ=;u39zJlIvL7poiwbwLjfW8Q=="
+---
+

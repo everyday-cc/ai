@@ -75,15 +75,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Company-X bolsters NZ fintech start-up Tania.AI"
-    excerpt: "Waikato-based software specialist Company-X has boosted financial technology start-up Tania.AI’s mobile and web apps. Due to a growing number of users, the volume of data being imported nightly from Xero was creating a challenge of triggering manual updates."
-    publishedDateTime: 2023-07-05T19:24:00Z
-    webUrl: "https://www.reseller.co.nz/article/707903/company-x-boosts-nz-fintech-start-up-tania-ai/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 19
   - title: "FINEXPO Brings FinTech Industry Leaders and Enthusiasts Together at FinTech Festival Asia 2023"
     excerpt: "FINEXPO, the world's leading event organiser, announced today that it is hosting its first-ever FinTech Festival Asia (FTF Asia) on 27 and 28 September 2023 at the Royal Paragon Hall in Bangkok, Thailand."
     publishedDateTime: 2023-07-10T10:15:00Z

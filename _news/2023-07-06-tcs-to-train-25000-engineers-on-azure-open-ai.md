@@ -222,6 +222,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Tech Mahindra aims to transform knowledge search with integration with Microsoft Azure OpenAI"
+    excerpt: "Tech Mahindra’s Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility in a unique way,"
+    publishedDateTime: 2023-07-10T15:40:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=159549"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 58
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "IHiS to develop a secure ChatGPT for healthcare with Microsoft"
     excerpt: "Secure GPT is a custom-built common platform using Azure OpenAI Service that will enhance productivity for healthcare workers."
     publishedDateTime: 2023-07-07T10:22:00Z
@@ -296,6 +310,20 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/introimages2014/140106REDPaoliNSAQuantum.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "3 ways Moveworks and Microsoft Teams use AI to improve employee productivity"
+    excerpt: "Moveworks on Microsoft Teams uses conversational AI to help enterprises improve employee productivity and free up IT and HR staff. Learn more."
+    publishedDateTime: 2023-07-10T15:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 51
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/07/Moveworks-feature-image-5-30.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Ihis Inks Mou With Microsoft To Deepen Collaboration And Trailblaze Generative Ai And Cloud Innovation In Healthcare"
     excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcar"

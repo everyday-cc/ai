@@ -53,6 +53,15 @@ related:
         width: 400
         height: 204
         isCached: true
+  - title: "GreyOrange Named the Leading Global Autonomous Mobile Robot Vendor in 2023 SPARK Matrix™ Analysis"
+    excerpt: "Quadrant Knowledge Solutions recognizes GreyOrange as industry leader for its warehouse fleet management platform and robots"
+    publishedDateTime: 2023-07-10T13:11:00Z
+    webUrl: "https://www.dcvelocity.com/articles/57953-greyorange-named-the-leading-global-autonomous-mobile-robot-vendor-in-2023-spark-matrix-analysis"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 6
 
 secured: "F4xB+OCmFD+luX01/dLu5vHM//lryMyJOjLUAHnuZYb7TI3A56QTPUokELESV3M3YRtKx/YWUrh1N5wkMICGS6O27nGe09DB5jk5lTYiDydpx8YbXJXitszKtxbE3la1OEtgQ+Fff5dmukQnuOiTZYJrjzx7WM1cICLko6b+HzZenaMgOh0eQkJMxO78a3EMa8Wm9prUX+/IOVtOfdhuXD3VikviIFNI9G5mPWTlVREmPoaS+R+91UfuAwBYRpZFFMHrZNYLi0wGL6buzwQPrhX5Inl6spd/OlXegFEfu7eg9fM83/fZsG5rAHaywN5xw7oLuTdRhApuB7KB5GFZkIetgUyh2TVZKTkg1iuTwcWZi8YwhMZtTZ0TRztP+gIZq+r275vE96JR7kX4xwxxM+Cu0vc25LwK4xWJHVCeIz3mJ725uq1rLgTZ3RULd9yO3mB2vk3h00NGVNMwjywzP5sqeWUte6jnneVonGrMt49m1o9qPNvGaYkRbA7bgpuOWGHMTqnwgsrEvwlF5YhyjQ==;Qunx2HLlgDYprLvqSI2rEg=="
 ---

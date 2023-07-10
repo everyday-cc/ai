@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Gartner survey: Most corporate strategists find AI and analytics critical to success"
-    excerpt: "A new survey from Gartner has revealed that most corporate strategists think that AI and analytics are critical to their success."
-    publishedDateTime: 2023-07-05T21:21:00Z
-    webUrl: "https://venturebeat.com/ai/gartner-survey-most-corporate-strategists-find-ai-and-analytics-critical-to-success/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/GettyImages-1373296586.jpg?w=1200&strip=all"
-        width: 1200
-        height: 680
-        isCached: true
   - title: "infinitii ai enters Quebec's smart infrastructure market with machine learning analytics sales with two major customers"
     excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\") (CSE: IAI) (FSE: 7C5) (OTC: CDTAF) is proud to announce its entry into Quebec's smart infrastructure market by contracting with two new large-scale customers ­– the Montreal Metropolitan Community (\"CMM\") and the City of Montreal."
     publishedDateTime: 2023-07-06T12:59:00Z

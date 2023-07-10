@@ -1,0 +1,50 @@
+---
+category: news
+title: "Sarah Silverman sues OpenAI and Meta claiming AI training infringed copyright"
+excerpt: "US comedian and two other authors say artificial intelligence models used their work without permission"
+publishedDateTime: 2023-07-10T12:31:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
+webUrl: "https://www.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
+ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/577cdd44c75e672b4fa0f8d34e365956c238dc05/521_15_4449_2670/master/4449.jpg?width=620&quality=85&auto=format&fit=max&s=bca6624c1fc1e4ad6a043cc213b0eb59"
+    width: 620
+    height: 372
+    isCached: true
+
+related:
+  - title: "Not Funny: Sarah Silverman Sues ChatGPT and Meta After AI Allegedly Trained on Her Book"
+    excerpt: "Silverman is joined by authors Christopher Golden and Richard Kadrey in the lawsuit against OpenAI’s ChatGPT and Meta’s LLaMA."
+    publishedDateTime: 2023-07-10T15:40:00Z
+    webUrl: "https://gizmodo.com/sarah-silverman-sues-chatgpt-and-meta-over-ai-training-1850621182"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/35b4daa9c6a52ba49177fdd475cbff9d.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "GAbvH0KfCagRrSI89QRuu+cKMdeBbckws4+YPhkwTFV0EfWNe2kZHxopNKhAWmRq8GcpnqnooQ62UjeqgGEJHXfrgEu0P2sQcozZABqbev61UXbA2IrOicH2LmoBWTpu5bgqB4j31/oZX1lSGrbWbrYrLZnIuxJqsBH7sg2t9+ROB1AEyeTvIRm5iRTDChi1IPOIkVzHTTckewDKvSDuzzomYnynZ2nry/gGqW5EU2Vv2jOZ9wR4rwrUC7TgoLMs1qth0ToCsHvyoqht7cWxrmLYoOUghD4H9GBN0Y/ijaYkQ9ISuLYlN50RSPQ8GwQxQMwpfxPwn6FTZWfiUnxH+USW4RJgTn6SrVX6/kAwjRw=;oLWi+HXfw4oV/QakOcLgbg=="
+---
+

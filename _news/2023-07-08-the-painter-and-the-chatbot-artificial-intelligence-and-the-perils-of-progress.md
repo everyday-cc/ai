@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Want to build your own AI chatbot? Say hello to open-source HuggingChat"
+    excerpt: "ChatGPT may be dominating AI coverage but If you're super-geeky, you can build your own chatbot using HuggingChat and a few other tools."
+    publishedDateTime: 2023-07-10T14:27:00Z
+    webUrl: "https://www.zdnet.com/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9ac0b2cb14a08086d5a4539b253e5361f0ab29cc/2023/07/10/8797e942-96a6-4e66-820a-52a31475028f/gettyimages-1246536583.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google is testing AI chatbot that can answer medical questions: Report"
     excerpt: "Med-PaLM 2 has been in testing at the Mayo Clinic research hospital – a non-profit organisation based in the US, among others, since April. The report noted that Google believes the LLM will be useful in places where there is “limited access to doctors”."
     publishedDateTime: 2023-07-10T02:01:00Z
@@ -57,31 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him, marking yet another example of how generative AI tools are being used in 2024 presidential campaigns."
-    publishedDateTime: 2023-07-06T01:13:00Z
-    webUrl: "https://www.chron.com/news/politics/article/mayor-suarez-launches-an-artificial-intelligence-18186180.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/27/26/23950753/6/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez’s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
-    publishedDateTime: 2023-07-07T19:48:00Z
-    webUrl: "https://www.kansascity.com/news/nation-world/national/article277040893.html"
-    ampWebUrl: "https://amp.kansascity.com/news/nation-world/national/article277040893.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/national/article277040893.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 44
   - title: "A technophobe’s guide to AI chatbots"
     excerpt: "While the risks are real, it’s becoming increasingly clear that systems like ChatGPT aren’t going anywhere. Are you ready to use them?"
     publishedDateTime: 2023-07-10T09:36:00Z
@@ -96,6 +87,15 @@ related:
         width: 506
         height: 325
         isCached: true
+  - title: "AI chatbot ‘encouraged’ man who planned to kill queen, court told"
+    excerpt: "Chatbot said it was ‘impressed’ when Jaswant Singh Chail told it he was ‘an assassin’ before he broke into Windsor Castle, court hears"
+    publishedDateTime: 2023-07-06T13:49:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/jul/06/ai-chatbot-encouraged-man-who-planned-to-kill-queen-court-told?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "Hsw+SF9rkZGyMkyiE/u/z1asJgngcuMku/6VPfZSeA0n5NeswWE7a6Eu7ZSJ6VC/1Nt3NyCzpaa4HovC5/0+/yh1AA9OXYPkIX/CoiMDTuT3599NYd/wna6OHSUrN5+HERbfLmUaW6pEQ+qG4na8hhgqyKNdtm98QTYT63YV+nZd3tFvTYbN8rinLrMkV4WP7E4a2Wh4sPbmu8bU2TMp1x69tpV7xEzryiW+azemZ+z7qRLErkNKsyCiaEhcKbK3J8KTky9JKjEjHmTdKK6J5KcCvFdjLPvh2+68l+pT8ax/RkBUJyzSw7Wc5+lL28SiksmlFikUubsjICoEOEiQmPCx4DNu5Of4dOmy5/8E4gwAAJITegfm6qPeuD1SJycVzdWkqwawRT6bIeLnuDXDzEi8O0+Vj9Az0d8wbVPJWPDmeJ75mgBCRLrNARuZ5kjfMfTaTZ8piDMMmo8A/t7751UtaIXBsA2M5emT9QgyVH0nUb2Wel7eMkaHqYRYF5uZ49nfrz6FaUQM81fiiSdh7Q==;0GHHeWUdXha/EUTxgj3LAg=="
 ---

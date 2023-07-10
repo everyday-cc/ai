@@ -18,20 +18,56 @@ topics:
   - AI
 
 related:
-  - title: "Mindbreeze Incorporates Generative AI"
-    excerpt: "Mindbreeze, a provider of knowledge management, has added generative artificial intelligence to Mindbreeze InSpire to improve customer experiences in natural language processing, text generation, and data security."
-    publishedDateTime: 2023-07-07T13:47:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=159533"
+  - title: "Generative AI is coming for your job. Here are 4 reasons to get excited"
+    excerpt: "Any discussion on the impact of generative AI usually comes with a debate about the potential loss of jobs. But while some estimates suggest AI could lead to the automation of more than 25% of jobs, the research also suggests that fast-emerging technologies could lead to new opportunities for employees."
+    publishedDateTime: 2023-07-10T14:55:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/153076-0623_Concentrix_480x610-ORG.png"
-        width: 480
-        height: 610
+      - url: "https://www.zdnet.com/a/img/resize/b0072dba480b7e46c6d881d98d732b4aa5678a55/2023/07/10/d5970d20-a245-4559-947c-0e9f787c0604/gettyimages-1258096414.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Enterprise hits and misses - generative AI wants to take your job, but will it? Edge computing has traction, and (almost) nobody likes Meta's Threads"
+    excerpt: "This week - generative AI is coming for your job - or is it? Fresh data sharpens the enterprise AI pursuit. Informed Buyers look for new sources of influence, while edge computing may have more customer attention than AI."
+    publishedDateTime: 2023-07-10T09:32:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-generative-ai-wants-take-your-job-will-it-edge-computing-has-traction"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-generative-ai-wants-take-your-job-will-it-edge-computing-has-traction?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-generative-ai-wants-take-your-job-will-it-edge-computing-has-traction?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 20
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
+        width: 411
+        height: 292
+        isCached: true
+  - title: "The Next Platform for AI-Generated Art: Your Bicep"
+    excerpt: "Twelve days before last Christmas, Marina Rosa, an artificial intelligence engineer in São Paulo, Brazil, walked into a neighborhood tattoo parlor and laid her left arm on the table. Rosa then asked artist Nadine Guerra to give her a tattoo made up of various elements,"
+    publishedDateTime: 2023-07-08T12:59:00Z
+    webUrl: "https://www.theinformation.com/articles/the-next-platform-for-ai-generated-art-your-bicep"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
+  - title: "Five Reasons Why You Should be Monitoring These Four Artificial Intelligence Cases"
+    excerpt: "The first wave of litigation involving generative AI and/or machine learning is well under way. There are (at least) five reasons why you should be monitoring four significant ongoing cases that involve artificial intelligence-related platforms and issues."
+    publishedDateTime: 2023-07-07T13:21:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/07/07/five-reasons-why-you-should-be-monitoring-these-four-artificial-intelligence-cases/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 11
 
 secured: "DNu38taJ7o1sPb3+lZsAbd/SkRzyPj4VIhsKZ+rtdFkWu/z9aueqSxlUprgZV6Gp5uzyN2RlzV5avAA9LXMERSDtdkBw6zKIARoGenyDx6YRh+wsUQsk/WA0e3GdPpQADEFBr9ux1s8OM8UKSVF1/PcsweiDxksNwqQs/0Be2of+aK4cc3xodHkyGG0OW0LvL9UmWrk7OUdtmsPOFyvWBeaJXdyEtux775ZgZqsWijX1Mq6+nzL3RvtxGnbxacWUtBjF4s9CCwb93p2dMVlKsPhsvQeZzn/YNF2Mj/+6KYG5iaB0sIlBffgBuFtukdB212+5byGNpUsR1Vn9nrr9va7DaUzH6+mrr5kelbmpTAw=;Gqv26LsLbzkUh3j0qy8VlQ=="
 ---

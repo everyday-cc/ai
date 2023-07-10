@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tack
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -140,15 +140,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "AI summit showcases human-like robots to aid UN mission"
-    excerpt: "Dozens of humanoid-like robots will take center stage at the United Nations “AI For Good” Global Summit, showcasing how AI can be used to support human wellbeing."
-    publishedDateTime: 2023-07-05T21:20:00Z
-    webUrl: "https://cybernews.com/tech/united-nations-ai-summit-robots-human-wellbeing/"
-    type: article
-    provider:
-      name: cybernews
-      domain: cybernews.com
-    quality: 34
 
 secured: "cu05MpqZuqYCewhHfjhYj5auAQcFFCpokK6rTKm//a2h8nc7MXdMEbgIRkVv8slSSYSAzZN4qqT8oVOLnXHFSsRBT41yPJpAZXpXqrKzNNomXr+/LUyeTt19An/wiXyNSK09+giteyrB0WI+C61ii1FCQNmtm3GcQAuvRufoVIyiY15RZoEmsKR4zsj3WXYARZQeuGUgaHSNcLdwmGOxpfcpgrIyV6Un596DuoVPPhx5FCBsKsi1P5fk2F8UWo+a6WQFR0Uf5RQWKnQAJCWaP1uY1hBDS1clGUDrjxaNai3B5iyzFDE7k5bakG+heyHorl1yndyvBWCPWm5V9GoaFD1C/InWT4LXjLdI8SrlWA8=;FOUj18W20YZDO+LSv6gsqw=="
 ---

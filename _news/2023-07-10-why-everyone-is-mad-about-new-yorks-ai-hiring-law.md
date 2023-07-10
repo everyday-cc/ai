@@ -145,6 +145,20 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "China, AI and Earnings: What Investors Need to Know Right Now"
+    excerpt: "The battle for rare earth and critical minerals is alive and well and is spreading into a 'chip war.' China, artificial intelligence and the upcoming earnings season are on my mind, after a holiday shortened week and a whole bunch of jobs data,"
+    publishedDateTime: 2023-07-10T14:00:00Z
+    webUrl: "https://realmoney.thestreet.com/markets/china/china-ai-earnings-what-investors-need-to-know-right-now-16128321"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 39
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/6d5263cc-488b-11e8-a89a-a7c6266bff86.png"
+        width: 1152
+        height: 768
+        isCached: true
   - title: "What Does AI Know About Wine, Camping, and Airport Food?"
     excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
     publishedDateTime: 2023-07-07T14:24:00Z
@@ -155,6 +169,6 @@ related:
       domain: inc.com
     quality: 17
 
-secured: "SUrCplxZE1EDxjaeuSCEScssMuGJsOUpKLqVoiXF42iuVZ4/zUBo2NyLuAU42s8K+gjNKfCitmAn7pNNvFb71wvwnfMmZPwcu8b9s/USwxCmpvW+PZBP78PabI1Vrew1FoyD1dGPDSwyDIiFG5hdvGI+kz35osd1DO2+Pch5M8N21Iqah38Zz/j1YtFEvy/QfNIBv+e8XB8bieSrUk3H5s4gY4YoNfPIwrcFJGx/PZlMCfDfJwbIlWV78HlvsrTQ2OcT7BFgsWjiHe9fru/p9zaUc2gv5ojUFKpn5KuCoRRIJNY+mO4fCfvNQb7yRXac73+yJQpr3o/fQ/3275Bc0mTzLOs5gXCHKBVksmPMXW0=;96UB2zRKQo5qb2hpnp8jyQ=="
+secured: "WN/Vbt8uC0eUycUwae6KVT3ZzAA9j1tfiiYxmgJ/L0aXenQZ9AV1rSwuTXDIO/GUsck+nVCf9BirRS3Hy6yXYLD6rrAf5NY8CfFdE6EmaQgAURiUSROgKR1Bc21yC0mEfFGqzHXeIBSapuWJ9NjtlF+ursZArE2Kb82o2AkyD+U6WCjbSIDi/9eJfM3+pgv19TncHH3IIag2R+mUrI0eOvR+/NTumV/gLNba4kREXBdD+lyV0BEYSGMROFS/Q+Ro9vT6zJgLXynzoIVHvj5SjlTZDzCiHqrEtzKOWl7RYf02+X1ECeL3HqKwd/UL20I9FvUKBVlKQSHy1f6VNorH4JsWMpqWh8UNXWz7ScNndJ2lfuqSSeDtx2Z8LIKf71HOtSzoL2XegBsWbbXu4xL91HvHg0zl9WwKjtADuIe5vs4EdyGuDErRxZFSK63hy8CCy4V8M9EOeQ+awBYbs4yCLXwz8VCPJ25Uuji55fnGbRb5yIEIjU5+tLlyEEo1zOz+kdc6QBk3Ms6sQuIksDM7Fg==;Qagxud3a1em92bjuA85G1Q=="
 ---
 
