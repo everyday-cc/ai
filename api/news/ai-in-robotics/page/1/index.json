@@ -227,7 +227,7 @@
       "originalUrl": "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -313,7 +313,7 @@
       "originalUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -476,7 +476,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -666,7 +666,7 @@
       "originalUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -961,6 +961,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-02-the-robot-among-the-animals-an-optical-illusion-that-will-boggle-your-mind.md",
+      "title": "The Robot Among the Animals: An Optical Illusion That Will Boggle Your Mind",
+      "excerpt": "Did you know that Greek mathematician Archytas of Tarentum created the first known “robot” in the 5th century BC? Quite amazing isn’t it? This shows the power and skills of the human mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/find-the-hidden-robot-among-animals-1688292364-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/find-the-hidden-robot-among-animals-1688292364-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/find-the-hidden-robot-among-animals-1688292364-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/find-the-hidden-robot-among-animals-1688292364-1",
+      "publishedDateTime": "2023-07-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones.md",
       "title": "AgriTech Innovations 2023: Transforming Farming with AI, Robotics, and Drones",
       "excerpt": "The field of agriculture is advancing day by day. Today, we have bought some latest trends and innovations concerned with Agriculture.",
@@ -1238,49 +1281,6 @@
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-service-robotics-poland.md",
-      "title": "AI Service Robotics - Poland",
-      "excerpt": "Value in the AI Service Robotics market is projected to reach US$22.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.77%, resulting in a market volume of US$54 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/poland",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/poland",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
       "tags": null,
       "images": [
         {

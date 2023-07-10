@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-scien
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "5 Artificial Intelligence apps you can use for your sports training and fitness"
+    excerpt: "AI in sports is gaining traction across the business, with applications ranging from post-game analysis to in-game activity and even the fan experience."
+    publishedDateTime: 2023-07-09T11:06:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 68
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Sports-AI-workout-app-fitness-trainer-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Z91rVPGBAJ8BYEmhxnH64J+8c+VZ5P4HglbjkrzSWrSQI78Bc7gs6H1R6oX0bMocNJIWibGtQb8gXCh+3WxWQtMlu//TUijxIzDSFRAt4gJoFj6wBGczAfepkSwdr3yBF/5N8uovIclofL3Q2cnCVB4xv4e/fmxc3PYLGVnou93Oh45kUntHEViH5H7Bhr4TQnkjaioJFLrc7xEjU8djC7KiO2VT2jqVQOAjQccK3Zoa5AsdN+Hpj2x7i21FFi5iNfhZhDa3H5RpeZT+b0eYtcLjOQwlzQrb8Hj96hcMffAGKBBR4Pquz8Mq40zpAmS+QAvW5Y++ryIO/9Pn8u6lmeVh0gRnBpkYfi8lpF+KX/k=;t/mRYWyUAm9hZg7+0VtDVQ=="
 ---

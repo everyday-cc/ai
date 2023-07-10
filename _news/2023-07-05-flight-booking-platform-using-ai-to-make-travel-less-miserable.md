@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-book
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Could Transform Travel—and How to Take Advantage of It"
-    excerpt: "The AI chatbot recommended several locations that fit the bill– including Puerto Rico, Charleston, S.C. and Palm Springs, Calif. Quillian, 31, had been to a few of the destinations before and knew they fit the description of what she had asked for."
-    publishedDateTime: 2023-07-05T11:00:00Z
-    webUrl: "https://time.com/6290940/ai-travel-industry/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Changing Healthcare - A Platform Approach Using Data & AI"
     excerpt: "Value-based Care (VBC) saves lives but about 40% of the commercial market has no access. It's time to change healthcare with. We a AI driven platform for VBC."
     publishedDateTime: 2023-07-05T18:05:00Z
@@ -53,15 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Startup Launches AI Model To Fight Business Phishing Attacks"
-    excerpt: "A startup has created a solution to fight Business Email Compromise (BEC) attacks, a new phishing threat that targets company communications."
-    publishedDateTime: 2023-07-05T10:28:00Z
-    webUrl: "https://nocamels.com/2023/07/startup-launches-ai-model-to-fight-business-phishing-attacks/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 17
 
 secured: "4U8UGb2mpfSgVATv9X/D5EMDBNGaKizO0maWs+YS7hf3YbGP8oI1kBQ2nn4YtZFx2QIKGUioIWD0bPCDyTUSlvWmbDLZ+EeskiD/IP+XQb7/CteOfOwJNpKaq+H4YEErs+GmuufjUSaTfcg4QVASBlBBxGzJx01ZTyb6hcslmuewCtVaPwbyTbjf2H4kpgKhRcTHRtO96JYsYtS4fhDFyNE7o/CvmWxK5C3EQcfgsojmOdNbumjWFTPe1M/T6gjYUq9gQcAd9Hy4ses06wOS4H7WxBNdlzRSPfDRh6OMxEc4cGLTNAXLH2OecHIIgpxYL+wvDZAyL/BKICYhD86QXeeGlHnzj6i92sidAQe4wSk=;AwZz2NRVL/t0ws/+Sqy9Ng=="
 ---

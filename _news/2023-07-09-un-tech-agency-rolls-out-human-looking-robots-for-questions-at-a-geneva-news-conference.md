@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Robots take questions at Geneva press conference, say they could be better leaders than humans"
+    excerpt: "Ameca, engineered with social interaction in mind, dismissed the idea of starting a possible robot rebellion in the near future."
+    publishedDateTime: 2023-07-07T16:01:00Z
+    webUrl: "https://www.courthousenews.com/robots-take-questions-at-geneva-press-conference-say-they-could-be-better-leaders-than-humans/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 27
+    images:
+      - url: "https://www.courthousenews.com/wp-content/uploads/2023/07/robots-geneva.jpg"
+        width: 3000
+        height: 1962
+        isCached: true
 
 secured: "jLAvif7O1ZLDBBPkZa3oI8uIkUa40hYyLLjBnszhCvvudZ/bs1t8cp1zsW4H97bhm008cxda3FFW30d7BpCNDRXe5TGefGzre5SKuhN0cvCvCSxqYnA88qRHr3tDBFuVj268LaNOUuRMugl/9OcUhktgW1DSYq2H1R4QxA0Y8mAR9QyYUaZx7EXXq45juQ50faTpqsWkDI2PYn+Brf8smvvnr+A7gJoDXvUYKpFrJspkxm+lk7K1ctuPNOK1xJTi/g+SSxgjYfN3lsTl3hpFTp2lBi3Pf1zgF180LWmZ3bvcxNBMc7SeD1t0gxflDwaJCGe8hvxz6sHmGPahhT9a7+JmjwNlL7RjYwQr0DsN1S8=;jN6dEVQ91cmuGhT8tdH4NA=="
 ---

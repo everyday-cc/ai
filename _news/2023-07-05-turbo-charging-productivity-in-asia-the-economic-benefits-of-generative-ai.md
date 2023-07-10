@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Does Generative AI herald the end of an era or the start of a new chapter in marketing?"
+    excerpt: "Despite concerns about job losses and potential changes in the marketing industry, generative AI is a great asset for the marketing team, rather than a threat. Generative AI presents unparalleled opportunities to accelerate creativity,"
+    publishedDateTime: 2023-07-10T03:17:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 66
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101624579,imgsize-800807,width-1200,height=765,overlay-etbrandequity/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "The artificial intelligence endgame"
     excerpt: "That incident is an analogy for the way people are oblivious to the elephant in the room: the potential effect artificial intelligence (AI) and artificial general intelligence (AGI) could exert on almost every aspect of our lives and even posing an existential risk to humanity."
     publishedDateTime: 2023-07-06T14:59:00Z

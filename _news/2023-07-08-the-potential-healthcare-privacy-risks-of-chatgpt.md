@@ -126,20 +126,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "ChatGPT & AI – The 21st century calculator"
-    excerpt: "ChatGPT has shaken the world, with record-breaking sign-ups and a revolutionary impact on tasks that were once thought to be exclusively human. The efforts behind ChatGPT, though arduous, have been in the making for years,"
-    publishedDateTime: 2023-07-05T09:53:00Z
-    webUrl: "https://www.dailymaverick.co.za/article/2023-07-05-chatgpt-ai-the-21st-century-calculator/"
-    type: article
-    provider:
-      name: Daily Maverick
-      domain: dailymaverick.co.za
-    quality: 39
-    images:
-      - url: "https://www.dailymaverick.co.za/wp-content/uploads/2023/07/06_th-ab_intelligent-systems-ai-data-science-001.jpg?w=1280"
-        width: 1280
-        height: 800
-        isCached: true
   - title: "ChatGPT loses users for first time, shaking faith in AI revolution"
     excerpt: "OpenAI's chatbot has been heralded as spurring a revolution in the tech world. But its spectacular growth has suddenly slowed down."
     publishedDateTime: 2023-07-07T12:50:00Z

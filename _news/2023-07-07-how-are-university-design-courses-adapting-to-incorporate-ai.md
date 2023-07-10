@@ -41,15 +41,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Five Reasons Why You Should be Monitoring These Four Artificial Intelligence Cases"
-    excerpt: "The first wave of litigation involving generative AI and/or machine learning is well under way. There are (at least) five reasons why you should be monitoring four significant ongoing cases that involve artificial intelligence-related platforms and issues."
-    publishedDateTime: 2023-07-07T13:21:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/07/07/five-reasons-why-you-should-be-monitoring-these-four-artificial-intelligence-cases/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 11
 
 secured: "1Nlmbfx8WiWqumMMgwxC50qSgrW1locfG7NWPL12gBvt6UWNLz/vPJ31P2S8rQJnxQQzfY91FAY9MkJ6kgOH6oj8jQ56al6JAEYD/Mjr9RSnZwaAJVf642PfpNvwNGJeMICnvqVXEFzZjavp2z6zJgAEk+fWTpDtOM+kg51BlO2tI2SslztLOBsp/iExqk/wWPw7Mkw33P6Sxs3/BiSLEihtEIXeOi4FxlyTsJO/sjOZmDgAMAEPnmT38OsBxrm5rqX284ok2NApW/oJpVeo+qgiA0+0tsIUwIfHjWQ7wwhVwzozmTWMyWtDrCcT/ma5yD1rq2brUPNU2/M63txRtEVK49DcOEkdKi9GzDEfAQk=;SXuBZmvpiz/DiG3kcntfgg=="
 ---

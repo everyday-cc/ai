@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 225
 published: true
 
 provider:
@@ -116,20 +116,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "ChatGPT & AI – The 21st century calculator"
-    excerpt: "ChatGPT has shaken the world, with record-breaking sign-ups and a revolutionary impact on tasks that were once thought to be exclusively human. The efforts behind ChatGPT, though arduous, have been in the making for years,"
-    publishedDateTime: 2023-07-05T09:53:00Z
-    webUrl: "https://www.dailymaverick.co.za/article/2023-07-05-chatgpt-ai-the-21st-century-calculator/"
-    type: article
-    provider:
-      name: Daily Maverick
-      domain: dailymaverick.co.za
-    quality: 39
-    images:
-      - url: "https://www.dailymaverick.co.za/wp-content/uploads/2023/07/06_th-ab_intelligent-systems-ai-data-science-001.jpg?w=1280"
-        width: 1280
-        height: 800
-        isCached: true
   - title: "The potential healthcare privacy risks of ChatGPT"
     excerpt: "Protect patient data or risk HIPAA violations and lawsuits — two health policy experts explain the risks of using ChatGPT and offer tips for healthcare organizations."
     publishedDateTime: 2023-07-07T20:04:00Z

@@ -1,22 +1,30 @@
 ---
 category: news
-title: "AI robots at UN reckon they could run the world better"
+title: "AI Robots At UN Reckon They Could Run The World Better"
 excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
-publishedDateTime: 2023-07-08T12:22:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/ai-robots-at-un-reckon-they-could-run-the-world-better/articleshow/101598689.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-robots-at-un-reckon-they-could-run-the-world-better/articleshow/101598689.cms"
+publishedDateTime: 2023-07-07T17:39:00Z
+originalUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg"
+    width: 768
+    height: 506
+    isCached: true
 
 related:
   - title: "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI"
@@ -46,6 +54,22 @@ related:
       name: omanobserver
       domain: omanobserver.om
     quality: 69
+  - title: "UN tries to tackle 'mind-blowing' growth of AI"
+    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humano"
+    publishedDateTime: 2023-07-06T15:16:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/media/api_images/2023/07/06/Robots%20UN.jpg?itok=2XqC1lgf"
+        width: 750
+        height: 393
+        isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
     publishedDateTime: 2023-07-07T14:34:00Z
@@ -59,6 +83,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
         width: 1024
         height: 673
+        isCached: true
+  - title: "Rise Of The Robots: Un Tries To Tackle Mind-Blowing Ai Growth"
+    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday at its AI s"
+    publishedDateTime: 2023-07-07T03:05:00Z
+    webUrl: "https://menafn.com/1106567368/Rise-Of-The-Robots-Un-Tries-To-Tackle-Mind-Blowing-Ai-Growth"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?192047"
+        width: 375
+        height: 250
         isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
@@ -112,6 +150,6 @@ related:
       domain: cybernews.com
     quality: 34
 
-secured: "elCQeVOvCFT9Q2GQWJUR1/GATrOFJWAaRz6ib8rTlnmsAcni0LIvIK+KtQygrNpyp9Hadr6UmZjBgrKxwck/50I1xipdHjuvEDnsv+KaDh2wH+fbIWwdy8/NDyuK1BpBzgv5HGrVOnWyHYu80sEdb5/R8+a6vw1CZPRYpZPEi9uotCIUMjVfViLcjujoZJRMLVcPIXRD9pJB5p182KBwVsSZIQfngeGZvlNuvKSrp+bc8LsZLke8rSDpRDnNKGvKVEh97zLTkSuwXZsFBMFPOewExFWrtQmgc1UDlceeGpuTerjWIL8X58JugHQCDgTlXCZa3PZr05uL+kZ1uxSXG1zia66yMPI75Py9+X95GX5k5rcZsWPNjQiVHLKk0m3ycairK0tdIhCBTVC3ttXOUfbbsjViUvr50qb+iQ1q9i+swh1KtBkZaea5fF9otUa9hJjgo06Hcxo6+5mg2ivf6BP24GwsCL1a2piR+VtBEFcOUXoIK9g1B9jKU84YzH5mnDj3/qfAesYy6vIeeed91w==;6Vfa+PbHiI8rRAU4EMghCQ=="
+secured: "Yn3HVcCmtKPMZRjAG7yR/L7mKc0HrjRd/+rZl3wFtrjZJN5uGel8bEIFjTsHA/dV7v1nwv2eB2IJAmJuW1v0g6aXcMKs5oSGJS4aumroqIDdaApyvEsWDC52Bl/Xub+/yE32eBtQOOrWVEDEJt2HlD2PwB9KMB9U91vQEFt9ne1rzjMCuNpfBmMpXMrYoA35ErUFkeEGSjLDwaQDiBQGMX7cOVjxtqBfHECup4pFNlpEHXKb0nuW/UwY6yy3ieHiSG0A6OfeJYX63vWCC1ULmlx3tck8aG2LFMbL/7hB+T6YsKVKL9UG2Aa/N6hbbDtM2g8tpLGS3Xk3uxHPsHHpLR3ZcoMlU9KGDEiLCK02k+4=;/uMn1xlBZTIdbRl7H5sCNA=="
 ---
 

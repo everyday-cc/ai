@@ -18,35 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Should you use AI in your university courses?"
-    excerpt: "The remarkable level of accessibility and proficiency exhibited by AI tools has educators, students, and tech enthusiasts engaged in vigorous debates about one big question: should university students use AI in their courses?"
-    publishedDateTime: 2023-07-07T03:50:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831?amp"
+  - title: "These are the 3 biggest fears about AI — and here's how worried you should be about them"
+    excerpt: "Abhishek Gupta, founder of the Montreal AI Ethics Institute, said the prospect of AI-induced job losses was the most \"realistic, immediate, and perhaps pressing\" existential threat. \"We need to ..."
+    publishedDateTime: 2023-07-08T14:10:00Z
+    webUrl: "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
     images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/06/ai_university_courses.jpg?itok=pIVQh-TB"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "How are university design courses adapting to incorporate AI?"
-    excerpt: "We asked design educators how AI is being integrated into the design higher education system and what they are doing to ensure it is ethically and responsibly used."
-    publishedDateTime: 2023-07-07T15:36:00Z
-    webUrl: "https://www.designweek.co.uk/issues/03-july-7-july-2023/ai-design-higher-education/"
-    type: article
-    provider:
-      name: Design Week
-      domain: designweek.co.uk
-    quality: 39
-    images:
-      - url: "https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2023/07/07154439/Dean-Drobot.jpg"
-        width: 750
-        height: 500
+      - url: "https://i.insider.com/64a81e878ed31300199e1096?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "MUFe73LOxwA8dqHFtSjQBqmTRYLpuKa3J1dCU8mnlM0M380jx6z7dj1GuLStgwGuGuGFhPjjn4Walros0ta4xFc5hGjkDXZyonRgG6EFvh4ni4Poyf7atsnfyh1jztyVMGqOyzbRQ8AVdz2Y9PB4qMSIK8W1HCKz+UsoPnugSyWFBG+ZofG5KptDjUI2sheGLiRBXE9lyQZ813m8j6DG2T+mSXqDmO1ee/hg4OPg08TgFTPOVaqA39CpplcC7XkbBNNbE+4UPTkuCdyrEye984FyfwLgMrBKIkEe5+1mzhVrwXcD6zpe1/JY3L70N6lotGvlFdI/VA+xj6uQgXXEvAk0oD3WLTbhDXEZ6fl42Gs=;L40kbMwJjDbC0CHnp0Nnyg=="

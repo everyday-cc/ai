@@ -2,6 +2,228 @@
   "page": 153,
   "value": [
     {
+      "path": "_news/2023-03-27-artificial-intelligence-which-stocks-to-buy.md",
+      "title": "Artificial Intelligence: Which Stocks To Buy",
+      "excerpt": "Investor interest in artificial intelligence (AI) technology has skyrocketed over the past several months. There is immense potential in this new frontier. AI stocks are seen as the promising future, and they may very well be. But just like other market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy?amp",
+      "publishedDateTime": "2023-03-27T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech.md",
+      "title": "Former IBM CEO on AI, layoffs, women leaders in tech",
+      "excerpt": "Just before Rometty became IBM's first woman CEO, the company's AI-powered computer Watson outwitted two of the most successful contestants in the history of the game show “Jeopardy!\"",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/former-ibm-ceo-ai-layoffs-women-leaders-tech-98147831",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/former-ibm-ceo-ai-layoffs-women-leaders-tech-98147831",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/wirestory_9835eafd038b790563f6bbaa2e8963f8_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-how-can-ai-fit-into-customer-service-call-centers-effectively.md",
+      "title": "How Can AI Fit Into Customer Service Call Centers Effectively?",
+      "excerpt": "Companies Often Misuse AI Programs And Models . Unfortunately, some contact center leaders are repeating errors made with early chatbots by viewing the current generation of AI ap",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641dfa715f3e73fbfc580d4a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/amp/",
+      "publishedDateTime": "2023-03-27T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-ai-and-the-future-of-software-development.md",
+      "title": "AI and the future of software development",
+      "excerpt": "Just ask Jaana Dogan, a distinguished software engineer at GitHub. According to Dogan, “People are too focused on code generation and completely ignore that LLMs are useful for code analysis.” In other words,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html",
+      "publishedDateTime": "2023-03-27T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-new-chapter-in-intelligent-transport-baidu-begins-driverless-taxis-in-beijing.md",
+      "title": "New Chapter in Intelligent Transport: Baidu Begins Driverless Taxis in Beijing",
+      "excerpt": "A self-driving robotaxi developed by Chinese search provider and artificial intelligence (AI) heavyweight Baidu and Chinese carmaker FAW Hongqi participates in a test ride for seed passengers in Changsha,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484",
+      "originalUrl": "https://www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-99029484,updatedat-1679904667854,width-1280,height-720,resizemode-75/99029484.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484/amp",
+      "publishedDateTime": "2023-03-27T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-athens-debuts-with-interdisciplinary-film-festival-combining-ai-art-and-fashion.md",
       "title": "Athens Debuts With Interdisciplinary Film Festival Combining AI, Art, And Fashion",
       "excerpt": "The Athens Fashion Film Festival returned on March 14th for the fourth year with an interdisciplinary theme of “Art-istic OR Art-ificial?\" held at the Athens Conservatory under the leadership of Nicole Alexandropoulou,",
@@ -958,241 +1180,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-artificial-intelligence-godfather-on-ai-possibly-wiping-out-humanity-not-inconceivable.md",
-      "title": "Artificial intelligence ‘godfather’ on AI possibly wiping out humanity: ‘Not inconceivable’",
-      "excerpt": "Geoffrey Hinton, a computer scientist who has been called “the godfather of artificial intelligence”, says it is “not inconceivable” that AI may develop to the point where it poses a ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/",
-      "originalUrl": "https://nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008804240.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/amp/",
-      "publishedDateTime": "2023-03-26T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-robot-recruiters-can-bias-be-banished-from-ai-hiring.md",
-      "title": "Robot recruiters: can bias be banished from AI hiring?",
-      "excerpt": "A third of Australian companies rely on artificial intelligence to help them hire the right person. But studies show it’s not always a benign intermediary",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/mar/27/robot-recruiters-can-bias-be-banished-from-ai-recruitment-hiring-artificial-intelligence",
-      "originalUrl": "https://www.theguardian.com/technology/2023/mar/27/robot-recruiters-can-bias-be-banished-from-ai-recruitment-hiring-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7f7673f391ffe95c5dd2dee68ff972d8c513292c/38_0_5931_3559/master/5931.jpg?width=620&quality=85&auto=format&fit=max&s=05eed7a313f4cb83a3e388c5da98b626",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/mar/27/robot-recruiters-can-bias-be-banished-from-ai-recruitment-hiring-artificial-intelligence",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/27/robot-recruiters-can-bias-be-banished-from-ai-recruitment-hiring-artificial-intelligence",
-      "publishedDateTime": "2023-03-26T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-better-late-than-never-3-artificial-intelligence-ai-stocks-that-still-have-massive-upside.md",
-      "title": "Better Late Than Never: 3 Artificial Intelligence (AI) Stocks That Still Have Massive Upside",
-      "excerpt": "SentinelOne's use of artificial intelligence gives it a performance edge over its ... SentinelOne scores very high on benchmarks such as MITRE's ATT&CK Evaluations, and research firm Gartner gave it the top rank in endpoint protection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/26/better-late-never-3-ai-stocks-massive-upside/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/26/better-late-never-3-ai-stocks-massive-upside/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725453/artificial-intelligence-ai-on-circuit-board.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-robots-driverless-trucks-and-chatgpt-are-about-to-blow-up-australias-jobs-market-but-some-workers-have-a-lot-more-to-fear-than-others.md",
-      "title": "Robots, driverless trucks and ChatGPT are about to blow up Australia's jobs market ... but some workers have a lot more to fear than others",
-      "excerpt": "Dr Andrew Miller, who will address the Urban Development Institute's Congress in Perth on Tuesday, said artificial intelligence ... A trial run of driverless trucks in Melbourne last November ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11893039/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11893039/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools.md",
-      "title": "Microsoft Reportedly Threatens to Restrict Search Data From Rival AI Tools",
-      "excerpt": "At least two customers have been told their access to Microsoft's internet search index will be cut off if they continue to use it for their AI chatbots, Bloomberg reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools",
-      "originalUrl": "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05PNmVt8nHVpVgrbjZy1kpb-1.fit_lim.size_1200x630.v1679827422.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

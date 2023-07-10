@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "New York City Starts to Regulate AI Used in Hiring Tools"
-    excerpt: "A closely watched effort to root out potential bias in hiring and promotion software goes into effect Wednesday."
-    publishedDateTime: 2023-07-05T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/new-york-city-starts-to-regulate-ai-used-in-hiring-tools-79a2260f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "‘Nonsensical, Bulls**t’: Artificial Intelligence Hiring Software Must Be Audited For Bias Under New NYC Law"
     excerpt: "Artificial Intelligence Hiring Software Must Be Audited For Bias Under New NYC Law Ireland Walker on July 5, 2023 Companies in"
     publishedDateTime: 2023-07-05T18:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-ki
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "AI frenzy bites into fintech"
+    excerpt: "Driving the news: Fintech has been a primary victim. Some 64% of investors at Collision said AI/ML could become the most disruptive technology in the next five to 10 years, per a Pitchbook survey. A year ago, the hottest category was fintech/blockchain, with some 29% of investors. Dollar figures reinforce the narrative."
+    publishedDateTime: 2023-07-06T16:15:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2023/07/06/ai-frenzy-bites-into-fintech-funding-venture-capital-insight"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
   - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
     excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
     publishedDateTime: 2023-07-09T18:16:00Z

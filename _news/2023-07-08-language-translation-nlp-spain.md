@@ -7,8 +7,8 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natur
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/language-translation-nlp/spain"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Statista
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Roland Corporation Fine Tunes Translation With Language Weaver"
-    excerpt: "RWS's machine translation technology helped Roland translate over 20.5 million words across 50 language combinations in first six monthsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, the AI-driven machine translation technology powering enterprise and government,"
-    publishedDateTime: 2023-07-05T11:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-07-05/roland-corporation-fine-tunes-translation-with-language-weaver"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 24
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "Natural Language Processing - Belgium"
     excerpt: "Value in the Natural Language Processing market is projected to reach US$186.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.52%, resulting in a market volume ..."
     publishedDateTime: 2023-07-08T04:39:00Z

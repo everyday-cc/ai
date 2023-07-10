@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-08-these-are-the-3-biggest-fears-about-ai-and-heres-how-worried-you-should-be-about-them.md",
+      "title": "These are the 3 biggest fears about AI — and here's how worried you should be about them",
+      "excerpt": "Abhishek Gupta, founder of the Montreal AI Ethics Institute, said the prospect of AI-induced job losses was the most \"realistic, immediate, and perhaps pressing\" existential threat. \"We need to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6",
+      "originalUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a81e878ed31300199e1096?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp",
+      "publishedDateTime": "2023-07-08T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-ai-ethics-in-the-age-of-chatgpt-what-businesses-need-to-know.md",
       "title": "AI Ethics In The Age Of ChatGPT - What Businesses Need To Know",
       "excerpt": "Photo: Arne Dedert/dpa (Photo by Arne Dedert/picture alliance via Getty Images) AI Ethics was a complicated topic even before ChatGPT (and other Large Language Models - LLMs) and Generative AI burst onto the scene. In this article - we cover how LLMs and ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -228,49 +280,6 @@
       "ampWebUrl": "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true",
       "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true",
       "publishedDateTime": "2023-07-05T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-why-big-tech-wants-to-help-congress-regulate-ai.md",
-      "title": "Why Big Tech Wants to Help Congress Regulate AI",
-      "excerpt": "Tech interests, especially OpenAI, the nonprofit that created ChatGPT, have gone on the offensive in Washington, arguing for regulations that will prevent the technology from posing an existential threat to humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai",
-      "originalUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/f154ebe/2147483647/strip/true/crop/1175x613+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb5%2F42%2Fe656e308c9a0040121ef5c7565dc%2Fcongress-flickr.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true",
-      "publishedDateTime": "2023-07-05T09:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Government Technology",

@@ -26,31 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Are your Google Docs safe from AI training?"
-    excerpt: "With AI continuing it's slow rise to prominence, consumers are concerned their personal content is being used to train Google's generative service."
-    publishedDateTime: 2023-07-05T09:20:00Z
-    webUrl: "https://www.zdnet.com/article/are-your-google-docs-safe-from-ai-training/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/"
+  - title: "5 Science-Based Strategies For Optimizing Your Work And Beating AI"
+    excerpt: "What can be done? Leaving aside issues that can only be tackled by nation-states, I believe we have practical responses available that mitigate potential harm."
+    publishedDateTime: 2023-07-06T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/07/06/5-science-based-strategies-for-optimizing-your-work-and-beating-ai/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/95e2805311885fe7027cba0a08ef3c351722cec5/2023/07/04/64866159-45b8-43d9-9022-6eedf92fa564/gettyimages-1239914872-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a57819dc1ae53b048aa486/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 799
         isCached: true
-  - title: "Google Reveals Use of Public Web Data in AI Training"
-    excerpt: "In a recent update to its privacy policy, Google has openly admitted to using publicly available information from the web to train its AI models. This disclosure, spotted by Gizmodo, includes services like Bard and Cloud AI."
-    publishedDateTime: 2023-07-05T19:43:00Z
-    webUrl: "https://www.unite.ai/google-reveals-use-of-public-web-data-in-ai-training/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
 
 secured: "RJ3kiVJ+4U7+/fm/vaVwtVUqG7NOKGbn0hOzjFdmX9tLjzX20Ltkf03UH75Lr6wMURZmW3iq5ZLSAx2o6ZQK/YzFSBppZtOE2EpT1UFjd2InVUlqugR3FIszOkTjcXR5bWcm3bvSEGDx+12pExMUytA71cOac9TNm0t9/3bjIdCmLgLA0Odi4FLo4GE8KwV7dlbggm2amqS7GOT7Hguz+IGCVV1HL0RLaXMhePdGw1yFlCRu3cV92q5QNUwSozqxP46gZwgNUz5uJzc2kN4q9bDsUu9JXdYfZvOckPhmVkfqHQwkEZd+3923nimTa96i9zGoTOpXBurep4FGbpCJs8YWfqcQazCPcujNirqYmpI=;ozkqJvZhY+xeaA2pqW2ZGg=="
 ---

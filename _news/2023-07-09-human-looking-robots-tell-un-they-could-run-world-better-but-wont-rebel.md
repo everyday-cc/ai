@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-coul
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 89
 published: true
 
 provider:

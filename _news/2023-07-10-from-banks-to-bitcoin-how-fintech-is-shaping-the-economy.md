@@ -65,6 +65,15 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "AI frenzy bites into fintech"
+    excerpt: "Driving the news: Fintech has been a primary victim. Some 64% of investors at Collision said AI/ML could become the most disruptive technology in the next five to 10 years, per a Pitchbook survey. A year ago, the hottest category was fintech/blockchain, with some 29% of investors. Dollar figures reinforce the narrative."
+    publishedDateTime: 2023-07-06T16:15:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2023/07/06/ai-frenzy-bites-into-fintech-funding-venture-capital-insight"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
   - title: "E-Gates Launches Fintech Solution for Digital Asset Management"
     excerpt: "Gates, a startup developing software solutions for fintechs, has launched its universal platform. Its flagship offering combines a unified solution for managing web2 and"
     publishedDateTime: 2023-07-06T09:01:00Z

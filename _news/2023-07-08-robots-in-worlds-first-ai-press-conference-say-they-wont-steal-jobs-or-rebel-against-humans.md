@@ -35,6 +35,22 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
+    excerpt: "The event was part of the AI for Good Global Summit, meant to illustrate how new technology can support the U.N.’s goals for sustainable development."
+    publishedDateTime: 2023-07-07T16:40:00Z
+    webUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/"
+    ampWebUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
+    type: article
+    provider:
+      name: KSWO ABC 7 News
+      domain: kswo.com
+    quality: 64
+    images:
+      - url: "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/KUsmE_fZwT9E1GMvlLpS1p04jIM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RPPVKPDFLVFGTOTU3W27LARP4E.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Humanoid robots say they will be widespread in just a few years"
     excerpt: "A group of nine humanoid robots on Friday said it would be a matter of years before they become widespread across the world. The androids were on display at the first press conference of its kind in history at the Global Summit on Artificial Intelligence for Good,"
     publishedDateTime: 2023-07-07T15:32:00Z
@@ -125,15 +141,6 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 34
-  - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
-    excerpt: "Humanoid robots say they could lead more efficiently than humans, but wouldn’t take anyone’s job away and had no intention of rebelling against their creators."
-    publishedDateTime: 2023-07-07T13:15:00Z
-    webUrl: "https://www.ksat.com/news/world/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 24
 
 secured: "7A1yDB2a6zWnWC3/EeIgAth3oNRdI+zCsc+XnxHlVyVZ9lC9i0iuMHei/P1FBTeMZb7FhVKRQIm8qGOvow4MbftQXVJwifIlEN4d0+muItwG4xC25Pk7mLNGYSLfkHdpdccwO2UOEM2lE0PXSSjTyDtSbS7ITbZvsYD24d+wZQvFQaSstUbWKFP+gnh2Fk3t6FK9o+MZ4tuxu1tc/tbbWcparykJXVP54Y3xcMQ40+WHyM0gm1hgM7srNPuZdrxAZbTSRMBhKJJ4BuM1bS+sBy0+hNgXaL0srxu20XZN6haz1jErAJmng5etcJBDV8GSdfUR+q7Br7p2Nzm4LUHBuk4Crt8PoR8F8zuIXWeCj45rWI71Ss2gMUwEsuh+MbZ4T0b1Jtj5JiabZQbrp8GimrmoZvNCaAYXAXPd0faNS8BCDaTkcVCM4Ogo9+mayuNP5H9mNR0GYdlxQEUIwWutiS/4DCJyEw2/DWg7LvTCmNbp5R+GRGy8MmXzXoG8rV/1qu5o7t9FJQn+4EXv5kyKmA==;BFNsGCrXkVhkxCWa6JvwUA=="
 ---

@@ -19,37 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Are your Google Docs safe from AI training?"
-    excerpt: "With AI continuing it's slow rise to prominence, consumers are concerned their personal content is being used to train Google's generative service."
-    publishedDateTime: 2023-07-05T09:20:00Z
-    webUrl: "https://www.zdnet.com/article/are-your-google-docs-safe-from-ai-training/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/"
+  - title: "Google Calls For Public Discussion On AI Use Of Web Content"
+    excerpt: "Google’s call for discussion is a step in the right direction, but the company needs to follow through on implementing the feedback it receives. Google isn’t alone in facing these challenges. Every tech company developing AI relies on data gathered from the web. The discussion should involve the whole tech industry, not just Google."
+    publishedDateTime: 2023-07-07T19:52:00Z
+    webUrl: "https://www.searchenginejournal.com/google-calls-for-public-discussion-on-ai-use-of-web-content/491053/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 39
     images:
-      - url: "https://www.zdnet.com/a/img/resize/95e2805311885fe7027cba0a08ef3c351722cec5/2023/07/04/64866159-45b8-43d9-9022-6eedf92fa564/gettyimages-1239914872-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/07/img_2023-7-7-154836-64a86c2283d2a-sej.jpeg"
+        width: 1600
+        height: 840
         isCached: true
-  - title: "5 Artificial Intelligence apps you can use for your sports training and fitness"
-    excerpt: "AI in sports is gaining traction across the business, with applications ranging from post-game analysis to in-game activity and even the fan experience."
-    publishedDateTime: 2023-07-09T11:06:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp"
+  - title: "Google will use public data to train its AI models as part of its new privacy policy"
+    excerpt: "Google has recently made adjustments to its privacy policy to specify that publicly accessible data may be utilized in the training of its AI models. To be"
+    publishedDateTime: 2023-07-05T16:43:00Z
+    webUrl: "https://www.onmsft.com/news/google-will-use-public-data-to-train-its-ai-models-as-part-of-its-new-privacy-policy/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 68
+      name: On MSFT
+      domain: onmsft.com
+    quality: 32
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Sports-AI-workout-app-fitness-trainer-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/photo-1529612700005-e35377bf1415-1.jpeg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "rzEcWshbYATu6k2zzVMDewxXjDQNMw90d7Jj/pZNbAkXlvOUAlxHuavl+a6x0C9jcR0eFK14H8LLrARfoqOfOrWZvqxiajzpyvupn+L7PZ0QGppNgLwnq7yQeeAHCr32lOBtaBf8d/x5svfg44rS0uO1fJU1xh8tf4U8gbAd4Zqk8+s/KZMM2VvjYKzpc6ZXTm6/YA1RT0Zp+7L7n6ze5f/YZyNWuoKQlaP8a8KIT9TE0G1ziw7WymmEMW08IL6U+6G6Qtww86CSBebPLaxB8oPEtyp3VPeF6Qa1esWuqxcQNki0aR8/ll1Lggq8rKCnXD8cuA4fgy9m4uHasvRUkEU8EXcvWGz9swOp3WgBVXQ=;PDi98mgoKQcl6igkjfekbg=="

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is reshaping the rules of business"
+    excerpt: "How teams can keep employees engaged in the AI-accelerated transformation of their careers and businesses amid pending regulation"
+    publishedDateTime: 2023-07-09T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-business/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why Big Tech Wants to Help Congress Regulate AI"
     excerpt: "Tech interests, especially OpenAI, the nonprofit that created ChatGPT, have gone on the offensive in Washington, arguing for regulations that will prevent the technology from posing an existential threat to humanity."
     publishedDateTime: 2023-07-05T16:20:00Z
@@ -55,6 +69,29 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "How China is sharpening ethics rules for scientific research"
+    excerpt: "In late 2018, news of the world's first gene-edited babies sent shock waves across the scientific community, resulting in almost-universal condemnation for the Chinese scientist behind the experiment that broke ethical norms."
+    publishedDateTime: 2023-07-09T04:02:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/How-China-is-sharpening-ethics-rules-for-scientific-research"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F3%252F4%252F8%252F0%252F46190843-3-eng-GB%252FCropped-16886242472018-11-28T050928Z_637937548_RC160E366BC0_RTRMADP_3_HEALTH-CHINA-BABIES-PANEL.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "How Generative AI is Reshaping Observability Solutions"
+    excerpt: "New Relic, a US-based analytics company announced New Relic Grok, the world’s first generative AI assistant for observability."
+    publishedDateTime: 2023-07-05T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-observability-solutions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "JEE0h6mjLVu/xJ9JVqPQdXW00Y6dnVKQXQPp2Bq/ZbeUE+1Ruyl5jF5JI+qTlmsHKOvFzpGiIl1AV/z3wRd24prgWS9tA1KM2lII9La1szJd+Dxwwh01hHorOD0ahvGH2XY4imi6RdpAvHC8xdYfU325A7APqNKvrItP9fRWTS58b32jmDIvMc7O1wappzwujgvnoMRYlnVT5n5XQ8Kd8VdKuipQu/Iwm5/Cjkx8Fs0tHovIJu779TpmazYCe58AXXYVFrj9v0TjcvL/N+uG2wAznz+KIOeCZYTGGtkEnYXYfDszrGXVwGR5+saqeRqlDB/FX8+j3Ljx+vvBBTVD++nGoZZBX674z0Ch5bnvVp8=;b17a7pkYJs6iCjccvW41Eg=="
 ---

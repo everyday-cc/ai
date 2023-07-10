@@ -2,6 +2,102 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-04-15-3-thrilling-robotics-stocks-for-aggressive-investors-to-buy.md",
+      "title": "3 Thrilling Robotics Stocks for Aggressive Investors to Buy",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The buzz surrounding generative artificial intelligence (AI) this year is",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-op-ed-heres-where-investors-should-be-looking-when-betting-on-the-artificial-intelligence-boom.md",
+      "title": "Op-ed: Here’s where investors should be looking when betting on the artificial intelligence boom",
+      "excerpt": "The rise of ChatGPT has sparked another national conversation about artificial intelligence. Depending on your viewpoint, the bot is either the key to making a host of companies and their workers more efficient, or it's a slippery slope toward robots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107222769-1681156718279-gettyimages-1174456147-dsc_9443.jpeg?v=1681479001",
+          "width": 4310,
+          "height": 3189,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "publishedDateTime": "2023-04-14T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-the-good-and-bad-side-of-ai-and-how-you-can-leverage-it.md",
       "title": "The Good And Bad Side Of AI And How You Can Leverage It",
       "excerpt": "Successful marketers will need to decide how much of their process to automate, understand the limitations of the technology and weigh the pros and cons of each use of AI.",
@@ -1210,83 +1306,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage.md",
-      "title": "Cutting a Path to Success: Dallas Startup Launches Eco-Friendly Robot Mower to Tackle Landscaper Labor Shortage",
-      "excerpt": "Sensori Robotics has emerged from stealth after three years of R&D pursuing a \"robotic revolution in lawn care.\" Founded by two brothers who grew up tinkering with things in the U.K.—and now live in Texas—Sensori aims to disrupt the landscaping market with its AI-based location methodologies and location-aware robot.",
-      "sourceUrl": null,
-      "webUrl": "https://dallasinnovates.com/cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage/",
-      "originalUrl": "https://dallasinnovates.com/cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Innovates",
-        "domain": "dallasinnovates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-creepy-robot-dogs-being-deployed-to-patrol-neighborhoods.md",
-      "title": "Creepy robot dogs being deployed to patrol neighborhoods",
-      "excerpt": "Orwellian nightmare or useful Australian hardware? The Australian military is rolling out robodogs on patrol. Kurt \"CyberGuy\" Knutsson explains the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/creepy-robot-dogs-deployed-patrol-neighborhoods",
-      "originalUrl": "https://www.foxnews.com/tech/creepy-robot-dogs-deployed-patrol-neighborhoods",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

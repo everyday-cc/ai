@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Google Reveals Use of Public Web Data in AI Training"
+    excerpt: "In a recent update to its privacy policy, Google has openly admitted to using publicly available information from the web to train its AI models. This disclosure, spotted by Gizmodo, includes services like Bard and Cloud AI."
+    publishedDateTime: 2023-07-05T19:43:00Z
+    webUrl: "https://www.unite.ai/google-reveals-use-of-public-web-data-in-ai-training/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 19
 
 secured: "7uG5N1Z8W1AAZZXhY/tfsPEGATr8bbjz2HV4qSueNHmF7p5aAoUicKHo/aHhGP8Z+5PpvBUpTynPFJXKXKB7Hw8d1HshEDu9CmUTFzBSEdt+dfbWjrix42Yk/S0qU9LJblZaDyxp4ed8rEakLFE1R3VTZdKeNTqPaxFt1nOBpVTWINcvhcLzVFXxfpzKwxIHV7ymeU4Eh9i4Ja6QR4WcrXUgtf9DnyfG75PLmn8zUfgDzYC6y8DfPml0a5qteD29q20kcYR4YYx97Y0jSNY3/oOhB0UIg5D3mqVezJc7/w0hndkR+8uZp3AcImocCBzUYWVhKc5lsEC+dfdmG54gJ7wKpy0ADt3L3WXgZUM/XDo=;DGcbot9MiwuUt5QyFsfefg=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "AI Robots At UN Reckon They Could Run The World Better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-07T17:39:00Z
+    webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg"
+        width: 768
+        height: 506
+        isCached: true
   - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
     excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
     publishedDateTime: 2023-07-06T14:51:00Z
@@ -52,6 +68,22 @@ related:
       name: omanobserver
       domain: omanobserver.om
     quality: 69
+  - title: "UN tries to tackle 'mind-blowing' growth of AI"
+    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humano"
+    publishedDateTime: 2023-07-06T15:16:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/media/api_images/2023/07/06/Robots%20UN.jpg?itok=2XqC1lgf"
+        width: 750
+        height: 393
+        isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
     publishedDateTime: 2023-07-07T14:34:00Z
@@ -65,6 +97,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
         width: 1024
         height: 673
+        isCached: true
+  - title: "Rise Of The Robots: Un Tries To Tackle Mind-Blowing Ai Growth"
+    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday at its AI s"
+    publishedDateTime: 2023-07-07T03:05:00Z
+    webUrl: "https://menafn.com/1106567368/Rise-Of-The-Robots-Un-Tries-To-Tackle-Mind-Blowing-Ai-Growth"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?192047"
+        width: 375
+        height: 250
         isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "Some of the most advanced humanoid robots were at the United Nations’ AI for Good Global Summit in Geneva, joining around 3,000 experts in the field to try to harness the power of AI and channel it into being used to solve some of the world’s most pressing problems,"
@@ -102,15 +148,6 @@ related:
     provider:
       name: cybernews
       domain: cybernews.com
-    quality: 34
-  - title: "AI robots at UN reckon they could run the world better"
-    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
-    publishedDateTime: 2023-07-08T12:22:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-robots-at-un-reckon-they-could-run-the-world-better/articleshow/101598689.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
     quality: 34
 
 secured: "P7C0eexOuZPhqOYImU41Lwcfo/q8V/BjC6v5T5rYc2HLd2jLOuxGV0acL/haU71pPJnzJMckBy3lRayDFGOpmT97ajOb9qK295ZBsyltaRmB593NXKq4yDA1B2NqhyW1J5ETn7zyq2NUao1U7mnpDTgK4iR2jnKj0ajgYpUQkE5zO/TZaQNqi+FBCs08Xds+8mJlwcdQIUeOJTsaKQrnE00l742+nIYynMYaJmU/nXrjEd9J/Bhc3KSwtgSeWnnuG4tsfQPxro2c19FkledkglEYvSJy6Xs+mj5WydXnKzjgiBa7BP4svKPTLcVBaJRb1TbjAH/z7kV1eqNFiJb+jlgAhmUM4tv5KSAjv03EtvA=;xT1Z6aKyrGQKFHA7f1+DOw=="

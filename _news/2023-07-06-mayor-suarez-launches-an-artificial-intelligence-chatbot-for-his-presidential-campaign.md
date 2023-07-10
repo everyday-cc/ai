@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Miami Mayor Francis Suarez launches an AI chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
-    publishedDateTime: 2023-07-05T21:17:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
-    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
+  - title: "Google is testing AI chatbot that can answer medical questions: Report"
+    excerpt: "Med-PaLM 2 has been in testing at the Mayo Clinic research hospital – a non-profit organisation based in the US, among others, since April. The report noted that Google believes the LLM will be useful in places where there is “limited access to doctors”."
+    publishedDateTime: 2023-07-10T02:01:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-that-can-answer-medical-questions-report/articleshow/101618423.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-that-can-answer-medical-questions-report/amp_articleshow/101618423.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-that-can-answer-medical-questions-report/amp_articleshow/101618423.cms"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 53
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 59
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/19/24495736-37dd-4d3b-9103-abfc805dffc9/thumbnail/1200x630/a6c44b98546d47942b5410043736db42/b-ptz-suarez-interv-wfor7ne7.jpg?v=46148a329842187f630d57e5930d74c4"
-        width: 1200
-        height: 630
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-101618423,imgsize-8578,width-800/101618423.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "The Painter and the Chatbot: Artificial Intelligence and the Perils of Progress"
+    excerpt: "It was revealed that A Girl With Glowing Earrings was the product of an artificial intelligence program that creates images from natural language prompts."
+    publishedDateTime: 2023-07-08T03:04:00Z
+    webUrl: "https://spectator.org/the-painter-and-the-chatbot-artificial-intelligence-and-the-perils-of-progress/"
+    type: article
+    provider:
+      name: The American Spectator
+      domain: spectator.org
+    quality: 50
+    images:
+      - url: "https://149366087.v2.pressablecdn.com/wp-content/uploads/2023/07/Girl_with_a_Pearl_Earring-1-min.jpg"
+        width: 1808
+        height: 2138
         isCached: true
   - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
     excerpt: "A super PAC supporting Miami Mayor Francis Suarez’s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."

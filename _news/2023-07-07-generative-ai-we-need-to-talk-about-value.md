@@ -104,20 +104,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Understanding assessment in the age of AI"
-    excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
-    publishedDateTime: 2023-07-05T10:08:00Z
-    webUrl: "https://www.cambridge.org/news-and-insights/news/understanding-assessment-in-the-age-of-ai"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 39
-    images:
-      - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
-        width: 5500
-        height: 3667
-        isCached: true
   - title: "Using AI To Understand the Language of Molecules"
     excerpt: "This AI system only needs a small amount of data to predict molecular properties, which could speed up drug discovery and material development."
     publishedDateTime: 2023-07-07T15:00:00Z

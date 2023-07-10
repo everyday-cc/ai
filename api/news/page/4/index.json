@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-06-what-the-impact-of-global-voice-recognition-means-for-todays-brands.md",
+      "title": "What The Impact Of Global Voice Recognition Means For Today’s Brands",
+      "excerpt": "Text-based SEO is taking a back seat to the rise of voice search. From websites to blogs to paid ad campaigns, peppering online content with relevant, long-tail keywords is indisp",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5c2e07beb1649c1b4ddd4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/amp/",
+      "publishedDateTime": "2023-07-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-four-google-cloud-customers-share-how-they-use-ai-to-deliver-value.md",
+      "title": "Four Google Cloud Customers Share How They Use AI To Deliver Value",
+      "excerpt": "translation and multilingual proficiency, and natural language generation. Additionally, Google offers Vertex AI, an end-to-end AI platform that streamlines the deployment of AI and generative models, allowing companies to customize AI models for their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/",
+      "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a59969816ad28ab94c321a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/",
+      "publishedDateTime": "2023-07-06T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
       "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
       "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
@@ -260,48 +364,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-06-miami-mayor-francis-suarez-launches-an-ai-chatbot-for-his-presidential-campaign.md",
-      "title": "Miami Mayor Francis Suarez launches an AI chatbot for his presidential campaign",
-      "excerpt": "A super PAC supporting Miami Mayor Francis Suarez's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
-      "originalUrl": "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/19/24495736-37dd-4d3b-9103-abfc805dffc9/thumbnail/1200x630/a6c44b98546d47942b5410043736db42/b-ptz-suarez-interv-wfor7ne7.jpg?v=46148a329842187f630d57e5930d74c4",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/",
-      "publishedDateTime": "2023-07-05T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-05-highlight-text-as-its-being-spoken-using-amazon-polly.md",
       "title": "Highlight text as it’s being spoken using Amazon Polly",
       "excerpt": "Amazon Polly is a service that turns text into lifelike speech. It enables the development of a whole class of applications that can convert text into speech in multiple languages. This service can be used by chatbots, audio books, and other text-to-speech applications in conjunction with other AWS AI",
@@ -535,49 +597,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-05-why-big-tech-wants-to-help-congress-regulate-ai.md",
-      "title": "Why Big Tech Wants to Help Congress Regulate AI",
-      "excerpt": "Tech interests, especially OpenAI, the nonprofit that created ChatGPT, have gone on the offensive in Washington, arguing for regulations that will prevent the technology from posing an existential threat to humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai",
-      "originalUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/f154ebe/2147483647/strip/true/crop/1175x613+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb5%2F42%2Fe656e308c9a0040121ef5c7565dc%2Fcongress-flickr.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true",
-      "publishedDateTime": "2023-07-05T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-05-flight-booking-platform-using-ai-to-make-travel-less-miserable.md",
       "title": "Flight Booking Platform Using AI To Make Travel Less Miserable",
       "excerpt": "Given the common frustration plaguing the experience of exploring new destinations, travel companies are testing out new options to ease that pain with AI.",
@@ -586,7 +605,7 @@
       "originalUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -782,7 +801,7 @@
       "originalUrl": "https://venturebeat.com/ai/nyc-begins-enforcing-new-law-targeting-bias-in-ai-hiring-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -971,7 +990,7 @@
       "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 177,
       "tags": null,
       "images": [
         {

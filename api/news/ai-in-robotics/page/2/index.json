@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-30-ai-service-robotics-poland.md",
+      "title": "AI Service Robotics - Poland",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$22.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.77%, resulting in a market volume of US$54 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/poland",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/poland",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-the-true-threat-of-artificial-intelligence.md",
       "title": "The True Threat of Artificial Intelligence",
       "excerpt": "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions.",
@@ -762,6 +805,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-robotics-in-agriculture-solinftec-robot-that-reduces-up-to-90-of-herbicides-will-have-a-website-for-a-waiting-list.md",
+      "title": "Robotics in agriculture: Solinftec robot that reduces up to 90% of herbicides will have a website for a waiting list",
+      "excerpt": "Bearing in mind the projection of the product, the website should increase the scale of orders for the next 3 years\", said Leonardo Carvalho, CGSO at Solinftec. \"We will be the first agtech offering robotics in large-scale agriculture in an innovative way\",",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-robotics-agriculture-solinftec-robot-that-reduces-up-90-/2023/06/28/9841181.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-robotics-agriculture-solinftec-robot-that-reduces-up-90-/2023/06/28/9841181.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2143305/Robot_Solix_SPRAYER_by_Solinftec.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-ai-makers-must-create-new-laws-of-robotics-california-focus.md",
       "title": "A.I. makers must create new laws of robotics | California Focus",
       "excerpt": "Not long ago, the artificial intelligence (A.I.) bot ChatGPT as a “courtesy ... set of major laws governing intelligent robots. In his 1942 short story “Runaround,” Asimov first put forward these three laws, which would become staples in his ...",
@@ -1191,102 +1277,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-heres-how-robotics-in-healthcare-settings-could-reduce-wait-times.md",
-      "title": "Here’s how robotics in healthcare settings could reduce wait times",
-      "excerpt": "A Kitchener-based company is looking to address healthcare shortages through its artificial intelligence-powered robotics system.",
-      "sourceUrl": null,
-      "webUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
-      "originalUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/6/26/uw-1-6457025-1687824774541.png",
-          "width": 695,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-get-ready-for-ai-powered-social-media-scams.md",
-      "title": "Get Ready For AI-Powered Social Media Scams",
-      "excerpt": "Over the last year, generative AI has helped social media managers create posts that seem like they were written by a copywriter not a bot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/",
-      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649a0fb159545378cc5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/",
-      "publishedDateTime": "2023-06-26T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

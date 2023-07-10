@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-07-should-you-use-ai-in-your-university-courses.md",
-      "title": "Should you use AI in your university courses?",
-      "excerpt": "The remarkable level of accessibility and proficiency exhibited by AI tools has educators, students, and tech enthusiasts engaged in vigorous debates about one big question: should university students use AI in their courses?",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/06/ai_university_courses.jpg?itok=pIVQh-TB",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831?amp",
-      "publishedDateTime": "2023-07-06T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-06-responsible-ai-a-mandate-in-finance-and-insurance.md",
       "title": "Responsible AI: A Mandate In Finance And Insurance",
       "excerpt": "Companies that deploy AI responsibly can stand out from competitors while avoiding legal problems and other mistakes that can erode customer trust and damage reputations.",
@@ -159,7 +116,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1353,6 +1310,58 @@
         "name": "Crowdfund Insider",
         "domain": "crowdfundinsider.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-ais-impact-on-financial-services-in-the-2030s-and-beyond.md",
+      "title": "AI’s Impact On Financial Services In The 2030s And Beyond",
+      "excerpt": "The winners of the 2030s will be the firms that can manage the difficult transition to an advanced AI-driven customer experience and a more focused and nimble workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/granteasterbrook/2023/06/15/part-two-ais-impact-on-financial-services-in-the-2030s-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/granteasterbrook/2023/06/15/part-two-ais-impact-on-financial-services-in-the-2030s-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648b552125f37bf68c7d5722/0x0.jpg?format=jpg&crop=1529,860,x94,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/granteasterbrook/2023/06/15/part-two-ais-impact-on-financial-services-in-the-2030s-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/granteasterbrook/2023/06/15/part-two-ais-impact-on-financial-services-in-the-2030s-and-beyond/amp/",
+      "publishedDateTime": "2023-06-15T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

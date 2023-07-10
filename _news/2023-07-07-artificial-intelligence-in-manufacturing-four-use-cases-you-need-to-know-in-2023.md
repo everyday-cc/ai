@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "MEMSA brings together key mining, manufacturing industry role players and equipment manufacturers at 2023 Mind Shift Conference & Awards"
+    excerpt: "South Africa has a long intertwined history of mining as well as the manufacture of equipment for mining and has been a site for innovation for the mining industry since its early beginnings. Recognising the need to cultivate and nurture this innovative and resilient spirit,"
+    publishedDateTime: 2023-07-06T22:01:00Z
+    webUrl: "https://www.miningweekly.com/article/memsa-brings-together-key-mining-manufacturing-industry-role-players-and-equipment-manufacturers-at-2023-mind-shift-conference-awards-2023-07-07"
+    type: article
+    provider:
+      name: Mining Weekly
+      domain: miningweekly.com
+    quality: 0
+    images:
+      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001071895_resized_manufacturingexcellenceawardwinners1022.jpg"
+        width: 1022
+        height: 575
+        isCached: true
 
 secured: "3bfrt4RjnYbsxxq7We7zQKKAiNuNiXUU/Bm1ejdpZURLARLkN0M670NTROfsvN6PeoW5B/Hjt4ux7iUjZWlQoOlpF/pXp9TYIUpq0++lk8im40IzwI+co64/2XW4lmsV3d1Bsg/+z4pIgYeeDqpFjA/wTx4pN25e+svarXj2MoZ0hjkVXwYbTFJAtYK6N0D8vldPlWvOdun22/dO8IyvAnP/f6qCjZh9PVOKnEzkMs4RGgGHVaTXUHTHxGipc8r4f5ZsEIypsVzE+XpZ9CLp4+nyqpjr9l9f40J4QeiksX+yUoLR6LMX6n+ptlFXUYqF/+2EG0UU0h+LZ8SVskgw3adUMjv0k/pHYEwucNlH2HcCGCyvjS/s/yvph/Gzx2JJuZqWnz9VqOx/+dSMB9NCVMVd/8XEP4Y1cvja9C8YLzFPZml1oBxMnJHpXsbIHTk4stVcYRmSKfU46wiGU3ic3nzQN3B3TvKzlKbVCI/UCOUz6YJOkDNIvi038fDvMzEavhW/g9ZQNHvNPAqkvgbqOA==;BEGmUdOe0SDf/6HPaDOCHQ=="
 ---

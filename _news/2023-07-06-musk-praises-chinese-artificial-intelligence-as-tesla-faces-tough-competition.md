@@ -7,7 +7,7 @@ originalUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligen
 webUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-07-06/cec72acb-baa5-4f80-b201-354117b3562b_s.jpeg"
         width: 500
         height: 300
+        isCached: true
+  - title: "Chinese AI-powered robot developer CloudMinds raises $138m"
+    excerpt: "Chinese artificial intelligence-powered robot developer CloudMinds has raised over 1 billion yuan ($138.1 million) in a Series C round of financing, as the firm is said to be weighing an initial public offering in Hong Kong."
+    publishedDateTime: 2023-07-10T03:27:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/DealStreetAsia/Chinese-AI-powered-robot-developer-CloudMinds-raises-138m"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F4%252F1%252F2%252F5%252F46205214-1-eng-GB%252FCloud%2520Minds.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
         isCached: true
   - title: "Chinese colleges wrestle with AI-generated research papers"
     excerpt: "Photo/IC] It was the night before deadline and all through the house, Cheng Guangyu, a Beijing college junior, was still four research papers away from meeting the academic requi"

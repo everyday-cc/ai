@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthca
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -128,20 +128,6 @@ related:
       name: The Lima News
       domain: limaohio.com
     quality: 34
-  - title: "Here’s how local health systems are betting on artificial intelligence as it emerges in health care"
-    excerpt: "Plus: FY24 city budget includes funds for mental health, addiction, nonprofit wages Newmark named leasing agent for Upper East Side medical development Meet more Notable LGBTQIA+ Leaders who work in h"
-    publishedDateTime: 2023-07-05T09:31:00Z
-    webUrl: "https://www.crainsnewyork.com/health-pulse/heres-how-local-health-systems-are-betting-artificial-intelligence-it-emerges-health"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 25
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/hp_0.png"
-        width: 600
-        height: 335
-        isCached: true
   - title: "AI in Health Care: Regulatory Landscape & Risk Mitigation"
     excerpt: "Health care, like most industries, is grappling with the proliferation of artificial intelligence (AI) and the novel risks and benefits it presents. Balancing these risks and benefits can be especially challenging for attorneys, as the laws and regulatory ..."
     publishedDateTime: 2023-07-05T19:17:00Z

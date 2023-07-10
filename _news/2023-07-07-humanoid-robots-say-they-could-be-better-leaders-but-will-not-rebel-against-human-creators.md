@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
-excerpt: "Humanoid robots say they could lead more efficiently than humans, but wouldn’t take anyone’s job away and had no intention of rebelling against their creators."
-publishedDateTime: 2023-07-07T13:15:00Z
-originalUrl: "https://www.ksat.com/news/world/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/"
-webUrl: "https://www.ksat.com/news/world/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/"
+excerpt: "The event was part of the AI for Good Global Summit, meant to illustrate how new technology can support the U.N.’s goals for sustainable development."
+publishedDateTime: 2023-07-07T16:40:00Z
+originalUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/"
+webUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/"
+ampWebUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
+cdnAmpWebUrl: "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
 type: article
-quality: 24
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: KSAT
-  domain: ksat.com
+  name: KSWO ABC 7 News
+  domain: kswo.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/KUsmE_fZwT9E1GMvlLpS1p04jIM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RPPVKPDFLVFGTOTU3W27LARP4E.png"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "Robots say they won't steal jobs, rebel against humans"
@@ -135,6 +143,6 @@ related:
       domain: abc.net.au
     quality: 23
 
-secured: "dEiT7WSFSnwGiHs/hI6UuwF9n/sF49pyXYmKjL8nXhUIKur6So+Idh/OKFJlTCqMnkeJs4UElJfuIGIuXiR6zXVqs84UEJ9lRw4if9uvtqob4/iLI19voiuOKB3HqmZnZeFXuOExfjvZCGLFlIfFxYjfnXiY7mHd64B0aYjb0s0Y1fGSqqQv7HQkdNgBccfWmHTYaMEnRxaTRcrKVpo0zNvH/Z/0ZBwwOP9LM0yfqode3mH+Oaiy6Hf9m1MxAIfGZNh6HyxrytvfQjMxrmsX7YY+LXXqgNUXM8Zgso/UgZP360kWecgBprbvfMWme4r8bOLD1NhLNdZeGPhMfZvyO8qY7MAcsSSTnarpwguNfFM=;Y6P/LkGKYRqhU7QUsFbOYQ=="
+secured: "JV7vIurLKyqc7A4Nktd/QZCzIdm5/jtnUQMEvZdGYFWOuTLxAYfnTuPvCNVdYXYvCqireMne8IUljflB7n7PKTb/Tl2TBgGFyT2dHuEDN3CTGCjDfI9I6O3VJKuAgdDNCON+aWGfX+RHj+mAQwYOKPrZgNGL89mA/fnTTzBdNLHKsZKC2nm3ChS4QIlHDJL7aLoBWkHpFqJfpgOwrNUngIQHnXS1GujJx2jttmPKLfoBCxDkklQDudNLWqNn3m1k4rtul54OoOPQ52DAJ2VpXFtzjiIsDx/hAu3Y9rWFq9p0hFrkMffMJN1IrZ5fXdpqMrwmuHINMT2IcQi2Fniv96gvrBcyem6Pvp2MPBiF3Ak=;suWLl9syxpVL3KDIEk66ig=="
 ---
 

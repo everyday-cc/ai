@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "Yes campaign turns to everyday Indigenous Australias ahead of voice to parliament vote"
+    excerpt: "These are the faces of everyday Indigenous Australians that the Yes campaign will increasingly lean on to encourage support of the voice to parliament referendum."
+    publishedDateTime: 2023-07-06T23:50:00Z
+    webUrl: "https://www.news.com.au/national/politics/yes-campaign-turns-to-everyday-indigenous-australias-ahead-of-voice-to-parliament-vote/news-story/d209c3143df825403b0d46654d1ca946"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 11
   - title: "Indigenous voice to parliament: ‘Black voices being muzzled by red tape’, says Megan Davis"
     excerpt: "Voice architect Megan Davis has slammed the bureaucracy in Indigenous affairs as a monolith that “just exists for itself”, and says Aboriginal and Torres Strait Islander people want the commonwealth department that purports to represent them to be cut in half."
     publishedDateTime: 2023-07-06T10:44:00Z

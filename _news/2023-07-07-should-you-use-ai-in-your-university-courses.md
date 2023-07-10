@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-you
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Daily Star
@@ -41,15 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Five Reasons Why You Should be Monitoring These Four Artificial Intelligence Cases"
-    excerpt: "The first wave of litigation involving generative AI and/or machine learning is well under way. There are (at least) five reasons why you should be monitoring four significant ongoing cases that involve artificial intelligence-related platforms and issues."
-    publishedDateTime: 2023-07-07T13:21:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/07/07/five-reasons-why-you-should-be-monitoring-these-four-artificial-intelligence-cases/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 11
 
 secured: "N95NCtoM4R2yz2qb4f4tSbfMQs4R5/oLeEmDiM3aIUU1DobkTWXsupbgtBOiNekj8xQTSODUoSrC7/gpbQvfkf56lNfelzy7V2xmJ+0+zuq0DidRmWpIijtQHaZHZ7JMDNNBnhcJjYLTLXyrCn6RMI7ZRYcu3pf2Z0GbdmwlrjnS7MJb9QhX7cYov5J5ChzdPVjfiB9Kbr5ZhAP4Vp21dA1bAtwncEuzLAuNi1+KWDYg88k9gMtlRdQkzWWGHxO+n/DIjB9LtsTU+bjVVarAEgeW7TofMRmQt1LjpjzRjVNJoCXIuXhiPf9ei66sWSW05TvSjx0fCU3e/1AP06SjXzMNYvA86JbLDb70fYIPcxHttGqdRRGyQ5uxcUeoJ5nyRTBtK0PGibK1wxiNfkBFU4AXYmsEmLznSXYnrVMGZC8Pn3FTFMG7+m/WvYw5CFOzL+TqfI+GKZkayr4DhTmWKBDWpidjt7Am1eBfW0r9t/TGpHeGnc6vDivw70+L/HCT374v8uI+ADaI59JEL4da0w==;NTkLWhWAHiewDsvf8DdsrA=="
 ---

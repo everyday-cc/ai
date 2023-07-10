@@ -116,20 +116,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Understanding assessment in the age of AI"
-    excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
-    publishedDateTime: 2023-07-05T10:08:00Z
-    webUrl: "https://www.cambridge.org/news-and-insights/news/understanding-assessment-in-the-age-of-ai"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 39
-    images:
-      - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
-        width: 5500
-        height: 3667
-        isCached: true
   - title: "In the age of AI, tech's little guys need big friends"
     excerpt: "The tech industry loves its garage startup stories. From Hewlett-Packard to Google, the tales of bootstrapped companies that have turned into giants have inspired generations of entrepreneurs."
     publishedDateTime: 2023-07-08T11:12:00Z

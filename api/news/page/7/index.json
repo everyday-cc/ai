@@ -605,6 +605,59 @@
       ]
     },
     {
+      "path": "_news/2023-07-03-tensorflow-decision-forests-tutorials.md",
+      "title": "TensorFlow Decision Forests tutorials",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/decision_forests/tutorials",
+      "originalUrl": "https://www.tensorflow.org/decision_forests/tutorials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-aws-invests-100-million-into-generative-ai-center.md",
       "title": "AWS invests $100 million into Generative AI Center",
       "excerpt": "Amazon Web Services invested $100 million in a new program called the Generative AI Innovation Center. It will connect AWS artificial intelligence experts with global customers and",
@@ -678,6 +731,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-the-robot-among-the-animals-an-optical-illusion-that-will-boggle-your-mind.md",
+      "title": "The Robot Among the Animals: An Optical Illusion That Will Boggle Your Mind",
+      "excerpt": "Did you know that Greek mathematician Archytas of Tarentum created the first known “robot” in the 5th century BC? Quite amazing isn’t it? This shows the power and skills of the human mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/find-the-hidden-robot-among-animals-1688292364-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/find-the-hidden-robot-among-animals-1688292364-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/find-the-hidden-robot-among-animals-1688292364-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/find-the-hidden-robot-among-animals-1688292364-1",
+      "publishedDateTime": "2023-07-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1053,93 +1149,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-artificial-intelligence-can-shorten-cancer-radiation-treatment-duration.md",
-      "title": "Artificial Intelligence can shorten cancer radiation treatment duration",
-      "excerpt": "Predictive AI models can assess a person's likelihood of developing cancer by identifying risk factors. A new AI tool shortens cancer patients' waiting time for treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/julien-tromeur-V2G1YnMHZwk-unsplash-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
-      "publishedDateTime": "2023-07-01T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-ny-bills-would-ban-deepfakes-put-guardrails-on-artificial-intelligence.md",
-      "title": "NY bills would ban 'deepfakes,' put guardrails on artificial intelligence",
-      "excerpt": "Measures passed by the State Legislature this session include banning \"deepfake\" images online that most often are used to humiliate or coerce women.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
-      "originalUrl": "https://www.newsday.com/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/ace/c:MTgxNzY1YzQtMmRiOS00:YzllNTEw/landscape/1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
-      "publishedDateTime": "2023-07-01T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

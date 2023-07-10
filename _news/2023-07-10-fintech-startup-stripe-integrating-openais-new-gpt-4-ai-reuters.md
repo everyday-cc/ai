@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/602879/fintech-startup-stripe-integrating-
 webUrl: "https://www.inferse.com/602879/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,62 @@ images:
     isCached: true
 
 related:
+  - title: "5 APAC Companies Make 2023 Top AI Fintech Companies List"
+    excerpt: "Fintech Global, an online platform providing information and media services focusing on the fintech industry, has released its third edition of AIFintech100, an annual selection of the top companies leveraging AI to revolutionize financial services."
+    publishedDateTime: 2023-07-10T03:36:00Z
+    webUrl: "https://fintechnews.sg/75924/ai/5-apac-companies-make-2023-top-ai-fintech-companies-list/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/5-APAC-Companies-Make-2023-Top-AI-Fintech-Companies-List.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Top 10 venture capital firms investing in fintech"
+    excerpt: "With fintechs needing access to capital, we take a look at the top 10 VC firms that are investing money into the sector right now"
+    publishedDateTime: 2023-07-06T15:41:00Z
+    webUrl: "https://fintechmagazine.com/top10/top-10-venture-capital-firms-investing-in-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/4d31b47942cc4a29e0df04c78f69e979:781a737d79a3cb6a15879541c8c7f95b/fintech-top10-venture-capital-firms-investing-in-fintech.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What skills are fintech employers seeking in 2023?"
+    excerpt: "Meanwhile, the WEF’s 2023 report says that for 73% of companies, analytical thinking will become the biggest draw among candidates within the next five years, so if you are looking to future-proof your career, focus energy on developing your analytical thinking."
+    publishedDateTime: 2023-07-07T09:22:00Z
+    webUrl: "https://www.finextra.com/the-long-read/739/what-skills-are-fintech-employers-seeking-in-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/739.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "ESG Fintech to Play Critical Role in Net-Zero Journey"
+    excerpt: "As the world races to achieve net-zero carbon emissions, the financial services sector is facing the challenge of reducing its financed emissions. Against this backdrop, ESG fintech, which leverages data and technology for environmental,"
+    publishedDateTime: 2023-07-10T03:49:00Z
+    webUrl: "https://fintechnews.sg/75674/green-fintech/esg-fintech-to-play-critical-role-in-net-zero-journey/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/ESG-Fintech-to-Play-Critical-Role-in-Net-Zero-Journey.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Company-X bolsters NZ fintech start-up Tania.AI"
     excerpt: "Waikato-based software specialist Company-X has boosted financial technology start-up Tania.AI’s mobile and web apps. Due to a growing number of users, the volume of data being imported nightly from Xero was creating a challenge of triggering manual updates."
     publishedDateTime: 2023-07-05T19:24:00Z
@@ -34,7 +90,16 @@ related:
       name: Reseller News
       domain: reseller.co.nz
     quality: 19
+  - title: "Provenir Shortlisted as Finalist for Asia Fintech Awards' LendTech of the Year"
+    excerpt: "Provenir, a global leader in data and AI-powered risk decisioning software, today announced that its Data and Decisioning Platform has been shortlisted as a finalist in the \"LendTech of the Year\" cate"
+    publishedDateTime: 2023-07-06T02:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/b33127343/provenir-shortlisted-as-finalist-for-asia-fintech-awards-lendtech-of-the-year"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
-secured: "vM4rwgxBAOFi43KR4jjhxVPwC5K4sg5qlM/lqHq4g2jl7vuww1U1vxdhmbPwryptjLd4erhvL6Rs8GrTLUEQad3qccqAXNYX1/Iv8+Tet4sqw9uM/eXF4mkCWled6le+MBI9oXT6AFWdrDikewF/XuIiEyGvo0KcwAsQLa84FfLyDQ8y1vhXoWlLs1pb7G2k7+lABhNiZwZ2Yz23kDFgeolH7qwqibB2nkju1OkoQ+Mt3URCyhpe+hDRaOIAaXt3ivc+Fm1P7xTZTYGlGwXAo17k5pX905I8l0yjG3FRSlYonU0sr9KmilW9zzr5l2fy8TiBktOfQuBcZdtuwUbdi2H8eNDfwwOQcsO4W3O/gfc=;tGW/v7v3low07u53xlfBKg=="
+secured: "oDyxw2pHemcQAkui1nQmi4NTfXfhSydoqHPqQHeUMZNWhTdVLYTCY6EUH9Tnjx4ALCYJ1F2dg/onfW7nKtHEFaGvWzyb3JFU6eeSq/vaX3twEPHlW3yfWdo/TEii5arKlsN54y0r8mLao8TZk7+G1DoRw/pDX3cX5t+TyFb69Q/RXB9pZjRKjsgAns0obLoGoFzR7b1POiOXioxKtAfxRrjDwGGzqhsuS3O475iQu0ANGLmwNdunXVsajOuqs2UfuKovybAiRW+3Mdz2yWMBe6vFjxWaFjDXpQkyTvpyOsgvQGlgTC63+DbBdIPBaNf/X1AN24Dr4G8avRVgQs/pEdivwMaJP/VP68mA87/ouGjA4W0ZwyqpdiBoPK3JMK7fI1D2qxiJcSf+Xxt//PcSI9NrYxSAktmlAV3n+jT4ULaTj0QhnhVBRG3d+hRzQ2r+Ln2kwNqV38CijAHaeqZ/MDrxGrtU/Mfq/iwnbLk2qnf+cSEQXvOaIN0JU4eWWthbwtyvoy4RjB4ejViNf6nfKQ==;JjlMYATMlrYf76OXonWMZg=="
 ---
 

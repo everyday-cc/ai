@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-08-this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams.md",
+      "title": "This Week In Credit Card News: PayPal Launches Tap-To-Pay For Business; AI Tool Tackles Payment Scams",
+      "excerpt": "PayPal has announced the introduction of Tap to Pay technology for Venmo and PayPal Zettle businesses in the United States. Small businesses can now accept contactless payments—including cards and digital wallets—directly on their mobile devices without the need for additional hardware or upfront costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/",
+      "originalUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a868f7050ca7013b91cf1d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/amp/",
+      "publishedDateTime": "2023-07-07T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-ai-ethics-in-the-age-of-chatgpt-what-businesses-need-to-know.md",
+      "title": "AI Ethics In The Age Of ChatGPT - What Businesses Need To Know",
+      "excerpt": "Photo: Arne Dedert/dpa (Photo by Arne Dedert/picture alliance via Getty Images) AI Ethics was a complicated topic even before ChatGPT (and other Large Language Models - LLMs) and Generative AI burst onto the scene. In this article - we cover how LLMs and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a8463e4ab326e88191cf1d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/",
+      "publishedDateTime": "2023-07-07T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
+      "title": "Age of AI: Everything you need to know about artificial intelligence",
+      "excerpt": "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "originalUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-07-07T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-ethical-governance-of-ai-urged-at-waic.md",
       "title": "Ethical governance of AI urged at WAIC",
       "excerpt": "And, on Friday, the Science and Technology Ethics Research Center of the CAICT, a research institute under the MIIT, issued “Self-regulatory Convention on Generative Artificial Intelligence Ethics (Draft Comments)” at the WAIC. “We hope more ...",
@@ -251,7 +407,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -501,7 +657,7 @@
       "originalUrl": "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-best/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -724,7 +880,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -859,49 +1015,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-should-you-use-ai-in-your-university-courses.md",
-      "title": "Should you use AI in your university courses?",
-      "excerpt": "The remarkable level of accessibility and proficiency exhibited by AI tools has educators, students, and tech enthusiasts engaged in vigorous debates about one big question: should university students use AI in their courses?",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/06/ai_university_courses.jpg?itok=pIVQh-TB",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/should-you-use-ai-your-university-courses-3362831?amp",
-      "publishedDateTime": "2023-07-06T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -1092,109 +1205,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-the-top-artificial-intelligence-etfs-have-a-common-ingredient.md",
-      "title": "The Top Artificial-Intelligence ETFs Have a Common Ingredient",
-      "excerpt": "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest funds with AI in their name: the iShares Robotics and Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-812729?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-what-happens-if-a-superintelligent-ai-goes-rogue-openai-doesnt-want-to-find-out.md",
-      "title": "What happens if a superintelligent AI goes rogue? OpenAI doesn't want to find out",
-      "excerpt": "OpenAI is warning that a super-smart AI could 'lead to the disempowerment of humanity or even human extinction.' So it's building a team to stop it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/",
-      "originalUrl": "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a27bcb6ac15e312d7b316c9880953a5713305bfc/2023/07/06/f56b62d2-b51c-454e-b950-3948506ffda0/gettyimages-1499492092.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/",
-      "publishedDateTime": "2023-07-06T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

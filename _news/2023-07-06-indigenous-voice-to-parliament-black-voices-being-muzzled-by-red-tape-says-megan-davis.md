@@ -30,6 +30,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "Yes campaign turns to everyday Indigenous Australias ahead of voice to parliament vote"
+    excerpt: "These are the faces of everyday Indigenous Australians that the Yes campaign will increasingly lean on to encourage support of the voice to parliament referendum."
+    publishedDateTime: 2023-07-06T23:50:00Z
+    webUrl: "https://www.news.com.au/national/politics/yes-campaign-turns-to-everyday-indigenous-australias-ahead-of-voice-to-parliament-vote/news-story/d209c3143df825403b0d46654d1ca946"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 11
 
 secured: "mHhbNfr0iVBgg9c4xFbKjzm8KYPIAr/2AkS1ic4fP2so/52K6ymdqhuuoEtcswAhSJxbGKV/Ft/fqDDZzN3VqA2rxS/i7jd9E8THlzBlOy1XH1sA7Za4vYi63aqrslzu+ltPfFRI0SKr5Jy3xsZOrIeIwIjtqMTju4Yb5/WVe53ARAXb6stZzPWwo9K1Y+tM3KImPS8Fx1niJrpxBK+8rgwsifoYyMYfJTomdLkHVE3NtZZEp2guCJWa6vk3Ulwe5NnE7TV+XQon5cb6X29gwqyHBuyRuEVvJimC/awVW209gwU7pU659l+ZtaWV9jqMgOFMz+I7frqchV4d88C4XDz5I5tQTR/w+2e9BjH1JWI=;EPM0LeYtJo9Uq0VLs8JVFA=="
 ---
