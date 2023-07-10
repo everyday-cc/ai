@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/"
 type: article
 quality: 104
-heat: 205
+heat: 184
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/41cbb157c049beddd7df0797c19f328cabbfe0a1/hub/2023/07/07/e34a2ecf-f8c7-41ca-b901-08e6679a6de8/gettyimages-1502789130.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "A couple in Colorado had their wedding officiated by ChatGPT — only after the AI chatbot initially turned down the honor"
-    excerpt: "The bride's father told CBS Colorado that ChatGPT initially declined the request, saying, \"I can't do this, I don't have eyes, I don't have a body.\""
-    publishedDateTime: 2023-07-05T15:33:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-officiated-wedding-colorado-couple-after-initially-refusing-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-officiated-wedding-colorado-couple-after-initially-refusing-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-officiated-wedding-colorado-couple-after-initially-refusing-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/64a306a86075be0019c288c1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "ChatGPT's Website Traffic Down 9.7% From June as AI Fatigue Sets In: Report"
     excerpt: "ChatGPT, the fastest-growing consumer app in the world, saw its traffic plunge 9.7% in June from a month before, marking the first monthly drop since its launch. Still, the artificial intelligence (AI) sensation remains the world’s most-used chatbot,"
@@ -157,20 +141,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2022/01/24/PPYR/08ac3d3f-0a28-4ec1-be0d-9bca079b40d4-FJy01NJX0AIuzoV.jpg?auto=webp&crop=1199,675,x0,y40&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "LARGEST CHATGPT PLUGIN STORE DEVELOPER, MIXERBOX, TRANSFORMS THE FUTURE OF NAVIGATION WITH WORLD'S FIRST AI CHATBOT FOR MAPS"
-    excerpt: "Silicon Valley-based AI startup MixerBox, the largest developer in the ChatGPT Plugin Store, has released a Beta version of the company's latest plugin— MixerBox ChatMap —with built-in Google Maps API integration to transform navigation for the age of AI."
-    publishedDateTime: 2023-07-05T15:59:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/05/9843542.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
-    images:
-      - url: "https://mma.prnewswire.com/media/2146543/MixerBox_ChatGPT_Plugin_Store.jpg"
-        width: 400
-        height: 228
         isCached: true
 
 secured: "9F0Cz5yReT94/tCEf7MIBUm9bmvlGp1KFjPLm5LwuIuQIKAe7qenqex7bt/VT8+9n2oa3fntot/v9afKdJZixXHNAhnCgBnGtWA5x3XpHmuU1WZwCPjUgIMAqErN8vjrTujHs+wnxnk6dya59vnknn+Qd4KA4Tzm8hPq6D/QcOpHmwiwRF0vHaep70H22nGVPwTHYact3FLVV4KL4zamPIk0t3FCA5Xd2RmSo/SYsczL+fJisbOMzAtf+g8gHzuqqrUbTUsdwnIagILVv+qh9WCzvsWyPL/zgc7bSxlZkGgN4GUtVqJPvdjohKUA7pz9czJpyj1QLNOHTI2W/xLqJuOeoNmh5r45TWjCyS6wnuglEUxEAVGSIAadppZyycghBdzMADPgqLH5BgjDYjezB4zw9Kld7bEe0Sf1MP4lBSN1Q37Ph2x3rmNf9VAIBK9OWVqc0E5ehNQWdJlHl7dVTb5hbc18h/OLjOYpR9BHI3uRnHkzPnQ363FPORg3fDS6oWaSyaquTOv9TrQJUv/41Q==;cRBLGNKEdPu01KyZnGDKKQ=="

@@ -49,21 +49,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
-    excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
-    publishedDateTime: 2023-07-05T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+  - title: "Artificial intelligence and its role in marketing a brand"
+    excerpt: "With almost every brand using AI, there is a wide scope of plagiarism leading to legal risks that are not addressed easily, says our guest author."
+    publishedDateTime: 2023-07-05T23:30:00Z
+    webUrl: "https://www.afaqs.com/news/guest-article/artificial-intelligence-and-its-role-in-marketing-a-brand"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
+      name: AFAQS
+      domain: afaqs.com
+    quality: 54
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Tokyo-skyline2_1200.png?w=1200"
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F4e1cc1fc-6cf9-4076-a826-13324422cb14%2FAi_Art__07.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
 
 secured: "Xqv9FsebVyaIoD9gITCwxdsm073nhPucXvVrWBizbpTcUxH8Kw2WKUE+OJ0K44qDA/OWHIwlMwAcF0zJ3xHWRd1fZY7Pp297pEYbrNum12p2vQPyFJNArDqVldvdsyaRmXfavCXStkU121ycnVW5UufSTxorT8gluR1PPgRwGj9MqSkpkJV6vS/Yl4wRojJkxIKr0qIxIJ0xgOKKd5W83qRs4sIFqUTmISm/HfHi3ajU6rWyPjF02XvFTPp8Amfip69EwOOVGrPWRb+0Phw57prxcbbHsnnrehPONww4La4JA3x8C4zeJv8H7Na/chcqbX7eawJBmm2QF+vv2s/jbE0+fHvS3RUs44tsgbvnX7o=;V73DSvIrvP3wZV13BkCZcQ=="

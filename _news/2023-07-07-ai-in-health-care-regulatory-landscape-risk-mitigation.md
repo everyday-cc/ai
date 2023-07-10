@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 749
         isCached: true
+  - title: "Generative AI in Healthcare Market Size is Expanding Around USD 21.74 Billion by 2032"
+    excerpt: "As per Precedence Research, the U.S. generative AI in healthcare market size will reach at USD 8.7 billion by 2032. Generative AI, refers to a class of artificial intelligence"
+    publishedDateTime: 2023-07-10T07:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33159890/generative-ai-in-healthcare-market-size-is-expanding-around-usd-21-74-billion-by-2032"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33159890"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159890"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 67
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "The AI healthcare revolution: 4 insights into the future of patient care"
     excerpt: "The future of healthcare lies in the seamless integration of AI to empower professionals and revolutionise the way we approach healthcare"
     publishedDateTime: 2023-07-06T09:08:00Z
@@ -82,20 +98,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/4wlq8nqY2d9FStWQo6CVzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/916049f182d780a2b27a878f29944726"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Neko Health raises $65M for AI-powered preventative healthcare body scanner"
-    excerpt: "Neko Health, which is named after the Japanese word for cat, was founded in 2018 by Daniel Ek, co-founder and chief executive of Spotify Technology SA, and Hjalmar Nilsonne with the intent to build a full-body scanner backed by AI that can detect common ailments."
-    publishedDateTime: 2023-07-05T16:26:00Z
-    webUrl: "https://siliconangle.com/2023/07/05/neko-health-raises-65m-ai-powered-preventative-healthcare-body-scanner/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/2.-Neko-Body-Scan-Experience.jpg"
-        width: 11600
-        height: 8700
         isCached: true
   - title: "How 5 healthcare organizations are investing in AI for patient care"
     excerpt: "Healthcare organizations are investing millions of dollars into artificial intelligence to achieve a faster and more accurate care delivery model."

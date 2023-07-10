@@ -36,6 +36,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Google testing new medical AI chatbot that can answer your medical queries"
+    excerpt: "According to the WSJ, an internal email that it was able to access stated that Google thinks its modified approach can be especially useful in nations with “more limited access to doctors.” Med-PaLM 2 was trained on a selected collection of demos from medical experts,"
+    publishedDateTime: 2023-07-10T09:52:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/google-ai.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Painter and the Chatbot: Artificial Intelligence and the Perils of Progress"
     excerpt: "It was revealed that A Girl With Glowing Earrings was the product of an artificial intelligence program that creates images from natural language prompts."
     publishedDateTime: 2023-07-08T03:04:00Z
@@ -63,6 +79,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/33/27/26/23950753/6/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "A technophobe’s guide to AI chatbots"
+    excerpt: "While the risks are real, it’s becoming increasingly clear that systems like ChatGPT aren’t going anywhere. Are you ready to use them?"
+    publishedDateTime: 2023-07-10T09:36:00Z
+    webUrl: "https://www.bostonglobe.com/2023/07/10/business/chatbot-how-to-guide/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 41
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/lInsVZvcgByOEC5BwwZlXcUgmlo=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JR4WWV5YKFH3BKCY7QYAYM4ODE.jpg"
+        width: 506
+        height: 325
         isCached: true
 
 secured: "Y9gRGDkR5FCV0H85t5W3T2uSvpvFx9HXc6SN7P1PlLo1WcixnCPDksmFv24a2VHdEiul0Xl55CFkgXk0gdHXftW7cyQevu0cmy14JwVWBBD23IPSO29hsQ2BbKslZmV4pDFQaD3QU9bNXGsPox2ldaRIiBKx1koLZrPXclAUscAGKXPWiebHYb3n+mAQ4z2ix/iAs9EiT8TTb7GwaPDEL7eBOJA0+bW3A1oity5ury814lfgiGuESGM+8ShC8Iwm+2vq+kzxXkNUcicCGepPf/PGk0deFJSJVEq6OBq2gJIJvx6SBOzMX2rafzb6qgckP7+pqgK8bdq08bA4zjYYEne6FuG3sg750Qjya5YiNKk=;HN+qOyIpDOu9vOUarJOUvQ=="

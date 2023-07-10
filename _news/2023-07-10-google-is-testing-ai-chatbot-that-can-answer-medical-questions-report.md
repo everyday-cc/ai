@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-th
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-that-can-answer-medical-questions-report/amp_articleshow/101618423.cms"
 type: article
 quality: 59
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google testing new medical AI chatbot that can answer your medical queries"
+    excerpt: "According to the WSJ, an internal email that it was able to access stated that Google thinks its modified approach can be especially useful in nations with “more limited access to doctors.” Med-PaLM 2 was trained on a selected collection of demos from medical experts,"
+    publishedDateTime: 2023-07-10T09:52:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/google-ai.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Painter and the Chatbot: Artificial Intelligence and the Perils of Progress"
     excerpt: "It was revealed that A Girl With Glowing Earrings was the product of an artificial intelligence program that creates images from natural language prompts."
     publishedDateTime: 2023-07-08T03:04:00Z
@@ -66,6 +82,20 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 44
+  - title: "A technophobe’s guide to AI chatbots"
+    excerpt: "While the risks are real, it’s becoming increasingly clear that systems like ChatGPT aren’t going anywhere. Are you ready to use them?"
+    publishedDateTime: 2023-07-10T09:36:00Z
+    webUrl: "https://www.bostonglobe.com/2023/07/10/business/chatbot-how-to-guide/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 41
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/lInsVZvcgByOEC5BwwZlXcUgmlo=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JR4WWV5YKFH3BKCY7QYAYM4ODE.jpg"
+        width: 506
+        height: 325
+        isCached: true
 
 secured: "QHz3Yb5MQu2hiXOQLm/VHjfCzPPRY7QStjqmdnyFT1jj/91WWV6mxZkbldS7F4yqIet+hBLMMhQ/SAHMX09xkwpQWpFXOvOwtIrCzyaseWfjRZR62oBG5lsyNnHJzHXnfgXxQrcl319ccL8vi3HkKm0Nyji0K3PpuiAJQzbUziF+z7aThc8YvPCmshQZpwav/0Te4JxNzycALCZM2WkBvv6KwwnMErt9RbRC43YXdlJQWEx0leyjoXBl0NiwDAz7X9OwOKkjuZWjwdCdDHrhdUAJrIrtw1gvn0lquGFg4obzv/dJtBQF90P0x6KcfWrcHvliwGt5y3/ecYJcjPhgfpe92yEZsZCLJDuKXiSKNRU=;BGWPPkTE6IvumZSm0mKFvw=="
 ---

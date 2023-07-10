@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230706PD201/bead-program-ev-char
 webUrl: "https://www.digitimes.com/news/a20230706PD201/bead-program-ev-charging-v2x.html"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "Taiwan chip gear makers and AI server supply chain report strong 1H revenue growth"
+    excerpt: "In early 2023, semiconductor market was expected to see a recovery in the second half of the year, but those hopes were dashed when TSMC announced that inventory buildup was more serious than expected and would not return to normal until Q3,"
+    publishedDateTime: 2023-07-10T07:58:00Z
+    webUrl: "https://www.digitimes.com/news/a20230710PD212/chips+components-taiwan-supply-chain-revenue.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 48
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230710pd212_files/3_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "HmgQpVMWLVlb1qcwRMYOpvcoSSjjLXmZdpJ5Gp0ao4LOttbzN0MdsGYXq7I65FMZHTcAnIOa9PxdqrA5t/xV+k87M6+FY4VOo92T+YEqyrSiQj3W+h36q1NqcW6CHtPGISi/02g5zxnM7/YvhlQZ7+1qpXHKA1FXtN0My6OSvjuHNC7VtsqPu7WkTcB8oVt6yo3ytXs6B3GBp/154X6qCwX8PXg9Wr50j/aDj+Epjcj3XGPTKqJh4slsgIcsTnEfolQaq2X/osqprkwjTGXjFfsKqzlWdZ4KZhtpcpVGOVTXhc36V0fEL4KjZR/rGa2ajg7UcPsrlV/2FuMTiLmUgmkxWETR6r/3dLKcLggvwknZnPgNX2tcPJjw28F4GoMsT5IBOW+7Jde44oa47rzlmGRMpzElDsQqYILcUTFYJJMHUvfCIjouF9L+hS1bfeidS98e/kXC6ey3Ik3/WBE8EtBh0JNnWKBCkbmThsLtIeWKDJGjbryDHaML4tVaUvAU2JDyEcY2OK80hPUDnAToPA==;3rFRlMcK1YgmLh+lFmooJQ=="
 ---

@@ -41,19 +41,19 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "4 AI stocks to invest in"
-    excerpt: "Artificial intelligence (AI) is a fast growing sector, but how can investors profit? We look at 4 AI stocks to invest in"
-    publishedDateTime: 2023-07-05T15:29:00Z
-    webUrl: "https://moneyweek.com/investments/4-ai-stocks-to-invest-in"
+  - title: "Journalism in the age of AI: How media companies are putting computers to use"
+    excerpt: "The Finnish public broadcaster Yle noticed tens of thousands of Ukrainians now in Finland because of the war, and turned to AI software to translate. The French newspaper Le Monde now has an English-language edition thanks to artificial intelligence."
+    publishedDateTime: 2023-07-10T08:40:00Z
+    webUrl: "https://www.wvxu.org/podcast/focus-on-technology/2023-07-10/journalism-ai-media-companies"
     type: article
     provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 39
+      name: WVXU
+      domain: wvxu.org
+    quality: 36
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MDtp2a5dV6RZJ9KHWDhivK-1200-80.jpg"
+      - url: "https://npr.brightspotcdn.com/dims4/default/d481d2b/2147483647/strip/true/crop/640x336+0+12/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2F9e%2Fb99a07d048c1882f2881d1ce67eb%2Fartificial-intelligence-word-cloud.png"
         width: 1200
-        height: 738
+        height: 630
         isCached: true
 
 secured: "DAuUBQcItxdao6OuU3aQIWMa1LVH02sE8OVxd9CJd8LL0e1MUo9UC4d9m6ZF5pc02Wvrq7kYEPKw2Bb/nz06/EA3MjMJ3MADQvxkhPdAQdvc6pjHxCBGrL/JvFPah5mYBvS0bwNfURCaNCWiAlKG+PajlSZfVosp7dAO7ilJ7Mbga5OwifWHcrUD/TZJzPhml4y8BOndrqRTtRfsWab07G3DDGwiVWBZmm49WQU3qY6fmtfNJUdOmbwjukQp8sGPqPfN7Dfe+E1Xl9FmiMVNRyqeO1SBFpuYHxCyhlIq+KlJMbmkh6KD6Eh37jv/htLzoJPrJQRi/22QR/03+n7OwQjI1wd1rwYS0xgAUn+YYYZvY6Fzgl8PaLv0j3UJwx5QOXhrZ9LJsUW9e8IT2ResbSvOrujazNaAyNXhLTzWTDOKesDYXmKvq3+Vz9eXCUvbuTUg6V0/bNQI5AjG0QEWO6F5SKcpShW5o5dnP2/w0cDh1BLBFYVllkC1zTNcLpJZ0jZdyNKWgW0Uc5WPzgm7Xw==;pAB9nhe4uhKN1gPAYpOplQ=="

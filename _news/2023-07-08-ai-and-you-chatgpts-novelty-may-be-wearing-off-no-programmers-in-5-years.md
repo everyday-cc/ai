@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "A couple in Colorado had their wedding officiated by ChatGPT — only after the AI chatbot initially turned down the honor"
-    excerpt: "The bride's father told CBS Colorado that ChatGPT initially declined the request, saying, \"I can't do this, I don't have eyes, I don't have a body.\""
-    publishedDateTime: 2023-07-05T15:33:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-officiated-wedding-colorado-couple-after-initially-refusing-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-officiated-wedding-colorado-couple-after-initially-refusing-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-officiated-wedding-colorado-couple-after-initially-refusing-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/64a306a86075be0019c288c1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "ChatGPT's Website Traffic Down 9.7% From June as AI Fatigue Sets In: Report"
     excerpt: "ChatGPT, the fastest-growing consumer app in the world, saw its traffic plunge 9.7% in June from a month before, marking the first monthly drop since its launch. Still, the artificial intelligence (AI) sensation remains the world’s most-used chatbot,"
     publishedDateTime: 2023-07-07T02:22:00Z
@@ -156,20 +140,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2022/01/24/PPYR/08ac3d3f-0a28-4ec1-be0d-9bca079b40d4-FJy01NJX0AIuzoV.jpg?auto=webp&crop=1199,675,x0,y40&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "LARGEST CHATGPT PLUGIN STORE DEVELOPER, MIXERBOX, TRANSFORMS THE FUTURE OF NAVIGATION WITH WORLD'S FIRST AI CHATBOT FOR MAPS"
-    excerpt: "Silicon Valley-based AI startup MixerBox, the largest developer in the ChatGPT Plugin Store, has released a Beta version of the company's latest plugin— MixerBox ChatMap —with built-in Google Maps API integration to transform navigation for the age of AI."
-    publishedDateTime: 2023-07-05T15:59:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/05/9843542.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
-    images:
-      - url: "https://mma.prnewswire.com/media/2146543/MixerBox_ChatGPT_Plugin_Store.jpg"
-        width: 400
-        height: 228
         isCached: true
 
 secured: "QfhdTK5DT01BpGCoJx7+i/vYfiXUlgfEQL9JFxn9Wj0Am8GDAcXl2/dIQnjXqIhu8byZey8x7Z7X6C5AmO4pNHcwk8xMMSf6Ar7tmJEcS+8DrLpxUNLaBLEIY6COblsTmWF2Z4yedPsZ2cSQNPkFVddr0dNZClGhxoR0GDfw0Xzxxf/yKES9bOJ7RzMYb3QwpHV8bQKMQH/4fFAnBloue5gTgT0dcKcZQS+4YqmOn2zSfPPUrZTaNAlIsZfhwG14wQ/hUQr+M4YxBUTL7dzK4m0QJGv6tzne1JggNFi/BOgdufINagMxaM9mQjVC3Spnn2UFv/GfuqqgLhH2BtdZXGL7sJNDl8XS7RE8o9X7xPVYTVX/DcdGdniatyp6Z2WVVPHRkGC8xHUJWAHDAd0fjrqltwKTZpeJIg3j8f0jwNgLCqWH24EIix1oH2zqG1Khc9g67EY45FfmhZqLiZDD/iH5K2ROb2THakfhBYUXKxsZOeVusL7VpH5rK2slOTKBnAV4+t0AXq/oCH5t3zfEDw==;lSwGUVleCZmkgiSw1Blcdw=="

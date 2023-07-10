@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 708
         isCached: true
-  - title: "Google Could Use Your Data to Train Its AI Models"
-    excerpt: "Google has recently updated its Privacy Policy to retain anything posted publicly by users so it can train its AI models."
-    publishedDateTime: 2023-07-05T15:36:00Z
-    webUrl: "https://tech.co/news/google-could-use-your-data-train-ai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/07/05112525/google-sign-logo-e1688570794675.jpg"
-        width: 1000
-        height: 716
-        isCached: true
   - title: "Shutterstock continues generative AI push with legal protection for enterprise customers"
     excerpt: "Shutterstock announced it will offer enterprise customers full indemnification for the license and use of generative AI images."
     publishedDateTime: 2023-07-06T13:08:00Z

@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Google testing new medical AI chatbot that can answer your medical queries"
+    excerpt: "According to the WSJ, an internal email that it was able to access stated that Google thinks its modified approach can be especially useful in nations with “more limited access to doctors.” Med-PaLM 2 was trained on a selected collection of demos from medical experts,"
+    publishedDateTime: 2023-07-10T09:52:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/google-ai.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
     excerpt: "A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him, marking yet another example of how generative AI tools are being used in 2024 presidential campaigns."
     publishedDateTime: 2023-07-06T01:13:00Z
@@ -66,6 +82,20 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 44
+  - title: "A technophobe’s guide to AI chatbots"
+    excerpt: "While the risks are real, it’s becoming increasingly clear that systems like ChatGPT aren’t going anywhere. Are you ready to use them?"
+    publishedDateTime: 2023-07-10T09:36:00Z
+    webUrl: "https://www.bostonglobe.com/2023/07/10/business/chatbot-how-to-guide/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 41
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/lInsVZvcgByOEC5BwwZlXcUgmlo=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JR4WWV5YKFH3BKCY7QYAYM4ODE.jpg"
+        width: 506
+        height: 325
+        isCached: true
 
 secured: "Hsw+SF9rkZGyMkyiE/u/z1asJgngcuMku/6VPfZSeA0n5NeswWE7a6Eu7ZSJ6VC/1Nt3NyCzpaa4HovC5/0+/yh1AA9OXYPkIX/CoiMDTuT3599NYd/wna6OHSUrN5+HERbfLmUaW6pEQ+qG4na8hhgqyKNdtm98QTYT63YV+nZd3tFvTYbN8rinLrMkV4WP7E4a2Wh4sPbmu8bU2TMp1x69tpV7xEzryiW+azemZ+z7qRLErkNKsyCiaEhcKbK3J8KTky9JKjEjHmTdKK6J5KcCvFdjLPvh2+68l+pT8ax/RkBUJyzSw7Wc5+lL28SiksmlFikUubsjICoEOEiQmPCx4DNu5Of4dOmy5/8E4gwAAJITegfm6qPeuD1SJycVzdWkqwawRT6bIeLnuDXDzEi8O0+Vj9Az0d8wbVPJWPDmeJ75mgBCRLrNARuZ5kjfMfTaTZ8piDMMmo8A/t7751UtaIXBsA2M5emT9QgyVH0nUb2Wel7eMkaHqYRYF5uZ49nfrz6FaUQM81fiiSdh7Q==;0GHHeWUdXha/EUTxgj3LAg=="
 ---

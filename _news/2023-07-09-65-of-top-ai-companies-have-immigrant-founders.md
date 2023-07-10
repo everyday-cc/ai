@@ -36,19 +36,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "4 AI stocks to invest in"
-    excerpt: "Artificial intelligence (AI) is a fast growing sector, but how can investors profit? We look at 4 AI stocks to invest in"
-    publishedDateTime: 2023-07-05T15:29:00Z
-    webUrl: "https://moneyweek.com/investments/4-ai-stocks-to-invest-in"
+  - title: "Journalism in the age of AI: How media companies are putting computers to use"
+    excerpt: "The Finnish public broadcaster Yle noticed tens of thousands of Ukrainians now in Finland because of the war, and turned to AI software to translate. The French newspaper Le Monde now has an English-language edition thanks to artificial intelligence."
+    publishedDateTime: 2023-07-10T08:40:00Z
+    webUrl: "https://www.wvxu.org/podcast/focus-on-technology/2023-07-10/journalism-ai-media-companies"
     type: article
     provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 39
+      name: WVXU
+      domain: wvxu.org
+    quality: 36
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MDtp2a5dV6RZJ9KHWDhivK-1200-80.jpg"
+      - url: "https://npr.brightspotcdn.com/dims4/default/d481d2b/2147483647/strip/true/crop/640x336+0+12/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2F9e%2Fb99a07d048c1882f2881d1ce67eb%2Fartificial-intelligence-word-cloud.png"
         width: 1200
-        height: 738
+        height: 630
         isCached: true
   - title: "'AI is not something to fear': How these local companies use artificial intelligence"
     excerpt: "Regular use of AI is becoming more of a necessity for businesses. Here are examples of this with two Greater Lafayette companies."

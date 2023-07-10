@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nation presses the accelerator on driverless vehicles"
-excerpt: "A passenger travels in a driverless car at Baidu Technology Park in Beijing. [DU LIANYI/CHINA DAILY] Lou Tiancheng, cofounder and chief technology officer of Pony.ai, said, \"The inclusion of autonomous vehicles in the unified and standardized management of taxis proves that both government policy and the public are increasingly accepting robotaxis as a form of everyday transportation."
+excerpt: "Driverless road-paving vehicles operate in Hefei, Anhui province. [LIU YUCAI/FOR CHINA DAILY] Tech advances, policy support point road to the future. Driverless vehicles may sound"
 publishedDateTime: 2023-06-29T01:36:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
-webUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
+originalUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html"
+webUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 445
     isCached: true
 
-secured: "oeM/Jj3NvS3yJ00028Nm20yDqxslDeKB+JkNmdL6RdeLes4llTjyiv9FlfSnSoCTen8wdAMgB1ppcPhFsopbP1F3AghGtjN0QP93AqnUtb/qaWQyv/yY3Wqmviokal99Olss9K4Ps1/tRZqGxR3Wq8UjuGFelRrbQxycQKKL+r9j6hNCjbJDUAapEtdgIHnnUbgRMuayAL+2dATVq/dChDLsP0KJZL3DJEmhk0uziFCGgGecV0C+kmROk9FPMXhozfMWczsjO/Ueob2c92oAuniGMGjvAP84Gq1iGmjUXO6S4AQgzuyWuIlLrvztWqNCLRLdyUqD8fhizNXJxWCQBcj7HLie8mU3PyEIpuSRrVU=;Zqbw/yg2HoYxmsJR6ysYWg=="
+secured: "BE060kBhwgf840Dl+6NU6ivxnIxostKwmfFRaV4R6AzBFZ4YZ1vSbxbUyHNI1EPF13Yf4rOaTzbt5TLxamyYbEts6JaQBK4s1ysN1zp+QS3K3gTO6C6HBVHUWGnF5IHb9TcR+5bMni1TiWkRApgv07+R1HuLJQP04SkIR1UcfpfBFbwkCXImcn80kxqS1r9yPVCPt3R58MnTvUGNm0BAauLMKMoYoYNRP/3D7vCwdHjwNht4SJamcjwLUyVMY/97hVnx+H70YVZrq415hvVSjJOi5iGfEJny6dM7P6pDnMX5+XWsDjOPGvSSK7ed8Il57ixrE0TGRutYgPxVRGa0MJON9REBofPLxqfLP5N/AyQ=;33ayMbQKl2AF/C6LJrWh+g=="
 ---
 

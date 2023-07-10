@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Could Use Your Data to Train Its AI Models"
-    excerpt: "Google has recently updated its Privacy Policy to retain anything posted publicly by users so it can train its AI models."
-    publishedDateTime: 2023-07-05T15:36:00Z
-    webUrl: "https://tech.co/news/google-could-use-your-data-train-ai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/07/05112525/google-sign-logo-e1688570794675.jpg"
-        width: 1000
-        height: 716
-        isCached: true
 
 secured: "DbNZ++Zwm3mgyHuJB73zDnOaxRPZF0uKbibW+CdgGUXJMnCPz2b6UyJEgK6zeCekfBNcqy9/h2aFUBnUMO29tJ2eALHjqxu6QAcqk3m9nFBueCXaJraHhT6dcPkdqJ7a8jm6CHVrnDGDFhVqQ41D7+peCOxYUnb6i7/4T2Z4pB8IJO3mhjUolAz74pA05/ZSqrxsU+kyXREnoOuWBqSZ0FWe77Dfd721tFjaNL5YA7KzQpitQ4yQAG95eQmPiLQREEp8+bN+vSLNMtnjRLHJVI9/iWj59XhKGKpINlFf6r6eGeo/wbjSbpGoK3IOU8GrR+y+MX901grsZ4q9VIiZOu4I3YNzBoD18r4TE0TBILbL4Rbd2gKbnUeGdYdSdQdmzGmaU4cXuTTxp5ck5ScQuWUcC7QzllHgtM2v7U0zldgNRtCbqAYUeeOJKtmfzTG4diovwdqMuEUeIWnrD2vUakoY9MDt446gbJJIVMZELGqSCrO940gRDnGe0ZLOSSDjAgsKRYRvPFehKhL4xOweXA==;9QczLew7LzR43mwv2nepzw=="
 ---
