@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/us-army-wants-to-use-ai-to-predict-e
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-army-wants-to-use-ai-to-predict-enemy-actions-2023-7?amp"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Business Insider
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Looking for Biotech AI Stocks? 3 Names That Will Benefit From the AI Boom"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI is coming to biotech in a big way. From protein folding to drug screening,"
+    publishedDateTime: 2023-07-09T00:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/looking-for-biotech-ai-stocks-3-names-that-will-benefit-from-the-ai-boom-1032433236"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "B/WZ3gCwe6INuLS2VNzvg6rmPlMu7p5pJjH0XrRDGX7HxM4Srfs7BSyR+iavGXu88nHUUVt1sWSXjHmUC4fzgwmWSDlXBD2eEHjoZUuu+Pil8z+Q6uieFfFP++kLXBzBzLluqFhdp9o+sdfkvtDL6PHhPRNfqs1pCFlQDWjaTGtsi7W8dMjk+TIzIQm/yEzKpiauu+QuPVku5yo0SNnJOtDW4uTx+FEt/c3ILiXfHCwFKAer3ebDWHwNJBDNyBIuwM3ZSPdPCrzWsz+WVLxmj3QCP7N3FVcvj39UbEviLwG9b1NGF/NN1tgW0nbiZ2956izc5fElLj3WTuStsJQgRoHYtKpPVvGzRxNK4C4wFyGwa9ZmAjQZ3x+iNEzlZU/iyexaWtCBy4AcGagX2+rff5OAnORuIBNvahQLzecc+tDjDUzxG8ILbidx6uLWVPGjB/PSBMHB6+nj/+Cbd/xN4C9pWMCt/ySiJAtHEWQ4fKSertrCk9cKeXP8xorg4r0fibIRjRmyjX7Z5pvr473MHA==;7uJTqsagXCdcEufa1o8trQ=="
 ---

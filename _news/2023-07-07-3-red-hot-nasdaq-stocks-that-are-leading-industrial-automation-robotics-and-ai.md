@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-l
 webUrl: "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -23,6 +23,20 @@ related:
     excerpt: "Value in the AI Industrial Robotics market is projected to reach US$155.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.74%, resulting in a market volume of US$ ..."
     publishedDateTime: 2023-07-07T20:07:00Z
     webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/spain"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Industrial Robotics - Australia"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$138.30m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.79%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-10T00:52:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/australia"
     type: article
     provider:
       name: Statista

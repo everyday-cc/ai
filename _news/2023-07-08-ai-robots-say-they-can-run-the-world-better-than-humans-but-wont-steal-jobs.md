@@ -126,6 +126,20 @@ related:
       name: Odisha TV
       domain: odishatv.in
     quality: 54
+  - title: "Robots promise they won’t steal jobs, rebel against humans"
+    excerpt: "GENEVA (Reuters) -Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us. But, in the world’s first human-robot press conference,"
+    publishedDateTime: 2023-07-10T16:01:00Z
+    webUrl: "https://www.eastidahonews.com/2023/07/robots-promise-they-wont-steal-jobs-rebel-against-humans/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 54
+    images:
+      - url: "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2023/07/question-for-robot-reuters.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Robots say they have no plans to steal jobs or rebel against humans"
     excerpt: "nine of the most advanced humanoid robots have told an artificial intelligence summit in Geneva. In what was described as “the world’s first human-robot press conference”, one robot, Sophia, said humanoid robots had the potential to lead with “a ..."
     publishedDateTime: 2023-07-08T13:58:00Z

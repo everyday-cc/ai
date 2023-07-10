@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-rea
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/pexels-michelangelo-buonarroti-8728557.jpg?itok=O-nUwU6k"
@@ -25,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "B3Z9iYHoeVMpGzR0Kz4/OwVKzd6Ubaod2xm2WbEFANnukPenBX64RJPJO6jQDpfqV6vQA+1iN2CkUJQepi3JeVXOOP50k/0n51+XkdrrCRToSNqFtdAlH1UZ6au1aJ0Q4NhV8IVoBCgiokT3wAZ+sJYDFeVlu/HcAEol3TH/9CaM8G/a9dREfR7on6M9bsvfr517h/qGTwILGDugQmd3niNu2y0SxNCN883vhl/EXH2hF5KAXmvVhdiQay2BIO0AUc6gST29PWRRrN8EAC94Bo4QtNmW8p4ulfWgGGiUWWDZR1kLVqC0Ltj+QJhgYtC2UFI6Ef/ZmKn2mHNuwYad8bVwBVC+GR6n0GtVCB54Da0=;IygE3hXn/pyv3eIjsyhW4A=="
+secured: "IfICxQ5FQfqroiMbpETc4Yb4yqzTmXrmrodlNlDluz+RfNCV/VSuTyATJIKxGy0uIKcRLn0sQ4zHPnoi5vq+/CMB9SCqNvWzhM8EHXzXU9djeOg2NauuLdWlKs5DUkKWmuFaCsbJ2DaPqQ84ny/K/Ohmv+sB8l3BbBQsUP7bgLqblYPb/55ldfGAuFkgQpIIiROY9DvY6+2EEtLpTd7ZIaAFwToj3duJYN8WNXb2+oCG/FKjitVdHIL2bMas/KbkVgxT3XSZeNZXfpcxLk+Ua6TAkTpKCRazpSpgpHMUai29rVt7laYBVcmIKlCVzTuHWoKE4lLJu8h3ryDRQfX5tUb3oPOuhqUV0AWNqErSg7uXn9/0iT7eEdTjjor0cTEmzQ7jaXR/uJ9+4QvnSbOfoNWDMX7jShe/4HFPk5U7TFzVIHDDBlMVTdFdlo/hLlLuraqBO8+JnStm/sWaqP32o1KcLISVcRCFKzwsRZu+oMl7vn9R2Zr5BJRUXwMWsA+OGZfMW8iwTsS5IufTXFqTPw==;FW7g/3nLD+9iZ5uSn8UZog=="
 ---
 

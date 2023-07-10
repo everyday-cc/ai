@@ -27,8 +27,8 @@ images:
 related:
   - title: "Robotic Vision Market worth $4.0 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The global Robotic Vision Market is expected to grow from USD 2.6 billion in 2023 to USD 4.0 billion by 2028, registering a CAGR of 9.1% according to a new report by MarketsandMarkets™. The growth of the robotic vision market is propelled by two key factors: the increasing demand for safety and quality products in the industrial sector and the growing adoption of vision systems in industrial robotics."
-    publishedDateTime: 2023-07-10T15:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/10/9845236.htm"
+    publishedDateTime: 2023-07-10T16:47:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/10/9845236.htm"
     type: article
     provider:
       name: TMCnet

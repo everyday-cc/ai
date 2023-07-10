@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Galmed to employ OnKai's disruptive Artificial Intelligence (AI) in its Planned Phase 2a Clinical Trial in PSC"
-excerpt: "OnKai's AI models redefine the methodologies and economics of clinical trials. TEL AVIV, Israel, July 10, 2023 /PRNewswire/ -- Galmed Pharmaceuticals Ltd. (Nasdaq: GLMD) (\"Galmed\""
-publishedDateTime: 2023-07-10T13:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm"
+excerpt: "OnKai's AI models redefine the methodologies and economics of clinical trials TEL AVIV, Israel, /PRNewswire/ -- Galmed Pharmaceuticals Ltd. (NASDAQ:GLMD) (\"Galmed\" or the \"Company\"), a"
+publishedDateTime: 2023-07-10T12:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri"
+ampWebUrl: "https://www.benzinga.com/amp/content/33164058"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33164058"
 type: article
-quality: 14
-heat: 14
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
-secured: "S+ERh2qRTcaVRfHiSaXvU/l6jcwcA2HGvoOXwf7mqBeg3iSDzswZoVq5F8ijo0YAFTu+Co8GRB5YX3VB/7mM1JVeIuqv/3tjxhtVnfcc3FEIxTQAmhaUPBQD1kWrNjpVHD7o/p8fEDsRhUH9HARytT4WRVfbysauXC+XWCGDGktm55ZnnGzfyPzkX3RHwHmpXjszWmmmF7034hTxEz+oe+Hi+3no42ABxpx0uic9+fJYenOZrOEHyGb33SbmiZXDspvsv4gZsSbN/03Khe9LwAsQitwJCre/xHlvCH0ReLFvdxAGeDWB0/3XyXRqjre2PaRbugJF5f4LxuGKK45JieNK9Ixx2YDDQu1/dsfol1w=;5TF2737vb7wMVosTVBJH2A=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "nCxwQSJwnwg5gjQ7h9H4UUAz8LWVPWhb0IorbNRrxttOV1GDBfNT05sJTeyCrl+FXblztU0Z8PuZpavQY31lYw1rciM3/qxtXthc9reOSfoGKvbeDStDnhc9y7ucTsQaeZmPve4ML+0uIkkdfDg/iH3NrztimzuuZnOkO1d66Jdm0l0IPLo5+E5IwY4JyMTSQBlUdA9pHiz518Py1ws4WdCZpM22GgtyXpd3GMvaE4Xe3Ol2BE4x06J29XXMjfFkSasVqq//hRcN0Gr3yKXv7QVxllW08H/GSgpX7TwO4YTlbhZYgcdXTkvq5fAku3YhvDvR/gJNkjQKSz3YiXpcy8VVqKP/hN6Qz+sCLeyTsv4=;tt2/lNunUJgv432Of8eZDA=="
 ---
 

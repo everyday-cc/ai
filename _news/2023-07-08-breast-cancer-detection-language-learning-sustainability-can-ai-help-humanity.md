@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/breast-cancer-detection-language-learning
 webUrl: "https://www.aol.com/news/breast-cancer-detection-language-learning-202919130.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Generative AI: A Redefinition of Our Humanity?"
+    excerpt: "AI is raising questions about the future of jobs and the human-machine relationship. Proper use of AI and LLMs can greatly enhance our abilities and work efficiency. Critical thinking and intellectual emancipation are keys to maximizing AI potential."
+    publishedDateTime: 2023-07-10T15:44:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202307/generative-ai-a-redefinition-of-our-humanity"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202307/generative-ai-a-redefinition-of-our-humanity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-behavioral-science-hub/202307/generative-ai-a-redefinition-of-our-humanity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/google-deepmind-LaKwLAmcnBc-unsplash.jpg?itok=eYEgvbRH"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "gfG2WM6QUCaNGmJv+Y9lpRTDJJhFpVGy3ravwN8RmZkXObV5CcxIS9CoEEzpEdzeU/sY/tFw1Vft9VlffZsXNYLBX/Zg/O99Ae/82xi0P3lbmJs1flwF9OsRkg9xWCE9w2N3o3gLd0s2/BPomXW4NXmyGNddOc0ym72iAMc7h7KSpTmBxj4EVEgt7xKw8KQ2njeJmqSexiXH+M3n9ljSq/AQBZgsyYmKyes/bGwXIook/OspohXNdw1/Bha3y3eBZFIzM8CGbDM4CKQs1CyPnia1HsemnZ5DRx7q6hEihg45aJJmpuXzcoW8IrACwz/BaeoqqFVtD9mPJwIh6gtHSdKPzoQoEj0O3apNhy5thrNWziFr2E3uKwmLgVhILnWbD7Gl9ZRnTzB/mAB2F5ljeV02a0sErS4472wVlC79OtdkSqJZ2Y1+zUO0+z2K1fJsoBV/HZ8d8v9NSgGnE3A4viq8ldoHs7LH2U5yWrOnikJqz33DmqfLRsN/MlPyPfQgygFz1bXesRdOFkpVLJ3luQ==;+yHDyIYwyj7ekwKdy3M/4w=="
 ---

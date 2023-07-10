@@ -1,23 +1,31 @@
 ---
 category: news
 title: "GT Apeiron Announces Enrollment of First Patient in Phase 1/2 \"ELUCIDATE\" Clinical Trial of CDK7 Inhibitor, GTAEXS617, in Advanced Solid Tumors"
-excerpt: "Preclinical data from AI-optimized GTAEXS617 support potential for improved therapeutic index compared to other CDK7 inhibitors under development - - Parallel translational initiative to evaluate preclinically identified non-invasive PD biomarkers with potential to predict GTAEXS617 treatment responders - SAN FRANCISCO and SHANGHAI,"
-publishedDateTime: 2023-07-10T11:17:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/10/9844912.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/10/9844912.htm"
+excerpt: "Both the monotherapy and combination therapy dose escalation portion of the trial ... GT Apeiron is redefining medical discovery, using artificial intelligence to streamline the drug development process—from target selection to clinical trials."
+publishedDateTime: 2023-07-10T10:59:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/g33163133/gt-apeiron-announces-enrollment-of-first-patient-in-phase-12-elucidate-clinical-trial-of-cdk7-inhi"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/g33163133/gt-apeiron-announces-enrollment-of-first-patient-in-phase-12-elucidate-clinical-trial-of-cdk7-inhi"
+ampWebUrl: "https://www.benzinga.com/amp/content/33163133"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33163133"
 type: article
-quality: 0
-heat: 0
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "3pbJV47+KT4BHCRJIFhJP/L0DzAkJyAIT7uoEG/z2pS6G/bomiXXObLWZp051gFqog6pwl2Yl93w9Q+l8MW9RtkOW6Dz27wARlgn9cjJfQVS+wkjdE0xP9t/x2tfQd1o86b+Sywf1yozrJokO769791lx46gZigUC+5lhD7AX3M9IjmFPV7KI+BXueidPPYjeRaxrR7fI5HPQagX49e8WbX5jgW/9Fc37yGGnWPR3GW+81paQMZOlA3B6LGR/yzt4qJ8cHiX6g4HeHmL5fkLcowQ+Btu7B6N8vYye2jydpAsQ2+YLXWvaqIEvptJ1s9/Km8QMz/CBCF6mrMuNbKbckZI30PG4x6gl2TixoIQZN4=;jv6b96baNwzg6ouH3J7O7g=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "oCGdTJ8Pyd+xlc+rAJlG8aFW8+PefQKIsJwmtcb/XwrX4P2MNviLN2Cc3wF5wFOo9J+hbcRjODoZjg+LuZOy5FPaDGBuWgli95mBjGlFWlJ1ZkYlufQXb9q+qP7ATqVqphtGzHfS6PzDmVk22NFeR/xcjfI+KTn2lA0zuLlT5/raUfkdmYtayVYFZIy7346XmG7rqtRNK6L7yuGpYVlIwhIOzKQKTcJ4y3ApOkVx+BBbHcavrNzDTiMEwuuiZRXCLuQ2q8qlFgE3nAg7DVzY7pPBq1LV8oK7irlgi44zFnftIkSY6FYdjqeilDGPo3zRe3vFsW7FIcr7rtjrJ2rD6kz6vC5RWq1a3ADtsX3dpQY=;s09IYt6APjru+c65e+PA7Q=="
 ---
 

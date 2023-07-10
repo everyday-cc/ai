@@ -115,6 +115,6 @@ related:
       domain: techzine.eu
     quality: 17
 
-secured: "dFwg49qhtL27TKXOp6Y6RLfBHNP03t1F+AWOChkkSAUGUY+DCFV5OG82cyl/DUeyXnaemvVPE1/uUtpkING5HEVfxG8/VsBumeYfMFm5OGy93IqUW0EytjkjM0KGg5c/WyYAf+ISjtxlX+lfTDYWOj0uswhoPKWRXrhT/mrbb3/EGXupvzG9AnlSEEUBSF65n+R/YM/8Q0hba5H2N38oaINS1/XeXwSeapmHJAdgNFrj7KJcRqkem95P8tuFnZwbYPx/QqH6oojZd+GPdnQqrBWkCvlX5MOLThC+L+i7g8Ptd38JUAVLMbLehcoTThA22wo4Aqhgq8cGH0brEqxrx9esyZoiDueOzpv3aaPbD/s=;E+uj6TMIKnaddDlknJyCbQ=="
+secured: "r9CeXWCW0JPaU5lBfhraUc8UiUYBZWBpgRVB7tBXfXcI27oVmfwZtfi84vSN2rvA/G537huaVNYkD0Szscit+xN6CMifp+KIxX7CXFc9C43wAMVV+GxxVLmdrL4ukW4DQpav5q8E/b+c3HFTi4mXJ/4nQA2RycOgO4WiX7npF7p3/vzzov/Ty6wGUqcT1Bfmjl01aR2nqFaRqHkuabJ6W68TmCto/quhvISULHiq8RKEPsjo0uEtnODhVYjnI4/ZCu7nFjYpGk4Ea4VSCjThylo3+0fQgT7GW58qpJVV1hxVNmZKfUUmwYIxbvtZg/4Nxy6/bBwPybbiirkgt5ea/BtYsHQxoNST/rq3rPPMmdyFCcFKHi5/OSRQvmegWp/Qen3+S30XLoQutNskNQqUBFC/9MZmPlZ15KYAllAzj1gjNj28GAA1T2k/ftNuHe9tCymaJp9sw+11ESh5IWBzgp+Z/oS/NxvfRMgaoZHFslYh2sbN3nK376X55M3171btz5bqscjU2GrmvAwP/x/fjw==;QqnxNgZ6eYuMSAQ5RHCFrw=="
 ---
 

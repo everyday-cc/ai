@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 784
         isCached: true
+  - title: "Threads beat ChatGPT to 100 million users but the AI app is way more consequential"
+    excerpt: "Mark Zuckerberg's new Twitter copycat app has attracted 100 million users in less than a week, but its rise is less significant that ChatGPT's growth."
+    publishedDateTime: 2023-07-10T15:38:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/64ac17138ed31300199e4552?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How generative AI tools like ChatGPT can revolutionize web accessibility"
     excerpt: "ChatGPT's ability to handle complex conversations can lead to more effective communication and accessibility for those with disabilities."
     publishedDateTime: 2023-07-08T16:10:00Z

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Predictive AI Biomarker for ADT Benefit in Prostate Cancer Identified"
+    excerpt: "New AI biomarker predicts the benefit of short-term androgen deprivation therapy (ADT) in men with predominantly intermediate-risk prostate cancer."
+    publishedDateTime: 2023-07-10T13:34:00Z
+    webUrl: "https://healthitanalytics.com/news/predictive-ai-biomarker-for-adt-benefit-in-prostate-cancer-identified"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-18-GettyImages-1255213318.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "AI May Predict Benefit with Hormone Therapy Plus Radiotherapy in Prostate Cancer"
     excerpt: "Artificial intelligence was used to develop a predictive biomarker to identify patients with intermediate-risk prostate cancer who would benefit from adding androgen deprivation therapy to radiotherapy."
     publishedDateTime: 2023-07-06T13:00:00Z

@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The best AI art generators in July 2023"
+    excerpt: "How do the best AI art generators work? AI art generators work by employing learned data. Developers of the models feed countless images into them, with which the artificial intel"
+    publishedDateTime: 2023-07-10T16:00:00Z
+    webUrl: "https://www.sciencefocus.com/future-technology/best-ai-art-generators/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 39
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/07/bears-fighting-dragon-611595f.jpg?quality=90&resize=940,400"
+        width: 940
+        height: 400
+        isCached: true
 
 secured: "ZoZk60K95tgp9ohKeC2Isk9mCkMqunGx9ef+3s3sfVBIm3tgE8eZKUXq8aKl52rlks7eFDr4zs/KHRxDwhfUEJcINemaGf9r3O1gK8ho/W1w83H060hMtefW6Af2zOioLa2vlYYK7HCFvxcQmtQhxiYF3xwdqMTZycI+4UExM1pWP24CbcPscew+zQNNwJJjWEJSzgQ/k7WxO4rcmvFZAv8F08GNtfTv0cuX+Sx+OniDsWS4hZv8n4NWWrVjmM1m8kwRJOvK8hVXwkrrBFUnrq0Gs85Ugj0ncfgU4Vj7+8b8h52/3lzzbEAfCK0bwOYSXdvdzczg/iJ8yToqoAFLJ5wHqC180JTXVs96LYYOJZo=;I+vO6GVhuwLGsElp0aFA3A=="
 ---

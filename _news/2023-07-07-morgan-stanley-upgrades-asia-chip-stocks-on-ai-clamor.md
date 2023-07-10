@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-07/morgan-stanley-
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-07/morgan-stanley-upgrades-asia-chip-stocks-on-long-term-ai-outlook"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia to Beat AI Chip Sales Expectations for Rest of 2023, Says Morgan Stanley"
+    excerpt: "The Wall Street firm's technology analysts reiterated an Overweight rating for Nvidia shares. The firm’s price target for the chip maker is still $500."
+    publishedDateTime: 2023-07-10T17:20:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-chip-sales-expectations-2023-morgan-stanley-4cdcff8c"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-chip-sales-expectations-2023-morgan-stanley-4cdcff8c"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-chip-sales-expectations-2023-morgan-stanley-4cdcff8c"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 87
+    images:
+      - url: "https://images.barrons.com/im-814188/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Morgan Stanley upgrades Asia chip stocks on AI clamour"
     excerpt: "Morgan Stanley is expanding its bullish view on the region’s chipmakers after having upgraded some names in South Korea and Taiwan back in October. Since then, chip gauges in both nations have surged more than 27%."
     publishedDateTime: 2023-07-07T05:41:00Z
@@ -40,6 +56,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 54
+  - title: "Fear of AI chip ban drives up Nvidia A800 prices in China"
+    excerpt: "The Biden Administration's ban on the sale of high-end AI chips to China has driven the prices of Nvidia A800 chips to skyrocket in China."
+    publishedDateTime: 2023-07-10T06:44:00Z
+    webUrl: "https://www.digitimes.com/news/a20230710PD210/china-ai-ic-manufacturing-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230710pd210_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "7IpJhtUgICTrnWZZ3Ky9xjxlOuo0lF0sV03UXIGJpmJiYijVQS+7wcQz23ibGuJPnXon/irBhwbM1GdYd4VbugFPf78C1ya2605HhTobaljj8t/CFFbs+Xwsf+9lhWCzSgSIwXczYHuxl9qQbpdqD11T43KWcfcXoESNbUIAMzbTbAA+GX/77thHA2hkNF1JKeViX/haA6xlILx/aQ5RKLWgH4fL/Nctrqf8nGTRL3vB8VaSROW2Yca1+6CXb166pl1LItD518Lf+xoNZSVzcqQKFkdQCW+OF4UskfUdeiqMXFKJocWiGilLHDbI3d4CMxY7xaSlKUd44TbPtH2KgoF2LrQMYkhGw/JOXING78tCPZySGfg0KB4yFjj68wjAc8jGVGTyzZY2mRghQ/AZifMJLDenQhTpFN5Cca2Nepbwf12iwE7lw5Fbic/KDL6+GI7T6ZBU5ezwdew5StI9pnxJep+nRJBLwHrzAhyjZi2+Bz+hXaZ8YR8SCuxzw/cc/4NXyQOtNTjdHiJ4yFdUCQ==;sX2ay83d0NDwaRoyQyVJ8A=="
 ---

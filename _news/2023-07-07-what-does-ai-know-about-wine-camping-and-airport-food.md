@@ -167,6 +167,20 @@ related:
         width: 1152
         height: 768
         isCached: true
+  - title: "How AI is Revolutionizing Out-of-Home Advertising"
+    excerpt: "AI is transforming the way brands create and deliver campaigns and also how they measure the effectiveness of their advertising efforts."
+    publishedDateTime: 2023-07-10T16:27:00Z
+    webUrl: "https://www.dmnews.com/how-ai-is-revolutionizing-out-of-home-advertising/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "HmNFozTf/WlbAtfzS37dpnVZOtkg0AoerWSiX6eG9Ci10d5aelcYdylm/viO2d8UuecVHKF2M5fPGlXMXYT8A0V2cq1yekzcJQBFkgI/VnapxD67+rICiGuem8kn6VsUKrLzxoh0RhvTNOj3gd2SkgXAHD8Jt0CYu726K1rXVL+eepyWG7/xKqIg6b3dWggOyZ59bYvFBUAvhh5YkAWH+wfzG+/5C8MUrKDmpXEHi5wNaPZGELRzowKu2UG/Xuo4eW1HFoP5Qe6T0H38tXx/qT5GMgHm2WvlBRQW7KHUG40091NJyWkTMDvvi7iGw+B+C1j1Cv8K/StM7iWjbzqGcPLzJC/XUDE68iD87crENHPZIJA3kfkIW6FS3znsY8TLJwxASHI7vzH7feIylDzmyMYBB/5a1TEOd6No8NLZyHIxsjnQBj4Iu/tdrs8+rj0zvIRhSc4F6W/pMPsYNpy50xzdEBvG5pHIrYGZFsplQOUNzFsXF+K2SmIDrrw9jQjUtTxFYb6RFgxx4T6tdMhAYg==;qZr+0wVVioqzWBTBXRlogA=="
 ---

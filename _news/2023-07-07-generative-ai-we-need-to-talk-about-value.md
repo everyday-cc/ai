@@ -162,6 +162,20 @@ related:
         width: 1152
         height: 768
         isCached: true
+  - title: "How AI is Revolutionizing Out-of-Home Advertising"
+    excerpt: "AI is transforming the way brands create and deliver campaigns and also how they measure the effectiveness of their advertising efforts."
+    publishedDateTime: 2023-07-10T16:27:00Z
+    webUrl: "https://www.dmnews.com/how-ai-is-revolutionizing-out-of-home-advertising/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "What Does AI Know About Wine, Camping, and Airport Food?"
     excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
     publishedDateTime: 2023-07-07T14:24:00Z

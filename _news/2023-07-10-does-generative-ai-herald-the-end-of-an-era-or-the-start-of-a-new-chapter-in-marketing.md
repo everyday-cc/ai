@@ -9,8 +9,8 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/do
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: 66
+published: false
 
 provider:
   name: brandequity.economictimes.indiatimes
@@ -25,36 +25,6 @@ images:
     width: 1200
     height: 765
     isCached: true
-
-related:
-  - title: "The Impact of Artificial Intelligence and Machine Learning on Marketing and Advertising"
-    excerpt: "This is a Guest Post by Sana Afreen, CCO & Asst. Director Program Management, Rizzle In today’s fast-paced digital era, the realm of marketing and advertising has undergone a significant transformation."
-    publishedDateTime: 2023-07-05T23:38:00Z
-    webUrl: "https://trak.in/stories/the-impact-of-artificial-intelligence-and-machine-learning-on-marketing-and-advertising/"
-    type: article
-    provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 63
-    images:
-      - url: "https://trak.in/stories/wp-content/uploads/2023/07/Untitled-design-1-6-1280x720-1-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Artificial intelligence and its role in marketing a brand"
-    excerpt: "With almost every brand using AI, there is a wide scope of plagiarism leading to legal risks that are not addressed easily, says our guest author."
-    publishedDateTime: 2023-07-05T23:30:00Z
-    webUrl: "https://www.afaqs.com/news/guest-article/artificial-intelligence-and-its-role-in-marketing-a-brand"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 54
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F4e1cc1fc-6cf9-4076-a826-13324422cb14%2FAi_Art__07.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "8ABLgi2PxrVpqWmfLPMzyKDZRiSFoNT9SHcG9aozFJjgbJsy0k2D0bVPTwleK3ZLbT2OOSKKptYPCnWx8lcJY0NbvU46AQaEMA8UkBNk3z913f+SrftRcqp4SADbzq+Urm8FmjK83b1pfEzFuV5sSQzf/Myidg+O2vo0hYAmG5UaWWKz6kGLUsv+Cd2GcdhAlrw+dwPniEsSx/tI+qfm7gLyRE7363ZqS4gek/2Cy61J2s3l/P8cagOFwUW4/LJzKVAPK6/gntu4OkbK++4q6DDHRn5zNzJhBgFna/TGxd1qK1a0zo93p1GZD7r54OGdQMq8yTo8ynPY4pwUdcwcYC+XelpoMyxHQzwFHSXKu9c2WUgDSfWumRhzqvyR3Ym3ozT9x+5+WMP9x3afZPLNxXvlre1vSY78kKfsHuaTpPBahNcW40w058u1sfO4DjB3RClwxkSFM/kWtoiXyXuno8ySeQLnj+vF7jKkZtG64K6BKN7cGQBQh8AX/00sw0hjOAID044JdUbU0CtobnV4JA==;CI5dSrNtnRzVvj0JDlGieA=="
 ---

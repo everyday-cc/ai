@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-pat
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 628
     isCached: true
 
-secured: "Ze3TJkE8rdlGgFh75U6gp/m2nSyyQMlDp9kuH95w1DjgjaC9oFCJVrp6swytLr3ZFFoeXUpiHrFF+Gg47lHjVTJFPaMcSP7jUB9ZLPKvKFNx9Yb2ViNzOVQwB57h1f7pXZFkHamCoZJB05ttIrtfjoCndcVaZS4Tgp+X3lfdqofpeR8zbvQOhzae3OccNGAVc2sBKinoEqfU9ja6Ut6jG3Q7B/K1pS3NLXQyMz+CjKzy05h+Bekr6y+DNYK7V0JeuPoqLib7oB9mkUFIdB0Itip6MsirFO/YjWl2r4kBOnIwXsk9qg18EG5i4QONOLjIYv+bmnGrgTMyz5stvgrFGg+EAAC9Q9pFQYvq3vCyzdg=;zzFtTYJ7UDRNFaHC7TFICQ=="
+related:
+  - title: "Machine learning model flags patients with high risk of surgical complications"
+    excerpt: "The machine learning model identifies patients for surgical prehabilitation to avoid complications and cut healthcare costs."
+    publishedDateTime: 2023-07-10T17:22:00Z
+    webUrl: "https://www.medicaldesignandoutsourcing.com/machine-learning-model-high-risk-surgical-patients-complications-upmc/"
+    type: article
+    provider:
+      name: Medical Design and Outsourcing
+      domain: medicaldesignandoutsourcing.com
+    quality: 35
+    images:
+      - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2023/07/Operating-room-surgical-procedure-AdobeStock_178073396.jpg"
+        width: 770
+        height: 500
+        isCached: true
+
+secured: "P1ndfUTz1y6q3XdbE6PheYvaqtYF88TVtqMgjdITnMmnGwoX5H9IhLVXcrkpS5HIRrVs9D4FfD6za4DhYcRUQ5fSgYgcBt+YAThslffTCDCtSuHbG2t/QmjCbnGduT1UuCeP74NVx/5/+RuI1utg9G5HrfTkDA6pmcBJm8QnZe7VuiOrpSuKXy6TooHkKZ2Jgo2Hh81KyzQHOw/PQftVnTKVTchRNUIebKq16rP4azUA+iUaAVRL5QKZTsQuKtMe8OCiDTZuTNdHWrSUVCOxI61nIxInSb/lZld2RXOxLOs/9kYjABtKlHr89F49TyxS/te7IgU7+rSo11jX8fuydntaIxSIhBZTQU3c3cBLGLpD7DidTuBrf0wBlnzIg8HTXM5JkamdJhTVDAX+tiJYHlBTiM1DYhKFQeVeHtrmXHFjmfHsBJvcO+VF1ncwFFG3gm6SZ7UbMtn2ZF7sN+60iC3o5wRCBqjht6+p/owQZUQL+mAz8ubpEboR6/mVPxiIcFmLWsRMOYR0ebBymnvcGg==;9wvkQCwkHoKYg2W9LeuRdQ=="
 ---
 

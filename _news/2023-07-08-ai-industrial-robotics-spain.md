@@ -34,6 +34,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 74
+  - title: "AI Industrial Robotics - Australia"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$138.30m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.79%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-10T00:52:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/australia"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tN5JPTbJsN9gaMtxgylpOGRyZxtCjaO1ioetetDD3MulAUj+R1GT85HjAJi+BRXW4CX2nfK6F5CGAFvRj49pGuy/2NKDAWGDzNdsTRNEURgYsyLw00XNZ3sLwCm5BvLBR6S09Ta6XdMvOdsml/1Mhac1Ws/znAmDFKLDSomvwekUEK2BU8yDwc8cTw95tsTM+jzQb+uU5qy4TBS9MsFINrVsw77byOiwaAeCXF8C3pZnAb2wXgsytzwWLRDVSw9c79E/a64MVWngzaY76XGziaXoTRhSKk3nxhwEPiJClOD8kk0yVwiwxRz5jZy6jCj0omFs07qBcanYj7X5PqdY2r/egcPGPBT6R4NpQt1VunY=;kTLKmKZr7B9QDw1hropLSA=="
 ---

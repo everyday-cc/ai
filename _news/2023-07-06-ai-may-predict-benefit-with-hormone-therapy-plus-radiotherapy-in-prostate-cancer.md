@@ -7,7 +7,7 @@ originalUrl: "https://www.curetoday.com/view/ai-may-predict-benefit-with-hormone
 webUrl: "https://www.curetoday.com/view/ai-may-predict-benefit-with-hormone-therapy-plus-radiotherapy-in-prostate-cancer"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Predictive AI Biomarker for ADT Benefit in Prostate Cancer Identified"
+    excerpt: "New AI biomarker predicts the benefit of short-term androgen deprivation therapy (ADT) in men with predominantly intermediate-risk prostate cancer."
+    publishedDateTime: 2023-07-10T13:34:00Z
+    webUrl: "https://healthitanalytics.com/news/predictive-ai-biomarker-for-adt-benefit-in-prostate-cancer-identified"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-18-GettyImages-1255213318.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Novel AI Model Predicts ADT Benefit in Patients With Prostate Cancer"
     excerpt: "A predictive artificial intelligence (AI) biomarker of androgen deprivation therapy (ADT) benefit in prostate cancer was validated in a recent study published in NEJM Evidence."
     publishedDateTime: 2023-07-06T19:39:00Z
