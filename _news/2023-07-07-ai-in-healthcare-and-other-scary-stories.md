@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthca
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -160,6 +160,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
+  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
+    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
+    publishedDateTime: 2023-07-07T19:44:00Z
+    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
 
 secured: "Tb7mru3NyYjxyKmbXF3v6yoBLcAReNnt6TtRDh1ANwG9otVKgvoEhrxqM8CB2yZTKVvzlCpRjIFlnuY184ERmXkN8m7GewE5M25Kl/9vwl1scqYfcSsYbydNqbud7tvOqbDh9SrCZHYlFcB7Bq6SyGvixKlv2UkWKVybGYKpCyLehGZVN6pghnP25T992FJovSnogM2Xq5HadHFwyR/q+ctoVTAhqHBdICz3DlhY2hXokcTlk5FhkCZBbpJa8P3jD+tiMyvlLbc+GiJKpRqtJoF0+/B/CSG1OU658v5FXn2YzPUVvaSx5iuzsdav6Frh2F7ho+AjlCGLZWDi2LNtEoFt85fR3DtHejiZ6uD/v3TnKjCvwaka0B4mHyCqtKvl+VWOs5LymyU3lFUpHopSA1JyDT4xMmAue929dOZTSuHeUKJ5ujHLTcvywo+aZ9J1FYddmlgR8wvsb3/2nA8VK/r6aW54gcsIjMGfvYmpaUdVwsQesYnZJBeqNWLiHEOZEbxiHL1aDogvM1MPiL3iMA==;wMlRZ+xsysdyQ0NbxO8PfQ=="
 ---

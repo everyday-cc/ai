@@ -25,59 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Tintra Shares Rise on Agreement to Repay Fintech Leaders Share Deed"
-    excerpt: "By Joe Hoppe Tintra shares rose Wednesday after the company said it has agreed to fully repay and terminate a $3 million share placement deed with"
-    publishedDateTime: 2023-07-05T07:29:00Z
-    webUrl: "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597"
+  - title: "Fintech Salt Edge, Kindgeek to Enhance Open Banking Solutions"
+    excerpt: "Kindgeek, a one-stop shop fintech software developer, and Salt Edge, an open banking service provider, announce their partnership."
+    publishedDateTime: 2023-07-06T11:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Salt.jpeg"
+        width: 1280
+        height: 1217
         isCached: true
-  - title: "Top 10 venture capital firms investing in fintech"
-    excerpt: "With fintechs needing access to capital, we take a look at the top 10 VC firms that are investing money into the sector right now"
-    publishedDateTime: 2023-07-06T15:41:00Z
-    webUrl: "https://fintechmagazine.com/top10/top-10-venture-capital-firms-investing-in-fintech"
+  - title: "Fintech Firm Cheqly Launches Digital Banking Services By Leveraging Mbanq’s BaaS Platform"
+    excerpt: "Mbanq, the US-based fintech innovator and global Banking-as-a-Service (BaaS) provider, has recently announced a partnership with Cheqly."
+    publishedDateTime: 2023-07-06T14:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/209669-fintech-firm-cheqly-launches-digital-banking-services-by-leveraging-mbanqs-baas-platform/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209669-fintech-firm-cheqly-launches-digital-banking-services-by-leveraging-mbanqs-baas-platform/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209669-fintech-firm-cheqly-launches-digital-banking-services-by-leveraging-mbanqs-baas-platform/amp/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 50
     images:
-      - url: "https://assets.bizclikmedia.net/1200/4d31b47942cc4a29e0df04c78f69e979:781a737d79a3cb6a15879541c8c7f95b/fintech-top10-venture-capital-firms-investing-in-fintech.jpg.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Bank-Banking-Ask-Us-How.jpeg"
+        width: 1075
+        height: 1280
         isCached: true
-  - title: "What skills are fintech employers seeking in 2023?"
-    excerpt: "Meanwhile, the WEF’s 2023 report says that for 73% of companies, analytical thinking will become the biggest draw among candidates within the next five years, so if you are looking to future-proof your career, focus energy on developing your analytical thinking."
-    publishedDateTime: 2023-07-07T09:22:00Z
-    webUrl: "https://www.finextra.com/the-long-read/739/what-skills-are-fintech-employers-seeking-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/739.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "AI frenzy bites into fintech"
-    excerpt: "Driving the news: Fintech has been a primary victim. Some 64% of investors at Collision said AI/ML could become the most disruptive technology in the next five to 10 years, per a Pitchbook survey. A year ago, the hottest category was fintech/blockchain, with some 29% of investors. Dollar figures reinforce the narrative."
-    publishedDateTime: 2023-07-06T16:15:00Z
-    webUrl: "https://www.axios.com/pro/fintech-deals/2023/07/06/ai-frenzy-bites-into-fintech-funding-venture-capital-insight"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
   - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
     excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
     publishedDateTime: 2023-07-09T18:16:00Z

@@ -2,6 +2,253 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-06-07-pixel-perfect-the-rise-of-ai-fashion-models.md",
+      "title": "Pixel Perfect: The Rise Of AI Fashion Models",
+      "excerpt": "AI is transforming the catwalk! Read on to discover how AI-generated models are revolutionizing the fashion industry — including iconic brands like Levi's.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/07/pixel-perfect-the-rise-of-ai-fashion-models/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/07/pixel-perfect-the-rise-of-ai-fashion-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648023de4e1df48ea857d5cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/07/pixel-perfect-the-rise-of-ai-fashion-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/07/pixel-perfect-the-rise-of-ai-fashion-models/amp/",
+      "publishedDateTime": "2023-06-06T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-asia-ex-china-is-asleep-at-the-ai-wheel.md",
+      "title": "Asia (ex China) Is Asleep At The AI Wheel",
+      "excerpt": "A huge swathe of the the Asian region appears unmoved with what looks like momentous shifts in the global economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/",
+      "originalUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647ec23eacf21e7eed595938/0x0.jpg?format=jpg&crop=2778,1564,x0,y35,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/amp/",
+      "publishedDateTime": "2023-06-06T23:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips: Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed",
+      "sourceUrl": null,
+      "webUrl": "https://www.butlereagle.com/20230607/ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
+      "originalUrl": "https://www.butlereagle.com/20230607/ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.bte.navigacloud.com/?uuid=421d77fa-01ca-5865-a123-72a4084e2877&function=cover&type=preview&source=false&width=1600&height=1085",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Butler Eagle",
+        "domain": "butlereagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-black-mirror-creator-tried-to-get-artificial-intelligence-to-write-an-episode-but-it-was-sht.md",
+      "title": "‘Black Mirror’ Creator Tried To Get Artificial Intelligence To Write An Episode, But It Was ‘Sh*t’",
+      "excerpt": "The hit Netflix show’s creator, Charlie Brooker, enlisted ChatGPT to help draft an episode ahead of the Season 6 premiere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b?ncid=engmodushpmg00000004",
+      "originalUrl": "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b?ncid=engmodushpmg00000004",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/647fc1e22700003300f61766.jpeg?cache=vvqce6l0lz&ops=1200_630",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b/amp",
+      "publishedDateTime": "2023-06-06T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes.md",
+      "title": "FBI warns of increasing use of AI-generated deepfakes in sextortion schemes",
+      "excerpt": "The FBI on Monday warned of the increasing use of artificial intelligence to generate phony videos for use in sextortion schemes that attempt to harass minors and non-consulting adults or coerce them into paying ransoms or complying with other demands.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/face-in-silicon-1-800x574.jpg",
+          "width": 800,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/amp/",
+      "publishedDateTime": "2023-06-06T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025.md",
       "title": "Samsung's auto chip to power Hyundai Motor's infotainment starting in 2025",
       "excerpt": "Samsung said on Wednesday that it will be supplying its latest automotive processor to Hyundai Motor for the auto giant's new in-vehicle infotainment (IVI) systems launching in 2025. It is the South Korean tech giant's first collaboration on automotive semiconductors with Hyundai Motor, one of the largest automobile manufacturers in the world.",
@@ -910,263 +1157,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-why-ai-wasnt-mentioned-at-all-during-apples-big-wwdc-presentation.md",
-      "title": "Why AI wasn't mentioned at all during Apple's big WWDC presentation",
-      "excerpt": "AI. Here's why Tim Cook was mum on the term other Big Tech CEOs are loving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6",
-      "originalUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647f51b89fcce6001935925d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp",
-      "publishedDateTime": "2023-06-06T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-arrange-your-transcripts-into-paragraphs-with-amazon-transcribe.md",
-      "title": "Arrange your transcripts into paragraphs with Amazon Transcribe",
-      "excerpt": "Amazon Transcribe is a speech recognition service that generates transcripts from video and audio files in multiple supported languages and accents. It comes with a rich set of features, including automatic language identification, multi-channel and multi-speaker support, custom vocabularies, and transcript",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/arrange-transcripts-in-paragraphs.jpg",
-          "width": 1024,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T09:28:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know.md",
-      "title": "Instagram may be getting its own AI chatbot soon. Here's what we know",
-      "excerpt": "Instagram's chatbot is very similar in purpose and design to Snapchat's My AI. Since Snapchat's feature has not been well received, it's interesting to see that Instagram is following in its footsteps. Whether this will become a useful feature or be quickly forgotten remains to be seen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
-      "originalUrl": "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/731fa999b2b078dba0f7ffd929234df150b9a7bd/2023/06/06/0d67eed7-716a-47da-bb16-4b86e1f196b8/gettyimages-1256994567-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
-      "publishedDateTime": "2023-06-06T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-cloudera-charts-a-path-toward-responsible-ai-at-scale.md",
-      "title": "Cloudera Charts A Path Toward Responsible AI At Scale",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead explains why the Cloudera Data Platform is well-positioned for the new world of enterprise AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647e53226b36a6fb3b57d5cb/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/amp/",
-      "publishedDateTime": "2023-06-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-cnets-new-guidelines-for-ai-journalism-met-with-union-pushback.md",
-      "title": "CNET's new guidelines for AI journalism met with union pushback",
-      "excerpt": "The storied tech publication is promising to disclose when artificial intelligence generates a portion of a story's text, but that's about it..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/cnets-new-guidelines-for-ai-journalism-met-with-union-pushback-152311269.html",
-      "originalUrl": "https://www.engadget.com/cnets-new-guidelines-for-ai-journalism-met-with-union-pushback-152311269.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/FNkV5GWhrrwid6LSrTZmbA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/862feb40-f403-11ed-b5ff-0f7c20b860cc.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

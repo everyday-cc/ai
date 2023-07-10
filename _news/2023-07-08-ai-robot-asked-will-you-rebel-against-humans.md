@@ -71,6 +71,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "AI robots say they have no plans to steal people’s jobs"
+    excerpt: "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an"
+    publishedDateTime: 2023-07-10T01:13:00Z
+    webUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 54
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3bbac8804ae9effd/64ab5b509ead61410cfd5d19/Screen_Shot_2023-07-10_at_11.12.59_am.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI robots say they can run the world better than humans but won't steal jobs"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
     publishedDateTime: 2023-07-08T12:39:00Z

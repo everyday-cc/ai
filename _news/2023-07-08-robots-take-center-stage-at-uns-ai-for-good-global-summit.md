@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/07/08/exp-un-ai-summit-rob
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/bec848c1214aa396d509d813b5cc68f94518d09a/382_532_4315_2588/master/4315.jpg?width=620&quality=85&auto=format&fit=max&s=f95c57c57c2e16d2ff7c5f56e91b918c"
         width: 620
         height: 372
-        isCached: true
-  - title: "UN prepares for global summit to map the future of artificial intelligence"
-    excerpt: "Get insights on the UN's 'AI for Good Global Summit', its mission to manage AI's future, and notable attendees' contributions."
-    publishedDateTime: 2023-07-05T08:59:00Z
-    webUrl: "https://thethaiger.com/ph/news/546500/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 39
-    images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/07/Screen-Shot-2023-07-05-at-3.58.08-PM-1024x585.png"
-        width: 1024
-        height: 585
         isCached: true
 
 secured: "B2sRnWos4raKz5Rx954ctjD5S0ttT4KAjSI4IlQnKcRD2DIkHI3dB1C0SFHtFebEdxkhoer0NknLORZf4cpOnor7Dj+eQFnSO0U+ikd95Lz6afZnyPUCfjtyOnZ2KSvBPHT3FhIr0pLrfPtjIM/Qv2uG1SwucALmqewK1MYRN70OzH1GUv9wJLt/ETb6xN9Smsz6V+JtA8b8gIpja1GEpHHkJpxLC7hikfAQHL+alUxnsqvqoikUUcOucVjkxpFCy0XX38Thj7qTHc9mWt52N7aZ8tihcqh252NCGUkRHzhtFCusNY8VL59uCDnFhhmsnmUp6Fk2uH6DNWsK1oVGtwWNyJHi5+gi8BClahc6aEc=;bR5PmXatyd1F5cSD/eqCbg=="

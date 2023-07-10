@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sustainability in the age of AI"
+    excerpt: "It's imperative that CEOs consider sustainability a business driver, and AI a driver for achieving sustainability goals.\nThe post Sustainability in the age of AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-06T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/sustainability-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
     excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
     publishedDateTime: 2023-07-06T10:30:00Z

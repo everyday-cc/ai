@@ -2,6 +2,157 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-05-how-ai-and-llms-are-streamlining-financial-services.md",
+      "title": "How AI And LLMs Are Streamlining Financial Services",
+      "excerpt": "As AI becomes increasingly sophisticated and widely adopted, we can anticipate even more innovation in the fintech sector, leading to smarter, more efficient financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64542fab9410055126fb7277/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/amp/",
+      "publishedDateTime": "2023-05-05T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-microsoft-is-helping-finance-amds-expansion-into-ai-chips.md",
+      "title": "Microsoft Is Helping Finance AMD’s Expansion Into AI Chips",
+      "excerpt": "Microsoft Corp. is working with Advanced Micro Devices Inc. on the chipmaker's expansion into artificial intelligence processors, according to people with knowledge of the situation, part of a multipronged strategy to secure more of the highly coveted components.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 488,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/05/05/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683254919434_1683254950133.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "publishedDateTime": "2023-05-05T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg.md",
+      "title": "Microsoft helping finance AMD's expansion into AI chips- Bloomberg",
+      "excerpt": "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
+      "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 408,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xOORmMGGhmHxjWnnPlcl8EiZ6VY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYT3OK5U4BOMFPVKOXIRRT4YYM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-banking-sector-revolution-3-fintech-stocks-to-watch.md",
       "title": "Banking Sector Revolution: 3 Fintech Stocks to Watch",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech is revolutionizing the banking sector. In fact, artificial",
@@ -1250,135 +1401,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform.md",
-      "title": "More Nigerians to access credit facilities with Kredete AI-Powered lending platform",
-      "excerpt": "Fintech startup, Kredete, has opened up an opportunity for more Nigerians to get access to credit facilities with the launch of an Artificial Intelligence, AI-powered application for lending ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/",
-      "originalUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
-          "width": 1125,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/amp/",
-      "publishedDateTime": "2023-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-as-fintech-thrives-can-ai-make-or-break-the-banking-industry.md",
-      "title": "As fintech thrives, can AI make or break the banking industry?",
-      "excerpt": "The banking industry continues to be a proponent of emerging technologies like artificial intelligence (AI). While the pace of the adoption may be",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2023/04/as-fintech-thrives-can-ai-make-or-break-the-banking-industry/",
-      "originalUrl": "https://techwireasia.com/2023/04/as-fintech-thrives-can-ai-make-or-break-the-banking-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techwireasia.com/wp-content/uploads/2023/04/shutterstock_2129644337-scaled.jpg",
-          "width": 2560,
-          "height": 1335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T18:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-scbx-forges-new-collaboration-with-stanford-hai-to-drive-innovation-in-ai-and-fintech.md",
-      "title": "SCBX forges new collaboration with Stanford HAI to drive innovation in AI and fintech",
-      "excerpt": "With the aim of becoming the leading regional financial technology group, SCBX is firmly committed to staying at the forefront of the latest developments in AI and fintech with the ultimate goal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/thailand/pr/2551739/scbx-forges-new-collaboration-with-stanford-hai-to-drive-innovation-in-ai-and-fintech",
-      "originalUrl": "https://www.bangkokpost.com/thailand/pr/2551739/scbx-forges-new-collaboration-with-stanford-hai-to-drive-innovation-in-ai-and-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bangkokpost.com/media/content/20230418/c1_2551739_700.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

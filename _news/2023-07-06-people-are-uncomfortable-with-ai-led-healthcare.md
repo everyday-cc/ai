@@ -156,6 +156,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
+  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
+    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
+    publishedDateTime: 2023-07-07T19:44:00Z
+    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
 
 secured: "JR1GLUcVjYLFk6ibdZXkqP0Px7OvBhwnAZYaCIhHfHCBeilqK/aHHM57Yvm6747BBjbhNnj37EilNnenZC0r/cHt7cIavn88hw8Ggln+ga7KunLi5+QxuxX8y/eNGJtkJTQYiUxDzHRcQGTQJcIclEmh2AWqQZqW1Yh0IqDY2fhA1JkAoe1RwuoCozprTM07yXPwghuAYynfjSYH9shXqJ91uN598f6mTbQ056u3E3+E/MxEfGxv9FrSYQ6icwCHeVOJEiVLo8WXB9Y9dVJ3r+DAV1wsylxLa29KvIjHPgDzUKSr6931kCJ5F66PpZ2CfDCMXhnJkPV5ShnpS8F7++p1jqRPMRzBaK5aAWOCcQUVGkF4XuZY+ZwIDluhwdVJs7QS3zlY94a06xbqjCfPYldS8Iozm/prPmOnm8ad9GYh6ToENdCPydIx51/cadB6VihtpfTjdJBlmRhNMIe/ASu7Q9MgZuoMQh3pRHzdxZVaG+mQyw4ra1vn5Q6iTfm1hxzbBEeVSixx4ztDtOTFBg==;rsDzKHnS2rl0fSD0DgEAvg=="
 ---

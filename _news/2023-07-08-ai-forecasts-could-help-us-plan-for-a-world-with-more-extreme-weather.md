@@ -34,6 +34,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Why AI Could Save Us From the Next Deadly Hurricane"
+    excerpt: "AI will not replace traditional methods, but will be integrated with them towards a hybrid forecast system.” Xie added, “We advocate for meteorologists to embrace AI methods and the new opportunity so that we can together improve human weather forecasting skills."
+    publishedDateTime: 2023-07-10T01:13:00Z
+    webUrl: "https://www.thedailybeast.com/can-ai-predict-the-next-deadly-hurricane-tornado-and-flood"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1688945766/230709-AI-hurricanes-tease_fhe7mp"
+        width: 1480
+        height: 833
+        isCached: true
 
 secured: "TnrSRfm8T0dVF0Q1OXwrQJ7L41FB9+7tMgQfIoiQ8ifXlpdAHzDgbbRLItEb3Q77w5/WZI4nq9GKP8ulJlWt+VU+SS3HHrkDNMxfYmcVHgBn9T8AuDButqqhM0zYNvk+nrVbYiEQpjOELWLy7wwVlilX1dizIKSfYW/nxtjNK8Knq/1clYTLfuz4YqaOFuXT5UTE7ByXNx/Dx3GlH4AcW67yhD5VcfumA5zCl5GK8SMabD0IalKElMaFsZp0qUs6OaJyKgxTHs4ZO9mhEZIU6BnvfeTMbb1sNHorpQ3YVJqfBRhcaVgZ5+Ac07kBEIQKbMn0YR/AW7HsfeeXcswRVasK33OVks9lUU9Jk0raOoMUzUz/2Bn4DMylanJtB1g/WRR39V2ggBXg3Ey9BcbmHC2EGCvnr4Not1eBl11MYnVJsK2dEcphlFEB5TYbOyx/DW/MKFlXKwcRh7Px2nfHHMYDk3kJXbFHWtzKAbm4ybbbn1YlRD/tAP+JVZF1gesuVuZ7U18DKRGa8MjFalKKiw==;Aa3H5Nb42q3V7w4g/dk3wg=="
 ---

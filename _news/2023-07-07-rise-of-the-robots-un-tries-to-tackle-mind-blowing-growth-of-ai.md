@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tack
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "Some of the most advanced humanoid robots were at the United Nations’ AI for Good Global Summit in Geneva, joining around 3,000 experts in the field to try to harness the power of AI and channel it into being used to solve some of the world’s most pressing problems,"
+    publishedDateTime: 2023-07-10T01:53:00Z
+    webUrl: "https://www.brecorder.com/news/40251725"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 54
+    images:
+      - url: "https://i.brecorder.com/large/2023/07/64ab15d61998d.jpg"
+        width: 800
+        height: 480
         isCached: true
   - title: "Rise of the robots: UN tries to tackle ‘mind-blowing’ growth of artificial intelligence"
     excerpt: "A nightmare scenario has unchecked AI advances leading to “geopolitical instability and economic disparity on a scale we’ve never seen before”. Read more at straitstimes.com."

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Major Aussie stadiums using facial recognition technology"
-    excerpt: "S﻿ome of Australia's major stadiums are using controversial facial recognition technology often without spectators' knowledge or consent. Added an hour ago"
-    publishedDateTime: 2023-07-05T07:18:00Z
-    webUrl: "https://www.9news.com.au/videos/national/major-aussie-stadiums-using-facial-recognition-technology/cljpblpb2000o0jo2rxxaa0d3"
-    type: article
-    provider:
-      name: Nine News Australia
-      domain: 9news.com.au
-    quality: 39
-    images:
-      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2023/07/520190/camera.png"
-        width: 1080
-        height: 607
-        isCached: true
   - title: "Aussie stadiums are using facial recognition on fans"
     excerpt: "Four of Australia’s largest sports stadiums are using facial recognition cameras to identify and track event attendees without their knowledge, according to a new investigation that found Australian venues have joined a growing and controversial overseas trend."
     publishedDateTime: 2023-07-06T01:57:00Z

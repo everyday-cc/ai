@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Google's decision to collect public data to train AI could have huge ramifications"
-    excerpt: "Google's updated privacy policy confirms that the company will use publicly available information online to train Bard and other AI products."
-    publishedDateTime: 2023-07-05T07:26:00Z
-    webUrl: "https://www.ibtimes.co.uk/googles-decision-collect-public-data-train-ai-could-have-huge-ramifications-1717383"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 33
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1715625/google-bard.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "KDX3hpMUwVwg0jEDP0gv01VQbGdM14GGgMZrP6kS/6K2yxZaq3g7vvYHxigVQC5PObObV84S693zNawrN3bkndmzZRmeUqp6qGVn/lW327DuvM2BQpS91go46CXRsmB5TIqd/8asXN5UBP9CVwdz/WDmsbT7NLl83v2QQbbr6AUNLGv/R5zmH0ZABtzN5R91Z3ujb1aKLg0JDZDaFesumpNl6F713sJ/6QTC/Qq9/mBXRnHCmg8nDa+Fd8CYd5dbHY7VmofcbhMpFcvQXLaE6f7bEa9DmJOk07F/u/d33DOOuXeV1BQ13tgaN7VKdFGap2Dwu8AinoaoLd+yNiRo/1PYEeDuTL5kxg87pKNcXlk=;5gs7q6Suw1wFGrRYHmaQ+g=="
 ---

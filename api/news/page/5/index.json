@@ -2,6 +2,133 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-05-asset-lifecycle-management-best-practices-building-a-strategy-for-success.md",
+      "title": "Asset lifecycle management best practices: Building a strategy for success",
+      "excerpt": "Asset lifecycle management best practices that successful businesses use to care for their assets and extend their useful lives.\nThe post Asset lifecycle management best practices: Building a strategy for success appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/asset-lifecycle-management-best-practices-building-a-strategy-for-success/",
+      "originalUrl": "https://www.ibm.com/blog/asset-lifecycle-management-best-practices-building-a-strategy-for-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T05:53:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-the-hybrid-cloud-forecast-part-3.md",
+      "title": "The Hybrid Cloud Forecast: Part 3",
+      "excerpt": "If you have ever talked with one of them, you will know that IBM Fellows are storytellers. It’s part of their DNA. \nThe post The Hybrid Cloud Forecast: Part 3 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-3/",
+      "originalUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T05:51:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-pope-francis-takes-a-stand-on-ai-vatican-releases-ai-ethics-handbook.md",
+      "title": "Pope Francis Takes a Stand on AI: Vatican Releases AI Ethics Handbook",
+      "excerpt": "The Vatican has delved into artificial intelligence (AI) ethics by releasing an extensive handbook. The Pope Francis-founded Institute for Technology, Ethics, and Culture (ITEC) and the Markkula ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm",
+      "originalUrl": "https://www.techtimes.com/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/430554/pope-francis-takes-a-stand-on-ai-vatican-releases-ai-ethics-handbook.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm",
+      "publishedDateTime": "2023-07-05T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-spotify-ceos-startup-for-ai-powered-preventive-healthcare-raises-60m.md",
       "title": "Spotify CEO’s startup for AI-powered preventive healthcare raises €60M",
       "excerpt": "Spotify founder and CEO Daniel Ek’s preventive healthcare startup just received a very strong vote of confidence from venture capitalists. Earlier today, Neko Health announced it had raised €60mn in a",
@@ -101,6 +228,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-pakistans-farmdar-launches-agromai-fintech-in-brazil.md",
+      "title": "Pakistan’s Farmdar Launches AgromAI Fintech in Brazil",
+      "excerpt": "Pakistan’s leading Agritech Startup Farmdar has launched a new fintech venture AgromAI in Brazil which will utilize artificial intelligence (AI) and",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2023/07/05/pakistans-farmdar-launches-agromai-fintech-in-brazil/",
+      "originalUrl": "https://propakistani.pk/2023/07/05/pakistans-farmdar-launches-agromai-fintech-in-brazil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2023/07/d8c22f3b-0734-4dfd-9072-a81b2f1dc093.jpg",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2023/07/05/pakistans-farmdar-launches-agromai-fintech-in-brazil/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/07/05/pakistans-farmdar-launches-agromai-fintech-in-brazil/amp/",
+      "publishedDateTime": "2023-07-05T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1035,194 +1205,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-04T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income.md",
-      "title": "Japan Dreams of AI, Overtaking Nvidia and Universal Basic Income",
-      "excerpt": "Japan is laying the groundwork to become home to some of the world’s top companies in artificial intelligence, the country’s Economy Minister Yasutoshi Nishimura told a group of University of Tokyo students Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-04/japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-04/japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imlWQwojNL.U/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-counting-africas-largest-bat-colony.md",
-      "title": "Counting Africa's largest bat colony",
-      "excerpt": "Artificial intelligence and computer vision provide most accurate estimate yet. Once a year, a small forest in Zambia becomes the site of one of the world's greatest natural spectacles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230703133110.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230703133110.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-artificial-intelligence-could-change-outlook-of-education-in-the-near-future.md",
-      "title": "Artificial Intelligence could change outlook of education in the near future",
-      "excerpt": "It may not be long before schools and education as a whole change the way of learning due to recent advances in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
-      "originalUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/OTtXcWqzkFBkso3YLO3pO1TUI7U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DUPMDHIGTFGE3GEHQIE2AGV3BA.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp",
-      "publishedDateTime": "2023-07-03T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wbng",
-        "domain": "wbng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-data-scientists-describe-the-arduous-ai-powered-task-of-getting-amazons-alexa-to-speak-in-an-irish-lilt.md",
-      "title": "Data scientists describe the arduous, AI-powered task of getting Amazon's Alexa to speak in an Irish lilt",
-      "excerpt": "Two data scientists told The New York Times that text-to-speech AI models helped them overcome the difficulty of creating Irish Alexa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
-      "originalUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a36df34cc8540019cb52b0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
-      "publishedDateTime": "2023-07-03T18:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/mashreq-introduces-electroni
 webUrl: "https://ibsintelligence.com/ibsi-news/mashreq-introduces-electronic-facial-recognition-to-secure-onboarding-for-corporate-clients/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 400
     height: 224
     isCached: true
-
-related:
-  - title: "Mashreq introduces Electronic Facial Recognition based onboarding for large corporate clients"
-    excerpt: "Dubai, UAE: Mashreq, one of the leading financial institutions in MENA, has introduced Electronic Facial Recognition (EFR) for wholesale banking clients, allowing large corporate banking clients to open bank accounts without wet signature."
-    publishedDateTime: 2023-07-05T08:27:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/mashreq-introduces-electronic-facial-recognition-based-onboarding-for-large-corporate-clients-cebgeqjw"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/mashreq-introduces-electronic-facial-recognition-based-onboarding-for-large-corporate-clients-cebgeqjw?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mashreq-introduces-electronic-facial-recognition-based-onboarding-for-large-corporate-clients-cebgeqjw?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 48
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YzhiNjQyYmEtNTI1OS00/0/rania-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "jmxak+Ba1wGRm9XGyKW84nHcovcSU92xDuVGSnF+kxmEub8+izsw2mdVqaDwVgFQWHqFFg2Xm17S0bZsaqPr9Nv/DIg+9M54CBO9tsZ9kWIX5SON8zwuaxIBikKTxJ3l1w29CNCVk+Hf9G2zcBUUeTqaWxlXBDL72GT160CDwGnPmx2vNDRWKXfF+15qGZEqI9elIR8ybuoWANtRbZiVcBKA2ZFlUU3AU7sbHOYT+MmYfCamKqLvQIk2FEiLPUh5U6V4Sjs7IAJMD+k4ngnkAZ0I8UG54JHLTC7aGHICx87joY0Y2vld9mHRiDZzqDERhtvuLR7AW1oTW5LPjAAOUMES5NzpVu65hJGvEW6d6rw=;Z1t486VEdskkdXxMCeWcGg=="
 ---

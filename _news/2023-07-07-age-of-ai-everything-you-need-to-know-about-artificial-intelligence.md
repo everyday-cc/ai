@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "Sustainability in the age of AI"
+    excerpt: "It's imperative that CEOs consider sustainability a business driver, and AI a driver for achieving sustainability goals.\nThe post Sustainability in the age of AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-06T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/sustainability-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
     excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
     publishedDateTime: 2023-07-06T10:30:00Z

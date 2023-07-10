@@ -27,31 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking the AI-powered opportunity in the UK"
-    excerpt: "AI is the most profound technology that humanity is working on today. It’s a critical part of solving big societal challenges and helping to make our everyday lives bett…"
-    publishedDateTime: 2023-07-05T09:00:00Z
-    webUrl: "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/"
-    ampWebUrl: "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/"
+  - title: "Rethinking Workload Placement In The Age Of Generative AI"
+    excerpt: "How organizations build, tune and run AI means the difference between gaining a competitive edge or losing one. Here are our tips."
+    publishedDateTime: 2023-07-05T14:39:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-dots_1.width-1300.jpg"
-        width: 1300
-        height: 541
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649cb761c029eedc5ae45c84/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Sustainability in the age of AI"
-    excerpt: "It's imperative that CEOs consider sustainability a business driver, and AI a driver for achieving sustainability goals.\nThe post Sustainability in the age of AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-06T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/sustainability-in-the-age-of-ai/"
+  - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
+    excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
+    publishedDateTime: 2023-07-05T16:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 55
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Tokyo-skyline2_1200.png?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI in games will create a copyright crisis"
+    excerpt: "As lame as this story is, it hints at a knotty copyright issue the games industry is only just beginning to unravel. I’ve created a story using my imagination—but to do that I’ve used an AI helper. So who wrote the tale?"
+    publishedDateTime: 2023-07-05T17:12:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Building the AI Talent Pipeline"
     excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
     publishedDateTime: 2023-07-07T04:45:00Z
@@ -66,29 +82,42 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Ramp acquires AI-powered Cohere"
-    excerpt: "The finance automation platform acquired the startup to help drive AI-powered projects and solve problems for its customers, it said."
-    publishedDateTime: 2023-07-05T21:31:00Z
-    webUrl: "https://www.bankingdive.com/news/ramp-acquires-ai-cohere-fintech/685024/"
+  - title: "Navigating the ethical landscape of generative AI and journalism"
+    excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
+    publishedDateTime: 2023-07-06T11:21:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/07/06/navigating-the-ethical-landscape-of-generative-ai-and-journalism/"
     type: article
     provider:
-      name: bankingdive
-      domain: bankingdive.com
-    quality: 39
-    images:
-      - url: "https://www.bankingdive.com/imgproxy/pNO5BpZOo8I-BP88Z6UGIxjuYttZqWDdqRxOfHkcLK8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1JhbXBfMS5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
-    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
-    publishedDateTime: 2023-07-07T19:44:00Z
-    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 34
+  - title: "AWS CEO’s 5 Bullish New Generative AI Investments"
+    excerpt: "AWS’ Adam Selipsky launches new generative AI products and investments, from an AI innovation center and startup program to AWS AppFabric and Amazon Bedrock."
+    publishedDateTime: 2023-07-06T18:01:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-ceo-s-5-bullish-new-generative-ai-investments"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
+      name: CRN
+      domain: crn.com
+    quality: 34
+  - title: "3 Ways Generative AI Can Drive Operational Excellence"
+    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
+    publishedDateTime: 2023-07-07T15:39:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
+  - title: "3 Lessons from State Street's Move Into Generative Artificial Intelligence"
+    excerpt: "Relieve genuine customer pain, bring world-class skills to solve the problem, partner to close the capability gap."
+    publishedDateTime: 2023-07-09T08:08:00Z
+    webUrl: "https://www.inc.com/peter-cohan/3-lessons-from-state-streets-move-into-generative-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 15
 
 secured: "Dbzm61MOZCAgCU/K2zEq0ebRFA9dO7L0+Ff0CEnoNcXhWe1UHMvbCQ1yMLcv6kRR7PHGwfads5zEe4WOW8IW0pUxutWcHtrJadKotLgucAHkgPtAXKSYMVPQf/m35JkwFS6j+EnrU396JFEtpjt5c/WArw1hDrZlvuxOTUwd0Y4U0WUrX53OYBzwFB3M4Eaaz49f93SkFYxtVpucWXxj9YRppV8sTP52+WU9YaCFlNezCZPinRy2a1VjsPtHX3rH2UsDFPh/SlDi4OLaSicJm64iymQPeby3mUMatqUZdNCiPSNJ34G+Aa2roTp338SvULvlmk0ygZzKGDnYdsKJeuso/3hI1gnKdUP1q1ZJ0N8=;QPrgCwwDhn8mh3OY3qst4A=="
 ---

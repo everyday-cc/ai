@@ -155,6 +155,15 @@ related:
       name: The National Law Review
       domain: natlawreview.com
     quality: 19
+  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
+    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
+    publishedDateTime: 2023-07-07T19:44:00Z
+    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
 
 secured: "YuNTCl+1nuI9r5CsgIxm9MzTcS/py4U+OfSQ2Jzillz/j6uYlCjZ1dihl4kIm3ICGHIhH4fXM97dzImlXJUjn3IdQVz6FuzjQxL0zEnA4QY1zbb6i9i79vMonI0IRirJOZo4wq0CuK84p2GlIy+jMmJQOVbsCxFKPtKLq664t3M2LCQ20/dTvybI+sl94iYPzH42RXvlwigZ2KPzAZwx3ovyhVUMcUskstWadbrTcufr3iV6lMSbXSpHKTghT+h1hSqe+mvRaOTflc6LWrbzWEmQwOestL+aeXOAKYvtcePaEJ5ZBXAMQzUmZSIst5WsyrooxnClfsvmo4xWZEf4Tvrpgx3gKsc/s0VYuF2u2Txt6CS83ovjEZaKT7PhhvQkLVPmndF8q3dWVVdxzNyl+Vh4qjLHG5kzbBIFSfmqgnZrnogr2ugmSD1P7CpRrMePILIzaiPnJSPk7z2RmXRgQTl1hZH+LkX00adRqrq019T9X+LXS5E+O6lHjsiIil0Qc8tjj2HNPo93WI9ayJOKpw==;VfazkjJXhXld+sAP3jZI/A=="
 ---

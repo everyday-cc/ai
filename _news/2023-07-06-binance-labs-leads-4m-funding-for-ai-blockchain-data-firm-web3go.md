@@ -34,26 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Gen AI start-up ZuAI raises Rs 4 crore in seed funding round"
-    excerpt: "ZuAI, a Bengaluru-based Generative AI start-up, has raised Rs 4 crore in seed funding, led by Prime Venture Partners. The AI-powered personal tutor aims to enhance academic outcom"
-    publishedDateTime: 2023-07-05T08:50:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/gen-ai-start-up-zuai-raises-rs-4-crore-in-seed-funding-round/article67044423.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/gen-ai-start-up-zuai-raises-rs-4-crore-in-seed-funding-round/article67044423.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/gen-ai-start-up-zuai-raises-rs-4-crore-in-seed-funding-round/article67044423.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 37
-  - title: "AI marketing startup Needle raises US$1.2 million in pre-seed funding"
-    excerpt: "ARTIFICIAL intelligence (AI) marketer Needle has raised US$1.2 million in a pre-seed funding round, it said on Wednesday (Jul 5). Read more at The Business Times."
-    publishedDateTime: 2023-07-05T07:15:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/ai-marketing-startup-needle-raises-us12-million-pre-seed-funding"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
   - title: "Web3Go DIN: Creating AI-Native Digital Assets, Redefining Production Relations with Blockchain"
     excerpt: "Web3Go is set to revolutionize the production relations paradigm by leveraging the power of blockchain technology to address the ownership verification challenges of AI-native digital assets, thereby enabling creators to assert their ownership rights."
     publishedDateTime: 2023-07-05T13:42:00Z
@@ -68,6 +48,15 @@ related:
         width: 512
         height: 268
         isCached: true
+  - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
+    excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
+    publishedDateTime: 2023-07-07T12:26:00Z
+    webUrl: "https://www.benzinga.com/tech/23/07/33146451/farm-ai-this-start-up-is-bringing-agriculture-into-the-21st-century-with-artificial-intelligence-and"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "/SbxJG4joWtiev0EImO5DUDXI3wvw1pF6Lk/ye1IXqygBBgJetAR7dSCj6s3mgy0mYAjKxJwtAk79XLvkRBEep239ycyltSYVO+tnCd6NObe6/7+jkKuUqcJT55uW85E2LTcyikqoAbUM/J/tBrM9eOQoMPzUGU+I0eHG/oFRxNsz8JTkGr53WnUCve+6sfpXgrV0Mat2RreCPvQnYUp/dt2wQjmskLgo4n4YnaYxiREm6fGBzpIohm/ApPtYzUg84lgrLVXCBwQl8LW3RPnvGnjwXU9AKUO36CuuJ4EG25bhe28ABND6db6X/6SRn13z4tuupwX4APj5dkr+Jk0dU+0Y4evXeV2gZYVOYxCcyc=;4wA6poIG1N8DS61gOhC/4w=="
 ---

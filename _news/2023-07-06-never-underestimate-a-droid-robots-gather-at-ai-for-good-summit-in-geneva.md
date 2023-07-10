@@ -46,20 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "UN prepares for global summit to map the future of artificial intelligence"
-    excerpt: "Get insights on the UN's 'AI for Good Global Summit', its mission to manage AI's future, and notable attendees' contributions."
-    publishedDateTime: 2023-07-05T08:59:00Z
-    webUrl: "https://thethaiger.com/ph/news/546500/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 39
-    images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/07/Screen-Shot-2023-07-05-at-3.58.08-PM-1024x585.png"
-        width: 1024
-        height: 585
-        isCached: true
 
 secured: "Z+rGNk3cYIrrhrKaHG7eNQKnBzssWaxAXrOrflyDvBI76aX1cN1nRqxkBqlWvxhLsauPsKnTjtD0Uhex7qiGHj+Re6wUHad+rKOx0gGrVwftx81kB4XowqcUeG57eAUDU0cFQZjNShkHvknvZHUqs8vD0fXk0YXZZ1jAB6C5sltDkobVBT2k0ic+D3VuzuekJ/guvn/Bk99UHtKoO+0GqEJqgQZi8Vylrb31V3+R7iOVTXJBTeTRDShjZxrD1N362tsVvNnCUQ/ynJZOjTx49JAQTonvhmleRQ8SMXKyb8eX3w4Q6bSyV8zm1NOm2RaNBmEoTx5VeiqsJUJCQaET/aksJcU0ewCnhQrvYKGbBS/z24fbbnS3Mi8Rq186IqpgLns/LSLNFNk5YWHMagWD+boOAwhtDGCv2aVgZGDfhpW+5MkpJ2aJRwuPmNf/dQKySZBD2y8VITSwFbusNOxGH9Yg3FnI3rGSAf+KTCfo/DWgtUIYErqB3MLXhvONwuE6yHIFPjcul5+KbLpze2BcXQ==;XAv7xZr+IuM8LadcohYuYA=="
 ---

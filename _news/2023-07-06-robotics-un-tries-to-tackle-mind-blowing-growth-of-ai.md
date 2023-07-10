@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "Some of the most advanced humanoid robots were at the United Nations’ AI for Good Global Summit in Geneva, joining around 3,000 experts in the field to try to harness the power of AI and channel it into being used to solve some of the world’s most pressing problems,"
+    publishedDateTime: 2023-07-10T01:53:00Z
+    webUrl: "https://www.brecorder.com/news/40251725"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 54
+    images:
+      - url: "https://i.brecorder.com/large/2023/07/64ab15d61998d.jpg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Rise of the robots: UN tries to tackle ‘mind-blowing’ growth of artificial intelligence"
     excerpt: "A nightmare scenario has unchecked AI advances leading to “geopolitical instability and economic disparity on a scale we’ve never seen before”. Read more at straitstimes.com."
     publishedDateTime: 2023-07-06T16:20:00Z

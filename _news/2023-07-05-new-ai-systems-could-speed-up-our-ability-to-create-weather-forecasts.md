@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-c
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why AI Could Save Us From the Next Deadly Hurricane"
+    excerpt: "AI will not replace traditional methods, but will be integrated with them towards a hybrid forecast system.” Xie added, “We advocate for meteorologists to embrace AI methods and the new opportunity so that we can together improve human weather forecasting skills."
+    publishedDateTime: 2023-07-10T01:13:00Z
+    webUrl: "https://www.thedailybeast.com/can-ai-predict-the-next-deadly-hurricane-tornado-and-flood"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1688945766/230709-AI-hurricanes-tease_fhe7mp"
+        width: 1480
+        height: 833
+        isCached: true
   - title: "AI forecasts could help us plan for a world with more extreme weather"
     excerpt: "A new wave of AI models can forecast either worldwide events or local precipitation, but have some limits compared with traditional systems."
     publishedDateTime: 2023-07-07T18:00:00Z

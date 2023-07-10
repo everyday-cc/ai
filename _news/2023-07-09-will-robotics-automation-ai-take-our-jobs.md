@@ -9,7 +9,7 @@ ampWebUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp
 cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 54
-  - title: "Is AI Coming to Take Your Job?"
-    excerpt: "AI is now so commonplace and all-encompassing that there are now AI assistants that will map out your daily schedule, and make changes depending on what you do and don’t get done on any given day. This means you aren’t even controlling your schedule anymore;"
-    publishedDateTime: 2023-07-05T07:21:00Z
-    webUrl: "https://sacobserver.com/2023/07/is-ai-coming-to-take-your-job/"
-    type: article
-    provider:
-      name: The Sacramento Observer
-      domain: sacobserver.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/sacobserver.com/wp-content/uploads/2023/07/Screenshot-2023-06-30-at-1.41.45-PM-e1688408713309.webp?fit=710%2C603&ssl=1"
-        width: 710
-        height: 603
-        isCached: true
 
 secured: "rB/BfjO/CFiR1/1AeiQAycSvnqzY5hQTJZGnKD96XRqS1RTPUClCQYlH2nH2kI79zoTrFmWzYXKNqtiRbs5VPgAFhDLLvbOI7kF8kNd3VF2nBdU+htfUTBpLFdPecvo9aujEBa9tmii1N12SWA5C3/z4vXfQvOfBTL/v3i8jxwpOCWhNcMh9JiKGCahF4LH9k81fXNBAMztt4tSahAkELPMIJGPJ5OqLfroon0oJMW+W6yG24obaAbvjjt4T9mw1WoH42kITWGK6xAwhRNUHs6A5+B+VVLI0Ythi2JbyYacTYtMFWTerbcNVIyBCoEpOFdND4+sOZDUqR9D0hWZWJQOAC9Zv6RSrKjIlt5eEs4DHG6IlW8fZ38Gb256q7KgiZv0xc/cNbYdKDGNE0RtPDbFIKenqp+grCJL8AZEzr4itCXqeaXV9zONKJlBoTHwtAe2g/KgXBZpUEF0yeHuB3cPj3SN87edG++r6D6Znmpp8BMC+bSrirDNakc+VK0jde7KcH8ixussLzbKeKVK66A==;RTypzyFQu4/hn6j7YXH+IQ=="
 ---

@@ -40,15 +40,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "A Peek into 2023 World Artificial Intelligence Conference"
-    excerpt: "This year's World Artificial Intelligence Conference will begin on Thursday in Shanghai and companies are making advances with avatars. An avatar generator turned heads last year, as a spherical scann"
-    publishedDateTime: 2023-07-05T08:33:00Z
-    webUrl: "https://www.victoriaadvocate.com/a-peek-into-2023-world-artificial-intelligence-conference/video_7c95f275-534b-57e9-b10e-4e13006f0660.html"
-    type: article
-    provider:
-      name: The Victoria Advocate
-      domain: victoriaadvocate.com
-    quality: 17
 
 secured: "FT0fBLXJeohuhny1UE8v3/JsjYtwMlHR1yTBdwVj4QTMWhMbXeTbf1ifpAs+jRRvQ1M/NRheJ3ipZexbtoXjDNxCnwORN85aCm2rKmRh2oGtksdxnBLtM6UuJLqr4YCYkgIXRWfpwdQrJaJBeuzECDAG5GyuD22pMW3tiuvur14rUXhMDwoLYyCqeLC8nueK2O+qfikG8JwUrrMoBX6fYQhSQzp7NaUh2OIxhuYSfJJ+uCtP7GDHWDduyGPnA1FAGZtxPuZ9hQcCrN03welM//OwDP71RLtkPw6u3V9kjDrUw+m5o/fRV+etT+wDohGq5Fkw2f+18qvjr2Amxg9HxOzdi8GHUW20rQ8Ah/NJpm8=;Sn2DsneeFf5l+g1a68QMoQ=="
 ---

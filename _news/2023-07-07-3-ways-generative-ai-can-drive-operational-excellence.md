@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The artificial intelligence endgame"
+    excerpt: "That incident is an analogy for the way people are oblivious to the elephant in the room: the potential effect artificial intelligence (AI) and artificial general intelligence (AGI) could exert on almost every aspect of our lives and even posing an existential risk to humanity."
+    publishedDateTime: 2023-07-06T14:59:00Z
+    webUrl: "https://mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/"
+    ampWebUrl: "https://mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/?amp"
+    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/?amp"
+    type: article
+    provider:
+      name: Mail & Guardian
+      domain: mg.co.za
+    quality: 59
+    images:
+      - url: "https://mg.co.za/wp-content/uploads/2020/03/a44e475b-artificialintelligence.jpeg"
+        width: 696
+        height: 445
+        isCached: true
   - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
     excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
     publishedDateTime: 2023-07-05T16:00:00Z
@@ -59,6 +75,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "Building the AI Talent Pipeline"
+    excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
+    publishedDateTime: 2023-07-07T04:45:00Z
+    webUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 41
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Navigating the ethical landscape of generative AI and journalism"
     excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
     publishedDateTime: 2023-07-06T11:21:00Z

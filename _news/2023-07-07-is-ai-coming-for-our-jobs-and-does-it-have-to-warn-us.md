@@ -54,20 +54,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 54
-  - title: "Is AI Coming to Take Your Job?"
-    excerpt: "AI is now so commonplace and all-encompassing that there are now AI assistants that will map out your daily schedule, and make changes depending on what you do and don’t get done on any given day. This means you aren’t even controlling your schedule anymore;"
-    publishedDateTime: 2023-07-05T07:21:00Z
-    webUrl: "https://sacobserver.com/2023/07/is-ai-coming-to-take-your-job/"
-    type: article
-    provider:
-      name: The Sacramento Observer
-      domain: sacobserver.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/sacobserver.com/wp-content/uploads/2023/07/Screenshot-2023-06-30-at-1.41.45-PM-e1688408713309.webp?fit=710%2C603&ssl=1"
-        width: 710
-        height: 603
-        isCached: true
 
 secured: "PjcOb1qL9bVrz62LfR3FnRlkggLtncljCe18rsZEewwgWTDCsERPMMQb82Qt5M8Bv5Eh4ZtNH3gZLtlZ+LPLlEsaysEBnq8wBnFgCWmnBdB38ObzPsnuP1FUp3or5so6EoUL/c9MKaEc1wRPDP1n9zPaEZ6RQWRb0WNFmouZCsD+48sMiGgDbSfFAZWlcBc12ZNeaOJVI4yvpWOeOi3/7WGBujI6cna+/kMFTGwn0PCXQe3C0gUmdt2VOLWKMthkij+RJGiHUdLs60zXFRrq9L/3yQbiYNSvHksYmZ3anhfoX+fUgwrtGo3bKqdy5RkrhowllswDTrJA++BUyEl0IJH3Vj3ZJQIWxh6epfVblQNkX4VuGuYk/E+xVezuX/HRVx4HcCTg3Ne2TvQWI8i7WLiypbf7pPbL8jLHE7a9J+cqa5TpxlgHaMTxcsXZLkQ724HsMa8gAXl4MUCNdvF8U+reXB/RPIqM7Y8KMvli6pikLz2IdS7II9Wj4ST/nryxKKe2pQLRC9LgtxaywGbVjQ==;5A0xZd/SHxxK+bNXVYNNOQ=="
 ---

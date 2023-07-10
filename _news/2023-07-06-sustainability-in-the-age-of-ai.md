@@ -23,75 +23,139 @@ topics:
   - AI
 
 related:
-  - title: "Unlocking the AI-powered opportunity in the UK"
-    excerpt: "AI is the most profound technology that humanity is working on today. It’s a critical part of solving big societal challenges and helping to make our everyday lives bett…"
-    publishedDateTime: 2023-07-05T09:00:00Z
-    webUrl: "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/"
-    ampWebUrl: "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/"
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ..."
+    publishedDateTime: 2023-07-07T16:57:00Z
+    webUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 106
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-dots_1.width-1300.jpg"
-        width: 1300
-        height: 541
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The artificial intelligence endgame"
-    excerpt: "That incident is an analogy for the way people are oblivious to the elephant in the room: the potential effect artificial intelligence (AI) and artificial general intelligence (AGI) could exert on almost every aspect of our lives and even posing an existential risk to humanity."
-    publishedDateTime: 2023-07-06T14:59:00Z
-    webUrl: "https://mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/"
-    ampWebUrl: "https://mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/?amp"
+  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
+    excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
+    publishedDateTime: 2023-07-06T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
     type: article
     provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mg.co.za/wp-content/uploads/2020/03/a44e475b-artificialintelligence.jpeg"
-        width: 696
-        height: 445
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6476266dfe66ffb1e6569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Building the AI Talent Pipeline"
-    excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
-    publishedDateTime: 2023-07-07T04:45:00Z
-    webUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
+  - title: "The week in AI: Generative AI spams up the web"
+    excerpt: "This week in AI, a startup for SEO-optimized, AI-generated web content, OpenAI releases GPT-4 to the public, and a smart intubator."
+    publishedDateTime: 2023-07-08T15:01:00Z
+    webUrl: "https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/"
+    ampWebUrl: "https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/amp/"
     type: article
     provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 41
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"
-        width: 480
-        height: 320
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/ETH-zurich-pixar-smoke.jpg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Ramp acquires AI-powered Cohere"
-    excerpt: "The finance automation platform acquired the startup to help drive AI-powered projects and solve problems for its customers, it said."
-    publishedDateTime: 2023-07-05T21:31:00Z
-    webUrl: "https://www.bankingdive.com/news/ramp-acquires-ai-cohere-fintech/685024/"
+  - title: "Are You Getting Scammed Through AI Voice Swindles? 4 Safeguards You Need To Know"
+    excerpt: "According to a new report by the Identity Theft Resource Center (ITRC), “80% of identity theft victims are due to scams, and thieves are becoming more sophisticated in their quests to steal personal identifying information (PII) from victims with 61% of them being conducted through AI voice.”"
+    publishedDateTime: 2023-07-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/amp/"
     type: article
     provider:
-      name: bankingdive
-      domain: bankingdive.com
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6481f0a20bd1d57b30595934/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 836
+        isCached: true
+  - title: "The 3 Best AI Stocks Nobody’s Talking About Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have emerged as a top investment trend, driven by the increasing"
+    publishedDateTime: 2023-07-07T11:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-nobodys-talking-about-right-now-1032432143"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Generative AI: We Need To Talk About Value"
+    excerpt: "It’s not about simply getting your hands on generative AI—it’s about knowing how to put the technology to work to create real, tangible value."
+    publishedDateTime: 2023-07-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/generative-ai-we-need-to-talk-about-value/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Understanding assessment in the age of AI"
+    excerpt: "Teachers at a Cambridge conference learn that principles of effective teaching and assessment are key to managing the 'explosive' power of generative AI."
+    publishedDateTime: 2023-07-05T10:08:00Z
+    webUrl: "https://www.cambridge.org/news-and-insights/news/understanding-assessment-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
     quality: 39
     images:
-      - url: "https://www.bankingdive.com/imgproxy/pNO5BpZOo8I-BP88Z6UGIxjuYttZqWDdqRxOfHkcLK8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1JhbXBfMS5qcGc.jpg"
-        width: 770
-        height: 435
+      - url: "http://www.cambridge.org/sites/default/files/media/images/Assessment%20%26%20AI%20panel_main.jpg"
+        width: 5500
+        height: 3667
         isCached: true
-  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
-    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
-    publishedDateTime: 2023-07-07T19:44:00Z
-    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
+  - title: "Using AI To Understand the Language of Molecules"
+    excerpt: "This AI system only needs a small amount of data to predict molecular properties, which could speed up drug discovery and material development."
+    publishedDateTime: 2023-07-07T15:00:00Z
+    webUrl: "https://www.technologynetworks.com/drug-discovery/news/using-ai-to-understand-the-language-of-molecules-375903"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375903/using-ai-to-understand-the-language-of-molecules-375903-640x360.jpg?cb=20230707"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "In the age of AI, tech's little guys need big friends"
+    excerpt: "The tech industry loves its garage startup stories. From Hewlett-Packard to Google, the tales of bootstrapped companies that have turned into giants have inspired generations of entrepreneurs."
+    publishedDateTime: 2023-07-08T11:12:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/in-the-age-of-ai-techs-little-guys-need-big-friends/articleshow/101596819.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://img.etimg.com/thumb/msid-101596863,width-1070,height-580,imgsize-31368,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
+  - title: "What Does AI Know About Wine, Camping, and Airport Food?"
+    excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
+    publishedDateTime: 2023-07-07T14:24:00Z
+    webUrl: "https://www.inc.com/inc-masters/what-does-ai-know-about-wine-camping-and.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "g5XLeTYT9xHhv8CDSpFRzg4QzLLgjwt3odayUltGkpH/9SG0/M4PP/uIzd0Lpj05OdOH7zLnYuiDXt6/yu+g0a1o1fgmljiPoEw2mDIeL/oyZmNY6tuiJrfaJdqcMgQzuZRZjZwGGl+tiHKfHz4yvbD4x6NqHTotMYpVTPMXI1/f4F3Vrx8JTUIT5PJr4HYqp5Xc6GRrpMOejzr/J3K55gOnPVsBRFfGjMAZPm9h6iAXOymwiVLLgDhux75e2/74cyH/SbJlo/KpdtUTt4ZeDKAxhHRYubiEcHZsJudnAd2A2snRLq24DXJ0RRzbMr50AV+qYNVpDWfJaLliB7lr9b/R1fYFwkxKKJM68qhF2Sw=;6t0j7jy8z23eMUPcEYAbEA=="
 ---

@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
+      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
+      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "publishedDateTime": "2023-07-06T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-air-force-colonel-says-it-took-ai-10-minutes-to-complete-a-task-that-can-take-humans-days.md",
+      "title": "Air Force colonel says it took AI 10 minutes to complete a task that can take humans days",
+      "excerpt": "The US is testing AI to help defense agencies' internal communications, Bloomberg reported. Some AI models have even been fed classified information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7",
+      "originalUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a5c9376075be0019c2be26?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
+      "publishedDateTime": "2023-07-06T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests.md",
       "title": "China says US consideration of AI chip export controls hurts China's legitimate interests",
       "excerpt": "The United States' consideration of export controls on artificial intelligence chips is detrimental to Chinese companies' legitimate interests and hinders global economic and trade exchanges and cooperation,",
@@ -775,6 +878,48 @@
       ]
     },
     {
+      "path": "_news/2023-07-05-new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts.md",
+      "title": "New AI systems could speed up our ability to create weather forecasts",
+      "excerpt": "The first, developed by Huawei, details how its new AI model, Pangu-Weather, can predict weekly weather patterns around the world much more quickly than traditional forecasting methods, but with comparable accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/",
+      "originalUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/GettyImages-872885192-1.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/amp/",
+      "publishedDateTime": "2023-07-05T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-un-recruits-robots-in-effort-to-meet-global-development-goals.md",
       "title": "UN recruits robots in effort to meet global development goals",
       "excerpt": "Dozens of robots, including several humanoid ones, will take centre stage at a conference organized by the United Nations technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals.",
@@ -826,7 +971,7 @@
       "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1063,133 +1208,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-asset-lifecycle-management-best-practices-building-a-strategy-for-success.md",
-      "title": "Asset lifecycle management best practices: Building a strategy for success",
-      "excerpt": "Asset lifecycle management best practices that successful businesses use to care for their assets and extend their useful lives.\nThe post Asset lifecycle management best practices: Building a strategy for success appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/asset-lifecycle-management-best-practices-building-a-strategy-for-success/",
-      "originalUrl": "https://www.ibm.com/blog/asset-lifecycle-management-best-practices-building-a-strategy-for-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T05:53:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-the-hybrid-cloud-forecast-part-3.md",
-      "title": "The Hybrid Cloud Forecast: Part 3",
-      "excerpt": "If you have ever talked with one of them, you will know that IBM Fellows are storytellers. It’s part of their DNA. \nThe post The Hybrid Cloud Forecast: Part 3 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-3/",
-      "originalUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T05:51:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-pope-francis-takes-a-stand-on-ai-vatican-releases-ai-ethics-handbook.md",
-      "title": "Pope Francis Takes a Stand on AI: Vatican Releases AI Ethics Handbook",
-      "excerpt": "The Vatican has delved into artificial intelligence (AI) ethics by releasing an extensive handbook. The Pope Francis-founded Institute for Technology, Ethics, and Culture (ITEC) and the Markkula ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm",
-      "originalUrl": "https://www.techtimes.com/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/430554/pope-francis-takes-a-stand-on-ai-vatican-releases-ai-ethics-handbook.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm",
-      "publishedDateTime": "2023-07-05T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

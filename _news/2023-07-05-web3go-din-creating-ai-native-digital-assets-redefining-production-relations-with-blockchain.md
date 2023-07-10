@@ -48,26 +48,15 @@ related:
         width: 1008
         height: 647
         isCached: true
-  - title: "Gen AI start-up ZuAI raises Rs 4 crore in seed funding round"
-    excerpt: "ZuAI, a Bengaluru-based Generative AI start-up, has raised Rs 4 crore in seed funding, led by Prime Venture Partners. The AI-powered personal tutor aims to enhance academic outcom"
-    publishedDateTime: 2023-07-05T08:50:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/gen-ai-start-up-zuai-raises-rs-4-crore-in-seed-funding-round/article67044423.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/gen-ai-start-up-zuai-raises-rs-4-crore-in-seed-funding-round/article67044423.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/gen-ai-start-up-zuai-raises-rs-4-crore-in-seed-funding-round/article67044423.ece/amp/"
+  - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
+    excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
+    publishedDateTime: 2023-07-07T12:26:00Z
+    webUrl: "https://www.benzinga.com/tech/23/07/33146451/farm-ai-this-start-up-is-bringing-agriculture-into-the-21st-century-with-artificial-intelligence-and"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 37
-  - title: "AI marketing startup Needle raises US$1.2 million in pre-seed funding"
-    excerpt: "ARTIFICIAL intelligence (AI) marketer Needle has raised US$1.2 million in a pre-seed funding round, it said on Wednesday (Jul 5). Read more at The Business Times."
-    publishedDateTime: 2023-07-05T07:15:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/ai-marketing-startup-needle-raises-us12-million-pre-seed-funding"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "YyIu5MmO0eDyj+RmBHrt90SCn5gl5lpazqtlwLsJy5sgYqk9wYDOTbyIlrx7bshnSlHzXuq9vFIQDNrrvhe/r2oYUrWQEJL6WyilPMS+xnHo8ieaOvt0WCb5yC6IGzwCj/AK7a9nu2JxwSHbzDLOVsO/YcEa7m+l/iIBlherXruCu1IX/yXoPA5EqkyeT65O8c5Td3cgCxifY9C0Nr95TmzvEjCo7nLJGVo8dptlg8WcGDgmKf1W/asELf4Cw0cpzuphDbadHpequDZ9OjX1tYlJGk8gLTnMnlNyOQbzEnYTJ/0kV5JhHaXzmzoXhp7r9G1UBBqzUB9fGAuckBcaIBadRkqZtYSHy4F4zwGpe35GZpiZ4PlOVo+x2bl8T0id9SDwrp2nLUkfe07ITJKL2rYlcbmHnCzQgoMVDQH/FiaizG1hq1b9xEYHu3X1AMzek8o/ur8EXZ8XzSBMzlBg0JFvDoNCsUi6j9KiN/YFKYVgGbPeEbZ1aTxqlTHVTLRw9J14iREoErcFhRyapO0WLA==;5iPmw2nUA5YXqdJFlNVOVA=="
 ---

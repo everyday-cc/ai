@@ -2,6 +2,265 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-06-13-silicon-valley-ai-chip-startup-simaai-hooks-key-investors.md",
+      "title": "Silicon Valley AI chip startup SiMa.ai hooks key investors",
+      "excerpt": "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. SiMa.ai/Handout via REUTERS/File Photo OAKLAND, California, June 13(Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Tuesday said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/silicon-valley-ai-chip-startup-simaai-hooks-key-investors-2023-06-13/",
+      "originalUrl": "https://www.reuters.com/technology/silicon-valley-ai-chip-startup-simaai-hooks-key-investors-2023-06-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/jo7mRBawPSBhYlaFccaHL42PO1k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LWMV7SSZZ5L7TNYIV7HNEYJKYQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-how-google-pixel-watch-knows-when-you-fall.md",
+      "title": "How Google Pixel Watch knows when you fall",
+      "excerpt": "From stunt doubles to AI, learn how we built fall detection for Google Pixel Watch.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/pixel/google-pixel-watch-fall-detection-ai/",
+      "originalUrl": "https://blog.google/products/pixel/google-pixel-watch-fall-detection-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fall_detection_pixel_hero.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/pixel/google-pixel-watch-fall-detection-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/pixel/google-pixel-watch-fall-detection-ai/amp/",
+      "publishedDateTime": "2023-06-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-accenture-announces-jaw-dropping-3-billion-investment-in-ai.md",
+      "title": "Accenture announces jaw-dropping $3 billion investment in AI",
+      "excerpt": "Accenture said it will double the size of its Data & AI practice from 40,000 at present to 80,000 through a combination of hiring, training",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/",
+      "originalUrl": "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_stacks_of_dollar_bills_and_golden_coins_rise_into_the_s_cc2ae09e-3f57-4126-8542-b93587a347b3.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-paul-mccartney-ai-has-enabled-a-final-beatles-song.md",
+      "title": "Paul McCartney: AI has enabled a “final” Beatles song",
+      "excerpt": "BBC Radio 4's Today program aired an interview with Paul McCartney in which he announced that thanks to AI technology, a \"final Beatles record\" has been finished and will be released later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/beatles_ai_hero_4-800x457.jpg",
+          "width": 800,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/amp/",
+      "publishedDateTime": "2023-06-13T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-the-australian-ai-governance-debate-starts-to-heat-up.md",
+      "title": "The Australian AI governance debate starts to heat up",
+      "excerpt": "Australian ministers debate whether implementing regulations for AI will address the challenges caused by a lack of skilled AI talent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/au-ai-governance-debate/",
+      "originalUrl": "https://www.techrepublic.com/article/au-ai-governance-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-artificial-intelligence-ai-synitia-data-intelligence.jpeg",
+          "width": 1200,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds.md",
       "title": "AI-powered malware is a growing security concern, CyberArk survey finds",
       "excerpt": "AI-enabled threats are a major concern; 93% of cybersecurity professionals surveyed expect such threats to impact their organization.",
@@ -929,257 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-tsmc-stock-gains-on-report-that-nvidia-ai-chip-order-has-boosted-production.md",
-      "title": "TSMC stock gains on report that Nvidia AI-chip order has boosted production",
-      "excerpt": "U.S. shares of Taiwan Semiconductor Manufacturing Co. outpaced the broader chip sector Monday following a report Nvidia was expanding the fab's capacity usage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
-      "originalUrl": "https://www.marketwatch.com/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 322,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-798928/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
-      "publishedDateTime": "2023-06-12T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise.md",
-      "title": "Salesforce launches AI Cloud to bring models to the enterprise",
-      "excerpt": "Salesforce is launching AI Cloud, a collection of products, tools and services with generative AI at the core.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/",
-      "originalUrl": "https://techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1188301651.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/amp/",
-      "publishedDateTime": "2023-06-12T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-grimes-helps-artists-distribute-songs-using-her-ai-voiceif-they-split-royalties-heres-how-it-works.md",
-      "title": "Grimes Helps Artists Distribute Songs Using Her AI Voice—If They Split Royalties. Here’s How It Works.",
-      "excerpt": "A new partnership will help artists and fans more easily distribute songs that feature Grimes’ AI voice—if she gets half of the royalty revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/antoniopequenoiv/2023/06/12/grimes-helps-artists-distribute-songs-using-her-ai-voice--if-they-pay-royalties-heres-how-it-works/",
-      "originalUrl": "https://www.forbes.com/sites/antoniopequenoiv/2023/06/12/grimes-helps-artists-distribute-songs-using-her-ai-voice--if-they-pay-royalties-heres-how-it-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6487908a27da07134d214418/0x0.jpg?format=jpg&crop=3463,1950,x0,y178,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/antoniopequenoiv/2023/06/12/grimes-helps-artists-distribute-songs-using-her-ai-voice--if-they-pay-royalties-heres-how-it-works/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoniopequenoiv/2023/06/12/grimes-helps-artists-distribute-songs-using-her-ai-voice--if-they-pay-royalties-heres-how-it-works/amp/",
-      "publishedDateTime": "2023-06-12T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-openai-deepmind-and-anthropic-to-give-uk-early-access-to-ai-models-for-safety-research.md",
-      "title": "OpenAI, DeepMind, and Anthropic to give UK early access to AI models for safety research",
-      "excerpt": "The UK has been ahead of other countries in AI safety and regulations, and this announcement comes with the creation of an AI Taskforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/",
-      "originalUrl": "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/383bbbdcbc8cc7077514430dab2072839d7dc9cd/2023/06/12/ef66201a-11c7-4071-a1be-1b603f993b6b/pm.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-virtual-desktop-expertise.md",
-      "title": "Atmosera Attains Two New Microsoft Advanced Specializations, Reinforcing Cloud Security and Azure Virtual Desktop Expertise",
-      "excerpt": "Atmosera continues to demonstrate its tenured experience and deep knowledge in the Azure tech stack and security domain. PORTLAND, Ore., June 12, 2023 /PRNewswire-PRWeb/ -- Atmosera, a recognized full",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32825113/atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-v",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32825113/atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-v",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32825113",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32825113",
-      "publishedDateTime": "2023-06-12T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

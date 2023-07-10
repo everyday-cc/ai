@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sustainability in the age of AI"
+    excerpt: "It's imperative that CEOs consider sustainability a business driver, and AI a driver for achieving sustainability goals.\nThe post Sustainability in the age of AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-06T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/sustainability-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "The week in AI: Generative AI spams up the web"
     excerpt: "This week in AI, a startup for SEO-optimized, AI-generated web content, OpenAI releases GPT-4 to the public, and a smart intubator."
     publishedDateTime: 2023-07-08T15:01:00Z

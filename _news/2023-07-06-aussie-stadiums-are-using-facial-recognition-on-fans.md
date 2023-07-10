@@ -7,7 +7,7 @@ originalUrl: "https://ia.acs.org.au/article/2023/aussie-stadiums-are-using-facia
 webUrl: "https://ia.acs.org.au/article/2023/aussie-stadiums-are-using-facial-recognition-on-fans.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Major Aussie stadiums using facial recognition technology"
-    excerpt: "S﻿ome of Australia's major stadiums are using controversial facial recognition technology often without spectators' knowledge or consent. Added an hour ago"
-    publishedDateTime: 2023-07-05T07:18:00Z
-    webUrl: "https://www.9news.com.au/videos/national/major-aussie-stadiums-using-facial-recognition-technology/cljpblpb2000o0jo2rxxaa0d3"
-    type: article
-    provider:
-      name: Nine News Australia
-      domain: 9news.com.au
-    quality: 39
-    images:
-      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2023/07/520190/camera.png"
-        width: 1080
-        height: 607
-        isCached: true
   - title: "Big Tech: Meta launches its Twitter rival, Twitter limits user posts and sports stadium using facial recognition tech"
     excerpt: "Mark Zuckerberg's Meta has launched Threads, a rival to Twitter, with the app seeking to draw users away from Elon Musk's embattled platform.  The release was brought forward by 15 hours and is now freely available in 100 countries – including Australia."
     publishedDateTime: 2023-07-06T06:52:00Z
