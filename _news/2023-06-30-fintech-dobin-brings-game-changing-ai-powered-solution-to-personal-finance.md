@@ -2,9 +2,9 @@
 category: news
 title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
 excerpt: "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;"
-publishedDateTime: 2023-06-30T13:23:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/30/9842353.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/30/9842353.htm"
+publishedDateTime: 2023-06-30T14:40:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "c2z/5c6+R4/HdHUzIb1wr+YC3B4zxmIQSpj0jRPxeIW8vb1fozcR2Zf3+ecJYWjDlUJ39WkmBSC6u0PnZsHk1Xoezh1Ouc0zLsAjens2aATFKJ1duQSsZeuby0R91MKszO2+IJqYhRf5diu1mHjUCpqovk24qtGerjPMB9fvjT+9oOMDbMIK/fuXGphawxmiMl5lc9eIvLdzIaLN6SfCFF8RnrjyMUJfFWhpiZbdX4RxbiN6X9IXFxne+/XHd6i+rsUeD5BMaeXonUCPbYeJEDYELY0/Kd2ct98etd6FsD+p5e1EPnzznLvL7CALOdIoCZB/FUhVwzOSPPYyw8tKDpJfn57IkvIFAVwOkPijBbuv9eLMM+hX2MxeLl650j/kMoyllhlKVD2/68B0cEU4H6YF2lmxuuFBC+ASsKKJY7aGJDGufhjxdFY3fe1NGF58dvm2cOPDE+H7CZjK1d3ZX2pRp8oB3amZIQ2Ieds2qgllCZkNjPASRYojz/TM0fzg5iP8dyUshNL7YwTBYpc2dg==;6rfgHwN4S1rUZ+f1d/hbnQ=="
+secured: "d+I1MA9iaSt/GcFL6NTuzzQ9sGOcFXN8cPMsjB/xua3zWDTV8QwDc1e/GYdDH8vTK6hjW2O7zmDen5pankT3aHxvCeU3CWLRUCXW6HZ3EhhRru3iizIwrdRg6GWBo3ermeBhIlZ7wFZZxRY1/OB7oudpQ+O3ngHzlZrAa2eEMKnCOj1Xq228OGTdRF/DzQ6Q4cCCACvmE4M8/fw1CLswhuxynbwhTLXKCnCALR3hXgx6oXvoc24CTl36qxeA+YLumj/ezDdTZch2b2BELUHuo3yB83SF0FjclyWFcCNFfzl8loS7hQ11zxES4ahb/XBcZPdfYDBLwEuZ2CqvjonSLXMlD0F14f3TAzwMKf6csr5C5tljYpBb530TvCril+nUkcpnhVky2RHhRF8EOMhpcw6GLpdxCBOhFj6fhV/RJYYNRAFnwA40YxMc8J96ld1fd+orBH1huuUAuma8wOXViNj8ndLtXsMr/hNxKO+Q8A5IZEKmrmX7tIpsojsJuZf0Ff/z/f3In75nbm+462fwvw==;yFs+TmMvZrDohli8MJb4Iw=="
 ---
 

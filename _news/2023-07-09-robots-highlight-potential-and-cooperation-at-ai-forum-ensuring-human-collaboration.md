@@ -57,15 +57,6 @@ related:
         width: 607
         height: 404
         isCached: true
-  - title: "AI summit showcases human-like robots to aid UN mission"
-    excerpt: "Dozens of humanoid-like robots will take center stage at the United Nations “AI For Good” Global Summit, showcasing how AI can be used to support human wellbeing."
-    publishedDateTime: 2023-07-05T21:20:00Z
-    webUrl: "https://cybernews.com/tech/united-nations-ai-summit-robots-human-wellbeing/"
-    type: article
-    provider:
-      name: cybernews
-      domain: cybernews.com
-    quality: 34
 
 secured: "ywLh2BWXuaYko1vl15s6MwRoIk5pviJtVW8qQAm++QAb4DWJBo1DJ+NmaFlxUL8dLgiio1TM0muzXO8Y7O41cNaW47eTTPjVQYQqKycP77s4G6XiEfMY+jNvdOpnZEdzBBqwcs/caNEDI10DHFaiwlQTu2G0/nvvJfVwyvBVz8VoDQja4U4RGPMyUh6lPBBCtWxihT+nz6h+ccsVaRuxxFfGIUC3u8vZW0qeJ4i6XqSiANnMxJfryfZrT9zUYw9fhasvU/dQVa2xeJq+bgk4HdMfwuCWDde+IkWPd1nHOQjFg4Wg3QHoXZG5k0q4hZsjsbZXh8LFIkQeYriL/g0gQlDQ4C3gynMTROqva2tTPT4=;3pDBQx2wx2hi0Kpww18EHw=="
 ---

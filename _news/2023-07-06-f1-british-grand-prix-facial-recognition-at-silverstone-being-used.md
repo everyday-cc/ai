@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
 type: article
 quality: 89
-heat: 129
+heat: 130
 published: true
 
 provider:

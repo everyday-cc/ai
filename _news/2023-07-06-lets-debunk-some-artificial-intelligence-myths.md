@@ -7,7 +7,7 @@ originalUrl: "https://www.ecampusnews.com/news/2023/07/06/ai-myths-debunked/"
 webUrl: "https://www.ecampusnews.com/news/2023/07/06/ai-myths-debunked/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 589
     height: 450
     isCached: true
-
-related:
-  - title: "Debunking AI Myths: The Truth Behind 5 Common Misconceptions"
-    excerpt: "Unravel the enigma of AI as this article busts five pervasive myths, from fears of robotic world domination to the mistaken belief in machines' unbiased judgment."
-    publishedDateTime: 2023-07-05T05:44:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a5031dc7bbf308cbb4ddd4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "ezgyFw6BxWqeXSahcg1BpsmOrX7HDGLOjsXbRNiTpYQamkTmAGZSUbuzQLr6NsUpbnEDBiayQv8R97jM0mL8P/5R5fST3TnN8X1WYv0TOEI7vKujPYdBQrhR6Y20T8RyaAbwBAjuVVWANuoYyhF6HOiQtS5XrGUbM50k+ZKFsXTcrDQSOLyXDEl+Act3i0CyC7bA1KKZGpDVKdjbPh63bxIasCpTarYtwCE2+CislpkwefmWNpfp8GS1ZG1qZ77GOTKbw7jTUjGf75t3kM0S9jHuUiVdxbCSIyQspC0BIatIIBmQh8u+jKNDletQInuwrOKK3Dz/DZN6Gq5Uyu+3WDUdrWg4g9h4OrcYyMP8p+E=;96DyiCwLtML/aajte7xweA=="
 ---

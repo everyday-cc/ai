@@ -20,6 +20,22 @@ topics:
   - AI in Sales
 
 related:
+  - title: "The best shows on Amazon Prime right now (July 2023)"
+    excerpt: "With new shows always coming to Amazon, there’s lots to pique your curiosity. Want to see something fresh and new? Check out the exciting and unique new comedy I’m a Virgo, which has been ..."
+    publishedDateTime: 2023-07-07T13:00:00Z
+    webUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
+    ampWebUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/07/the-horror-of-dolores-roach.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon Prime Day 2023: best deals available now"
     excerpt: "Another day and another set of early Prime Day deals are now live at Amazon. Continuing on from the cheapest ever price for the Fire TV Stick 4K Max are today's record-low offers on the Echo Dot ..."
     publishedDateTime: 2023-07-06T12:09:00Z

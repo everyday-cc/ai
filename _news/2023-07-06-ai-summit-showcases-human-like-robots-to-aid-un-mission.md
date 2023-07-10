@@ -19,52 +19,84 @@ topics:
   - AI
 
 related:
-  - title: "Robots vows not to erase human role at AI Forum"
-    excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
-    publishedDateTime: 2023-07-09T08:54:00Z
-    webUrl: "https://www.albawaba.com/node/1525829"
-    ampWebUrl: "https://www.albawaba.com/amp/node/1525829"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829"
+  - title: "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI"
+    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots."
+    publishedDateTime: 2023-07-06T18:04:00Z
+    webUrl: "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
+    ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
+      name: Barron's
+      domain: barrons.com
     quality: 74
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM"
-        width: 1200
-        height: 800
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
         isCached: true
-  - title: "Robots highlight potential and cooperation at AI Forum ensuring human collaboration"
-    excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
-    publishedDateTime: 2023-07-09T08:54:00Z
-    webUrl: "https://www.albawaba.com/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
-    ampWebUrl: "https://www.albawaba.com/amp/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
+  - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
+    excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
+    publishedDateTime: 2023-07-06T14:51:00Z
+    webUrl: "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1139719"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1139719"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 68
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "China tech startup launches humanoid robot at Shanghai AI event"
-    excerpt: "Fourier Intelligence, a Chinese tech startup specializing in rehabilitation robotics and artificial intelligence, on Thursday unveiled its first-generation humanoid robot at the ongoing World Artificial Intelligence Conference in Shanghai."
-    publishedDateTime: 2023-07-06T09:07:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html"
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 69
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
+    publishedDateTime: 2023-07-07T14:34:00Z
+    webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 54
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202307/06/64a67cc9a310bf8a1d238e8a.jpeg"
-        width: 607
-        height: 404
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
+        width: 1024
+        height: 673
         isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
+    publishedDateTime: 2023-07-08T03:45:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world/101587755"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Rise of the robots: UN tries to tackle ‘mind-blowing’ growth of artificial intelligence"
+    excerpt: "A nightmare scenario has unchecked AI advances leading to “geopolitical instability and economic disparity on a scale we’ve never seen before”. Read more at straitstimes.com."
+    publishedDateTime: 2023-07-06T16:20:00Z
+    webUrl: "https://www.straitstimes.com/world/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 46
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/SWITZERLAND-SCIENCE-COMPUTERS-ITU-AI-105057.jpg?VersionId=Mw9deeUvgnDmOBg7QFc9gmZ3Qw0RBaSa"
+        width: 860
+        height: 573
+        isCached: true
+  - title: "AI robots at UN reckon they could run the world better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-08T12:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-robots-at-un-reckon-they-could-run-the-world-better/articleshow/101598689.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
 
 secured: "crZAC8t5OPFocwicemTzsbTz1dBiQ8XixB0HACSl6SZo3kBqO9Ri7O2za89EvdF8ypWfb1dE9xEZbOzPK/N85KzayvoxroZOWrWyMs3mZOBv1OyDPO2LNjNwLUactwYXwng+URHY1xTMZLmL5QAiWN1kGgwsQDMXH3AkuJ2WyckVrJQVhgZmAWvmU3VdEAOF6BYenC2uWQNuhVg/+r9tfHzAbH5RFOBJgRnhFYLPMdrXXXqppOCrv50pKkMExbTi6FIKIEaY3zr4TdD6oNKLGJpFAOmvWMnrRhTJU5mOVGstxMgRtSwY86MgtpEbpOe1gPYK0d1fzVrz1tUH/BqkZsXtE64L/U+4TcNUs/icjJ54mhqus/DC45MEa7mGDDPZEplSU3yP7iceB3W4J5d1OStwSelpSMfrdSMr2VD1dGQcrTkmBBfpji8Dc5ApOkTDUyN0IpkuTlaGQ7wvdriHx54j8+6BcjbvYb6vcgBHD4AeZsog8dSBz3imtF6leFpxKOT4U7f/KXk71gqlP8Luzw==;mr/RQ2Xvn0fND0FDFCf2Iw=="
 ---

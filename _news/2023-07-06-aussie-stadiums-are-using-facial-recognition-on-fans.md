@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Army explores increase in facial recognition at gates"
-    excerpt: "Facial recognition cameras have been installed at Gate 10. According to Brian Reinwald, chief of physical security with the Garrison’s Directorate of Operations, these devices are part of a research and development program run by the Corps of Engineers and its contractors to evaluate new and upcoming access control technology."
-    publishedDateTime: 2023-07-05T07:00:00Z
-    webUrl: "https://www.theredstonerocket.com/military_scene/article_dd4fddec-1ada-11ee-a0c3-4bd43929d152.html"
+  - title: "Major Aussie stadiums using facial recognition technology"
+    excerpt: "S﻿ome of Australia's major stadiums are using controversial facial recognition technology often without spectators' knowledge or consent. Added an hour ago"
+    publishedDateTime: 2023-07-05T07:18:00Z
+    webUrl: "https://www.9news.com.au/videos/national/major-aussie-stadiums-using-facial-recognition-technology/cljpblpb2000o0jo2rxxaa0d3"
     type: article
     provider:
-      name: The Redstone Rocket
-      domain: theredstonerocket.com
+      name: Nine News Australia
+      domain: 9news.com.au
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/assets/v3/editorial/4/87/48791946-1acf-11ee-9c6a-e395f6b9fe12/64a4c09727461.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2023/07/520190/camera.png"
+        width: 1080
+        height: 607
         isCached: true
-  - title: "Local Realtor achieves national recognition"
-    excerpt: "Sandra Velazquez with NextHome Infinity Realty has been awarded the Accredited Buyer's Representative designation by the Real Estate Buyer's Agent Council of the National Association of Realtors."
-    publishedDateTime: 2023-07-05T16:35:00Z
-    webUrl: "https://elkodaily.com/news/local/local-realtor-achieves-national-recognition/article_0c4806d4-1b52-11ee-a45a-9bfbfda74278.html"
+  - title: "Big Tech: Meta launches its Twitter rival, Twitter limits user posts and sports stadium using facial recognition tech"
+    excerpt: "Mark Zuckerberg's Meta has launched Threads, a rival to Twitter, with the app seeking to draw users away from Elon Musk's embattled platform.  The release was brought forward by 15 hours and is now freely available in 100 countries – including Australia."
+    publishedDateTime: 2023-07-06T06:52:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/drive/big-tech-twitter-rival-facial-recognition-/102572324"
     type: article
     provider:
-      name: Elko Daily Free Press
-      domain: elkodaily.com
-    quality: 24
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 16
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/elkodaily.com/content/tncms/assets/v3/editorial/5/93/593342ba-1b52-11ee-ba3d-c722433b81af/64a59cbc787a5.image.jpg?crop=1000%2C525%2C0%2C78&resize=1000%2C525&order=crop%2Cresize"
-        width: 1000
-        height: 525
+      - url: "https://live-production.wcms.abc-cdn.net.au/856fa140f3fa9047032436204be8b4ed?impolicy=wcms_crop_resize&cropH=2228&cropW=3961&xPos=0&yPos=186&width=862&height=485"
+        width: 862
+        height: 485
         isCached: true
 
 secured: "gdIb01MqU2n9V/O5KJnteJeDGgrHnBIq9VU4NcBPNKoWezfvqxqZkx7/zpqiC0+HaOeqWVXgViBZeYOMxfWS8r+MwSgB+N/VbUZA5maRRzlSHyz2rYCPw7hVL/dgv6pWcLiFSyD2OLMCHRi++u9SThPf7OiFpxiwSpB/K0p2k3Y0b77sLSg2mxytHvFl4VsgK7Xsn8rzleUr7by9ec10ZHgdGCVKvpkmBf1EgQjCa2/UZMtg7g6OOEHRmuRusu59K1Hfgs61pbKEztpF/a1pncDtsx3F3PLdnd09Y26Y4rDZLDE5Gh+pQlFkaT08zOB1vidwgrmMsxu8U751DlI1Mq6yVA1IfC2/cL8Yl8+cxeLthAff72gYz6woDfmKTFMCQnDCVLtiIdB0qxXiKiHMmRkZ3iEVMxOiPFQ4Y4RwaXJv+jrKaWqKyNnrNfq1BiybGEgU671gBT+StYlFDrGVgAVKXYjoLU4Ock2LGf8OTa/7SDuEt7+Ysnq+wElpGsu3BnVVg0KNpnB5z0Gzufhbzg==;k0r0F8t4uAV1oIQL4TfhEg=="

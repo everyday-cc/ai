@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-07-facial-recognition-technology-ev
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-facial-recognition-technology-everywherehere-safer.amp"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1356
     height: 668
     isCached: true
+
+related:
+  - title: "Eyes everywhere: Police are requesting self-driving car footage for video evidence"
+    excerpt: "San Francisco police request driverless car footage from Waymo and Cruise to solve crimes from robberies to murders."
+    publishedDateTime: 2023-07-09T23:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/10/eyes-everywhere-police-are-requesting-self-driving-car-footage-for-video-evidence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 18
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/10/2168859.jpg"
+        width: 1240
+        height: 809
+        isCached: true
 
 secured: "1hQ0GUCeyFAIiEORr5GxXsqcGyZyuNT3MFrzT8P/YS4gCttGFK/jj2oOlRNoaWOLY6I0j+1Zwn7gm5OLPd203mlkKfbKUbicrOuHwNiOlHX+xFxQylf5cWxFRe8F0DTPOXbVHwrdWo+l5ydZT/j2xWa4vUbEDrEzDlXAD7TPZfP/G8tlEenzLKUfPtE5fDJP30D844DjSinzhPT9Vw4sFCnd+JedVWs0b77huWZSQg7VkNKWtMCH6GpfQSLa+dXVTXPWe1AKFU6bSnnwc6YXZ4qkuQB8PNrNRWW9m6h6Ma8lybFbpse/c4CtqePOHQaO3x+T6hLyPZkfMGodVHrVIAWOsAbDf/1iDw7H5M+0hSXwkEC/+djgImFQUDMClqCWJFcBu8oS0d25/qZigmBjClu4ROeMsZkzZdnA5DfP9YQUjwbLVQZe5LuAdqU2W27byCJSb0n4IvjKT6q2bZHzVHoylLoS2fM2MqaLIEsF/jw7fha6D9QehrPJ4At86mTHGyTYGk0pWSRIEUy0hWYSew==;6uBEiCufrpgOfD+ATP3FAA=="
 ---

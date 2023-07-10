@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/i-have-developed-ai-for-years-h
 webUrl: "https://www.thetimes.co.uk/article/i-have-developed-ai-for-years-here-s-what-we-really-should-worry-about-wszd6flh3"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "DeepMind Collaborates on Shaping Personality Traits in LLMs"
+    excerpt: "The recent advancement of Large language models (LLMs) has ushered in a significant leap forward in the development of conversational agent, demonstrating synthetic human personalities characteristic by distinct thought patterns,"
+    publishedDateTime: 2023-07-09T23:03:00Z
+    webUrl: "https://syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/"
+    ampWebUrl: "https://syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2023/07/image-10.png?resize=790%2C503&ssl=1"
+        width: 790
+        height: 503
+        isCached: true
 
 secured: "cTQXbDDxughOGlNQRMUmjDSdr9wwP6BdeNWsyNQ5nZH6ow2qrgWf8G8FGm6Zkv+5f60JkKnwCdL8t5JZFoPCR48s9L8slox4mLJAt7JgmVflboKUAPl7zgAVayYyXohkbtObdwouL6mMk2jKm4Vm+79WEDKv4JRccgOprqAtrqbufDeq5qRJI2JyKxTek+H+nF4410c1sh0qg5sXiFOiWktmMw5RzOS687LK89PoTuWzO9jxlj4ATi5+Xq8K3QHoULkNk7ncwM6SxsSyJ6YqKehTOg8/EqGu3OFcAiqkqrSaVdZkyx5Wt5MjwxBfbBt3YHlPJlS1Vb0NwBYwPWDIGa1urjbTiAqCFUl2yeatt483xzAYIimvj39DChCazme3nWpfj2PaFl916Z4l3DQnEs4EgGrOkJ0hWxSulMQOR44mkz2IAVl2Jz1MrXFxZi7P+QkgGTH34V09Zqsna4GKvWNGyRNeBpyG6NDnpwfUHyveVVQhKj1NbSSQi6K8rbQYPFFH/xboPhSGRhFoInU+dw==;1+xNeuIQN5HX7lu59i91sg=="
 ---

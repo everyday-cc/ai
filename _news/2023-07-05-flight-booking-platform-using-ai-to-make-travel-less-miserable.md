@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-book
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -53,22 +53,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Researchers are using AI to experiment with reading people’s minds"
-    excerpt: "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I."
-    publishedDateTime: 2023-07-05T05:06:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
-    ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
-    cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
-    type: article
-    provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
-    quality: 59
-    images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/NJvsMHuxNJEv04GUf3J8EMuo978=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JQY5XAAM25EJDK6NXBGHTSDLEM.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Startup Launches AI Model To Fight Business Phishing Attacks"
     excerpt: "A startup has created a solution to fight Business Email Compromise (BEC) attacks, a new phishing threat that targets company communications."
     publishedDateTime: 2023-07-05T10:28:00Z

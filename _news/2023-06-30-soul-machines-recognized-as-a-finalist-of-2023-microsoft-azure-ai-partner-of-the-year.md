@@ -2,19 +2,27 @@
 category: news
 title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
 excerpt: "SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award. Soul Machines ..."
-publishedDateTime: 2023-06-30T15:14:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230630ny47619/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230630ny47619/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year"
+publishedDateTime: 2023-06-30T15:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year"
+ampWebUrl: "https://www.benzinga.com/amp/content/33079784"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33079784"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "jWwcFxYGrNMNTnf/RDvnNBOKmIjHyFqrw+vshUY6vv9sWaK6Z6IgDX7aWk3yS12mKWCu3NtnpvcIay3vpnmnnLmEehhsEOcWfm8MXk0lRUJp6RJwI9fUiuHfAg5ge9jM4uSZlnj2GQ9nSmiHXkOhtp7/NMEZl2vGkYW5RGInKo1i7iAqw7VIsbNIwau+IaWVtzBOAU4MtdXzsde1/+y4SnCfO6mf+gh0a+DMyoPPPDzyZ+5om5OcCxneSSYqMnuTBfw5FyKH41SZyd6QBIW87gaHIbABx8leLN/wKzJfLho7iUEMqzxKaV5qHDcH3xHtXIvgBK/hR1koSgFiyWqfBP9QMhvJDnp5uVNgiPE74l8=;ZHOEV6nnWrfkZIfcR2I7Bg=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "ffKOFm0jKJtsJXAGbU9QRVlMUgnFrixMgXjY1RyAmCxaAc2yOUg2cLoEUtWfd6Em1J6ArOH7SNNpxcZM0pk0LhNhWeu/EldVgccKh2KHsWSM1tcdYdestU7hB7sOIS33UfXr03GcyqVKTtvzsaNAdbDk9jQq4a0xSgGoi4HDWBTJHwYB+Qvx8RFXisKNoLvE3FjE5sxD6O1RezdQbfZecHqp4ICxF2ekJEUAp0dTwVCRTS5OVyVtg+FPmQqRVxh7AfBwmiui0g8EWIC6PmLMwkq1CthRXpVU1/TzhkXI4ZsVHyY3XteF+DaSf+fnJzqS5hYeisvAUHxTC4umK2YGcg4olcGPKTFQkL1cKODqQ0I=;PRaJQEWlebYyqoFrAo4IxQ=="
 ---
 

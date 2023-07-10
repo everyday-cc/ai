@@ -57,22 +57,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Researchers are using AI to experiment with reading people’s minds"
-    excerpt: "Neuroscientists at the University of Texas in Austin said they’ve figured out how to translate brain activity using A.I."
-    publishedDateTime: 2023-07-05T05:06:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/"
-    ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
-    cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/04/researchers-are-using-ai-experiment-with-reading-peoples-minds/?outputType=amp"
-    type: article
-    provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
-    quality: 59
-    images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/NJvsMHuxNJEv04GUf3J8EMuo978=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JQY5XAAM25EJDK6NXBGHTSDLEM.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "Nm60XoaG5fOOskLXySv6o5fkCQh6v/DHE/6qquyWA81pQC8nYDWoVotthipFNSc7TIAC8Q0AHqo+JSOmyZum8WI+BdPhbyiR7Ihy6ukrBFWkhlSyUPugzf1Ix/Tk6ysWF01iNiUEqL0nUk/3287eyiFVJsSdbBwEvZ+RL9K11ov2f8eMVZlNs7NpUNaDWhaMwJnD1cqJ7WsrR/M0WL0KPulGrUaMxevBMgSIGKQlLI0GXJiaxAFsGyk3/5ByJm49eB4NWryRbx0Tr+rvcQk7+O1QlLgWmxvcnA1TBiSKUmtN4QtAF9WuhexUVt1+uvQARR9FsmnSk+lgvCLVo8kosvbivvsFqLI1e/rOLMby3Lt0svRcMXGunwk3YXitmsVETWUMLHPSNOFG93qWxldTegXR6M90A3yARxyQS0I739S4vxkWU5wSWROQETYUXbI4IFs1bUBGhymIt1rLnYyJje6ar1SCpGHAVcDvM9AtD+ksDeyQc3lwBzX2DdPher59bPKMAgDj1lRrQOn+pLaaWA==;88Vzzg+kYwj3BgjRcqdU3g=="
 ---

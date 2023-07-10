@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/node/1525829"
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 607
         height: 404
         isCached: true
-  - title: "AI summit showcases human-like robots to aid UN mission"
-    excerpt: "Dozens of humanoid-like robots will take center stage at the United Nations “AI For Good” Global Summit, showcasing how AI can be used to support human wellbeing."
-    publishedDateTime: 2023-07-05T21:20:00Z
-    webUrl: "https://cybernews.com/tech/united-nations-ai-summit-robots-human-wellbeing/"
-    type: article
-    provider:
-      name: cybernews
-      domain: cybernews.com
-    quality: 34
 
 secured: "MMluhh7yRu02/nIqwzSGHjyi1qAh1gUqM845/f/jo1xz/TX0uiKSIG4pLYfI6qKp81nFhm6IYeP9M2rXFDrRzPrrpg8+68N1GXDW/O4BQSRxokw375r2hIKMOhVoRlTmBgBA6O2SObF1zy36e12bQ4nyfQ6DK4ofV57408T0kCl6y3KwbRt6+2CgjTQRh6NvK0U41ef0PaSzIXlfOZ+OsM/cdRnw9GDeq4oI9ZUicJxpAFkySnd/bjw3XLN2c+k2UPEYVjEkWEP4cipdawmXKxk7co9T2szeDEQ71LmDvTPvxuxMW5zSlXuaH0yuUYTHM/6eSc6goPcmFx5G7Ma7QtQwxcjviuH7xEsAM2abmUU=;8nZE/vKVicypKBBOg+u5xw=="
 ---
