@@ -116,6 +116,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
+    excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
+    publishedDateTime: 2023-07-10T20:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "New and advanced AI tech debuted at WAIC, with diverse applications"
     excerpt: "This year's World Artificial Intelligence Conference is debuting a range of new AI tech, from driverless vehicle technology, new large language models, and practical software. Artificial intelligence innovations are making global debuts at the ongoing WAIC in Shanghai."
     publishedDateTime: 2023-07-07T20:03:00Z
@@ -156,6 +165,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 15
+  - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
+    excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
+    publishedDateTime: 2023-07-10T18:55:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/07/10/revert-technologies-ai-monitoring-for-energy-conservation/70399264007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 15
 
 secured: "gjkmrx5hkPOdQsXZMJNaJCPdWSE9UIA2pYPP52HSVNdE0yjmsV7kiH+XcGW82FsbM6zFabWE+DIh+q8t8MmEUttCiw8UUrauEy6OCV5OfR9MdbMg4Nqku2nWKtxVngZ2M22Ecy++qBNTab7pyS7dru4qRTVrWNpEFz1W9iwVuEGVFcPTdNyrr7Sh35dewbsLoVQ4p1YX7W/YgIZMmQcEgrdiAw/oupCNX04wSvYtgX/TxklXyaE6cYdGE4GMxDHt7YYHjz1ebd78D6oebdzi1U/RUwCj4jToGtZiKV5NwzXwZGiINVLs/gF94MAH0HOC04AYHoyhpnmNvEClcMcu//w8txrkLL+xkYY5Hl2+fvW+iCsb4nCYc62vhl8DSX5H1Wv+1oBZKFTPzpmHT9kY8DptC8cg/t9tLB+fuHCnTEA8UtC6+UmNA2YhG7jwKyRpy4yvLpsaGaRuo3VYMa1h9AAtfU3Y3TEBMfCEJxxriLv40w6u0gxXp19XuuFRgII0bpQpZtHzjJm1qwSiZccY+w==;2J0eSdEoVLvUfwF2Y8ktdg=="

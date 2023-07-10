@@ -59,38 +59,6 @@ related:
         width: 768
         height: 511
         isCached: true
-  - title: "Tesla self-driving cars to be ready 'later this year', predicts Musk"
-    excerpt: "Musk has missed his own deadlines for a fully autonomous vehicle -- and Tesla's driver-assistance technology has provoked regulatory probes in the United States."
-    publishedDateTime: 2023-07-06T03:54:00Z
-    webUrl: "https://ewn.co.za/2023/07/06/tesla-self-driving-cars-to-be-ready-later-this-year-predicts-musk"
-    ampWebUrl: "https://ewn.co.za/2023/07/06/tesla-self-driving-cars-to-be-ready-later-this-year-predicts-musk/amp"
-    cdnAmpWebUrl: "https://ewn-co-za.cdn.ampproject.org/c/s/ewn.co.za/2023/07/06/tesla-self-driving-cars-to-be-ready-later-this-year-predicts-musk/amp"
-    type: article
-    provider:
-      name: EWN Sport
-      domain: ewn.co.za
-    quality: 59
-    images:
-      - url: "http://cdn.primedia.co.za/primedia-broadcasting/image/upload/c_fill,h_437,w_700/mfaabzig8nlhmku99ioq"
-        width: 700
-        height: 437
-        isCached: true
-  - title: "Will Tesla achieve full self-driving technology this year? Elon Musk says…"
-    excerpt: "Elon Musk admitted that he had been wrong in previous predictions on this timeline, but added: \"I feel like we're closer to it than we ever have been.\""
-    publishedDateTime: 2023-07-06T04:04:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958.html"
-    ampWebUrl: "https://www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/tesla-full-self-driving-car-elon-musk-predicts-later-this-year-shanghai-conference-101688615008958-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/07/06/1600x900/FILES-US-AUTOMOBILE-EARNINGS-TESLA-0_1688615915407_1688615928897.jpg"
-        width: 1599
-        height: 900
-        isCached: true
   - title: "Elon Musk believes Tesla will have ‘level 4 or 5’ self-driving this year – what does that mean?"
     excerpt: "Elon Musk has again decided to share a timeline about Tesla’s self-driving effort – again claiming it will achieve"
     publishedDateTime: 2023-07-06T22:27:00Z

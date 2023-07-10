@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/struck-capitals-founder-discusses-his
 webUrl: "https://www.wsj.com/articles/struck-capitals-founder-discusses-his-foray-into-ai-investing-86190f0a"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Investing Craze Bypasses Canadian Stock Indexes, for Now"
+    excerpt: "The craze in artificial intelligence investing has bypassed Canadian equities markets and left its key index to chase higher-flying stocks in New York. Strategists in both countries think that will reverse in the second half of 2023."
+    publishedDateTime: 2023-07-10T17:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-10/ai-investing-craze-bypasses-canadian-stock-indexes-for-now"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Top 10 venture capital firms investing in fintech"
     excerpt: "With fintechs needing access to capital, we take a look at the top 10 VC firms that are investing money into the sector right now"
     publishedDateTime: 2023-07-06T15:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-a
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The Impact of AI on the Real Estate Market"
+    excerpt: "In their words, “that genie is out the bottle, and the only thing that will determine whether it will be good or ill will be the wishes we make.” But AI does not only serve the good; fraudsters will instruct AI to do their bidding as well,"
+    publishedDateTime: 2023-07-10T21:57:00Z
+    webUrl: "https://dsnews.com/news/07-10-2023/the-impact-of"
+    type: article
+    provider:
+      name: Default Servicing News
+      domain: dsnews.com
+    quality: 37
+    images:
+      - url: "https://dsnews.com/wp-content/uploads/2023/07/AdobeStock_602113162-620x330.jpeg"
+        width: 620
+        height: 330
+        isCached: true
 
 secured: "htvnMXuU9kgmyWNO8dR+gvjdeTI1PD2fLym4PUEmSN86uY3v3kuA42g3MROZStPvIqoCsHvwLcBjCP1yT483nQ6YZKxIFXNU54ZnagLnrgX0dPrxM36tQKieZGFKA+RI2sHHwezXmp9gYhMfddmtjEgBnOkMI/Rc4YfpW9zuCXvotfeb2z35q6KipOy7vFOvI5ZgNWJGpKK4ITE8Japd0mmNDGsM/KuaVennH2ZtgTmOAsXegt7IW1S843M+sSYwuSgE4KqbcnOnw9S4Xu1fCK+RVFTIG+NS3zetDwSnJqbpjsDyJS1ihLtSkBZCfFLOwF2AqjTnSe7N+uctX0reK4FXm6H01n89dXfyhvaV6gI=;U2m2gF6PVGh1WhZDhtgQTA=="
 ---

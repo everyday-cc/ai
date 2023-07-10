@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Sneak peek: Altamonte Springs shows off new self-driving shuttles (PHOTOS) (VIDEO)"
+    excerpt: "City leaders see the potential for more innovation and connection possibilities when Altamonte Springs launches its new autonomous shuttle service in two weeks. The joint $2.4 million, three-year pilot,"
+    publishedDateTime: 2023-07-10T19:02:00Z
+    webUrl: "https://www.bizjournals.com/orlando/news/2023/07/10/altamonte-springs-fdot-self-driving-shuttle.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
+
 secured: "rqPUDoz9wTQm8bLWUeLVijsVuvCZ252pWE81bryRX0ATLw+rOkve82oSZ37KoN3axH+U3YCrPZ/KQXe406Byu/7sOtqBhh8851RdYxtibtW3JyJVyDLHczbii+v5oVFRgBHD3zqE8TtI4qeQwltVrdAWYOWTt4BeApXHzGEoVJl4hjhOBikXIWbDDvGSs6R9y2hbuH07SURQFnjtCQ29PqpM5nWqxPJNMKLW7C9kHq4rjs2IYfiqx7BnGv3+p1x15YOCO0pbXAnseDzVkQpLVK5eB1C2St6ICqn/RcPdc9FDwvBTrps4Xc2TKWxGa09WJW53OONIDiwbm1N1BuvJ25lqKvVN2KBzsMxquC/NP7s=;NrnY07XaNSNVs2bPAHksRg=="
 ---
 

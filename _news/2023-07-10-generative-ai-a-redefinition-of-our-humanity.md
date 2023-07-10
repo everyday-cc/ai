@@ -3,13 +3,11 @@ category: news
 title: "Generative AI: A Redefinition of Our Humanity?"
 excerpt: "AI is raising questions about the future of jobs and the human-machine relationship. Proper use of AI and LLMs can greatly enhance our abilities and work efficiency. Critical thinking and intellectual emancipation are keys to maximizing AI potential."
 publishedDateTime: 2023-07-10T15:44:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202307/generative-ai-a-redefinition-of-our-humanity"
-webUrl: "https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202307/generative-ai-a-redefinition-of-our-humanity"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202307/generative-ai-a-redefinition-of-our-humanity?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-behavioral-science-hub/202307/generative-ai-a-redefinition-of-our-humanity?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-behavioral-science-hub/202307/generative-ai-a-redefinition-of-our-humanity"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-behavioral-science-hub/202307/generative-ai-a-redefinition-of-our-humanity"
 type: article
-quality: 59
-heat: 69
+quality: 21
+heat: -1
 published: false
 
 provider:
@@ -19,12 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/google-deepmind-LaKwLAmcnBc-unsplash.jpg?itok=eYEgvbRH"
-    width: 1528
-    height: 800
-    isCached: true
+  - Natural Language Processing
 
 related:
   - title: "Breast cancer detection, language learning, sustainability: Can AI help humanity?"
@@ -42,6 +35,6 @@ related:
         height: 675
         isCached: true
 
-secured: "pH/0nwA6iP5dg7u9BM3P6pX4fZEsK6p+gXe0jJpTK2rDiYq2Pr05b/+DrOzoHLS9HMfeUlmllhf9bdgUUTCuAsDVQTgN1zXhgZeEXwF4yHweuRvcUPgAuFmYozu9lJWjTdmZcUsG6Fi3JePJoodPJTCohT7oZPRu9PPGoItFXNPFl5cd20bO2GbkjTZvV8Y6aes0dSpOS26as8mTqfozIn5XpjL5lGtoTRoE7KH7X31yNgjomVnsx/VHG+9WtFZn4FX74BipSOkA6/pumK2obCsPZDEQqeQjSnfeB7uEZ04K4J/NNrJk06+2IO46tb+cSfNEDeSsrfvY5oum5lz0jXaMIwub0Q2973lHkPzf6/Y=;hTpMMC9kvgqtKDlDj3yIXw=="
+secured: "Wfc5ylbAPu77ott0hE/70L9w6QLHtE4wu17CKji3pl7rOerbRxMhvuA4HUMS3aWrgDUlnKbAdryEdgHhqWqoA9eDM1Y1UaFHkzEVZgfVrrjCMtrPICEPWOj2bxdD2ZZrBegcb5XVNqXHvQeMxs6Zpp7PH/+g2hIobSus4XhWPaQdT0Ga1tCKqhpmrXESPp/tlxN5yL6V1r/FrmAmBqRF+lsZVibJYAxbg2n8Vvv33vjvnU2kc2i9OJJbPLltHhQxKvy4A1aV83n5vdGwcpuBNOvxCrP+4NpVVCN0MLq43vhAYL1TB1D4mgMLkUuWPf6XRFdSlDiAnL1Su2q8fBnfnc3RGVuyD/inX6NRJTE9JTjWxnFFLRYvNs2ZWvWK2o7wbolyd4txFc+A3X2GDRlZLY8nXhVl4nHdy5flACaCcYAaFRQZe2yr2tXkmqvKHVvrPHbCWy6ZykpwMxyMveYET96pCGPMxSbXvKNPVp46sDwDG7KV4jbJeJS7JwUhoexLC0h95ik4+KQBGBVyLiM8RQ==;COBqLsD/N3vhhytdLSwZJA=="
 ---
 

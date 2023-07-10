@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 708
         isCached: true
+  - title: "How To Run Large AI Models On An Edge Device"
+    excerpt: "Large language models (LLMs) are a type of AI model that can be used for a variety of tasks, such as natural language processing (NLP) and machine translation. However, LLMs can be computationally expensive to train and run. There are several techniques ..."
+    publishedDateTime: 2023-07-10T20:19:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-ai-models-on-an-edge-device/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-ai-models-on-an-edge-device/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-ai-models-on-an-edge-device/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a6fd7cb1ebfd68d09b887b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "TCS to train 25,000 engineers on generative artificial intelligence tools"
     excerpt: "The Tata group company will also launch its new generative AI enterprise adoption offering on Microsoft Cloud, a move that will help customers \"jumpstart\" their generative AI journey."
     publishedDateTime: 2023-07-06T22:15:00Z

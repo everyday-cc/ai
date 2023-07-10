@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI Investing Craze Bypasses Canadian Stock Indexes, for Now"
+    excerpt: "The craze in artificial intelligence investing has bypassed Canadian equities markets and left its key index to chase higher-flying stocks in New York. Strategists in both countries think that will reverse in the second half of 2023."
+    publishedDateTime: 2023-07-10T17:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-10/ai-investing-craze-bypasses-canadian-stock-indexes-for-now"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "LTt0+U5yNX/mAuDUxWANo03rjCzt96eD1UgSdQc0NTs6cV1ZxN3MVKyqkIWegYSvjPDV5VlLXXRum5O7T/XxlK0HL5zzrnfQndS0o+LOFdHxcuQwo6cXnHQo0RgCoXgO+9O7Ign7FjCozbA9fUz6XPw1OBTyGFkSxhFH6CU1fE6Nt5ckLoLpuS+yFOuHDYb6JiPpt+RiuacgYY3JOZZtF9Kjl/BesYTs2zYLi5hbwc7uS8F3z2rz/aBN4tqhYoIXzKHP+/+y9y/Qm2NKCsQkB+y2mF6wee14oUBDlHG3KJdKCkXEAm2guW0R6OG9AFmR9ftmVMRyWozIDBH6DdOLxFsIUmk71gz8wBgKYLa9+z4=;ZCXQAq+XedEP0Z9xMNY1ng=="
 ---

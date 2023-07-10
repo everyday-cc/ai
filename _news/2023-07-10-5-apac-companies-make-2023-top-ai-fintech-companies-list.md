@@ -81,15 +81,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Provenir Shortlisted as Finalist for Asia Fintech Awards' LendTech of the Year"
-    excerpt: "Provenir, a global leader in data and AI-powered risk decisioning software, today announced that its Data and Decisioning Platform has been shortlisted as a finalist in the \"LendTech of the Year\" cate"
-    publishedDateTime: 2023-07-06T02:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/b33127343/provenir-shortlisted-as-finalist-for-asia-fintech-awards-lendtech-of-the-year"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "wwfS4Nsp4gbxPh5SBnPTfgmHnw83VwCe82QwAYxt9zR26t+NhtDUz+FSWHTEhfZ58gW2coaTgvktNYWw+4tvaFotE7lFzZ95VoNht98sN8lYYqdIL6AFVRLKr1V70jaRGSunF+uh+OUNr7/vISLTtlpFbdvhzLd1t+KPKNnCEJLTmU2KtKKp25zoJ6lk7a4xxNPISPVQdHAgK1Ms4Um0SGot7pcciy+iLiJF2IY9IQ1Cyjz1kzIHgFVq100JH7MdcHhwUufZ4hCA7SZ+EZe3OhvKhzEJxEjMFeVzwJeMXaVP3aSrl7hjcnaVl8hqlv4tCPk7Ta15ywiy93YBx5rijwSzqKyORAzWtnNB8WbKpIufWLHYzAvINsmmbtRFZ0PZgL5eSOCWUtiqC0JKJut3xRhY2jBwbTx0vhDpScj9EFSf5yh0zFEEhm/pm8ke6oOU+ShiET1PMCdkzHaEfsJmbJHGK5A5jGYcAyiBD6gpknjS276SBQYCa1oY8CQKXYF8SvUbi1tZ2MVPrqht1v2ZYw==;D+6830XVKcnc3LzajB/LRg=="
 ---

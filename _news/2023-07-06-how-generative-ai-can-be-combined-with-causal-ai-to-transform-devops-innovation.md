@@ -105,6 +105,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
+    excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
+    publishedDateTime: 2023-07-10T20:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Vecow and Solectrix Partner to Accelerate AI-based Vision Applications"
     excerpt: "Vecow Co., Ltd., a team of global embedded experts, announced its partnership with Solectrix, a German provider of high-end electronics solutions."
     publishedDateTime: 2023-07-06T22:43:00Z
@@ -159,6 +168,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 15
+  - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
+    excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
+    publishedDateTime: 2023-07-10T18:55:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/07/10/revert-technologies-ai-monitoring-for-energy-conservation/70399264007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 15
 
 secured: "rs2JYpsKwcPlOLYvL7oJMohnfvbY6GekP2KqFkUBQEAl/HKvzFG/BMC765ClGU34xneHRmjEsnci8RPec2igYEXPaOru2NobufBzGuLSt9ip2211f+CqqCCslZrFkT+lWZWlD2Ky/9wgII7KmaxGe7leb9WrvIpEX89g8DVkhbQ6NBg00AzaX7hSwlVIIq99exLMGS4aa4iEs5VuzxIurP186NKd3nd6u5VbU/9+n04GTArHvwVK7vs6/cYwLPnzS/FF1mKlXmId11BEumm0+fxCuEoMSRNhPW6wY62FZXr2E2Qp+zO98GEjxfOqoinc3jEu7ywAsTcPPlQrwvd0ypnwriwiyvdOxb3aBEncszs=;xC1V8pMIfU5sMR4si/0QrA=="

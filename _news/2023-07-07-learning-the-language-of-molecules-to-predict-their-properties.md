@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Learning the language of molecules to predict their properties"
-excerpt: "A new framework uses machine learning to simultaneously predict molecular properties and generate new molecules using only a small amount of data for training ..."
+excerpt: "A new MIT framework uses machine learning to simultaneously predict molecular properties and generate new molecules using only a small amount of data for training."
 publishedDateTime: 2023-07-07T00:00:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/07/230707153847.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/07/230707153847.htm"
+originalUrl: "https://www.eurekalert.org/news-releases/994929"
+webUrl: "https://www.eurekalert.org/news-releases/994929"
 type: article
-quality: 34
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
@@ -54,6 +50,6 @@ related:
         height: 217
         isCached: true
 
-secured: "ocg+R17S5XINCvmBDHQRfQDaOpSSMT3NjFH9d5tFC0KLRPJ2/OMUYiKWr9qxNhO29zgwU4NQkUWhDRpHgNRMYpYjCqzVujlgQ5u8P+IOJlV49z0EriPDJLkB4acqGl/k2EyCZq36l4wEDWDCmc3gKOKDKKKDacb/PuhNc3GJh8KEq/MkEYAv8ar0/yL3THDWwEzKxrapmZFKRAVKE/0I2NHCBER31Gps93aqHFN8S57O9ZesRDI1cLGzcX42+71Wa98wRNmcmdUpvftj9D5nNDXUrhP+UP1arVbY6KpPvSaaufKT8oqjFn7im3POIkrK8fbJ+l9dPVZ3+NgH7hUer39rJH4cj01MM3x9QGMVNqY=;DEFoABwpA702WioQjjuODg=="
+secured: "5BfYC4ijgUMKBF3MMsJatzSp0EdBARTyhzWj9z55pGmk5yR7xjJsRgG52f7cTL+tlSUggIk3KAF9z8Ei78aNKjt/XtLJqXA8KDlcX5poF1WNlVxyqDal0oQLW00CDaaivYQDjpTWbOITvUD1twE6dYlFhd8qoOthSCI6uV60xRB36zRvQ+mHNuBNsfELb1vXSymg19JlLCzmjaG6fHRlV2U9MB+ZaNSM4N32JU8yOZGAOKZaGFWIBldhkryJiZ1AfCtMfS/cKGRftI7UI0r8iP4bxiTSN0LgQVj8F3nAWdPgvYPIdxT/xyP0/X5F1mLUIv84uqbXq62fUkjp1JgVsGcZeFq4TDzApluDIB5Pt249bODUYycdSKntBwRFns0m/IJ2/ASl4MnoMuo3JsZXY7OKBNYrwsP09VK51foqO8RnqWb2h5kTgo0yx6Y7MSa1ZBZU44+bwCPAlmqAMSpSNfQp7fjlCR4EiOFwJidqswOWhP3PaYep/60Cl7HWh8rZ1l6FIxurV2w+nruo1FT3lQ==;PEXHLKNEI4ei8FMdNLbNkw=="
 ---
 

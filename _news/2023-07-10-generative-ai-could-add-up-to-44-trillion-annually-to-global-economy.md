@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-could-add-up-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 675
     isCached: true
 
-secured: "DxN9Z3dhw2q8+fYhs0/pchdO9hWml7yxoYXBXNakmDIRLak3C8AgCbgVR6BjF7ZkGrDjSluLlQ4YU67vC1bd+ux1CfBXAQcKDGXd4f61ez/MiEY6e/OIkqsIC2Z4JH9jpW7knuz7aRmEyCwq3KUCg2vjlMYrevz/E/8/E9GzC8nsOoaL2hmzcs+5ykVmT5Evivkp6ktQiN+LqAwnsxVF4mPuRlgaQQzV/oO7xVWW6lDdQgxfNozIOsxsle211dNVu2aSCiX93hRnPnxsQWk3R18TJ9flTKY9ROlSstkhbI50pAFJdWXMXy74PTyDYNgelB1K1FcTZQ/BxOGvnrBZqa2GZX92Iedsif6x4JYlJ5Y=;E4uapj1fyqE2dYn26rA4FA=="
+related:
+  - title: "Quantum generative AI startup raises $4.8M, documents show"
+    excerpt: "A Harvard University spinout raised approximately $4.8 million as part of a planned $20 million raise, a new regulatory document revealed."
+    publishedDateTime: 2023-07-10T18:26:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/07/10/quantum-startup-raises-4-8m-documents-show.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+
+secured: "INk0bJ6jsOcoHgeXgF02p+YawjJPeIrWcqYLaRrGG4gli3rtEOKoERhMxY2ZZmjuO3ROncnxrkJ2nDYCFMSiBbPTeXAqSvlhC2XX0qdJMjOl+TKpldqH2bZOJb7xeMe9rk/dKh9OElYZC9np5aaPogyg/M2SEcVs5AZx8XplijJVl01ORPnRYUqV2ekbsKynVKuxCH5H5mh1PVyeH5e0SFjX8BrUdQdeEKouHyfCnWmKjmzYZh7rVC4tZE2yZG8HIaKPJL0kgHQhFLPIBAgImdyByvQQ/yLWQX8eNaHOgOQ2dwECZZXPguKF7EEiVUz5Kyk4rr+C2qlrVgV0CPoArR3zjtmiks5WvGneRp7Wl9F00NlWRqgKckWl81MbJH3fIcMaNG+lUIuvoBmsCj8ksPv6omZOBN7s6xIfKFwqJ3v85w/G02RR2X9tuX6w42+x/iGIkmCR9jKV+dbb6f5BFkOWXCnqJC+iIAxy3p2m37yDdfItieJ9nY5NYH7Ya5Kp6YaUsjr3SXp1k5ouHVHypQ==;eo71jg72XSaoPZrm5PUJ5A=="
 ---
 

@@ -50,6 +50,15 @@ related:
         width: 1924
         height: 1604
         isCached: true
+  - title: "Machine Learning Takes Materials Modeling into New Era"
+    excerpt: "Their quantum mechanical interactions with one another and with atomic nuclei give rise to a multitude of phenomena observed in chemistry and materials science. Understanding and controlling the electronic structure of matter provides insights into the reactivity of molecules,"
+    publishedDateTime: 2023-07-10T19:39:00Z
+    webUrl: "https://www.labmanager.com/machine-learning-takes-materials-modeling-into-new-era-30559"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 19
 
 secured: "cE7Wt+Vqpldh6osJn+uCcIXskzn009HMTS1IBRO41U2XSDM8/YchjdGRFFvbaOZIinkKQehEo4U7WNNAgvy7h52B0YUev9VLAQkhkTVJaBwCkzdefVjTBqkqrSH7JwyRJtBb0J5RICSQQL+usHqGnA4iSAiVCAW7gh4V5BsXnVFjpREP5qJ9VlK/gqzTIG5pxPmVRtO9J3t1QKXBziJ/A1vZqmj9xWr0wolvlAzrW3qRLZz3whF7UE2F9YjhoMGhbiTS3uHpa1daYaA4Afut8itKZudn53NvYA6Xf0rqyBIi3eb05BVZwLO1PiJJ3dC+PORPeFBQyhx0NSB9sFpm5Z9cDdWxA/MSx8YBSihrrY5GWdy0/cCrxg8tzJC7feG9fgkC9MaxjNbPLm3jx4CbWjrNKlHo9lfjwmQGScMnBtK0bIIbvS7UjZBgBIT2tfpV33V4r1zpf+PcHfvb/nPdOAcugItQocGX8m3Ef1JFRu/UVJ1wANoWV3rQp77gI0O6QmBwwE82poscY+O3e6B63g==;RY4jOxe/SjzchvEi975uJA=="
 ---

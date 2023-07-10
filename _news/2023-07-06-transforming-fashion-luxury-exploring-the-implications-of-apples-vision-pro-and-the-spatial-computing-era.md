@@ -114,6 +114,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
+    excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
+    publishedDateTime: 2023-07-10T20:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Vecow and Solectrix Partner to Accelerate AI-based Vision Applications"
     excerpt: "Vecow Co., Ltd., a team of global embedded experts, announced its partnership with Solectrix, a German provider of high-end electronics solutions."
     publishedDateTime: 2023-07-06T22:43:00Z
@@ -160,6 +169,15 @@ related:
       name: Slator
       domain: slator.com
     quality: 16
+  - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
+    excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
+    publishedDateTime: 2023-07-10T18:55:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/07/10/revert-technologies-ai-monitoring-for-energy-conservation/70399264007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 15
 
 secured: "m3YRdVAvTErUputtmwUD7UvysSZA/u5HWatECJHXaHAaGynXNAQbU0KhLBYgg4fmeW9l4eGVh+0hJb99cI2WC46xXpqMGlTParqGYd1hUDSJX+iph/Vm+54wtpopnzIVEIuHKI2MjDOdmP3r7zEFMvvfFb6ZbJn/bxAO1UHvkNNClEmGZFj3+eVcxU53kw0Q0Z5i7F6EZ8mtnDByW30OcjjPB3zfwNBJPI+jsTOoyAfYHoCwGc3ClZCGiMLs2C4cxpNiV0ESmF9f1ze8KQN2PgpeLw72NGFYEtYJMiNTBlSHMaKT4EfCgFerC8gPyEuEMgX+91kEBRGWK7Ox7215BPlitfZx1kkJ0LzBYpEJcXM=;4Z9lIFKFE7ZyW1Ofm6Xu1A=="
 ---

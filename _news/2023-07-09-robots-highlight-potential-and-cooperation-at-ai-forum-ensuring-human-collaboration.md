@@ -102,6 +102,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
+    excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
+    publishedDateTime: 2023-07-10T20:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Vecow and Solectrix Partner to Accelerate AI-based Vision Applications"
     excerpt: "Vecow Co., Ltd., a team of global embedded experts, announced its partnership with Solectrix, a German provider of high-end electronics solutions."
     publishedDateTime: 2023-07-06T22:43:00Z
@@ -156,6 +165,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 15
+  - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
+    excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
+    publishedDateTime: 2023-07-10T18:55:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/07/10/revert-technologies-ai-monitoring-for-energy-conservation/70399264007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 15
 
 secured: "ywLh2BWXuaYko1vl15s6MwRoIk5pviJtVW8qQAm++QAb4DWJBo1DJ+NmaFlxUL8dLgiio1TM0muzXO8Y7O41cNaW47eTTPjVQYQqKycP77s4G6XiEfMY+jNvdOpnZEdzBBqwcs/caNEDI10DHFaiwlQTu2G0/nvvJfVwyvBVz8VoDQja4U4RGPMyUh6lPBBCtWxihT+nz6h+ccsVaRuxxFfGIUC3u8vZW0qeJ4i6XqSiANnMxJfryfZrT9zUYw9fhasvU/dQVa2xeJq+bgk4HdMfwuCWDde+IkWPd1nHOQjFg4Wg3QHoXZG5k0q4hZsjsbZXh8LFIkQeYriL/g0gQlDQ4C3gynMTROqva2tTPT4=;3pDBQx2wx2hi0Kpww18EHw=="

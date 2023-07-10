@@ -23,17 +23,6 @@ images:
     height: 845
     isCached: true
 
-related:
-  - title: "UNIDO and Huawei Launch the Global Alliance on Artificial Intelligence for Industry and Manufacturing (AIM Global) at World AI Conference in Shanghai"
-    excerpt: "UNIDO, Huawei, and other partners officially launched on 6 July 2023 the “Global Alliance on Artificial Intelligence for Industry and Manufacturing” (AIM Global). Led by UNIDO, AIM Global will integrate public and private partners to foster the use of and innovation around AI in industry and manufacturing."
-    publishedDateTime: 2023-07-10T11:21:00Z
-    webUrl: "https://www.afp.com/en/news/1312/unido-and-huawei-launch-global-alliance-artificial-intelligence-industry-and-manufacturing-aim-global-world-ai-conference-shanghai-202307095453401"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 0
-
 secured: "odOWd7K6M5RRDDyUmYSCZjampb4zZVP0h6USpLUKarEtFV8ugXs2fHKjFxU+qQ+1i1JZ+nHMe6FtCnl+otvlDPSJdOahWJPhOVjc66eWkUHoHsxLfWsDOO26i8CUyj6A2gHKcXds5oTHXW/eQxr1BoCStdwgYdUvnBZMQzt9Cgk96vXGVLFO4WtRN3opyfcOGKCZHmDNmRXYH5B6PIlCJdkEjv1vYYR5bDvN1eReXLEYZvPMmS0ElRdEq+1YNOrDJZN4SzRPGdaAMKbA+Lgp3qlpceoPAPyMYLqZjJv7gL8OyjYGyrt+BBQxyfVJV2O6RpmerKdCtKjCWOA2LR2dx+5ke7ETz+gw42T3qLpcr9A=;Y0xg62vpD3B59i/NAQpoJw=="
 ---
 

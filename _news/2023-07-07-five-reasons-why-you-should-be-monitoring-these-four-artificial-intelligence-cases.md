@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Should I Use Generative AI for Hiring?"
+    excerpt: "Generative AI like ChatGPT can enhance, not replace, human decision-making like any other hiring tool, according to industry experts."
+    publishedDateTime: 2023-07-10T18:05:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-artificial-intelligence-for-hiring/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 47
   - title: "Enterprise hits and misses - generative AI wants to take your job, but will it? Edge computing has traction, and (almost) nobody likes Meta's Threads"
     excerpt: "This week - generative AI is coming for your job - or is it? Fresh data sharpens the enterprise AI pursuit. Informed Buyers look for new sources of influence, while edge computing may have more customer attention than AI."
     publishedDateTime: 2023-07-10T09:32:00Z
@@ -68,6 +77,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 15
+  - title: "Generative AI revolution: Here’s where theCUBE analysts see the tech going next"
+    excerpt: "But with summer tech events season in full gear, examples of AI integration today are around virtually every corner. A year full of hype kicked off with a massive amount of attention and buzz around OpenAI LP’s ChatGPT setting a record with an estimated 100 million monthly active users in January,"
+    publishedDateTime: 2023-07-10T18:24:00Z
+    webUrl: "https://siliconangle.com/2023/07/10/generative-ai-revolution-heres-thecube-analysts-see-tech-going-next-generativeai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 13
 
 secured: "MUFe73LOxwA8dqHFtSjQBqmTRYLpuKa3J1dCU8mnlM0M380jx6z7dj1GuLStgwGuGuGFhPjjn4Walros0ta4xFc5hGjkDXZyonRgG6EFvh4ni4Poyf7atsnfyh1jztyVMGqOyzbRQ8AVdz2Y9PB4qMSIK8W1HCKz+UsoPnugSyWFBG+ZofG5KptDjUI2sheGLiRBXE9lyQZ813m8j6DG2T+mSXqDmO1ee/hg4OPg08TgFTPOVaqA39CpplcC7XkbBNNbE+4UPTkuCdyrEye984FyfwLgMrBKIkEe5+1mzhVrwXcD6zpe1/JY3L70N6lotGvlFdI/VA+xj6uQgXXEvAk0oD3WLTbhDXEZ6fl42Gs=;L40kbMwJjDbC0CHnp0Nnyg=="
 ---

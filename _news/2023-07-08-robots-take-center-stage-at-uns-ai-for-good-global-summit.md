@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/07/08/exp-un-ai-summit-rob
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Never underestimate a droid: robots gather at AI for Good summit in Geneva"
-    excerpt: "Ai-da, Desdemona, Nadine and Geminoid join world’s largest gathering of humanoids to promote AI as force for good"
-    publishedDateTime: 2023-07-06T04:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/06/humanoid-robots-gather-ai-summit-geneva?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/06/humanoid-robots-gather-ai-summit-geneva"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/06/humanoid-robots-gather-ai-summit-geneva"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/bec848c1214aa396d509d813b5cc68f94518d09a/382_532_4315_2588/master/4315.jpg?width=620&quality=85&auto=format&fit=max&s=f95c57c57c2e16d2ff7c5f56e91b918c"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "B2sRnWos4raKz5Rx954ctjD5S0ttT4KAjSI4IlQnKcRD2DIkHI3dB1C0SFHtFebEdxkhoer0NknLORZf4cpOnor7Dj+eQFnSO0U+ikd95Lz6afZnyPUCfjtyOnZ2KSvBPHT3FhIr0pLrfPtjIM/Qv2uG1SwucALmqewK1MYRN70OzH1GUv9wJLt/ETb6xN9Smsz6V+JtA8b8gIpja1GEpHHkJpxLC7hikfAQHL+alUxnsqvqoikUUcOucVjkxpFCy0XX38Thj7qTHc9mWt52N7aZ8tihcqh252NCGUkRHzhtFCusNY8VL59uCDnFhhmsnmUp6Fk2uH6DNWsK1oVGtwWNyJHi5+gi8BClahc6aEc=;bR5PmXatyd1F5cSD/eqCbg=="
 ---

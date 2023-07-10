@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Primer and Carahsoft Partner to Provide AI and Natural Language Processing Applications to the Public Sector"
-excerpt: "Primer, The Trusted AI Partner for Government Agencies, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today"
-publishedDateTime: 2023-06-27T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/g33028786/primer-and-carahsoft-partner-to-provide-ai-and-natural-language-processing-applications-to-the-pub"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/g33028786/primer-and-carahsoft-partner-to-provide-ai-and-natural-language-processing-applications-to-the-pub"
-ampWebUrl: "https://www.benzinga.com/amp/content/33028786"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33028786"
+excerpt: "Primer, The Trusted AI Partner for Government Agencies, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider ®, today announced a partnership. Under the agreement, Carahsoft will serve as Primer’s Master Government Aggregator ®,"
+publishedDateTime: 2023-06-27T16:08:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9840066.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840066.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "IjJBtc4BLQyJiKTNw3KC6n+3QgWHG6GS+HlN11VXkBe4kEbZeiBoUhd1Xht6A7w3hzQ3MzZsY2Wh2TruYd4wdfRE8ouNgd/jEvYMQWgP6mna5ag5Q/2k3D+7cbl96Efq/DzobeuX7bxcN8NcOjHR+BYjaCaSAkFqmK0DAAaPBTQWgb/SFAysRe0HzEK091UP3gyRMlrce4hxEw7K98Y9p5vgCOphWLpViUckXnyOkPF3CbJclYFjqLR1/uVbVZyID0OAEC6rXGWZ3HnVuVqFOOOZjp42ocuDLBesxhTtW0NaXb2GSAGiF13z6CcpedGPRAnPz3V9h4HGJ3H3mu+L3wVoXy5jwLnM4dGLtd4lhas=;IWsfFU9vd0z8oYy+j0k7NA=="
+secured: "a/ALg7+LWU3N7071eIioO7xKq3h4b2zH+yy8J4MgwWPXCVsP2Gb4KG5ZobyR0w9lXH4TGM78MDdet6xj2+/C74Np+8tUvZQ/avnOHW9pBB9G3hBUYu1FhOr6n1xb9CLYIa6yFHMlRI+0ssutBfiB/W54TMfEUYIu/4F8Atk5FgrMHXLCZRUoJ1KTINnWcJfU0DdGJbDCmXzD5nK59c0pCIMj9PfGxGO6Ku/rfTdCYK+CVcXN2pz/hTtR/T+XprMa7ramhE8q4uOF99HU0Cw8U7FMAmbOWfzVkdkBifTdig/3QhvqnQsi1CqPnLSVafL2/JLd99eLpX/S3QwOdrjnoIk9z7M0r1g4liaK6na11Q0=;9nPBAmw8Ps853GZe8QSzeg=="
 ---
 

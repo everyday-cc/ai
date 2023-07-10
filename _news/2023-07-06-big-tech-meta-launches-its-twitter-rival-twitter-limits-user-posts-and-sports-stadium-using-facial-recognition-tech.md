@@ -7,7 +7,7 @@ originalUrl: "https://www.abc.net.au/radionational/programs/drive/big-tech-twitt
 webUrl: "https://www.abc.net.au/radionational/programs/drive/big-tech-twitter-rival-facial-recognition-/102572324"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 862
     height: 485
     isCached: true
-
-related:
-  - title: "Aussie stadiums are using facial recognition on fans"
-    excerpt: "Four of Australia’s largest sports stadiums are using facial recognition cameras to identify and track event attendees without their knowledge, according to a new investigation that found Australian venues have joined a growing and controversial overseas trend."
-    publishedDateTime: 2023-07-06T01:57:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/aussie-stadiums-are-using-facial-recognition-on-fans.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/mcg-facial-recognition.jpg"
-        width: 1162
-        height: 653
-        isCached: true
 
 secured: "IOfJyUoZQgRx3TvmRtVY3kiP0B3ayQobYznsJJZHLQ7XbssdRiBUJwLE8Z+G+EsdM52VynfHsg7KrSefIWfehZEIUaiGaeGdc0lEo4pjEWx8Kc5F6b/ee4RIds2UyUlMccCpcX7c03iEclAkDLx5rE1tD9SVuEKGPSiNKfMddsuOxEReLcVMJjaRE7CpwRr1KP/5i4MiTKWMoF7MvhSC593qlx6RLCP7K1I6r8rDmLSLIqfsnT/PIEK5tXlKI00XIY0ZoeBqfdheeRsa120avEAftvoQ45BnB8BmpASAWbNrewmA8fXA2n3Hg9YLrAXR1TgZJFPOIvGKIb2AAXOA0lNwNh38+tsZLKywPgxvgHSCr8ebztBMNKMW/7gpuuEGX+hOFcCK6QdnmS9HtXxSjmvRfBwWQPHG2fqdRYGG8lKZ+/1K22AKQ1PuQ77uJb3L2LqF195yUD1PHT88Np51w8R3eLTLQjgnCZ/RwZHR0ZIvPKn0UEYhZCga3VLN8yhebcFYz46e/wowuZQT1y0L+g==;4YSx8hNx3TEirDsqoL97yg=="
 ---

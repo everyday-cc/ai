@@ -110,6 +110,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
+    excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
+    publishedDateTime: 2023-07-10T20:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Vecow and Solectrix Partner to Accelerate AI-based Vision Applications"
     excerpt: "Vecow Co., Ltd., a team of global embedded experts, announced its partnership with Solectrix, a German provider of high-end electronics solutions."
     publishedDateTime: 2023-07-06T22:43:00Z
@@ -155,6 +164,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 15
+  - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
+    excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
+    publishedDateTime: 2023-07-10T18:55:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/07/10/revert-technologies-ai-monitoring-for-energy-conservation/70399264007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 15
 
 secured: "V5EsfGxiUx9ihrXwldCJFJxJDsyBkyCPiZuSSzDw7VoKzBTUVgID9ukAzRlX9IOzeG8MEPFAgEfdWssEgDkm6lriAVFZVMdSPNPGSM2Fe5Q0YotjVhcwDQswV9Hz+DWwgg6uH7BvJ9Yr/zgQEDGZ+wkk48wKxjMJgpTLNvBm5y/WdN7llFChM3gQ7iLKJMopxq9oCpRWh4utr5PZ58Yx1fUKmAkNv7GuCAt4Vj12ff1mmLzmDLWNeHj1jMkmWo1CRNBtNuJMmW8bHTBX7hquR4YMl0QHjnjA0RODRNEPcaC8BTLDcrH5Jve+h/hvKVdxZzyt61QmM3TkWqhBBJgfTthzMGQ2QfBl9DQ9TIx5BbBlAitUJh8pEnZyVO9mLdujlElXrWMWTzhuj0f9P3DsJ4HfvroUUjNIrFt5f4uITON7OKiMby+1loQB52c1a1HuDW/KaDfwd5GtRVSiXbDkNk0hqQvzko0X+x4+bMlf98VujzW1aNNJkhzJMXsn93tJVTutXWqWJiPJseUelq7BqA==;W8sLmhBOVhZTp06DJo7sxw=="

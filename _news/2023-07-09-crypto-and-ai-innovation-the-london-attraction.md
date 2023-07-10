@@ -104,6 +104,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
+    excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
+    publishedDateTime: 2023-07-10T20:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Vecow and Solectrix Partner to Accelerate AI-based Vision Applications"
     excerpt: "Vecow Co., Ltd., a team of global embedded experts, announced its partnership with Solectrix, a German provider of high-end electronics solutions."
     publishedDateTime: 2023-07-06T22:43:00Z
@@ -158,6 +167,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 15
+  - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
+    excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
+    publishedDateTime: 2023-07-10T18:55:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/07/10/revert-technologies-ai-monitoring-for-energy-conservation/70399264007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 15
 
 secured: "YRJIXixxbkmhDLdhwDl14/FQC6Ku5CoA9ruqyPCmYWXmQMzTI2nx+fLNaUyDafEgRKH3fzMLwd9gdYanOurrZThKsv11KbcqVpWtWKhfro7UC0PD7yWpi4xZJoH49Oa8OwNXeIT2hwD6jCRNR6gXxLKR6PHZKkqPd/q62Npl9mXo2aVt2fP8SCOprGyv6nnZ/hzv6Wqdy4yGo5rJliMaYRyczpwgIKrnqt5aYrQz/TP9Bjsgxz3DZ+RWTN7sB3dV1Z/mZ2lumeyg1fKPrEY42blRLLcbwMKx5NkirVxTRl35xubDT4KOGOiHFTSTlagi0A0q82ome093CrO10h2qNWaGBcF297LJtXztquO9+WSki+2fwPYUXn03V/wPz9/kBG8ahQ09mpKpiZgt/KCcCcmd4jgpbIbBRR4fj4rjr87grJ/sF0wZBc8Z447T/28ZVLbX1TdA/p84qTSQlgPOW7IhXX1H4/e9CXpDdBsmQG/kDdInyHI7b2ohWjZZAzBG+X3aAo5XQkNdl9K3oegfKw==;erZXsO/gpdjvK4JzUPo07g=="

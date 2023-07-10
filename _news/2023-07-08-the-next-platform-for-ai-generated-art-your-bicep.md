@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Should I Use Generative AI for Hiring?"
+    excerpt: "Generative AI like ChatGPT can enhance, not replace, human decision-making like any other hiring tool, according to industry experts."
+    publishedDateTime: 2023-07-10T18:05:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-artificial-intelligence-for-hiring/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 47
   - title: "Enterprise hits and misses - generative AI wants to take your job, but will it? Edge computing has traction, and (almost) nobody likes Meta's Threads"
     excerpt: "This week - generative AI is coming for your job - or is it? Fresh data sharpens the enterprise AI pursuit. Informed Buyers look for new sources of influence, while edge computing may have more customer attention than AI."
     publishedDateTime: 2023-07-10T09:32:00Z
@@ -60,6 +69,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 15
+  - title: "Generative AI revolution: Here’s where theCUBE analysts see the tech going next"
+    excerpt: "But with summer tech events season in full gear, examples of AI integration today are around virtually every corner. A year full of hype kicked off with a massive amount of attention and buzz around OpenAI LP’s ChatGPT setting a record with an estimated 100 million monthly active users in January,"
+    publishedDateTime: 2023-07-10T18:24:00Z
+    webUrl: "https://siliconangle.com/2023/07/10/generative-ai-revolution-heres-thecube-analysts-see-tech-going-next-generativeai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 13
   - title: "Five Reasons Why You Should be Monitoring These Four Artificial Intelligence Cases"
     excerpt: "The first wave of litigation involving generative AI and/or machine learning is well under way. There are (at least) five reasons why you should be monitoring four significant ongoing cases that involve artificial intelligence-related platforms and issues."
     publishedDateTime: 2023-07-07T13:21:00Z
