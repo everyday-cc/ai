@@ -83,15 +83,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "How Generative AI is Reshaping Observability Solutions"
-    excerpt: "New Relic, a US-based analytics company announced New Relic Grok, the world’s first generative AI assistant for observability."
-    publishedDateTime: 2023-07-05T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-observability-solutions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "JEE0h6mjLVu/xJ9JVqPQdXW00Y6dnVKQXQPp2Bq/ZbeUE+1Ruyl5jF5JI+qTlmsHKOvFzpGiIl1AV/z3wRd24prgWS9tA1KM2lII9La1szJd+Dxwwh01hHorOD0ahvGH2XY4imi6RdpAvHC8xdYfU325A7APqNKvrItP9fRWTS58b32jmDIvMc7O1wappzwujgvnoMRYlnVT5n5XQ8Kd8VdKuipQu/Iwm5/Cjkx8Fs0tHovIJu779TpmazYCe58AXXYVFrj9v0TjcvL/N+uG2wAznz+KIOeCZYTGGtkEnYXYfDszrGXVwGR5+saqeRqlDB/FX8+j3Ljx+vvBBTVD++nGoZZBX674z0Ch5bnvVp8=;b17a7pkYJs6iCjccvW41Eg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/rear-window/michael-chaney-pays-a-price-for-vo
 webUrl: "https://www.afr.com/rear-window/michael-chaney-pays-a-price-for-voice-advocacy-20230709-p5dmu7"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Michaelia Cash is wrong on Voice to Parliament rights claim, experts say"
+    excerpt: "The Voice is 'based on a particular person's race and they will have rights that no one else in Australia has', Senator Cash claimed. This is false."
+    publishedDateTime: 2023-07-10T05:16:00Z
+    webUrl: "https://www.crikey.com.au/2023/07/10/michaelia-cash-voice-to-parliament-fact-check/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 38
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2023/07/20221215001742705308-original-copy.jpg"
+        width: 1480
+        height: 800
+        isCached: true
 
 secured: "QrA8hyA3YrGLVvGsEbVoDhjVwstg2AZGr4iIZih3iFyi8cjIawvGsOXCfkwjJhgMaj5AyqKbulHBBJv7NKiargqWPquTUE743QjJwmbSaYxVCVaeFbMlnLImGWZzCnMbt92xRHoueBTg7h14elf6pkfeULMP4F0m4ijDBGILHGRMzqzx1TAhb1uv4kx69TaXjRfoJ+igDclHJpLEjUDMbQ8pXqAhbvTV2m7k28PzQlvnQg4Y4Owvxi9SCvf+3auQDqq1nC0qvjKG7yd1mDGpS5h2Z22vziR2VcGMDDA+9/lC0XiMEJDymssNWzUzLWhXSG2HB0cS+bssJptMttxY4f7ERnTWqDlhuSt118uwXfbt9nMgwsxxeOF52SjA7GMGpJA8j0+PqEzeEepwR27HsLFJvMeBmYLny5XEo4uWMiqdWYccYO0ruG/BGvPowBixBtnYXf2A1ePtTcT2aB3D0glG612l6Doyeb47eBGV0qrM+xrRuNrbD32fYcCc502E4c5KD73M8aTRwm7MbXkQSg==;6AKKQ0VuJ/Z/BPrK94AZog=="
 ---

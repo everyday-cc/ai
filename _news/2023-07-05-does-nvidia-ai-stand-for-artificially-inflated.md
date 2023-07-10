@@ -7,7 +7,7 @@ originalUrl: "https://www.baystreet.ca/stockstowatch/15544/Does-Nvidia-AI-Stand-
 webUrl: "https://www.baystreet.ca/stockstowatch/15544/Does-Nvidia-AI-Stand-for-Artificially-Inflated"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Snowflake A Buy Following AI Deal With Nvidia?"
-    excerpt: "Snowflake stock has gained about 27% year-to-date, underperforming the Nasdaq-100, which remains up by about 37%."
-    publishedDateTime: 2023-07-05T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/07/05/is-snowflake-a-buy-following-ai-deal-with-nvidia/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Intel, NVIDIA to Collaborate on Confidential Computing for AI Workloads"
     excerpt: "Chip rivals Intel and NVIDIA have joined in a “coopetition” collaboration for Confidential Computing solutions targeting AI workloads. At the recent Confidential Computing Summit in San Francisco, Intel said it working with NVIDIA to offer “attestation” services for NVIDIA H100 GPUs via Intel Trust Domain Extensions and Intel’s upcoming cloud-based trust service,"
     publishedDateTime: 2023-07-07T17:04:00Z

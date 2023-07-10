@@ -144,15 +144,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Railtown AI's Commercial AI Solutions Achieve Microsoft Co-Sell Ready Status"
-    excerpt: "This milestone signifies that Railtown AI has met Microsoft's criteria for co-selling, fostering collaboration and visibility within the Microsoft ecosystem. This status enables Railtown AI to drive deeper collaboration and go-to-market momentum as the Company works with Microsoft's 7,"
-    publishedDateTime: 2023-07-05T13:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ais-commercial-ai-solutions-achieve-microsoft-cosell-ready-status-1032427100"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
   - title: "Microsoft's 10 biggest healthcare moves of 2023"
     excerpt: "Microsoft continues to make strides in the healthcare industry, from partnering with Epic Systems to collaborating with hospitals and health systems."
     publishedDateTime: 2023-07-07T14:33:00Z

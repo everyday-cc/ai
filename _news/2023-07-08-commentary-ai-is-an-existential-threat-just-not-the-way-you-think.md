@@ -63,15 +63,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "AI is an existential threat – just not the way you think"
-    excerpt: "From open letters to congressional testimony, some AI leaders have stoked fears that the technology is a direct threat to humanity. The reality is less dramatic but perhaps more insidious."
-    publishedDateTime: 2023-07-05T12:24:00Z
-    webUrl: "https://theconversation.com/ai-is-an-existential-threat-just-not-the-way-you-think-207680"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 19
   - title: "Guest opinion: Nir Eisikovits: AI is an existential threat – just not the way you think"
     excerpt: "AI is not going to blow up the world. But there is an existential danger inherent in using AI. That risk, though, is existential in the philosophical rather than apocalyptic sense. AI in its"
     publishedDateTime: 2023-07-09T12:00:00Z

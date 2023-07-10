@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "TCS to scale up its Azure open AI expertise; plans to train 25,000 engineers"
+    excerpt: "Using this framework, TCS and client teams would be able to jointly ideate on AI-led solutions to their business problems, develop proofs of concept on Azure Open AI, create solution roadmaps, gather stakeholder feedback,"
+    publishedDateTime: 2023-07-06T09:43:00Z
+    webUrl: "https://www.cnbctv18.com/business/companies/tcs-to-scale-up-its-azure-open-ai-expertise-plans-to-train-25000-engineers-17137981.htm"
+    ampWebUrl: "https://www.cnbctv18.com/business/companies/tcs-to-scale-up-its-azure-open-ai-expertise-plans-to-train-25000-engineers-17137981.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/tcs-to-scale-up-its-azure-open-ai-expertise-plans-to-train-25000-engineers-17137981.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 71
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/11/TCS.jpg"
+        width: 884
+        height: 663
+        isCached: true
   - title: "TCS to Train 25,000 Engineers on Azure Open AI"
     excerpt: "TCS on Thursday announced plans to significantly scale its Azure Open AI expertise and plans to get 25,000 associates trained and certified on Azure Open AI to help clients accelerate their adoption of this powerful new technology."
     publishedDateTime: 2023-07-06T08:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/ai-is-an-existential
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "AI is an existential threat – just not the way you think"
-    excerpt: "From open letters to congressional testimony, some AI leaders have stoked fears that the technology is a direct threat to humanity. The reality is less dramatic but perhaps more insidious."
-    publishedDateTime: 2023-07-05T12:24:00Z
-    webUrl: "https://theconversation.com/ai-is-an-existential-threat-just-not-the-way-you-think-207680"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 19
   - title: "Commentary: AI is an existential threat – just not the way you think"
     excerpt: "The rise of ChatGPT and similar artificial intelligence systems has been accompanied by a sharp increase in anxiety about AI. For the past few months, executives and AI safety researchers"
     publishedDateTime: 2023-07-07T21:00:00Z

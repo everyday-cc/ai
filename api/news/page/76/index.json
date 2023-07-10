@@ -2,6 +2,248 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-05-19-meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer.md",
+      "title": "Meta bets big on AI with custom chips — and a supercomputer",
+      "excerpt": "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
+      "originalUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
+      "publishedDateTime": "2023-05-18T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-adopting-artificial-intelligence-things-leaders-need-to-know.md",
+      "title": "Adopting Artificial Intelligence: Things Leaders Need to Know",
+      "excerpt": "Artificial intelligence (AI ... from movie recommendations to self-driving cars, and are expected to have a major impact on businesses in the coming years. Software leaders should be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/05/AI-leaders-need-know/",
+      "originalUrl": "https://www.infoq.com/news/2023/05/AI-leaders-need-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/05/AI-leaders-need-know/en/headerimage/adopting-artificial-intelligenc-things-leaders-need-to-know-header-1684308986874.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-stability-ai-open-sources-its-ai-powered-design-studio.md",
+      "title": "Stability AI open sources its AI-powered design studio",
+      "excerpt": "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/",
+      "originalUrl": "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/",
+      "publishedDateTime": "2023-05-18T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-robotics-awarded-first-patent-for-its-robotic-window-cleaning-system.md",
+      "title": "Robotics awarded first patent for its robotic window-cleaning system",
+      "excerpt": "Skyline Robotics, developers of OZMO, the world’s first high-rise window-cleaning robot, today announced the company has received its first patent for its robotic window-cleaning system. The patent, awarded by Singapore,",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/",
+      "originalUrl": "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/skyline-patent-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus.md",
+      "title": "Nvidia, AMD, Micron lead chip sector higher with AI, Japan in focus",
+      "excerpt": "Shares in Nvdia Corp , Advanced Micro Devices and Micron Technology on Thursday provided the biggest boosts to the chip sector, which outperformed the broader market as investors looked for ways to invest in artificial intelligence and in Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO",
+      "originalUrl": "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/MSbbwGzXoN4m5_yDKbUTrwFQOMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows.md",
       "title": "Yellow AI launches YellowG, a generative AI platform for automation workflows",
       "excerpt": "Conversational AI platform Yellow AI announced the release of YellowG, a next-gen conversational artificial intelligence (AI) platform designed specifically for automation technology. Leveraging the capabilities of generative AI and enterprise GPT,",
@@ -947,211 +1189,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-will-artificial-intelligence-be-able-to-prepare-our-tax-returns.md",
-      "title": "Will Artificial Intelligence Be Able to Prepare Our Tax Returns?",
-      "excerpt": "In case you’ve somehow missed the flurry of articles describing the dramatic advance of artificial intelligence, we appear to be at the dawn of",
-      "sourceUrl": null,
-      "webUrl": "https://www.taxpolicycenter.org/taxvox/will-artificial-intelligence-be-able-prepare-our-tax-returns",
-      "originalUrl": "https://www.taxpolicycenter.org/taxvox/will-artificial-intelligence-be-able-prepare-our-tax-returns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tax Policy Center",
-        "domain": "taxpolicycenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-vultr-and-domino-data-lab-partner-to-reduce-ai-time-to-value-amid-surging-gpu-demand.md",
-      "title": "Vultr and Domino Data Lab Partner to Reduce AI Time-to-Value Amid Surging GPU Demand",
-      "excerpt": "\"Customers seeking AI-driven competitive advantage must grapple with staggering GPU demand and cost pressures,\" said Nick Elprin, CEO and co-founder at Domino Data Lab. \"Our integration with Vultr ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230518005226/en/Vultr-and-Domino-Data-Lab-Partner-to-Reduce-AI-Time-to-Value-Amid-Surging-GPU-Demand/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230518005226/en/Vultr-and-Domino-Data-Lab-Partner-to-Reduce-AI-Time-to-Value-Amid-Surging-GPU-Demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-rapid-ai-adoption-could-cause-medical-errors-patient-harm-who-warns-urging-oversight.md",
-      "title": "Rapid AI adoption could cause medical errors, patient harm, WHO warns, urging oversight",
-      "excerpt": "The World Health Organization is warning that the “meteoric” rise of artificial intelligence tools in healthcare threatens the safety of patients if caution is not exercised. Because of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcaredive.com/news/WHO-artificial-intelligence-AI-caution/650538/",
-      "originalUrl": "https://www.healthcaredive.com/news/WHO-artificial-intelligence-AI-caution/650538/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcaredive.com/imgproxy/oP6cwgcir90QLwRrImv-Wze2VyQDH_juBDMgN1dj5yg/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNjU1MzQ4MDIuanBn.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Dive",
-        "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-trump-supporters-and-christians-are-the-most-worried-that-ai-is-an-existential-threat-to-humanity-poll-says.md",
-      "title": "Trump supporters and Christians are the most worried that AI is an existential threat to humanity, poll says",
-      "excerpt": "Respondents who voted for Donald Trump for the 2020 presidency and identify as Evangelical Christians were most concerned about AI's potential risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5",
-      "originalUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6466409b7224930019f364bc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-supporters-christians-most-concerned-ai-threat-humanity-poll-2023-5?amp",
-      "publishedDateTime": "2023-05-18T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-ai-risks-the-need-to-define-ai-ethics-and-rules.md",
-      "title": "AI Risks: The Need to Define AI Ethics and Rules",
-      "excerpt": "While tech industry veterans are concerned about AI and its potential risk, it raises the question of whether to ban AI or enforce ethical restrictions.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/",
-      "originalUrl": "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-Risks-The-Need-to-Define-AI-Ethics-and-Rules.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/amp/",
-      "publishedDateTime": "2023-05-18T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

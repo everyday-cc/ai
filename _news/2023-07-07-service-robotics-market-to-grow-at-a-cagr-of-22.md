@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33142292"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33142292"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Autonomous Vehicles Market Size is expected to grow at a CAGR of 8.7% between 2023 and 2033"
+    excerpt: "In 2023, the autonomous vehicles market size is expected to be worth US$ 30,539.0 million. The revenue from sales of autonomous vehicles is anticipated to reach around 70,331.5 million by 2033, growing at a CAGR of 8."
+    publishedDateTime: 2023-07-10T05:09:00Z
+    webUrl: "https://www.fmiblog.com/2023/07/10/autonomous-vehicles-market-size-is-expected-to-grow-at-a-cagr-of-8-7-between-2023-and-2033/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 14
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/07/Ferrovanadium.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
     excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"

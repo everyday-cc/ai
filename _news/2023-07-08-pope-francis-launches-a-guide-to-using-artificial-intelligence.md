@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launche
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Week
@@ -27,36 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Pope Francis Takes a Stand on AI: Vatican Releases AI Ethics Handbook"
-    excerpt: "The Vatican has delved into artificial intelligence (AI) ethics by releasing an extensive handbook. The Pope Francis-founded Institute for Technology, Ethics, and Culture (ITEC) and the Markkula ..."
-    publishedDateTime: 2023-07-05T11:27:00Z
-    webUrl: "https://www.techtimes.com/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293157/20230628/pope-francis-takes-stand-ai-vatican-releases-ethics-handbook.htm"
+  - title: "Miami Mayor Francis Suarez launches an AI chatbot for his presidential campaign"
+    excerpt: "A super PAC supporting Miami Mayor Francis Suarez's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
+    publishedDateTime: 2023-07-05T21:17:00Z
+    webUrl: "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
+    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 74
+      name: CBS News
+      domain: cbsnews.com
+    quality: 53
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430554/pope-francis-takes-a-stand-on-ai-vatican-releases-ai-ethics-handbook.jpg"
-        width: 1024
-        height: 683
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/19/24495736-37dd-4d3b-9103-abfc805dffc9/thumbnail/1200x630/a6c44b98546d47942b5410043736db42/b-ptz-suarez-interv-wfor7ne7.jpg?v=46148a329842187f630d57e5930d74c4"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI: Academic integrity vs artificial intelligence"
-    excerpt: "Frederick Luis Aldama, an English and radio-television-film professor, intends to radically adopt AI into class activities and encourages students to embrace its possibilities while accepting its risks to academic integrity."
-    publishedDateTime: 2023-07-07T03:05:00Z
-    webUrl: "https://thedailytexan.com/2023/07/06/ai-academic-integrity-vs-artificial-intelligence/"
+  - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
+    excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"
+    publishedDateTime: 2023-07-06T11:29:00Z
+    webUrl: "https://floridapolitics.com/archives/621977-francis-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
     type: article
     provider:
-      name: Daily Texan
-      domain: thedailytexan.com
-    quality: 52
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 43
     images:
-      - url: "https://thedailytexan.com/wp-content/uploads/2023/07/022423_cydrios_Catherina_AI-web.png"
-        width: 1800
-        height: 1200
+      - url: "https://floridapolitics.com/wp-content/uploads/2022/10/220894-1-florida-politics-digital-ads-solar-300x500-1.jpg"
+        width: 300
+        height: 500
         isCached: true
+  - title: "San Francisco group placing traffic cones on self-driving cars to disable them"
+    excerpt: "The Safe Street Rebels, known for advocating for pedestrian safety and public transit usage, are calling their protest the \"Week of Cone.\""
+    publishedDateTime: 2023-07-08T19:31:00Z
+    webUrl: "https://abc7.com/san-francisco-driverless-car-cones-sf-robotaxi-waymo-cruise/13478843/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 0
 
 secured: "gipxT86njbY20WhF/P0CJmjPYIVtm1lwgtQNwW2wEyReG4XiciZ76RUqe3b+PnwK1YoC7id+MijKK6fVILADKYBLPzcsNj0doOKd03Du4jv1yiTTjov7uo1o/F8pVldiiI1D22mVEKXSqicSyNp6mf2c2R3DmTmnAA7hucyOI5a5nvV0A7rOzBBEILW7EpXNNuAeq6pXr+eQyZW6G8EAHkoscxHhJn7aQWKqh+fn++TlC7NdjJuuBD8xWKmDeaKANeE6p6rsckc4vLLdLQJrhTK6tmssipe4HpAPH5MW03HK7rHHQfI20yx/jbEt/cesEuXqWdQMY+4Lt1fNPDYukrONegM5CH1bE0tUyx/OaYBZPmC9o0legFbrjAneoUpjVvOvs9KtCAy5FBHnWjl7ZoDg6V9+GF45l3lUMOY2ve3sere2/N19nlnUeeMQwiQovka4Fytj/tR52t3m3Bk/mV8Cf4Wz5ByQgxsjQQp02ykPYbEhMQe8e3Z3lchGyf7ueKiCBQ3XfqyGrt0rn7/ctA==;VriLgOgdtZsJO+acUdv+bQ=="
 ---

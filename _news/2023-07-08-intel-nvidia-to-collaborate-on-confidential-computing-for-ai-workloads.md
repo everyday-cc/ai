@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Snowflake A Buy Following AI Deal With Nvidia?"
-    excerpt: "Snowflake stock has gained about 27% year-to-date, underperforming the Nasdaq-100, which remains up by about 37%."
-    publishedDateTime: 2023-07-05T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/07/05/is-snowflake-a-buy-following-ai-deal-with-nvidia/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Does Nvidia AI Stand for Artificially Inflated?"
     excerpt: "When Nvidia (NVDA) rallied to $400, it briefly fell below that only to continue its climb. The GPU server supplier expects billions of dollars in revenue in the next quarter alone. Is AI a real long-term growth play or does AI stand for artificially"
     publishedDateTime: 2023-07-05T13:30:00Z

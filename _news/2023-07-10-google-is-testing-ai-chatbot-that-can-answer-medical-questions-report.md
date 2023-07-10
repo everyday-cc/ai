@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-th
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-that-can-answer-medical-questions-report/amp_articleshow/101618423.cms"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 44
-  - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"
-    publishedDateTime: 2023-07-06T11:29:00Z
-    webUrl: "https://floridapolitics.com/archives/621977-francis-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 43
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2022/10/220894-1-florida-politics-digital-ads-solar-300x500-1.jpg"
-        width: 300
-        height: 500
-        isCached: true
 
 secured: "QHz3Yb5MQu2hiXOQLm/VHjfCzPPRY7QStjqmdnyFT1jj/91WWV6mxZkbldS7F4yqIet+hBLMMhQ/SAHMX09xkwpQWpFXOvOwtIrCzyaseWfjRZR62oBG5lsyNnHJzHXnfgXxQrcl319ccL8vi3HkKm0Nyji0K3PpuiAJQzbUziF+z7aThc8YvPCmshQZpwav/0Te4JxNzycALCZM2WkBvv6KwwnMErt9RbRC43YXdlJQWEx0leyjoXBl0NiwDAz7X9OwOKkjuZWjwdCdDHrhdUAJrIrtw1gvn0lquGFg4obzv/dJtBQF90P0x6KcfWrcHvliwGt5y3/ecYJcjPhgfpe92yEZsZCLJDuKXiSKNRU=;BGWPPkTE6IvumZSm0mKFvw=="
 ---

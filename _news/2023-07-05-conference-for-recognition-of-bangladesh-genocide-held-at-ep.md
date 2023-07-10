@@ -28,15 +28,6 @@ related:
       name: Daily Sun
       domain: daily-sun.com
     quality: 4
-  - title: "A cause whose time has come: Conference for recognition of 1971 Bangladesh Genocide held at European Parliament"
-    excerpt: "State Minister for Foreign Affairs Md Shahriar Alam on Wednesday tweeted the article, titled “A cause whose time has come: Recognition of the 1971 Bangladesh Genocide.” The attempt by the Pakistan military to destroy Bengalis as a people during Bangladesh’s war for independence was recognised,"
-    publishedDateTime: 2023-07-05T13:01:00Z
-    webUrl: "https://www.daily-sun.com/post/698357/A-cause-whose-time-has-come:-Conference-for-recognition-of-1971-Bangladesh-Genocide-held-at-European-Parliament"
-    type: article
-    provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 0
 
 secured: "MfCrzRz6ns39Rkb+oZoGg/Yz/vbabt56mwV3sB2bWTpZ48f+L09XWk+WTAUkWmtcA7v2iiS4FTTLVWGEhs3cz3CmpIhVs8zkWEIgrWy4zOj+F3coj/86hn95BxhFQcitxsl4mh7+oPwnIppBmKJEy5ThB/hZtki+N5JQhwNLJSqeml5r1OnNKUoM1cvtROdlFSteXcwqIi+WGkqR4m+0QY80krCCayrk/5NJaM8Ahn83FoszVN4tSdeqi5OR5I71WGUOj+0tzyZeFMUJu0ygvVCD0Bl/hxyqDlE72cp+rZbHU/9d9xrajC8s44DhLyVw0nseDb7X4Tt7/eiB+3MMWaRBl1R7Mu2Apmu+DaRY0PE=;5XWo30+Y+hgDuZRSvQyjRw=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-10-tsmc-sales-ride-ai-demand-boost-to-beat-estimates.md",
+      "title": "TSMC Sales Ride AI Demand Boost to Beat Estimates",
+      "excerpt": "Taiwan Semiconductor Manufacturing Co. reported better-than-expected sales on a boom in artificial intelligence applications demanding more of the industry-leading firm’s chipmaking capacity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-10/tsmc-sales-ride-ai-demand-boost-to-beat-estimates",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-10/tsmc-sales-ride-ai-demand-boost-to-beat-estimates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/infUtLfy5t1A/v0/1200x787.jpg",
+          "width": 1200,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-09T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-google-is-testing-ai-chatbot-that-can-answer-medical-questions-report.md",
       "title": "Google is testing AI chatbot that can answer medical questions: Report",
       "excerpt": "Med-PaLM 2 has been in testing at the Mayo Clinic research hospital – a non-profit organisation based in the US, among others, since April. The report noted that Google believes the LLM will be useful in places where there is “limited access to doctors”.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-that-can-answer-medical-questions-report/articleshow/101618423.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -41,6 +93,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-kmc-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters.md",
+      "title": "KMC to collect and store 'facial recognition' details of employees posted in headquarters",
+      "excerpt": "All employees have to stop in front of camera for few seconds while entering office and attendance will be marked",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
+      "originalUrl": "https://www.telegraphindia.com/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/Jun/1687569435_kmc.gif",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
+      "publishedDateTime": "2023-07-09T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -96,7 +191,7 @@
       "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -192,7 +287,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -295,7 +390,7 @@
       "originalUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -623,7 +718,7 @@
       "originalUrl": "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1046,21 +1141,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-08-human-looking-robots-take-questions-at-a-geneva-news-conference.md",
-      "title": "Human-looking robots take questions at a Geneva news conference",
-      "excerpt": "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters.",
+      "path": "_news/2023-07-08-pope-francis-launches-a-guide-to-using-artificial-intelligence.md",
+      "title": "Pope Francis launches a guide to using artificial intelligence",
+      "excerpt": "There are more and more voices that are warning about the use and consequences of artificial intelligence. They are often the voices of tech entrepreneurs like Elon Musk or the experts involved in their development.",
       "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "originalUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "webUrl": "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html",
+      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/Pope-Francis-arrives-for-his-weekly-general-audience-in-St.-Peters-Square-ap.jpg",
+          "width": 760,
+          "height": 443,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1068,56 +1163,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "publishedDateTime": "2023-07-07T15:42:00-07:00",
+      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html",
+      "publishedDateTime": "2023-07-07T22:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-the-best-games-that-let-you-kill-robots-and-ai-powered-monsters.md",
-      "title": "The Best Games That Let You Kill Robots And AI-Powered Monsters",
-      "excerpt": "These AI-powered artificial monsters are often depicted as mindless machines focused entirely on killing, destroying, or following orders which often involve more killing and destroying. For a long time,",
-      "sourceUrl": null,
-      "webUrl": "https://kotaku.com/video-game-ai-robots-earthbound-mass-effect-destiny-1850616943",
-      "originalUrl": "https://kotaku.com/video-game-ai-robots-earthbound-mass-effect-destiny-1850616943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/daa3ddbd5be9992d1fc749949bb1269b.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kotaku",
-        "domain": "kotaku.com",
+        "name": "The Week",
+        "domain": "theweek.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1128,59 +1180,7 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-aws-exec-generative-ai-can-create-a-flywheel-effect-for-business-growth.md",
-      "title": "AWS Exec: Generative AI can create a flywheel effect for business growth",
-      "excerpt": "Matt Wood of AWS shares insights with VentureBeat on how generative AI can create a flywheel effect for business growth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/",
-      "originalUrl": "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_Color_photo_of_a_server_room_filled_with_racks_of_se_2607795c-93c9-486d-8345-65765efe0615.png?w=1200&strip=all",
-          "width": 1059,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
+        "AI Ethics"
       ]
     }
   ],

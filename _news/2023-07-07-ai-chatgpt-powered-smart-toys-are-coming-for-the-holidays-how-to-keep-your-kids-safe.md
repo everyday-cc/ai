@@ -153,15 +153,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "ChatGPT: Elevating Natural Language Processing With AI"
-    excerpt: "Introduction With the advent of artificial intelligence (AI), several groundbreaking advancements have been made, and OpenAI’s ChatGPT stands testament to this fact. This cutting-edge language model is upending the field of natural language processing (NLP) with its superior text-generation capabilities."
-    publishedDateTime: 2023-07-05T12:29:00Z
-    webUrl: "https://techbullion.com/chatgpt-elevating-natural-language-processing-with-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
   - title: "Everyday Use of AI and ChatGPT in Oncology Practice"
     excerpt: "Bonilla, MD, MSEd, discussed the growing use of artificial intelligence (AI) in oncology practices. Loaiza-Bonilla is a medical oncologist and cofounder of Massive Bio, a company that uses AI to connect oncologists and patients with cancer to clinical trials of novel treatments."
     publishedDateTime: 2023-07-05T13:46:00Z

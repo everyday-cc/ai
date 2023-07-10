@@ -65,20 +65,6 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 44
-  - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"
-    publishedDateTime: 2023-07-06T11:29:00Z
-    webUrl: "https://floridapolitics.com/archives/621977-francis-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 43
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2022/10/220894-1-florida-politics-digital-ads-solar-300x500-1.jpg"
-        width: 300
-        height: 500
-        isCached: true
 
 secured: "0XMbvu5axWF6knLIvx+yvIr0NHQefkdZAf3sxONrm5bTHRp+arkU4ZCHl/EsD/vd2sAacjnLPU6tRUyTNrO9fKVidCbi1fjeQSBqiOzr/u6xTKeLtkwXXyYd4TwkC5Rwk03gENeHZ708+aGGIOzfjc0dyl63E2FqVYnX/TezzJ+9SXVKDT8KUhh2NHGL2I3TFIL6v/SdhI2mAU0VWQzbsNGVsevvz5C/W+Cp3dq8fUahv1dTRYooZy4OtLJQIAHeAAjZJ7n/qRW+JNFiAX/5XDJ4gFKza/HFXWMAVoOPd9qaUCzbKpJ4nd142bcdnyuV1F4Qrf9fdN9DGmYTDGo0omgIwk7B0OHgWV4cWPbvexc=;6aDcM2zn42SrOCTa55tljg=="
 ---

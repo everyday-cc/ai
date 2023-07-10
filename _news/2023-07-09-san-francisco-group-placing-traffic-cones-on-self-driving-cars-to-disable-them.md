@@ -7,7 +7,7 @@ originalUrl: "https://abc7.com/san-francisco-driverless-car-cones-sf-robotaxi-wa
 webUrl: "https://abc7.com/san-francisco-driverless-car-cones-sf-robotaxi-waymo-cruise/13478843/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,54 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Pope Francis launches a guide to using artificial intelligence"
+    excerpt: "There are more and more voices that are warning about the use and consequences of artificial intelligence. They are often the voices of tech entrepreneurs like Elon Musk or the experts involved in their development."
+    publishedDateTime: 2023-07-08T05:42:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/Pope-Francis-arrives-for-his-weekly-general-audience-in-St.-Peters-Square-ap.jpg"
+        width: 760
+        height: 443
+        isCached: true
+  - title: "Miami Mayor Francis Suarez launches an AI chatbot for his presidential campaign"
+    excerpt: "A super PAC supporting Miami Mayor Francis Suarez's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
+    publishedDateTime: 2023-07-05T21:17:00Z
+    webUrl: "https://www.cbsnews.com/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
+    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign-3/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 53
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/19/24495736-37dd-4d3b-9103-abfc805dffc9/thumbnail/1200x630/a6c44b98546d47942b5410043736db42/b-ptz-suarez-interv-wfor7ne7.jpg?v=46148a329842187f630d57e5930d74c4"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
+    excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"
+    publishedDateTime: 2023-07-06T11:29:00Z
+    webUrl: "https://floridapolitics.com/archives/621977-francis-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 43
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2022/10/220894-1-florida-politics-digital-ads-solar-300x500-1.jpg"
+        width: 300
+        height: 500
+        isCached: true
 
 secured: "wCpPWtG8gwKYcezsPQksm8vek+q5KCOHDK+THA/rVfkdTtNU3kKDh59lRU/aVBU7tQfYt2rdkKAn6v03a017zzXho7QTzd8eZoR4cQNgSyiIlWiIWI0D+7IpMR5ioz0AlOyCLp6HhHdAs0vLGy4lq3aDYSeF8sUbbVAimLE2YEpWDSbYDQA9ZAoO7X9Dcj1+9fF/EIp+RndaIeCOqJg1ff5uhkxqCYUOT1oZNkliQGA7EFMHtS2txSFjbWhHJc0UKTDjq6SmVLK1HYSbCdw/KwzQqq1gfvvFO3g0SlfudeLRGFnObt+ObRjIDzh296O0WyFn4+1AmSE8VoHoNidftMKWp1KG5a6v0mR15B18IxYE/m170UJ2NmJdDodFYkZR5Cqnnx3J16/rGpaELbm+sxHx4AW4qyegVHK6+kxirTbHlU1AvxbnJUecQ2h4nJJKma5qrbS+xSvL8QIlKBaVvbBl//j9i+YYn7HLELQF4o6mFVsnf/RaU1inSlCpummvt/AXVQGEjr8RD8CHnLCgDg==;cUPy9iCVRDAtuiYWBIaR2w=="
 ---

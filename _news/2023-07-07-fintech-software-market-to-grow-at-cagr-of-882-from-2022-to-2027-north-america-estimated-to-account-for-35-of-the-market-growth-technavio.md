@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Autonomous Vehicles Market Size is expected to grow at a CAGR of 8.7% between 2023 and 2033"
+    excerpt: "In 2023, the autonomous vehicles market size is expected to be worth US$ 30,539.0 million. The revenue from sales of autonomous vehicles is anticipated to reach around 70,331.5 million by 2033, growing at a CAGR of 8."
+    publishedDateTime: 2023-07-10T05:09:00Z
+    webUrl: "https://www.fmiblog.com/2023/07/10/autonomous-vehicles-market-size-is-expected-to-grow-at-a-cagr-of-8-7-between-2023-and-2033/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 14
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/07/Ferrovanadium.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "ASGdm+92+Q0vEjQwPddYqkZKnyBDOx9/fz88jcvVfAaY/Qka4IfkxcUjw0pVKGMYnjWJK3m9NZsbl8lwHkZB49wOks5kfAtvLFMjPvkOThRO33y1VCVgzeOXPVQonG7XEgrFDSrL9RhWmWw328UvsNuzVL9a5Oo23No0z1FK9hHzZcODbU7DlwDp0FzukhFoLff9IlCFgzxD6NU9P3n6ZzInXHmwEAAeZnripMVxeFSjqmBECQmae0chOQOOXURxL30hW8Im16MINkP5fyVv49NV/9k7oNDfYsG4qgE/zCb8nRJe8sMQgx2yLi0vzo2BLjApgyxJz71U3aMqs1yqk71nVH2TgQLzC+Lg/SU8GfWmSUOvkS0rBncWM0k7PxukpzzdgFVzApKzOJTAgV6e7Ak2E1pEbqLGpooWrycLwteiwDmHCQRhULb2tEqWasY05h46wRw/m0I7dBT1Xt0psMDu0BgnJ7eV8HKJNVam6qAttUXq9znk4WCdknw5qnQ05v6hiGuOe3uefHyVjhqoHA==;dBI6l2szahAr3bQ+o67G/A=="
 ---
