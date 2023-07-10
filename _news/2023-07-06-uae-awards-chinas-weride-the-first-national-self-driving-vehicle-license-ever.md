@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/07/uae-awards-chinas-weride-the-first
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/uae-awards-chinas-weride-the-first-national-self-driving-vehicle-license-ever/amp/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "This country just gave the green light for self-driving vehicles on its roads"
-    excerpt: "The United Arab Emirates granted China's WeRide a nationwide license to operate its autonomous robotaxis, buses, vans, and sweepers on its roads."
-    publishedDateTime: 2023-07-05T14:30:00Z
-    webUrl: "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-country-just-gave-green-light-self-driving-vehicles-uae-2023-7?amp"
+  - title: "WeRide given national licence for self-driving cars in UAE"
+    excerpt: "He said: “We approved the first national license for self-driving vehicles on the country’s roads, which was granted to the specialised WeRide company.” Earlier this year, Sheikh Mohammed bin Rashid announced new laws to cover the issue of self ..."
+    publishedDateTime: 2023-07-07T09:53:00Z
+    webUrl: "https://www.just-auto.com/news/weride-given-national-licence-for-self-driving-cars-in-uae/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
     images:
-      - url: "https://i.insider.com/64a580c16075be0019c2acdc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/07/WeRideDubai.jpg"
+        width: 602
+        height: 334
         isCached: true
   - title: "UAE awards China’s WeRide first license to operate self-driving cars"
     excerpt: "The UAE permit will allow the Guangzhou-based driving technology company to test its level 4 human-free and fully autonomous vehicles on public roads throughout the emirates."

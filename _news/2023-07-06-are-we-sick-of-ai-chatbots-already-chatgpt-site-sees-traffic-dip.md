@@ -156,15 +156,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Everyday Use of AI and ChatGPT in Oncology Practice"
-    excerpt: "Bonilla, MD, MSEd, discussed the growing use of artificial intelligence (AI) in oncology practices. Loaiza-Bonilla is a medical oncologist and cofounder of Massive Bio, a company that uses AI to connect oncologists and patients with cancer to clinical trials of novel treatments."
-    publishedDateTime: 2023-07-05T13:46:00Z
-    webUrl: "https://www.targetedonc.com/view/everyday-use-of-ai-and-chatgpt-in-oncology-practice"
-    type: article
-    provider:
-      name: Targeted Oncology
-      domain: targetedonc.com
-    quality: 19
   - title: "LARGEST CHATGPT PLUGIN STORE DEVELOPER, MIXERBOX, TRANSFORMS THE FUTURE OF NAVIGATION WITH WORLD'S FIRST AI CHATBOT FOR MAPS"
     excerpt: "Silicon Valley-based AI startup MixerBox, the largest developer in the ChatGPT Plugin Store, has released a Beta version of the company's latest plugin— MixerBox ChatMap —with built-in Google Maps API integration to transform navigation for the age of AI."
     publishedDateTime: 2023-07-05T15:59:00Z

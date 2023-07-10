@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Web3Go DIN: Creating AI-Native Digital Assets, Redefining Production Relations with Blockchain"
-    excerpt: "Web3Go is set to revolutionize the production relations paradigm by leveraging the power of blockchain technology to address the ownership verification challenges of AI-native digital assets, thereby enabling creators to assert their ownership rights."
-    publishedDateTime: 2023-07-05T13:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/05/9843507.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://api.blockchainwire.io/uploads/MKdigiworld/editor_image/812d4a23-f7e8-4171-b1b8-2f3ff99a2648.png"
-        width: 512
-        height: 268
-        isCached: true
   - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
     excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
     publishedDateTime: 2023-07-07T12:26:00Z

@@ -55,19 +55,19 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Congress wants to regulate AI. Big Tech is eager to help"
-    excerpt: "Members of Congress want to regulate artificial intelligence, and Big Tech is watching — and lobbying. Senate Majority Leader Charles E. Schumer (D-N.Y.) launched a major push on AI regulation late last month,"
-    publishedDateTime: 2023-07-05T15:00:00Z
-    webUrl: "https://www.aol.com/news/congress-wants-regulate-ai-big-120041224.html"
+  - title: "Building the AI Talent Pipeline"
+    excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
+    publishedDateTime: 2023-07-07T04:45:00Z
+    webUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 41
     images:
-      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/68dc6cd933ab8846393767699e51281d"
-        width: 840
-        height: 560
+      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"
+        width: 480
+        height: 320
         isCached: true
   - title: "How China is sharpening ethics rules for scientific research"
     excerpt: "In late 2018, news of the world's first gene-edited babies sent shock waves across the scientific community, resulting in almost-universal condemnation for the Chinese scientist behind the experiment that broke ethical norms."

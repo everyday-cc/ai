@@ -26,115 +26,64 @@ images:
     isCached: true
 
 related:
-  - title: "Rethinking Workload Placement In The Age Of Generative AI"
-    excerpt: "How organizations build, tune and run AI means the difference between gaining a competitive edge or losing one. Here are our tips."
-    publishedDateTime: 2023-07-05T14:39:00Z
-    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
+  - title: "How AI is reshaping the rules of business"
+    excerpt: "How teams can keep employees engaged in the AI-accelerated transformation of their careers and businesses amid pending regulation"
+    publishedDateTime: 2023-07-09T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-business/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649cb761c029eedc5ae45c84/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Does Generative AI herald the end of an era or the start of a new chapter in marketing?"
-    excerpt: "Despite concerns about job losses and potential changes in the marketing industry, generative AI is a great asset for the marketing team, rather than a threat. Generative AI presents unparalleled opportunities to accelerate creativity,"
-    publishedDateTime: 2023-07-10T03:17:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+  - title: "Why Big Tech Wants to Help Congress Regulate AI"
+    excerpt: "Tech interests, especially OpenAI, the nonprofit that created ChatGPT, have gone on the offensive in Washington, arguing for regulations that will prevent the technology from posing an existential threat to humanity."
+    publishedDateTime: 2023-07-05T16:20:00Z
+    webUrl: "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai"
+    ampWebUrl: "https://www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/why-big-tech-wants-to-help-congress-regulate-ai?_amp=true"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 66
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101624579,imgsize-800807,width-1200,height=765,overlay-etbrandequity/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "The artificial intelligence endgame"
-    excerpt: "That incident is an analogy for the way people are oblivious to the elephant in the room: the potential effect artificial intelligence (AI) and artificial general intelligence (AGI) could exert on almost every aspect of our lives and even posing an existential risk to humanity."
-    publishedDateTime: 2023-07-06T14:59:00Z
-    webUrl: "https://mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/"
-    ampWebUrl: "https://mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/?amp"
-    type: article
-    provider:
-      name: Mail & Guardian
-      domain: mg.co.za
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://mg.co.za/wp-content/uploads/2020/03/a44e475b-artificialintelligence.jpeg"
-        width: 696
-        height: 445
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/f154ebe/2147483647/strip/true/crop/1175x613+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb5%2F42%2Fe656e308c9a0040121ef5c7565dc%2Fcongress-flickr.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
-    excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
+  - title: "This Is the Help Congress Needs to Regulate AI"
+    excerpt: "When OpenAI CEO Sam Altman testified before Congress in May about the existential risks large-language models and other generative artificial intelligence technologies pose to humanity, there was an elephant in the room."
     publishedDateTime: 2023-07-05T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+    webUrl: "https://www.theinformation.com/articles/this-is-the-help-congress-needs-to-regulate-ai"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
+      name: The Information
+      domain: theinformation.com
+    quality: 39
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Tokyo-skyline2_1200.png?w=1200"
+      - url: "https://tii.imgix.net/production/articles/10789/895565bc-7088-40b0-ab78-517b5db040b5.jpg?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
-        height: 800
+        height: 673
         isCached: true
-  - title: "Generative AI in games will create a copyright crisis"
-    excerpt: "As lame as this story is, it hints at a knotty copyright issue the games industry is only just beginning to unravel. I’ve created a story using my imagination—but to do that I’ve used an AI helper. So who wrote the tale?"
-    publishedDateTime: 2023-07-05T17:12:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/"
+  - title: "How China is sharpening ethics rules for scientific research"
+    excerpt: "In late 2018, news of the world's first gene-edited babies sent shock waves across the scientific community, resulting in almost-universal condemnation for the Chinese scientist behind the experiment that broke ethical norms."
+    publishedDateTime: 2023-07-09T04:02:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/How-China-is-sharpening-ethics-rules-for-scientific-research"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
-  - title: "Navigating the ethical landscape of generative AI and journalism"
-    excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
-    publishedDateTime: 2023-07-06T11:21:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/07/06/navigating-the-ethical-landscape-of-generative-ai-and-journalism/"
-    type: article
-    provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 34
-  - title: "AWS CEO’s 5 Bullish New Generative AI Investments"
-    excerpt: "AWS’ Adam Selipsky launches new generative AI products and investments, from an AI innovation center and startup program to AWS AppFabric and Amazon Bedrock."
-    publishedDateTime: 2023-07-06T18:01:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-ceo-s-5-bullish-new-generative-ai-investments"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
-  - title: "3 Ways Generative AI Can Drive Operational Excellence"
-    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
-    publishedDateTime: 2023-07-07T15:39:00Z
-    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
-  - title: "3 Lessons from State Street's Move Into Generative Artificial Intelligence"
-    excerpt: "Relieve genuine customer pain, bring world-class skills to solve the problem, partner to close the capability gap."
-    publishedDateTime: 2023-07-09T08:08:00Z
-    webUrl: "https://www.inc.com/peter-cohan/3-lessons-from-state-streets-move-into-generative-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 15
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F3%252F4%252F8%252F0%252F46190843-3-eng-GB%252FCropped-16886242472018-11-28T050928Z_637937548_RC160E366BC0_RTRMADP_3_HEALTH-CHINA-BABIES-PANEL.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
 
 secured: "RUzZBkOJSPBuJLq1bkasfSpJK0J9U04URaSqq1cV4MUVBRlx3ruDJzv2ffehLfrY1Uv0jUBktrdYN3C5qWOiVLnbRlJeIXejStfy+RhfZ8LmJp+yRfI7O3ASgC2EHYczW6SZYrFOi/dOjfHUD3iEREekUaIZyoS6yTHOtE5kaXhYj4wbZ9HaKad6NQCTMuHfp75UwxbOt96FhFosEvhfyr9IFVhbS+utXX2/KMxWE3mNeVUCaWxiJDQSqoJ9kyGC9rXnmG/3liCbAPJ5A7RICCnsJAm/tA94uUKeZwHjX5CqnixX01797chq1MPVr1hcJF7GYvHD1Ics/IWKA0Vb0numL8nXQGj0BSaQZBfi64or7rV2gzbO0vDqmF7/85STViljNcvhHzNHSeer3MKOOZEa1924eWNj8qeymlIZ9DSXDyI0mb1vx0qgpvOfvFJIJ5wdmg8N6Zvf3VxusfnDF8X04yPuHzi1UIMPnt3Xag0m+QWAqhTWWBDI/um56PqZjPTsqD5wVbQ6l1rDNe3lgw==;M0XtrFTEC5XCiRXCp+r9BA=="
 ---

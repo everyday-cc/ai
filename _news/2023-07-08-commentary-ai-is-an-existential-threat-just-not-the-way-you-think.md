@@ -35,20 +35,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Africa: AI Is an Existential Threat - Just Not the Way You Think"
-    excerpt: "Analysis - The rise of ChatGPT and similar artificial intelligence systems has been accompanied by a sharp increase in anxiety about AI. For the past few months, executives and AI safety researchers have been offering predictions,"
-    publishedDateTime: 2023-07-05T14:39:00Z
-    webUrl: "https://allafrica.com/stories/202307050518.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 39
-    images:
-      - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00501792:19e48f25f754ab656a2f8c462ffdce6d:arc614x376:w1200.jpg"
-        width: 1200
-        height: 735
-        isCached: true
   - title: "Opinion: AI is an existential threat, just not the way you think"
     excerpt: "Worries peaked in May 2023 when the nonprofit research and advocacy organization Center for AI Safety released a one-sentence statement: \"Mitigating the risk of extinction from A.I. should be a global priority alongside other societal-scale risks,"
     publishedDateTime: 2023-07-08T16:00:00Z

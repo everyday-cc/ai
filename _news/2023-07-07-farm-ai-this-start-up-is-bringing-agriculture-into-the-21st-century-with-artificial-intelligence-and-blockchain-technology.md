@@ -41,20 +41,6 @@ related:
         width: 1008
         height: 647
         isCached: true
-  - title: "Web3Go DIN: Creating AI-Native Digital Assets, Redefining Production Relations with Blockchain"
-    excerpt: "Web3Go is set to revolutionize the production relations paradigm by leveraging the power of blockchain technology to address the ownership verification challenges of AI-native digital assets, thereby enabling creators to assert their ownership rights."
-    publishedDateTime: 2023-07-05T13:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/05/9843507.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://api.blockchainwire.io/uploads/MKdigiworld/editor_image/812d4a23-f7e8-4171-b1b8-2f3ff99a2648.png"
-        width: 512
-        height: 268
-        isCached: true
 
 secured: "IyEeRP0UUbmXu9lywc5IwNz0QAL9A/Prx1xg63S9N61HhcRBeq5ndNdJoTY9GDzXdbWmUe5J6K2GEZMGsjViD1ONNRTDcGBQXGwceFsQu8JNotJjXUF1wl2JLZiDrgGLLBBTplYLNq4WO9RQovGoMAgzYDAqYY+qSi4TtLK6HRU8Z30Ogc/EiyU9+3Ypf+n6gJ39zwgP2TvfNxi5X7FTRceEOOon9SkDU/MCns5YBRzFe96QYBwfcTxTfGwcIyaoF4Fo4BHVbBF3I4BmN3JatYFNM7kHNSAe+NQByG3B+7+oxUn6Xe04qNHL2F1rJUOswnBs1s/haA32+2GZ/LVxnCRD1HOWjbPLwJoVUAyjjjQ=;Fmk14KqxXJ7JIPnszHym+g=="
 ---

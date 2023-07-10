@@ -22,93 +22,34 @@ topics:
   - AI
 
 related:
-  - title: "Rethinking Workload Placement In The Age Of Generative AI"
-    excerpt: "How organizations build, tune and run AI means the difference between gaining a competitive edge or losing one. Here are our tips."
-    publishedDateTime: 2023-07-05T14:39:00Z
-    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/"
+  - title: "AWS Exec: Generative AI can create a flywheel effect for business growth"
+    excerpt: "Matt Wood of AWS shares insights with VentureBeat on how generative AI can create a flywheel effect for business growth."
+    publishedDateTime: 2023-07-07T20:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649cb761c029eedc5ae45c84/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_Color_photo_of_a_server_room_filled_with_racks_of_se_2607795c-93c9-486d-8345-65765efe0615.png?w=1200&strip=all"
+        width: 1059
+        height: 706
         isCached: true
-  - title: "Does Generative AI herald the end of an era or the start of a new chapter in marketing?"
-    excerpt: "Despite concerns about job losses and potential changes in the marketing industry, generative AI is a great asset for the marketing team, rather than a threat. Generative AI presents unparalleled opportunities to accelerate creativity,"
-    publishedDateTime: 2023-07-10T03:17:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+  - title: "AWS launches generative AI accelerator program in A/NZ"
+    excerpt: "Start-ups in Australia and New Zealand are being called to join a new accelerator program from Amazon Web Services (AWS) focused on generative artificial intelligence."
+    publishedDateTime: 2023-07-06T05:34:00Z
+    webUrl: "https://www.arnnet.com.au/article/707936/aws-launches-generative-ai-accelerator-program-in-anz/"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 66
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101624579,imgsize-800807,width-1200,height=765,overlay-etbrandequity/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.jpg"
-        width: 1200
-        height: 765
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12_1.jpg"
+        width: 505
+        height: 315
         isCached: true
-  - title: "The artificial intelligence endgame"
-    excerpt: "That incident is an analogy for the way people are oblivious to the elephant in the room: the potential effect artificial intelligence (AI) and artificial general intelligence (AGI) could exert on almost every aspect of our lives and even posing an existential risk to humanity."
-    publishedDateTime: 2023-07-06T14:59:00Z
-    webUrl: "https://mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/"
-    ampWebUrl: "https://mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/thoughtleader/opinion/2023-07-06-the-artificial-intelligence-endgame/?amp"
-    type: article
-    provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 59
-    images:
-      - url: "https://mg.co.za/wp-content/uploads/2020/03/a44e475b-artificialintelligence.jpeg"
-        width: 696
-        height: 445
-        isCached: true
-  - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
-    excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
-    publishedDateTime: 2023-07-05T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Tokyo-skyline2_1200.png?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Building the AI Talent Pipeline"
-    excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
-    publishedDateTime: 2023-07-07T04:45:00Z
-    webUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 41
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "Navigating the ethical landscape of generative AI and journalism"
-    excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
-    publishedDateTime: 2023-07-06T11:21:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/07/06/navigating-the-ethical-landscape-of-generative-ai-and-journalism/"
-    type: article
-    provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 34
   - title: "AWS CEO’s 5 Bullish New Generative AI Investments"
     excerpt: "AWS’ Adam Selipsky launches new generative AI products and investments, from an AI innovation center and startup program to AWS AppFabric and Amazon Bedrock."
     publishedDateTime: 2023-07-06T18:01:00Z
@@ -118,24 +59,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "3 Ways Generative AI Can Drive Operational Excellence"
-    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
-    publishedDateTime: 2023-07-07T15:39:00Z
-    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
-  - title: "3 Lessons from State Street's Move Into Generative Artificial Intelligence"
-    excerpt: "Relieve genuine customer pain, bring world-class skills to solve the problem, partner to close the capability gap."
-    publishedDateTime: 2023-07-09T08:08:00Z
-    webUrl: "https://www.inc.com/peter-cohan/3-lessons-from-state-streets-move-into-generative-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 15
 
 secured: "cDUmJ9mDOE+3PNiSc9xCfLIDTiGDMMUzFh31i2+AJbnXiETs9zYHvH7+CQaKR48aVb7xGkAD910pXL+xevQY/xkslzOxhlM9l6RiAo4yi+MzHAUqjDl9eoZ5b5dMygL7ftZsyzsZm9a7Ir5ApyicPLHR4QkLDW3Xhy5GLVQM6/vAjHCtuBxn/0ItNRaIQTZi1c1Jt7dYpxsR1f5bOeW0FusQ0nO4rp2MTLmHsfvLcBOja9ylplZdKw+sb7YsmswUbN8/XEyoIIkELfPUT1oJXV3mur90h6/gm0vyVZHQlACKk4B4vW11zrYjCMXWsfJ+bzE57v8YRo53OiLUuNSwDg2e+wRaUB2ONUrYt4o3x5X240Ne5Y5FyYaoJXuPYCBK6sje2smL+huCJbOfyEZdZAqbdSEIqosdWmGnVyngxYoSVHWP/1VEX8JkwF6eEsWzOOBCN9KqciTz5JfYg3hk8MkTs2eSOk+ziON1fYFf/8ey/y0t9sHFEmzi5n23cvM1i16p2r67pyRHm1oJdV7K9Q==;Gk6jTEQgAUqKiknVm66apg=="
 ---

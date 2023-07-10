@@ -26,22 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "Decoding The Impact Of AI On SEO: Why Value Is Still King"
-    excerpt: "While the future is uncertain, one thing remains clear—value always wins. Regardless of the changes in search engines or the introduction of new monetization models, if you focus on providing value to your audience,"
-    publishedDateTime: 2023-07-05T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/05/decoding-the-impact-of-ai-on-seo-why-value-is-still-king/amp/"
+  - title: "Does Generative AI herald the end of an era or the start of a new chapter in marketing?"
+    excerpt: "Despite concerns about job losses and potential changes in the marketing industry, generative AI is a great asset for the marketing team, rather than a threat. Generative AI presents unparalleled opportunities to accelerate creativity,"
+    publishedDateTime: 2023-07-10T03:17:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 66
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a2e189739c70fd46b4ddd4/0x0.jpg?format=jpg&width=1200"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101624579,imgsize-800807,width-1200,height=765,overlay-etbrandequity/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Turbo-charging productivity in Asia: the economic benefits of generative AI"
+    excerpt: "Generative AI’s potential to unleash creativity, accelerate discovery, and enhance efficiency could add trillions to Asian economies"
+    publishedDateTime: 2023-07-05T16:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075792/turbo-charging-productivity-in-asia-the-economic-benefits-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 55
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Tokyo-skyline2_1200.png?w=1200"
         width: 1200
         height: 800
         isCached: true
+  - title: "Navigating the ethical landscape of generative AI and journalism"
+    excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
+    publishedDateTime: 2023-07-06T11:21:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/07/06/navigating-the-ethical-landscape-of-generative-ai-and-journalism/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 34
 
 secured: "Gm1KGdrKtjRUcHgMPUoiM8RAfTsvBBX2fface6G5e6SIBJxaYOOrPEtqyI+a2RJ92DhMF2yaFf/VsR8I/M1OPIIg1p6JsUixbWAOOXp6wQtu8H5TMq6iAJcPkY8ouJzOxMH5M8K4at5dYLjwCa42947W1SrPZ7MfYTKJll0yjMTRyHDJAcFMzvRu374bWIVGJNzAxM15t2nWRk6padcv3ADWRe/PjeipM1mOYO4FEr1s0eTSrb3s79PCgRVm0kWN1QF7/FV2Dj0k0hBfTq2BvXFXKCtTZd0rHbDrMaiBhSJE5MGclDS4OmOjQOgpaMxbxtoc1iAxG/VWrmYqdgtua9si0oAPVThUXqRGfs/imDE=;rV7vjVx0ScerI0NEsLemqQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-creat
 webUrl: "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/"
 type: article
 quality: 83
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -43,6 +43,24 @@ related:
         width: 505
         height: 315
         isCached: true
+  - title: "Generative AI in games will create a copyright crisis"
+    excerpt: "As lame as this story is, it hints at a knotty copyright issue the games industry is only just beginning to unravel. I’ve created a story using my imagination—but to do that I’ve used an AI helper. So who wrote the tale?"
+    publishedDateTime: 2023-07-05T17:12:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/07/generative-ai-in-games-will-create-a-copyright-crisis/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "AWS CEO’s 5 Bullish New Generative AI Investments"
+    excerpt: "AWS’ Adam Selipsky launches new generative AI products and investments, from an AI innovation center and startup program to AWS AppFabric and Amazon Bedrock."
+    publishedDateTime: 2023-07-06T18:01:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-ceo-s-5-bullish-new-generative-ai-investments"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
 
 secured: "Q+GWoEX7N9ru2U4UndlHOwCxSMukyD47uqMfn6UPd+XOmr4NURQdyFhBX6xEGHSLIEV5a6e8hhYufc0Sj3Pt80ZT2QJl5tYRC0dHcMvmxdkpRW6507+pIIHgcRUi2JpqawQ79KvuJYf4KFx1JlaEgjFfmocWfVi+EqMTLbCPbVk18pnclxbkr+9UtyaxuyJxAgkZzxTOu50izpMxEWoGomOSnW6fDYmU5hEFaVDuGDKXk+PnQNCHdkD8ooQ9LlgYKCAi+ItHJFhydbuv97r26N/0EDI8cgNkjIxYBaFjfAi2iYXzB8XQi0zPnuUyoaq7QSNhBturASqjOq8JZwVkii/9IgcdtlVM34HmGdGdN8TKa/tuiTqlhBl9NAbNbhilAqM/2xlWWe12oBkZv4PivNkEIOW7XvyqmlEfqhuWj/SUSnENhjHF3AQSVI4n4Qh5wmaGTnn9ainff5zOspBnlzirRITXozksx6nNdnDKtQwygXgIi9BUv0r9uymlG19rCX+LzwqEtjBY7R46sW/5qA==;PCYvUbQXaM2VEqX69vpjRg=="
 ---

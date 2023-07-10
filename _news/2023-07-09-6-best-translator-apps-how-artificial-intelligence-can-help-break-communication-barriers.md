@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Communities can use artificial intelligence"
-    excerpt: "Small local businesses face numerous challenges in effectively promoting, marketing,"
-    publishedDateTime: 2023-07-05T13:41:00Z
-    webUrl: "https://www.thetelegraph.com/opinion/article/communities-use-artificial-intelligence-18182537.php"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: thetelegraph.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/56/50/21686837/4/rawImage.jpg"
-        width: 456
-        height: 640
-        isCached: true
 
 secured: "7Uc6v6xhBuR4Q1qCLYYj3xjgHpagHQjB/TsOEZGXhNhdMFA0xAZzcDzMbczdNV9K6NIp1wDq43eknECldg//YUZMzzRTQqf1bDupe9hJIOxywQwGMNyjKYEvV7U3bH5VHo2l9Houv1x0ZogTGEW1DdTqGztHWS1iEsafkzJzz8P6ixQcLM4fAiHwHlqqH84+D/Iavoyr86hZb007hUsvJ8gdVlC5w8HrfZJgY9F+iYLD90XY+Lzl06u8Rrlt5L+oa0riHdz3n3CtQ1leBzpAn74khDcrRhx/Q6+M208iAOjNc8WqbmSXFBB7p82m8rC0Yj/VcocRO+mk1mnLEOMi16mOGovgb0MKZjl2WuEn9xlEfHOgGx6DQt7eBuG+/NlBMFHE0SSW2M79e5sy//5AN/COFXu3uPRUhIF2sxQQE/BJqQmZctB6qGkgbdAnPoBh8mMB2UCMUFwNssKk7lvbZOo95ZFX73dq8g9ZPUY+eHJ5aKs1EDoBy2NWjouZt8vjZt96aKHcgVVDaS8Zs3xGEA==;lwC3QWg1O+Q1YP1mT9bIag=="
 ---

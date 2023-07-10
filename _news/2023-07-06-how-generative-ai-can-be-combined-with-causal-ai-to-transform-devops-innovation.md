@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 674
     isCached: true
+
+related:
+  - title: "3 Ways Generative AI Can Drive Operational Excellence"
+    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
+    publishedDateTime: 2023-07-07T15:39:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "rs2JYpsKwcPlOLYvL7oJMohnfvbY6GekP2KqFkUBQEAl/HKvzFG/BMC765ClGU34xneHRmjEsnci8RPec2igYEXPaOru2NobufBzGuLSt9ip2211f+CqqCCslZrFkT+lWZWlD2Ky/9wgII7KmaxGe7leb9WrvIpEX89g8DVkhbQ6NBg00AzaX7hSwlVIIq99exLMGS4aa4iEs5VuzxIurP186NKd3nd6u5VbU/9+n04GTArHvwVK7vs6/cYwLPnzS/FF1mKlXmId11BEumm0+fxCuEoMSRNhPW6wY62FZXr2E2Qp+zO98GEjxfOqoinc3jEu7ywAsTcPPlQrwvd0ypnwriwiyvdOxb3aBEncszs=;xC1V8pMIfU5sMR4si/0QrA=="
 ---

@@ -167,15 +167,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Everyday Use of AI and ChatGPT in Oncology Practice"
-    excerpt: "Bonilla, MD, MSEd, discussed the growing use of artificial intelligence (AI) in oncology practices. Loaiza-Bonilla is a medical oncologist and cofounder of Massive Bio, a company that uses AI to connect oncologists and patients with cancer to clinical trials of novel treatments."
-    publishedDateTime: 2023-07-05T13:46:00Z
-    webUrl: "https://www.targetedonc.com/view/everyday-use-of-ai-and-chatgpt-in-oncology-practice"
-    type: article
-    provider:
-      name: Targeted Oncology
-      domain: targetedonc.com
-    quality: 19
 
 secured: "hYVNsmXzQfBiwEuSzzflNJoNp3Ik2iXgXuVgTl5i8Li5fZtEEQYMm6td1GX1B2CukrasegaSXn8V4UyWXUvzjKm0QyjhWUqpu1ev11HX/UiaUSgXkyURUh3cdRPNZZZ8TiNvgtOXvrG4yoA8ZoXL0/8VQxCTWszvK4gG7JqnamymZ3fBLXgPrSLlvI/tpAIGKnB2tJBNA2Ca+IigW623IHuMMxGI70mi/SIX9sniQOQw1omiPbRiCAZlLihv/aYhKzd9Azp++KFpKQDgVC2yP+Y874GXaJOAm1oHQW2RUDDoJKUVCFKS6GmdLvKhKje/N+XToZnNzQVkA7pGt0PMgeuUZIGNHLBnGXc/hdwtkpozaNNF5ZLkS3Yx4VPtpEa9UGOGlQmdwfK48bxNHQnvL9fNphkiPKbPZoqMdrSf5AnOiuUFoKjyGYaD5R/e7OiwwlLTFgPYkIYzrsbTvZyuFLGHo0o7ibhe3BjSU7g1R271ukDBsL57jzvTZafHrh4BIWz0DNXVio1Jsz2CTrYhiA==;RWor4px9NUAY98/FwxQGww=="
 ---
