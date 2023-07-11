@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-06-smarter-it-operations-management-with-ibm-aiops-insights.md",
+      "title": "Smarter IT operations management with IBM AIOps Insights",
+      "excerpt": "IBM is thrilled to announce the General Availability of IBM AIOps Insights.\nThe post Smarter IT operations management with IBM AIOps Insights appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/smarter-it-operations-management-with-ibm-aiops-insights/",
+      "originalUrl": "https://www.ibm.com/blog/smarter-it-operations-management-with-ibm-aiops-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T06:32:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-f1-british-grand-prix-facial-recognition-at-silverstone-being-used.md",
+      "title": "F1 British Grand Prix: Facial recognition at Silverstone being used",
+      "excerpt": "Facial recognition technology will be used for the first time at the Formula 1 British Grand Prix to try to stop protesters disrupting the race. Last year, climate activists from Just Stop Oil got on to the Silverstone track in the first lap and sat down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010",
+      "originalUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15798/production/_130306978_silverstonecarpa.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp",
+      "publishedDateTime": "2023-07-06T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-how-human-virtual-assistants-and-ai-can-efficiently-work-together.md",
       "title": "How Human Virtual Assistants And AI Can Efficiently Work Together",
       "excerpt": "By combining the strengths of both human and AI assistants, businesses can achieve a level of efficiency and productivity that was previously unattainable.",
@@ -742,6 +836,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-06-simple-data-gets-the-most-out-of-quantum-machine-learning.md",
+      "title": "Simple Data Gets the Most Out of Quantum Machine Learning",
+      "excerpt": "New theoretical research proves that machine learning on quantum computers requires far simpler data than previously believed. The finding paves a path to maximizing the usability of today’s noisy, intermediate-scale quantum computers for simulating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hstoday.us/subject-matter-areas/information-technology/simple-data-gets-the-most-out-of-quantum-machine-learning/",
+      "originalUrl": "https://www.hstoday.us/subject-matter-areas/information-technology/simple-data-gets-the-most-out-of-quantum-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hstoday.us/wp-content/uploads/2019/06/code-1839406_1280.jpg",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Homeland Security Today",
+        "domain": "hstoday.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-south-korea-wants-to-be-a-top-ai-hub-its-memory-chip-dominance-could-be-an-advantage.md",
       "title": "South Korea wants to be a top A.I. hub — its memory chip dominance could be an advantage",
       "excerpt": "South Korea is aiming to become one of the world's top three AI powerhouses by 2027, following closely behind the U.S. and China, according to the nation's \"digital strategy.\"",
@@ -884,49 +1021,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-simple-data-gets-the-most-out-of-quantum-machine-learning.md",
-      "title": "Simple data gets the most out of quantum machine learning",
-      "excerpt": "New theoretical research proves that machine learning on quantum computers requires far simpler data than previously believed. The finding paves a path to maximizing the usability of today's noisy, intermediate-scale quantum computers for simulating quantum systems and other tasks better than classical digital computers,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-simple-quantum-machine.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-simple-quantum-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/simple-data-gets-the-m.jpg",
-          "width": 1000,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-simple-quantum-machine.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-simple-quantum-machine.amp",
-      "publishedDateTime": "2023-07-05T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1109,109 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-business-leaders-fret-about-generative-ai-despite-growing-enterprise-adoption-study.md",
-      "title": "Business leaders fret about generative AI despite growing enterprise adoption: Study",
-      "excerpt": "The study found that 90% of business leaders anticipate adopting generative AI and that it will impact important organizational roles.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/business-leaders-fret-about-generative-ai-despite-growing-adoption/",
-      "originalUrl": "https://venturebeat.com/ai/business-leaders-fret-about-generative-ai-despite-growing-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Insight_GenerativeAI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-artificial-intelligence-is-technologys-50-year-overnight-success-story.md",
-      "title": "Artificial Intelligence is Technology's '50-Year Overnight Success Story’",
-      "excerpt": "Hi, it’s Katie Roof, now back in Los Angeles, bringing you the word from a recent gathering of the tech industry in Canada. Elsewhere, a landmark IPO in Europe and another Credit Suisse banker jumps ship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-07-05/artificial-intelligence-is-technology-s-50-year-overnight-success-story",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-07-05/artificial-intelligence-is-technology-s-50-year-overnight-success-story",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id5hihqqWyz4/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

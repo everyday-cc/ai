@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-08-im-a-gen-zer-who-uses-ai-to-improve-my-work-as-a-content-creator-and-beat-writers-block.md",
+      "title": "I'm a Gen Zer who uses AI to improve my work as a content creator and beat writer's block",
+      "excerpt": "Morgan Young is a content creator who uses AI to build her brand. She says generative AI helps her brainstorm and create catchy content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7",
+      "originalUrl": "https://www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63f5f0d55ca81e001855ab7f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7?amp",
+      "publishedDateTime": "2023-07-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-robots-take-center-stage-at-uns-ai-for-good-global-summit.md",
       "title": "Robots take center stage at U.N.’s AI for Good Global Summit",
       "excerpt": "CNN’s Kim Brunhuber speaks with one of the creators of a robot featured at the U.N.’s AI for Good Global Summit in Geneva, Switzerland.",
@@ -198,7 +249,7 @@
       "originalUrl": "https://www.techrepublic.com/article/un-ai-for-good-summit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -448,7 +499,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -544,7 +595,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -742,7 +793,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1169,49 +1220,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-this-ai-system-only-needs-a-small-amount-of-data-to-predict-molecular-properties.md",
-      "title": "This AI system only needs a small amount of data to predict molecular properties",
-      "excerpt": "Discovering new materials and drugs typically involves a manual, trial-and-error process that can take decades and cost millions of dollars. To streamline this process, scientists often use machine learning to predict molecular properties and narrow down the molecules they need to synthesize and test in the lab.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-07-ai-small-amount-molecular-properties.html",
-      "originalUrl": "https://phys.org/news/2023-07-ai-small-amount-molecular-properties.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/learning-the-language.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-07-ai-small-amount-molecular-properties.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-ai-small-amount-molecular-properties.amp",
-      "publishedDateTime": "2023-07-07T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

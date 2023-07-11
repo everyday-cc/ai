@@ -69,34 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How to report better on Artificial Intelligence"
-    excerpt: "In the past few months we have been deluged with headlines about new AI tools and how much they are going to change society.  Some reporters have done amazing work holding the companies developing AI accountable,"
-    publishedDateTime: 2023-07-06T20:22:00Z
-    webUrl: "https://www.cjr.org/analysis/how-to-report-better-on-artificial-intelligence.php"
-    type: article
-    provider:
-      name: cjr.org
-      domain: cjr.org
-    quality: 39
-    images:
-      - url: "https://www.cjr.org/wp-content/uploads/2023/07/PhilippSchmitt-ATTLaboratories-CambridgeDataflock-faces-2000x1429-1-800x431.jpg?122376"
-        width: 800
-        height: 431
-        isCached: true
-  - title: "An Update on Artificial Intelligence and the Law"
-    excerpt: "Part of our presentation addressed the rise of artificial intelligence (“AI”) in the law and in insurance adjusting. We have seen several interesting developments over the past few months in terms of AI and the law. Here are some of the highlights ..."
-    publishedDateTime: 2023-07-06T23:36:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/an-update-on-artificial-intelligence-8543469/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 37
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15680_183.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "oifLPq4V3TTAZxa9STQBWr5rSNLKodSfFyLC6bu6o/Iiac5tTbFdnF5zppO1Qmdbw5jTQL44wqUe4QWVBq9ibvjZlmauAsFcxXt40dkINmL8Httrz06W6tPJuaw0cSJW6OJT/kfi6V9S6nAUhaMNnoIAGDEg7YPBpjbxgdy72RyiEboGHZ45RcmS/8wlpS7FGp+YHXg2dC9SSURPjeZqhaKL22c+QbwrL1nAA9Q8voyOXUt0RcQxdFSxwKKEyys7tPPDRKAc5iRC3WzDe6JMno1vbFcP5lhO/CXWOu6/b/2WsswgATfwWvwpivyXRe1cAMX9drhn+XOhe74RBjd4lEfZTE4USpYnt+UE2KphYHU=;blowjDm3jspsxlfd/Qa2fA=="
 ---

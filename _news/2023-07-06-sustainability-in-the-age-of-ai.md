@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
-    excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
-    publishedDateTime: 2023-07-06T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6476266dfe66ffb1e6569955/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The week in AI: Generative AI spams up the web"
     excerpt: "This week in AI, a startup for SEO-optimized, AI-generated web content, OpenAI releases GPT-4 to the public, and a smart intubator."
     publishedDateTime: 2023-07-08T15:01:00Z

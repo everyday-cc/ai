@@ -32,20 +32,6 @@ related:
         width: 2126
         height: 922
         isCached: true
-  - title: "Binance Labs Leads $4M Funding for AI Blockchain Data Firm Web3Go"
-    excerpt: "Singapore-based blockchain start-up Web3Go has raised $4 million in a seed round led by Binance Labs, the venture capital and incubator arm of crypto exchange giant Binance."
-    publishedDateTime: 2023-07-06T09:51:00Z
-    webUrl: "https://cryptonews.com/news/binance-labs-leads-4m-funding-for-ai-blockchain-data-firm-web3go.htm"
-    type: article
-    provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 39
-    images:
-      - url: "https://cimg.co/news/118840/316511/f0rzdzyauaasqod-t.jpg"
-        width: 1008
-        height: 647
-        isCached: true
 
 secured: "IyEeRP0UUbmXu9lywc5IwNz0QAL9A/Prx1xg63S9N61HhcRBeq5ndNdJoTY9GDzXdbWmUe5J6K2GEZMGsjViD1ONNRTDcGBQXGwceFsQu8JNotJjXUF1wl2JLZiDrgGLLBBTplYLNq4WO9RQovGoMAgzYDAqYY+qSi4TtLK6HRU8Z30Ogc/EiyU9+3Ypf+n6gJ39zwgP2TvfNxi5X7FTRceEOOon9SkDU/MCns5YBRzFe96QYBwfcTxTfGwcIyaoF4Fo4BHVbBF3I4BmN3JatYFNM7kHNSAe+NQByG3B+7+oxUn6Xe04qNHL2F1rJUOswnBs1s/haA32+2GZ/LVxnCRD1HOWjbPLwJoVUAyjjjQ=;Fmk14KqxXJ7JIPnszHym+g=="
 ---

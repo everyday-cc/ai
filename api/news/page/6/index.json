@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-06-business-leaders-fret-about-generative-ai-despite-growing-enterprise-adoption-study.md",
+      "title": "Business leaders fret about generative AI despite growing enterprise adoption: Study",
+      "excerpt": "The study found that 90% of business leaders anticipate adopting generative AI and that it will impact important organizational roles.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/business-leaders-fret-about-generative-ai-despite-growing-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/business-leaders-fret-about-generative-ai-despite-growing-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Insight_GenerativeAI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-artificial-intelligence-is-technologys-50-year-overnight-success-story.md",
+      "title": "Artificial Intelligence is Technology's '50-Year Overnight Success Story’",
+      "excerpt": "Hi, it’s Katie Roof, now back in Los Angeles, bringing you the word from a recent gathering of the tech industry in Canada. Elsewhere, a landmark IPO in Europe and another Credit Suisse banker jumps ship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-07-05/artificial-intelligence-is-technology-s-50-year-overnight-success-story",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-07-05/artificial-intelligence-is-technology-s-50-year-overnight-success-story",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id5hihqqWyz4/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-flight-booking-platform-using-ai-to-make-travel-less-miserable.md",
       "title": "Flight Booking Platform Using AI To Make Travel Less Miserable",
       "excerpt": "Given the common frustration plaguing the experience of exploring new destinations, travel companies are testing out new options to ease that pain with AI.",
@@ -1094,109 +1197,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds.md",
-      "title": "The Future Of Home Decor Is Here: AI-Designed Drapes And Blinds",
-      "excerpt": "A new AI service called FabricGenie lets you create bespoke drapes, blinds or fabrics using text descriptions or images of your home",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a530df27a674dc03d23645/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/amp/",
-      "publishedDateTime": "2023-07-05T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-unlocking-the-ai-powered-opportunity-in-the-uk.md",
-      "title": "Unlocking the AI-powered opportunity in the UK",
-      "excerpt": "AI is the most profound technology that humanity is working on today. It’s a critical part of solving big societal challenges and helping to make our everyday lives bett…",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/",
-      "originalUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-dots_1.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/",
-      "publishedDateTime": "2023-07-05T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

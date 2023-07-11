@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Next Challengers Joining Nvidia in the AI Chip Revolution"
+    excerpt: "The company has emerged as the hardware victor during the early days of the artificial-intelligence revolution. Who else in the chip world can cash in, too?"
+    publishedDateTime: 2023-07-11T02:00:00Z
+    webUrl: "https://www.wsj.com/articles/the-next-challengers-joining-nvidia-in-the-ai-chip-revolution-e0055485"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-814042/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Morgan Stanley upgrades Asia chip stocks on AI clamour"
     excerpt: "Morgan Stanley is expanding its bullish view on the region’s chipmakers after having upgraded some names in South Korea and Taiwan back in October. Since then, chip gauges in both nations have surged more than 27%."
     publishedDateTime: 2023-07-07T05:41:00Z

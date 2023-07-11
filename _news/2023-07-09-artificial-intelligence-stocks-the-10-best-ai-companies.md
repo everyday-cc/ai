@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-09T12:00:00Z
 originalUrl: "https://wtop.com/news/2023/07/artificial-intelligence-stocks-the-10-best-ai-companies-16/"
 webUrl: "https://wtop.com/news/2023/07/artificial-intelligence-stocks-the-10-best-ai-companies-16/"
 type: article
-quality: 54
-heat: 74
+quality: 56
+heat: 76
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"

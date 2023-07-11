@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Powerful object recognition for diverse applications using AI and robotics"
-    excerpt: "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors."
-    publishedDateTime: 2023-07-06T10:45:00Z
-    webUrl: "https://idw-online.de/en/news815664"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 84
-    images:
-      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-        width: 498
-        height: 259
-        isCached: true
   - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
     excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
     publishedDateTime: 2023-07-06T11:15:00Z
@@ -123,7 +109,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/10/d9caeee1-9dda-4654-86d1-bf874369e67e/thumbnail/1200x630/c305aa46c205685fcfda15143fb4231c/1689033318103.png?v=758b39f312cc5ee6054d0eb9bad6c0cd"
         width: 1200
@@ -211,7 +197,21 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 15
+  - title: "OutSystems Unveils its Generative AI Roadmap to Transform the Way Enterprises Develop, Edit and Extend Mission-Critical Applications"
+    excerpt: "Company shares live demos of its new connector for Azure OpenAI, built in partnership with Microsoft, that enables the use of ChatGPT, GPT-4 and other large language models – along with OutSystems “Project Morpheus,"
+    publishedDateTime: 2023-07-11T02:52:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3357156"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 8
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/07/OutSystems_Project-Morpheus-Demonstration-5c55bfac.png"
+        width: 3584
+        height: 1822
+        isCached: true
 
-secured: "pEjfog0BO3lBFp3V9T4xY3Gj0bKPCeA4nLBoG1KVzHZEZdjw+yVNdc/CiVR/xRZrf3mcE+Nqj1i9JM/wBPdtKC7SjmeZvDKYT3Vzvf1BbPdJHGzqdR3ratPfKC4R7RNDgD13SRbDo3uO03paz5VXKaHUFOhE7nu6y8JpiiEJwHajPPV4VNAf9YWqgywaPqrgSrxz/SCpfhFBJ7gRfLL+vFeVlZpfpMIu9Y91Bp6DWMQBbgEcAJTKfeRbSI2QWH+Oa5Fli+O580WrNoKxltXC3Fp4eTZ7t1sqJ+T71StHTdOe0EsFQUgAfNuNhyV3AwQbtPypoc/zZ8ApfQyAZoRi8NJcvWEFDiiM55xgBqFWnwQ=;wI7bpcKcelpgD7VQqo5olg=="
+secured: "h0F520lWPmL4A2dX1Od95/sHoyax2P2SGyF688+2J7GBFzrbV15qA7ZXI8qOUZ6qd/yZdXAUsUzKPDO4CiuPetcKylmHyEyrU+AHXivVyGZQWBi2ItUc9i8DsRyD131+BCvgBX5Rk957N0pJIJwSknRRGfU4De/GavSIbyATSo0s41wiMb3YA3WXhqm8DpG7vKJL/916gecljyMEMogIu4F14LIa3jem4krz7Nq0u1Ug9GpzPB3XJN/ITUyk29I9dv0uhugODEi/xoOkhG93m+ccrb0XzVtmeHJjlOqvo4p+jtAPJwZFK6NwjsG/aA8ZPQT/ckTCJGM9seCtQHOy7Opll6b6EzFw85GdP4pDCvKPCS/DYT7F/CLutfelauVOSaTznqQIEmrgMYaV4NjBiwMQe77drX57OyQTeXLe35SjIVMkiWY7C6clc8foqqL4P8X7cLngYlEtWMoGuZrPbVj0B4LeDGJyTGYQk2lp++5QyC63T9BIKsM6VOAvW19s+RXs9MK9gy8/7PgFuV/62g==;pWvwEjNq+LXNoT8iR9jRWw=="
 ---
 

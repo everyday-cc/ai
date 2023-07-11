@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Powerful object recognition for diverse applications using AI and robotics"
-    excerpt: "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors."
-    publishedDateTime: 2023-07-06T10:45:00Z
-    webUrl: "https://idw-online.de/en/news815664"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 84
-    images:
-      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-        width: 498
-        height: 259
-        isCached: true
   - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
     excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
     publishedDateTime: 2023-07-06T11:15:00Z
@@ -112,6 +98,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI is transforming Hollywood, and why its at the center of contract negotiations"
+    excerpt: "The AI company Metaphysic is immortalizing actors through data capture, allowing them to appear in future films without ever being on set."
+    publishedDateTime: 2023-07-10T23:59:00Z
+    webUrl: "https://www.cbsnews.com/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 52
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/10/d9caeee1-9dda-4654-86d1-bf874369e67e/thumbnail/1200x630/c305aa46c205685fcfda15143fb4231c/1689033318103.png?v=758b39f312cc5ee6054d0eb9bad6c0cd"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Finance Transformation: Unleashing the Power of AI and Analytics in Manufacturing"
     excerpt: "With the advent of artificial intelligence (AI), manufacturing finance is undergoing a remarkable revolution, enabling organizations to make more informed decisions, improve operational efficiency, and drive sustainable growth."
     publishedDateTime: 2023-07-11T00:35:00Z
@@ -125,22 +127,6 @@ related:
       - url: "https://d.ibtimes.com/en/full/4471523/deloitte-consulting-llp.png"
         width: 943
         height: 629
-        isCached: true
-  - title: "How AI is transforming Hollywood, and why its at the center of contract negotiations"
-    excerpt: "The AI company Metaphysic is immortalizing actors through data capture, allowing them to appear in future films without ever being on set."
-    publishedDateTime: 2023-07-10T23:59:00Z
-    webUrl: "https://www.cbsnews.com/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 50
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/10/d9caeee1-9dda-4654-86d1-bf874369e67e/thumbnail/1200x630/c305aa46c205685fcfda15143fb4231c/1689033318103.png?v=758b39f312cc5ee6054d0eb9bad6c0cd"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI And Digital Transformations: Is Your Company Prepared?"
     excerpt: "As powerful as AI may be, it’s also just an added tool for amplifying corporate efforts. Using it for the sake of implementation shouldn’t ever be a main goal in itself. Start by building a clear implementation strategy that identifies specific needs ..."
@@ -210,6 +196,20 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 15
+  - title: "OutSystems Unveils its Generative AI Roadmap to Transform the Way Enterprises Develop, Edit and Extend Mission-Critical Applications"
+    excerpt: "Company shares live demos of its new connector for Azure OpenAI, built in partnership with Microsoft, that enables the use of ChatGPT, GPT-4 and other large language models – along with OutSystems “Project Morpheus,"
+    publishedDateTime: 2023-07-11T02:52:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3357156"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 8
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/07/OutSystems_Project-Morpheus-Demonstration-5c55bfac.png"
+        width: 3584
+        height: 1822
+        isCached: true
 
 secured: "XEO+jnT44GankJAWzqyr6Xf+EcqPKYhv1Ie92UqNXF244wwSMmmmCbPLFZPI0nuClOfNh1W16Fg93xpIfF65TsqzSWhxD3E5SgD8vIncSDvIkE6F7I3bFXHCn0lZ5VVG+AxNsrYfF+B+eZULP96LYN2/8bD2dPJBVWO5M3IbRFn2V2Jcy08MznK2z1MeLBpHhzsKoSTtRyxTpJVSF2ThOKS+47cm7AosvAMst6PpYRJsGQB1CpHxf2DAKmISI42LHNQs60kfkjzzvaQgA/+vZEUKP53xztL6A0Y0x6vM97xuNUX73dVrDMIhLM/BbogAZ4/XPy5jwyYjiVT+1N5R6Fr0764Nmb1n6f45ygGO24BfZftLlHIdKzS0MFvu3WrBzBun/xmhv+0GsVKlPLLZY96Rhiyt9Xo1eXt+dxBRHu1eBpEHaOWL/TIbhhm9sn6qCscw3vGroexrQN/sTZ4jZ9nyiCZn4/jRF4AvL3pCYPU4LniBVqlbkOkA41gPoSdXXS4jIqhc8SDju1k9YG09ZQ==;jDog3BNFMRT7fYaviSDP/w=="
 ---

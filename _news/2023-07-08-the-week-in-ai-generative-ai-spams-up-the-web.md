@@ -55,22 +55,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
-    excerpt: "The recent explosive trend of generative AI platforms has been instrumental in bringing AI to the mainstream and tipping the balance in favor of more AI-driven tools."
-    publishedDateTime: 2023-07-06T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6476266dfe66ffb1e6569955/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Are You Getting Scammed Through AI Voice Swindles? 4 Safeguards You Need To Know"
     excerpt: "According to a new report by the Identity Theft Resource Center (ITRC), “80% of identity theft victims are due to scams, and thieves are becoming more sophisticated in their quests to steal personal identifying information (PII) from victims with 61% of them being conducted through AI voice.”"
     publishedDateTime: 2023-07-08T14:00:00Z

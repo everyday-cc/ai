@@ -41,6 +41,20 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-11T03:40:00Z
+    webUrl: "https://www.sciencealert.com/ai-robots-admit-theyd-run-earth-better-than-clouded-humans"
+    type: article
+    provider:
+      name: ScienceAlert
+      domain: sciencealert.com
+    quality: 54
+    images:
+      - url: "https://www.sciencealert.com/images/2023/07/HumanoidRobotPortrait.jpg"
+        width: 1024
+        height: 415
+        isCached: true
   - title: "Artificial intelligence can run world ‘better than humans’"
     excerpt: "A panel of AI-enabled humanoid robots took the microphone on Friday at a United Nations conference with the message: they could eventually run the world better than humans. But the social robots said they felt humans should proceed with caution when embra­cing the rapidly-developing potential of artificial intelligence,"
     publishedDateTime: 2023-07-08T01:08:00Z

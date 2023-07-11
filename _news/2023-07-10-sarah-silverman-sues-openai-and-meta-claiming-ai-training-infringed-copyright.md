@@ -62,21 +62,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "TCS to scale up its Azure open AI expertise; plans to train 25,000 engineers"
-    excerpt: "Using this framework, TCS and client teams would be able to jointly ideate on AI-led solutions to their business problems, develop proofs of concept on Azure Open AI, create solution roadmaps, gather stakeholder feedback,"
-    publishedDateTime: 2023-07-06T09:43:00Z
-    webUrl: "https://www.cnbctv18.com/business/companies/tcs-to-scale-up-its-azure-open-ai-expertise-plans-to-train-25000-engineers-17137981.htm"
-    ampWebUrl: "https://www.cnbctv18.com/business/companies/tcs-to-scale-up-its-azure-open-ai-expertise-plans-to-train-25000-engineers-17137981.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/tcs-to-scale-up-its-azure-open-ai-expertise-plans-to-train-25000-engineers-17137981.htm/amp"
+  - title: "TCS to train 25,000 engineers on generative artificial intelligence tools"
+    excerpt: "The Tata group company will also launch its new generative AI enterprise adoption offering on Microsoft Cloud, a move that will help customers \"jumpstart\" their generative AI journey."
+    publishedDateTime: 2023-07-06T22:15:00Z
+    webUrl: "https://www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/"
+    ampWebUrl: "https://www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/lite/"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 71
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 73
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/11/TCS.jpg"
-        width: 884
-        height: 663
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/ai1-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "GAbvH0KfCagRrSI89QRuu+cKMdeBbckws4+YPhkwTFV0EfWNe2kZHxopNKhAWmRq8GcpnqnooQ62UjeqgGEJHXfrgEu0P2sQcozZABqbev61UXbA2IrOicH2LmoBWTpu5bgqB4j31/oZX1lSGrbWbrYrLZnIuxJqsBH7sg2t9+ROB1AEyeTvIRm5iRTDChi1IPOIkVzHTTckewDKvSDuzzomYnynZ2nry/gGqW5EU2Vv2jOZ9wR4rwrUC7TgoLMs1qth0ToCsHvyoqht7cWxrmLYoOUghD4H9GBN0Y/ijaYkQ9ISuLYlN50RSPQ8GwQxQMwpfxPwn6FTZWfiUnxH+USW4RJgTn6SrVX6/kAwjRw=;oLWi+HXfw4oV/QakOcLgbg=="

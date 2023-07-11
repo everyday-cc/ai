@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-coul
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-11T03:40:00Z
+    webUrl: "https://www.sciencealert.com/ai-robots-admit-theyd-run-earth-better-than-clouded-humans"
+    type: article
+    provider:
+      name: ScienceAlert
+      domain: sciencealert.com
+    quality: 54
+    images:
+      - url: "https://www.sciencealert.com/images/2023/07/HumanoidRobotPortrait.jpg"
+        width: 1024
+        height: 415
+        isCached: true
   - title: "At a UN Summit, AI Robots Just Said That They Could Run the World Much Better Than Us"
     excerpt: "Ever wondered what a group of robots would say about humans in a press conference? Well, you don't need to wonder anymore. At a United Nations summit earlier this week, a panel of artificial intelligence (AI)-powered humanoids just banded together to tell us a thing or two about the future of AI technology."
     publishedDateTime: 2023-07-09T09:30:00Z

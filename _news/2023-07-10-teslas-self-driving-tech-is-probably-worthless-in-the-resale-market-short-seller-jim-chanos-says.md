@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/tesla-elon-musk-fsd-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/tesla-elon-musk-fsd-self-driving-tech-worthless-jim-chanos-2023-7?amp"
 type: article
 quality: 75
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,31 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "NHTSA Looking Into Details on Tesla’s Self-Driving Changes"
+    excerpt: "U.S. automobile safety regulators at the NHTSA are zeroing in on changes that Tesla has made to its Autopilot partially automated driving system."
+    publishedDateTime: 2023-07-06T17:37:00Z
+    webUrl: "https://www.ttnews.com/articles/nhtsa-tesla-driving-changes"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 54
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Tesla-gigafactory-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
+  - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
+    excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"
+    publishedDateTime: 2023-07-06T12:10:00Z
+    webUrl: "https://www.manilastandard.net/business/biz-plus/314347270/teslas-self-driving-vehicles-ready-later-this-year-says-musk.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
 secured: "BCto07jwSydO3Mwc85rjsuGhG6PEGtoWQ11CsByMHlVQP0Eio7Efdp7F/WLFFA2fK+Bsw6PNCGrK1nfoKcGnruj3riJuJMD9F9XLayuv7a6N7DT8g68kRrq43RW03ZYvH7Oq6OSUFDvHYeIEEaprJc1K+ygWOOxPzwl1PtZXa9Yjg6n7gVXbRUF3GjsPOwbrsd1keZ2A6C1k4fQPJvQEXrd2GZ1lBPxFJImGHhYhftEA35LMsmVk/mHE5yGG4xBFFcGp7iXez2NB0DaHpQ7ioXDMNFTACjnkcPxYr+0zTZhMJsAuBDp0DJ1AWzgr1aPNmlivOWl8j1RmyuPymHRQOnHcrxADn4m78flQOTxNDd0VR8KihsRLhfq25YfenCbT056zZVy/YSgy8KDhe2EtuJyMr3gGO4dZuCyeTD6zdCWPs1MTRARwS41ufIUjQw+TY+jBNjPvO0WPb1zq+xUQLxrm6C/Sm3ZJpLgSFXLl24DrLTbtJQza3zsjRG6jeiQ0LM/HKD1GnsesFpyU5yS9ow==;2gz3GL+v/4LiPH/XD+ED8g=="
 ---

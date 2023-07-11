@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/07/09/quantexa-commits-ai-155m-inves
 webUrl: "https://siliconangle.com/2023/07/09/quantexa-commits-ai-155m-investment-new-agnostic-large-language-model/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1111
     height: 481
     isCached: true
+
+related:
+  - title: "Artificial Intelligence: Quantexa, a Decision Intelligence Solution Provider, to Invest $155M+ in AI Industry"
+    excerpt: "Quantexa, a Decision Intelligence solutions provider for public and private sectors, announced recently that it will invest $155M+ in the AI industry."
+    publishedDateTime: 2023-07-11T02:56:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/209844-artificial-intelligence-quantexa-a-decision-intelligence-solution-provider-to-invest-155m-in-ai-industry/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209844-artificial-intelligence-quantexa-a-decision-intelligence-solution-provider-to-invest-155m-in-ai-industry/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209844-artificial-intelligence-quantexa-a-decision-intelligence-solution-provider-to-invest-155m-in-ai-industry/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 55
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "XomjYJS9QhdIJ4hWjwc0KlUW7jxWH2LcKgP7utP81Jzzr7AjTgmbkpwUpbdd5rrHquspK+DFY4ymP5DvyoVCWKgEv/kZN9ze5eP5zMQ7UzGijw908Y8/B3xaqUwXddFB60qQGjeQ74c+z7lL7Lz9filST5J10aK9u+RKtgAsWCJhplgwb+W3Ow9hWyS4mfyf8gCZPlyXtcuT6PBplP7rKvvbFOAGwfTb2LWGvgYCKo5pFDcVGm//iGz1/UkYm6I095XzVjDw03K5MmLX1W1xlERk/ri0ZmyWvodNKwXpQz393qdHPyEaCVFJprDPfdgcw2RJtFqWHA3AKS1dFUfMlYFvtRBr12iTmgSB2QwSC+fSe2bexJ+ZHcB/KU0xjUuWaazbnsjTowTph9ma+1aUuQ8Mg/gBPw6Z59nv9GaaT3wjZB3CwbWIiRAMRx5JgZH5SsTeB0NPeWHVeY/DYbNDkXYk/FrBzfRcH5EQ6A87uhDyTmgFxHyvaq87DgEuZllZ/0CIXhehGQjppMeNoLA1Eg==;yutJYXVJ+ioG5EGkUFdWgg=="
 ---

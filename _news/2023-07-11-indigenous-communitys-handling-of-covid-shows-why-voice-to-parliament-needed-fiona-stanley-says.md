@@ -26,17 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Indigenous voice to parliament: ‘Black voices being muzzled by red tape’, says Megan Davis"
-    excerpt: "Voice architect Megan Davis has slammed the bureaucracy in Indigenous affairs as a monolith that “just exists for itself”, and says Aboriginal and Torres Strait Islander people want the commonwealth department that purports to represent them to be cut in half."
-    publishedDateTime: 2023-07-06T10:44:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-black-voices-being-muzzled-by-red-tape-says-megan-davis/news-story/416937daee2b1f8813d2543c750d4b5b"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
-
 secured: "mf/SqjJsPVKzWxntXoNchTf5yER1nVmOy4S0vbnBKAXLXASBsAKGL5ewp1XWy7vDe+JvgY84SlELPjrJ++ahrQNZYAhQtilbKXf28VpQjf5N0rIKqxx9q7bDOL3N2bWxaS2cIH3mXjRkz23XgWalBGntPWSjuxL09jmpgvso3fFMSjnhFNNFZL7/jQHRkCO/e7/TZxnr5bhtDRyJ3eSPFGKM81VJbIWaq6UudsRrSi0cJOTvr+kxh1egWD3jaTXR3x6Iyb4GyEkXetUa8756BPRdNAoUWBS0HNomRyhqq5lVNp280RFddZufGmLcJ9Yj7gGjnE6ugT06bwdmFvoc9g+IJJ2pZWlTxzLd7avKiZM=;q1cMyvQtR4ZZ+qLlJSVDLQ=="
 ---
 

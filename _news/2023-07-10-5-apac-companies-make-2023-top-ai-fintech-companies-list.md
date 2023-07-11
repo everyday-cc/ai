@@ -67,6 +67,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Investing In Fintech - A Closer Look At The Opportunities"
+    excerpt: "The fintech industry has experienced remarkable growth and has become a key player in reshaping the financial landscape. Fintech, short for financia"
+    publishedDateTime: 2023-07-11T03:12:00Z
+    webUrl: "https://menafn.com/1106581655/Investing-In-Fintech-A-Closer-Look-At-The-Opportunities"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/10/C_9861cimage_story.png"
+        width: 960
+        height: 600
+        isCached: true
   - title: "FINEXPO Brings FinTech Industry Leaders and Enthusiasts Together at FinTech Festival Asia 2023"
     excerpt: "FINEXPO, the world's leading event organiser, announced today that it is hosting its first-ever FinTech Festival Asia (FTF Asia) on 27 and 28 September 2023 at the Royal Paragon Hall in Bangkok, Thailand."
     publishedDateTime: 2023-07-10T10:15:00Z

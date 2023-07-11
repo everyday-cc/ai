@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Next Challengers Joining Nvidia in the AI Chip Revolution"
+    excerpt: "The company has emerged as the hardware victor during the early days of the artificial-intelligence revolution. Who else in the chip world can cash in, too?"
+    publishedDateTime: 2023-07-11T02:00:00Z
+    webUrl: "https://www.wsj.com/articles/the-next-challengers-joining-nvidia-in-the-ai-chip-revolution-e0055485"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-814042/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Today in AI: Morgan Stanley predicts Microsoft value surge, TCS employees to get trained in Azure Open AI"
     excerpt: "Artificial intelligence-driven gains can propel Microsoft Corp. to join Apple Inc. in the elite category of stocks with a market capitalization of more than $3 trillion. That’s according to analysts at Morgan Stanley, whose new $415 price target for the software giant implies a valuation of around $3.1 trillion."
     publishedDateTime: 2023-07-07T04:35:00Z

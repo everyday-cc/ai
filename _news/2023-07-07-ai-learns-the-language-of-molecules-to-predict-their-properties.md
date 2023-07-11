@@ -42,14 +42,14 @@ related:
         height: 600
         isCached: true
   - title: "Learning the language of molecules to predict their properties"
-    excerpt: "A new MIT framework uses machine learning to simultaneously predict molecular properties and generate new molecules using only a small amount of data for training."
+    excerpt: "A new framework uses machine learning to simultaneously predict molecular properties and generate new molecules using only a small amount of data for training ..."
     publishedDateTime: 2023-07-07T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/994929"
+    webUrl: "https://www.sciencedaily.com/releases/2023/07/230707153847.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "uxU0pGjAX1wN1v+HHBpS5Xvxr1wk+gSfhM26f52H4gMs+b4skdCVe/QobngyIFOs7VJ2AmYZHkJYHSX8+wuIXA8quQeRAt+dU5J5+vP0tIWTl8CCRvsegT0uEGAceu0tr/GwavXgALuY3l7D41acNF2OLoZZP/dj4tvaQRSvRAPzhjvoRB/+9+OK/E3BDtrzdzQllHtsAnsxLpHJzRMxVcpzAiuMpudeDiJ//Z/MaYHjKkiu++NqEabdodHTxKglMFD7Jp3WwUPiRw5/ht6U9TAGsrK5c6YYwF7E7L022erWZfNyrmI3kL0qFVNRV764JstqX7+S7S/cCEIJQ9Dn6vtzP5BxSVqViKoM6W8d/Ao=;5WsxyxvkOTmcPt2cH85ymA=="
 ---

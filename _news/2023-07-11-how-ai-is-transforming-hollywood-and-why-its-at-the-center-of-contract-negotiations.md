@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/news/artificial-intelligence-actors-strike-sag-
 ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/10/d9caeee1-9dda-4654-86d1-bf874369e67e/thumbnail/1200x630/c305aa46c205685fcfda15143fb4231c/1689033318103.png?v=758b39f312cc5ee6054d0eb9bad6c0cd"
@@ -50,20 +51,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Powerful object recognition for diverse applications using AI and robotics"
-    excerpt: "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors."
-    publishedDateTime: 2023-07-06T10:45:00Z
-    webUrl: "https://idw-online.de/en/news815664"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 84
-    images:
-      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-        width: 498
-        height: 259
         isCached: true
   - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
     excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
@@ -209,7 +196,21 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 15
+  - title: "OutSystems Unveils its Generative AI Roadmap to Transform the Way Enterprises Develop, Edit and Extend Mission-Critical Applications"
+    excerpt: "Company shares live demos of its new connector for Azure OpenAI, built in partnership with Microsoft, that enables the use of ChatGPT, GPT-4 and other large language models – along with OutSystems “Project Morpheus,"
+    publishedDateTime: 2023-07-11T02:52:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3357156"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 8
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/07/OutSystems_Project-Morpheus-Demonstration-5c55bfac.png"
+        width: 3584
+        height: 1822
+        isCached: true
 
-secured: "dbfDBtzXNgLc83YDAU9Aqy5dcArAJLQ10cR/ddbMR7U6abHSsiS+ydMjujyf0zHKE6hVmwUwgAlHVyv1LzluXU23qyAHGJGwG4bP8Kj3DaSf5+HNQoI+T7otMif8FelfHLro5MYRyuKOjVt/OxXP3tHKNiJ5Ujh9b1nyuNRBt6qmMn0F+Vo1odhz9CQJ4jmt7WyOP9WoscYUKRrmgCft70Nb37F0ZUbIPLNSc4eyvfm0Pt2Z9+bSB76VYYm+gtWJkb6R/pYgNPXETudm6sw90JA6hxV2lviq6ONPztvHxpZkmr8jg6iYoFeg/9/6GqIrpSFWpbwJ7uJMma/lDsSXqvy3vBuZF1v8vIuG2qKJxfU=;lcBVYkLq9MUq8lV9R5JK1w=="
+secured: "ymJOmu7mMgU4T9upTVkGHEOJ7e5k5k2zOYBTUUU7pqCceu1eSiDYZr7Ey3LpN1GIOz5XkkEygDvikIJPk0RTebQbG7LCH5OdFsXRSAYes6/TS3jCiZ9t1T6gZFp5RGMWQxlzxlM7NMbXbio9ZCjUdBkLwOI9trcKRMFaJZeyqfMUIt9jkkS1d8GNvFxFIlCdBzg07BbmQnpSFpwWag+29o36egnmIbO5viUDs3cUBGkj/fjXKBeAgHXhYahl9+8Vt3FuJmrSckUSS0x3ZvPfzZeobCS0cWA20m/PTSeEyzwsBHEtvprEzEFP0jgmLrMmUt3+fuSOl7ou7jfnh9ehSTXzjTabrV0aWEWGGHoVARCD/wheIupUux+/IlABW1VyMWNe6Rkmz4Lnj/buKFXwroYkuPWYdDcX5YRf1GqGbh4l6171Cv9zCwLjWVa8lWkonnJnM1yWj5SEcZDlRmQrm/p+bnGoyoJxlQtEVmMpx0uW/ZktqeZ1jCjgS76tZSpROLMYg4Q1H0bGL/T/nBxSqw==;+UPHL1zRI9au+dxGR2rBLQ=="
 ---
 

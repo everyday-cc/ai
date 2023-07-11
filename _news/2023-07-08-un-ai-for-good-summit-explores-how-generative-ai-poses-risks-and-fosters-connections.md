@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/un-ai-for-good-summit/"
 webUrl: "https://www.techrepublic.com/article/un-ai-for-good-summit/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Shutterstock continues generative AI push with legal protection for enterprise customers"
+    excerpt: "Shutterstock announced it will offer enterprise customers full indemnification for the license and use of generative AI images."
+    publishedDateTime: 2023-07-06T13:08:00Z
+    webUrl: "https://venturebeat.com/ai/shutterstock-continues-generative-ai-push-with-legal-protection-for-enterprise-customers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 38
   - title: "Versus unveils VersusLM, a powerful AI constellation for interactive content creation"
     excerpt: "The VersusLM AI constellation applies a generative AI to derive context and generate a layered output that includes the core elements of the VersusGame content format – A video or an animated sequence explaining the topic (a brief synopsis) with a corresponding future event state expressed with a question (the prediction game)."
     publishedDateTime: 2023-07-10T14:20:00Z

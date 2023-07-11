@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enab
 webUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/"
 type: article
 quality: 102
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Binance Labs Leads $4M Funding for AI Blockchain Data Firm Web3Go"
-    excerpt: "Singapore-based blockchain start-up Web3Go has raised $4 million in a seed round led by Binance Labs, the venture capital and incubator arm of crypto exchange giant Binance."
-    publishedDateTime: 2023-07-06T09:51:00Z
-    webUrl: "https://cryptonews.com/news/binance-labs-leads-4m-funding-for-ai-blockchain-data-firm-web3go.htm"
-    type: article
-    provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 39
-    images:
-      - url: "https://cimg.co/news/118840/316511/f0rzdzyauaasqod-t.jpg"
-        width: 1008
-        height: 647
-        isCached: true
   - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
     excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
     publishedDateTime: 2023-07-07T12:26:00Z

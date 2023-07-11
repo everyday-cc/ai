@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "China tech startup launches humanoid robot at Shanghai AI event"
-    excerpt: "Fourier Intelligence, a Chinese tech startup specializing in rehabilitation robotics and artificial intelligence, on Thursday unveiled its first-generation humanoid robot at the ongoing World Artificial Intelligence Conference in Shanghai."
-    publishedDateTime: 2023-07-06T09:07:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202307/06/WS64a67cc9a310bf8a75d6da51.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202307/06/64a67cc9a310bf8a1d238e8a.jpeg"
-        width: 607
-        height: 404
-        isCached: true
 
 secured: "Tcb9RXmatl1e1PsPvOTkmffUS1oQWyhajEKhsaLNzeSS4wytUK50wZ0SCLQS6T4Wgegn86yWhjCxgnqB+Qm5yqam7vqUEs6L6lJIsG/Pqg9Va9Uvl30lHxKW7PaxZEJSHIxAlhP6MsI3w4QZzPtWswJ0TqnfriI/fkIGOPjGLM2kobCAmfWGbKl/Z7aXLoq0nfkZ/K4SXrMVFnWj5iQxi5kJAyD5eP12yxFQUycuRT6AZz5f+YZPCSe6kBxfeG3TDHlO9lBvgjrgV2TzdpkvpVztzw7YycdGf6DpJj86+g74KjUo3YX52213dnr1xnR1l90F+dQiSpn4Ads/IQ1IuMx2v/uimTc1S3Q1/0zr1uQ=;u39zJlIvL7poiwbwLjfW8Q=="
 ---

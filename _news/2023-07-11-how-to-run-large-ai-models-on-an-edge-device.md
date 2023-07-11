@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-ai-models-on-an-edge-device/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Forbes
@@ -31,47 +31,34 @@ images:
     isCached: true
 
 related:
-  - title: "Four Google Cloud Customers Share How They Use AI To Deliver Value"
-    excerpt: "translation and multilingual proficiency, and natural language generation. Additionally, Google offers Vertex AI, an end-to-end AI platform that streamlines the deployment of AI and generative models, allowing companies to customize AI models for their ..."
-    publishedDateTime: 2023-07-06T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/"
-    ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/"
+  - title: "How to report better on Artificial Intelligence"
+    excerpt: "In the past few months we have been deluged with headlines about new AI tools and how much they are going to change society.  Some reporters have done amazing work holding the companies developing AI accountable,"
+    publishedDateTime: 2023-07-06T20:22:00Z
+    webUrl: "https://www.cjr.org/analysis/how-to-report-better-on-artificial-intelligence.php"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: cjr.org
+      domain: cjr.org
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a59969816ad28ab94c321a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 708
+      - url: "https://www.cjr.org/wp-content/uploads/2023/07/PhilippSchmitt-ATTLaboratories-CambridgeDataflock-faces-2000x1429-1-800x431.jpg?122376"
+        width: 800
+        height: 431
         isCached: true
-  - title: "TCS to train 25,000 engineers on generative artificial intelligence tools"
-    excerpt: "The Tata group company will also launch its new generative AI enterprise adoption offering on Microsoft Cloud, a move that will help customers \"jumpstart\" their generative AI journey."
-    publishedDateTime: 2023-07-06T22:15:00Z
-    webUrl: "https://www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/"
-    ampWebUrl: "https://www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/lite/"
+  - title: "An Update on Artificial Intelligence and the Law"
+    excerpt: "Part of our presentation addressed the rise of artificial intelligence (“AI”) in the law and in insurance adjusting. We have seen several interesting developments over the past few months in terms of AI and the law. Here are some of the highlights ..."
+    publishedDateTime: 2023-07-06T23:36:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/an-update-on-artificial-intelligence-8543469/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 73
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/ai1-1.jpg"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15680_183.jpg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
-  - title: "Shutterstock continues generative AI push with legal protection for enterprise customers"
-    excerpt: "Shutterstock announced it will offer enterprise customers full indemnification for the license and use of generative AI images."
-    publishedDateTime: 2023-07-06T13:08:00Z
-    webUrl: "https://venturebeat.com/ai/shutterstock-continues-generative-ai-push-with-legal-protection-for-enterprise-customers/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 38
 
 secured: "D/Xmk7rlq4SvLMR2oOe7lcKW5OWMKtJROltJysiDxAH9PvFbznFcG/tctfcydJyDknBNbTbGk2fFsFnBRT78IqdcxYABvHyxecPv/47w9KDJ6faUZgUMYXyc/HzIVdFBRR1TLdAzrhtXgG/3PWsmTXYdjEwPog57QHdKuyxOaH7qhP1nwnszorwLSPpR2ay91u++MU8H3+/8QEYW8499NfP6afBr0YTmysqQ3XGbiNXaG8KGx71PFmRQR7RqNorwxDdxeJWrTdPPTW69Y9RFHiO3sCurPnOXdYPJ6asyDY/HCZkyFKGEJiKugDShyN3gFGfazW/h/TsPMU9ZYyur+eUoNO/UmEZu3qTJNJ+1dV8=;2toocXZYD7iWC2p/rWvQFA=="
 ---

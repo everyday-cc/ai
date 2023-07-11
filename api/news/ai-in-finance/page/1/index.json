@@ -298,6 +298,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-05-meet-34-rising-stars-making-waves-in-europes-venture-capital-industry-in-2023.md",
+      "title": "Meet 34 rising stars making waves in Europe's venture capital industry in 2023",
+      "excerpt": "There remain some bright spots in Europe in areas such as fintech, AI, and climate tech. But the current generation of investors must show more discernment in picking companies than in previous years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/34-rising-stars-in-european-venture-capital-2023-2023-5",
+      "originalUrl": "https://www.businessinsider.com/34-rising-stars-in-european-venture-capital-2023-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6478ede9085acb0018ff3763?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-mooch-launches-quickstart-an-innovative-leap-in-ai-driven-personal-finance.md",
       "title": "Mooch launches QuickStart an Innovative Leap in AI-Driven Personal Finance",
       "excerpt": "In a bold move to simplify financial planning, Mooch's QuickStart is set to revolutionize the onboarding process in fintech apps. Powered by AI and backed by social insights from half a million followers,",
@@ -1310,58 +1362,6 @@
         "name": "Crowdfund Insider",
         "domain": "crowdfundinsider.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-ais-impact-on-financial-services-in-the-2030s-and-beyond.md",
-      "title": "AI’s Impact On Financial Services In The 2030s And Beyond",
-      "excerpt": "The winners of the 2030s will be the firms that can manage the difficult transition to an advanced AI-driven customer experience and a more focused and nimble workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/granteasterbrook/2023/06/15/part-two-ais-impact-on-financial-services-in-the-2030s-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/granteasterbrook/2023/06/15/part-two-ais-impact-on-financial-services-in-the-2030s-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648b552125f37bf68c7d5722/0x0.jpg?format=jpg&crop=1529,860,x94,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/granteasterbrook/2023/06/15/part-two-ais-impact-on-financial-services-in-the-2030s-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/granteasterbrook/2023/06/15/part-two-ais-impact-on-financial-services-in-the-2030s-and-beyond/amp/",
-      "publishedDateTime": "2023-06-15T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

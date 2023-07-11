@@ -67,20 +67,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "The AI healthcare revolution: 4 insights into the future of patient care"
-    excerpt: "The future of healthcare lies in the seamless integration of AI to empower professionals and revolutionise the way we approach healthcare"
-    publishedDateTime: 2023-07-06T09:08:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-healthcare-revolution-future-patient-care/162991/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 55
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1396694854-scaled.jpg"
-        width: 2000
-        height: 1182
-        isCached: true
   - title: "People are uncomfortable with AI-led healthcare"
     excerpt: "Less than one-third of people are comfortable with their primary care doctor's appointment being led by artificial intelligence, with vast majorities of women being more skeptical than men about the new frontier of healthcare technology, according to a new ..."
     publishedDateTime: 2023-07-06T14:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-emp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/amp/"
 type: article
 quality: 96
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_3_ways_businesses_can_develop_technology._Colorful_futu_5067db3c-a533-4f1b-aa1e-19214cd4e44f.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Nec Develops And Provides Generative Ai For Business Use"
-    excerpt: "NEC develops and provides generative AI for business use <br />  - Partnership program launched for linking industry knowledge -  <b"
-    publishedDateTime: 2023-07-06T09:27:00Z
-    webUrl: "https://menafn.com/1106562069/Nec-Develops-And-Provides-Generative-Ai-For-Business-Use"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?307890"
-        width: 351
-        height: 250
         isCached: true
   - title: "A new dawn for generative AI shaping the business landscape"
     excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
