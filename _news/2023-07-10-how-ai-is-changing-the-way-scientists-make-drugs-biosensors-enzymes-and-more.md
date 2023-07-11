@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-10T15:26:00Z
 originalUrl: "https://www.geekwire.com/2023/how-ai-is-changing-the-way-scientists-make-drugs-biosensors-enzymes-and-more/"
 webUrl: "https://www.geekwire.com/2023/how-ai-is-changing-the-way-scientists-make-drugs-biosensors-enzymes-and-more/"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2023/07/RFDiffusion_banner_2.jpeg"

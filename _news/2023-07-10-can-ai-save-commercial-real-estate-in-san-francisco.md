@@ -41,20 +41,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"
-    publishedDateTime: 2023-07-06T11:29:00Z
-    webUrl: "https://floridapolitics.com/archives/621977-francis-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 43
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2022/10/220894-1-florida-politics-digital-ads-solar-300x500-1.jpg"
-        width: 300
-        height: 500
-        isCached: true
   - title: "Pope Francis announces new AI ethics handbook: Report"
     excerpt: "The handbook aims to provide guidance on the ethical implications of AI, machine learning, encryption, tracking, and more Pope Francis announces new AI ethics handbook: Report Artificial intelligence,"
     publishedDateTime: 2023-07-10T13:16:00Z

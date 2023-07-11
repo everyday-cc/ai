@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sustainability in the age of AI"
-    excerpt: "It's imperative that CEOs consider sustainability a business driver, and AI a driver for achieving sustainability goals.\nThe post Sustainability in the age of AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-06T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/sustainability-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "Are You Getting Scammed Through AI Voice Swindles? 4 Safeguards You Need To Know"
     excerpt: "According to a new report by the Identity Theft Resource Center (ITRC), “80% of identity theft victims are due to scams, and thieves are becoming more sophisticated in their quests to steal personal identifying information (PII) from victims with 61% of them being conducted through AI voice.”"
     publishedDateTime: 2023-07-08T14:00:00Z

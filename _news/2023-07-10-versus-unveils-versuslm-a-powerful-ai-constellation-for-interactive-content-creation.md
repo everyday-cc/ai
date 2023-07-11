@@ -19,29 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "UN AI for Good Summit Explores How Generative AI Poses Risks and Fosters Connections"
-    excerpt: "Panelists at the UN AI for Good summit discussed regulation, international cooperation, and the growth of generative AI."
-    publishedDateTime: 2023-07-07T23:29:00Z
-    webUrl: "https://www.techrepublic.com/article/un-ai-for-good-summit/"
+  - title: "China to lay down AI rules with emphasis on content control - FT"
+    excerpt: "The Cyberspace Administration of China aims to create a system that will force companies to gain a licence before they can release generative artificial intelligence systems, the Financial Times said on Tuesday,"
+    publishedDateTime: 2023-07-10T23:31:00Z
+    webUrl: "https://www.reuters.com/technology/china-lay-down-ai-rules-with-emphasis-content-control-ft-2023-07-11/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 62
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
-        width: 1400
-        height: 933
+      - url: "https://www.reuters.com/resizer/1-uz5M-2tioUygxn0RSw_7gka2s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ADNV3GZHVNNKRPFHSWQGUXYUWU.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Shutterstock continues generative AI push with legal protection for enterprise customers"
-    excerpt: "Shutterstock announced it will offer enterprise customers full indemnification for the license and use of generative AI images."
-    publishedDateTime: 2023-07-06T13:08:00Z
-    webUrl: "https://venturebeat.com/ai/shutterstock-continues-generative-ai-push-with-legal-protection-for-enterprise-customers/"
+  - title: "Google Calls For Public Discussion On AI Use Of Web Content"
+    excerpt: "Google’s call for discussion is a step in the right direction, but the company needs to follow through on implementing the feedback it receives. Google isn’t alone in facing these challenges. Every tech company developing AI relies on data gathered from the web. The discussion should involve the whole tech industry, not just Google."
+    publishedDateTime: 2023-07-07T19:52:00Z
+    webUrl: "https://www.searchenginejournal.com/google-calls-for-public-discussion-on-ai-use-of-web-content/491053/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 38
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 39
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/07/img_2023-7-7-154836-64a86c2283d2a-sej.jpeg"
+        width: 1600
+        height: 840
+        isCached: true
 
 secured: "cF6lV+JR2SdcK66hy4yxPPmWAhZH1cKMfs+gBCcvO1Kkq2RMMSLNA9XM/axttGwfGi76NMtOndqDbO/kfcfZ6SODeSgENVsxjsJ4A9+MIwunkfUrUkw3lRyUGSVy3Ju0cjOPJBxcV/zO7Dgt8tZCNXZZCx8tu/C6aUDSxVlQbj/QV9lm+XYFuDjGtRjOosYmBddD/1PHCbUr7fLWYNNk1ezukUXtSr+LV2mdIDL8eb/6jCzt53uNUhklyxevaXnSYTub4I4pBOy723VJbUU0GGIGmW05m/KrR2LmZQzJiSuw4ltBqNVPlwkmmpu019J1wlZXUnrWrTQDj50dFXJAOwDcKEZcF+lpyyK1dbmGv+Nr8tMZAqqOut2mufgyKLd6O1j2cd8jp4fd5gFP416MrLMNiSQiLR+R7Eqj5tfq8ADaqE1L4fZjhXfBz2mPfMhg8CYPlnn78bI0WefeVwncMl2/1RJmIJl7xnYAwcglxRyR8C1rz5hGixkv00/elMmev5U71dp/Yzt2s3FViVgVmg==;gkc2bgJccDqXxP0uTibJQA=="
 ---

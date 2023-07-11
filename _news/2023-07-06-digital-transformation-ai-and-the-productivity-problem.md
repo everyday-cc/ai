@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Generative AI Can Be Combined With Causal AI To Transform DevOps Innovation"
-    excerpt: "In the future, DevOps teams can use automated prompt engineering to feed real-time data and causal AI-derived context to their GPT."
-    publishedDateTime: 2023-07-06T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/06/how-generative-ai-can-be-combined-with-causal-ai-to-transform-devops-innovation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a570171d6feda6a59805d4/0x0.jpg?format=jpg&crop=1450,815,x0,y6,safe&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Robots highlight potential and cooperation at AI Forum ensuring human collaboration"
     excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
     publishedDateTime: 2023-07-09T08:54:00Z
@@ -177,15 +161,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 17
-  - title: "Transforming Fashion & Luxury: Exploring The Implications Of Apple’s Vision Pro And The Spatial Computing Era"
-    excerpt: "The impact of Apple’s new spatial computing device on fashion, luxury, and retail shouldn’t be underestimated. Are we ready for this new shift?"
-    publishedDateTime: 2023-07-06T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/cathyhackl/2023/07/06/transforming-fashion--luxury-exploring-the-implications-of-apples-vision-pro-and-the-spatial-computing-era/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 15
   - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
     excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
     publishedDateTime: 2023-07-10T18:55:00Z
@@ -196,16 +171,16 @@ related:
       domain: usatoday.com
     quality: 15
   - title: "OutSystems Unveils its Generative AI Roadmap to Transform the Way Enterprises Develop, Edit and Extend Mission-Critical Applications"
-    excerpt: "Company shares live demos of its new connector for Azure OpenAI, built in partnership with Microsoft, that enables the use of ChatGPT, GPT-4 and other large language models – along with OutSystems “Project Morpheus,"
+    excerpt: "Company shares live demos of its new connector for Azure OpenAI, built in partnership with Microsoft, that enables the use of ChatGPT, GPT 4 and other large language models along with OutSystems \"Project Morpheus,"
     publishedDateTime: 2023-07-11T02:52:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3357156"
+    webUrl: "https://www.ryt9.com/en/prg/269453"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
+      name: RYT9
+      domain: ryt9.com
     quality: 8
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/07/OutSystems_Project-Morpheus-Demonstration-5c55bfac.png"
+      - url: "https://www.ryt9.com/img/files/20230711/iq3eab01168176bff0fe54b34fc9a54038.jpg"
         width: 3584
         height: 1822
         isCached: true

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
@@ -70,6 +71,6 @@ related:
         height: 300
         isCached: true
 
-secured: "byKbV7tsiQEmglvKncB+dQ0jGsbmXjEeCrRg+XWYfUiKCW9rNV4+p4fjrgGLm34jUwevNcOEPN/YNMynxPB16fORdwCNcWzbfHabzWCr4Jonydg6bgkqy9i9160kyvZiRKZStqnJkOlSIsTyWRjSJg6Q1hcs/xyo0WWf5gUdOivurJj3nMKXBwxrLMCkDBAza/OnojZ0F42ioYAxH8xJNOqy1AJgVeNwISWwIGt3O6yqWESEPwqn/yoH46F7fYXgXYRTIChJ+V264SaIXbf7TL8AdYdidySKoB/Ou7RODIb71P1dcEYrw2HQVrYbAqoA76PR8zKR2ADidIdqpxXFX8FY+4V49JKqz0/xaPN2buQ=;gTxeY6xGPeCPEFa8oujJMg=="
+secured: "/aVifeoPEz71hc0oJjmWIewp0QGw7pYm9cy+DS0W6NJ5SjYtmWPE5DYJnsMl0ziJ7JRSkZQ+8YyY3wcqOK1pc1rpj38Vym7sdOAzTuM5fXyurfvaMGR296VBPmeWVwgwqxAqaZj/Z0D3UgWw9Cpo0O+FN61f2Qd/Lu4W9GqHFfLJbT/CtfP+/P9hImDXFwdXk7Y/RhKmytb9xV9WuiUnJFF2zBqGBkuzLApBxMfSv5XwUDfm7t4jdRd2IwhT9FPldD1s3OYEXooKoBgJ7x7IqmSw3zOElSA5Twy/Ze1Iep6tJR4PeeXaOGvkW7M7/pccsD03GqdHUodOdEabADTEeTHSE8Ghs2+NhU1T2i6NwlZ6dbSzlN0GwAzxvX5eJLxz1jgffe+XwNnU2gJQhLBRgXN3Htas4y/ECkxHoTx6FICAmIZXZMuY53RClVoN2jxU3gA8vENgutNBojccI5ZZHI0iO09/0gEKuh+k1BAUe8i5vjzyYptcFiWQTCoVSyJ7ynXjOXDXcmBoFsIV/CjGFA==;E4p2ZHTmZbjh5ZlYBaY1lQ=="
 ---
 

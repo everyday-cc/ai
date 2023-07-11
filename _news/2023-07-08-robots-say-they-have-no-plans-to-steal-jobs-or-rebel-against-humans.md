@@ -152,6 +152,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI Robot Gives A Side-Eye, Snarky Response When Asked If It Will Rebel Against Humans"
+    excerpt: "An A.I.-powered robot's response to the question if it would go against humans has drawn mixed reactions from the attendees of a U.N. summit."
+    publishedDateTime: 2023-07-11T05:25:00Z
+    webUrl: "https://www.ibtimes.com/ai-robot-gives-side-eye-snarky-response-when-asked-if-it-will-rebel-against-humans-3704406"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 47
+    images:
+      - url: "https://d.ibtimes.com/en/full/4471404/humanoid-ai-robot-ameca-engineered-arts-attended-un-artificial-intelligence-summit-geneva.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "Robots say won’t steal jobs, rebel against humans"
     excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us."
     publishedDateTime: 2023-07-08T18:42:00Z

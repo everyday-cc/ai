@@ -39,20 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Volkswagen to launch self-driving vehicles in Texas by 2026"
-    excerpt: "Volkswagen said on Thursday that it plans to launch autonomous, or self-driving, vehicles for ride hailing and goods delivery services in Austin, Texas by 2026."
-    publishedDateTime: 2023-07-06T12:40:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-launch-self-driving-vehicles-texas-by-2026-2023-07-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/XnP2m4tHU8tXOVIUZVRSSduElIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D7EEG2GECFIAJHYSPAB7AIXDKY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Driverless taxis to start paid service in Beijing"
     excerpt: "BEIJING: A larger fleet of driverless taxis will soon be available for hire in the capital city as the Office of the Beijing High-Level Autonomous Driving Demonstration Zone has decided to launch the commercial operation of autonomous vehicles and expand their serviceable area."
     publishedDateTime: 2023-07-11T01:21:00Z

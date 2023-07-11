@@ -2,6 +2,151 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-06-amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls.md",
+      "title": "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls",
+      "excerpt": "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
+      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6d1908a417ec697b1aad2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
+      "publishedDateTime": "2023-07-06T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-will-ai-and-humans-cooperate-or-compete.md",
+      "title": "Will AI And Humans Cooperate Or Compete?",
+      "excerpt": "From my perspective, this could help explain why more people are developing personal relationships with AIs. For example, apps like Replika and EVA AI have been making news headlines for providing companionship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f74b9824373186fc49d44bb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/amp/",
+      "publishedDateTime": "2023-07-06T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-in-nyc-companies-will-have-to-prove-their-ai-hiring-software-isnt-sexist-or-racist.md",
+      "title": "In NYC, companies will have to prove their AI hiring software isn't sexist or racist",
+      "excerpt": "AI-infused hiring programs have drawn scrutiny, most notably over whether they end up exhibiting biases based on the data they’re trained on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230703-new-york-morning-commuters-al-0927-b18cc4.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna92336",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna92336",
+      "publishedDateTime": "2023-07-06T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-smarter-it-operations-management-with-ibm-aiops-insights.md",
       "title": "Smarter IT operations management with IBM AIOps Insights",
       "excerpt": "IBM is thrilled to announce the General Availability of IBM AIOps Insights.\nThe post Smarter IT operations management with IBM AIOps Insights appeared first on IBM Blog.\n",
@@ -836,49 +981,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-06-simple-data-gets-the-most-out-of-quantum-machine-learning.md",
-      "title": "Simple Data Gets the Most Out of Quantum Machine Learning",
-      "excerpt": "New theoretical research proves that machine learning on quantum computers requires far simpler data than previously believed. The finding paves a path to maximizing the usability of today’s noisy, intermediate-scale quantum computers for simulating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hstoday.us/subject-matter-areas/information-technology/simple-data-gets-the-most-out-of-quantum-machine-learning/",
-      "originalUrl": "https://www.hstoday.us/subject-matter-areas/information-technology/simple-data-gets-the-most-out-of-quantum-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hstoday.us/wp-content/uploads/2019/06/code-1839406_1280.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Homeland Security Today",
-        "domain": "hstoday.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-06-south-korea-wants-to-be-a-top-ai-hub-its-memory-chip-dominance-could-be-an-advantage.md",
       "title": "South Korea wants to be a top A.I. hub — its memory chip dominance could be an advantage",
       "excerpt": "South Korea is aiming to become one of the world's top three AI powerhouses by 2027, following closely behind the U.S. and China, according to the nation's \"digital strategy.\"",
@@ -1025,6 +1127,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-06-simple-data-gets-the-most-out-of-quantum-machine-learning.md",
+      "title": "Simple data gets the most out of quantum machine learning",
+      "excerpt": "New theoretical research proves that machine learning on quantum computers requires far simpler data than previously believed. The finding paves a path to maximizing the usability of today's noisy, intermediate-scale quantum computers for simulating quantum systems and other tasks better than classical digital computers,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-simple-quantum-machine.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-simple-quantum-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/simple-data-gets-the-m.jpg",
+          "width": 1000,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-simple-quantum-machine.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-simple-quantum-machine.amp",
+      "publishedDateTime": "2023-07-05T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-highlight-text-as-its-being-spoken-using-amazon-polly.md",
       "title": "Highlight text as it’s being spoken using Amazon Polly",
       "excerpt": "Amazon Polly is a service that turns text into lifelike speech. It enables the development of a whole class of applications that can convert text into speech in multiple languages. This service can be used by chatbots, audio books, and other text-to-speech applications in conjunction with other AWS AI",
@@ -1075,135 +1220,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-predict-vehicle-fleet-failure-probability-using-amazon-sagemaker-jumpstart.md",
-      "title": "Predict vehicle fleet failure probability using Amazon SageMaker Jumpstart",
-      "excerpt": "Predictive maintenance is critical in automotive industries because it can avoid out-of-the-blue mechanical failures and reactive maintenance activities that disrupt operations. By predicting vehicle failures and scheduling maintenance and repairs, you’ll reduce downtime, improve safety, and boost productivity",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predict-vehicle-fleet-failure-probability-using-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-vehicle-fleet-failure-probability-using-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/27/Picture1-4.jpg",
-          "width": 844,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T13:10:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-ai-is-an-existential-threat-just-not-the-way-you-think.md",
-      "title": "AI Is an Existential Threat – Just Not the Way You Think",
-      "excerpt": "From open letters to congressional testimony, some AI leaders have stoked fears that the technology is a direct threat to humanity. The reality is less dramatic but perhaps more insidious.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/c8ba128/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdb%2Ff3%2F9562a34bd0eeecd34cc29020dba9%2Fshutterstock-424934146.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-is-an-existential-threat-just-not-the-way-you-think?_amp=true",
-      "publishedDateTime": "2023-07-05T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service.md",
-      "title": "Aigen unveils an AI-driven, solar-powered, agricultural robotics service",
-      "excerpt": "The fossil fuel-free Aigen Element helps farmers reduce chemicals in food, and improve human and planetary health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service/",
-      "originalUrl": "https://www.therobotreport.com/aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

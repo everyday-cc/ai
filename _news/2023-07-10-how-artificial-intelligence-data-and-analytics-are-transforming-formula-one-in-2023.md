@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "infinitii ai enters Quebec's smart infrastructure market with machine learning analytics sales with two major customers"
-    excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\") (CSE: IAI) (FSE: 7C5) (OTC: CDTAF) is proud to announce its entry into Quebec's smart infrastructure market by contracting with two new large-scale customers ­– the Montreal Metropolitan Community (\"CMM\") and the City of Montreal."
-    publishedDateTime: 2023-07-06T12:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/06/9844056.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
   - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
     excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London,"
     publishedDateTime: 2023-07-07T01:05:00Z

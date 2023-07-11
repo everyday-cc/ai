@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon Prime Day 2023: best deals available now"
-    excerpt: "Another day and another set of early Prime Day deals are now live at Amazon. Continuing on from the cheapest ever price for the Fire TV Stick 4K Max are today's record-low offers on the Echo Dot ..."
-    publishedDateTime: 2023-07-06T12:09:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Best Amazon deals in July 2023: Today's best sales"
     excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. And with Prime ..."
     publishedDateTime: 2023-07-07T15:43:00Z

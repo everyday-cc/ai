@@ -149,6 +149,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-25-mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer.md",
+      "title": "Mining companies betting on autonomous technology to make dangerous jobs safer",
+      "excerpt": "Today, mining companies are employing everything from driverless haul trucks to remote-controlled and robotic drilling machines to remove human labour from some of their most hazardous operations. (THE CANADIAN PRESS/HO-Nutrien) Forget about the canary in the coal mine — experts say the day is coming when there won’t even be a need for a human.",
+      "sourceUrl": null,
+      "webUrl": "https://battlefordsnow.com/2023/06/25/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer/",
+      "originalUrl": "https://battlefordsnow.com/2023/06/25/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudinary.jpbgdigital.com/dmlwdg4vj/image/fetch/w_1200,h_675/https://s3.amazonaws.com/socast-superdesk/media/20230625160640/1a5690ef-080a-45b8-b8da-4cc3c3c1d96c.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-25T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "battlefordsnow",
+        "domain": "battlefordsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-25-everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask.md",
       "title": "Everything you need to know about AI but were too afraid to ask",
       "excerpt": "In the public consciousness, “artificial intelligence” may conjure up images of murderous machines eager to overtake humans, and capable of doing so. But in the tech industry, it’s a broad ...",
@@ -1361,58 +1404,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-18-beyond-driverless-trucks-building-infrastructure-for-autonomous-ev-systems.md",
-      "title": "Beyond Driverless Trucks: Building Infrastructure for Autonomous EV Systems",
-      "excerpt": "Jesse Orrall (he/him/his) is a Senior Video Producer for CNET. He covers future tech, sustainability and the social impact of technology. He is co-host of CNET's \"What The Future\" series and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/beyond-driverless-trucks-building-infrastructure-for-autonomous-ev-systems/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/beyond-driverless-trucks-building-infrastructure-for-autonomous-ev-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/3f90060ca39a74b20145e2d7c057cfff36cd7381/hub/2023/06/16/9c34bf33-c76b-4466-a6d6-f98e36d54d4e/einride-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Prime Day 2023: best deals available now"
-    excerpt: "Another day and another set of early Prime Day deals are now live at Amazon. Continuing on from the cheapest ever price for the Fire TV Stick 4K Max are today's record-low offers on the Echo Dot ..."
-    publishedDateTime: 2023-07-06T12:09:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The best AI art generators in July 2023"
     excerpt: "How do the best AI art generators work? AI art generators work by employing learned data. Developers of the models feed countless images into them, with which the artificial intel"
     publishedDateTime: 2023-07-10T16:00:00Z

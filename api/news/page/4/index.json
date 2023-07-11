@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-07-data-security-why-a-proactive-stance-is-best.md",
+      "title": "Data security: Why a proactive stance is best",
+      "excerpt": "Threats to your data are everywhere. But with a proactive approach to data security, organizations can fight them.\nThe post Data security: Why a proactive stance is best appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-best/",
+      "originalUrl": "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-best/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/c8b7f5c7-c9f9-4595-904efee58de463ef-scaled-e1688662320284.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai.md",
+      "title": "3 Red-Hot Nasdaq Stocks That Are Leading Industrial Automation, Robotics, and AI",
+      "excerpt": "Here's why PTC, Cognex, and Luminar are three red-hot Nasdaq stocks worth looking at today. Image source: . Invest in the industrial software that powers automation, A",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai",
+      "originalUrl": "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-companies-are-drowning-in-too-much-ai.md",
+      "title": "Companies Are Drowning in Too Much AI",
+      "excerpt": "IT sellers are rolling out an avalanche of new generative AI features, leaving CIOs overwhelmed and workers confused.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4",
+      "originalUrl": "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-812426/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-this-ai-system-only-needs-a-small-amount-of-data-to-predict-molecular-properties.md",
       "title": "This AI system only needs a small amount of data to predict molecular properties",
       "excerpt": "Discovering new materials and drugs typically involves a manual, trial-and-error process that can take decades and cost millions of dollars. To streamline this process, scientists often use machine learning to predict molecular properties and narrow down the molecules they need to synthesize and test in the lab.",
@@ -588,7 +725,7 @@
       "originalUrl": "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings-11688661860898.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1070,151 +1207,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls.md",
-      "title": "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls",
-      "excerpt": "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6d1908a417ec697b1aad2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
-      "publishedDateTime": "2023-07-06T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-will-ai-and-humans-cooperate-or-compete.md",
-      "title": "Will AI And Humans Cooperate Or Compete?",
-      "excerpt": "From my perspective, this could help explain why more people are developing personal relationships with AIs. For example, apps like Replika and EVA AI have been making news headlines for providing companionship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f74b9824373186fc49d44bb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/amp/",
-      "publishedDateTime": "2023-07-06T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-in-nyc-companies-will-have-to-prove-their-ai-hiring-software-isnt-sexist-or-racist.md",
-      "title": "In NYC, companies will have to prove their AI hiring software isn't sexist or racist",
-      "excerpt": "AI-infused hiring programs have drawn scrutiny, most notably over whether they end up exhibiting biases based on the data they’re trained on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230703-new-york-morning-commuters-al-0927-b18cc4.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna92336",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna92336",
-      "publishedDateTime": "2023-07-06T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

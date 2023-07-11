@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla’s self-driving vehicles ready later this year, says Musk"
-    excerpt: "Electric car giant Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday,"
-    publishedDateTime: 2023-07-06T12:10:00Z
-    webUrl: "https://www.manilastandard.net/business/biz-plus/314347270/teslas-self-driving-vehicles-ready-later-this-year-says-musk.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 19
 
 secured: "Sr4w4BVxtpOP+vrzAnOmXaHKKs1f5R5QybRVTXUcM42eXhrZCXLhtYdO98QE9ksGhnys3RioTckQGFDKf7SiNr51636XJQ952GgKdFwSPx4AZZ9BdwEI8uY6QZheVe/Krcb4qMoCIpheKA1vxMOcPEb7EPTpV8za1u7q3zTUjLjuogpHpXt3ZKUCo1XsotmCmHMdH6tGMMhyV7OQW/21OAbf7uYECOTNdDJ458Awy14woFsJHiK8ISYVhWRyS3WUsbIv6/4T4h+8XovK9YhIVWX+mPN1HXYQBe+kdPjLDOt53mN2UvZtOX5FFSbp0qKuaEmGRbGYN5MQhFvTZUr9MuP4WC+F7cesvtk5YuDP1jA=;v4oMvfvs3Ms+ohc00zzIuw=="
 ---

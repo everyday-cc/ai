@@ -172,6 +172,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Azure: Our AI Platform – Stories – Microsoft"
+    excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
+    publishedDateTime: 2023-07-11T05:18:00Z
+    webUrl: "https://www.inferse.com/605669/azure-our-ai-platform-stories-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 49
   - title: "Ihis Inks Mou With Microsoft To Deepen Collaboration And Trailblaze Generative Ai And Cloud Innovation In Healthcare"
     excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcar"
     publishedDateTime: 2023-07-08T11:32:00Z
@@ -186,15 +195,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Rubrik and Microsoft Announce Generative AI-Powered Cyber Recovery and Remediation"
-    excerpt: "Rubrik Security Cloud, Microsoft Sentinel, and Azure OpenAI Service integration demonstrates how organizations can strengthen their cyber resilience and recover faster and more effectively from cybera"
-    publishedDateTime: 2023-07-06T12:48:00Z
-    webUrl: "https://www.livemint.com/brand-stories/rubrik-and-microsoft-announce-generative-ai-powered-cyber-recovery-and-remediation-11687434659947.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 28
   - title: "IHiS Inks MOU with Microsoft to Deepen Collaboration and Trailblaze Generative AI and Cloud Innovation in Healthcare"
     excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcare. SINGAPORE – Media OutReach – 7 July 2023 – The Integrated Health Information Systems (IHiS) inked a Memorandum of Understanding (MOU) with Microsoft for deeper collaboration in generative AI and cloud innovation today."
     publishedDateTime: 2023-07-07T02:14:00Z
@@ -213,15 +213,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 28
-  - title: "How the Microsoft ecosystem is making work easier"
-    excerpt: "The proportion of jobs in which people can work from home grew by 80 per cent between 1999 and 2023, according to the UK’s Chartered Institute of Personnel and Development. Working from home is not a new concept: the US Census Bureau reported an increase of 4."
-    publishedDateTime: 2023-07-06T12:52:00Z
-    webUrl: "https://www.technologyrecord.com/article/how-the-microsoft-ecosystem-is-making-work-easier"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 19
 
 secured: "sknemk9HbbgaajTWPxkqExTQH567gp/xO2sZZmt9vuSu4TMG5/O317jv7lrcuESLdM0yndotRbzDNLsT8S8bUUavueEp266Nap4Ij24d4WRGFl8mpJ8N29PpL+/aHxaTenLlZ8C4WCwEMGlHYjQh0KazolhT1bQEg+q1ZJHQBEbpNzHh7WspzVCgO2PIoqcdksflkQb9kcjrGT0CK4HeB1XwKig1+jz4CIC9XlwVmal0jYX4TBLTh4ClykrhmwTZXBi5B2hrg4zHOdapgBnDv7KExSILM7ZET3lzPGtYVANxKLTICQ0W7F9cIi+dnb33ZnPyvNhxR03pTG9NMmhVB5FCPlC3bdoLKZe1698cs0w=;u+GSL9bHGEhNw26k2t+rqg=="
 ---

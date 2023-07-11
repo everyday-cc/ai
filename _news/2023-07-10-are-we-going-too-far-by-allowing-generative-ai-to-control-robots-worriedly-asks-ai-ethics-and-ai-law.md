@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 2000
         height: 1308
         isCached: true
-  - title: "Navigating the ethical landscape of generative AI and journalism"
-    excerpt: "Media executives weigh in on when they would – or would not – permit, or even encourage the use of generative AI in their media organizations."
-    publishedDateTime: 2023-07-06T11:21:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/07/06/navigating-the-ethical-landscape-of-generative-ai-and-journalism/"
-    type: article
-    provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 34
 
 secured: "i4YgIEv5KuSkmHFLhiSuQoH5WoQRAMNA28Ubp92NBD4gGCI9oIoa4UU7ovGQXzZq9fi9V/XMahvXp9/6yFQ/XNQhOq1ghStGPfICTNw9BRX4Pj41ODLXr6JdGIHm6VgOC0nyWZr3fJXPSjF2KrXjzVfxKYcBmPdIbWG+nQKcvRXCTdnLV9MNqXc5RoKOph3773LN3yjYGcsRpXcLUYGEpal5e4Tc5+XyiKA0C/EDOoPzn5w+qguJo6owFts3zkxmfCoEnv7kvKzmZfcLIruuS5n24slHUD3Eevz0pSRh1O6FdOLtEmLExSZL4cWT/rTbbphHnfr2HEK3zTtNixmawfEEgVBUiPMyJPIZG1eReCOaayIQT8zrIxu7boT+NURXrUYHZxLVtozGk/pZvVlx7KivkR2vDZrMtsVRDgzFTyhQolE0dKEsEOCXQLpk84UNpR5au9plW2yw9s5c4ZEOPqNpKjTQN2OY6BlcpAf1mlTmkJmJpZF0mG9sOqnUiqb2T89I+AB0D6EH2uhFd6UT1g==;t4sCuBovCqAUbicWQ9oSJQ=="
 ---

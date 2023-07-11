@@ -2,6 +2,221 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2023-04-21-google-integrates-deepmind-and-brain-teams-creating-google-deepmind.md",
+      "title": "Google integrates DeepMind and Brain teams, creating Google DeepMind",
+      "excerpt": "The move aims to consolidate Google's artificial intelligence (AI) research divisions and keep pace with other tech giants in the field. DeepMind",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzine.eu/news/applications/104951/google-integrates-deepmind-and-brain-teams-creating-google-deepmind/",
+      "originalUrl": "https://www.techzine.eu/news/applications/104951/google-integrates-deepmind-and-brain-teams-creating-google-deepmind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techzine.eu/wp-content/uploads/2023/02/Shutterstock_1587240631.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techzine",
+        "domain": "techzine.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-smart-gun-operating-on-facial-recognition-goes-on-sale-in-us.md",
+      "title": "Smart Gun Operating On Facial Recognition Goes On Sale In U.S",
+      "excerpt": "Reuters Colorado-based Biofire Tech is taking orders for a smart gun enabled by facial-recognition technology, the latest development in personalized weapons that can only be fired by verified users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139",
+      "originalUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4448798/smart-gun-operating-facial-recognition-sale-us.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139?amp=1",
+      "publishedDateTime": "2023-04-21T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-google-merges-ai-teams-under-deepmind-banner.md",
+      "title": "Google Merges AI Teams Under DeepMind Banner",
+      "excerpt": "Google parent company Alphabet is bringing its Brain and DeepMind AI teams under one roof with the launch of Google DeepMind.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/137448/google-merges-ai-teams-under-deepmind-banner",
+      "originalUrl": "https://decrypt.co/137448/google-merges-ai-teams-under-deepmind-banner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/64410a99d52cf88103c4b88c_GDM_16_9-e1682073376881-gID_7.jpg@png",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "decrypt",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-7-mind-bending-agi-movies-to-binge-watch-this-weekend.md",
+      "title": "7 Mind-bending AGI Movies to Binge-watch This Weekend",
+      "excerpt": "Movies on AI may depict an unimaginable future, but as viewers, we can enjoy them for the “science” element of it",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/7-mind-bending-agi-movies-to-binge-watch-this-weekend/",
+      "originalUrl": "https://analyticsindiamag.com/7-mind-bending-agi-movies-to-binge-watch-this-weekend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law.md",
+      "title": "Here’s How ChatGPT Can Either Enhance Customer Service Or Brutally Undermine The Customer Experience, Warns AI Ethics And AI Law",
+      "excerpt": "Generative AI such as ChatGPT is being rushed into use for customer service activities. Though advanced AI has some key benefits, you also need to ensure that the downsides are dealt with. Here's the scoop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64377a9225ef3956b46ba1df/0x0.jpg?format=jpg&crop=2854,1901,x170,y0,safe&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-04-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-artificial-intelligence-is-infiltrating-health-care-we-shouldnt-let-it-make-all-the-decisions.md",
       "title": "Artificial intelligence is infiltrating health care. We shouldn’t let it make all the decisions.",
       "excerpt": "Would you trust medical advice generated by artificial intelligence ... As these technologies begin to infiltrate health-care settings, researchers say we’re seeing a rise in what’s known ...",
@@ -938,258 +1153,6 @@
       "provider": {
         "name": "IT-Online",
         "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-cxl-for-accelerated-ai-workloads.md",
-      "title": "CXL For Accelerated AI Workloads",
-      "excerpt": "This article will focus on two recent product announcements using CXL for accelerated artificial intelligence (AI) workloads. These include the TrainingCXL PCIe device from Korean-bawsed Panmesia and a high-performance CXL switch chip from Enfabrica that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6441c2efe474ff3fce23907c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/amp/",
-      "publishedDateTime": "2023-04-20T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt.md",
-      "title": "How prompt injection can hijack autonomous AI agents like Auto-GPT",
-      "excerpt": "Attackers can link GPT-4 and other large language models to AI agents like Auto-GPT to conduct automated prompt injection attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/",
-      "originalUrl": "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security_ai_breach_broken_bing_dalle_1200x800_042023.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/amp/",
-      "publishedDateTime": "2023-04-20T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored.md",
-      "title": "Googlers say Bard AI is “worse than useless,” ethics concerns were ignored",
-      "excerpt": "From the outside, Google Bard looks like a rushed product to try to compete with ChatGPT, and some Google employees share those sentiments. A new report from Bloomberg interviews 18 current and former workers and came away with a pile of damning commentary and concerns about AI ethics teams that were \"disempowered and demoralized\" so Google could get Bard out the door.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
-          "width": 760,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
-      "publishedDateTime": "2023-04-20T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-musk-counts-on-full-self-driving-as-next-tesla-profit-driver.md",
-      "title": "Musk counts on full self-driving as next Tesla profit driver",
-      "excerpt": "Elon Musk is counting on full-self driving and other new technologies and vehicles at Tesla Inc to provide the \"wow factor\" that will continue to drive the electric carmaker's value far beyond its automotive rivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/YcLD5fOES_sah71H1pVHfpyp58k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWQOUJAWSZJC7ISK6ZUWNWL2VI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-ai-ml-digital-twins-and-computer-vision-whats-really-driving-digital-strategy-experts.md",
-      "title": "AI, ML, Digital Twins and Computer Vision — What's Really Driving Digital Strategy? | Experts",
-      "excerpt": "Business leaders for the last few years have rushed to deploy the latest technology to better meet fluid customer demand. Many are now taking a closer look and realizing the need for unification of systems or platforms to drive real growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwt.com/event/644186f14f6ec627759f23c7",
-      "originalUrl": "https://www.wwt.com/event/644186f14f6ec627759f23c7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wwt.com/api/attachments/6441a4aa21aeac56c2ec369c/thumbnail?width=1200",
-          "width": 1030,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWT",
-        "domain": "wwt.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -36,15 +36,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Versus unveils VersusLM, a powerful AI constellation for interactive content creation"
-    excerpt: "The VersusLM AI constellation applies a generative AI to derive context and generate a layered output that includes the core elements of the VersusGame content format – A video or an animated sequence explaining the topic (a brief synopsis) with a corresponding future event state expressed with a question (the prediction game)."
-    publishedDateTime: 2023-07-10T14:20:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/10/9844995.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "DbNZ++Zwm3mgyHuJB73zDnOaxRPZF0uKbibW+CdgGUXJMnCPz2b6UyJEgK6zeCekfBNcqy9/h2aFUBnUMO29tJ2eALHjqxu6QAcqk3m9nFBueCXaJraHhT6dcPkdqJ7a8jm6CHVrnDGDFhVqQ41D7+peCOxYUnb6i7/4T2Z4pB8IJO3mhjUolAz74pA05/ZSqrxsU+kyXREnoOuWBqSZ0FWe77Dfd721tFjaNL5YA7KzQpitQ4yQAG95eQmPiLQREEp8+bN+vSLNMtnjRLHJVI9/iWj59XhKGKpINlFf6r6eGeo/wbjSbpGoK3IOU8GrR+y+MX901grsZ4q9VIiZOu4I3YNzBoD18r4TE0TBILbL4Rbd2gKbnUeGdYdSdQdmzGmaU4cXuTTxp5ck5ScQuWUcC7QzllHgtM2v7U0zldgNRtCbqAYUeeOJKtmfzTG4diovwdqMuEUeIWnrD2vUakoY9MDt446gbJJIVMZELGqSCrO940gRDnGe0ZLOSSDjAgsKRYRvPFehKhL4xOweXA==;9QczLew7LzR43mwv2nepzw=="
 ---

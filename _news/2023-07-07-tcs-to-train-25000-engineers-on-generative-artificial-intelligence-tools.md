@@ -75,6 +75,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "TCS Scales Up Azure Open AI, Plans to Train 25,000 Associates"
+    excerpt: "The program will be developed by TCS and its client teams to develop AI-led solutions, create proofs of concepts on Azure Open AI"
+    publishedDateTime: 2023-07-11T04:04:00Z
+    webUrl: "https://www.dqindia.com/tcs-scales-up-azure-open-ai-plans-to-train-25000-associates/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 34
 
 secured: "BdO7oydnOM/aitGZXTo/z6ntj/4QoUFFAEGwueEsa8IOe6s/zEvGZsyZs5cdu3FHwV6J5CRlzJS6ZBoDFtUmUIkpeQJc9KWn68KjvTn0sN4doSvHMkeJ0wDDDoEfQQfEwQY0SD7avHiaWH549hH7zmDWBsVRfeju4EIwS2rZFIwQcMtYOn92VKd9Xzix58mZ1wFs1ZOR2QT5TEXzcxEeBD8hBx8vrbLi8LZnQetPA3hpdiJt8UwFYzXw2lvbcvJU8YBCeTZR/6eX6fbCwCj2ESL2oxB+pOdxo9Xkq0IftRsQ0ZU5OH1nSKk6UgY1Fzfo+lrpUE+MGvLw4eLhWbnfxf5DwJXyDOUwsAMPI7TC3m4=;Q9WtCYain02qvdqmripOCw=="
 ---

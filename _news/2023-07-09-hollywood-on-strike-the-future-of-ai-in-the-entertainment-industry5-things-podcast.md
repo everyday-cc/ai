@@ -23,17 +23,6 @@ images:
     height: 679
     isCached: true
 
-related:
-  - title: "Entertainment Industry Has High Anxiety About Generative AI: Survey"
-    excerpt: "Showbiz workers fear the use of the new tech in Hollywood production will spur job losses, misuse and lower-quality content."
-    publishedDateTime: 2023-07-06T13:00:00Z
-    webUrl: "https://variety.com/vip/generative-ai-survey-entertainment-industry-anxiety-jobs-1235662009/#!"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 17
-
 secured: "7clUnUTlv6kQDbI98XIRd+OAGNiTgJkp11LBVUWdX4R1npvi+Tua/D6lD/xXUXg/IFBWXSQvTWciEUHMyJ9yeGmksGP1L7xMAVk+dsV7bdiQ2SMkVpnN0W/uwKzBYpiiPZJEXQBE1pUWci8Wa2GjJLKTIMLu2SAZV5nlHLz+KL9ch4j8QaBWhxFgDsP9vpGb/6iDY5kzogeenIM1phffqqkPl30F/CkhKGQG76GE6zaQdHYdITRXjZHfoUFqMxAXvNdTvPBMkZxcual+PXoDQPaaHen0jzA5wZHtzEHbim7ls7g/dJ/rwVWr1C8BnYzOIsemWNReg2Mpmww3UXIoyXOkajAdh+cBB90L+IEWa0DQbnArnuPLW84gjW9oy0xvfeNTIcAs2jwJL3KlMQo0ggVRpbk+873UX5c7tSJe0+9XSXJ0hhTZ/1E4jadoRsGDyfMk76UkJF5nxijtvpHdqW8rlF+TCmIkwSWRp40uJxu/QpZBGGm5IltWvluRFm0rDok2CAwVZ4m0b8zYYFEpOA==;OcnscoaV/cXrYVYlNRibHA=="
 ---
 

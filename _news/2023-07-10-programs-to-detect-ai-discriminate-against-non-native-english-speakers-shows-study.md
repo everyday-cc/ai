@@ -3,8 +3,8 @@ category: news
 title: "Programs to detect AI discriminate against non-native English speakers, shows study"
 excerpt: "Over half of essays written by people were wrongly flagged as AI-made, with implications for students and job applicants"
 publishedDateTime: 2023-07-10T16:38:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study"
+webUrl: "https://www.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "FO8SS2kEFCrUYUUEhETvNemjFk9c3m9TBA5L9F0dLlZVb9GK/Spgxp91g9kepR5XzST4QLbPprKUFEy9ciVR6IU5zJHNkmjb8UTEqx0XWmzuyQUoHQL9P+ZXhwnIvuMezav1zEQcQPHFrhjHTD45DcUdubhnjvhkTcJlGeKU7CgGfsSgu+7yn7fO4C1oO15GQqUO32E30tVEXTIVomCFYa15k6a3fdXRwkzIk2HlxGl2jZpBXhX9KHpnMRa2AnLT8q1NKnPaSC13WRyLqj6MfxlTZdK9CV8mqMKXhE5TfJnp/VgHYTK7++a3s4M2RQWWMKP9kasdy/GS0jFTenJmcIJ6xK7npLROld6l8o3ajcs=;okrkYHf1cSvel4XWEacf0w=="
+secured: "LuNOZt4bAN8cX4L1zJ61E/YJchnAjrvhmmaR0p+oeH8GBYknYE+ESyJDqWT+78hO/rOfP3THKia6ZsxHcX1HbkRWxSfVzuk2jKHthwJbZuk2Jd3nJn8Xx6/3GH55Wtb45AIAGcj8sfozb6zXDMNrSuFB9jWTPhqusRU5ddSuXihrXuCas3utJm50bJVJmSnp3iMJX+BRHswBWrCEaNvnnNfM6/loUiaXFBUFNVDB9iWjvVJAVjv45IsXzvbbMoMnSaNjHp/lacDU32reIgcmjTfMRRxNkhOlhhZlz7xTYB2EVV3KZy7GqqsoCA1QTryIZh8nWngP9dO++tRzynjiyjx06nt9uNJNRNj1FAHoD90=;A0z7rMyEvNkekxy52ppPng=="
 ---
 

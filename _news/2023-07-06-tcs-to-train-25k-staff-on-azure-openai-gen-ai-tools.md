@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-eng
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "TCS Scales Up Azure Open AI, Plans to Train 25,000 Associates"
+    excerpt: "The program will be developed by TCS and its client teams to develop AI-led solutions, create proofs of concepts on Azure Open AI"
+    publishedDateTime: 2023-07-11T04:04:00Z
+    webUrl: "https://www.dqindia.com/tcs-scales-up-azure-open-ai-plans-to-train-25000-associates/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 34
 
 secured: "Im/+/LsIYOOflAh8IZSXUAGt5e4M8eRwP5zU8yrF11sqzl7YVnThi4XMoPfv/cZGimA67Dcu37lnL5gpF76G87KLjFBJHKHEulkiSG60ngjaZY3jvJkP6HvG738ZPfWacOpAqikQK+rjTbrGS0FxySwfIvioo2DDMuCirC+61Dw54kDWNjp4OOxyIXRFaby4cNMlJuKTowIwmFcH25INHrMZXXEvxEjlQz+xKmoxElhjgZe2QzfSJlS9eVXQy+VP7pxSfxyVtZBeNzswtdtCTpPpNzo8nt7doqhl9sV4YdJPTMxr2DxbFPLqhdkoCz/7tkSnLA83nefG+wjYcYO6OK092vkV4h8omE3FHMc8wOm2IcyFMfnpFc2t/V+Ra/hiTN2FJe7kZ42SXvlvjKD7S0ZWLPX/MthZc+mwRKW5mhabBEmGmp4zJdcNecO6UKZrzq//2KTSf5KizI4t04S7EN8aPDjGlJmSRwmZpyJnKyX/uBm+nw/ZUXos9JQFWeHwTSBpvb5VQuaXbcBK5tPGYQ==;aus2318jUSKDtIDcnMaFZQ=="
 ---

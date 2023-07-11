@@ -35,20 +35,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "Francis Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez ‘s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him"
-    publishedDateTime: 2023-07-06T11:29:00Z
-    webUrl: "https://floridapolitics.com/archives/621977-francis-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 43
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2022/10/220894-1-florida-politics-digital-ads-solar-300x500-1.jpg"
-        width: 300
-        height: 500
-        isCached: true
   - title: "Can AI save commercial real estate in San Francisco?"
     excerpt: "When MosaicML, a generative AI platform company, decided to upgrade its office space, its CEO and co-founder, Naveen Rao, was set on San Francisco, even though he lives in Southern California. “Everyone is talking about doom and gloom,"
     publishedDateTime: 2023-07-10T14:00:00Z

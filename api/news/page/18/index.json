@@ -2,6 +2,161 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-06-28-nvidia-amd-stocks-fall-on-report-of-new-us-ban-on-ai-chip-exports-to-china.md",
+      "title": "Nvidia, AMD stocks fall on report of new U.S. ban on AI chip exports to China",
+      "excerpt": "Nvidia and AMD shares slumped in the extended session Tuesday following a report that the Biden administration might ban more AI chip sales to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 551,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-790609/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
+      "publishedDateTime": "2023-06-27T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-mongodb-loves-developers-at-mongodblocal-nyc.md",
+      "title": "MongoDB ‘Loves Developers’ At MongoDB.local NYC",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead highlights the new capabilities for MongoDB Atlas announced at the MongoDB.local event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b74e50a9a56279ec53940/0x0.jpg?format=jpg&crop=627,352,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/",
+      "publishedDateTime": "2023-06-27T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-when-the-ai-is-more-compassionate-than-the-doctor.md",
+      "title": "When The AI Is More Compassionate Than The Doctor",
+      "excerpt": "More physicians are using AI to help in the more “human” aspects of medical care, including communicating with empathy and compassion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/",
+      "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b7397aa671b8e72c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1273,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/",
+      "publishedDateTime": "2023-06-27T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise.md",
       "title": "Reka emerges from stealth to build custom AI models for the enterprise",
       "excerpt": "Reka, a startup developing custom AI models for enterprise use cases, has raised $58 million in a venture round.",
@@ -578,6 +733,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-deepmind-and-google-gemini-ai-will-surpass-chatgpt.md",
+      "title": "Deepmind and Google Gemini AI Will Surpass ChatGPT",
+      "excerpt": "DeepMind’s Gemini is a large language model that works with text and is similar to GPT-4, which powers ChatGPT. Deepmin CEO Demi Hassabis says his team will combine LLM with AlphaGO reinforcement learning. Gemini will still take months to complete and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/06/deepmind-and-google-gemini-ai-will-surpass-chatgpt.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/06/deepmind-and-google-gemini-ai-will-surpass-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-27-at-11.17.23-AM-1024x624.jpg",
+          "width": 1024,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-snowflake-unveils-new-large-language-model-to-extract-deeper-insights-from-documents-while-continuing-to-advance-platform-speed-and-performance.md",
       "title": "Snowflake Unveils New Large Language Model to Extract Deeper Insights from Documents, While Continuing to Advance Platform Speed and Performance",
       "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today announced at its annual user conference, Snowflake Summit 2023, new advancements to its single, unified platform that make it easier for organizations to get value from all of their data,",
@@ -928,187 +1126,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-new-bioinspired-robot-flies-rolls-walks-and-more.md",
-      "title": "New bioinspired robot flies, rolls, walks, and more",
-      "excerpt": "A newly created real-life Transformer is capable of reconfiguring its body to achieve eight distinct types of motion and can autonomously assess the environment it faces to choose the most effective combination of motions to maneuver.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-bioinspired-robot.jpg",
-          "width": 1600,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
-      "publishedDateTime": "2023-06-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-will-ibms-ai-investments-actually-pay-off.md",
-      "title": "Will IBM's AI Investments Actually Pay Off?",
-      "excerpt": "Chief Commercial Officer Rob Thomas outlined how far IBM's Watson systems have come in the last three years: We've been investing [in the WatsonX generative AI platform] for 3 years. And if you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-ibms-ai-investments-actually-pay-off",
-      "originalUrl": "https://www.nasdaq.com/articles/will-ibms-ai-investments-actually-pay-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ai-ethics-toolkit-updated-to-include-more-assessment-components.md",
-      "title": "AI ethics toolkit updated to include more assessment components",
-      "excerpt": "The second iteration of the Veritas Toolkit includes assessment methodologies for accountability and transparency, to guide financial institutions on the 'responsible' use of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/67e8ddec8fbda08aa6aa41f56f4eebd3490ba09d/2023/06/27/21f0d05c-4499-4fbb-8397-0e776e3df381/gettyimages-1386663569.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/",
-      "publishedDateTime": "2023-06-27T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-edge-ai-will-shape-all-aspects-of-mediatek-business.md",
-      "title": "Edge AI will shape all aspects of MediaTek business",
-      "excerpt": "Dr. Finbarr Moynihan, head of Corporate Marketing at MediaTek, will speak at the event to explore AI adoption for smart edge devices. In a preliminary interview with DIGITIMES Asia, the MediaTek VP shares his insights on where the leading mobile chipmaker stands when it comes to AI deployment,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape-all-aspects-of-mediatek-business-1032412981",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape-all-aspects-of-mediatek-business-1032412981",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2141507/image_800964_20918992.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

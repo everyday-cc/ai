@@ -44,15 +44,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "infinitii ai enters Quebec's smart infrastructure market with machine learning analytics sales with two major customers"
-    excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\") (CSE: IAI) (FSE: 7C5) (OTC: CDTAF) is proud to announce its entry into Quebec's smart infrastructure market by contracting with two new large-scale customers ­– the Montreal Metropolitan Community (\"CMM\") and the City of Montreal."
-    publishedDateTime: 2023-07-06T12:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/06/9844056.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
   - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
     excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
     publishedDateTime: 2023-07-08T05:45:00Z

@@ -108,34 +108,34 @@
     {
       "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
       "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "Robots and artificial intelligence (AI) are expected to play a key role in nursing practice in the future. In this regard, researchers from Japan ask whether intelligent machines can replace humans as nurses.",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments, such as the introduction of autonomous vehicles,",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
+      "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 81,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T12:49:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "publishedDateTime": "2023-07-10T12:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -144,9 +144,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -158,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -200,6 +199,58 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-shaping-a-responsible-ai-powered-future-in-life-science.md",
+      "title": "Shaping A Responsible AI-Powered Future In Life Science",
+      "excerpt": "Our ethical commitment to harnessing AI's potential responsibly will be instrumental in realizing its promise of a healthier, more equitable future for all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a812fccab7d777f691cf1d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/",
+      "publishedDateTime": "2023-07-10T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -263,7 +314,7 @@
       "originalUrl": "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -306,7 +357,7 @@
       "originalUrl": "https://www.techrepublic.com/article/un-ai-for-good-summit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1390,40 +1441,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko.md",
-      "title": "Leadership & Ethics of AI in Medicine: Introduction with Dr. Molly Wasko",
-      "excerpt": "The institute’s AI in Medicine Graduate Certificate provides current and future health care leaders with important foundations in understanding and applying artificial intelligence (AI), as well as the safety, security, and ethics of using AI to improve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uab.edu/medicine/news/latest/item/2809-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko",
-      "originalUrl": "https://www.uab.edu/medicine/news/latest/item/2809-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaleido Scope",
-        "domain": "uab.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

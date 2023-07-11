@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/"
 type: article
 quality: 100
-heat: 102
+heat: 100
 published: true
 
 provider:

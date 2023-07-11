@@ -49,6 +49,15 @@ related:
         width: 620
         height: 330
         isCached: true
+  - title: "AI frenzy bites into fintech"
+    excerpt: "Driving the news: Fintech has been a primary victim. Some 64% of investors at Collision said AI/ML could become the most disruptive technology in the next five to 10 years, per a Pitchbook survey. A year ago, the hottest category was fintech/blockchain, with some 29% of investors. Dollar figures reinforce the narrative."
+    publishedDateTime: 2023-07-06T16:15:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2023/07/06/ai-frenzy-bites-into-fintech-funding-venture-capital-insight"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "jpU/yiw3YqS3OJk1gyuGlAhFij8ORv8F2IdBiMJTnM/+c/H40KCnxzL+VhbbQr6Wq0aayJ1kkkX4+Z/3H9+TK38ZSwgfKq0C6njHbrFjrX/7TV7MhwIzSeAatfEvK/A/Q1E2ASFgvVnGT8deLymiVGe6uzTmG97Db71GgNf9O97xtZnGHkNLjSrPI9xOr8lRY0eeAOtcNoe9MsGNyNo4tArd1BVRkF1PTSH/Gc9zddL1i6f+PHlHoh7c5TeBzTRizLkToPT40eyzMyWX8QT1Jw1quoV3U/k6KU0EEDzmrXZTQqxFDpOFxRMfIVDlHKqpK+jTVUq3lQ0mqEVC+VSz1L0P6WcigZXuevY8IHqCElNBtDYJK4UeHIOGRbAoMXVT7hSnbHPt8pQG0XRSsNKe62uRrCAasYEgGpVZyJDzfCjiXWTEtaWPuJ+GfeyAaQqcG0Eorlu6UTn/uXjof8xxU82vs9Pp0Z5YZPIB9rbG1bXly9PIerAAfbh39HtDKqOaqdqUc0Ch0s8TZrSEuiEfUw==;MqOSGLEdRmk3hLCwseAgDg=="
 ---

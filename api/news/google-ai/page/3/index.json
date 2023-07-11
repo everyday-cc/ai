@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-25-the-lightning-onset-of-aiwhat-suddenly-changed-an-ars-frontiers-2023-recap.md",
+      "title": "The lightning onset of AI—what suddenly changed? An Ars Frontiers 2023 recap",
+      "excerpt": "Ars Technica hosted our Ars Frontiers virtual conference. In our fifth panel, we covered—What Suddenly Changed?\" The panel featured a conversation with Paige Bailey, lead product manager for Generative Models at Google DeepMind,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/2023_AI_panel_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/amp/",
+      "publishedDateTime": "2023-05-24T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-a-google-deepmind-ai-language-model-is-now-making-descriptions-for-youtube-shorts.md",
       "title": "A Google DeepMind AI language model is now making descriptions for YouTube Shorts",
       "excerpt": "Google just combined DeepMind and Google Brain into one big AI team, and on Wednesday, the new Google DeepMind shared details on how one of its visual language models (VLM) is being used to ...",
@@ -1341,58 +1394,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-how-4-startups-are-using-ai-to-solve-climate-change-challenges.md",
-      "title": "How 4 startups are using AI to solve climate change challenges",
-      "excerpt": "These startups are using AI to decarbonize buildings, create sustainable agriculture, protect biodiversity, and remove carbon from the atmosphere.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/",
-      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2023-05-07_at_10.25.22_PM.width-1300.png",
-          "width": 1300,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/",
-      "publishedDateTime": "2023-05-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

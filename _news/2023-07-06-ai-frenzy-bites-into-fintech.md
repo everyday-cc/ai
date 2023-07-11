@@ -19,46 +19,44 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Salt Edge, Kindgeek to Enhance Open Banking Solutions"
-    excerpt: "Kindgeek, a one-stop shop fintech software developer, and Salt Edge, an open banking service provider, announce their partnership."
-    publishedDateTime: 2023-07-06T11:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/amp/"
+  - title: "The impact of artificial intelligence in the edtech industry"
+    excerpt: "AI makes administrative work in the EdTech sector simpler, resulting in increased operational effectiveness. Routine questions are automated by chatbots and virtual assistants, which provide quick answers and frees up staff time."
+    publishedDateTime: 2023-07-09T07:16:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Salt.jpeg"
-        width: 1280
-        height: 1217
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-08T175203.653.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Fintech Firm Cheqly Launches Digital Banking Services By Leveraging Mbanq’s BaaS Platform"
-    excerpt: "Mbanq, the US-based fintech innovator and global Banking-as-a-Service (BaaS) provider, has recently announced a partnership with Cheqly."
-    publishedDateTime: 2023-07-06T14:17:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/209669-fintech-firm-cheqly-launches-digital-banking-services-by-leveraging-mbanqs-baas-platform/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209669-fintech-firm-cheqly-launches-digital-banking-services-by-leveraging-mbanqs-baas-platform/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209669-fintech-firm-cheqly-launches-digital-banking-services-by-leveraging-mbanqs-baas-platform/amp/"
+  - title: "The Impact of AI on the Real Estate Market"
+    excerpt: "In their words, “that genie is out the bottle, and the only thing that will determine whether it will be good or ill will be the wishes we make.” But AI does not only serve the good; fraudsters will instruct AI to do their bidding as well,"
+    publishedDateTime: 2023-07-10T21:57:00Z
+    webUrl: "https://dsnews.com/news/07-10-2023/the-impact-of"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 50
+      name: Default Servicing News
+      domain: dsnews.com
+    quality: 37
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Bank-Banking-Ask-Us-How.jpeg"
-        width: 1075
-        height: 1280
+      - url: "https://dsnews.com/wp-content/uploads/2023/07/AdobeStock_602113162-620x330.jpeg"
+        width: 620
+        height: 330
         isCached: true
-  - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
-    excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
-    publishedDateTime: 2023-07-09T18:16:00Z
-    webUrl: "https://menafn.com/1106574082/From-Banks-To-Bitcoin-How-Fintech-Is-Shaping-The-Economy"
+  - title: "Tech Giants Race to Incorporate AI in China’s Offices"
+    excerpt: "AI integration is fueling fierce competition among tech giants like Kingsoft Office, Baidu, and Alibaba, who are developing their own ChatGPT-like models."
+    publishedDateTime: 2023-07-10T04:31:00Z
+    webUrl: "https://www.sixthtone.com/news/1013271"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Sixth Tone
+      domain: sixthtone.com
     quality: 19
 
 secured: "gnKZN+C9bG+R9lo3dtIc5SDuXLPp0FcZB7g3kPDAJA0z2UcQ4ysD2QSlPSnRYijjFyyfdnYVFb7lB2waY/JkHq9lJekAN/Rz6VF/9KTULEAX7LLr8LRJ7qxZDprJd+9/jKuXr329VfBGQuv+XuseW4effubixZUMmsBp87N9vCUZK+qJ2TJfWr7qcCnx0TJ8BwD+HJODneXmB3D0gkJdcVDfnDoCDTGCd+aMnnejDuASrMpOO1ZTgkui5vazGiRaPlFkcK04UqKfq59zUieNc9nhW13CMSEtS0yy2RSho5CwLF3C/ijYKnaLgCUYJqIybYmwjxUl3lo/aFQJzqqCQ94syC3Af6qJeW9HcgZb+wE=;FT/ESNEu9TQRiKezJC5Uuw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-stea
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -139,6 +139,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/08/image/png/p4wBehFwZ5eUshfj5u7xc3d1x3tS9fc2ym1oyPn4.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AI Robot Gives A Side-Eye, Snarky Response When Asked If It Will Rebel Against Humans"
+    excerpt: "An A.I.-powered robot's response to the question if it would go against humans has drawn mixed reactions from the attendees of a U.N. summit."
+    publishedDateTime: 2023-07-11T05:25:00Z
+    webUrl: "https://www.ibtimes.com/ai-robot-gives-side-eye-snarky-response-when-asked-if-it-will-rebel-against-humans-3704406"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 47
+    images:
+      - url: "https://d.ibtimes.com/en/full/4471404/humanoid-ai-robot-ameca-engineered-arts-attended-un-artificial-intelligence-summit-geneva.jpg"
+        width: 768
+        height: 511
         isCached: true
   - title: "Robots say they have no plans to steal jobs or rebel against humans"
     excerpt: "nine of the most advanced humanoid robots have told an artificial intelligence summit in Geneva. In what was described as “the world’s first human-robot press conference”, one robot, Sophia, said humanoid robots had the potential to lead with “a ..."

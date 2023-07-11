@@ -462,6 +462,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-deepmind-and-google-gemini-ai-will-surpass-chatgpt.md",
+      "title": "Deepmind and Google Gemini AI Will Surpass ChatGPT",
+      "excerpt": "DeepMind’s Gemini is a large language model that works with text and is similar to GPT-4, which powers ChatGPT. Deepmin CEO Demi Hassabis says his team will combine LLM with AlphaGO reinforcement learning. Gemini will still take months to complete and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/06/deepmind-and-google-gemini-ai-will-surpass-chatgpt.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/06/deepmind-and-google-gemini-ai-will-surpass-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-27-at-11.17.23-AM-1024x624.jpg",
+          "width": 1024,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-deepmind-ceo-says-that-googles-next-ai-system-called-gemini-will-outshine-chatgpt.md",
       "title": "DeepMind CEO says that Google's next AI system called Gemini will outshine ChatGPT",
       "excerpt": "Gemini, the latest AI product DeepMind researchers are working on, will seemingly put ChatGPT to shame. Demis Hassabis, CEO and co-founder of the British AI research",
@@ -1388,40 +1431,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-openai-deepmind-will-open-up-models-to-uk-government.md",
-      "title": "OpenAI, DeepMind will open up models to UK government",
-      "excerpt": "LONDON — Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech Week on Monday. The priority access will be granted in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/",
-      "originalUrl": "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

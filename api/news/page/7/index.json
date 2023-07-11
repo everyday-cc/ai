@@ -2,6 +2,161 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-05-ai-gold-rush-makes-basic-data-security-hygiene-critical.md",
+      "title": "AI gold rush makes basic data security hygiene critical",
+      "excerpt": "The obsession with all-things generative AI signals a need for business leaders to rethink their security approaches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-gold-rush-makes-basic-data-security-hygiene-critical/",
+      "originalUrl": "https://www.zdnet.com/article/ai-gold-rush-makes-basic-data-security-hygiene-critical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f168418935ca85080b9b20957bbe5564ddb523f3/2023/07/04/9d28a26e-bee3-4d5b-8102-d096b591c709/gettyimages-1437761046.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-gold-rush-makes-basic-data-security-hygiene-critical/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-gold-rush-makes-basic-data-security-hygiene-critical/",
+      "publishedDateTime": "2023-07-05T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-why-your-business-needs-a-chief-ai-officer.md",
+      "title": "Why Your Business Needs A Chief AI Officer",
+      "excerpt": "Even if your role can’t be replaced by artificial intelligence, it can be replaced by someone who knows how to use artificial intelligence. So get that someone on board.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5016333ccbb60b18aa486/0x0.jpg?format=jpg&crop=1536,863,x0,y101,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/amp/",
+      "publishedDateTime": "2023-07-05T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-are-your-google-docs-safe-from-ai-training.md",
+      "title": "Are your Google Docs safe from AI training?",
+      "excerpt": "With AI continuing it's slow rise to prominence, consumers are concerned their personal content is being used to train Google's generative service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/are-your-google-docs-safe-from-ai-training/",
+      "originalUrl": "https://www.zdnet.com/article/are-your-google-docs-safe-from-ai-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/95e2805311885fe7027cba0a08ef3c351722cec5/2023/07/04/64866159-45b8-43d9-9022-6eedf92fa564/gettyimages-1239914872-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-your-google-docs-safe-from-ai-training/",
+      "publishedDateTime": "2023-07-05T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds.md",
       "title": "The Future Of Home Decor Is Here: AI-Designed Drapes And Blinds",
       "excerpt": "A new AI service called FabricGenie lets you create bespoke drapes, blinds or fabrics using text descriptions or images of your home",
@@ -1065,151 +1220,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-artificial-intelligence-could-change-outlook-of-education-in-the-near-future.md",
-      "title": "Artificial Intelligence could change outlook of education in the near future",
-      "excerpt": "It may not be long before schools and education as a whole change the way of learning due to recent advances in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
-      "originalUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/OTtXcWqzkFBkso3YLO3pO1TUI7U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DUPMDHIGTFGE3GEHQIE2AGV3BA.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp",
-      "publishedDateTime": "2023-07-03T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wbng",
-        "domain": "wbng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-data-scientists-describe-the-arduous-ai-powered-task-of-getting-amazons-alexa-to-speak-in-an-irish-lilt.md",
-      "title": "Data scientists describe the arduous, AI-powered task of getting Amazon's Alexa to speak in an Irish lilt",
-      "excerpt": "Two data scientists told The New York Times that text-to-speech AI models helped them overcome the difficulty of creating Irish Alexa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
-      "originalUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a36df34cc8540019cb52b0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
-      "publishedDateTime": "2023-07-03T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-valve-raises-concerns-about-legality-of-ai-in-game-development.md",
-      "title": "Valve raises concerns about legality of AI in game development",
-      "excerpt": "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/",
-      "originalUrl": "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/steam-library-update-2.png?fit=750%2C422&#038;strip=all",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
