@@ -9,7 +9,7 @@ ampWebUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp
 cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "UBOT Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares ETF"
-    excerpt: "The chart has 1 X axis displaying Time. Data ranges from 2022-05-12 00:00:00 to 2022-05-12 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -0.5 to 0.5."
-    publishedDateTime: 2023-07-07T00:00:00Z
-    webUrl: "https://seekingalpha.com/symbol/UBOT/peers/comparison"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
 
 secured: "rB/BfjO/CFiR1/1AeiQAycSvnqzY5hQTJZGnKD96XRqS1RTPUClCQYlH2nH2kI79zoTrFmWzYXKNqtiRbs5VPgAFhDLLvbOI7kF8kNd3VF2nBdU+htfUTBpLFdPecvo9aujEBa9tmii1N12SWA5C3/z4vXfQvOfBTL/v3i8jxwpOCWhNcMh9JiKGCahF4LH9k81fXNBAMztt4tSahAkELPMIJGPJ5OqLfroon0oJMW+W6yG24obaAbvjjt4T9mw1WoH42kITWGK6xAwhRNUHs6A5+B+VVLI0Ythi2JbyYacTYtMFWTerbcNVIyBCoEpOFdND4+sOZDUqR9D0hWZWJQOAC9Zv6RSrKjIlt5eEs4DHG6IlW8fZ38Gb256q7KgiZv0xc/cNbYdKDGNE0RtPDbFIKenqp+grCJL8AZEzr4itCXqeaXV9zONKJlBoTHwtAe2g/KgXBZpUEF0yeHuB3cPj3SN87edG++r6D6Znmpp8BMC+bSrirDNakc+VK0jde7KcH8ixussLzbKeKVK66A==;RTypzyFQu4/hn6j7YXH+IQ=="
 ---

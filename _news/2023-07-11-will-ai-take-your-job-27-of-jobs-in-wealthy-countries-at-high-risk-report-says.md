@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "UBOT Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares ETF"
-    excerpt: "The chart has 1 X axis displaying Time. Data ranges from 2022-05-12 00:00:00 to 2022-05-12 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -0.5 to 0.5."
-    publishedDateTime: 2023-07-07T00:00:00Z
-    webUrl: "https://seekingalpha.com/symbol/UBOT/peers/comparison"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
 
 secured: "W2oAKp4M7jFBlbmPFcIiBT5DW7BMPWH4dFxcAJQADo0JHKIJZ2iOIAI0+Y61zACm4QSx2WeTSAUT2nMEAXMjhz6iJ9ckmZpcO2uco++ujwR2kn8e6+ydHGVAMFwydiw4mtOyd+3sacXR7nUctk3niI1ih/Ae62V8IOuO+wABffrqkjAouCJ4aBgHm7J/37l//+KBEwr3AcSCvwaqTtI+OMSCpPOhtQwjZdYt6osdA0diRa9Hm45fRmN2omyotREyFW5u0OGZ4GiII5XrWE5eIz8riuCuy7tgftneyM1OgpkGgltsrsS9EWLJ6k+vjLKznotR7YuMqTAz7NICm+kMPwrS9zYycVp4a4xVdhcgNXo=;ghxku34u4ZFq95oLSrZJkQ=="
 ---

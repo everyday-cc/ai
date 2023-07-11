@@ -33,6 +33,15 @@ related:
         width: 2126
         height: 922
         isCached: true
+  - title: "Microsoft-Backed Startup Space and Time Simplifies Blockchain Data Engineering with AI"
+    excerpt: "Data science and engineering is becoming simpler thanks to AI and Space and Time, a Web3 “data warehouse” startup backed by Microsoft"
+    publishedDateTime: 2023-07-11T17:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-backed-startup-space-and-time-simplifies-blockchain-data-engineering-with-ai-1032438649"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
   - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
     excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
     publishedDateTime: 2023-07-07T12:26:00Z

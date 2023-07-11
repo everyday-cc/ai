@@ -1,0 +1,50 @@
+---
+category: news
+title: "How AI can make gaming better for all players"
+excerpt: "The project was inspired by Lancy Carr, a quadriplegic video game streamer who utilizes a head-tracking mouse as part of his gaming setup. After his existing hardware was lost in a fire, Google stepped in to create an open source,"
+publishedDateTime: 2023-07-11T16:48:00Z
+originalUrl: "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/"
+webUrl: "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/"
+ampWebUrl: "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/"
+type: article
+quality: 87
+heat: 97
+published: true
+
+provider:
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1387724979-800x534.jpg"
+    width: 800
+    height: 534
+    isCached: true
+
+related:
+  - title: "AI robots can run world better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
+    publishedDateTime: 2023-07-08T16:00:00Z
+    webUrl: "https://manilastandard.net/news/top-stories/314348091/ai-robots-can-run-world-better.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 54
+    images:
+      - url: "https://manilastandard.net/wp-content/uploads/2023/07/ai-robot.jpg"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "djAyWiSvNMn0CDgg4UjT94JRzIBy0+zVABiHP5yShtFDWLl/liTgnTFqtC/RxYdPBFzi77KMGS6X3a6u9g/RaTC3Xmmj5pLioA7hLMOPFNh/SWsB5eOdedz1r/KEn5xciI9rgGDGIpjwWThgkpG1T+0SwF5MpnUGkdXq2QMDN68zMs++Md2GngtDfC98m5RXCat6kvU5VCjLE149SItXtKbShMPq3gHn316mJs8+ATVBTeCQ2Ed5uQqAVfutHrbArLaI97QNvPKAJgMjZrhn9H/lVwfrFgUIFg4dUb45KesVaY/mbppthluEyzVbRmUwCUxurTMdwFECn1HPbibg+hU5e5O+G2jVKsYJ9AN9wu4=;tP7SKW7zB+GWtmpSxS0y5A=="
+---
+

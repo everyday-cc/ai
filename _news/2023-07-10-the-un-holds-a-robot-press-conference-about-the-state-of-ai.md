@@ -75,20 +75,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI robots can run world better"
-    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
-    publishedDateTime: 2023-07-08T16:00:00Z
-    webUrl: "https://manilastandard.net/news/top-stories/314348091/ai-robots-can-run-world-better.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 54
-    images:
-      - url: "https://manilastandard.net/wp-content/uploads/2023/07/ai-robot.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "AI robots could play future role as companions in care homes"
     excerpt: "Ms Nadia Magnenat Thalmann, a robot expert from the University of Geneva, who served as the model for Nadine’s dark brown eyes and auburn hair, said Nadine and robots like it could prove more effective than human carers."
     publishedDateTime: 2023-07-09T03:40:00Z

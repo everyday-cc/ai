@@ -87,6 +87,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "What Types of AI Are Being Used in Healthcare?"
+    excerpt: "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold."
+    publishedDateTime: 2023-07-11T16:29:00Z
+    webUrl: "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon"
+    ampWebUrl: "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 76
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1388388759.jpg?itok=4rnom0Sy"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
     excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
     publishedDateTime: 2023-07-08T12:00:00Z
@@ -96,6 +112,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 72
+  - title: "7 Best AI Art Generators of 2023"
+    excerpt: "This is a comprehensive list of the best AI generators. Explore the advanced technology that transforms imagination into stunning artworks."
+    publishedDateTime: 2023-07-11T16:40:00Z
+    webUrl: "https://www.techrepublic.com/article/best-ai-art-generators/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71123-ai-art.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Generative AI in Healthcare Market Size is Expanding Around USD 21.74 Billion by 2032"
     excerpt: "As per Precedence Research, the U.S. generative AI in healthcare market size will reach at USD 8.7 billion by 2032. Generative AI, refers to a class of artificial intelligence"
     publishedDateTime: 2023-07-10T07:47:00Z
@@ -178,20 +208,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "AI in Health Care: Regulatory Landscape & Risk Mitigation"
-    excerpt: "Health care, like most industries, is grappling with the proliferation of artificial intelligence (AI) and the novel risks and benefits it presents. Balancing these risks and benefits can be especially challenging for attorneys, as the laws and regulatory ..."
-    publishedDateTime: 2023-07-06T23:50:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ai-in-health-care-regulatory-landscape-4445187/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "The best AI art generators in July 2023"
     excerpt: "How do the best AI art generators work? AI art generators work by employing learned data. Developers of the models feed countless images into them, with which the artificial intel"

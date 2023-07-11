@@ -23,10 +23,10 @@ topics:
   - AI
 
 related:
-  - title: "3 Machine Learning Stocks That Will Skyrocket Before 2025"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investing in machine learning is often thought to be synonymous with investing"
-    publishedDateTime: 2023-07-10T18:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-that-will-skyrocket-before-2025-1032435697"
+  - title: "3 AI Stocks with Double-Up Potential over the Next 12 Months"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors are actively seeking AI stocks as businesses increasingly utilize"
+    publishedDateTime: 2023-07-11T16:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-double-up-potential-over-the-next-12-months-1032438508"
     type: article
     provider:
       name: Business Insider

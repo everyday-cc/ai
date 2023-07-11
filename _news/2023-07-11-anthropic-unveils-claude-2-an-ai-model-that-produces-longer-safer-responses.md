@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-
 webUrl: "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-that-produces-longer-safer-responses/"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -47,7 +47,21 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 41
+  - title: "Anthropic releases upgrade Claude 2 AI chatbot with improved safety and coding ability"
+    excerpt: "Claude 2, an upgrade over Claude 1.3, is now available as a beta chat experience for users in the United States and the United Kingdom. The chatbot is also available for business access through an application programming interface at the same price as the previous model."
+    publishedDateTime: 2023-07-11T16:17:00Z
+    webUrl: "https://siliconangle.com/2023/07/11/anthropic-releases-upgrade-claude-2-ai-chatbot-improved-safety-coding-ability/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/claude-anthropic-image.png"
+        width: 2880
+        height: 1620
+        isCached: true
 
-secured: "Uz/EES7YCmxIwaFQnS1alkMlmbC6t6obx4YNd30n06Uqvc6iwOxM2WEKaHRNe2+EZBtTevXV7Jr3aCz/fp4+lDR3sU3bdjXcNq6Wayf5Ah/vpqCQPftvrWKjzDelOgOibgpfiazbrADVwTDeQ+MmdlR3dy3y284JImOXNTlPKuhupRONlYPzC24y4f9pb9LRyprXTrEYiF90JJpUtw8q8pHmtMd7yJ4SvGZ0sHyNNXHWN30be2H/E90x5SY9SnieuCtCYis5IUMsRVn7gQ2RA2d03fxgWN/Vtw1AlS13dUgMxMQsXuNc56JzfKgNjcLkxjuLnwK7VFJLDxfoGEwrzXs4jan5J8/1wbvWfEdicuE=;XalK9812cSa7rv1Qs5d97w=="
+secured: "U7rScwsUNVE0n1tklgZvqX0FWXqV1MbDJgmN6KfPbS6zFRM7BKH1QSqKE+/GzedkDW+WAe356PnoDf74xUpX8FvI2EN04mPbHFdFRbJ2/d5ByXNb16LHXso0DjaA594R/QK8G8klXMsfNviuZBP4zxVUP6dMlRurm/r7tWbwlfzXVrFX0vE41XPTNjFMf0dA8f8TX3W476bzicqgwlyiIzImTif52Bj953aF8Fct1U2PqKR9A80NqoZ6hilNMq40rEMkffaT3xkblz1533jtn802U0CnxKHZOLalMVw9p96jCW6m1M9KUZ6o9ydij1iY5MdPZ/4UgE6xQJS/Xys15crXFa2zGlWJn3oEs473HRFjrtOR4+U6hgm57GWTqHe+brKIWAmT2indqieHE6cUgSVtsuoCkU//ppdIaR3TzTxmsjsX/n9yU/ExO3j4fRZwo3EClLBxkZrh0IVY97HQp9x3zWdOCUiZFHu1hcV4LDJr3Qbllaon0LUh6dWuLemknEq+359ou9J76hzFBysCeA==;FtcE8xzAIBHQyNc7azI/sQ=="
 ---
 

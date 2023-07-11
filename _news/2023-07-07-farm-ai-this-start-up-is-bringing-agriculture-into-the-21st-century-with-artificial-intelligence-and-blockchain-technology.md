@@ -32,6 +32,15 @@ related:
         width: 2126
         height: 922
         isCached: true
+  - title: "Microsoft-Backed Startup Space and Time Simplifies Blockchain Data Engineering with AI"
+    excerpt: "Data science and engineering is becoming simpler thanks to AI and Space and Time, a Web3 “data warehouse” startup backed by Microsoft"
+    publishedDateTime: 2023-07-11T17:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-backed-startup-space-and-time-simplifies-blockchain-data-engineering-with-ai-1032438649"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
   - title: "The Art of Intelligence: Unraveling the Potential of Blockchain and AI"
     excerpt: "In this captivating blog, we explore the remarkable potential that emerges when Blockchain and Artificial Intelligence (AI) converge. We uncover how this fusion revolutionizes industries, enhances security and privacy,"
     publishedDateTime: 2023-07-11T12:38:00Z

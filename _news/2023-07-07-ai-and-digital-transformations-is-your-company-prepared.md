@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI-Driven Transformation: Insights And Pitfalls"
+    excerpt: "The potential transformative power of artificial intelligence (AI) is undeniable, yet even industry giants are exercising caution as they navigate potential implications."
+    publishedDateTime: 2023-07-11T16:07:00Z
+    webUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/"
+    ampWebUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ad7ae447783414a7e45d54/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Robots highlight potential and cooperation at AI Forum ensuring human collaboration"
     excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
     publishedDateTime: 2023-07-09T08:54:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Use of AI widened to assess universal credit applications and tackle fraud"
+    excerpt: "Department of Work and Pensions has been warned about potential bias in algorithms by auditor general"
+    publishedDateTime: 2023-07-11T15:35:00Z
+    webUrl: "https://www.theguardian.com/society/2023/jul/11/use-of-artificial-intelligence-widened-to-assess-universal-credit-applications-and-tackle"
+    ampWebUrl: "https://amp.theguardian.com/society/2023/jul/11/use-of-artificial-intelligence-widened-to-assess-universal-credit-applications-and-tackle"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2023/jul/11/use-of-artificial-intelligence-widened-to-assess-universal-credit-applications-and-tackle"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/90172fe6f44d88e93dab2ea89f9d8ccc655493be/0_35_4771_2864/master/4771.jpg?width=620&quality=85&auto=format&fit=max&s=ba23edb60b76b430efeadf4c81c527a3"
+        width: 620
+        height: 372
         isCached: true
   - title: "How AI is transforming Hollywood, and why its at the center of contract negotiations"
     excerpt: "The AI company Metaphysic is immortalizing actors through data capture, allowing them to appear in future films without ever being on set."

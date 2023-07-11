@@ -45,6 +45,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Anthropic releases upgrade Claude 2 AI chatbot with improved safety and coding ability"
+    excerpt: "Claude 2, an upgrade over Claude 1.3, is now available as a beta chat experience for users in the United States and the United Kingdom. The chatbot is also available for business access through an application programming interface at the same price as the previous model."
+    publishedDateTime: 2023-07-11T16:17:00Z
+    webUrl: "https://siliconangle.com/2023/07/11/anthropic-releases-upgrade-claude-2-ai-chatbot-improved-safety-coding-ability/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/claude-anthropic-image.png"
+        width: 2880
+        height: 1620
+        isCached: true
 
 secured: "+Bzo/H3heIi1Sl1JlY2i+xyEi5LQf4ktbVHxNG5bUNTYDfMIyOlviucZ+5gwCUJmTzC7JKga5q/qJscGc51PT/Dwo9FObacQHLw1cVp180fKxDGcJbQGJyC2jVNKGD3I9+jQSiU+y06Ji3wfrnGKldy2OgmudXcmMvx1HFLET5aNUaBaTZmw82/+bJQJ38SnzWs4oMELqicRA7APHiwFt5QKWOvJzvCUVlXueuP59hPLen8dWGA8d2ItFSN91ud8axm0r0AaMSf7TnW2tRDun8K07xlmMLsFAiz/az5SEiypZp2EiKs62Od5Z6OGp2Z6oIGltbU7uYGbBXbl3JdI9Z3oBDo4TwNP5z5yLqewrpbd7/8WXXrcuLoxXx7M9dpjdvG/LIgbKcA9poRGILYuamH5V7Vvnge7RTBbYskKL6MYBSJyB0lEYA5UsRDC82aDOFX2RelxDNO6W3lkvDoV8PmDTWPc0MCmW9uIUUazVk4tK+IHzTd78OsHerK5q0pQSmclCcFLUI5/cYLfmE5LSw==;/p+t6PSGUwB8MiP7vhKlew=="
 ---

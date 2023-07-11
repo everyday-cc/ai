@@ -25,50 +25,154 @@ images:
     isCached: true
 
 related:
-  - title: "Service Robotics Market to grow at a CAGR of 22...."
-    excerpt: "The service robotics market is set to grow by USD 48,788.55 million from 2022 to 2027, progressing at a CAGR of 22.75% during the forecast period. The report offers an up-to-date"
-    publishedDateTime: 2023-07-07T01:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33142292"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33142292"
+  - title: "AI Robotics - South Korea"
+    excerpt: "Value in the AI Robotics market is projected to reach US$301.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.32%, resulting in a market volume of US$768.30m by ..."
+    publishedDateTime: 2023-07-07T16:29:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/south-korea"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
+      name: Statista
+      domain: statista.com
+    quality: 69
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Autonomous Vehicles Market Size is expected to grow at a CAGR of 8.7% between 2023 and 2033"
-    excerpt: "In 2023, the autonomous vehicles market size is expected to be worth US$ 30,539.0 million. The revenue from sales of autonomous vehicles is anticipated to reach around 70,331.5 million by 2033, growing at a CAGR of 8."
-    publishedDateTime: 2023-07-10T05:09:00Z
-    webUrl: "https://www.fmiblog.com/2023/07/10/autonomous-vehicles-market-size-is-expected-to-grow-at-a-cagr-of-8-7-between-2023-and-2033/"
+  - title: "AI Service Robotics - Netherlands"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$110.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.68%, resulting in a market volume of US$271 ..."
+    publishedDateTime: 2023-07-07T06:19:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/netherlands"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 14
+      name: Statista
+      domain: statista.com
+    quality: 69
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/07/Ferrovanadium.jpg"
-        width: 300
-        height: 300
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Fintech Software Market to grow at CAGR of 8.82% from 2022 to 2027 | North America estimated to account for 35% of the market growth - Technavio"
-    excerpt: "The fintech software market is set to grow by USD 24,277.91 million from 2023 to 2027, progressing at a CAGR of 8.82% during the forecast period. The report offers an up-to-date analysis regarding the current global market scenario,"
-    publishedDateTime: 2023-07-07T07:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/07/9844495.htm"
+  - title: "AI Industrial Robotics - Denmark"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$112.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.82%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-08T13:02:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Statista
+      domain: statista.com
+    quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/2148334/Technavio_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "AI Industrial Robotics - Europe"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$2.50bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.34%, resulting in a market volume of US$6 ..."
+    publishedDateTime: 2023-07-10T14:14:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Service Robotics - Italy"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$114.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.09%, resulting in a market volume of US$288 ..."
+    publishedDateTime: 2023-07-10T09:28:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/italy"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Industrial Robotics - Russia"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$58.19m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.56%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-10T19:50:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/russia"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Service Robotics - France"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$171.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.38%, resulting in a market volume of US$413 ..."
+    publishedDateTime: 2023-07-11T07:38:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/france"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Industrial Robotics - Germany"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$0.37bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.47%, resulting in a market volume of US$0 ..."
+    publishedDateTime: 2023-07-07T05:05:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/germany"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 49
+  - title: "AI Service Robotics - Belgium"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$52.67m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.88%, resulting in a market volume of US$130 ..."
+    publishedDateTime: 2023-07-08T04:39:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/belgium"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 49
+  - title: "AI Service Robotics - Spain"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$99.63m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.71%, resulting in a market volume of US$260 ..."
+    publishedDateTime: 2023-07-07T20:07:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/spain"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 49
+  - title: "Facial Recognition - South Korea"
+    excerpt: "Value in the Facial Recognition market is projected to reach US$91.20m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.10%, resulting in a market volume of US$215 ..."
+    publishedDateTime: 2023-07-07T16:29:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/facial-recognition/south-korea"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robot Conducts Orchestra in South Korea"
+    excerpt: "An android robot, named “EveR 6,” took the conductor's podium in Seoul, South Korea, on the evening of Friday, July 1, to lead a performance by South Korea's national orchestra, marking the first such attempt in the country."
+    publishedDateTime: 2023-07-10T13:12:00Z
+    webUrl: "https://www.insideedition.com/robot-conducts-orchestra-in-south-korea-82399"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 19
 
 secured: "N7wEY7Lw7kAXK/Wp5NnmdK+60JpFtW5b1kCOh2NAlgEG5vYzR5QesmeC0oymTemwc9NGv2iUPpnzJTZJU3+48BgR5qSY1ftfws5UL4WCrn/Ia6OrW3+qJNrfNxYqHJHUjXYNQzTP6fIygRun1TnrruRJuNkkT5GHzpTEQ+5VYfOk4WNc6X1iRRw+SSIyd1sF1HPWK3Cbh/klbZLRCiqS7bh1JSCQtmq5t2vjYjQMi8KXXTYIvSYSs0WS9khZiw4YxgYbs0vupfDK3ngLXQeluan1wj9LX886JS2mMY5xjgv89v0A4s8SHee6I/ddHyZi5VHYk/cSIhJdWxWcawj0CXMlM+94HctBIz80B5MLMNE=;XP8XJLvvsw6wc8i6Ne6LaA=="
 ---

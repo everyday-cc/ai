@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "To begin with, let’s just make sure we’re all on the same page: what is AI? Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very ..."
+    publishedDateTime: 2023-07-11T16:10:00Z
+    webUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Are You Getting Scammed Through AI Voice Swindles? 4 Safeguards You Need To Know"
     excerpt: "According to a new report by the Identity Theft Resource Center (ITRC), “80% of identity theft victims are due to scams, and thieves are becoming more sophisticated in their quests to steal personal identifying information (PII) from victims with 61% of them being conducted through AI voice.”"
     publishedDateTime: 2023-07-08T14:00:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6481f0a20bd1d57b30595934/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 836
+        isCached: true
+  - title: "Bill Gates isn’t too scared about AI"
+    excerpt: "“The best reason to believe that we can manage the risks is that we have done it before.”"
+    publishedDateTime: 2023-07-11T17:09:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/GettyImages-1236298089BW.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
   - title: "Why everyone is mad about New York’s AI hiring law"
     excerpt: "Last week, a law about AI and hiring went into effect in New York City, and everyone is up in arms about it. It’s one of the first AI laws in the country, and so the way it plays out will offer clues about how AI policy and debate might take shape in other cities."

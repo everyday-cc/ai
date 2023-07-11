@@ -28,23 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "EU Probes Amazon Purchase Of Robot Vacuum Maker"
-    excerpt: "The EU on Thursday opened an antitrust investigation into Amazon's $1.7-billion purchase of US robot vacuum maker iRobot over competition concerns."
-    publishedDateTime: 2023-07-06T23:14:00Z
-    webUrl: "https://www.barrons.com/news/eu-probes-amazon-purchase-of-robot-vacuum-maker-be5a4b87"
-    ampWebUrl: "https://www.barrons.com/amp/news/eu-probes-amazon-purchase-of-robot-vacuum-maker-be5a4b87"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/eu-probes-amazon-purchase-of-robot-vacuum-maker-be5a4b87"
+  - title: "I test robot vacuums for a living — here’s 3 deals I recommend for Prime Day"
+    excerpt: "What separates the iRobot Roomba j7+ from the crowd is its intelligence. With built-in object recognition, it can learn and report on its encounters. In fact, iRobot has introduced a Pet Owner Official Process, (P.O.O.P), which guarantees a replacement ..."
+    publishedDateTime: 2023-07-11T00:13:00Z
+    webUrl: "https://www.tomsguide.com/deals/i-test-robot-vacuums-for-a-living-heres-3-deals-i-recommend-for-prime-day"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 38
     images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
+      - url: "https://cdn.mos.cms.futurecdn.net/t8SDvoiLRZNEouBTTAbA5Y-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "km38XQ1bbmnbfK+iL5iFudmBpC13khF/7WMNXqkB4JwRTTDOEzwd4MhIYAIpD9FQkZT8wOZvNKRnPwvBtZhDVHAH6azb03DNyQeLjJ3VN7KDkp+NHSe+yd9nop2IAUPEmBIQXuJdNpXrzTGzzNKPy6bK2AFY6Dwx4OxROdG7b+goVa6jR7z+XaF/73cKcCUu1dMV482uyog+SbQzsCRfbckCCaHVjbRrfE4O0O4MdgqCKWjOU0dhGcDWES6naBeaHbiGymFoYCA7eYfRaSsZ74o6hCggGHC5bu70kiQN36CmkLfYzSnFzFimS21inWwiCQ7IysFXpDF273HReRSneLlGxKdUDYALVUoBTFdMu78=;OkY3qBCuEqxZsGFjwtsugw=="
+secured: "9xA/YfSNIkAUUAJ6bGCMdVarIkwOTt6qJcIBDodnvdTcSMFFbUHrlAD/bsWFylMxgXGzup9v5pKqsNFwj28mRtqJIlJSU3X5PFESMttiq4VwZZXKDjJ2zm0BETjP3bBaBUNunfRSGodXaCCoJtct0o5tJ0eYcfiHD0Bv7BcwxDww+WpCqWwKcWJT9B1YAcpccFv8GyUGdhscGmnUtFcVeOcnKOnRkKDNI18AJtiKoSJB1E3ALguxfalAO31NqZnTfH/QbZ30tHRERavT0Jf9GsafmywSOJ0PWyl438l27IMaUF4jROnxwESaqNvPloG4nalbmZ7B77XZK9HS6vYvTKDcVpauPiyMjVJeQWXlS0g04E7xuni428HNXY6hF/nb1YGsj5nFI+OcXBjlDObBQ9VGaqcrM5rkU4aj3ZWJsrrDVt487+tsP9AcVjFmmFLyXGr1w7atgnqMl7Zc4Rv8/oyBZeVWnErn8BwLRkGQjWPXBZqIOuNh+ZP5MBv3BDr9Ybjdc+NNLLWISfeTjbBQGQ==;3d569z1YSQVOAbBNgj/Yww=="
 ---
 

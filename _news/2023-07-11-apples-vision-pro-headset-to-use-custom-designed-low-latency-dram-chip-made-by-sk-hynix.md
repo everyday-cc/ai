@@ -5,9 +5,11 @@ excerpt: "Apple's Vision Pro headset will use a new type of dynamic random acces
 publishedDateTime: 2023-07-11T12:22:00Z
 originalUrl: "https://www.mactrast.com/2023/07/apples-vision-pro-headset-to-use-custom-designed-low-latency-dram-chip-made-by-sk-hynix/"
 webUrl: "https://www.mactrast.com/2023/07/apples-vision-pro-headset-to-use-custom-designed-low-latency-dram-chip-made-by-sk-hynix/"
+ampWebUrl: "https://www.mactrast.com/2023/07/apples-vision-pro-headset-to-use-custom-designed-low-latency-dram-chip-made-by-sk-hynix/amp/"
+cdnAmpWebUrl: "https://www-mactrast-com.cdn.ampproject.org/c/s/www.mactrast.com/2023/07/apples-vision-pro-headset-to-use-custom-designed-low-latency-dram-chip-made-by-sk-hynix/amp/"
 type: article
-quality: 12
-heat: 12
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -19,6 +21,12 @@ topics:
   - AI
   - AI Hardware
 
-secured: "bwAKlBgENeFcO6oo/qJ5Zb5Idyd4Spja5Zgv9bEWh5tFn2j6ezb3qPE7cKg2oOVlVx3tKxX1oYlFI81ZgZHF1hvM0bEeUTfiJ8SKepH/7TY7yJ5tNAziastVZmp1sfS7KGN9Ee3rLAAghXA0uyYcRwgwS17vzoac4BF1yOWLLvz04fTNIaSjSdMnPxcq/ZgNeyI56Hz5tJRSWhlF21xBtgRBbUwJ8dryXrWtVAjBHoNmo/mzw034k3J/Te+tXZcE+pStnLHAl01p4DmmdK5NSfR1EgoBnKP+YLmbPpYRD5XeaByFAeTW7VdP7tW73LQFGwtJLR1yXF6S40/0IbpAnZ15Gu2MjVupIg/0SAypTBI=;sEVEaAi1QzFZYb8U7hvIhA=="
+images:
+  - url: "https://www.mactrast.com/wp-content/uploads/2023/06/Apple-WWCD23-Vision-Pro-glass-230605_big.jpg.large_.jpg"
+    width: 980
+    height: 551
+    isCached: true
+
+secured: "HPm1H2qX5SJEuDK078rH/XF1o73Yb4RwQDg2Q4LRCNRvgQWqCDctO34hZ1wVQC6cdVjIqug7tkRj6N9PN12nubCSfraC7g1wa9Z1dEbYtRxa/U+Fexuok01AJ+Hi48FmBIkVX/lqA3cWggCdgk+G2H0oGSMHCyqNMyOQ2cTescLeQzp9mTnifdnvlZ+QeOC+GOSLpgmuTd9N7K18l0EsJsh4wC6Y8qHIvFCHhtxKZayxnn5PFCgtjky1VCbJi3tIe/DwFev2e+AxhSXevEBJLyChuXuVt7wFO/VAtUP1TzGP6O8YRuaRovKb5SbwvQMpb73gCDSJZ1OYzXyaZSH2iRf/ywJHHsT8HO89yzwJuNU=;2mFjuMKfrKsKyCbCwWbfqA=="
 ---
 

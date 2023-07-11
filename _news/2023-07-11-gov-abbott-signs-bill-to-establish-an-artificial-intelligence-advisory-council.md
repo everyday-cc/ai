@@ -5,9 +5,11 @@ excerpt: "Gov. Greg Abbott signed House Bill 2060, which will establish an Artif
 publishedDateTime: 2023-07-11T12:40:00Z
 originalUrl: "https://www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council"
 webUrl: "https://www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council"
+ampWebUrl: "https://www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council?_amp=true"
+cdnAmpWebUrl: "https://www-keranews-org.cdn.ampproject.org/c/s/www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council?_amp=true"
 type: article
-quality: 13
-heat: 13
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "xKc2/mCXnxR5UmV3USx9zBRpF7AIzfeJAjKJ6A6G9lpJPlxKs852/FLgJCwVz9UEH/Joz58etFYZKQPwxNQzjIMp1N5tTFzmNbpIG/yan11Eydpg4g05xAR+3rFa8pcEXJ2rixKA1t6ZYtVMxKFirn/ARS1sI/Xq7KhooumZWgcu1F6UzdTGLoLSLawOeFJ3Cpcwg1wW+zGK+SRRxDbB5GboBX1ZaQHEWtU0m/+rmEZBCEcPLpwfXzehTu5mu5PPZ8Yf8P9TktFXqOJx+Dr8HKpFfsmyb5uY9bNhfGj3WS4wTyxVmKSmelvZGjgJytBNZMRO0dhCCmfaPIWKc4sPh930zbX6JwJp3ZC1X0XPe/+DL5jtaPW8zvVVeIUDD4/z+sAcE81nGzdxbJdPquWDx1ikUxUdkULzTsSbOvDsHcSFEx44x+gRt83n5zahtefXqRaONdIlVkSthOst1FZpwY8NLcB8tIOTc9BfrkmOaqIuM2I3XYP+wxlzfvaJfbkB5dcmL/V0ZYKEU5JzVhGdwg==;uc/+P6JyxEvBvuyubDTjQg=="
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/d245656/2147483647/strip/true/crop/1010x568+0+52/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2F6e%2Fd736005240eead037dfe7e0713f3%2F060723-denton-county-courthouse-drc.JPG"
+    width: 480
+    height: 270
+    isCached: true
+
+secured: "+qW7yfdW7DAEzciOiCUKORlHokWQN82pmJ4+UQUoluHMlncjnppYcLhyL4SCO6LNIpH3EZxqWzVWI0GeFM9FMx41msihI61p50KWQHq8VwIxhU+P+gUJ83D12BGQpG6bfD0n8/spZlA8UQkXLQ4pJQuGWhzG6zMpEM1+phhMvxz4MuoaXVw2d1uZJfOfZOl1PdzIbNVkUfVR+KAnRcPz5ftJPjcYXN9J8sDcLxfwnDcFcMuT7cjwVRB676GNCk/lWVEP8/uub2wRGJDz/I48J3q4p9aaFHy63UqLVzdUMD4Mmw1prei1cqBfZ8aY7V2FVivsLx1gubodbujiWeFSXlVq2ScJk+dfp2bvXSJN214=;4oGmdK1KStY3fFmMspoQ7Q=="
 ---
 

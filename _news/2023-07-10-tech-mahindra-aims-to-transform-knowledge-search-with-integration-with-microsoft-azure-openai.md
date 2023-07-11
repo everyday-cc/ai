@@ -7,7 +7,7 @@ originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=159549
 webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=159549"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Rubrik and Microsoft announce Generative AI-Powered Cyber Recovery and Remediation"
-    excerpt: "Rubrik, the Zero Trust Data Security Company, today announced a joint collaboration to integrate Rubrik Security Cloud with Microsoft Sentinel and Azure OpenAI Service to accelerate cyber recovery through the use of generative AI and Natural Language Processing (NLP)."
-    publishedDateTime: 2023-07-06T23:13:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20230706/4096430.html"
+  - title: "Microsoft Entra expands into Security Service Edge and Azure AD becomes Microsoft Entra ID"
+    excerpt: "Microsoft Entra is unifying identity and network access with a new Security Service Edge solution and more identity innovations."
+    publishedDateTime: 2023-07-11T16:09:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/07/11/microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 28
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
+    images:
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/06/250087_SCI_Entra_T1_Moment_Blog_230601_Blog_Security_NoText_1280x720-1.png"
+        width: 720
+        height: 720
+        isCached: true
 
 secured: "b6EK1XwJu/7Bz0MRpyJ6ptFMEbyIKHCOc14GYORKMqXGh1rphS0ssFwa4B3gtxhr/RUWmr5uGHOmetuZGx15aIMUo6yivk0PWeZjwySV6FBgnwAXT4FcScBSUyL574DC6OwPvx24EKReb/TqHdxE/WA/RIWYX+4UEG7754f9e5v71rjbFLCqYIvNqff64KwkZWeIvHhvxz7qzqgEvpoe5diR/axsfF4kJlkmyCwDjHXSV+8VEnfx9Ly36VXoX3+9sR6ZVcVhGvr0/pBAjClGxEhjM3zxcL7BNPlcgsfNfFgCJ6X8RbEROOigHEOX6qFF32FU9OR+qtuVrykK2uSrzEhbfKPSr+a8WLv8y5EF9GE=;rFytZHj4UiO2gI7MkER75Q=="
 ---

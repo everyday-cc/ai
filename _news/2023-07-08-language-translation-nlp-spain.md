@@ -7,8 +7,8 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natur
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/language-translation-nlp/spain"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Statista
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing - Italy"
+    excerpt: "Value in the Natural Language Processing market is projected to reach US$452.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.77%, resulting in a market volume ..."
+    publishedDateTime: 2023-07-10T09:28:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/italy"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing - Belgium"
     excerpt: "Value in the Natural Language Processing market is projected to reach US$186.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.52%, resulting in a market volume ..."
     publishedDateTime: 2023-07-08T04:39:00Z

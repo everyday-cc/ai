@@ -45,6 +45,20 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 41
+  - title: "Anthropic releases upgrade Claude 2 AI chatbot with improved safety and coding ability"
+    excerpt: "Claude 2, an upgrade over Claude 1.3, is now available as a beta chat experience for users in the United States and the United Kingdom. The chatbot is also available for business access through an application programming interface at the same price as the previous model."
+    publishedDateTime: 2023-07-11T16:17:00Z
+    webUrl: "https://siliconangle.com/2023/07/11/anthropic-releases-upgrade-claude-2-ai-chatbot-improved-safety-coding-ability/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/claude-anthropic-image.png"
+        width: 2880
+        height: 1620
+        isCached: true
 
 secured: "LBZtITruiEzTOwt+LMC5jlLr8DfFGI8x2Pk//mRMRnWp2j/Hc0A+tDVz62WH90M02MT0fbZRyYucYVWd+CwpcbQ4xJ+BQbkZE6fN6+rn3qKVzKOCsfmZZ+Ed032PkqJTJNN8pecvncX0c3+dyAqqpe2UX9OoCGCEkY0qkKt5IyJlslfVlTBcU0uz6tb4dxXWaFyLQwwOo+wLDsRLOWFkaWHM1o6GEJwCaawr5XJ2WqUHcgYnrDkZN4hE2MqjYt6HMFrnZeihiiOCwJaFtD/m3wXE0hs1YLpuTULscgXgtJxPbKi8s1Hm25EHmcXN9wEAco60qqRr+REGrPjwb0O7QSur+ZIf0vcz22/tbK6wfHVRk5ansVNdgBFqQ7yMryfWJpiuStGRpsbvFeXqgo/jF1+qRexalQPczYSyuGJ2B24guwYiqhHkRZzbtS4/zzkfPOW1MxnpXu8kOT5UB3QdXu95494L7IgLu/bMx9hv+GfoOS9IT82AQ8BcwjkK++lGSjybV5EdVWu5BDCEtzWYIw==;6txqbts54lma38Ne7QTHnQ=="
 ---

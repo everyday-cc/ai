@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-    excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London,"
-    publishedDateTime: 2023-07-07T01:05:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/269347"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 7
 
 secured: "RRm5gtTfkiLWZD/+m5mZ4mD8FWC7iTaEDtJnPOSi6ltzZPOziwsBRRiKzrMxA01N5qjIsfe5oTlO+vnNVZINa/ePx4620zXCaAcgk6YYTKh5DyFllzymeRQdHGXzBcB+zDN9myUERKjUt6TkVG86GzSMebopF/pWcpdqg1OrH52EPpPu73Bk1lG/x+ZmKT4IG5oQ2E23W8kjXa3rF2orpln8YHaVP7qvUnwXPfl99c5YkQoC8o0QOc01KDAzHkquXMUXFgtDzEsQlsJ+UTVgtTzrHuEnSLiXGREst4dlWI/kr8hJkUT0NZAr5nQ4I3UydNxytpvKXeDwZr5+dyM6gdYE2IGwa+tC03UwJAmqGstl6OpoysRhX/ZKkAVDZeG0bwjlmlZWbKPD/5bizKq2h/52J1G3D6zHL6Haeckm1AJKX8Ce2TS4T9Mv4HZluron+WbaziHHDs02CFP/xLILxyq0v0wcif5aQ7Ll8wd4KCrB0T3Bbz+kCNnlWzQS4Qp09vN0osYQ8JVsmoOndXke5w==;8C7Of9G99oe53aRwpuzHyQ=="
 ---

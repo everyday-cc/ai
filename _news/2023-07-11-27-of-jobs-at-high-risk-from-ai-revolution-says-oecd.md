@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/27-jobs-high-risk-ai-revolution
 webUrl: "https://www.reuters.com/technology/27-jobs-high-risk-ai-revolution-says-oecd-2023-07-11/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI revolution puts skilled jobs at highest risk, OECD says"
+    excerpt: "Law, medicine and finance sectors could be among most affected, according to organisation’s employment outlook"
+    publishedDateTime: 2023-07-11T16:33:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/c2d5317d9c0d51e4c97b627af427b393b89a0de7/0_276_8289_4973/master/8289.jpg?width=620&quality=85&auto=format&fit=max&s=c8d5e9bc1e4b48d9368c4b42ec591904"
+        width: 620
+        height: 372
+        isCached: true
   - title: "OECD says rich economies on cusp of AI ‘revolution’"
     excerpt: "Paris-based multilateral organisation calls on membership to prepare for negative side-effects from mass adoption of technology"
     publishedDateTime: 2023-07-11T09:00:00Z
