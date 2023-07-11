@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets"
-excerpt: "The future of the AI market appears promising with the development of conversational AI and autonomous systems, as well as the penetration of new industries"
-publishedDateTime: 2023-06-30T15:29:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59472759-artificial-intelligence-market-worth-dollar-1-345-2-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59472759-artificial-intelligence-market-worth-dollar-1-345-2-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm"
+title: "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™"
+excerpt: "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,"
+publishedDateTime: 2023-06-30T16:50:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/30/9842399.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/30/9842399.htm"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "XPB9f8cYCBq9flz/xwlXVT/TVj4yTMH02a3kvsUqOFwfDTALl0k4PgfcoIxpOFqbf2tRkBapu/wCtg8VzAT/BsbtiZAhPSnxez/l54Qozn8zSbJ8EocBWuz80cvHFcoHgg2ajNwQcP5q6zvEMWj3LzDVAfIz4j39z90oOIc3C08Zn356vh2fdsXM9OVtL2X9t4kY5rPluxMSV9hAodpNMAGB9T1dbXbXMsjfVhGI1v2+z/1cNYwZStCNSt2amaqm6cme2KwFyWVascwAAij9eAxSo8CC420F0Id1KHXL/xOHnR4jM7H/IUZICw8/HwLqf8JRRxj4noGzoNQfy9vVFj/japikjRLdr/RTJyIt8Jg=;nZ/fEb4Scbpu5dxFpjQI8Q=="
+secured: "o+ZpOTFwbOVf9wP62mlEVq78g3Wzh/tVrcWVSw26zQWrvN55kazVmcLQOudSA+oUQ6iDBaClR7cF9GU5sAN9PhLkSVZEZQT+botsSU2jY/Kal0WAh4m1eqiFA92jznaFilSsXQUohbjIMCKWaKrHE+k8Dv76ruTLtV3ZnAeekbdbDtp3jF6L0aQicKWls+uIw0T96GnDLMmsVLQnsUdUVLA4NB5Izp+btPk/0JbGRhPWxK6i6LbQ5k/b7HIHGgPDU4iKbdleCTPPeGuzUr59xMkWlawekIWXridrbHf9ETAqCLUEnKEEslyUYTcwEygalC0St12BR6fkCV+4yfzpbAx9mj6FYlyOWQebGTlJ6lrn1BhKPSOj0BZpj16OoK9XdDfpOZr5v4v8EjP2e7QQC5nagAKvElB1DXVHO6Nk8bI9vA2wFHzyW1DVMw1auUJDshSMLor8hlBSCmJy189AP7lyn4t6FvoWwVt3zJslx7sTelV36J4HrdKoDWBhztIQ7h3+yTONHjav27L2xGacUA==;yf0W2C03aPNvlypRVrrNTw=="
 ---
 

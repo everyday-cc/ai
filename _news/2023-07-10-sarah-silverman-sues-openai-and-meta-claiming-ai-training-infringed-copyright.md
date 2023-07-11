@@ -58,6 +58,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI assembles a team to stop an artificial intelligence apocalypse"
+    excerpt: "OpenAI is assembling a team to prevent emerging artificial intelligence technology from going rogue and fueling the extinction of humanity, which the company now fears is a real possibility. The makers of popular chatbot ChatGPT say AI will power new ..."
+    publishedDateTime: 2023-07-07T17:28:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jul/7/openai-assembles-team-stop-artificial-intelligence/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 52
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/05/15/OpenAI_CEO_Congress_63364--59fd7_c0-362-4338-2892_s1200x700.jpg?de1cd1f8659b51ed210886b8ca4ee473503a3fdd"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Mount Sinai Launches Center For Ophthalmic Artificial Intelligence And Human Health"
+    excerpt: "The Icahn School of Medicine at Mount Sinai established the Center for Ophthalmic Artificial Intelligence and Human Health in New York."
+    publishedDateTime: 2023-07-11T15:20:00Z
+    webUrl: "https://healthcaredesignmagazine.com/news/mount-sinai-launches-center-for-ophthalmic-artificial-intelligence-and-human-health/"
+    type: article
+    provider:
+      name: HCD Magazine
+      domain: healthcaredesignmagazine.com
+    quality: 48
+    images:
+      - url: "https://healthcaredesignmagazine.com/wp-content/uploads/2019/06/iriz1ktx_400x400.jpg"
+        width: 320
+        height: 320
+        isCached: true
 
 secured: "GAbvH0KfCagRrSI89QRuu+cKMdeBbckws4+YPhkwTFV0EfWNe2kZHxopNKhAWmRq8GcpnqnooQ62UjeqgGEJHXfrgEu0P2sQcozZABqbev61UXbA2IrOicH2LmoBWTpu5bgqB4j31/oZX1lSGrbWbrYrLZnIuxJqsBH7sg2t9+ROB1AEyeTvIRm5iRTDChi1IPOIkVzHTTckewDKvSDuzzomYnynZ2nry/gGqW5EU2Vv2jOZ9wR4rwrUC7TgoLMs1qth0ToCsHvyoqht7cWxrmLYoOUghD4H9GBN0Y/ijaYkQ9ISuLYlN50RSPQ8GwQxQMwpfxPwn6FTZWfiUnxH+USW4RJgTn6SrVX6/kAwjRw=;oLWi+HXfw4oV/QakOcLgbg=="
 ---

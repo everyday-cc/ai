@@ -123,20 +123,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Vecow and Solectrix Partner to Accelerate AI-based Vision Applications"
-    excerpt: "Vecow Co., Ltd., a team of global embedded experts, announced its partnership with Solectrix, a German provider of high-end electronics solutions."
-    publishedDateTime: 2023-07-06T22:43:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2023/vecow-solectrix-accelerate-ai-based-vision-app"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 39
-    images:
-      - url: "https://www.automation.com/getmedia/6bff5c26-3afd-432f-8d48-2d30bdfd7341/Vecow-July-6-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "New and advanced AI tech debuted at WAIC, with diverse applications"
     excerpt: "This year's World Artificial Intelligence Conference is debuting a range of new AI tech, from driverless vehicle technology, new large language models, and practical software. Artificial intelligence innovations are making global debuts at the ongoing WAIC in Shanghai."
     publishedDateTime: 2023-07-07T20:03:00Z

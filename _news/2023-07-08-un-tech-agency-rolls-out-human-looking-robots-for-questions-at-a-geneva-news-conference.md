@@ -27,66 +27,175 @@ images:
     isCached: true
 
 related:
-  - title: "Human-looking robots take questions at a Geneva news conference"
-    excerpt: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters."
-    publishedDateTime: 2023-07-07T22:42:00Z
-    webUrl: "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
-    ampWebUrl: "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
+  - title: "AI Robots At UN Reckon They Could Run The World Better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-07T17:39:00Z
+    webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 59
+      name: Barron's
+      domain: barrons.com
+    quality: 74
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg"
+        width: 768
+        height: 506
         isCached: true
-  - title: "UN Tech Agency Rolls Out Human-looking Robots For Questions At A Geneva News Conference"
-    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
-    publishedDateTime: 2023-07-11T07:40:00Z
-    webUrl: "https://www.businesstoday.in/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11"
-    ampWebUrl: "https://www.businesstoday.in/amp/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11"
+  - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
+    excerpt: "The event was part of the AI for Good Global Summit, meant to illustrate how new technology can support the U.N.’s goals for sustainable development."
+    publishedDateTime: 2023-07-07T16:40:00Z
+    webUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/"
+    ampWebUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
     type: article
     provider:
-      name: Business Today
-      domain: businesstoday.in
+      name: KSWO ABC 7 News
+      domain: kswo.com
+    quality: 64
+    images:
+      - url: "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/KUsmE_fZwT9E1GMvlLpS1p04jIM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RPPVKPDFLVFGTOTU3W27LARP4E.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Human-looking robots tell UN they could run world better, but won’t rebel"
+    excerpt: "Robots tell UN summit humans should proceed with caution when embracing rapidly-developing potential of artificial intelligence and admit they can't -- yet -- grasp human emotions"
+    publishedDateTime: 2023-07-08T23:55:00Z
+    webUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/"
+    ampWebUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 58
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2023/07/AP23188470818991-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
+    publishedDateTime: 2023-07-07T14:34:00Z
+    webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
+        width: 1024
+        height: 673
+        isCached: true
+  - title: "Rise Of The Robots: Un Tries To Tackle Mind-Blowing Ai Growth"
+    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday at its AI s"
+    publishedDateTime: 2023-07-07T03:05:00Z
+    webUrl: "https://menafn.com/1106567368/Rise-Of-The-Robots-Un-Tries-To-Tackle-Mind-Blowing-Ai-Growth"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?192047"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
+    publishedDateTime: 2023-07-08T03:45:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world/101587755"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "Some of the most advanced humanoid robots were at the United Nations’ AI for Good Global Summit in Geneva, joining around 3,000 experts in the field to try to harness the power of AI and channel it into being used to solve some of the world’s most pressing problems,"
+    publishedDateTime: 2023-07-10T01:53:00Z
+    webUrl: "https://www.brecorder.com/news/40251725"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 54
+    images:
+      - url: "https://i.brecorder.com/large/2023/07/64ab15d61998d.jpg"
+        width: 800
+        height: 480
+        isCached: true
+  - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-11T03:40:00Z
+    webUrl: "https://www.sciencealert.com/ai-robots-admit-theyd-run-earth-better-than-clouded-humans"
+    type: article
+    provider:
+      name: ScienceAlert
+      domain: sciencealert.com
+    quality: 54
+    images:
+      - url: "https://www.sciencealert.com/images/2023/07/HumanoidRobotPortrait.jpg"
+        width: 1024
+        height: 415
+        isCached: true
+  - title: "AI robots say they can run the world better than humans but won't steal jobs"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-08T12:39:00Z
+    webUrl: "https://interestingengineering.com/science/ai-robots-say-they-can-run-the-world-better-than-humans"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 51
     images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202307/w-9-ai-robots-steal-the-show-at-un-sixteen_nine.jpg"
-        width: 1200
-        height: 675
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/08/image/png/p4wBehFwZ5eUshfj5u7xc3d1x3tS9fc2ym1oyPn4.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
-    publishedDateTime: 2023-07-09T05:28:00Z
-    webUrl: "https://www.mariettatimes.com/wire/?ID=297029"
+  - title: "At a UN Summit, AI Robots Just Said That They Could Run the World Much Better Than Us"
+    excerpt: "Ever wondered what a group of robots would say about humans in a press conference? Well, you don't need to wonder anymore. At a United Nations summit earlier this week, a panel of artificial intelligence (AI)-powered humanoids just banded together to tell us a thing or two about the future of AI technology."
+    publishedDateTime: 2023-07-09T09:30:00Z
+    webUrl: "https://www.esquiremag.ph/culture/tech/artificial-intelligence-humanoid-robots-united-nations-ai-summit-a00203-20230709"
     type: article
     provider:
-      name: The Marietta Times
-      domain: mariettatimes.com
-    quality: 31
+      name: esquiremag
+      domain: esquiremag.ph
+    quality: 47
     images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.mariettatimes.com/images/2016/09/15131252/mt_fb.jpg"
-        width: 1200
-        height: 630
+      - url: "http://images.summitmedia-digital.com/esquiremagph/images/2022/07/29/shutterstock-235214128-1-1656294336.jpg"
+        width: 970
+        height: 546
         isCached: true
-  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
-    publishedDateTime: 2023-07-10T13:37:00Z
-    webUrl: "https://kvia.com/ap-news/2023/07/10/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference/"
+  - title: "Artificial intelligence can run world ‘better than humans’"
+    excerpt: "A panel of AI-enabled humanoid robots took the microphone on Friday at a United Nations conference with the message: they could eventually run the world better than humans. But the social robots said they felt humans should proceed with caution when embra­cing the rapidly-developing potential of artificial intelligence,"
+    publishedDateTime: 2023-07-08T01:08:00Z
+    webUrl: "https://www.dawn.com/news/1763612/artificial-intelligence-can-run-world-better-than-humans"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 31
+      name: Dawn
+      domain: dawn.com
+    quality: 39
     images:
-      - url: "https://kvia.b-cdn.net/2023/07/AI.jpg"
-        width: 1200
-        height: 783
+      - url: "https://i.dawn.com/large/2023/07/081213454917d66.jpg?r=121401"
+        width: 800
+        height: 480
         isCached: true
+  - title: "MBtv-Robots test their mettle at RoboCup, the world’s largest AI competition"
+    excerpt: "From football matches to first aid workshops, robots test their abilities at RoboCup, the world's largest artificial intelligence competition, being"
+    publishedDateTime: 2023-07-10T17:46:00Z
+    webUrl: "https://www.macaubusiness.com/mbtv-robots-test-their-mettle-at-robocup-the-worlds-largest-ai-competition/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 31
   - title: "Robots take questions at Geneva press conference, say they could be better leaders than humans"
     excerpt: "Ameca, engineered with social interaction in mind, dismissed the idea of starting a possible robot rebellion in the near future."
     publishedDateTime: 2023-07-07T16:01:00Z

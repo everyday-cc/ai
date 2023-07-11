@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/world/us/us-senators-get-classified-white-
 webUrl: "https://www.reuters.com/world/us/us-senators-get-classified-white-house-ai-briefing-tuesday-2023-07-10/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -26,6 +26,17 @@ images:
     width: 728
     height: 381
     isCached: true
+
+related:
+  - title: "White House, DOD, IC Officials to Brief Senators on Artificial Intelligence"
+    excerpt: "Officials from the White House, Intelligence Community and the Department of Defense will hold on Tuesday a classified briefing on artificial intelligence with senators as lawmakers work to advance legislative measures for AI,"
+    publishedDateTime: 2023-07-11T09:49:00Z
+    webUrl: "https://www.govconwire.com/2023/07/white-house-dod-ic-officials-to-brief-senators-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 15
 
 secured: "c2sRd09/KhIRzk2epW0g6F5UAHva+bOtg1+MaRjacx5h53EVEBbatKEY1rWwnik6BX0DvRne4AAh8rQ69YM5iFGhAkFUNd1aAave1muDXc372S1fPID3tmv1NzT6vWT193cQtb4saIwXfTJUKewbZEoT5Pd4YNgE5t4BJ/mOMgG3PfyJX06wnA72LKvBIusXTdZt7RFVLRFG4h620mmwdm8nL0lcRzWs8KjUWnMbEBwZ76+vlev8//P3zRbRMhLAZAWQx0GZ0TYnj6KjiVIP+HhxrCITL09mP1P1Xl384uYRgJrgqS9qAJwyMTgS7gBTQD0r0PWfveU9+ekdIVOd18ISrAM7u77tc9SxgxZNfkU=;OhcVKEUT6P8mH76p2HJO3A=="
 ---

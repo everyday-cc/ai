@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wcvb.com/amp/article/thursday-july-13-artificial-intelli
 cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/thursday-july-13-artificial-intelligence/44476312"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "C3.ai Inc. stock falls Thursday, underperforms market"
-    excerpt: "Shares of C3.ai Inc. slid 2.59% to $39.08 Thursday, on what proved to be an all-around grim trading session for the stock market, with the S&P 500"
-    publishedDateTime: 2023-07-06T21:24:00Z
-    webUrl: "https://www.marketwatch.com/data-news/c3-ai-inc-stock-falls-thursday-underperforms-market-8892629c-d15fb6376c85"
-    ampWebUrl: "https://www.marketwatch.com/amp/data-news/c3-ai-inc-stock-falls-thursday-underperforms-market-8892629c-d15fb6376c85"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/data-news/c3-ai-inc-stock-falls-thursday-underperforms-market-8892629c-d15fb6376c85"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://images.mktw.net/im-220105/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "/sFkydFP6XWSuAGDuiZvXU5DkRY6nE//9tbotqs1Ak20uv8thgvLBqQ0ZIcHLhyIlBWwwEWVJ0vUQlknFBJNCvyO0u2nSKsenZ1NNMDKxwGCNsrvpjzxhSnEb695zLEMHfOnwEiUfPOJvJRpIA/xC7VRbY+UkK3UT/AohgFNEFPK+c9WtyrkfVnodQLb4ZzJlRCARLwe7Hdl2xQnOqRfp8v6BU/rRTdNNOyw9iXk+5GHLjuwtGp+G437elQPAicdq3xYr2GvHHKSY5vGi4CFgZ7V+NJtCOzO0tvZBnf74R3N1Bc9ocsVS8wcsZD72MJHZiLQkJ9jHRch8JbERR1oB8/jW0x7FrbHvECiz33rrraE93CXkhIqVbDMW1g9orgShG4zQqclTsxlZMeCAHLokIxZ5Io4IAw3SMtq2jd22iOokt2RmtMFTODRdJagSXXuShIYZnYCV5hHkX/qZAjJBJDRpd1NGyAgms+dx9/udFRq7vHdh5WPO7cDRxLQKQqyemNnQUkqH7Eq0k70kgSkJA==;VBybew4z/elrwvyjGzdd9g=="
 ---

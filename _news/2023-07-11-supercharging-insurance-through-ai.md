@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Exploring institutions for global AI governance"
+    excerpt: "New white paper investigates models and functions of international institutions that could help manage opportunities and mitigate risks of advanced AI. Growing awareness of the global impact of advanced artificial intelligence (AI) has inspired public discussions about the need for international governance"
+    publishedDateTime: 2023-07-11T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/exploring-institutions-for-global-ai-governance"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
   - title: "How Machine Learning Is Supercharging The Industry"
     excerpt: "In the mortgage industry, staying ahead of the curve is crucial to success—which can be a problem when the industry itself is filled with new daily twists and turns. Thankfully, the increasing use of automated technologies can help mortgage organizations stay ahead of these curves,"
     publishedDateTime: 2023-07-09T20:17:00Z

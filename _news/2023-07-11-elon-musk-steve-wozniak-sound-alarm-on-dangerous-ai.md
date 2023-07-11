@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Elon Musk Predicts China Will Be an AI Powerhouse Someday"
-    excerpt: "He believes that China has the ability to excel in various sectors and emphasized its potential in AI development. (Photo: STR/AFP via ) Despite the challenges in AI development for the past years, Elon Musk believes that China is in a strong position to be a dominant force in the industry."
-    publishedDateTime: 2023-07-06T19:40:00Z
-    webUrl: "https://www.techtimes.com/articles/293523/20230706/elon-musk-predicts-china-will-ai-powerhouse-someday.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293523/20230706/elon-musk-predicts-china-will-ai-powerhouse-someday.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293523/20230706/elon-musk-predicts-china-will-ai-powerhouse-someday.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431159/elon-musk-predicts-china-will-be-an-ai-powerhouse-someday.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "EN0DWBfT2OE82WA6f5IXDIbn+6s5R1X9j5Q+1PkexSbX3lo7rUP1FV9J5DK2rNZtdnlLXnKeqf3v3eXCZnUEGR4ntxals4X1sJZyGcSsQCDkD1cnaea8zByvVtJZJuMs07sQjodWoYWREDqgCHH/q92yi3lPxI9W8c8J02HNiv5yt5edhvWDdxkPowQmFd3IEPLy4P3wgcg9ssaMKfES0WCFsSKcNLDv2BW5ZjjNaoxY1sPdbCOiiSjMcVtNZOzmQ0oL5gj19n8AY+itJE/e6g7K2lylb+USLMuQ8H1hkBFssbWMHfnDZ8Iotl/Rvtw6+01wf4q3A45B8wg6JOFQXPVFCypDJfmgZhTHxJgwecpxH3ubIZ/SzgcoupzF3C/fRxsIJI+DxIAWkI7UfgyFhWPS6W99taTvnZ6FaAYGBMC664NyUbdP4WrLoiMfoD75Cw6jL5ejrsg7fu7gLKUeVrySAcrMOOrNkLwecv5qpfKlh16ZwQU1+w5sPGjEny/wt2Rc6UpGKUoMec7rnu57cA==;ZQRIbcmZZpk35/DebmfqIQ=="
 ---

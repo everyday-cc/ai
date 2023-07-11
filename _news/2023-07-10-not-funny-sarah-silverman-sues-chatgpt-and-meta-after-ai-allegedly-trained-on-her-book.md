@@ -58,6 +58,34 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "OpenAI assembles a team to stop an artificial intelligence apocalypse"
+    excerpt: "OpenAI is assembling a team to prevent emerging artificial intelligence technology from going rogue and fueling the extinction of humanity, which the company now fears is a real possibility. The makers of popular chatbot ChatGPT say AI will power new ..."
+    publishedDateTime: 2023-07-07T17:28:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jul/7/openai-assembles-team-stop-artificial-intelligence/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 52
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/05/15/OpenAI_CEO_Congress_63364--59fd7_c0-362-4338-2892_s1200x700.jpg?de1cd1f8659b51ed210886b8ca4ee473503a3fdd"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Mount Sinai Launches Center For Ophthalmic Artificial Intelligence And Human Health"
+    excerpt: "The Icahn School of Medicine at Mount Sinai established the Center for Ophthalmic Artificial Intelligence and Human Health in New York."
+    publishedDateTime: 2023-07-11T15:20:00Z
+    webUrl: "https://healthcaredesignmagazine.com/news/mount-sinai-launches-center-for-ophthalmic-artificial-intelligence-and-human-health/"
+    type: article
+    provider:
+      name: HCD Magazine
+      domain: healthcaredesignmagazine.com
+    quality: 48
+    images:
+      - url: "https://healthcaredesignmagazine.com/wp-content/uploads/2019/06/iriz1ktx_400x400.jpg"
+        width: 320
+        height: 320
+        isCached: true
 
 secured: "xju8kDvk+1PnlxvLBsKm1eXkRFL6GTIp99sl6jjw0Uq/RvtuKynoal9GkrlhtWFuZAoQk1EnSARMbxKJWWHFZWhZv7zp3xqUj7ebo8SsST1xhP+Obfhn8wVt6XjM6kqeNNZCZUP8UHI4MhUWqee8F/6mDcV6syk12qUXzuND89hJb9SnyLvobMz0RpJazfnIfu0aJjdbKYcxPvJtCdp/AjhTHGdtZbPRP7bOt1GAfkad4IqDCFjoKT0IR1y7ib5h5fTrkyXvbTb33PJpaove64ZdZ8oT/C1CzFK5bkqz8w9QIslmgP9KKEcxoWj4jiKmKGig/z2YZsmpfqKMAAdPmRMuIiLJK1rK3KESERNzhA0YQRN6aFGiY+TDJnH1b25YSIiJPWu5RkqE77UvpHgCtwZI0y/Lnp6VV0R2NWQtb3e/UawkzhG9Cr8CBtK2Ruq785occGwOec90ne5oDP3NBpErAOZKGDbNE0r1OEaf92I+Oc6D9mFNZDW3OmWVOQ3wJcrUTh2cJdu+pHrvdtx/nQ==;n2WnoJOzPrsvEUuq20Eitw=="
 ---

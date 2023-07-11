@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "The benefits of AI in healthcare"
+    excerpt: "AI is used in healthcare for everything from answering patient questions to assisting with surgeries and developing new pharmaceuticals.\nThe post The benefits of AI in healthcare appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-11T14:31:01Z
+    webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 116
   - title: "AI In Healthcare And Other Scary Stories"
     excerpt: "No greater buzzword exists than Artificial Intelligence (AI) to make a story headline flash. In healthcare, stories about AI being used to discover new drugs and faster, more accurate medical diagnoses are guaranteed clickbait. These goals may be the stuff ..."
     publishedDateTime: 2023-07-07T14:12:00Z
@@ -57,6 +66,47 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The week in AI: Generative AI spams up the web"
+    excerpt: "This week in AI, a startup for SEO-optimized, AI-generated web content, OpenAI releases GPT-4 to the public, and a smart intubator."
+    publishedDateTime: 2023-07-08T15:01:00Z
+    webUrl: "https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/"
+    ampWebUrl: "https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/ETH-zurich-pixar-smoke.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
+    excerpt: "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT."
+    publishedDateTime: 2023-07-09T01:59:00Z
+    webUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 86
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
+    excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
+    publishedDateTime: 2023-07-08T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 72
   - title: "Generative AI in Healthcare Market Size is Expanding Around USD 21.74 Billion by 2032"
     excerpt: "As per Precedence Research, the U.S. generative AI in healthcare market size will reach at USD 8.7 billion by 2032. Generative AI, refers to a class of artificial intelligence"
     publishedDateTime: 2023-07-10T07:47:00Z
@@ -73,6 +123,31 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AI And Other Technology Can End The Great Healthcare Paper Chase"
+    excerpt: "One area ripe for change is the labor-intensive practice of \"chart-chasing.\" This manual review of paper charts, folder by folder, is a burden to both healthcare plans and providers. Worse, it is often conducted under the pressure of regulatory or third-party deadlines."
+    publishedDateTime: 2023-07-11T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/11/ai-and-other-technology-can-end-the-great-healthcare-paper-chase/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "The impact of artificial intelligence in the edtech industry"
+    excerpt: "AI makes administrative work in the EdTech sector simpler, resulting in increased operational effectiveness. Routine questions are automated by chatbots and virtual assistants, which provide quick answers and frees up staff time."
+    publishedDateTime: 2023-07-09T07:16:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-08T175203.653.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GE Healthcare survey: AI faces skepticism in the medical care business"
     excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the U.S."
     publishedDateTime: 2023-07-09T14:59:00Z
@@ -87,15 +162,76 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How 5 healthcare organizations are investing in AI for patient care"
-    excerpt: "Healthcare organizations are investing millions of dollars into artificial intelligence to achieve a faster and more accurate care delivery model."
-    publishedDateTime: 2023-07-06T19:08:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/ai-patient-care-cleveland-clinic-providence-adventhealth"
+  - title: "How five blue-chip firms are dealing with the rise of AI"
+    excerpt: "FTSE 100 companies have shared revealing insights about what breakthroughs in generative AI mean for their businesses"
+    publishedDateTime: 2023-07-10T15:46:00Z
+    webUrl: "https://www.raconteur.net/growth-strategies/how-five-blue-chip-firms-are-handling-the-rise-of-ai/"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
+      name: Raconteur
+      domain: raconteur.net
+    quality: 54
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2023/06/AI_c-suite_boardroom.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UCSF Health digital chief departs for healthcare AI company"
+    excerpt: "Aaron Neinstein, MD, former VP of digital health at UCSF Health, has joined healthcare AI company Notable as chief medical officer."
+    publishedDateTime: 2023-07-11T14:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/ucsf-health-digital-chief-departs-for-healthcare-ai-company.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "The best AI art generators in July 2023"
+    excerpt: "How do the best AI art generators work? AI art generators work by employing learned data. Developers of the models feed countless images into them, with which the artificial intel"
+    publishedDateTime: 2023-07-10T16:00:00Z
+    webUrl: "https://www.sciencefocus.com/future-technology/best-ai-art-generators/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 39
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/07/bears-fighting-dragon-611595f.jpg?quality=90&resize=940,400"
+        width: 940
+        height: 400
+        isCached: true
+  - title: "Opportunities of Artificial Intelligence field rich"
+    excerpt: "World Economic Forum has projected that AI will create 97 million new jobs by 2025. Club that with the fact that ChatGPT, which feeds on AI, got 173 million users in just six months after launching, and we get a picture of how all-pervasive AI is going to get."
+    publishedDateTime: 2023-07-11T06:26:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/07/11/opportunities-of-artificial-intelligence-field-rich"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 39
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/11/aurak-july11-main1-750.ashx?h=450&w=750&hash=FB6CDB5C048B02786A0B9B8F36406971"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "The Impact of AI on the Real Estate Market"
+    excerpt: "In their words, “that genie is out the bottle, and the only thing that will determine whether it will be good or ill will be the wishes we make.” But AI does not only serve the good; fraudsters will instruct AI to do their bidding as well,"
+    publishedDateTime: 2023-07-10T21:57:00Z
+    webUrl: "https://dsnews.com/news/07-10-2023/the-impact-of"
+    type: article
+    provider:
+      name: Default Servicing News
+      domain: dsnews.com
+    quality: 37
+    images:
+      - url: "https://dsnews.com/wp-content/uploads/2023/07/AdobeStock_602113162-620x330.jpeg"
+        width: 620
+        height: 330
+        isCached: true
   - title: "Seniors still skeptical of AI-led healthcare, new study shows"
     excerpt: "While patients acknowledge AI's ubiquity, they are not yet willing to cede the role of primary care and therapy to AI, a new study shows."
     publishedDateTime: 2023-07-07T04:20:00Z
@@ -113,6 +249,24 @@ related:
     provider:
       name: The Lima News
       domain: limaohio.com
+    quality: 34
+  - title: "GE HealthCare survey: AI faces skepticism in the medical care business"
+    excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the US."
+    publishedDateTime: 2023-07-09T18:00:00Z
+    webUrl: "https://www.aol.com/ge-healthcare-survey-ai-faces-150026709.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+  - title: "55% of medical professionals say AI isn't ready for healthcare"
+    excerpt: "Medical professionals are still skeptical about AI use in healthcare, with 55% stating that the technology is not ready for medical use."
+    publishedDateTime: 2023-07-10T18:18:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/55-of-medical-professionals-say-ai-isnt-ready-for-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 34
   - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
     excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"

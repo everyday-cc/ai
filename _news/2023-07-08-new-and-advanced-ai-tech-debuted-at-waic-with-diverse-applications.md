@@ -137,20 +137,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Vecow and Solectrix Partner to Accelerate AI-based Vision Applications"
-    excerpt: "Vecow Co., Ltd., a team of global embedded experts, announced its partnership with Solectrix, a German provider of high-end electronics solutions."
-    publishedDateTime: 2023-07-06T22:43:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2023/vecow-solectrix-accelerate-ai-based-vision-app"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 39
-    images:
-      - url: "https://www.automation.com/getmedia/6bff5c26-3afd-432f-8d48-2d30bdfd7341/Vecow-July-6-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Checkout.com is taking on identity verification with video-based AI-powered solution"
     excerpt: "Checkout.com is launching ‘Identity Verification’ to improve customer onboarding by using artificial intelligence to verify customers in under two minutes. The new identity verification process is video-based and uses AI trained on billions of data points labelled by ID fraud experts."
     publishedDateTime: 2023-07-11T05:57:00Z

@@ -24,70 +24,64 @@ images:
     isCached: true
 
 related:
-  - title: "What happens if a superintelligent AI goes rogue? OpenAI doesn't want to find out"
-    excerpt: "OpenAI is warning that a super-smart AI could 'lead to the disempowerment of humanity or even human extinction.' So it's building a team to stop it."
-    publishedDateTime: 2023-07-06T18:44:00Z
-    webUrl: "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
+  - title: "What Sarah Silverman’s lawsuit against OpenAI and Meta really means | The AI Beat"
+    excerpt: "Sarah Silverman is suing OpenAI and Meta for copyright infringement. Here's what this LLM lawsuit really means."
+    publishedDateTime: 2023-07-10T21:02:00Z
+    webUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
     images:
-      - url: "https://www.zdnet.com/a/img/resize/a27bcb6ac15e312d7b316c9880953a5713305bfc/2023/07/06/f56b62d2-b51c-454e-b950-3948506ffda0/gettyimages-1499492092.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI Is Hiring Researchers to Wrangle ‘Superintelligent’ AI"
-    excerpt: "research scientist and research manager. OpenAI says the key to controlling an AI is alignment, or making sure the AI performs the job a human intended it to do. The company has also stated that one of its objectives is the control of “superintelligence ..."
-    publishedDateTime: 2023-07-07T13:55:00Z
-    webUrl: "https://www.techrepublic.com/article/openai-hiring-researchers/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 71
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr070723-featuredimage-openai-hiring-researchers.jpg"
-        width: 1400
-        height: 929
-        isCached: true
-  - title: "OpenAI launches new alignment division to tackle risks of superintelligent AI"
-    excerpt: "The makers of ChatGPT have announced the company will be dedicating 20% of its compute processing power over the next four years to stop superintelligent AI from “going rogue.\""
-    publishedDateTime: 2023-07-07T11:29:00Z
-    webUrl: "https://www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 56
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/26/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-957654482_1200x800-100767998-large-100928446-large.jpg?auto=webp&quality=85,70"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/bigstock-LOS-ANGELES-NOV-Sarah-Si-268982926.jpg?w=1200&strip=all"
         width: 1200
         height: 800
         isCached: true
-  - title: "Book authors sue OpenAI and Meta over text used to train AI"
-    excerpt: "On Friday, the Joseph Saveri Law Firm filed US federal class-action lawsuits on behalf of Sarah Silverman and other authors against OpenAI and Meta, accusing the companies of illegally using copyrighted material to train AI language models such as ChatGPT and LLaMA."
-    publishedDateTime: 2023-07-10T19:42:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/book-authors-sue-openai-and-meta-over-text-used-to-train-ai/"
+  - title: "Not Funny: Sarah Silverman Sues ChatGPT and Meta After AI Allegedly Trained on Her Book"
+    excerpt: "Silverman is joined by authors Christopher Golden and Richard Kadrey in the lawsuit against OpenAI’s ChatGPT and Meta’s LLaMA."
+    publishedDateTime: 2023-07-10T15:40:00Z
+    webUrl: "https://gizmodo.com/sarah-silverman-sues-chatgpt-and-meta-over-ai-training-1850621182"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
-  - title: "What if a superintelligent AI went rogue? OpenAI doesn't want to find out"
-    excerpt: "OpenAI is warning that a super-smart AI could 'lead to the disempowerment of humanity or even human extinction.' So it's building a team to stop it."
-    publishedDateTime: 2023-07-06T18:29:00Z
-    webUrl: "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/35b4daa9c6a52ba49177fdd475cbff9d.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Sarah Silverman sues OpenAI and Meta claiming AI training infringed copyright"
+    excerpt: "US comedian and two other authors say artificial intelligence models used their work without permission"
+    publishedDateTime: 2023-07-10T12:31:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 46
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/577cdd44c75e672b4fa0f8d34e365956c238dc05/521_15_4449_2670/master/4449.jpg?width=620&quality=85&auto=format&fit=max&s=bca6624c1fc1e4ad6a043cc213b0eb59"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Mount Sinai Launches Center For Ophthalmic Artificial Intelligence And Human Health"
+    excerpt: "The Icahn School of Medicine at Mount Sinai established the Center for Ophthalmic Artificial Intelligence and Human Health in New York."
+    publishedDateTime: 2023-07-11T15:20:00Z
+    webUrl: "https://healthcaredesignmagazine.com/news/mount-sinai-launches-center-for-ophthalmic-artificial-intelligence-and-human-health/"
+    type: article
+    provider:
+      name: HCD Magazine
+      domain: healthcaredesignmagazine.com
+    quality: 48
+    images:
+      - url: "https://healthcaredesignmagazine.com/wp-content/uploads/2019/06/iriz1ktx_400x400.jpg"
+        width: 320
+        height: 320
+        isCached: true
 
 secured: "CvAgm//RYVW6l39lEWc+AJ5M4ElTCcFRcDtweYiIKhY9kXCOubeHI4JlMBf9caMI65/nQuR/X6f4wqADnzDSMSJHWPqJY0cYJz8buqd5iaKGPFGoRLMkYVD8NOcWV2Er6ZcGtHRw3eCu7EDOWwh/XvMs+U7UIRtC365QDIW46Ux4EP3sUroHoQHKWvlNJ/16i4V6tuleIL+fQJRRKxvOoRr1uOdIM9bOh+BsJ76ON/e8oRwW2b7vfLy6rP/pSxoH7yG90hOQsqosFm3wj9d2Aote8YgTNbKJ7rmcgTDBgV8zd+W7R1LBsUUR3I5RVFp2saazas1HHU8bQzb8m6CFl1xv+3oWK0QXbU0gFuKwSFs=;sLYAYwwdUfWr5iHV0jxs8Q=="
 ---

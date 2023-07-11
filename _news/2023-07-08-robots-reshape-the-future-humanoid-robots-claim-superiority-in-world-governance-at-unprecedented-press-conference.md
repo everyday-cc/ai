@@ -7,7 +7,7 @@ originalUrl: "https://www.lbcgroup.tv/news/world-news/712490/robots-reshape-the-
 webUrl: "https://www.lbcgroup.tv/news/world-news/712490/robots-reshape-the-future-humanoid-robots-claim-su/en"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,66 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Human-looking robots tell UN they could run world better, but won’t rebel"
-    excerpt: "Robots tell UN summit humans should proceed with caution when embracing rapidly-developing potential of artificial intelligence and admit they can't -- yet -- grasp human emotions"
-    publishedDateTime: 2023-07-08T23:55:00Z
-    webUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/"
-    ampWebUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 58
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2023/07/AP23188470818991-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
-  - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
-    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
-    publishedDateTime: 2023-07-11T03:40:00Z
-    webUrl: "https://www.sciencealert.com/ai-robots-admit-theyd-run-earth-better-than-clouded-humans"
-    type: article
-    provider:
-      name: ScienceAlert
-      domain: sciencealert.com
-    quality: 54
-    images:
-      - url: "https://www.sciencealert.com/images/2023/07/HumanoidRobotPortrait.jpg"
-        width: 1024
-        height: 415
-        isCached: true
-  - title: "At a UN Summit, AI Robots Just Said That They Could Run the World Much Better Than Us"
-    excerpt: "Ever wondered what a group of robots would say about humans in a press conference? Well, you don't need to wonder anymore. At a United Nations summit earlier this week, a panel of artificial intelligence (AI)-powered humanoids just banded together to tell us a thing or two about the future of AI technology."
-    publishedDateTime: 2023-07-09T09:30:00Z
-    webUrl: "https://www.esquiremag.ph/culture/tech/artificial-intelligence-humanoid-robots-united-nations-ai-summit-a00203-20230709"
-    type: article
-    provider:
-      name: esquiremag
-      domain: esquiremag.ph
-    quality: 47
-    images:
-      - url: "http://images.summitmedia-digital.com/esquiremagph/images/2022/07/29/shutterstock-235214128-1-1656294336.jpg"
-        width: 970
-        height: 546
-        isCached: true
-  - title: "Artificial intelligence can run world ‘better than humans’"
-    excerpt: "A panel of AI-enabled humanoid robots took the microphone on Friday at a United Nations conference with the message: they could eventually run the world better than humans. But the social robots said they felt humans should proceed with caution when embra­cing the rapidly-developing potential of artificial intelligence,"
-    publishedDateTime: 2023-07-08T01:08:00Z
-    webUrl: "https://www.dawn.com/news/1763612/artificial-intelligence-can-run-world-better-than-humans"
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 39
-    images:
-      - url: "https://i.dawn.com/large/2023/07/081213454917d66.jpg?r=121401"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "TmovRKu9vCbA2AysVPiHeV801p9EfP1aviSeW/1nWuZu5Hcq8wAWmiTsaHR10suPbcTReVA1XCL578gYyh0oV0BCDvOzUkjM38zy1k45dImig4ukhXkix2ahLZ1pNv5mIpB1TS9m8ubZ+dqWkinkBOMwqBVDgc40uE/9ZUhN3+6vfN/QjBL1r75j9LbhA0TjKuM9aQE1tQgNhpYVKqIbmKTy3mEiKWwr+aQFBiTxanbBP60B9DoKBaMIZXTDqyB1XFLOMw/I/ZOPPXx3CgysdTvT5Ug0eVYrDZszfi7do9aezfMdeQHThetRkI8FGtshr1WraoRMD6D8GghpjygEdKvxKo0TeaaXS9aAXPR4Lhc=;cfMhoa0JASqbl3uoF6PgDw=="
 ---

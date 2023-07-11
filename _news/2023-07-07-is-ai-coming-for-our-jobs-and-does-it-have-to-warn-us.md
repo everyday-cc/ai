@@ -45,6 +45,22 @@ related:
         width: 2560
         height: 2560
         isCached: true
+  - title: "Will AI Take Your Job? 27% Of Jobs In Wealthy Countries At High Risk, Report Says."
+    excerpt: "Jobs at high-risk of being replaced by AI include construction, transportation and farming, according to a new report."
+    publishedDateTime: 2023-07-11T15:35:00Z
+    webUrl: "https://www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-your-job-27-of-jobs-in-wealthy-countries-at-high-risk-report-says/"
+    ampWebUrl: "https://www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-your-job-27-of-jobs-in-wealthy-countries-at-high-risk-report-says/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-your-job-27-of-jobs-in-wealthy-countries-at-high-risk-report-says/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ad70589a32cef435e9bcff/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UBOT Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares ETF"
     excerpt: "The chart has 1 X axis displaying Time. Data ranges from 2022-05-12 00:00:00 to 2022-05-12 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -0.5 to 0.5."
     publishedDateTime: 2023-07-07T00:00:00Z

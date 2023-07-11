@@ -35,6 +35,22 @@ related:
         width: 2560
         height: 2560
         isCached: true
+  - title: "Will AI Take Your Job? 27% Of Jobs In Wealthy Countries At High Risk, Report Says."
+    excerpt: "Jobs at high-risk of being replaced by AI include construction, transportation and farming, according to a new report."
+    publishedDateTime: 2023-07-11T15:35:00Z
+    webUrl: "https://www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-your-job-27-of-jobs-in-wealthy-countries-at-high-risk-report-says/"
+    ampWebUrl: "https://www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-your-job-27-of-jobs-in-wealthy-countries-at-high-risk-report-says/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-your-job-27-of-jobs-in-wealthy-countries-at-high-risk-report-says/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ad70589a32cef435e9bcff/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Is AI coming for our jobs? And does it have to WARN us?"
     excerpt: "For example, e-Commerce company Shopify has considered the use of AI translation tools to provide customer support in multiple languages, following employee layoffs earlier this year. (Madeline Stone, \"Shopify Asks its Customer-Support Staff to Test New AI ..."
     publishedDateTime: 2023-07-07T16:50:00Z

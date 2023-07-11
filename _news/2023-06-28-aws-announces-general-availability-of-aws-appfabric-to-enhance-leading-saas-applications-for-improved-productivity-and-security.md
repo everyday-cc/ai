@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security"
-excerpt: "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies' existing investment in software as a service (SaaS) applications with improved security, management, and productivity."
-publishedDateTime: 2023-06-27T18:36:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/06/27/9840130.htm"
-webUrl: "https://it.tmcnet.com/news/2023/06/27/9840130.htm"
+excerpt: "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies’ existing investment in software as a service (SaaS) applications with improved security, management, and productivity."
+publishedDateTime: 2023-06-27T17:05:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity/article_c1b49bc1-6ec6-5a5c-9fb4-ff4afad1596d.html"
+webUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity/article_c1b49bc1-6ec6-5a5c-9fb4-ff4afad1596d.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
   - AI in Security
 
-secured: "bc5le0jMrFRy3BanQv13Db7N6D5VbFmGS5IQPdIQ2OwT4cdlmpmc/31VBcTrZ+gU7SdRbJtcbGMMwj23hQR2YTDmci+sSqYPTfV3KmQC5vQZ7B6CNNTxF2nkyPW8uhq1+hSa7p8Mgp6yUFf5RzmilPAvAaDZ8SixMBLPM8QV2UfKDAg6W/YMZ3GR81K9zsBnCQdTFt7p82p0moE1GqBUYTYdF3t6j/JEpEfmI8locHhKsaWV9Aow0YUyL4Ozvo/MIm9TXHP9V/XdPTQWmcFJPwK9xtrLd2fD9K3bkTiwKkfcKUypYzt5C1Qb4fz1T0sWcDaLpK3yS7mXLxUp45nJHEgOIl3m5ViSAyQrzvNS97c=;XV1c74R+v2o16JiMoQZg1Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "GBloWYzxTk7pGpMOKsT2gv16Iwpki+wyAr/TMIdzKZX/NHmQwR/G4LSGMAFAcYHkJkjS+Y1KiEm9501erl4+IFbPTafUz2P2lMmUP/M58xlr8c5Xd8skZTOwerpZ6xap9r0+z/bYZFIwvLI4F45HGzeO9+p1zZCLQalUuV/GmdDXpNPDSZHJg16vZUjFuvZqm+4SQqsPhDz5Jvicvkv2ImJ+ckPUFuISL4renfd7JFBMRkK6U6lD9t0lvmYFDYAJdjaOJia90dekkjTiB9BC3QcQcCIImypuG36itQ2vq4G9lhbofsyq6IOVV2HB97eu53qGofjTbJFfCZWuCwW771xJ853b80pjzS0Mi9XJr0k=;BDTtX+gduTMylhdD+tdhuA=="
 ---
 

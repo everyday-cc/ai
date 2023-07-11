@@ -44,22 +44,6 @@ related:
         height: 720
         isCached: true
   - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event"
-    publishedDateTime: 2023-07-07T19:15:00Z
-    webUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/"
-    ampWebUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/amp/"
-    cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/amp/"
-    type: article
-    provider:
-      name: Wane
-      domain: wane.com
-    quality: 51
-    images:
-      - url: "https://www.wane.com/wp-content/uploads/sites/21/2023/07/64a864b6b53c47.22505085.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
     excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
     publishedDateTime: 2023-07-09T05:28:00Z
     webUrl: "https://www.mariettatimes.com/wire/?ID=297029"
@@ -86,20 +70,6 @@ related:
       - url: "https://kvia.b-cdn.net/2023/07/AI.jpg"
         width: 1200
         height: 783
-        isCached: true
-  - title: "Robots take questions at Geneva press conference, say they could be better leaders than humans"
-    excerpt: "Ameca, engineered with social interaction in mind, dismissed the idea of starting a possible robot rebellion in the near future."
-    publishedDateTime: 2023-07-07T16:01:00Z
-    webUrl: "https://www.courthousenews.com/robots-take-questions-at-geneva-press-conference-say-they-could-be-better-leaders-than-humans/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 27
-    images:
-      - url: "https://www.courthousenews.com/wp-content/uploads/2023/07/robots-geneva.jpg"
-        width: 3000
-        height: 1962
         isCached: true
 
 secured: "yhTp8vl5/Fy9fRSKH2BD/uq+WqXACQ65dD7wO9ixHF+RLODbiLb1nW3rctJLFmc9A+sM2uzbVsQNh1eC2Vz9TmU0TD6fIuAADzKopRTtUOX+7UWct+JbNRdVsKTaxDwqgFXyZ9DzJ3f/2LAVYhfcs+tGDMPdOa+wBBbiRGVi66YYeKrCnUjiMvQmzjArpJd5wFBjHX9mqadHu44TiSnVigzXJOfDJDqcrb54CdZcNi2OUtsXqhICOn4cUBddAf8HqwgvW9cVtnHq2ePhZScM96Ylq8XBcOC4h7ykdrsskKWnKdap0j26JrXsriugQi4fBEGK0KYvA2GRwqbfd1INomwcl6Dl//2bUsb9IiqI2Kw=;raEB8jwqwqgiTho0trszOg=="

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Exploring institutions for global AI governance"
+    excerpt: "New white paper investigates models and functions of international institutions that could help manage opportunities and mitigate risks of advanced AI. Growing awareness of the global impact of advanced artificial intelligence (AI) has inspired public discussions about the need for international governance"
+    publishedDateTime: 2023-07-11T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/exploring-institutions-for-global-ai-governance"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
 
 secured: "SzMPaz7/ZxdKfk6Lfpvd91puzGjiyBd4Wpkq9J0abIX7Gos4ISj9/b+Pi25mECTy2mqlmubyETFFPnPLS8HZ0aQkTXzVA2H8lxeADLg42v0k55WzoxQejVbe3NOv4tn8OQb7yK8VgxyG9RJx8X+pC1sos26IwylrDm6z02X5tg32heS4BXE6dPRMaJ46stSAIr8DepUN29LRjVJjRx+yvck/SbWGwkjh7dD6CQAR3m9/qS8e73vnkCU7WeftGPF/NFaHQUoOQI7JKXvC/lXo367KykDg4pRBuicqeui+YOTWoNNHzU+f0XCXhukHAKQm8jNtAxMH3s5gJE6DtBIucxa6eMtr4ZL+vPnIsoLV18k+sB5cssrayLIo+wgnSFgVY1lRl2bxFIANmPUv1u1NwmWLNenh8JAY2LJ+0zAxRwJYH/UFGwCSt0L3aA4FirBXyydC6cI3bfwvfeNuM5bgQDPmWPh6iYYdxjEscviA4KLtBaHWDUBOwPKR63iMyGbTfOoRO7Xh0JAF52t8/fl6ng==;M9kmFfJHbZsHQO8MpuEdGA=="
 ---

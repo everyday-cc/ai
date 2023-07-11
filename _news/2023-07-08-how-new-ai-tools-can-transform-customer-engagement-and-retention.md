@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/enterprise-analytics/ai-tools-help-busines
 webUrl: "https://venturebeat.com/enterprise-analytics/ai-tools-help-businesses-reimagine-reach-out-to-customers/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AI tools are designing entirely new proteins that could transform medicine"
+    excerpt: "This neural network, and others like it, are helping to bring the creation of custom proteins — until recently a highly technical and often unsuccessful pursuit — to mainstream science. These proteins could form the basis for vaccines,"
+    publishedDateTime: 2023-07-11T15:59:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-02227-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 35
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02227-y/d41586-023-02227-y_25580716.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "vYEuxImPFxXpW3VK2G2X9EGOR2tl+NXOy44vYyc4/OGDivtPGi91XD5iCy+wEXvtAIvPKIbQgaThCtlJYFjWcZWm4H8lHMDs/cPr8ZwzQv8XfFeRiin7boGx5GH2/uxMehWKu1inIyJmCdJrkWJua4QmiP9H1vSQENxtmJYmhHCUC0PzrUjy6xtaxn2msQqjKxWuboe5t1tM2wilMJxBE2xGhgStGlkwtWZS99RyzOlaDpJJ4UDnfQ8J9+vO38zftoLULniETFcRw4f1Vx1yZzciqahN4sdSrQD496qokQjeDXb34IOl4EUuZE88bx8fe1wWd+4dSXQPLadqDdep9k2ESGIXrcB7MFIJAmX0sD+SSRkSQCv7/vQOrtDHW2Esc0jG82ivKd+V3fnJ8zvSzcYjp4oqMQc5cxH+UoDyEFQLojb7PNV1PSoBh2QRMOdZJ7pvRM3qT7/HV4n9ZhcVee2UfWUHiiJqRPmzSjYuxeYfcxXsTOfTyG674T1g7FwoWrstreuRFoqmBnIgal8PDA==;t4hX92TlIdbro5ggfud0Uw=="
 ---

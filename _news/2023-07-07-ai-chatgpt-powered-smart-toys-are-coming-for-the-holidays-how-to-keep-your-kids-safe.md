@@ -116,6 +116,33 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
+    publishedDateTime: 2023-07-11T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stocks-ai-potential-is-not-just-limited-to-rise-of-chatgpt-1032437318"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "ChatGPT Is Losing Users. Is The Artificial Intelligence Craze Over?"
+    excerpt: "The decline in usage of ChatGPT would indicate that artificial intelligence a fad that is now trending down. Is that a useful data point or should we ignore it?"
+    publishedDateTime: 2023-07-11T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/richardkestenbaum/2023/07/11/chatgpt-is-losing-users-is-the-artificial-intelligence-craze-over/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AI Startup Anthropic Releases a New Version of Its ChatGPT Rival, Claude"
+    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, has released a new version of its AI bot, named Claude."
+    publishedDateTime: 2023-07-11T13:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-11/ai-startup-anthropic-releases-a-new-version-of-its-chatgpt-rival-claude"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 46
   - title: "The potential healthcare privacy risks of ChatGPT"
     excerpt: "Protect patient data or risk HIPAA violations and lawsuits — two health policy experts explain the risks of using ChatGPT and offer tips for healthcare organizations."
     publishedDateTime: 2023-07-07T20:04:00Z
@@ -144,6 +171,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "LGBTQ+ consumers skeptical AI like ChatGPT will improve their financial experiences, Achieve survey finds"
+    excerpt: "Wide-ranging survey on the personal finance experiences and challenges of the LGBTQ+ community reveals access to financial opportunities is"
+    publishedDateTime: 2023-07-11T12:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lgbtq-consumers-skeptical-ai-like-chatgpt-will-improve-their-financial-experiences-achieve-survey-finds-1032437350"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
 
 secured: "y65gQOQqxOT7NfK7RMa36ztcOlx2m2e6DEx1gdMgq+6vyt6Uw96xeEJnyWH2Cjw6MzGOL65eL8KojD+9cQZeYrfcZRL+ONkfMjezeYKmfV+mG/gM0AyvyAjCkhJdK9CH7RLICGpE1QdAtLvdATT2eOTLhVEmAvHJ1C8gH05N24Ur8B4ux3FhLFOixXY8qhnUx85zkCMlNCt6bIvp0qQ4TYKiQPYSd9zDOXBQclHGN5n3iQ/5jOdHhoWZfsbm7MuveomY5qUiuZ6Swn0Y9noEg3RRkoMicsVPZQA8B+ZgR8fdvk6OAXT7yTcX2OxDAB5kOmC4pxtifwnT+kXPOcF+Pn2BtGmi/MQKwhe/s/+1bTI=;9hmHmeJf7kGstfCuxfrgGA=="
 ---

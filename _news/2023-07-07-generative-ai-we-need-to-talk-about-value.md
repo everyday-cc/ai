@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The week in AI: Generative AI spams up the web"
-    excerpt: "This week in AI, a startup for SEO-optimized, AI-generated web content, OpenAI releases GPT-4 to the public, and a smart intubator."
-    publishedDateTime: 2023-07-08T15:01:00Z
-    webUrl: "https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/"
-    ampWebUrl: "https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/ETH-zurich-pixar-smoke.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Are You Getting Scammed Through AI Voice Swindles? 4 Safeguards You Need To Know"
     excerpt: "According to a new report by the Identity Theft Resource Center (ITRC), “80% of identity theft victims are due to scams, and thieves are becoming more sophisticated in their quests to steal personal identifying information (PII) from victims with 61% of them being conducted through AI voice.”"
     publishedDateTime: 2023-07-08T14:00:00Z
@@ -86,6 +70,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Human-looking robots take questions at event about the future of AI"
+    excerpt: "A U.N. technology agency assembled a group of robots that physically resembled humans at a news conference. The International Telecommunication Union invited reporters to ask them questions on Friday"
+    publishedDateTime: 2023-07-09T10:38:00Z
+    webUrl: "https://www.gjsentinel.com/human-looking-robots-take-questions-at-event-about-the-future-of-ai/article_2898ef52-a434-5074-891b-4978853dac4d.html"
+    type: article
+    provider:
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/f/24/f24bbfc5-e7ad-57c9-acfa-1bf36f1f6e36/64aacba43bde5.image.jpg?crop=1780%2C935%2C0%2C114&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
     publishedDateTime: 2023-07-10T19:37:00Z
@@ -104,6 +102,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Google Says It'll Scrape Everything You Post Online for AI"
+    excerpt: "Previously, Google said the data would be used “for language models,” rather than “AI models,” and where the older policy just mentioned Google Translate, Bard and Cloud AI now make an appearance. This is an unusual clause for a privacy policy."
+    publishedDateTime: 2023-07-10T16:44:00Z
+    webUrl: "https://gizmodo.com/google-says-itll-scrape-everything-you-post-online-for-1850601486"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 49
+  - title: "4 Things Job Seekers Must Know About The New Role Of AI In Hiring"
+    excerpt: "As more businesses adopt AI recruitment tools, job seekers must understand how the technology is being used and the ways it might impact their chances of landing a job."
+    publishedDateTime: 2023-07-11T12:27:00Z
+    webUrl: "https://www.forbes.com/sites/bryanrobinson/2023/07/11/4-things-job-seekers-must-know-about-the-new-role-of-ai-in-hiring/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Using AI To Understand the Language of Molecules"
     excerpt: "This AI system only needs a small amount of data to predict molecular properties, which could speed up drug discovery and material development."
     publishedDateTime: 2023-07-07T15:00:00Z
@@ -159,6 +175,20 @@ related:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Applicability of AI and Robots to Nursing"
+    excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
+    publishedDateTime: 2023-07-11T15:38:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14151"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 39
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14151_16890894716486738.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "What Does AI Know About Wine, Camping, and Airport Food?"
     excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."

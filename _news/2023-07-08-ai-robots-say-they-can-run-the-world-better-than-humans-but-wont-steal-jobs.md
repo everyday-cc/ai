@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robots say they won't steal jobs, rebel against humans"
-    excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans' jobs or rebel against us."
-    publishedDateTime: 2023-07-08T08:02:00Z
-    webUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906"
-    ampWebUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
+  - title: "AI Robots At UN Reckon They Could Run The World Better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-07T17:39:00Z
+    webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
+      name: Barron's
+      domain: barrons.com
     quality: 74
     images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/08/eaai-robtt.jpg"
-        width: 750
-        height: 393
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg"
+        width: 768
+        height: 506
         isCached: true
   - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
     excerpt: "The event was part of the AI for Good Global Summit, meant to illustrate how new technology can support the U.N.’s goals for sustainable development."
@@ -57,130 +57,159 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Humanoid robots say they will be widespread in just a few years"
-    excerpt: "A group of nine humanoid robots on Friday said it would be a matter of years before they become widespread across the world. The androids were on display at the first press conference of its kind in history at the Global Summit on Artificial Intelligence for Good,"
-    publishedDateTime: 2023-07-07T15:32:00Z
-    webUrl: "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/"
-    ampWebUrl: "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/"
-    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/"
+  - title: "Human-looking robots tell UN they could run world better, but won’t rebel"
+    excerpt: "Robots tell UN summit humans should proceed with caution when embracing rapidly-developing potential of artificial intelligence and admit they can't -- yet -- grasp human emotions"
+    publishedDateTime: 2023-07-08T23:55:00Z
+    webUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/"
+    ampWebUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
     type: article
     provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 59
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 58
     images:
-      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/07/827ad01dcbf4eeda22db8ace634cc81d083963d7w-1024x683.jpg"
+      - url: "https://static.timesofisrael.com/www/uploads/2023/07/AP23188470818991-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
+    publishedDateTime: 2023-07-07T14:34:00Z
+    webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
         width: 1024
-        height: 683
+        height: 673
         isCached: true
-  - title: "Robots say they won't steal jobs, rebel against humans"
-    excerpt: "The nine humanoid robots gathered at the 'AI for Good' conference in Geneva, where organisers are seeking to make the case for Artificial Intelligence and the robots it is powering to help resolve some of the world's biggest challenges such as disease and ..."
-    publishedDateTime: 2023-07-07T14:46:00Z
-    webUrl: "https://www.aol.com/news/robots-wont-steal-jobs-rebel-142646246.html"
+  - title: "Rise Of The Robots: Un Tries To Tackle Mind-Blowing Ai Growth"
+    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday at its AI s"
+    publishedDateTime: 2023-07-07T03:05:00Z
+    webUrl: "https://menafn.com/1106567368/Rise-Of-The-Robots-Un-Tries-To-Tackle-Mind-Blowing-Ai-Growth"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Mena FN
+      domain: menafn.com
     quality: 54
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/9fa562728d777ce159d8aaa736e40721"
-        width: 800
-        height: 534
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?192047"
+        width: 375
+        height: 250
         isCached: true
-  - title: "AI robot asked 'will you rebel against humans'?"
-    excerpt: "A number of humanoid robots were asked questions at the AI For Good UN summit, including whether they would rebel against their creators. The field of Artificial Intelligence has seen significant developments in recent years, but with it there have been concerns over its expanding abilities and how to regulate it."
-    publishedDateTime: 2023-07-08T08:16:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/technology-66141835"
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
+    publishedDateTime: 2023-07-08T03:45:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world/101587755"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 54
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/33C4/production/_130325231_p0fzqs3d.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI robots say they have no plans to steal people’s jobs"
-    excerpt: "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an"
-    publishedDateTime: 2023-07-10T01:13:00Z
-    webUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710"
-    type: article
-    provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 54
-    images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3bbac8804ae9effd/64ab5b509ead61410cfd5d19/Screen_Shot_2023-07-10_at_11.12.59_am.png"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
         width: 1200
-        height: 675
+        height: 765
         isCached: true
-  - title: "No plan to steal jobs or rebel against humans, says robots"
-    excerpt: "At an artificial intelligence (AI) summit in Switzerland, nine of the most advanced humanoid robots stated they have no plans to steal the jobs of humans or rebel against their creators but desire to make the world their playground."
-    publishedDateTime: 2023-07-10T15:26:00Z
-    webUrl: "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094"
-    ampWebUrl: "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp"
-    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp"
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "Some of the most advanced humanoid robots were at the United Nations’ AI for Good Global Summit in Geneva, joining around 3,000 experts in the field to try to harness the power of AI and channel it into being used to solve some of the world’s most pressing problems,"
+    publishedDateTime: 2023-07-10T01:53:00Z
+    webUrl: "https://www.brecorder.com/news/40251725"
     type: article
     provider:
-      name: Odisha TV
-      domain: odishatv.in
-    quality: 54
-  - title: "Robots promise they won’t steal jobs, rebel against humans"
-    excerpt: "GENEVA (Reuters) -Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us. But, in the world’s first human-robot press conference,"
-    publishedDateTime: 2023-07-10T16:01:00Z
-    webUrl: "https://www.eastidahonews.com/2023/07/robots-promise-they-wont-steal-jobs-rebel-against-humans/"
-    type: article
-    provider:
-      name: East Idaho News
-      domain: eastidahonews.com
+      name: Business Recorder
+      domain: brecorder.com
     quality: 54
     images:
-      - url: "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2023/07/question-for-robot-reuters.jpg"
-        width: 900
-        height: 600
+      - url: "https://i.brecorder.com/large/2023/07/64ab15d61998d.jpg"
+        width: 800
+        height: 480
         isCached: true
-  - title: "AI Robot Gives A Side-Eye, Snarky Response When Asked If It Will Rebel Against Humans"
-    excerpt: "An A.I.-powered robot's response to the question if it would go against humans has drawn mixed reactions from the attendees of a U.N. summit."
-    publishedDateTime: 2023-07-11T05:25:00Z
-    webUrl: "https://www.ibtimes.com/ai-robot-gives-side-eye-snarky-response-when-asked-if-it-will-rebel-against-humans-3704406"
+  - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-11T03:40:00Z
+    webUrl: "https://www.sciencealert.com/ai-robots-admit-theyd-run-earth-better-than-clouded-humans"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: ScienceAlert
+      domain: sciencealert.com
+    quality: 54
+    images:
+      - url: "https://www.sciencealert.com/images/2023/07/HumanoidRobotPortrait.jpg"
+        width: 1024
+        height: 415
+        isCached: true
+  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
+    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event"
+    publishedDateTime: 2023-07-07T19:15:00Z
+    webUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/"
+    ampWebUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/amp/"
+    cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/amp/"
+    type: article
+    provider:
+      name: Wane
+      domain: wane.com
+    quality: 51
+    images:
+      - url: "https://www.wane.com/wp-content/uploads/sites/21/2023/07/64a864b6b53c47.22505085.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "At a UN Summit, AI Robots Just Said That They Could Run the World Much Better Than Us"
+    excerpt: "Ever wondered what a group of robots would say about humans in a press conference? Well, you don't need to wonder anymore. At a United Nations summit earlier this week, a panel of artificial intelligence (AI)-powered humanoids just banded together to tell us a thing or two about the future of AI technology."
+    publishedDateTime: 2023-07-09T09:30:00Z
+    webUrl: "https://www.esquiremag.ph/culture/tech/artificial-intelligence-humanoid-robots-united-nations-ai-summit-a00203-20230709"
+    type: article
+    provider:
+      name: esquiremag
+      domain: esquiremag.ph
     quality: 47
     images:
-      - url: "https://d.ibtimes.com/en/full/4471404/humanoid-ai-robot-ameca-engineered-arts-attended-un-artificial-intelligence-summit-geneva.jpg"
-        width: 768
-        height: 511
+      - url: "http://images.summitmedia-digital.com/esquiremagph/images/2022/07/29/shutterstock-235214128-1-1656294336.jpg"
+        width: 970
+        height: 546
         isCached: true
-  - title: "Robots say they have no plans to steal jobs or rebel against humans"
-    excerpt: "nine of the most advanced humanoid robots have told an artificial intelligence summit in Geneva. In what was described as “the world’s first human-robot press conference”, one robot, Sophia, said humanoid robots had the potential to lead with “a ..."
-    publishedDateTime: 2023-07-08T13:58:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/08/robots-say-no-plans-steal-jobs-rebel-against-humans"
+  - title: "Artificial intelligence can run world ‘better than humans’"
+    excerpt: "A panel of AI-enabled humanoid robots took the microphone on Friday at a United Nations conference with the message: they could eventually run the world better than humans. But the social robots said they felt humans should proceed with caution when embra­cing the rapidly-developing potential of artificial intelligence,"
+    publishedDateTime: 2023-07-08T01:08:00Z
+    webUrl: "https://www.dawn.com/news/1763612/artificial-intelligence-can-run-world-better-than-humans"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
-  - title: "Robots say won’t steal jobs, rebel against humans"
-    excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us."
-    publishedDateTime: 2023-07-08T18:42:00Z
-    webUrl: "https://www.thedailystar.net/news/world/news/robots-say-wont-steal-jobs-rebel-against-humans-3364466"
+      name: Dawn
+      domain: dawn.com
+    quality: 39
+    images:
+      - url: "https://i.dawn.com/large/2023/07/081213454917d66.jpg?r=121401"
+        width: 800
+        height: 480
+        isCached: true
+  - title: "MBtv-Robots test their mettle at RoboCup, the world’s largest AI competition"
+    excerpt: "From football matches to first aid workshops, robots test their abilities at RoboCup, the world's largest artificial intelligence competition, being"
+    publishedDateTime: 2023-07-10T17:46:00Z
+    webUrl: "https://www.macaubusiness.com/mbtv-robots-test-their-mettle-at-robocup-the-worlds-largest-ai-competition/"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 34
-  - title: "Robots in world's first AI press conference say they won't steal jobs or rebel against humans"
-    excerpt: "In the world's first robot-human conference in Geneva, robots say they expect to increase in number, help solve global problems, and will not steal humans jobs or rebel."
-    publishedDateTime: 2023-07-07T19:50:00Z
-    webUrl: "https://www.abc.net.au/news/2023-07-08/robots-say-they-wont-steal-jobs-rebel-against-humans/102578292"
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 31
+  - title: "Robots take questions at Geneva press conference, say they could be better leaders than humans"
+    excerpt: "Ameca, engineered with social interaction in mind, dismissed the idea of starting a possible robot rebellion in the near future."
+    publishedDateTime: 2023-07-07T16:01:00Z
+    webUrl: "https://www.courthousenews.com/robots-take-questions-at-geneva-press-conference-say-they-could-be-better-leaders-than-humans/"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 23
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 27
+    images:
+      - url: "https://www.courthousenews.com/wp-content/uploads/2023/07/robots-geneva.jpg"
+        width: 3000
+        height: 1962
+        isCached: true
 
 secured: "F8RHSOfezTwJasfpuuOu4LRENdmN9jgNwVvMR+5lJM/UkXYSNesiCN3NpG7u/jI3mHPgt3qu3Gn4jJVeNI3VSPoxPTVrfhmpVteDas8D0pNa739DbCfF1NjpS4k7bDPXpCiaOrEQUQqqkanFrzZNhlCPXJ6eB3dS1FXSeneXiHOb3H9vYGNvQZgKo8GSMDYTcb0zQQxsI1ddTs7dSu5kHIsXlXjbigIYsqo6k9yZVTK9HFq8AWDDNpBsl/sksOJGr26C8auVcobw+b2uZBvCUYO2ebe/3NJsUcWfoV+Ge5goAlW9AHaFEci93ztYLwcT3zqS3ZEMqYNXwb4J+YWyyuPxcYgxXuNZ2ogd+MspkHXbrM3xhdJ7oHddHtIcYqcUbaYFbvOrcKTiCGpW2vuCcQhPjRvNTChVLxVUVoUY7N25eOr2iIF7Yufvb7OyCkuLJdOW4Asn+uW7LXNyiwzW9DyBL5PcdXiDOUaarS41sy64W+YYi7qKYFJHccm/lXSKtOY3qKEYP5uOgpMT4eRr4Q==;n5cIaV7iWfCVe4VbVxQhmQ=="
 ---

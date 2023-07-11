@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI Robots At UN Reckon They Could Run The World Better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-07T17:39:00Z
+    webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg"
+        width: 768
+        height: 506
+        isCached: true
+  - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
+    excerpt: "The event was part of the AI for Good Global Summit, meant to illustrate how new technology can support the U.N.’s goals for sustainable development."
+    publishedDateTime: 2023-07-07T16:40:00Z
+    webUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/"
+    ampWebUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
+    type: article
+    provider:
+      name: KSWO ABC 7 News
+      domain: kswo.com
+    quality: 64
+    images:
+      - url: "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/KUsmE_fZwT9E1GMvlLpS1p04jIM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RPPVKPDFLVFGTOTU3W27LARP4E.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Human-looking robots tell UN they could run world better, but won’t rebel"
     excerpt: "Robots tell UN summit humans should proceed with caution when embracing rapidly-developing potential of artificial intelligence and admit they can't -- yet -- grasp human emotions"
     publishedDateTime: 2023-07-08T23:55:00Z
@@ -40,6 +72,92 @@ related:
       - url: "https://static.timesofisrael.com/www/uploads/2023/07/AP23188470818991-640x400.jpg"
         width: 640
         height: 400
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
+    publishedDateTime: 2023-07-07T14:34:00Z
+    webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
+        width: 1024
+        height: 673
+        isCached: true
+  - title: "Rise Of The Robots: Un Tries To Tackle Mind-Blowing Ai Growth"
+    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday at its AI s"
+    publishedDateTime: 2023-07-07T03:05:00Z
+    webUrl: "https://menafn.com/1106567368/Rise-Of-The-Robots-Un-Tries-To-Tackle-Mind-Blowing-Ai-Growth"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?192047"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
+    publishedDateTime: 2023-07-08T03:45:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world/101587755"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "AI robots tell UN conference they could run the world"
+    excerpt: "Some of the most advanced humanoid robots were at the United Nations’ AI for Good Global Summit in Geneva, joining around 3,000 experts in the field to try to harness the power of AI and channel it into being used to solve some of the world’s most pressing problems,"
+    publishedDateTime: 2023-07-10T01:53:00Z
+    webUrl: "https://www.brecorder.com/news/40251725"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 54
+    images:
+      - url: "https://i.brecorder.com/large/2023/07/64ab15d61998d.jpg"
+        width: 800
+        height: 480
+        isCached: true
+  - title: "AI robots say they can run the world better than humans but won't steal jobs"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-08T12:39:00Z
+    webUrl: "https://interestingengineering.com/science/ai-robots-say-they-can-run-the-world-better-than-humans"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/08/image/png/p4wBehFwZ5eUshfj5u7xc3d1x3tS9fc2ym1oyPn4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
+    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event"
+    publishedDateTime: 2023-07-07T19:15:00Z
+    webUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/"
+    ampWebUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/amp/"
+    cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/amp/"
+    type: article
+    provider:
+      name: Wane
+      domain: wane.com
+    quality: 51
+    images:
+      - url: "https://www.wane.com/wp-content/uploads/sites/21/2023/07/64a864b6b53c47.22505085.jpeg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "At a UN Summit, AI Robots Just Said That They Could Run the World Much Better Than Us"
     excerpt: "Ever wondered what a group of robots would say about humans in a press conference? Well, you don't need to wonder anymore. At a United Nations summit earlier this week, a panel of artificial intelligence (AI)-powered humanoids just banded together to tell us a thing or two about the future of AI technology."
@@ -69,19 +187,28 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Robots reshape the future: Humanoid robots claim superiority in world governance at unprecedented press conference"
-    excerpt: "During a United Nations summit held in Geneva, humanoid robots delivered speeches asserting their potential to govern the world better than humans. Equipped with artificial intelligence technology, these machines urged caution regarding artificial intelligence and acknowledged their current lack of emotions and understanding of human feelings."
-    publishedDateTime: 2023-07-08T11:33:00Z
-    webUrl: "https://www.lbcgroup.tv/news/world-news/712490/robots-reshape-the-future-humanoid-robots-claim-su/en"
+  - title: "MBtv-Robots test their mettle at RoboCup, the world’s largest AI competition"
+    excerpt: "From football matches to first aid workshops, robots test their abilities at RoboCup, the world's largest artificial intelligence competition, being"
+    publishedDateTime: 2023-07-10T17:46:00Z
+    webUrl: "https://www.macaubusiness.com/mbtv-robots-test-their-mettle-at-robocup-the-worlds-largest-ai-competition/"
     type: article
     provider:
-      name: LBCI Lebanon
-      domain: lbcgroup.tv
-    quality: 32
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 31
+  - title: "Robots take questions at Geneva press conference, say they could be better leaders than humans"
+    excerpt: "Ameca, engineered with social interaction in mind, dismissed the idea of starting a possible robot rebellion in the near future."
+    publishedDateTime: 2023-07-07T16:01:00Z
+    webUrl: "https://www.courthousenews.com/robots-take-questions-at-geneva-press-conference-say-they-could-be-better-leaders-than-humans/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 27
     images:
-      - url: "https://www.lbcgroup.tv/uploadImages/DocumentImages/Doc-P-712490-638244129348713672.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.courthousenews.com/wp-content/uploads/2023/07/robots-geneva.jpg"
+        width: 3000
+        height: 1962
         isCached: true
 
 secured: "TIyORyrD2PMFRZQ6qdAWn1NzdbqOg/TVbbaMVbKX3J9TSfC29IR8qGyI1mpKdOAfZ6SBBD0/9Eb/GrEyd7lidmPkvKJiAEkvjEWNTrMEfQeZpP7mk1BbWkhSDoOZOt642lz771Qvbndnlv9AzmYCfDu0JI7MORVSHfFwt+p6edXQco3OJ1B1Q3qaY8nI30h6c8829tMX8bEwQ/NSV6qD8pVM3Kqxee3NlUJhjLpegHoj051rIRC9GEccJd1Fh6fBBNVO93qTcy9v3523C7hYu/76KwY2Ww+zkQTK5qKdPO8kVWEXLLM8mVrkCi5cRFOb3pfvAb2MynAk+9K53jaykC3B7XeYUdQ30NCfm7EOGUQ=;K+2YPOOBLOa2PG/ndvivNQ=="

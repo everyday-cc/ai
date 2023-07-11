@@ -19,35 +19,30 @@ topics:
   - AI
 
 related:
-  - title: "The impact of artificial intelligence in the edtech industry"
-    excerpt: "AI makes administrative work in the EdTech sector simpler, resulting in increased operational effectiveness. Routine questions are automated by chatbots and virtual assistants, which provide quick answers and frees up staff time."
-    publishedDateTime: 2023-07-09T07:16:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
+  - title: "Australian corporates join AI chips race"
+    excerpt: "Corporate Australia has joined the global race to get its hands on advanced computer chips, a leading indicator of artificial intelligence and machine learning development, a top internet ser­vices company says."
+    publishedDateTime: 2023-07-11T08:41:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5"
+    ampWebUrl: "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-08T175203.653.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Impact of AI on the Real Estate Market"
-    excerpt: "In their words, “that genie is out the bottle, and the only thing that will determine whether it will be good or ill will be the wishes we make.” But AI does not only serve the good; fraudsters will instruct AI to do their bidding as well,"
-    publishedDateTime: 2023-07-10T21:57:00Z
-    webUrl: "https://dsnews.com/news/07-10-2023/the-impact-of"
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 54
+  - title: "Facial recognition technology in use at major Australian stadiums"
+    excerpt: "Facial recognition technology is being deployed at major concert venues and sporting events around Australia, often without consumers' knowledge or consent. Facial recognition is an advanced and controversial technology which involves the use of cameras to ..."
+    publishedDateTime: 2023-07-07T03:59:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
     type: article
     provider:
-      name: Default Servicing News
-      domain: dsnews.com
-    quality: 37
+      name: Choice
+      domain: choice.com.au
+    quality: 39
     images:
-      - url: "https://dsnews.com/wp-content/uploads/2023/07/AdobeStock_602113162-620x330.jpeg"
-        width: 620
-        height: 330
+      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
+        width: 700
+        height: 390
         isCached: true
 
 secured: "jpU/yiw3YqS3OJk1gyuGlAhFij8ORv8F2IdBiMJTnM/+c/H40KCnxzL+VhbbQr6Wq0aayJ1kkkX4+Z/3H9+TK38ZSwgfKq0C6njHbrFjrX/7TV7MhwIzSeAatfEvK/A/Q1E2ASFgvVnGT8deLymiVGe6uzTmG97Db71GgNf9O97xtZnGHkNLjSrPI9xOr8lRY0eeAOtcNoe9MsGNyNo4tArd1BVRkF1PTSH/Gc9zddL1i6f+PHlHoh7c5TeBzTRizLkToPT40eyzMyWX8QT1Jw1quoV3U/k6KU0EEDzmrXZTQqxFDpOFxRMfIVDlHKqpK+jTVUq3lQ0mqEVC+VSz1L0P6WcigZXuevY8IHqCElNBtDYJK4UeHIOGRbAoMXVT7hSnbHPt8pQG0XRSsNKe62uRrCAasYEgGpVZyJDzfCjiXWTEtaWPuJ+GfeyAaQqcG0Eorlu6UTn/uXjof8xxU82vs9Pp0Z5YZPIB9rbG1bXly9PIerAAfbh39HtDKqOaqdqUc0Ch0s8TZrSEuiEfUw==;MqOSGLEdRmk3hLCwseAgDg=="

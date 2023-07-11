@@ -20,45 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
-    excerpt: "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT."
-    publishedDateTime: 2023-07-09T01:59:00Z
-    webUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 86
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
-    excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
-    publishedDateTime: 2023-07-08T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 72
-  - title: "TCS to upskill 25,000 engineers on Microsoft's Azure Open AI"
-    excerpt: "The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space."
-    publishedDateTime: 2023-07-07T03:05:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai/101559422"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101559422,imgsize-94338,width-1200,height=765,overlay-etcio/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "MOH agency, Microsoft to develop AI tool to help healthcare workers in Singapore"
     excerpt: "SINGAPORE – Healthcare professionals in Singapore will have an artificial intelligence (AI) tool to help them get quick and accurate answers to questions about care protocols for medical conditions or subsidies available to patients."
     publishedDateTime: 2023-07-07T11:04:00Z
@@ -72,20 +33,6 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/hzhospital070723_0.jpg?VersionId=DmWmvyy8TAXRSC55NTAwkREwOC2gKdiw&h=40abc946"
         width: 860
         height: 573
-        isCached: true
-  - title: "Tech Mahindra aims to transform knowledge search with integration with Microsoft Azure OpenAI"
-    excerpt: "Tech Mahindra’s Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility in a unique way,"
-    publishedDateTime: 2023-07-10T15:40:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=159549"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 58
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
-        width: 772
-        height: 594
         isCached: true
   - title: "IHiS to develop a secure ChatGPT for healthcare with Microsoft"
     excerpt: "Secure GPT is a custom-built common platform using Azure OpenAI Service that will enhance productivity for healthcare workers."
@@ -122,20 +69,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Microsoft and Google Advance Quantum Computing While AI Hype Rages"
-    excerpt: "Generative AI may be dominating the tech hype cycle these days, but amid the hoopla Microsoft and Google have been making advances in another mind-boggling future technology: quantum computing."
-    publishedDateTime: 2023-07-06T21:37:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/07/06/quantum-advances.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 54
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/introimages2014/140106REDPaoliNSAQuantum.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "3 ways Moveworks and Microsoft Teams use AI to improve employee productivity"
     excerpt: "Moveworks on Microsoft Teams uses conversational AI to help enterprises improve employee productivity and free up IT and HR staff. Learn more."
@@ -174,15 +107,15 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Rubrik and Microsoft announce Generative AI-Powered Cyber Recovery and Remediation"
-    excerpt: "Rubrik, the Zero Trust Data Security Company, today announced a joint collaboration to integrate Rubrik Security Cloud with Microsoft Sentinel and Azure OpenAI Service to accelerate cyber recovery through the use of generative AI and Natural Language Processing (NLP)."
-    publishedDateTime: 2023-07-06T23:13:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20230706/4096430.html"
+  - title: "ENOC Group to drive business innovation through Microsoft Azure OpenAI Service"
+    excerpt: "This will deliver insights to its businesses that improve the customer experience and unlock the full potential of data-driven decision-making and knowledge discovery"
+    publishedDateTime: 2023-07-11T10:37:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/enoc-group-to-drive-business-innovation-through-microsoft-azure-openai-service-qk2xj1hw"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 28
+      name: Zawya
+      domain: zawya.com
+    quality: 45
 
 secured: "Wh5ZpRHKXkregEufQs/Ooi9RgN3w5rtV/AwIQ+8bJ6zPxMFazZzLCJsTgL1xWSfVDxwn68KFoY68tBhUuD0mk0GqxPv7LCkCR1XWur2duvLMnwpmeJARqefyGF73SBUfI982FBOoZy7Q8WqDYg38ueCyoff4ZXizTatdN2b3OQSFLH3j/KEr6HuCO9Eq4giSNk+HLBtyB/8ZTagP+Z428UwniyvGh4cIDF8cNQEvqfW8sEo5ThaAYTmrYXEoiCGGlI3kSwaxMq9F71wwGi8btQ6WZkptpSohPkJ+ltx/P0A5vlN9nAkDCLuGPy50w7LrVExPM2imqdvvUbkd2P9PMiVa+/9GYdJ2G5JstmmVEyaWGLp+nLHLzwlWFj4Pad1uT/HZL2/f6Q2yMQD+/fo85ThF3vabtXbQGlYJIn9VCKSrAFJ9hmFEE1I0myDhWdVzjoPXKTOj1BSJobd9WbwCgI/6/K1X0iKwV7Xmb9Cm9YlbO82nslh4e0mPIlLOvuh77CmjXV5bdKP+pzA1XJA5pw==;0gQdhTl8Twkply19PhoGrg=="
 ---

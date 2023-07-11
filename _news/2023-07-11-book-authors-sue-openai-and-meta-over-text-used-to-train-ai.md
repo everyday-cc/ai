@@ -22,75 +22,45 @@ topics:
   - AI
 
 related:
-  - title: "What happens if a superintelligent AI goes rogue? OpenAI doesn't want to find out"
-    excerpt: "OpenAI is warning that a super-smart AI could 'lead to the disempowerment of humanity or even human extinction.' So it's building a team to stop it."
-    publishedDateTime: 2023-07-06T18:44:00Z
-    webUrl: "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
+  - title: "TCS plans to train 25,000 engineers on Azure Open AI"
+    excerpt: "TCS said that it plans to significantly scale its Azure Open AI expertise and launch its new Generative AI offering for enterprises"
+    publishedDateTime: 2023-07-07T07:18:00Z
+    webUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954"
+    ampWebUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 74
     images:
-      - url: "https://www.zdnet.com/a/img/resize/a27bcb6ac15e312d7b316c9880953a5713305bfc/2023/07/06/f56b62d2-b51c-454e-b950-3948506ffda0/gettyimages-1499492092.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044335.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI Is Hiring Researchers to Wrangle ‘Superintelligent’ AI"
-    excerpt: "research scientist and research manager. OpenAI says the key to controlling an AI is alignment, or making sure the AI performs the job a human intended it to do. The company has also stated that one of its objectives is the control of “superintelligence ..."
-    publishedDateTime: 2023-07-07T13:55:00Z
-    webUrl: "https://www.techrepublic.com/article/openai-hiring-researchers/"
+  - title: "TCS to upskill 25,000 engineers on Microsoft's Azure Open AI"
+    excerpt: "The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space."
+    publishedDateTime: 2023-07-07T03:05:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai/101559422"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 71
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 69
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr070723-featuredimage-openai-hiring-researchers.jpg"
-        width: 1400
-        height: 929
-        isCached: true
-  - title: "OpenAI launches new alignment division to tackle risks of superintelligent AI"
-    excerpt: "The makers of ChatGPT have announced the company will be dedicating 20% of its compute processing power over the next four years to stop superintelligent AI from “going rogue.\""
-    publishedDateTime: 2023-07-07T11:29:00Z
-    webUrl: "https://www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 56
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/26/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-957654482_1200x800-100767998-large-100928446-large.jpg?auto=webp&quality=85,70"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101559422,imgsize-94338,width-1200,height=765,overlay-etcio/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.jpg"
         width: 1200
-        height: 800
+        height: 765
         isCached: true
-  - title: "OpenAI assembles a team to stop an artificial intelligence apocalypse"
-    excerpt: "OpenAI is assembling a team to prevent emerging artificial intelligence technology from going rogue and fueling the extinction of humanity, which the company now fears is a real possibility. The makers of popular chatbot ChatGPT say AI will power new ..."
-    publishedDateTime: 2023-07-07T17:28:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jul/7/openai-assembles-team-stop-artificial-intelligence/"
+  - title: "TCS Scales Up Azure Open AI, Plans to Train 25,000 Associates"
+    excerpt: "The program will be developed by TCS and its client teams to develop AI-led solutions, create proofs of concepts on Azure Open AI"
+    publishedDateTime: 2023-07-11T04:04:00Z
+    webUrl: "https://www.dqindia.com/tcs-scales-up-azure-open-ai-plans-to-train-25000-associates/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 52
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/05/15/OpenAI_CEO_Congress_63364--59fd7_c0-362-4338-2892_s1200x700.jpg?de1cd1f8659b51ed210886b8ca4ee473503a3fdd"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "What if a superintelligent AI went rogue? OpenAI doesn't want to find out"
-    excerpt: "OpenAI is warning that a super-smart AI could 'lead to the disempowerment of humanity or even human extinction.' So it's building a team to stop it."
-    publishedDateTime: 2023-07-06T18:29:00Z
-    webUrl: "https://www.zdnet.com/article/what-if-a-superintelligent-ai-went-rogue-openai-is-building-a-team-to-stop-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 46
+      name: Dataquest
+      domain: dqindia.com
+    quality: 34
 
 secured: "z5sPbbZjRyHfBqcPSDQWhBrH/gL3oAPec9vyk4N+YrL4DrKdLKE0iPW5509ALVgOIRqs/LTh8BXyfYdf0s8NSqSQjiHFOrfnOagsB+vPU+mSDKZhH4b0WadywSxzcszQKu92gl1u7v1LF/Y+xXdsl8t8UEhDDpEJb+9Ecqmeyjdx59lim6lzABevjONoH17AZPPbX7qRGfAMUmdnoeFTPaNcGxiVc2xyu/L8Mqw8fmtErzpefkG5wD9yZdcdTJU24ilucHtoBDdZrx7LIgQ+A9KQJtM4OdLQGtEs6iMO37eqot05/yF/MoWD3Y0HODDHrnahP1s8iRUC1Pfo9Jn45hEHWrcktSvZmtvbuMWMBCk0MPIzosLZE+RFhZ1T3mDs5jXfGwxjjwOTdY3Q30jWEG3G2p0AdBtsRDtju3Pj9mwrhDIxACrfEOrv5Cy8lkPLXeqwSTys8eJVeu6ZCvOC2fcKsnK6bNHu3CrmWRUUhXKKGjFizs/9UOESvh8NdyDutJyZr82Eumj7bMmiJAzOBQ==;Tsnk7k/mteTS33CUx+a2Mw=="
 ---

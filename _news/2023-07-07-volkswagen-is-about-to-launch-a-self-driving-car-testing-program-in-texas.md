@@ -81,15 +81,6 @@ related:
         width: 704
         height: 460
         isCached: true
-  - title: "Volkswagen to start testing self-driving ID Buzz vans in Austin"
-    excerpt: "Volkswagen launched an autonomous vehicle test program in Austin using a fleet of ID Buzz vehicles equipped with partner Mobileye's technology"
-    publishedDateTime: 2023-07-06T18:03:00Z
-    webUrl: "https://techcrunch.com/2023/07/06/volkswagen-to-start-testing-self-driving-id-buzz-vans-in-austin/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
   - title: "Volkswagen to Test Self-Driving ID. Buzz Microbus Fleet in Austin"
     excerpt: "Volkswagen chose Austin for its self-driving testing program because it has a reputation for being supportive of innovation."
     publishedDateTime: 2023-07-07T16:11:00Z
@@ -103,20 +94,6 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2023/07/07120944/volkswagen-id-buzz-e1688746210124.jpg"
         width: 1920
         height: 960
-        isCached: true
-  - title: "Volkswagen's Self-Driving Cars Begin Testing In Texas"
-    excerpt: "Volkswagen is saddling up for autonomous vehicles in the U.S. with a test fleet of self-driving ID Buzz EVs in Austin, Texas."
-    publishedDateTime: 2023-07-06T20:20:00Z
-    webUrl: "https://jalopnik.com/volkswagens-self-driving-cars-begin-testing-in-texas-1850612015"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2977d6cdde7cdbc405153eb1d092ef38.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Self-Driving VW ID. Buzz Will Start Testing In The US"
     excerpt: "As part of its future expansion strategy into more US cities, Volkswagen has announced its plans to conduct tests on self-driving microbuses in Austin, Texas. The brand will utilize the autonomous technology developed by Mobileye to operate a fleet of ten all-electric ID."

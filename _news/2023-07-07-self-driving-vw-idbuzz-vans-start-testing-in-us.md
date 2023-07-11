@@ -26,15 +26,6 @@ images:
 
 related:
   - title: "VW selects Austin as U.S. hub for self-driving tests; ID Buzz electric vans to hit city streets"
-    excerpt: "These retro-looking VW vans will be seen cruising around town soon. Don't bother waving to the driver — there may not be one."
-    publishedDateTime: 2023-07-06T19:40:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2023/07/06/vw-self-driving-vans-in-austin.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
-  - title: "VW selects Austin as U.S. hub for self-driving tests; ID Buzz electric vans to hit city streets"
     excerpt: "These retro-looking VW vans will be seen cruising around Austin soon. Don't bother waving to the driver — there may not be one."
     publishedDateTime: 2023-07-10T13:41:00Z
     webUrl: "https://www.bizjournals.com/dallas/news/2023/07/10/vw-self-driving-vans-in-austin.html"

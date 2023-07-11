@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techguide.com.au/amp/news/appliances/save-up-to-43-per-c
 cdnAmpWebUrl: "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 450
     height: 300
     isCached: true
+
+related:
+  - title: "Eufy robot vacuum deals for Prime Day 2023"
+    excerpt: "There are plenty of other exciting features as well, including strong 5,500Pa suction, AI-powered obstacle avoidance ... the high-end x9 Pro isn’t the only eufy robot vacuum on sale for Prime Day 2023. Prices start at just $129.99 for the eufy BoostIQ ..."
+    publishedDateTime: 2023-07-11T12:56:00Z
+    webUrl: "https://bgr.com/deals/eufy-robot-vacuum-deals-for-prime-day/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
 
 secured: "LXxOEtKtx012yJsakgGflQiXwnFT1Ylv90X7PgqoREa0+dVhSnan4jOLBPpG4YFjfMx9rab+JfV+MKsAjGfkwxUiEjQq8/P39akZYb+nNW8NJOM4yZ6xw2nRE+Hfvj49Nwrrv8h6g5WvLwZGLArWgL2rVYrUu9Bnv9NMhbsafq/Po8T8ltwk41xoOdntijnzjvwdGFhBFkDhtZaWM8+N8pDRLM1HLsuPwxDaeMe4mOn5bnWYqbQrbCfv3Sf8TP5jEMtWKjYoSr2RYrAthbf0xshI4dy5GK54FW3KWwpwL7rr7nI47pZh1x/wxCOpjOaIrUJihiEnprXNWdszuxZP8uV809w2nPqA8hAFNs1O9okvvH6IxY5KuhOqNZE7ZMJqpSVfXxszfqK71jadlVlorpoSmBYAcxXwpYPcJn4ZPdmAmlH/Sx9zSzANV9Dg+0GYB0TEkEjf7EpI0MlTOtbXItKneMvIJgOyewtdabYjx7qf5Y0LS7y0Q3VjmwzFhPv3DQiDP/dXFDJc8I7GROKfaA==;DJtpe+QY3SFtO0o7S5+DRg=="
 ---

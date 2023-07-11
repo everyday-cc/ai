@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engi
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,22 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "TCS to train 25,000 engineers on generative artificial intelligence tools"
-    excerpt: "The Tata group company will also launch its new generative AI enterprise adoption offering on Microsoft Cloud, a move that will help customers \"jumpstart\" their generative AI journey."
-    publishedDateTime: 2023-07-06T22:15:00Z
-    webUrl: "https://www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/"
-    ampWebUrl: "https://www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/tcs-to-train-25000-engineers-on-generative-artificial-intelligence-tools/3159737/lite/"
+  - title: "TCS to upskill 25,000 engineers on Microsoft's Azure Open AI"
+    excerpt: "The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space."
+    publishedDateTime: 2023-07-07T03:05:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai/101559422"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 73
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 69
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/ai1-1.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101559422,imgsize-94338,width-1200,height=765,overlay-etcio/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.jpg"
         width: 1200
-        height: 675
+        height: 765
         isCached: true
+  - title: "Book authors sue OpenAI and Meta over text used to train AI"
+    excerpt: "On Friday, the Joseph Saveri Law Firm filed US federal class-action lawsuits on behalf of Sarah Silverman and other authors against OpenAI and Meta, accusing the companies of illegally using copyrighted material to train AI language models such as ChatGPT and LLaMA."
+    publishedDateTime: 2023-07-10T19:42:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/07/book-authors-sue-openai-and-meta-over-text-used-to-train-ai/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "TCS Scales Up Azure Open AI, Plans to Train 25,000 Associates"
     excerpt: "The program will be developed by TCS and its client teams to develop AI-led solutions, create proofs of concepts on Azure Open AI"
     publishedDateTime: 2023-07-11T04:04:00Z

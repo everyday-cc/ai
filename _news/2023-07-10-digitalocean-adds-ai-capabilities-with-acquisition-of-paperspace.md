@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-ad
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "DigitalOcean acquires AI-focused GPU cloud operator Paperspace for $111M"
-    excerpt: "DigitalOcean Holdings Inc. has inked a $111 million deal to acquire Paperspace Co., a Brooklyn-based startup that provides cloud infrastructure for artificial intelligence developers. The transaction was announced this morning."
-    publishedDateTime: 2023-07-06T18:00:00Z
-    webUrl: "https://siliconangle.com/2023/07/06/digitalocean-acquires-gpu-cloud-operator-paperspace-111m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/image-1.png"
-        width: 1034
-        height: 580
-        isCached: true
   - title: "DigitalOcean Rides AI Wave After Acquisition: Here's My Trading Strategy"
     excerpt: "DigitalOcean Holdings (DOCN) has announced they are acquiring the cloud computing and AI startup Paperspace for $111M in cash. DOCS surged higher Thursday on the news and is continuing its upward move in Friday trading."
     publishedDateTime: 2023-07-07T15:43:00Z

@@ -2,28 +2,21 @@
 category: news
 title: "Gov. Abbott signs bill to establish an Artificial Intelligence Advisory Council"
 excerpt: "Gov. Greg Abbott signed House Bill 2060, which will establish an Artificial Intelligence Advisory Council for the state of Texas. The council will oversee how state agencies are developing and using AI in an effort to make sure that it is done so responsibly."
-publishedDateTime: 2023-07-10T20:34:00Z
-originalUrl: "https://www.texasstandard.org/stories/ai-artificial-intelligence-advisory-council-texas-greg-abbott-house-bill-hb-2060/"
-webUrl: "https://www.texasstandard.org/stories/ai-artificial-intelligence-advisory-council-texas-greg-abbott-house-bill-hb-2060/"
+publishedDateTime: 2023-07-11T12:40:00Z
+originalUrl: "https://www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council"
+webUrl: "https://www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council"
 type: article
-quality: 35
-heat: 35
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: Texas Standard
-  domain: texasstandard.org
+  name: KERA News
+  domain: keranews.org
 
 topics:
   - AI
-  - AI Ethics
 
-images:
-  - url: "https://www.texasstandard.org/wp-content/uploads/2023/07/pexels-sora-shimazaki-5935794-1024x683.jpg"
-    width: 1024
-    height: 683
-    isCached: true
-
-secured: "dL4LYFaW4IwEPKoDJroadEG7xMrq8miVHgwrpiIxUAmg/XVVDQiM3QadDYujDfZVprcRElDjlZAO2EzWNnO/o3nXPI9t8qp6nw03qa8OouKQ+c2YGthyrhUFk2qhDA2CrIdHzkfx/tNsbTdWlZ40Fju+h494HM7PKrEWsr9qKE9pkBlHwWBaj7rUwCaz0z3h9xqyHGiumxirHKaVt6ujkqSe2l1psjG+FserPXvyvAxYxSYP6bMb9rJqrejZE1DhAyRacOnK6OtTma8PNq17Zehhms27j9BLO3CgLSyIzEH6kOE4jfDYapGWJJjOEwU0Wy2EPmffwoJk1TlmPQNHBwFHt+98X1+WU67k4HNFWQQR/c5oiQxqUEfDDezYI6a2lsZ/a53REc04xCmBxp6YEeH4X4VAOHlR+tIYprNmzrrnrpID3Mnhp6INH+H9Z57IR6f/Qx3vpdN6nDZ2FHHLFt/rHFLYHTYQvD8PB5g5NGxJDeDzQfzyj3z7zeFeuNUSpu1moJ4gUgfz+KeqfRMVvg==;ZFpmt8H1qZCVk4YaGb1iaQ=="
+secured: "xKc2/mCXnxR5UmV3USx9zBRpF7AIzfeJAjKJ6A6G9lpJPlxKs852/FLgJCwVz9UEH/Joz58etFYZKQPwxNQzjIMp1N5tTFzmNbpIG/yan11Eydpg4g05xAR+3rFa8pcEXJ2rixKA1t6ZYtVMxKFirn/ARS1sI/Xq7KhooumZWgcu1F6UzdTGLoLSLawOeFJ3Cpcwg1wW+zGK+SRRxDbB5GboBX1ZaQHEWtU0m/+rmEZBCEcPLpwfXzehTu5mu5PPZ8Yf8P9TktFXqOJx+Dr8HKpFfsmyb5uY9bNhfGj3WS4wTyxVmKSmelvZGjgJytBNZMRO0dhCCmfaPIWKc4sPh930zbX6JwJp3ZC1X0XPe/+DL5jtaPW8zvVVeIUDD4/z+sAcE81nGzdxbJdPquWDx1ikUxUdkULzTsSbOvDsHcSFEx44x+gRt83n5zahtefXqRaONdIlVkSthOst1FZpwY8NLcB8tIOTc9BfrkmOaqIuM2I3XYP+wxlzfvaJfbkB5dcmL/V0ZYKEU5JzVhGdwg==;uc/+P6JyxEvBvuyubDTjQg=="
 ---
 

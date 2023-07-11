@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enab
 webUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/"
 type: article
 quality: 102
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Art of Intelligence: Unraveling the Potential of Blockchain and AI"
+    excerpt: "In this captivating blog, we explore the remarkable potential that emerges when Blockchain and Artificial Intelligence (AI) converge. We uncover how this fusion revolutionizes industries, enhances security and privacy,"
+    publishedDateTime: 2023-07-11T12:38:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2517627-the-art-of-intelligence-unraveling-the-potential-of-blockchain-and-ai"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 19
   - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
     excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
     publishedDateTime: 2023-07-07T12:26:00Z

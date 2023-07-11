@@ -30,146 +30,256 @@ images:
     isCached: true
 
 related:
-  - title: "Age of AI: Everything you need to know about artificial intelligence"
-    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ..."
-    publishedDateTime: 2023-07-07T16:57:00Z
-    webUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+  - title: "The benefits of AI in healthcare"
+    excerpt: "AI is used in healthcare for everything from answering patient questions to assisting with surgeries and developing new pharmaceuticals.\nThe post The benefits of AI in healthcare appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-11T14:31:01Z
+    webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
+      name: IBM
+      domain: ibm.com
+    quality: 116
+  - title: "AI In Healthcare And Other Scary Stories"
+    excerpt: "No greater buzzword exists than Artificial Intelligence (AI) to make a story headline flash. In healthcare, stories about AI being used to discover new drugs and faster, more accurate medical diagnoses are guaranteed clickbait. These goals may be the stuff ..."
+    publishedDateTime: 2023-07-07T14:12:00Z
+    webUrl: "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a42934cf75fa7c8db4ddd4/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 749
+        isCached: true
+  - title: "The Promise And Challenges Of AI In Healthcare"
+    excerpt: "Fueled by the flashy arrival of OpenAI’s ChatGPT and its newest large language model, GPT-4, the race is on among IT vendors and care providers to use AI to improve everything from triage to patient communications to treatment to discharge."
+    publishedDateTime: 2023-07-10T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
+    excerpt: "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT."
+    publishedDateTime: 2023-07-09T01:59:00Z
+    webUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 86
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
+    excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
+    publishedDateTime: 2023-07-08T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 72
+  - title: "Generative AI in Healthcare Market Size is Expanding Around USD 21.74 Billion by 2032"
+    excerpt: "As per Precedence Research, the U.S. generative AI in healthcare market size will reach at USD 8.7 billion by 2032. Generative AI, refers to a class of artificial intelligence"
+    publishedDateTime: 2023-07-10T07:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33159890/generative-ai-in-healthcare-market-size-is-expanding-around-usd-21-74-billion-by-2032"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33159890"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159890"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 67
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "AI And Other Technology Can End The Great Healthcare Paper Chase"
+    excerpt: "One area ripe for change is the labor-intensive practice of \"chart-chasing.\" This manual review of paper charts, folder by folder, is a burden to both healthcare plans and providers. Worse, it is often conducted under the pressure of regulatory or third-party deadlines."
+    publishedDateTime: 2023-07-11T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/11/ai-and-other-technology-can-end-the-great-healthcare-paper-chase/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "The impact of artificial intelligence in the edtech industry"
+    excerpt: "AI makes administrative work in the EdTech sector simpler, resulting in increased operational effectiveness. Routine questions are automated by chatbots and virtual assistants, which provide quick answers and frees up staff time."
+    publishedDateTime: 2023-07-09T07:16:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-08T175203.653.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Are You Getting Scammed Through AI Voice Swindles? 4 Safeguards You Need To Know"
-    excerpt: "According to a new report by the Identity Theft Resource Center (ITRC), “80% of identity theft victims are due to scams, and thieves are becoming more sophisticated in their quests to steal personal identifying information (PII) from victims with 61% of them being conducted through AI voice.”"
-    publishedDateTime: 2023-07-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/amp/"
+  - title: "GE Healthcare survey: AI faces skepticism in the medical care business"
+    excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the U.S."
+    publishedDateTime: 2023-07-09T14:59:00Z
+    webUrl: "https://www.aol.com/finance/ge-healthcare-survey-ai-faces-150026709.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: AOL
+      domain: aol.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6481f0a20bd1d57b30595934/0x0.jpg?format=jpg&width=1200"
+      - url: "https://s.yimg.com/ny/api/res/1.2/4wlq8nqY2d9FStWQo6CVzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/916049f182d780a2b27a878f29944726"
         width: 1200
-        height: 836
+        height: 800
         isCached: true
-  - title: "Why everyone is mad about New York’s AI hiring law"
-    excerpt: "Last week, a law about AI and hiring went into effect in New York City, and everyone is up in arms about it. It’s one of the first AI laws in the country, and so the way it plays out will offer clues about how AI policy and debate might take shape in other cities."
-    publishedDateTime: 2023-07-10T10:59:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/10/1076013/new-york-ai-hiring-law/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/10/1076013/new-york-ai-hiring-law/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/10/1076013/new-york-ai-hiring-law/amp/"
+  - title: "How five blue-chip firms are dealing with the rise of AI"
+    excerpt: "FTSE 100 companies have shared revealing insights about what breakthroughs in generative AI mean for their businesses"
+    publishedDateTime: 2023-07-10T15:46:00Z
+    webUrl: "https://www.raconteur.net/growth-strategies/how-five-blue-chip-firms-are-handling-the-rise-of-ai/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: Raconteur
+      domain: raconteur.net
+    quality: 54
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/hiring-hands2b.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://www.raconteur.net/wp-content/uploads/2023/06/AI_c-suite_boardroom.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-07-10T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/07/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+  - title: "UCSF Health digital chief departs for healthcare AI company"
+    excerpt: "Aaron Neinstein, MD, former VP of digital health at UCSF Health, has joined healthcare AI company Notable as chief medical officer."
+    publishedDateTime: 2023-07-11T14:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/ucsf-health-digital-chief-departs-for-healthcare-ai-company.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
-  - title: "The 3 Best AI Stocks Nobody’s Talking About Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have emerged as a top investment trend, driven by the increasing"
-    publishedDateTime: 2023-07-07T11:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-nobodys-talking-about-right-now-1032432143"
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI in Health Care: Regulatory Landscape & Risk Mitigation"
+    excerpt: "Health care, like most industries, is grappling with the proliferation of artificial intelligence (AI) and the novel risks and benefits it presents. Balancing these risks and benefits can be especially challenging for attorneys, as the laws and regulatory ..."
+    publishedDateTime: 2023-07-06T23:50:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ai-in-health-care-regulatory-landscape-4445187/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Generative AI: We Need To Talk About Value"
-    excerpt: "It’s not about simply getting your hands on generative AI—it’s about knowing how to put the technology to work to create real, tangible value."
-    publishedDateTime: 2023-07-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/generative-ai-we-need-to-talk-about-value/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Using AI To Understand the Language of Molecules"
-    excerpt: "This AI system only needs a small amount of data to predict molecular properties, which could speed up drug discovery and material development."
-    publishedDateTime: 2023-07-07T15:00:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/news/using-ai-to-understand-the-language-of-molecules-375903"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
+      name: JD Supra
+      domain: jdsupra.com
     quality: 39
     images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375903/using-ai-to-understand-the-language-of-molecules-375903-640x360.jpg?cb=20230707"
-        width: 640
-        height: 360
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "In the age of AI, tech's little guys need big friends"
-    excerpt: "The tech industry loves its garage startup stories. From Hewlett-Packard to Google, the tales of bootstrapped companies that have turned into giants have inspired generations of entrepreneurs."
-    publishedDateTime: 2023-07-08T11:12:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/in-the-age-of-ai-techs-little-guys-need-big-friends/articleshow/101596819.cms"
+  - title: "The best AI art generators in July 2023"
+    excerpt: "How do the best AI art generators work? AI art generators work by employing learned data. Developers of the models feed countless images into them, with which the artificial intel"
+    publishedDateTime: 2023-07-10T16:00:00Z
+    webUrl: "https://www.sciencefocus.com/future-technology/best-ai-art-generators/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: BBC Focus
+      domain: sciencefocus.com
     quality: 39
     images:
-      - url: "https://img.etimg.com/thumb/msid-101596863,width-1070,height-580,imgsize-31368,overlay-ettech/photo.jpg"
-        width: 1070
-        height: 580
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/07/bears-fighting-dragon-611595f.jpg?quality=90&resize=940,400"
+        width: 940
+        height: 400
         isCached: true
-  - title: "China, AI and Earnings: What Investors Need to Know Right Now"
-    excerpt: "The battle for rare earth and critical minerals is alive and well and is spreading into a 'chip war.' China, artificial intelligence and the upcoming earnings season are on my mind, after a holiday shortened week and a whole bunch of jobs data,"
-    publishedDateTime: 2023-07-10T14:00:00Z
-    webUrl: "https://realmoney.thestreet.com/markets/china/china-ai-earnings-what-investors-need-to-know-right-now-16128321"
+  - title: "Opportunities of Artificial Intelligence field rich"
+    excerpt: "World Economic Forum has projected that AI will create 97 million new jobs by 2025. Club that with the fact that ChatGPT, which feeds on AI, got 173 million users in just six months after launching, and we get a picture of how all-pervasive AI is going to get."
+    publishedDateTime: 2023-07-11T06:26:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/07/11/opportunities-of-artificial-intelligence-field-rich"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: gulftoday
+      domain: gulftoday.ae
     quality: 39
     images:
-      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/6d5263cc-488b-11e8-a89a-a7c6266bff86.png"
-        width: 1152
-        height: 768
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/11/aurak-july11-main1-750.ashx?h=450&w=750&hash=FB6CDB5C048B02786A0B9B8F36406971"
+        width: 750
+        height: 450
         isCached: true
-  - title: "How AI is Revolutionizing Out-of-Home Advertising"
-    excerpt: "AI is transforming the way brands create and deliver campaigns and also how they measure the effectiveness of their advertising efforts."
-    publishedDateTime: 2023-07-10T16:27:00Z
-    webUrl: "https://www.dmnews.com/how-ai-is-revolutionizing-out-of-home-advertising/"
+  - title: "The Impact of AI on the Real Estate Market"
+    excerpt: "In their words, “that genie is out the bottle, and the only thing that will determine whether it will be good or ill will be the wishes we make.” But AI does not only serve the good; fraudsters will instruct AI to do their bidding as well,"
+    publishedDateTime: 2023-07-10T21:57:00Z
+    webUrl: "https://dsnews.com/news/07-10-2023/the-impact-of"
     type: article
     provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 39
+      name: Default Servicing News
+      domain: dsnews.com
+    quality: 37
     images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
-        width: 1000
-        height: 667
+      - url: "https://dsnews.com/wp-content/uploads/2023/07/AdobeStock_602113162-620x330.jpeg"
+        width: 620
+        height: 330
         isCached: true
-  - title: "What Does AI Know About Wine, Camping, and Airport Food?"
-    excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
-    publishedDateTime: 2023-07-07T14:24:00Z
-    webUrl: "https://www.inc.com/inc-masters/what-does-ai-know-about-wine-camping-and.html"
+  - title: "Seniors still skeptical of AI-led healthcare, new study shows"
+    excerpt: "While patients acknowledge AI's ubiquity, they are not yet willing to cede the role of primary care and therapy to AI, a new study shows."
+    publishedDateTime: 2023-07-07T04:20:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/seniors-still-skeptical-of-ai-led-healthcare-new-study-shows/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 34
+  - title: "Healthcare’s AI revolution is well underway"
+    excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
+    publishedDateTime: 2023-07-07T18:42:00Z
+    webUrl: "https://www.limaohio.com/features/lifestyle/2023/07/07/healthcares-ai-revolution-is-well-underway/"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 34
+  - title: "GE HealthCare survey: AI faces skepticism in the medical care business"
+    excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the US."
+    publishedDateTime: 2023-07-09T18:00:00Z
+    webUrl: "https://www.aol.com/ge-healthcare-survey-ai-faces-150026709.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+  - title: "55% of medical professionals say AI isn't ready for healthcare"
+    excerpt: "Medical professionals are still skeptical about AI use in healthcare, with 55% stating that the technology is not ready for medical use."
+    publishedDateTime: 2023-07-10T18:18:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/55-of-medical-professionals-say-ai-isnt-ready-for-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
+  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
+    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
+    publishedDateTime: 2023-07-07T19:44:00Z
+    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
 
 secured: "ZEk3vKyRVziFjNKKk8HKI1MVRm9yxdgI/ua0v+OIgCbjER7ib5KC6Hx7qQnD8JcrGb03xzz9oyCUdBZUbnpHzeQB1xu1a3G5YPynM0fZP5QAu0ZCEit6o7syepSWVaoT26TTiiYZOx2n1Lp/GsGhGsomq9fITV4J+cSYj1vQbaROoA/1sxmHSMPwkx/F9WONuELfl6ttGPp7KW67zjm6UmaZtRQ/BHm1iYiH/8hkw4wIvPe9pCnZH4ZQT269u9gFJzuoyIQ8osQvvONLQmEHgM2RKRtl+Zuj+f4mvFiT/m9M0PVbC3udWMX9hRKw2kyVSnGLaboOBT4OFFJUzmDAKDyMiqdgVBZwDAmqMT6j5JLAPeNrxGNvyTIM1U8HL3zRtwTkNHMS1Wrz56NIcQr3hLRibG4Mj8uJLQQbS1JiB/QkkZuiQGDzpi9PuYgKakfKu3gH+RG70weHAeMOCOHKEV+6VK3fCUhZPb9yfa54o29tcgy5HQPgxTa6YL2eyL7QNabURfM0jVdY+6JnFxWjWA==;a0RdZCGMqKc8rmPjNOjJag=="
 ---

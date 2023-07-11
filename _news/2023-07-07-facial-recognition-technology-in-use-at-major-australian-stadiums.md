@@ -36,6 +36,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 54
+  - title: "Tech Giants Race to Incorporate AI in China’s Offices"
+    excerpt: "AI integration is fueling fierce competition among tech giants like Kingsoft Office, Baidu, and Alibaba, who are developing their own ChatGPT-like models."
+    publishedDateTime: 2023-07-10T04:31:00Z
+    webUrl: "https://www.sixthtone.com/news/1013271"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 19
 
 secured: "AM8Fh43VIvuzU4LerqWnDwFvBl6K1+4AtX14u6SBkPWpH4TrPVclkg2zrjBKg4OJ15CC3R8MZ4XMFkuO72ZNf5ZXCnkAjZ4uJc6xHAGp6CdA8xR4Zxshdixiz+rfZdnMTzOvuEOy3rN8H5o26AuPD3wSu4DFbplBkEdrUr568h26FAgwcYo8C8PtgAETZ7NBuHQJiFQ8ayNsx4F2Qc5mAC8EwRzyF0ln4rMfwDwaAPl5SzqjSqcGABPXKs0hqoUQItkAmP6lAQlq1yNi2G8QDtIJ5CHz+HlO9waBNncndMTltatO9FPMN/oj69Fyb2vXC9J+dlUkUpoGAJzrNXtVpugIbgZb1FiTvnT8iYp2ciw=;bj3eoV0f7paZFB1AboPPfw=="
 ---

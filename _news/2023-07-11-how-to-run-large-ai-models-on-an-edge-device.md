@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-ai-models-on-an-edge-device/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to report better on Artificial Intelligence"
-    excerpt: "In the past few months we have been deluged with headlines about new AI tools and how much they are going to change society.  Some reporters have done amazing work holding the companies developing AI accountable,"
-    publishedDateTime: 2023-07-06T20:22:00Z
-    webUrl: "https://www.cjr.org/analysis/how-to-report-better-on-artificial-intelligence.php"
-    type: article
-    provider:
-      name: cjr.org
-      domain: cjr.org
-    quality: 39
-    images:
-      - url: "https://www.cjr.org/wp-content/uploads/2023/07/PhilippSchmitt-ATTLaboratories-CambridgeDataflock-faces-2000x1429-1-800x431.jpg?122376"
-        width: 800
-        height: 431
-        isCached: true
   - title: "An Update on Artificial Intelligence and the Law"
     excerpt: "Part of our presentation addressed the rise of artificial intelligence (“AI”) in the law and in insurance adjusting. We have seen several interesting developments over the past few months in terms of AI and the law. Here are some of the highlights ..."
     publishedDateTime: 2023-07-06T23:36:00Z
