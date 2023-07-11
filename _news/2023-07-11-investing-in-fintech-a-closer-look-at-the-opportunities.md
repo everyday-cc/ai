@@ -81,6 +81,15 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
+    excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
+    publishedDateTime: 2023-07-09T18:16:00Z
+    webUrl: "https://menafn.com/1106574082/From-Banks-To-Bitcoin-How-Fintech-Is-Shaping-The-Economy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
   - title: "FINEXPO Brings FinTech Industry Leaders and Enthusiasts Together at FinTech Festival Asia 2023"
     excerpt: "FINEXPO, the world's leading event organiser, announced today that it is hosting its first-ever FinTech Festival Asia (FTF Asia) on 27 and 28 September 2023 at the Royal Paragon Hall in Bangkok, Thailand."
     publishedDateTime: 2023-07-10T10:15:00Z

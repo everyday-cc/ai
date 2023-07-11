@@ -19,17 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Tesla seeks seasonal vehicle operators in Miami to collect data on self-driving systems"
-    excerpt: "Tesla has announced its plan to hire drivers for seasonal positions this summer in Miami. The company is seeking individuals who<a class=\"excerpt-read-more\" href=\" More"
-    publishedDateTime: 2023-07-06T14:39:00Z
-    webUrl: "https://wsvn.com/news/us-world/tesla-seeks-seasonal-vehicle-operators-in-miami-to-collect-data-on-self-driving-systems/"
-    ampWebUrl: "https://wsvn.com/news/us-world/tesla-seeks-seasonal-vehicle-operators-in-miami-to-collect-data-on-self-driving-systems/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/tesla-seeks-seasonal-vehicle-operators-in-miami-to-collect-data-on-self-driving-systems/amp/"
+  - title: "The Dawn Project's Dan O'Dowd banned from advertising on Twitter after his concerns over the safety of Tesla Full Self-Driving go viral"
+    excerpt: "Elon Musk's Twitter has banned the top critic of Tesla's Full Self-Driving (FSD) software from promoting videos of critical safety defects in Tesla's flagship software. The promoted tweets included videos of Tesla Full Self-Driving failing to stop at Stop signs,"
+    publishedDateTime: 2023-07-11T04:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-dawn-project-s-dan-o-dowd-banned-from-advertising-on-twitter-after-his-concerns-over-the-safety-of-tesla-full-self-driving-go-viral-1032436134"
     type: article
     provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 31
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "x1pGjauThq64+eWHJIrnSFq9hCDdDmo7OKB7/zcmNNGC3rrvrN4Dv6sp/BfLLFBqqpOO30tUiKDlGjf4IJXfkgh/+0GeldSeKvhrq67VhbCX7BTqeNhwg1ovbFkZtTAP87ej2cEOSJRNDD6pmh1TQeDyALmbq02HFKbdO9rmgcW9hxZA4EVqiGqnV9/ATwfaNuF68bVxMFCMFLwjeWEh+BUCHGCp4H1C0Mt+F1H8GwkGg18VAogeWfQtkHaZOc+7Fq1alFHO0N9lmZAFQUlP3frwBojtFozSSeS6oEGBo7Z4Dl83W9wbGANWRqRkY9kOcmWSEhMENAiq9GWAlhfxC2mtYsq0yDujZ6M2Kveh28Q=;ibJXuAKLnFJpMq6BDYeGMQ=="
 ---

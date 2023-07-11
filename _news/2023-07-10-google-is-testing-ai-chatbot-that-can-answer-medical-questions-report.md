@@ -103,15 +103,6 @@ related:
         width: 506
         height: 325
         isCached: true
-  - title: "AI chatbot ‘encouraged’ man who planned to kill queen, court told"
-    excerpt: "Chatbot said it was ‘impressed’ when Jaswant Singh Chail told it he was ‘an assassin’ before he broke into Windsor Castle, court hears"
-    publishedDateTime: 2023-07-06T13:49:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2023/jul/06/ai-chatbot-encouraged-man-who-planned-to-kill-queen-court-told?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "QHz3Yb5MQu2hiXOQLm/VHjfCzPPRY7QStjqmdnyFT1jj/91WWV6mxZkbldS7F4yqIet+hBLMMhQ/SAHMX09xkwpQWpFXOvOwtIrCzyaseWfjRZR62oBG5lsyNnHJzHXnfgXxQrcl319ccL8vi3HkKm0Nyji0K3PpuiAJQzbUziF+z7aThc8YvPCmshQZpwav/0Te4JxNzycALCZM2WkBvv6KwwnMErt9RbRC43YXdlJQWEx0leyjoXBl0NiwDAz7X9OwOKkjuZWjwdCdDHrhdUAJrIrtw1gvn0lquGFg4obzv/dJtBQF90P0x6KcfWrcHvliwGt5y3/ecYJcjPhgfpe92yEZsZCLJDuKXiSKNRU=;BGWPPkTE6IvumZSm0mKFvw=="
 ---

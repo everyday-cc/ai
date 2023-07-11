@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Digital transformation, AI, and the productivity problem"
-    excerpt: "There's a lot of talk about generative AI could boost productivity at companies in the midst of digital transformation. But moving too fast could make things worse."
-    publishedDateTime: 2023-07-06T14:01:00Z
-    webUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.techhive.com/images/article/2014/09/worker_productivity-100413905-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Finance Transformation: Unleashing the Power of AI and Analytics in Manufacturing"
     excerpt: "With the advent of artificial intelligence (AI), manufacturing finance is undergoing a remarkable revolution, enabling organizations to make more informed decisions, improve operational efficiency, and drive sustainable growth."
     publishedDateTime: 2023-07-11T00:35:00Z
@@ -152,6 +136,20 @@ related:
       - url: "https://obj.shine.cn/files/2023/07/07/20a28c71-a211-4c84-8dec-db98ee16ebb8_0.jpg"
         width: 940
         height: 528
+        isCached: true
+  - title: "Checkout.com is taking on identity verification with video-based AI-powered solution"
+    excerpt: "Checkout.com is launching ‘Identity Verification’ to improve customer onboarding by using artificial intelligence to verify customers in under two minutes. The new identity verification process is video-based and uses AI trained on billions of data points labelled by ID fraud experts."
+    publishedDateTime: 2023-07-11T05:57:00Z
+    webUrl: "https://www.altfi.com/article/checkout-com-is-taking-on-identity-verification-with-video-based-ai-powered-solution"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 32
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/7eLSSlhbIn89ev2TYbkA20/dd6604ee05455e5deeb2e2200b69306a/Identity_Verification_image_1__credits_Checkout.com.png"
+        width: 1198
+        height: 674
         isCached: true
   - title: "3 Ways Generative AI Can Drive Operational Excellence"
     excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."

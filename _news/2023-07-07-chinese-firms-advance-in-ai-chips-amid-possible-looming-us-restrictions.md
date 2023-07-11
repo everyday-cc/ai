@@ -25,31 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls"
-    excerpt: "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U."
-    publishedDateTime: 2023-07-06T14:37:00Z
-    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/"
-    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/"
+  - title: "Musk praises Chinese artificial intelligence as Tesla faces tough competition"
+    excerpt: "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6."
+    publishedDateTime: 2023-07-06T15:24:00Z
+    webUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 66
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a6d1908a417ec697b1aad2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "U.S. Weighs Human Rights As It Looks To Expand China Chip Restrictions"
-    excerpt: "Since the controls affect other industries that rely on the restricted chips—most notably China’s AI industry—Beijing’s claims that the moves are an effort to undercut China’s technological and economic development have significant supporting ..."
-    publishedDateTime: 2023-07-06T19:43:00Z
-    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/us-weighs-human-rights-as-it-looks-to-expand-china-chip-restrictions/"
+  - title: "Chinese AI-powered robot developer CloudMinds raises $138m"
+    excerpt: "Chinese artificial intelligence-powered robot developer CloudMinds has raised over 1 billion yuan ($138.1 million) in a Series C round of financing, as the firm is said to be weighing an initial public offering in Hong Kong."
+    publishedDateTime: 2023-07-10T03:27:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/DealStreetAsia/Chinese-AI-powered-robot-developer-CloudMinds-raises-138m"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F4%252F1%252F2%252F5%252F46205214-1-eng-GB%252FCloud%2520Minds.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "Chinese chipmakers rally behind initiative to develop AI industry standard"
+    excerpt: "China's AI chip development is no match for the high-performance AI GPUs from NVIDIA and AMD. However, facing tightening export sanctions from the US government, Chinese authorities have rallied the collective efforts of the industry,"
+    publishedDateTime: 2023-07-11T06:15:00Z
+    webUrl: "https://www.digitimes.com/news/a20230710PD204/ai-chips-china.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 52
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230710pd204_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
     excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity"
     publishedDateTime: 2023-07-07T19:26:00Z

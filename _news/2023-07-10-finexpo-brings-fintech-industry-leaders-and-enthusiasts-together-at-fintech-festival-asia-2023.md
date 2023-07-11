@@ -95,6 +95,15 @@ related:
         width: 960
         height: 600
         isCached: true
+  - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
+    excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
+    publishedDateTime: 2023-07-09T18:16:00Z
+    webUrl: "https://menafn.com/1106574082/From-Banks-To-Bitcoin-How-Fintech-Is-Shaping-The-Economy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "cVSj9/4oB7qaAZvcXkJHOl7Ckr0r0Od54CSKCFPMwslg14SI0WQ1CHVVX7h2y33HoAKA0Oe3GDKcyv66VPk1X845lKkpdxq/97wIYz1H1++q6rV0CV6hycPhU+RPUHytjN8uhqRJdNo38thKLzyJnqRQmKwC9LaaOcRRRDNEGQfU3DTxYC/2FYkYk5ynYEtt0UawUyA6HpCm232iBPz5gGG8mzYURpzRi+y1YvR6cz+G11YyOYvzevFn1kvs1tIEwpUO+fB6l5bn24DMptPjq0Y+cVgR0tfKgmDspm+ki9dG9WLGhy/UzmA2lnYGYyNyBd4xD1p65Dl3kDSlxJEwqKUk1D6uQfdhRM8jmoH387HFExCpspOtbrGSBYd2UM6pTlYk89wPjb4Vkg234DX7xyES7bK9Ga9G065ms8WQbSoYqr2sq+SbzrP8tMUfG6pbPPL/vAuOq+FG+Q5OITY9BMOmvJTJaLQt/SzNjRRlPBmolUp9sZRRIgwsdC+5VJs0m+/v1QHfTW4O/KFhb4n3mw==;fOW3arLY/6kIFs/0wNFUrQ=="
 ---

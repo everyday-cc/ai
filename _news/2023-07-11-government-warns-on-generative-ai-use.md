@@ -50,6 +50,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
+  - title: "Generative AI Eating Away Jobs: BPO Sector Isn’t Scared"
+    excerpt: "With nearly 4 million Indians employed in the BPO sector, the impact on jobs could be significant due to generative AI, however, industry experts think otherwise"
+    publishedDateTime: 2023-07-11T06:22:00Z
+    webUrl: "https://analyticsindiamag.com/generative-ai-eating-away-jobs-bpo-sector-isnt-scared/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ai-bpo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Enterprise hits and misses - generative AI wants to take your job, but will it? Edge computing has traction, and (almost) nobody likes Meta's Threads"
     excerpt: "This week - generative AI is coming for your job - or is it? Fresh data sharpens the enterprise AI pursuit. Informed Buyers look for new sources of influence, while edge computing may have more customer attention than AI."
     publishedDateTime: 2023-07-10T09:32:00Z

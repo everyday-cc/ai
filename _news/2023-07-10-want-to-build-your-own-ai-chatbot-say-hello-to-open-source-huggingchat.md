@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/want-to-build-your-own-ai-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
 type: article
 quality: 87
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
         width: 506
         height: 325
         isCached: true
-  - title: "AI chatbot ‘encouraged’ man who planned to kill queen, court told"
-    excerpt: "Chatbot said it was ‘impressed’ when Jaswant Singh Chail told it he was ‘an assassin’ before he broke into Windsor Castle, court hears"
-    publishedDateTime: 2023-07-06T13:49:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2023/jul/06/ai-chatbot-encouraged-man-who-planned-to-kill-queen-court-told?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "/bkeYUnZVSkCX4kwLdW4LmmivvkyDzTzxpapyKJ083l5gATUeIiunBOfJzOcAYj8dYL/ydmDagyVhlUyDAvyQ/x1g1F6+Qn4cDNgVJZAVJK+QssQ0MxZ7cVfnHwMc4Wdp4VIhOzsD7mJzfIiFEV15N9Q3Se244Sv9mnBIZ6B0Wtu1gv25w0sg1vhJ1J4tTVKKj7EXAqlTwMSjNhnlOYQg74mV7bsPP2VGAaxfehTHj7Kpt4POjAjU/EChrAwo/zH4WgfkGuP1YILYSHCNu5urQWD5fgEV4TGRiip/rBBu/CNiVKFPaBWQkFiwW5KSVpHlMs04bk2rM77asc0o2+PEi4Q3Iz4LkdrfMKIda9hMWM=;+rDBsvHBfPwjyY1/Q1Y7CA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligen
 webUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/"
 type: article
 quality: 66
-heat: 86
+heat: 106
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
+    excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity and large language models,"
+    publishedDateTime: 2023-07-07T11:07:00Z
+    webUrl: "https://www.globaltimes.cn/page/202307/1293938.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-07-06/cec72acb-baa5-4f80-b201-354117b3562b_s.jpeg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Chinese AI-powered robot developer CloudMinds raises $138m"
     excerpt: "Chinese artificial intelligence-powered robot developer CloudMinds has raised over 1 billion yuan ($138.1 million) in a Series C round of financing, as the firm is said to be weighing an initial public offering in Hong Kong."
     publishedDateTime: 2023-07-10T03:27:00Z
@@ -39,20 +53,29 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Apple chip production unaffected by Chinese sanctions, but things could get much worse"
-    excerpt: "TSMC‘s Apple chip production is not expected to be affected by China’s decision to restrict exports of two key"
-    publishedDateTime: 2023-07-06T13:25:00Z
-    webUrl: "https://9to5mac.com/2023/07/06/apple-chip-production/"
+  - title: "Chinese chipmakers rally behind initiative to develop AI industry standard"
+    excerpt: "China's AI chip development is no match for the high-performance AI GPUs from NVIDIA and AMD. However, facing tightening export sanctions from the US government, Chinese authorities have rallied the collective efforts of the industry,"
+    publishedDateTime: 2023-07-11T06:15:00Z
+    webUrl: "https://www.digitimes.com/news/a20230710PD204/ai-chips-china.html"
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 31
+      name: Digi Times
+      domain: digitimes.com
+    quality: 52
     images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/Apple-chip-production.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://img.digitimes.com/newsshow/20230710pd204_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
+  - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
+    excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity"
+    publishedDateTime: 2023-07-07T19:26:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2023/07/08/chinese-firms-advance-in-ai-chips-amid-possible-looming-us-restrictions/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 34
 
 secured: "wiWGYXfhVCl4W/BSY2cmF3Rey59aLLEscNQQPjbnfolSF5Ux7BPAHa9NoXwnBZtXMv6oDROxEZKroMGneAfApS+3dJ+cHGaL/B6qoYPIRlP8JcEvf62g7+u26/q0gCqE6u64Ofk/AcuqOXnB9Iw0xaHjlkKoS05/UYr9DjKIFus/0+UW9U0uOilyFXtcZqx4YOmX2g03w504HIiJYY0JhSdMLfHbwf3o5qf4dtN1nAdzBFTnJiVsMMKw957KUtOnQjGrg1PFe+gAdPYEc5LEoMNYMHO9AXm0dXviGFv1HzaG/sW4JISl46AqySZAYrYAf2hf4UobojFQVEX3TReybzNlSVQ/KPMhYrjTr4iLQNY=;KollmOrhhkaf+ixb6FmDKA=="
 ---

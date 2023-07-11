@@ -59,17 +59,6 @@ related:
         width: 768
         height: 506
         isCached: true
-  - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
-    excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
-    publishedDateTime: 2023-07-06T14:51:00Z
-    webUrl: "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1139719"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1139719"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 69
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
     publishedDateTime: 2023-07-07T14:34:00Z

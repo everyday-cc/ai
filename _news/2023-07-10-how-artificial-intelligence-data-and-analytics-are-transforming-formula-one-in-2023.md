@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-    excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI LONDON, July 6,"
-    publishedDateTime: 2023-07-06T14:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analytics-leaders-highlight-potential-of-generative-ai-at-mixpanel-s-annual-emea-customer-forum-1032430062"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
   - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
     excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London,"
     publishedDateTime: 2023-07-07T01:05:00Z

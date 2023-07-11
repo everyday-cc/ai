@@ -66,22 +66,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Digital transformation, AI, and the productivity problem"
-    excerpt: "There's a lot of talk about generative AI could boost productivity at companies in the midst of digital transformation. But moving too fast could make things worse."
-    publishedDateTime: 2023-07-06T14:01:00Z
-    webUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.techhive.com/images/article/2014/09/worker_productivity-100413905-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI is transforming Hollywood, and why its at the center of contract negotiations"
     excerpt: "The AI company Metaphysic is immortalizing actors through data capture, allowing them to appear in future films without ever being on set."
     publishedDateTime: 2023-07-10T23:59:00Z
@@ -167,6 +151,20 @@ related:
         width: 940
         height: 528
         isCached: true
+  - title: "Checkout.com is taking on identity verification with video-based AI-powered solution"
+    excerpt: "Checkout.com is launching ‘Identity Verification’ to improve customer onboarding by using artificial intelligence to verify customers in under two minutes. The new identity verification process is video-based and uses AI trained on billions of data points labelled by ID fraud experts."
+    publishedDateTime: 2023-07-11T05:57:00Z
+    webUrl: "https://www.altfi.com/article/checkout-com-is-taking-on-identity-verification-with-video-based-ai-powered-solution"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 32
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/7eLSSlhbIn89ev2TYbkA20/dd6604ee05455e5deeb2e2200b69306a/Identity_Verification_image_1__credits_Checkout.com.png"
+        width: 1198
+        height: 674
+        isCached: true
   - title: "3 Ways Generative AI Can Drive Operational Excellence"
     excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
     publishedDateTime: 2023-07-07T15:39:00Z
@@ -186,6 +184,6 @@ related:
       domain: usatoday.com
     quality: 15
 
-secured: "wq6viGIyahThh+dwoGxgxkuL/xYhD3o4l8NzhmnDq/XlwuZ+bUbWh+a34of8e8cvd529jqXy+m62Z4GSTP6Tx6a9c+Uy9QbZJEgoRqQWFuVXjVxdphRSrJBnyEDdcZrvyGdP4Kc4mwmTvE8eay1IA2/K2d1ylI/+opTELDAVsX/vSICJfwIJrzxKP4HCOpGkghL3Hlp47RsMMPmv5XfvnhzJHpHfIgnLvtGAddl/aMqc61Jx6UdRot15nFk/t9AKzA5UWl3I10HS0i7neqQ6Vk39loc0eqzs8zspsrHNx5oft2+tNB4XGQrC9zdj4D/bDBmgnmYyah8jf1KgcuW1sV4A/sdktS4KlXlIc1hM2H0=;bjq5Oc2hU+0nH4+bTMIKXw=="
+secured: "CbMPiRjOxeBxKyr1+GYMXb9W2ep7ddUDvCHfSW5PkMg8HDg7PaOKWX2WjvKR+y6S3RGCO0f6YNiHxs4G85xDgTegzeeWoFugWF/5Im8oe4F7v2UU9u3ECQzbX68jNGAJEgqvwUZPWdWl+uKGx+DrGkpQwRNg/4qDVpkbKf4jkhjA9wqugO+rPl1ITW6NIGTdK4Dgzj2xM8lNX3V1S0XQnx64iPh+jfNLfJDqYa0zdxe1dUTJOXz9m/jrjREV4mLbSCgh/eB4OTzDblg2KIfq2jt9pI2atPqOQ4LyPrEqUByBocqDIRS9KvXKuG2hGVHl8fxXk+/2Fme5KU37SNHCOFYtFT/TLcMEWQ623dfNUGFDvYCoBWisDQUii98NegdJc4b2Qr6vDmpbMXh1Bxn/qCfeO9uYdwm3KuNiQpmlOiCljoQ5EoXUtz2H75ZVNAh10yljzmDg2OUezya7YjjmSAk5RnDdMkfdn+Usr7WsnBKuqWgifrPqkiSt/2EndDN9PQp0esdeBueWDGFB3Px22g==;VzHX9Hhc8jN4hQJVBLsaow=="
 ---
 

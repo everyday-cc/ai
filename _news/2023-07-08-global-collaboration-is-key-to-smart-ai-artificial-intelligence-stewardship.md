@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship"
-excerpt: "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a"
-publishedDateTime: 2023-07-08T16:48:00Z
-originalUrl: "https://cranstononline.com/stories/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship,216727"
-webUrl: "https://cranstononline.com/stories/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship,216727"
+excerpt: "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization."
+publishedDateTime: 2023-07-08T09:21:00Z
+originalUrl: "https://www.stltoday.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_3983f7f1-861f-5de6-823b-a29508df5afb.html"
+webUrl: "https://www.stltoday.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_3983f7f1-861f-5de6-823b-a29508df5afb.html"
 type: article
 quality: 51
 heat: 51
 published: false
 
 provider:
-  name: Cranston Herald
-  domain: cranstononline.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://feeds.newsusa.com/sites/default/files/styles/full_size_rss_feed/public/2023-07/SCSP%20story%201st%20july_0.jpg?itok=Ri85jEtS"
-    width: 4288
-    height: 2848
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/d2/1d27fc8e-60ba-53ca-bcbf-72c1919a5f60/64ad0793dc5e8.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "7nKnUVm8rnEJBfdNFq3/8vHv/EKqHNO2y7b4199GyvW3STvFVFW/nlNdzzLCPOqXA84qhuE+OKxHkYEobw6g/OXHBAeNYuO9W+xEG0JI5iAt+TkgfMA8BMrh/douNSrLqS+r74geKoLPJisunLpiWCd9asS4DqRT796AytscfD8PjdyjEypzBHpASi4WLiSzYcl6gc8q9eB5zpNndFBkkZrn2QUSAw6b3cP/e154Pcwl+1CA0kHvx+NyriDWkNwbBGG2y8njzLPvPrQZACYUkDEDeTIxmKXa6oRQfiVy+R3zraisiwsp6puaeWyjLafMggQVwmvr6pT5wzjkAYjm9+BTHb9LPRECF5sSHYKKQTU=;IVtsCpu0Rqid2mJpHGP3zQ=="
+secured: "7toQWcxZ49m60CyREeCiCwKZW266xR6ldxELGyn/xvGZ2eKVqh9Tx0i8gRXEIWCaZwR+KjxpSEOCf05TXubneREhOWwfp6WviFjttvS7ilaHReD0zmljLlhkxwiusllnZU2UVvCWHc2/VpZ665ThFnecA03Udu5GRwTXNXLT0tBEVHl1R+SCQmaZYMq4ISEG/BNzhEMd/0nZjDHncnsy0OTYKvBM5Lk65OX0E+3EPCrDc5K+Jncjqdu2jPskX8ztme6ixm1+fzOCnTEbitK8Xc6XzOVTw6/i8aTVwUX2LuWBkIKrNGl3iBkoVs3oPKZ92hYmseqDtFHoCxtIkJ+gzfpgiKB+0QbrYTXY51g3q6I=;2e+AWvNqyLWQREGeP3mbMw=="
 ---
 

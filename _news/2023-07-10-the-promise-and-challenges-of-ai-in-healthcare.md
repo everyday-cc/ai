@@ -63,20 +63,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "People are uncomfortable with AI-led healthcare"
-    excerpt: "Less than one-third of people are comfortable with their primary care doctor's appointment being led by artificial intelligence, with vast majorities of women being more skeptical than men about the new frontier of healthcare technology, according to a new ..."
-    publishedDateTime: 2023-07-06T14:52:00Z
-    webUrl: "https://gazette.com/news/wex/people-are-uncomfortable-with-ai-led-healthcare/article_f639c385-50b9-5eb0-aa85-388a325e9107.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 54
-    images:
-      - url: "https://i.prcdn.co/img?cid=9YMC&page=1&width=300"
-        width: 293
-        height: 514
-        isCached: true
   - title: "GE Healthcare survey: AI faces skepticism in the medical care business"
     excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the U.S."
     publishedDateTime: 2023-07-09T14:59:00Z

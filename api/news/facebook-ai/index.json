@@ -607,19 +607,19 @@
     {
       "path": "_news/2023-06-29-meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram.md",
       "title": "Meta releases clues on how AI is used on Facebook and Instagram",
-      "excerpt": "As demand for greater transparency in artificial intelligence mounts ... such as Instagram Stories and Facebook’s news feed. These describe how Meta selects what content to recommend to users.",
+      "excerpt": "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on its apps. The social media giant introduced nearly two dozen explainers focused on various features of its platforms,",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
+      "webUrl": "https://kesq.com/news/2023/06/29/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram-2/",
+      "originalUrl": "https://kesq.com/news/2023/06/29/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram-2/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230628181712-meta-discloses-ai-information.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
+          "url": "https://kesq.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNjA0NzgzNjlhYjk5NWY4NmUzYjg2OTdjNGE0OGI3ZjI-L19wYWdlcy9oXzg5M2JkOTcxNGZmZTEwNDViZmMxNDc2MDMxMDE5Y2Zl-300-860x484.jpg",
+          "width": 860,
+          "height": 484,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -627,23 +627,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html",
-      "publishedDateTime": "2023-06-29T06:14:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T03:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "KESQ News",
+        "domain": "kesq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/08/police-live-facia
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/08/police-live-facial-recognition-british-grand-prix"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "F1 British Grand Prix: Facial recognition at Silverstone being used"
-    excerpt: "Facial recognition technology will be used for the first time at the Formula 1 British Grand Prix to try to stop protesters disrupting the race. Last year, climate activists from Just Stop Oil got on to the Silverstone track in the first lap and sat down."
-    publishedDateTime: 2023-07-06T13:30:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-northamptonshire-66120010"
-    ampWebUrl: "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15798/production/_130306978_silverstonecarpa.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "British Grand Prix: Northamptonshire Police crackdown on protests with facial recognition technology"
-    excerpt: "At last year's race protestors invaded and sat on the track, with police boosting security to prevent the same happening this weekend. | ITV News Anglia"
-    publishedDateTime: 2023-07-06T13:29:00Z
-    webUrl: "https://www.itv.com/news/anglia/2023-07-06/british-grand-prix-facial-recognition-to-be-used-in-protest-crackdown"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 24
-    images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/6pCCdnz6YNEXq56qm3gkyo/d49b8c69b3d3cc9c15e97c6d9e1a13ac/G-SILVERSTONE.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "F1 British Grand Prix to use facial recognition at Silverstone to prevent 'criminal activity'"
     excerpt: "The race, taking place at the Silverstone Circuit on Sunday, will use the technology after last year's installment featured protestors occupying a high-speed part of the track."
     publishedDateTime: 2023-07-07T18:36:00Z

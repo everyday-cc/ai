@@ -45,22 +45,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "TCS to train 25,000 employees on Microsoft, OpenAI’s generative AI tools"
-    excerpt: "The company also launched a generative AI business offering, called TCS Generative AI Enterprise Adoption, which will offer deployments of OpenAI’s generative AI business tools via the Azure cloud pla"
-    publishedDateTime: 2023-07-06T14:24:00Z
-    webUrl: "https://www.livemint.com/industry/infotech/tcs-to-train-25-000-employees-on-microsoft-openai-s-generative-ai-tools-11688653184491.html"
-    ampWebUrl: "https://www.livemint.com/industry/infotech/tcs-to-train-25-000-employees-on-microsoft-openai-s-generative-ai-tools/amp-11688653184491.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/tcs-to-train-25-000-employees-on-microsoft-openai-s-generative-ai-tools/amp-11688653184491.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 73
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/06/600x338/tcs_1688653355103_1688653355317.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
     excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
     publishedDateTime: 2023-07-08T12:00:00Z
@@ -147,20 +131,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Why Microsoft won't be the company to mainstream consumer AI use"
-    excerpt: "Microsoft still doesn't get consumers. At the start of 2023, the internet was ablaze with the idea that Microsoft may have finally, finally found a way to dent Google's search dominance. Using the power of AI,"
-    publishedDateTime: 2023-07-06T14:52:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/why-microsoft-wont-be-the-company-to-mainstream-consumer-ai-use"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/4eKhWqEEDdruqRfxygYXyQ-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft and Google Advance Quantum Computing While AI Hype Rages"
     excerpt: "Generative AI may be dominating the tech hype cycle these days, but amid the hoopla Microsoft and Google have been making advances in another mind-boggling future technology: quantum computing."

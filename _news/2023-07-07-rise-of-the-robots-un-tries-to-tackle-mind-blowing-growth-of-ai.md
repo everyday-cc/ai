@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tack
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 768
         height: 506
         isCached: true
-  - title: "Robotics: UN tries to tackle ‘mind-blowing’ growth of AI"
-    excerpt: "GENEVA: The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday"
-    publishedDateTime: 2023-07-06T14:51:00Z
-    webUrl: "https://www.omanobserver.om/article/1139719/world/europe/robotics-un-tries-to-tackle-mind-blowing-growth-of-ai"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1139719"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1139719"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 69
   - title: "UN tries to tackle 'mind-blowing' growth of AI"
     excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humano"
     publishedDateTime: 2023-07-06T15:16:00Z

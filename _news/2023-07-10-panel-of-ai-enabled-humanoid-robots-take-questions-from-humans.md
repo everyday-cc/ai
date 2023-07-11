@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI and the human factor"
+    excerpt: "Artificial intelligence (AI) still needs people to be able to function properly. This is the word from Peter Blignaut, manager: pre-sales at SAP South Africa, who points out that computers can do nothing without instruction."
+    publishedDateTime: 2023-07-10T13:52:00Z
+    webUrl: "https://it-online.co.za/2023/07/10/ai-and-the-human-factor/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "Tcb9RXmatl1e1PsPvOTkmffUS1oQWyhajEKhsaLNzeSS4wytUK50wZ0SCLQS6T4Wgegn86yWhjCxgnqB+Qm5yqam7vqUEs6L6lJIsG/Pqg9Va9Uvl30lHxKW7PaxZEJSHIxAlhP6MsI3w4QZzPtWswJ0TqnfriI/fkIGOPjGLM2kobCAmfWGbKl/Z7aXLoq0nfkZ/K4SXrMVFnWj5iQxi5kJAyD5eP12yxFQUycuRT6AZz5f+YZPCSe6kBxfeG3TDHlO9lBvgjrgV2TzdpkvpVztzw7YycdGf6DpJj86+g74KjUo3YX52213dnr1xnR1l90F+dQiSpn4Ads/IQ1IuMx2v/uimTc1S3Q1/0zr1uQ=;u39zJlIvL7poiwbwLjfW8Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/node/1525829"
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "AI and the human factor"
+    excerpt: "Artificial intelligence (AI) still needs people to be able to function properly. This is the word from Peter Blignaut, manager: pre-sales at SAP South Africa, who points out that computers can do nothing without instruction."
+    publishedDateTime: 2023-07-10T13:52:00Z
+    webUrl: "https://it-online.co.za/2023/07/10/ai-and-the-human-factor/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "MMluhh7yRu02/nIqwzSGHjyi1qAh1gUqM845/f/jo1xz/TX0uiKSIG4pLYfI6qKp81nFhm6IYeP9M2rXFDrRzPrrpg8+68N1GXDW/O4BQSRxokw375r2hIKMOhVoRlTmBgBA6O2SObF1zy36e12bQ4nyfQ6DK4ofV57408T0kCl6y3KwbRt6+2CgjTQRh6NvK0U41ef0PaSzIXlfOZ+OsM/cdRnw9GDeq4oI9ZUicJxpAFkySnd/bjw3XLN2c+k2UPEYVjEkWEP4cipdawmXKxk7co9T2szeDEQ71LmDvTPvxuxMW5zSlXuaH0yuUYTHM/6eSc6goPcmFx5G7Ma7QtQwxcjviuH7xEsAM2abmUU=;8nZE/vKVicypKBBOg+u5xw=="
 ---

@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Meta releases clues on how AI is used on Facebook and Instagram"
-excerpt: "As demand for greater transparency in artificial intelligence mounts ... such as Instagram Stories and Facebook’s news feed. These describe how Meta selects what content to recommend to users."
-publishedDateTime: 2023-06-29T13:14:00Z
-originalUrl: "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html"
-webUrl: "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/29/tech/meta-discloses-ai-information/index.html"
+excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on its apps. The social media giant introduced nearly two dozen explainers focused on various features of its platforms,"
+publishedDateTime: 2023-06-29T10:01:00Z
+originalUrl: "https://kesq.com/news/2023/06/29/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram-2/"
+webUrl: "https://kesq.com/news/2023/06/29/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram-2/"
 type: article
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://media.cnn.com/api/v1/images/stellar/prod/230628181712-meta-discloses-ai-information.jpg?c=16x9&q=w_800,c_fill"
-    width: 800
-    height: 450
+  - url: "https://kesq.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNjA0NzgzNjlhYjk5NWY4NmUzYjg2OTdjNGE0OGI3ZjI-L19wYWdlcy9oXzg5M2JkOTcxNGZmZTEwNDViZmMxNDc2MDMxMDE5Y2Zl-300-860x484.jpg"
+    width: 860
+    height: 484
     isCached: true
 
-secured: "gbbUY2nbgPh7Rx7vfiDXW0PVu9kLN3gyvtIjLVyVFzknPmJqAv5qsNpAfdS4LjQ8g5V6qrqjIpVFORtim9ddwxcK6Et+LsVsa3xbalGcZcoqdElKVXfP74Bv0b5fEYctDBb1R2aq+R87XVmWYlFaTYRPQr5roqPj4jqWoacK31drY22qRDlwZrlImpUcSop1pOD6B3LkXNNY7FZ64U+x5kpfEXVd8OcOOY+LYEXsylSAUo6Vg4uDIfk1sfOm7Jg/PUvhfS18Y46TmFsBDCluJRjVSsFj+kiahxPoa5Q6OR+YrkNFkQv/3HpOyaCc6My9S6AoO/FBbELzC60uAZh7I/QPsXIRIPUl5k8sS4SbCik=;k8GDj0daMajb4NUOCLZneQ=="
+secured: "MqvzpxwVsIzexxt60xnF+mtf9FtxTs0S9uwY5AlI96qduQv5v372E58D58zwi9w5nyKtpKD3GsIjNasfdn6FJMuSzLSjAc0iaVIfPK2xo/eRYHp2r+yrPmv9Iw9OLd0lmaXixkeZsWzxdYsniFzq+dPcJTzEpJ76lQ+dhezWfpYYTvUIvZBaLjojxN169GMhiDUvfdSPGxpHJMcS6UeFiJ8aULpBsCxPCZ2lNVvzn0noK2vdt4jKGRPvXrJER2sY/ft5QGXG6upJeKrqLdhV/j0qpJnN6hpS5Q9tD+ega/yrZ1JVYmsNFBa7GCccKXQP3MBiqHYYg12WdIhSFJaHcvBLr2cfqnmmMRdwLcMtKMw=;+iPgCWFokUUMPuk/x9nyXw=="
 ---
 

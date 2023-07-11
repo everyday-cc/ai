@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-coming-for
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
+  - title: "Generative AI Eating Away Jobs: BPO Sector Isn’t Scared"
+    excerpt: "With nearly 4 million Indians employed in the BPO sector, the impact on jobs could be significant due to generative AI, however, industry experts think otherwise"
+    publishedDateTime: 2023-07-11T06:22:00Z
+    webUrl: "https://analyticsindiamag.com/generative-ai-eating-away-jobs-bpo-sector-isnt-scared/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ai-bpo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Government warns on generative AI use"
     excerpt: "Positioned as a baseline policy that will evolve over time, the Digital Transformation Agency’s (DTA’s) new Interim Guidance for Agencies on Government Use of Generative AI Platforms outlines four core principles that delineate its perception of the key risks posed by generative AI technologies."
     publishedDateTime: 2023-07-11T01:04:00Z

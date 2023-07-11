@@ -42,15 +42,6 @@ related:
       name: France 24
       domain: france24.com
     quality: 31
-  - title: "Elon Musk Says Teslas Will Be Self-Driving Teslas by the End of the Year, Again"
-    excerpt: "Tesla CEO Elon Musk claimed the automaker could have a fully self-driving car on the road by the end of the year. Musk made the familiar statement during a video call at an artificial intelligence conference in Shanghai,"
-    publishedDateTime: 2023-07-06T14:30:00Z
-    webUrl: "https://www.gizmodo.com.au/2023/07/elon-musk-says-teslas-will-be-self-driving-teslas-by-the-end-of-the-year-again/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 30
   - title: "Musk Predicts Tesla Full Self-Driving Cars ‘Later This Year’"
     excerpt: "Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated milestone. “In terms of where Tesla is at this stage,"
     publishedDateTime: 2023-07-06T18:53:00Z

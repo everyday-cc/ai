@@ -97,15 +97,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Volkswagen starts an autonomous driving pilot program in Texas"
-    excerpt: "In 2019 VW Group invested $2.6 billion in Argo AI, an autonomous vehicle startup backed by Ford. At the time, Argo's self-driving stack was to be incorporated into future autonomous VWs as well as autonomous Fords. But Ford's original timeline of launching ..."
-    publishedDateTime: 2023-07-06T13:32:00Z
-    webUrl: "https://arstechnica.com/cars/2023/07/volkswagen-starts-an-autonomous-driving-pilot-program-in-texas/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
   - title: "Volkswagen to Test Self-Driving ID. Buzz Microbus Fleet in Austin"
     excerpt: "Volkswagen chose Austin for its self-driving testing program because it has a reputation for being supportive of innovation."
     publishedDateTime: 2023-07-07T16:11:00Z

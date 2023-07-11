@@ -36,15 +36,6 @@ related:
         height: 800
         isCached: true
   - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
-    excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI LONDON, July 6,"
-    publishedDateTime: 2023-07-06T14:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analytics-leaders-highlight-potential-of-generative-ai-at-mixpanel-s-annual-emea-customer-forum-1032430062"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-  - title: "Analytics leaders highlight potential of generative AI at Mixpanel's annual EMEA customer forum"
     excerpt: "Speakers identified a range of use cases from building analytics queries with natural language, to interpreting charts with AI Mixpanel, the event analytics* pioneer, recently hosted its annual EMEA Customer Forum in London,"
     publishedDateTime: 2023-07-07T01:05:00Z
     webUrl: "https://www.ryt9.com/en/anpi/269347"

@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "UN Tech Agency Rolls Out Human-looking Robots For Questions At A Geneva News Conference"
+    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
+    publishedDateTime: 2023-07-11T07:40:00Z
+    webUrl: "https://www.businesstoday.in/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11"
+    ampWebUrl: "https://www.businesstoday.in/amp/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 51
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202307/w-9-ai-robots-steal-the-show-at-un-sixteen_nine.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
     excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
     publishedDateTime: 2023-07-10T13:37:00Z

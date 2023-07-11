@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "F1 British Grand Prix: Facial recognition at Silverstone being used"
-    excerpt: "Facial recognition technology will be used for the first time at the Formula 1 British Grand Prix to try to stop protesters disrupting the race. Last year, climate activists from Just Stop Oil got on to the Silverstone track in the first lap and sat down."
-    publishedDateTime: 2023-07-06T13:30:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-northamptonshire-66120010"
-    ampWebUrl: "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15798/production/_130306978_silverstonecarpa.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Police using live facial recognition at British Grand Prix"
     excerpt: "Northamptonshire force says technology adds ‘extra layer of security’ at Silverstone for F1 race"
     publishedDateTime: 2023-07-08T10:39:00Z
@@ -50,20 +34,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/f28c4811e4a3cd748aea9ec6a35d64938c8d48aa/0_43_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=41922cecdda0905795c8c4468dab053c"
         width: 620
         height: 372
-        isCached: true
-  - title: "British Grand Prix: Northamptonshire Police crackdown on protests with facial recognition technology"
-    excerpt: "At last year's race protestors invaded and sat on the track, with police boosting security to prevent the same happening this weekend. | ITV News Anglia"
-    publishedDateTime: 2023-07-06T13:29:00Z
-    webUrl: "https://www.itv.com/news/anglia/2023-07-06/british-grand-prix-facial-recognition-to-be-used-in-protest-crackdown"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 24
-    images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/6pCCdnz6YNEXq56qm3gkyo/d49b8c69b3d3cc9c15e97c6d9e1a13ac/G-SILVERSTONE.png"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "7nATcHpfD8CT0vw2XY2Ul8tc4LOzngaodYyudUxChGHRapkt6sSTYv0pY1aAAx6mydzJZRxImpR38COPaa82GlZvFCY84knX++gk6tq/N8j8hbSC+rCUdnkX47QcWqTj90KSeZ8wEj31X9LVjjrW816yjz1Ndz9kn4v9LMtt/oQTfH4oRmVviWQJfEFuakcQRWwiSENBtfXdu81cESx7yU40AnIyH01bDRZB9xFTv0eTV+ARIFRuTU3oOZmACMKXoZBFil+ctEz1LD/HTwxRmp++qqcZsuQQKU6LPU8GlrqCDGEpVFBrgffhejrxShBH0Gc4QYHi9D3MzKGgjvD5Or1iKI1MgUT/hTv7gqDjQ5qnE01Ztp6sYRhMy8KCEUpirot4CyiNANACw1qSwEC31ukqjVJT0I9ymt3xfCjfxhg+4Me3M+0zeVZW7FMkJ3Vq4M/IcxVhom+jOjUnc8HKtRFkA+SYKIbAmzA2w+NwpxbTG+Fd0oj9jqIFjyeUjm5k7Nu9E2rGZsx7QNuOeHKR7g==;yjaFQVU4shko7lZ0/T9h5w=="
