@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "3 AI Stocks That Will Skyrocket Before 2025"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence is everywhere and has become a hot trend."
+    publishedDateTime: 2023-07-10T22:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-will-skyrocket-before-2025-1032435959"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "8dUGKriag0ljLRUQtBF0aCih8+XfGl3ZVWQAkWrJgTarbxczqBFkDpR3h3tueSbFTOc4VUjFB0SyG5AgHA6XxEM3o7ODUquEzLo3d9pSWaOKXw34KgloZbG7+R0NzNNyPVZZ56rIROamqAGIXG35jph7td6aCyX3BNyU44yAdnk3UjTlpT5Y3x171HzAHE/j4dfGH67GM2uFk00OMtYuUPMPXk+3ptpHhsrtNhTAlmdjOTi+13GntaToEdGrsMDKFaKXnDCEkN+aOVlYtY9kN5DFWoW3oMPrymdy9YVv+O3oAgRCuk7cSF5JCOjXmma9BVNRMqe791j/S5eTOOAcxkg43AMTOWHFuBBghak0OvPpBDM7lW1YZLsuFzNLo0H4G+fCX5drSTqm/W81Y8/X7XbEGAvlVmU7NxLnmbP0/0HLr0P/9Kx0kmsxkLSWqx62409xAPhsxYkWHBrZnGvs3yCCQGWbpPmrFJarKYrQVtZ6FRSLd8T5+k2gNKVNSf1nrhAfg7+m4LCtGLFgOMMgSA==;YFZ4Qt/O2zPPlbV0EPb+WA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202307/uk-and-australia-law-enforc
 webUrl: "https://www.biometricupdate.com/202307/uk-and-australia-law-enforcement-facial-recognition-projects-under-public-microscope"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology in use at major Australian stadiums"
+    excerpt: "Facial recognition technology is being deployed at major concert venues and sporting events around Australia, often without consumers' knowledge or consent. Facial recognition is an advanced and controversial technology which involves the use of cameras to ..."
+    publishedDateTime: 2023-07-07T03:59:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
+    type: article
+    provider:
+      name: Choice
+      domain: choice.com.au
+    quality: 39
+    images:
+      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
+        width: 700
+        height: 390
+        isCached: true
   - title: "A fraudulent presentation of Australia’s Indigenous Voice"
     excerpt: "Indigenous Affairs minister Linda Burney’s address to the National Press Club was based on the assertion, contrary to all historical experience, that the Voice would provide “practical” solutions to the appalling social conditions impacting the Aboriginal population."
     publishedDateTime: 2023-07-10T04:45:00Z

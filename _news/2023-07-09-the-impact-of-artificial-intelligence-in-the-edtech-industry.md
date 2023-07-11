@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-a
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Financial Express
@@ -40,6 +40,15 @@ related:
         width: 620
         height: 330
         isCached: true
+  - title: "Tech Giants Race to Incorporate AI in China’s Offices"
+    excerpt: "AI integration is fueling fierce competition among tech giants like Kingsoft Office, Baidu, and Alibaba, who are developing their own ChatGPT-like models."
+    publishedDateTime: 2023-07-10T04:31:00Z
+    webUrl: "https://www.sixthtone.com/news/1013271"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 19
 
 secured: "htvnMXuU9kgmyWNO8dR+gvjdeTI1PD2fLym4PUEmSN86uY3v3kuA42g3MROZStPvIqoCsHvwLcBjCP1yT483nQ6YZKxIFXNU54ZnagLnrgX0dPrxM36tQKieZGFKA+RI2sHHwezXmp9gYhMfddmtjEgBnOkMI/Rc4YfpW9zuCXvotfeb2z35q6KipOy7vFOvI5ZgNWJGpKK4ITE8Japd0mmNDGsM/KuaVennH2ZtgTmOAsXegt7IW1S843M+sSYwuSgE4KqbcnOnw9S4Xu1fCK+RVFTIG+NS3zetDwSnJqbpjsDyJS1ihLtSkBZCfFLOwF2AqjTnSe7N+uctX0reK4FXm6H01n89dXfyhvaV6gI=;U2m2gF6PVGh1WhZDhtgQTA=="
 ---

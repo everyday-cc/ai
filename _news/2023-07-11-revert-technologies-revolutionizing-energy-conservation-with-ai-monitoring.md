@@ -155,15 +155,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 17
-  - title: "Smartling Integrates with Custom.MT for Expanded Machine Translation Options"
-    excerpt: "VThrough the integration of Custom.MT's console, Smartling customers gain access to additional machine translation providers"
-    publishedDateTime: 2023-07-06T07:00:00Z
-    webUrl: "https://slator.com/smartling-integrates-with-custom-mt-for-more-machine-translation-options/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 16
   - title: "Transforming Fashion & Luxury: Exploring The Implications Of Apple’s Vision Pro And The Spatial Computing Era"
     excerpt: "The impact of Apple’s new spatial computing device on fashion, luxury, and retail shouldn’t be underestimated. Are we ready for this new shift?"
     publishedDateTime: 2023-07-06T12:00:00Z

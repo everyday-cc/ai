@@ -38,16 +38,16 @@ related:
   - title: "Musk Predicts Tesla Self-driving Cars 'Later This Year'"
     excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
     publishedDateTime: 2023-07-06T07:34:00Z
-    webUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
-    ampWebUrl: "https://www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
+    webUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
+    ampWebUrl: "https://www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
     quality: 59
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP8259960226130620083595855329811169866700---1.jpg"
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1139930421076092946202235115251316877702---1.jpg"
         width: 768
         height: 511
         isCached: true
@@ -64,22 +64,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Elon Musk predicts Tesla self-driving cars may come 'later this year': Report"
-    excerpt: "Premium Tesla CEO Elon Musk addressed an audience at the opening ceremony of an artificial intelligence conference in Shanghai via video link . (moto1.com) \"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving ..."
-    publishedDateTime: 2023-07-06T05:38:00Z
-    webUrl: "https://www.livemint.com/auto-news/elon-musk-predicts-tesla-self-driving-cars-may-come-later-this-year-report-11688621031161.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/elon-musk-predicts-tesla-self-driving-cars-may-come-later-this-year-report/amp-11688621031161.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/elon-musk-predicts-tesla-self-driving-cars-may-come-later-this-year-report/amp-11688621031161.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/06/600x338/tesla5_1687171703257_1688621804482.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "NHTSA Looking Into Details on Tesla’s Self-Driving Changes"
     excerpt: "U.S. automobile safety regulators at the NHTSA are zeroing in on changes that Tesla has made to its Autopilot partially automated driving system."
@@ -140,20 +124,6 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
-        isCached: true
-  - title: "Elon Musk predicts Tesla self-driving cars ‘later this year’"
-    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles ‘later this year’, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated"
-    publishedDateTime: 2023-07-06T12:48:00Z
-    webUrl: "https://www.newagebd.net/article/205911/elon-musk-predicts-tesla-self-driving-cars-later-this-year"
-    type: article
-    provider:
-      name: New Age
-      domain: newagebd.net
-    quality: 39
-    images:
-      - url: "https://www.newagebd.com/files/records/news/202307/205911_139.jpg"
-        width: 790
-        height: 452
         isCached: true
   - title: "Self-driving Tesla cars expected 'later this year', Musk tells AI conference"
     excerpt: "I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai."

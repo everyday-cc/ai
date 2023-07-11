@@ -160,15 +160,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 17
-  - title: "Smartling Integrates with Custom.MT for Expanded Machine Translation Options"
-    excerpt: "VThrough the integration of Custom.MT's console, Smartling customers gain access to additional machine translation providers"
-    publishedDateTime: 2023-07-06T07:00:00Z
-    webUrl: "https://slator.com/smartling-integrates-with-custom-mt-for-more-machine-translation-options/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 16
   - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
     excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
     publishedDateTime: 2023-07-10T18:55:00Z

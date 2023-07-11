@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/video/6330862925112"
 webUrl: "https://www.foxnews.com/video/6330862925112"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Fox News
@@ -26,22 +26,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Dan Hendrycks wants to save us from an AI catastrophe. He’s not sure he’ll succeed."
-    excerpt: "It’s only been a year since he cofounded the Center for AI Safety. And it’s only been a few months ... One model that intrigues him is the European Organization for Nuclear Research, or CERN. It’s an intergovernmental organization, with 23 member ..."
-    publishedDateTime: 2023-07-06T07:03:00Z
-    webUrl: "https://www.bostonglobe.com/2023/07/06/opinion/ai-safety-human-extinction-dan-hendrycks-cais/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 33
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/YHiXMPTDWKvSJfAHUkU9Zch3DUg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TWP2R7JIKDNULNWTX4SEO2YKIY.jpg"
-        width: 506
-        height: 337
-        isCached: true
 
 secured: "0mrNlE067J0ZZJ5LyEETf73W9BhLIS1vEgUDRqlGEQAA2s2Jr8KULTClCQ5MovmQCKwQKhQdwp/9YqxtT800I9T1c2lUnE49Ny2726L2YcFsMmJYOKzniDz6/BbQhyix7EE04K2vZbZjJUFMluXRWXMVMDLRTbUXkuPPKSeCzDqXVurHZ+fPjvZEwhmgqQgoErW1iF73JceCR0U/9mRfK7UTy/sljzoxWXm19DThcxLRsxr/bXJqqH8VaVW1w0LC4wJ7b8RcYKb4CtEgue0c4X3yTTCoAvC6LfvUHv0X/6j7oX+M0KgxTw8lf5y/T3uGKId7iXhgjCO65NKw4CDus5uK/mc/uN3qTLVjDKa29fwkcGUClPxG4itsJPrA8KQkhlHNzlqbZqtyBE367IowUPrFwa5oqbjzUZgQiukYmccaw0K16Docx/T5VYcl0glXEh1T23EpjT7aPup5tlqkvd0BKu8iDDU/rSD+9/oJF/Wt89PlgyJO7iJ73P3n9ue9qgVdL/vmmH53bd3f6Et5Ew==;nuj3vVoHOhZBrAawHnbDeg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-confer
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/intelnvidia.jpg"
         width: 910
         height: 512
-        isCached: true
-  - title: "Artificial intelligence takes centre stage at Collision tech conference in Toronto"
-    excerpt: "TORONTO - When the Collision tech conference got underway in Toronto on Tuesday, there were two words that dominated discussions across the Enercare Centre: artificial intelligence ... impacts of AI will come in health care, where it could be used for ..."
-    publishedDateTime: 2023-07-06T06:18:00Z
-    webUrl: "https://www.cp24.com/news/artificial-intelligence-takes-centre-stage-at-collision-tech-conference-in-toronto-1.6458040?cache=xceuacapshbcr%3FclipId%3D89578"
-    ampWebUrl: "https://beta.cp24.com/news/2023/6/27/1_6458040.html"
-    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/6/27/1_6458040.html"
-    type: article
-    provider:
-      name: CP24
-      domain: cp24.com
-    quality: 55
-    images:
-      - url: "https://beta.cp24.com/content/dam/cp24/videos/axis/2023/6/27/2716151/_jcr_content/renditions/videothumbnail.1687903788912.jpg"
-        width: 974
-        height: 548
         isCached: true
 
 secured: "pB19JPbMdL/UR8nTx/hTmIdCT4QHMi/odpZz9eoyhCt3L7sui68hNtcTzQlWnUoH9ArpyNdowW441rNqefrWJ4C+xYpfbRFoBVI84XGA25LKKCLjgcWA2iEgbq8mbS5Jn79ENEGBYJpL2f8exnu8Rpjg50puHxGzcQdBt/UjmBlHkK60vZynyIFzmYb+9Al1Cd1MSMoWp1+xxspzo/9GYMNRt/cFmCOiPzlaV8pAFRibI5ooScWb6kVXHnSihxLRTbJPtLMu7fCafenWGNt0JDBzMXdgFZQDA6iawBrY+pgt/fvk3m2CM+Hgbm0pV0poKv+UhFUlG1Nxw3xX3uaw6TjPfEHnCsrt93AZnOEzevJpPKRgX9Hvp+yRCN24iaRfnT4u6vkRafiTXrLz8RScf8pj9yMYUaP41YNJ4N/8HB4G8mheYetMRLB/VDVEg7P1DtfNqr2xcVxygpYMpVKRHgmmG2wRaKX+GOjxzdbl2EHJvjCantOh+AbQ0+JlyWQYYqRe3tihjgSEeMgpUKQr6g==;gwTsQu6ZZZ8fvdp5peeCAA=="

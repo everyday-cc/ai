@@ -64,6 +64,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 34
+  - title: "San Francisco startup Pano AI raises more funds to spot more wildfires"
+    excerpt: "Pano AI announced on Monday that it had raised an additional $17 million that it described as an extension round, bringing its total funding to $45 million. The new funding also came with a slightly higher valuation,"
+    publishedDateTime: 2023-07-10T18:34:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/07/10/pano-ai-wildfire-detection-seriesa-extension-round.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "San Francisco group placing traffic cones on self-driving cars to disable them"
     excerpt: "The Safe Street Rebels, known for advocating for pedestrian safety and public transit usage, are calling their protest the \"Week of Cone.\""
     publishedDateTime: 2023-07-08T19:31:00Z

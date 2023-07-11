@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-creat
 webUrl: "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches generative AI accelerator program in A/NZ"
-    excerpt: "Start-ups in Australia and New Zealand are being called to join a new accelerator program from Amazon Web Services (AWS) focused on generative artificial intelligence."
-    publishedDateTime: 2023-07-06T05:34:00Z
-    webUrl: "https://www.arnnet.com.au/article/707936/aws-launches-generative-ai-accelerator-program-in-anz/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12_1.jpg"
-        width: 505
-        height: 315
-        isCached: true
   - title: "AWS CEO’s 5 Bullish New Generative AI Investments"
     excerpt: "AWS’ Adam Selipsky launches new generative AI products and investments, from an AI innovation center and startup program to AWS AppFabric and Amazon Bedrock."
     publishedDateTime: 2023-07-06T18:01:00Z

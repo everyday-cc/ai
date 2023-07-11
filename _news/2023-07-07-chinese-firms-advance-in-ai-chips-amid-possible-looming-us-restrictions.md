@@ -25,34 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Musk praises Chinese artificial intelligence as Tesla faces tough competition"
-    excerpt: "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6."
-    publishedDateTime: 2023-07-06T15:24:00Z
-    webUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/"
+  - title: "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls"
+    excerpt: "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U."
+    publishedDateTime: 2023-07-06T14:37:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/"
+    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/"
     type: article
     provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 66
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg"
-        width: 1000
-        height: 667
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a6d1908a417ec697b1aad2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Chinese AI-powered robot developer CloudMinds raises $138m"
-    excerpt: "Chinese artificial intelligence-powered robot developer CloudMinds has raised over 1 billion yuan ($138.1 million) in a Series C round of financing, as the firm is said to be weighing an initial public offering in Hong Kong."
-    publishedDateTime: 2023-07-10T03:27:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/DealStreetAsia/Chinese-AI-powered-robot-developer-CloudMinds-raises-138m"
+  - title: "U.S. Weighs Human Rights As It Looks To Expand China Chip Restrictions"
+    excerpt: "Since the controls affect other industries that rely on the restricted chips—most notably China’s AI industry—Beijing’s claims that the moves are an effort to undercut China’s technological and economic development have significant supporting ..."
+    publishedDateTime: 2023-07-06T19:43:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/06/us-weighs-human-rights-as-it-looks-to-expand-china-chip-restrictions/"
     type: article
     provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F4%252F1%252F2%252F5%252F46205214-1-eng-GB%252FCloud%2520Minds.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
     excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity"
     publishedDateTime: 2023-07-07T19:26:00Z
@@ -62,20 +59,6 @@ related:
       name: Pakistan Today
       domain: pakistantoday.com.pk
     quality: 34
-  - title: "Apple chip production unaffected by Chinese sanctions, but things could get much worse"
-    excerpt: "TSMC‘s Apple chip production is not expected to be affected by China’s decision to restrict exports of two key"
-    publishedDateTime: 2023-07-06T13:25:00Z
-    webUrl: "https://9to5mac.com/2023/07/06/apple-chip-production/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 31
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/Apple-chip-production.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "L/c7vLYFqi0gIG7Wsmw7IxKsL9GNBE1wVfEptRMf0VoQuaYYptF6hv4P75zUJFULxdwf3kIhuX4fmSfmkmdLX/znC2vJSRtd39iE5ssxxgtHdnL89RKAP2RvKw7gQm5/z9GX6iLpSd5VJ8wPURhhWxC7P3PiKjR7pXMHznHIBt9KWLf19NT0KSOjuuTWDJnuyDmevLEPnOvkPK4xIbI4IEcBaET+LgrkDGxX7SVSXrKsMV0itDEwhEZJLxQ4M9Lp1EQ13OcVy/1Uzbfk5NoQGki7wqkZE5gY5tbgZ3L5XVI0TXyNpHHF51SYLW/Z5ahGoHjGURqkPhaSccPEWu797D62lCk/bp5gzalF5XxQxJNnd5lJyygxJO25Ye9hOt1Suh/DWvKS5bWxlzNDe3y/5EJRRQlcrSf+o51zpL7GWOE14ndC/NMSIHuOZt6P3wmXLtklG19YFGCCH3Dar7046nIfNxHialOkN21DOPZALZZLpMpJdRtU8rolm9XuJ1R+UJ5wBdv55wQ+6442Uo9ylw==;cF533jZ7VI28b8eOMziZiA=="
 ---

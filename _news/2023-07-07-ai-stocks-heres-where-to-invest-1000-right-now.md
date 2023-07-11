@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "3 AI Stocks That Will Skyrocket Before 2025"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence is everywhere and has become a hot trend."
+    publishedDateTime: 2023-07-10T22:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-will-skyrocket-before-2025-1032435959"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "3 Battery Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to artificial intelligence, there’s no guarantee of"
     publishedDateTime: 2023-07-10T17:54:00Z

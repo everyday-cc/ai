@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence takes centre stage at Collision tech conference in Toronto"
-    excerpt: "TORONTO - When the Collision tech conference got underway in Toronto on Tuesday, there were two words that dominated discussions across the Enercare Centre: artificial intelligence ... impacts of AI will come in health care, where it could be used for ..."
-    publishedDateTime: 2023-07-06T06:18:00Z
-    webUrl: "https://www.cp24.com/news/artificial-intelligence-takes-centre-stage-at-collision-tech-conference-in-toronto-1.6458040?cache=xceuacapshbcr%3FclipId%3D89578"
-    ampWebUrl: "https://beta.cp24.com/news/2023/6/27/1_6458040.html"
-    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/6/27/1_6458040.html"
-    type: article
-    provider:
-      name: CP24
-      domain: cp24.com
-    quality: 55
-    images:
-      - url: "https://beta.cp24.com/content/dam/cp24/videos/axis/2023/6/27/2716151/_jcr_content/renditions/videothumbnail.1687903788912.jpg"
-        width: 974
-        height: 548
-        isCached: true
 
 secured: "aviuQ1ZCmb+bNDP+dVIYD+4Snmw9z/LuV3clkkzOrlPLA5pbZpf8xXj3q/k5e/L9VWy5LSdR2ZPJ9tPSmsspD8AO1UuJBr/PFq+5Lijk954xYZ4frt6rlU1EDLk64+GN7QsrS53O84312xezzKoKFbK1FBAc0eDnk0P1QcxvukIBWf/K85/EzK8jtyWpIij+t3YchS+yjzvSpIIhGRQDua1fn1X5NSECGue7Li4tBcxzSXJkGdcvlR3vZyZW0P+AzGUCwRUq67uVrVYoS+T0RdDMQT3SPN3k5YBRbG8rU+t3FZpGeuJHvhwyfDwlbgcATFN4BzIjgi5le9efR8IdVRhKheMNrF5GJHx3fjNtu/zdY31FRkJbbEdIZObzgfbj4GY5QS2v0FbKbuWMsr19aUzbfxjH7r7JrkXZorrV8zMGJfkdXEwsaQrD3D+v1N/UlSaoaeSWKwdD2lA49zcCQhL2UFyODgNO+0BkMvwl7KBDYmHpVQp/x/MuasjqqFcn6w1iat898+GWnLyUORUySw==;/4lbru1sE7DzIO3VeauYsA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/enterprise-analytics/ai-tools-help-busines
 webUrl: "https://venturebeat.com/enterprise-analytics/ai-tools-help-businesses-reimagine-reach-out-to-customers/"
 type: article
 quality: 67
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Revolutionising customer engagement: AI-ML capabilities for a personalised experience in Wealth Tech"
-    excerpt: "Over the past decade, there has been a significant shift in customer expectations. The rise of digitalization has propelled the importance of personalization and customized customer experiences to the forefront of achieving business success."
-    publishedDateTime: 2023-07-06T07:02:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionising-customer-engagement-ai-ml-capabilities-for-a-personalised-experience-in-wealth-tech/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 61
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/07/CoinSwitch-Ramakrishna-M-Senior-Director-Contact-Centre.jpeg"
-        width: 1600
-        height: 1066
-        isCached: true
 
 secured: "vYEuxImPFxXpW3VK2G2X9EGOR2tl+NXOy44vYyc4/OGDivtPGi91XD5iCy+wEXvtAIvPKIbQgaThCtlJYFjWcZWm4H8lHMDs/cPr8ZwzQv8XfFeRiin7boGx5GH2/uxMehWKu1inIyJmCdJrkWJua4QmiP9H1vSQENxtmJYmhHCUC0PzrUjy6xtaxn2msQqjKxWuboe5t1tM2wilMJxBE2xGhgStGlkwtWZS99RyzOlaDpJJ4UDnfQ8J9+vO38zftoLULniETFcRw4f1Vx1yZzciqahN4sdSrQD496qokQjeDXb34IOl4EUuZE88bx8fe1wWd+4dSXQPLadqDdep9k2ESGIXrcB7MFIJAmX0sD+SSRkSQCv7/vQOrtDHW2Esc0jG82ivKd+V3fnJ8zvSzcYjp4oqMQc5cxH+UoDyEFQLojb7PNV1PSoBh2QRMOdZJ7pvRM3qT7/HV4n9ZhcVee2UfWUHiiJqRPmzSjYuxeYfcxXsTOfTyG674T1g7FwoWrstreuRFoqmBnIgal8PDA==;t4hX92TlIdbro5ggfud0Uw=="
 ---
