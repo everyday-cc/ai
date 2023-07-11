@@ -42,15 +42,6 @@ related:
       name: France 24
       domain: france24.com
     quality: 31
-  - title: "Elon Musk: Tesla Full Self-Driving Will Arrive ‘Later This Year’"
-    excerpt: "Via a video link on Thursday, Musk mentioned he believes Tesla is “very close to achieving full self-driving without human supervision.” The company is so close to realizing its goal that Musk predicts the technology will make its way into production vehicles before the year’s end."
-    publishedDateTime: 2023-07-06T16:44:00Z
-    webUrl: "https://www.extremetech.com/cars/elon-musk-tesla-full-self-driving-will-arrive-later-this-year"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "onkvc9hggYQUqJt/z3O4iBAGjyXjgjsfWsgEEwC+kR3rIYuDuEWyUv9tOlyPjYzQURgCJ+IHkXhWL632wsiIoqWmiCe5ZhfNOAo1Y3S8ow9A8rzYFbs4ZtpUow3vobOPKyV2OePWpYWkaegwfxGPVtlzxxGN8Ejclj0zdNBB+Nad869gk6CVpahkbeY61uRC3P6sT/UBl6wgSn0BlF0Wouf8CVJxXC6yZTgclr53ZI14wRa8YYO8tM+3lxwHlq0v+LRX89bTli4bMOwH1fhWaMe2PjAOEuLHhqoZ1G3NTuR0ST2sM/Op/Oy+P2vPT1MtRbgXBTNe4GAu7tlsAmKV32MmJqp5pe4QnfVM2UJ8/fk=;ucMoOj9iw/NvRZmNvvtzew=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d
 webUrl: "https://global.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 634
     height: 422
     isCached: true
+
+related:
+  - title: "China allows unmanned robotaxis to operate in key cities"
+    excerpt: "Shanghai’s Pudong district issued its first batches of licenses for the commercialisation of unmanned autonomous driving"
+    publishedDateTime: 2023-07-11T09:20:00Z
+    webUrl: "https://www.just-auto.com/news/china-allows-unmanned-robotaxis-to-operate-in-key-cities/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/07/Robotaxi.jpg"
+        width: 1516
+        height: 662
+        isCached: true
 
 secured: "nJAPcrnwERgZiLJPH64PNebD3H7mOkl99LYUV/ygam6/jhLN75+GADKd8mR8lg2rJHgqlFkLZ4IPHaz/M59x2joKkhaxrVYv+rZNLa9FbR87HbhSbTw8iwqpZJjinMuK1Pju03fAyxlTe2n21MCwrNmHR63fRm5uNjv0vr/9gPkm93/6PjelN4Xr54RpzrFwLErGCs87NeV7PVR0Ld2b4oBuuKEi+bgqdJYloEL+asvO6eHtdMUdbeWG6AX0UZWeKJLHK+rHXvYNwU9IvPe++LltVbyR8+kjQkt+KOAuffITGrD/8HGXlmfVsEsV2lTvI0LTZN9a/UJtTO3pBeUvNlxe6WRIxe7JfGMjpNiO4gzghpAqNvHwsfdfUJiuHhJwI4bbWQx5fLEwwD7s7QOGjauSOFeiH7bVMZqk0ikwJk+wHAHV2HLq21cgNNkHgraPQlSWNWReHYYfqDyaN68oTXBz8ycMDoE0LrjGfVNgsnPia+D3SEPorEIgQsAFv6nyuzdpsx+XGnJbCvjM08iCpg==;qPomDpoAgPKPntxW73M9Bg=="
 ---

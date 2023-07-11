@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-11-air-force-showcases-how-artificial-intelligence-will-help-military-dominate-airspace.md",
+      "title": "Air Force showcases how artificial intelligence will help military dominate airspace",
+      "excerpt": "The Air Force Research Laboratory shed new light on its Autonomous Aircraft Experimentation initiative, where experts are training artificial intelligence to aid pilots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/air-force-showcases-how-artificial-intelligence-help-military-dominate-airspace",
+      "originalUrl": "https://www.foxnews.com/tech/air-force-showcases-how-artificial-intelligence-help-military-dominate-airspace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/917f8523-e4c6-4959-a0f8-98fd13384363/60976040-76b5-4dea-8597-c044381c2af3/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/air-force-showcases-how-artificial-intelligence-help-military-dominate-airspace.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/air-force-showcases-how-artificial-intelligence-help-military-dominate-airspace.amp",
+      "publishedDateTime": "2023-07-10T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-teslas-self-driving-tech-is-probably-worthless-in-the-resale-market-short-seller-jim-chanos-says.md",
       "title": "Tesla's self-driving tech is probably worthless in the resale market, short-seller Jim Chanos says",
       "excerpt": "\"The current value of the $TSLA \"Full Self Driving\" package is probably close to zero in the retail market. #RealityCheck,\" the veteran short-seller tweeted.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://electrek.co/2023/07/06/elon-musk-tesla-level-4-or-5-self-driving-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -781,10 +833,10 @@
     {
       "path": "_news/2023-06-29-nation-presses-the-accelerator-on-driverless-vehicles.md",
       "title": "Nation presses the accelerator on driverless vehicles",
-      "excerpt": "A passenger travels in a driverless car at Baidu Technology Park in Beijing. [DU LIANYI/CHINA DAILY] Lou Tiancheng, cofounder and chief technology officer of Pony.ai, said, \"The inclusion of autonomous vehicles in the unified and standardized management of taxis proves that both government policy and the public are increasingly accepting robotaxis as a form of everyday transportation.",
+      "excerpt": "Driverless road-paving vehicles operate in Hefei, Anhui province. [LIU YUCAI/FOR CHINA DAILY] Tech advances, policy support point road to the future. Driverless vehicles may sound",
       "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
+      "webUrl": "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1339,40 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-how-artificial-intelligence-will-help-or-hinder-your-workforce.md",
-      "title": "How artificial intelligence will help, or hinder, your workforce",
-      "excerpt": "He already has asked staff to come up with low-risk ways AI tools and technology can be used at the firm. That doesn’t, however, mean throwing caution to the wind. “We are in the infancy of this, and with all new emerging technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sacramento/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
-      "originalUrl": "https://www.bizjournals.com/sacramento/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

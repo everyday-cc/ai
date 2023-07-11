@@ -25,31 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "The best shows on Amazon Prime right now (July 2023)"
-    excerpt: "With new shows always coming to Amazon, there’s lots to pique your curiosity. Want to see something fresh and new? Check out the exciting and unique new comedy I’m a Virgo, which has been ..."
-    publishedDateTime: 2023-07-07T13:00:00Z
-    webUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
-    ampWebUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
+  - title: "Beyond Nvidia: 5 AI Chip Stocks to Buy in July"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-07-11T09:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/07/the-horror-of-dolores-roach.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
+      - url: "https://g.foolcdn.com/editorial/images/739252/jose-najarro-2023-07-10t183517759.png"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Best Amazon deals in July 2023: Today's best sales"
-    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. And with Prime ..."
-    publishedDateTime: 2023-07-07T15:43:00Z
-    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+  - title: "Best Artificial Intelligence Stocks To Buy Now? 2 For Your July 2023 List"
+    excerpt: "Artificial Intelligence (AI) has grown and transformed significantly in recent years. This is all thanks to amazing innovations in fields such as machine learning, deep learning, and computer vision."
+    publishedDateTime: 2023-07-09T16:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-now-2-for-your-july-2023-list"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 21
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
 
 secured: "YXv2Twge6/Iroxx25y9g5PLANKS6EGsUb/o0bBfffLCyd809WwxAiZIuwqH/LEd8s6Rq71OQlpS4Tr/XB69T1AVJKNMiAZlVKGtXdVqKCW/8g9ZH1qamT7X8LkAdBrZYq/ZXchByHnu+nr08PjKS624cjxS/v55anrKgMYd3SHnFjEeQJxDUw9uPb8OUszpeYCM0cO/I6BdBHk2F0PQL7R/xIwOOBTesO2yPaopEuKZmQXA+dJWCzb5R2ZaXO2PcYkV9u0qCfkc0SkJPxbRY/dx3HIXn2Z06FOqdYMFcAclUeK6R84AKWzvlcmBiwkhC/AziDkIxkKk1l3hqzCVb+7IHmq53DjniisjRiPgVeXwR0ZJGbvNCUhSTOGKLrq7XpqHLoK1klROSEmHH3y2mPY6wzom4WBUHt5VtDMKwvvUuCXac6b+dvxZPAifFQBCKKKXre2V04SYXShurYXRWhp2FsyJOT2O5f3RBOx2Hlbshr/lSYxSjTEY77of0mI3LTXwVuERhZiFh/SiMrR7Ejw==;vHtilA7KB7jtVSshm+HJnA=="
 ---

@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 90,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -145,7 +145,9 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
       ]
     },
     {

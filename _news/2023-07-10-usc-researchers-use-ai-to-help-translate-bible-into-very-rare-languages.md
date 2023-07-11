@@ -7,7 +7,7 @@ originalUrl: "https://religionnews.com/2023/07/05/usc-researchers-use-ai-to-help
 webUrl: "https://religionnews.com/2023/07/05/usc-researchers-use-ai-to-help-translate-bible-into-very-rare-languages/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1600
     height: 705
     isCached: true
+
+related:
+  - title: "How Google Translate used AI to decipher the world's oldest language in minutes"
+    excerpt: "Akkadian, the language of the Akkadian Empire that thrived in present-day Iraq during the 24th to 22nd centuries BCE, poses unique challenges for translation."
+    publishedDateTime: 2023-07-11T08:07:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/how-google-translate-used-ai-to-translate-the-worlds-oldest-language-in-minutes-10938201.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/how-google-translate-used-ai-to-translate-the-worlds-oldest-language-in-minutes-10938201.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/how-google-translate-used-ai-to-translate-the-worlds-oldest-language-in-minutes-10938201.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Collage-Maker-11-Jul-2023-01-38-PM-6048.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "MwyO8OKhjJReSE+jYwy+GZGsccIkFA48evMpfQ35D0dALaG2FnV0tz3FizVr9EyK9qOLsaNdd6tApw0VH7vfWVvLeaL+njQ7Pcwt20ZgGwMeX3rtSdXbXbUQZ2LtDUF2guatLj5U1XI3+KETo1q5lQ9a8T9lTB2Lvsdd6GNi1vgNOCFoJZJaU9yfnC81wm+7dkTC8AwdjoalRi6Pf4TcuIjQmeuuuDczgchDav7/O3cHQl+5M87sFksYQ2ugK8mVZErn/ZRXJoyvSA2G5vbyRozn5mSZMmR8ov4MhL78OlnnavnjlV3ofgQcIgmBBk6vsL8ij16mxuo6DxD4n6vGI256yiNb5Wx0oifkSqCJMIg=;S4ianXM/8+jGT39Qyw5ODw=="
 ---

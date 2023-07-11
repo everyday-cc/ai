@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Musk praises Chinese artificial intelligence as Tesla faces tough competition"
-    excerpt: "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6."
-    publishedDateTime: 2023-07-06T15:24:00Z
-    webUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 66
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
     excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity and large language models,"
     publishedDateTime: 2023-07-07T11:07:00Z

@@ -36,20 +36,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Top 10 venture capital firms investing in fintech"
-    excerpt: "With fintechs needing access to capital, we take a look at the top 10 VC firms that are investing money into the sector right now"
-    publishedDateTime: 2023-07-06T15:41:00Z
-    webUrl: "https://fintechmagazine.com/top10/top-10-venture-capital-firms-investing-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/4d31b47942cc4a29e0df04c78f69e979:781a737d79a3cb6a15879541c8c7f95b/fintech-top10-venture-capital-firms-investing-in-fintech.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "jLlAl+1cdYN30fc123uYVKT0tlc9zQ1KIMtpxXgzFOrdKAXo47bCetJrGvfh4Z6H5WDQ95GkZYcLcktMPgHSN84c30W85fpoMk7wjJEza4jFYHlMd/oLqm2gzVyJNpKlyb6asTKfUhs/d6WI0kxAKsrijfXosJtGPjtBKwiJk6Nd5wVHxyq33lCr/RL0NrHGBS+W3Sgw4spvwGW5mlf4/W5jCt5JoX/DYclyQU6MVoTsjDd0llD9NQtPXyMrfbR5xrhncQ95BAKkzyrjzGQ+v1adLbAsuk3fkRTQGmtlzeeBQ4y2L41Vo6/K5fLG52J18IS8J2ZY0oV41OjUCoqyvJmOlEFXbX2yWcD/EiNgbqT/IHiWmO9v0QSmuHrQwBjAb2UD82P21cYoZYVODhQtTEQXzv8SwhmgpmkZyaf+y3ZFi5MaVXryZQGYT5xYp2ldWiVx6HtXMIrxJ7Kp00ORPmQuoHmh9uiH6H7TCx/B/vXzgjp8gnT3OYpASjQL09OlePl//srNJxopPfFuLpwiog==;EbLN8C6OA8mLmatEV/Sfzg=="
 ---

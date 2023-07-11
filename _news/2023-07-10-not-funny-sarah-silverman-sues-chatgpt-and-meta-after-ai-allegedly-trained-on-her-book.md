@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sarah Silverman sues OpenAI and Meta claiming AI training infringed copyright"
+    excerpt: "US comedian and two other authors say artificial intelligence models used their work without permission"
+    publishedDateTime: 2023-07-10T12:31:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/577cdd44c75e672b4fa0f8d34e365956c238dc05/521_15_4449_2670/master/4449.jpg?width=620&quality=85&auto=format&fit=max&s=bca6624c1fc1e4ad6a043cc213b0eb59"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "xju8kDvk+1PnlxvLBsKm1eXkRFL6GTIp99sl6jjw0Uq/RvtuKynoal9GkrlhtWFuZAoQk1EnSARMbxKJWWHFZWhZv7zp3xqUj7ebo8SsST1xhP+Obfhn8wVt6XjM6kqeNNZCZUP8UHI4MhUWqee8F/6mDcV6syk12qUXzuND89hJb9SnyLvobMz0RpJazfnIfu0aJjdbKYcxPvJtCdp/AjhTHGdtZbPRP7bOt1GAfkad4IqDCFjoKT0IR1y7ib5h5fTrkyXvbTb33PJpaove64ZdZ8oT/C1CzFK5bkqz8w9QIslmgP9KKEcxoWj4jiKmKGig/z2YZsmpfqKMAAdPmRMuIiLJK1rK3KESERNzhA0YQRN6aFGiY+TDJnH1b25YSIiJPWu5RkqE77UvpHgCtwZI0y/Lnp6VV0R2NWQtb3e/UawkzhG9Cr8CBtK2Ruq785occGwOec90ne5oDP3NBpErAOZKGDbNE0r1OEaf92I+Oc6D9mFNZDW3OmWVOQ3wJcrUTh2cJdu+pHrvdtx/nQ==;n2WnoJOzPrsvEUuq20Eitw=="
 ---

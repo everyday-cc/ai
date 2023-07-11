@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "TCS to train 25K staff on Azure, OpenAI Gen AI tools"
-    excerpt: "TCS also launched a generative AI business offering, called TCS Generative AI Enterprise Adoption, which will offer deployments of OpenAI’s generative AI business tools via the Azure platform to businesses."
-    publishedDateTime: 2023-07-06T16:46:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings-11688661860898.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/06/600x338/-Mint-_1688661819003.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "TCS plans to train 25,000 engineers on Azure Open AI"
     excerpt: "TCS said that it plans to significantly scale its Azure Open AI expertise and launch its new Generative AI offering for enterprises"
     publishedDateTime: 2023-07-07T07:18:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044335.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Sarah Silverman sues OpenAI and Meta claiming AI training infringed copyright"
-    excerpt: "US comedian and two other authors say artificial intelligence models used their work without permission"
-    publishedDateTime: 2023-07-10T12:31:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
-    images:
-      - url: "https://i.guim.co.uk/img/media/577cdd44c75e672b4fa0f8d34e365956c238dc05/521_15_4449_2670/master/4449.jpg?width=620&quality=85&auto=format&fit=max&s=bca6624c1fc1e4ad6a043cc213b0eb59"
-        width: 620
-        height: 372
         isCached: true
   - title: "TCS Scales Up Azure Open AI, Plans to Train 25,000 Associates"
     excerpt: "The program will be developed by TCS and its client teams to develop AI-led solutions, create proofs of concepts on Azure Open AI"

@@ -7,8 +7,8 @@ originalUrl: "https://www.globaltimes.cn/page/202307/1293938.shtml"
 webUrl: "https://www.globaltimes.cn/page/202307/1293938.shtml"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Global Times
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musk praises Chinese artificial intelligence as Tesla faces tough competition"
-    excerpt: "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6."
-    publishedDateTime: 2023-07-06T15:24:00Z
-    webUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 66
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Chinese AI-powered robot developer CloudMinds raises $138m"
     excerpt: "Chinese artificial intelligence-powered robot developer CloudMinds has raised over 1 billion yuan ($138.1 million) in a Series C round of financing, as the firm is said to be weighing an initial public offering in Hong Kong."
     publishedDateTime: 2023-07-10T03:27:00Z

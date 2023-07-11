@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-coming-for
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/gen%20ai%20govt.jpg"
         width: 999
         height: 563
+        isCached: true
+  - title: "Nick Clegg: Openness on AI is the way forward for tech"
+    excerpt: "But, ultimately, openness is the best antidote to the fears surrounding AI. It allows for collaboration, scrutiny and iteration. And it gives businesses, start-ups and researchers access to tools they could never build themselves, backed by computing power they can’t otherwise access, opening up a world of social and economic opportunities."
+    publishedDateTime: 2023-07-11T04:00:00Z
+    webUrl: "https://www.ft.com/content/ac3b585a-ce50-43d1-b71d-14dfe6dce999?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
   - title: "Enterprise hits and misses - generative AI wants to take your job, but will it? Edge computing has traction, and (almost) nobody likes Meta's Threads"
     excerpt: "This week - generative AI is coming for your job - or is it? Fresh data sharpens the enterprise AI pursuit. Informed Buyers look for new sources of influence, while edge computing may have more customer attention than AI."

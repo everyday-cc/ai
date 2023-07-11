@@ -9,8 +9,8 @@ ampWebUrl: "https://tribune.com.pk/story/2425145/ai-robots-could-play-future-rol
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2425145/ai-robots-could-play-future-role-as-companions-in-care-homes?amp=1"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: The Express Tribune
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI robots could play future role as companions in care homes"
-    excerpt: "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it."
-    publishedDateTime: 2023-07-06T16:00:00Z
-    webUrl: "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/E9v889KGpiT_0ZzHIGcK9Sp20y0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ES6WJHBTJMRDA3BT6QDD63V5I.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The UN holds a robot press conference about the state of AI"
     excerpt: "The robots were posed questions by journalists from around the world regarding their future roles in leadership, collaboration with humans and potentially replacing human labor in the workforce."
     publishedDateTime: 2023-07-10T14:15:00Z

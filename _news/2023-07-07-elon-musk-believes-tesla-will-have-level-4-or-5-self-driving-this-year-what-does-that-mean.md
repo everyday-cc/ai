@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/07/06/elon-musk-tesla-level-4-or-5-self-d
 webUrl: "https://electrek.co/2023/07/06/elon-musk-tesla-level-4-or-5-self-driving-this-year/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: France 24
       domain: france24.com
     quality: 31
-  - title: "Elon Musk: Tesla Full Self-Driving Will Arrive ‘Later This Year’"
-    excerpt: "Via a video link on Thursday, Musk mentioned he believes Tesla is “very close to achieving full self-driving without human supervision.” The company is so close to realizing its goal that Musk predicts the technology will make its way into production vehicles before the year’s end."
-    publishedDateTime: 2023-07-06T16:44:00Z
-    webUrl: "https://www.extremetech.com/cars/elon-musk-tesla-full-self-driving-will-arrive-later-this-year"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
   - title: "Musk Predicts Tesla Full Self-Driving Cars ‘Later This Year’"
     excerpt: "Tesla is set to realize fully autonomous vehicles “later this year”, CEO Elon Musk said Thursday, in the billionaire’s latest forecast for the long-anticipated milestone. “In terms of where Tesla is at this stage,"
     publishedDateTime: 2023-07-06T18:53:00Z

@@ -57,22 +57,6 @@ related:
         width: 768
         height: 506
         isCached: true
-  - title: "UN tries to tackle 'mind-blowing' growth of AI"
-    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humano"
-    publishedDateTime: 2023-07-06T15:16:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/media/api_images/2023/07/06/Robots%20UN.jpg?itok=2XqC1lgf"
-        width: 750
-        height: 393
-        isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
     publishedDateTime: 2023-07-07T14:34:00Z
@@ -114,20 +98,6 @@ related:
       - url: "https://i.brecorder.com/large/2023/07/64ab15d61998d.jpg"
         width: 800
         height: 480
-        isCached: true
-  - title: "Rise of the robots: UN tries to tackle ‘mind-blowing’ growth of artificial intelligence"
-    excerpt: "A nightmare scenario has unchecked AI advances leading to “geopolitical instability and economic disparity on a scale we’ve never seen before”. Read more at straitstimes.com."
-    publishedDateTime: 2023-07-06T16:20:00Z
-    webUrl: "https://www.straitstimes.com/world/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 46
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/SWITZERLAND-SCIENCE-COMPUTERS-ITU-AI-105057.jpg?VersionId=Mw9deeUvgnDmOBg7QFc9gmZ3Qw0RBaSa"
-        width: 860
-        height: 573
         isCached: true
 
 secured: "yNVnmlo7yngHSnWVMu8gyedgvhGDjBa2qP/TJd9YHIglYMKPbdndJ07uri6ptqkkZsH4UGk0MQ7WbfK4Nw5ogsJfCSJyO+dqMVshZ3M6W4Ha2GHS9nxgu5Bk77K5hFORcUcleCSyN5+IC+Qqd55523i/G2j+/0AftXv2wXTIqeHyIcwS0yqVLiT/E3VOy/j021Tz6p9atHr+zG06UsSBnaubUyv8dsJXBjF1nGfQnpkkoYJNevRVlkcOb0CNi+d2gnyf6TR8v85pa/zBGyLwjSUWLJJtZN04bjcYa1PltvOfsnTQgaAVMtQa9jukgu6UEMQxxns7H+Apq58PET8YSupbHr62bfkSf6z1hDHoSfQ=;PKXbWqJ4GECTbMub/qKRAg=="

@@ -122,15 +122,6 @@ related:
       name: The Lima News
       domain: limaohio.com
     quality: 34
-  - title: "Congress faces learning curve on AI in health care"
-    excerpt: "Congress isn’t moving any legislation on AI in health care yet — but lawmakers are definitely interested in the topic. Why it matters: New generative AI technologies are already being incorporated into health care systems with little oversight."
-    publishedDateTime: 2023-07-06T16:55:00Z
-    webUrl: "https://www.axios.com/pro/health-care-policy/2023/07/06/congress-ai-health-care"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
 
 secured: "xsOnd6CbBr7J7N1HaVaA2F0wuUzUfIoJOIt+Y+Z5smz6qlMBgS0Lf0o95iQrFyO8F1Ld12jSbrHeyFuVubFY//DIvca9OzctzuBrYe8qyV2M8KuVv7bjn+1M9FKALv8b1Wm+paXPk3qY+pp78FGDz4xjJPtyRwKN1JoQeCEjdrsoOzePgmGdnhsuts6PthL14oKe2xKK0pxwxvrpeYl8rBvHXVYe/uiaQ68bLMzZ2tNGZg2X4bYx88Mf3/lvPrfxkfD9J9LoMKqDdkSqXlT5ycrOLDsgwFWXivvtXMp+BTLkCJiIYLqEo9wkv7lmEfmC10o0+fcHErItVVmOSyLfzbeEbaEJUzfDf/WnqnChtxI=;/m4LaUIWm5sIsplNA5I1hw=="
 ---

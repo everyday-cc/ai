@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The best AI art generators in July 2023"
-    excerpt: "How do the best AI art generators work? AI art generators work by employing learned data. Developers of the models feed countless images into them, with which the artificial intel"
-    publishedDateTime: 2023-07-10T16:00:00Z
-    webUrl: "https://www.sciencefocus.com/future-technology/best-ai-art-generators/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 39
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/07/bears-fighting-dragon-611595f.jpg?quality=90&resize=940,400"
-        width: 940
-        height: 400
-        isCached: true
   - title: "Best Amazon deals in July 2023: Today's best sales"
     excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. And with Prime ..."
     publishedDateTime: 2023-07-07T15:43:00Z

@@ -113,6 +113,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AWS Launches AWS Appfabric Empowering SaaS Applications with Enhanced Productivity and Security"
+    excerpt: "In the future release of AWS AppFabric, users can benefit from additional generative artificial intelligence capabilities powered by Amazon Bedrock. This service makes popular foundational models available and customizable through an API. AWS AppFabric is ..."
+    publishedDateTime: 2023-07-07T09:55:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/aws-appfabric-saas-security/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 44
+    images:
+      - url: "https://res.infoq.com/news/2023/07/aws-appfabric-saas-security/en/headerimage/generatedHeaderImage-1688313683266.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vecow and Solectrix Partner to Accelerate AI-based Vision Applications"
     excerpt: "Vecow Co., Ltd., a team of global embedded experts, announced its partnership with Solectrix, a German provider of high-end electronics solutions."
     publishedDateTime: 2023-07-06T22:43:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/transforming-it-operations-and-applicatio
 webUrl: "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/"
 type: article
 quality: 92
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AWS Launches AWS Appfabric Empowering SaaS Applications with Enhanced Productivity and Security"
+    excerpt: "In the future release of AWS AppFabric, users can benefit from additional generative artificial intelligence capabilities powered by Amazon Bedrock. This service makes popular foundational models available and customizable through an API. AWS AppFabric is ..."
+    publishedDateTime: 2023-07-07T09:55:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/aws-appfabric-saas-security/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 44
+    images:
+      - url: "https://res.infoq.com/news/2023/07/aws-appfabric-saas-security/en/headerimage/generatedHeaderImage-1688313683266.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
     excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
     publishedDateTime: 2023-07-10T20:26:00Z

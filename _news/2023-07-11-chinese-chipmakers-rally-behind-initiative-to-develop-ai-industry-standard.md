@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musk praises Chinese artificial intelligence as Tesla faces tough competition"
-    excerpt: "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6."
-    publishedDateTime: 2023-07-06T15:24:00Z
-    webUrl: "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 66
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
     excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity and large language models,"
     publishedDateTime: 2023-07-07T11:07:00Z
@@ -77,6 +63,6 @@ related:
       domain: pakistantoday.com.pk
     quality: 34
 
-secured: "Gd1E8BSIHLlgj+1zGp/Bb8RM21k6YSusO9zigenRdF5C6TpaZlNhzmB5qvck5PUsQBk7/Y3WK9NfF3ToyRwzZPAADwwiZOpQRb7AgP0Uuhz6NISQSc/YHURupi2K3ZD+1FaEyvsA40BsBkVEC2K0CkPy7yj45pn4ZpGUCapoKx0Eo8cj1NawUuWFlXXUYmcdgiFqiRHKk3OWmybOT3/CqmIqYKBWIONRH7k06bkWKBBHmDaPLPjBzoIfNVHHbZLYRjx5fLD5c2zsRCqGRImWqhtQEjOz7j7br8PbyA49QpgdSvPH2wLmREkOe6L/Aq7m2OutGIYZfTjzalQU1hH+aYobFmCrYwBW9opwa4SAj5o=;BzrItisDdxg6JJ2Fl6rtcw=="
+secured: "8OaqQGM2+yEJ8FS6X031cJGP7XGCTAKiokFS70tTSBqNhFILkLg/JI/t5nT+YB9N0DKdsMxOCKMBZjiN25kQIDpcoEqdPX+8sygPI72b5+qhgV10G8P5NZBrurMn0N0NUQDk1GpD65qth8DPRmKIZP+MDVF6qDsDivE4iYL6zw5ZOE7ld6JkcOkbhmL1O3b9HaL4yMT23AVdm3PI7HjJsyVSrTTW8KJkplW87NcV2lGvd70Yed/4xWBiT9dw7sFOU59LsPOJO9yWq1d3L5Lt8opNoOafpa5aEVKJcAJVCLcMCSeCu46dOlwB+QvrW5OGD81XSpFOVcKgheDb8Y/9WaaDREMNSWH5htnYYqPEGOntFMW9t9l5UISfSGJ4DmeWCtmPRZTwykd79JYDAiucL0j43ZKBxRz+tkXFGGYXKoL7AhW4q49ExcGjigpS5QSjGjOBlz5omVapuLqTkaas0fLO35+LdF3C9iySPECjQNGYy/slhnp6hEdOHXe+q9jo8RXgfGk0YvNpbke09Ofaaw==;vZOgORISN7NZDUszTVgyQA=="
 ---
 

@@ -80,6 +80,20 @@ related:
         width: 999
         height: 563
         isCached: true
+  - title: "Nick Clegg: Openness on AI is the way forward for tech"
+    excerpt: "But, ultimately, openness is the best antidote to the fears surrounding AI. It allows for collaboration, scrutiny and iteration. And it gives businesses, start-ups and researchers access to tools they could never build themselves, backed by computing power they can’t otherwise access, opening up a world of social and economic opportunities."
+    publishedDateTime: 2023-07-11T04:00:00Z
+    webUrl: "https://www.ft.com/content/ac3b585a-ce50-43d1-b71d-14dfe6dce999?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "The Next Platform for AI-Generated Art: Your Bicep"
     excerpt: "Twelve days before last Christmas, Marina Rosa, an artificial intelligence engineer in São Paulo, Brazil, walked into a neighborhood tattoo parlor and laid her left arm on the table. Rosa then asked artist Nadine Guerra to give her a tattoo made up of various elements,"
     publishedDateTime: 2023-07-08T12:59:00Z

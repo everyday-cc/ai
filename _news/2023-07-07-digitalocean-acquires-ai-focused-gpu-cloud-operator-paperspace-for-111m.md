@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "DigitalOcean Acquires Paperspace to Expand AI Offerings"
-    excerpt: "The increasing demand for AI/ML cloud solutions makes Paperspace’s GPU-powered infrastructure and AI/ML-focused software stack valuable additions to DigitalOcean’s portfolio."
-    publishedDateTime: 2023-07-06T16:52:00Z
-    webUrl: "https://sdtimes.com/ai/digitalocean-acquires-paperspace-to-expand-ai-offerings/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
-    images:
-      - url: "https://sdtimes.com/images/sd-premium.png"
-        width: 628
-        height: 246
-        isCached: true
   - title: "DigitalOcean Rides AI Wave After Acquisition: Here's My Trading Strategy"
     excerpt: "DigitalOcean Holdings (DOCN) has announced they are acquiring the cloud computing and AI startup Paperspace for $111M in cash. DOCS surged higher Thursday on the news and is continuing its upward move in Friday trading."
     publishedDateTime: 2023-07-07T15:43:00Z

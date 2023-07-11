@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI frenzy bites into fintech"
-    excerpt: "Driving the news: Fintech has been a primary victim. Some 64% of investors at Collision said AI/ML could become the most disruptive technology in the next five to 10 years, per a Pitchbook survey. A year ago, the hottest category was fintech/blockchain, with some 29% of investors. Dollar figures reinforce the narrative."
-    publishedDateTime: 2023-07-06T16:15:00Z
-    webUrl: "https://www.axios.com/pro/fintech-deals/2023/07/06/ai-frenzy-bites-into-fintech-funding-venture-capital-insight"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
   - title: "Tech Giants Race to Incorporate AI in China’s Offices"
     excerpt: "AI integration is fueling fierce competition among tech giants like Kingsoft Office, Baidu, and Alibaba, who are developing their own ChatGPT-like models."
     publishedDateTime: 2023-07-10T04:31:00Z

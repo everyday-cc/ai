@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology in use at major Australian stadiums"
-    excerpt: "Facial recognition technology is being deployed at major concert venues and sporting events around Australia, often without consumers' knowledge or consent. Facial recognition is an advanced and controversial technology which involves the use of cameras to ..."
-    publishedDateTime: 2023-07-07T03:59:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 39
-    images:
-      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
-        width: 700
-        height: 390
-        isCached: true
   - title: "UK and Australia law enforcement facial recognition projects under public microscope"
     excerpt: "The UK police in Northern Ireland are debating facial recognition and biometric data retention rules, with some stakeholders calling for more transparency."
     publishedDateTime: 2023-07-07T15:54:00Z

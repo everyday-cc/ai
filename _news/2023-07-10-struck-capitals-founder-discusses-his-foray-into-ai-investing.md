@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/struck-capitals-founder-discusses-his
 webUrl: "https://www.wsj.com/articles/struck-capitals-founder-discusses-his-foray-into-ai-investing-86190f0a"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Top 10 venture capital firms investing in fintech"
-    excerpt: "With fintechs needing access to capital, we take a look at the top 10 VC firms that are investing money into the sector right now"
-    publishedDateTime: 2023-07-06T15:41:00Z
-    webUrl: "https://fintechmagazine.com/top10/top-10-venture-capital-firms-investing-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/4d31b47942cc4a29e0df04c78f69e979:781a737d79a3cb6a15879541c8c7f95b/fintech-top10-venture-capital-firms-investing-in-fintech.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "XZdtKuazwXQ7ZHcmr0UJALk+ZPXaR51bsIsoWyIaFJW7NlSJbKniCr9H6oiY5CXa6z7jlJPKv+bCpB1sjprI0PjsGOjXd7Zn7OSdDmKDQmq5ydYqBP/9MQUzRyf6nFakBugeHelHZfhVaTlBC6YfcMeh105DL4xEQwZ58BqNZeeNNBawmaGjcG5cEwNDp1pWOv0NXxyjcfiRUDMkvvs2pAYPQpJjJYj+86BtSJ/9BgEWVwR4WUdXul/Hv3v+L2jqdAWookqgXcoNSYM9uCs8Fw54bv1Sss2ee0YOBjZ1lUJtXEogFNtY26qL/IhxwYBcStqSz6+M2FEPA4PQuj+Z4CRNk4NRPZxiaJSJbDP5fixF7IGOuV4ExHPb/3V5bWP5T15RCPV4VxifbRaReo8WeefNNL3OKCaqnMnJxMIh2qjcRShovwlnrZnMQwPPcGJROgeQMJZzvEPMyrdDd0xn6sqImJs2qCl1ljXERgGu6/CVWIGRCkYFTBZUWACAcCYLCnKTOw4iRpOC26PDGiuwYg==;oTOaveHyKuVfKrqO/bGp1A=="
 ---

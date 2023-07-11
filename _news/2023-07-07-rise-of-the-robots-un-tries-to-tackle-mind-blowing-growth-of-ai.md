@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tack
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488"
 type: article
 quality: 74
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg"
         width: 768
         height: 506
-        isCached: true
-  - title: "UN tries to tackle 'mind-blowing' growth of AI"
-    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humano"
-    publishedDateTime: 2023-07-06T15:16:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/un-tries-tackle-mind-blowing-growth-ai-3362676?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/media/api_images/2023/07/06/Robots%20UN.jpg?itok=2XqC1lgf"
-        width: 750
-        height: 393
         isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
@@ -114,20 +98,6 @@ related:
       - url: "https://i.brecorder.com/large/2023/07/64ab15d61998d.jpg"
         width: 800
         height: 480
-        isCached: true
-  - title: "Rise of the robots: UN tries to tackle ‘mind-blowing’ growth of artificial intelligence"
-    excerpt: "A nightmare scenario has unchecked AI advances leading to “geopolitical instability and economic disparity on a scale we’ve never seen before”. Read more at straitstimes.com."
-    publishedDateTime: 2023-07-06T16:20:00Z
-    webUrl: "https://www.straitstimes.com/world/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 46
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/SWITZERLAND-SCIENCE-COMPUTERS-ITU-AI-105057.jpg?VersionId=Mw9deeUvgnDmOBg7QFc9gmZ3Qw0RBaSa"
-        width: 860
-        height: 573
         isCached: true
 
 secured: "cu05MpqZuqYCewhHfjhYj5auAQcFFCpokK6rTKm//a2h8nc7MXdMEbgIRkVv8slSSYSAzZN4qqT8oVOLnXHFSsRBT41yPJpAZXpXqrKzNNomXr+/LUyeTt19An/wiXyNSK09+giteyrB0WI+C61ii1FCQNmtm3GcQAuvRufoVIyiY15RZoEmsKR4zsj3WXYARZQeuGUgaHSNcLdwmGOxpfcpgrIyV6Un596DuoVPPhx5FCBsKsi1P5fk2F8UWo+a6WQFR0Uf5RQWKnQAJCWaP1uY1hBDS1clGUDrjxaNai3B5iyzFDE7k5bakG+heyHorl1yndyvBWCPWm5V9GoaFD1C/InWT4LXjLdI8SrlWA8=;FOUj18W20YZDO+LSv6gsqw=="
