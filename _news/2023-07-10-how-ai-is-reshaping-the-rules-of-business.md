@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-busine
 webUrl: "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-business/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Building the AI Talent Pipeline"
-    excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
-    publishedDateTime: 2023-07-07T04:45:00Z
-    webUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 41
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"
-        width: 480
-        height: 320
-        isCached: true
   - title: "How China is sharpening ethics rules for scientific research"
     excerpt: "In late 2018, news of the world's first gene-edited babies sent shock waves across the scientific community, resulting in almost-universal condemnation for the Chinese scientist behind the experiment that broke ethical norms."
     publishedDateTime: 2023-07-09T04:02:00Z

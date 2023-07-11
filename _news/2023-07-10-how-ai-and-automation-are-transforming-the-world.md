@@ -88,6 +88,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "UM Industries: Revolutionary Tech Company Transforming Education, Healthcare, and Finance with AI"
+    excerpt: "UM Industries, a trailblazing tech company, is revolutionizing education, healthcare, and finance through artificial intelligence. Their transformative solutions include TutorGeniusAI for accessible tutoring,"
+    publishedDateTime: 2023-07-11T18:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33189875/um-industries-revolutionary-tech-company-transforming-education-healthcare-and-finance-with-ai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
   - title: "How AI is transforming Hollywood, and why its at the center of contract negotiations"
     excerpt: "The AI company Metaphysic is immortalizing actors through data capture, allowing them to appear in future films without ever being on set."
     publishedDateTime: 2023-07-10T23:59:00Z
@@ -173,6 +182,15 @@ related:
         width: 940
         height: 528
         isCached: true
+  - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
+    excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
+    publishedDateTime: 2023-07-11T19:22:00Z
+    webUrl: "https://venturebeat.com/ai/revolutionizing-personalization-how-generative-ai-propels-growth-with-ai-driven-customer-insights/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 35
   - title: "Checkout.com is taking on identity verification with video-based AI-powered solution"
     excerpt: "Checkout.com is launching ‘Identity Verification’ to improve customer onboarding by using artificial intelligence to verify customers in under two minutes. The new identity verification process is video-based and uses AI trained on billions of data points labelled by ID fraud experts."
     publishedDateTime: 2023-07-11T05:57:00Z
@@ -187,6 +205,15 @@ related:
         width: 1198
         height: 674
         isCached: true
+  - title: "Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab"
+    excerpt: "Collaboration Creates Opportunities to Leverage Modern Advancements in Cloud Optimization and Artificial Intelligence for Ongoing Platform Development Strategic Partnership Allows Asure Opportunity to Provide Customers with Unprecedented,"
+    publishedDateTime: 2023-07-11T14:43:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 20
   - title: "3 Ways Generative AI Can Drive Operational Excellence"
     excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
     publishedDateTime: 2023-07-07T15:39:00Z

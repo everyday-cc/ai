@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/sapphire-venture-plans-invest-over-141541
 webUrl: "https://www.aol.com/news/sapphire-venture-plans-invest-over-141541787.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 800
     height: 543
     isCached: true
+
+related:
+  - title: "KPMG Plans $2 Billion Investment in AI and Cloud Services"
+    excerpt: "An expanded partnership with Microsoft is expected to bring in $12 billion in revenue for KPMG over five years, the Big Four accounting firm said."
+    publishedDateTime: 2023-07-11T19:50:00Z
+    webUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-815234/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "vAVy5GeWpdqGrGtZqhVuaBGVjLazLsfQWDPyW7DrsRbjl3QUT/ZvuDD5+lRsBAwNiDlA8IWd0dAEzG+ENDKFwouRdCtGat4Iu+l6Y5WACk1pIr0dy4dV4K1HrSsZEAzYCPW/47ixRBM/peUTrrPO6yPrg7N93YSIQdGaTfK2THdtIN6yU9IzwvIYWAqZQTli56Iq3QNdlrF5AS0QuoA/E/0z6SNvdbEoI0bftO55m46Lk5TlYb5A9u6modH38dMMUkdzgIiBAXCrP1TYZ8cTZHE8R9Cn3Gs45rZncmvuF8c+Qod/ld/5HmppScfSgDeEjDaWEXTiYg5qjnnU1IhY1/6XVZYqZGRBhbEirSkSmxY=;i/um6yOY/ZDZCS3MZDrEtg=="
 ---

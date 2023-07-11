@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/27-jobs-high-risk-ai-revolution
 webUrl: "https://www.reuters.com/technology/27-jobs-high-risk-ai-revolution-says-oecd-2023-07-11/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 17
+  - title: "AI revolution puts skilled jobs at highest risk, OECD says"
+    excerpt: "Law, medicine and finance sectors could be among most affected, according to organisation’s employment outlook"
+    publishedDateTime: 2023-07-11T17:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 17
 
 secured: "z92yue8LReomTc465chJdNBXhi7PeT/I8CyNIdBaRFbO9q/Jv/T6mGmemxyXbZZDEBxJdqw9I8Tla1bZcaLtIRsLkaRJjLwoqtX7ciRWh3nNLTovq+pIqdEp767KbpWvTzKcL1gN1qjgyhAkxtB6ikz4aB6sS1CK9OVYCuIQhMeUIr/CPdXIdNB7dqlwlIhs7rpEioeZY4dYUq7ArH64/8XcaIxlEdEIl/EXEeL/rxvF78vwwcASiXonIW1owfx86vTofSFFgRmO9Vyy4yi6litk7dHajzA0Ji0dovm5K96tMNG9R1mjPhkbJNRSMo0ACzsadkbdFY+JWZ4ahoJFanqefCTS0YxfTv8V4DELDIU=;3By9st3FZnZhaNuWpXLU2w=="

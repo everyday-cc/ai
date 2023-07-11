@@ -41,6 +41,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Top 11 AI as a Service Companies 2023"
+    excerpt: "Google also provides a suite of AI services through its Google Cloud Platform (GCP). This includes pre-trained models, APIs, and tools for natural language processing, computer vision, speech recognition, translation, recommendation systems, and more."
+    publishedDateTime: 2023-07-10T20:37:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/aiaas-companies/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 77
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/07/ew-ai-as-a-service-companies.png"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "GPU-as-a-Service accelerates AI in telecoms"
     excerpt: "ActivePort and Radian Arc join forces to enable high-performance AI via GPU-as-a-Service and easy deployment of models within their networks."
     publishedDateTime: 2023-07-10T11:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-
 webUrl: "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-that-produces-longer-safer-responses/"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "Antrophic Announces Second Generation AI Chatbot: Claude 2"
+    excerpt: "Over the past two months, leading companies have rigorously tested Antrophic's AI models, creating a waitlist of over 350,000 people wanting access to Claude's API."
+    publishedDateTime: 2023-07-11T17:11:00Z
+    webUrl: "https://www.techtimes.com/articles/293665/20230711/antrophic-announces-second-generation-ai-chatbot-claude-2.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 19
 
 secured: "U7rScwsUNVE0n1tklgZvqX0FWXqV1MbDJgmN6KfPbS6zFRM7BKH1QSqKE+/GzedkDW+WAe356PnoDf74xUpX8FvI2EN04mPbHFdFRbJ2/d5ByXNb16LHXso0DjaA594R/QK8G8klXMsfNviuZBP4zxVUP6dMlRurm/r7tWbwlfzXVrFX0vE41XPTNjFMf0dA8f8TX3W476bzicqgwlyiIzImTif52Bj953aF8Fct1U2PqKR9A80NqoZ6hilNMq40rEMkffaT3xkblz1533jtn802U0CnxKHZOLalMVw9p96jCW6m1M9KUZ6o9ydij1iY5MdPZ/4UgE6xQJS/Xys15crXFa2zGlWJn3oEs473HRFjrtOR4+U6hgm57GWTqHe+brKIWAmT2indqieHE6cUgSVtsuoCkU//ppdIaR3TzTxmsjsX/n9yU/ExO3j4fRZwo3EClLBxkZrh0IVY97HQp9x3zWdOCUiZFHu1hcV4LDJr3Qbllaon0LUh6dWuLemknEq+359ou9J76hzFBysCeA==;FtcE8xzAIBHQyNc7azI/sQ=="
 ---

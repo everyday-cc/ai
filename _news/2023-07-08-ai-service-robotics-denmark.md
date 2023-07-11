@@ -123,15 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Industrial Robotics - Germany"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$0.37bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.47%, resulting in a market volume of US$0 ..."
-    publishedDateTime: 2023-07-07T05:05:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/germany"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 49
   - title: "AI Service Robotics - Belgium"
     excerpt: "Value in the AI Service Robotics market is projected to reach US$52.67m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.88%, resulting in a market volume of US$130 ..."
     publishedDateTime: 2023-07-08T04:39:00Z

@@ -48,6 +48,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI revolution puts skilled jobs at highest risk, OECD says"
+    excerpt: "Law, medicine and finance sectors could be among most affected, according to organisation’s employment outlook"
+    publishedDateTime: 2023-07-11T17:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "d1uB2IBNVXmHOitcCZP3yE6/aDJlZnslLwJdOB116dOdI2E44CUyur6CsAAaIbf7f3woKzuxc+ggEIomO+BIubAimA1LCXuhct8N7e9P1J7JMUeBHLQCVoba6ptxXZAfCaAnW3iHXF+pSyaNBwlDXWMCtnIUxd9eT++oaIoqkMXUP8fMgo0saTJh8pPk7yDZvuAlBvcI/Pm9+Cvb/fCa6dQLIE/KTi5yTD2tt35MsHLRgJleJRymZVGlaIyzfZ7QtRw5qHsDFLyOGRmQO3y1fNWiN02zGvtbgHUiwd+jveFjwPy4fqzmE3pAzPRZsinz9h2t2/D1KYBO9bKhHH1FqVyDT4seQ/65pWtclgjGXU9pktpxAPWiUnBU0NxJ6Gc1AhLLLzdaeLlVU71bbEHNx3vuaiCp3+NRctRfdpSX6tEQ+2x34fbngl+p4F/YRkeJ8deN9nkBG4kEDweSLUBwe+MdakwVWRC4cv1mSId2d8tFRkpT54w4kOJLc7O5oXYB9pf+7ITn+Gts/o1zTYVlXA==;nrCrdxTyYPaBz53JEBba2g=="
 ---

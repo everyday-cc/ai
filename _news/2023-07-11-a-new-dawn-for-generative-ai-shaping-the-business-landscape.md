@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM Watsonx platform to power the future of AI for business"
+    excerpt: "Artificial intelligence (AI) has taken the world by storm and businesses that can harness the transformative potential of this technology stand to propel their operations into a new frontier of productivity,"
+    publishedDateTime: 2023-07-11T20:38:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/07/12/ibm-watsonx-platform-to-power-the-future-of-ai-for-business"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/12/2172357.jpg"
+        width: 1020
+        height: 700
+        isCached: true
 
 secured: "uSD5egFsiEj2BLCLTO6Vxv3ENlkBjvkISez9AqNz804Ks4VeTc97gxBMqXV6dkRPwEyrttlrLZvcG8tCqpQWZf1OuthQXpLPi80AZj+tVCleqH31X4aSTTx36LvJt+0HuFzsE2kqXgJUteIsq0EBxJpffjpw/kd9XX/S/c5Lx7jPFy31Jj+JOFYhoSnLG4CHVCj7vs9R4prxRHAeMTpTh0VcZ2iMIG3aCiFF8Bdof5xh5/Qn0dFjZ9umvIK8CpPnWR0kQSFIWL/RJkhwdZc+SamkPYWIfTpw1YMMq1nrI2h3EgjJZ1V0wKMIUkc2tpM4r60THmFEdEOGXtfD1QfM+Hd9BuNMIiFMEcWOIP0qt88=;P2V7hejhysyjyo9xMHl4PA=="
 ---

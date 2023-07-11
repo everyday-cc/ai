@@ -21,20 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition technology in use at major Australian stadiums"
-    excerpt: "Facial recognition technology is being deployed at major concert venues and sporting events around Australia, often without consumers' knowledge or consent. Facial recognition is an advanced and controversial technology which involves the use of cameras to ..."
-    publishedDateTime: 2023-07-07T03:59:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
+  - title: "AI Is Not the Solution to the Customer Experience in Australia … Yet"
+    excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
+    publishedDateTime: 2023-07-11T18:22:00Z
+    webUrl: "https://www.techrepublic.com/article/au-report-customer-experience/"
     type: article
     provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 39
-    images:
-      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
-        width: 700
-        height: 390
-        isCached: true
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
   - title: "Tech Giants Race to Incorporate AI in China’s Offices"
     excerpt: "AI integration is fueling fierce competition among tech giants like Kingsoft Office, Baidu, and Alibaba, who are developing their own ChatGPT-like models."
     publishedDateTime: 2023-07-10T04:31:00Z

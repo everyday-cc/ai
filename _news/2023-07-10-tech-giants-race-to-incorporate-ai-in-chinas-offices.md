@@ -30,20 +30,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 54
-  - title: "Facial recognition technology in use at major Australian stadiums"
-    excerpt: "Facial recognition technology is being deployed at major concert venues and sporting events around Australia, often without consumers' knowledge or consent. Facial recognition is an advanced and controversial technology which involves the use of cameras to ..."
-    publishedDateTime: 2023-07-07T03:59:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-in-stadiums"
+  - title: "AI Is Not the Solution to the Customer Experience in Australia … Yet"
+    excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
+    publishedDateTime: 2023-07-11T18:22:00Z
+    webUrl: "https://www.techrepublic.com/article/au-report-customer-experience/"
     type: article
     provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 39
-    images:
-      - url: "https://img.choice.com.au/-/media/eb7c0f215e3b494a8b7986ef53827a8f.ashx"
-        width: 700
-        height: 390
-        isCached: true
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
 
 secured: "jpU/yiw3YqS3OJk1gyuGlAhFij8ORv8F2IdBiMJTnM/+c/H40KCnxzL+VhbbQr6Wq0aayJ1kkkX4+Z/3H9+TK38ZSwgfKq0C6njHbrFjrX/7TV7MhwIzSeAatfEvK/A/Q1E2ASFgvVnGT8deLymiVGe6uzTmG97Db71GgNf9O97xtZnGHkNLjSrPI9xOr8lRY0eeAOtcNoe9MsGNyNo4tArd1BVRkF1PTSH/Gc9zddL1i6f+PHlHoh7c5TeBzTRizLkToPT40eyzMyWX8QT1Jw1quoV3U/k6KU0EEDzmrXZTQqxFDpOFxRMfIVDlHKqpK+jTVUq3lQ0mqEVC+VSz1L0P6WcigZXuevY8IHqCElNBtDYJK4UeHIOGRbAoMXVT7hSnbHPt8pQG0XRSsNKe62uRrCAasYEgGpVZyJDzfCjiXWTEtaWPuJ+GfeyAaQqcG0Eorlu6UTn/uXjof8xxU82vs9Pp0Z5YZPIB9rbG1bXly9PIerAAfbh39HtDKqOaqdqUc0Ch0s8TZrSEuiEfUw==;MqOSGLEdRmk3hLCwseAgDg=="
 ---

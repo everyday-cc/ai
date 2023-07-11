@@ -41,6 +41,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Top 11 AI as a Service Companies 2023"
+    excerpt: "Google also provides a suite of AI services through its Google Cloud Platform (GCP). This includes pre-trained models, APIs, and tools for natural language processing, computer vision, speech recognition, translation, recommendation systems, and more."
+    publishedDateTime: 2023-07-10T20:37:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/aiaas-companies/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 77
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/07/ew-ai-as-a-service-companies.png"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Activeport, Radian Arc Expand Relationship to Accelerate AI Deployment in Telecoms"
     excerpt: "ActivePort and Radian Arc are excited to announce an expanded relationship that will accelerate AI deployment within the telecommunications industry."
     publishedDateTime: 2023-07-11T01:33:00Z

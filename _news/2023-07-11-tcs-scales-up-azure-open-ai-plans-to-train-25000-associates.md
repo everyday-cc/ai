@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "TCS to upskill 25,000 engineers on Microsoft's Azure Open AI"
-    excerpt: "The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space."
-    publishedDateTime: 2023-07-07T03:05:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai/101559422"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101559422,imgsize-94338,width-1200,height=765,overlay-etcio/strategy-and-management/tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Book authors sue OpenAI and Meta over text used to train AI"
     excerpt: "On Friday, the Joseph Saveri Law Firm filed US federal class-action lawsuits on behalf of Sarah Silverman and other authors against OpenAI and Meta, accusing the companies of illegally using copyrighted material to train AI language models such as ChatGPT and LLaMA."
     publishedDateTime: 2023-07-10T19:42:00Z

@@ -50,6 +50,15 @@ related:
         width: 1553
         height: 768
         isCached: true
+  - title: "Machine Learning Takes Materials Modeling Into New Era"
+    excerpt: "Researchers have developed a machine learning-based simulation method that supersedes traditional electronic structure simulation techniques. The new Materials Learning Algorithms (MALA) software stack is significantly faster than traditional modeling techniques."
+    publishedDateTime: 2023-07-10T08:57:00Z
+    webUrl: "https://www.technologynetworks.com/applied-sciences/news/machine-learning-takes-materials-modeling-into-new-era-375949"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 19
   - title: "Machine Learning Takes Materials Modeling into New Era"
     excerpt: "Their quantum mechanical interactions with one another and with atomic nuclei give rise to a multitude of phenomena observed in chemistry and materials science. Understanding and controlling the electronic structure of matter provides insights into the reactivity of molecules,"
     publishedDateTime: 2023-07-10T19:39:00Z

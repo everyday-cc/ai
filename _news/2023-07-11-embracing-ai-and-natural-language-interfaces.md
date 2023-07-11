@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/11/embr
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/11/embracing-ai-and-natural-language-interfaces/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,21 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Embracing regional language tech for wider reach"
-    excerpt: "VERNACULAR VOICE RECOGNITION This technology enables the recognition and understanding of spoken language in local or regional languages and converts it into text. The technology understands any dialectal variations, non-standard pronunciations and language-specific nuances. It also decodes mixed language"
-    publishedDateTime: 2023-07-07T10:54:00Z
-    webUrl: "https://www.newindianexpress.com/lifestyle/tech/2023/jul/07/embracing-regional-language-tech-for-wider-reach-2592236.html"
-    ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2023/jul/07/embracing-regional-language-tech-for-wider-reach-2592236.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2023/jul/07/embracing-regional-language-tech-for-wider-reach-2592236.amp"
+  - title: "Embracing A New Frontier Of AI, From The Inside Out"
+    excerpt: "Every day, we put more than 60 AI models to work to strengthen the products and experiences we’re delivering for members– from optimizing appointment scheduling to quickly connect members with a quality physician in minutes,"
+    publishedDateTime: 2023-07-11T20:58:00Z
+    webUrl: "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/"
+    ampWebUrl: "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/7/7/w600X390/xdfd.jpg"
-        width: 600
-        height: 390
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ada8fea7497968d8edfb03/0x0.jpg?format=jpg&width=1200"
+        width: 1150
+        height: 900
         isCached: true
 
 secured: "szKQmMnNaiCsaphcrYBP6P0xG76vIPuBx6VfL51w138epqI0Z+5huk2/d5pt61QZLJ6tU5SvDkITBfOcI/wPFQI4lYqK+vUxt//moGzVFNvBCFAOHpem8IMv8TkBp4s2xulJ/FY+ikkTt39TpCn9Af/CDDb1Xk0SqCIpFKfRSeIXquKwG2491hoJy67+JA4HxbQ3jv9qMhk/jkituKu/ZueBgK+TaMd5bCzy9SCgYRgPeJlOiifd5ZPMJXQfrRgrolotz6GscDCDcHxEJeVr22CuZq0nqn63b9eKgosGuq7oVjH2WN0CuWV77dtx53mWmyL3CAOEsDn8qY5kCefRoNpnVSV1e3YP3hjhiPrx2EA=;4t9pTnaOdF7GbgzHtCQU9A=="

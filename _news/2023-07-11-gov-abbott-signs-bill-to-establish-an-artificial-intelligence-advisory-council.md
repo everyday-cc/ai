@@ -9,7 +9,7 @@ ampWebUrl: "https://www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-t
 cdnAmpWebUrl: "https://www-keranews-org.cdn.ampproject.org/c/s/www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council?_amp=true"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 480
     height: 270
     isCached: true
+
+related:
+  - title: "Gov. Abbott signs bill to establish an Artificial Intelligence Advisory Council"
+    excerpt: "To embed this piece of audio in your site, please use this code: Last month Gov. Greg Abbott signed House Bill 2060, which will establish an Artificial Intelligence Advisory Council for the state of Texas."
+    publishedDateTime: 2023-07-11T19:35:00Z
+    webUrl: "https://www.houstonpublicmedia.org/articles/technology/2023/07/11/456660/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council/"
+    ampWebUrl: "https://www.houstonpublicmedia.org/articles/technology/2023/07/11/456660/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council/?amp=1"
+    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/technology/2023/07/11/456660/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council/?amp=1"
+    type: article
+    provider:
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 55
+    images:
+      - url: "https://cdn.houstonpublicmedia.org/wp-content/uploads/2021/03/08130655/51000871846_c24665bd2f_b-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "+qW7yfdW7DAEzciOiCUKORlHokWQN82pmJ4+UQUoluHMlncjnppYcLhyL4SCO6LNIpH3EZxqWzVWI0GeFM9FMx41msihI61p50KWQHq8VwIxhU+P+gUJ83D12BGQpG6bfD0n8/spZlA8UQkXLQ4pJQuGWhzG6zMpEM1+phhMvxz4MuoaXVw2d1uZJfOfZOl1PdzIbNVkUfVR+KAnRcPz5ftJPjcYXN9J8sDcLxfwnDcFcMuT7cjwVRB676GNCk/lWVEP8/uub2wRGJDz/I48J3q4p9aaFHy63UqLVzdUMD4Mmw1prei1cqBfZ8aY7V2FVivsLx1gubodbujiWeFSXlVq2ScJk+dfp2bvXSJN214=;4oGmdK1KStY3fFmMspoQ7Q=="
 ---

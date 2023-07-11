@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230710PD211/ai-amd.html"
 webUrl: "https://www.digitimes.com/news/a20230710PD211/ai-amd.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Lisa Su believes AI will soon be an integral part of chip design"
+    excerpt: "According to a recent survey, the so-called AI revolution is turning out to be quite depressing for many executives in the tech space. There are growing"
+    publishedDateTime: 2023-07-11T16:53:00Z
+    webUrl: "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
   - title: "AMD's Lisa Su says AI Will Dominate Chip Design"
     excerpt: "Lisa Su, CEO of AMD, believes that AI-enabled tools will dominate chip design as the complexity of processors continues to rise"
     publishedDateTime: 2023-07-11T06:54:00Z

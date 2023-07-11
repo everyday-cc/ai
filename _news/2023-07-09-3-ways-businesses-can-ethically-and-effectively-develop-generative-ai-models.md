@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "IBM Watsonx platform to power the future of AI for business"
+    excerpt: "Artificial intelligence (AI) has taken the world by storm and businesses that can harness the transformative potential of this technology stand to propel their operations into a new frontier of productivity,"
+    publishedDateTime: 2023-07-11T20:38:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/07/12/ibm-watsonx-platform-to-power-the-future-of-ai-for-business"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/12/2172357.jpg"
+        width: 1020
+        height: 700
+        isCached: true
   - title: "A new dawn for generative AI shaping the business landscape"
     excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
     publishedDateTime: 2023-07-10T23:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-militaries-are-using-artif
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-militaries-are-using-artificial-intelligence-on-and-off-the-battlefield"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "How Militaries Are Using Artificial Intelligence on and off the Battlefield"
+    excerpt: "Artificial intelligence has been a crucial tool for many nations’ militaries for years. Now, with the war in Ukraine driving innovation, AI’s role is likely to grow. Paul Scharre, vice president and director of studies at the Center for a New American Security,"
+    publishedDateTime: 2023-07-11T19:59:00Z
+    webUrl: "https://www.cnas.org/publications/video/how-militaries-are-using-artificial-intelligence-on-and-off-the-battlefield"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 15
 
 secured: "+4ABIMjjpdgprIGuoooafVhZ2wPLh2GTmBp3cYnARwm5cQCBh3XCYlKuAfcD5SHxHr/kW/HQlKoZJVPPSPWaXC28cD/adg+2lxpqUvKE1hlQGfeM3YBTywfwZ4CmDHJABuGZRbyT9rUB88p28OmCBMIYlsXAOiCncLhehNcUu1e98E8H8Nb0XPOd8Xu+3HdrZnwociDm1xVf/pwMNtAeiFOpg2Soh03Xd8i9cnibBxJu0YeaueWxDWiBOXlGaoazoTv+YnmIejwycGGRJAEOMR/beU53ZhEyBzdtUNLpOQ66mhSA4DDsq1TOdpPUO0ES7iwrr+KIcGd++NeOm4Tq019hsGe3/Elye6EtDD2Qf94glVd/jIQ1zqMQ7/ZaWOCFdG3nocIP4OWz8FxY2CactEGJXP8JlGL+F8k6vy/HWD5uguNDsGe8LcfJs9EFtpt5Neo9YQzPflS9Du+iS8XYyW/Zu4aege2UdQZVXXxacSXiYeuikuVftz8GqN4Li6LUb016uZ/VNdcVqoJlusmZkg==;aqFLA0vtpyKxOP3MLotk1g=="
 ---

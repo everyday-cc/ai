@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Lisa Su believes AI will soon be an integral part of chip design"
+    excerpt: "According to a recent survey, the so-called AI revolution is turning out to be quite depressing for many executives in the tech space. There are growing"
+    publishedDateTime: 2023-07-11T16:53:00Z
+    webUrl: "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
   - title: "AMD's Lisa Su sees \"AI-first chip designer\""
     excerpt: "To what extent can artificial intelligence (AI) support and assist in chip design? Following recent examples of AI-assisted chip design in both China and the United States, there is a comparison between Nvidia CEO Jensen Huang's statement in late May,"
     publishedDateTime: 2023-07-10T06:44:00Z

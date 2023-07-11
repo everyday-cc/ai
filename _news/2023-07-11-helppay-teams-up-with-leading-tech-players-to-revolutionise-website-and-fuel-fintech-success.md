@@ -27,8 +27,8 @@ images:
 related:
   - title: "Introducing HipFinity: Pioneering Fintech and Payment Solutions, Exceeding Expectations with an Unmatched Customer Focus"
     excerpt: "Born out of an unwavering dedication to service, HipFinity couples a visionary perspective on payment technology with groundbreaking Fintech solutions. Our credo centers on comprehending our client's unique requirements and existing pain points,"
-    publishedDateTime: 2023-07-11T17:30:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/11/9846476.htm"
+    publishedDateTime: 2023-07-11T18:45:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/11/9846476.htm"
     type: article
     provider:
       name: TMCnet

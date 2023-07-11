@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
+  - title: "AI Industrial Robotics - France"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$238.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.67%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-11T07:38:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/france"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 49
   - title: "How Machine Learning Is Supercharging The Industry"
     excerpt: "In the mortgage industry, staying ahead of the curve is crucial to success—which can be a problem when the industry itself is filled with new daily twists and turns. Thankfully, the increasing use of automated technologies can help mortgage organizations stay ahead of these curves,"
     publishedDateTime: 2023-07-09T20:17:00Z
@@ -53,6 +62,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Supercharge Marketing ROI With AI"
+    excerpt: "SUPERCHARGE MARKETING ROI WITH AI In an age where consumers are bombarded with endless advertisements and choices, the quest for genuine engagement and return"
+    publishedDateTime: 2023-07-11T19:02:00Z
+    webUrl: "https://www.thestreet.com/csuiteadvisors/stories/royston-g-king-supercharge-marketing-roi-with-ai"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
 
 secured: "0iDy9KTL+fG0SEIq45pm9WZqrbK3/sh25x1Hzoe7sdMuGFMjbBdtujog79CdUby0/tYJ9JsDmqfqjbRuLG2EX7wCgo/WoBJHYilt710X6IY8+LVK+ZNhcdRxF0O7eGnjAkWWYO9NZdeLJcnXnIdcaMt+5NdhP45SvDi6cwLTsumF19sKP0oWdSRQ/fSfBxB1suTWwrRCG1dU8BFtGjchX4XkG7YpQiMQ/JLKtY/k/4pb4RbwEbYRrq6PyRsr1ZXbAZgWlDoWZW8U9Vvqkd2E2zseTnj1wwXVAfw+RORDXd+fOkcKOSJ6aC9H6L2Graq6f6+IXEtZLKpqUXDFL+MQbOXgHxROtOOw90tFJHEVZ6Tch9SBsytKEfgR8Bn1+TBvGiTOLudD7+ll4qENuA//SoIRlrYFCtkTELN5yGyYxR9q1k2R+BCDSjzxXJQjOvfIpywQ/WamOl9gKbhAvdqwJiMn4UMlnsK9t2JmowjsgeWvZSH5YorDqb+XS558/kK+3Z25ZHSUs1a+Uw97SVU5Xw==;5GCBXo20o+vgFlTFPKFBPQ=="
 ---

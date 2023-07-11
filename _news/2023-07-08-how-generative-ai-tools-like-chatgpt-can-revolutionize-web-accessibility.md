@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT's Website Traffic Down 9.7% From June as AI Fatigue Sets In: Report"
-    excerpt: "ChatGPT, the fastest-growing consumer app in the world, saw its traffic plunge 9.7% in June from a month before, marking the first monthly drop since its launch. Still, the artificial intelligence (AI) sensation remains the world’s most-used chatbot,"
-    publishedDateTime: 2023-07-07T02:22:00Z
-    webUrl: "https://247wallst.com/investing/2023/07/06/chatgpts-website-traffic-down-9-7-from-june-as-ai-fatigue-sets-in-report/"
-    ampWebUrl: "https://247wallst.com/investing/2023/07/06/chatgpts-website-traffic-down-9-7-from-june-as-ai-fatigue-sets-in-report/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/07/06/chatgpts-website-traffic-down-9-7-from-june-as-ai-fatigue-sets-in-report/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 57
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2022/03/imageForEntry16-cPB.jpg?w=400"
-        width: 400
-        height: 224
-        isCached: true
   - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
     publishedDateTime: 2023-07-11T10:31:00Z
@@ -215,6 +199,24 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "How Sarah Silverman might save us from AI like ChatGPT"
+    excerpt: "Sarah Silverman is one of the authors suing OpenAI and Meta for infringing copyright while training ChatGPT-like generative AI."
+    publishedDateTime: 2023-07-11T17:30:00Z
+    webUrl: "https://bgr.com/tech/how-sarah-silverman-might-save-us-from-ai-like-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
+  - title: "Anthropic Launches Claude 2, a $4.1 Billion AI Chatbot Competitor to OpenAI’s ChatGPT"
+    excerpt: "Anthropic, a startup founded by former research executives from OpenAI, has entered the AI arms race with the debut of its new AI chatbot, Claude 2."
+    publishedDateTime: 2023-07-11T19:22:00Z
+    webUrl: "https://techstory.in/anthropic-launches-claude-2-a-4-1-billion-ai-chatbot-competitor-to-openais-chatgpt/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 12
 
 secured: "jba2MU6xN6mllMyYK5YZN39VfzX20TpNhM79ydomPKYHkPn6HjgTX3faRQwoN/mH0JG87PRe7qWL+vqYnB3B8F8gpntEZJwVvAKBOttZ4IRi8whR3xdqpfEBIl+H0jUhy+U/JetMsVYmjgnhAWHPl41QI5tV+uMYl5OxzwTOz4HiwMT3r2+AKDdmX2xIGy3iXJIpCEV+uigzCSv0HyDjp5oBlqZxD1gkqosSN8UcpA/JX87s9Rhvn0xXTg8DJVzuh9Z5oxrNhiP6NhL8gisM+j9Sgozlh3xk5JOe4qpttMcnLWMUbqevRo8D1Nh1+RswAXEFGJ/9uosKDarizqk7vumS91u37H1W/u92ayFtpcC0fwJrfXQfM5wiBeLOVinOqA5HyH6OTYro0Soh1NLSzF3lN9MYdAuaZrEkLlnJYF8zQkk4hcMRDEBY9NTA0FkgMiAbYqU9F9Yz1tNuM+7jRd7+IRXpHxWIFe0WTcGEgALPGpALrVKigKyFhKoREppzTUIf96o14fWZltoiMpmqyg==;aZqz9ItJ8hBVJ4JDQJ/9dw=="
 ---

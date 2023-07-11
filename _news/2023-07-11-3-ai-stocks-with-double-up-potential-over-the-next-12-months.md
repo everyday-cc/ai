@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-11T16:16:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-double-up-potential-over-the-next-12-months-1032438508"
 webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-double-up-potential-over-the-next-12-months-1032438508"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
 
 related:
   - title: "3 Battery Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023"

@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/singapore/health/moh-agency-microsoft
 webUrl: "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore"
 type: article
 quality: 66
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 45
-  - title: "IHiS Inks MOU with Microsoft to Deepen Collaboration and Trailblaze Generative AI and Cloud Innovation in Healthcare"
-    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcare. SINGAPORE – Media OutReach – 7 July 2023 – The Integrated Health Information Systems (IHiS) inked a Memorandum of Understanding (MOU) with Microsoft for deeper collaboration in generative AI and cloud innovation today."
-    publishedDateTime: 2023-07-07T02:14:00Z
-    webUrl: "https://www.macaubusiness.com/ihis-inks-mou-with-microsoft-to-deepen-collaboration-and-trailblaze-generative-ai-and-cloud-innovation-in-healthcare/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 28
 
 secured: "WNpi9NbjoMZda5jR7YLeA92Fr/yrZRPNl5CGlkvH5yh0lLtPQe0ZlR4qawdx11dWrm2uJCD6gob0WBUbwst8g0vfwrRXFTmhjVNQ2QpflZ3IWK8AS06NVxUZXnTv/ystzz5lYQVDpn0Lc2ytREgyo+n6DyzlHsR77o6Yo1CsgXAjBy59jdO6I65O7c1TaSoqIUcadCI8sp9r05EfFHaBOxMJ6J0FI03mDU2xG6Eqf45pyQqf+Nds3bSyasKiiDPIcQwpwH68l9gYqKpq/mJbSEy8sxonmSm4JTM+gPb9hLWPeNtq///6woutqs/SAmFRF6HUksibkPalP3yOV//uvBC8dD0zM4+xuCuT5gFx0kQ=;adLA4jI0J53+KSqgw//Oxg=="
 ---

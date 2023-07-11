@@ -56,6 +56,15 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 41
+  - title: "Antrophic Announces Second Generation AI Chatbot: Claude 2"
+    excerpt: "Over the past two months, leading companies have rigorously tested Antrophic's AI models, creating a waitlist of over 350,000 people wanting access to Claude's API."
+    publishedDateTime: 2023-07-11T17:11:00Z
+    webUrl: "https://www.techtimes.com/articles/293665/20230711/antrophic-announces-second-generation-ai-chatbot-claude-2.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 19
 
 secured: "L5NsiJ89CfevgqTCgJMN3xFCpZ+aZodASj6MuZPWN+1fO12WAXKglVw+2TCgbeZGPZ1KmMl+ImrRG1DYXTO1aKij9Pjq7oUiCi7e8nHjHBDqnfYDh2x/1LcHdMofNNrEn/WGYcJhZaZ5BrkNz/IUABT5zwHJLZn/NRDQnrnDh/83lAcdB44v7W9+pqcyRnLJ3l41jwwPezCnHlZUHlEdnrRerVH9O237tYdK5CoA3TfiI0EoRNVy7m1wJ5DnDHWSqRTpInEDBcROCCKTkCdPlvYgEN7bAYLh3FNqxiImSloYqKwSXRX/s3si58MYS4mewAudZv3o4ISkBqox/tkTleqNkoL2M/a4nMKqOclgx0A=;i7QUpAMEEh09mo412FfMTQ=="
 ---

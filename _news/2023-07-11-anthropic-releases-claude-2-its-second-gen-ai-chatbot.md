@@ -59,6 +59,15 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "Antrophic Announces Second Generation AI Chatbot: Claude 2"
+    excerpt: "Over the past two months, leading companies have rigorously tested Antrophic's AI models, creating a waitlist of over 350,000 people wanting access to Claude's API."
+    publishedDateTime: 2023-07-11T17:11:00Z
+    webUrl: "https://www.techtimes.com/articles/293665/20230711/antrophic-announces-second-generation-ai-chatbot-claude-2.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 19
 
 secured: "LBZtITruiEzTOwt+LMC5jlLr8DfFGI8x2Pk//mRMRnWp2j/Hc0A+tDVz62WH90M02MT0fbZRyYucYVWd+CwpcbQ4xJ+BQbkZE6fN6+rn3qKVzKOCsfmZZ+Ed032PkqJTJNN8pecvncX0c3+dyAqqpe2UX9OoCGCEkY0qkKt5IyJlslfVlTBcU0uz6tb4dxXWaFyLQwwOo+wLDsRLOWFkaWHM1o6GEJwCaawr5XJ2WqUHcgYnrDkZN4hE2MqjYt6HMFrnZeihiiOCwJaFtD/m3wXE0hs1YLpuTULscgXgtJxPbKi8s1Hm25EHmcXN9wEAco60qqRr+REGrPjwb0O7QSur+ZIf0vcz22/tbK6wfHVRk5ansVNdgBFqQ7yMryfWJpiuStGRpsbvFeXqgo/jF1+qRexalQPczYSyuGJ2B24guwYiqhHkRZzbtS4/zzkfPOW1MxnpXu8kOT5UB3QdXu95494L7IgLu/bMx9hv+GfoOS9IT82AQ8BcwjkK++lGSjybV5EdVWu5BDCEtzWYIw==;6txqbts54lma38Ne7QTHnQ=="
 ---

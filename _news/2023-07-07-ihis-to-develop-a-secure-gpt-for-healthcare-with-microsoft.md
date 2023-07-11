@@ -107,15 +107,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 45
-  - title: "IHiS Inks MOU with Microsoft to Deepen Collaboration and Trailblaze Generative AI and Cloud Innovation in Healthcare"
-    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcare. SINGAPORE – Media OutReach – 7 July 2023 – The Integrated Health Information Systems (IHiS) inked a Memorandum of Understanding (MOU) with Microsoft for deeper collaboration in generative AI and cloud innovation today."
-    publishedDateTime: 2023-07-07T02:14:00Z
-    webUrl: "https://www.macaubusiness.com/ihis-inks-mou-with-microsoft-to-deepen-collaboration-and-trailblaze-generative-ai-and-cloud-innovation-in-healthcare/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 28
 
 secured: "FntJLuCJXApwSDe9LlNpXNWS5aXxjBS0mZH+b1OJAMpXO2KgFocrdJmD0oCZbgbG31dJUaAlGAm8wmSPFg8/u/09IsLHgFnAmaP0HtyLmvkTc7b5ncqIzctONA0CSbuZrbWlj9LnjRlEx0EGatcvxEFPaR/AH8JPH6X2NlX9KWC6XhzBbPXhLJ29iGVp+uZhyDfT8rb7WzQKfdP86VZs3xlFH6HpKrzmgqUEJIe6HGXDpaKQoquJuOfd4+y5d2uTyxc6u0mVedcMlC01vh3vH2CyKol9P6r2sZ01ppsThoiXlvKpoA0O7GfnbHRyX57YprmvuHMbBpcP5iU7topmenimc+0VuikVuf02IgDyhRTqjUP7hScFPa7Nc+jhhXfkkYkvR1yF+eDOwT88MMu2o7M0ONV9PAnuIEOd77hU/nr37cjUNwmkFXfuI+vpV7iA7nEF2kanGWcFhA98jtiS1F48D+N8g+h+ftQIHOWbk5tbQjjyxRTfgfT49yGQZZ2ZectXii0EseUMySIk10YuhA==;LbWe64m9wzUkIKJpFZo3KQ=="
 ---

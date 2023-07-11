@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Building the AI Talent Pipeline"
-    excerpt: "Industry partnerships, stackable credentials, two new centers, AI across the curriculum: Madeline Pumariega writes how one college is responding to the need for an AI-trained workforce."
-    publishedDateTime: 2023-07-07T04:45:00Z
-    webUrl: "https://www.insidehighered.com/opinion/views/2023/07/07/how-one-college-responding-rise-ai-opinion"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 41
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-05/thumbnail_Photo%208.jpg?itok=7WpL1je4"
-        width: 480
-        height: 320
-        isCached: true
 
 secured: "nQQLcB7ocpZRWvwDvJcluutDf2kQqly8tFHimNBPbLli4gbWCK+jftiNZXPQsBGHPuLFEJUXoeLJUpM/o8ciV7NrJMCWJqeY428fKQJ3FYuXD0MHYC2NIbWW2PFHf0TbU4gRu9p7Pa9Mr592ZpuPqYO6Yu6NhHqs1mYAT6aDwa/If/5xqpSXsGq3HYgJJGSe4ryttnvvlzgDrGjF4ZUuBI10hj22AXKTH5RHjt8EP+wt7nZUh+I4X/piqOReRtG+AUMBO8Dzo4VDrkOsDw2ye2YFXzNiWrcIDUWRzu4hFnvGkU76eYefl/jrM/EZSREBRe8lMfvoZCg2RA1otqmQ+HYG4DtcYpvmbcS6yrv0lMY=;MgFQxHKy2DzVGsnW48gUiw=="
 ---

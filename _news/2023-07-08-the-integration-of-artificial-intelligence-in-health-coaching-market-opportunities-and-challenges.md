@@ -256,15 +256,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "Seniors still skeptical of AI-led healthcare, new study shows"
-    excerpt: "While patients acknowledge AI's ubiquity, they are not yet willing to cede the role of primary care and therapy to AI, a new study shows."
-    publishedDateTime: 2023-07-07T04:20:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/seniors-still-skeptical-of-ai-led-healthcare-new-study-shows/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 34
   - title: "Healthcare’s AI revolution is well underway"
     excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
     publishedDateTime: 2023-07-07T18:42:00Z
@@ -292,6 +283,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
+  - title: "Software Company CEO Believes AI Will End Healthcare's Labor-Intensive Paper Chase"
+    excerpt: "According to DataLink Software CEO Ashish Kachru, the healthcare industry can learn valuable lessons from other sectors that have embraced technology to streamline processes. Kachru believes that leveraging artificial intelligence (AI),"
+    publishedDateTime: 2023-07-11T12:40:00Z
+    webUrl: "https://www.techtimes.com/articles/293654/20230711/software-company-ceo-datalink-software-ai-healthcare-labor-intensive-paper-chase.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 28
 
 secured: "xsOnd6CbBr7J7N1HaVaA2F0wuUzUfIoJOIt+Y+Z5smz6qlMBgS0Lf0o95iQrFyO8F1Ld12jSbrHeyFuVubFY//DIvca9OzctzuBrYe8qyV2M8KuVv7bjn+1M9FKALv8b1Wm+paXPk3qY+pp78FGDz4xjJPtyRwKN1JoQeCEjdrsoOzePgmGdnhsuts6PthL14oKe2xKK0pxwxvrpeYl8rBvHXVYe/uiaQ68bLMzZ2tNGZg2X4bYx88Mf3/lvPrfxkfD9J9LoMKqDdkSqXlT5ycrOLDsgwFWXivvtXMp+BTLkCJiIYLqEo9wkv7lmEfmC10o0+fcHErItVVmOSyLfzbeEbaEJUzfDf/WnqnChtxI=;/m4LaUIWm5sIsplNA5I1hw=="
 ---

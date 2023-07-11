@@ -87,20 +87,6 @@ related:
         width: 1024
         height: 673
         isCached: true
-  - title: "Rise Of The Robots: Un Tries To Tackle Mind-Blowing Ai Growth"
-    excerpt: "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted on Thursday at its AI s"
-    publishedDateTime: 2023-07-07T03:05:00Z
-    webUrl: "https://menafn.com/1106567368/Rise-Of-The-Robots-Un-Tries-To-Tackle-Mind-Blowing-Ai-Growth"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?192047"
-        width: 375
-        height: 250
-        isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
     publishedDateTime: 2023-07-08T03:45:00Z
@@ -210,6 +196,24 @@ related:
       name: Macau Business
       domain: macaubusiness.com
     quality: 31
+  - title: "The Rise of AI Humanoid Robots: Could They Run the World Better Than Humans?"
+    excerpt: "A group of AI-powered humanoid robots made a surprising claim during a United Nations summit: they could potentially run the world more effectively than humans. However, the robots also acknowledged the importance of proceeding with caution when it comes to the rapid development of artificial intelligence (AI) and its potential,"
+    publishedDateTime: 2023-07-11T10:38:00Z
+    webUrl: "https://www.techtimes.com/articles/293647/20230711/rise-ai-humanoid-robots-run-world-better-humans.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 31
+  - title: "Humanoid Robots Tell UN It's Time For An AI Revolution And Vows Not To Kill Humans"
+    excerpt: "While the humanoids gave the impression they are not out to kill us (yet), some of their answers were more alarming than reassuring."
+    publishedDateTime: 2023-07-11T17:30:00Z
+    webUrl: "https://hothardware.com/news/robots-tell-un-its-time-for-an-ai-revolution"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 28
 
 secured: "r6gaDRszPn4Yj4zaqaQsEtUQPdlmKOk/A9eNr4jpCVXGJunEFwLIIZTyKZKfa4emHFGCXWLyb2SAqknyDhX93MMEwPQ+gI2c2YMXHZ3CLiEUX6DguqdOvB6WVd5vZueMmxLV7+MCTH13MnmTRaJ3ZDFCXojolj9t1GbQx+z8G42e5nk59inl8sNfOGuxXmdcXVUqj2eDjnX0JqD+nTX5aSZrg7jtm7UcTE0KWoTkbuZcVhekMo/rMIWS2jYSL+IlZLMvt6hmeJb1um7PHRrSAGhT+oKFQ/i6PcowBiG0YYVpTABYIrvZW/MVkjTMYlJdwB0u4qy/drAG8Y+OzqoViIOxZC7i5SxBu8ncIbE8aEI=;OW+vsi0dq7lKFHRKxhppUQ=="
 ---

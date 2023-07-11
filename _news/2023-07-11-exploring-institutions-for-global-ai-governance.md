@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Industrial Robotics - France"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$238.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.67%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-11T07:38:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/france"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 49
   - title: "How Machine Learning Is Supercharging The Industry"
     excerpt: "In the mortgage industry, staying ahead of the curve is crucial to success—which can be a problem when the industry itself is filled with new daily twists and turns. Thankfully, the increasing use of automated technologies can help mortgage organizations stay ahead of these curves,"
     publishedDateTime: 2023-07-09T20:17:00Z
@@ -53,6 +62,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Supercharge Marketing ROI With AI"
+    excerpt: "SUPERCHARGE MARKETING ROI WITH AI In an age where consumers are bombarded with endless advertisements and choices, the quest for genuine engagement and return"
+    publishedDateTime: 2023-07-11T19:02:00Z
+    webUrl: "https://www.thestreet.com/csuiteadvisors/stories/royston-g-king-supercharge-marketing-roi-with-ai"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
 
 secured: "TwW4SIFzaks0o7yoceic8IJ3/XQ5gxLBVR22P0RjlfOVGGCN3UNwIOhytLSUegO4bxEm2YQUgkcTHG58JBvwI+bu4k3Quivk96OhZ9k5+7oBFudhBpinEnxc29BN9s+fD6KgOQPuFnEKB9oCNKeyNw3mbnQGW94dNMJHwjD2GGqwx89x2EsPg9XaHPFy27u6yigyTcOge/GY6iRT/NlKv9xzJ1R1IIl46e6f1N0Xac/o2X2PjpsK4evxPBRXdRuvcrkMfQvMWRni8tWpZdN3qEBtxJ3Wl46BzpwOYnsr1/AjYZyY2y4J1I9d0EuX0MLApnWx0yMq0ytRjt1llfHINy/Wdut+53ghxshpMzsUYL8=;NCAWlaYLYA/+JZWLX6BJlQ=="
 ---

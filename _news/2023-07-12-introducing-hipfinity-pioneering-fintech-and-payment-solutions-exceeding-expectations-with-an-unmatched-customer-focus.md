@@ -2,9 +2,9 @@
 category: news
 title: "Introducing HipFinity: Pioneering Fintech and Payment Solutions, Exceeding Expectations with an Unmatched Customer Focus"
 excerpt: "Born out of an unwavering dedication to service, HipFinity couples a visionary perspective on payment technology with groundbreaking Fintech solutions. Our credo centers on comprehending our client's unique requirements and existing pain points,"
-publishedDateTime: 2023-07-11T17:30:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/11/9846476.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/11/9846476.htm"
+publishedDateTime: 2023-07-11T18:45:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/07/11/9846476.htm"
+webUrl: "https://it.tmcnet.com/news/2023/07/11/9846476.htm"
 type: article
 quality: 0
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 282
         isCached: true
 
-secured: "i7g40OvO0IybSMxVBXtCl+YRCr3b/jiWuNGDuQbs9fyaGhGDO0ervekV8PC4dNa8BzSBJnGWuFgS2/2TT0P7RWqhM2ljPnDT2qs+YhWET78DMSCeA4g0qfMfGLrhQXKvf6ryp0kU7k212bJ+2Ep9yG2PdmlVbXjA0X0+aDwkKkeC4E9lf4hsuWXva9dZP8ZLVdLx6E2b/mz7IXDfWTgEhomhEfmbbXJyCKH71PpjAEAt5NZagH+8m2u9XkLjRjk6BrxZAgHYnlbf+y/JsxGIA5y4xqeu+ac+UHwFXhLMiXhrosxMb03XdFp3bEvWvR2Y7IIW9jORIq8YMEJbsc115rOHV2w714xGJrB7npex/88=;+ZlbVqQiMEhDA+rvIsP+HQ=="
+secured: "6UeUP8q8ZY2k4r4wx6pZQVK+T2HhikK/KO8/oJqQ6yfdzomw04XwrUezVSMCQ2uuDHbn1f49QFPLq8rvJ5zpsoNDTq/XIvv48Y91isuJQ9doPvPjZhxnhl3qxgUgDfeACdp8gBk7OzezUPgFQTiD23HoliyEKSzntbH7LODv++ZADikUfula+OBubrwALLQiM2qbX3Lv35Sg9nFP/rV8DDH0gJNjiX/4MJpPcYb5RNKio+Smhe/jIY8+BFYfqm+cxv3CMUEifRehyGyIOIhkUAPCy8LTj6mMbI8PASmLwT0CZe5OcyRghB4kwBEGYqpdXcy1KRFkQ5vm1cVhKqcW2RT2QAFSwTjo+ioP2zUhftxigNynF6fozo3wggNWNVjMHVIXKHqCQOYZPWOFRMlqQhHkipmZroCDqe4nI4Xpw+9WHwQZrjc+jcRvsyPvHYqHJ8qI2LEKBBHb8N0jfEezSTa09MTt7IksVUd/M5aw4+UavYWrperZSvBrB/EE9BJdWDZAYM/7zTmSw7ke5xPsiw==;PeXyH7dzcQZ4hZZ9BG6CTw=="
 ---
 

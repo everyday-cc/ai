@@ -33,6 +33,15 @@ related:
         width: 1920
         height: 1244
         isCached: true
+  - title: "Anti Self-Driving Activists Are Fighting Back After a Car Caused Several Concerning Collisions"
+    excerpt: "Protestors in San Francisco are interfering with autonomous vehicles as they look to reduce the number of cars on the road."
+    publishedDateTime: 2023-07-11T18:53:00Z
+    webUrl: "https://www.thestreet.com/electric-vehicles/anti-self-driving-activists-are-fighting-back-after-a-car-caused-several-concerning-collisions"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 0
 
 secured: "WaPm9BQJ3OXlG+MvcOfbA8K5DvJ9ToDal2E0o/dJfU8YsERlU4thDxbAOmnza1gzpip5/2xEVYVxkuYLLeLFLpkzn5zIEhvIqtgw0WoEuiA2yd5N9EF//1ajWrQoxcnDNJVCKcXVsYGfM/CsKv51+VBeQUpXvg9jZZUs5GjG9G6NFboqDVk1QaxCAUgTM4OHFjaL+eMAVMicf4FdW2rcwDSJkwyQikHR20LnEuOQHWWmsauPZRMFbiLbkEX4aUwBPGUy39mpG4TRMV1Psm7Af/8RMYJx0VpMp5HcJRk1i0V5ud4VkIoEXHiw1RH1AbMvm2XkE7pYSypA+ViJ8WqmO2Puivgx1c8PM2cJseAuyLQ=;zdiXcs7OZoAvHQltPCkFbg=="
 ---

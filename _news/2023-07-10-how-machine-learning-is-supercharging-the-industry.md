@@ -50,6 +50,24 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
+  - title: "AI Industrial Robotics - France"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$238.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.67%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-11T07:38:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/france"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 49
+  - title: "Supercharge Marketing ROI With AI"
+    excerpt: "SUPERCHARGE MARKETING ROI WITH AI In an age where consumers are bombarded with endless advertisements and choices, the quest for genuine engagement and return"
+    publishedDateTime: 2023-07-11T19:02:00Z
+    webUrl: "https://www.thestreet.com/csuiteadvisors/stories/royston-g-king-supercharge-marketing-roi-with-ai"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
 
 secured: "SzMPaz7/ZxdKfk6Lfpvd91puzGjiyBd4Wpkq9J0abIX7Gos4ISj9/b+Pi25mECTy2mqlmubyETFFPnPLS8HZ0aQkTXzVA2H8lxeADLg42v0k55WzoxQejVbe3NOv4tn8OQb7yK8VgxyG9RJx8X+pC1sos26IwylrDm6z02X5tg32heS4BXE6dPRMaJ46stSAIr8DepUN29LRjVJjRx+yvck/SbWGwkjh7dD6CQAR3m9/qS8e73vnkCU7WeftGPF/NFaHQUoOQI7JKXvC/lXo367KykDg4pRBuicqeui+YOTWoNNHzU+f0XCXhukHAKQm8jNtAxMH3s5gJE6DtBIucxa6eMtr4ZL+vPnIsoLV18k+sB5cssrayLIo+wgnSFgVY1lRl2bxFIANmPUv1u1NwmWLNenh8JAY2LJ+0zAxRwJYH/UFGwCSt0L3aA4FirBXyydC6cI3bfwvfeNuM5bgQDPmWPh6iYYdxjEscviA4KLtBaHWDUBOwPKR63iMyGbTfOoRO7Xh0JAF52t8/fl6ng==;M9kmFfJHbZsHQO8MpuEdGA=="
 ---

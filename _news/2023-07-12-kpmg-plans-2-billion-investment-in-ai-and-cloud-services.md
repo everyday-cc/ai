@@ -1,0 +1,48 @@
+---
+category: news
+title: "KPMG Plans $2 Billion Investment in AI and Cloud Services"
+excerpt: "An expanded partnership with Microsoft is expected to bring in $12 billion in revenue for KPMG over five years, the Big Four accounting firm said."
+publishedDateTime: 2023-07-11T19:50:00Z
+originalUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5"
+webUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5"
+type: article
+quality: 67
+heat: 77
+published: true
+
+provider:
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.wsj.net/im-815234/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+related:
+  - title: "Sapphire Venture plans to invest over $1 billion in enterprise AI startups"
+    excerpt: "Sapphire Venture plans to invest over $1 billion in AI enterprise startups, doubling down on the technology's adoption by companies across the world, its president Jai Das said at the Reuters Momentum conference in Austin on Tuesday."
+    publishedDateTime: 2023-07-11T17:15:00Z
+    webUrl: "https://www.aol.com/news/sapphire-venture-plans-invest-over-141541787.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/cffe022dc8d35ca2bc3d7072aac20950"
+        width: 800
+        height: 543
+        isCached: true
+
+secured: "S7P+xJCtjQukIZf/Y3QEy13PHcz4reLJZCkcoi8XPoPLsNealeqGE2xnzt/cfrjPYzf5/HOr/vhCWBHyIXgAEqNg0BPJFypa3na2dfdL6jyn0+W69LCv8i09FhFWz4pzy6sfhgAeSIkdxK3egaYFq+G4RYL8vSPEgNrXoIYNyBnY0vuJfhDlIyOlSElBJtz+1kMTQRxjdW7MKM6QeMzZGZ4NjkxNFMd99gtMzjeDPeFN1DCq6G0rAWpAeX+lJ2U8pNZ+dR6wCI/aX/fYrv/5fQeAZ9ztQUmLd/htWwUhoESuC0Kjc0x9aZNNzUeY9kX3Cj/ivB73Vp7otWcLYT/08pBH7ESMuNEBBxE5xhmr+u0=;778kZgkq34A/sZUnCUxsHQ=="
+---
+

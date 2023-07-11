@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-emp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_3_ways_businesses_can_develop_technology._Colorful_futu_5067db3c-a533-4f1b-aa1e-19214cd4e44f.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "IBM Watsonx platform to power the future of AI for business"
+    excerpt: "Artificial intelligence (AI) has taken the world by storm and businesses that can harness the transformative potential of this technology stand to propel their operations into a new frontier of productivity,"
+    publishedDateTime: 2023-07-11T20:38:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/07/12/ibm-watsonx-platform-to-power-the-future-of-ai-for-business"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/12/2172357.jpg"
+        width: 1020
+        height: 700
         isCached: true
   - title: "A new dawn for generative AI shaping the business landscape"
     excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."

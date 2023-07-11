@@ -53,6 +53,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "AI revolution puts skilled jobs at highest risk, OECD says"
+    excerpt: "Law, medicine and finance sectors could be among most affected, according to organisation’s employment outlook"
+    publishedDateTime: 2023-07-11T17:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "G05VcjdzPBOe7G5wQACZh8AgIe7knHBlSU5vSMvz+DUYuqA8HNG9+u8n6yBGubjeA+vbjwA60DwLvdlP7irZter2oqVzzHJs31W7bRCk9V4sKYAZcE04CPKOdN2mkhIEDWw5qvdGXL7AdzdEN1CGK4sUjMWooc4hZj+HTSNl/66AVhbJ86aVxX4qW9o2kMaFs5fQls6M6p9+hn1/on1JjraDowlT1S7GIO+IPMvJtvxnujOQKjxXHeWa23QEjCLL6bFj52jbR4JP6DUg6hvx2NQJ+EzKW99H2gRCnmWwQ1+9JSZsPs8z3MoNQtNDnVJVK70tDcv9AjvTSRil9TAXYJ5rRxqzwb2AIioBC/y1f6o=;rQkaZ9jv2dtv4R+LfHSJKw=="
 ---

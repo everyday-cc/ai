@@ -81,20 +81,6 @@ related:
         width: 704
         height: 460
         isCached: true
-  - title: "Volkswagen is about to launch a self-driving car testing program in Texas"
-    excerpt: "This will be the first time that VW has tested self-driving vehicles in the U.S. The move comes just months after a multibillion-dollar VW and Ford Motor Co. project with self-driving car startup Argo AI LLC came to an end after the latter shut down."
-    publishedDateTime: 2023-07-07T02:07:00Z
-    webUrl: "https://siliconangle.com/2023/07/06/volkswagen-launch-self-driving-car-testing-program-texas/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/Small-16703-VolkswagenGroupofAmericarollsoutautonomousdrivingvehicletestfleetwithID.BuzzADvehiclesinAustinTexas.jpg"
-        width: 1500
-        height: 1893
-        isCached: true
   - title: "Self-Driving VW ID. Buzz Will Start Testing In The US"
     excerpt: "As part of its future expansion strategy into more US cities, Volkswagen has announced its plans to conduct tests on self-driving microbuses in Austin, Texas. The brand will utilize the autonomous technology developed by Mobileye to operate a fleet of ten all-electric ID."
     publishedDateTime: 2023-07-08T18:50:00Z

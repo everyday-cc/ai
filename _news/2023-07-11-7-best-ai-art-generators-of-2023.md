@@ -252,15 +252,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "Seniors still skeptical of AI-led healthcare, new study shows"
-    excerpt: "While patients acknowledge AI's ubiquity, they are not yet willing to cede the role of primary care and therapy to AI, a new study shows."
-    publishedDateTime: 2023-07-07T04:20:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/seniors-still-skeptical-of-ai-led-healthcare-new-study-shows/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 34
   - title: "Healthcare’s AI revolution is well underway"
     excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
     publishedDateTime: 2023-07-07T18:42:00Z
@@ -288,6 +279,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
+  - title: "Software Company CEO Believes AI Will End Healthcare's Labor-Intensive Paper Chase"
+    excerpt: "According to DataLink Software CEO Ashish Kachru, the healthcare industry can learn valuable lessons from other sectors that have embraced technology to streamline processes. Kachru believes that leveraging artificial intelligence (AI),"
+    publishedDateTime: 2023-07-11T12:40:00Z
+    webUrl: "https://www.techtimes.com/articles/293654/20230711/software-company-ceo-datalink-software-ai-healthcare-labor-intensive-paper-chase.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 28
   - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
     excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
     publishedDateTime: 2023-07-07T19:44:00Z
@@ -298,6 +298,6 @@ related:
       domain: menafn.com
     quality: 5
 
-secured: "dC/S96Hg5Twl+WlOVDGMEW8U6C05sZfDCwTMwoFw3ZhhOB9sNdGbfLpE7WeJXqWXpCfoPPopnJKjO97xgkzYDa3MjkUV+nYJ+zxazPLYz+ly/3tX64bBt8vYW3zcceeDuoWTwRnHyp9CfSGwSRTy5VWB1qm4MQwcSyNUtvuKGEbmdS+zVk+VVq/wgXBj/rAA0yxQvoybJ5RZgsQD2UlrvTDRtoEYDooKx7ENM8EmVXQDeqmOigVpxUPKGqq3R3aG7wCOA5oNER0r5rc0Lc8dwtS3MOo8oQ4Kh295Mt9+5cBBGk6JYLj5QL9pMD2Bt8XxG5xH3LSNyraIwwd+3hY74TXylU8T8zN3/MZOfb3kjOM=;MpTA2j8XvEVoSz0bqh9jaw=="
+secured: "by0lKUyKDYr6xQCfYDU/X9sJ9Ad2Tu+o26lqXAQkgKrgBTgu2D69eVo+p6KdhvfsQAxiE2R7dGYJmsd7mF7xgESVrdLUHcWwyj5zvhqWJq+tlDprC0RlRtU8LxboLixlsJRq3naninPVyEMSGDiKZW8mrWKxj0i377y/W5JPE2TGiaNlL3Jg/29lMxQoMPSiWCkQYor9ej/Rd9jsb4HHHlnrj1ygVlU6Wi6v75IF+PABsJZjn7XH0gp/Vp1ViSsw6j6dzFa9dywVEispygfBv9sdyGIo2TWT4Vucld4ttRXhWcR2bpGkjaFRHTJK12av0OmCKqf6f8vOokErcsfpL1ShAczX0k8vhnug72fhszk0sRxfh/lkIETTpgbuugWtlGodvnG++VGPwH5sPF9mUM7MoQOZi0KHKARxG0hei7lZ+bJaOGehJXt50avKz8iqBBPiunpwBf3/TkD9xk0F4l761Zx87IYb9LPyvcDkGONMLz14oS2QMNPG4FFW8UTxqmRKMFaIljiJyurD+8hHCA==;WyazaL8AfRokkzpqPGnO/w=="
 ---
 
