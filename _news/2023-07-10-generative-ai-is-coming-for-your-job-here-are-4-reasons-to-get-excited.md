@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-coming-for
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
+  - title: "Government warns on generative AI use"
+    excerpt: "Positioned as a baseline policy that will evolve over time, the Digital Transformation Agency’s (DTA’s) new Interim Guidance for Agencies on Government Use of Generative AI Platforms outlines four core principles that delineate its perception of the key risks posed by generative AI technologies."
+    publishedDateTime: 2023-07-11T01:04:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/government-warns-on-generative-ai-use.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/gen%20ai%20govt.jpg"
+        width: 999
+        height: 563
+        isCached: true
   - title: "Enterprise hits and misses - generative AI wants to take your job, but will it? Edge computing has traction, and (almost) nobody likes Meta's Threads"
     excerpt: "This week - generative AI is coming for your job - or is it? Fresh data sharpens the enterprise AI pursuit. Informed Buyers look for new sources of influence, while edge computing may have more customer attention than AI."
     publishedDateTime: 2023-07-10T09:32:00Z

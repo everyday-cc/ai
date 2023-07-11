@@ -51,20 +51,6 @@ related:
         width: 1075
         height: 1280
         isCached: true
-  - title: "UBS Teams up With Financial Solutions Fintech"
-    excerpt: "UBS enters a strategic partnership with fintech Numarics to help Swiss SMEs with their financial and administrative tasks."
-    publishedDateTime: 2023-07-06T08:20:00Z
-    webUrl: "https://www.finews.com/news/english-news/58170-ubs-teams-up-with-financial-solutions-fintech"
-    type: article
-    provider:
-      name: finews
-      domain: finews.com
-    quality: 24
-    images:
-      - url: "https://www.finews.com/images/cache/105e3f3a8b332e5c466c997dc4086725_w500_h300_cp.jpg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
     excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
     publishedDateTime: 2023-07-09T18:16:00Z
@@ -74,15 +60,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
-  - title: "E-Gates Launches Fintech Solution for Digital Asset Management"
-    excerpt: "Gates, a startup developing software solutions for fintechs, has launched its universal platform. Its flagship offering combines a unified solution for managing web2 and"
-    publishedDateTime: 2023-07-06T09:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ac33128595/e-gates-launches-fintech-solution-for-digital-asset-management"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
 
 secured: "gnKZN+C9bG+R9lo3dtIc5SDuXLPp0FcZB7g3kPDAJA0z2UcQ4ysD2QSlPSnRYijjFyyfdnYVFb7lB2waY/JkHq9lJekAN/Rz6VF/9KTULEAX7LLr8LRJ7qxZDprJd+9/jKuXr329VfBGQuv+XuseW4effubixZUMmsBp87N9vCUZK+qJ2TJfWr7qcCnx0TJ8BwD+HJODneXmB3D0gkJdcVDfnDoCDTGCd+aMnnejDuASrMpOO1ZTgkui5vazGiRaPlFkcK04UqKfq59zUieNc9nhW13CMSEtS0yy2RSho5CwLF3C/ijYKnaLgCUYJqIybYmwjxUl3lo/aFQJzqqCQ94syC3Af6qJeW9HcgZb+wE=;FT/ESNEu9TQRiKezJC5Uuw=="
 ---

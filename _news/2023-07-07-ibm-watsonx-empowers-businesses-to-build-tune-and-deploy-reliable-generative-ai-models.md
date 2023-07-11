@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-emp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?307890"
         width: 351
         height: 250
+        isCached: true
+  - title: "A new dawn for generative AI shaping the business landscape"
+    excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
+    publishedDateTime: 2023-07-10T23:59:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-ai-business-transformation-leads-to-an-unprecedented-leap/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/NEC-is-redefining-customer-experience-by-creating-customized-generative-AI-solutions-that-can-unlock-novel-business-value-scaled.jpg"
+        width: 2560
+        height: 1703
         isCached: true
 
 secured: "DbE5o8DJPtMwvHw2RLLWwkorkeljo+ASoMeJw1XgcGyObksuJ7O0AAH/dJLGta+yHEi0zyfV31qVZFlwb+zevgx/f1Ivd8Gyac8+aleKNtVSdTzh7MM2bfCd0srKOqKEo1u3APZu33/M/P+2vN6jWTs1DLzgfqKMXQFg1iBRVsjmxAH7gfV4f6Ux0yq5rSNC1L+kdCaVbYTf4YALZ7GF40TZNS6BJClawpj9Zx0AG0ujPrs0/f7Y3m/pcsECMhjnrHs8Ctl+byTDIaI8+ckhjx9S73dPA/bh8slQBXK9fYSCF6iMXiLB5DcWDI0fKPokTuulX3zOBR+539mLVjKY7GZEToYKgfXwI8tErPdg+8E=;TytLZ9/mwmiAl74To9C86A=="

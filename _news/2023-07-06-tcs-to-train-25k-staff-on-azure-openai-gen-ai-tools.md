@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-eng
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2018/11/TCS.jpg"
         width: 884
         height: 663
-        isCached: true
-  - title: "TCS to Train 25,000 Engineers on Azure Open AI"
-    excerpt: "TCS on Thursday announced plans to significantly scale its Azure Open AI expertise and plans to get 25,000 associates trained and certified on Azure Open AI to help clients accelerate their adoption of this powerful new technology."
-    publishedDateTime: 2023-07-06T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/tcs-to-train-25000-engineers-on-azure-open-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/tcs-fy23-1.jpeg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Sarah Silverman sues OpenAI and Meta claiming AI training infringed copyright"
     excerpt: "US comedian and two other authors say artificial intelligence models used their work without permission"

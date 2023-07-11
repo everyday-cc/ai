@@ -1,0 +1,47 @@
+---
+category: news
+title: "Jury chosen in trial of Las Vegas police officer accused of stealing $165k in trio of casino heists"
+excerpt: "A jury was seated Monday afternoon in the trial of a Las Vegas police officer accused of stealing nearly $165,000 in a trio of casino heists"
+publishedDateTime: 2023-07-10T23:34:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
+webUrl: "https://abcnews.go.com/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
+type: article
+quality: 30
+heat: 30
+published: false
+
+provider:
+  name: ABC
+  domain: abcnews.go.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_93a8060eeb7d98a9f528f9d5ca8104aa_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+related:
+  - title: "Las Vegas police officer accused of stealing nearly $165k in a trio of casino heists to face jurors"
+    excerpt: "A Las Vegas police officer accused of stealing nearly $165,000 in a trio of casino heists is scheduled to face a jury this week. Jury selection began Monday in the trial that’s expected to"
+    publishedDateTime: 2023-07-10T20:03:00Z
+    webUrl: "https://www.mcall.com/2023/07/10/las-vegas-police-officer-accused-of-stealing-nearly-165k-in-a-trio-of-casino-heists-to-face-jurors/"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 10
+    images:
+      - url: "https://www.mcall.com/wp-content/uploads/2023/07/Vegas_Officer_Casino_Heists_69459.jpg?w=1024&#038;h=687"
+        width: 1024
+        height: 686
+        isCached: true
+
+secured: "+krWB2yAUXCjK2jvF6D8qlf6RQtAi7DH9f8+oyiq2WVx/CmIKwmyYoPgRUpXk9d8COkTHgZ9fN8rXP8hXH72d5Gn6Q7AZbk2qMIGM/ZGVQ++NHxLaxox+DNV4xsNdgiSW2calU20ukt6cEu7hRLdEletloWwVjbJ/EQWcqRfJK+Zjx6kh4GI+v/a/lBKdGTZ1reQwOpzZ9SDPnrrM8yKst3QyE5hPezY9A/SMuK3n8rY200i2KlW1/iAD2TQ5H5iO4LfNc17C643vgkjOKjpNyqACPlRZxBXFMMPx+BOBMxGDgOcSjCA+xlEXPQ3R3/4pAn9qNq8dG0ildX3T9g5zfaP9zCkaT8VoOAd/SJu34I=;h0xLsk3txiVX8GUBuMWzxw=="
+---
+

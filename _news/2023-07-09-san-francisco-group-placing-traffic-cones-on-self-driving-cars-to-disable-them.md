@@ -72,15 +72,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 34
-  - title: "San Francisco startup Pano AI raises more funds to spot more wildfires"
-    excerpt: "Pano AI announced on Monday that it had raised an additional $17 million that it described as an extension round, bringing its total funding to $45 million. The new funding also came with a slightly higher valuation,"
-    publishedDateTime: 2023-07-10T18:34:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/07/10/pano-ai-wildfire-detection-seriesa-extension-round.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "wCpPWtG8gwKYcezsPQksm8vek+q5KCOHDK+THA/rVfkdTtNU3kKDh59lRU/aVBU7tQfYt2rdkKAn6v03a017zzXho7QTzd8eZoR4cQNgSyiIlWiIWI0D+7IpMR5ioz0AlOyCLp6HhHdAs0vLGy4lq3aDYSeF8sUbbVAimLE2YEpWDSbYDQA9ZAoO7X9Dcj1+9fF/EIp+RndaIeCOqJg1ff5uhkxqCYUOT1oZNkliQGA7EFMHtS2txSFjbWhHJc0UKTDjq6SmVLK1HYSbCdw/KwzQqq1gfvvFO3g0SlfudeLRGFnObt+ObRjIDzh296O0WyFn4+1AmSE8VoHoNidftMKWp1KG5a6v0mR15B18IxYE/m170UJ2NmJdDodFYkZR5Cqnnx3J16/rGpaELbm+sxHx4AW4qyegVHK6+kxirTbHlU1AvxbnJUecQ2h4nJJKma5qrbS+xSvL8QIlKBaVvbBl//j9i+YYn7HLELQF4o6mFVsnf/RaU1inSlCpummvt/AXVQGEjr8RD8CHnLCgDg==;cUPy9iCVRDAtuiYWBIaR2w=="
 ---

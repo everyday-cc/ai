@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-10T19:42:00Z
 originalUrl: "https://www.theverge.com/23778745/demis-hassabis-google-deepmind-ai-alphafold-risks"
 webUrl: "https://www.theverge.com/23778745/demis-hassabis-google-deepmind-ai-alphafold-risks"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Google AI
   - AI
   - AI Hardware
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/YplCPWLGEe8tmfSGj2nBwBlGZBs=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24761299/AParkin_DHassabis_Decoder_071123.jpg"

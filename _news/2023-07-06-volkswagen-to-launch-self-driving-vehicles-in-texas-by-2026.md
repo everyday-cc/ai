@@ -57,6 +57,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Driverless taxis to start paid service in Beijing"
+    excerpt: "BEIJING: A larger fleet of driverless taxis will soon be available for hire in the capital city as the Office of the Beijing High-Level Autonomous Driving Demonstration Zone has decided to launch the commercial operation of autonomous vehicles and expand their serviceable area."
+    publishedDateTime: 2023-07-11T01:21:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/11/2170762.jpeg"
+        width: 1198
+        height: 813
+        isCached: true
   - title: "Self-driving cars from Volkswagen to be tested in Austin"
     excerpt: "AUSTIN, Texas - Joining an ever-growing number of autonomous vehicles in Austin, Volkswagen announced plans today to start testing a fleet of self-driving electric ID. Buzz vans. \"We are excited and ready to roll out our autonomous pilot and test fleet in Austin,"
     publishedDateTime: 2023-07-06T16:57:00Z

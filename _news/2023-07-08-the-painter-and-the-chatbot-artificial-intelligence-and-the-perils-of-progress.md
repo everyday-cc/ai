@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hospitals begin test driving Google’s medical AI chatbot: report"
+    excerpt: "Google has begun working with several hospitals, including the Mayo Research Clinic, to begin incorporating the tech giant's Med-PaLM 2 AI chatbot to provide healthcare advice."
+    publishedDateTime: 2023-07-11T01:44:00Z
+    webUrl: "https://www.foxbusiness.com/technology/hospitals-begin-test-driving-googles-medical-ai-chatbot-report"
+    ampWebUrl: "https://www.foxbusiness.com/technology/hospitals-begin-test-driving-googles-medical-ai-chatbot-report.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hospitals-begin-test-driving-googles-medical-ai-chatbot-report.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 57
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A technophobe’s guide to AI chatbots"
     excerpt: "While the risks are real, it’s becoming increasingly clear that systems like ChatGPT aren’t going anywhere. Are you ready to use them?"
     publishedDateTime: 2023-07-10T09:36:00Z

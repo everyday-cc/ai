@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-ki
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 1075
         height: 1280
         isCached: true
-  - title: "UBS Teams up With Financial Solutions Fintech"
-    excerpt: "UBS enters a strategic partnership with fintech Numarics to help Swiss SMEs with their financial and administrative tasks."
-    publishedDateTime: 2023-07-06T08:20:00Z
-    webUrl: "https://www.finews.com/news/english-news/58170-ubs-teams-up-with-financial-solutions-fintech"
-    type: article
-    provider:
-      name: finews
-      domain: finews.com
-    quality: 24
-    images:
-      - url: "https://www.finews.com/images/cache/105e3f3a8b332e5c466c997dc4086725_w500_h300_cp.jpg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "AI frenzy bites into fintech"
     excerpt: "Driving the news: Fintech has been a primary victim. Some 64% of investors at Collision said AI/ML could become the most disruptive technology in the next five to 10 years, per a Pitchbook survey. A year ago, the hottest category was fintech/blockchain, with some 29% of investors. Dollar figures reinforce the narrative."
     publishedDateTime: 2023-07-06T16:15:00Z
@@ -75,15 +61,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
-  - title: "E-Gates Launches Fintech Solution for Digital Asset Management"
-    excerpt: "Gates, a startup developing software solutions for fintechs, has launched its universal platform. Its flagship offering combines a unified solution for managing web2 and"
-    publishedDateTime: 2023-07-06T09:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ac33128595/e-gates-launches-fintech-solution-for-digital-asset-management"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
 
 secured: "6YYW04bPh8uuhb5N1MnEPog2dMIIE9r3ufUSeoG5TRL14RlH+xKX2y99xe8hqUxqArSrUximB6BwuBeRuQkjqAjnYOAFEWXZTYzDdVWNxUqpXEfvhNIoZIHvfDP28SRc4KO7qXpT+T3ypO0rGDjN6/hLvIs2Z8MutWLoNoL/o6Zw11Sz/4gsNdPbQEs4XdW1m/p2seodBlpGTpD/AoA1gFNx7+Ayydj4QeBE5MSKtu18dZlW3lqG4PJP7yFdUG7pOCwol0jGJO6k3trdsDunmfBtJ27fQ5I2md6yFt6EwuQWGgncNz8MjqCrrFRo/u5N0Uwucci6H4xayd83Zo0AEzmCkvUlyemX1eHSHmUTMbW69GBatPP0xNl24sgfOiWJJtqHPY2jHyqosSi7Z1NzdfZSEq33vSV1CKNUo0yzamcHf52Jx1dc33VEofpmOKN0+WMfZGFRa1koCHZSWHU85iR5tSZfYwqAPUvVXau9kH5vLPJQdcCNDI5/7eO5dmWsoEm0VKCnXmUbkN+j18qoLQ==;hhnmP9VCPbM46lwC/JINnA=="
 ---

@@ -52,6 +52,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
+  - title: "Government warns on generative AI use"
+    excerpt: "Positioned as a baseline policy that will evolve over time, the Digital Transformation Agency’s (DTA’s) new Interim Guidance for Agencies on Government Use of Generative AI Platforms outlines four core principles that delineate its perception of the key risks posed by generative AI technologies."
+    publishedDateTime: 2023-07-11T01:04:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/government-warns-on-generative-ai-use.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/gen%20ai%20govt.jpg"
+        width: 999
+        height: 563
+        isCached: true
   - title: "The Next Platform for AI-Generated Art: Your Bicep"
     excerpt: "Twelve days before last Christmas, Marina Rosa, an artificial intelligence engineer in São Paulo, Brazil, walked into a neighborhood tattoo parlor and laid her left arm on the table. Rosa then asked artist Nadine Guerra to give her a tattoo made up of various elements,"
     publishedDateTime: 2023-07-08T12:59:00Z

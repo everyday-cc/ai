@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/want-to-build-your-own-ai-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
 type: article
 quality: 87
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/google-ai.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Hospitals begin test driving Google’s medical AI chatbot: report"
+    excerpt: "Google has begun working with several hospitals, including the Mayo Research Clinic, to begin incorporating the tech giant's Med-PaLM 2 AI chatbot to provide healthcare advice."
+    publishedDateTime: 2023-07-11T01:44:00Z
+    webUrl: "https://www.foxbusiness.com/technology/hospitals-begin-test-driving-googles-medical-ai-chatbot-report"
+    ampWebUrl: "https://www.foxbusiness.com/technology/hospitals-begin-test-driving-googles-medical-ai-chatbot-report.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hospitals-begin-test-driving-googles-medical-ai-chatbot-report.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 57
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The Painter and the Chatbot: Artificial Intelligence and the Perils of Progress"
     excerpt: "It was revealed that A Girl With Glowing Earrings was the product of an artificial intelligence program that creates images from natural language prompts."

@@ -23,19 +23,10 @@ topics:
   - AI
 
 related:
-  - title: "AI Stocks: Here’s Where to Invest $1,000 Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the dynamic landscape of AI stocks, it’s crucial to carefully"
-    publishedDateTime: 2023-07-06T21:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-heres-where-to-invest-1000-right-now-1032431105"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 AI Stocks That Will Skyrocket Before 2025"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence is everywhere and has become a hot trend."
-    publishedDateTime: 2023-07-10T22:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-will-skyrocket-before-2025-1032435959"
+  - title: "3 Machine Learning Stocks That Will Skyrocket Before 2025"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investing in machine learning is often thought to be synonymous with investing"
+    publishedDateTime: 2023-07-10T18:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-that-will-skyrocket-before-2025-1032435697"
     type: article
     provider:
       name: Business Insider

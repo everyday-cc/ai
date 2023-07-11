@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 1217
         isCached: true
-  - title: "UBS Teams up With Financial Solutions Fintech"
-    excerpt: "UBS enters a strategic partnership with fintech Numarics to help Swiss SMEs with their financial and administrative tasks."
-    publishedDateTime: 2023-07-06T08:20:00Z
-    webUrl: "https://www.finews.com/news/english-news/58170-ubs-teams-up-with-financial-solutions-fintech"
-    type: article
-    provider:
-      name: finews
-      domain: finews.com
-    quality: 24
-    images:
-      - url: "https://www.finews.com/images/cache/105e3f3a8b332e5c466c997dc4086725_w500_h300_cp.jpg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "AI frenzy bites into fintech"
     excerpt: "Driving the news: Fintech has been a primary victim. Some 64% of investors at Collision said AI/ML could become the most disruptive technology in the next five to 10 years, per a Pitchbook survey. A year ago, the hottest category was fintech/blockchain, with some 29% of investors. Dollar figures reinforce the narrative."
     publishedDateTime: 2023-07-06T16:15:00Z
@@ -75,15 +61,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
-  - title: "E-Gates Launches Fintech Solution for Digital Asset Management"
-    excerpt: "Gates, a startup developing software solutions for fintechs, has launched its universal platform. Its flagship offering combines a unified solution for managing web2 and"
-    publishedDateTime: 2023-07-06T09:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ac33128595/e-gates-launches-fintech-solution-for-digital-asset-management"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
 
 secured: "vm6XGPjJvbQlMdLTqTE723+D8rLsHM6R24W2mn8P0Xcxb/L0tixuQRdKAVWuphK+rMcgpFCjSc9fnZM7FvYP8KIO0svZWeFQmAW1cOF5aBjfJe3jH0HjxZ18fwwv8GgGtEYCsu0Kfu169NpvXuuNAXcnTa30TBesWzv99zLCJp7jfMJxwdJrTspWIqVcQOPOHqkvDuWPiDDrtscOYkjXbMyuWiztNT2j5dHLAdN5QIGtdVBl/7pnPI8Ul38WNTe95CUFe+U+DB8Gvm++Di6u8hc31lMmaGtrnDwSJPrBCIXjBF2VbMgTQtyDioEr8QXJz54vhm+jraRqJ0YyaUIQUdQF2B9U2o4rARWRTIaR1mmA/2Ct/0xvZtEkAkcKP3Kfm6gk2yOTEwuOwKg8ajikM+EZRVh8jiLnYL7pMrXAO6KIfaRKBrYq6oSEjuwCd17xoDvD69LP2r8NENIgr/vJtjk7Kz1mGcWQLeoo6Pr9q6EQE02TJrsy2Zu36Agxsxo2V70kprDaFhAfZz2UtKY1Pg==;l6yWSt46ZazikBV9ewjNEA=="
 ---

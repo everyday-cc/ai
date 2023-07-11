@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/enterprise-analytics/ai-tools-help-busines
 webUrl: "https://venturebeat.com/enterprise-analytics/ai-tools-help-businesses-reimagine-reach-out-to-customers/"
 type: article
 quality: 67
-heat: 71
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat

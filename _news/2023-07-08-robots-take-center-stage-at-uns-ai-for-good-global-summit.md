@@ -38,7 +38,7 @@ related:
     provider:
       name: Livewire Markets
       domain: livewiremarkets.com
-    quality: 19
+    quality: 23
 
 secured: "B2sRnWos4raKz5Rx954ctjD5S0ttT4KAjSI4IlQnKcRD2DIkHI3dB1C0SFHtFebEdxkhoer0NknLORZf4cpOnor7Dj+eQFnSO0U+ikd95Lz6afZnyPUCfjtyOnZ2KSvBPHT3FhIr0pLrfPtjIM/Qv2uG1SwucALmqewK1MYRN70OzH1GUv9wJLt/ETb6xN9Smsz6V+JtA8b8gIpja1GEpHHkJpxLC7hikfAQHL+alUxnsqvqoikUUcOucVjkxpFCy0XX38Thj7qTHc9mWt52N7aZ8tihcqh252NCGUkRHzhtFCusNY8VL59uCDnFhhmsnmUp6Fk2uH6DNWsK1oVGtwWNyJHi5+gi8BClahc6aEc=;bR5PmXatyd1F5cSD/eqCbg=="
 ---

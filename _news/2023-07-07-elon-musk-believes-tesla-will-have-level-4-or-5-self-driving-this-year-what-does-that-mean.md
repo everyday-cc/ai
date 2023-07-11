@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Musk Predicts Tesla Self-driving Cars 'Later This Year'"
-    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
-    publishedDateTime: 2023-07-06T07:34:00Z
-    webUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
-    ampWebUrl: "https://www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP1139930421076092946202235115251316877702---1.jpg"
-        width: 768
-        height: 511
-        isCached: true
   - title: "NHTSA Looking Into Details on Tesla’s Self-Driving Changes"
     excerpt: "U.S. automobile safety regulators at the NHTSA are zeroing in on changes that Tesla has made to its Autopilot partially automated driving system."
     publishedDateTime: 2023-07-06T17:37:00Z
@@ -89,22 +73,6 @@ related:
     images:
       - url: "https://i.gadgets360cdn.com/large/modelx_tesla_1688354727193.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "\"Very Close To Achieving Full Self-Driving Cars\": Elon Musk"
-    excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
-    publishedDateTime: 2023-07-06T07:57:00Z
-    webUrl: "https://www.ndtv.com/world-news/elon-musk-says-very-close-to-achieving-full-self-driving-cars-4182313"
-    ampWebUrl: "https://www.ndtv.com/world-news/elon-musk-says-very-close-to-achieving-full-self-driving-cars-4182313/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/elon-musk-says-very-close-to-achieving-full-self-driving-cars-4182313/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 44
-    images:
-      - url: "https://c.ndtvimg.com/2023-05/4aa9uhmg_elon-musk_625x300_22_May_23.jpg"
-        width: 1280
         height: 675
         isCached: true
   - title: "Elon Musk praises China’s AI prowess, expects Tesla to achieve full self-driving later this year"

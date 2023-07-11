@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-10T22:21:00Z
 originalUrl: "https://www.livewiremarkets.com/wires/artificial-intelligence-global-use-cases"
 webUrl: "https://www.livewiremarkets.com/wires/artificial-intelligence-global-use-cases"
 type: article
-quality: 19
+quality: 23
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
+  - AI in Autos
 
 related:
   - title: "Robots take center stage at U.N.’s AI for Good Global Summit"

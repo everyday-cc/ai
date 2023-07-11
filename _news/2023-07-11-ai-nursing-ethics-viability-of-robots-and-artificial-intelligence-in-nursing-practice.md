@@ -1,27 +1,31 @@
 ---
 category: news
 title: "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice"
-excerpt: "Robots and artificial intelligence (AI) are expected to play a key role in nursing practice in the future. In this regard, researchers from Japan ask whether intelligent machines can replace humans as nurses."
-publishedDateTime: 2023-07-10T19:49:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
+excerpt: "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments, such as the introduction of autonomous vehicles,"
+publishedDateTime: 2023-07-10T19:06:00Z
+originalUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
+webUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp"
 type: article
-quality: 71
-heat: 71
+quality: 81
+heat: 81
 published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
-secured: "44wcGevkO48PNe4N55bJjf2TmLZsj/Vez3ofuKEoEvXgrmqZfPnr+b2gCor3CnVtdslNutIaBYXsngyQKtUjssV1S+1oPkM7C+o4KQAgdCzannDMEcl0T/6C2USvkJupFElCxjr+9BsE2kwri7/x+eghPsn6YoBmNCOhlAHqPltfeANe6Gf1JKUezdnyU7eRIG18npeJa+U/plt5j8fxAumj5qDCJw/M/JYIHUbjysz1PHtTO50wTS+Wp1nr2HbqkUXVahTIqB9tZN9TPyU5Sxgq0u+SsHZt/iUDtVAC58CNG3UNJD/o8zG2HoMD+X/mwLl++j6vc9rXqx9YKil6SbNXtdPyYkJvPxKSgpkUH5M=;yd8Mv6M8nEAnP6NyeqUvCQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "tWytftgNAe9MmTg3CacwfM1zZzSop1bNEkpFyGZkG68Npav2rC1L/ioGeLLqhXF+MW/GmF21HjUGSLQ+Cp5gXV5RFpqnfr6q0oJbq3ybdAVBvf2gRl10VK9MeA0Tv1gk+92qmRczHDUYGH1seF0BdJMIumqLtEh06B2t1GcXXNkT/hEgcpEUrIVvtqg+kOvNGNicEzBcJIFWqSW/itSqskNbPuoUKcyB4Gr17Vqh4jZvjXeH6hb1wqZHgxDzkw/yZmBvZ8e1Kjk4ajxdlcuiY3Oydnxy57CMxZU4k1Wn6eAQbNCful7PMSJ3yYESUsYsyo6/bapNFFDHPc7QXLb2dtNt0gXc8qgyIxsFT3kkwa8=;PT6yEfa727AwOHWT9BbbqA=="
 ---
 
