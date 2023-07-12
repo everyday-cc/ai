@@ -59,6 +59,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Discord bans teen dating servers and AI-generated child sex abuse material"
+    excerpt: "After allegations of grooming and extortion on Discord, the platform is expanding on its safety policies and improving parental supervision."
+    publishedDateTime: 2023-07-12T09:48:00Z
+    webUrl: "https://mashable.com/article/discord-teen-parental-policy-update"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 65
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/02WIBj3c88ILOeyym8bZmf3/hero-image.fill.size_1200x675.v1689153934.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "YD6sDT5LG7DHIJLxR7kZBDB5ax78xk7A0m70uI1LwdkhSrqnXS8rc+3+5lyvBvrJqe/MYhpcE3qpCjvEPqDjPYpqQGzsbrGHlrpxiDMxljKuwYI/PDMKAxPRK9dYrD/KJRvdzHibJP3tKFidR0RlchQrwzT0fNXk0xk860k6tQXFQYfVz6CHa7jA7JG12UQY4cNTGY5Q4vf0L6yC5Ws1s748mVvK35D92H9Bp4J/gvfuELtUd8SeRl208MyWUCZ2qiXGvKaDemTp6IULRR2MZ6mm7VBkkGgM8tIAXC6cPZUnE3EOIxGvQYSPIJP9aScsqQ+O/45ZGRG6e174Y+Qtf1HGnpgIOEFQD/0FtxKkRRyPoqSjmPjdIputPR0XuF2c4V6etxqMfFNpUQmTgYk57IwUGt+VI8xLgDdoO0aKilxmlOpV2z7Q7VTEYK3mWIuyIZBHosglYw226XeK6a3qjGVdFDXD+SiFSyuC6QDPYO/30kISNQbCY0K0/jspZPQXwXuhBHmxaJFRpjW61zYg+g==;5U8fTjNYvvXN1WnAYF05Gg=="
 ---

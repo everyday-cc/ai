@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/jeff-bezos-and-bob-iger-top-su
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/jeff-bezos-and-bob-iger-top-sun-valley-list-with-ai-and-streaming-in-focus/?amp=1"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -18,22 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Amazon CEO Andy Jassy on making AI chips, Prime Video spend, speeding up shipping"
-    excerpt: "Amazon CEO Andy Jassy spoke with CNBC for a wide-ranging interview about AI, Prime Video, and more. Here were some of the key takeaways (comments edited for brevity and clarity):… Read More"
-    publishedDateTime: 2023-07-07T15:18:00Z
-    webUrl: "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 79
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/10/0716-GW-Summit-2021105-1.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "FSq88KmHbvOU8IGM7r0D2L9p9L5lpCi+4/8g2uR7wXB9ltLwiT9ffW5ABgbGKlg2WT31BpluG6+rsxSKAqSe7xQ8rDABuG53IEZKgc/2jawJ0gT3UlkVSIx+qiElXgpAvUeNntEKGBCy2EFiX2+9K+5tgMcBGYD7YSvfvRWlqRqE1GX8E07z6+aO8ixuXCEj1Kk+VtllgfPG/XRYUHWKE2IUxX6mQOxFuDBqIws1zncNIIAOBIOYjApASn0w8NwxHLpjpM7PvjBCpDpKdQdxP8QqPXwtnZDL/LWtsxPwF96Gi7w6j00QSFXZuHAb2gfwPLnYE+ZLrN3Q1l0Kju5lkBqlDBCqlh4SiuotjtbGc+oXVM3PjpVLe1Z5J3czrzXv2vc6huKoUscpTmAfMulmEO86n0gjlLWmWQGYI49lj7aE2srIqj7lsUfgofg3LWYg5d/z81lzqlYkoam7AYyW+p9jPJOCzpEUfkkU4nU5ThaZhGunndtGBHfx5spQZ0TMWC0YOzMZGNjddSAaDu90Ng==;2WPKEI/FYbrazEK8ssMcLA=="
 ---

@@ -67,6 +67,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "HR using AI on the QT"
+    excerpt: "A Gartner, survey of 105 HR leaders revealed that just five per cent of HR leaders report their function has already implemented generative AI, while another nine per cent reported they are currently conducting generative AI pilots. Gartner HR practice VP ..."
+    publishedDateTime: 2023-07-12T08:13:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57239-hr-using-ai-on-the-qt"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/4901c5be5c86464530b4506991d76419_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "nSDA5yWJ/fO5e20wX6xlTtA9jgagl+ozVmiOqMhBp8yn1cBJmOgMBNwnbdkOxlnffHLe20iPedwGvQvwD3mTJXtm0Ea1f3/jnPenPfogHmtRc+ccy0m5MHpH79KPNXhec7LYdPmhsJ6tW8on9rz+pAHP4BFiebtU9nXqbuYn3EltzKpSRZ8BCbOLRPMVJJMV5FYGUpK6EKkMx1qIYCbG2xE5kbxqBnKa3KUqV6KI9g5vG0UlIjMD/0jw1r8m5hUtUKSXpfSgG8Ts5lXuvOhlh9KVu03ixU+FTvUejXkYQKAE6WuyGByKwlRYv/op2yqHJ2k/7Buw4vXK5JmZHo6QxC1znNFjB2bIaMI7x9QTAnLQIRiHjgOj6KSuYCsp110H3o0Vy4VMJMcz5pwA9cXC3Dzh0YevNgG8fq6XqzKQIvB3E/KwU7kH3XtY6LaLulrln8fu+YBxVxhpa2TW3ZPw/5WUHAL7MmWHqcsho5Xdr0jedzpmN8aHAhiIpwuR6uRdzuJm7oOP9KF/OYGaIaaWlg==;clzlbIgO/SI4XlhjQurDkQ=="
 ---

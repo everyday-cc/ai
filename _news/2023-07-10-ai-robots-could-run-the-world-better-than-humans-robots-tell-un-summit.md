@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-cou
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
 type: article
 quality: 104
-heat: 264
+heat: 244
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/1dc3a963-18dc-48a8-9af3-bfd14282f792.jpg"
         width: 740
         height: 492
-        isCached: true
-  - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
-    excerpt: "The event was part of the AI for Good Global Summit, meant to illustrate how new technology can support the U.N.’s goals for sustainable development."
-    publishedDateTime: 2023-07-07T16:40:00Z
-    webUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/"
-    ampWebUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
-    type: article
-    provider:
-      name: KSWO ABC 7 News
-      domain: kswo.com
-    quality: 64
-    images:
-      - url: "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/KUsmE_fZwT9E1GMvlLpS1p04jIM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RPPVKPDFLVFGTOTU3W27LARP4E.png"
-        width: 800
-        height: 450
         isCached: true
   - title: "Human-looking robots tell UN they could run world better, but won’t rebel"
     excerpt: "Robots tell UN summit humans should proceed with caution when embracing rapidly-developing potential of artificial intelligence and admit they can't -- yet -- grasp human emotions"
@@ -236,20 +220,6 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 28
-  - title: "Robots take questions at Geneva press conference, say they could be better leaders than humans"
-    excerpt: "Ameca, engineered with social interaction in mind, dismissed the idea of starting a possible robot rebellion in the near future."
-    publishedDateTime: 2023-07-07T16:01:00Z
-    webUrl: "https://www.courthousenews.com/robots-take-questions-at-geneva-press-conference-say-they-could-be-better-leaders-than-humans/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 27
-    images:
-      - url: "https://www.courthousenews.com/wp-content/uploads/2023/07/robots-geneva.jpg"
-        width: 3000
-        height: 1962
-        isCached: true
 
 secured: "ldl7RrnmEyljt7GjEuf49J7/Odg/gjWH47C8LluIhcunHHUb6Du4NzspuY6Dj1wyxI4d00jFkX3DNsv7BsfyIrFSHmH1gYCmzAiPrYN620CYQiTtzCYGTwsxsnl2T+FHOPGhQIGSwpuliKlvFxMow7Q1POVRft0/zFCt2NRc5HksWeAsvk4Cfoy6AMswEOWsFWxbS1tWIsjY7InN5f9zy5bB+GawCxMS029WXateavJTSRY1xUTbIX2R7ewdhj857AygWhSHZBmLFbK1HKk7XH8k/UhpWXDc95zFqsdWn/4G/lqyXT+IIq1YQkmuXMhsfOt9DAL+8PiDn/chw9Ikk32yUA0uEJgplnrt2TAeNhQ=;rziMuZHRqvZ1CEcd3CeUhw=="
 ---

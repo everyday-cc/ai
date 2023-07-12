@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "UK and Australia law enforcement facial recognition projects under public microscope"
-    excerpt: "The UK police in Northern Ireland are debating facial recognition and biometric data retention rules, with some stakeholders calling for more transparency."
-    publishedDateTime: 2023-07-07T15:54:00Z
-    webUrl: "https://www.biometricupdate.com/202307/uk-and-australia-law-enforcement-facial-recognition-projects-under-public-microscope"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg"
-        width: 2048
-        height: 1360
-        isCached: true
   - title: "A fraudulent presentation of Australia’s Indigenous Voice"
     excerpt: "Indigenous Affairs minister Linda Burney’s address to the National Press Club was based on the assertion, contrary to all historical experience, that the Voice would provide “practical” solutions to the appalling social conditions impacting the Aboriginal population."
     publishedDateTime: 2023-07-10T04:45:00Z

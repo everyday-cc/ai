@@ -35,20 +35,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "DigitalOcean Rides AI Wave After Acquisition: Here's My Trading Strategy"
-    excerpt: "DigitalOcean Holdings (DOCN) has announced they are acquiring the cloud computing and AI startup Paperspace for $111M in cash. DOCS surged higher Thursday on the news and is continuing its upward move in Friday trading."
-    publishedDateTime: 2023-07-07T15:43:00Z
-    webUrl: "https://realmoney.thestreet.com/investing/technology/digitalocean-rides-ai-wave-after-acquisition-trading-strategy-16128215"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 36
-    images:
-      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/97bb47b9-1cdc-11ee-9f06-5d835836b475.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "DigitalOcean Buys Cloud Startup Paperspace To ‘Expand’ AI, ML For SMBs, Startups"
     excerpt: "DigitalOcean acquires cloud computing company Paperspace for $111 million to build new AI and machine learning products targeting SMBs and startup companies."
     publishedDateTime: 2023-07-07T19:39:00Z

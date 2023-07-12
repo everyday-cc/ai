@@ -50,6 +50,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
+  - title: "A new dawn for generative AI shaping the business landscape"
+    excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
+    publishedDateTime: 2023-07-10T23:59:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-ai-business-transformation-leads-to-an-unprecedented-leap/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/NEC-is-redefining-customer-experience-by-creating-customized-generative-AI-solutions-that-can-unlock-novel-business-value-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
   - title: "Generative AI Eating Away Jobs: BPO Sector Isn’t Scared"
     excerpt: "With nearly 4 million Indians employed in the BPO sector, the impact on jobs could be significant due to generative AI, however, industry experts think otherwise"
     publishedDateTime: 2023-07-11T06:22:00Z
@@ -136,6 +150,6 @@ related:
       domain: siliconangle.com
     quality: 13
 
-secured: "KIapaPyDC9uFj75OJcXJxh4uVV8gZX3j761btNrzMCgE5P7Xqv0Io6WnYVjj78IMLCQTWEkBXe3tKDVM9QCdXzitDE17TvD1od6mzkkk0aaCztUE7GJ2G3XpytSQCxGCr8eFAoiFcTiwwyrJonkogUfT1pzF7/WmGdQwsmqNMnVxnqh0efrUz69ff9+x9PASG9JFZMEbkcUvu60J8AV00VQQHmcewtwMINGxbuh/9keWzIyZyj4SMwJxruPnr652fjXiX13+Al+3+XDK8z73gDIbdkBPoNL9Tq1zeInSGdhW+RrWjMYTAYBBXSxWW895+reHjIPIvD1c/My48Z6kYDapsPBQH5SWu/Rv77P5HhA=;+NSvL0r168p3o3HyN51dLA=="
+secured: "NpYx11/VvKfyc/RmmO9baklxon50DMcC1silau316NfzYOUQVHg15a4MpOdsVq7F0223yn29DwhPTwDV3qEvC7vkJvqd7YgrEXx1EIBnKKupwWmuNaId0G/+mnrc5f0YpXwrhS8ihECBTOA6mJVQ0KFsP/UrRC0OaintZKJXPYMXitx4YQvfP7RGaWGGptWNeAJNMl3gkFWxV78I4gC4LTCzO7uAfTScfXO9ZhAjxrZXAY3cUu3Gbu8l8bzlw/cNYiGNKI7bS6l5SJIbZq7BPmpyLQVQDlW6l7mjs2D/CheSF1WzgTZxfWLRQfzlMQYchASqWFphedqpcezdXyBH6VnY/uD67s2jhqGT4RtkcIcW890+tyam2HpM+0jan/bc2fknCIzWM7iaUD6IYw6Mf1kbXxOE0PWrNw5m+onv+aqEN/8ae3kLWbXWhFIPMJIA4qv0r4RsC8YZbEu3deJnJAtXn0fdVeRWWuwUj+uaGPElUkwLqlwTYGPJ0g7QJpW9kB7ij87Y7S0W5BRLRPt5Qg==;C8gzCYK+mAyIlJ8WfiRbxw=="
 ---
 

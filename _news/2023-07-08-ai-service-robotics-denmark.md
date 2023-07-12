@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Robotics - South Korea"
-    excerpt: "Value in the AI Robotics market is projected to reach US$301.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.32%, resulting in a market volume of US$768.30m by ..."
-    publishedDateTime: 2023-07-07T16:29:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/south-korea"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Industrial Robotics - Denmark"
     excerpt: "Value in the AI Industrial Robotics market is projected to reach US$112.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.82%, resulting in a market volume of US$ ..."
     publishedDateTime: 2023-07-08T13:02:00Z
@@ -155,29 +141,6 @@ related:
       name: Statista
       domain: statista.com
     quality: 49
-  - title: "Facial Recognition - South Korea"
-    excerpt: "Value in the Facial Recognition market is projected to reach US$91.20m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.10%, resulting in a market volume of US$215 ..."
-    publishedDateTime: 2023-07-07T16:29:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/facial-recognition/south-korea"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 39
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robot Conducts Orchestra in South Korea"
-    excerpt: "An android robot, named “EveR 6,” took the conductor's podium in Seoul, South Korea, on the evening of Friday, July 1, to lead a performance by South Korea's national orchestra, marking the first such attempt in the country."
-    publishedDateTime: 2023-07-10T13:12:00Z
-    webUrl: "https://www.insideedition.com/robot-conducts-orchestra-in-south-korea-82399"
-    type: article
-    provider:
-      name: Inside Edition
-      domain: insideedition.com
-    quality: 19
 
 secured: "N7wEY7Lw7kAXK/Wp5NnmdK+60JpFtW5b1kCOh2NAlgEG5vYzR5QesmeC0oymTemwc9NGv2iUPpnzJTZJU3+48BgR5qSY1ftfws5UL4WCrn/Ia6OrW3+qJNrfNxYqHJHUjXYNQzTP6fIygRun1TnrruRJuNkkT5GHzpTEQ+5VYfOk4WNc6X1iRRw+SSIyd1sF1HPWK3Cbh/klbZLRCiqS7bh1JSCQtmq5t2vjYjQMi8KXXTYIvSYSs0WS9khZiw4YxgYbs0vupfDK3ngLXQeluan1wj9LX886JS2mMY5xjgv89v0A4s8SHee6I/ddHyZi5VHYk/cSIhJdWxWcawj0CXMlM+94HctBIz80B5MLMNE=;XP8XJLvvsw6wc8i6Ne6LaA=="
 ---

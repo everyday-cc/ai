@@ -50,6 +50,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
+  - title: "A new dawn for generative AI shaping the business landscape"
+    excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
+    publishedDateTime: 2023-07-10T23:59:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-ai-business-transformation-leads-to-an-unprecedented-leap/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/NEC-is-redefining-customer-experience-by-creating-customized-generative-AI-solutions-that-can-unlock-novel-business-value-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
   - title: "Government warns on generative AI use"
     excerpt: "Positioned as a baseline policy that will evolve over time, the Digital Transformation Agency’s (DTA’s) new Interim Guidance for Agencies on Government Use of Generative AI Platforms outlines four core principles that delineate its perception of the key risks posed by generative AI technologies."
     publishedDateTime: 2023-07-11T01:04:00Z

@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial muscle with self-sensing capabilities marks step toward ‘true bionic intelligence’"
+    excerpt: "In an advance for soft and wearable robots, researchers from Queen Mary University of London have developed a new type of electric variable-stiffness artificial muscle that possesses self-sensing capabilities."
+    publishedDateTime: 2023-07-12T08:33:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/artificial-muscle-with-self-sensing-capabilities-marks-step-toward-true-bionic-intelligence"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 13
+    images:
+      - url: "https://www.theengineer.co.uk/media/25jlpnas/july-11-qmul.png?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Revolutionary Self-Sensing Electric Artificial Muscles"
     excerpt: "Researchers from Queen Mary University of London have made groundbreaking advancements in bionics with the development of a new electric"
     publishedDateTime: 2023-07-11T10:27:00Z

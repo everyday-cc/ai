@@ -50,6 +50,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
+  - title: "A new dawn for generative AI shaping the business landscape"
+    excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
+    publishedDateTime: 2023-07-10T23:59:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-ai-business-transformation-leads-to-an-unprecedented-leap/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/NEC-is-redefining-customer-experience-by-creating-customized-generative-AI-solutions-that-can-unlock-novel-business-value-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
   - title: "Generative AI Eating Away Jobs: BPO Sector Isn’t Scared"
     excerpt: "With nearly 4 million Indians employed in the BPO sector, the impact on jobs could be significant due to generative AI, however, industry experts think otherwise"
     publishedDateTime: 2023-07-11T06:22:00Z

@@ -245,15 +245,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 20
-  - title: "3 Ways Generative AI Can Drive Operational Excellence"
-    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
-    publishedDateTime: 2023-07-07T15:39:00Z
-    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
   - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
     excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
     publishedDateTime: 2023-07-10T18:55:00Z

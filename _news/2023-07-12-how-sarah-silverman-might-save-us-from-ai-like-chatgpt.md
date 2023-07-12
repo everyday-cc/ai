@@ -125,6 +125,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
+    publishedDateTime: 2023-07-10T19:37:00Z
+    webUrl: "https://techcrunch.com/2023/07/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 51
   - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
     publishedDateTime: 2023-07-11T10:31:00Z
@@ -175,20 +184,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
-  - title: "AI ChatGPT-powered smart toys are coming for the holidays. How to keep your kids safe."
-    excerpt: "We're bound to see a slew of AI ChatGPT-powered toys hitting the scene this holiday season. When the kids start asking for them, you’ll already know it's not all fun and games. Kim in your inbox: I share smart stories like this about the tech news that ..."
-    publishedDateTime: 2023-07-07T15:34:00Z
-    webUrl: "https://www.azcentral.com/story/tech/columnist/komando/2023/07/06/ai-toys-kids-parents/70374598007/"
-    type: article
-    provider:
-      name: AZ Central
-      domain: azcentral.com
-    quality: 29
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/01/24/PPYR/08ac3d3f-0a28-4ec1-be0d-9bca079b40d4-FJy01NJX0AIuzoV.jpg?auto=webp&crop=1199,675,x0,y40&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Anthropic Launches Claude 2, a $4.1 Billion AI Chatbot Competitor to OpenAI’s ChatGPT"
     excerpt: "Anthropic, a startup founded by former research executives from OpenAI, has entered the AI arms race with the debut of its new AI chatbot, Claude 2."
     publishedDateTime: 2023-07-11T19:22:00Z

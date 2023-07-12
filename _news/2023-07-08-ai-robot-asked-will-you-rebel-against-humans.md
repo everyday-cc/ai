@@ -41,22 +41,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Humanoid robots say they will be widespread in just a few years"
-    excerpt: "A group of nine humanoid robots on Friday said it would be a matter of years before they become widespread across the world. The androids were on display at the first press conference of its kind in history at the Global Summit on Artificial Intelligence for Good,"
-    publishedDateTime: 2023-07-07T15:32:00Z
-    webUrl: "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/"
-    ampWebUrl: "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/"
-    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 59
-    images:
-      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/07/827ad01dcbf4eeda22db8ace634cc81d083963d7w-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI robots say they have no plans to steal people’s jobs"
     excerpt: "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an"
     publishedDateTime: 2023-07-10T01:13:00Z

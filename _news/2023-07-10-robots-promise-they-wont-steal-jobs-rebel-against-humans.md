@@ -41,22 +41,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Humanoid robots say they will be widespread in just a few years"
-    excerpt: "A group of nine humanoid robots on Friday said it would be a matter of years before they become widespread across the world. The androids were on display at the first press conference of its kind in history at the Global Summit on Artificial Intelligence for Good,"
-    publishedDateTime: 2023-07-07T15:32:00Z
-    webUrl: "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/"
-    ampWebUrl: "https://www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/"
-    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/humanoid-robots-say-they-will-be-widespread-in-just-a-few-years/amp/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 59
-    images:
-      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/07/827ad01dcbf4eeda22db8ace634cc81d083963d7w-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI robot asked 'will you rebel against humans'?"
     excerpt: "A number of humanoid robots were asked questions at the AI For Good UN summit, including whether they would rebel against their creators. The field of Artificial Intelligence has seen significant developments in recent years, but with it there have been concerns over its expanding abilities and how to regulate it."
     publishedDateTime: 2023-07-08T08:16:00Z

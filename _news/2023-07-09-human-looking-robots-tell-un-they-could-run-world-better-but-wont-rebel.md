@@ -91,22 +91,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
-    excerpt: "The event was part of the AI for Good Global Summit, meant to illustrate how new technology can support the U.N.’s goals for sustainable development."
-    publishedDateTime: 2023-07-07T16:40:00Z
-    webUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/"
-    ampWebUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
-    type: article
-    provider:
-      name: KSWO ABC 7 News
-      domain: kswo.com
-    quality: 64
-    images:
-      - url: "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/KUsmE_fZwT9E1GMvlLpS1p04jIM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RPPVKPDFLVFGTOTU3W27LARP4E.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI robots can run world better"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
     publishedDateTime: 2023-07-08T16:00:00Z
@@ -232,20 +216,6 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 28
-  - title: "Robots take questions at Geneva press conference, say they could be better leaders than humans"
-    excerpt: "Ameca, engineered with social interaction in mind, dismissed the idea of starting a possible robot rebellion in the near future."
-    publishedDateTime: 2023-07-07T16:01:00Z
-    webUrl: "https://www.courthousenews.com/robots-take-questions-at-geneva-press-conference-say-they-could-be-better-leaders-than-humans/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 27
-    images:
-      - url: "https://www.courthousenews.com/wp-content/uploads/2023/07/robots-geneva.jpg"
-        width: 3000
-        height: 1962
-        isCached: true
 
 secured: "xmCgfZV1Hb7bDtq1Hcszcv6+GtLT19Cy7XbEKwH6TzcHmUyRhRdMnMx8+WOUW66MAQF8h0uw3kiN20iUsEK+mkr2WQA/jYLIjWXclJJhN1GskN7KC0MUnG9RgegVyC+qCXqknTxoD8W1Fux3fwFRuJmfbXIOwW17f+VluN89NkYI2SmPQ/CuIccD4+rUBY+G2AMA1pusJK/2jikXGuON49BV06YbuBgVkdRCUZhnxf+rmlLbrzi5y6qZO6M8CTBuWNY5EcVDFOrcS3mDeHH9X+20/KgWLjUJMsfNFC6FGIAzU3b6CD14Pkn5a+WI3IY/KMS7qGa86sABbYz1TpxaVSMxGeRZFGSZRJWND0z1PAU=;WGzoPTeCZboSAmVvmLM4UA=="
 ---

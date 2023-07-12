@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-27-robots-run-the-show-as-swiss-radio-tests-ai-voices-for-a-day.md",
+      "title": "Robots run the show as Swiss radio tests AI voices for a day",
+      "excerpt": "Listeners of an offbeat Swiss public radio station have been repeatedly given the message: Today’s programming is brought to you by Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
       "title": "First babies conceived using PlayStation-controlled robot are born",
       "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
@@ -1266,40 +1309,6 @@
       "provider": {
         "name": "IGN",
         "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-hexagon-halves-quality-inspection-cycles-and-enables-flexible-manufacturing-with-the-presto-robotic-inspection-cell.md",
-      "title": "Hexagon halves quality inspection cycles and enables flexible manufacturing with the PRESTO robotic inspection cell",
-      "excerpt": "Improving safety: This robotic cell is built with safety in mind. Clear walls ensure others on the factory ... With PRESTO, they can automate processes, improve quality control and, ultimately, reduce time to market.\" PRESTO is available now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58845261-hexagon-halves-quality-inspection-cycles-and-enables-flexible-manufacturing-with-the-presto-robotic-inspection-cell-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58845261-hexagon-halves-quality-inspection-cycles-and-enables-flexible-manufacturing-with-the-presto-robotic-inspection-cell-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null

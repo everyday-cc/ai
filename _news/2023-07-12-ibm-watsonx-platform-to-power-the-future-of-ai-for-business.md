@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watsonx Empowers Businesses To Build, Tune And Deploy Reliable Generative AI Models"
-    excerpt: "Watsonx is IBM's next-generation AI platform for building and tuning foundation models, generative AI and machine learning systems. The platform contains a studio, data store and governance toolkit. Additionally,"
-    publishedDateTime: 2023-07-07T15:36:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a8262b79a8b89cb191cf1d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 751
-        isCached: true
   - title: "IBM’s watsonx begins its official rollout"
     excerpt: "IBM has announced that watsonx is generally available and has begun its rollout to enterprises. Watsonx is an AI and data platform that was first unveiled by IBM at the IBM Think conference in May. Watsonx consists of three parts: watsonx.ai, which is a ..."
     publishedDateTime: 2023-07-11T20:06:00Z
@@ -54,34 +38,6 @@ related:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
         height: 246
-        isCached: true
-  - title: "3 ways businesses can ethically and effectively develop generative AI models"
-    excerpt: "Join top executives in San Francisco on July 11-12 and learn how business leaders are getting ahead of the generative AI revolution. Learn More President Biden is meeting with AI experts to examine the dangers of AI."
-    publishedDateTime: 2023-07-09T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/3-ways-businesses-can-ethically-and-effectively-develop-generative-ai-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_3_ways_businesses_can_develop_technology._Colorful_futu_5067db3c-a533-4f1b-aa1e-19214cd4e44f.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "A new dawn for generative AI shaping the business landscape"
-    excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
-    publishedDateTime: 2023-07-10T23:59:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-ai-business-transformation-leads-to-an-unprecedented-leap/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/NEC-is-redefining-customer-experience-by-creating-customized-generative-AI-solutions-that-can-unlock-novel-business-value-scaled.jpg"
-        width: 2560
-        height: 1703
         isCached: true
 
 secured: "XPDLsWyZd041THFoziOqQmNJ/QCVwvnVsckAZHgzvvMIvSjcfgApJ8dDwkcUYTRaf/RW2OUJ7Nk+lVRLCGIAaJKIiMih6Z/V+qd2/WPGeJ22DOTMywi7I+63Ji1ZB6D3kyvbODbwGrOrq2i5rAFEpD7pFh09A1vW57edrVdob9ZeIsVwi25/XnBj6XshkDUQ19U1zOwQMdXN1S4z4W35tTsDurZ4FwFppUtg27x/6Af0ADXlOJzLFIARiL/K7NqoqudaL3Cy5V3vgKTIKLrzamr83TE4EFqF4F923bJtGcJXtlrWVjp7BvjnmH9RXikvJHWr02zWiD5r2uPZqE4g2DtfmrqBMY8ogIavgaihlucgvjvH4R1OBHK4mB7QNLGjCTGPRGYhM78V/nL+nITYgisoER0uwnG1LICtrDsLpDPQzf3q/jPAobtMgQ/p+cNFLZdf5w/MYPhpbxFQnWY00+rvehl+P9u53EDUjEVUw8qT9rrTtNDkrmz9Uzla+7XbhxTtHnXNX0BxLWDzpKOX1w==;r3oCUCKPf+YbD4y/YG1bkg=="

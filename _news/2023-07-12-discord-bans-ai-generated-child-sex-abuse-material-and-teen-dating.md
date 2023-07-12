@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230711-discord-se-526p-8ebf2c.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Discord bans teen dating servers and AI-generated child sex abuse material"
+    excerpt: "After allegations of grooming and extortion on Discord, the platform is expanding on its safety policies and improving parental supervision."
+    publishedDateTime: 2023-07-12T09:48:00Z
+    webUrl: "https://mashable.com/article/discord-teen-parental-policy-update"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 65
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/02WIBj3c88ILOeyym8bZmf3/hero-image.fill.size_1200x675.v1689153934.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "M&E Faces up to the Promise and Challenges of Generative AI"
     excerpt: "It is, of course, something that has been around since the 1950s but since the end of last year, coverage has ranged from the serious to hysterical, particularly over its latest manifestation, generative AI (Gen AI)."

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsws.org/en/articles/2023/07/10/gpot-j10.html"
 webUrl: "https://www.wsws.org/en/articles/2023/07/10/gpot-j10.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK and Australia law enforcement facial recognition projects under public microscope"
-    excerpt: "The UK police in Northern Ireland are debating facial recognition and biometric data retention rules, with some stakeholders calling for more transparency."
-    publishedDateTime: 2023-07-07T15:54:00Z
-    webUrl: "https://www.biometricupdate.com/202307/uk-and-australia-law-enforcement-facial-recognition-projects-under-public-microscope"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg"
-        width: 2048
-        height: 1360
-        isCached: true
   - title: "Voice hinges on national mood and values: Can Australia get out of its own way to vote for constitutional recognition?"
     excerpt: "Overcoming the ‘us and them’ rhetoric in the referendum debate to enshrine an Indigenous Voice in the Australian constitution is possible, according to Linda Burney, who argues history is calling for meaningful action to close the gap."
     publishedDateTime: 2023-07-12T07:34:00Z

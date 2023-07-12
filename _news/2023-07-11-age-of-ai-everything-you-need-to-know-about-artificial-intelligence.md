@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 204
+published: true
 
 provider:
   name: TechCrunch
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Age of AI: Everything you need to know about artificial intelligence"
-    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ..."
-    publishedDateTime: 2023-07-07T16:57:00Z
-    webUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Are You Getting Scammed Through AI Voice Swindles? 4 Safeguards You Need To Know"
     excerpt: "According to a new report by the Identity Theft Resource Center (ITRC), “80% of identity theft victims are due to scams, and thieves are becoming more sophisticated in their quests to steal personal identifying information (PII) from victims with 61% of them being conducted through AI voice.”"
     publishedDateTime: 2023-07-08T14:00:00Z
@@ -125,15 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-07-10T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/07/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
   - title: "Google Says It'll Scrape Everything You Post Online for AI"
     excerpt: "Previously, Google said the data would be used “for language models,” rather than “AI models,” and where the older policy just mentioned Google Translate, Bard and Cloud AI now make an appearance. This is an unusual clause for a privacy policy."
     publishedDateTime: 2023-07-10T16:44:00Z
@@ -193,20 +168,6 @@ related:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Applicability of AI and Robots to Nursing"
-    excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
-    publishedDateTime: 2023-07-11T15:38:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14151"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 39
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14151_16890894716486738.jpg"
-        width: 1000
-        height: 563
         isCached: true
 
 secured: "CKQ47UmlKkR1FJHN1LtHfmRXtAzDLAB8W3Ipp6QmgnCE0PPWiAnHLkAqWqi95KPvN+ZEsoik2yDz6iB/oWeJ3EVeBZUUXXa6WMDovukDiMLjO5O1Ph8EpTEoOaUTjByCCrPIQFDPDjvv05KO7P7DXy8SCFmMsKRqbekxlCGuChaoCb/AEK9DYWhKqE2Ixp4muBC1+kE309OzeICx5Fs4WBVnjI9CWj0s8UilK948Gjicycwae9laiEjtqntThQ7aqP56iEdt+F8Pn45G6NCFG0JwvlkIScLEerLro36P84yY0Hk9XYZww2hTJpfa6BHC1VP0mQh8UvUUxkKn7E0BABWd1f5deITZ+HFWK3gMDE4=;pmzs3rKz6O/4qXa0ikeWYQ=="

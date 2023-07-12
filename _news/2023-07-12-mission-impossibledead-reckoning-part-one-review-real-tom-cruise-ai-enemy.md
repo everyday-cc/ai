@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/mission-impossibledead-reckoning-part
 webUrl: "https://www.wsj.com/articles/mission-impossibledead-reckoning-part-one-review-real-tom-cruise-ai-enemy-90de75d4"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -28,6 +28,36 @@ images:
     isCached: true
 
 related:
+  - title: "'Mission: Impossible — Dead Reckoning Part One' Treats AI As The Threat That It Is"
+    excerpt: "The latest epic in the Tom Cruise-led action franchise rightly challenges the phenomenon of artificial intelligence and how it impacts our lives."
+    publishedDateTime: 2023-07-12T09:45:00Z
+    webUrl: "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6"
+    ampWebUrl: "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 81
+    images:
+      - url: "https://img.huffingtonpost.com/asset/64adae5f2200006c00a7b10e.jpg?cache=AlTKxYFwSH&ops=1200_630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Opinion: AI is an existential threat, just not the way you think"
+    excerpt: "Worries peaked in May 2023 when the nonprofit research and advocacy organization Center for AI Safety released a one-sentence statement: \"Mitigating the risk of extinction from A.I. should be a global priority alongside other societal-scale risks,"
+    publishedDateTime: 2023-07-08T16:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jul/08/opinion-ai-is-an-existential-threat-just-not-the/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2023/07/06/102856675_AI-illustration-Getty-web_t800_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Mission: Impossible – Dead Reckoning Part One is the mother of all self-aware AI panic flicks"
     excerpt: "Dead Reckoning Part One being waylaid for years by a global pandemic only to ultimately hit theaters at a time when the public’s becoming more attuned to the spread of AI tools does a lot to make the film feel eerily prescient — not about the state of the technology itself but the degree to which it’s on people’s minds."
     publishedDateTime: 2023-07-08T13:30:00Z

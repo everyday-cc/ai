@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Age of AI: Everything you need to know about artificial intelligence"
-    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ..."
-    publishedDateTime: 2023-07-07T16:57:00Z
-    webUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Age of AI: Everything you need to know about artificial intelligence"
     excerpt: "To begin with, let’s just make sure we’re all on the same page: what is AI? Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very ..."
     publishedDateTime: 2023-07-11T16:10:00Z
     webUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
@@ -135,15 +119,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-07-10T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/07/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
   - title: "Google Says It'll Scrape Everything You Post Online for AI"
     excerpt: "Previously, Google said the data would be used “for language models,” rather than “AI models,” and where the older policy just mentioned Google Translate, Bard and Cloud AI now make an appearance. This is an unusual clause for a privacy policy."
     publishedDateTime: 2023-07-10T16:44:00Z
@@ -189,20 +164,6 @@ related:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Applicability of AI and Robots to Nursing"
-    excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
-    publishedDateTime: 2023-07-11T15:38:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14151"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 39
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14151_16890894716486738.jpg"
-        width: 1000
-        height: 563
         isCached: true
 
 secured: "vewCWtkJMdmVY6SEbZJk7Q+ShF+vjSl0Fg+UQnJeOMSUcr92EHJBov38c46lS9j/NpCtpEf0FOfL+w2po5ENAugW2segYzCNStqni+nojJ5Y3/vIIEr6sTEhJrNjLRYFwN+zKwse807zWIqbdqSedqI+Dpvj/Y0hm2Dszm5Oqz++uryVmIuved7TCZ0YZbYunR/EOsEIjq9vcj25ECmDGRJGe2UOs1O5yj82zzjPIrcbyw1MWTkplXIGYSH7bUv6hS2TFBwTZOQmCGJge2FiXJQByb/Wal/lYWtlzkoqyvkQ6Jb7K++8IWaNqWxQI6R+9xD8ARQ3hiTYaJocp2GukoGJLxOVMwth1X1UnO9Z7/8=;M/9rBqOID4+kDWU0UtdLjw=="

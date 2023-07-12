@@ -252,15 +252,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 20
-  - title: "3 Ways Generative AI Can Drive Operational Excellence"
-    excerpt: "To achieve the best possible outcomes in business, organizations must know how artificial intelligence can support them."
-    publishedDateTime: 2023-07-07T15:39:00Z
-    webUrl: "https://www.inc.com/sarvarth-misra/3-ways-generative-ai-can-drive-operational-excellence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
   - title: "OutSystems Unveils its Generative AI Roadmap to Transform the Way Enterprises Develop, Edit and Extend Mission-Critical Applications"
     excerpt: "Company shares live demos of its new connector for Azure OpenAI, built in partnership with Microsoft, that enables the use of ChatGPT, GPT 4 and other large language models along with OutSystems \"Project Morpheus,"
     publishedDateTime: 2023-07-11T02:52:00Z

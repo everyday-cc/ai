@@ -27,22 +27,6 @@ images:
 
 related:
   - title: "Age of AI: Everything you need to know about artificial intelligence"
-    excerpt: "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ..."
-    publishedDateTime: 2023-07-07T16:57:00Z
-    webUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Age of AI: Everything you need to know about artificial intelligence"
     excerpt: "To begin with, let’s just make sure we’re all on the same page: what is AI? Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very ..."
     publishedDateTime: 2023-07-11T16:10:00Z
     webUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
@@ -120,15 +104,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-07-10T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/07/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
   - title: "Google Says It'll Scrape Everything You Post Online for AI"
     excerpt: "Previously, Google said the data would be used “for language models,” rather than “AI models,” and where the older policy just mentioned Google Translate, Bard and Cloud AI now make an appearance. This is an unusual clause for a privacy policy."
     publishedDateTime: 2023-07-10T16:44:00Z
@@ -188,20 +163,6 @@ related:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Applicability of AI and Robots to Nursing"
-    excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
-    publishedDateTime: 2023-07-11T15:38:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14151"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 39
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14151_16890894716486738.jpg"
-        width: 1000
-        height: 563
         isCached: true
 
 secured: "WN/Vbt8uC0eUycUwae6KVT3ZzAA9j1tfiiYxmgJ/L0aXenQZ9AV1rSwuTXDIO/GUsck+nVCf9BirRS3Hy6yXYLD6rrAf5NY8CfFdE6EmaQgAURiUSROgKR1Bc21yC0mEfFGqzHXeIBSapuWJ9NjtlF+ursZArE2Kb82o2AkyD+U6WCjbSIDi/9eJfM3+pgv19TncHH3IIag2R+mUrI0eOvR+/NTumV/gLNba4kREXBdD+lyV0BEYSGMROFS/Q+Ro9vT6zJgLXynzoIVHvj5SjlTZDzCiHqrEtzKOWl7RYf02+X1ECeL3HqKwd/UL20I9FvUKBVlKQSHy1f6VNorH4JsWMpqWh8UNXWz7ScNndJ2lfuqSSeDtx2Z8LIKf71HOtSzoL2XegBsWbbXu4xL91HvHg0zl9WwKjtADuIe5vs4EdyGuDErRxZFSK63hy8CCy4V8M9EOeQ+awBYbs4yCLXwz8VCPJ25Uuji55fnGbRb5yIEIjU5+tLlyEEo1zOz+kdc6QBk3Ms6sQuIksDM7Fg==;Qagxud3a1em92bjuA85G1Q=="

@@ -36,6 +36,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "56% off: ECOVACS's robot vacuum cleaner with mop drops to just £219"
+    excerpt: "it gets the job done carefully and more efficiently giving you peace of mind. And better still, this clever bot also mops your floors. Using an innovative electronic water pump and reservoir, the robot cleaner has four levels of water flow (ultra high ..."
+    publishedDateTime: 2023-07-12T09:06:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-12290103/ecovacs-amazon-prime-day-robot-vacuum-sale-2023.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 39
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/07/12/09/73119831-0-image-a-32_1689150378229.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Eufy robot vacuum deals for Prime Day 2023"
     excerpt: "There are plenty of other exciting features as well, including strong 5,500Pa suction, AI-powered obstacle avoidance ... the high-end x9 Pro isn’t the only eufy robot vacuum on sale for Prime Day 2023. Prices start at just $129.99 for the eufy BoostIQ ..."
     publishedDateTime: 2023-07-11T12:56:00Z

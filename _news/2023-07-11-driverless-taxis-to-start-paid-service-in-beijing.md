@@ -67,20 +67,6 @@ related:
         width: 704
         height: 460
         isCached: true
-  - title: "Volkswagen to Test Self-Driving ID. Buzz Microbus Fleet in Austin"
-    excerpt: "Volkswagen chose Austin for its self-driving testing program because it has a reputation for being supportive of innovation."
-    publishedDateTime: 2023-07-07T16:11:00Z
-    webUrl: "https://tech.co/news/volkswagen-self-driving-id-buzz-austin"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 24
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/07/07120944/volkswagen-id-buzz-e1688746210124.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Self-Driving VW ID. Buzz Will Start Testing In The US"
     excerpt: "As part of its future expansion strategy into more US cities, Volkswagen has announced its plans to conduct tests on self-driving microbuses in Austin, Texas. The brand will utilize the autonomous technology developed by Mobileye to operate a fleet of ten all-electric ID."
     publishedDateTime: 2023-07-08T18:50:00Z

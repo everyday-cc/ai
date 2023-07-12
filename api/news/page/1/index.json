@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-12-mission-impossible-dead-reckoning-part-one-treats-ai-as-the-threat-that-it-is.md",
+      "title": "'Mission: Impossible — Dead Reckoning Part One' Treats AI As The Threat That It Is",
+      "excerpt": "The latest epic in the Tom Cruise-led action franchise rightly challenges the phenomenon of artificial intelligence and how it impacts our lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6",
+      "originalUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/64adae5f2200006c00a7b10e.jpg?cache=AlTKxYFwSH&ops=1200_630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp",
+      "publishedDateTime": "2023-07-12T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-enoc-group-opts-for-microsoft-azure-openai-service.md",
       "title": "Enoc Group opts for Microsoft Azure OpenAI Service",
       "excerpt": "UAE - Enoc Group, a leading integrated oil and gas player, intents to work with Microsoft to integrate Microsoft Azure OpenAI Service into its business operations leveraging ChatGPT AI capabilities. This will deliver insights to its businesses that improve ...",
@@ -277,21 +328,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-12-mission-impossibledead-reckoning-part-one-review-real-tom-cruise-ai-enemy.md",
-      "title": "‘Mission: Impossible—Dead Reckoning Part One’ Review: Real Tom Cruise, AI Enemy",
-      "excerpt": "Christopher McQuarrie directs the seventh installment of the franchise, which sees Ethan Hunt and the IMF team face possibly their most dangerous adversary yet: artificial intelligence.",
+      "path": "_news/2023-07-12-ibms-watsonx-begins-its-official-rollout.md",
+      "title": "IBM’s watsonx begins its official rollout",
+      "excerpt": "IBM has announced that watsonx is generally available and has begun its rollout to enterprises. Watsonx is an AI and data platform that was first unveiled by IBM at the IBM Think conference in May. Watsonx consists of three parts: watsonx.ai, which is a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mission-impossibledead-reckoning-part-one-review-real-tom-cruise-ai-enemy-90de75d4",
-      "originalUrl": "https://www.wsj.com/articles/mission-impossibledead-reckoning-part-one-review-real-tom-cruise-ai-enemy-90de75d4",
+      "webUrl": "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/",
+      "originalUrl": "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-813952/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://sdtimes.com/images/sd-premium.png",
+          "width": 628,
+          "height": 246,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -301,14 +352,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T13:54:00-07:00",
+      "publishedDateTime": "2023-07-11T13:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "SD Times",
+        "domain": "sdtimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -324,6 +375,7 @@
         "news"
       ],
       "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -336,7 +388,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -628,6 +680,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-11-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
+      "title": "Age of AI: Everything you need to know about artificial intelligence",
+      "excerpt": "To begin with, let’s just make sure we’re all on the same page: what is AI? Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "originalUrl": "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-07-11T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-how-future-histories-of-other-intelligences-clarify-todays-ai.md",
       "title": "How Future Histories Of ‘Other Intelligences’ Clarify Today’s AI",
       "excerpt": "In 'The Institute for Other Intelligences,' Mashinka Firunts Hakopian combines speculative fiction and media theory to propose equitable futures for intelligent life.",
@@ -878,7 +982,7 @@
       "originalUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1107,83 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-australian-corporates-join-ai-chips-race.md",
-      "title": "Australian corporates join AI chips race",
-      "excerpt": "Corporate Australia has joined the global race to get its hands on advanced computer chips, a leading indicator of artificial intelligence and machine learning development, a top internet ser­vices company says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp",
-      "cdnAmpWebUrl": "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp",
-      "publishedDateTime": "2023-07-11T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-how-google-translate-used-ai-to-decipher-the-worlds-oldest-language-in-minutes.md",
-      "title": "How Google Translate used AI to decipher the world's oldest language in minutes",
-      "excerpt": "Akkadian, the language of the Akkadian Empire that thrived in present-day Iraq during the 24th to 22nd centuries BCE, poses unique challenges for translation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/trends/how-google-translate-used-ai-to-translate-the-worlds-oldest-language-in-minutes-10938201.html",
-      "originalUrl": "https://www.moneycontrol.com/news/trends/how-google-translate-used-ai-to-translate-the-worlds-oldest-language-in-minutes-10938201.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/Collage-Maker-11-Jul-2023-01-38-PM-6048.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/trends/how-google-translate-used-ai-to-translate-the-worlds-oldest-language-in-minutes-10938201.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/how-google-translate-used-ai-to-translate-the-worlds-oldest-language-in-minutes-10938201.html/amp",
-      "publishedDateTime": "2023-07-11T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

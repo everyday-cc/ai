@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/amp/"
 type: article
 quality: 87
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://nationalmortgageprofessional.com/sites/default/files/styles/article_image/public/2023-07/McLain-Lynne_WEB.jpg?itok=yQ-ovpcO"
         width: 400
         height: 400
+        isCached: true
+  - title: "HR using AI on the QT"
+    excerpt: "A Gartner, survey of 105 HR leaders revealed that just five per cent of HR leaders report their function has already implemented generative AI, while another nine per cent reported they are currently conducting generative AI pilots. Gartner HR practice VP ..."
+    publishedDateTime: 2023-07-12T08:13:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57239-hr-using-ai-on-the-qt"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/4901c5be5c86464530b4506991d76419_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Supercharge Marketing ROI With AI"
     excerpt: "SUPERCHARGE MARKETING ROI WITH AI In an age where consumers are bombarded with endless advertisements and choices, the quest for genuine engagement and return"

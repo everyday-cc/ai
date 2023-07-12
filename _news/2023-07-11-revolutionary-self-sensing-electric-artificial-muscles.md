@@ -28,6 +28,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "Artificial muscle with self-sensing capabilities marks step toward ‘true bionic intelligence’"
+    excerpt: "In an advance for soft and wearable robots, researchers from Queen Mary University of London have developed a new type of electric variable-stiffness artificial muscle that possesses self-sensing capabilities."
+    publishedDateTime: 2023-07-12T08:33:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/artificial-muscle-with-self-sensing-capabilities-marks-step-toward-true-bionic-intelligence"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 13
+    images:
+      - url: "https://www.theengineer.co.uk/media/25jlpnas/july-11-qmul.png?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/JVr4fKVYtljZnbPuT1IYvuz3tn3/64SNQYyqUMxLFzkISYMgn9ThTsHkgoq8axYAWfT17lbqVfiqqqVVNsw7F0TfbzCcgTelDkT8Mp+e5GLYOwVFoEdk/g4il2/0/vUzcXyUxRFmj7CjId/Xv1T3PzkduICtPdlBpyQaVHvpHvcUJXymrurB0CKl+JYyJSWdO/tS+R0ADF8ze+d+jZKvjeJNaSnIcLcKmDY7lgdE3pIP1JkJxOiUqkVxEwZ6ZhFrq8RjxkNLUGJS15wxihOOKF55oUfScLlFEWca5qjJgSeALT0MqEbm6Ip1KtFJnLrG/XxgZSCCqmNzn3cLQ7ZfybGf+Hm5xVeUo1yYau0by4J4x+pFPj6JrvKYOngOl3VEDfhT9Ip9KwFzpzaBUf8pdCOj26jkqPmOPmZNbAV11XyfTvfoeBs23JWUeUqs6xrkZN9PRBLgjilCKiawil97gnhHX+lpn27ninw6FmZfz9VKR71HrHW8K76HAUdiYtdX1IVtjlHotawdvDDYuCebQ==;fYUhUx6nJsYut3WTECOAqw=="
 ---

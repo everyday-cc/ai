@@ -83,22 +83,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Humanoid robots say they could be better leaders but will not rebel against human creators"
-    excerpt: "The event was part of the AI for Good Global Summit, meant to illustrate how new technology can support the U.N.’s goals for sustainable development."
-    publishedDateTime: 2023-07-07T16:40:00Z
-    webUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/"
-    ampWebUrl: "https://www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/07/07/humanoid-robots-say-they-could-be-better-leaders-will-not-rebel-against-human-creators/?outputType=amp"
-    type: article
-    provider:
-      name: KSWO ABC 7 News
-      domain: kswo.com
-    quality: 64
-    images:
-      - url: "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/KUsmE_fZwT9E1GMvlLpS1p04jIM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RPPVKPDFLVFGTOTU3W27LARP4E.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Human-looking robots tell UN they could run world better, but won’t rebel"
     excerpt: "Robots tell UN summit humans should proceed with caution when embracing rapidly-developing potential of artificial intelligence and admit they can't -- yet -- grasp human emotions"
     publishedDateTime: 2023-07-08T23:55:00Z
@@ -231,20 +215,6 @@ related:
       name: techtimes
       domain: techtimes.com
     quality: 31
-  - title: "Robots take questions at Geneva press conference, say they could be better leaders than humans"
-    excerpt: "Ameca, engineered with social interaction in mind, dismissed the idea of starting a possible robot rebellion in the near future."
-    publishedDateTime: 2023-07-07T16:01:00Z
-    webUrl: "https://www.courthousenews.com/robots-take-questions-at-geneva-press-conference-say-they-could-be-better-leaders-than-humans/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 27
-    images:
-      - url: "https://www.courthousenews.com/wp-content/uploads/2023/07/robots-geneva.jpg"
-        width: 3000
-        height: 1962
-        isCached: true
 
 secured: "BdvRkvIb810Ssj33Jws4wima52tRMn79K+OWqzk5HuHPyswtelzV/+IhhWgOurkYnPUwA32fHhbcfySEIexFDfHQ83V6a4vt2cW6qhmf0YbJGLAcZ3urMo33EH91PoicR8knBmEeFy7gvJcGppNGzMWnbyVgdbBqNrBWSYhVj+b7rQ9fHugUbR0l1p8QkKQC7YtyzDcFsBibW6DqJicHIOA1f1a5tzIshe98TjVUIeAfYLO3mKcCQvoPs7MhnV50GlnG1pLL18/37l1FwH/suWqaOg94TNy2M1n5QAP0TNbFyF6x5rMYQ0asjJvbJFzS385eHEcpEgg83etmEen705eLf+gMw18+5Nllq8odBu8H2gXslUS2ye69m54UV+3t5sKN26iLEwD+oCjeI6yaOM9FXCAj9vQMJAcx9zmmSFNGgGCtjoou1r8aZeADGnFvMkaKsCt8rSXRQp/C6GiBW+VUMwJLAryHFRj4/vygWEQdWhoOtixvZ5bWF8o0qsgYBDfcp6tN9KQ7e4a/NaYwYA==;TQHW6MBgDZBvbwcXaNpgyA=="
 ---

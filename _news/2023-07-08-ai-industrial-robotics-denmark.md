@@ -7,8 +7,8 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-ro
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: Statista
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Robotics - South Korea"
-    excerpt: "Value in the AI Robotics market is projected to reach US$301.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.32%, resulting in a market volume of US$768.30m by ..."
-    publishedDateTime: 2023-07-07T16:29:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/south-korea"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Industrial Robotics - Spain"
     excerpt: "Value in the AI Industrial Robotics market is projected to reach US$155.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.74%, resulting in a market volume of US$ ..."
     publishedDateTime: 2023-07-07T20:07:00Z
@@ -155,29 +141,6 @@ related:
       name: Statista
       domain: statista.com
     quality: 49
-  - title: "Facial Recognition - South Korea"
-    excerpt: "Value in the Facial Recognition market is projected to reach US$91.20m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.10%, resulting in a market volume of US$215 ..."
-    publishedDateTime: 2023-07-07T16:29:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/facial-recognition/south-korea"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 39
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robot Conducts Orchestra in South Korea"
-    excerpt: "An android robot, named “EveR 6,” took the conductor's podium in Seoul, South Korea, on the evening of Friday, July 1, to lead a performance by South Korea's national orchestra, marking the first such attempt in the country."
-    publishedDateTime: 2023-07-10T13:12:00Z
-    webUrl: "https://www.insideedition.com/robot-conducts-orchestra-in-south-korea-82399"
-    type: article
-    provider:
-      name: Inside Edition
-      domain: insideedition.com
-    quality: 19
 
 secured: "KBEl2AXTUS0p9jextuzeOgeKU9TxgGhSXOxN1oWzJHmu64Wm5bo+shqGrkCZPJ1iG8XCKjpJoFj1YwZk9l2PsiyqjDQz6ILeWh2gcG2et7lIuGslIMVUc180d2opHrtn7ex1F1oSXKCaFvmKUf8obM6LmSezYjOLV8u3gy8YUjUbrH9Ww9EvGRcXkzC/BsbgbtAwwEe0sVAmwJNvLMXPhmY7sANW4miibO2aKTYgeKvO+rCQqqnJnOCGjjzujPXMM/fviARzfHz2bVN8hCbkMenlUSo+T/bdjNaplBN2cFsfCGvHSey3AF51BWuD05MlwXP+RIRuoBGyz3HzGxkvJVQbGDLBVWNRtjtxi+PHVDY=;EoZ6q32lFLUpN2W8uF/ggw=="
 ---
