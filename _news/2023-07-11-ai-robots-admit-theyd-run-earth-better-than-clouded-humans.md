@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI robots could run the world better than humans, robots tell UN summit"
+    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly developing potential of artificial intelligence. And they admitted that they cannot – yet ..."
+    publishedDateTime: 2023-07-10T16:42:00Z
+    webUrl: "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
+    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 104
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/08/49797bd1-2046-4240-90b6-5ea0f3e0b6c8_10de0f05.jpg?itok=R2R0MPcb&v=1688757382"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Robots At UN Reckon They Could Run The World Better"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
     publishedDateTime: 2023-07-07T17:39:00Z
@@ -40,6 +56,22 @@ related:
       - url: "https://www.barrons.com/asset/external-media/afp/AFP9103350529626727026872206727563737693825---1.jpg"
         width: 768
         height: 506
+        isCached: true
+  - title: "Panel Of AI-Enabled Humanoid Robots Take Questions From Humans"
+    excerpt: "The world's first human-robot conference was held in Geneva, where a panel of AI-enabled humanoid robots told the United Nations they could eventually run the world better than humans."
+    publishedDateTime: 2023-07-10T15:30:00Z
+    webUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955"
+    ampWebUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://c.ndtvimg.com/2023-07/3ise4dbo_air-robot_625x300_10_July_23.jpg"
+        width: 1200
+        height: 738
         isCached: true
   - title: "The UN holds a robot press conference about the state of AI"
     excerpt: "The robots were posed questions by journalists from around the world regarding their future roles in leadership, collaboration with humans and potentially replacing human labor in the workforce."
@@ -89,19 +121,19 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "AI robots tell UN conference they could run the world"
-    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot — yet — get a proper grip on human emotions."
-    publishedDateTime: 2023-07-07T14:34:00Z
-    webUrl: "https://www.digitaljournal.com/world/ai-robots-tell-un-conference-they-could-run-the-world/article"
+  - title: "AI robots can run world better"
+    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
+    publishedDateTime: 2023-07-08T16:00:00Z
+    webUrl: "https://manilastandard.net/news/top-stories/314348091/ai-robots-can-run-world-better.html"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: manilastandard
+      domain: manilastandard.net
     quality: 54
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/AI-robots-©AFP-1K-02.jpg"
-        width: 1024
-        height: 673
+      - url: "https://manilastandard.net/wp-content/uploads/2023/07/ai-robot.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
@@ -144,22 +176,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/08/image/png/p4wBehFwZ5eUshfj5u7xc3d1x3tS9fc2ym1oyPn4.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event"
-    publishedDateTime: 2023-07-07T19:15:00Z
-    webUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/"
-    ampWebUrl: "https://www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/amp/"
-    cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/news/national-world/ap-international/ap-humanoid-robots-say-they-could-be-better-leaders-but-will-not-rebel-against-human-creators/amp/"
-    type: article
-    provider:
-      name: Wane
-      domain: wane.com
-    quality: 51
-    images:
-      - url: "https://www.wane.com/wp-content/uploads/sites/21/2023/07/64a864b6b53c47.22505085.jpeg?w=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "At a UN Summit, AI Robots Just Said That They Could Run the World Much Better Than Us"
     excerpt: "Ever wondered what a group of robots would say about humans in a press conference? Well, you don't need to wonder anymore. At a United Nations summit earlier this week, a panel of artificial intelligence (AI)-powered humanoids just banded together to tell us a thing or two about the future of AI technology."

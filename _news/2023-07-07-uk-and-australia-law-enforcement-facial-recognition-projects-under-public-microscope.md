@@ -39,6 +39,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Voice hinges on national mood and values: Can Australia get out of its own way to vote for constitutional recognition?"
+    excerpt: "Overcoming the ‘us and them’ rhetoric in the referendum debate to enshrine an Indigenous Voice in the Australian constitution is possible, according to Linda Burney, who argues history is calling for meaningful action to close the gap."
+    publishedDateTime: 2023-07-12T07:34:00Z
+    webUrl: "https://www.themandarin.com.au/225093-voice-hinges-on-national-mood-and-values-can-australia-get-out-of-its-own-way-to-vote-for-constitutional-recognition/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 0
 
 secured: "XKbChOREtY6DbG8glbe75iKfZiUCaxvO4Or6b+IZuslJQX9rAiXubgYeRIq8Kkqcbmh7KdGilgt/5qs4gtCt4luTfrxaQmO9B86kb7lfQzGbIHY+l//W84dbPI2B28w2EjOrU4YfkTrYcZItnmwTwDKldXJP4bH2Frl+qxBdV9KA8tS0WZZ4oqZUullAJEdyM8Z86y6xeC9kvN1nEyiUqZF7TuKzpwAyEW/FnHjYAeOSnjXnX5C7/AZ6kcsu6uSWrcqzk0VpXhzkDHBcKoaurio2zfKVpMdk7JccVUrvIrw5NS1U1bU9SBOOV+KqAWmAts8trfV6HUVZBVlhMzAJnkZfJ7ggM4C7kqr72dYZns+BmdIHtYu69giBxoMvx+BfXyJeCAHjyjUz+qxNDciAvWFHfLWkuQZtefLs7djX1jQy8bHdpHI2GXSk44rTr3P/tcay3+VgrsxA/dega95sXIo/NhFepya3ff/nEA5Pw/bBpb+y2joPHhG+FwdhbKTtPEhCBP+6iBq3IuI36VIGJA==;BMBtxEZkxbKkugpQiVNixg=="
 ---

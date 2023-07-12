@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Panel Of AI-Enabled Humanoid Robots Take Questions From Humans"
-    excerpt: "The world's first human-robot conference was held in Geneva, where a panel of AI-enabled humanoid robots told the United Nations they could eventually run the world better than humans."
-    publishedDateTime: 2023-07-10T15:30:00Z
-    webUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955"
-    ampWebUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
+  - title: "Ask Not What AI Will Do To Humanity"
+    excerpt: "Recent discussions about AI address its potential harm to humanity. A more nuanced discussion about AI’s conceivable impact will likely be more helpful. Capitalizing on what distinguishes us from AI may provide the wisdom necessary to optimize our future."
+    publishedDateTime: 2023-07-12T00:06:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity?amp"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 74
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://c.ndtvimg.com/2023-07/3ise4dbo_air-robot_625x300_10_July_23.jpg"
-        width: 1200
-        height: 738
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-07/Moor%20Studio%3AShutterstock_2259493033%20copy.jpg?itok=_T5lxd0M"
+        width: 1528
+        height: 800
         isCached: true
   - title: "AI and the human factor"
     excerpt: "Artificial intelligence (AI) still needs people to be able to function properly. This is the word from Peter Blignaut, manager: pre-sales at SAP South Africa, who points out that computers can do nothing without instruction."

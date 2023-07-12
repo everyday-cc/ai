@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-stea
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.laprensalatina.com/wp-content/uploads/2023/07/827ad01dcbf4eeda22db8ace634cc81d083963d7w-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Robots say they won't steal jobs, rebel against humans"
-    excerpt: "The nine humanoid robots gathered at the 'AI for Good' conference in Geneva, where organisers are seeking to make the case for Artificial Intelligence and the robots it is powering to help resolve some of the world's biggest challenges such as disease and ..."
-    publishedDateTime: 2023-07-07T14:46:00Z
-    webUrl: "https://www.aol.com/news/robots-wont-steal-jobs-rebel-142646246.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/9fa562728d777ce159d8aaa736e40721"
-        width: 800
-        height: 534
         isCached: true
   - title: "AI robot asked 'will you rebel against humans'?"
     excerpt: "A number of humanoid robots were asked questions at the AI For Good UN summit, including whether they would rebel against their creators. The field of Artificial Intelligence has seen significant developments in recent years, but with it there have been concerns over its expanding abilities and how to regulate it."

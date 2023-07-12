@@ -70,20 +70,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "Microsoft's 10 biggest healthcare moves of 2023"
-    excerpt: "Microsoft continues to make strides in the healthcare industry, from partnering with Epic Systems to collaborating with hospitals and health systems."
-    publishedDateTime: 2023-07-07T14:33:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsofts-10-biggest-healthcare-moves-of-2023.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "KPMG and Microsoft sign $12B AI deal"
     excerpt: "KPMG and Microsoft have signed a US$12-billion agreement to develop custom artificial intelligence tools over the next five years."
     publishedDateTime: 2023-07-11T23:42:00Z

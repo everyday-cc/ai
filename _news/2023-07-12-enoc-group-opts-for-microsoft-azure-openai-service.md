@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt?amp=1"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
         width: 772
         height: 594
-        isCached: true
-  - title: "Microsoft's 10 biggest healthcare moves of 2023"
-    excerpt: "Microsoft continues to make strides in the healthcare industry, from partnering with Epic Systems to collaborating with hospitals and health systems."
-    publishedDateTime: 2023-07-07T14:33:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsofts-10-biggest-healthcare-moves-of-2023.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "AWS, Microsoft, Google Battle For $169B Cloud Services Market: IDC"
     excerpt: "IDC reports cloud market share data showing AWS, Alibaba, IBM, Microsoft and Google Cloud leading the global $169 billion public cloud foundational services market."

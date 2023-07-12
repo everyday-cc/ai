@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/pitch-deck-recruitbot-hr-tech-seed
 webUrl: "https://www.businessinsider.com/pitch-deck-recruitbot-hr-tech-seed-vc-funding-slow-ventures-2023-7"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Here's the 12-slide pitch deck Prolific, a startup providing quality data to train AI models, used to raise $32 million"
+    excerpt: "The London-based startup, which is a graduate from Y Combinator, will use the fresh funds to expand in the US."
+    publishedDateTime: 2023-07-12T07:00:00Z
+    webUrl: "https://www.businessinsider.com/prolific-ai-research-startup-raises-32m-funding-for-us-expansion-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/64ac2a518ed31300199e4a1e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "4fFw0rCkJAeLvrK1eVE7uJqXqEYtrsD/1XdObBydRD11ywb17l4eQrgG1KWJFqsXkO/TnCEMOqlgyMOnMtbNc209d0ndmXN/z4jT0COh62Za5vAi4EvYUsDsSH9MPVL77qaL2i8z3EobfauwM95Fje2rZTN1Nrlq5qXu042/+SSo/KsT9+85z5y5sSzHG+qxg/fZmX5R7PzQA6JeyvSfTBBRs2mk60WotB/eDFcUa9jRFMI1jsO0vHUX9ZdK/0Q/e3f/esBI7AkWpaqzA9qMdDvQ3DKQ/GyiHf+ZMMJu9JAqp72sYmmkV9LZ5QuYN7NPVRI2PALmYnUhtrgxcRpcWNRsRzywLuNi4k/McKA//0OxNdgCBS6dLK5dBVdZGzzmNYhCEcWDLkmkhCKFFrKESvB4x+1Vcv52e3Oyt9SrWPloSuOO5MteZUeqlbWoTMP3iNonWlQainx0oWAkxHCqLo0PBVFFQE1WRuCfIPwUmnr/mEl1wMCOyXjcp/m9DjSbE70MFlx3+V64Ie7BWd0PKg==;Ey4c4tr5zStwNxiMk3ShIg=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Polymer \"Brains\" Could Advance Artificial Neural Networks"
 excerpt: "The development of neural networks to create artificial intelligence in computers was originally inspired by how biological systems work. These ‘neuromorphic’ networks, however, run on hardware that looks nothing like a biological brain, which limits ..."
 publishedDateTime: 2023-07-04T08:34:00Z
-originalUrl: "https://www.technologynetworks.com/neuroscience/news/polymer-brains-could-advance-artificial-neural-networks-375668"
-webUrl: "https://www.technologynetworks.com/neuroscience/news/polymer-brains-could-advance-artificial-neural-networks-375668"
+originalUrl: "https://www.technologynetworks.com/informatics/news/polymer-brains-could-advance-artificial-neural-networks-375668"
+webUrl: "https://www.technologynetworks.com/informatics/news/polymer-brains-could-advance-artificial-neural-networks-375668"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 360
     isCached: true
 
-secured: "NtjUSI8o/RbIXqT75MYOWjbo3r3fGJ0F3+SVTQwnajl6gv6CcPJbf9rj/UgjDbEXjohcxy3H85sOXfGPpgAyPd/1J+caR5OHK1B3xDH9ifhPTQezt28fOh6ReTThsoNdUeyBuSg+pgT5oyRN6krs5V5uQ+M8GQc7Ds8Ie/5pgHEVrYr6lW3catrf2pWo49ZUKASfm3vY5AED0Cy0wGAgK2S4S1xs+ium0bVxOMTXGtJawOotA2T+F8YoBhv3WPuWoX4Aw2BTOIPHyKiSOeftsr8HMGuL5WlH/iVwtzGNdoDkHX94tfvvQ6rEmJcYGXW98v7Aoj8jpAkiMd71sJJHNAi+J3jpDtgxhjo+ynYrEVk=;jNLRC37CNb+nVq/NqDWWxw=="
+secured: "kn8ekaCHerRfr2u210p40UfctLScz6LFnEVc8w5IKPMYk/88WhR5Bc0aJGaj8XxBH1ygp4EEqYBZEhXr7x2q4yGZhJFpzmdsTkfCth1CU8ORMBDdsqWVD/1C1QIGaqSV0YK+xqjGIDcUbeuEJeRJK4kMZ6y/uumTxyjQZ5UOXcivcn4ugsS2prpFcUCIOMS9+yDCLYMDc0SDc/tSS2+DIFC/dgyWmV7A9pz8lPH4zo2SOc1tA6gDf1e+dnL0yWMcILr5ChksHO5Ih5r0lNR/UjdFkeFCPdNyt9Tr8TFgftxMXOKe3l/hrEwShc1bNHI8Qq2vMcP8Ga9GiwQtHAG/DrHqVQLDPBRAw3/7hmpQOsA=;Zmk8HvoCXsIN8WYgBRSu1Q=="
 ---
 

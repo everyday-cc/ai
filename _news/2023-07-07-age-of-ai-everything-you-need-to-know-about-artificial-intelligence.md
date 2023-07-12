@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 106
-heat: 246
+heat: 236
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6481f0a20bd1d57b30595934/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 836
+        isCached: true
+  - title: "Antidote to AI hype"
+    excerpt: "AI is a powerful technology that can have significant impacts on various aspects of society, such as the economy, politics, security and ethics. Therefore, it is important to have a check-and-balance system as AI expands exponentially to ensure its innovative but safe and ethical use."
+    publishedDateTime: 2023-07-12T07:40:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/07/202_354763.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Daniel_Shin_200_4c6010f899cff.jpg/dims/resize/740/optimize"
+        width: 740
+        height: 870
         isCached: true
   - title: "Bill Gates isn’t too scared about AI"
     excerpt: "“The best reason to believe that we can manage the risks is that we have done it before.”"
@@ -137,20 +153,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Using AI To Understand the Language of Molecules"
-    excerpt: "This AI system only needs a small amount of data to predict molecular properties, which could speed up drug discovery and material development."
-    publishedDateTime: 2023-07-07T15:00:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/news/using-ai-to-understand-the-language-of-molecules-375903"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375903/using-ai-to-understand-the-language-of-molecules-375903-640x360.jpg?cb=20230707"
-        width: 640
-        height: 360
-        isCached: true
   - title: "In the age of AI, tech's little guys need big friends"
     excerpt: "The tech industry loves its garage startup stories. From Hewlett-Packard to Google, the tales of bootstrapped companies that have turned into giants have inspired generations of entrepreneurs."
     publishedDateTime: 2023-07-08T11:12:00Z
@@ -207,15 +209,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "What Does AI Know About Wine, Camping, and Airport Food?"
-    excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
-    publishedDateTime: 2023-07-07T14:24:00Z
-    webUrl: "https://www.inc.com/inc-masters/what-does-ai-know-about-wine-camping-and.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
 
 secured: "U1ApAca/dTQCozMhRDhuxrcI6Mp/tw1OUzipNN6rPjzCmb6AsL7k51QBIss6ETrk6R/eLtWT5Q7FFxkqyEv7NmU84leFor00G1ja92xbxoJ9xkTLZb+QgBAw9Dx67nJqqk639eXSNuzQSUokbo81x7iKxYiI2Z1IaE54elUxhmTSkSmjlQvN/9C5ztWZqLafjHbMhHsd7qIKljAylQi+wVhviQSEK0bDE3n750ryF3pjSckFLa0/Vu02adxfBI2wGMi83hhiPCtKdUQBUILEdwQPoSectWG/EZUO1T2f/K9R35crziSgQBHJwEU1KznRsWNjeGr7ICwZ4bN9dHrUHkQ905WIxVcFVb/v78OckhozLYIS4+NYS8ORHWWSQuak08PKOAJuxaluUHGNQf784yY/F0lwIdWBmVk5T/UguTMv/Ba3DkBAFhtjPQ0s5bzP7tyUapup7RzbR5ysEiNAemCXpvb7MYSRK9BGpaOC1nzJmkhDrfmzVPMTA1obBgGQ4tuuk3IYIau8JFk8McI/Qw==;RdXLsVdWcSG9zkJcA6UfOQ=="
 ---

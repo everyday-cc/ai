@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Antidote to AI hype"
+    excerpt: "AI is a powerful technology that can have significant impacts on various aspects of society, such as the economy, politics, security and ethics. Therefore, it is important to have a check-and-balance system as AI expands exponentially to ensure its innovative but safe and ethical use."
+    publishedDateTime: 2023-07-12T07:40:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/07/202_354763.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Daniel_Shin_200_4c6010f899cff.jpg/dims/resize/740/optimize"
+        width: 740
+        height: 870
+        isCached: true
   - title: "Bill Gates isn’t too scared about AI"
     excerpt: "“The best reason to believe that we can manage the risks is that we have done it before.”"
     publishedDateTime: 2023-07-11T17:09:00Z
@@ -146,20 +162,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Using AI To Understand the Language of Molecules"
-    excerpt: "This AI system only needs a small amount of data to predict molecular properties, which could speed up drug discovery and material development."
-    publishedDateTime: 2023-07-07T15:00:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/news/using-ai-to-understand-the-language-of-molecules-375903"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375903/using-ai-to-understand-the-language-of-molecules-375903-640x360.jpg?cb=20230707"
-        width: 640
-        height: 360
-        isCached: true
   - title: "China, AI and Earnings: What Investors Need to Know Right Now"
     excerpt: "The battle for rare earth and critical minerals is alive and well and is spreading into a 'chip war.' China, artificial intelligence and the upcoming earnings season are on my mind, after a holiday shortened week and a whole bunch of jobs data,"
     publishedDateTime: 2023-07-10T14:00:00Z
@@ -202,15 +204,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "What Does AI Know About Wine, Camping, and Airport Food?"
-    excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
-    publishedDateTime: 2023-07-07T14:24:00Z
-    webUrl: "https://www.inc.com/inc-masters/what-does-ai-know-about-wine-camping-and.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
 
 secured: "xWOHIXQgkEL8EX4WLKSYtNyzPld+kTTd6wTzpXpGnGEnEbB+bYOHi0o+jn/QLBa2dBStfeV02/hYcF+GzgKYSo5Wttlqv784JXTNpzlGrPFVhaHiJjf0F6aai6YytoaHq5dCVqlOt899GQqhTiNzr3LnCE2zCpVYzd3MOwqf0Mk3vG/DhIoPaanQVXemtPvFQtm3l7tBfD3kIYfv+e9A0rQhTTouTYFbXHPo4QmAmq5FRwdj5TU/C6tzhc3YqwCp8m92/mGDHdcGVC0JPHVdNXEMNFsQ68mM+jr+B8wH30QUifjYo1+pjNfS41fmG/p0/7mUPspR0dVj/gmMmwtxslAB8xVVoaf9rbcJEIaMNcc=;KvMBa91nEWXIX6Xx8lSZhg=="
 ---

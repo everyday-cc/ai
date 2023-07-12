@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Antidote to AI hype"
+    excerpt: "AI is a powerful technology that can have significant impacts on various aspects of society, such as the economy, politics, security and ethics. Therefore, it is important to have a check-and-balance system as AI expands exponentially to ensure its innovative but safe and ethical use."
+    publishedDateTime: 2023-07-12T07:40:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/07/202_354763.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Daniel_Shin_200_4c6010f899cff.jpg/dims/resize/740/optimize"
+        width: 740
+        height: 870
+        isCached: true
   - title: "Bill Gates isn’t too scared about AI"
     excerpt: "“The best reason to believe that we can manage the risks is that we have done it before.”"
     publishedDateTime: 2023-07-11T17:09:00Z
@@ -132,20 +148,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Using AI To Understand the Language of Molecules"
-    excerpt: "This AI system only needs a small amount of data to predict molecular properties, which could speed up drug discovery and material development."
-    publishedDateTime: 2023-07-07T15:00:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/news/using-ai-to-understand-the-language-of-molecules-375903"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375903/using-ai-to-understand-the-language-of-molecules-375903-640x360.jpg?cb=20230707"
-        width: 640
-        height: 360
-        isCached: true
   - title: "In the age of AI, tech's little guys need big friends"
     excerpt: "The tech industry loves its garage startup stories. From Hewlett-Packard to Google, the tales of bootstrapped companies that have turned into giants have inspired generations of entrepreneurs."
     publishedDateTime: 2023-07-08T11:12:00Z
@@ -202,15 +204,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "What Does AI Know About Wine, Camping, and Airport Food?"
-    excerpt: "South Campground in Zion is, in fact, one of the hardest-to-book campgrounds in the country, with no availability for more than 97 percent of the season. That seemed like relevant info for Getaiway to include."
-    publishedDateTime: 2023-07-07T14:24:00Z
-    webUrl: "https://www.inc.com/inc-masters/what-does-ai-know-about-wine-camping-and.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
 
 secured: "Lgd3kQKRvXD7aMKroASiNIHAAn9RaPX5AMKnFJcH/RXW5wdJIZNiD8hBlaPQVlOzMWjsGLoGFEEIVG2d9MRFhpf8CMS+SKoNH/xzhTrr4GYrMzjS+nVABYLxsd/IkmB3NvD572UwsaGBNLnjvF1IQnqcssZIhEtlHLXFgxbrLixmDcQHh09un0jnpr56ZN1XE2dnccQgnzlZsugest92qb6CFsC0bjUrB2J1SQZGC95uhXqMCBmF3HERIvc/r2KUND8Ug9NgTSS+2dkToifZsFeGwkZhTEC76nQ6LT9/OndgM9TbzLNwoh1hYkj95CW0beZVA3dI8mInzD1MKtB2IyaYLuFWF6CIgFbO+mPzX1c=;POyMbswP/y4SH/jYQ4lACg=="
 ---

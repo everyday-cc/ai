@@ -42,6 +42,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "AMD CEO Lisa Su says using AI to design chips will dominate the market going forward"
+    excerpt: "It's AI Inception, or something, as we move towards a future where AI models will end up designing the AI hardware that AI models use."
+    publishedDateTime: 2023-07-12T06:26:00Z
+    webUrl: "https://www.tweaktown.com/news/92303/amd-ceo-lisa-su-says-using-ai-to-design-chips-will-dominate-the-market-going-forward/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 47
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92303_01_amd-ceo-lisa-su-says-using-ai-to-design-chips-will-dominate-the-market-going-forward_full.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "2r++NssNKH0B5RED3ItSSXT8mechYoBY2tO0JivqkO6Tw8EZeGvM8/XWmO542kZAqNenoHHC4El0jCsBNFUNHDaFziiKeU44l+uKUEoAmJe/i6QvHZ6vLP93E7epOo3sDtrJeJ5iqwHUIOLtf11gaEfKMD8pPjEb7RS+vB4aEEPmd77ofesnKSAcuF9a3SlNJhlEAW03XapqyFn98CqpjlYMApmrnRJFtHO3rbnMqUnX2WVaALnMC/Q3WoRNNqLOdvT6Vb2wPVX95aV6wW/NWNmnS3qEeerP0hvVYfTCJWC++kWNWNpKc4MUVXPgv9QDbZ85Hxt254P4N5SmPMrLK2XGEGuJjUFYBNTtw69s1hA=;SbjLSEl/i8RWr3BZ6oax5Q=="
 ---

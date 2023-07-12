@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Robots say they won't steal jobs, rebel against humans"
-    excerpt: "The nine humanoid robots gathered at the 'AI for Good' conference in Geneva, where organisers are seeking to make the case for Artificial Intelligence and the robots it is powering to help resolve some of the world's biggest challenges such as disease and ..."
-    publishedDateTime: 2023-07-07T14:46:00Z
-    webUrl: "https://www.aol.com/news/robots-wont-steal-jobs-rebel-142646246.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/9fa562728d777ce159d8aaa736e40721"
-        width: 800
-        height: 534
-        isCached: true
   - title: "AI robots say they have no plans to steal people’s jobs"
     excerpt: "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an"
     publishedDateTime: 2023-07-10T01:13:00Z

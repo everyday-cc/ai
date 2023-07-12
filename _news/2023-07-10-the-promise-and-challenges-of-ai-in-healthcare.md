@@ -40,22 +40,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 116
-  - title: "AI In Healthcare And Other Scary Stories"
-    excerpt: "No greater buzzword exists than Artificial Intelligence (AI) to make a story headline flash. In healthcare, stories about AI being used to discover new drugs and faster, more accurate medical diagnoses are guaranteed clickbait. These goals may be the stuff ..."
-    publishedDateTime: 2023-07-07T14:12:00Z
-    webUrl: "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a42934cf75fa7c8db4ddd4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 749
-        isCached: true
   - title: "The week in AI: Generative AI spams up the web"
     excerpt: "This week in AI, a startup for SEO-optimized, AI-generated web content, OpenAI releases GPT-4 to the public, and a smart intubator."
     publishedDateTime: 2023-07-08T15:01:00Z
@@ -168,22 +152,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ask Not What AI Will Do To Humanity"
-    excerpt: "On one hand, I’m happy to see this topic generating attention. AI is a powerful force seeping its way into every nook and cranny of our lives — as such, it seems prudent that we discuss it. On the other hand, I fear that sensationalist questions such as this will appear fear-based and naïve, dismissing rather than promoting critical dialogue."
-    publishedDateTime: 2023-07-12T00:06:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-07/Moor%20Studio%3AShutterstock_2259493033%20copy.jpg?itok=_T5lxd0M"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "GE Healthcare survey: AI faces skepticism in the medical care business"
     excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the U.S."
     publishedDateTime: 2023-07-09T14:59:00Z
@@ -240,6 +208,17 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Meet The AI Specialist Employing Data-driven Strategies To Revolutionize Healthcare"
+    excerpt: "The utilization of data analytics stands to revolutionize the delivery of healthcare services by enhancing drug discovery, bolstering patient adherence, reducing physician burnout and patient out of pocket expenses,"
+    publishedDateTime: 2023-07-12T07:21:00Z
+    webUrl: "https://www.freepressjournal.in/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
+    ampWebUrl: "https://www.freepressjournal.in/amp/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 48
   - title: "The best AI art generators in July 2023"
     excerpt: "How do the best AI art generators work? AI art generators work by employing learned data. Developers of the models feed countless images into them, with which the artificial intel"
     publishedDateTime: 2023-07-10T16:00:00Z

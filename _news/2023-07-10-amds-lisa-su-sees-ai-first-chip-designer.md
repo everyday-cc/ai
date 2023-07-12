@@ -34,6 +34,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
+  - title: "AMD CEO Lisa Su says using AI to design chips will dominate the market going forward"
+    excerpt: "It's AI Inception, or something, as we move towards a future where AI models will end up designing the AI hardware that AI models use."
+    publishedDateTime: 2023-07-12T06:26:00Z
+    webUrl: "https://www.tweaktown.com/news/92303/amd-ceo-lisa-su-says-using-ai-to-design-chips-will-dominate-the-market-going-forward/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 47
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92303_01_amd-ceo-lisa-su-says-using-ai-to-design-chips-will-dominate-the-market-going-forward_full.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "AMD's Lisa Su says AI Will Dominate Chip Design"
     excerpt: "Lisa Su, CEO of AMD, believes that AI-enabled tools will dominate chip design as the complexity of processors continues to rise"
     publishedDateTime: 2023-07-11T06:54:00Z
@@ -44,6 +58,6 @@ related:
       domain: guru3d.com
     quality: 34
 
-secured: "utKMw3iJYaxBv8KehJGY6selRViY5CK4M+M+vmdt6xJ/CWOx2yH457zgRh4P4vcjF61YrdZpwu40VlbLGHvsp+bRx5NZCYa4vf87ZRgEWyNRR+QdZ+Dnkj9W+eY3QUFQU2SvWa9CsfVtG5tdvJE7S3DHOyL1jbSWAbiIGvuMQqnl5TstYUu+lHnOF+N52zoUb77aQ5UvgwjffZpfG3eZXYdB8pqD0aVhXGCpyWbUFlTZHmzLNpqt1urdo1RdZxVCNmyBFZBZFwft1ZnT+zIl4zvzz2bAZzyki1TZOCUdF4ACFsgsb3HTmo7H2pyh4CQkkDUCUCPGODWY68guebZH1ussbZTEAY7bRFMPl4RoqqM=;2y7dDz+YYvKJ5F1bqL0SxQ=="
+secured: "0w0WgsyuwJFN3jtuo9270R9J+/CoBySLnfeHbnuCZVdO7VG/u8RZZ5kjoo8uwBnFZhseToRjSn2bewOg+oW1n5cfqTuIhU/2lUpOrIJiU7GLdn+wQ4UYHRp/2gGEFJ2DpAKeMX7sCPGaHIaxzVlqKqtz23To0DoemhbB5sRQNkMEYzRei4e12vWxyQzCrJnp3XkRNRJ19uXVEVRoJ78YMfXvU6nPqGjFpInXK2ZwGlUkrDuf4hnHpJ5DuNheo7p80kHtfFGT0HOfayoLsZZcBTnIaMyAIYyOJPkAPwhK787FlCPKggzlvs+CnCAxFi21GyfxDrNero+AtnsUSZBDb0fa/yqq1KuSnce9OQUU6IZfl2OGkxeJmaaqgDeeLX8cwrk4/L8rLVxm23XUab8WDE2JwthjBdUfz8K7QiQOmu/ADUfngXHs6wTlijHOULPkshxqOPG8v9HpdNFLYmgc62yTsQEECyl7BIl3KGp6QUrO+2f0ZdRaAdZHsDggGqkHB8Y3SdEMd5WLKSM+csR/0Q==;Oagk1GykpQbODvCCNwQpLg=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "India's Wipro commits $1 bln investment into AI"
+    excerpt: "Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years."
+    publishedDateTime: 2023-07-12T01:47:00Z
+    webUrl: "https://www.reuters.com/technology/indias-wipro-commits-1-bln-investment-into-ai-2023-07-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/fHpNwdkVZUla20Myt2ZPpxsf7H0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XNBC2CNZXZIFVCPNYT5EUAKBVI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "KPMG Plans $2 Billion Investment in AI and Cloud Services"
     excerpt: "An expanded partnership with Microsoft is expected to bring in $12 billion in revenue for KPMG over five years, the Big Four accounting firm said."
     publishedDateTime: 2023-07-11T19:50:00Z
@@ -88,6 +102,20 @@ related:
       - url: "https://c.ndtvimg.com/2023-02/i7gp8vt8_wipro_640x480_22_February_23.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "India's Wipro commits $1 billion investment into AI"
+    excerpt: "Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI,"
+    publishedDateTime: 2023-07-12T02:47:00Z
+    webUrl: "https://www.aol.com/news/indias-wipro-commits-1-billion-024750149.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/f0a72a1351ec771f28693f45fd46ec2f"
+        width: 800
+        height: 533
         isCached: true
   - title: "India’s Wipro commits $1bn investment into AI"
     excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."

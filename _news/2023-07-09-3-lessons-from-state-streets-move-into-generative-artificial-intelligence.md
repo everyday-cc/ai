@@ -71,6 +71,20 @@ related:
         width: 999
         height: 563
         isCached: true
+  - title: "Amazon touts its low-cost cloud computing in generative AI race"
+    excerpt: "A key way that Amazon's cloud division aims to set itself apart from rivals perceived to have a leg up on artificial intelligence is by competing on price, an executive said on Tuesday. The AI models behind a viral chatbot like ChatGPT require immense computing power to train and operate,"
+    publishedDateTime: 2023-07-12T07:11:00Z
+    webUrl: "https://www.aol.com/news/amazon-touts-low-cost-cloud-001132828.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/352c695b9611de4579999da1626fca1f"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Nick Clegg: Openness on AI is the way forward for tech"
     excerpt: "But, ultimately, openness is the best antidote to the fears surrounding AI. It allows for collaboration, scrutiny and iteration. And it gives businesses, start-ups and researchers access to tools they could never build themselves, backed by computing power they can’t otherwise access, opening up a world of social and economic opportunities."
     publishedDateTime: 2023-07-11T04:00:00Z
@@ -119,15 +133,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 13
-  - title: "Five Reasons Why You Should be Monitoring These Four Artificial Intelligence Cases"
-    excerpt: "The first wave of litigation involving generative AI and/or machine learning is well under way. There are (at least) five reasons why you should be monitoring four significant ongoing cases that involve artificial intelligence-related platforms and issues."
-    publishedDateTime: 2023-07-07T13:21:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/07/07/five-reasons-why-you-should-be-monitoring-these-four-artificial-intelligence-cases/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 11
 
 secured: "DNu38taJ7o1sPb3+lZsAbd/SkRzyPj4VIhsKZ+rtdFkWu/z9aueqSxlUprgZV6Gp5uzyN2RlzV5avAA9LXMERSDtdkBw6zKIARoGenyDx6YRh+wsUQsk/WA0e3GdPpQADEFBr9ux1s8OM8UKSVF1/PcsweiDxksNwqQs/0Be2of+aK4cc3xodHkyGG0OW0LvL9UmWrk7OUdtmsPOFyvWBeaJXdyEtux775ZgZqsWijX1Mq6+nzL3RvtxGnbxacWUtBjF4s9CCwb93p2dMVlKsPhsvQeZzn/YNF2Mj/+6KYG5iaB0sIlBffgBuFtukdB212+5byGNpUsR1Vn9nrr9va7DaUzH6+mrr5kelbmpTAw=;Gqv26LsLbzkUh3j0qy8VlQ=="
 ---

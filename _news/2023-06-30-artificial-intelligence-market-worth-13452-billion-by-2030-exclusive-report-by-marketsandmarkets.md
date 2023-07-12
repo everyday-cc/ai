@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™"
-excerpt: "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,"
-publishedDateTime: 2023-06-30T16:50:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/06/30/9842399.htm"
-webUrl: "https://it.tmcnet.com/news/2023/06/30/9842399.htm"
+title: "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets"
+excerpt: "The future of the AI market appears promising with the development of conversational AI and autonomous systems, as well as the penetration of new industries"
+publishedDateTime: 2023-06-30T15:29:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59472759-artificial-intelligence-market-worth-dollar-1-345-2-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59472759-artificial-intelligence-market-worth-dollar-1-345-2-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
-secured: "oP58Uqky4qJzxVm4R/9B2S4MwB/HxlYY7Z2BqqCZCUTs0bDvC4HLnSvGZo70WQMMK82klgJMKgX6LehQuS071eK20V/RMtLgQ5ruZakKChq49B/2NKhqZRV6FGTns11fuY3e0GQ8j6qXmEtauIVxv1gCqIBxNRpLx9jf/wnObAZ3odIJXZ/AuLSmxn8x02+IQZtwqGGRi3UamW8qw4e+uY8WQv33c1q7gnn+PFj26oDE31bDbhcPsyDQ+Ix1eTb8M20Y1T0D4eCRksUSrbX5T0+XkIqAJwHzSNyrFFWt9eGyrLC+icOb/bi9xY0SY2+Bpg7y1EZli+Sy8XRh7yS9UTYtcQS0v8lFY3LGaY03b4ZLuKXJzg45gNECVbwNupMJYBvCplWAnkvihZ0CNQD4XICcAyWQvTmikW6W9sLwVQKgp4hBzlLcUP7Ofi/kQZItg2r1Ui4scxbJa8RjW9NSBZdtya2G3oZsECEsyw9FbyuSgCIMXsutv/L9ghM8yOPEpLyt57povVxfLQ+O7sPHaQ==;QbmiSsU3PvHMv5it2rCkRA=="
+secured: "gWrkVmhJj0RctP5WqLZ1Lzx5Zi9iCv54n3q7zmyybaZv3MPwqq2BuH8fyZwpMxSvJ7Psm7S0vfg6uuOhZP6rUUh2X/lkzdcYFJ7aULI304zKIC2Tz+ccWTi+AV1DLZk5bVwYkgjt3p7cNj+ga2n5LOd056Oz4xTKZbl32ea90uBAi5NYntQvn31Z9AtDQ/VhOaUnMSmP5fUpXAgqQT1tk0hfQ89Defdt/zSh6dUbtyzENclC5xHpifuznTjlj7RwK4Rmb4/AI+0wyVFXYhbmS/Ww0MeQ7BYjI/0YoDv4maxXtx8mrf2CV4snvKUGyfkqkx8+E5XkTGDhKlRQqxg6na8oLBumGhcioNBTfu7aPHo=;QnT0ASQRcZKnZtXyxrmxmg=="
 ---
 

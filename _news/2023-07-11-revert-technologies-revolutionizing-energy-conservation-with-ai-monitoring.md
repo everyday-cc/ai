@@ -146,15 +146,6 @@ related:
         width: 943
         height: 629
         isCached: true
-  - title: "AI And Digital Transformations: Is Your Company Prepared?"
-    excerpt: "As powerful as AI may be, it’s also just an added tool for amplifying corporate efforts. Using it for the sake of implementation shouldn’t ever be a main goal in itself. Start by building a clear implementation strategy that identifies specific needs ..."
-    publishedDateTime: 2023-07-07T13:22:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/ai-and-digital-transformations-is-your-company-prepared/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Crypto And AI Innovation: The London Attraction"
     excerpt: "Exploring London's Emergence as the Global Nexus of Crypto, AI, and Tech Innovation: Balancing Tradition, Regulation, and Disruptive Potential."
     publishedDateTime: 2023-07-09T12:00:00Z
@@ -186,6 +177,20 @@ related:
       - url: "https://obj.shine.cn/files/2023/07/07/20a28c71-a211-4c84-8dec-db98ee16ebb8_0.jpg"
         width: 940
         height: 528
+        isCached: true
+  - title: "Google's Speech AI AudioPaLM Performs Translation with Voice Transfer"
+    excerpt: "This work has focused on speech recognition and speech translation, for which the benchmarks are more mature. The establishment of more benchmarks and metrics for generative audio tasks will help to accelerate research further. Several users discussed ..."
+    publishedDateTime: 2023-07-11T13:08:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/google-audiopalm/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2023/07/google-audiopalm/en/headerimage/generatedHeaderImage-1688225808251.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Attacker behaviour, AI and cloud-native applications"
     excerpt: "With the popularity of cloud-native applications and solutions, ransomware is becoming an unfortunate reality for businesses today."

@@ -1,152 +1,26 @@
 ---
 category: news
 title: "People are uncomfortable with AI-led healthcare"
-excerpt: "Less than one-third of people are comfortable with their primary care doctor's appointment being led by artificial intelligence, with vast majorities of women being more skeptical than men about the new frontier of healthcare technology, according to a new ..."
+excerpt: "Less than one-third of people are comfortable with their primary care doctor's appointment being led by artificial intelligence ... about the new frontier of healthcare technology, according ..."
 publishedDateTime: 2023-07-06T14:52:00Z
-originalUrl: "https://gazette.com/news/wex/people-are-uncomfortable-with-ai-led-healthcare/article_f639c385-50b9-5eb0-aa85-388a325e9107.html"
-webUrl: "https://gazette.com/news/wex/people-are-uncomfortable-with-ai-led-healthcare/article_f639c385-50b9-5eb0-aa85-388a325e9107.html"
+originalUrl: "https://www.washingtonexaminer.com/policy/healthcare/patients-uncomfortable-ai-healthcare"
+webUrl: "https://www.washingtonexaminer.com/policy/healthcare/patients-uncomfortable-ai-healthcare"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
-  name: The Gazette
-  domain: gazette.com
+  name: Washington Examiner
+  domain: washingtonexaminer.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://i.prcdn.co/img?cid=9YMC&page=1&width=300"
-    width: 293
-    height: 514
+  - url: "https://mediadc.brightspotcdn.com/dims4/default/50c181b/2147483647/strip/true/crop/3729x1958+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F6e%2F0f%2Ff516ae5d44d4b5de9c80dd60a5d4%2Fistock-863492778.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "AI In Healthcare And Other Scary Stories"
-    excerpt: "No greater buzzword exists than Artificial Intelligence (AI) to make a story headline flash. In healthcare, stories about AI being used to discover new drugs and faster, more accurate medical diagnoses are guaranteed clickbait. These goals may be the stuff ..."
-    publishedDateTime: 2023-07-07T14:12:00Z
-    webUrl: "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenbrozak/2023/07/07/ai-in-healthcare-and-other-scary-stories/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a42934cf75fa7c8db4ddd4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 749
-        isCached: true
-  - title: "The Promise And Challenges Of AI In Healthcare"
-    excerpt: "Fueled by the flashy arrival of OpenAI’s ChatGPT and its newest large language model, GPT-4, the race is on among IT vendors and care providers to use AI to improve everything from triage to patient communications to treatment to discharge."
-    publishedDateTime: 2023-07-10T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI in Healthcare Market Size is Expanding Around USD 21.74 Billion by 2032"
-    excerpt: "As per Precedence Research, the U.S. generative AI in healthcare market size will reach at USD 8.7 billion by 2032. Generative AI, refers to a class of artificial intelligence"
-    publishedDateTime: 2023-07-10T07:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33159890/generative-ai-in-healthcare-market-size-is-expanding-around-usd-21-74-billion-by-2032"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33159890"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159890"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 67
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "GE Healthcare survey: AI faces skepticism in the medical care business"
-    excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the U.S."
-    publishedDateTime: 2023-07-09T14:59:00Z
-    webUrl: "https://www.aol.com/finance/ge-healthcare-survey-ai-faces-150026709.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/4wlq8nqY2d9FStWQo6CVzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/916049f182d780a2b27a878f29944726"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI in Health Care: Regulatory Landscape & Risk Mitigation"
-    excerpt: "Health care, like most industries, is grappling with the proliferation of artificial intelligence (AI) and the novel risks and benefits it presents. Balancing these risks and benefits can be especially challenging for attorneys, as the laws and regulatory ..."
-    publishedDateTime: 2023-07-06T23:50:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ai-in-health-care-regulatory-landscape-4445187/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "How 5 healthcare organizations are investing in AI for patient care"
-    excerpt: "Healthcare organizations are investing millions of dollars into artificial intelligence to achieve a faster and more accurate care delivery model."
-    publishedDateTime: 2023-07-06T19:08:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/ai-patient-care-cleveland-clinic-providence-adventhealth"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
-  - title: "Seniors still skeptical of AI-led healthcare, new study shows"
-    excerpt: "While patients acknowledge AI's ubiquity, they are not yet willing to cede the role of primary care and therapy to AI, a new study shows."
-    publishedDateTime: 2023-07-07T04:20:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/seniors-still-skeptical-of-ai-led-healthcare-new-study-shows/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 34
-  - title: "Healthcare’s AI revolution is well underway"
-    excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
-    publishedDateTime: 2023-07-07T18:42:00Z
-    webUrl: "https://www.limaohio.com/features/lifestyle/2023/07/07/healthcares-ai-revolution-is-well-underway/"
-    type: article
-    provider:
-      name: The Lima News
-      domain: limaohio.com
-    quality: 34
-  - title: "Congress faces learning curve on AI in health care"
-    excerpt: "Congress isn’t moving any legislation on AI in health care yet — but lawmakers are definitely interested in the topic. Why it matters: New generative AI technologies are already being incorporated into health care systems with little oversight."
-    publishedDateTime: 2023-07-06T16:55:00Z
-    webUrl: "https://www.axios.com/pro/health-care-policy/2023/07/06/congress-ai-health-care"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
-  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
-    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
-    publishedDateTime: 2023-07-07T19:44:00Z
-    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
-
-secured: "JR1GLUcVjYLFk6ibdZXkqP0Px7OvBhwnAZYaCIhHfHCBeilqK/aHHM57Yvm6747BBjbhNnj37EilNnenZC0r/cHt7cIavn88hw8Ggln+ga7KunLi5+QxuxX8y/eNGJtkJTQYiUxDzHRcQGTQJcIclEmh2AWqQZqW1Yh0IqDY2fhA1JkAoe1RwuoCozprTM07yXPwghuAYynfjSYH9shXqJ91uN598f6mTbQ056u3E3+E/MxEfGxv9FrSYQ6icwCHeVOJEiVLo8WXB9Y9dVJ3r+DAV1wsylxLa29KvIjHPgDzUKSr6931kCJ5F66PpZ2CfDCMXhnJkPV5ShnpS8F7++p1jqRPMRzBaK5aAWOCcQUVGkF4XuZY+ZwIDluhwdVJs7QS3zlY94a06xbqjCfPYldS8Iozm/prPmOnm8ad9GYh6ToENdCPydIx51/cadB6VihtpfTjdJBlmRhNMIe/ASu7Q9MgZuoMQh3pRHzdxZVaG+mQyw4ra1vn5Q6iTfm1hxzbBEeVSixx4ztDtOTFBg==;rsDzKHnS2rl0fSD0DgEAvg=="
+secured: "N3t8Mq4qMU9eqLpnJibJZKB2/UsYRP66CYGfTnge/16QTZhE2doibROg1RXfUcqAXvwlkXrEX2u0eg1GAugy0yzRHHMhFZVleEJzDurqfvcAztd+siQkfReyd2l8cvAiWCQthcz/cO8/GRh6GEEciJzFHFuVIRho/mc29lB40OVgUSMYwDB8QRUCXXglY/rhqW9/waCoR4XjKPY76CoINFPlpwqLnlC6UH9IibBgYsPvt8YGr0DmtjmZ3rVq4q76oe2tIDJIqxE0j72x0e5EYaub5MY94VqFiyL62k4NDbDZW7TBHxCEVqBYKvPc5hX1k5dB1/D9JmePBr4yFUGBJ53lkiijfPyz6ARjHz9ZFfg=;+NeGSrq7TFm3qhZp9iDLPw=="
 ---
 

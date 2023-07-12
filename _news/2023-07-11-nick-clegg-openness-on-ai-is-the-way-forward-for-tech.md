@@ -77,6 +77,20 @@ related:
         width: 999
         height: 563
         isCached: true
+  - title: "Amazon touts its low-cost cloud computing in generative AI race"
+    excerpt: "A key way that Amazon's cloud division aims to set itself apart from rivals perceived to have a leg up on artificial intelligence is by competing on price, an executive said on Tuesday. The AI models behind a viral chatbot like ChatGPT require immense computing power to train and operate,"
+    publishedDateTime: 2023-07-12T07:11:00Z
+    webUrl: "https://www.aol.com/news/amazon-touts-low-cost-cloud-001132828.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/352c695b9611de4579999da1626fca1f"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Enterprise hits and misses - generative AI wants to take your job, but will it? Edge computing has traction, and (almost) nobody likes Meta's Threads"
     excerpt: "This week - generative AI is coming for your job - or is it? Fresh data sharpens the enterprise AI pursuit. Informed Buyers look for new sources of influence, while edge computing may have more customer attention than AI."
     publishedDateTime: 2023-07-10T09:32:00Z
@@ -120,15 +134,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 13
-  - title: "Five Reasons Why You Should be Monitoring These Four Artificial Intelligence Cases"
-    excerpt: "The first wave of litigation involving generative AI and/or machine learning is well under way. There are (at least) five reasons why you should be monitoring four significant ongoing cases that involve artificial intelligence-related platforms and issues."
-    publishedDateTime: 2023-07-07T13:21:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/07/07/five-reasons-why-you-should-be-monitoring-these-four-artificial-intelligence-cases/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 11
 
 secured: "4ut6s2OYRkVPEUDMZSuqyO1BsX4Kyl4SShgT/oZmQ6Z9WfLXWEod8DS5PswOn1d4HC2QWDNYXVKNGqcJi1bPyHe9U834tbZJ97v7Hsb8zNY4Fncpcl+KLdYra8CuPmzYoBR6l0cgc2QRhtX6NCYhMAf7yN73MK41pN42FKC9h/9q61cX7liUxlpnnlDYMAcITSl0KYpEdpKGgEFq6pVfNLxfys/SZ7Oy1SGQP3R3jyqeiN9Lnidf3/IjwIif9TNmlKy9EZiwnJMdmU0zVEFaR1XGsRcHZIfct5Qoqg69FbY5GPI3hUfOow4AFziyP00cV5PDozo/Mc7o+FXCelzKsI/8ZNk4SfNLwU1o0gE4iwQ=;n+C0GpXP/NLQ8ozfnxjOLw=="
 ---

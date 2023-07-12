@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integ
 webUrl: "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230710pd211_files/1_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "AMD CEO Lisa Su says using AI to design chips will dominate the market going forward"
+    excerpt: "It's AI Inception, or something, as we move towards a future where AI models will end up designing the AI hardware that AI models use."
+    publishedDateTime: 2023-07-12T06:26:00Z
+    webUrl: "https://www.tweaktown.com/news/92303/amd-ceo-lisa-su-says-using-ai-to-design-chips-will-dominate-the-market-going-forward/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 47
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92303_01_amd-ceo-lisa-su-says-using-ai-to-design-chips-will-dominate-the-market-going-forward_full.jpg"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "AMD's Lisa Su says AI Will Dominate Chip Design"
     excerpt: "Lisa Su, CEO of AMD, believes that AI-enabled tools will dominate chip design as the complexity of processors continues to rise"
