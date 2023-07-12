@@ -119,6 +119,31 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions"
+    excerpt: "According to Delaporte, Wipro ai360 is meant to empower the company's talent pool and \"be ubiquitous across all operations and processes,\" as well as"
+    publishedDateTime: 2023-07-12T15:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/articleshow/101705193.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/amp_articleshow/101705193.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/amp_articleshow/101705193.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://static.toiimg.com/photo/msid-101705160/101705160.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Wipro eyes new opportunities with $1B investment in AI"
+    excerpt: "The Indian IT consulting firm launches its ai360 platform, alongside a three-year $1 billion plan that includes training its 250,000 employees on the fundamentals of artificial intelligence."
+    publishedDateTime: 2023-07-12T12:01:00Z
+    webUrl: "https://www.zdnet.com/article/wipro-eyes-new-opportunities-with-1b-investment-in-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "India's Wipro commits $1 billion investment into AI"
     excerpt: "Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI,"
     publishedDateTime: 2023-07-12T02:47:00Z
@@ -185,6 +210,6 @@ related:
       domain: businesstimes.com.sg
     quality: 19
 
-secured: "aQjxwvGHJqv1dFhi/G1WxkbNhNMGTMycpy8FEtQZApkNaSi3rGuo9LHrVOAjTjC6iE1ckXpLiD/gDnAPcbPEYBjH/OsM1nGiPweq6wEHUDfMZnO4s33HEovymT8F9KN9dAxW9tSxp1sbQSsxGPYYyKOu8UHl2WvHF4SmDmBKmY3sTH/zENH2S005JDWB0pGDve1bDGU8g3SZlqF/OW2pWe2eYRbr71l3ESkHx/HT5wwfsgMr/WPd0r708OA6x4TcWc34d4Fd7y47KpytEW0r1ZEmb6xp+YeH+zCEjISS31MgaqJRlFHHkkN7ZD7CSJhkiYFNwawx3k5Hnp02h+ywJNIXKkjOk7ko6UHD0umUNEA=;uFtzrTi7t2FGg0RdpTl+DQ=="
+secured: "zV4WFdUK7qapoqadJVj4KMRGsM0WcXyRFBwebqo0zkeCF3ocjehttm5+jMdB3TlNDtmDZjko9CWtYf3h3uix+raxWA2LzrrHj3Mmdz9Xe/jyhgZaH98sVcPF53vr5/cdPg8l9tio1mi/AVj4F7xD/VgPOuL7pAN0q2dwRDjcQ2nN8y+yTwDuMMV7y8E8SOh9pTNDgITyELF2Eu6TF5EfhUmlAp3sgDHBGlzzeMo4SRzeU99ytDTs71xITpxPDPCNdbqV4gkzb9KjLXl65xGU5p/3NJUrC8V0u1eWGIFlwkJ1GOauxKhk1LousqmEvO30zmtibTci81wi944LJsXeswqAv9yvetNYjZKr25Dg3KtbFahS16CK+NG/KQixklBZpNzm+VTttoXnql/jdjUzQp8cDAakeBnMNZx2JIMNhzBDK9uf384CceZsF4yAYpa5ruxWktsoKXAsaADchHQ9jy/doj6MNW00NnRkzRdeUv4svU/yFRFcTL3p8yF+kBw7P5AKfMYM2zAaIcb+CL4Irg==;Cc+ce3bg8zz4dTNZtCDLnA=="
 ---
 

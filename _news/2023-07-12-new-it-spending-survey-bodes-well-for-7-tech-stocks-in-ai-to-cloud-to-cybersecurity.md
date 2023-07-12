@@ -43,21 +43,7 @@ related:
         width: 715
         height: 720
         isCached: true
-  - title: "How to Safely Architect AI in Your Cybersecurity Programs"
-    excerpt: "Guardrails need to be set in place to ensure confidentiality of sensitive information, while still leveraging AI as a force multiplier for productivity."
-    publishedDateTime: 2023-07-07T21:38:00Z
-    webUrl: "https://www.darkreading.com/edge/how-to-safely-architect-ai-in-your-cybersecurity-programs"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7f54a4bb7b161028/64a8656f902db65e03619ad8/robotglass-claude_thibault-alamy.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "ViE8ZgDqgTz4DFKZ5fsRlxJwejZXNjcJg61vh2GGeiL/X51/QOBeCbPC8o+9DLhq9ZxF7Ljx0RAtt83ee7y4gwr7ESIM+ACHR9PBdcdrz0pXgJztYwh9o7N3h/BAASB56b4t2NXWgNIvsYzTm+dRv4TsXds4o4w1UcegRUwI7pD+k14eQbHqc0y9xNgVwqS/91Aag7m4YOPSIqU5xv8rubjK34uGBWz3+7yp3GGBvTROXjM5UGonUZUIGhoqunbq9NfPQ8djlTAY+T17mrtlIwaIKedvCQjR+ys+kkHyFJbLPWRK1EDAx06fM/NPWEEGnrcXP9iIQCxf4D0im5N5JSRlYAT6b65IwhiMZEQHF1o=;M3Rfttw0RaWtW8wyQHpobQ=="
+secured: "dJaWAy3xB8hSRNfOy9IUPi9MS2HkdEKv+BWhV25Eo8xU4QkP8JOcTG6IpuyvkY9TTg8UeF5s18cJPQwICv/xo/2cLq4O7M9RAcXRuZof5RI91YSjueEfXoOyYrEQy44RhIqmCSen4p49dVuZdIPruMMRChkRLMCyCcunTqblVM3G1n+qzcjraijJ/FYTf+EORx/IFxNd8ufkB2CKP87YIdyxV+b3gW8HMDvK0T7KSy7di8LnhbRYB3pnoXuZK3JHU23o1KnElOGGLjTfSxQNrS0m+Mh62vB2f3IX4LSuj8CwYVPbs1sPFWyY5qG0sCU00kv9FTBXjayfQ/B+IA10iQIcVqC37Cr6bnU4Z29xR6tnOwbavqxCuZCp5PuyLouJ5flhp659KneOPZshCjwwcp6tk0I87WqAlhwLT9X+JmKVl23f8ArtipKr8aEwWFw6tQT4ba4I0STVpS465Xcdp8kzG7qWrXm2aw+ApzLVWfBvJahS/LB3ItzMSrXFsxx+suYEkZGGKxiQeKApX+reeA==;HgG84hF7AP4V0tC3z0T5gw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html"
 type: article
 quality: 87
-heat: 117
+heat: 108
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/02WIBj3c88ILOeyym8bZmf3/hero-image.fill.size_1200x675.v1689153934.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "M&E Faces up to the Promise and Challenges of Generative AI"
-    excerpt: "It is, of course, something that has been around since the 1950s but since the end of last year, coverage has ranged from the serious to hysterical, particularly over its latest manifestation, generative AI (Gen AI)."
-    publishedDateTime: 2023-07-10T15:33:00Z
-    webUrl: "https://www.tvtechnology.com/news/mande-faces-up-to-the-promise-and-challenges-of-generative-ai"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 43
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EMJcPYKmycaMXxGydkuN2K-1200-80.jpg"
-        width: 1200
-        height: 934
         isCached: true
 
 secured: "hozSSl2SQwu/66HxvH8e8DTTzaPcnX8haW3qXC8nNd9NoYszdX2QEWXBY1hvCTCD5EwssXECo8tVYUZDGqY4mg9to4Ew2Ap46NtV8VyZWc0hPM9FhBT6yQNJWWXFNKTR+0BTsi9U1a4QSEwx28i6iYUkdp91mzH6zmIVrnPIITjYScy9ZGxK5uaje0yp5INEeIAV/mFXF5kzi8jzumiwiKbFTimi12mK+8NXecKMIPue0FQOZuuDnREs0hwvwlroTnoCpuO59ZUwjvB0wXujvBxW/Hiy/aTCImuEgIwqQ/iSx2Is/14P09HfN+eVOwiA34hICVn/QyfQ4wZfjlV2slcopn2r86/da1ldXcq5oJAZFhZp8NyNYLGONFaAcfkFB8wVYu3/UZn5dj/qJs3qWi+VtHh7zvHHOi7QnRI27VVYSGMtr/FwsSri5DPaBsNBq2Z9TJoUL/B8jQcba3AV17iGtxXBKYNECNWABfRYNpR+p2Bk/2ZviSijyFnqjSogk0CDr86F5mNyznEbgASRww==;jDkuclk03cVePEYicMXlbw=="

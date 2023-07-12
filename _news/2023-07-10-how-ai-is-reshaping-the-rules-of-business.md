@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-busine
 webUrl: "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-business/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,29 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "How China is sharpening ethics rules for scientific research"
-    excerpt: "In late 2018, news of the world's first gene-edited babies sent shock waves across the scientific community, resulting in almost-universal condemnation for the Chinese scientist behind the experiment that broke ethical norms."
-    publishedDateTime: 2023-07-09T04:02:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/How-China-is-sharpening-ethics-rules-for-scientific-research"
+  - title: "Navigating The AI Regulatory Minefield: State And Local Themes From Recent Legislation"
+    excerpt: "In an era where AI is integrated into our everyday lives regulators are emphasizing the need for responsible governance — though the challenge lies in compliance."
+    publishedDateTime: 2023-07-12T13:54:00Z
+    webUrl: "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/"
     type: article
     provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F3%252F4%252F8%252F0%252F46190843-3-eng-GB%252FCropped-16886242472018-11-28T050928Z_637937548_RC160E366BC0_RTRMADP_3_HEALTH-CHINA-BABIES-PANEL.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64aeaf21d8b14e270be9bcff/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 792
         isCached: true
-  - title: "How artificial intelligence is helping Formula 1 expand its audience"
-    excerpt: "TVBEurope speaks to James Bradshaw, Formula 1's head of digital technology, about how the sport is using AI to create localised subtitles for its OOT platform F1 TV, and plans to personalise content e"
-    publishedDateTime: 2023-07-12T09:24:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/how-artificial-intelligence-is-helping-formula-1-expand-its-audience"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 19
 
 secured: "ksqVUbbwJElrzAvhfpEMKVw/XWd+wfuuMM+3ITm5pj+RjwiXx5gtbp6amDBW6441uQbrRJUHmSqcjGdHKvWQCgwgivHzmq4gUvrXgSY0677grtMRZNwY9Ng5txRhdRyNNtBs8oeiI98++pNXSVINMefm6jKfRV//S7W7O/++L1PIBi3fqf32lNKoyKJda6p9vn7IVeC8zWN1JN4MXEWFOtujnDlSLqI0uXakduefv1QMA6+96JEj8kFjGd/jitzl9GjP2gPuF3fAUDZffgJmNJZRT9dgWTlCBZ8ObSuLQ31bjKPs9iUmvoIeUTzuCjJ1jh/BILT2YCB0RW+CHGn8X9Bc/WVKuQB8Rit6bKLr8OjwY2HxGLrUly6u1Pnflj3UWLCTqKDT7EhZAU9WjDGBzo80sOmvO4OV2QYlnQNoXlKf9dmJFW/T1nYReIHRZPpM18NWQMWWGVw9dFCz/0xg6uih75YdbLbtfBEbnE+SAI0BkKLJ9WILbenENS7UhroIQ4qSCK9jkayOB/8vNaoxEw==;r4OW7hbLDXCzP3PlfsZPIg=="
 ---

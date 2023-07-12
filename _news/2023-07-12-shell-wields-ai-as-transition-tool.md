@@ -34,22 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
-  - title: "How AI And Automation Are Transforming The World"
-    excerpt: "Artificial intelligence holds revolutionizing potential across industries. Generally, AI can be divided into two categories: automation and augmentation. By automating, we can eliminate the need for human labor, and by augmenting, we can use AI to enhance the intelligence and performance of human beings."
-    publishedDateTime: 2023-07-10T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/how-ai-and-automation-are-transforming-the-world/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/how-ai-and-automation-are-transforming-the-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/how-ai-and-automation-are-transforming-the-world/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI-Driven Transformation: Insights And Pitfalls"
     excerpt: "The potential transformative power of artificial intelligence (AI) is undeniable, yet even industry giants are exercising caution as they navigate potential implications."
     publishedDateTime: 2023-07-11T16:07:00Z
@@ -65,6 +49,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64ad7ae447783414a7e45d54/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Our Three-Month Generative AI Transformation: Lessons Learned"
+    excerpt: "While generative AI is capable of incredible feats, leaders should start by thinking critically about how these new capabilities impact their companies’ visions."
+    publishedDateTime: 2023-07-12T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647df0780fbdf1afcd13b283/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 738
         isCached: true
   - title: "Robots highlight potential and cooperation at AI Forum ensuring human collaboration"
     excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
@@ -171,20 +171,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "New and advanced AI tech debuted at WAIC, with diverse applications"
-    excerpt: "This year's World Artificial Intelligence Conference is debuting a range of new AI tech, from driverless vehicle technology, new large language models, and practical software. Artificial intelligence innovations are making global debuts at the ongoing WAIC in Shanghai."
-    publishedDateTime: 2023-07-07T20:03:00Z
-    webUrl: "https://www.shine.cn/biz/tech/2307077617/"
-    type: article
-    provider:
-      name: SHINE
-      domain: shine.cn
-    quality: 39
-    images:
-      - url: "https://obj.shine.cn/files/2023/07/07/20a28c71-a211-4c84-8dec-db98ee16ebb8_0.jpg"
-        width: 940
-        height: 528
-        isCached: true
   - title: "Google's Speech AI AudioPaLM Performs Translation with Voice Transfer"
     excerpt: "This work has focused on speech recognition and speech translation, for which the benchmarks are more mature. The establishment of more benchmarks and metrics for generative audio tasks will help to accelerate research further. Several users discussed ..."
     publishedDateTime: 2023-07-11T13:08:00Z
@@ -268,6 +254,15 @@ related:
         width: 3584
         height: 1822
         isCached: true
+  - title: "Kinetica Now Free Forever in Cloud Hosted Version; Accelerate the Transition to Generative AI with SQL-GPT"
+    excerpt: "Industry-first pricing model includes storage and compute at no cost, with no expiration date; provision in under one minute and get going fast Kinetica Cloud for Dedicated Workloads provides upgrade option for production deployments ARLINGTON,"
+    publishedDateTime: 2023-07-12T12:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/12/9846923.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "HLfqjxf82hZ83mLEH9O1XbKHWzJYgYj7B209qPN6UC5jT+RymFrosEIfAOx4dnI3yRBreKp8y0ZGNIEZIH0Y208b3J8vWqYb3m90ZVqBHRnTp15SognkFgu9jMYIwPfp5G5xcc878d6dC4im5nbyHw83x3JVUQw+n7jGXbD+jNg33UZtJ6EQGdmoc3D7RqPNGYa6Z+zdRWKiY3vnqNhxaoGxWkJG7OS4yraVlmrJa68GkLUPmDwjibPw6hWklXIk4moRaSrfLkfRFFwXdLH8ZBgU0sDeijvj9QIDDZUevw7ZgB1rSXfrMRCcWSe8UMVp1qg1OS8JPWiBRLUQzgdc502D6RqfASW3yjp9CEfevGg=;4RllmOoGYqiZiaDqzyMNNQ=="
 ---

@@ -95,6 +95,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "KPMG to work closely with Microsoft on AI, investing $2 billion"
+    excerpt: "KPMG will work more closely with Microsoft around AI solutions. To put the money where its mouth is, it will also invest 1.8 billion euros ($2 billion) in"
+    publishedDateTime: 2023-07-12T14:01:00Z
+    webUrl: "https://www.techzine.eu/news/applications/108845/kpmg-to-work-closely-with-microsoft-on-ai-investing-2-billion/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/06/kpmg.png"
+        width: 1452
+        height: 823
+        isCached: true
   - title: "Azure: Our AI Platform – Stories – Microsoft"
     excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
     publishedDateTime: 2023-07-11T05:18:00Z
@@ -113,6 +127,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 45
+  - title: "Microsoft, KPMG enhance AI collaboration with $12 billion in prospective growth opportunities"
+    excerpt: "In an era where technology is rapidly advancing, companies are constantly seeking ways to stay ahead of the curve and embrace the power of AI to drive growth"
+    publishedDateTime: 2023-07-12T14:06:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-kpmg-enhance-ai-collaboration-with-12-billion-in-prospective-growth-opportunities/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 43
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/Artificial-Intelligence-AI.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Expands Entra Into Secure Service Edge"
     excerpt: "Among a handful of product announcements are two new offerings — Entra Internet Access and Entra Private Access — plus Azure AD has been renamed."
     publishedDateTime: 2023-07-11T18:05:00Z
@@ -127,6 +155,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "KPMG to expand ties with Microsoft, will spend $2 billion in AI, cloud services"
+    excerpt: "KPMG plans to spend $2 billion on AI and cloud services through an expanded partnership with Microsoft, aiming to incorporate AI into its core services. This move is in response to a slowdown in advis"
+    publishedDateTime: 2023-07-12T12:25:00Z
+    webUrl: "https://www.livemint.com/companies/news/kpmg-to-enter-into-a-deal-with-microsoft-spend-2-billion-in-ai-and-cloud-services-11689122323635.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 30
 
 secured: "90YOl7EnEz+EfaNkS3DBmt5P2hYn4Cz2v+wwtEshPb1x9YVm22hj+crHRiEEk750Goftl2t8216v5sIOPENwv45FyDdLSLLQCoj1h71cWYj2MuI3bB6m6y3vBDy0IIuhq8Q7TAoT6VYlUsd4NeoN9I+1yptIl7Av8DLQWYt+wyw7OC16gpeVbkU8K7rCuPyV+bORbiEbFx36rYl7bcRnQnUFIE1QATbUjtRdrERcV7sULor7sOp6Rp0d5Js6NK4ey2MUPnWGJMY/R5oT3ypFqU8qawslFvZrkEdrKhq8JOvDCALsOe/I45sUETyczUewQzVJko7kreBCG7ZI3soo1yWLXvRV/Nd/9RpkPnqmTAk=;4slRflIjLRqZrQ33A4M05g=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 427
     isCached: true
 
+related:
+  - title: "Intel launches Habana Gaudi 2 deep learning accelerator card for Chinese market"
+    excerpt: "Intel has announced the launch of the Habana Gaudi 2, a deep learning accelerator card designed specifically for the Chinese market."
+    publishedDateTime: 2023-07-12T12:06:00Z
+    webUrl: "https://technode.com/2023/07/12/intel-launches-habana-gaudi-2-deep-learning-accelerator-card-for-chinese-market/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 15
+
 secured: "EFEsPYifhH7++Q3ocHWSZp6DRMx1gP/aL6+9xoqTGLM7tQixb0F+gL22/HiKI5cyoEjj1FebNMqP6zzpEf18sZFxjuRUUkGOVvyLBTWDooWlojHvMKo4ICUYXVtUaRRmt2tV1cVh8BbShDEziaYckB1Tmlsui08sQH6Y4OgOrn7vuVoQAHS/fiZL7HxadG1kPYJ0yZU/p80yEnEu8EOqXcqvHxMWs7AFWNCtqhFmPftKc1ihc85LRlsaGzqi+taLIyXMDp05hzQp2g/DGqeUhNLeZ3e5NiKbNaUUMU63ur9IdfyR3TcmEch2GkM0q3jmqn/duIfYRMbg/D3YacQlgCl41OYmCrUrzNm8kkfUfgOZXmvXM1NW6Uaj9gMuQnF73T0cFPzIm4SjZvAv1qjyzw2Zg57hdMikkkXgzCramdjLNaTRqRa53QpbIaCfcNGFVCERs1RZ0lcr0PnfM/FfOmm6pfH5BsGxaZ5Cz4OzpkLT0jHldfq+5ifTWZZQlnDoJ3uj9mZ4UGTzdpiBZWfizg==;tl4+P19am6HjUshAcfRqEQ=="
 ---
 

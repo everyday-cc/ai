@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-12-dutch-startup-taps-ai-and-robotics-to-automate-ev-charging.md",
+      "title": "Dutch startup taps AI and robotics to automate EV charging",
+      "excerpt": "Rocsys has created a robotic arm guided by AI-powered computer vision technology that can convert any charger into an autonomous one.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging",
+      "originalUrl": "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Frocsys-autonomous-charger-EV-robotics.jpg&signature=b2e4e462ae986df71fc72aeaefe70deb",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-best-amazon-prime-day-2023-deals-on-robot-vacuums-that-are-50-off.md",
       "title": "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off",
       "excerpt": "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -204,7 +256,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -336,49 +388,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-10-chinese-ai-powered-robot-developer-cloudminds-raises-138m.md",
-      "title": "Chinese AI-powered robot developer CloudMinds raises $138m",
-      "excerpt": "Chinese artificial intelligence-powered robot developer CloudMinds has raised over 1 billion yuan ($138.1 million) in a Series C round of financing, as the firm is said to be weighing an initial public offering in Hong Kong.",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Spotlight/DealStreetAsia/Chinese-AI-powered-robot-developer-CloudMinds-raises-138m",
-      "originalUrl": "https://asia.nikkei.com/Spotlight/DealStreetAsia/Chinese-AI-powered-robot-developer-CloudMinds-raises-138m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F4%252F1%252F2%252F5%252F46205214-1-eng-GB%252FCloud%2520Minds.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-10-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
       "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
       "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
@@ -464,49 +473,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-will-robotics-automation-ai-take-our-jobs.md",
-      "title": "Will Robotics Automation & AI Take Our Jobs?",
-      "excerpt": "There's a big concern about robotics automation and artificial intelligence. We think it's a $150 trillion question: Will AI take our jobs?",
-      "sourceUrl": null,
-      "webUrl": "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/",
-      "originalUrl": "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://banyanhill.com/wp-content/uploads/2023/07/shutterstock_151615517-scaled.jpg",
-          "width": 2560,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/",
-      "cdnAmpWebUrl": "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/",
-      "publishedDateTime": "2023-07-09T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Banyan Hill Publishing",
-        "domain": "banyanhill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -648,7 +614,7 @@
       "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -683,6 +649,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-08-humanoid-robots-take-questions-at-a-geneva-news-conference.md",
+      "title": "Humanoid robots take questions at a Geneva news conference",
+      "excerpt": "The International Telecommunication Union invited reporters to ask robots questions on Friday at an event meant to spark discussion about the future of artificial intelligence. BERLIN -- A United ...",
+      "sourceUrl": null,
+      "webUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "originalUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "publishedDateTime": "2023-07-08T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 7 Chicago",
+        "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-robots-say-they-wont-steal-jobs-rebel-against-humans.md",
       "title": "Robots say they won't steal jobs, rebel against humans",
       "excerpt": "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans' jobs or rebel against us.",
@@ -691,7 +700,7 @@
       "originalUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {

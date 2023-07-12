@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-12T10:37:00Z
 originalUrl: "https://www.techrepublic.com/article/how-ai-will-impact-future-work/"
 webUrl: "https://www.techrepublic.com/article/how-ai-will-impact-future-work/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg"
@@ -46,6 +47,6 @@ related:
         height: 751
         isCached: true
 
-secured: "If3qiQxDwJgwf5y42cWZQ+ehA/cVSHAQWfHHsq4riJO5T5AV4smE3ApLF+AmtcB4P+92nKOVmfYRXBnnCswEaUa3AyB30j243RO1TMXv/96KSwtPtowv2EyyniQ/jM3RVknN/uPTK51WKNiJtsm/7NuUbk2Bi2G9ovH3cp8MppFMBKCezI0U+LZlIb8CYGogWJK9Bzs0bOoAAd9wtXZYOYRaIK9hVMizVr3MmooYY9qTK1O4BW5SYaqZwO5HiDDsD1P8MQ4iX9FgJVAccQyrqSA7DRy9+YmLywtPPRH1dIvxdz1kP6SGjf1J+Tz78NHiE/hqaQ/wpGic7BZ2zXAABsnyNXYbg9tt2NbiP9THAeg=;NHxW1C6HTAenlUGikcl/Kw=="
+secured: "b8ON30AlxMO7wuKnb7hoBn8nRCEo9ZIHBmgMd0qoqbMBb5jQwlLUk9QVRIhRw9vci9ZFLf7HR05HrGBGgu9btVft0K0RoFacBh7z7/cYE0++DfXNQ93kHSoL5okmMrb8pIqZxh+6BAcshe2PdOcNKdV5ef5k9T9JTgPGzUQ1yxgAecC0N2065z2aq7wT6ECuHZYB+9bwKK2ctuTOouE+1N8esJYRi7+yuibzn2s3731KhCUEU4Qcv4IeQ3VTQNgV39cEK7z7llPRkXh0psfhL7ymTiKNQVAiH7GEdybKSiliuOYjrVH3v8RPvMXhYp4ltIgA1fMNVl/znc5EiZArlDNMcQCNurtt9Fa7gqKuVTqohy/XF8joI6VZlAPVBUze/P2FSQIp4dyXuUjqf5fMzep8EzkXz8eJpvOanSr2dWGs0QDhnee5ZnVMkONsMefO5o2ts+vOLXijt345UBlTLMSQAIXTFV4HtyUlpxlU+JApbqJSx/h/wx8IaL+uy0dYhYv0xkmtKGZwJUDNQqv+rA==;h+cIDCwXWu26rhAxwciM1Q=="
 ---
 

@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Prime Day 2023 Lightning Deal: Score this Eufy Robovac and mop combo for 54% off before this deal ends"
+    excerpt: "This 4.4-star-rated Shark IQ Robot vacuum (RV912S) cleans your whole home in neat rows. It lacks the advanced smarts of more expensive robot vacuums, but this is one of the most affordable robot vacuums with a self-emptying base you'll find. This Shark model comes with a 45-day capacity cleaning base."
+    publishedDateTime: 2023-07-12T15:48:00Z
+    webUrl: "https://www.cbsnews.com/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 25
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/12/40920161-5ecd-4108-a38c-b5f89a6c5a43/thumbnail/1200x630/753b0a41084b277adc8756d4d1c313ad/eufy-robovac-header.png?v=0d985d39f30c0548885e26d84e710785"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OeEhMKMYJy4VsOroV/tEGV/+5WOAPebnoWx6e2AIvSuYMtjL3oL3cWjn+K7YsfjgbvBK1H44KHXr+Pjv+k8WSmUaUvHiZ/1gDnlHpifGnIOM7WRRn0K26BSmAkdwvdvrhBfOAvHqnycBTd9Nf2KMTJC0/IWc6W5ZimWPpQ2HLBIeCeGqB5F+qBKKxm08KDjeNf221ugFrZDt1caWVmFTR8/STCVnsrjUU/hpBbA6g6Vu9qtXkf1u80AOFwaxjuEdTWPej3sKcpWHv+ofSFPG/c1ur4ITxOZZ8+C2h1OAzJ5SlawSxBB9i2Lm/7UaInTM/j2W+qNqOmIuyn9VQBKfOLX7mPR76ITCz4I3lbBe6dM=;IhRh262AiiavjuJ1Bgippw=="
 ---

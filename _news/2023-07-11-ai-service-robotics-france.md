@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Industrial Robotics - Spain"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$155.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.74%, resulting in a market volume of US$ ..."
-    publishedDateTime: 2023-07-07T20:07:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/spain"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Service Robotics - Denmark"
     excerpt: "Value in the AI Service Robotics market is projected to reach US$38.78m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$102 ..."
     publishedDateTime: 2023-07-08T13:02:00Z
@@ -127,15 +113,6 @@ related:
     excerpt: "Value in the AI Service Robotics market is projected to reach US$52.67m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.88%, resulting in a market volume of US$130 ..."
     publishedDateTime: 2023-07-08T04:39:00Z
     webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/belgium"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 49
-  - title: "AI Service Robotics - Spain"
-    excerpt: "Value in the AI Service Robotics market is projected to reach US$99.63m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.71%, resulting in a market volume of US$260 ..."
-    publishedDateTime: 2023-07-07T20:07:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/spain"
     type: article
     provider:
       name: Statista

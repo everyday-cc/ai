@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/pro/fintech-deals/2023/07/11/google-gradient
 webUrl: "https://www.axios.com/pro/fintech-deals/2023/07/11/google-gradient-ventures-invests-collective-50m"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,69 @@ images:
     width: 1366
     height: 768
     isCached: true
+
+related:
+  - title: "PayU, AWS India And Chiratae Ventures To Launch Fintech Accelerator"
+    excerpt: "At AWS, we offer the broadest and deepest set of innovation tools, including machine learning (ML) and artificial intelligence (AI) capabilities, to help fintechs transform their ideas into tangible solutions to drive financial inclusion, and optimize ..."
+    publishedDateTime: 2023-07-12T12:20:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 51
+  - title: "5 APAC Companies Make 2023 Top AI Fintech Companies List"
+    excerpt: "Fintech Global, an online platform providing information and media services focusing on the fintech industry, has released its third edition of AIFintech100, an annual selection of the top companies leveraging AI to revolutionize financial services."
+    publishedDateTime: 2023-07-10T03:36:00Z
+    webUrl: "https://fintechnews.sg/75924/ai/5-apac-companies-make-2023-top-ai-fintech-companies-list/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/5-APAC-Companies-Make-2023-Top-AI-Fintech-Companies-List.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "PayU, AWS India and Chiratae Ventures to launch fintech accelerator for early-stage start-ups"
+    excerpt: "The 45-day program offers mentorship, resources, AWS credits, and access to PayU's payment solutions. Selected start-ups to receive training, mentorship, and up to $25K in AWS credits"
+    publishedDateTime: 2023-07-12T10:47:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator-for-early-stage-start-ups/article67070907.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator-for-early-stage-start-ups/article67070907.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator-for-early-stage-start-ups/article67070907.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 30
+  - title: "AWS, NVIDIA and Vestbee team up to empower Fintech Startups with AWS Global Fintech Accelerator"
+    excerpt: "AWS has launched its brand new program AWS Global Fintech Accelerator in collaboration with NVIDIA and Vestbee that will equip fintech startups with tools, resources and a wide network of top experts,"
+    publishedDateTime: 2023-07-11T17:49:00Z
+    webUrl: "https://www.novinite.com/articles/220809/AWS%2C+NVIDIA+and+Vestbee+team+up+to+empower+Fintech+Startups+with+AWS+Global+Fintech+Accelerator"
+    type: article
+    provider:
+      name: Novinite
+      domain: novinite.com
+    quality: 9
+  - title: "New accelerator programme for fintech startups in India launched"
+    excerpt: "FINity accelerator is a 45-day programme that brings together and supports the growth of early-stage fintech startups by providing access to mentorship from leading industry experts, curated resources,"
+    publishedDateTime: 2023-07-12T10:30:00Z
+    webUrl: "https://telanganatoday.com/new-accelerator-programme-for-fintech-startups-in-india-launched"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 4
+  - title: "The Future of Fintech: Industry Leader Shares His Thoughts!"
+    excerpt: "The first indicator of Fintech's growth is the adoption rate increase. With emerging user-friendly platforms, businesses and customers have become comfortable with digital financial solutions. From mobile banking to crowdfunding platforms, Fintech has gained  widespread acceptance and has become an integral part of everyday life for many."
+    publishedDateTime: 2023-07-12T12:59:00Z
+    webUrl: "https://www.finextra.com/blogposting/24525/the-future-of-fintech-industry-leader-shares-his-thoughts"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "dFTTcd1Tz4QFhRFaqyKaAhQ/5wxPPA0Ky+jWdQgZvG5svGDZNKqspcnZyce5jFxAVVBVWbk1rjpshmw4UHkpSxovq/GANFcl9FOrbYA/P6R5UiIccdn0a16mPulTaxQNOqV6JB25D8hsbtPEYDmt0I+8+Rt97GNoNgG2zjrkqh/2E+Spt4NJgyGOiayTJaxMMnEeSqShv9ruH32pN8s7uO8fEh5DLiyrodqaayODk4Httxzb+0c7MF2Q+dttjg9gaA943eOAb6JaK+KlqYofYn8xgGlYw/WySd1ZJUQaqtLy/ulpg2uXNXJy92B8pUeaLcn2Y2EPebwT5JZ8Y0RZnF0tTBIgdVtld3yxU1w8igPUD8dlbpZV7+tGQ0lLpjlccHlF7dcR5ezxuj0eal4/dUVWQq7A/Mbnt9yjhPgjLpChYr0gZ0A9ZwwVxo/Etps9I0ijGElxUyJrE3xykjHA2chUsWbZHFAAijqj1yLFtu58PoleEcMm4cEuQB9vqkvrUaUsJgYEG6auLbVnk9q4yQ==;hftC3nXT7PgVj9E9TnKsJA=="
 ---

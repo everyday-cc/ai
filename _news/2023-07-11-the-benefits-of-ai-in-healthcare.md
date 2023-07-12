@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 type: article
 quality: 116
-heat: 346
+heat: 356
 published: true
 
 provider:
@@ -103,6 +103,22 @@ related:
       - url: "https://glamsham.com/wp-content/uploads/2023/07/AI.jpg"
         width: 400
         height: 222
+        isCached: true
+  - title: "AI in healthcare: New tech in diagnosis and patient care"
+    excerpt: "AI algorithms formulated after 2020 have been deployed to predict the likelihood of a patient developing severe COVID-19 symptoms, helping doctors prioritize care for those most at risk."
+    publishedDateTime: 2023-07-12T14:00:00Z
+    webUrl: "https://cointelegraph.com/news/ai-in-healthcare-new-tech-in-diagnosis-and-patient-care"
+    ampWebUrl: "https://cointelegraph.com/news/ai-in-healthcare-new-tech-in-diagnosis-and-patient-care/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-in-healthcare-new-tech-in-diagnosis-and-patient-care/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 74
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/09e0408d-1dd9-4ecb-be09-2cb9be386d2b.jpg"
+        width: 740
+        height: 492
         isCached: true
   - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
     excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
@@ -318,15 +334,15 @@ related:
       name: techtimes
       domain: techtimes.com
     quality: 28
-  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
-    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
-    publishedDateTime: 2023-07-07T19:44:00Z
-    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
+  - title: "AI Could Be One of the Greatest Wealth Builders in History"
+    excerpt: "Artificial intelligence could be one of the greatest wealth builders in history. That’s according to Matt Higgins, CEO of RSE Ventures, as quoted by CNBC, who added, “Artificial intelligence doesn’t care where you were born,"
+    publishedDateTime: 2023-07-12T13:33:00Z
+    webUrl: "https://www.baystreet.ca/stockstowatch/15587/AI-Could-Be-One-of-the-Greatest-Wealth-Builders-in-History"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 19
 
 secured: "DCIxpS6pmROSkTdAp+jQFS2cXLEti5/6o8QrZ9oLMxgyqE1ydt7ifzfmx8Q2ONCZUqJhTGFpLRRPuv4rPFzLEFQyI41CgB3Ht6fEIxBqLBnn33QPXDwjfwU507aPl9qQekPaQqYqyfAIZxl1AR5qA6i4DL4ZaOeJO8d73TdT7IzTXqbrmzK64jl6L+H+SCzffsyPytm74VlKLGHBHnR2RKnjDXyPr+v2YnDOVpfuvUnKl3Lbqgegb/agkalh4akcTC9JD9LlGoeEQtdU6qHd8RQdxTx/Fn7E0/TVgxo6q0ApxBiaS7yAr9Bp+V8M8WRHcgUHGxmYw842PydFZ2ZLFjApcemsqBGg/t/nEemwD6c=;bhNQQx7+EZLP5y6tyeJp5A=="
 ---

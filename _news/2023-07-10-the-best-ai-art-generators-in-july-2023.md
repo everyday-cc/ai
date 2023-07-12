@@ -114,6 +114,22 @@ related:
         width: 400
         height: 222
         isCached: true
+  - title: "AI in healthcare: New tech in diagnosis and patient care"
+    excerpt: "AI algorithms formulated after 2020 have been deployed to predict the likelihood of a patient developing severe COVID-19 symptoms, helping doctors prioritize care for those most at risk."
+    publishedDateTime: 2023-07-12T14:00:00Z
+    webUrl: "https://cointelegraph.com/news/ai-in-healthcare-new-tech-in-diagnosis-and-patient-care"
+    ampWebUrl: "https://cointelegraph.com/news/ai-in-healthcare-new-tech-in-diagnosis-and-patient-care/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-in-healthcare-new-tech-in-diagnosis-and-patient-care/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 74
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/09e0408d-1dd9-4ecb-be09-2cb9be386d2b.jpg"
+        width: 740
+        height: 492
+        isCached: true
   - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
     excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
     publishedDateTime: 2023-07-08T12:00:00Z
@@ -314,15 +330,15 @@ related:
       name: techtimes
       domain: techtimes.com
     quality: 28
-  - title: "The Integration Of Artificial Intelligence In Health Coaching Market : Opportunities And Challenges"
-    excerpt: "Health Coaching Market The Health Coaching Market Trends are rise in the prevalence of behavioral health disorders such as alcohol use di"
-    publishedDateTime: 2023-07-07T19:44:00Z
-    webUrl: "https://menafn.com/1106569460/The-Integration-Of-Artificial-Intelligence-In-Health-Coaching-Market-Opportunities-And-Challenges"
+  - title: "AI Could Be One of the Greatest Wealth Builders in History"
+    excerpt: "Artificial intelligence could be one of the greatest wealth builders in history. That’s according to Matt Higgins, CEO of RSE Ventures, as quoted by CNBC, who added, “Artificial intelligence doesn’t care where you were born,"
+    publishedDateTime: 2023-07-12T13:33:00Z
+    webUrl: "https://www.baystreet.ca/stockstowatch/15587/AI-Could-Be-One-of-the-Greatest-Wealth-Builders-in-History"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 19
 
 secured: "YXv2Twge6/Iroxx25y9g5PLANKS6EGsUb/o0bBfffLCyd809WwxAiZIuwqH/LEd8s6Rq71OQlpS4Tr/XB69T1AVJKNMiAZlVKGtXdVqKCW/8g9ZH1qamT7X8LkAdBrZYq/ZXchByHnu+nr08PjKS624cjxS/v55anrKgMYd3SHnFjEeQJxDUw9uPb8OUszpeYCM0cO/I6BdBHk2F0PQL7R/xIwOOBTesO2yPaopEuKZmQXA+dJWCzb5R2ZaXO2PcYkV9u0qCfkc0SkJPxbRY/dx3HIXn2Z06FOqdYMFcAclUeK6R84AKWzvlcmBiwkhC/AziDkIxkKk1l3hqzCVb+7IHmq53DjniisjRiPgVeXwR0ZJGbvNCUhSTOGKLrq7XpqHLoK1klROSEmHH3y2mPY6wzom4WBUHt5VtDMKwvvUuCXac6b+dvxZPAifFQBCKKKXre2V04SYXShurYXRWhp2FsyJOT2O5f3RBOx2Hlbshr/lSYxSjTEY77of0mI3LTXwVuERhZiFh/SiMrR7Ejw==;vHtilA7KB7jtVSshm+HJnA=="
 ---

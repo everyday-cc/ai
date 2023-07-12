@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How to avoid pitfalls and navigate the ethical landscape of generative AI"
+    excerpt: "We still have a lot to figure out. That was my impression of a Transform 2023 panel that drilled into the ethics of generative AI."
+    publishedDateTime: 2023-07-12T15:30:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/ethics-3.jpg?w=1200&strip=all"
+        width: 1200
+        height: 769
+        isCached: true
   - title: "Applicability of AI and Robots to Nursing"
     excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
     publishedDateTime: 2023-07-11T15:38:00Z

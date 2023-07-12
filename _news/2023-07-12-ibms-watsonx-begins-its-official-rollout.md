@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/"
 webUrl: "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1020
         height: 700
         isCached: true
+  - title: "IBM unveils its next generation of Watson for businesses"
+    excerpt: "IBM is now rolling out its new watsonx AI platform for enterprise, which includes three products to help organizations use the productivity tool within their workflows."
+    publishedDateTime: 2023-07-12T13:33:00Z
+    webUrl: "https://www.techradar.com/pro/ibm-unveils-its-next-generation-of-watson-for-businesses"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 49
 
 secured: "f+9WZO3E4ATypcW+yGIrp7E+iGAqnc+LpSQ43SKesTHv7SwEkUyhJ/3y/pknRpH+yQkJMFJ1Ke6uoraMNHilksdf5/l7Wuv6NpDrdPXz5sh80PUYlqDbXDhTZY0UbDL5OmTChrsnAbGRD5zfa1kplhsLpW6R/yf8vEjuw3bhUC9pLd8qg1N0Jw1ikMYeafilazWLtf7ue1DmQyUJqEz+l+jLnbxDjVSVsZSVhqDta7I/7s8/OyekJt8eSPqfx2KfKAUUN9Huf4SHrCibr7Mpqa9anf3O0SErP4jvhJVignjpVmSzM2505iIVUH4qAy47R9jLWADpaUqv5IBqi3rJd7zee3u6XbzBaT5lMFfeRnc=;OkDQ7hWnNqS7YQ+zGtf3Gg=="
 ---

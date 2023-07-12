@@ -2,6 +2,323 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-06-28-achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics.md",
+      "title": "Achieve competitive advantage in precision medicine with IBM and Amazon Omics",
+      "excerpt": "A deeper understanding of biology has the potential to transform how healthcare is delivered, how people are screened, how clinical conditions are treated and monitored. The exponential growth of biomedical datasets over the recent years has resulted in the identification of a great number of molecular",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics/",
+      "originalUrl": "https://www.ibm.com/blog/achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-staying-authentic-while-using-ai-in-your-marketing-strategy.md",
+      "title": "Staying Authentic While Using AI In Your Marketing Strategy",
+      "excerpt": "Before diving into all that AI has to offer, consider the importance of staying authentic and maintaining a distinguished brand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f060d881e3f8e00067832c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/",
+      "publishedDateTime": "2023-06-28T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-the-vatican-releases-its-own-ai-ethics-handbook.md",
+      "title": "The Vatican Releases Its Own AI Ethics Handbook",
+      "excerpt": "The Vatican is getting in on the AI craze. The Holy See has released a handbook on the ethics of artificial intelligence as defined by the Pope. The guidelines are the result of a partnership between Francis and Santa Clara University’s Markkula Centre for Applied Ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/06/28/e3364c892e40304167feed0f80c8de71.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/amp/",
+      "publishedDateTime": "2023-06-28T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-nvidia-leads-premarket-slump-in-chipmaker-sharesas-white-house-reportedly-mulls-fresh-curbs-on-ai-chips.md",
+      "title": "Nvidia Leads Premarket Slump In Chipmaker Shares—As White House Reportedly Mulls Fresh Curbs On AI Chips",
+      "excerpt": "The Biden administration is planning to expand its curbs on the export of AI chips to China and other nations, the Wall Street Journal reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
+      "originalUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c0fafd13ced24caec5d4f/0x0.jpg?format=jpg&crop=3000,1688,x0,y178,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
+      "publishedDateTime": "2023-06-28T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-how-to-prepare-for-the-financial-and-environmental-costs-of-ai.md",
+      "title": "How To Prepare For The Financial And Environmental Costs Of AI",
+      "excerpt": "Companies and financial institutions should be thinking about how to build a technology infrastructure capable of supporting increasingly powerful AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649adede9c80aa9106126502/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/",
+      "publishedDateTime": "2023-06-28T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5.md",
+      "title": "Here's the Only AI Stock on the Market With a Dividend Yield of 5%",
+      "excerpt": "In 2011, IBM Watson made headlines by beating Jeopardy! champions Ken Jennings and Brad Rutter. IBM continues to invest heavily in AI development today. The company recently announced several new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5",
+      "originalUrl": "https://www.nasdaq.com/articles/heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-ai-makers-must-create-new-laws-of-robotics-california-focus.md",
+      "title": "A.I. makers must create new laws of robotics | California Focus",
+      "excerpt": "Not long ago, the artificial intelligence (A.I.) bot ChatGPT as a “courtesy ... set of major laws governing intelligent robots. In his 1942 short story “Runaround,” Asimov first put forward these three laws, which would become staples in his ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/",
+      "originalUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicoer.com/wp-content/uploads/2018/05/chico-site-icon-1.png",
+          "width": 450,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/",
+      "cdnAmpWebUrl": "https://www-chicoer-com.cdn.ampproject.org/c/s/www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/",
+      "publishedDateTime": "2023-06-28T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chico Enterprise-Record",
+        "domain": "chicoer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-barred-from-grocery-stores-by-facial-recognition.md",
       "title": "Barred From Grocery Stores by Facial Recognition",
       "excerpt": "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ...",
@@ -835,323 +1152,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ai-is-catching-on-with-api-developers.md",
-      "title": "AI is catching on with API developers",
-      "excerpt": "Some 60% of API developers use generative AI to help them code, according to a Postman survey of more than 40,000 developers and API professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.html",
-      "originalUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/01/shutterstock_1850095465-100936239-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.amp.html",
-      "publishedDateTime": "2023-06-27T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-xsurgical-an-ai-surgical-robotics-company-announces-qa-webinar.md",
-      "title": "XSurgical, an AI Surgical Robotics Company, Announces Q&A Webinar",
-      "excerpt": "XSurgical Inc., an artificial intelligence surgical robotics company, today announces it will host a Q&A webinar on July 11 at 11 a.m. PDT, hosted by",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g33034897/xsurgical-an-ai-surgical-robotics-company-announces-q-a-webinar",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g33034897/xsurgical-an-ai-surgical-robotics-company-announces-q-a-webinar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33034897",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33034897",
-      "publishedDateTime": "2023-06-27T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-4-vcs-illustrate-why-theres-good-reason-to-be-optimistic-about-the-machine-learning-startup-market.md",
-      "title": "4 VCs illustrate why there’s good reason to be optimistic about the machine learning startup market",
-      "excerpt": "When you talk about investments in artificial intelligence startups versus machine learning startups, it’s important to distinguish “AI” from “machine learning.” Those phrases are often ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/",
-      "originalUrl": "https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/machine-learning-survey.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-925m.md",
-      "title": "Loora, a generative AI app that uses an audio interface to help users learn English, raises $9.25M",
-      "excerpt": "Unlike many of the generative AI apps that are text-based -- you write prompts for ChatGPT, Midjourney, etc. -- Loora is completely focused on audio.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/",
-      "originalUrl": "https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Screenshot-2023-06-27-at-12.17.40-PM.png?resize=1200,754",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/amp/",
-      "publishedDateTime": "2023-06-27T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-snowflake-snow-partners-with-microsoft-for-ai-integrations.md",
-      "title": "Snowflake (SNOW) Partners With Microsoft for AI Integrations",
-      "excerpt": "With this strategic expansion, Snowflake aims to focus on new product integrations with Azure ML, Azure OpenAI and Microsoft Cognitive Services. It intends to create seamless experiences for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/snowflake-snow-partners-with-microsoft-for-ai-integrations",
-      "originalUrl": "https://www.nasdaq.com/articles/snowflake-snow-partners-with-microsoft-for-ai-integrations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services.md",
-      "title": "Kumo empowers deep learning in Snowflake Data Cloud through Snowpark Container Services",
-      "excerpt": "The new integration will run Kumo AI services directly on the Snowflake Data Cloud through Snowpark Container Services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/",
-      "originalUrl": "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-amazons-no-1-bestselling-robot-vacuum-is-50-off-right-now-ahead-of-prime-day.md",
-      "title": "Amazon's No. 1 bestselling robot vacuum is 50% off right now ahead of Prime Day",
-      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-bestselling-robot-vacuum-50-off/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-bestselling-robot-vacuum-50-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/19/0b30a2d2-eff5-4f74-b6b1-f9953aa856ba/thumbnail/1200x630/52a2a2dc2c0203710e88b48284990a04/shark-robot-vacuum-rv912s-self-empty-base.jpg?v=532947bbe7449b367b963713a282edbc",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-bestselling-robot-vacuum-50-off/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-bestselling-robot-vacuum-50-off/",
-      "publishedDateTime": "2023-06-27T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

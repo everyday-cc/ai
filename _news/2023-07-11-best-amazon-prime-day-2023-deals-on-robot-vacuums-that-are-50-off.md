@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-de
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/t8SDvoiLRZNEouBTTAbA5Y-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Amazon Prime Day 2023 Lightning Deal: Score this Eufy Robovac and mop combo for 54% off before this deal ends"
+    excerpt: "This 4.4-star-rated Shark IQ Robot vacuum (RV912S) cleans your whole home in neat rows. It lacks the advanced smarts of more expensive robot vacuums, but this is one of the most affordable robot vacuums with a self-emptying base you'll find. This Shark model comes with a 45-day capacity cleaning base."
+    publishedDateTime: 2023-07-12T15:48:00Z
+    webUrl: "https://www.cbsnews.com/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 25
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/12/40920161-5ecd-4108-a38c-b5f89a6c5a43/thumbnail/1200x630/753b0a41084b277adc8756d4d1c313ad/eufy-robovac-header.png?v=0d985d39f30c0548885e26d84e710785"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9xA/YfSNIkAUUAJ6bGCMdVarIkwOTt6qJcIBDodnvdTcSMFFbUHrlAD/bsWFylMxgXGzup9v5pKqsNFwj28mRtqJIlJSU3X5PFESMttiq4VwZZXKDjJ2zm0BETjP3bBaBUNunfRSGodXaCCoJtct0o5tJ0eYcfiHD0Bv7BcwxDww+WpCqWwKcWJT9B1YAcpccFv8GyUGdhscGmnUtFcVeOcnKOnRkKDNI18AJtiKoSJB1E3ALguxfalAO31NqZnTfH/QbZ30tHRERavT0Jf9GsafmywSOJ0PWyl438l27IMaUF4jROnxwESaqNvPloG4nalbmZ7B77XZK9HS6vYvTKDcVpauPiyMjVJeQWXlS0g04E7xuni428HNXY6hF/nb1YGsj5nFI+OcXBjlDObBQ9VGaqcrM5rkU4aj3ZWJsrrDVt487+tsP9AcVjFmmFLyXGr1w7atgnqMl7Zc4Rv8/oyBZeVWnErn8BwLRkGQjWPXBZqIOuNh+ZP5MBv3BDr9Ybjdc+NNLLWISfeTjbBQGQ==;3d569z1YSQVOAbBNgj/Yww=="

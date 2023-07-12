@@ -2,6 +2,289 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-08-robots-take-center-stage-at-uns-ai-for-good-global-summit.md",
+      "title": "Robots take center stage at U.N.’s AI for Good Global Summit",
+      "excerpt": "CNN’s Kim Brunhuber speaks with one of the creators of a robot featured at the U.N.’s AI for Good Global Summit in Geneva, Switzerland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn",
+      "originalUrl": "https://www.cnn.com/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230708054024-exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world-00002001.png?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/07/08/exp-un-ai-summit-robot-brunhuber-intv-thalmann-070804aseg2-cnni-world.cnn",
+      "publishedDateTime": "2023-07-08T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-best-artificial-intelligence-ai-stock-c3ai-vs-sentinelone.md",
+      "title": "Best Artificial Intelligence (AI) Stock: C3.ai vs. SentinelOne",
+      "excerpt": "Fool.com contributor Parkev Tatevosian compares two leading artificial intelligence stocks to determine which is the better buy. *Stock prices used were the afternoon prices of July 5, 2023. The video was published on July 7, 2023. Parkev Tatevosian ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/08/best-artificial-intelligence-ai-stock-c3ai-vs-sent/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/08/best-artificial-intelligence-ai-stock-c3ai-vs-sent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/738947/c3ai-vs-sentinel-one.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-robots-say-they-wont-steal-jobs-rebel-against-humans.md",
+      "title": "Robots say they won't steal jobs, rebel against humans",
+      "excerpt": "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans' jobs or rebel against us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906",
+      "originalUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/08/eaai-robtt.jpg",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp",
+      "publishedDateTime": "2023-07-08T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-pope-francis-launches-a-guide-to-using-artificial-intelligence.md",
+      "title": "Pope Francis launches a guide to using artificial intelligence",
+      "excerpt": "There are more and more voices that are warning about the use and consequences of artificial intelligence. They are often the voices of tech entrepreneurs like Elon Musk or the experts involved in their development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html",
+      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/Pope-Francis-arrives-for-his-weekly-general-audience-in-St.-Peters-Square-ap.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html",
+      "publishedDateTime": "2023-07-07T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-un-ai-for-good-summit-explores-how-generative-ai-poses-risks-and-fosters-connections.md",
+      "title": "UN AI for Good Summit Explores How Generative AI Poses Risks and Fosters Connections",
+      "excerpt": "Panelists at the UN AI for Good summit discussed regulation, international cooperation, and the growth of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/un-ai-for-good-summit/",
+      "originalUrl": "https://www.techrepublic.com/article/un-ai-for-good-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-human-looking-robots-take-questions-at-a-geneva-news-conference.md",
+      "title": "Human-looking robots take questions at a Geneva news conference",
+      "excerpt": "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "originalUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "publishedDateTime": "2023-07-07T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 7 Chicago",
+        "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
       "title": "Odd News Roundup: AI robots could play future role as companions in care homes",
       "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
@@ -922,272 +1205,6 @@
       "topics": [
         "IBM AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai.md",
-      "title": "3 Red-Hot Nasdaq Stocks That Are Leading Industrial Automation, Robotics, and AI",
-      "excerpt": "Here's why PTC, Cognex, and Luminar are three red-hot Nasdaq stocks worth looking at today. Image source: . Invest in the industrial software that powers automation, A",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai",
-      "originalUrl": "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-companies-are-drowning-in-too-much-ai.md",
-      "title": "Companies Are Drowning in Too Much AI",
-      "excerpt": "IT sellers are rolling out an avalanche of new generative AI features, leaving CIOs overwhelmed and workers confused.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4",
-      "originalUrl": "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-812426/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
-      "title": "AI robots could play future role as companions in care homes",
-      "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it. Nadia Magnenat Thalmann ...",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2425145/ai-robots-could-play-future-role-as-companions-in-care-homes",
-      "originalUrl": "https://tribune.com.pk/story/2425145/ai-robots-could-play-future-role-as-companions-in-care-homes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/Nadine-robot1688715019-0/Nadine-robot1688715019-0.jpg",
-          "width": 5500,
-          "height": 3668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2425145/ai-robots-could-play-future-role-as-companions-in-care-homes?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2425145/ai-robots-could-play-future-role-as-companions-in-care-homes?amp=1",
-      "publishedDateTime": "2023-07-07T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-tcs-plans-to-train-25000-engineers-on-azure-open-ai.md",
-      "title": "TCS plans to train 25,000 engineers on Azure Open AI",
-      "excerpt": "TCS said that it plans to significantly scale its Azure Open AI expertise and launch its new Generative AI offering for enterprises",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954",
-      "originalUrl": "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044335.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp",
-      "publishedDateTime": "2023-07-07T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023.md",
-      "title": "Artificial Intelligence In Manufacturing: Four Use Cases You Need To Know In 2023",
-      "excerpt": "Discover how AI-powered cobots, 3D printing enhancements, futuristic generative designs, and predictive maintenance are revolutionizing the manufacturing industry in 2023",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a7a60f5e9eb3b27b9b888f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/",
-      "publishedDateTime": "2023-07-06T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications.md",
-      "title": "Kerala HC to implement machine learning system to verify bail applications",
-      "excerpt": "Kochi: For the first time in India, Kerala HC is all set to implement a machine learning system for checking bail pleas. From July 10, bail applications will be verified via a special software and will be accepted only in the prescribed format.",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "originalUrl": "https://english.mathrubhumi.com/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/image/contentid/policy:1.7199899:1677896574/Untitled.png?$p=10e8aa4&f=16x9&w=1080&q=0.8",
-          "width": 871,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/amp/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "publishedDateTime": "2023-07-06T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "english.mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

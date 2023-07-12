@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-12/google-s-ai-cha
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-12/google-s-ai-chatbot-is-trained-by-humans-who-say-they-re-overworked-underpaid-and-frustrated"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -27,19 +27,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign"
-    excerpt: "A super PAC supporting Miami Mayor Francis Suarez’s run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him."
-    publishedDateTime: 2023-07-07T19:48:00Z
-    webUrl: "https://www.kansascity.com/news/nation-world/national/article277040893.html"
-    ampWebUrl: "https://amp.kansascity.com/news/nation-world/national/article277040893.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/national/article277040893.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 44
-
-secured: "n9nNbQXJ+KNSPSIUbXZ+9ATVOHTeziiR+y41QWIBfwYER4M62UQ8rSwwr0BxMuk+o3KfGWUOIlh38GU7Db4iiySY84fdBTh834lqGes7nvj9xM1I9nHjYtEbvjSDmvC8syD9ilDMuF4kpZ+P213AZUqnTB5lFJ3JebbRTCWKO/KiBwjJ2vQFC3IvoI06jmM9Uri8FjcqvxKJpsj5ncWBtyvvU8uft551SCLeLwVFaIqGLfN0RQD79v9xjapThNxCQSzRT4DMhT5zeSsU6kX2eEAIp6+wfG52/Laj3z1MWHc25DYj2dN8tb2E4LqVFKzuw7oXadffQY0HEc/W87JbhSM1V/r4VNpB1yJpH52WOsI=;ME1x8foArdvR+jXT4Znwcg=="
+secured: "4ptA5QDNVC/WQLsJhF2jmZqy6Y69Ej5d/lN+iVjyngAm6dM524A2UZfmZKfXEkdlVIO1seJ3WDMFx99jft4reta1BQ6NlLBwuhKQaBWu9wehZuY//i53hx58Demp7o2Fb2zjOgsOAKqB9wiJNPCALIgACWu0gltVVNFErQKHQU/OkFtdyezqqTLgagzrcy8g5mdLlYI4fccpRYv/eslP0ggH1t1YOK410q6y5xR0A5WC/FU9XL2Yakl+3CxZ+STQsYJOCWrkla60pevn+UohZumexQ3PvLNI9GVrYWyUwgb/HPgTduffxXsDaCqFHe8ltlSFtFkVr60OXU4+Sb2HHQi/3FUpaZPKEGV47ub8xdH7iGEL9KZ/or/GYJH2pYawmbmDC7rOL2kwPWexLBFLmFyX7qMLK28J6URcO/vSXCc17pWEqq6GzCidilb9nqVmIgAofljsR5i6aROQob81npmcltZYzNBxmNGxDay7zmVyPYDzz9QpjxD30iFWvHPdQA9e674f/AV3wEG8bZ9uOg==;7w2v93vr9b9vd3S/7LHNJQ=="
 ---
 

@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Google Calls For Public Discussion On AI Use Of Web Content"
-    excerpt: "Google’s call for discussion is a step in the right direction, but the company needs to follow through on implementing the feedback it receives. Google isn’t alone in facing these challenges. Every tech company developing AI relies on data gathered from the web. The discussion should involve the whole tech industry, not just Google."
-    publishedDateTime: 2023-07-07T19:52:00Z
-    webUrl: "https://www.searchenginejournal.com/google-calls-for-public-discussion-on-ai-use-of-web-content/491053/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 39
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/07/img_2023-7-7-154836-64a86c2283d2a-sej.jpeg"
-        width: 1600
-        height: 840
-        isCached: true
 
 secured: "cF6lV+JR2SdcK66hy4yxPPmWAhZH1cKMfs+gBCcvO1Kkq2RMMSLNA9XM/axttGwfGi76NMtOndqDbO/kfcfZ6SODeSgENVsxjsJ4A9+MIwunkfUrUkw3lRyUGSVy3Ju0cjOPJBxcV/zO7Dgt8tZCNXZZCx8tu/C6aUDSxVlQbj/QV9lm+XYFuDjGtRjOosYmBddD/1PHCbUr7fLWYNNk1ezukUXtSr+LV2mdIDL8eb/6jCzt53uNUhklyxevaXnSYTub4I4pBOy723VJbUU0GGIGmW05m/KrR2LmZQzJiSuw4ltBqNVPlwkmmpu019J1wlZXUnrWrTQDj50dFXJAOwDcKEZcF+lpyyK1dbmGv+Nr8tMZAqqOut2mufgyKLd6O1j2cd8jp4fd5gFP416MrLMNiSQiLR+R7Eqj5tfq8ADaqE1L4fZjhXfBz2mPfMhg8CYPlnn78bI0WefeVwncMl2/1RJmIJl7xnYAwcglxRyR8C1rz5hGixkv00/elMmev5U71dp/Yzt2s3FViVgVmg==;gkc2bgJccDqXxP0uTibJQA=="
 ---

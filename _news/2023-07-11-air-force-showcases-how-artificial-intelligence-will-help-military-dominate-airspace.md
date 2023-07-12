@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/air-force-showcases-how-artificial-inte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/air-force-showcases-how-artificial-intelligence-help-military-dominate-airspace.amp"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:

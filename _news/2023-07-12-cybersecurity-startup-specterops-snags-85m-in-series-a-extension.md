@@ -7,8 +7,8 @@ originalUrl: "https://www.geekwire.com/2023/cybersecurity-startup-spectorops-sna
 webUrl: "https://www.geekwire.com/2023/cybersecurity-startup-spectorops-snags-8-5m-in-series-a-extension/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: GeekWire
@@ -41,20 +41,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107212363-1679408765823-gettyimages-1248335218-raa-openaich230315_npOtf.jpeg?v=1689156001&w=1920&h=1080"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "How to Safely Architect AI in Your Cybersecurity Programs"
-    excerpt: "Guardrails need to be set in place to ensure confidentiality of sensitive information, while still leveraging AI as a force multiplier for productivity."
-    publishedDateTime: 2023-07-07T21:38:00Z
-    webUrl: "https://www.darkreading.com/edge/how-to-safely-architect-ai-in-your-cybersecurity-programs"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7f54a4bb7b161028/64a8656f902db65e03619ad8/robotglass-claude_thibault-alamy.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "hkShbE4rBJ+ydkJJiZ4DNzRIEF2RsGqDzsi9Fa/+GzAp1r9TXewJrphqoAgjBlARWqoCL/vJXls6V0aUawL7bRMSfrKq29HTq2VpFICkBF7xsKwu7i30mjbxBCfjxewakkUkY9V6nzY8+rVFztgurA9ICFPSgvK5/UiXrsdofc0vHpP1HPRa1k6xB+SszVGPah+pslA3Fz7o2k+J/wGX95d57ZWuvRpRQGiAh9z3DNKOtp/pj8VYCjJno2SbxIvL9GT9e3Muz+Pm1Cox4B85n90zB9BqY4xrRUq4D4zfImARPWDiCiQbMYTm1f/SpntqZB/HbuXdStuTUoI2UzonmsipsaE6lZ+VBNVy4LWX+sg=;YU4U+a1XhIK12St2JAjq+Q=="

@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-05-07-ai-ethics-by-design-is-the-way-ahead-to-protect-privacy.md",
-      "title": "AI Ethics by Design Is the Way Ahead to Protect Privacy",
-      "excerpt": "With the growing dominance of AI and concerns over its responsible use, is it time to move toward AI ethics by design? Sameer Ahirrao, founder of Ardent Privacy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.govinfosecurity.com/ai-ethics-by-design-way-ahead-to-protect-privacy-a-21771",
-      "originalUrl": "https://www.govinfosecurity.com/ai-ethics-by-design-way-ahead-to-protect-privacy-a-21771",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ai-ethics-by-design-way-ahead-showcase_image-9-a-21771.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HHS",
-        "domain": "govinfosecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-06-president-biden-meets-with-ai-ceos-at-the-white-house-amid-ethical-criticism.md",
       "title": "President Biden meets with AI CEOs at the White House amid ethical criticism",
       "excerpt": "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,",
@@ -1449,6 +1406,58 @@
         "name": "Morningstar",
         "domain": "morningstar.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-is-ai-dangerous-heres-what-musk-pichai-and-ai-experts-think.md",
+      "title": "Is AI dangerous? Here's what Musk, Pichai, and AI experts think",
+      "excerpt": "With AI getting better by the day, experts are starting to question: is AI dangerous? The answer depends on whom you ask.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/is-ai-dangerous-threat-3316199/",
+      "originalUrl": "https://www.androidauthority.com/is-ai-dangerous-threat-3316199/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/11/elon-musk-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

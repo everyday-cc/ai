@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "3 Machine Learning Stocks That AI Is Loving in July"
+    excerpt: "Nvidia’s chips help power the elaborate large language models used to train and run machine learning models, especially for deep learning, a subset of machine learning that involves complex neural networks. Nvidia also offers software platforms ..."
+    publishedDateTime: 2023-07-12T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-that-ai-is-loving-in-july-1032441297"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Best Artificial Intelligence Stocks To Buy Now? 2 For Your July 2023 List"
     excerpt: "Artificial Intelligence (AI) has grown and transformed significantly in recent years. This is all thanks to amazing innovations in fields such as machine learning, deep learning, and computer vision."
     publishedDateTime: 2023-07-09T16:15:00Z

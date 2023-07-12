@@ -39,7 +39,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg"
         width: 1200

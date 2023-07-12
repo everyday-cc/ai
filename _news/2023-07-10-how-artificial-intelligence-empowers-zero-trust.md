@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/how-artificial-intelligence-empowers-zero-tru
 webUrl: "https://www.unite.ai/how-artificial-intelligence-empowers-zero-trust/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "The Four M’s To Empower Strategic Workplace AI"
+    excerpt: "The Four M’s — Multiplier, Magic, Mistakes, And Mayhem — Help Frame Your Workplace AI Strategy"
+    publishedDateTime: 2023-07-12T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64aea72e8479cd74c78a3cff/0x0.png?format=png&width=1200"
+        width: 1050
+        height: 788
+        isCached: true
 
 secured: "2ZY0k9B18KxYAJzMNRvdsCzLGgeLRGU54He49877aNeQJNiHZkBHcMMUHzjqndzuLLUH7BRFM4h29P16MggNrMJ5kOjK6g4gzIC1rk2JfrQCe5F7HgOu4phSxpGWgDtOabsF20wQD47+KlYaJlgLZMtdG6FQODt3VkeWPG3Og3rmsN7Yqa2KuYuzzUmsywb/NvhLeEXZCdp+Ho6DDVfkiRgiMdjXqUXeWclZu98O7ulXlx07Ys/vFj1MpEtFMe/Js/DAUGl9UuaXxF277FW3KZF2Pe1cl44HkIPF5EbN0d1HrxiftSgmHixjgerH4nJ+oi+Nn1xj+/3aJHv8a15TwyUFzkaByhvACWmYRlCrOYLbHW/rkODNPi7xbt26ylKZz5EGc4uNS10mw11VlKwI5KE8QYXCM4Tnk5sDtpxFqrAX/e9wFmBWgjYqR+s/7Mv2nz8GQAljJwV+65PjX/rvF/JucwQXr3O7FD0833IlKW8WaYx7+n1Y2bYjOuj4DZZ0FxXY2/C5yD2/jV8UCtC1Pg==;Q9MgEtGWa6TecvyJQADT0Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/75674/green-fintech/esg-fintech-to-play-cri
 webUrl: "https://fintechnews.sg/75674/green-fintech/esg-fintech-to-play-critical-role-in-net-zero-journey/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,62 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 APAC Companies Make 2023 Top AI Fintech Companies List"
-    excerpt: "Fintech Global, an online platform providing information and media services focusing on the fintech industry, has released its third edition of AIFintech100, an annual selection of the top companies leveraging AI to revolutionize financial services."
-    publishedDateTime: 2023-07-10T03:36:00Z
-    webUrl: "https://fintechnews.sg/75924/ai/5-apac-companies-make-2023-top-ai-fintech-companies-list/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/5-APAC-Companies-Make-2023-Top-AI-Fintech-Companies-List.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
-    excerpt: "Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products, Stripe said on Wednesday. The news followed an announcement by Microsoft Corp (MSFT."
-    publishedDateTime: 2023-07-09T23:55:00Z
-    webUrl: "https://www.inferse.com/602879/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-9441.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "IBSi recognises Kiya.ai as the #1 best-selling FinTech provider in 5 categories"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-12T04:44:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/ibsi-recognises-kiya-ai-as-the-1-best-selling-fintech-provider-in-5-categories/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 35
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/07/Winners_Kiya-01.png"
-        width: 2500
-        height: 2500
-        isCached: true
-  - title: "Investing In Fintech - A Closer Look At The Opportunities"
-    excerpt: "The fintech industry has experienced remarkable growth and has become a key player in reshaping the financial landscape. Fintech, short for financia"
-    publishedDateTime: 2023-07-11T03:12:00Z
-    webUrl: "https://menafn.com/1106581655/Investing-In-Fintech-A-Closer-Look-At-The-Opportunities"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/10/C_9861cimage_story.png"
-        width: 960
-        height: 600
-        isCached: true
   - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
     excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
     publishedDateTime: 2023-07-09T18:16:00Z
@@ -90,20 +34,29 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
-  - title: "FINEXPO Brings FinTech Industry Leaders and Enthusiasts Together at FinTech Festival Asia 2023"
-    excerpt: "FINEXPO, the world's leading event organiser, announced today that it is hosting its first-ever FinTech Festival Asia (FTF Asia) on 27 and 28 September 2023 at the Royal Paragon Hall in Bangkok, Thailand."
-    publishedDateTime: 2023-07-10T10:15:00Z
-    webUrl: "https://financialit.net/news/fintech-startups/finexpo-brings-fintech-industry-leaders-and-enthusiasts-together-fintech"
+  - title: "China’s Hundsun Recovers After Fintech Firm Refutes Rumor That Ant Will Follow It Into Financial Software"
+    excerpt: "Shares in Hundsun Technologies halted their precipitous decline today after the Chinese fintech software developer said that rumors that Chinese fintech giant Ant Financial Services Group is preparing to branch into financial IT software in direct competition with Hundsun are not true."
+    publishedDateTime: 2023-07-12T07:22:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinas-hundsun-recovers-after-fintech-firm-refutes-rumor-that-ant-will-follow-it-into-financial-software"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 12
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 7
     images:
-      - url: "https://financialit.net/sites/default/files/bfsi_11200x628-px.jpg"
-        width: 1200
-        height: 628
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/27796777983685.jpg"
+        width: 770
+        height: 510
         isCached: true
+  - title: "Kovo HealthTech appoints FinTech veteran Eddie Chan as CTO"
+    excerpt: "Kovo HealthTech Corporation (TSX-V:KOVO) has announced the appointment of financial technology (FinTech) innovator Eddie Chan as its chief"
+    publishedDateTime: 2023-07-11T11:33:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1020368/kovo-healthtech-appoints-fintech-veteran-eddie-chan-as-cto-1020368.html?region=ca"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 4
 
 secured: "ndo7FVBdV0eNdyVGRa/7gd9J1KDl6H6Q4seP8S6LKjlJA7A0ocsgcs6kUczPVQWMfDmBHExlJkeu6YEtDWt3YseusguoK01TLgZYzXn/3xs+tbZ+fqtbWUmtlq6IupF2Vhzu/WtM3ogWt1pVxDENTd8yNiy/PdNhdbINYjmavTfxUbpoTztZT3QHDqFQVmDXxJeyej76BdHmLx+94iaS0msMbpAr6c/Mfc3vYyZl06u5xis42p1AnEEV1/XAFSyceUZidDq+16vNxZYceHGthkeM8EystaKWw0meXdcMvSQvRcFGSmFNDjc+/2qQySG1lIG377oYXWDu2Z6dRNYzPL0WHSPTDavE2VIHxMNzcZt4/hR1HAk5rCDgv/tt9Gq/vMRv5QLasXk1l6yvyRymaNU8Q3dEDOYyDquZV6GZpg9v9p44ier4IDhrKWnZ7YoNs9AyViat6wEh8BNPK7TirWf6KsTF8246Z9IwoEj6va1Nk2leePziG/U8TSJfKDvnJuseV85B5TV38Ig1bYjLmg==;jTJ01L4yUD2CQ/5pEg+Bgw=="
 ---

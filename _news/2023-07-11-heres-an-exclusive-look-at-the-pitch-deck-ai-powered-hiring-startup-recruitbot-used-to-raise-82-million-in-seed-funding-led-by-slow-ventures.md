@@ -22,20 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "Here's the 12-slide pitch deck Prolific, a startup providing quality data to train AI models, used to raise $32 million"
-    excerpt: "The London-based startup, which is a graduate from Y Combinator, will use the fresh funds to expand in the US."
-    publishedDateTime: 2023-07-12T07:00:00Z
-    webUrl: "https://www.businessinsider.com/prolific-ai-research-startup-raises-32m-funding-for-us-expansion-2023-7"
+  - title: "Voice cloning startup Resemble AI Raises $8 mln in Series A"
+    excerpt: "Resemble AI, a San Francisco-based voice artificial intelligence startup, said on Wednesday it had raised $8 million in a funding round led by venture capital firm Javelin Ventures."
+    publishedDateTime: 2023-07-12T11:03:00Z
+    webUrl: "https://www.reuters.com/technology/voice-cloning-startup-resemble-ai-raises-8-mln-series-2023-07-12/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/64ac2a518ed31300199e4a1e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 49
 
 secured: "4fFw0rCkJAeLvrK1eVE7uJqXqEYtrsD/1XdObBydRD11ywb17l4eQrgG1KWJFqsXkO/TnCEMOqlgyMOnMtbNc209d0ndmXN/z4jT0COh62Za5vAi4EvYUsDsSH9MPVL77qaL2i8z3EobfauwM95Fje2rZTN1Nrlq5qXu042/+SSo/KsT9+85z5y5sSzHG+qxg/fZmX5R7PzQA6JeyvSfTBBRs2mk60WotB/eDFcUa9jRFMI1jsO0vHUX9ZdK/0Q/e3f/esBI7AkWpaqzA9qMdDvQ3DKQ/GyiHf+ZMMJu9JAqp72sYmmkV9LZ5QuYN7NPVRI2PALmYnUhtrgxcRpcWNRsRzywLuNi4k/McKA//0OxNdgCBS6dLK5dBVdZGzzmNYhCEcWDLkmkhCKFFrKESvB4x+1Vcv52e3Oyt9SrWPloSuOO5MteZUeqlbWoTMP3iNonWlQainx0oWAkxHCqLo0PBVFFQE1WRuCfIPwUmnr/mEl1wMCOyXjcp/m9DjSbE70MFlx3+V64Ie7BWd0PKg==;Ey4c4tr5zStwNxiMk3ShIg=="
 ---

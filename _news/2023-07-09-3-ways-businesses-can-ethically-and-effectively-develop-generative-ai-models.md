@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/3-ways-businesses-can-ethically-and-eff
 webUrl: "https://venturebeat.com/ai/3-ways-businesses-can-ethically-and-effectively-develop-generative-ai-models/"
 type: article
 quality: 64
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AWS Exec: Generative AI can create a flywheel effect for business growth"
-    excerpt: "Matt Wood of AWS shares insights with VentureBeat on how generative AI can create a flywheel effect for business growth."
-    publishedDateTime: 2023-07-07T20:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-aws-is-using-generative-ai-to-create-a-flywheel-effect-for-business-growth/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_Color_photo_of_a_server_room_filled_with_racks_of_se_2607795c-93c9-486d-8345-65765efe0615.png?w=1200&strip=all"
-        width: 1059
-        height: 706
-        isCached: true
 
 secured: "hbCwIJrvYDziE1drScKozdCcSBK+P2ErMcGu++3dvQwDSeAhqGf7+Ju4bSO3KsGpPDi26Ein4e04F29q1VC+izTgj22smNSJcf78C3Ra0LQpjHvAtDA0wOx8B0SGiQrlJMM1bKahdt9OzYyqwEBvi3BBbc0TuZd1avgq8Oexe1O7Rxus3CzK4D7hZCN/IEOZdR345Hgb+AZsBbMzJ/WIOjEhY7wJKYo+98b8HLY+wonor+XJbqNv8W/74sY2iKqI5Vp/3rDiqB9VGQqxqB3rlhM3tD7Al1B7ZbL1mju5v3xf32dy0AbCRjG/p3N7rtufmaB5Cm/po8QolsXFt2/gPa0z2hJQ+0cfiRju1gGLLaiAwy2x+jB+xayTAVx0Is0wBQlN2dLytdxEw4wp4+b5kA0SofFFGrNMAWKzZT029XJGxm92oV1szRJbbbSY00NBkIqDeqcvWu0UwUlUTGj0WKiAwEP4XcX9OFQwJJUsRDpKZMuediHK7RaCgqbAeMivN4Ycvtqi6xKT84BBraqB9g==;Ns2kuY2fIkwqo6JW4zJi4A=="
 ---

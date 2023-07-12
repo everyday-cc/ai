@@ -70,20 +70,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The potential healthcare privacy risks of ChatGPT"
-    excerpt: "Protect patient data or risk HIPAA violations and lawsuits — two health policy experts explain the risks of using ChatGPT and offer tips for healthcare organizations."
-    publishedDateTime: 2023-07-07T20:04:00Z
-    webUrl: "https://www.beckershospitalreview.com/cybersecurity/the-potential-healthcare-privacy-risks-of-chatgpt.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "LGBTQ+ consumers skeptical AI like ChatGPT will improve their financial experiences, Achieve survey finds"
     excerpt: "Wide-ranging survey on the personal finance experiences and challenges of the LGBTQ+ community reveals access to financial opportunities is"
     publishedDateTime: 2023-07-11T12:27:00Z

@@ -56,20 +56,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "M&E Faces up to the Promise and Challenges of Generative AI"
-    excerpt: "It is, of course, something that has been around since the 1950s but since the end of last year, coverage has ranged from the serious to hysterical, particularly over its latest manifestation, generative AI (Gen AI)."
-    publishedDateTime: 2023-07-10T15:33:00Z
-    webUrl: "https://www.tvtechnology.com/news/mande-faces-up-to-the-promise-and-challenges-of-generative-ai"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 43
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EMJcPYKmycaMXxGydkuN2K-1200-80.jpg"
-        width: 1200
-        height: 934
-        isCached: true
 
 secured: "Fw8mgBxNUuUJS8Jq6M0JfcHhtlKSVDYGED9FPPgKtoJm6KSXTcddf+YtkHSBZuhQwFoNTWM6Mr9WOQSxxSOmiZeVqmjwfsV3mml7bommbJ0mltUvUU4HfHqlJT8ZZrTNj7LH4V/P3VsPbSTHkaGXdHrTnnD/9k0MAPJT+ZYTK50Hlxk3qDP2W0Ir/nUFgL+MTj4dudR9xSQZM4Wn/ILajDJPQKHX+Btumm/f3NUpIqpcVdKfhg/m+77hUoVWTjwhzK/2PMrEDqaXhEAIjNsgrskrOxATYhNFXZvzg14eskaNpwNaZb5L8NymCyrgW/OrleE9e6ZfB0+oTLs+vv6zwWskUvKZ6BqO0xZIrhVOCQZ1vLTumMY3DYy9d2C6sLpKzd6RRLfI6fK0FgeXrzbD6smkfHo7NXRpJcnzKScfIZ4cDQHU1nmmAc6vLjxTtZpp4/rRKn0J9ceCOeD1yIfyzCJivZ07oSIB8iijAIKm5LZZZUoYpGxjBPInx8GuPShF96bUpo16CqVuuiYrIkaqEg==;8E6/5Hsg0Cw1PlSkQSjgDQ=="
 ---

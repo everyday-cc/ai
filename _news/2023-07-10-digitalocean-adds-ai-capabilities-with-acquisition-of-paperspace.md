@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-ad
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "DigitalOcean Buys Cloud Startup Paperspace To ‘Expand’ AI, ML For SMBs, Startups"
-    excerpt: "DigitalOcean acquires cloud computing company Paperspace for $111 million to build new AI and machine learning products targeting SMBs and startup companies."
-    publishedDateTime: 2023-07-07T19:39:00Z
-    webUrl: "https://www.crn.com/news/cloud/digitalocean-buys-cloud-startup-paperspace-to-expand-ai-ml-for-smbs-startups"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 29
   - title: "DigitalOcean snaps up Paperspace to enhance AI offerings"
     excerpt: "Paperspace’s high-performance GPU tooling enables small and medium-sized businesses around the globe to test, build, and scale AI models in the cloud."
     publishedDateTime: 2023-07-10T10:11:00Z

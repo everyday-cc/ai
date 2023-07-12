@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enab
 webUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/"
 type: article
 quality: 102
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
+  - title: "3 Blockchain Stocks That AI Is Loving in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I’ve used Google’s Bard AI tool to help identify blockchain stocks"
+    publishedDateTime: 2023-07-12T12:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-blockchain-stocks-that-ai-is-loving-in-july-1032440991"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "The Art of Intelligence: Unraveling the Potential of Blockchain and AI"
     excerpt: "In this captivating blog, we explore the remarkable potential that emerges when Blockchain and Artificial Intelligence (AI) converge. We uncover how this fusion revolutionizes industries, enhances security and privacy,"
     publishedDateTime: 2023-07-11T12:38:00Z

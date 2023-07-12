@@ -2,29 +2,46 @@
 category: news
 title: "New accelerator programme for fintech startups in India launched"
 excerpt: "FINity accelerator is a 45-day programme that brings together and supports the growth of early-stage fintech startups by providing access to mentorship from leading industry experts, curated resources,"
-publishedDateTime: 2023-07-12T10:40:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1099082"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1099082"
+publishedDateTime: 2023-07-12T10:30:00Z
+originalUrl: "https://telanganatoday.com/new-accelerator-programme-for-fintech-startups-in-india-launched"
+webUrl: "https://telanganatoday.com/new-accelerator-programme-for-fintech-startups-in-india-launched"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/bhima22_square.jpg"
-    width: 280
-    height: 250
-    isCached: true
-
 related:
+  - title: "PayU, AWS India And Chiratae Ventures To Launch Fintech Accelerator"
+    excerpt: "At AWS, we offer the broadest and deepest set of innovation tools, including machine learning (ML) and artificial intelligence (AI) capabilities, to help fintechs transform their ideas into tangible solutions to drive financial inclusion, and optimize ..."
+    publishedDateTime: 2023-07-12T12:20:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 51
+  - title: "5 APAC Companies Make 2023 Top AI Fintech Companies List"
+    excerpt: "Fintech Global, an online platform providing information and media services focusing on the fintech industry, has released its third edition of AIFintech100, an annual selection of the top companies leveraging AI to revolutionize financial services."
+    publishedDateTime: 2023-07-10T03:36:00Z
+    webUrl: "https://fintechnews.sg/75924/ai/5-apac-companies-make-2023-top-ai-fintech-companies-list/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/5-APAC-Companies-Make-2023-Top-AI-Fintech-Companies-List.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "PayU, AWS India and Chiratae Ventures to launch fintech accelerator for early-stage start-ups"
     excerpt: "The 45-day program offers mentorship, resources, AWS credits, and access to PayU's payment solutions. Selected start-ups to receive training, mentorship, and up to $25K in AWS credits"
     publishedDateTime: 2023-07-12T10:47:00Z
@@ -36,6 +53,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 30
+  - title: "Google's Gradient Ventures invests in fintech Collective's $50M round"
+    excerpt: "Collective, a financial dashboard and tax service for \"solopreneurs,\" raised $50 million in funding from an investor group that includes Google's Gradient Ventures. Why it matters: Many pandemic trends have slowed or vanished completely, but Collective's investors are betting that this particular approach has some AI-powered legs."
+    publishedDateTime: 2023-07-11T15:13:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2023/07/11/google-gradient-ventures-invests-collective-50m"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/5DrbGV2oms3p9btPGQWPzuEFC0k=/0x0:1920x1080/1366x768/2023/07/11/1689088121250.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "AWS, NVIDIA and Vestbee team up to empower Fintech Startups with AWS Global Fintech Accelerator"
     excerpt: "AWS has launched its brand new program AWS Global Fintech Accelerator in collaboration with NVIDIA and Vestbee that will equip fintech startups with tools, resources and a wide network of top experts,"
     publishedDateTime: 2023-07-11T17:49:00Z
@@ -45,7 +76,16 @@ related:
       name: Novinite
       domain: novinite.com
     quality: 9
+  - title: "The Future of Fintech: Industry Leader Shares His Thoughts!"
+    excerpt: "The first indicator of Fintech's growth is the adoption rate increase. With emerging user-friendly platforms, businesses and customers have become comfortable with digital financial solutions. From mobile banking to crowdfunding platforms, Fintech has gained  widespread acceptance and has become an integral part of everyday life for many."
+    publishedDateTime: 2023-07-12T12:59:00Z
+    webUrl: "https://www.finextra.com/blogposting/24525/the-future-of-fintech-industry-leader-shares-his-thoughts"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
-secured: "vgl1QrFzITgZ1wLhZsnmo49lFwYZaFxghDCh/nCBERrAKrF9M2/6fUhRFHw/rMRYLDZTEbNNYnS4s72NZxjw1LqrCvzDiTB06dBjI9MKv9lmPQD6zqquo2QRCpuur6jke/lQRiEStiDzpmpr1LWeLmmjkt0Yeo+4vEWOVua+argZzZ96Hbtw+SNaIuEozq95ToOmmJCnTopRgcXxPHuqpBgWqtjODlxh3ZoTIdrLux+U9ezE3qLIDwYkxO0wKJXvJ14VyNJhrkNwsc2snbqO4L/7Ko9fkrraiKWS3nYU0uXLycyC+tnpCUai/q6ZZBZSRNHnfmolIO79TePeVHHZG3qU2Po+zS6DQ5chnhQhrvA=;R19oB9obrFgfCse+RsO4BQ=="
+secured: "lwJthpFqbrGL8o8dd3FwUU6vOckqj8m3YVsOZNFGaJicjDWa6MySrtsTWSt2Vh1UVR9T/qgk7Rg8YpiNvpgeHL+O51LnmVkmhoKHIyCMEIxy9nwK9Zi9Bu4KugAt6kt2x3h+ChiCOqwr9c065h69Hddx+QZgazInHwfsX3ehFzX9xlK77g9WxdM1/qPBeaMpVAyDv772otuUZStoB2l4NKJ906oCOYg5fkbPEnszBk4ab95MupfOdzhcRTQNtcrLbYlFX32LQbjnn9eOf8b2f7Kh0JtMBa496aeC3lmKsHHTWfrOk3mzuY1NYA/D1zDRzaDwNJXRYnxDj/Q4nmW/JKuPMEih+zrJdYcWAdsaT8tGiFqzGAxGUWt0omMjNntdNO6FeDmrPlyCULg0o8XQLv8XvzEsK4Vog+jI9cMSu1jc78Du0EEtFFXylzH7z8ZELp+YF8gso+/omvyvrLiAHGFhbZKuccdF96bKvHnkLAbdNDMJ/ksGZ7mOEkqORcu6kkmI9Nywo7dlQReNL1BN9w==;r+xlSyzWQkhzbQ42lmSzRQ=="
 ---
 

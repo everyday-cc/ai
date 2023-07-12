@@ -133,6 +133,31 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions"
+    excerpt: "According to Delaporte, Wipro ai360 is meant to empower the company's talent pool and \"be ubiquitous across all operations and processes,\" as well as"
+    publishedDateTime: 2023-07-12T15:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/articleshow/101705193.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/amp_articleshow/101705193.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/amp_articleshow/101705193.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://static.toiimg.com/photo/msid-101705160/101705160.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Wipro eyes new opportunities with $1B investment in AI"
+    excerpt: "The Indian IT consulting firm launches its ai360 platform, alongside a three-year $1 billion plan that includes training its 250,000 employees on the fundamentals of artificial intelligence."
+    publishedDateTime: 2023-07-12T12:01:00Z
+    webUrl: "https://www.zdnet.com/article/wipro-eyes-new-opportunities-with-1b-investment-in-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "India’s Wipro commits $1bn investment into AI"
     excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
     publishedDateTime: 2023-07-12T04:53:00Z

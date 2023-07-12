@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AI’s Increasing Role in the Health Care Delivery System: Key Legal Considerations"
-    excerpt: "No personal services are more important than health care. The use of artificial intelligence (AI), involving machines to perform tasks normally requiring human intelligence, is leading to an expansion of the term “personal.” Recent breakthroughs in ..."
-    publishedDateTime: 2023-07-11T22:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ai-s-increasing-role-in-the-health-care-6164620/"
+  - title: "AI may be key to solving the most neglected women's health issues"
+    excerpt: "Advances in computational science are delivering insights into how to improve maternal mortality, deliver better therapies for breast cancer patients, and more."
+    publishedDateTime: 2023-07-10T16:40:00Z
+    webUrl: "https://www.nationalgeographic.com/premium/article/ai-women-health-breast-cancer-maternal-mortality"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 34
+      name: National Geographic news
+      domain: nationalgeographic.com
+    quality: 37
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
+      - url: "https://i.natgeofe.com/n/87570817-a027-4912-b373-d915701b2912/C0349668-Breast_biopsy_16x9.jpg?w=1200"
         width: 1200
-        height: 900
+        height: 675
         isCached: true
 
 secured: "R0OORYLGezICYz9pbTcKGlL+wW4XVTywQHbz1b1XeZZrSo5L8/jwkafn1nvtNifLRGmPLL78+0m+4CLo3Lfc3iqo08BOmdvXNE1L6hDjsmJHTZDEWF1cyl8uOLAtIjUeJf85E/fO2GmsnPX0huXBzkeHcOJE3IHdKbWwjXjBlfPq6ZpFxOnQqwkqgMYxwPoRB6y0pv+i6M8Lynzw8JPFDVHQ879WehMmZ+ZtRdZF/lErsM8uUrD9uf/hy7HxSZjVJJ0fZ222IiditO3kTOx8KlUcWCU4VdKhZNRkltSTv9TuLx2pKHs2XyhqJXM3tAwr9OckTijlG+Jy5G3Xi53/uIy1wa1w7A3tgg0nJ2EfVpA=;k0UYNhvXGbBFcj+v/WB/hA=="

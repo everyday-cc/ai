@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-yo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-your-job-27-of-jobs-in-wealthy-countries-at-high-risk-report-says/amp/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,75 @@ images:
     isCached: true
 
 related:
-  - title: "Will Robotics Automation & AI Take Our Jobs?"
-    excerpt: "There's a big concern about robotics automation and artificial intelligence. We think it's a $150 trillion question: Will AI take our jobs?"
-    publishedDateTime: 2023-07-09T14:59:00Z
-    webUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/"
-    ampWebUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
-    cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
+  - title: "27% of jobs at high risk from AI revolution, says OECD"
+    excerpt: "AI (Artificial Intelligence) letters and robot miniature in this illustration taken, June 23, 2023. REUTERS/Dado Ruvic/Illustration/File Photo"
+    publishedDateTime: 2023-07-11T19:00:00Z
+    webUrl: "https://www.reuters.com/news/picture/27-of-jobs-at-high-risk-from-ai-revoluti-idUSKBN2YR0Z7"
     type: article
     provider:
-      name: Banyan Hill Publishing
-      domain: banyanhill.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://banyanhill.com/wp-content/uploads/2023/07/shutterstock_151615517-scaled.jpg"
-        width: 2560
-        height: 2560
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20230711&t=2&i=1638495610&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ6A0HB"
+        width: 810
+        height: 539
         isCached: true
+  - title: "27% of jobs at high risk from AI revolution, says OECD"
+    excerpt: "More than a quarter of jobs in the OECD rely on skills that could be easily automated in the coming artificial intelligence revolution, and workers fear they could lose their jobs to AI, the OECD said on Tuesday."
+    publishedDateTime: 2023-07-11T13:09:00Z
+    webUrl: "https://www.reuters.com/technology/27-jobs-high-risk-ai-revolution-says-oecd-2023-07-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/Gklh_c7w8grlDfVyA8u-KzLYFZg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L4VK72FSCFLAXE4XALVNRQSNOA.jpg"
+        width: 728
+        height: 381
+        isCached: true
+  - title: "AI revolution puts skilled jobs at highest risk, OECD says"
+    excerpt: "Law, medicine and finance sectors could be among most affected, according to organisation’s employment outlook"
+    publishedDateTime: 2023-07-11T16:33:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/c2d5317d9c0d51e4c97b627af427b393b89a0de7/0_276_8289_4973/master/8289.jpg?width=620&quality=85&auto=format&fit=max&s=c8d5e9bc1e4b48d9368c4b42ec591904"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "New Study Shows Artificial Intelligence Growth Puts 27% Of Jobs At High Risk Of Becoming Fully Automated"
+    excerpt: "According to the Organisation for Economic Co-operation and Development (OECD), 27% of jobs could be automated by AI in the years to come. The organization added that there's little evidence to date that AI is cutting into the job market but that this could change as the AI revolution continues to grow."
+    publishedDateTime: 2023-07-12T15:09:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33200651/new-study-shows-artificial-intelligence-growth-puts-27-of-jobs-at-high-risk-of-becoming-fully-automa"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33200651"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33200651"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Business,People,And,Humanoid,Ai,Robot,Sitting,And,Waiting,For.jpeg?width=1200&height=800&fit=crop"
+        width: 834
+        height: 556
+        isCached: true
+  - title: "AI revolution puts skilled jobs at highest risk, OECD says"
+    excerpt: "Law, medicine and finance sectors could be among most affected, according to organisation’s employment outlook"
+    publishedDateTime: 2023-07-11T17:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "W2oAKp4M7jFBlbmPFcIiBT5DW7BMPWH4dFxcAJQADo0JHKIJZ2iOIAI0+Y61zACm4QSx2WeTSAUT2nMEAXMjhz6iJ9ckmZpcO2uco++ujwR2kn8e6+ydHGVAMFwydiw4mtOyd+3sacXR7nUctk3niI1ih/Ae62V8IOuO+wABffrqkjAouCJ4aBgHm7J/37l//+KBEwr3AcSCvwaqTtI+OMSCpPOhtQwjZdYt6osdA0diRa9Hm45fRmN2omyotREyFW5u0OGZ4GiII5XrWE5eIz8riuCuy7tgftneyM1OgpkGgltsrsS9EWLJ6k+vjLKznotR7YuMqTAz7NICm+kMPwrS9zYycVp4a4xVdhcgNXo=;ghxku34u4ZFq95oLSrZJkQ=="
 ---

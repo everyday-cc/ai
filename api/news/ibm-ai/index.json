@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-12-oee-vs-teep-whats-the-difference.md",
+      "title": "OEE vs. TEEP: What’s the difference?",
+      "excerpt": "OEE and TEEP are two related KPIs that are used to help prevent losses by measuring and improving the performance of equipment and production lines.\nThe post OEE vs. TEEP: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/oee-vs-teep/",
+      "originalUrl": "https://www.ibm.com/blog/oee-vs-teep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T06:04:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data.md",
+      "title": "Enterprises need generative AI tailored to their unique needs, with their own unique data",
+      "excerpt": "Learn why enterprises need generative AI, and how IBM watsonx offers a seamless, efficient, and governed approach to their AI deployment.\nThe post Enterprises need generative AI tailored to their unique needs, with their own unique data appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/",
+      "originalUrl": "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-ibms-watsonx-begins-its-official-rollout.md",
       "title": "IBM’s watsonx begins its official rollout",
       "excerpt": "IBM has announced that watsonx is generally available and has begun its rollout to enterprises. Watsonx is an AI and data platform that was first unveiled by IBM at the IBM Think conference in May. Watsonx consists of three parts: watsonx.ai, which is a ...",
@@ -10,7 +95,7 @@
       "originalUrl": "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -104,7 +189,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 346,
+      "heat": 356,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -360,7 +445,7 @@
       "originalUrl": "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1262,91 +1347,6 @@
       "topics": [
         "IBM AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-building-resilient-healthcare-supply-chains.md",
-      "title": "Building resilient healthcare supply chains",
-      "excerpt": "Find out how the healthcare industry can address shortages, delays, rising costs, tight regulations and more with resilient supply chains.\nThe post Building resilient healthcare supply chains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
-      "originalUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-what-is-asset-reliability.md",
-      "title": "What is asset reliability?",
-      "excerpt": "Asset reliability is the ability of an asset to perform under certain conditions over a specified period without breaking down.\nThe post What is asset reliability? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T06:26:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

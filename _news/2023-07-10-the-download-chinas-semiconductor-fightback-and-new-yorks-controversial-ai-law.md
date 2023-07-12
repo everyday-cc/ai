@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/2023/07/10/1076043/the-download-c
 webUrl: "https://www.technologyreview.com/2023/07/10/1076043/the-download-chinas-semiconductor-fightback-and-new-yorks-controversial-ai-law/"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "The Download: Bill Gates isn’t scared of AI, and net-zero shipping goals"
+    excerpt: "Four months after the Afghan government fell to the Taliban, 22-year-old Asad Asadullah had settled into a new routine. In his hometown in Afghanistan’s northern Samangan province, the former computer science student started and ended each day glued to his laptop screen."
+    publishedDateTime: 2023-07-12T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/12/1076168/the-download-bill-gates-isnt-scared-of-ai-and-net-zero-shipping-goals/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 16
 
 secured: "WtxE6AP3gBniiJm1tOqcecoRjpvnENjuHGZiaYTBRTMea7GeEwIoYUg+eiSBdaTZiVyDAsIC+/7DzYeh0XxznPuSpp5Mea455RBRx3Pv53kG26gzF8bCxpooxeFKfLVOAZshxcTFXzb0FLTB9xM46iuWjaADUUcL7H+wdceC3H85yBd3v9ksa2399clxBHQuv4JsDQduNhrNtiJkC+nZWHZFudjkArLv8fANmIkDePrrm8C6NFVMymtHXzVVtHKj5C9FXGT4mBl8h9RkoaYgHFRk6aXh6hEW1GkwWbMYVIYL62AzUKF87kizYuP8NPVfEdz8+0nxLKoZwuhyIOJzKkOn4ZhKJuBjmNluJSbbGJGJrOBqx33oo4by5c/zbCqHMx77l1B8jH7euwmQi6sowe8YZhesTIJxqtX9xJbWFfqH52XpheL1CdP+9Wi6G5r+JbgKjSvMcdoIC0iO1HhAIl6k432jeFb0M1gjCS6HnduQ1GjB16WbAvYK3Q41zFPcDAAdBE1ivfAaXVuQz94gAg==;9gSN2Kgajdy9AkPSi80rCQ=="
 ---

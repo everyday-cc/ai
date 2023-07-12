@@ -7,7 +7,7 @@ originalUrl: "https://www.blackenterprise.com/amazon-best-seller-black-author-re
 webUrl: "https://www.blackenterprise.com/amazon-best-seller-black-author-releases-picture-book-teaching-black-youth-about-ai/"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Amazon ‘Best Seller:’ Black Author Releases Picture Book Teaching Black Youth About AI"
+    excerpt: "Amazon is celebrating Amber Ivey's children’s book release about and artificial intelligence Adventure' which currently ranking at No. 2"
+    publishedDateTime: 2023-07-12T15:23:00Z
+    webUrl: "https://www.blackenterprise.com/amber-ivey-picture-book-about-ai/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 31
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/04/iStock-484794664-e1617748096357.jpg"
+        width: 313
+        height: 203
+        isCached: true
 
 secured: "tCrw0JZZ7OLLK2SBu0PCiAmZ9XKhTHdE7T7cIfaBOqy/vrwlNxLCLOwAD6kLLsAFDOys+kjLiORGbc8iQ4Oy/S9iYpqraFPhvNWSwiRufIZJQSFsLpuoA3gjMJcF43rN5GHg9MK7MKgH25ig/qkXqtB12BJG+fANrW7x3+WlEFnqHUV8Ku+GITfjx5E6DXmVkdZuJlbJe+EPR4B4qNw8fJNitiBB1hNWaKWjr/WTo5loc6JlqV2xW7ZZPr7wpGFbD5itv1D6Oeqoh40qYocBi865f4c/lTPG0+3S3KXGsMZeqKp6nCIK0r9rbyxZBqHYMQnZ09XSTauunY5kKUkEBdVIhKUXbx52UFm0WIR6tNvse7JZLxmLU+ZkXwa7f7guP81RgTwlom7+qCcL9YUNhU8ZBjGy0ej2u2SiMWiPiDdPcMYwCov3CKXciofo7QdS5GhR5QNKaytITxv6h9dhTD9Iwelbe7daeqRpYIgZTPnrCkLyxMJjS+bUACIp6OUE/pAB1cHCfE1+rJudLv0d0w==;vYhA/2KzhOuwWcyY+Yz0VA=="
 ---

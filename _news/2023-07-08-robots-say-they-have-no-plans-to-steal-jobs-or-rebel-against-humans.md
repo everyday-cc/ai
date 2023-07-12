@@ -115,15 +115,6 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 34
-  - title: "Robots in world's first AI press conference say they won't steal jobs or rebel against humans"
-    excerpt: "In the world's first robot-human conference in Geneva, robots say they expect to increase in number, help solve global problems, and will not steal humans jobs or rebel."
-    publishedDateTime: 2023-07-07T19:50:00Z
-    webUrl: "https://www.abc.net.au/news/2023-07-08/robots-say-they-wont-steal-jobs-rebel-against-humans/102578292"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 23
 
 secured: "8zswL3klewOnydyV/K4lOqALKgUh0zDs+cI/4SmoGDgUC81LCstKeq+hcOifGhupUKwLOduPdbWoXxFPC9JwqEge9rlHmcNEURflrqaXhNkNQABcAvjfugpkVLV/etKM5DbitiV0I8Ueb9g4o+bkJ/CZt3FL+iTrJTS5NAbXi+GLhbMU2qkjn1eScnBu4IZLo+JBPjo72VfuRvUGoN8jluu7SXq8fmu06UU8zy3Iwak7TGOQuJ6kAN1UHQZYv6ieETFve0yteeSYAhNBcO3Vy5sWMl+w7uF7uCKpVW4mjFXpuErJhQ5J9YYXR4zQ6lhPfwGSbBkknBHpRxCii8XRXKt2/jFnPkMaegZac6gujXRSFNyex13g/xHW8kLKE9eyO4W6I0yjgbQeY3qz+3MPozTABeUU9300HAaV+TPATbsyyxuIji7jKWZlmF2ikbPxSMmljbVZ5MrInoBxuj1n2g/aysxgQ9BiiIA+KsvnS9qUArW6OaXIw1YqCCytlVGRwBqT35dbp0JUnwfv0jqntw==;dTG8u2rcQRfGQIm7LZsjAg=="
 ---

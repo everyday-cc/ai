@@ -55,58 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-12-27-of-jobs-at-high-risk-from-ai-revolution-says-oecd.md",
-      "title": "27% of jobs at high risk from AI revolution, says OECD",
-      "excerpt": "AI (Artificial Intelligence) letters and robot miniature in this illustration taken, June 23, 2023. REUTERS/Dado Ruvic/Illustration/File Photo",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/27-of-jobs-at-high-risk-from-ai-revoluti-idUSKBN2YR0Z7",
-      "originalUrl": "https://www.reuters.com/news/picture/27-of-jobs-at-high-risk-from-ai-revoluti-idUSKBN2YR0Z7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20230711&t=2&i=1638495610&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ6A0HB",
-          "width": 810,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-11-how-future-histories-of-other-intelligences-clarify-todays-ai.md",
       "title": "How Future Histories Of ‘Other Intelligences’ Clarify Today’s AI",
       "excerpt": "In 'The Institute for Other Intelligences,' Mashinka Firunts Hakopian combines speculative fiction and media theory to propose equitable futures for intelligent life.",
@@ -368,7 +316,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1478,6 +1426,59 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-microsoft-is-already-offering-a-generative-ai-certification-program.md",
+      "title": "Microsoft is already offering a generative AI certification program",
+      "excerpt": "Although Big Tech is still (sometimes clumsily) figuring out generative AI’s ethics and implications, the genie is out of the bottle, and the technology is already integrating into the workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
+      "originalUrl": "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 566,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/vxYs3kq0gOpyOmPKsA4LNQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3409dfe0-15cf-11ee-9fb5-0ff29edbd714.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
+      "publishedDateTime": "2023-06-28T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],
