@@ -31,7 +31,7 @@ related:
   - title: "AMD's Lisa Su sees \"AI-first chip designer\""
     excerpt: "To what extent can artificial intelligence (AI) support and assist in chip design? Following recent examples of AI-assisted chip design in both China and the United States, there is a comparison between Nvidia CEO Jensen Huang's statement in late May,"
     publishedDateTime: 2023-07-10T06:44:00Z
-    webUrl: "https://www.digitimes.com/news/a20230710PD211/ai-amd.html"
+    webUrl: "https://www.digitimes.com/news/a20230710PD211/ai-amd-chips+components-design.html"
     type: article
     provider:
       name: Digi Times

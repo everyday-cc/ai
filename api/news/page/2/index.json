@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-11-ai-company-partners-with-bear-grylls-on-new-fact-checking-system-mission-seekr.md",
+      "title": "AI company partners with Bear Grylls on new fact-checking system 'Mission Seekr'",
+      "excerpt": "Seekr Technologies CEO Pat Condo spoke to Fox News Digital about his and Bear Grylls' new project to encourage digital media literacy among young people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr",
+      "originalUrl": "https://www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fbcb2e8-ccec-4dac-ac6e-95f168587aaf/08252fc7-392e-4cfa-a4cf-84a1b110cfd6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr.amp",
+      "publishedDateTime": "2023-07-10T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-air-force-showcases-how-artificial-intelligence-will-help-military-dominate-airspace.md",
       "title": "Air Force showcases how artificial intelligence will help military dominate airspace",
       "excerpt": "The Air Force Research Laboratory shed new light on its Autonomous Aircraft Experimentation initiative, where experts are training artificial intelligence to aid pilots.",
@@ -904,7 +955,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1160,48 +1211,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-10T06:06:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-how-to-improve-employee-experience-and-your-bottom-line.md",
-      "title": "How to improve employee experience (and your bottom line)",
-      "excerpt": "In a nutshell, employee experience refers to the totality of interactions employees have with their organization. \nThe post How to improve employee experience (and your bottom line) appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T06:01:38-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

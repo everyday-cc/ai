@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Enoc Group opts for Microsoft Azure OpenAI Service"
+    excerpt: "UAE - Enoc Group, a leading integrated oil and gas player, intents to work with Microsoft to integrate Microsoft Azure OpenAI Service into its business operations leveraging ChatGPT AI capabilities. This will deliver insights to its businesses that improve ..."
+    publishedDateTime: 2023-07-12T05:51:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 89
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjFhMmJjYTItMWRiMS00/1/afp_33cp4gc-jpg.jpeg?f=3%3A2"
+        width: 898
+        height: 599
+        isCached: true
   - title: "Microsoft Entra expands into Security Service Edge and Azure AD becomes Microsoft Entra ID"
     excerpt: "Microsoft Entra is unifying identity and network access with a new Security Service Edge solution and more identity innovations."
     publishedDateTime: 2023-07-11T16:09:00Z
@@ -67,6 +83,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AWS, Microsoft, Google Battle For $169B Cloud Services Market: IDC"
+    excerpt: "IDC reports cloud market share data showing AWS, Alibaba, IBM, Microsoft and Google Cloud leading the global $169 billion public cloud foundational services market."
+    publishedDateTime: 2023-07-11T15:56:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-microsoft-google-battle-for-169b-cloud-services-market-idc"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/027d-172b93914ded-a17195cc0dd2-1000/cloud-computing-solution.jpeg"
+        width: 611
+        height: 457
+        isCached: true
   - title: "KPMG and Microsoft sign $12B AI deal"
     excerpt: "KPMG and Microsoft have signed a US$12-billion agreement to develop custom artificial intelligence tools over the next five years."
     publishedDateTime: 2023-07-11T23:42:00Z
@@ -80,20 +110,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/billthomassatyanadella.jpg"
         width: 504
         height: 315
-        isCached: true
-  - title: "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft"
-    excerpt: "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,"
-    publishedDateTime: 2023-07-12T00:17:00Z
-    webUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
-        width: 2000
-        height: 1143
         isCached: true
   - title: "Azure: Our AI Platform – Stories – Microsoft"
     excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
@@ -123,6 +139,6 @@ related:
       domain: microsoft.com
     quality: 22
 
-secured: "/YuXo3FOcbOqiKSBy83lJNBkiXv3z+lAl5FfclZdnz6eWfbkjIwPE8XQRgoDsgS2WPqp9hiQsqBwgZbYR5kTESbIDYawyD3MHvarx/fflFKk+zpkpfP4FfSN1DNoSZFGCB1DCaWo0kqRDT1nYJpn5w6vvmjoJMYX3+VN0oq3FDpJdYEku7xDnQT8WSptCRWsw1EbXbZSFL/me4CQfmAUzkxO9z0zvt7PhGClQ5dEOSz1cNX6FbMkCXo9DZH/TLKG0CwFZSDR/DCdq0cS48zzJ2dMULTlsm3XW0PqBl2om/TW67h6aKBsDOg2SZ2wZ2zMzVo9K+SEjeNZEON0h0ewaMXZq1FAEQ/9eYZ4St2ulMQ=;EKaSjeQwufUhmAxzra7A0w=="
+secured: "biVro7vuCXMBRsVJG2JrtT+bWyeENLOQ6q1Tg7nMMh5u++J7Y/W7N3G5DYyDL9ynz5yKx8YYsYE8otpcQdp5jMjA09FJXCTVsuByH4fSyzRHPt+s+0APcoA6UAtOEDeSp824TJ0/R+hhU88MBxs9kMcvGj/yUzffZZDI/ezAlKfv+io3OIDjqIZrBjrHe7e+1RKsKCLxJoqYfLB2Os6crXvQR61tKdw+44JSCiMxzRZUFH8P4wNTZGCreWrTw21KRLxX1Epwu8YbWMeql22yJBiL1WijEbDXcGPDlp3HHecuktzRlFuUoU4CIBhlxXrn09ESJiuOeKbZVqoCnJOX8cv7o9Sdh4AQ0HLGZaPBBWJthhLsTyB3aOzmu7L+VQ2+sfOxMU4N4Q9p/45zieKy/QaNwa8Qcm1G4E9fKPBwscKW5GTumWZZDBNtnVeq4hhDz3hsr0R8OfIFr4ZPFY6hHJchEr/eycBsodmwtVw9EfSlrAuIIbrjas1zn4QYK2kJ81sSRcCAVRIW9cy6eqei3Q==;AV/feYdX689nyLdqNt+FWQ=="
 ---
 

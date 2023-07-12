@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 686
         isCached: true
+  - title: "Las Vegas officer accused of stealing nearly $165k in a trio of casino heists to face jurors"
+    excerpt: "Jury selection is under way in the trial for a Las Vegas police officer accused of stealing nearly $165,000 in a series of casino heists. Prosecutors have painted Caleb Rogers as a gambling addict who"
+    publishedDateTime: 2023-07-12T04:17:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jul/10/las-vegas-police-officer-set-to-go-on-trial-over-1/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 0
 
 secured: "+krWB2yAUXCjK2jvF6D8qlf6RQtAi7DH9f8+oyiq2WVx/CmIKwmyYoPgRUpXk9d8COkTHgZ9fN8rXP8hXH72d5Gn6Q7AZbk2qMIGM/ZGVQ++NHxLaxox+DNV4xsNdgiSW2calU20ukt6cEu7hRLdEletloWwVjbJ/EQWcqRfJK+Zjx6kh4GI+v/a/lBKdGTZ1reQwOpzZ9SDPnrrM8yKst3QyE5hPezY9A/SMuK3n8rY200i2KlW1/iAD2TQ5H5iO4LfNc17C643vgkjOKjpNyqACPlRZxBXFMMPx+BOBMxGDgOcSjCA+xlEXPQ3R3/4pAn9qNq8dG0ildX3T9g5zfaP9zCkaT8VoOAd/SJu34I=;h0xLsk3txiVX8GUBuMWzxw=="
 ---

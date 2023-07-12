@@ -2,6 +2,206 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-07-generative-ais-secret-sauce-data-scraping-comes-under-attack.md",
+      "title": "Generative AI’s secret sauce — data scraping— comes under attack",
+      "excerpt": "Data scraping of the internet for massive amounts of data could be described as generative AI's secret sauce. Experts say the current blowback is unsurprising.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/",
+      "originalUrl": "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-06T120228.476.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-tcs-to-train-25k-staff-on-azure-openai-gen-ai-tools.md",
+      "title": "TCS to train 25K staff on Azure, OpenAI Gen AI tools",
+      "excerpt": "TCS also launched a generative AI business offering, called TCS Generative AI Enterprise Adoption, which will offer deployments of OpenAI’s generative AI business tools via the Azure platform to businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings-11688661860898.html",
+      "originalUrl": "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings-11688661860898.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/07/06/600x338/-Mint-_1688661819003.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/tcs-to-train-25-000-engineers-on-openai-s-generative-ai-tools-via-microsoft-azure-to-enhance-business-offerings/amp-11688661860898.html",
+      "publishedDateTime": "2023-07-06T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-collision-conference-toronto-igniting-inclusion-and-ai-innovation-an-interview-with-paddy-cosgrave.md",
+      "title": "Collision Conference, Toronto: Igniting Inclusion And AI Innovation - An Interview With Paddy Cosgrave",
+      "excerpt": "With 36,000 attendees from over 118 countries descending in Toronto for Collision, I sat down with Paddy Cosgrave, the visionary behind this globally acclaimed conference",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6ef085dca0075bbb4ddd6/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/",
+      "publishedDateTime": "2023-07-06T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-daniel-eks-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions.md",
+      "title": "Daniel Ek’s Neko Health raises $65M for AI-driven preventative healthcare solutions",
+      "excerpt": "Neko Health has introduced an innovative AI-driven scanning technology that enables extensive and non-invasive healthcare data collection.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/daniel-ek-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions/",
+      "originalUrl": "https://venturebeat.com/ai/daniel-ek-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Neko.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
       "title": "AI robots could play future role as companions in care homes",
       "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
@@ -1040,186 +1240,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
-      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
-      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
-      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
-      "publishedDateTime": "2023-07-06T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-air-force-colonel-says-it-took-ai-10-minutes-to-complete-a-task-that-can-take-humans-days.md",
-      "title": "Air Force colonel says it took AI 10 minutes to complete a task that can take humans days",
-      "excerpt": "The US is testing AI to help defense agencies' internal communications, Bloomberg reported. Some AI models have even been fed classified information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7",
-      "originalUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a5c9376075be0019c2be26?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
-      "publishedDateTime": "2023-07-06T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-musk-predicts-tesla-self-driving-cars-later-this-year.md",
-      "title": "Musk Predicts Tesla Self-driving Cars 'Later This Year'",
-      "excerpt": "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b",
-      "originalUrl": "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.md",
-      "title": "India’s TCS to train 25,000 associates on Microsoft’s Azure Open AI",
-      "excerpt": "Indian IT services giant, Tata Consultancy Services (TCS), has deepened its partnership with internet major Microsoft and will train 25,000 associates to get them certified on Microsoft’s Azure Open AI.",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 349,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-101536741,imgsize-51502,width-1200,height=765,overlay-ettelecom/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
-      "publishedDateTime": "2023-07-05T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 244
 published: true
 
 provider:
@@ -161,20 +161,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "ChatGPT loses users for first time, shaking faith in AI revolution"
-    excerpt: "OpenAI's chatbot has been heralded as spurring a revolution in the tech world. But its spectacular growth has suddenly slowed down."
-    publishedDateTime: 2023-07-07T12:50:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BWVWREBAARAMPRKG6SHTDWITBY.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "LGBTQ+ consumers skeptical AI like ChatGPT will improve their financial experiences, Achieve survey finds"
     excerpt: "Wide-ranging survey on the personal finance experiences and challenges of the LGBTQ+ community reveals access to financial opportunities is"

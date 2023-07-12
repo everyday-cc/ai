@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-12T02:42:00Z
 originalUrl: "https://siliconangle.com/2023/07/11/us-senators-sounded-slightly-overwhelmed-first-ever-classified-briefing-artificial-intelligence/"
 webUrl: "https://siliconangle.com/2023/07/11/us-senators-sounded-slightly-overwhelmed-first-ever-classified-briefing-artificial-intelligence/"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/louis-velazquez-XWW746i6WoM-unsplash.jpg"
@@ -48,6 +49,6 @@ related:
       domain: govconwire.com
     quality: 15
 
-secured: "nr6nkfgRILE4jGnEdwd2xliNsZ36a79ROZfZ/sCDLs57JIc1ReeZ9Z+QJDj9I7xjGQhbceUMZYdxeW8+BP1GjFAsFTEovaj8CPnmoiZsJoN8DyBm+17eFS0Hl54C84CBwvUJnJpz3VJ/XGMsj9+OzxSHHE+YSoEGULoTzvH5MxL+z8TFTyaW4Wp1GY9x/RlepAjJDPHazi61rqvpqxjg7vX8ZSwO9aw5Q0i04tzzcui+l/L3WNYXYMTNAiZvM1CQmgvKvF/AFDs8zWKl+i6cCIUyLm9NVS4ws5vjzesg6WdiHYHToEUemjvN4+9sYf4EIr6TfZ+MRr7J/k2jWjvxWzKNWpXqJDzPJidk72ap3lM=;A/1sxvXTlWqrK/KrN4GWTQ=="
+secured: "PcI2qBlqFQ6Y2f3voouxsrdh1+aa5b4VuNTnrcqBDbzkIgmtDPrSW/iHUxr+xu990daWri81XW2DJss+sXpXKouB297zU0v6deUNxV45KN07o9KAsJ9dCS3mC4GGV7cJXWwpXIXXrCu/4BkoK5ZeOaGnCdWGOK9QUsfv9tRDT3O1/+7NQ2oehZ4LpFuqDMmptE/5YPTNT5KihfcQ1mz7QGQUiY1P/enyc1fHQDzhiVbFu5Kp7l4zIxesecMVF+jNh1I6y5MI8O3s4ijQ6BgoUHbRUMlHD5qrogmNUZxAJA8G7h2T1vw40/ahriAulWdPZDyEKn5rY/eXU5ryKP0TNGEWv+AE/nC3W96riEf71vy++8KljtQW9x/6zuQ6gC7LzJjAjtD12nXdJzyANjYanXjhTwSIWJKPGDRnxsLWqjZ//kVH1tCB3NquiNdDJi/iPESg4zB3MU9N69LMs7uOgn54OrUWwDPMRPPGkp2x/IL8IKLjCSG7IR5up+ZH4B5cZulH0kj/8nMZY2fT+IIDzw==;nh5KbIiTKMAL11avwFlG4Q=="
 ---
 

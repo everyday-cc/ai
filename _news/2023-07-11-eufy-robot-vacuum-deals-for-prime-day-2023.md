@@ -35,6 +35,15 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Best Amazon Prime Day 2023 deals on robot vacuums"
+    excerpt: "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums."
+    publishedDateTime: 2023-07-11T12:01:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-2023-07-11/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 21
 
 secured: "zKjFs5GsjkXa78/8LY6Mgn7TdEpWUUtWOGCO2GSNe6kooCZ49DWHvVZi1qycLtd53TGXCPIlXLWMrCubPIb59EvYYjJSrMI1fyvdvhAUKer3ag8UVecT1hmSRDLw6sIQ/kjgOgcHlJblmBGl/zSGUettZw6uNqWRd2jx3jBelUnI10yurYKEdD8B6P7HSbs33MTWwEFthVmpWwrKdS1Br9cg2RbsvjY/A9K9ebGd4fMmzHgOm5PwSMcAAXrihnJofhss7FJ4o4YecxStr1T+3KyC2VgmG98RpwX2eK3t0oRfmspCCiS5/g8PylID3wHz+hILLVDrrnSVv040DTOv6CjQJ8u/U7TZKDaygd6dUec=;gbvyVdb+dvO1jpqOcPbQCA=="
 ---

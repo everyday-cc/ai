@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Enoc Group opts for Microsoft Azure OpenAI Service"
+    excerpt: "UAE - Enoc Group, a leading integrated oil and gas player, intents to work with Microsoft to integrate Microsoft Azure OpenAI Service into its business operations leveraging ChatGPT AI capabilities. This will deliver insights to its businesses that improve ..."
+    publishedDateTime: 2023-07-12T05:51:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 89
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjFhMmJjYTItMWRiMS00/1/afp_33cp4gc-jpg.jpeg?f=3%3A2"
+        width: 898
+        height: 599
+        isCached: true
   - title: "Microsoft Entra expands into Security Service Edge and Azure AD becomes Microsoft Entra ID"
     excerpt: "Microsoft Entra is unifying identity and network access with a new Security Service Edge solution and more identity innovations."
     publishedDateTime: 2023-07-11T16:09:00Z
@@ -61,6 +77,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AWS, Microsoft, Google Battle For $169B Cloud Services Market: IDC"
+    excerpt: "IDC reports cloud market share data showing AWS, Alibaba, IBM, Microsoft and Google Cloud leading the global $169 billion public cloud foundational services market."
+    publishedDateTime: 2023-07-11T15:56:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-microsoft-google-battle-for-169b-cloud-services-market-idc"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/027d-172b93914ded-a17195cc0dd2-1000/cloud-computing-solution.jpeg"
+        width: 611
+        height: 457
+        isCached: true
   - title: "KPMG and Microsoft sign $12B AI deal"
     excerpt: "KPMG and Microsoft have signed a US$12-billion agreement to develop custom artificial intelligence tools over the next five years."
     publishedDateTime: 2023-07-11T23:42:00Z
@@ -74,20 +104,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/billthomassatyanadella.jpg"
         width: 504
         height: 315
-        isCached: true
-  - title: "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft"
-    excerpt: "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,"
-    publishedDateTime: 2023-07-12T00:17:00Z
-    webUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
-        width: 2000
-        height: 1143
         isCached: true
   - title: "Azure: Our AI Platform – Stories – Microsoft"
     excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"

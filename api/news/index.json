@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-12-enoc-group-opts-for-microsoft-azure-openai-service.md",
+      "title": "Enoc Group opts for Microsoft Azure OpenAI Service",
+      "excerpt": "UAE - Enoc Group, a leading integrated oil and gas player, intents to work with Microsoft to integrate Microsoft Azure OpenAI Service into its business operations leveraging ChatGPT AI capabilities. This will deliver insights to its businesses that improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt",
+      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjFhMmJjYTItMWRiMS00/1/afp_33cp4gc-jpg.jpeg?f=3%3A2",
+          "width": 898,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt?amp=1",
+      "publishedDateTime": "2023-07-11T22:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-wipro-commits-1-billion-investment-into-artificial-intelligence-ai.md",
       "title": "Wipro commits $1 billion investment into artificial intelligence (AI)",
       "excerpt": "The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -93,6 +136,49 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-kpmg-to-invest-2b-in-ai-and-cloud-as-it-expands-partnership-with-microsoft.md",
+      "title": "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft",
+      "excerpt": "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/",
+      "originalUrl": "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg",
+          "width": 2000,
+          "height": 1143,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -542,59 +628,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-11-microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id.md",
-      "title": "Microsoft Entra expands into Security Service Edge and Azure AD becomes Microsoft Entra ID",
-      "excerpt": "Microsoft Entra is unifying identity and network access with a new Security Service Edge solution and more identity innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/security/blog/2023/07/11/microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id/",
-      "originalUrl": "https://www.microsoft.com/en-us/security/blog/2023/07/11/microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/06/250087_SCI_Entra_T1_Moment_Blog_230601_Blog_Security_NoText_1280x720-1.png",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-07-11-how-future-histories-of-other-intelligences-clarify-todays-ai.md",
       "title": "How Future Histories Of ‘Other Intelligences’ Clarify Today’s AI",
       "excerpt": "In 'The Institute for Other Intelligences,' Mashinka Firunts Hakopian combines speculative fiction and media theory to propose equitable futures for intelligent life.",
@@ -603,7 +636,7 @@
       "originalUrl": "https://www.forbes.com/sites/jessedamiani/2023/07/11/how-future-histories-of-other-intelligences-clarify-todays-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -845,7 +878,7 @@
       "originalUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1151,57 +1184,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-ai-company-partners-with-bear-grylls-on-new-fact-checking-system-mission-seekr.md",
-      "title": "AI company partners with Bear Grylls on new fact-checking system 'Mission Seekr'",
-      "excerpt": "Seekr Technologies CEO Pat Condo spoke to Fox News Digital about his and Bear Grylls' new project to encourage digital media literacy among young people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr",
-      "originalUrl": "https://www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fbcb2e8-ccec-4dac-ac6e-95f168587aaf/08252fc7-392e-4cfa-a4cf-84a1b110cfd6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr.amp",
-      "publishedDateTime": "2023-07-10T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

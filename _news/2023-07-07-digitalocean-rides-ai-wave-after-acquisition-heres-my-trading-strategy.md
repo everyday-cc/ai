@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "DigitalOcean acquires cloud computing and AI start-up Paperspace for $111 million"
-    excerpt: "Cloud hosting business DigitalOcean has acquired an artificial intelligence (AI) and cloud computing startup, Paperspace, for $111 million. New York-based Paperspace, launched in 2014, runs three data center regions with custom-configured GPUs."
-    publishedDateTime: 2023-07-07T11:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/digitalocean-acquires-cloud-computing-and-ai-start-up-paperspace-for-111-million/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 32
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Digital_Ocean.2e16d0ba.fill-1200x630.jpg"
-        width: 1144
-        height: 600
-        isCached: true
   - title: "DigitalOcean Buys Cloud Startup Paperspace To ‘Expand’ AI, ML For SMBs, Startups"
     excerpt: "DigitalOcean acquires cloud computing company Paperspace for $111 million to build new AI and machine learning products targeting SMBs and startup companies."
     publishedDateTime: 2023-07-07T19:39:00Z

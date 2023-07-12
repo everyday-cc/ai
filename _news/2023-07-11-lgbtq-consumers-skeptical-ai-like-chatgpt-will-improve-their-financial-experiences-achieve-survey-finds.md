@@ -170,20 +170,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "ChatGPT loses users for first time, shaking faith in AI revolution"
-    excerpt: "OpenAI's chatbot has been heralded as spurring a revolution in the tech world. But its spectacular growth has suddenly slowed down."
-    publishedDateTime: 2023-07-07T12:50:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BWVWREBAARAMPRKG6SHTDWITBY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "AI ChatGPT-powered smart toys are coming for the holidays. How to keep your kids safe."
     excerpt: "We're bound to see a slew of AI ChatGPT-powered toys hitting the scene this holiday season. When the kids start asking for them, you’ll already know it's not all fun and games. Kim in your inbox: I share smart stories like this about the tech news that ..."
     publishedDateTime: 2023-07-07T15:34:00Z

@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "IBSi recognises Kiya.ai as the #1 best-selling FinTech provider in 5 categories"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-12T04:44:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/ibsi-recognises-kiya-ai-as-the-1-best-selling-fintech-provider-in-5-categories/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 35
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/07/Winners_Kiya-01.png"
+        width: 2500
+        height: 2500
+        isCached: true
   - title: "ESG Fintech to Play Critical Role in Net-Zero Journey"
     excerpt: "As the world races to achieve net-zero carbon emissions, the financial services sector is facing the challenge of reducing its financed emissions. Against this backdrop, ESG fintech, which leverages data and technology for environmental,"
     publishedDateTime: 2023-07-10T03:49:00Z

@@ -38,6 +38,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Looking for Biotech AI Stocks? 3 Names That Will Benefit From the AI Boom"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI is coming to biotech in a big way. From protein folding to drug screening,"
+    publishedDateTime: 2023-07-09T00:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/looking-for-biotech-ai-stocks-3-names-that-will-benefit-from-the-ai-boom-1032433236"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "RRCEoUepzRTdjY5kmRMIrp0MK6C3iAlc2ZH1Dt8mahaQPrXYSpVcKdh5loKOM8xtxpQK5hGa7jTJaPjixAkxmA/NaS3zV9gL97f6EgF6qHXgXun0tMok1lBnCKuLmvuTt/VhYQ3BtMoUE8Lu7PjFJXmEKXoOdpJK/CrDYD7MsDP01drC9CZNwz18KKCNM9rpwtu2FuoQPDQq7ywtwtqz5OokY72bmjVii/OObbvibk5dsRWkuUaTx3r/E3i3gZzyKtPuKio0D/uZ3VndU0SNIWkU3JU6VMo1v/y5OOkS8M3sIaOr8J8r8zxalOO3apL2oFfrd1aeRyHz+posw3nQdhGJPJ5iBgvRcf0j8iRM0JBr7Bgi4tmkrDRRwjUsuRsaOPPrtU6vMy0nFDy03ThyS+iDFhBpmz1fOfTmHjNYVbDmtgirXFzwQMBtYmyBGJZtbp0zzPxKQ20KzIwps1itJR0ZWij9ZK3G9m8FupZiIza8DW4ilVE7uu6e/P8yhs4sCrYdZeb9wF2lUX64D20Okw==;IpkXnned7KzgLj1zAy9xpA=="
 ---

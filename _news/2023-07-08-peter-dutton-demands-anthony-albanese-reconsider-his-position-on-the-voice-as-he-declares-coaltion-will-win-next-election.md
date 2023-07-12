@@ -9,7 +9,7 @@ ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/peter-
 cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-demands-anthony-albanese-reconsider-his-position-on-the-voice-as-he-declares-coaltion-will-win-next-election/news-story/c0b25b85a676926536cc602d93ada21a?amp"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "GDPR harmonisation, competition authorities on data protection"
-    excerpt: "We can further facilitate cross-border procedures between data protection authorities. We want to ensure quicker decisions. Also in complex cases.” Story of the week: The Commission presented on Tuesday (4 July) a legislative proposal to harmonise administrative procedures to facilitate the enforcement of cross-border data protection cases."
-    publishedDateTime: 2023-07-07T11:16:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/gdpr-harmonisation-competition-authorities-on-data-protection/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 24
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2023/07/Tech-Brief-800x450.png"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "CuBsW2N+aG6RMsPNrGK31ZaDH1FrnSBnLswtEOIINa9814RKG/WWQ7JKln1EBB5Nm/33FECVm2KHPjgZVLS/lcruzQ17Q8niRD1e86TRpbqmEwdwp/c4Xf0P/JvRXNRE/4jnm4QAUGN+xvCwrRjs0RLkMmn/TP0loFVLrwY6Mr64ycctzBuaKslojpofR1uyV3quzjAIX4sBxI4P4LgjIXbwpu90XIXx582Ocm5hFdcfKu8fP8U0JPBrmYF3v2O1EEvhLyeOykAZcgE0KtjnygaW1I0ACgIM+9T5g3fFKy0N5JIQB7BFV+TJu0waoJtZkyX17pmLJN4YPUgq/rDLP/UwEpPAiAT77I3srF2lX+JrQcHPSJCSJQlQMelTSm+P5vuT+ciPesq3IHru2Cvlm6Ehfmmp9u6o4uR3Ux7ofJk2xvbTPTPKQlH90MkSoeWak/oYafuDqCGtk3K+kLRPJ/Hvx0JZkqv4lheibLqXOX3r+TtpXFxAT101UXFFW/gaf4bAxjRVb/2qj3hTGSoTcA==;pOgwnhByndCUZc4KCWMZJA=="
 ---

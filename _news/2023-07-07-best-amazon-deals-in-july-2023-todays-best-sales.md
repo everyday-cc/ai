@@ -20,31 +20,36 @@ topics:
   - AI in Sales
 
 related:
-  - title: "The best shows on Amazon Prime right now (July 2023)"
-    excerpt: "With new shows always coming to Amazon, there’s lots to pique your curiosity. Want to see something fresh and new? Check out the exciting and unique new comedy I’m a Virgo, which has been ..."
-    publishedDateTime: 2023-07-07T13:00:00Z
-    webUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
-    ampWebUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/07/the-horror-of-dolores-roach.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Best Amazon Prime Day 2023 deals on robot vacuums"
+  - title: "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off"
     excerpt: "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums."
-    publishedDateTime: 2023-07-11T12:01:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-2023-07-11/"
+    publishedDateTime: 2023-07-11T13:23:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 21
+    quality: 61
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=758b39f312cc5ee6054d0eb9bad6c0cd"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "I test robot vacuums for a living — here’s 3 deals I recommend for Prime Day"
+    excerpt: "What separates the iRobot Roomba j7+ from the crowd is its intelligence. With built-in object recognition, it can learn and report on its encounters. In fact, iRobot has introduced a Pet Owner Official Process, (P.O.O.P), which guarantees a replacement ..."
+    publishedDateTime: 2023-07-11T00:13:00Z
+    webUrl: "https://www.tomsguide.com/deals/i-test-robot-vacuums-for-a-living-heres-3-deals-i-recommend-for-prime-day"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 38
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/t8SDvoiLRZNEouBTTAbA5Y-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ZoZk60K95tgp9ohKeC2Isk9mCkMqunGx9ef+3s3sfVBIm3tgE8eZKUXq8aKl52rlks7eFDr4zs/KHRxDwhfUEJcINemaGf9r3O1gK8ho/W1w83H060hMtefW6Af2zOioLa2vlYYK7HCFvxcQmtQhxiYF3xwdqMTZycI+4UExM1pWP24CbcPscew+zQNNwJJjWEJSzgQ/k7WxO4rcmvFZAv8F08GNtfTv0cuX+Sx+OniDsWS4hZv8n4NWWrVjmM1m8kwRJOvK8hVXwkrrBFUnrq0Gs85Ugj0ncfgU4Vj7+8b8h52/3lzzbEAfCK0bwOYSXdvdzczg/iJ8yToqoAFLJ5wHqC180JTXVs96LYYOJZo=;I+vO6GVhuwLGsElp0aFA3A=="
 ---

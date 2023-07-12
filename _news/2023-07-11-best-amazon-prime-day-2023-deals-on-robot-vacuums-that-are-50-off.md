@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-de
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Best Amazon deals in July 2023: Today's best sales"
+    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. And with Prime ..."
+    publishedDateTime: 2023-07-07T15:43:00Z
+    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 21
 
 secured: "9xA/YfSNIkAUUAJ6bGCMdVarIkwOTt6qJcIBDodnvdTcSMFFbUHrlAD/bsWFylMxgXGzup9v5pKqsNFwj28mRtqJIlJSU3X5PFESMttiq4VwZZXKDjJ2zm0BETjP3bBaBUNunfRSGodXaCCoJtct0o5tJ0eYcfiHD0Bv7BcwxDww+WpCqWwKcWJT9B1YAcpccFv8GyUGdhscGmnUtFcVeOcnKOnRkKDNI18AJtiKoSJB1E3ALguxfalAO31NqZnTfH/QbZ30tHRERavT0Jf9GsafmywSOJ0PWyl438l27IMaUF4jROnxwESaqNvPloG4nalbmZ7B77XZK9HS6vYvTKDcVpauPiyMjVJeQWXlS0g04E7xuni428HNXY6hF/nb1YGsj5nFI+OcXBjlDObBQ9VGaqcrM5rkU4aj3ZWJsrrDVt487+tsP9AcVjFmmFLyXGr1w7atgnqMl7Zc4Rv8/oyBZeVWnErn8BwLRkGQjWPXBZqIOuNh+ZP5MBv3BDr9Ybjdc+NNLLWISfeTjbBQGQ==;3d569z1YSQVOAbBNgj/Yww=="
 ---

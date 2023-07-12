@@ -121,15 +121,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 51
-  - title: "The 3 Best AI Stocks Nobody’s Talking About Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have emerged as a top investment trend, driven by the increasing"
-    publishedDateTime: 2023-07-07T11:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-nobodys-talking-about-right-now-1032432143"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Google Says It'll Scrape Everything You Post Online for AI"
     excerpt: "Previously, Google said the data would be used “for language models,” rather than “AI models,” and where the older policy just mentioned Google Translate, Bard and Cloud AI now make an appearance. This is an unusual clause for a privacy policy."
     publishedDateTime: 2023-07-10T16:44:00Z
@@ -139,15 +130,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 49
-  - title: "Generative AI: We Need To Talk About Value"
-    excerpt: "It’s not about simply getting your hands on generative AI—it’s about knowing how to put the technology to work to create real, tangible value."
-    publishedDateTime: 2023-07-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/generative-ai-we-need-to-talk-about-value/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "4 Things Job Seekers Must Know About The New Role Of AI In Hiring"
     excerpt: "As more businesses adopt AI recruitment tools, job seekers must understand how the technology is being used and the ways it might impact their chances of landing a job."
     publishedDateTime: 2023-07-11T12:27:00Z

@@ -54,6 +54,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "India's Wipro commits $1bln investment into AI"
+    excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
+    publishedDateTime: 2023-07-12T04:52:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MThiMzk1MmYtYmI5ZS00/3/180902082140lckc-jpg.jpeg?f=3%3A2"
+        width: 880
+        height: 587
+        isCached: true
   - title: "Wipro launches ai360, will invest $1 billion into AI the next three years"
     excerpt: "IT major Wipro announced the launch of ai360 service and plans to invest $1 billion in artificial intelligence over the next three years. The move follows Tata Consultancy Services' announcement to train 25,"
     publishedDateTime: 2023-07-12T03:36:00Z
@@ -86,6 +102,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "India’s Wipro commits $1bn investment into AI"
+    excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
+    publishedDateTime: 2023-07-12T04:53:00Z
+    webUrl: "https://www.brecorder.com/news/40252155"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "https://i.brecorder.com/large/2023/07/1209530194100a4.gif?r=095323"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Quantexa commits to AI with $155M investment and new agnostic large language model"
     excerpt: "The seven-year-old company also previewed its generative AI technology, Q Assist, alongside its investment plans. Quantexa started as a provider of artificial intelligence-based fraud detection tools for the financial services industry but has more recently rebranded itself as a “decision intelligence” platform and expanded into industries such as insurance,"
     publishedDateTime: 2023-07-09T23:13:00Z
@@ -100,6 +130,15 @@ related:
         width: 1111
         height: 481
         isCached: true
+  - title: "India’s Wipro commits US$1 billion investment into AI"
+    excerpt: "INDIAN IT services provider Wipro said on Wednesday (Jul 12) it planned to invest US$1 billion into artificial intelligence (AI) over the next three years. Read more at The Business Times."
+    publishedDateTime: 2023-07-12T04:54:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/indias-wipro-commits-us1-billion-investment-ai"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 19
 
 secured: "vAVy5GeWpdqGrGtZqhVuaBGVjLazLsfQWDPyW7DrsRbjl3QUT/ZvuDD5+lRsBAwNiDlA8IWd0dAEzG+ENDKFwouRdCtGat4Iu+l6Y5WACk1pIr0dy4dV4K1HrSsZEAzYCPW/47ixRBM/peUTrrPO6yPrg7N93YSIQdGaTfK2THdtIN6yU9IzwvIYWAqZQTli56Iq3QNdlrF5AS0QuoA/E/0z6SNvdbEoI0bftO55m46Lk5TlYb5A9u6modH38dMMUkdzgIiBAXCrP1TYZ8cTZHE8R9Cn3Gs45rZncmvuF8c+Qod/ld/5HmppScfSgDeEjDaWEXTiYg5qjnnU1IhY1/6XVZYqZGRBhbEirSkSmxY=;i/um6yOY/ZDZCS3MZDrEtg=="
 ---

@@ -20,31 +20,31 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "The best shows on Amazon Prime right now (July 2023)"
-    excerpt: "With new shows always coming to Amazon, there’s lots to pique your curiosity. Want to see something fresh and new? Check out the exciting and unique new comedy I’m a Virgo, which has been ..."
-    publishedDateTime: 2023-07-07T13:00:00Z
-    webUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
-    ampWebUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/"
+  - title: "Save up to 43 per cent on an ECOVACS DEEBOT robot vacuum in the Prime Day sales"
+    excerpt: "It’s Amazon’s Prime Day and there has never been a better time to purchase an ECOVACS DEEBOT robot vacuum/mop or the WINBOT W1 Pro window cleaner. If you’ve been on the fence about purchasing a robot vacuum or perhaps couldn’t fit one into your budget,"
+    publishedDateTime: 2023-07-10T05:44:00Z
+    webUrl: "https://www.techguide.com.au/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/"
+    ampWebUrl: "https://www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/"
+    cdnAmpWebUrl: "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
+      name: Tech Guide
+      domain: techguide.com.au
+    quality: 72
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/07/the-horror-of-dolores-roach.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
+      - url: "https://www.techguide.com.au/wp-content/uploads/2023/07/3-AIVI-3.0-e1688971217992-450x300.jpeg"
+        width: 450
+        height: 300
         isCached: true
-  - title: "Best Amazon deals in July 2023: Today's best sales"
-    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. And with Prime ..."
-    publishedDateTime: 2023-07-07T15:43:00Z
-    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+  - title: "Eufy robot vacuum deals for Prime Day 2023"
+    excerpt: "There are plenty of other exciting features as well, including strong 5,500Pa suction, AI-powered obstacle avoidance ... the high-end x9 Pro isn’t the only eufy robot vacuum on sale for Prime Day 2023. Prices start at just $129.99 for the eufy BoostIQ ..."
+    publishedDateTime: 2023-07-11T12:56:00Z
+    webUrl: "https://bgr.com/deals/eufy-robot-vacuum-deals-for-prime-day/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 21
+      name: BGR
+      domain: bgr.com
+    quality: 19
 
 secured: "oP1j6f3rejy6XLMUqOKYcwG2zPnkyq4+Jd1vsRn1E2zh9aD+mbEJpfadsDozOF1HuifmbPvjQrGbKGkKSTo+qPKPxIquM424SyjZoGZO70UyrmiYYPVTFkrI9sT3sh6v4/XW4xHnMQOfNOMlrU7qCSwlR8xSnJpahVXFAIIDwF+eAMYKHhZTa5Hw9OIOkoD5X8aAYGmwLBhDbqZii7JY9qt3AkMD/veZD+86Sn7QyTipx1BG4fBqacUnfLppQabnZHpmcQ+AoRzvb1wz51I8lDUd/M2Cm3FPZZ1cN49QqI26cMvvUKVTRH/dNIigrDQGHLTJ/tQAQkieJnu4hWbWhSvj2HR0NLt74nWJX/w3HWK5xSFBXE/82WU7qrRMykklKQfAfZXI9j8LwQIsi5QMjuNnX8X7TmDzvemHOZe0kGL68WwUAntZ1Dsa1ab5eHCS379Ho1LKmXWrHhZOZGilPVfttZgVWuIdNSTS6/BsCNp3T0ZG+roQqGPIDvTbiDw10hKuuF5xeu198dyq2X7DVw==;MDSvZaPXSZmi947vf9Pcqg=="
 ---

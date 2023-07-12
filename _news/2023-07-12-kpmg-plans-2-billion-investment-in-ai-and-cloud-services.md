@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "India's Wipro commits $1bln investment into AI"
+    excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
+    publishedDateTime: 2023-07-12T04:52:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MThiMzk1MmYtYmI5ZS00/3/180902082140lckc-jpg.jpeg?f=3%3A2"
+        width: 880
+        height: 587
+        isCached: true
   - title: "Wipro launches ai360, will invest $1 billion into AI the next three years"
     excerpt: "IT major Wipro announced the launch of ai360 service and plans to invest $1 billion in artificial intelligence over the next three years. The move follows Tata Consultancy Services' announcement to train 25,"
     publishedDateTime: 2023-07-12T03:36:00Z
@@ -76,6 +92,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "India’s Wipro commits $1bn investment into AI"
+    excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
+    publishedDateTime: 2023-07-12T04:53:00Z
+    webUrl: "https://www.brecorder.com/news/40252155"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "https://i.brecorder.com/large/2023/07/1209530194100a4.gif?r=095323"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Sapphire Venture plans to invest over $1 billion in enterprise AI startups"
     excerpt: "Sapphire Venture plans to invest over $1 billion in AI enterprise startups, doubling down on the technology's adoption by companies across the world, its president Jai Das said at the Reuters Momentum conference in Austin on Tuesday."
     publishedDateTime: 2023-07-11T17:15:00Z
@@ -104,6 +134,15 @@ related:
         width: 1111
         height: 481
         isCached: true
+  - title: "India’s Wipro commits US$1 billion investment into AI"
+    excerpt: "INDIAN IT services provider Wipro said on Wednesday (Jul 12) it planned to invest US$1 billion into artificial intelligence (AI) over the next three years. Read more at The Business Times."
+    publishedDateTime: 2023-07-12T04:54:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/indias-wipro-commits-us1-billion-investment-ai"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 19
 
 secured: "esW9R2xYULtbEGVTetJqdDOKU8iLsAKFh8T26wLoQCkpwZ+qWGZQrHj8pUAgUv4pEFtGyuREAxk47vhbAXrOMwXpRE7vsruvfZO+aiJvfQxHm7fqY8BIbRuP4SFvlE4lorFLYHnr+2IxK9KPlrOah3QYrf+1JAE0S+wFRJEnVGDRlw0nkFblZQdzYrlayw1WLvQ3bJ+wWdj+Bw3jUDpKJhXvggxvr3mGjpTsZAw3PKZNLyN4Cl5+tIaYJ19bL6MdX4uxJxOgTaoGWOeoTd7R4AXjDkBB53KtXxiRudSEHJGdNtulH8D/PHe8uw5N+ZaRtn8OmNX0BDpxXfFljVBfVcj8X9d2CcXHOjSmkcJOcRXWIqiHlt8rF2WzuV8xFClHNpmSRmzdgGbg+PFA4s+d2jvIVuGvd+B2Q5+BMbkjThxu5VanEz5MmBxCs+ZkZ8FHBdNF/JMsVcmTK1bmktVqjXKCgyDDINkgUiM5ZHkkfCkNDKhmBo7TRxzbMkeEfGFspOppmA4lokEwe2COZUyrpg==;nbNZJ2ER3We8paq0C+m5gw=="
 ---

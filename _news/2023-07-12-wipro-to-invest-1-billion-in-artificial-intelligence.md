@@ -56,6 +56,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "India's Wipro commits $1bln investment into AI"
+    excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
+    publishedDateTime: 2023-07-12T04:52:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MThiMzk1MmYtYmI5ZS00/3/180902082140lckc-jpg.jpeg?f=3%3A2"
+        width: 880
+        height: 587
+        isCached: true
   - title: "Wipro launches ai360, will invest $1 billion into AI the next three years"
     excerpt: "IT major Wipro announced the launch of ai360 service and plans to invest $1 billion in artificial intelligence over the next three years. The move follows Tata Consultancy Services' announcement to train 25,"
     publishedDateTime: 2023-07-12T03:36:00Z
@@ -71,6 +87,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/07/12/600x338/WIPRO-RESULTS--0_1689132237831_1689132325762.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "India’s Wipro commits $1bn investment into AI"
+    excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
+    publishedDateTime: 2023-07-12T04:53:00Z
+    webUrl: "https://www.brecorder.com/news/40252155"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "https://i.brecorder.com/large/2023/07/1209530194100a4.gif?r=095323"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Sapphire Venture plans to invest over $1 billion in enterprise AI startups"
     excerpt: "Sapphire Venture plans to invest over $1 billion in AI enterprise startups, doubling down on the technology's adoption by companies across the world, its president Jai Das said at the Reuters Momentum conference in Austin on Tuesday."
@@ -100,6 +130,15 @@ related:
         width: 1111
         height: 481
         isCached: true
+  - title: "India’s Wipro commits US$1 billion investment into AI"
+    excerpt: "INDIAN IT services provider Wipro said on Wednesday (Jul 12) it planned to invest US$1 billion into artificial intelligence (AI) over the next three years. Read more at The Business Times."
+    publishedDateTime: 2023-07-12T04:54:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/indias-wipro-commits-us1-billion-investment-ai"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 19
 
 secured: "yHAkZPnGJH27Q81fY5qsOzUZ2RV67O4HfJkTjhqe77Koc2ToaEIkhkX8Gbw7xvvyPpqJDu9s0NLFCCve3Q5cLTZCc1u/vDWnbynSJc9feu2mTpg5AmfF1C0TYAHg6E78uBkgLjAsYSx9RbQQKrAmKs9Fyb4ShaWAe+bCCAKDhrfxNqj0/w7Vda155tLOMqho4zlRBzjZbErrgQYiOW/jtrfilIDE0CQNs2p0aJ9avCLr/EpMKh0QC//mafEVumc0oUFXxy3j2McV1FvbNz58RN4mpon9q0SE1svMo+wDT8MlizmGTRYxYD+Ha/F2QE7h8sgrIuD+1luNbVuc15Mx2qBlDll0OxZXIgUvaC1lUWs=;QsFJvgjoFF6Ze4E8BijgUQ=="
 ---

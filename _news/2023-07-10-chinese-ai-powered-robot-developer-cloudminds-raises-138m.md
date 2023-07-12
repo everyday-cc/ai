@@ -7,8 +7,8 @@ originalUrl: "https://asia.nikkei.com/Spotlight/DealStreetAsia/Chinese-AI-powere
 webUrl: "https://asia.nikkei.com/Spotlight/DealStreetAsia/Chinese-AI-powered-robot-developer-CloudMinds-raises-138m"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Nikkei Asia
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese firms advance in AI chips amid possible looming US restrictions"
-    excerpt: "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity and large language models,"
-    publishedDateTime: 2023-07-07T11:07:00Z
-    webUrl: "https://www.globaltimes.cn/page/202307/1293938.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 54
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-07-06/cec72acb-baa5-4f80-b201-354117b3562b_s.jpeg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Chinese chipmakers rally behind initiative to develop AI industry standard"
     excerpt: "China's AI chip development is no match for the high-performance AI GPUs from NVIDIA and AMD. However, facing tightening export sanctions from the US government, Chinese authorities have rallied the collective efforts of the industry,"
     publishedDateTime: 2023-07-11T06:15:00Z

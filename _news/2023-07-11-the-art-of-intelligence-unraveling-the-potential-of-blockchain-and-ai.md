@@ -42,15 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
-  - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
-    excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
-    publishedDateTime: 2023-07-07T12:26:00Z
-    webUrl: "https://www.benzinga.com/tech/23/07/33146451/farm-ai-this-start-up-is-bringing-agriculture-into-the-21st-century-with-artificial-intelligence-and"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "PS38owtI+UZF9FWw4zU0njozT+wdWwwr3PJPa9xSMYsAzxdlDhdJkXXH85urnkXvt+dKyhnSjG5AhNzPUXN8jWYl+mbK8FuzueW68vb/coZ2t7H3LiM6LQCOtxEQ19/1TOF2TLMUyJSY7YfE9jnSCqVQjJ9wWPTYNdCr2TUayJ5dbTBvhtBG9WJovXZQKuwHDOnTk6n8srB3cRmGLLD3HoVtFzTiTHEU309MQ5jAsL4rOhGB5SmDzf2V6PNJV6V1aGdNRlzptFw3nh+K+b456h5uCF1KrbHGVie3h79uAfP+lTxy6smd1CtSPOKkFJbxaP0//R5VqincxzrbqNjLiQZj1BpxbBqhxvYQZqrESnyEofoIwfdAemGcFRMZmnTYWuWu6Fc5ZpEouJYCqAsdkTilSoy1vM036l5syK0fZxI/kKchYLVRR1E5Y4TA5w+HCGZHHtOM8y40COesVle9wAT+X6EWXQW597p/eabrkPmXhorQUFZpCP2G2FtKc8AxTtwOTTPi2t4D0x9PYOCXyQ==;F8OliYz2ImGpb+bMgUedvw=="
 ---

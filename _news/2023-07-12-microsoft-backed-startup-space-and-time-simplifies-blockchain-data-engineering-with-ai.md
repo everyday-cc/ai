@@ -47,15 +47,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 19
-  - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
-    excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
-    publishedDateTime: 2023-07-07T12:26:00Z
-    webUrl: "https://www.benzinga.com/tech/23/07/33146451/farm-ai-this-start-up-is-bringing-agriculture-into-the-21st-century-with-artificial-intelligence-and"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "6DukopDclhL2oAvaG/mVmC6Jzta0JPvC86xnfdHLyqEeKBkmdtythYV85IN59Jths/dZ26wnxzGrwoRguhkd85VvnwJfGHsgKHq8SLI76nING/UyXJIayI6Xve5hW+OU068+iNPYqdl7NAp8/zdfk62493SHPG92reKu1fyY5E69xuS9Myz6hnLPEEdz4ymboMqJpsAv1PRnUtZSJ0+GtEtbl40w1+DerKUZyxDG38b5w8+eVdyHdQyHZ3rti2aQv/gOIJGaN3Ag+uuyvEtrUMTyNnJnSuRA+ucfk+uwu8A+EScHMJ4mqJW7q6PS8C5ifBbfXDpJQulbmQJ0MIqQ+Qp4gK1wVF1zHO3gW4WKxd8=;pDUt5OkAI9LC8XJNwzO0GA=="
 ---

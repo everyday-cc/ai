@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enab
 webUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/"
 type: article
 quality: 102
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 19
-  - title: "Farm AI – This Start Up Is Bringing Agriculture Into The 21st Century With Artificial Intelligence And Blockchain Technology"
-    excerpt: "Farm AI is an artificial intelligence-focused technology company attempting to revolutionize agriculture through the use of data-driven insights powered by autonomous artificial intelligence solutions. Its goal is to help farmers make smarter decisions that will lead to higher yields, reduced cost, and increased sustainability."
-    publishedDateTime: 2023-07-07T12:26:00Z
-    webUrl: "https://www.benzinga.com/tech/23/07/33146451/farm-ai-this-start-up-is-bringing-agriculture-into-the-21st-century-with-artificial-intelligence-and"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "CFYXpNR+gzGcv1tyELP1capdMff290zFoGoKgliG9Dktok6pGeWvyPSMaiXOhYn1fuOBXS+dwFA42Cb+ScY3SpEmHc7PNlQV3KL7PT5qylSQkhSe9e80h9f8Qk93SB4lvndDOZ0KCpQFvjTf4xz++5VfK6mks9BLSJpzsnXz+HKUvA1BNthf4xNT+45fMyaT5RjMtq8Rl4H0ZkQyKqhRAE86sT3l/cci2x7sioohqrSF6wZFfFf4w2dMdSsZOOd+C9cn9kqcr7DpC/WAnSddEjTOC2qKMNP5Ow8f/E8TuEbZrefkyF9LYWez+98H7ZQiHKANEMhlQnJLJMh2JNgcGFRS8XouzMvsSrAvdOOI9RM=;HQ4N7TgrU2vJHONiCplAyg=="
 ---

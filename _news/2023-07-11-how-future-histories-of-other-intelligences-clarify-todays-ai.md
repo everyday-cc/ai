@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jessedamiani/2023/07/11/how-future-hist
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessedamiani/2023/07/11/how-future-histories-of-other-intelligences-clarify-todays-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr070723-featuredimage-openai-hiring-researchers.jpg"
         width: 1400
         height: 929
-        isCached: true
-  - title: "OpenAI launches new alignment division to tackle risks of superintelligent AI"
-    excerpt: "The makers of ChatGPT have announced the company will be dedicating 20% of its compute processing power over the next four years to stop superintelligent AI from “going rogue.\""
-    publishedDateTime: 2023-07-07T11:29:00Z
-    webUrl: "https://www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 56
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/26/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-957654482_1200x800-100767998-large-100928446-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "QNohR4bFov9k9kFGJWDQaAWymEztWVcickVGRIHqg6uasiUONBfwgEk9sy3kXdyUVLM2zalzl0q+yIFWW56WxRAR0BmnWS1EdiClzOTrtMBifET8NRhdNt0e/u2yJGUFNW64k7Uf9I3wiBbBEUWw4GjO4LWOth+5HLo2YTquGmNJCzTebun6inZ4p/+2mK6uoramaXeK+Ah/saQwdSjLmDHRW67ItVV4VM2LnCooOlYrET1092cpwoSgP7glQNFoSRSI91MPHQ7aDzZJuDAgvsx2puc7zJjGXV7F92XsYMqLJ51g7Y0jydTTNVOqH28j6OPCQ499z5B5RVFkdute+k28rEWQEqbeaank+RJ1XVzQHU3tPB1Kr3zUBHngCLurIvMtmHZU5WD5adAYDNpanox23bJ2Ld+4VWqch0KgONCDSgmuWi5llbTWATvG+qyymYqOMGKJQtOEtYInWJ9vwzLe1VGl3XAe+JMg4igCleYxV+uDW0/Y88xUbzWGNd9HWxMUbAp+t0OLgLCws+ifwQ==;2yXEFbOnlyMNKh/DGtx+4Q=="

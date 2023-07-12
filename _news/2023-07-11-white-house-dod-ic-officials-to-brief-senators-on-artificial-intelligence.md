@@ -40,7 +40,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 23
+    quality: 25
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/louis-velazquez-XWW746i6WoM-unsplash.jpg"
         width: 640
