@@ -17,6 +17,13 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+    width: 2048
+    height: 1333
+    isCached: true
 
 related:
   - title: "Tasting success in Puri, facial recognition now in big cities"

@@ -2,6 +2,573 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-05-20-to-see-one-of-ais-greatest-dangers-look-to-the-military.md",
+      "title": "To See One of A.I.’s Greatest Dangers, Look to the Military",
+      "excerpt": "Anyone can read what you share. By Peter Coy Rogue artificial intelligence versus humankind is a common theme in science fiction. It could happen, I suppose. But a more imminent threat is human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/05/19/opinion/artificial-intelligence-military-nuclear.html",
+      "originalUrl": "https://www.nytimes.com/2023/05/19/opinion/artificial-intelligence-military-nuclear.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-this-shark-2-in-1-robot-vacuum-and-mop-is-like-living-with-a-dream-roommate.md",
+      "title": "This Shark 2-in-1 Robot Vacuum and Mop Is Like Living With a Dream Roommate",
+      "excerpt": "I’ve tinkered with and used a fair share of robot vacuums while bouncing from rental to rental this last decade. I’ve seen friends’ vacs get caught under bed frames and TV stands, listened to roaring motors suck up cat hair like margarita salt,",
+      "sourceUrl": null,
+      "webUrl": "https://www.popularmechanics.com/home/interior-projects/a43867014/shark-ai-ultra-2-in-1-robot-vacuum-review/",
+      "originalUrl": "https://www.popularmechanics.com/home/interior-projects/a43867014/shark-ai-ultra-2-in-1-robot-vacuum-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/shark-wandvac-245-645d52ec32723.jpg?crop=1.00xw:0.671xh;0,0.290xh&resize=1200:*",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only-xbb-variants-and.md",
+      "title": "Health News Roundup: US FDA approves Genmab-AbbVie's blood cancer therapy; WHO recommends new COVID shots should target only XBB variants and more",
+      "excerpt": "A U.S. district court judge issued a temporary restraining order late on Wednesday after the two companies and the FTC reached an agreement that both sides said in a joint filing would permit a full briefing and \"less-compressed consideration\" by the court of the FTC request.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only",
+      "originalUrl": "https://www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_12_2021_16_11_27_8166358.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only?amp",
+      "publishedDateTime": "2023-05-19T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-procedural-justice-can-address-generative-ais-trustlegitimacy-problem.md",
+      "title": "Procedural justice can address generative AI’s trust/legitimacy problem",
+      "excerpt": "He previously directed Integrity Research at Facebook and built out Twitter’s first Social ... The much-touted arrival of generative AI has reignited a familiar debate about trust and safety: Can tech executives be trusted to keep society’s best ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
+      "originalUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1255249519.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/",
+      "publishedDateTime": "2023-05-19T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-the-senates-hearing-on-ai-regulation-was-dangerously-friendly.md",
+      "title": "The Senate’s hearing on AI regulation was dangerously friendly",
+      "excerpt": "who is now chief ethics scientist at Hugging Face. “This would be a straightforward way to bring ‘responsible AI’ into a legal structure.” Mitchell added that good regulation depends on setting standards that firms can’t easily bend to their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws",
+      "originalUrl": "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/WoGkXMr05zDidN5UuaGgC3cGRww=/884x106:5313x2694/1200x628/filters:focal(2967x1658:2968x1659)/cdn.vox-cdn.com/uploads/chorus_asset/file/24667929/1490690420.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead.md",
+      "title": "Will AI Kill Human Creativity? What Fake Drake Tells Us About What’s Ahead",
+      "excerpt": "In this article I’ll consider implications of AI-generated music for what I see as the inevitable creative class wars against AI, and what it means for us all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/",
+      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6467d47a9748b3776441e295/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/",
+      "publishedDateTime": "2023-05-19T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind.md",
+      "title": "UK court tosses class-action style health data misuse claim against Google DeepMind",
+      "excerpt": "Google has prevailed against another U.K. class-action style privacy lawsuit after a London court dismissed a lawsuit filed last year against the tech giant and its AI division, DeepMind ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/",
+      "originalUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-874872698.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/",
+      "publishedDateTime": "2023-05-19T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit.md",
+      "title": "High-Stakes: Generative AI Shakes Global Diplomacy At Japan’s 2023 G7 Summit",
+      "excerpt": "The G7 in Japan discussions are focused on the need for regulations to keep up with the rapid advancements in AI. Our goal is to start a global dialogue on the best way to adopt generative AI. It's important to start this conversation now before the AI wave overtakes us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6467ae6159db0ac6342e9948/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/amp/",
+      "publishedDateTime": "2023-05-19T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-which-artificial-intelligence-stocks-are-institutional-investors-buying.md",
+      "title": "Which Artificial Intelligence Stocks Are Institutional Investors Buying?",
+      "excerpt": "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/",
+      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai.md",
+      "title": "Apple looking to hire machine learning engineers with an interest in generative AI",
+      "excerpt": "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai",
+      "originalUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg",
+          "width": 1312,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/",
+      "publishedDateTime": "2023-05-19T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-how-to-build-and-scale-ai-projects-in-2023-and-beyond.md",
+      "title": "How to build and scale AI projects in 2023 and beyond",
+      "excerpt": "The artificial intelligence (AI) industry has made significant strides in recent years, making it a vital component of business growth and innovation. The increasing adoption of AI across industries has created a significant demand",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/how-to-build-and-scale-ai-projects-in-2023-and-beyond/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/how-to-build-and-scale-ai-projects-in-2023-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-improved-cpu-throttling-measurement.md",
+      "title": "Improved CPU throttling measurement",
+      "excerpt": "IBM Turbonomic now offers a significant improvement in the way that we measure the level of CPU throttling.\nThe post Improved CPU throttling measurement appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/improved-cpu-throttling-measurement/",
+      "originalUrl": "https://www.ibm.com/blog/improved-cpu-throttling-measurement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/donedsc07769retocada.lr_-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T10:08:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-new-meta-ai-chip-to-power-the-metaverse-and-create-a-new-virtual-world.md",
       "title": "New Meta AI Chip to Power the Metaverse and Create a New Virtual World",
       "excerpt": "Meta, the parent company of Facebook, Instagram, and WhatsApp, is developing its own AI chip to power its next-generation AI applications. The chip, called the Meta Training and Inference Accelerator (MTIA),",
@@ -626,576 +1193,6 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-its-all-gonna-take-over-americans-reveal-fears-of-ai-impacting-every-day-life.md",
-      "title": "'It's all gonna take over': Americans reveal fears of AI impacting every day life",
-      "excerpt": "Americans in Austin, Texas, shared what they most fear regarding artificial intelligence. Several said they worried about AI job displacement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/gonna-take-americans-reveal-fears-ai-impacting-every-day-life",
-      "originalUrl": "https://www.foxnews.com/tech/gonna-take-americans-reveal-fears-ai-impacting-every-day-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c94f2dfc-4da1-4242-968a-ee304efbf95b/aeaef00c-0f9c-4502-acf5-baec6600e20d/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/gonna-take-americans-reveal-fears-ai-impacting-every-day-life.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/gonna-take-americans-reveal-fears-ai-impacting-every-day-life.amp",
-      "publishedDateTime": "2023-05-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-machine-learning-creates-new-technologies.md",
-      "title": "Machine Learning Creates New Technologies",
-      "excerpt": "Machine learning is finding increasing uses in developing new materials, including magnetic materials used for digital storage. Although not infallible, these approaches can speed scientific and engineering discoveries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64670c15549215f4ea41e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/amp/",
-      "publishedDateTime": "2023-05-18T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-infogain-navik-sales-and-navik-marketing-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Infogain NAVIK Sales and NAVIK Marketing Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Infogain's NAVIK is an AI platform that addresses AI solution needs, including data infrastructure, data engineering, and data analytics. NAVIK's modular components include data integration repositories and pipeline scripts,",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Infogain-NAVIK-Sales-and-NAVIK-Marketing-Now-Available-in-the-Microsoft-Azure-Marketplace-158740.aspx",
-      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Infogain-NAVIK-Sales-and-NAVIK-Marketing-Now-Available-in-the-Microsoft-Azure-Marketplace-158740.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/152405-0423_SpeechAnalytics_NICE_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-my-students-are-using-ai-to-cheat-heres-why-its-a-teachable-moment.md",
-      "title": "My students are using AI to cheat. Here’s why it’s a teachable moment",
-      "excerpt": "Ignoring ChatGPT and its cousins won’t get us anywhere. In fact, these systems reveal issues we too often miss",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/may/18/ai-cheating-teaching-chatgpt-students-college-university",
-      "originalUrl": "https://www.theguardian.com/technology/2023/may/18/ai-cheating-teaching-chatgpt-students-college-university",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7213153abe675e04a3ccea87596be6b7f8b48cbb/0_384_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=1328377907062c481169b26dd1b61530",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/18/ai-cheating-teaching-chatgpt-students-college-university",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/18/ai-cheating-teaching-chatgpt-students-college-university",
-      "publishedDateTime": "2023-05-18T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-facebook-parent-meta-unveils-chip-for-ai-programs.md",
-      "title": "Facebook parent Meta unveils chip for AI programs",
-      "excerpt": "Facebook parent company Meta has unveiled its first custom silicon chip for processing AI programs called the Meta Training and Inference Accelerator, or MTIA. It also talked about a new AI-optimised data centre design and the second phase of 16,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-100343511,imgsize-15346,width-800/100343511.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
-      "publishedDateTime": "2023-05-18T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-artificial-intelligence-could-wipe-out-education-gaps-between-students.md",
-      "title": "Artificial Intelligence could wipe out education gaps between students",
-      "excerpt": "As G7 Summit leaders prepared to discuss managing artificial intelligence data, developers think generative AI could re-shape education in south Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
-      "originalUrl": "https://www.cbsnews.com/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/14/f7f87e5f-bd72-4627-b7fe-f40ff8c4737f/thumbnail/1200x630/d802df6eaaf0dcc3c67a54c02f0fadbf/ai-gettyimages-1483272785.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
-      "publishedDateTime": "2023-05-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-xiao-i-launches-revolutionary-intelligent-document-processing-solution-catalyzing-the-future.md",
-      "title": "Xiao-I Launches Revolutionary Intelligent Document Processing Solution, Catalyzing the Future ...",
-      "excerpt": "Xiao-I's IDP solution, underpinned by cutting-edge technologies including Optical Character Recognition, Computer Vision, Natural Language Processing, and Machine Learning, is integrated with Robotic Process Automation (“RPA”) to form a comprehensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/xiao-i-launches-revolutionary-intelligent-document-processing-solution-catalyzing-the-future/article_3f6bf074-474c-5d54-a10a-500808740d56.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/xiao-i-launches-revolutionary-intelligent-document-processing-solution-catalyzing-the-future/article_3f6bf074-474c-5d54-a10a-500808740d56.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T19:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer.md",
-      "title": "Meta bets big on AI with custom chips — and a supercomputer",
-      "excerpt": "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
-      "originalUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
-      "publishedDateTime": "2023-05-18T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-adopting-artificial-intelligence-things-leaders-need-to-know.md",
-      "title": "Adopting Artificial Intelligence: Things Leaders Need to Know",
-      "excerpt": "Artificial intelligence (AI ... from movie recommendations to self-driving cars, and are expected to have a major impact on businesses in the coming years. Software leaders should be able to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/05/AI-leaders-need-know/",
-      "originalUrl": "https://www.infoq.com/news/2023/05/AI-leaders-need-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/05/AI-leaders-need-know/en/headerimage/adopting-artificial-intelligenc-things-leaders-need-to-know-header-1684308986874.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-stability-ai-open-sources-its-ai-powered-design-studio.md",
-      "title": "Stability AI open sources its AI-powered design studio",
-      "excerpt": "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/",
-      "originalUrl": "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/",
-      "publishedDateTime": "2023-05-18T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-robotics-awarded-first-patent-for-its-robotic-window-cleaning-system.md",
-      "title": "Robotics awarded first patent for its robotic window-cleaning system",
-      "excerpt": "Skyline Robotics, developers of OZMO, the world’s first high-rise window-cleaning robot, today announced the company has received its first patent for its robotic window-cleaning system. The patent, awarded by Singapore,",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/",
-      "originalUrl": "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/skyline-patent-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus.md",
-      "title": "Nvidia, AMD, Micron lead chip sector higher with AI, Japan in focus",
-      "excerpt": "Shares in Nvdia Corp , Advanced Micro Devices and Micron Technology on Thursday provided the biggest boosts to the chip sector, which outperformed the broader market as investors looked for ways to invest in artificial intelligence and in Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO",
-      "originalUrl": "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MSbbwGzXoN4m5_yDKbUTrwFQOMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/to-drive-ai-chip-makers-stack-chiplet
 webUrl: "https://www.wsj.com/articles/to-drive-ai-chip-makers-stack-chiplets-like-lego-blocks-6cee6ed0"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1279
     height: 640
     isCached: true
+
+related:
+  - title: "Chip Makers Stack 'Chiplets' Like Lego Blocks to Drive AI"
+    excerpt: "Chip makers are stacking pre-existing chips like toy building blocks to speed the development of more powerful chips. IBM’s Darío Gil said, \"A huge part of the future of semiconductors is packaging and chiplets."
+    publishedDateTime: 2023-07-12T16:45:00Z
+    webUrl: "https://cacm.acm.org/news/274580-chip-makers-stack-chiplets-like-lego-blocks-to-drive-ai"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 34
 
 secured: "TyZn7ORdyUrsrCfyWeFXAqQ+ZCxJlLBnNvLZu4f9xSugRI1sS4+Io4/tbJqUl0+4esRxuNCu81Lo1xIGDc7ySPh/9Lq9osN+/GKWmKPHCB3rNi43pGVG2iUaM+cNukxePYTBB7X9bloqBSQzEUX86l7My5KwUg7P1WFiC1yQG8x9oPCGdobaNpkkVFB4lspWuYv5WlBECBXffRJG9PjA+n8i3kJ45gTrN31Z1lA68jPoY6tKHsme0DgzRabQaJTE2z4GiCbWJsMCh41BK6CAZqxCDHSq6d0jaC15C7Px7nHKBjVJgRlFK7TgYkhD/fgvkuZV5oZ5I1hl1cUqVfhWCplHNqAkm9cIjh6Dt/+UwIUEcQH+MRN7rS0IR+5Y/y8q44emybWE1mDKsIzlDalhIexXE+ac0tcnDrj0ZkItIzI5rmVoSzmoz9RxbqKjw1+wnTff2OYxMVQl+OeBKU61okRDGpCsotBOVD2jFZAK4lEUBlJBaYo1sI4vSeR6c0XSkWDr0pX+apUSo26jif3oRw==;+qxWmaSJnFjqyU6Vd9V6yg=="
 ---

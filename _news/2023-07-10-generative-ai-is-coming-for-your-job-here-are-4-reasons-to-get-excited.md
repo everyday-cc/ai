@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-coming-for
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ai-bpo.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Government warns on generative AI use"
-    excerpt: "Positioned as a baseline policy that will evolve over time, the Digital Transformation Agency’s (DTA’s) new Interim Guidance for Agencies on Government Use of Generative AI Platforms outlines four core principles that delineate its perception of the key risks posed by generative AI technologies."
-    publishedDateTime: 2023-07-11T01:04:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/government-warns-on-generative-ai-use.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/gen%20ai%20govt.jpg"
-        width: 999
-        height: 563
         isCached: true
   - title: "Amazon touts its low-cost cloud computing in generative AI race"
     excerpt: "A key way that Amazon's cloud division aims to set itself apart from rivals perceived to have a leg up on artificial intelligence is by competing on price, an executive said on Tuesday. The AI models behind a viral chatbot like ChatGPT require immense computing power to train and operate,"

@@ -263,6 +263,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
+  - title: "Unbabel Launches Next-Generation Language Operations Platform, Offering The First Holistic Approach to Multilingual Communication and Translation"
+    excerpt: "Unbabel, the AI-powered Language Operations (LangOps) platform that helps businesses deliver multilingual customer experience at scale, today announced the release of its new LangOps … Continue Readin"
+    publishedDateTime: 2023-07-12T16:14:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/unbabel-launches-next-generation-language-operations-platform-offering-the-first-holistic-approach-to-multilingual-communication-and-translation/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 0
+    images:
+      - url: "https://multichannelmerchant.com/wp-content/uploads/2023/07/mcm-logo.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "DiFGAxisNYiNjgGx/AgPqFNVq+JVSHI6OfMOqHqQO8O631P5l4gh3JMXX2isyKflDysCUN3lFDWRn6uYPh9Pa4VODvhr0Ntl7fiBted7jFXQrY8eFElAEZhsznW/R+g3Z0XGeMlamz7MMEta4uujppV1C8xUELi+OkA7+dPKIZMUWbmoI7LxMnlnN/x1S41/TDQp71Hsl0u/oE6lcvv3/pKJecjzGZtgAC4h9y9bPNaiHKKg1iCXD2iEUMpiqyxR/TG/iJ/Fo34H1bcD/XiqezoPuo/Esgu42MjQQQ23l22MYQaOE/5XJuFwW6sIRAEQjVaNvnNsrmpJItzvkdGOziBmQ7VvRbYGGoI9a2gtaak=;2mG1ihlTze//ivwhwj0IKQ=="
 ---

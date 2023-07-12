@@ -2,6 +2,582 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-05-05-insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks.md",
+      "title": "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks",
+      "excerpt": "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,",
+      "sourceUrl": null,
+      "webUrl": "https://fredericksburg.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_74b0d4cd-6c5c-5450-b078-83f45085f7a7.html",
+      "originalUrl": "https://fredericksburg.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_74b0d4cd-6c5c-5450-b078-83f45085f7a7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/4b/74b0d4cd-6c5c-5450-b078-83f45085f7a7/6453ea5b161ec.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fredericksburg.com",
+        "domain": "fredericksburg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-a-new-ai-chatbot-called-pi-is-designed-to-serve-as-your-personal-assistant-heres-how-it-works.md",
+      "title": "A new AI chatbot called Pi is designed to serve as your personal assistant — here's how it works",
+      "excerpt": "Pi, which stands for \"personal intelligence,\" was released Tuesday by Inflection AI. The AI startup has three cofounders: Mustafa Suleyman, the cofounder of DeepMind; Karén Simonyan, the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-chatbot-pi-offers-personal-assistant-advice-how-it-works-2023-5",
+      "originalUrl": "https://www.businessinsider.com/ai-chatbot-pi-offers-personal-assistant-advice-how-it-works-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/55a5908c6bb3f71478a53fa2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-chatbot-pi-offers-personal-assistant-advice-how-it-works-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatbot-pi-offers-personal-assistant-advice-how-it-works-2023-5?amp",
+      "publishedDateTime": "2023-05-04T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-deepmind-boss-says-human-level-ai-is-just-a-few-years-away.md",
+      "title": "DeepMind boss says human-level AI is just a few years away",
+      "excerpt": "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/deepmind-boss-says-human-level-115422841.html",
+      "originalUrl": "https://www.aol.com/deepmind-boss-says-human-level-115422841.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_uk_548/383722a72aee24b2f4a7b7a17d5aeb64",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-chatgpt-and-generative-ai-our-guide-to-2023s-most-talked-about-technology.md",
+      "title": "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology",
+      "excerpt": "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg",
+          "width": 470,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp",
+      "publishedDateTime": "2023-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-artificial-intelligence-in-healthcare-market-forecast-to-2031.md",
+      "title": "Artificial Intelligence in Healthcare Market Forecast to 2031",
+      "excerpt": "This \"Artificial Intelligence in Healthcare Market\" report offers a thorough analysis of the industry, including",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes.md",
+      "title": "NSF Announces $140 Million Investment In Seven Artificial Intelligence Research Institutes",
+      "excerpt": "The U.S. National Science Foundation (NSF), along with several other federal agencies and higher education institutions, has announced a $140 million investment to establish seven new National Artificial Intelligence Research Institutes (AI Institutes).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/",
+      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6453c8a8e650de3e81eabd29/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/amp/",
+      "publishedDateTime": "2023-05-04T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-behind-the-hype-about-ai-transforming-consumer-businesses.md",
+      "title": "Behind The Hype About AI Transforming Consumer Businesses",
+      "excerpt": "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/",
+      "publishedDateTime": "2023-05-04T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-banking-sector-revolution-3-fintech-stocks-to-watch.md",
+      "title": "Banking Sector Revolution: 3 Fintech Stocks to Watch",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech is revolutionizing the banking sector. In fact, artificial",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor.md",
+      "title": "Current language models lightyears away from human-like AI: Early DeepMind investor",
+      "excerpt": "We took a big jump, but we’re not at the moon yet,” Sheikh added. He also noted that the large language models (LLM) developed by Microsoft-backed firm OpenAI are lightyears away from artificial general intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/articleshow/99993262.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/articleshow/99993262.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-99993262,imgsize-64058,width-800/99993262.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/amp_articleshow/99993262.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/amp_articleshow/99993262.cms",
+      "publishedDateTime": "2023-05-04T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up.md",
+      "title": "Google shared AI knowledge with the world — until ChatGPT caught up",
+      "excerpt": "But others acknowledge Google has lost many of its top AI researchers in the last year to start-ups seen as cutting edge. Some of this exodus stemmed from frustration that Google wasn’t making ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IW5SED7Z3NG2TDUS53RHYNBWCM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content.md",
+      "title": "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content",
+      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6453be070729cea75deabd27/0x0.jpg?format=jpg&width=1200",
+          "width": 468,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
+      "publishedDateTime": "2023-05-04T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-robot-control-program-market-and-forecast-2030.md",
+      "title": "Robot Control Program Market And Forecast 2030",
+      "excerpt": "May 04, 2023 (The Expresswire) -- The \"Robot Control Program Market\" Size, Trends and Forecasts (2023-2030)â , provides a comprehensive analysis of the Robot Control Program Market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robot-control-program-market-and-forecast-2030-2023-05-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/robot-control-program-market-and-forecast-2030-2023-05-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-britains-competition-watchdog-opens-investigation-into-artificial-intelligence-market.md",
       "title": "Britain's competition watchdog opens investigation into artificial intelligence market",
       "excerpt": "The Competition Markets Authority in Britain is investigating the artificial intelligence market. The investigation will focus on the technology underpinning chatbots.",
@@ -564,601 +1140,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-joe-biden-wants-hackers-help-to-keep-ai-chatbots-in-check.md",
-      "title": "Joe Biden Wants Hackers’ Help to Keep AI Chatbots In Check",
-      "excerpt": "The White House will support an event at the Defcon security conference this summer that challenges experts to uncover flaws in generative AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
-      "originalUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6452fde252bb92d7ad7c2fde/master/pass/AI_Biz_GettyImages-1486928284.jpg",
-          "width": 2157,
-          "height": 1618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
-      "publishedDateTime": "2023-05-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report.md",
-      "title": "Lack of AI and automation adoption hinders employee productivity: Slack report",
-      "excerpt": "A new Slack report finds companies that have embraced AI are 90% more likely to report increased productivity levels than those that have not.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/",
-      "originalUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/01/IMG_6947-e1683154170277.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/amp/",
-      "publishedDateTime": "2023-05-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-these-robot-dogs-cant-bark-but-they-can-speak-in-full-sentences-thanks-to-chatgpt.md",
-      "title": "These robot dogs can't bark — but they can speak in full sentences thanks to ChatGPT",
-      "excerpt": "Boston Dynamics' robot dogs can now verbally respond in \"plain English\" when asked to describe their previous and future tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5",
-      "originalUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6452919af6389a0018ef54d5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp",
-      "publishedDateTime": "2023-05-04T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-gpt-based-ai-neural-network-decodes-brain-activity-without-surgery.md",
-      "title": "GPT-based AI Neural Network Decodes Brain Activity without Surgery",
-      "excerpt": "This research can help patients with conditions such as locked-in syndrome, where patients are unable to communicate due to paralysis",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
-      "originalUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/alina-grubnyak-ZiQkhI7417A-unsplash-1024x683-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat.md",
-      "title": "Geoff Hinton, AI’s Most Famous Researcher, Warns Of ‘Existential Threat’",
-      "excerpt": "Geoffrey Everest Hinton, a seminal figure in the development of artificial intelligence, painted a frightening picture of the technology he helped create on Wednesday in his first public appearance since stunning the scientific community with his abrupt about face on the threat posed by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645350233eb26555726d5a17/0x0.jpg?format=jpg&crop=1891,1064,x0,y513,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/",
-      "publishedDateTime": "2023-05-03T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-ai-powered-cruise-control-can-stop-phantom-traffic-jams-before-they-start.md",
-      "title": "AI-powered cruise control can stop 'phantom traffic jams' before they start",
-      "excerpt": "The CIRCLES Consortium of universities, automakers and government agencies is developing an AI-powered cruise control system that can help prevent traffic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams",
-      "originalUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/all-trajectories.gif",
-          "width": 640,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams.amp",
-      "publishedDateTime": "2023-05-03T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-artificial-intelligence-and-robotics-updates.md",
-      "title": "Artificial intelligence and robotics updates",
-      "excerpt": "A US regulator put artificial intelligence in the crosshairs ahead of a White House meeting Thursday with tech firms to strategize about its dangers. \"While the technology is moving swiftly, we already can see several risks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.philstar.com/happens/1132",
-      "originalUrl": "https://www.philstar.com/happens/1132",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.philstar.com/images/bites/artificial-intelligence_2023-05-03_13-02-10.jpg",
-          "width": 800,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.philstar.com/happens/1132/amp/",
-      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/happens/1132/amp/",
-      "publishedDateTime": "2023-05-03T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "philstar.com",
-        "domain": "philstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-mosaicml-debuts-inference-service-to-make-generative-ai-deployment-affordable.md",
-      "title": "MosaicML debuts inference service to make generative AI deployment affordable",
-      "excerpt": "MosaicML today launched MosaicML Inference, a dedicated service to make deployment of generative AI models easy and affordable.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mosaicmls-inference-service-to-make-generative-ai-affordable/",
-      "originalUrl": "https://venturebeat.com/ai/mosaicmls-inference-service-to-make-generative-ai-affordable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614-e1649786490326.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/mosaicmls-inference-service-to-make-generative-ai-affordable/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mosaicmls-inference-service-to-make-generative-ai-affordable/amp/",
-      "publishedDateTime": "2023-05-03T20:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-ai-chip-for-data-centers-market-insights-2023-explained-current-growth-for-upcoming-period-2030.md",
-      "title": "AI Chip for Data Centers Market Insights [2023]| Explained Current Growth for Upcoming Period 2030",
-      "excerpt": "The \"AI Chip for Data Centers Market\" report notes that the technology sector is evolving, and companies - both",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-insights-2023-explained-current-growth-for-upcoming-period-2030-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-insights-2023-explained-current-growth-for-upcoming-period-2030-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T20:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-artificial-intelligence-robots-may-spark-terminator-style-nuclear-armageddon-scientists-fear.md",
-      "title": "Artificial intelligence robots may spark Terminator-style nuclear Armageddon, scientists fear",
-      "excerpt": "ARTIFICIAL intelligence bots may spark Armageddon like ... “self aware” and almost wipes out humanity using killer robots. More than a third of tech whizzes quizzed by Stanford University ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/22243195/artificial-intelligence-terminator-armageddon/",
-      "originalUrl": "https://www.thesun.co.uk/tech/22243195/artificial-intelligence-terminator-armageddon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/05/1991-american-science-fiction-action-392092156.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/22243195/artificial-intelligence-terminator-armageddon/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22243195/artificial-intelligence-terminator-armageddon/amp/",
-      "publishedDateTime": "2023-05-03T20:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-these-new-yorkers-want-to-stop-landlords-from-using-facial-recognition.md",
-      "title": "These New Yorkers Want to Stop Landlords From Using Facial Recognition",
-      "excerpt": "At a raucous city council hearing, lawmakers and activists alike argued in favor of bills banning biometric tech in residential buildings and large venues.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997",
-      "originalUrl": "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/532d2605600e5fb6b48f117eb031be29.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-deep-learning-enables-intuitive-prosthetic-control.md",
-      "title": "Deep Learning Enables Intuitive Prosthetic Control",
-      "excerpt": "However, researchers have worked to simplify this task, by capturing nerve signals and allowing deep learning routines to figure the rest out. The prosthetic arm under test actually carries a ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/05/27/deep-learning-enables-intuitive-prosthetic-control/",
-      "originalUrl": "https://hackaday.com/2021/05/27/deep-learning-enables-intuitive-prosthetic-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/05/cudarm.jpg",
-          "width": 800,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

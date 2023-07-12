@@ -2,9 +2,9 @@
 category: news
 title: "Virtual Triage Adoption Increase in 2023 as Self-Service Patient Care Routing Sees Growth Among Health Systems"
 excerpt: "New research of digital patient tools finds online scheduling and AI virtual assistants growth across the top 647 U.S. health systems CHICAGO,  /PRNewswire/ -- Clearstep, a leader in patient-facing digital triage and AI healthcare assistants,"
-publishedDateTime: 2023-07-12T14:20:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/12/9847245.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/12/9847245.htm"
+publishedDateTime: 2023-07-12T16:26:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/07/12/9847245.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/07/12/9847245.htm"
 type: article
 quality: 0
 heat: -1
@@ -33,7 +33,16 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI’s Increasing Role in the Health Care Delivery System: Key Legal Considerations"
+    excerpt: "No personal services are more important than health care. The use of artificial intelligence (AI), involving machines to perform tasks normally requiring human intelligence, is leading to an expansion"
+    publishedDateTime: 2023-07-10T19:39:00Z
+    webUrl: "https://www.natlawreview.com/article/ai-s-increasing-role-health-care-delivery-system-key-legal-considerations"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 14
 
-secured: "6ry7gklBpLZFVXFTDBw2KsMRmvK0QwfQNs+y3uFGlNkzlVxlCg7u6aVKNn3H7/DPUJW8COIuU8CjSFOm/YpL4I5EOu98GSiJaB7ebKPObIVTKYoM8HJFFv+M2pPyiv/jIDdOXFmE2tXPsK6FAOwdJfg3V2Pw2GhIEoIzXH8H56Yip9Rr/snwM5YF7Ugi6SxI8aM7RCanKeg/teHjqcxGzgYFebXaxWHTqpWIon/7QTok4ZHYLefI5cycCSWw+TwBta2FbsZS26mOvOmGIShdsHIyTSEgGFHe5D7jBF/wF7f7xO26yOF3cu8iqtpp4ZZfTlet5JYGB+ZsPj/tFNaZQ76NKX62AewnE4Xqzj6qpAY=;tH7g6k+Okmiwdd2+J1zgnA=="
+secured: "N7WvWDsbe/NBZumzjco0l5SHSugdypJHncDAl5SIO0FiwLXsgjzPREQnB9B98M6uY8l4o8p/6dkDaWYZIlL+TFWQuCdYHy5EIpEfafnzwGN1JxtdW7vHSz1Cz8fm2fmMy4RGOWxFy+1cdyDp4i3lLHWbqQrOyMw2MbJu21cBLmbht/rAmpghrA8fNpZ0d2w7q3KTvhyusi+kyKs9rqWnRApzEOJNcxuuU1HVPT8hk+FULjpkUurgSBSmdJYJ2RWvCrjqbP3J/MdWlQtfkWZkbHB7SBpMHZeLXddaAWNc3iK5Ag6wYx+4WfavVhNVvPLPL5P02JjBXrKBeh5DnZxR3EpyRlNNvXk4MFdARxzg854=;AwNQYMCfXDIBcokgqYoJAA=="
 ---
 

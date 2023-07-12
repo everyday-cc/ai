@@ -2,6 +2,561 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-06-07-alphadev-discovers-faster-sorting-algorithms.md",
+      "title": "AlphaDev discovers faster sorting algorithms",
+      "excerpt": "In our paper published today in Nature, we introduce AlphaDev, an artificial intelligence (AI) system that uses reinforcement learning to discover enhanced computer science algorithms – surpassing those honed by scientists and engineers over decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
+      "originalUrl": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807d68d425bdd22cc43233_Copy%20of%20alphadev_01_06_crops_crop5_0114%20(1).png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-optimising-computer-systems-with-more-generalised-ai-tools.md",
+      "title": "Optimising computer systems with more generalised AI tools",
+      "excerpt": "Based on reinforcement learning, our AI models AlphaZero and MuZero have achieved superhuman performance winning games. Now, they’re expanding their capabilities to help optimise resources in data centres and advance video compression – and most recently, our specialised version of AlphaZero, called",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools",
+      "originalUrl": "https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807bf25294d9863578ef5a_DM_Hero1.png",
+          "width": 2684,
+          "height": 1485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-dont-fear-the-self-driving-car.md",
+      "title": "Don’t Fear the Self-Driving Car",
+      "excerpt": "However easy it is to forecast a self-driving dystopia, it would be deeply unwise to dismiss the unknown and unknowable benefits of new automotive technologies. After all, with technological ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/",
+      "originalUrl": "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Review",
+        "domain": "nationalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-the-fight-to-stop-face-recognition-technology.md",
+      "title": "The Fight to Stop Face Recognition Technology",
+      "excerpt": "Robert Williams, a Black man living in Michigan, was handcuffed and hauled away by Detroit police in front of his wife and young girls because of a false face recognition match. Even though he was locked up for 30 hours despite being innocent, he considers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aclu.org/news/topic/stopping-face-recognition-surveillance",
+      "originalUrl": "https://www.aclu.org/news/topic/stopping-face-recognition-surveillance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aclu.org/wp-content/uploads/2020/06/WEB20-Facial-Recognition-Feature-SocialShare-1200x628-1.jpg",
+          "width": 1204,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aclu.org",
+        "domain": "aclu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything.md",
+      "title": "'This is just the beginning of a revolution': DeepMind cofounder says personal AI assistants will make us better at basically everything",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Personal AI assistants that can do everything from shop and negotiate on your behalf are the future of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-personal-ai-chatbot-assistants-will-change-search-impact-productivity-2023-6",
+      "originalUrl": "https://www.businessinsider.com/how-personal-ai-chatbot-assistants-will-change-search-impact-productivity-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-personal-ai-chatbot-assistants-will-change-search-impact-productivity-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-personal-ai-chatbot-assistants-will-change-search-impact-productivity-2023-6?amp",
+      "publishedDateTime": "2023-06-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-sensiai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare.md",
+      "title": "Sensi.AI and Flint Capital speak on developing and deploying AI solutions in healthcare",
+      "excerpt": "Romi Gubes, the CEO of Sensi.AI, spoke on a recent TechCrunch Live episode about how her company is enabling privacy-preserving, in-home remote patient monitoring.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/",
+      "originalUrl": "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1074257938.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/",
+      "publishedDateTime": "2023-06-06T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-global-public-relation-robots-market-report-2023-increasing-applications-of-artificial-intelligence-bolsters-growth.md",
+      "title": "Global Public Relation Robots Market Report 2023: Increasing Applications of Artificial Intelligence Bolsters Growth",
+      "excerpt": "Global Market Size, Forecast, Insights, Segmentation, and Competitive Landscape with Impact of COVID-19 & Russia-Ukraine War\" report",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32748796/global-public-relation-robots-market-report-2023-increasing-applications-of-artificial-intelligenc",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32748796/global-public-relation-robots-market-report-2023-increasing-applications-of-artificial-intelligenc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32748796",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32748796",
+      "publishedDateTime": "2023-06-06T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-thinglogix-and-griptape-empower-enterprise-customers-with-artificial-sales-and-service-intelligence-on-aws-salesforce.md",
+      "title": "ThingLogix and Griptape Empower Enterprise Customers with Artificial Sales and Service Intelligence on AWS & Salesforce",
+      "excerpt": "Partnership looks to enhance enterprise capabilities and accelerate adoption of Artificial Sales and Service Intelligence technologies ... the power of AI on AWS and Salesforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wpri.com/business/press-releases/ein-presswire/634726270/thinglogix-and-griptape-empower-enterprise-customers-with-artificial-sales-and-service-intelligence-on-aws-salesforce/",
+      "originalUrl": "https://www.wpri.com/business/press-releases/ein-presswire/634726270/thinglogix-and-griptape-empower-enterprise-customers-with-artificial-sales-and-service-intelligence-on-aws-salesforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/cranston_.jpg?w=2000&#038;ssl=1",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPRI 12",
+        "domain": "wpri.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-ai-terminology-101-how-recurrent-neural-networks-are-revolutionising-ai.md",
+      "title": "AI Terminology 101: How Recurrent Neural Networks Are Revolutionising AI",
+      "excerpt": "Artificial Intelligence (AI) is a broad, exciting field that's continually evolving, making breakthroughs, and impacting our lives in myriad ways. One of the fascinating aspects of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/05/ai-terminology-101-unraveling-recurrent-neural-networks&sa=U",
+      "originalUrl": "https://yourstory.com/2023/05/ai-terminology-101-unraveling-recurrent-neural-networks&sa=U",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/28b45140-2d6a-11e9-aa97-9329348d4c3e/Jugaad_3_-_feature1565154893495.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-how-to-make-money-with-ai.md",
+      "title": "How to Make Money With AI",
+      "excerpt": "While many are worried that AI might eventually take their jobs, others are looking to harness its power to make money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/how-to-make-money-with-ai/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/how-to-make-money-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/Computer_user_in_deep_thought.width-600.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-how-ai-is-transforming-music-creation-in-web3.md",
+      "title": "How AI is Transforming Music Creation in Web3",
+      "excerpt": "head of tech and strategy at the music research network, Water & Music, says that tech innovation generally travels from the least data-intensive formats to the richest. In the case of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.coindesk.com/web3/2023/06/06/how-ai-is-transforming-music-creation-in-web3/",
+      "originalUrl": "https://www.coindesk.com/web3/2023/06/06/how-ai-is-transforming-music-creation-in-web3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/ZYE7ehVQtc7HdIPw6qfyX1gMcXY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4GTMBRO4LRCVNBCNJWI6SDWDZA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/web3/2023/06/06/how-ai-is-transforming-music-creation-in-web3/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/web3/2023/06/06/how-ai-is-transforming-music-creation-in-web3/?outputType=amp",
+      "publishedDateTime": "2023-06-06T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-build-high-performance-ml-models-using-pytorch-20-on-aws-part-1.md",
+      "title": "Build high-performance ML models using PyTorch 2.0 on AWS – Part 1",
+      "excerpt": "PyTorch is a machine learning (ML) framework that is widely used by AWS customers for a variety of applications, such as computer vision, natural language processing, content creation, and more. With the recent PyTorch 2.0 release, AWS customers can now do same things as they could with PyTorch 1.x but",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-high-performance-ml-models-using-pytorch-2-0-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-high-performance-ml-models-using-pytorch-2-0-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T12:31:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "The Mark Cuban Foundation's Artificial Intelligence Bootcamp Initiative Teaches AI Concepts to Underserved High School Students through a 4-Saturday Bootcamp in the Fall CHICAGO, June 06, 2023 (GLOBE",
@@ -637,524 +1192,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-challenge-for-in-home-healthcare-clients.md",
-      "title": "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients",
-      "excerpt": "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-1-ai-etf-poised-to-outperform-the-market-over-the-next-5-years.md",
-      "title": "1 AI ETF Poised to Outperform the Market Over the Next 5 Years",
-      "excerpt": "Many sector-tracking ETFs tie their stock choices to a market index. The Global X Robotics & Artificial Intelligence ETF is no exception, aiming to match the performance of the Indxx Global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-ai-etf-poised-to-outperform-the-market-over-the-next-5-years",
-      "originalUrl": "https://www.nasdaq.com/articles/1-ai-etf-poised-to-outperform-the-market-over-the-next-5-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-landing-ai-releases-sdk-to-accelerate-computer-vision-development.md",
-      "title": "Landing AI Releases SDK to Accelerate Computer Vision Development",
-      "excerpt": "Comprehensive Selection of AI Use Cases: Landing AI's repositories cover a range of computer vision use cases, including object dete",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/06/9827444.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/06/9827444.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2093665/Landing_AI_SDK.jpg",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
-      "publishedDateTime": "2023-06-06T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes.md",
-      "title": "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes",
-      "excerpt": "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services MELBOURNE,",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaysiasun.com/news/273856323/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes",
-      "originalUrl": "https://www.malaysiasun.com/news/273856323/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1687289373293.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Malaysia Sun",
-        "domain": "malaysiasun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes.md",
-      "title": "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes",
-      "excerpt": "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services SEOUL, South Korea, June 6, 2023 /PRNewswire/ -- Automation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-06/59269986-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-06/59269986-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-what-would-ai-regulation-look-like.md",
-      "title": "What Would AI Regulation Look Like?",
-      "excerpt": "Scholars of data privacy and AI ethics have called for “technological due process” and frameworks to recognize harms of predictive processes. The widespread use of AI-enabled decision-making ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/chatgpt-ai-what-would-ai-regulation-look-like-altman-1850501332",
-      "originalUrl": "https://gizmodo.com/chatgpt-ai-what-would-ai-regulation-look-like-altman-1850501332",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/39b435fcc429ca4780682dc449ee9182.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-5-strategies-for-implementing-ai-technology-in-healthcare.md",
-      "title": "5 Strategies For Implementing AI Technology In Healthcare",
-      "excerpt": "Here are five ways in which leaders healthcare leaders should seek out opportunities to implement AI solutions in their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647e0a794fed9a2fd7d81907/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/",
-      "publishedDateTime": "2023-06-06T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-why-ai-is-a-force-multiplier-for-consultants-and-clients-alike.md",
-      "title": "Why AI Is A Force Multiplier For Consultants And Clients Alike",
-      "excerpt": "Just like an expert consultant, only certain use cases are best suited for AI and several considerations should be part of that decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647debb26de784f93b13b283/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/amp/",
-      "publishedDateTime": "2023-06-06T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud.md",
-      "title": "Inside The Rise Of A Fintech Startup Using AI And Human Insight To Fight Fraud",
-      "excerpt": "Seven years ago, two twentysomething data scientists spotted a novel phenomenon: synthetic identity fraud. They turned that discovery into fast-growing SentiLink, a member of the Fintech 50 for 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6479a5ba07d1215faa9b8c13/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing.md",
-      "title": "NextGen Food Robotics Provides Update on Lily App and Highlights the Advancements in Generative AI and Natural Language Processing",
-      "excerpt": "while emphasizing the significant advancements in Generative AI and Natural Language Processing (NLP). These technologies have proven to be major game-changers in the field, propelling NextGen Food Robotics Inc. to the forefront of innovation. A welcome ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing",
-      "originalUrl": "https://financialpost.com/globe-newswire/nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-japan-eyes-labor-market-reform-focuses-on-ai-chips-to-drive-growth.md",
-      "title": "Japan eyes labor market reform, focuses on AI, chips to drive growth",
-      "excerpt": "The government said Tuesday it will aim to close wage gaps between Japan and other countries and attract more foreign talent while de",
-      "sourceUrl": null,
-      "webUrl": "https://mainichi.jp/english/articles/20230606/p2g/00m/0na/037000c",
-      "originalUrl": "https://mainichi.jp/english/articles/20230606/p2g/00m/0na/037000c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mainichi.jp/vol1/2023/06/06/20230606p2g00m0na036000p/0c10.jpg?1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "毎日新聞",
-        "domain": "mainichi.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

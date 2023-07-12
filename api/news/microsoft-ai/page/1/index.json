@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-13-on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know.md",
+      "title": "On AI: Microsoft Copilot Is Going To Be Huge. Here Are 6 Critical Things Every Business Owner Should Know.",
+      "excerpt": "Microsoft Copilot is going to be huge. Here are 6 critical things every business owner should know about Microsoft Copilot",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64aeac3d7cda7d0a1b8a3d01/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/amp/",
+      "publishedDateTime": "2023-07-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-enoc-group-opts-for-microsoft-azure-openai-service.md",
       "title": "Enoc Group opts for Microsoft Azure OpenAI Service",
       "excerpt": "UAE - Enoc Group, a leading integrated oil and gas player, intents to work with Microsoft to integrate Microsoft Azure OpenAI Service into its business operations leveraging ChatGPT AI capabilities. This will deliver insights to its businesses that improve ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1334,59 +1386,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms.md",
-      "title": "HPE Brings AI-as-a-Service to the Enterprise with Its GreenLake for LLMs",
-      "excerpt": "HPE introduced new GreenLake for Large Language Models, a service-based offering backed its Cray supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649ca472b50dadc6316aa41f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/",
-      "publishedDateTime": "2023-06-28T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

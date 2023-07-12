@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
 type: article
 quality: 81
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -59,6 +59,38 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-205650,msid-101677112/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Elon Musk announces xAI, a new artificial intelligence company to rival ChatGPT"
+    excerpt: "Elon Musk on Wednesday announced the formation of a new company focused on artificial intelligence called x.AI"
+    publishedDateTime: 2023-07-12T17:17:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
+    ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 68
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/13/87161d19-8c3f-4df4-a590-941c017ad967/thumbnail/1200x630/3b5d57cb4fee03f165853faa1a855a19/cbsn-fusion-elon-musk-announces-new-twitter-ceo-encrypted-messages-feature-thumbnail-1965276-640x360.jpg?v=0d985d39f30c0548885e26d84e710785"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Elon Musk's New ChatGPT Competitor Boosts AI-Related Crypto Tokens"
+    excerpt: "Tokens such as AGIX and FET saw modest bump after Musk announced new Artificial Intelligence (AI) company \"xAI\" to take on ChatGPT."
+    publishedDateTime: 2023-07-12T17:13:00Z
+    webUrl: "https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/"
+    ampWebUrl: "https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/?outputType=amp"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 59
+    images:
+      - url: "https://www.coindesk.com/resizer/tBu9OHF5BKIkOH8pJytphVkNALo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Y64QHXJPTVFJPPHBPUVNXX4CSE.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "ChatGPT Is Losing Users. Is The Artificial Intelligence Craze Over?"
     excerpt: "The decline in usage of ChatGPT would indicate that artificial intelligence a fad that is now trending down. Is that a useful data point or should we ignore it?"

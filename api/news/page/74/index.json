@@ -2,6 +2,548 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-05-24-artificial-intelligence-may-be-coming-for-your-job.md",
+      "title": "Artificial Intelligence May Be Coming For Your Job",
+      "excerpt": "You will need to adapt to the rapid changes brought on by AI by continually educating and upskilling yourself or asking your employer to enroll you in courses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e2d720e47eac3ef5f411d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/",
+      "publishedDateTime": "2023-05-24T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-opera-takes-on-edge-by-adding-its-own-browser-ai.md",
+      "title": "Opera takes on Edge by adding its own browser AI",
+      "excerpt": "Opera’s browser AI is currently available for both desktop and mobile. However, if you want to try it out, you’ll need to download the developer version of Opera One for deskt",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/opera-browser-ai-aria-3328726/",
+      "originalUrl": "https://www.androidauthority.com/opera-browser-ai-aria-3328726/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/05/Aria-Cover-Image.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-the-right-to-react-to-harmful-speech.md",
+      "title": "The right to react to harmful speech",
+      "excerpt": "SCC dismisses a defamation action using anti-SLAPP law, and highlighting the public interest in protecting counter-speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalmagazine.ca/en-ca/articles/law/in-depth/2023/the-right-to-react-to-harmful-speech",
+      "originalUrl": "https://www.nationalmagazine.ca/en-ca/articles/law/in-depth/2023/the-right-to-react-to-harmful-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalmagazine.ca/MediaGallery/NM/NationalMagazine/Articles/Law/Judiciary/SCC1-ARTICLE768.jpg?ext=.jpg\r\n",
+          "width": 769,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationalmagazine",
+        "domain": "nationalmagazine.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility.md",
+      "title": "DEEP Robotics launches Lite3 quadruped robot with advanced front flipping mobility",
+      "excerpt": "DEEP Robotics Co. has announced the launch in Europe of the newest version of its dexterous intelligent robot dog, Lite3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility/",
+      "originalUrl": "https://www.therobotreport.com/deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/deep-robotics-sponsored-featured-image-may2023.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-automated-machine-learning-automl-market-worth-64-billion-by-2028-growing-at-a-cagr-of-446-report-by-marketsandmarkets.md",
+      "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028, growing at a CAGR of 44.6%: Report by MarketsandMarkets™",
+      "excerpt": "By deployment it is further bifurcated into cloud and on-premises. AutoML solutions are designed to automate many of the tasks involved in developing and deploying machine learning models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32552421/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-growing-at-a-cagr-of-44-6-repor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32552421/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-growing-at-a-cagr-of-44-6-repor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32552421",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32552421",
+      "publishedDateTime": "2023-05-24T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-tech-giants-trigger-generative-ai-investment-boom.md",
+      "title": "Tech Giants Trigger Generative AI Investment Boom",
+      "excerpt": "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit.",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=",
+      "originalUrl": "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-israels-sapiens-microsoft-partner-to-use-ai-to-revolutionize-insurance.md",
+      "title": "Israel's Sapiens, Microsoft partner to use AI to revolutionize insurance",
+      "excerpt": "The alliance between Microsoft's AI technology and Sapiens' AI, cognitive services, and process automation is set to empower insurers at every stage of the insurance value chain. By combining forces, the partnership aims to enable instant responses across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-744104",
+      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-744104",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/530832",
+          "width": 690,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-744104",
+      "cdnAmpWebUrl": "https://www-jpost-com.cdn.ampproject.org/c/s/www.jpost.com/business-and-innovation/tech-and-start-ups/article-744104",
+      "publishedDateTime": "2023-05-24T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-self-driving-car-startup-haomoai-unveils-low-price-delivery-robot.md",
+      "title": "Self-driving car startup Haomo.ai unveils low price delivery robot",
+      "excerpt": "On Monday, Great Wall Motor-backed Chinese self-driving car startup Haomo.ai unveiled the latest generation of its autonomous delivery vehicle, priced at RMB 89,999 ($12,767), which the company claims makes it the cheapest in the industry. The robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2023/05/23/self-driving-car-startup-haomo-ai-unveils-12767-delivery-robot/",
+      "originalUrl": "https://technode.com/2023/05/23/self-driving-car-startup-haomo-ai-unveils-12767-delivery-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-ai-in-retail-smarter-stores-smarter-product-design.md",
+      "title": "AI in retail: Smarter stores, smarter product design",
+      "excerpt": "Retail companies are turning to AI to handle a long list of challenges that would keep any business leader awake at night",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
+      "originalUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_573239156-1.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
+      "publishedDateTime": "2023-05-24T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-kubernetes-version-127-now-available-in-ibm-cloud-kubernetes-service.md",
+      "title": "Kubernetes version 1.27 now available in IBM Cloud Kubernetes Service",
+      "excerpt": "We are excited to announce the availability of Kubernetes version 1.27 for your clusters that are running in IBM Cloud Kubernetes Service.\nThe post Kubernetes version 1.27 now available in IBM Cloud Kubernetes Service appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/kubernetes-version-1-27-now-available-in-ibm-cloud-kubernetes-service/",
+      "originalUrl": "https://www.ibm.com/blog/kubernetes-version-1-27-now-available-in-ibm-cloud-kubernetes-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T05:51:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-redefining-the-consumer-experience-diageo-partners-with-sap-and-ibm-on-global-digital-transformation.md",
+      "title": "Redefining the consumer experience: Diageo partners with SAP and IBM on global digital transformation",
+      "excerpt": "Today, we are thrilled to announce an exciting partnership between Diageo, IBM and SAP that aims to modernize Diageo’s operations on a global scale and set new benchmarks for the industry.\nThe post Redefining the consumer experience: Diageo partners with SAP and IBM on global digital transformation appeared",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/diageo-partners-with-sap-and-ibm/",
+      "originalUrl": "https://www.ibm.com/blog/diageo-partners-with-sap-and-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Option-1.jpg",
+          "width": 1190,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-team-first-to-successfully-scale-deep-neural-network-models-for-federated-learning-framework.md",
+      "title": "Team First to Successfully Scale Deep Neural Network Models for Federated Learning Framework",
+      "excerpt": "A new machine-learning (ML) framework for clients with varied computing resources is the first of its kind to successfully scale deep neural network (DNN) models like those used to detect and recognize objects in still and video images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/team-first-successfully-scale-deep-neural-network-models-federated-learning-framework",
+      "originalUrl": "https://www.cc.gatech.edu/news/team-first-successfully-scale-deep-neural-network-models-federated-learning-framework",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/Screen%20Shot%202023-06-01%20at%202.48.19%20PM.png",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-machine-learning-model-operationalization-management-mlops-market-report-2023-increasing-adoption-rate-of-machine-learning-fuels-growth.md",
       "title": "Machine Learning Model Operationalization Management (MLOPS) Market Report 2023: Increasing Adoption Rate Of Machine Learning Fuels Growth",
       "excerpt": "Machine learning model operationalization management (MLOPS) market is expected to grow at a CAGR of 47.81% from a market size of US$842.105 million in 2021 to reach US$12,981.316 million in 2028. Machine learning model operationalization management (MLOps) is the process of managing and deploying machine learning models in a business environment and involves the integration of data pipelines,",
@@ -626,543 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them.md",
-      "title": "5 Key Threats AI Poses To Business Owners In 2023 (and How To Survive Them)",
-      "excerpt": "Business owners are freaking out about artificial intelligence, and you can see why. Here are the 5 key threats AI poses, and how you can stop them ruining your business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646db7b8baf87c7dd8b8461e/0x0.jpg?format=jpg&crop=3183,1792,x0,y178,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/amp/",
-      "publishedDateTime": "2023-05-24T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-launches-azure-ai-studio-for-developers-to-create-their-own-ai-copilots.md",
-      "title": "Microsoft Launches Azure AI Studio For Developers To Create Their Own AI 'Copilots'",
-      "excerpt": "(MENAFN- IANS) San Francisco, May 24 (IANS) Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combine OpenAI chatbots with their own ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots",
-      "originalUrl": "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.md",
-      "title": "Understanding the Deployment of Deep Learning algorithms on Embedded Platforms",
-      "excerpt": "These platforms, equipped with deep learning algorithms, have opened a world of possibilities, enabling smart devices, autonomous systems, and intelligent applications. The deployment of deep learning algorithms on embedded platforms is crucial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/54089/understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.html",
-      "originalUrl": "https://www.design-reuse.com/articles/54089/understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-it-services-firms-leverage-generative-ai-capabilities-for-clients.md",
-      "title": "IT services firms leverage generative AI capabilities for clients",
-      "excerpt": "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
-      "publishedDateTime": "2023-05-23T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-i-would-never-use-ai-americans-detail-how-much-they-use-artificial-intelligence-in-their-daily-lives.md",
-      "title": "'I would never use AI': Americans detail how much they use artificial intelligence in their daily lives",
-      "excerpt": "Texas residents share how familiar they are with artificial intelligence on a scale from one to 10 and detailed how much they use it each day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
-      "originalUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1233101-dd3e-4fa5-b48e-450d89af5c6d/fa4dd4b4-d455-47e2-8a43-a3f5c7da6add/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp",
-      "publishedDateTime": "2023-05-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-startup-anthropic-raises-450m-for-safety-focused-chatbot.md",
-      "title": "AI startup Anthropic raises $450M for safety-focused chatbot",
-      "excerpt": "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
-      "originalUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
-      "publishedDateTime": "2023-05-23T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know.md",
-      "title": "Red Hat Charges Into Hybrid Cloud AI with OpenShift AI!: All You Need To Know",
-      "excerpt": "Expanding on their battle-hardened OpenShift and OpenShift Data Science suites, they are now providing a robust and scalable foundation for IT operations to adopt AI and exploit its benefits. , Technology & Science News,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980",
-      "originalUrl": "https://www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-100464980,updatedat-1684906257646,width-1280,height-720,resizemode-75/100464980.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980/amp",
-      "publishedDateTime": "2023-05-23T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-red-hat-extends-openshift-for-the-generative-ai-era.md",
-      "title": "Red Hat extends OpenShift for the generative AI era",
-      "excerpt": "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/",
-      "originalUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/",
-      "publishedDateTime": "2023-05-23T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-now-has-a-key-to-spotifys-songwriting-fortress.md",
-      "title": "AI Now Has a Key to Spotify’s Songwriting Fortress",
-      "excerpt": "Overnight on Wall Street is morning in Europe. Bloomberg Daybreak Europe, anchored live from London, tracks breaking news in Europe and around the world. Markets never sleep, and neither does Bloomberg News. Monitor your investments 24 hours a day, around the clock from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-05-24/ai-and-music-software-now-has-a-key-to-spotify-s-songwriting-fortress",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-05-24/ai-and-music-software-now-has-a-key-to-spotify-s-songwriting-fortress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isRoo_2ChE8o/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-uber-partners-with-alphabet-over-self-driving-taxis.md",
-      "title": "Uber Partners With Alphabet Over Self-Driving Taxis",
-      "excerpt": "Learn More To keep dreaming its self-driving dream, Uber is entering into a new relationship with an old adversary. Uber and Waymo, the autonomous driving... For more crisp and insightful business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/23/uber-partners-with-alphabet-over-self-driving-taxi/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/23/uber-partners-with-alphabet-over-self-driving-taxi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search.md",
-      "title": "Google to experiment with ads that appear in its AI chatbot in Search",
-      "excerpt": "Google detailed its plans for running Search and Shopping ads inside its conversational AI experience in Search, via the recently announced Search Generative Experience (SGE) in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/",
-      "originalUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Screenshot-2023-05-23-at-12.41.47-PM.jpg?resize=1200,676",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/",
-      "publishedDateTime": "2023-05-23T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-metas-open-source-speech-ai-recognizes-over-4000-spoken-languages.md",
-      "title": "Meta’s open-source speech AI recognizes over 4,000 spoken languages",
-      "excerpt": "Speech recognition and text-to-speech models typically require training on thousands of hours of audio with accompanying transcription labels. (Labels are crucial to machine learning, allowing the algorithms to correctly categorize and “understand” the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "originalUrl": "https://www.engadget.com/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/JzJ2abmPPF2r7uJtcJ315A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/2083da10-f672-11ed-9fae-36f04f718dd4.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "publishedDateTime": "2023-05-23T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

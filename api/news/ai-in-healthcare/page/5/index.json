@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-21-ai-excites-healthcare-yet-it-urgently-needs-regulations.md",
+      "title": "AI Excites Healthcare, Yet It Urgently Needs Regulations",
+      "excerpt": "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "publishedDateTime": "2023-05-20T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-therapy-dog-visits-timmins-police-service-to-spread-some-cheer.md",
       "title": "Therapy dog visits Timmins Police Service to spread some cheer",
       "excerpt": "Many believe a sweet, cuddly dog has the power to turn just about anyone's day around and Friday members of the Timmins Police Service got to experience this first hand when Takoda came to visit.",
@@ -1391,59 +1444,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-transform-analyze-and-discover-insights-from-unstructured-healthcare-data-using-amazon-healthlake.md",
-      "title": "Transform, analyze, and discover insights from unstructured healthcare data using Amazon HealthLake",
-      "excerpt": "Healthcare data is complex and siloed, and exists in various formats. An estimated 80% of data within organizations is considered to be unstructured or “dark” data that is locked inside text, emails, PDFs, and scanned documents. This data is difficult to interpret or analyze programmatically and limits",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transform-analyze-and-discover-insights-from-unstructured-healthcare-data-using-amazon-healthlake/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transform-analyze-and-discover-insights-from-unstructured-healthcare-data-using-amazon-healthlake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/transform-analyze-discover-healthlake-1257x630.jpg",
-          "width": 1257,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T09:07:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Healthcare"
       ]
     }
   ],

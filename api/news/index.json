@@ -2,21 +2,175 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-12-fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-and-countering-chinese-deepfakes.md",
-      "title": "Fox News Artificial Intelligence Newsletter: AI Air Force wingman and countering Chinese deepfakes",
-      "excerpt": "Welcome to Fox News’ Artificial Intelligence newsletter with the latest AI technology advancements. Subscribe now to get the Fox News Artificial Intelligence Newsletter in your",
+      "path": "_news/2023-07-13-elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe.md",
+      "title": "Elon Musk wants to build AI to ‘understand the true nature of the universe’",
+      "excerpt": "Twitter CEO Elon Musk is founding an organization, xAI, to build AI to \"understand the true nature of the universe.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.print",
-      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.print",
+      "webUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
+      "originalUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258742140.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/",
+      "publishedDateTime": "2023-07-12T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-how-to-use-ai-in-professional-services-with-shamus-rae.md",
+      "title": "How To Use AI In Professional Services. With Shamus Rae",
+      "excerpt": "Since the arrival of generative AI, it looks like white-collar jobs will be impacted before blue-collar ones. Jobs like accounting, management consulting, and the law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ae6515822efcb616e9bcfd/0x0.jpg?format=jpg&width=1200",
+          "width": 987,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/amp/",
+      "publishedDateTime": "2023-07-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know.md",
+      "title": "On AI: Microsoft Copilot Is Going To Be Huge. Here Are 6 Critical Things Every Business Owner Should Know.",
+      "excerpt": "Microsoft Copilot is going to be huge. Here are 6 critical things every business owner should know about Microsoft Copilot",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64aeac3d7cda7d0a1b8a3d01/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/amp/",
+      "publishedDateTime": "2023-07-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ibm-launches-new-watsonx-foundation-models-for-enterprise.md",
+      "title": "IBM Launches New WatsonX Foundation Models for Enterprise",
+      "excerpt": "With the launch of watsonx.ai and watsonx.data, IBM is kicking off a platform-based approach to generative AI workbenches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg",
+          "width": 1400,
+          "height": 884,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +180,308 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T08:39:00-07:00",
+      "publishedDateTime": "2023-07-12T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-google-stole-data-from-millions-of-people-to-train-ai-lawsuit-says.md",
+      "title": "Google stole data from millions of people to train AI, lawsuit says",
+      "excerpt": "Google does not own the internet, it does not own our creative works ... or anything else simply because we share it online.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/google-ai-lawsuit/",
+      "originalUrl": "https://www.popsci.com/technology/google-ai-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/07/12/Depositphotos_48051785_L.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/google-ai-lawsuit/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-ai-lawsuit/?amp",
+      "publishedDateTime": "2023-07-12T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai.md",
+      "title": "3 ways the IBM and Adobe partnership will accelerate content supply chains with generative AI",
+      "excerpt": "We&#8217;re delighted about the recent unveiling of IBM and Adobe&#8217;s dynamic partnership to help brands accelerate their content supply chains using generative AI. Our longstanding partnership with Adobe allows us to offer an unparalleled range of services to meet the evolving needs of the marketing",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-12-at-12.23.43-PM.png",
+          "width": 2064,
+          "height": 958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T09:30:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-if-artificial-intelligences-boost-to-productivity-disappoints-heres-how-to-invest.md",
+      "title": "If artificial intelligence's boost to productivity disappoints, here's how to invest",
+      "excerpt": "\"AI stocks are priced today for a rapidly fading world of 2% bond yields, low costs of capital, easy globalization, and friendly inflation.\"",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cb50994fce90018f7b6f7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7?amp",
+      "publishedDateTime": "2023-07-12T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-chipotle-debuts-new-guacamole-making-robot-autocado.md",
+      "title": "Chipotle Debuts New Guacamole-Making Robot, Autocado",
+      "excerpt": "The prototype, which was developed with food automation lab Vebu, is currently being tested at the Chipotle Cultivate Center in Irvine, California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
+      "originalUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b35e30d9fe4a9f625b9409/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/",
+      "publishedDateTime": "2023-07-12T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-introducing-notebooklm.md",
+      "title": "Introducing NotebookLM",
+      "excerpt": "We’re rolling out NotebookLM, an experimental offering from Google Labs to summarize information, complex ideas and brainstorm new connections.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/notebooklm-google-ai/",
+      "originalUrl": "https://blog.google/technology/ai/notebooklm-google-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_IO_social_share.width-1300.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/notebooklm-google-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/notebooklm-google-ai/amp/",
+      "publishedDateTime": "2023-07-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-and-countering-chinese-deepfakes.md",
+      "title": "Fox News Artificial Intelligence Newsletter: AI Air Force wingman and countering Chinese deepfakes",
+      "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes",
+      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.amp",
+      "publishedDateTime": "2023-07-12T08:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -49,6 +504,7 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -552,7 +1008,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -698,7 +1154,7 @@
       "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -741,7 +1197,7 @@
       "originalUrl": "https://www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -763,444 +1219,6 @@
         "name": "The Financial Express",
         "domain": "financialexpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-collective-raises-50m-funding-to-launch-ai-powered-finance-platform-for-freelancers.md",
-      "title": "Collective raises $50M funding to launch AI-powered finance platform for freelancers",
-      "excerpt": "By deploying AI technology across its financial operations, Collective aims to expedite its growth and onboard businesses on its waitlist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
-      "originalUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/C-Suite.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-kpmg-to-invest-2b-in-ai-and-cloud-as-it-expands-partnership-with-microsoft.md",
-      "title": "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft",
-      "excerpt": "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/",
-      "originalUrl": "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg",
-          "width": 2000,
-          "height": 1143,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure-enabling-aiml-at-scale-throughout-the-enterprise.md",
-      "title": "Teradata collaborates with Microsoft to offer VantageCloud Lake on Azure, enabling AI/ML at scale throughout the enterprise",
-      "excerpt": "Teradata today announced it will offer Teradata VantageCloud Lake on Microsoft Azure, opening up new markets, new capabilities, and new use cases. This makes Teradata’s modern cloud-native architecture,",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html",
-      "originalUrl": "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/807db5df83a89e9f00c08712cfe52eb9_M.jpg",
-          "width": 375,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-embracing-a-new-frontier-of-ai-from-the-inside-out.md",
-      "title": "Embracing A New Frontier Of AI, From The Inside Out",
-      "excerpt": "Every day, we put more than 60 AI models to work to strengthen the products and experiences we’re delivering for members– from optimizing appointment scheduling to quickly connect members with a quality physician in minutes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/",
-      "originalUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ada8fea7497968d8edfb03/0x0.jpg?format=jpg&width=1200",
-          "width": 1150,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/",
-      "publishedDateTime": "2023-07-11T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-ibms-watsonx-begins-its-official-rollout.md",
-      "title": "IBM’s watsonx begins its official rollout",
-      "excerpt": "IBM has announced that watsonx is generally available and has begun its rollout to enterprises. Watsonx is an AI and data platform that was first unveiled by IBM at the IBM Think conference in May. Watsonx consists of three parts: watsonx.ai, which is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/",
-      "originalUrl": "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.md",
-      "title": "Discord bans AI-generated child sex abuse material and teen dating",
-      "excerpt": "SAN FRANCISCO — Discord’s head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107269952-16891123952021-03-31t175917z_1515270024_rc2hmm9fq8tq_rtrmadp_0_discord-audio.jpeg?v=1689112496",
-          "width": 3500,
-          "height": 2233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
-      "publishedDateTime": "2023-07-11T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-shutterstock-expands-deal-with-openai-to-build-generative-ai-tools.md",
-      "title": "Shutterstock expands deal with OpenAI to build generative AI tools",
-      "excerpt": "Shutterstock has expanded its strategic deal with OpenAI to build new generative AI tools, the companies announced.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/",
-      "originalUrl": "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/openai-getty.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/amp/",
-      "publishedDateTime": "2023-07-11T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-lisa-su-believes-ai-will-soon-be-an-integral-part-of-chip-design.md",
-      "title": "Lisa Su believes AI will soon be an integral part of chip design",
-      "excerpt": "According to a recent survey, the so-called AI revolution is turning out to be quite depressing for many executives in the tech space. There are growing",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html",
-      "originalUrl": "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-how-ai-can-make-gaming-better-for-all-players.md",
-      "title": "How AI can make gaming better for all players",
-      "excerpt": "The project was inspired by Lancy Carr, a quadriplegic video game streamer who utilizes a head-tracking mouse as part of his gaming setup. After his existing hardware was lost in a fire, Google stepped in to create an open source,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/",
-      "originalUrl": "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1387724979-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/",
-      "publishedDateTime": "2023-07-11T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

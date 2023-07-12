@@ -2,6 +2,126 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-06-global-artificial-intelligence-ai-robots-market-report-2023-2028.md",
+      "title": "Global Artificial Intelligence (AI) Robots Market Report, 2023-2028",
+      "excerpt": "(MENAFN- The Express Wire) Artificial Intelligence (AI) Robots Market 2023 Will Give Report Analysis that rapidly arising as one of the [ICT] Sector in the business, by Type (Service Robots ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106561513/Global-Artificial-Intelligence-AI-Robots-Market-Report-2023-2028",
+      "originalUrl": "https://menafn.com/1106561513/Global-Artificial-Intelligence-AI-Robots-Market-Report-2023-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?841270",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service.md",
+      "title": "Aigen unveils an AI-driven, solar-powered, agricultural robotics service",
+      "excerpt": "The fossil fuel-free Aigen Element helps farmers reduce chemicals in food, and improve human and planetary health.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service/",
+      "originalUrl": "https://www.therobotreport.com/aigen-unveils-an-ai-driven-solar-powered-agricultural-robotics-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-un-recruits-robots-in-effort-to-meet-global-development-goals.md",
+      "title": "UN recruits robots in effort to meet global development goals",
+      "excerpt": "Dozens of robots, including several humanoid ones, will take centre stage at a conference organized by the United Nations technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/24/1_4782295.jpg",
+          "width": 470,
+          "height": 264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html",
+      "publishedDateTime": "2023-07-05T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-renatus-robotics-raises-2m-in-seed-funding-for-autonomous-logistics-solutions.md",
       "title": "Renatus Robotics raises $2M in seed funding for autonomous logistics solutions",
       "excerpt": "Renatus Robotics Inc., a logistics startup, has announced the successful closing of its initial seed round. The company secured $2 million in funding from e-commerce logistics company e-LogiT Co., ltd.",
@@ -1155,136 +1275,6 @@
       "provider": {
         "name": "WOOD-TV",
         "domain": "woodtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-industrial-robotics-vietnam.md",
-      "title": "AI Industrial Robotics - Vietnam",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$31.12m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.62%, resulting in a market volume of US$ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/vietnam",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/vietnam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-innovation.md",
-      "title": "Thundercomm Demonstrated GenAI Integrated Robotics Solution to Accelerate a New Wave of Robotics Innovation",
-      "excerpt": "Thundercomm, a world leading IoT product and solution provider, announced the successful integration of its privately deployed Rubik large language model(LLM) with Qualcomm RB5 AMR Reference Design. T",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33053388",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33053388",
-      "publishedDateTime": "2023-06-28T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market.md",
-      "title": "Gather AI acquires assets of Ware Robotics to consolidate drone based inventory market",
-      "excerpt": "Gather AI acquires Ware's drone-based warehouse inventory management business, doubling staff and enhancing growth opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market/",
-      "originalUrl": "https://www.therobotreport.com/gather-ai-acquires-assets-of-ware-robotics-to-consolidate-drone-based-inventory-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/gather-drone-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

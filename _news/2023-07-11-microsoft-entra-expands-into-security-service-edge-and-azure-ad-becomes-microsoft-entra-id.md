@@ -46,6 +46,20 @@ related:
         width: 898
         height: 599
         isCached: true
+  - title: "Microsoft, Teradata team up to offer VantageCloud Lake on Azure for AI solutions"
+    excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
+    publishedDateTime: 2023-07-11T18:08:00Z
+    webUrl: "https://seekingalpha.com/news/3986848-microsoft-teradata-team-up-to-offer-vantagecloud-on-azure-for-ai-solutions"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 64
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1490261842/image_1490261842.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Tech Mahindra aims to transform knowledge search with integration with Microsoft Azure OpenAI"
     excerpt: "Tech Mahindra’s Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility in a unique way,"
     publishedDateTime: 2023-07-10T15:40:00Z

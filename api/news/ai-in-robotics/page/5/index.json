@@ -2,6 +2,146 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-14-artificial-intelligence-got-you-freaked-out-watch-these-movies-to-feel-better-or-totally-validated.md",
+      "title": "Artificial intelligence got you freaked out? Watch these movies to feel better (or totally validated)",
+      "excerpt": "Naturally, this happened after said robots revolted against humans ... to kick off war with the Soviet Union. A doll with artificial intelligence leans into the very human emotions of jealousy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/14/entertainment/ai-movies-to-watch/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/14/entertainment/ai-movies-to-watch/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/190730113259-disney-pixar-wall-e.jpg?q=x_0,y_95,h_809,w_1439,c_crop/w_800",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/14/entertainment/ai-movies-to-watch/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/entertainment/ai-movies-to-watch/index.html",
+      "publishedDateTime": "2023-06-14T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-applications-open-for-3rd-healthcare-robotics-startup-catalyst.md",
+      "title": "Applications open for 3rd Healthcare Robotics Startup Catalyst",
+      "excerpt": "The program provides healthcare startups with the opportunity to compete for a chance to join a world-class accelerator program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/",
+      "originalUrl": "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/andromeda-robotics-at-robotics-summit.jpg",
+          "width": 775,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-if-i-could-only-buy-1-ai-stock-right-now-this-would-be-it.md",
+      "title": "If I Could Only Buy 1 AI Stock Right Now, This Would Be It",
+      "excerpt": "considering how many AI start-ups are expected to launch in the coming decade. Amazon also stands to benefit from AI-driven advances in robotics. Automation can drastically reduce labor costs in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/14/if-i-could-only-buy-1-ai-stock-now-this-is-it/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/14/if-i-could-only-buy-1-ai-stock-now-this-is-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-2030-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-research.md",
       "title": "2030 | Artificial Intelligence and Robotics in Aerospace and Defense Market Research",
       "excerpt": "Jun 14, 2023 (The Expresswire) -- \"Artificial Intelligence and Robotics in Aerospace and Defense Market\" is segmented into Regions, Applications",
@@ -1222,144 +1362,6 @@
         "name": "i",
         "domain": "inews.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-droneos-how-to-take-control-of-the-countrys-growing-robot-army.md",
-      "title": "DroneOS: How To Take Control Of The Country's Growing Robot Army",
-      "excerpt": "The Pentagon wants to build a robot army. Nelson Paez of DreamHammer hopes to make it as easy to operate as possible. The Pentagon has a big command-and-control problem. Not insubordination among ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/",
-      "originalUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/blogs-images/thumbnails/blog_1016/pt_1016_14198_o.jpg?format=jpg&width=1200",
-          "width": 320,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/amp/",
-      "publishedDateTime": "2023-06-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-robots-artificial-intelligence-used-to-boost-bush-tuckers-restaurant-star-marron.md",
-      "title": "Robots, artificial intelligence used to boost bush tucker's restaurant star — marron",
-      "excerpt": "Two mechanical engineers hope to increase marron production from 60 to 500 tonnes a year They are trialling growing marron in modular indoor farming systems, using artificial intelligence Their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2023-06-04/marron-crayfish-produced-by-robots-and-artificial-intelligence/102417354",
-      "originalUrl": "https://www.abc.net.au/news/2023-06-04/marron-crayfish-produced-by-robots-and-artificial-intelligence/102417354",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/b7dca674168d11c44f6bcf6f30038bfe?impolicy=wcms_crop_resize&cropH=449&cropW=797&xPos=1&yPos=29&width=862&height=485",
-          "width": 797,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/102417354",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102417354",
-      "publishedDateTime": "2023-06-03T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-a-synthetic-npr-host-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone.md",
-      "title": "A synthetic NPR host? AI startup WellSaid Labs makes amazing ‘Planet Money’ voice clone",
-      "excerpt": "A synthetic NPR host? AI startup WellSaid Labs makes amazing ‘Planet Money’ voice clone",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/a-synthetic-npr-host-seattle-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone/",
-      "originalUrl": "https://www.geekwire.com/2023/a-synthetic-npr-host-seattle-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

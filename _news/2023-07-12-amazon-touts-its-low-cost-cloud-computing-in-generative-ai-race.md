@@ -78,20 +78,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Government warns on generative AI use"
-    excerpt: "Positioned as a baseline policy that will evolve over time, the Digital Transformation Agency’s (DTA’s) new Interim Guidance for Agencies on Government Use of Generative AI Platforms outlines four core principles that delineate its perception of the key risks posed by generative AI technologies."
-    publishedDateTime: 2023-07-11T01:04:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/government-warns-on-generative-ai-use.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/gen%20ai%20govt.jpg"
-        width: 999
-        height: 563
-        isCached: true
   - title: "Nick Clegg: Openness on AI is the way forward for tech"
     excerpt: "But, ultimately, openness is the best antidote to the fears surrounding AI. It allows for collaboration, scrutiny and iteration. And it gives businesses, start-ups and researchers access to tools they could never build themselves, backed by computing power they can’t otherwise access, opening up a world of social and economic opportunities."
     publishedDateTime: 2023-07-11T04:00:00Z

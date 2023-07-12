@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Banks are realizing value of embracing artificial intelligence"
+    excerpt: "It’s expected that banks will save $447 billion by the end of 2023 by implementing AI applications that assist in a myriad of areas."
+    publishedDateTime: 2023-07-12T16:01:00Z
+    webUrl: "https://rbj.net/2023/07/12/banks-are-realizing-value-of-embracing-artificial-intelligence/"
+    type: article
+    provider:
+      name: Rochester Business Journal
+      domain: rbj.net
+    quality: 17
 
 secured: "bcq9the+K1Acaf2Jb5+TBg8gCiTkY/RLDFFu+1+KQitiMutoar+6tgnxn2X2lJOaQe7I1cBuCJRpJwYuUFcm+G8zPW9wsBx5Gq3boaZtUSfykfxymWz9D8kSNMccXMyMzwDHZZm2yj6SMcPE185skf7DjGV77QbYxV29WzgsT5BLhzYzgYVc/VVaBOAh1Xu6ueJARf2deFfDSlpPwnb/behM9egr0MxcrSzJOwCjI1LJyIqknFePbCbBcITwu9aPSZ/K8wYDV0Fa7ZKBBx2IKp6zdNDpne7GpDk3++dJFADZU0SweJr+jGleccgO6L7kv/IA+p52lanNkEBxZODkqwCcZJxqHx4qAyZ17Ri7Ic0=;oEUvZEWvWdSFsQ2EPba8mA=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI will improve efficiencies and spark creativity in the workplace"
-    excerpt: "The possibilities of generative AI are yet to be fully understood, but we already know it can support efficiency, creativity and learning."
-    publishedDateTime: 2023-07-12T00:06:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-will-improve-efficiencies-and-spark-creativity-in-the-workplace/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Insight_GenerativeAI.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How AI image-generators work"
     excerpt: "Today “ generative AI ” models put brush to virtual paper: publicly available apps, such as Midjourney and OpenAI’s DALL-E, create images in seconds based on text prompts. The final products often dupe humans."
     publishedDateTime: 2023-07-10T16:09:00Z

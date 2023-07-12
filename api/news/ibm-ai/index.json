@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-12-ibm-launches-new-watsonx-foundation-models-for-enterprise.md",
+      "title": "IBM Launches New WatsonX Foundation Models for Enterprise",
+      "excerpt": "With the launch of watsonx.ai and watsonx.data, IBM is kicking off a platform-based approach to generative AI workbenches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg",
+          "width": 1400,
+          "height": 884,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai.md",
+      "title": "3 ways the IBM and Adobe partnership will accelerate content supply chains with generative AI",
+      "excerpt": "We&#8217;re delighted about the recent unveiling of IBM and Adobe&#8217;s dynamic partnership to help brands accelerate their content supply chains using generative AI. Our longstanding partnership with Adobe allows us to offer an unparalleled range of services to meet the evolving needs of the marketing",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-12-at-12.23.43-PM.png",
+          "width": 2064,
+          "height": 958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T09:30:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-oee-vs-teep-whats-the-difference.md",
       "title": "OEE vs. TEEP: What’s the difference?",
       "excerpt": "OEE and TEEP are two related KPIs that are used to help prevent losses by measuring and improving the performance of equipment and production lines.\nThe post OEE vs. TEEP: What’s the difference? appeared first on IBM Blog.\n",
@@ -67,58 +171,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-ibms-watsonx-begins-its-official-rollout.md",
-      "title": "IBM’s watsonx begins its official rollout",
-      "excerpt": "IBM has announced that watsonx is generally available and has begun its rollout to enterprises. Watsonx is an AI and data platform that was first unveiled by IBM at the IBM Think conference in May. Watsonx consists of three parts: watsonx.ai, which is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/",
-      "originalUrl": "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -402,7 +454,7 @@
       "originalUrl": "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 282,
+      "heat": 292,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1304,49 +1356,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards.md",
-      "title": "Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards",
-      "excerpt": "If you need stricter security and compliance standards in your Citrix DaaS deployment, use these resources and features to customize your workload security.\nThe post Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
-      "originalUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:10:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

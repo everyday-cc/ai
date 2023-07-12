@@ -7,8 +7,8 @@ originalUrl: "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/"
 webUrl: "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: SD Times
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Launches New WatsonX Foundation Models for Enterprise"
+    excerpt: "With the launch of watsonx.ai and watsonx.data, IBM is kicking off a platform-based approach to generative AI workbenches."
+    publishedDateTime: 2023-07-12T16:49:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg"
+        width: 1400
+        height: 884
+        isCached: true
   - title: "IBM Watsonx platform to power the future of AI for business"
     excerpt: "Artificial intelligence (AI) has taken the world by storm and businesses that can harness the transformative potential of this technology stand to propel their operations into a new frontier of productivity,"
     publishedDateTime: 2023-07-11T20:38:00Z

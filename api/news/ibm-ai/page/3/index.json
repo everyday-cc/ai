@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-21-g2-summer-reports-name-ibm-a-leader.md",
+      "title": "G2 Summer Reports name IBM a Leader",
+      "excerpt": "IBM offerings were featured in more than 820 unique G2 reports, earning over 250 unique placements as a top-three product across various categories.\nThe post G2 Summer Reports name IBM a Leader appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/g2-summer-reports-name-ibm-a-leader/",
+      "originalUrl": "https://www.ibm.com/blog/g2-summer-reports-name-ibm-a-leader/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T06:02:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx.md",
       "title": "Enhancing the Wimbledon fan experience with AI from watsonx",
       "excerpt": "IBM&#8217;s partnership with the All-England Lawn Tennis Club (AELTC) has driven digital transformation at Wimbledon for more than 30 years. And this year, Wimbledon is tapping into the power of generative AI, producing new digital experiences on the Wimbledon app and website using IBM&#8217;s new trusted",
@@ -1380,48 +1422,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-integrating-data-center-support-lower-costs-and-decrease-downtime-with-your-support-strategy.md",
-      "title": "Integrating data center support: Lower costs and decrease downtime with your support strategy",
-      "excerpt": "Exploring the benefits of integrating data center support with a single vendor who can provide holistic support.\nThe post Integrating data center support: Lower costs and decrease downtime with your support strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/integrating-data-center-support-lower-costs-and-decrease-downtime-with-your-support-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/integrating-data-center-support-lower-costs-and-decrease-downtime-with-your-support-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T06:06:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

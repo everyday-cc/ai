@@ -41,6 +41,20 @@ related:
         width: 898
         height: 599
         isCached: true
+  - title: "Microsoft, Teradata team up to offer VantageCloud Lake on Azure for AI solutions"
+    excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
+    publishedDateTime: 2023-07-11T18:08:00Z
+    webUrl: "https://seekingalpha.com/news/3986848-microsoft-teradata-team-up-to-offer-vantagecloud-on-azure-for-ai-solutions"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 64
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1490261842/image_1490261842.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Microsoft Entra expands into Security Service Edge and Azure AD becomes Microsoft Entra ID"
     excerpt: "Microsoft Entra is unifying identity and network access with a new Security Service Edge solution and more identity innovations."
     publishedDateTime: 2023-07-11T16:09:00Z
@@ -162,6 +176,6 @@ related:
       domain: microsoft.com
     quality: 22
 
-secured: "6C0u+PCSDfN4S7Y32pVcOWB4UsuL0FAneqO/N7928lOsedakTrb47a00Xm0MxIZTCtyPfyUP9vg+8GCYKqMoJdPVqGiEYJrqIe05q506mtBcXUbenifjD5Ymb+ceVoUSANpFnDsmFSDskYcBaU9W8jKoChe1h8UD0+4COkuuMpAB76lyAH11cKcUjqCJaOkcoTHGGb7ALob66+AxKEAOGsFbrSPBhNW82rq/vy5eP2naX2L3RxSx32GQTy4Axtq0RLMqS3g3HX0K6XTEh6qfNvVRdQOAt8a/Ipk/weGapDRRTTRo+FxPXbLPfTQNXBkJnyxKoSmAJNUt4wpyyl9FmNYUQFmOeoXY3+9mOaop1fU=;IoYN1SCCgPwsDwjr6gUMwA=="
+secured: "23SZQEX1HVhhQCmUyb7Y03ZIjHJfXWuwiJm5cyLZpeAy81rhzHAIo1ogqXZEKvYaiCdg7eKEWNnV3MmfsVw41bZKUby6RPy5ooFWpDQoXD3q9x34LrphJq4Q7FPuUmnRIUCs71r4QwBqa6Q9QzbPOHtJc+0BzXyRsfuWW0+cYTozTUbauIj3tATRTy4fw8TvtIUSPEUUDGDyiWwSK434CDrd2FUDPf6k6w3UwXEMUjSNX9V0ccA/wXIuqnzgLLOV+xwb1+tL2lSBj0Bc5DsKBNJCuIQNVJxd8T9AwJEJtvPbteVilnk3+4UG4T0TYu04MU5dRZEj3qmSoQryVv9zrt4mqG+FDolyUTxOuUWZhYYeaZbOpctiTOlzs6+q7aEm7toih5/dDlYT5ShApH1UMerAdtNvtnpw0wpXhjFFFGMBTaHug2BFg0yqFHUR9mlKDFeA3rJBMQU2/UVkrTJgfQ2G5Yb3XPv+EypVUZ/cIn92+DRoQCGssU/l43rSq5ZdpcdoZmKSLUUX2A1C76siQg==;VAiEz1RE1Vrv6iR0Q8f8ig=="
 ---
 

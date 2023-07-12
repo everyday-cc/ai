@@ -2,6 +2,135 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-27-japan-ai-startup-launches-robot-for-home-use.md",
+      "title": "Japan AI startup launches robot for home use",
+      "excerpt": "TOKYO (Kyodo) -- A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to ...",
+      "sourceUrl": null,
+      "webUrl": "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c",
+      "originalUrl": "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mainichi.jp/vol1/2023/05/27/20230527p2g00m0na016000p/0c10.jpg?2",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "毎日新聞",
+        "domain": "mainichi.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
+      "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
+      "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
+      "sourceUrl": null,
+      "webUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
+      "originalUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-11.17.25-PM.png?fit=361%2C240&ssl=1",
+          "width": 361,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
+      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
+      "publishedDateTime": "2023-05-26T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-what-you-need-to-know-about-ai-etfs.md",
+      "title": "What You Need to Know About AI ETFs",
+      "excerpt": "BOTZ aims to provide investment returns that generally correspond to performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index (before fees and expenses), Global X says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
+      "originalUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/02/2022-2-22-artificial-intelligence_Adobe-Stock_640x640_peshkov.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Think Advisor",
+        "domain": "thinkadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-a-software-package-to-ease-the-use-of-neural-radiance-fields-in-robotics-research.md",
       "title": "A software package to ease the use of neural radiance fields in robotics research",
       "excerpt": "Neural radiance fields (NeRFs) are advanced machine learning techniques that can generate three-dimensional (3D) representations of objects or environments from two-dimensional (2D) images. As these techniques can model complex real-world environments realistically and in detail,",
@@ -1235,145 +1364,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-amazons-ai-powered-robot-cant-fix-the-broken-smart-home.md",
-      "title": "Amazon's AI-powered robot can't fix the broken smart home",
-      "excerpt": "Unfortunately, some new leaked documents suggest it's up to those tricks again with the development of an AI-powered home robot ... before you have wings. For a start, the current Amazon Astro ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amazons-ai-powered-robot-cant-fix-the-broken-smart-home",
-      "originalUrl": "https://www.techradar.com/news/amazons-ai-powered-robot-cant-fix-the-broken-smart-home",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XzVDZZoc26io45z3QezWa-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region.md",
-      "title": "UAE company launches first-of-a-kind locally-made robot to fight fires in the region",
-      "excerpt": "Dubai, UAE - FFBOTS, the Jebel Ali Industrial Area-based Emirati firm, has launched the first locally-made firefighting robot of its kind in the Middle East, with world-class technical specifications and operational capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/ZGJiNmE4NDMtMDYyZS00/0/civildeffensetesthd-jpg.jpeg?f=3%3A2",
-          "width": 697,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp?amp=1",
-      "publishedDateTime": "2023-05-17T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-tesla-updates-ai-trained-robot-army-takes-new-bots-for-a-walk.md",
-      "title": "Tesla updates AI-trained robot army, takes new bots for a walk",
-      "excerpt": "When it was first revealed at the Tesla AI Day 2022, the humanoid robot needed assistance from staff and could barely stand.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
-      "originalUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/48bbada3-10a1-4d54-813d-2764c5b0ce1c.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
-      "publishedDateTime": "2023-05-17T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

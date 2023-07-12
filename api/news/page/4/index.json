@@ -2,6 +2,487 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-10-jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launched-forbes-ai-newsletter-july-8th.md",
+      "title": "Jobs Report Comes In Higher Than Expected And Meta’s Answer To Twitter Has Launched - Forbes AI Newsletter July 8th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac0b4d7a7ba74ebc534a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/amp/",
+      "publishedDateTime": "2023-07-10T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-what-is-vibration-analysis-and-how-can-it-help-optimize-predictive-maintenance.md",
+      "title": "What is vibration analysis and how can it help optimize predictive maintenance?",
+      "excerpt": "Vibration analysis is a powerful diagnostic tool for identifying, monitoring and preventing mechanical failures in rotating and reciprocating machinery.\nThe post What is vibration analysis and how can it help optimize predictive maintenance? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/vibration-analysis/",
+      "originalUrl": "https://www.ibm.com/blog/vibration-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T06:06:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-how-to-improve-employee-experience-and-your-bottom-line.md",
+      "title": "How to improve employee experience (and your bottom line)",
+      "excerpt": "In a nutshell, employee experience refers to the totality of interactions employees have with their organization. \nThe post How to improve employee experience (and your bottom line) appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T06:01:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development.md",
+      "title": "As AI Becomes Mainstream, Who Will Remain In The Fourth Stage Of Technological Business Development?",
+      "excerpt": "The future belongs to those who can effectively harness the power of technologies, including AI, to solve real problems and create new opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b51b21f424212056aa415/0x0.jpg?format=jpg&crop=1392,783,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/",
+      "publishedDateTime": "2023-07-10T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-303-roi-the-total-economic-impact-of-ibm-security-randori.md",
+      "title": "303% ROI: The Total Economic Impact™ of IBM Security Randori",
+      "excerpt": "According to a new Forrester Consulting study, the IBM Security Randori platform delivered a 303% ROI over 3 years and paid for itself in less than 6 months.\nThe post 303% ROI: The Total Economic Impact™ of IBM Security Randori appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/303-roi-the-total-economic-impact-of-ibm-security-randori/",
+      "originalUrl": "https://www.ibm.com/blog/303-roi-the-total-economic-impact-of-ibm-security-randori/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T05:58:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-transforming-it-operations-and-application-modernization-with-artificial-intelligence.md",
+      "title": "Transforming IT operations and application modernization with artificial intelligence",
+      "excerpt": "Many organizations have embraced the hybrid cloud for its flexibility, scalability and capacity to accelerate market deployment. Hybrid cloud enables businesses worldwide to promote data security and accessibility for various projects and analysis. However, managing multiple hybrid clouds can be a complex",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/",
+      "originalUrl": "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 292,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-what-is-web3-and-how-does-blockchain-enable-it.md",
+      "title": "What is Web3 and how does blockchain enable it?",
+      "excerpt": "Web3is a vision and technology effort&#8212;coupled with economic incentives&#8212;to rebalance economic power in the web across service providers, application developers and consumers. This effort envisages a decentralized, more balanced world. Trust and power are distributed across service providers",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-06-at-5.12.28-AM.png",
+          "width": 2126,
+          "height": 922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage.md",
+      "title": "AI For Retailers: The Optimal Path To Tackle Rising Costs And Unlock Competitive Advantage",
+      "excerpt": "The case for AI adoption is becoming stronger given the range of benefits it can provide retailers, helping tackle their main challenges and secure structural advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/",
+      "originalUrl": "https://www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a814e80494d0aee64c321a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/amp/",
+      "publishedDateTime": "2023-07-10T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law.md",
+      "title": "Are We Going Too Far By Allowing Generative AI To Control Robots, Worriedly Asks AI Ethics And AI Law",
+      "excerpt": "Generative AI such as ChatGPT is increasingly being used to control robots. This bodes for concern since the AI might produce faulty instructions and endanger humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ab64847d894a41bf534a0b/0x0.jpg?format=jpg&crop=2557,1917,x116,y106,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-07-10T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-shaping-a-responsible-ai-powered-future-in-life-science.md",
+      "title": "Shaping A Responsible AI-Powered Future In Life Science",
+      "excerpt": "Our ethical commitment to harnessing AI's potential responsibly will be instrumental in realizing its promise of a healthier, more equitable future for all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a812fccab7d777f691cf1d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/",
+      "publishedDateTime": "2023-07-10T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-to-drive-ai-chip-makers-stack-chiplets-like-lego-blocks.md",
       "title": "To Drive AI, Chip Makers Stack ‘Chiplets’ Like Lego Blocks",
       "excerpt": "Some industry executives call the technology one of the most significant advances since the dawn of the integrated circuit more than 60 years ago.",
@@ -10,7 +491,7 @@
       "originalUrl": "https://www.wsj.com/articles/to-drive-ai-chip-makers-stack-chiplets-like-lego-blocks-6cee6ed0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -188,6 +669,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-how-to-create-a-website-with-ai.md",
+      "title": "How To Create A Website With AI",
+      "excerpt": "Hostinger’s AI website builder only needs three pieces of information to generate a website for you: the name of your company, the type of website you want and a short description of what your company does. Based on this information, the AI creates a website including suitable texts, images and other relevant content, such as online shop products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/",
+      "originalUrl": "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2023/07/CreateAASiteWIthAI-1-scaled.jpg",
+          "width": 2560,
+          "height": 1677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -657,522 +1189,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "Virtually every industry is being disrupted by artificial intelligence, automation and robotics. In recent months, the world has gotten a firsthand look at the remarkable advances in AI",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2023/07/artificial-intelligence-stocks-the-10-best-ai-companies-16/",
-      "originalUrl": "https://wtop.com/news/2023/07/artificial-intelligence-stocks-the-10-best-ai-companies-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness.md",
-      "title": "5 Artificial Intelligence apps you can use for your sports training and fitness",
-      "excerpt": "AI in sports is gaining traction across the business, with applications ranging from post-game analysis to in-game activity and even the fan experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/Sports-AI-workout-app-fitness-trainer-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp",
-      "publishedDateTime": "2023-07-09T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-how-does-chatgpt-decide-what-to-say-next-heres-a-quick-explainer.md",
-      "title": "How does ChatGPT decide what to say next? Here's a quick explainer.",
-      "excerpt": "Ever wonder how bots like ChatGPT figure out what the next word should be, but you don't have time to pore over AI white papers? You're not alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7",
-      "originalUrl": "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a852158ed31300199e1ff2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7?amp",
-      "publishedDateTime": "2023-07-09T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-mark-zuckerberg-concealed-his-kids-faces-on-instagram-should-you.md",
-      "title": "Mark Zuckerberg concealed his kids’ faces on Instagram. Should you?",
-      "excerpt": "When Mark Zuckerberg shared a photo on Instagram of his family on July 4, two things stuck out: the billionaire CEO wore a striped souvenir cowboy hat, and the faces of his children were replaced with happy face emojis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230707152522-03-mark-zuckerberg-0524-file-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
-      "publishedDateTime": "2023-07-09T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-robots-vows-not-to-erase-human-role-at-ai-forum.md",
-      "title": "Robots vows not to erase human role at AI Forum",
-      "excerpt": "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/node/1525829",
-      "originalUrl": "https://www.albawaba.com/node/1525829",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/node/1525829",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829",
-      "publishedDateTime": "2023-07-09T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover.md",
-      "title": "AI anxiety: The top 20 professions bracing for the robot takeover",
-      "excerpt": "A recent study has revealed the professions most concerned about being replaced by artificial intelligence (AI). The study, 'AI Anxiety: The Top 20 Professions Bracing for the Robot Takeover',",
-      "sourceUrl": null,
-      "webUrl": "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/",
-      "originalUrl": "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=d3c486b1-1b3d-5c2c-be50-172687391156&function=fit&type=preview",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/amp/",
-      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/amp/",
-      "publishedDateTime": "2023-07-08T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jamaica Observer",
-        "domain": "jamaicaobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-how-new-ai-tools-can-transform-customer-engagement-and-retention.md",
-      "title": "How new AI tools can transform customer engagement and retention",
-      "excerpt": "New technologies present new opportunities, but hard work is needed to gain the benefits of AI and ML as cookies and third-party data go away.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/ai-tools-help-businesses-reimagine-reach-out-to-customers/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/ai-tools-help-businesses-reimagine-reach-out-to-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_new_artificial_intelligence_tools_helping_businesses_re_5dfab3ec-f116-4eca-9cb0-5909738ad7d0.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-08T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-these-are-the-3-biggest-fears-about-ai-and-heres-how-worried-you-should-be-about-them.md",
-      "title": "These are the 3 biggest fears about AI — and here's how worried you should be about them",
-      "excerpt": "Abhishek Gupta, founder of the Montreal AI Ethics Institute, said the prospect of AI-induced job losses was the most \"realistic, immediate, and perhaps pressing\" existential threat. \"We need to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6",
-      "originalUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a81e878ed31300199e1096?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp",
-      "publishedDateTime": "2023-07-08T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-ai-industrial-robotics-denmark.md",
-      "title": "AI Industrial Robotics - Denmark",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$112.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.82%, resulting in a market volume of US$ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-08T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-humanoid-robots-take-questions-at-a-geneva-news-conference.md",
-      "title": "Humanoid robots take questions at a Geneva news conference",
-      "excerpt": "The International Telecommunication Union invited reporters to ask robots questions on Friday at an event meant to spark discussion about the future of artificial intelligence. BERLIN -- A United ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "originalUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "publishedDateTime": "2023-07-08T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-im-a-gen-zer-who-uses-ai-to-improve-my-work-as-a-content-creator-and-beat-writers-block.md",
-      "title": "I'm a Gen Zer who uses AI to improve my work as a content creator and beat writer's block",
-      "excerpt": "Morgan Young is a content creator who uses AI to build her brand. She says generative AI helps her brainstorm and create catchy content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7",
-      "originalUrl": "https://www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63f5f0d55ca81e001855ab7f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-zer-uses-ai-create-content-2023-7?amp",
-      "publishedDateTime": "2023-07-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

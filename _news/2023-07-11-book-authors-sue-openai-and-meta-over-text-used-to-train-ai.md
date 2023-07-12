@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Elon Musk Launches AI Startup xAI With Team of Former Google, OpenAI Engineers"
+    excerpt: "Billionaire Elon Musk 's xAI on Wednesday announced the formation of the artificial intelligence (AI) startup with the launch of its website, unveiling a team made up of engineers who have worked at companies from Alphabet -owned Google to Microsoft and OpenAI."
+    publishedDateTime: 2023-07-12T17:02:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/elon-musk-artificial-intelligence-startup-xai-team-former-google-microsoft-open-engineers-4201933"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/elon-musk-artificial-intelligence-startup-xai-team-former-google-microsoft-open-engineers-4201933/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/elon-musk-artificial-intelligence-startup-xai-team-former-google-microsoft-open-engineers-4201933/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 53
+    images:
+      - url: "https://i.gadgets360cdn.com/large/xai_elon_musk_ai_startup_twitter_1689182796531.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "z5sPbbZjRyHfBqcPSDQWhBrH/gL3oAPec9vyk4N+YrL4DrKdLKE0iPW5509ALVgOIRqs/LTh8BXyfYdf0s8NSqSQjiHFOrfnOagsB+vPU+mSDKZhH4b0WadywSxzcszQKu92gl1u7v1LF/Y+xXdsl8t8UEhDDpEJb+9Ecqmeyjdx59lim6lzABevjONoH17AZPPbX7qRGfAMUmdnoeFTPaNcGxiVc2xyu/L8Mqw8fmtErzpefkG5wD9yZdcdTJU24ilucHtoBDdZrx7LIgQ+A9KQJtM4OdLQGtEs6iMO37eqot05/yF/MoWD3Y0HODDHrnahP1s8iRUC1Pfo9Jn45hEHWrcktSvZmtvbuMWMBCk0MPIzosLZE+RFhZ1T3mDs5jXfGwxjjwOTdY3Q30jWEG3G2p0AdBtsRDtju3Pj9mwrhDIxACrfEOrv5Cy8lkPLXeqwSTys8eJVeu6ZCvOC2fcKsnK6bNHu3CrmWRUUhXKKGjFizs/9UOESvh8NdyDutJyZr82Eumj7bMmiJAzOBQ==;Tsnk7k/mteTS33CUx+a2Mw=="
 ---

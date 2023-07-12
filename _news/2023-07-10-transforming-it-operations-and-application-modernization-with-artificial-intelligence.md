@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/transforming-it-operations-and-applicatio
 webUrl: "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/"
 type: article
 quality: 92
-heat: 282
+heat: 292
 published: true
 
 provider:
@@ -266,6 +266,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
+  - title: "Unbabel Launches Next-Generation Language Operations Platform, Offering The First Holistic Approach to Multilingual Communication and Translation"
+    excerpt: "Unbabel, the AI-powered Language Operations (LangOps) platform that helps businesses deliver multilingual customer experience at scale, today announced the release of its new LangOps … Continue Readin"
+    publishedDateTime: 2023-07-12T16:14:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/unbabel-launches-next-generation-language-operations-platform-offering-the-first-holistic-approach-to-multilingual-communication-and-translation/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 0
+    images:
+      - url: "https://multichannelmerchant.com/wp-content/uploads/2023/07/mcm-logo.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "QXvqhIHXK70NJu7H1qGD4fAvHWPqcnkYAaiM9cCYEdfC13U0Eu/EehmLkk+OWL6XXeEtd0Q4+pLL0Rwe6NgEWi/L2z9ww8UA87f4XsWxXGxkbBKZEC2fE9srmzJ+bFVBraTSHNAlQBUorYy91vyA78UkVLU5/R7R1lM/8GECB5pPNlWEBLqxUeMsDYi3yklU6uJtB59q6fvzKHjKXwgTzE8O9mGVTUsT/35SuBC2D3npHpFFOeZpYSDR6TyZsUCY3f1yktt5b6tRmZfIQir6VSiGogp/yvHOwpg+/PKy9BJL+UI0TlMNWK9UQjtDPLfMekiMpHn07rVU0pmXmb9yiiA5KnO6SY589QUGFsqhNJc=;7KS22tdqqdqF9QXksSgtzQ=="
 ---

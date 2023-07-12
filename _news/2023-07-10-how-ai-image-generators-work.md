@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI will improve efficiencies and spark creativity in the workplace"
-    excerpt: "The possibilities of generative AI are yet to be fully understood, but we already know it can support efficiency, creativity and learning."
-    publishedDateTime: 2023-07-12T00:06:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-will-improve-efficiencies-and-spark-creativity-in-the-workplace/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Insight_GenerativeAI.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Freshworks unveils new generative AI enhancements across product lines"
     excerpt: "The new predictive and assistive generative AI capabilities embedded within Freshworks solutions and platform go beyond content generation and help support agents, sellers, marketers, IT teams and leaders become more efficient."
     publishedDateTime: 2023-07-11T05:29:00Z

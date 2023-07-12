@@ -103,6 +103,22 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Wipro to invest $1 bn in AI over three years"
+    excerpt: "Wipro ai360, an AI-first innovation ecosystem, and said it would train all of its about 250,000 employees on AI over the next 12 months."
+    publishedDateTime: 2023-07-12T17:17:00Z
+    webUrl: "https://www.livemint.com/news/india/wipro-to-invest-1-billion-in-artificial-intelligence-ai-over-next-three-years-launches-ai-first-innovation-ecosystem-11689182284446.html"
+    ampWebUrl: "https://www.livemint.com/news/india/wipro-to-invest-1-billion-in-artificial-intelligence-ai-over-next-three-years-launches-ai-first-innovation-ecosystem/amp-11689182284446.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/wipro-to-invest-1-billion-in-artificial-intelligence-ai-over-next-three-years-launches-ai-first-innovation-ecosystem/amp-11689182284446.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/12/600x338/-Mint-_1689182268055.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Wipro To Invest $1 Billion In Artificial Intelligence"
     excerpt: "IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years."
     publishedDateTime: 2023-07-12T03:38:00Z
