@@ -61,6 +61,22 @@ related:
         width: 2560
         height: 2560
         isCached: true
+  - title: "Networking Startups Jump On Cloud Costs And AI"
+    excerpt: "Other cloud networking startups are also going after AI. DriveNets recently announced that its Network Cloud-AI solution, which uses cloud-based Ethernet-based networking to boost the performance of AI clouds, is in trials with major hyperscalers."
+    publishedDateTime: 2023-07-12T20:25:00Z
+    webUrl: "https://www.forbes.com/sites/rscottraynovich/2023/07/12/networking-startups-jump-on-cloud-costs-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2023/07/12/networking-startups-jump-on-cloud-costs-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2023/07/12/networking-startups-jump-on-cloud-costs-and-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64af0ba1f497fc5894534a0b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "PDXJfyktzwdDWG5eazwnbORTqxtigEQ7nUGLCi6uQeQ2cv4+kh4hM1QN4PaY0ADUoCL25q8otRjB0CZ++P1Hz1LGnfXSxYgFneE2u9DpNRZeHZrUpwh19MtIxJHsYTV3gcHBGAF7TRFAKUeeJniW+NnRA7KSXX6LdKBE4j203ldyWVuSPYfJzKv8+7d70hFyObxwYsUTyKIcQ6PKr9kGM7Ycd+I48N8FjN7JZRw8E6gdemu1bOd1eu4386pgAs61mz4483WuKqRrTjBi+kOEoUeQKcfFKKDm3NtvQqC4YS0JykqFqYfhvCU+OqyXRQXlsrkPH+eZzE+UqL+MXhXAoJ3oEVkZH3sdx+MVutlaSdZ6GMOfn69/6UR5g85z0cAJPoKIy2wNrjWdYXKxwjmsK9vNstZXc/0ibYlXLSQysha0yeZzGFnQX9jQaIMKL+CcMzlAcDeXrpqYMHk/mUNziRGMjCNwmxwPFnMVeTeAISvgmrfEn01WzLhvmBkKvzT5XipfQR5rP89+kuy1zj29HA==;sn+CydBHB3MdiMXiByClag=="
 ---

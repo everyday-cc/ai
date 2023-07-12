@@ -19,20 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "China to lay down AI rules with emphasis on content control - FT"
-    excerpt: "The Cyberspace Administration of China aims to create a system that will force companies to gain a licence before they can release generative artificial intelligence systems, the Financial Times said on Tuesday,"
-    publishedDateTime: 2023-07-10T23:31:00Z
-    webUrl: "https://www.reuters.com/technology/china-lay-down-ai-rules-with-emphasis-content-control-ft-2023-07-11/"
+  - title: "Artificial Intelligence Powers A New Era In Construction"
+    excerpt: "Exploring the transformative role of Artificial Intelligence in reshaping construction processes, from enhancing operational efficiency to improving on-site safety."
+    publishedDateTime: 2023-07-12T18:05:00Z
+    webUrl: "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/"
+    ampWebUrl: "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.reuters.com/resizer/1-uz5M-2tioUygxn0RSw_7gka2s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ADNV3GZHVNNKRPFHSWQGUXYUWU.jpg"
-        width: 1200
-        height: 628
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64aeea4ea7246c2a9be9bcff/0x0.jpg?format=jpg&width=1200"
+        width: 600
+        height: 400
         isCached: true
+  - title: "Elon Musk announces a new AI company"
+    excerpt: "“We’re going to start something which I call TruthGPT,” he said, describing it as a “maximum truth-seeking AI” that “cares about understanding the universe.”Musk’s announcement of the new company comes months after he warned in an interview ..."
+    publishedDateTime: 2023-07-12T17:58:00Z
+    webUrl: "https://www.kcci.com/article/elon-musk-ai-company/44519627"
+    ampWebUrl: "https://www.kcci.com/amp/article/elon-musk-ai-company/44519627"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/elon-musk-ai-company/44519627"
+    type: article
+    provider:
+      name: KCCI Des Moines
+      domain: kcci.com
+    quality: 57
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9szwrllwyymzm4zje4yjuzmde3njjknjq0otu4ndcwywe2nzky-l19wywdlcy9ox2m3njq5mja1y2vimdcynmiymdflmdzmmjhkntvhntli-jpg-64aee271999f9.jpg?crop=1.00xw:0.846xh;0,0.0385xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "The AI Funding Market Correction Is Coming. Are You Ready?"
+    excerpt: "\"The thinning of the herd is guaranteed,\" Traynor adds, \"because we're seeing so many people chasing the same specific little use cases, whether it is AI document editing, or email clients, or summarization, or AI-powered meeting notes, action items...every single productivity tool.\""
+    publishedDateTime: 2023-07-12T18:15:00Z
+    webUrl: "https://www.inc.com/sam-blum/the-ai-funding-market-correction-is-coming-are-you-ready.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "cF6lV+JR2SdcK66hy4yxPPmWAhZH1cKMfs+gBCcvO1Kkq2RMMSLNA9XM/axttGwfGi76NMtOndqDbO/kfcfZ6SODeSgENVsxjsJ4A9+MIwunkfUrUkw3lRyUGSVy3Ju0cjOPJBxcV/zO7Dgt8tZCNXZZCx8tu/C6aUDSxVlQbj/QV9lm+XYFuDjGtRjOosYmBddD/1PHCbUr7fLWYNNk1ezukUXtSr+LV2mdIDL8eb/6jCzt53uNUhklyxevaXnSYTub4I4pBOy723VJbUU0GGIGmW05m/KrR2LmZQzJiSuw4ltBqNVPlwkmmpu019J1wlZXUnrWrTQDj50dFXJAOwDcKEZcF+lpyyK1dbmGv+Nr8tMZAqqOut2mufgyKLd6O1j2cd8jp4fd5gFP416MrLMNiSQiLR+R7Eqj5tfq8ADaqE1L4fZjhXfBz2mPfMhg8CYPlnn78bI0WefeVwncMl2/1RJmIJl7xnYAwcglxRyR8C1rz5hGixkv00/elMmev5U71dp/Yzt2s3FViVgVmg==;gkc2bgJccDqXxP0uTibJQA=="
 ---

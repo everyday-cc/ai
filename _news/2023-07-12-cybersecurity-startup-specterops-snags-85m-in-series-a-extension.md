@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/cybersecurity-startup-spectorops-sna
 webUrl: "https://www.geekwire.com/2023/cybersecurity-startup-spectorops-snags-8-5m-in-series-a-extension/"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,36 @@ images:
     isCached: true
 
 related:
+  - title: "AI and cybersecurity: Friends, foes, collaborators"
+    excerpt: "Johnson and Johnson CISO Gary Harbison talks the opportunities, risks and fears of AI in cybersecurity at this week's VentureBeat Transform."
+    publishedDateTime: 2023-07-12T20:36:00Z
+    webUrl: "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-collaborators/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR8793-e1689187348855.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Opinion: Can AI and Cybersecurity Coexist?"
+    excerpt: "As with any powerful new technology, the potential for artificial intelligence to analyze large volumes of data and automate processes comes with a risk that it will be used for nefarious purposes."
+    publishedDateTime: 2023-07-12T21:06:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/opinion-can-ai-and-cybersecurity-coexist"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/opinion-can-ai-and-cybersecurity-coexist?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/opinion-can-ai-and-cybersecurity-coexist?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a53e500/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F45%2F3b%2Fd0a6e1fe4b9fbcfc9b4864a534dc%2Fai-cybersecurity.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "New IT spending survey bodes well for 7 tech stocks in A.I. to cloud to cybersecurity"
     excerpt: "A number of big companies whose stocks we own are dependent on how much businesses are willing to spend on tech."
     publishedDateTime: 2023-07-12T08:00:00Z
@@ -42,6 +72,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Truist prepares to use IBM's quantum computers for cybersecurity and AI"
+    excerpt: "The Charlotte bank plans to use quantum computing to stiffen cybersecurity, to run more advanced AI applications and to create new commercial use cases alongside IBM engineers."
+    publishedDateTime: 2023-07-12T18:49:00Z
+    webUrl: "https://www.americanbanker.com/news/truist-prepares-to-use-ibms-quantum-computers-for-cybersecurity-and-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
 
 secured: "hkShbE4rBJ+ydkJJiZ4DNzRIEF2RsGqDzsi9Fa/+GzAp1r9TXewJrphqoAgjBlARWqoCL/vJXls6V0aUawL7bRMSfrKq29HTq2VpFICkBF7xsKwu7i30mjbxBCfjxewakkUkY9V6nzY8+rVFztgurA9ICFPSgvK5/UiXrsdofc0vHpP1HPRa1k6xB+SszVGPah+pslA3Fz7o2k+J/wGX95d57ZWuvRpRQGiAh9z3DNKOtp/pj8VYCjJno2SbxIvL9GT9e3Muz+Pm1Cox4B85n90zB9BqY4xrRUq4D4zfImARPWDiCiQbMYTm1f/SpntqZB/HbuXdStuTUoI2UzonmsipsaE6lZ+VBNVy4LWX+sg=;YU4U+a1XhIK12St2JAjq+Q=="
 ---

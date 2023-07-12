@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-12T16:09:00Z
 originalUrl: "https://www.alzforum.org/news/research-news/artificial-intelligence-everywhere-you-look-dementia-research"
 webUrl: "https://www.alzforum.org/news/research-news/artificial-intelligence-everywhere-you-look-dementia-research"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.alzforum.org/sites/default/files/07.11_AI1.jpg"

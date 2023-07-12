@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698"
 type: article
 quality: 51
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 4
+  - title: "Payu To Launch Accelerator Program For Fintech Startups In India"
+    excerpt: "PayU to launch accelerator program for FinTech startups in India  New Delhi, July 12 (KNN)  PayU, India's leading online paymen"
+    publishedDateTime: 2023-07-12T19:20:00Z
+    webUrl: "https://menafn.com/1106592943/Payu-To-Launch-Accelerator-Program-For-Fintech-Startups-In-India"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 4
 
 secured: "tb/tRwGTP9xKcxDQaOS9Hfd3NzLjLYa5ezyS0sBQWzXguditrhNt4L1HdsRIgyvebAVgv/mSKo4AEC1nvmThLmJLQS7UpcLjjEZ9u08/N1rgz6ZqxERkBBi6OqAOwBNzMXtn1ZB3+qWNmPK9htqgjKQsQW2rn7QVyqsILdk2pkZV+O4eCUA+F3e7HPGqWVA+B/6iA/YteotcyrYLXtYp503IdX7hicGI/69Vx7PhK7vXdojFZ/aFD1NaDAnfymfsi0yCUXgBAZnkYdUrqdhN/3FTlbb8ksuvZ5BwBB1+FTPlW2GS06bbTaezOI3lN0OHSkltqQbL2WwC20iWWZS2PJXPxU2aEzATLyMoHd5uFuc=;+GKWoXjMKg8TSU26/MO7AA=="

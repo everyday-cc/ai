@@ -97,20 +97,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Painter and the Chatbot: Artificial Intelligence and the Perils of Progress"
-    excerpt: "It was revealed that A Girl With Glowing Earrings was the product of an artificial intelligence program that creates images from natural language prompts."
-    publishedDateTime: 2023-07-08T03:04:00Z
-    webUrl: "https://spectator.org/the-painter-and-the-chatbot-artificial-intelligence-and-the-perils-of-progress/"
-    type: article
-    provider:
-      name: The American Spectator
-      domain: spectator.org
-    quality: 50
-    images:
-      - url: "https://149366087.v2.pressablecdn.com/wp-content/uploads/2023/07/Girl_with_a_Pearl_Earring-1-min.jpg"
-        width: 1808
-        height: 2138
-        isCached: true
   - title: "A technophobe’s guide to AI chatbots"
     excerpt: "While the risks are real, it’s becoming increasingly clear that systems like ChatGPT aren’t going anywhere. Are you ready to use them?"
     publishedDateTime: 2023-07-10T09:36:00Z

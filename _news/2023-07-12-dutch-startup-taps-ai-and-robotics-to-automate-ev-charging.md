@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-autom
 webUrl: "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Networking Startups Jump On Cloud Costs And AI"
+    excerpt: "Other cloud networking startups are also going after AI. DriveNets recently announced that its Network Cloud-AI solution, which uses cloud-based Ethernet-based networking to boost the performance of AI clouds, is in trials with major hyperscalers."
+    publishedDateTime: 2023-07-12T20:25:00Z
+    webUrl: "https://www.forbes.com/sites/rscottraynovich/2023/07/12/networking-startups-jump-on-cloud-costs-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2023/07/12/networking-startups-jump-on-cloud-costs-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2023/07/12/networking-startups-jump-on-cloud-costs-and-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64af0ba1f497fc5894534a0b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
         isCached: true
 
 secured: "kKvC9N3XkYaOR3p2wOqXJhySksRQ1nv4FtH3NuOGzHg0uNqsCInB9Rkc87W6jeDToOxBiFbbo9DBLtJ/zj3NDZFhtbPmUHIPvYTZgotTahk7bgwbtlMEhzE2ztL/Xaa6/0V1HdfZpXXL+xVqkpOmTFX4BnMlQrIz4zQx18RuAlKvxIPV+DehCjKr1S/gAPysHxpncTs2vcWcfJj3J7hmRooNEbL2bj+qqJsMFORQuFYgBVXyqy7OlMXLGafKnf7TvSj4YxqHgRKx58e/MBlrR0WUr2ErastTL2b63vU45XqLOfbOxOhiNkJzkrtuqZbkIbNK0VMCuIdS1OYwJf0ZPBcNojknjAA9cVFhZBGaJrroT5QH11qNQvkTLhAP/ZtCnBCIQ885xsSlUmD0gxdu379y07wNNwSN5/2YpeFwmY7o+BJY6ugNeqPqe8lKuQ51qZToP/9wKAEPCXyvXVPwfFugs2zvliFw5sfaEzo51CSw8Go0Tewg/Xp9SkXeQHAmLchh4ssUaV4XYRqgLaf9+Q==;KORNvyiavH6IAIhmf/+J3Q=="

@@ -58,6 +58,15 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 21
+  - title: "8 best deals on Roomba, iRobot, more robot vacuums for Amazon Prime Day 2023"
+    excerpt: "Yesterday marked the start of Amazon Prime Day, the perfect 48-hour event to stock up on everything you need to spruce up your home and keep it feeling fresh. Starting yesterday, Tuesday, July 11 and running through tonight, Wednesday, July 12, a variety of must-have iRobot Roombas and other robot vacuum cleaners are on sale."
+    publishedDateTime: 2023-07-12T18:39:00Z
+    webUrl: "https://www.oregonlive.com/shopping-deals/2023/07/8-best-deals-on-roomba-irobot-more-robot-vacuums-for-amazon-prime-day-2023.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 18
 
 secured: "zKjFs5GsjkXa78/8LY6Mgn7TdEpWUUtWOGCO2GSNe6kooCZ49DWHvVZi1qycLtd53TGXCPIlXLWMrCubPIb59EvYYjJSrMI1fyvdvhAUKer3ag8UVecT1hmSRDLw6sIQ/kjgOgcHlJblmBGl/zSGUettZw6uNqWRd2jx3jBelUnI10yurYKEdD8B6P7HSbs33MTWwEFthVmpWwrKdS1Br9cg2RbsvjY/A9K9ebGd4fMmzHgOm5PwSMcAAXrihnJofhss7FJ4o4YecxStr1T+3KyC2VgmG98RpwX2eK3t0oRfmspCCiS5/g8PylID3wHz+hILLVDrrnSVv040DTOv6CjQJ8u/U7TZKDaygd6dUec=;gbvyVdb+dvO1jpqOcPbQCA=="
 ---

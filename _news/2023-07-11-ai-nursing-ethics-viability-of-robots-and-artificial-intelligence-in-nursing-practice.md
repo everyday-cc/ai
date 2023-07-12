@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-10T19:49:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
 type: article
-quality: 90
-heat: 100
+quality: 88
+heat: 98
 published: true
 
 provider:
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
-  - AI in Healthcare
+  - AI
   - AI in Robotics
 
 related:
@@ -40,6 +39,6 @@ related:
         height: 240
         isCached: true
 
-secured: "g4eor+d9XHpH1Npnyirz32AqZhS006b9YWVp0lRDXRaOSqJLVZpFlqSRwalVqvKTfZPIOqiAIUW6mwD2W0FpFtjQQyGHtrT6ccuqhsg3i9PQdyhXZGDbNF05r2GAjsIDaQpaPySLZw6REC/Uoq6RDVJOIIQYAbGYCZOb8mvWiTMC/2UzhW1UiMVvbo18fU2+jc9t0i0ysDil4rn763dGBNhkFbkpqU8n/S8oTbCo+274rGhs2VATPcPR/o/ffgwWIAXl0iF6sBUiEB/ge1kQKBT9AfigNuGT7c7wI4YU226S3EdVEVjh/9oXJM6m3q2CPxcuLgSCnxZ67VxCjPz41T06BdMWfKMyMpoxCFFyRJk=;pVw52/rStaIRv5uWWW0LnQ=="
+secured: "fOfGRhlIpKYN29kup7e5xqH5VdkY32hxhllo0y69UBDpweLcyYNpAzCo8K/xF5FcYhlemvJVvb58SIxlOtqJFEWMNPUiZtNkCfgdJ4qCi7wD5m5czL/fwVnK8ittCXjSPpBQQF/xFZ8imoy5BHrRtxz2mXmeJt3bJwIJVFXEOW1jCE3VZ0it05RKWq5Yc+6RI3A1R1sGHmem5m2YolAHxTNpMj3CHdgbGaIdanTLet+5pCWbnir+bYzP2gpF8ld3cnLZ5lepkrZAguNiEQsWRguLO/PrRtQDTRbWn+XbIBNzfcXE5AV61m8G0VXqlw6x7zDfYk85PAV+26K1It+CAPEQAZb/CJaheu1e8Bw6dBU=;jEeO6aEEEgC+JHgx36XDRw=="
 ---
 

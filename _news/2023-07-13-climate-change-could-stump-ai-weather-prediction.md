@@ -3,11 +3,11 @@ category: news
 title: "Climate Change Could Stump AI Weather Prediction"
 excerpt: "Artificial intelligence taps historical weather data in forecasting, but the changing climate is complicating such efforts"
 publishedDateTime: 2023-07-12T17:35:00Z
-originalUrl: "https://www.scientificamerican.com/article/climate-change-could-stump-ai-weather-prediction/?ref=upstract.com"
-webUrl: "https://www.scientificamerican.com/article/climate-change-could-stump-ai-weather-prediction/?ref=upstract.com"
+originalUrl: "https://www.scientificamerican.com/article/climate-change-could-stump-ai-weather-prediction/"
+webUrl: "https://www.scientificamerican.com/article/climate-change-could-stump-ai-weather-prediction/"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://static.scientificamerican.com/sciam/cache/file/DAA637BF-8CF5-41EE-A62EB00FCF3D832A.jpeg"
-    width: 790
-    height: 497
-    isCached: true
-
-secured: "6b0P7HzSo5AeDxxnqacm6yWxmlvU5iJsu3tEj6HzPMCUxz/2yt9cuDP2JHu+fKrG/kGL99K8M7FiA3Bwi3mtmAfM4zFM6FYiLEICX4FXDoeA4ReSFGmag0WFwx4MZcVoCbgRI4KgqAKpVfi37ngWTahybQbWEUG1iLwEMomMhd5A02jPotsybEfRovYicacaC7JopcXCrb60tNml4h3Zdc4Sp0iuQYbLidMVKtgp0VM/7yUBn+61l05oLtg10V5XZLOdL7pagrDFq4tNnDCUrbU6/E8jGfy8LWE4LsRvZ/miWQeq5DXwqIF2iWOJxF7cHFmFOM1HADOuu9GNIf5zn/sIg0rFIQ+KnlGv+mU/nQ8=;/j9uSvRIPIz+Sy2Hw/XhxA=="
+secured: "rSqlIN/e26ks6vPjQxSW+3f6S5R+DLCd28UbAe658FHTZ8IqdYZtD4Tk96pt+vwxbO1aOxIBhaB4QckeqGq+c0LVJqbLwd/a2uvYbQlZufqVBo5QErAmxork5sNAt8JyUzeB0tafE4DeeaU792Y57WeIcLlQaSeyPvVD/xXq37V9Yqaqlh3mSpqfN//MdgwunQeIhUsMm38Zu9TO7MoaKRO5VWvgAHyf0+y+SzNvqNLWQbXHlpLhNr5DaPbOR591i91rgDGZldagYdoeLNYc1GdhF9zxAkennAmb33aGJ8A/mmTgmFa38gPIguRejMVCZ3O1VelB6OzLx6AWiOcDq5GlHXw8miCcybq4/M+dOQo+oRPuzv04aHfT/J6pBVoh7nIO72TcoSyOdMFGPxjVvw0DndegCAL/U45wW5WGusOTrwDIoo2NtWjPrRarEJtQgcFA81V6QZH9bMEEWfyIr9AZe66U2+Z6dMD4DQGLgSxP1fXGdUC9H6gGQmMefFnGBQQgEdNuIiD1I8yhYIhvAQ==;ERYbrQmZUg2XuoYZdXxhPQ=="
 ---
 

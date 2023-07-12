@@ -86,6 +86,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
+  - title: "Payu To Launch Accelerator Program For Fintech Startups In India"
+    excerpt: "PayU to launch accelerator program for FinTech startups in India  New Delhi, July 12 (KNN)  PayU, India's leading online paymen"
+    publishedDateTime: 2023-07-12T19:20:00Z
+    webUrl: "https://menafn.com/1106592943/Payu-To-Launch-Accelerator-Program-For-Fintech-Startups-In-India"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
 
 secured: "yM+yjwxd1KIplV8voWTIwbzu7pAMTToTlnjBhpHQRgHXaUTipJcqa48zhOLTXxwbTSB7pfK7LfxlCZi6EuRewuRcpSgW7kx18oNwW9JWAQQXyqQxmI5vBZgdzyqRsLcIc8CrWFdaHDO70XRRK2DXHt7XgyH18vcfYU8vP4afyf61WLR1ivBFqGw+Uni2fODQygBMK7O9KG7xd72yTbRHl8jUdQBT8aLSzDChFePNHfssP5/wzd3cS2QIsoT9sFhd6CrhVXXe3sbYYCxs4aFe70uBwTeqaQ8tBW36sXDiTlTDB5sCSTWl0Tl3GQBud/Pr1R4G1tBTgCDUo/CuJVEIeNLRwFSPqCuvMINFDp+/pig=;zIeSw0pxlsxbwBMeZT3sSA=="
 ---

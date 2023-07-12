@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-12T16:49:00Z
 originalUrl: "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/"
 webUrl: "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/"
 type: article
-quality: 69
-heat: 99
+quality: 73
+heat: 103
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AWS AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg"
@@ -67,6 +69,6 @@ related:
       domain: techradar.com
     quality: 49
 
-secured: "iAKF14E6I1sTzC+LiO77dD6Tvn3F76JBhpdhxK3mX6kikCNKaBsF7/fVE1QV4bUY8ERtRs8xPyb4hYl6rLNtWzyULHZvJim9lgW3vwJHrD8EcpF0D++N5vIOHc18Q+Vf4pedfNIjKZ2OyXH/dlejmEo4h0nh0ePV4dhko++xXLJ2SGbVOco9N4wDWgDG2ylp2LaFvAKtY7fTONsahWPV7HJkxrt9/cnHdLqntLd8dx08esntx36aVXcSgd9/4xoeWc3Vbja4zQAzKc/iqlGMWfi9VFfqe+r/F/eMZfSryIFPwGFCHCckJf/OcFVxaiKxOcXKam/+7ce7POig08v551gcjP3CmUD80aFwWUo0/54=;8TaAs+arzNdhVvcijL7GQw=="
+secured: "awa/3xPCznqMhERD97p+JG2N0du+U/zVAzu5V2PIDX2PjBPy03RCcM5h82b0KHrvYl72tGJ3LnrHaG38apJeKXDNXE78N5xN0g7mZFgimGmIQLb2JpXw1ZSdlJLvRG/VK9N0DTLwqpA8aCWk02c0onBZohV2BOPw8oqz8bkmBkY6P7M0P1lDCmxZC3NIc+QtfbhP5uVcXPV6uGcfic12UY9e5vouG9MGgLdTe7NzV7xkzEMXaSzd8+XDBKG8rY1jkdB7AQF45TqQI5Yr67YRyt+Wmgjc365j+q1uMqDslSnWaWSWFJdoECcRk/4nXrtzh0IuTWbfad7+8wyNDFmtQ7PIjm7TWwDyUlnLOdQ3dPHfFBedVxXguGvLQVt7wSt8QQ13UQdqIJo3gjm1Nu502hz0dqm5oWTpRx3Jtp/jHJnhCO4Nbv66lQv9ADQW7ZB6zpGi2KsVK96cWj52nMHhjRwUNInCvjGsVEBVFuF2SrJQBLsc9JrHI+BYH1LpW/cxumtPnM78j/pXVacozXgb1Q==;FuJZjPd2BRIexPb8BKrr9Q=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chipotle testing avocado processing robot in test kitchen"
+    excerpt: "Chipotle tests Autocado, a cobotic avocado processing prototype, at the Chipotle Cultivate Center in Irvine, California."
+    publishedDateTime: 2023-07-12T20:21:00Z
+    webUrl: "https://www.therobotreport.com/chipotle-testing-avocado-processing-robot-in-test-kitchen/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/07/Autocado-featured.jpg"
+        width: 700
+        height: 500
+        isCached: true
   - title: "Chipotle tests robot avocado prep machine"
     excerpt: "Chipotle has unveiled a new avocado processing cobotic (collaborative robot) prototype called Autocado that cuts, cores,"
     publishedDateTime: 2023-07-12T14:50:00Z
@@ -64,6 +78,24 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Chipotle testing a robot, dubbed \"Autocado,\" that makes guacamole"
+    excerpt: "Autocado, created by robotics and automation firm Vebu Labs of California with collaboration from Chipotle, stacks a group of avocados vertically then removes their skin and core. The remaining flesh is dropped into a stainless steel bowl that a Chipotle worker takes and uses as the base for a batch of guacamole."
+    publishedDateTime: 2023-07-12T18:23:00Z
+    webUrl: "https://www.cbsnews.com/news/chipotle-avocado-robot-guacamole-autocado/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 19
+  - title: "Chipotle is testing the 'Autocado', a robot to help make guacamole in its restaurants"
+    excerpt: "an \"autonomous kitchen assistant that integrates culinary traditions with artificial intelligence to make tortilla chips.\" According to a news release, Chippy, created by Miso Robotics, is trained to replicate Chipotle's exact recipe to cook chips to ..."
+    publishedDateTime: 2023-07-12T17:35:00Z
+    webUrl: "https://www.usatoday.com/story/money/food/2023/07/12/chipotle-autocado-guacmole-production-robot/70405904007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 12
 
 secured: "hhC6mNg32E1uRmz2j8kYChU3ZvJBMwZt9XKVYggST4G/TDWqbauSS8p1m+BOK0XqUrHdkMyKlGao1H6kj9hB3Rcq3tSEVmqhPd/OsMlGVTKXD9+7JBsS5m8oMEMS7snG+Lk+bygIQqSjWTWwCwMxNbqOgT4a2eleHJhkIHpDBVOVwlpQEbZMwk3j2suth2uaOm4EpFRzwatigIuY7MYAFUd1yqWv1jUOXHm/aWTnfRC7XVs7hx7CvxxiNpTLHN7IP71UTdF99m8ohnWFUBX91gCpadahdRs9u2ykZgGXM2DDSrS4ClyyW1/zbUTAMSS9mzNnzLH3H2+emO1naXhMuJ3yI1VQSauSegr7Y64WSs0=;jxdSO74n7qbF8t6qsm06lA=="
 ---

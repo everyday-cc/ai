@@ -59,6 +59,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 19
+  - title: "8 best deals on Roomba, iRobot, more robot vacuums for Amazon Prime Day 2023"
+    excerpt: "Yesterday marked the start of Amazon Prime Day, the perfect 48-hour event to stock up on everything you need to spruce up your home and keep it feeling fresh. Starting yesterday, Tuesday, July 11 and running through tonight, Wednesday, July 12, a variety of must-have iRobot Roombas and other robot vacuum cleaners are on sale."
+    publishedDateTime: 2023-07-12T18:39:00Z
+    webUrl: "https://www.oregonlive.com/shopping-deals/2023/07/8-best-deals-on-roomba-irobot-more-robot-vacuums-for-amazon-prime-day-2023.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 18
 
 secured: "xeEZ7cqUkEd5EeOSr5LlP8kWXtpKpIZzgKdNUCt5c1Ti5+cqK8ThhVZkYah0KzdU9O6gab0efHoHW7h19sJls5Te6lPD78nB8HUxaTrtFZlSneN+orimkL+ikEd/7OcGAnLa6ixG99br6MO0JVQjnEMKCSZGhp2QOG1oMohC/EXZeOiz6NJFVYSydmoQfuFrtitPBPrK5l83Hhq+JWCh1utJINZC7WtYmxN/pHN1K4sfQfCcWVvy6D/coS6gADpUEFMC65wQG1sOCdYXEimG8T/tR781WDZE4+8l7nIQ8OBq6L1Ut3K1pGbbsftVT+uYQrzoYLyITRICbzWMvr9aIsMRpdUB/Lr5e144yf9wrpI=;z3tFqIBVMkO/fDMW9JDqcg=="
 ---

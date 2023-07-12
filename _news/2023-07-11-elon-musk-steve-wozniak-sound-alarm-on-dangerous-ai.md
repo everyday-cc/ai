@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Announces Artificial Intelligence Company xAI"
+    excerpt: "There's no word on what the company will actually do, beyond its goal to \"understand the true nature of the universe.\""
+    publishedDateTime: 2023-07-12T21:29:00Z
+    webUrl: "https://www.cnet.com/tech/elon-musk-announces-artificial-intelligence-company-xai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 84
+    images:
+      - url: "https://www.cnet.com/a/img/resize/a0d2e51b4e919ee49297946dc9fda07dac69b681/hub/2023/07/12/51a17895-547c-46ec-b4a7-39e3c78bd937/elon-musk-gettyimages-1258889149.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elon Musk launches new AI company called xAI"
     excerpt: "Elon Musk, the CEO of Tesla and SpaceX and owner of Twitter, has announced the launch of a new AI company called xAI."
     publishedDateTime: 2023-07-12T17:39:00Z
@@ -46,22 +60,31 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Elon Musk announces a new AI company"
-    excerpt: "“We’re going to start something which I call TruthGPT,” he said, describing it as a “maximum truth-seeking AI” that “cares about understanding the universe.”Musk’s announcement of the new company comes months after he warned in an interview ..."
-    publishedDateTime: 2023-07-12T17:58:00Z
-    webUrl: "https://www.kcci.com/article/elon-musk-ai-company/44519627"
-    ampWebUrl: "https://www.kcci.com/amp/article/elon-musk-ai-company/44519627"
-    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/elon-musk-ai-company/44519627"
+  - title: "Elon Musk unveils his new artificial intelligence startup"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
+    publishedDateTime: 2023-07-12T21:51:00Z
+    webUrl: "https://www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/amp/"
     type: article
     provider:
-      name: KCCI Des Moines
-      domain: kcci.com
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
     quality: 57
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9szwrllwyymzm4zje4yjuzmde3njjknjq0otu4ndcwywe2nzky-l19wywdlcy9ox2m3njq5mja1y2vimdcynmiymdflmdzmmjhkntvhntli-jpg-64aee271999f9.jpg?crop=1.00xw:0.846xh;0,0.0385xh&resize=1200:*"
-        width: 1200
-        height: 677
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/07/web1_13991615-ad7d8018b7b1405faeaeb2abf4bb08aa.jpg"
+        width: 760
+        height: 507
         isCached: true
+  - title: "Elon Musk launches a new AI startup ‘xAI’"
+    excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
+    publishedDateTime: 2023-07-12T19:13:00Z
+    webUrl: "https://invezz.com/news/2023/07/12/elon-musk-launches-ai-startup-xai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 17
 
 secured: "EN0DWBfT2OE82WA6f5IXDIbn+6s5R1X9j5Q+1PkexSbX3lo7rUP1FV9J5DK2rNZtdnlLXnKeqf3v3eXCZnUEGR4ntxals4X1sJZyGcSsQCDkD1cnaea8zByvVtJZJuMs07sQjodWoYWREDqgCHH/q92yi3lPxI9W8c8J02HNiv5yt5edhvWDdxkPowQmFd3IEPLy4P3wgcg9ssaMKfES0WCFsSKcNLDv2BW5ZjjNaoxY1sPdbCOiiSjMcVtNZOzmQ0oL5gj19n8AY+itJE/e6g7K2lylb+USLMuQ8H1hkBFssbWMHfnDZ8Iotl/Rvtw6+01wf4q3A45B8wg6JOFQXPVFCypDJfmgZhTHxJgwecpxH3ubIZ/SzgcoupzF3C/fRxsIJI+DxIAWkI7UfgyFhWPS6W99taTvnZ6FaAYGBMC664NyUbdP4WrLoiMfoD75Cw6jL5ejrsg7fu7gLKUeVrySAcrMOOrNkLwecv5qpfKlh16ZwQU1+w5sPGjEny/wt2Rc6UpGKUoMec7rnu57cA==;ZQRIbcmZZpk35/DebmfqIQ=="
 ---

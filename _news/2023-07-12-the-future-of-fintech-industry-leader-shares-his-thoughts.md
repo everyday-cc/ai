@@ -85,6 +85,15 @@ related:
       name: Telangana Today
       domain: telanganatoday.com
     quality: 4
+  - title: "Payu To Launch Accelerator Program For Fintech Startups In India"
+    excerpt: "PayU to launch accelerator program for FinTech startups in India  New Delhi, July 12 (KNN)  PayU, India's leading online paymen"
+    publishedDateTime: 2023-07-12T19:20:00Z
+    webUrl: "https://menafn.com/1106592943/Payu-To-Launch-Accelerator-Program-For-Fintech-Startups-In-India"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
 
 secured: "6o4pGVW1M/aVFdHMsxMftr7LlWXnXplR9RyJ4vZw81cKvCGEkMgw9nixjadCmwFs3vKUr9mjytbv8dnneMvQomO7rK/shnhD70Lk6LZ/k1wrEBNZo8yQB+STXqLuRrEEMrmizntp5FeynLz3H1rrqFAUdgnL2k0eL8FM63P6R0y/7RJSYvMwRBbZdVUQ21gVvgSrVJEFlcgQ+l/i7mNSW7IZtATjkYnnxWY15gDIrfOPpQuW5+vSTHkoMeFhjBmTMBL17bHQM7PF7tGjxzRwPJGtsPDm5V6+JDhhk+JDSJ/v6MK56GeXPaB3Bbv+IMbrmYF4gdT3M07+OfF3WnivnTUGxy9GE6cNiyE40Imz8RaCuHZVrriXeddhmj7lJXydGj2Z7g0fjbKFbN/Xgwj1byTw0pT/rxSvtbA84X4tpIBjPjP+skeXv50TJVBNcWuB4NpVouhDZeSzKw0WpEUXY6bd4n1fg9arwUma2UHFsg4SuRclM35MMEVjZzQjVuLAUnyaOtikHRTQeVYJ3XJecA==;0iVhl3e0V6Gh0RGGoeFO5g=="
 ---

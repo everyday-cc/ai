@@ -43,23 +43,46 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Elon Musk announces a new AI company"
-    excerpt: "“We’re going to start something which I call TruthGPT,” he said, describing it as a “maximum truth-seeking AI” that “cares about understanding the universe.”Musk’s announcement of the new company comes months after he warned in an interview ..."
-    publishedDateTime: 2023-07-12T17:58:00Z
-    webUrl: "https://www.kcci.com/article/elon-musk-ai-company/44519627"
-    ampWebUrl: "https://www.kcci.com/amp/article/elon-musk-ai-company/44519627"
-    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/elon-musk-ai-company/44519627"
+  - title: "Elon Musk Announces Artificial Intelligence Company xAI"
+    excerpt: "There's no word on what the company will actually do, beyond its goal to \"understand the true nature of the universe.\""
+    publishedDateTime: 2023-07-12T21:29:00Z
+    webUrl: "https://www.cnet.com/tech/elon-musk-announces-artificial-intelligence-company-xai/"
     type: article
     provider:
-      name: KCCI Des Moines
-      domain: kcci.com
+      name: CNET
+      domain: cnet.com
+    quality: 84
+    images:
+      - url: "https://www.cnet.com/a/img/resize/a0d2e51b4e919ee49297946dc9fda07dac69b681/hub/2023/07/12/51a17895-547c-46ec-b4a7-39e3c78bd937/elon-musk-gettyimages-1258889149.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Elon Musk unveils his new artificial intelligence startup"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
+    publishedDateTime: 2023-07-12T21:51:00Z
+    webUrl: "https://www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
     quality: 57
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9szwrllwyymzm4zje4yjuzmde3njjknjq0otu4ndcwywe2nzky-l19wywdlcy9ox2m3njq5mja1y2vimdcynmiymdflmdzmmjhkntvhntli-jpg-64aee271999f9.jpg?crop=1.00xw:0.846xh;0,0.0385xh&resize=1200:*"
-        width: 1200
-        height: 677
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/07/web1_13991615-ad7d8018b7b1405faeaeb2abf4bb08aa.jpg"
+        width: 760
+        height: 507
         isCached: true
+  - title: "Elon Musk launches a new AI startup ‘xAI’"
+    excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
+    publishedDateTime: 2023-07-12T19:13:00Z
+    webUrl: "https://invezz.com/news/2023/07/12/elon-musk-launches-ai-startup-xai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 17
 
-secured: "/cE5jRrfeuzeVPSy8u4DuueDs/fRoOcmddnE2oHpUk4Y22wVbs5E3DzAQEIoavaDVEuvoVC7SGb78wQTaL14yu8Qwxe6lzjL6UxBDrukNjaaRfqvsOR0sz+YiD7gSWYRs4324Ze0F7IhVUeJFtYFrmu1t4emy/rZTZSd/HKA2Ug3QO3tRKxrvSAW1PJgm6IW8guGL48RF8Ms9k52vmdNrJaTCdimg9Yjlrn9QXQ8YOXuyYxSEyKd5Vmr461NcVos36A8UjaYz9UE65vHkgHdhC/bpj339vyPNUiYE5Ux4YARHuYN2bA9Bw5tYbF/MtS1nZ51vpkMc/WCCAu6PNuqyNEgD4kzj/ebCYgd28WfIa8=;gsthk0NEd4veDp0OIi/fYA=="
+secured: "bAsasLwoO5JBbD9JegeT/KJWnp86wvGC4KlhqBw3L5eNMQ5c9qvVwax1F7MMc2gkn+DRh7EOrRHX34LdjSeIO0kTXl64pSaLBrSxP+zhMsOJLjqQLzfByqQEJ1twntLSjOhYZX7+jEyjiW3loiXzK/VYWMI7K1gBeccQZV5JKuCqgPq9kDlJNCYR2zDmTv1GePVcLv7PX3WZA9a8hwi/4FTaaxnXY/ZaPX4i/rSrt43TP0WePnusBWfKJtnpnzxRxfmssjsXGXOHsAjDU935dTcV7chyeOSNjznrmygzvtd6bfimEGGBABBkPi3Yl8kG2fsqX6X9kDbz5+ToeRZKlXAn5I8FagYBlPCC0SwNItIo4Az/hS9DI0mBChHCz8a3+0z5bghqMM2OeHTI9+Iq3vPIuYmTNx3jyeSmtPSDSUj03+1xVN/SxNJh8YwOEyejNNB9flSX6kLt7uvWgfrDsOM/94/4tkgTR+WAooeDMlARb6mCYGT9Btq8itiRxDiQYUT0PO8/jpMPg/RgbV8G7A==;bVe3hwMBOjC3g4nQGx0AUg=="
 ---
 

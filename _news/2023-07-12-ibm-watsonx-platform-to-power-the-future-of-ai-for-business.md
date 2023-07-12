@@ -33,7 +33,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 69
+    quality: 73
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg"
         width: 1400

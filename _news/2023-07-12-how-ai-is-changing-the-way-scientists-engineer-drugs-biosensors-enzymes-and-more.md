@@ -43,7 +43,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How One District Is Bringing AI Into the Classroom"
+    excerpt: "The Newark school district in New Jersey is actively experimenting with artificial intelligence, and thinking about how ed-tech companies can help."
+    publishedDateTime: 2023-07-12T17:11:00Z
+    webUrl: "https://marketbrief.edweek.org/k12-insider/one-district-bringing-ai-classroom/"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 39
+    images:
+      - url: "https://marketbrief.edweek.org/wp-content/uploads/2023/07/07.23-MB-K12-Newark-ai-1138722178-880x493.jpg"
+        width: 880
+        height: 493
+        isCached: true
 
-secured: "H7rCoc0pKt/N+nyRUkkjwuTwI0titMQMG576He2xkUCHgsB/U8LlvSvWz57iltZIcOctbkLKQpkH1Jxvh3jHG5avcfV2JW6F8G/nMIX1gHa9ECGMZFUtuc5cILpJnT5aqK77GIhp4v1a94MVTJjHrjlz9kysIUQlMlCXRD5t73NUzpsj2InU06O4TllmdRq7lOcQ8cgnfq0ilrKUgEKMROiaHpm3B2tWw9WQz6iAOiV68cyMoDnShFEWusCHSzIYm+kxmLVDFJ/EM9JY3TuRgWq6p1xcsgSAZ6EZ5WwBwUZoZJ3nqMdSg9mLRTBD2dpCgyGKO0OG5J2lKKLdzc9i0agyurJEi3ZvQeABEZN8wSQ=;Mmd/JbCuOuxbBaa/aPGYpw=="
+secured: "ma+RSHO7SQyb/vXvy1BhehIbotRSfHNkfZ5FF2FuTY7A0W7u1NSDYzHfO4XHSeoqewn1L7T+f9lMgW+bVhMRU1i3HWAzQs8Bh+YBMUGnHwoTthMSMlvzRW4lk2Cv4kMgwGA0lPuZriWtaW0PHRAHMHxpbgzzWIMHmhpPNUP3127znlk5vRKP4STzu3GBsfJfC+BYu216MUB4ncSARUPcxnptqHaliuEeFtiC0+OHap5UxIX+zJh1tWU9lM0F+7SBFx72g+Qqz98eawJbXq5zE1saMWmkl9XJ+ytA17uGmIXBbxtYMMAArw2Ihes2zuBDCMSGaeqUEYZXR5znZPG2D99FPG49oWMqYtUvM48vL368Wg73NhWxSwB8nZIIFiKpmK0lb/wFdQDqa1qKr+fUV62e/DYZdHUisNR4bjvm2r+14xYZtKzTx7EkRELGA+Ra9ZRTaBLRm7i81JSpPGqtbhEnU/0pkQEeDKLsejIN4TWJ3NFGD7KppbAPMgiXF69tOkN6upVK8y01opzq4MRk5g==;nwI1uUwP0yqCnwY1rPH9kA=="
 ---
 

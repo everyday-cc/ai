@@ -104,20 +104,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Painter and the Chatbot: Artificial Intelligence and the Perils of Progress"
-    excerpt: "It was revealed that A Girl With Glowing Earrings was the product of an artificial intelligence program that creates images from natural language prompts."
-    publishedDateTime: 2023-07-08T03:04:00Z
-    webUrl: "https://spectator.org/the-painter-and-the-chatbot-artificial-intelligence-and-the-perils-of-progress/"
-    type: article
-    provider:
-      name: The American Spectator
-      domain: spectator.org
-    quality: 50
-    images:
-      - url: "https://149366087.v2.pressablecdn.com/wp-content/uploads/2023/07/Girl_with_a_Pearl_Earring-1-min.jpg"
-        width: 1808
-        height: 2138
-        isCached: true
   - title: "Anthropic Launches Claude 2, a $4.1 Billion AI Chatbot Competitor to OpenAI’s ChatGPT"
     excerpt: "Anthropic, a startup founded by former research executives from OpenAI, has entered the AI arms race with the debut of its new AI chatbot, Claude 2."
     publishedDateTime: 2023-07-11T19:22:00Z

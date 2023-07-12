@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,9 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     },
     {

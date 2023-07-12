@@ -103,20 +103,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "AI robots tell UN conference they could run the world"
-    excerpt: "The social robots said they felt humans should proceed with caution when embracing the rapidly-developing potential of artificial intelligence, and admitted that they cannot yet get a proper grip on human emotions."
-    publishedDateTime: 2023-07-08T03:45:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world/101587755"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101587755,imgsize-91584,width-1200,height=765,overlay-etcio/next-gen-technologies/ai-robots-tell-un-conference-they-could-run-the-world.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
     publishedDateTime: 2023-07-11T03:40:00Z
@@ -158,20 +144,6 @@ related:
       - url: "http://images.summitmedia-digital.com/esquiremagph/images/2022/07/29/shutterstock-235214128-1-1656294336.jpg"
         width: 970
         height: 546
-        isCached: true
-  - title: "Artificial intelligence can run world ‘better than humans’"
-    excerpt: "A panel of AI-enabled humanoid robots took the microphone on Friday at a United Nations conference with the message: they could eventually run the world better than humans. But the social robots said they felt humans should proceed with caution when embra­cing the rapidly-developing potential of artificial intelligence,"
-    publishedDateTime: 2023-07-08T01:08:00Z
-    webUrl: "https://www.dawn.com/news/1763612/artificial-intelligence-can-run-world-better-than-humans"
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 39
-    images:
-      - url: "https://i.dawn.com/large/2023/07/081213454917d66.jpg?r=121401"
-        width: 800
-        height: 480
         isCached: true
   - title: "MBtv-Robots test their mettle at RoboCup, the world’s largest AI competition"
     excerpt: "From football matches to first aid workshops, robots test their abilities at RoboCup, the world's largest artificial intelligence competition, being"

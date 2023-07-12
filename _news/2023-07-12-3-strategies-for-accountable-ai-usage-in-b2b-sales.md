@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/12/3-strategies-for-accountable-ai-usage-in-b2b-sales/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "A look at the Pentagon buying strategy for artificial intelligence"
+    excerpt: "The Defense Department has been steadily developing artificial intelligence capabilities. But how should it go about purchasing AI tools? To get some ideas, the Government Accountability"
+    publishedDateTime: 2023-07-12T19:32:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/07/a-look-at-the-pentagon-buying-strategy-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 19
 
 secured: "LkJ8ePcHNPZD2J4fqWUTHVhPMwQ1yvdBByB+luxwB5dWnABH+ShRhUSU3/70Mk2leC6ZqU8rRWLcyhF75togTWQ7r1FZXn+Np59Xn1f2jvWTM/1mpulARWjJyTR5N3te5lab529jVlkOfHIT+4VMwC+fwLmxDAl5Tk/KRyfUvAuOArbnOL0eKesF9SZ9xXnAd7PHrZtWL9dA5iQJbIEJDwWSu+mCZ+Sw6X8f5ueigvv/L8T/2SiOS7zpb7NEcefOfXiamGan52fTB2qZ87OPH7QIyPVZzJ13MdDNTqEbaTVkCFVcBDqJGPBqxtSChb4ZAv9Q5R9ul6P4ilJRvz4TmJrZqZRLhy9CPVRmLOjfAGY=;NTd9VbyiiUc+8coXLvSqww=="
 ---
