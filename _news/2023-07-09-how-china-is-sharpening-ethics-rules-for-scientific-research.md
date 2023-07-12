@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How artificial intelligence is helping Formula 1 expand its audience"
+    excerpt: "TVBEurope speaks to James Bradshaw, Formula 1's head of digital technology, about how the sport is using AI to create localised subtitles for its OOT platform F1 TV, and plans to personalise content e"
+    publishedDateTime: 2023-07-12T09:24:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/how-artificial-intelligence-is-helping-formula-1-expand-its-audience"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 19
 
 secured: "nQQLcB7ocpZRWvwDvJcluutDf2kQqly8tFHimNBPbLli4gbWCK+jftiNZXPQsBGHPuLFEJUXoeLJUpM/o8ciV7NrJMCWJqeY428fKQJ3FYuXD0MHYC2NIbWW2PFHf0TbU4gRu9p7Pa9Mr592ZpuPqYO6Yu6NhHqs1mYAT6aDwa/If/5xqpSXsGq3HYgJJGSe4ryttnvvlzgDrGjF4ZUuBI10hj22AXKTH5RHjt8EP+wt7nZUh+I4X/piqOReRtG+AUMBO8Dzo4VDrkOsDw2ye2YFXzNiWrcIDUWRzu4hFnvGkU76eYefl/jrM/EZSREBRe8lMfvoZCg2RA1otqmQ+HYG4DtcYpvmbcS6yrv0lMY=;MgFQxHKy2DzVGsnW48gUiw=="
 ---

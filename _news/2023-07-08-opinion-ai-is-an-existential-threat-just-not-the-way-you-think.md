@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mission: Impossible—Dead Reckoning Is the Perfect AI Panic Movie"
+    excerpt: "Tom Cruise takes on The Entity—an all-powerful, all-seeing, sentient AI—in what may be the most well-timed action movie yet."
+    publishedDateTime: 2023-07-12T11:00:00Z
+    webUrl: "https://www.wired.com/story/mission-impossible-dead-reckoning-is-the-perfect-ai-panic-movie/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/64adc3e6d96882f74caa4068/191:100/w_1280,c_limit/Mission-Impossible-Dead-Reckoning-1-Culture-mi7-ff-262rc3.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "‘Mission: Impossible—Dead Reckoning Part One’ Review: Real Tom Cruise, AI Enemy"
     excerpt: "Christopher McQuarrie directs the seventh installment of the franchise, which sees Ethan Hunt and the IMF team face possibly their most dangerous adversary yet: artificial intelligence."
     publishedDateTime: 2023-07-11T20:54:00Z

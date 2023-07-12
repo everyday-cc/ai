@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT and Bard Get New AI Chatbot Rival: Anthropic Debuts Claude 2"
+    excerpt: "The chatbot is available now in open beta in the US and UK, and Anthoripc said it plans to make Claude 2 globally available in the coming months. If you're interested in seeing how Claude 2 compares with other publicly available chatbots like ChatGPT, Bard or Microsoft's Bing, head to Claude.ai ."
+    publishedDateTime: 2023-07-11T17:17:00Z
+    webUrl: "https://www.cnet.com/tech/computing/chatgpt-and-bard-get-new-ai-chatbot-rival-anthropic-debuts-claude-2/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/8f89d44a5ec05644c6771739820cbf0f63f6a093/hub/2023/06/28/b65a809e-bdf9-4ed1-a9e9-33d039e7c579/ai-text-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google is testing AI chatbot that can answer medical questions: Report"
     excerpt: "Med-PaLM 2 has been in testing at the Mayo Clinic research hospital – a non-profit organisation based in the US, among others, since April. The report noted that Google believes the LLM will be useful in places where there is “limited access to doctors”."
     publishedDateTime: 2023-07-10T02:01:00Z
@@ -103,6 +117,15 @@ related:
         width: 506
         height: 325
         isCached: true
+  - title: "Anthropic Launches Claude 2, a $4.1 Billion AI Chatbot Competitor to OpenAI’s ChatGPT"
+    excerpt: "Anthropic, a startup founded by former research executives from OpenAI, has entered the AI arms race with the debut of its new AI chatbot, Claude 2."
+    publishedDateTime: 2023-07-11T19:22:00Z
+    webUrl: "https://techstory.in/anthropic-launches-claude-2-a-4-1-billion-ai-chatbot-competitor-to-openais-chatgpt/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 12
 
 secured: "nqYE2yrTxlbd6z/IedGVbCcD3h536K6rofvO8lKsiZd7QGRz9wolZxk3KBqeH3zl3VpdiDVd08ll4HWWeGTEVnAYn0nDbTRbglk6+Mo2uetlYWLOgJQg8EVteBaO8rBaAwD5duZebAviLOAe3QHzkRTpxe8XCiGknUQAVk+ng9UgiZHtKD5WnXMyNosUiMf1DpEJyi58aHaRW0jA5p8WYBP65DEvu4pgeXtY0KMr7pRsZ2jnjkmPHr+qtKMqxvEJxItuBoZvVjsFjlLLp07hY34q6aHpyGu0bKih345E1YtKWzveMcaa/cMubbnWbcly/VHDbwfk8YIKEwelVs0le2ZHJl9fkG/DUKo5uMSgmEc=;yVcXURisRZARdYY1a7W73A=="
 ---

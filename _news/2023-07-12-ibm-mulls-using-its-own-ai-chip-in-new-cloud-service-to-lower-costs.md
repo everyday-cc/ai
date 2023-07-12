@@ -1,18 +1,18 @@
 ---
 category: news
 title: "IBM mulls using its own AI chip in new cloud service to lower costs"
-excerpt: "IBM is hoping to take advantage of the boom in generative AI technologies that can write human-like text more than a decade after Watson, its first major AI system, failed to gain market traction. Advt One of the barriers the old Watson system faced was ..."
-publishedDateTime: 2023-07-12T03:58:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs/101684996"
-webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs/101684996"
+excerpt: "International Business Machines (IBM) is considering the use of artificial intelligence chips that it designed in-house to lower the costs of operating a cloud computing service it made widely available this week,"
+publishedDateTime: 2023-07-12T11:41:00Z
+originalUrl: "https://www.channelnewsasia.com/business/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-3622531"
+webUrl: "https://www.channelnewsasia.com/business/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-3622531"
 type: article
 quality: 56
 heat: 66
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - IBM AI
@@ -20,9 +20,9 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-101684996,imgsize-34314,width-1200,height=765,overlay-etcio/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--6HItpC8n--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-11t234410z_2_lynxmpej6a0v9_rtroptp_3_apptio-m-a-ibm.jpg?itok=Xvrgy51D"
     width: 1200
-    height: 765
+    height: 676
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 36
 
-secured: "Pkng9VyjHRDerLjS/4nyFdv3o0LekKxgKRisb8M/cTtXM268oE2WRxfDAI8jeFcdfqCM+fNqDqWyMRpc542quw/rq1AukFpwFL0YNEG5NFu5sBHqZ/vqQm8JGn5uU+LjbbmGdyvP58uVaSoOR1A+hJ20XJf4L1FG/yDba+Mn+Ecb0LOtGirpjW6sTcmWSyv+S81cEptNQIdBhJa/yWKOidED75vv9y7jehYJMmNgSrLQkCNVDismGQHef4XHyrMQPlf0STmDblpTPcTBWSKFgUGoI7CuEMAfzHdFzIIO71veJJn/Vasb4O0yG8nFaVTQ142W+QdPLkykADmKZpDiA3dvEtWrViFPd4LU7RL1WKY=;K989JaD2NEYcYJsLsBeYxw=="
+secured: "EeEYAprorp/CZzzcyBO4rrAD7Rbo9iedLSi/5l8eC7YrrqMQGJI4mwXgfCawr4vjg84PAfIaQ607QyWf1gt0jbg2LSGcq7hnyfH3Ai6CCsewTbV+LLJTTYK3/fMiNl2nFlhF0LDbD8atCiZ4OScyaaM841wBWHzdSGk/PQlOI7iHWozfApVVPAufpBtAPfDUMyjXb0vBc+1ppROasQngyGexX+QK7GvjjpejNPyoyBTr+eWbeTHmtx9mxXXctTPxHxnx6gwoocyIe4wVzhUWbA0dUIrXIs6d6kOvVtGhB1WUM11eyxVZvdiJk2XF4p2J6rVVSUI5pVe6vkUZD7o8vy9SsD4Buk0BUXqy/IPOJXA=;Y3NDl2colMmsDL2SoY9RYg=="
 ---
 

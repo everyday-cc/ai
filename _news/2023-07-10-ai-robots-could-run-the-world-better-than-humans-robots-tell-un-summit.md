@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-cou
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
 type: article
 quality: 104
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Robots At UN Reckon They Could Run The World Better"
-    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
-    publishedDateTime: 2023-07-07T17:39:00Z
-    webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
-    ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9103350529626727026872206727563737693825---1.jpg"
-        width: 768
-        height: 506
-        isCached: true
   - title: "Panel Of AI-Enabled Humanoid Robots Take Questions From Humans"
     excerpt: "The world's first human-robot conference was held in Geneva, where a panel of AI-enabled humanoid robots told the United Nations they could eventually run the world better than humans."
     publishedDateTime: 2023-07-10T15:30:00Z

@@ -47,6 +47,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "AI Startup Anthropic Releases a New Version of Its ChatGPT Rival, Claude"
+    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, has released a new version of its AI bot, named Claude."
+    publishedDateTime: 2023-07-11T13:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-11/ai-startup-anthropic-releases-a-new-version-of-its-chatgpt-rival-claude"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 46
   - title: "Anthropic’s ‘friendly’ AI chatbot, Claude, is now available for more people to try"
     excerpt: "Claude, the AI chatbot that Anthropic bills as easier to talk to, is finally available for more people to try. The company has announced that everyone in the US and UK can test out the new version of its conversational bot,"
     publishedDateTime: 2023-07-11T13:30:00Z

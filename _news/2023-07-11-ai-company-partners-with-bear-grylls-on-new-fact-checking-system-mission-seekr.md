@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/ai-company-partners-bear-grylls-new-fa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr.amp"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

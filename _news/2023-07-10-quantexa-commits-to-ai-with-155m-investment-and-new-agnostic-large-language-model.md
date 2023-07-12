@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wipro to spend $1 billion to train entire staff in artificial intelligence"
+    excerpt: "Wipro Ltd, India's third-largest software services company, on Wednesday announced a USD 1 billion spending plan to train its entire 2.5 lakh employees in artificial intelligence and integrate the technology into its product offerings."
+    publishedDateTime: 2023-07-12T10:08:00Z
+    webUrl: "https://www.zeebiz.com/companies/news-wipro-to-spend-1-billion-to-train-entire-staff-in-artificial-intelligence-243869"
+    ampWebUrl: "https://www.zeebiz.com/companies/news-wipro-to-spend-1-billion-to-train-entire-staff-in-artificial-intelligence-243869/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/companies/news-wipro-to-spend-1-billion-to-train-entire-staff-in-artificial-intelligence-243869/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 72
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
+        width: 700
+        height: 394
+        isCached: true
   - title: "India's Wipro commits $1 bln investment into AI"
     excerpt: "Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years."
     publishedDateTime: 2023-07-12T01:47:00Z

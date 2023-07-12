@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-
 webUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
+    publishedDateTime: 2023-07-11T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stocks-ai-potential-is-not-just-limited-to-rise-of-chatgpt-1032437318"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Best Artificial Intelligence Stocks To Buy Now? 2 For Your July 2023 List"
     excerpt: "Artificial Intelligence (AI) has grown and transformed significantly in recent years. This is all thanks to amazing innovations in fields such as machine learning, deep learning, and computer vision."
     publishedDateTime: 2023-07-09T16:15:00Z

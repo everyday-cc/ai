@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-o
 webUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 320
         height: 320
         isCached: true
+  - title: "How Sarah Silverman might save us from AI like ChatGPT"
+    excerpt: "Sarah Silverman is one of the authors suing OpenAI and Meta for infringing copyright while training ChatGPT-like generative AI."
+    publishedDateTime: 2023-07-11T17:30:00Z
+    webUrl: "https://bgr.com/tech/how-sarah-silverman-might-save-us-from-ai-like-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
 
 secured: "Jd+RIgqDzUQnD9YLKYM1zIHkOtvYnhFRvsAWvO0wDOyicrF4XgpbWPRYz9PtCiSDv4xYTbilSnD+QSgEhiRfvIlROndy+1ieGEVPtLK/EVElj9PEPoYyx/7TvyEG2MJp4zwtcu+aQg1lXZ3pO+VFlvlE7NcpjHN01YUVuCrOMj23Nig+neiCJY564qJdLE7cPMz2ig5GQ0JeSfOzka6XlIYl+QelW+4xvz0WuVTBrwcn4wcxeUqU8UQBZLaw1V2XDh587Ygyc3KWYyxSjGJVtSaf8zmBF3QBaxNvvFvU8mwkpC3KOzv8Itecy/A70yFXsR6BPilpVzwPc2QkK7vl2fpAGJ1PQj6ByF7oBsmM+w/m+xKl//YUY/ann/LylAAdj20HWWh6Yg6HhHgtngpHzDZOa781D+7RtmGBwCl0c2xiB2zKOUprz/+PtPqme5HMn5Kpcp3mdVLK7hDd+7viJW1w6CyZ4pfEbzT3GNBZT1AMfdd4zmlZYNh721xTv82mcCcJU9LmDz6H3L8CWJSgaA==;J9GyuLIRZHJ1Ig/R6B/WAg=="
 ---

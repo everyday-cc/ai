@@ -39,6 +39,20 @@ related:
         width: 715
         height: 720
         isCached: true
+  - title: "New IT spending survey bodes well for 7 tech stocks in A.I. to cloud to cybersecurity"
+    excerpt: "A number of big companies whose stocks we own are dependent on how much businesses are willing to spend on tech."
+    publishedDateTime: 2023-07-12T08:00:00Z
+    webUrl: "https://www.cnbc.com/2023/07/12/new-it-spending-survey-bodes-well-for-7-tech-stocks-in-ai-to-cloud-to-cybersecurity.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 47
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107212363-1679408765823-gettyimages-1248335218-raa-openaich230315_npOtf.jpeg?v=1689156001&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "q04gboFKKoqD2B9G7GLzC4gP8tube6/31nzMl6F3a0E79P40H6R4BT5eRzkjaSmS6gizlJ6mkCzkm+oWf8//PSqN8fQo9gB/7wXmSaByNZDU8k/25JpAqZYt8o6Voc/bp8IiWhVuK+Wb6TmwEoMCh/l7XzyccjdbAvF7NDj5qk/Ex0mCgIgK4Yys8w3evryOsWNyzLHNdZXEUzstYX7HiRzxvOCFQV0HowCIKWpjuh3FChj3AULiESGE2A17qIKEKuLfNHdWmwxbjMeiUKU1qQAGIudjskWrZbB4JnIORzIB+XWk3CP5crAdh04i+s2D/a39cG4TIEyl7foaDZykAwWcXyPuXVngvfNKmiDDtxQQzvfEzmoap7mgt+AGx0ByWWDc4ygGdj0A3+zYqLhLVhRYxOj3Vsd0fgArrNZeYmxn19BqDPvP8PdUW3IGKO6J7srAW78iltJ+nq1DeqmUt+e6fe+xwYiP5P0ATgFqg22Yq6z0EkFDUgyQAN5HyPufkdfjFrPZsz/7Qo+DEw7UKQ==;ddxeLzUklGGjBA31eJ0Rkg=="
 ---

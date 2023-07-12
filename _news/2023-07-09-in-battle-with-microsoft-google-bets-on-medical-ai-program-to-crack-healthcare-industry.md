@@ -87,6 +87,22 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "AI can address high cost, poor patient experience in healthcare: Report"
+    excerpt: "The implementation of generative artificial intelligence (AI) in pharma and healthcare has the potential to address the issues of"
+    publishedDateTime: 2023-07-12T11:37:00Z
+    webUrl: "https://glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report"
+    ampWebUrl: "https://glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 74
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/07/AI.jpg"
+        width: 400
+        height: 222
+        isCached: true
   - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
     excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
     publishedDateTime: 2023-07-08T12:00:00Z
@@ -274,15 +290,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "Healthcare’s AI revolution is well underway"
-    excerpt: "Discussions about artificial intelligence have proliferated recently as more people have access to programs that can make art or answer questions."
-    publishedDateTime: 2023-07-07T18:42:00Z
-    webUrl: "https://www.limaohio.com/features/lifestyle/2023/07/07/healthcares-ai-revolution-is-well-underway/"
-    type: article
-    provider:
-      name: The Lima News
-      domain: limaohio.com
-    quality: 34
   - title: "GE HealthCare survey: AI faces skepticism in the medical care business"
     excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the US."
     publishedDateTime: 2023-07-09T18:00:00Z

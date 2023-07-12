@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-busine
 webUrl: "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-business/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "How artificial intelligence is helping Formula 1 expand its audience"
+    excerpt: "TVBEurope speaks to James Bradshaw, Formula 1's head of digital technology, about how the sport is using AI to create localised subtitles for its OOT platform F1 TV, and plans to personalise content e"
+    publishedDateTime: 2023-07-12T09:24:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/how-artificial-intelligence-is-helping-formula-1-expand-its-audience"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 19
 
 secured: "ksqVUbbwJElrzAvhfpEMKVw/XWd+wfuuMM+3ITm5pj+RjwiXx5gtbp6amDBW6441uQbrRJUHmSqcjGdHKvWQCgwgivHzmq4gUvrXgSY0677grtMRZNwY9Ng5txRhdRyNNtBs8oeiI98++pNXSVINMefm6jKfRV//S7W7O/++L1PIBi3fqf32lNKoyKJda6p9vn7IVeC8zWN1JN4MXEWFOtujnDlSLqI0uXakduefv1QMA6+96JEj8kFjGd/jitzl9GjP2gPuF3fAUDZffgJmNJZRT9dgWTlCBZ8ObSuLQ31bjKPs9iUmvoIeUTzuCjJ1jh/BILT2YCB0RW+CHGn8X9Bc/WVKuQB8Rit6bKLr8OjwY2HxGLrUly6u1Pnflj3UWLCTqKDT7EhZAU9WjDGBzo80sOmvO4OV2QYlnQNoXlKf9dmJFW/T1nYReIHRZPpM18NWQMWWGVw9dFCz/0xg6uih75YdbLbtfBEbnE+SAI0BkKLJ9WILbenENS7UhroIQ4qSCK9jkayOB/8vNaoxEw==;r4OW7hbLDXCzP3PlfsZPIg=="
 ---
