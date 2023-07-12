@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-scientists-generate-ai-biology.amp"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:

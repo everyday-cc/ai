@@ -26,42 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "MOH agency, Microsoft to develop AI tool to help healthcare workers in Singapore"
-    excerpt: "SINGAPORE – Healthcare professionals in Singapore will have an artificial intelligence (AI) tool to help them get quick and accurate answers to questions about care protocols for medical conditions or subsidies available to patients."
-    publishedDateTime: 2023-07-07T11:04:00Z
-    webUrl: "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore"
+  - title: "Microsoft Entra expands into Security Service Edge and Azure AD becomes Microsoft Entra ID"
+    excerpt: "Microsoft Entra is unifying identity and network access with a new Security Service Edge solution and more identity innovations."
+    publishedDateTime: 2023-07-11T16:09:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/07/11/microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 66
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/hzhospital070723_0.jpg?VersionId=DmWmvyy8TAXRSC55NTAwkREwOC2gKdiw&h=40abc946"
-        width: 860
-        height: 573
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/06/250087_SCI_Entra_T1_Moment_Blog_230601_Blog_Security_NoText_1280x720-1.png"
+        width: 720
+        height: 720
         isCached: true
-  - title: "IHiS to develop a secure ChatGPT for healthcare with Microsoft"
-    excerpt: "Secure GPT is a custom-built common platform using Azure OpenAI Service that will enhance productivity for healthcare workers."
-    publishedDateTime: 2023-07-07T10:22:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/ihis-develop-secure-chatgpt-healthcare-microsoft"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/ihis-develop-secure-chatgpt-healthcare-microsoft"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/ihis-develop-secure-chatgpt-healthcare-microsoft"
+  - title: "Tech Mahindra aims to transform knowledge search with integration with Microsoft Azure OpenAI"
+    excerpt: "Tech Mahindra’s Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility in a unique way,"
+    publishedDateTime: 2023-07-10T15:40:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=159549"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 56
-  - title: "IHiS to develop a Secure GPT for healthcare with Microsoft"
-    excerpt: "It is a custom-built common platform using Azure OpenAI Service to enhance healthcare workers' productivity and patient care."
-    publishedDateTime: 2023-07-07T10:24:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/ihis-develop-secure-gpt-healthcare-microsoft"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/ihis-develop-secure-gpt-healthcare-microsoft"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/ihis-develop-secure-gpt-healthcare-microsoft"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 56
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 58
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "KPMG and Microsoft sign $12B AI deal"
     excerpt: "KPMG and Microsoft have signed a US$12-billion agreement to develop custom artificial intelligence tools over the next five years."
     publishedDateTime: 2023-07-11T23:42:00Z
@@ -76,19 +68,19 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "3 ways Moveworks and Microsoft Teams use AI to improve employee productivity"
-    excerpt: "Moveworks on Microsoft Teams uses conversational AI to help enterprises improve employee productivity and free up IT and HR staff. Learn more."
-    publishedDateTime: 2023-07-10T15:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/"
+  - title: "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft"
+    excerpt: "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,"
+    publishedDateTime: 2023-07-12T00:17:00Z
+    webUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 51
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
     images:
-      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/07/Moveworks-feature-image-5-30.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
+        width: 2000
+        height: 1143
         isCached: true
   - title: "Azure: Our AI Platform – Stories – Microsoft"
     excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
@@ -99,20 +91,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 49
-  - title: "Ihis Inks Mou With Microsoft To Deepen Collaboration And Trailblaze Generative Ai And Cloud Innovation In Healthcare"
-    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcar"
-    publishedDateTime: 2023-07-08T11:32:00Z
-    webUrl: "https://menafn.com/1106571871/Ihis-Inks-Mou-With-Microsoft-To-Deepen-Collaboration-And-Trailblaze-Generative-Ai-And-Cloud-Innovation-In-Healthcare"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?522220"
-        width: 375
-        height: 250
-        isCached: true
   - title: "ENOC Group to drive business innovation through Microsoft Azure OpenAI Service"
     excerpt: "This will deliver insights to its businesses that improve the customer experience and unlock the full potential of data-driven decision-making and knowledge discovery"
     publishedDateTime: 2023-07-11T10:37:00Z
@@ -122,6 +100,29 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 45
+  - title: "Microsoft Expands Entra Into Secure Service Edge"
+    excerpt: "Among a handful of product announcements are two new offerings — Entra Internet Access and Entra Private Access — plus Azure AD has been renamed."
+    publishedDateTime: 2023-07-11T18:05:00Z
+    webUrl: "https://www.darkreading.com/dr-tech/microsoft-expands-entra-into-secure-service-edge"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbba5d81bf783b6fc/64acd694a17466820c08d5e6/cloudiam-Phongpat_Srifa-alamy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
+    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory LONDON and REDMOND, Wash. —  — KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
+    publishedDateTime: 2023-07-11T22:00:00Z
+    webUrl: "https://news.microsoft.com/2023/07/11/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
 
 secured: "Ricgq8k1roZ8F81AmBR+w37H+oW8goB7fUYdFDW3B8uaG0MDKg8TGk63UExNRpUhkJvfu7O5OhXtMlIHpkFvdTvQYuKLyMzgM1u7gcwyDM/8ILSxwS4GP7Y+nHqq03PxF1zTVnZLcWgB1JB3jyeK+i236vNmdQHtQ0wnlWCJ1Ym4jot1c9g8SZlxhdQzQNs7Df7pRjy0/MGwj5ZthivmuEWBPXZhGazF4vlL1fEnGP3n3iR8sNK3iBs8pwfzpBeeihqZX/Weu6e5WkmAitaFw4zuKCrLLcDp70nJFhIolLqdE0cVrxPjtJ/S55Alr1khu4x1ok1se1zS8ag2q5etXyjX83tPvmBGQWRyOVslM0I=;LhAGh3k8ELdI+g7U+DTN9w=="
 ---

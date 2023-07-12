@@ -25,33 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "KPMG Plans $2 Billion Investment in AI and Cloud Services"
-    excerpt: "An expanded partnership with Microsoft is expected to bring in $12 billion in revenue for KPMG over five years, the Big Four accounting firm said."
-    publishedDateTime: 2023-07-11T19:50:00Z
-    webUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5"
+  - title: "Microsoft Entra expands into Security Service Edge and Azure AD becomes Microsoft Entra ID"
+    excerpt: "Microsoft Entra is unifying identity and network access with a new Security Service Edge solution and more identity innovations."
+    publishedDateTime: 2023-07-11T16:09:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/07/11/microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
     images:
-      - url: "https://images.wsj.net/im-815234/social"
-        width: 1280
-        height: 640
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/06/250087_SCI_Entra_T1_Moment_Blog_230601_Blog_Security_NoText_1280x720-1.png"
+        width: 720
+        height: 720
         isCached: true
-  - title: "Sapphire Venture plans to invest over $1 billion in enterprise AI startups"
-    excerpt: "Sapphire Venture plans to invest over $1 billion in AI enterprise startups, doubling down on the technology's adoption by companies across the world, its president Jai Das said at the Reuters Momentum conference in Austin on Tuesday."
-    publishedDateTime: 2023-07-11T17:15:00Z
-    webUrl: "https://www.aol.com/news/sapphire-venture-plans-invest-over-141541787.html"
+  - title: "Tech Mahindra aims to transform knowledge search with integration with Microsoft Azure OpenAI"
+    excerpt: "Tech Mahindra’s Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility in a unique way,"
+    publishedDateTime: 2023-07-10T15:40:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=159549"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 58
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/cffe022dc8d35ca2bc3d7072aac20950"
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
+  - title: "Microsoft's 10 biggest healthcare moves of 2023"
+    excerpt: "Microsoft continues to make strides in the healthcare industry, from partnering with Epic Systems to collaborating with hospitals and health systems."
+    publishedDateTime: 2023-07-07T14:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsofts-10-biggest-healthcare-moves-of-2023.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
-        height: 543
+        height: 600
+        isCached: true
+  - title: "KPMG and Microsoft sign $12B AI deal"
+    excerpt: "KPMG and Microsoft have signed a US$12-billion agreement to develop custom artificial intelligence tools over the next five years."
+    publishedDateTime: 2023-07-11T23:42:00Z
+    webUrl: "https://www.arnnet.com.au/article/707989/kpmg-and-microsoft-sign-12b-ai-deal/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/billthomassatyanadella.jpg"
+        width: 504
+        height: 315
+        isCached: true
+  - title: "Azure: Our AI Platform – Stories – Microsoft"
+    excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
+    publishedDateTime: 2023-07-11T05:18:00Z
+    webUrl: "https://www.inferse.com/605669/azure-our-ai-platform-stories-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 49
+  - title: "ENOC Group to drive business innovation through Microsoft Azure OpenAI Service"
+    excerpt: "This will deliver insights to its businesses that improve the customer experience and unlock the full potential of data-driven decision-making and knowledge discovery"
+    publishedDateTime: 2023-07-11T10:37:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/enoc-group-to-drive-business-innovation-through-microsoft-azure-openai-service-qk2xj1hw"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 45
+  - title: "Microsoft Expands Entra Into Secure Service Edge"
+    excerpt: "Among a handful of product announcements are two new offerings — Entra Internet Access and Entra Private Access — plus Azure AD has been renamed."
+    publishedDateTime: 2023-07-11T18:05:00Z
+    webUrl: "https://www.darkreading.com/dr-tech/microsoft-expands-entra-into-secure-service-edge"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbba5d81bf783b6fc/64acd694a17466820c08d5e6/cloudiam-Phongpat_Srifa-alamy.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory LONDON and REDMOND, Wash. —  — KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
@@ -63,6 +123,6 @@ related:
       domain: microsoft.com
     quality: 22
 
-secured: "LSJ31MOGeLirolRSQaT5V9Py5txeOK0pG5pX/XNsglmitQm+2jToAOMrvP6OYwYwX6k7yD/IZfsGxADJXCEwDA+BSoNdGgO5y17L41FYZh+znFC10u482YxDtwUOSbhxhaAqIP2KiTikEFp80OWEkCV9G+zCO6JKD/UrWt1tLU3Dz+oyO/wZEuIl8UFPgZf6w78+NucZkEL6vUYrI789hrONNpon6KH/Xi8atKLb1mfeixms+5TCxK3CA5oLevgGCFsCU62HgFL0l+wGyGwgxqnGcM+gy0yNS8GYHVy2Ylds4Zit3IhMVuvLmi0MDR76c6g5d70PZKFtln16/zwAMBNRP1BkxiKSVjkR34/O9Dk=;PRNpx7dQTG081Q3WcKJ4xw=="
+secured: "ev7XmTk0T7hXihWfK34G66W0guE37LY9V7yvnrh5O5+M0PId5IrPhiw4g4W1AT685hHQiao1zMJ58opjFo45mPoTVPgFEf008qZJDqyQtWSCqz96lrUqwvZ92fjQAjNP1pmrPUoMBxS29DaPlRDoDe1xCaqPRWr/xp2De+S1x8MzZ9tviW9RME7bJl6nVKABfYWGOtLkF05Nz6iI7KPLl1ExO7fucFSoxVp/rBPTrd2JDy0jnaBc7zWrtN5vXMqfbn/z5Bd1aP6laA03d0fwW1t4BlBwBBdcWIM9RmmxHXQV7OZosh4/Nm4w9QcSadCvUJH5ievY6a16wHWpqtF2qK/0/pY4SROmtCujC+IsQ9AQjDtk2yP24ecnld5+ue2pIX5u25M2BFelo8AR+px+i+7IERELHUZ4Hh7HfAlfEvaDAhd79J5cLLWFx4xzyETKBZzoK2SYPEIfYGZClwggHXsb80+kghjyoa4+7Id+Zkhrrt95gscm3VOR00QLzMl+n+vMtkmCeWKAnXT+eX7WEg==;X2noMNGZ309gRodDHXXcDw=="
 ---
 

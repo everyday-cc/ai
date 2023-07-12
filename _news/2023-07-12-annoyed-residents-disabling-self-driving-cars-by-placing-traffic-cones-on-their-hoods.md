@@ -28,6 +28,15 @@ related:
       name: Automoblog.net
       domain: automoblog.net
     quality: 21
+  - title: "Anti Self-Driving Activists Are Fighting Back After a Car Caused Several Concerning Collisions"
+    excerpt: "Protestors in San Francisco are interfering with autonomous vehicles as they look to reduce the number of cars on the road."
+    publishedDateTime: 2023-07-11T18:53:00Z
+    webUrl: "https://www.thestreet.com/electric-vehicles/anti-self-driving-activists-are-fighting-back-after-a-car-caused-several-concerning-collisions"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 0
 
 secured: "gWDvssWiCmuOqMImFCH5WGUoK9rRmn5clILWw8yaqLcrF8NhpTF0ImUeX3cx0iklq2etKYAQWrSmuuwa4j6GzE7zQleUdLKi46FI+QAWC2lvetv9HJIyj6GDsGQ8j8Q93rEs6GkfVQv2TN2zhFUA/Rcv2sJhrKzRfhqE0S/K6BrPiphgy2RyXf9vy5uoTN54SR3H7s7pO6pi3sRJQwJB/xcDdzj/yGOCnX3ThhnG9wu4jVY//1w/3cZOUv8sWvQjoRo6rxjczKqLSdEoFKRUf3JdccCvDhAV//f5yFWmjJjAJrmr6j2YCuoeEyIatV8NW8C3oHzbZTYjwylnVa7NlHEIFKDXp4oQjiVVEc2/3Er4hHownjYp2wE6bvzVnifJi+55/UOhpqDfSRvQCG/2DPrdxhqY2hL4MXVoBP0NM07bIJrneIcwoS98ctUanrIU1kuKAiK33IIKvSJ7YMmY7aZOmoE+4iB3kgny/BipquTQ6u915h9Pyc2zlCKrLmsM0q9PNKlVN2MJ80+S5Fardw==;o8HC9wfmV2h2ozBLWhdDpA=="
 ---

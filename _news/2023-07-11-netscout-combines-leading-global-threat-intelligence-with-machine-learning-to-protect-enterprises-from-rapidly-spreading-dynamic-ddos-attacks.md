@@ -1,31 +1,23 @@
 ---
 category: news
 title: "NETSCOUT Combines Leading Global Threat Intelligence With Machine Learning to Protect Enterprises From Rapidly Spreading Dynamic DDoS Attacks"
-excerpt: "Adaptive DDoS Protection for AED Defeats Dynamic DDoS Attacks, Securing Enterprises and Reducing Risks and Costly Network Downtime NETSCOUT SYSTEMS, INC. (NASDAQ:NTCT), a leading provider of performance management,"
-publishedDateTime: 2023-07-11T10:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/b33178989/netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/b33178989/netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-"
-ampWebUrl: "https://www.benzinga.com/amp/content/33178989"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33178989"
+excerpt: "According to NETSCOUT's latest DDoS Threat Intelligence Report, there has been a significant increase in a new breed of dynamic DDoS attacks that use multiple vectors and techniques to launch botnet-based,"
+publishedDateTime: 2023-07-11T11:36:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/07/11/9845624.htm"
+webUrl: "https://it.tmcnet.com/news/2023/07/11/9845624.htm"
 type: article
-quality: 24
-heat: 24
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "SmmBEzEMaTPkphjLb5mhr/X4Euux5an9WTHDwl4FJWMoW6cNdNkspB+T6R77/j0IuGcitWT5YtuNew+XZcnO/77d+sei+JV0Xyk8UyOZzWFLnD8hiNGFkaToDE34u61JupDlCbD6MUde587uMa++D8GRYiXfuDSjcPrTes1kFNWsoVgU8DLYwVEVU71ZETkFpX8M3bSHLqXtJ7WV017zscpudXBsT33IQJ8NDUZ0qp0UFgSDPqiDcbDhcjkvD7zo60ZlesdRco2V7Hn33hbZwDI2kvsRrc6GkrYJyYWFV3HKW3esAQPUbPbUN43167W+h/YeB1NaRW03keJB/3np33gDO35h/Eq4mHdElLvZZb0=;YJQTxJAXTEr9VGfj/4TsTA=="
+secured: "uVmNDpAhBIEHtxndt8ZqiavTe6A7sgMGN3WtZ/6GHzgtukg2QjLA/xK+zk0WDpWbXTUTTJXfC49uBufww3vRowcPNdJWWbeRROlSHJ8fxRLlLBBcVlwZAZWffTGTHZqzJcZuRBqMI9puXCyeFH4S8urj5Dd9Rf6WaBWsm54euNZhGZ4nQtBSWYAjsMH3q/pbu7j2vWU71vx2zdqT7YMb9baWVu2vX7cy+2mD0xZLSB0XdmY38WXyIUka4GL5FLnleQNhBcTsApqvzOu3oBUAM8Y7Uy0IcfWUyneE/s6nmOjUixdAUGSghnjd+pf0eMjnM4zHAXcQmWVsMml4OwdtQYsNdsLUGLp7SK6odtymG+E=;J4TVbRav2RnATbJfeZlQgQ=="
 ---
 

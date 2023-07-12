@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The transformational impact of AI"
+    excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
+    publishedDateTime: 2023-07-12T03:26:00Z
+    webUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai"
+    ampWebUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: "https://i.tribune.com.pk/media/images/1083504-TalatMasoodNew-1460481455/1083504-TalatMasoodNew-1460481455.JPG"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Use of AI widened to assess universal credit applications and tackle fraud"
     excerpt: "Department of Work and Pensions has been warned about potential bias in algorithms by auditor general"
     publishedDateTime: 2023-07-11T15:35:00Z
@@ -145,20 +161,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AWS Launches AWS Appfabric Empowering SaaS Applications with Enhanced Productivity and Security"
-    excerpt: "In the future release of AWS AppFabric, users can benefit from additional generative artificial intelligence capabilities powered by Amazon Bedrock. This service makes popular foundational models available and customizable through an API. AWS AppFabric is ..."
-    publishedDateTime: 2023-07-07T09:55:00Z
-    webUrl: "https://www.infoq.com/news/2023/07/aws-appfabric-saas-security/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 44
-    images:
-      - url: "https://res.infoq.com/news/2023/07/aws-appfabric-saas-security/en/headerimage/generatedHeaderImage-1688313683266.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
     excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
     publishedDateTime: 2023-07-10T20:26:00Z

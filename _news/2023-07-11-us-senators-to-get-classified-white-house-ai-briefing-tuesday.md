@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/us/us-senators-get-classified-white-
 webUrl: "https://www.reuters.com/world/us/us-senators-get-classified-white-house-ai-briefing-tuesday-2023-07-10/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "US senators sound slightly overwhelmed at first-ever classified briefing on artificial intelligence"
+    excerpt: "US senators sound slightly overwhelmed at first-ever classified briefing on artificial intelligence - SiliconANGLE"
+    publishedDateTime: 2023-07-12T02:42:00Z
+    webUrl: "https://siliconangle.com/2023/07/11/us-senators-sounded-slightly-overwhelmed-first-ever-classified-briefing-artificial-intelligence/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/louis-velazquez-XWW746i6WoM-unsplash.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "White House, DOD, IC Officials to Brief Senators on Artificial Intelligence"
     excerpt: "Officials from the White House, Intelligence Community and the Department of Defense will hold on Tuesday a classified briefing on artificial intelligence with senators as lawmakers work to advance legislative measures for AI,"
     publishedDateTime: 2023-07-11T09:49:00Z

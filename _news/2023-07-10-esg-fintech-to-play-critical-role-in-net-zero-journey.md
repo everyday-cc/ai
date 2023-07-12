@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "What skills are fintech employers seeking in 2023?"
-    excerpt: "Meanwhile, the WEF’s 2023 report says that for 73% of companies, analytical thinking will become the biggest draw among candidates within the next five years, so if you are looking to future-proof your career, focus energy on developing your analytical thinking."
-    publishedDateTime: 2023-07-07T09:22:00Z
-    webUrl: "https://www.finextra.com/the-long-read/739/what-skills-are-fintech-employers-seeking-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/739.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Investing In Fintech - A Closer Look At The Opportunities"
     excerpt: "The fintech industry has experienced remarkable growth and has become a key player in reshaping the financial landscape. Fintech, short for financia"
     publishedDateTime: 2023-07-11T03:12:00Z

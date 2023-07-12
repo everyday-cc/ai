@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 type: article
 quality: 116
-heat: 336
+heat: 356
 published: true
 
 provider:
@@ -168,6 +168,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ask Not What AI Will Do To Humanity"
+    excerpt: "On one hand, I’m happy to see this topic generating attention. AI is a powerful force seeping its way into every nook and cranny of our lives — as such, it seems prudent that we discuss it. On the other hand, I fear that sensationalist questions such as this will appear fear-based and naïve, dismissing rather than promoting critical dialogue."
+    publishedDateTime: 2023-07-12T00:06:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-07/Moor%20Studio%3AShutterstock_2259493033%20copy.jpg?itok=_T5lxd0M"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "GE Healthcare survey: AI faces skepticism in the medical care business"
     excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the U.S."
     publishedDateTime: 2023-07-09T14:59:00Z
@@ -251,6 +267,20 @@ related:
       - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/11/aurak-july11-main1-750.ashx?h=450&w=750&hash=FB6CDB5C048B02786A0B9B8F36406971"
         width: 750
         height: 450
+        isCached: true
+  - title: "The Military Dangers of AI Are Not Hallucinations"
+    excerpt: "A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and professional"
+    publishedDateTime: 2023-07-12T03:42:00Z
+    webUrl: "https://countercurrents.org/2023/07/the-military-dangers-of-ai-are-not-hallucinations/"
+    type: article
+    provider:
+      name: Countercurrents
+      domain: countercurrents.org
+    quality: 39
+    images:
+      - url: "https://cdn.countercurrents.org/wp-content/uploads/2018/03/drone-2.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "The Impact of AI on the Real Estate Market"
     excerpt: "In their words, “that genie is out the bottle, and the only thing that will determine whether it will be good or ill will be the wishes we make.” But AI does not only serve the good; fraudsters will instruct AI to do their bidding as well,"

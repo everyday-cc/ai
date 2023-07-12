@@ -3,10 +3,10 @@ category: news
 title: "AI Robots At UN Reckon They Could Run The World Better"
 excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
 publishedDateTime: 2023-07-07T17:39:00Z
-originalUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
-webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
-ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9"
+originalUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
+webUrl: "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
+ampWebUrl: "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-4bf5889c"
 type: article
 quality: 74
 heat: 224
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg"
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP9103350529626727026872206727563737693825---1.jpg"
     width: 768
     height: 506
     isCached: true
@@ -231,6 +231,6 @@ related:
         height: 1962
         isCached: true
 
-secured: "Yn3HVcCmtKPMZRjAG7yR/L7mKc0HrjRd/+rZl3wFtrjZJN5uGel8bEIFjTsHA/dV7v1nwv2eB2IJAmJuW1v0g6aXcMKs5oSGJS4aumroqIDdaApyvEsWDC52Bl/Xub+/yE32eBtQOOrWVEDEJt2HlD2PwB9KMB9U91vQEFt9ne1rzjMCuNpfBmMpXMrYoA35ErUFkeEGSjLDwaQDiBQGMX7cOVjxtqBfHECup4pFNlpEHXKb0nuW/UwY6yy3ieHiSG0A6OfeJYX63vWCC1ULmlx3tck8aG2LFMbL/7hB+T6YsKVKL9UG2Aa/N6hbbDtM2g8tpLGS3Xk3uxHPsHHpLR3ZcoMlU9KGDEiLCK02k+4=;/uMn1xlBZTIdbRl7H5sCNA=="
+secured: "A8cg/ultb0udjPE6/4IkE6lZYAeAv76At4s7VwtCZ25G4KZhyHlS0RLHaR4mu2fDPmg5CMnDGIY4LnV1NZx/7ncRH9wN3m1pEH8QkkR5FWfEr2FCvK+7ks8FT1L1VhIN7xPlYMxCvOjzzwc+7ZTRRAKb7zpMFS/fExvR1OZD3/S70NRX2QlvOd/VMEjXD7Fz9IAJuLG6k9BiElTFo9H5NV/Ube35+zIOA316nLEwx1C8HG9DmTjo6HvoZmqto4Ig+CTqjdIoayZczj3wkdAtrU5XjdUjyZlkNmAez5DncC4eCHyLF+35/8ajLF9oR300nQAhQ+g2xckfSZ13C0tPC2e7phQnttoZQG0jiOfyZiE=;5eCOou4eNFY3OE701MWO4g=="
 ---
 

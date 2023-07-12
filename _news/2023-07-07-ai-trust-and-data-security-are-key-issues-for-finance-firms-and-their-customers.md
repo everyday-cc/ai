@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-trust-and-data-security-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers/"
 type: article
 quality: 116
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Benefits Of Customer Experience AI For Financial Institutions"
-    excerpt: "• Empowering Staff With Knowledge Assistance: Gives frontline employees, like call center agents, access to accurate information faster to help them serve their customers more efficiently. These types of solutions are also valuable for training new hires, who often take over six months to ramp up."
-    publishedDateTime: 2023-07-07T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/the-benefits-of-customer-experience-ai-for-financial-institutions/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/07/the-benefits-of-customer-experience-ai-for-financial-institutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/07/the-benefits-of-customer-experience-ai-for-financial-institutions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61e17c192129886e2734b4ed/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "/mV9gpUYKlQzNA8NaO3A9ZluzHuIv0n3CtFCuMdfZoDCMNVqFIRKcBnV7jjY7GKaPxYBrWEZJcyHodfkIcimAuZe3hrQrNiuXVwg5nQ0+N5PldJjFYsEEK0wwbyV/xjlKFYW9R7lVsneHccTHFpHbqlI+5cpTkLrKqZ3os0IPJKdrbQpRZz2EoaQsvBGKp6tb7IsggFZKAx1fmxErs1uvm8jkPRX6d7JMvyfTr0zJGld/APGt+dQmv4VOe0M867j4gGaRGXNBiOz5X/1771N7J9kj/vPEgIJDI+nJ6OH1tJhRSQmeh+cAjHNOTGc3+jJjl5znUTvuIBl4x8XOTVvQ1R3tPcBt0UarDRd9P0Of9FqvNfU3szC4SFdN1HZl7KEPDRGv//EOQkRVLqHYG6Hyn5AXdL4gwSOMYqXCHga0yONtfR1ss903uajiQprB+elrIaYE8zRYIPJaWzotC5ssDZe6i9NVk12FdNerAD3MgD72IIP87leAViGwZLObxtb906rTsqDA6J41rxOxtikrg==;uDLb/wWnrJA5et92G1cv4g=="
 ---

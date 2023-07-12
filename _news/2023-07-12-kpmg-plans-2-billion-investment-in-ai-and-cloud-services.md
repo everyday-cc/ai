@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai
 webUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -28,19 +28,53 @@ images:
     isCached: true
 
 related:
-  - title: "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft"
-    excerpt: "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,"
-    publishedDateTime: 2023-07-12T00:17:00Z
-    webUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/"
+  - title: "Wipro commits $1 billion investment into artificial intelligence (AI)"
+    excerpt: "The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
+    publishedDateTime: 2023-07-12T03:53:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/lite/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 72
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
-        width: 2000
-        height: 1143
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/wipro.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Wipro launches ai360, will invest $1 billion into AI the next three years"
+    excerpt: "IT major Wipro announced the launch of ai360 service and plans to invest $1 billion in artificial intelligence over the next three years. The move follows Tata Consultancy Services' announcement to train 25,"
+    publishedDateTime: 2023-07-12T03:36:00Z
+    webUrl: "https://www.livemint.com/companies/news/wipro-launches-ai360-will-invest-1-billion-into-ai-the-next-three-years-11689132228044.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/wipro-launches-ai360-will-invest-1-billion-into-ai-the-next-three-years/amp-11689132228044.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/wipro-launches-ai360-will-invest-1-billion-into-ai-the-next-three-years/amp-11689132228044.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/12/600x338/WIPRO-RESULTS--0_1689132237831_1689132325762.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Wipro To Invest $1 Billion In Artificial Intelligence"
+    excerpt: "IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years."
+    publishedDateTime: 2023-07-12T03:38:00Z
+    webUrl: "https://www.ndtv.com/business/wipro-to-invest-1-billion-in-artificial-intelligence-4199120"
+    ampWebUrl: "https://www.ndtv.com/business/wipro-to-invest-1-billion-in-artificial-intelligence-4199120/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/wipro-to-invest-1-billion-in-artificial-intelligence-4199120/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 57
+    images:
+      - url: "https://c.ndtvimg.com/2023-02/i7gp8vt8_wipro_640x480_22_February_23.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Sapphire Venture plans to invest over $1 billion in enterprise AI startups"
     excerpt: "Sapphire Venture plans to invest over $1 billion in AI enterprise startups, doubling down on the technology's adoption by companies across the world, its president Jai Das said at the Reuters Momentum conference in Austin on Tuesday."
@@ -56,15 +90,20 @@ related:
         width: 800
         height: 543
         isCached: true
-  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
-    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory LONDON and REDMOND, Wash. —  — KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
-    publishedDateTime: 2023-07-11T22:00:00Z
-    webUrl: "https://news.microsoft.com/2023/07/11/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services/"
+  - title: "Quantexa commits to AI with $155M investment and new agnostic large language model"
+    excerpt: "The seven-year-old company also previewed its generative AI technology, Q Assist, alongside its investment plans. Quantexa started as a provider of artificial intelligence-based fraud detection tools for the financial services industry but has more recently rebranded itself as a “decision intelligence” platform and expanded into industries such as insurance,"
+    publishedDateTime: 2023-07-09T23:13:00Z
+    webUrl: "https://siliconangle.com/2023/07/09/quantexa-commits-ai-155m-investment-new-agnostic-large-language-model/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 22
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/quantexa.png"
+        width: 1111
+        height: 481
+        isCached: true
 
 secured: "esW9R2xYULtbEGVTetJqdDOKU8iLsAKFh8T26wLoQCkpwZ+qWGZQrHj8pUAgUv4pEFtGyuREAxk47vhbAXrOMwXpRE7vsruvfZO+aiJvfQxHm7fqY8BIbRuP4SFvlE4lorFLYHnr+2IxK9KPlrOah3QYrf+1JAE0S+wFRJEnVGDRlw0nkFblZQdzYrlayw1WLvQ3bJ+wWdj+Bw3jUDpKJhXvggxvr3mGjpTsZAw3PKZNLyN4Cl5+tIaYJ19bL6MdX4uxJxOgTaoGWOeoTd7R4AXjDkBB53KtXxiRudSEHJGdNtulH8D/PHe8uw5N+ZaRtn8OmNX0BDpxXfFljVBfVcj8X9d2CcXHOjSmkcJOcRXWIqiHlt8rF2WzuV8xFClHNpmSRmzdgGbg+PFA4s+d2jvIVuGvd+B2Q5+BMbkjThxu5VanEz5MmBxCs+ZkZ8FHBdNF/JMsVcmTK1bmktVqjXKCgyDDINkgUiM5ZHkkfCkNDKhmBo7TRxzbMkeEfGFspOppmA4lokEwe2COZUyrpg==;nbNZJ2ER3We8paq0C+m5gw=="
 ---
