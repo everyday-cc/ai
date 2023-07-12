@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-12-teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure-enabling-aiml-at-scale-throughout-the-enterprise.md",
+      "title": "Teradata collaborates with Microsoft to offer VantageCloud Lake on Azure, enabling AI/ML at scale throughout the enterprise",
+      "excerpt": "Teradata today announced it will offer Teradata VantageCloud Lake on Microsoft Azure, opening up new markets, new capabilities, and new use cases. This makes Teradata’s modern cloud-native architecture,",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html",
+      "originalUrl": "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/807db5df83a89e9f00c08712cfe52eb9_M.jpg",
+          "width": 375,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-a-large-dataset-to-train-machine-learning-models-for-aerial-vehicle-design.md",
       "title": "A large dataset to train machine learning models for aerial vehicle design",
       "excerpt": "Designing reliable aircraft can be both challenging and time-consuming, as it often entails several steps and analyses. Deep learning models could potentially help to speed up aircraft design and deployment,",
@@ -1309,49 +1353,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-artificial-intelligence-and-machine-learning-in-customer-engagement.md",
-      "title": "Artificial Intelligence and Machine Learning in Customer Engagement",
-      "excerpt": "In the modern era, the utilization of Artificial Intelligence (AI) and Machine Learning (ML) has emerged as a crucial factor in contributing to the success of large-scale businesses. This article explores the manifold ways in which AI can revolutionize customer engagement strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
-      "originalUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2023-06/7a52b31b-6709-4222-8927-f882066c9a61/Untitled_design___2023_06_25T090341_879.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
-      "publishedDateTime": "2023-06-24T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

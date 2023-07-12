@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-in
 webUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-insights-freshworks-leverages-generative-ai-to-transform-customer-experiences/"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Discord bans AI-generated child sex abuse material and teen dating on platform"
-    excerpt: "SAN FRANCISCO — Discord's head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform."
-    publishedDateTime: 2023-07-11T22:32:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/discord-bans-teen-dating-servers-child-ai-sexualization-rcna93690"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna93690"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna93690"
+  - title: "Study provides unprecedented insights into the complexity of large-scale neural networks"
+    excerpt: "That experiences leave their trace in the connectivity of the brain has been known for a while, but a pioneering study by researchers at the German Center for Neurodegenerative Diseases (DZNE) and TUD Dresden University of Technology now shows how massive these effects really are."
+    publishedDateTime: 2023-07-11T17:13:00Z
+    webUrl: "https://www.news-medical.net/news/20230711/Study-provides-unprecedented-insights-into-the-complexity-of-large-scale-neural-networks.aspx"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 83
+      name: News Medical
+      domain: news-medical.net
+    quality: 30
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230711-discord-se-526p-8ebf2c.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "i3SwEtAB+9jkPi4jK1khChOmlt//qJ7MbUf5yZ3K3otOsDAHPM++etqbd8cqMd3OZbiv52tCpQZMuOAvC4lbPnczG2rmkHg9RyS95iIMtEA5gd+FZgJfgtneHADyS9OEb4vTmnrcoCI4TrgKoJW+O2ef3TQmJH6WdbMYdeO7eb1FYcGO1qu6PYMvZP6SdZzlmcT2o3FZ+wUNV3uY4RUMOjtCgWb5N7d7WgJG+B25fSV2TvYAAkRUNkNzRuOK8iZZQ4AfGweR5bAmg8pWoBn+Dy9e9LKTxEzONgObI7OG+W1w7PE2OzkxeFPaHkQlvREyvRp7RjfaaK0K5xoYOHIKSu17ESnJ94xgZHKU+CBt79k=;sVilkPkAW2U93OVvbWKaSQ=="

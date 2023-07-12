@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2013-06/chess1.jpg"

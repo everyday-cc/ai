@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/teradata-collaborates-with-m
 webUrl: "https://www.datanami.com/this-just-in/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure/"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 300
     height: 228
     isCached: true
+
+related:
+  - title: "Teradata collaborates with Microsoft to offer VantageCloud Lake on Azure, enabling AI/ML at scale throughout the enterprise"
+    excerpt: "Teradata today announced it will offer Teradata VantageCloud Lake on Microsoft Azure, opening up new markets, new capabilities, and new use cases. This makes Teradata’s modern cloud-native architecture,"
+    publishedDateTime: 2023-07-11T23:40:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 60
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/807db5df83a89e9f00c08712cfe52eb9_M.jpg"
+        width: 375
+        height: 281
+        isCached: true
 
 secured: "eApCZZHgkzLy5g314H6feobswDXfWb19YUtSPj4A8cGov9thKP6WsgJ1F66XMDUyghPTjTn8tlvIGG0IQ1Nd19uVZK7uM191hcXfgeAe1Fk8ZnXZDejUGAIE6KIU98jMdECl7O5D+zeS7io9siQSdIMfBiU7X17zvvtPr/yTpr3XzGxiV5X+1DcmnhysNudOLsL4oetoSclwpR9hrVNfz0HS9+hLsmCr3BAROdrDREX2aOeLr6iXByewR5oOOSASj1AihUKlQBwVy5/D8+NbSRbgsuAoAar6g2nxcjM3xAW7zDAMiZJPLGNaGVbWkcKUK06ACJeb2JVquEsaovGM8Kvd8HXwLSscCex/lzzzOKg8sZJShaziBoHoVXKfYzoZ4V+Zvk9jP9Ov39PnA9D5nJv7a9MvlvuQqMSWqxBTqRvLdokpmFg2I2geEeLIkj7gLizSCld6E5qswqSJBh/8Mu77tzdFwZlGvcC/u12ViM85NHxWOSg1XpsNCIL/iaxExmjY8H80bKPYiJmnQUy4Dw==;1qsi2a+rPnfQxepJwlcdmg=="
 ---

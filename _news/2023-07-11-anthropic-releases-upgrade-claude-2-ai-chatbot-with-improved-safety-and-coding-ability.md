@@ -56,6 +56,20 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 41
+  - title: "Google-backed Anthropic startup upgrades its Claude AI"
+    excerpt: "Anthropic, an artificial intelligence startup backed by Google, has widened consumer access to its chat program Claude and upgraded underlying technology that the company says makes \"Claude 2\" better at tasks such computer coding and arithmetic."
+    publishedDateTime: 2023-07-12T00:04:00Z
+    webUrl: "https://www.itnews.com.au/news/google-backed-anthropic-startup-upgrades-its-claude-ai-597867"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/documents_case_load.jpg"
+        width: 1254
+        height: 836
+        isCached: true
   - title: "Antrophic Announces Second Generation AI Chatbot: Claude 2"
     excerpt: "Over the past two months, leading companies have rigorously tested Antrophic's AI models, creating a waitlist of over 350,000 people wanting access to Claude's API."
     publishedDateTime: 2023-07-11T17:11:00Z

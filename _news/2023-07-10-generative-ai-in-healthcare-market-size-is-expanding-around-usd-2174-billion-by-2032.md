@@ -206,6 +206,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "The 3 Hottest Areas for Healthcare Generative AI"
+    excerpt: "There are three key areas of the healthcare sector where generative AI is booming the most — in terms of both venture capital funding and the development of innovative technology — according to Anjalika Komatireddy,"
+    publishedDateTime: 2023-07-11T23:53:00Z
+    webUrl: "https://medcitynews.com/2023/07/generative-ai-healthcare-llm-pharmaceutical-chatbot/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2023/03/GettyImages-1465456623.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "The best AI art generators in July 2023"
     excerpt: "How do the best AI art generators work? AI art generators work by employing learned data. Developers of the models feed countless images into them, with which the artificial intel"
     publishedDateTime: 2023-07-10T16:00:00Z

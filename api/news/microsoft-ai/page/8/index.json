@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-27-microsoft-365-apps-and-services-switching-to-cloudmicrosoft-domain-name.md",
+      "title": "Microsoft 365 Apps and Services Switching to 'Cloud.Microsoft' Domain Name",
+      "excerpt": "Microsoft on Wednesday announced that user-facing Microsoft 365 apps and services are getting consolidated into a new domain-name pattern, namely \"cloud.microsoft.\" Users and organizations will ...",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2023/04/26/microsoft-365-apps-and-services-switching-to-cloud.microsoft-domain-name.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2023/04/26/microsoft-365-apps-and-services-switching-to-cloud.microsoft-domain-name.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0814red_RedReportChgORdie.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-the-power-of-infrastructure-purpose-built-for-ai.md",
       "title": "The power of infrastructure purpose-built for AI",
       "excerpt": "Advances in powerful computing and the cloud are at the heart of the AI revolution. With faster, more efficient processing of vast amounts of data, companies can break through the",
@@ -1383,49 +1426,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined.md",
-      "title": "Opioid Prescriptions' Relationship to Cognitive Function in Later Life Examined",
-      "excerpt": "According to a study, prescription opioid use could have a negative effect on cognitive function in older adults.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372292/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292-640x360.jpg?cb=20230419",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

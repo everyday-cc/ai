@@ -220,6 +220,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "The 3 Hottest Areas for Healthcare Generative AI"
+    excerpt: "There are three key areas of the healthcare sector where generative AI is booming the most — in terms of both venture capital funding and the development of innovative technology — according to Anjalika Komatireddy,"
+    publishedDateTime: 2023-07-11T23:53:00Z
+    webUrl: "https://medcitynews.com/2023/07/generative-ai-healthcare-llm-pharmaceutical-chatbot/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2023/03/GettyImages-1465456623.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Opportunities of Artificial Intelligence field rich"
     excerpt: "World Economic Forum has projected that AI will create 97 million new jobs by 2025. Club that with the fact that ChatGPT, which feeds on AI, got 173 million users in just six months after launching, and we get a picture of how all-pervasive AI is going to get."
     publishedDateTime: 2023-07-11T06:26:00Z

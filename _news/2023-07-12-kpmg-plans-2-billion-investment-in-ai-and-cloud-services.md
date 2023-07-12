@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai
 webUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft"
+    excerpt: "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,"
+    publishedDateTime: 2023-07-12T00:17:00Z
+    webUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
+        width: 2000
+        height: 1143
+        isCached: true
   - title: "Sapphire Venture plans to invest over $1 billion in enterprise AI startups"
     excerpt: "Sapphire Venture plans to invest over $1 billion in AI enterprise startups, doubling down on the technology's adoption by companies across the world, its president Jai Das said at the Reuters Momentum conference in Austin on Tuesday."
     publishedDateTime: 2023-07-11T17:15:00Z
@@ -52,6 +66,6 @@ related:
       domain: microsoft.com
     quality: 22
 
-secured: "S7P+xJCtjQukIZf/Y3QEy13PHcz4reLJZCkcoi8XPoPLsNealeqGE2xnzt/cfrjPYzf5/HOr/vhCWBHyIXgAEqNg0BPJFypa3na2dfdL6jyn0+W69LCv8i09FhFWz4pzy6sfhgAeSIkdxK3egaYFq+G4RYL8vSPEgNrXoIYNyBnY0vuJfhDlIyOlSElBJtz+1kMTQRxjdW7MKM6QeMzZGZ4NjkxNFMd99gtMzjeDPeFN1DCq6G0rAWpAeX+lJ2U8pNZ+dR6wCI/aX/fYrv/5fQeAZ9ztQUmLd/htWwUhoESuC0Kjc0x9aZNNzUeY9kX3Cj/ivB73Vp7otWcLYT/08pBH7ESMuNEBBxE5xhmr+u0=;778kZgkq34A/sZUnCUxsHQ=="
+secured: "esW9R2xYULtbEGVTetJqdDOKU8iLsAKFh8T26wLoQCkpwZ+qWGZQrHj8pUAgUv4pEFtGyuREAxk47vhbAXrOMwXpRE7vsruvfZO+aiJvfQxHm7fqY8BIbRuP4SFvlE4lorFLYHnr+2IxK9KPlrOah3QYrf+1JAE0S+wFRJEnVGDRlw0nkFblZQdzYrlayw1WLvQ3bJ+wWdj+Bw3jUDpKJhXvggxvr3mGjpTsZAw3PKZNLyN4Cl5+tIaYJ19bL6MdX4uxJxOgTaoGWOeoTd7R4AXjDkBB53KtXxiRudSEHJGdNtulH8D/PHe8uw5N+ZaRtn8OmNX0BDpxXfFljVBfVcj8X9d2CcXHOjSmkcJOcRXWIqiHlt8rF2WzuV8xFClHNpmSRmzdgGbg+PFA4s+d2jvIVuGvd+B2Q5+BMbkjThxu5VanEz5MmBxCs+ZkZ8FHBdNF/JMsVcmTK1bmktVqjXKCgyDDINkgUiM5ZHkkfCkNDKhmBo7TRxzbMkeEfGFspOppmA4lokEwe2COZUyrpg==;nbNZJ2ER3We8paq0C+m5gw=="
 ---
 

@@ -2,6 +2,91 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-06-22-startup-stability-debuts-a-new-ai-model-for-stable-diffusion.md",
+      "title": "Startup Stability Debuts a New AI Model For Stable Diffusion",
+      "excerpt": "Artificial intelligence startup Stability AI is releasing a new model for generating images that its says can produce pictures that look more photorealistic than past efforts. In a blog post Thursday, Stability AI, which popularized the Stable Diffusion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxaW0mPkrGM/v0/1200x604.png",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-crew-trapped-on-missing-titanic-sub-believed-to-have-run-out-of-oxygen.md",
+      "title": "Crew trapped on missing Titanic sub believed to have run out of oxygen",
+      "excerpt": "It is believed that the crew has now run out of oxygen onboard the Titan (Picture: PA) The crew on board the Titan submersible trapped thousands of feet below the sea are now believed to have run ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/06/22/titan-sub-crew-onboard-sub-are-thought-to-have-run-out-of-oxygen-18995991/",
+      "originalUrl": "https://metro.co.uk/2023/06/22/titan-sub-crew-onboard-sub-are-thought-to-have-run-out-of-oxygen-18995991/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit.md",
       "title": "Opaque Systems unveils confidential AI and analytics tools ahead of Confidential Computing Summit",
       "excerpt": "They comprise a privacy-preserving generative AI optimized for Microsoft Azure’s Confidential Computing Cloud, and a zero-trust analytics platform: Data Clean Room (DCR). According to the company, its generative AI harnesses multiple layers of protection ...",
@@ -1106,99 +1191,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-bidens-ai-summit-was-a-hit-because-of-facts-not-fear.md",
-      "title": "Biden's AI summit was a hit because of facts — not fear",
-      "excerpt": "The president's meeting with artificial intelligence experts and activists was a breath of fresh air compared to AI conversations you've likely heard elsewhere.",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/bidens-artificial-intelligence-meeting-rcna90462",
-      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/bidens-artificial-intelligence-meeting-rcna90462",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230621-biden-ai-san-francisco-mn-1600-a2d6a1.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462",
-      "publishedDateTime": "2023-06-21T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study.md",
-      "title": "Financial and legal professionals see the value in generative AI, according to a study",
-      "excerpt": "More than 75% of lawyers and accountants believe AI tools can enhance their work. Here's the rest of the breakdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/",
-      "originalUrl": "https://www.zdnet.com/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f13f127c68756fdb79c14b38a2aef2c9b63301f9/2023/06/21/c28fa5e2-7747-41ae-a3ba-5cb61c67446d/gettyimages-1434610269.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/",
-      "publishedDateTime": "2023-06-21T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

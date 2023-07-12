@@ -7,7 +7,7 @@ originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=63293.php"
 webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63293.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "This AI system only needs a small amount of data to predict molecular properties"
-    excerpt: "Discovering new materials and drugs typically involves a manual, trial-and-error process that can take decades and cost millions of dollars. To streamline this process, scientists often use machine learning to predict molecular properties and narrow down the molecules they need to synthesize and test in the lab."
-    publishedDateTime: 2023-07-07T07:46:00Z
-    webUrl: "https://phys.org/news/2023-07-ai-small-amount-molecular-properties.html"
-    ampWebUrl: "https://phys.org/news/2023-07-ai-small-amount-molecular-properties.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-ai-small-amount-molecular-properties.amp"
+  - title: "Artificial Intelligence Poses Threat to Patient Privacy"
+    excerpt: "One concern is that AI could make it possible to re-identify patients from anonymized data. Credit: Shutterstock"
+    publishedDateTime: 2023-07-07T15:14:00Z
+    webUrl: "https://www.rheumatologyadvisor.com/home/topics/practice-management/artificial-intelligence-poses-threat-to-patient-privacy-3/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/learning-the-language.jpg"
-        width: 900
-        height: 600
-        isCached: true
+      name: rheumatologyadvisor
+      domain: rheumatologyadvisor.com
+    quality: 19
 
 secured: "uxU0pGjAX1wN1v+HHBpS5Xvxr1wk+gSfhM26f52H4gMs+b4skdCVe/QobngyIFOs7VJ2AmYZHkJYHSX8+wuIXA8quQeRAt+dU5J5+vP0tIWTl8CCRvsegT0uEGAceu0tr/GwavXgALuY3l7D41acNF2OLoZZP/dj4tvaQRSvRAPzhjvoRB/+9+OK/E3BDtrzdzQllHtsAnsxLpHJzRMxVcpzAiuMpudeDiJ//Z/MaYHjKkiu++NqEabdodHTxKglMFD7Jp3WwUPiRw5/ht6U9TAGsrK5c6YYwF7E7L022erWZfNyrmI3kL0qFVNRV764JstqX7+S7S/cCEIJQ9Dn6vtzP5BxSVqViKoM6W8d/Ao=;5WsxyxvkOTmcPt2cH85ymA=="
 ---

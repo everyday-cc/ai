@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna93690"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna93690"
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -26,21 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Automation, Efficiency, Insights: Freshworks Leverages Generative AI to Transform Customer Experiences"
-    excerpt: "There’s a revolution happening in the customer service industry and generative AI is at the heart of this transformation. Luckily for support agents around the world, Freshworks has been leading by testing and integrating AI into its products for the last five years."
-    publishedDateTime: 2023-07-11T20:35:00Z
-    webUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-insights-freshworks-leverages-generative-ai-to-transform-customer-experiences/"
+  - title: "Discord bans AI-generated child sex abuse material and teen dating"
+    excerpt: "SAN FRANCISCO — Discord’s head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform."
+    publishedDateTime: 2023-07-11T19:55:00Z
+    webUrl: "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/two_women_coding-1024x683-1.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://image.cnbcfm.com/api/v1/image/107269952-16891123952021-03-31t175917z_1515270024_rc2hmm9fq8tq_rtrmadp_0_discord-audio.jpeg?v=1689112496"
+        width: 3500
+        height: 2233
+        isCached: true
+  - title: "M&E Faces up to the Promise and Challenges of Generative AI"
+    excerpt: "It is, of course, something that has been around since the 1950s but since the end of last year, coverage has ranged from the serious to hysterical, particularly over its latest manifestation, generative AI (Gen AI)."
+    publishedDateTime: 2023-07-10T15:33:00Z
+    webUrl: "https://www.tvtechnology.com/news/mande-faces-up-to-the-promise-and-challenges-of-generative-ai"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 43
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/EMJcPYKmycaMXxGydkuN2K-1200-80.jpg"
+        width: 1200
+        height: 934
         isCached: true
 
-secured: "elcVfoN0PX5Xv0pe4dpq1tSQY1P3oQppOpIgNqDq+zXHi1heWEgUFEvxAOOAmL8VKHI3R2WxhxOkIePNVZJCaELeY9B5rceo0jZnd+2FbcesxFc8hQtrsPvvAhmMr+3+Y6m2N3+eqruwY9hr1pOAisBAZovrVuKTjOWaaGDI0P5DEMjflM13hQlj3lBoAUF5ZHAF07iI8YIXZMK2mIzIZAmqraMHgYPo1k1AIc8xFDXlZxW8qpZC/8yb2WkquKjrdrevI3cQ4C36SddTg15ikqSUWJvPPbTJnNEbrx51ZPc1yj98t7dywiX3SjmcLjmRewjHTjc+D1LgFkAvyg5vsvnFd3EOSY8tnEhedE67y/0=;IyOLutPa1KOn+9VB0T8r3w=="
+secured: "ZxUGoYwBOy15mPIOdzzTZRPth6szZttC2mUvb05tRXDPzjLxWzg1ipWA5VPh2qeoRGFXvx+VTngUYhXsy+z7EyreXchWxNA5SbdEwV1ZCnmzVsjfeDOpWSWy7e/CpaygGexgflKDFFgOMk5KPyZAss+qmVevBCymkjx71pdXMd38JeBEQSsOZ6kbtfqdr+8uyjAvLrkOR4nIXokBLr7xmHojvFwpC84tMyCwUfKX+6lPOrO2DEFMETmgXhra9Yp+dhqbYdCPO4EWZUG4f7f7Gmcn5HqffIRdkeEV0s1J57d/hkl6JKVw13efQ5Iba8zflAiMbMJqk7jgK2XLL6zFNZg5Ay0D4MSJ9cVW0tAvTwtAMhGsNWamQhOxZKMQHZXOwsqRJugIK4nHEshjwg9risS+gqgjBWCNIqPjdgk7Szwi7vWW2H6QlN0DaofcflroG0Bmh+kH6qpfdK+MtyUVqzC1RWQa8zS0NLzz1gjFnDpQXY1OhmOuyv8tdC+HwrGXMBKbZr376HXz8JbC6Z7jnA==;aoWWz8WGNKCLX8QEerAaLA=="
 ---
 

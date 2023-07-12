@@ -72,15 +72,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 29
-  - title: "DigitalOcean buys AI startup Paperspace for $111 million"
-    excerpt: "DigitalOcean is acquiring cloud infrastructure player Paperspace for $111 million (102 million euros). With this, DigitalOcean aims to provide its public"
-    publishedDateTime: 2023-07-07T08:24:00Z
-    webUrl: "https://www.techzine.eu/news/devops/108665/digitalocean-buys-ai-startup-paperspace-for-111-million/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 17
 
 secured: "QB/qtqecJYUrVNsL3I/vRgEbybzSGmDwE+N7JpMnfTNupZmJUlphSEL1Bh/FVp22jOB+i8srhoqUUNsDfIkEsJqSXcVhU8GVjlCjbbkxoZaH1eS3J0BBAFUOvvQQ2r7CT4k+ucmkv0aVAhy+Qky0P5PZXXRadzFw4m2Gn5d0VwJPMvh8QZUDZhqfh5sCvSW2oJ8y4oPxvuuVPnVfraL6DRSqdyqUqZvKzMUgvzqlgRrbiorsbmdpyJsdCYUQTpz+zJHZdMNv28Ax3kSmoEHzjJXBEa7M0rZOrvo5eR/pd/VCVPJJU1H+s6dD1u1kNiHQRRcgc6H6F8oPc2lh2MyEo5xA3oQ77xySOKCcDPE0pwF3lD44g5jUGNpbq0WajmfEj3GvCyhl+YfSMFSAsiyCyVHQSu8qBFIC6Kzlg7f3ZAdvCcechEjvC+dmj1eSFoRZb7vERiPlZxTWSCQvrBfGbqROnvcyKRcxWx4Ubl8rynzvYJlZ7TITGb8Oy2XnIVfQzvKpAA1p91Ogm+tBwHQZqw==;U+YCYGzZCPOgRxAlbByBfQ=="
 ---

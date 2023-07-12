@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-09-robots-vows-not-to-erase-human-role-at-ai-forum.md",
+      "title": "Robots vows not to erase human role at AI Forum",
+      "excerpt": "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/node/1525829",
+      "originalUrl": "https://www.albawaba.com/node/1525829",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/node/1525829",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829",
+      "publishedDateTime": "2023-07-09T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-09-ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover.md",
       "title": "AI anxiety: The top 20 professions bracing for the robot takeover",
       "excerpt": "A recent study has revealed the professions most concerned about being replaced by artificial intelligence (AI). The study, 'AI Anxiety: The Top 20 Professions Bracing for the Robot Takeover',",
@@ -430,6 +473,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-08-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
+      "title": "Odd News Roundup: AI robots could play future role as companions in care homes",
+      "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2515634-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2515634-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_06_2023_15_04_38_5263051.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2515634-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2515634-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes?amp",
+      "publishedDateTime": "2023-07-07T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-language-translation-nlp-spain.md",
       "title": "Language translation NLP - Spain",
       "excerpt": "Value in the Language translation NLP market is projected to reach US$80.08m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.70%, resulting in a market volume of US ...",
@@ -584,7 +670,7 @@
       "originalUrl": "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -878,7 +964,7 @@
       "originalUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1106,102 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers.md",
-      "title": "AI, trust, and data security are key issues for finance firms and their customers",
-      "excerpt": "Financial services customers are switching providers for a better digital experience. In the past year alone, 25% of customers switched banks. Here's why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers/",
-      "originalUrl": "https://www.zdnet.com/article/ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/14614b36017b30cb496b233eb87c87f2060412a9/2023/07/06/e2fbda31-37bc-4c7f-8943-8b107068f25c/gettyimages-1333980443.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers/",
-      "publishedDateTime": "2023-07-07T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-chinese-firms-advance-in-ai-chips-amid-possible-looming-us-restrictions.md",
-      "title": "Chinese firms advance in AI chips amid possible looming US restrictions",
-      "excerpt": "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity and large language models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globaltimes.cn/page/202307/1293938.shtml",
-      "originalUrl": "https://www.globaltimes.cn/page/202307/1293938.shtml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-07-06/cec72acb-baa5-4f80-b201-354117b3562b_s.jpeg",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-12-discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating-on-platform.md",
-      "title": "Discord bans AI-generated child sex abuse material and teen dating on platform",
-      "excerpt": "SAN FRANCISCO — Discord's head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform.",
+      "path": "_news/2023-07-12-collective-raises-50m-funding-to-launch-ai-powered-finance-platform-for-freelancers.md",
+      "title": "Collective raises $50M funding to launch AI-powered finance platform for freelancers",
+      "excerpt": "By deploying AI technology across its financial operations, Collective aims to expedite its growth and onboard businesses on its waitlist.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/discord-bans-teen-dating-servers-child-ai-sexualization-rcna93690",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/discord-bans-teen-dating-servers-child-ai-sexualization-rcna93690",
+      "webUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
+      "originalUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230711-discord-se-526p-8ebf2c.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/C-Suite.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna93690",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna93690",
-      "publishedDateTime": "2023-07-11T15:32:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T18:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure-enabling-aiml-at-scale-throughout-the-enterprise.md",
+      "title": "Teradata collaborates with Microsoft to offer VantageCloud Lake on Azure, enabling AI/ML at scale throughout the enterprise",
+      "excerpt": "Teradata today announced it will offer Teradata VantageCloud Lake on Microsoft Azure, opening up new markets, new capabilities, and new use cases. This makes Teradata’s modern cloud-native architecture,",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html",
+      "originalUrl": "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/807db5df83a89e9f00c08712cfe52eb9_M.jpg",
+          "width": 375,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +92,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -146,6 +200,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-12-discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.md",
+      "title": "Discord bans AI-generated child sex abuse material and teen dating",
+      "excerpt": "SAN FRANCISCO — Discord’s head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107269952-16891123952021-03-31t175917z_1515270024_rc2hmm9fq8tq_rtrmadp_0_discord-audio.jpeg?v=1689112496",
+          "width": 3500,
+          "height": 2233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "publishedDateTime": "2023-07-11T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-kpmg-plans-2-billion-investment-in-ai-and-cloud-services.md",
       "title": "KPMG Plans $2 Billion Investment in AI and Cloud Services",
       "excerpt": "An expanded partnership with Microsoft is expected to bring in $12 billion in revenue for KPMG over five years, the Big Four accounting firm said.",
@@ -154,7 +259,7 @@
       "originalUrl": "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -653,7 +758,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 326,
+      "heat": 336,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -697,7 +802,7 @@
       "originalUrl": "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-that-produces-longer-safer-responses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1091,109 +1196,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-air-force-showcases-how-artificial-intelligence-will-help-military-dominate-airspace.md",
-      "title": "Air Force showcases how artificial intelligence will help military dominate airspace",
-      "excerpt": "The Air Force Research Laboratory shed new light on its Autonomous Aircraft Experimentation initiative, where experts are training artificial intelligence to aid pilots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/air-force-showcases-how-artificial-intelligence-help-military-dominate-airspace",
-      "originalUrl": "https://www.foxnews.com/tech/air-force-showcases-how-artificial-intelligence-help-military-dominate-airspace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/917f8523-e4c6-4959-a0f8-98fd13384363/60976040-76b5-4dea-8597-c044381c2af3/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/air-force-showcases-how-artificial-intelligence-help-military-dominate-airspace.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/air-force-showcases-how-artificial-intelligence-help-military-dominate-airspace.amp",
-      "publishedDateTime": "2023-07-10T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-supercharging-insurance-through-ai.md",
-      "title": "Supercharging Insurance through AI",
-      "excerpt": "AI automates tedious tasks leaving individuals to focus on honing their skills and creativity, thereby generating greater value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/",
-      "originalUrl": "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac6add5b0e8626ccedfb03/0x0.jpg?format=jpg&crop=4555,2562,x275,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/amp/",
-      "publishedDateTime": "2023-07-10T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

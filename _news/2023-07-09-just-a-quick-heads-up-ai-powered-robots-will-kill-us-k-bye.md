@@ -3,16 +3,16 @@ category: news
 title: "Just a quick heads up: AI-powered robots will kill us. K, bye."
 excerpt: "Don't worry too much about climate change. Hordes of artificially intelligent robots will probably kill us first. (Sad trombone.)"
 publishedDateTime: 2023-07-09T09:08:00Z
-originalUrl: "https://www.usatoday.com/story/opinion/columnist/2023/07/09/robot-human-ai-press-conference-warning-future/70392987007/"
-webUrl: "https://www.usatoday.com/story/opinion/columnist/2023/07/09/robot-human-ai-press-conference-warning-future/70392987007/"
+originalUrl: "https://www.freep.com/story/opinion/columnist/2023/07/09/robot-human-ai-press-conference-warning-future/70392987007/"
+webUrl: "https://www.freep.com/story/opinion/columnist/2023/07/09/robot-human-ai-press-conference-warning-future/70392987007/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - AI in Robotics
@@ -40,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "YloNIXUlaZmJoUJo/t1oKgpIWg8PtmRzVhSY+BLSDAoZb7A2SWb3JHFGTleuqfttZT6BGqn8GxfR07yeI4+5l/t5P+Wfg8aLczz38i/hT9jnTMBE9f4G1uHFU9lr2eU+8awgDSu/K7yxjb2XwofODhNh/1YkOGNaHfGztMk4VZSThdajxSTRCG6BnZiP0fO+DNA0zMKo8QiQI6m+aroMTt2rZZL8DyDPfE4WYPJUbl5wDh9e01puKzBpCD+DZZI5duc7Hx1V6DVF2hZk5SzE7B2NxqvtwbELCae6ficdtKQUjjcqoPkpDqnTzS8mNiaZlqoA1o07YYYitpwI4hpI4musaLqLVYOH2LEwRVmsQ7ABOLHbX5uKQSzhh81BXuQr/oy70AUIEDqP7OrobZBP8M+sj5G96/YRm13PgwmcK2FpvC4wjpvmVO1OORXNBg/x1trBF597HtCyFJUqEzOWMYq1bqWlt9OQffdbKIpCMsnxMAuR9OdMAx463LQDsOHyMY858zJfGrvgfKNv2ajvHg==;8zDMweDNQ+tiNhfL7qGOAQ=="
+secured: "56jn+c77mjIasm6q0b3zPvTM/1IoirbBlRQD6xBTXYyJkhhdJmkx2Up7zF/0RJhnz/STWbBDHM7iAYJskLibTGOxlx7hhbTJ3ohMLYvC8F148ZkG1NheO69WycLy15ibIZ76o4ke7e1zZVfS64sNcPfsdLfGLMo39Bs3/zhBPqVK52L/cEfx/TVDD+/Hwbh186QYlEAiQuCA4ZmEgQvzYkgUvXzklNSOheCCs3HjHDdyXp80dkWyXqW65Ji+A8br8x7JwlSXjyUolKxuHo6KDwt8ksMYW91y6z2DEm7MgHbAz5tbuPoEW97KOrsXE3OSJqElH6iw0o0BKFhoymz48pxHPr6BfVe+D9f9xZC8zLs=;K+HGHTG9qitOK6Uzo6CsIw=="
 ---
 

@@ -28,11 +28,11 @@ related:
   - title: "Just a quick heads up: AI-powered robots will kill us. K, bye."
     excerpt: "Don't worry too much about climate change. Hordes of artificially intelligent robots will probably kill us first. (Sad trombone.)"
     publishedDateTime: 2023-07-09T09:08:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/columnist/2023/07/09/robot-human-ai-press-conference-warning-future/70392987007/"
+    webUrl: "https://www.freep.com/story/opinion/columnist/2023/07/09/robot-human-ai-press-conference-warning-future/70392987007/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 54
     images:
       - url: "https://www.gannett-cdn.com/presto/2023/06/01/USAT/7ac9e05c-e1c6-4421-9501-7b9b4590ca4b-presto_VPC_ROBOT_WARNS_OF_AI_FUTURE.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"

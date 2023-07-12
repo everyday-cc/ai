@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft"
+    excerpt: "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,"
+    publishedDateTime: 2023-07-12T00:17:00Z
+    webUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
+        width: 2000
+        height: 1143
+        isCached: true
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory LONDON and REDMOND, Wash. —  — KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
     publishedDateTime: 2023-07-11T22:00:00Z

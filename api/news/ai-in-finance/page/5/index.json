@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-21-automated-machine-learning-automl-market-research-2023-2030.md",
+      "title": "Automated Machine Learning (AutoML) Market Research, 2023-2030",
+      "excerpt": "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-2023-2030-2023-04-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-2023-2030-2023-04-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031.md",
       "title": "Artificial Intelligence (AI) in Fintech Market Overview and Scope By 2031",
       "excerpt": "New Report (2023-2031) of 75 Pages: Global Artificial Intelligence (AI) in Fintech Market Status and Prospect A summary",
@@ -1180,40 +1233,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech.md",
-      "title": "AcuFi and its Founder, Nick Kohlschreiber, Stress the Importance and Usefulness of AI For FinTech",
-      "excerpt": "For the fintech sector, AcuFi experts agree that concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58723075-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58723075-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,112 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-06-25-everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask.md",
+      "title": "Everything you need to know about AI but were too afraid to ask",
+      "excerpt": "In the public consciousness, “artificial intelligence” may conjure up images of murderous machines eager to overtake humans, and capable of doing so. But in the tech industry, it’s a broad ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230621160359-ai-explainer-stock-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "publishedDateTime": "2023-06-24T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-25-the-next-trillion-dollar-ai-companies-hidden-in-plain-sight.md",
+      "title": "The Next Trillion-Dollar AI Companies Hidden in Plain Sight",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Hello, Reader. In your Smart Money issue on Thursday, we discussed how AI is",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-companies-hidden-in-plain-sight-1032408113",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-companies-hidden-in-plain-sight-1032408113",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/06/picture1-1.png",
+          "width": 1430,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-25-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
       "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
       "excerpt": "“The application of Azure’s OpenAI service within PowerSchool ... strategies of both algorithmic and data fairness in the machine learning process to inculcate fairness, accountability ...",
@@ -1039,83 +1145,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.md",
-      "title": "Kent County enlists AI-powered robots to better sort recyclables",
-      "excerpt": "Kent County Department of Public Works officials announced Thursday, June 22, that earlier this month they installed three, AI-powered robots at the facility that can quickly scan incoming recyclables and separate out what county workers tell them to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html",
-      "originalUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W2BTBMROGNEXHD6B3Z6NOG4IKY.jpg",
-          "width": 3000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp",
-      "publishedDateTime": "2023-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-skift-travel-news-blog.md",
-      "title": "Skift Travel News Blog",
-      "excerpt": "AWS announced the Generative AI Innovation Center on Thursday with four partners, which also include sales tech company Highspot and communications platform Twilio. AWS said it is starting the ...",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/blog/?tag=aws",
-      "originalUrl": "https://skift.com/blog/?tag=aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

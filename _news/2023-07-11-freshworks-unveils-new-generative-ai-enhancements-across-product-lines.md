@@ -39,19 +39,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "M&E Faces up to the Promise and Challenges of Generative AI"
-    excerpt: "It is, of course, something that has been around since the 1950s but since the end of last year, coverage has ranged from the serious to hysterical, particularly over its latest manifestation, generative AI (Gen AI)."
-    publishedDateTime: 2023-07-10T15:33:00Z
-    webUrl: "https://www.tvtechnology.com/news/mande-faces-up-to-the-promise-and-challenges-of-generative-ai"
+  - title: "Generative AI will improve efficiencies and spark creativity in the workplace"
+    excerpt: "The possibilities of generative AI are yet to be fully understood, but we already know it can support efficiency, creativity and learning."
+    publishedDateTime: 2023-07-12T00:06:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-will-improve-efficiencies-and-spark-creativity-in-the-workplace/"
     type: article
     provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 43
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EMJcPYKmycaMXxGydkuN2K-1200-80.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Insight_GenerativeAI.jpg?w=1200&strip=all"
         width: 1200
-        height: 934
+        height: 675
         isCached: true
   - title: "How AI image-generators work"
     excerpt: "Today “ generative AI ” models put brush to virtual paper: publicly available apps, such as Midjourney and OpenAI’s DALL-E, create images in seconds based on text prompts. The final products often dupe humans."

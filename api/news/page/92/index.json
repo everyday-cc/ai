@@ -2,6 +2,109 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-05-12-slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons.md",
+      "title": "SLAIT pivots from translating sign language to AI-powered interactive lessons",
+      "excerpt": "SLAIT School has developed an interactive tutor powered by computer vision, letting aspiring ASL speakers practice at their own rate.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/11/slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons/",
+      "originalUrl": "https://techcrunch.com/2023/05/11/slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/slait-demo-gif.gif?resize=1200,774",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/11/slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons/amp/",
+      "publishedDateTime": "2023-05-11T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-h2o-ai-launches-h2ogpt-and-llm-studio-to-help-companies-make-their-own-chatbots.md",
+      "title": "H2O AI launches H2OGPT and LLM Studio to help companies make their own chatbots",
+      "excerpt": "“One can take open assist–type datasets and start using the base model to build a GPT,” Sri Ambati, the cofounder and CEO of H2O AI, told VentureBeat. “They can then fine-tune it for a specific use case using their own dataset, as well as add ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/",
+      "originalUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/chatbot-e1683843122122.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/",
+      "publishedDateTime": "2023-05-11T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-workloads-after-crypto-decline.md",
       "title": "Cryptominers try to pivot GPU farms to AI workloads after crypto decline",
       "excerpt": "Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward high-performance computing (HPC), which includes AI workloads. This move could",
@@ -1138,109 +1241,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-artificial-intelligence-ai-chip-market-research-analysis-2023-2030.md",
-      "title": "Artificial Intelligence (AI) Chip Market Research Analysis, 2023-2030",
-      "excerpt": "Chip market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: The global Artificial Intelligence (AI) Chip Market USD Million in 2022, with a change of Percent between 2022 and 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 399,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-spotify-has-an-ai-music-problembut-bots-love-it.md",
-      "title": "Spotify Has an AI Music Problem—but Bots Love It",
-      "excerpt": "Fake listeners are flocking to AI-made songs on streaming platforms, taking much needed money away from human artists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
-      "originalUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/645c19f20cbc15924e602a5c/master/pass/AI-Bot-Spotify-Listeners-Culture-1324648625.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotify-ai-music-robot-listeners/amp",
-      "publishedDateTime": "2023-05-11T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

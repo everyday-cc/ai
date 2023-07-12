@@ -44,20 +44,6 @@ related:
         width: 1924
         height: 1604
         isCached: true
-  - title: "Machine learning takes materials modeling into new era"
-    excerpt: "Deep learning approach enables accurate electronic structure calculations at large scales The electronic structure of a material plays a crucial role in fundamental but also applied research. However,"
-    publishedDateTime: 2023-07-07T09:00:00Z
-    webUrl: "https://idw-online.de/de/news817455"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
-    images:
-      - url: "http://www.idw-online.de/de/institutionlogo30796"
-        width: 1553
-        height: 768
-        isCached: true
   - title: "Machine Learning Takes Materials Modeling into New Era"
     excerpt: "Their quantum mechanical interactions with one another and with atomic nuclei give rise to a multitude of phenomena observed in chemistry and materials science. Understanding and controlling the electronic structure of matter provides insights into the reactivity of molecules,"
     publishedDateTime: 2023-07-10T19:39:00Z
