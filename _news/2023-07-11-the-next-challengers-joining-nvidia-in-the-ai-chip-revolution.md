@@ -45,17 +45,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Morgan Stanley upgrades Asia chip stocks on AI clamour"
-    excerpt: "Morgan Stanley is expanding its bullish view on the region’s chipmakers after having upgraded some names in South Korea and Taiwan back in October. Since then, chip gauges in both nations have surged more than 27%."
-    publishedDateTime: 2023-07-07T05:41:00Z
-    webUrl: "https://www.theedgesingapore.com/capital/semiconductor/morgan-stanley-upgrades-asia-chip-stocks-ai-clamour"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/capital/semiconductor/morgan-stanley-upgrades-asia-chip-stocks-ai-clamour"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/capital/semiconductor/morgan-stanley-upgrades-asia-chip-stocks-ai-clamour"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 54
   - title: "Fear of AI chip ban drives up Nvidia A800 prices in China"
     excerpt: "The Biden Administration's ban on the sale of high-end AI chips to China has driven the prices of Nvidia A800 chips to skyrocket in China."
     publishedDateTime: 2023-07-10T06:44:00Z

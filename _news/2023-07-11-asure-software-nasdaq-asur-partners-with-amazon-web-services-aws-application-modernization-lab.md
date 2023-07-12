@@ -186,6 +186,34 @@ related:
         width: 940
         height: 528
         isCached: true
+  - title: "Attacker behaviour, AI and cloud-native applications"
+    excerpt: "With the popularity of cloud-native applications and solutions, ransomware is becoming an unfortunate reality for businesses today."
+    publishedDateTime: 2023-07-11T23:31:00Z
+    webUrl: "https://techwireasia.com/2023/07/attacker-behaviour-ai-and-cloud-native-applications/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_2013901751-1-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Shell Wields AI as Transition Tool"
+    excerpt: "The UK major's global head of artificial intelligence explains how digital technology is helping drive innovation in the complex new energy system."
+    publishedDateTime: 2023-07-11T20:23:00Z
+    webUrl: "https://www.energyintel.com/00000189-44e0-db03-a3ab-76f7292f0000"
+    type: article
+    provider:
+      name: energyintel
+      domain: energyintel.com
+    quality: 39
+    images:
+      - url: "https://energyintel.brightspotcdn.com/dims4/default/ef4ac8c/2147483647/strip/true/crop/882x463+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fenergy-intelligence-brightspot.s3.amazonaws.com%2F46%2F42%2F30ce053140fcb6e690e8d3a85d26%2Fss-1931158067-ai-concept.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
     excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
     publishedDateTime: 2023-07-11T19:22:00Z

@@ -19,6 +19,20 @@ topics:
 
 related:
   - title: "27% of jobs at high risk from AI revolution, says OECD"
+    excerpt: "AI (Artificial Intelligence) letters and robot miniature in this illustration taken, June 23, 2023. REUTERS/Dado Ruvic/Illustration/File Photo"
+    publishedDateTime: 2023-07-11T19:00:00Z
+    webUrl: "https://www.reuters.com/news/picture/27-of-jobs-at-high-risk-from-ai-revoluti-idUSKBN2YR0Z7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20230711&t=2&i=1638495610&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ6A0HB"
+        width: 810
+        height: 539
+        isCached: true
+  - title: "27% of jobs at high risk from AI revolution, says OECD"
     excerpt: "More than a quarter of jobs in the OECD rely on skills that could be easily automated in the coming artificial intelligence revolution, and workers fear they could lose their jobs to AI, the OECD said on Tuesday."
     publishedDateTime: 2023-07-11T13:09:00Z
     webUrl: "https://www.reuters.com/technology/27-jobs-high-risk-ai-revolution-says-oecd-2023-07-11/"

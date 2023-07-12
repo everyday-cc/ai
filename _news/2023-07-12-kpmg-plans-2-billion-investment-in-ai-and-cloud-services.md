@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai
 webUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 800
         height: 543
         isCached: true
+  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
+    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory LONDON and REDMOND, Wash. —  — KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
+    publishedDateTime: 2023-07-11T22:00:00Z
+    webUrl: "https://news.microsoft.com/2023/07/11/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
 
 secured: "S7P+xJCtjQukIZf/Y3QEy13PHcz4reLJZCkcoi8XPoPLsNealeqGE2xnzt/cfrjPYzf5/HOr/vhCWBHyIXgAEqNg0BPJFypa3na2dfdL6jyn0+W69LCv8i09FhFWz4pzy6sfhgAeSIkdxK3egaYFq+G4RYL8vSPEgNrXoIYNyBnY0vuJfhDlIyOlSElBJtz+1kMTQRxjdW7MKM6QeMzZGZ4NjkxNFMd99gtMzjeDPeFN1DCq6G0rAWpAeX+lJ2U8pNZ+dR6wCI/aX/fYrv/5fQeAZ9ztQUmLd/htWwUhoESuC0Kjc0x9aZNNzUeY9kX3Cj/ivB73Vp7otWcLYT/08pBH7ESMuNEBBxE5xhmr+u0=;778kZgkq34A/sZUnCUxsHQ=="
 ---

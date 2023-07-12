@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Book authors sue OpenAI and Meta over text used to train AI"
-    excerpt: "On Friday, the Joseph Saveri Law Firm filed US federal class-action lawsuits on behalf of Sarah Silverman and other authors against OpenAI and Meta, accusing the companies of illegally using copyrighted material to train AI language models such as ChatGPT and LLaMA."
-    publishedDateTime: 2023-07-10T19:42:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/book-authors-sue-openai-and-meta-over-text-used-to-train-ai/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
 
 secured: "W6L6R6jRyHAUe/GGQyLIrr5N1ePk6A2mTWtWJSs1Xju61aahSxj+uGM0A5PZKfbzAeb7mdj+BG0ghj55yuO4pML31XPDs3Jqne1ZaxLWSs2yAHPEFWWDGhNXV3N3IwNd59iAOqtvlwEMtLYY5ACzHoRUDPMYbIJcfBTPqibs0ceUT+LNBNuDzwgvSIiUYCyKjjgo2dB0+BeTxwymeskBD1FueKnLw/Itd67BVII/5ZnYK0E1xDllcwpbWjW2tRfyVBdeaq8knJBiYzj4VtrL3s6sdT7p3eU18tfZ0egJMDc3sKY2k8KKy0vkQ9v2cMXFj40jHL6LDGHOJy8YbW3Uklod1uvpnkXWYhaBDkZ1GrfF0cPVN40HCcrSw6Kg5SpI8VF7LhelN4hRfkKhI9orBXin9LjEcZIluBzkfPD/eTewcH129OYFZDDwAlls8wXYCXYE+Zeob6tfBdnQmQSTEIqdz1GZMx6VyL8ROu8uYOVfFtFN7nHXz+ia0XpkGMsd2FSWAVddcHP/tUFQ1xnCJw==;aE0uTzBV5Aee54qmDHqEjA=="
 ---

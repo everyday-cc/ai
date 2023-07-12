@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/ai-s-increasing-role-health-c
 webUrl: "https://www.natlawreview.com/article/ai-s-increasing-role-health-care-delivery-system-key-legal-considerations"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "AI’s Increasing Role in the Health Care Delivery System: Key Legal Considerations"
+    excerpt: "No personal services are more important than health care. The use of artificial intelligence (AI), involving machines to perform tasks normally requiring human intelligence, is leading to an expansion of the term “personal.” Recent breakthroughs in ..."
+    publishedDateTime: 2023-07-11T22:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ai-s-increasing-role-in-the-health-care-6164620/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 34
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "R0OORYLGezICYz9pbTcKGlL+wW4XVTywQHbz1b1XeZZrSo5L8/jwkafn1nvtNifLRGmPLL78+0m+4CLo3Lfc3iqo08BOmdvXNE1L6hDjsmJHTZDEWF1cyl8uOLAtIjUeJf85E/fO2GmsnPX0huXBzkeHcOJE3IHdKbWwjXjBlfPq6ZpFxOnQqwkqgMYxwPoRB6y0pv+i6M8Lynzw8JPFDVHQ879WehMmZ+ZtRdZF/lErsM8uUrD9uf/hy7HxSZjVJJ0fZ222IiditO3kTOx8KlUcWCU4VdKhZNRkltSTv9TuLx2pKHs2XyhqJXM3tAwr9OckTijlG+Jy5G3Xi53/uIy1wa1w7A3tgg0nJ2EfVpA=;k0UYNhvXGbBFcj+v/WB/hA=="
 ---

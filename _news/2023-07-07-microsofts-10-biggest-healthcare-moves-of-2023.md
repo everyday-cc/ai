@@ -62,6 +62,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 56
+  - title: "KPMG and Microsoft sign $12B AI deal"
+    excerpt: "KPMG and Microsoft have signed a US$12-billion agreement to develop custom artificial intelligence tools over the next five years."
+    publishedDateTime: 2023-07-11T23:42:00Z
+    webUrl: "https://www.arnnet.com.au/article/707989/kpmg-and-microsoft-sign-12b-ai-deal/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/billthomassatyanadella.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "3 ways Moveworks and Microsoft Teams use AI to improve employee productivity"
     excerpt: "Moveworks on Microsoft Teams uses conversational AI to help enterprises improve employee productivity and free up IT and HR staff. Learn more."
     publishedDateTime: 2023-07-10T15:00:00Z

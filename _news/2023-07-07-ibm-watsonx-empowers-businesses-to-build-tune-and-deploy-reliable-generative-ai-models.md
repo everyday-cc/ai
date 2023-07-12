@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-emp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/amp/"
 type: article
 quality: 96
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM’s watsonx begins its official rollout"
+    excerpt: "IBM has announced that watsonx is generally available and has begun its rollout to enterprises. Watsonx is an AI and data platform that was first unveiled by IBM at the IBM Think conference in May. Watsonx consists of three parts: watsonx.ai, which is a ..."
+    publishedDateTime: 2023-07-11T20:06:00Z
+    webUrl: "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
+    images:
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
+        isCached: true
   - title: "3 ways businesses can ethically and effectively develop generative AI models"
     excerpt: "Join top executives in San Francisco on July 11-12 and learn how business leaders are getting ahead of the generative AI revolution. Learn More President Biden is meeting with AI experts to examine the dangers of AI."
     publishedDateTime: 2023-07-09T15:20:00Z

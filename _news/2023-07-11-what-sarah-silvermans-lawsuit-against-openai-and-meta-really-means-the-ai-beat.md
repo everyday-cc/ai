@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-o
 webUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/577cdd44c75e672b4fa0f8d34e365956c238dc05/521_15_4449_2670/master/4449.jpg?width=620&quality=85&auto=format&fit=max&s=bca6624c1fc1e4ad6a043cc213b0eb59"
         width: 620
         height: 372
-        isCached: true
-  - title: "OpenAI assembles a team to stop an artificial intelligence apocalypse"
-    excerpt: "OpenAI is assembling a team to prevent emerging artificial intelligence technology from going rogue and fueling the extinction of humanity, which the company now fears is a real possibility. The makers of popular chatbot ChatGPT say AI will power new ..."
-    publishedDateTime: 2023-07-07T17:28:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jul/7/openai-assembles-team-stop-artificial-intelligence/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 52
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/05/15/OpenAI_CEO_Congress_63364--59fd7_c0-362-4338-2892_s1200x700.jpg?de1cd1f8659b51ed210886b8ca4ee473503a3fdd"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Mount Sinai Launches Center For Ophthalmic Artificial Intelligence And Human Health"
     excerpt: "The Icahn School of Medicine at Mount Sinai established the Center for Ophthalmic Artificial Intelligence and Human Health in New York."

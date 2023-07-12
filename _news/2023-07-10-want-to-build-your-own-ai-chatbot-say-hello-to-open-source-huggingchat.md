@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/want-to-build-your-own-ai-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
 type: article
 quality: 87
-heat: 139
+heat: 137
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 128
 published: true
 
 provider:

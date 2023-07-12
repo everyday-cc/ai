@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-26-how-ai-driven-behaviour-change-can-influence-healthcare-system.md",
+      "title": "How AI-driven behaviour change can influence healthcare system",
+      "excerpt": "There is now 'a holistic combination of AI and human expertise that can work in a complementary framework to deliver personalized interventions' in.health. healthcare. fiitnes. wellness. nutrition. diet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-behaviour-change-can-influence-healthcare-system.html",
+      "originalUrl": "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-behaviour-change-can-influence-healthcare-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/6/26/behavior-society-c.jpg",
+          "width": 1248,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-25T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "onmanorama",
+        "domain": "onmanorama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-25-everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask.md",
       "title": "Everything you need to know about AI but were too afraid to ask",
       "excerpt": "In the public consciousness, “artificial intelligence” may conjure up images of murderous machines eager to overtake humans, and capable of doing so. But in the tech industry, it’s a broad ...",
@@ -1322,40 +1365,6 @@
       "provider": {
         "name": "health.economictimes.indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-molina-healthcare-and-partners-share-results-of-obstetrics-health-care-model-incorporating-artificial-intelligence.md",
-      "title": "Molina Healthcare and Partners Share Results of Obstetrics Health Care Model Incorporating Artificial Intelligence",
-      "excerpt": "Molina Healthcare, Inc. (\"Molina\") recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to impact the full cycle of obstetrical care, from early pregnancy detection to post-NICU community-based care management.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/13/9831670.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/13/9831670.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -69,20 +69,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "OpenAI assembles a team to stop an artificial intelligence apocalypse"
-    excerpt: "OpenAI is assembling a team to prevent emerging artificial intelligence technology from going rogue and fueling the extinction of humanity, which the company now fears is a real possibility. The makers of popular chatbot ChatGPT say AI will power new ..."
-    publishedDateTime: 2023-07-07T17:28:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jul/7/openai-assembles-team-stop-artificial-intelligence/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 52
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/05/15/OpenAI_CEO_Congress_63364--59fd7_c0-362-4338-2892_s1200x700.jpg?de1cd1f8659b51ed210886b8ca4ee473503a3fdd"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "riuCisaqBhDueHxh+ezir7pUL4t333IjyN68weATGh/vIB+nBIwX2puBFcpH8JVJVUwm5OYzR+hx848oi4jn9Azh6ZFyissKhhes46a5jYrVatQ8LD3RctqdTjfXzg+5op7UplvWu7c61esYIUPxBLKD+D9utj8C1Kwgb2sMCWZOpRNU58k3OlXXkxNnoVARTBzgabjOqhPSQ6C9cQBvkZ8ztrRh3XiT/uqhbAqGpc8cogniSRnEw1sa70AGiQxQ9xeD6gPapdF8CCUUkwCy1+CiJtsiD0uI7MG5jbGdbcSgXZIWTsr3q32mP/Bqj5WNSJ20ugVw8SZzLiWoNvU5LOwGX/flMsGJbXGXax8YEgM=;L5fnOd4gt/s7gcFOjlk5UQ=="
 ---

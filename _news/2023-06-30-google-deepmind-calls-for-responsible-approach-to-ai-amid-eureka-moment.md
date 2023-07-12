@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Google DeepMind calls for 'responsible' approach to AI amid 'eureka moment'"
-excerpt: "The chief business officer at Google's artificial intelligence research lab says the world ... and other malicious activity. Facebook lost a legal challenge Tuesday at the European Union's top ..."
-publishedDateTime: 2023-06-29T23:03:00Z
-originalUrl: "https://www.ctvnews.ca/sci-tech/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment-1.6461891"
-webUrl: "https://www.ctvnews.ca/sci-tech/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment-1.6461891"
-ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/6/29/1_6461891.amp.html"
-cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/6/29/1_6461891.amp.html"
+excerpt: "The explosion of interest around AI has come from recent advances in the technology that have allowed people to use it with conversational language, rather than the programmers who predominantly dabbled with it before,"
+publishedDateTime: 2023-06-29T19:32:00Z
+originalUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment"
+webUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment"
+ampWebUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/"
+cdnAmpWebUrl: "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/"
 type: article
 
 provider:
-  name: CTV News
-  domain: ctvnews.ca
+  name: The StarPhoenix
+  domain: thestarphoenix.com
 
 topics:
-  - Facebook AI
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/6/20/1_6334864.jpg"
-    width: 1020
-    height: 574
+  - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/06/chy143-the-canadian-press.jpg"
+    width: 1000
+    height: 750
     isCached: true
 
-secured: "pjTc+wwxiHUpLTfgImm6r2tST9k24XhoyMOEmeNw9nPT5xDo60xFwMNGef2EHo8YQmJoiycrMGAOMNYvUKdjt27Xc6qFtsEi2/86BlmUOVdwhPRy/uIsxLuNIRktSxmgVT31pIoDV4y0XNbU66malDgs+vIxx/PkBIBGAstnsBgpTiDGoZUdtAfGtVC6B1gblsTv/0qY6RKjaL8eBTTkXd+U17CJ4jIkuHIFqe8RNGFV7Tsm1cd6nUj5n/E68P3MArUoojY/wmjXKAKoCveRj4pS1YNr6BEfVDGVnwlTjUqZ5CVW+lpoh6eCjLMbyq/MAJIp+gXMAOJ8jpu2+cMxlqNsVwZ6ZWyOmNE0QmtM4hA=;5Jgi15tRD21TfmrtUmkUVg=="
+secured: "OWNomZZtje83Iu+Fx2wQI1bL00wGyFAx0kFLvXQ1wRoICQDmbOLN4DVf+Xw3jpgc87n1IQnFIvF8dRxh9iV7uQrfQ5E9EIp7nEoxdXRL81oM17qznToIC8iNtIbiWdq1CGqm5VgY8kVfM8Npoas9HiFh23K5MlFv5gQsjGEd63GVMl21CJrXnmEG8Myco4UGASdEOIcDgXq7AVXJ3CpS18Y2wipfrD78upsVpuZTgfsJX8pSt1kPgu5zXzu7D9+0q0Q5IpqebydICBK69SH9yaze8CeuTqcgkTmSz/Ky33E6Wh8QjnKQmzgMDJD1wnxHz5RLuv9PShRZMHyCR+v05Y3Cpn4s+BLqsTzZdM5K1aw=;rtFbbvF2QgsR+KmQnekzPg=="
 ---
 

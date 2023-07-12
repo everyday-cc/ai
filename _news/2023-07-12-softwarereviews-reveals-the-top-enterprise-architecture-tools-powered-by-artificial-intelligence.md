@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-11T21:40:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/softwarereviews-reveals-the-top-enterprise-architecture-tools-powered-by-artificial-intelligence-1032438974"
 webUrl: "https://markets.businessinsider.com/news/stocks/softwarereviews-reveals-the-top-enterprise-architecture-tools-powered-by-artificial-intelligence-1032438974"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mma.prnewswire.com/media/2152091/SoftwareReviews_SoftwareReviews_Reveals_the_Top_Enterprise_Archi.jpg"
@@ -27,6 +28,6 @@ images:
     height: 400
     isCached: true
 
-secured: "3ndKS0EZylpicHcXJ4yeK/N4buTY9tU+JjsaVwY1FG9/6SwxJDUaNA8o5XryGkclA0opnZdHtWrIjwvOwVMI+Itf6INRK1fgox6N7jTIXkfNl5NID423l4uemUu7Tc2vxK9/DvN7RnndMUazdX0b0tHrsF9rxpI3v+tLGljn9xYQi+bRL6Ti33SbYDGqEGE2eOvggNMI8S7y0cpicdiw4IJ0kRxVP733qwwsQ0YPdGxcDKZa/fUJPbFGqBFrbB3lOm8lRKu+DeU/vtbr7luZReofLSKkCr9YGnIKqfDHMM6vOIpmSj/ps/rvEuxzjby/tzm1pL37oEmIeTHCLQXsnxdtykv5kpZ5HEj1EwRz8cA=;fMDSqE+rxtqVE33cCOHanw=="
+secured: "zNvGYn85c8uT79C5lEQhDbe9NChqqHQD237DEs4SuKL65dzpx1F+AxYPtV6Q+hcz33DLjt/6xaZh4kksidGllMwNL8C6t/MQvjMxL3uTGfnRiEaUgekPs9KrB3UyUjEtbDEPmmV0tAqt6Lf9O+Xg4SKG5L0oXHYe5ljngib/vq+OWUxQJdqm2RHo1DkFNV1cGDeR+Akefj1cAoVn33/xWqaW/8cYR2owfwL5XMOJjWRGanbK+FxnFgsQFttMGqvP3Je8iVpjtROUDeX5JAACoGIW6rMlUlCzRon0v1Dm6b1CJ9JLAcU+z0XcsKOXK/NKNDPO78Vs6MEeymAMLpBuMHmmy3wqYhEFN8xdjPPhbWSTgOq2JOZV/O24P7NnHsWY2phAOPzYXOEnsdAHfE7dnexKx3Eemw6UsliHsUmOMghHQxVvmjHCUw/vLHZEPm5p4Du+PbAHekWQe1+XEzxM2POdOZFoBkZipzjgVFdGJt+A9yBpn0KQtLxq77vkQKY0nnO/t4znAaTZ55SraDAuvA==;NizwM9SE4PQwpG7zFN13cg=="
 ---
 

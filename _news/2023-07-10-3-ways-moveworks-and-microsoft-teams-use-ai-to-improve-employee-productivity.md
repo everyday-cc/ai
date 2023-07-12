@@ -79,6 +79,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "KPMG and Microsoft sign $12B AI deal"
+    excerpt: "KPMG and Microsoft have signed a US$12-billion agreement to develop custom artificial intelligence tools over the next five years."
+    publishedDateTime: 2023-07-11T23:42:00Z
+    webUrl: "https://www.arnnet.com.au/article/707989/kpmg-and-microsoft-sign-12b-ai-deal/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/billthomassatyanadella.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "Azure: Our AI Platform – Stories – Microsoft"
     excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
     publishedDateTime: 2023-07-11T05:18:00Z

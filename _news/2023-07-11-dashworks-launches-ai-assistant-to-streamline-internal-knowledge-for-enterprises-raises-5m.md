@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-11T16:58:00Z
 originalUrl: "https://venturebeat.com/ai/dashworks-launches-ai-assistant-to-streamline-internal-knowledge-for-enterprises-raises-5m/"
 webUrl: "https://venturebeat.com/ai/dashworks-launches-ai-assistant-to-streamline-internal-knowledge-for-enterprises-raises-5m/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_547750285-e1688669999360.jpg?w=1200&strip=all"

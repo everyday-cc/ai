@@ -55,17 +55,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Morgan Stanley upgrades Asia chip stocks on AI clamour"
-    excerpt: "Morgan Stanley is expanding its bullish view on the region’s chipmakers after having upgraded some names in South Korea and Taiwan back in October. Since then, chip gauges in both nations have surged more than 27%."
-    publishedDateTime: 2023-07-07T05:41:00Z
-    webUrl: "https://www.theedgesingapore.com/capital/semiconductor/morgan-stanley-upgrades-asia-chip-stocks-ai-clamour"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/capital/semiconductor/morgan-stanley-upgrades-asia-chip-stocks-ai-clamour"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/capital/semiconductor/morgan-stanley-upgrades-asia-chip-stocks-ai-clamour"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 54
 
 secured: "lUMNCJyh5d8vtDkGL9xCdHnyu4Qczh/atWsezRGywoSVmuWE9P3gATDpm9O8XCByZVPSbYnNJBnpokhRykxqQ5jsFXDqre1jJszuuYnUZ7O7GoMzWdfJ/AZMvN7bbAZ1akFQDS/IuHYejau6yX9ov/FX+9Yqrxk/9ZLmwsFY82a4C4LNUX1SpMtqC0dCBrIhjMw3UYsBAURXj+wdaiJfC1LedNlW0Otn+2ss8h48OG5ag/7CGKiZNT2G/Vt6mqIxLVjDjzktVH0FiEdf5WpdTqD4iePI/UVb8kjMFDVFkbw7q+KzI+zx3OaAMso2Oc/MIFq+julVgXZZNCTvRQq5hpy/ll2hTLgSqa8h2+MYoPRmtZgPGDYj4Ce0NMoBpj8gCMM31K5LjyAHSWO4WCpql4ejhT6+Vl8j6jxLfaNs78+LAqlrX/okYzqyPH3lquyQauzmgkts/SEfaaP7OEOX1D2CeHIk8uuWH2pCxiKaFA+BLjLhQKGPDZHW1HwTkibtcHl1Z/Ns8/jkPr4Kbh28Yw==;qkdH69wGx20Fep7iiP8aSg=="
 ---

@@ -38,6 +38,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
+    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory LONDON and REDMOND, Wash. —  — KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
+    publishedDateTime: 2023-07-11T22:00:00Z
+    webUrl: "https://news.microsoft.com/2023/07/11/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
 
 secured: "vAVy5GeWpdqGrGtZqhVuaBGVjLazLsfQWDPyW7DrsRbjl3QUT/ZvuDD5+lRsBAwNiDlA8IWd0dAEzG+ENDKFwouRdCtGat4Iu+l6Y5WACk1pIr0dy4dV4K1HrSsZEAzYCPW/47ixRBM/peUTrrPO6yPrg7N93YSIQdGaTfK2THdtIN6yU9IzwvIYWAqZQTli56Iq3QNdlrF5AS0QuoA/E/0z6SNvdbEoI0bftO55m46Lk5TlYb5A9u6modH38dMMUkdzgIiBAXCrP1TYZ8cTZHE8R9Cn3Gs45rZncmvuF8c+Qod/ld/5HmppScfSgDeEjDaWEXTiYg5qjnnU1IhY1/6XVZYqZGRBhbEirSkSmxY=;i/um6yOY/ZDZCS3MZDrEtg=="
 ---

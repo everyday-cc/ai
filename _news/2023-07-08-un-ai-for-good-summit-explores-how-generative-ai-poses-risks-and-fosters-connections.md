@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/un-ai-for-good-summit/"
 webUrl: "https://www.techrepublic.com/article/un-ai-for-good-summit/"
 type: article
 quality: 62
-heat: 62
+heat: 63
 published: false
 
 provider:

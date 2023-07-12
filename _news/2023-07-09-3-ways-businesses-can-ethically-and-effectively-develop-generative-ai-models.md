@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "IBM’s watsonx begins its official rollout"
+    excerpt: "IBM has announced that watsonx is generally available and has begun its rollout to enterprises. Watsonx is an AI and data platform that was first unveiled by IBM at the IBM Think conference in May. Watsonx consists of three parts: watsonx.ai, which is a ..."
+    publishedDateTime: 2023-07-11T20:06:00Z
+    webUrl: "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
+    images:
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
+        isCached: true
   - title: "IBM Watsonx platform to power the future of AI for business"
     excerpt: "Artificial intelligence (AI) has taken the world by storm and businesses that can harness the transformative potential of this technology stand to propel their operations into a new frontier of productivity,"
     publishedDateTime: 2023-07-11T20:38:00Z
