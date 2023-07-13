@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enab
 webUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/"
 type: article
 quality: 102
-heat: 136
+heat: 132
 published: true
 
 provider:

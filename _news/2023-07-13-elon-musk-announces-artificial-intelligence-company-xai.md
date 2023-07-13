@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Elon Musk introduces xAI, a new artificial intelligence company"
+    excerpt: "Elon Musk's artificial intelligence company, xAI, received its official introduction on Wednesday, with the billionaire saying it aimed to 'understand reality.'"
+    publishedDateTime: 2023-07-12T20:47:00Z
+    webUrl: "https://www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company"
+    ampWebUrl: "https://www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8785c0c6-4a74-4cd4-b103-fa0a946381cf/82df48b7-1fbc-4426-a89c-205a97e7dfae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Elon Musk launches new AI company called xAI"
     excerpt: "Elon Musk, the CEO of Tesla and SpaceX and owner of Twitter, has announced the launch of a new AI company called xAI."
     publishedDateTime: 2023-07-12T17:39:00Z
@@ -87,6 +103,6 @@ related:
       domain: invezz.com
     quality: 17
 
-secured: "E2I5F+IbePbiOo8yugj3wnbW/RZOnXXOs2Jw6GLwDevvgAbaGQD89GLN8iBKfXdaJ1oPNtB2htXmvA7pbm2pgqMaCss0ow3OCYqVjbkeXdVcZY2HuwQrfIszWtvZnGSVM2jFRxMSsNauOTXxJNHfYEAEYF6s22rVThvMeLmih7MbBZquaj6mSoe2egvqpAMfOFeWAo1/yZA1IJrqA/2ySWTnmq/ah0zjWkUSRqz/QOcus6KuEXVQExGwmbkbfHyt2JSDB/p26G2mVaAVvP8QwhfQ5FKjZhQC0uh6nVOYEd+c+EUaGEX6LME0vA/ia8/9v0Cx43WbP+LgGkYX7jJxFFXlP/IGlbMxr/vKRaWdKyE=;RTHYRnj59sJsFveu8lnFVQ=="
+secured: "OSIXqITRdz5xbRS6EIqObqVeUheatDrksul+JEs9ECZ/GucLIAWg+GRs5cUIww/4aMypngWz/BVgdSt9kE5fYTs65ctVscwQ5PAuxflkWqceImtlMpXXKxv7VRzWYJAlKYZ22rd3ydDAxc9jACWcOefhNRGhPMjK3aXBkhFVNxOCcQMQG2sXgnsNtdEVxYfNFoWHK6qCziXDpVSRraGLkl2yPlnZEpM6YoVls6IokmVpvRqeuhK4Z0XaO1hyKPGyEFnY0zYspW7bKHQdgXY4S41F5yC9bJgFdVr8fkdyPokGaP5PXTCzw2zyWI3sdyRr/8OuxTDuMxuGVT/xruHKkN8q5UO6ahkKhiBKFU5N1Rc32Tvkblo6ae1qhZ5vi4VQzvkxWpVBQjwr81TKm9h3MYUm6YMXGXM9lmmlBHjdExxjhv4cn7+35cdTrlJ6yK9pghA3kTE8t6VuHEeCu6n/xfHlSIpN0CaIXW4y38QgV8lrupTlz3ZG9xEFECNzz64ZrOheARMuLSed8kbaHG+XWA==;9n+HvXMk6c1vPf4yzju4Tw=="
 ---
 

@@ -66,6 +66,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Generative AI Will Shape The Future Of IT. Here’s Why."
+    excerpt: "IT organizations willing to embrace generative AI have the potential to be among the first to reap its transformative benefits."
+    publishedDateTime: 2023-07-12T23:42:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a32fb59c83afbc840c44cf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
     excerpt: "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT."
     publishedDateTime: 2023-07-09T01:59:00Z
@@ -249,6 +265,20 @@ related:
       - url: "https://medcitynews.com/uploads/2023/03/GettyImages-1465456623.jpg"
         width: 724
         height: 483
+        isCached: true
+  - title: "Google's healthcare AI on par with humans but not ready to see patients"
+    excerpt: "Google's AI-powered healthcare platform is as accurate as human providers, a new study shows. Mayo Clinic is testing Med-PaLM, but further evaluations are necessary but it's deployed in clinical settings."
+    publishedDateTime: 2023-07-12T21:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/googles-healthcare-ai-on-par-with-humans-but-not-ready-to-see-patients.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Meet The AI Specialist Employing Data-driven Strategies To Revolutionize Healthcare"
     excerpt: "The utilization of data analytics stands to revolutionize the delivery of healthcare services by enhancing drug discovery, bolstering patient adherence, reducing physician burnout and patient out of pocket expenses,"

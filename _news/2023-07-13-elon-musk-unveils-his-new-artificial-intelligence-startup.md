@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk introduces xAI, a new artificial intelligence company"
+    excerpt: "Elon Musk's artificial intelligence company, xAI, received its official introduction on Wednesday, with the billionaire saying it aimed to 'understand reality.'"
+    publishedDateTime: 2023-07-12T20:47:00Z
+    webUrl: "https://www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company"
+    ampWebUrl: "https://www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8785c0c6-4a74-4cd4-b103-fa0a946381cf/82df48b7-1fbc-4426-a89c-205a97e7dfae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Elon Musk launches new AI company called xAI"
     excerpt: "Elon Musk, the CEO of Tesla and SpaceX and owner of Twitter, has announced the launch of a new AI company called xAI."
     publishedDateTime: 2023-07-12T17:39:00Z

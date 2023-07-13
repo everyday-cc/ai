@@ -8,9 +8,9 @@ webUrl: "https://www.upi.com/Science_News/2023/07/12/research-robots-artificial-
 ampWebUrl: "https://www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/"
 type: article
-quality: 52
-heat: 52
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: UPI
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdnph.upi.com/sv/ph/og/upi/5821689194493/2023/1/1acca51c47c52ff10817f3b95463593d/v1.5/Report-Robots-with-artificial-intelligence-might-offer-real-human-companionship.jpg"
@@ -25,6 +26,36 @@ images:
     height: 800
     isCached: true
 
-secured: "Bxl7TUB1CuGreT9HTFhKwvnEJN8jxcDgH3a72Un3IqMZQN1UKcgHG4PNHMSlZj2quVgpLNqZB7F5teKKWI1PEQGRbvcY3HNuimqaNLTsIId8OsEZP88bwLQLJ6jA9XYBmJzPiT2P/duxCRu2lAYUpTZx6qMtOCFov48jhAh9CgOA0DZCqD9h3cHE3o2C1KZS7tAyrYNY6UvXlWPzoZ1+d98iTV/onRlK6Fgfiqp9cgAtSVWLpLk4Yo9JlYIK6AmGozYCEjVd7o7pqEM2zDc81Ka999VRSp12qWdEvwN5wZHvZZ+ThI2sZfDRLFkFxOGyBz0Qc9hT0D6I21qT/bWctxdY5gLjguWw5k3AyYofcHk=;8NzlOGn5x1aQnPEU8a1SsQ=="
+related:
+  - title: "AI-powered companion robots could end loneliness in older adults"
+    excerpt: "New report finds robots are a solution for the millions of isolated people who have no other solutions but will require measuring index and regulations."
+    publishedDateTime: 2023-07-12T17:10:00Z
+    webUrl: "https://interestingengineering.com/science/ai-powered-companion-robots-could-end-loneliness-in-older-adults"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/12/image/jpeg/kHo8Qri6WzjuliAaFkRGrJYFbphLw0VyEcGLtnSg.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI-enhanced companion robots may help alleviate the loneliness epidemic in future"
+    excerpt: "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities."
+    publishedDateTime: 2023-07-12T23:24:00Z
+    webUrl: "https://www.news-medical.net/news/20230712/AI-enhanced-companion-robots-may-help-alleviate-the-loneliness-epidemic-in-future.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "uk/NHzN+jxxhFfzA57JvVQ7iNGdKTilcZ06qk7YMICqoBtoan+A9M2n6lASxDb0i4kUCUyjYdPK3B8s1Lwfu/+9jTRyOACLmjCfZd1u5lQyBIgd/upipJ5gnMnMfzCEFVa+Pzg/49gqD8tjr9JaUAs9bXqhREgjcDuUBe347IpT9j/b9aiDaD4k967X6R5F38CvEzDKsWz/4xfHq5ay2h1CrVMEFPfFMsYCt3KBJ7HBiVYYTpE+LRb2Yg92S9+COTGYnhoBYTEI2uIa0JCgJIJQlKtRy5zpIQ3gRR6WUc00QfeYDFI9Gmz2fsZRX5aoSkpy1hAdjmpIm278+CsDSNVKTowihLt6N289gQKCHYo1pKH6BtCFWBVV0fy6bdPM4DrrgySh0eHUYKpmFQsrYtoEp6Yn+3EoiwSWE38mwyXZKLTt18YJKf3UgUQHY+t9yOyXrlVLBS1WqvYA7B6K8Y8s4ZjiI6LCKpYcsyy4bC6NepYm4Rp0j4NQ0mE7QOQAwREEWiBuJCOAHIQ6UL8vaiA==;t1mhWtJ4dD5TZzV0LO2Odg=="
 ---
 

@@ -69,6 +69,22 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 64
+  - title: "Elon Musk forms new AI company in effort to 'understand reality'"
+    excerpt: "Elon Musk is starting a new artificial intelligence company, the Billionaire confirmed in a social media post Wednesday."
+    publishedDateTime: 2023-07-12T20:14:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4101689191585/2023/1/e662462498a31d48e525316758705af4/v1.5/Elon-Musk-forms-new-AI-company-in-effort-to-understand-reality.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Musk announces new AI company that seeks to “understand the universe”"
     excerpt: "Elon Musk formally announced the formation of xAI, a company aimed at understanding \"the true nature of the universe\" that will draw from a heavy bench of industry veterans to take on OpenAI's popular chatbot ChatGPT."
     publishedDateTime: 2023-07-12T19:20:00Z
@@ -97,6 +113,6 @@ related:
       domain: nydailynews.com
     quality: 11
 
-secured: "/RrqPOznccWCZWkUQ8+0lXSZvamzLCTWN+p4xB7Osk4vmUCerAEtFQiWHioj116oyhk384JF639WAES3Bg4/sBF/f4x2IZIWcJabT0mUu9VqsCGUDa2GkuoFseTEq0Fe3pRFAbblkWFNrVFlIuoV609kdKqanW74JwJPjRbGR6FLVJeZ4m5fcqlmuVMTh99zXmsu2ChRv2nJ4KRjWgM+WKW3cSUJBLPGuGTF9Gn1XEofL45EGqLFJbrKIFtnNOBcK5vIA9cBDmxUqG4eoEgxj5ZYKk5QVDdgA9IFaFtA56a7EDHy+7A/q+WspibTcZVfZJORWv6Iu+mFqBr4kOTq+/JxKMu4uhxwdodXPN6lcMQ=;eAxG9qSHhWTd9l7XFlyWUA=="
+secured: "gkE9icp12H4q2QXcDfpAZcBdSMBYGcHhXl3hwEp4LFYIR6hqUDJdGuRcpTn6/RKT05zQerQu4NCvQS+Vv+0rFY6t1ByI6QKo79xhP6iy9yjwGti+7WAqHSGJQ1rveomHxQMOw+P0ueYxt+h8LgS5SZzW4ruvfwYHWnH9D4ooyIFA/glKVC8+3rKhlIVWvVJ3vz80MQ/dQUXikJGXQbJwLETh/Ow5cc84D11jHsDhwpOkypMhn43up0llBxb9sSrxiR8H/AYEScfxxzqetb8kpzEZj0PR6e3EFG/IAqwOaHFaIDnmXVWC1+k9mFQFSjZ29/4sqIgR6Q8LTmML2gsMUwsZd/R3tKeCJR9DlOvjJY91w5brlJq4OHvSiaWVBdEFAGswAMNowlPrgGbKUvHJnK5yPEnW+jBeoZ64egteYXnJz2fgPFoKPSXQVX7TzOvuDHORKkZVdQznxGQMdTdBIU9zMoztNkUGraUKFwu9Ka7OVcmHVzMmpC7lCDjbWOku5bYL1VGr4W8LDJSsKa0Qkw==;MVyUAbUGk5Wu/wbb3T4vFA=="
 ---
 

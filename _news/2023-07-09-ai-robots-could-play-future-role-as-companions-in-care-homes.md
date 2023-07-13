@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/world/ai-robots-could-play-future-rol
 webUrl: "https://www.straitstimes.com/world/ai-robots-could-play-future-role-as-companions-in-care-homes"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 860
     height: 573
     isCached: true
-
-related:
-  - title: "AI-powered companion robots could end loneliness in older adults"
-    excerpt: "New report finds robots are a solution for the millions of isolated people who have no other solutions but will require measuring index and regulations."
-    publishedDateTime: 2023-07-12T17:10:00Z
-    webUrl: "https://interestingengineering.com/science/ai-powered-companion-robots-could-end-loneliness-in-older-adults"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/12/image/jpeg/kHo8Qri6WzjuliAaFkRGrJYFbphLw0VyEcGLtnSg.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "k20o8PgdyjeQJAwrbhA/TRB2m4iGCNh1EoMVaVbWyvc8xaGcdC8CfONr9Y3Ho6NjEFL6lGUlukzVDudE8H61wcWfdBHPM/Aa+cdOJ3oNxoAiZzqraSLINsciurXEBjSEtKI8kzL3FTvftldorgxYs8cpzp1InSzypFwxKYiLBGS7JFNGKI9tiJOtGkHA2Ogk5ENZSzKH2hBzBtO2Ibx3RfI2yfPQdWJkNmNnGy8PsMx6ayPUSsg0OsZfX/zzLaYPOFw5L5yUJjcJYNmrJXayclBWiNkx4mBZAwI/DnrD0n+SHVDsiW22dhunQJVg7C/PLzhyerYTrgkNduh1i45gT+zsbWqT9UXW9lc7LR9o48A=;dhl7wabOHNXPZzwEDLzHYQ=="
 ---

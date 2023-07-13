@@ -43,6 +43,22 @@ related:
         width: 1400
         height: 884
         isCached: true
+  - title: "IBM’s watsonx: Big Blue wants to reclaim the pole position in AI with its latest offering. Can it?"
+    excerpt: "Long before ChatGTP surprised the AI world with its capabilities, Big Blue had set a benchmark in the technology. But ChatGPT stole IBMs thunder and made AI platforms accessible to the masses. With the launch of its enterprise-ready AI and data platform watsonx,"
+    publishedDateTime: 2023-07-12T22:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/prime/technology-and-startups/ibms-watsonx-big-blue-wants-to-reclaim-the-pole-position-in-ai-with-its-latest-offering-can-it/primearticleshow/101703212.cms"
+    ampWebUrl: "https://m.economictimes.com/prime/technology-and-startups/ibms-watsonx-big-blue-wants-to-reclaim-the-pole-position-in-ai-with-its-latest-offering-can-it/amp_primearticleshow/101703212.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/ibms-watsonx-big-blue-wants-to-reclaim-the-pole-position-in-ai-with-its-latest-offering-can-it/amp_primearticleshow/101703212.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 60
+    images:
+      - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
+        width: 710
+        height: 408
+        isCached: true
   - title: "IBM Watsonx platform to power the future of AI for business"
     excerpt: "Artificial intelligence (AI) has taken the world by storm and businesses that can harness the transformative potential of this technology stand to propel their operations into a new frontier of productivity,"
     publishedDateTime: 2023-07-11T20:38:00Z

@@ -25,31 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Pope Francis launches a guide to using artificial intelligence"
-    excerpt: "There are more and more voices that are warning about the use and consequences of artificial intelligence. They are often the voices of tech entrepreneurs like Elon Musk or the experts involved in their development."
-    publishedDateTime: 2023-07-08T05:42:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html"
-    ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html"
+  - title: "Why are people putting traffic cones on self-driving cars in San Francisco?"
+    excerpt: "Self-driving cars have become a consistent presence on the streets of San Francisco, but not everyone is happy about it. A group of protesters called Safe Street Rebel has taken to stopping the vehicles in their tracks by placing orange traffic cones on their hoods,"
+    publishedDateTime: 2023-07-12T21:59:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco?_amp=true"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 59
+      name: Government Technology
+      domain: govtech.com
+    quality: 42
     images:
-      - url: "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/Pope-Francis-arrives-for-his-weekly-general-audience-in-St.-Peters-Square-ap.jpg"
-        width: 760
-        height: 443
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/0605953/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F44%2Fcf%2Ffc5dca444eab88d7941e527fcb8e%2Ftraffic-cone.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Pope Francis announces new AI ethics handbook: Report"
-    excerpt: "The handbook aims to provide guidance on the ethical implications of AI, machine learning, encryption, tracking, and more Pope Francis announces new AI ethics handbook: Report Artificial intelligence,"
-    publishedDateTime: 2023-07-10T13:16:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/pope-francis-announces-new-ai-ethics-handbook-report"
+  - title: "Upset Citizens Attempt to Impede Self-Driving Cars With Orange Cones; Waymo & Cruise Seem to Confirm this Works"
+    excerpt: "Whether they're pranksters or protesters, citizens say they are stopping automated vehicles by placing cones on the hood of the car. Waymo & Cruise threaten legal remedy."
+    publishedDateTime: 2023-07-09T18:14:00Z
+    webUrl: "https://hoodline.com/2023/07/upset-citizens-attempt-to-impede-self-driving-cars-with-orange-cones-waymo-cruise-seem-to-confirm-this-works/"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 34
+      name: Hoodline
+      domain: hoodline.com
+    quality: 19
+    images:
+      - url: "https://img.hoodline.com/2023/07/waymo-cone.jpg?max-h=400&w=1110&fit=crop&crop=faces,center"
+        width: 1110
+        height: 400
+        isCached: true
+  - title: "Illinois motorcycle group opposed to self-driving cars and upcoming testing"
+    excerpt: "An Illinois motorcycle group is raising a red flag over planned testing of self-driving cars this summer. Tesla is hiring temporary test drivers around the country, including in Elgin, who will be paid to drive their vehicles and report on their performance."
+    publishedDateTime: 2023-07-12T19:05:00Z
+    webUrl: "https://www.thecentersquare.com/illinois/article_167f76c2-20e4-11ee-b1e8-ebcb0483dd3d.html"
+    type: article
+    provider:
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 2
   - title: "San Francisco group placing traffic cones on self-driving cars to disable them"
     excerpt: "The Safe Street Rebels, known for advocating for pedestrian safety and public transit usage, are calling their protest the \"Week of Cone.\""
     publishedDateTime: 2023-07-08T19:31:00Z
@@ -58,6 +72,24 @@ related:
     provider:
       name: ABC7
       domain: abc7.com
+    quality: 0
+  - title: "Annoyed Residents Disabling Self-Driving Cars by Placing Traffic Cones on Their Hoods"
+    excerpt: "By placing traffic cones on self-driving cars' hoods, activists are turning them into useless hunks of metal and plastic."
+    publishedDateTime: 2023-07-11T19:44:00Z
+    webUrl: "https://futurism.com/the-byte/trapping-self-driving-cars-traffic-cones"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 0
+  - title: "Anti Self-Driving Activists Are Fighting Back After a Car Caused Several Concerning Collisions"
+    excerpt: "Protestors in San Francisco are interfering with autonomous vehicles as they look to reduce the number of cars on the road."
+    publishedDateTime: 2023-07-11T18:53:00Z
+    webUrl: "https://www.thestreet.com/electric-vehicles/anti-self-driving-activists-are-fighting-back-after-a-car-caused-several-concerning-collisions"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 0
 
 secured: "YsvilQqxID7QRZJ5hVAE2UTON7A9VSqk8mnNx+7mVno5m5TBodVs4oyQcgwsPKIkZ5+OMhdg3AqOqniby0QKb3CNAh7ctQlSxdS/erf4xjPX6L+k2eSOrF8bDJUkB87FTkzgAMSopfbVbsN3/JoHW/g9JS5ll7danQKrnTTdap7Hy5nbmCZOMfClZ8v4k3dulgxyQpzxf6Mm2UDoF7GbDOMtQLsDcUpZ/uM8nsazTLfV7nnBz2Dpd76klkCF9cK7nrHbWG2xQh70/I3swKcpnEi1K4w5lfdjgrUAulEyzy06mE+wmoTeJgMvtcNzOafmpx2bBGj2WFEkKC+5GisgjDH9uji5lXVduBnFZ6FMluY=;O1M5k+G2+v/MrYlrxCo4gA=="

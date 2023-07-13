@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why learning the language of humans is key to enable generative AI for automation"
+    excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
+    publishedDateTime: 2023-07-12T23:42:00Z
+    webUrl: "https://venturebeat.com/ai/why-learning-the-language-of-humans-is-key-to-enable-generative-ai-for-automation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM1294-e1689200748872.jpg?w=1200&strip=all"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Should I Use Generative AI for Hiring?"
     excerpt: "Generative AI like ChatGPT can enhance, not replace, human decision-making like any other hiring tool, according to industry experts."
     publishedDateTime: 2023-07-10T18:05:00Z

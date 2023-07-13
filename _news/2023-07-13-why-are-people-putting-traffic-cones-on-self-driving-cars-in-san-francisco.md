@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI save commercial real estate in San Francisco?"
+    excerpt: "When MosaicML, a generative AI platform company, decided to upgrade its office space, its CEO and co-founder, Naveen Rao, was set on San Francisco, even though he lives in Southern California. “Everyone is talking about doom and gloom,"
+    publishedDateTime: 2023-07-10T14:00:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/10/can-ai-save-commercial-real-estate-in-san-francisco/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xYTI0NjU0ODZmZjUyYTExZWYzNjM1ZmRhYjAzMjkyZg-L19wYWdlcy9oXzAzYjdlY2I3ZmI3NDJkZmVjNzRkY2UzODgyM2RjYmM4-300.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Upset Citizens Attempt to Impede Self-Driving Cars With Orange Cones; Waymo & Cruise Seem to Confirm this Works"
     excerpt: "Whether they're pranksters or protesters, citizens say they are stopping automated vehicles by placing cones on the hood of the car. Waymo & Cruise threaten legal remedy."
     publishedDateTime: 2023-07-09T18:14:00Z
@@ -50,6 +64,15 @@ related:
       name: The Center Square
       domain: thecentersquare.com
     quality: 2
+  - title: "San Francisco group placing traffic cones on self-driving cars to disable them"
+    excerpt: "The Safe Street Rebels, known for advocating for pedestrian safety and public transit usage, are calling their protest the \"Week of Cone.\""
+    publishedDateTime: 2023-07-08T19:31:00Z
+    webUrl: "https://abc7.com/san-francisco-driverless-car-cones-sf-robotaxi-waymo-cruise/13478843/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 0
   - title: "Annoyed Residents Disabling Self-Driving Cars by Placing Traffic Cones on Their Hoods"
     excerpt: "By placing traffic cones on self-driving cars' hoods, activists are turning them into useless hunks of metal and plastic."
     publishedDateTime: 2023-07-11T19:44:00Z
@@ -69,6 +92,6 @@ related:
       domain: thestreet.com
     quality: 0
 
-secured: "sylZdrs2o0HNBlThU+GhFeeToQe8Z39cvJNHc74YquoP04NrOorOQtaQ0LK9qmfZDpacD5MThxXDHwy1gykjKAPHrCJr+SWzfoIy6pi4uI9P5AILKYpWvP9l66L90Dk2hdv7tJXrJSsovfAMaXRd/vWnyRlJVJSr6NXhLKIO7C+7f7Ve0qZAmC8tdomnFF44vMYcnyJ2MQKITge8a2sJpYO7HN1sv+c6s5cSb5UPHtOlJkStKGxfgQ+Pm1f8lAXVru2sgcIlC7qEoojCz575bHOmXL4OGvtocMjf9fqRpkUrAPpqHk6LPmeKoP2hgx5iTHSpPtgfAbsW/dYuMz2YAwpQnt86nwjvy/0oDh4ouRA=;S8DIbZgaaN/Kz+3rPv61kg=="
+secured: "EYg1JvfOWjjRVb35WPZaidw29HY30bsBjmLmyYhzDMoWvGZcNjR/xRJSjfqTfyZcEHqQAEmPHHYirF1N9syZRYwwIyN/lrfXWRN9fcZ8nNHWZj9Q0T5E/wef89YqvEpWpI9fSXomThw7qb4+Q1W91uZF7PauUELxjKn8DnWT4p6muvmdzZKnrBoSUjewApXykFZUVsuc2nJrexqPHuKc8s6zTpJ3QUif5AxKilYSZokVPw4hZ4R9+c0WW20DnJJVQAD9ySo7f6wGD6ayUAbLyF+w20DVV9WQruvs8qSEpztWyyVPKS+sBPfd5rVsLZPq2Op634nrwK3LT3GJeg7z4SxAFibGjV5xDtD1cgUHpW1Wi72F2QMuRkwUJC6IbgO45V7s+glkQFj0j2rCPzMAvnqw2tKgIooieBLZmyqmuWUT5xEPSsm0CY/jyO3lK4xvFkjZLTU8qNxbuPuTMOGHaKnI7KyDCt7HngzAU/cM924Xvr3GG8xm6vXF3Rl/K6to16GqAhiKlIXMt8fzuzG7eA==;Q6I/BBBXBJ0TVY/chMSfDQ=="
 ---
 

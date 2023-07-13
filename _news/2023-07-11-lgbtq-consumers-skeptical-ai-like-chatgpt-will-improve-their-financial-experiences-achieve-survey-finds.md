@@ -85,6 +85,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk takes aim at ChatGPT with launch of artificial intelligence firm xAI"
+    excerpt: "Musk has said on several occasions that the development of AI should be paused and that the sector needs regulation."
+    publishedDateTime: 2023-07-12T18:53:00Z
+    webUrl: "https://nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/"
+    ampWebUrl: "https://nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 68
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/elon-misk-xai.jpg?quality=75&strip=all&1689166555&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Elon Musk's New ChatGPT Competitor Boosts AI-Related Crypto Tokens"
     excerpt: "Tokens such as AGIX and FET saw modest bump after Musk announced new Artificial Intelligence (AI) company \"xAI\" to take on ChatGPT."
     publishedDateTime: 2023-07-12T17:13:00Z

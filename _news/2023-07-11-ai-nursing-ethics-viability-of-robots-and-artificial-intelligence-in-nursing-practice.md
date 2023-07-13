@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-10T19:49:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
 type: article
-quality: 88
-heat: 98
+quality: 90
+heat: 100
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 related:
   - title: "Robot nurses, powered by AI – a viable perspective?"

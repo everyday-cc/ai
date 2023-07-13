@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-und
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/"
 type: article
 quality: 85
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -70,6 +70,22 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/431486/elon-musk-announces-new-ai-company-with-mission-to-understand-reality.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Elon Musk forms new AI company in effort to 'understand reality'"
+    excerpt: "Elon Musk is starting a new artificial intelligence company, the Billionaire confirmed in a social media post Wednesday."
+    publishedDateTime: 2023-07-12T20:14:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4101689191585/2023/1/e662462498a31d48e525316758705af4/v1.5/Elon-Musk-forms-new-AI-company-in-effort-to-understand-reality.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Musk announces new AI company that seeks to “understand the universe”"
     excerpt: "Elon Musk formally announced the formation of xAI, a company aimed at understanding \"the true nature of the universe\" that will draw from a heavy bench of industry veterans to take on OpenAI's popular chatbot ChatGPT."

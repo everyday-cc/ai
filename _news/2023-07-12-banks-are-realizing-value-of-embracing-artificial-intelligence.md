@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Future of AI Regulation: How Can We Get it Right?"
+    excerpt: "The EU AI Act is a sensible starting point but it is by no means the gold standard for AI regulation and there are concerns around the EU’s highly prescriptive legislative framework."
+    publishedDateTime: 2023-07-12T22:06:00Z
+    webUrl: "https://www.law.com/international-edition/2023/07/12/the-future-of-ai-regulation-how-can-we-get-it-right/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/06/Chat-GPT-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "B3t6D/pf5SZ8fQY3OFG/q1TcknAQHSveCmGcM2VIsWmCPzmkZsAsFDBAmd8yXcmiD01nntA0owFs4LnaL6qRheq12H6Fwd0ufv08FQy7Bs0q4mxcY9XXWYH4EY1z9Y67AO2ROA5W+OF84rcbH011dw850PeJyG+jXi14P3+i6pAFkb2YhrHlHJiauPaW8nzJnuP1oCX5ahMe3IN41mTEHy6tTNxDt3gwQ7j9Dpb8lSmudBt/wPa3if+qoxNhJxkQJhnkJSorswIuHnDSXIGSfHhBMqvNDkboRvTuCbfYHgvvMrZSyuanTj2yxgxNdUOT0+fYUaJQbKwWIbD7IHnVdGzQ7bRthbQzr4IkMtVkp2uLmVPRLcqr2S48MN0x4xENzYRtp7gSlwix7+8ne1tpXLjEH7g+Ntv4eZ2I7tZMTh12bhJqw7fe5ZAHav3nTUIMVhNYvUjeTIf0Y5I4xKJlqRLUGU6kGLzQbrEiVYTp2xiN7k7/fiN/fJE+3W7Ag/ucWZL/jZ5ysmgLlI3Xrqz6DQ==;KdmcxMXTeOacq8jfkUFyYA=="
 ---

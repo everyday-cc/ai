@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "A fraudulent presentation of Australia’s Indigenous Voice"
-    excerpt: "Indigenous Affairs minister Linda Burney’s address to the National Press Club was based on the assertion, contrary to all historical experience, that the Voice would provide “practical” solutions to the appalling social conditions impacting the Aboriginal population."
-    publishedDateTime: 2023-07-10T04:45:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/07/10/gpot-j10.html"
+  - title: "Venezuelan professor receives international recognition for his important contribution to Artificial Intelligence"
+    excerpt: "Prof. Rivas's main line of research and development is the applications of Artificial Intelligence in various areas, including the oil industry, healthcare, the financial sector, and education."
+    publishedDateTime: 2023-07-12T22:43:00Z
+    webUrl: "https://www.lapatilla.com/2023/07/12/venezuelan-professor-receives-international-recognition-for-his-important-contribution-to-artificial-intelligence/"
+    ampWebUrl: "https://www.lapatilla.com/2023/07/12/venezuelan-professor-receives-international-recognition-for-his-important-contribution-to-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-lapatilla-com.cdn.ampproject.org/c/s/www.lapatilla.com/2023/07/12/venezuelan-professor-receives-international-recognition-for-his-important-contribution-to-artificial-intelligence/amp/"
     type: article
     provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 24
+      name: La Patilla
+      domain: lapatilla.com
+    quality: 38
     images:
-      - url: "https://www.wsws.org/asset/f25dc09f-d0a8-4f14-a043-b97f5c276272?rendition=1600x900"
-        width: 1600
-        height: 900
+      - url: "https://www.lapatilla.com/wp-content/uploads/2023/07/Imagen-de-WhatsApp-2023-07-11-a-las-09.21.02.jpg"
+        width: 720
+        height: 484
         isCached: true
 
 secured: "865wHK3Y9wGq6XXHFmH9CUWVbI4CxGACUl8oSnKFG9iLSuVWs/YqhfCDuNCtkkWUoKxkOglKikR2c7AxtICpYkEF9ZTft+OOqbvt+mWAGKbJwfPQpvO3i7hkKvcqzsom/SmsqtWpK9DkhK+g0CSiavlu2m6hfqYnX3NCO1k1MUwkAYZcy1xbondOaa9A1f4XHHmcu4yHaCq8sJJzD6DqlPJh9xSTCNGKBEEfykKo2yNoJ/3b6USY3sZ2nH7jXkag6YbNOCXrUqr3l4AUmxazdkUnE6UstzBFkfVoc8gC+OrLml4uUgTHV0m9CP2LNd/IKKYmBITRBfSMynWvC2nsq4yICXpjcvxYhY6l9yogpyY=;7QEz865eo/FQGSW7Vu/6Ig=="

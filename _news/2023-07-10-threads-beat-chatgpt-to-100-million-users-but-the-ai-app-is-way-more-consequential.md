@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
 type: article
 quality: 81
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/13/87161d19-8c3f-4df4-a590-941c017ad967/thumbnail/1200x630/3b5d57cb4fee03f165853faa1a855a19/cbsn-fusion-elon-musk-announces-new-twitter-ceo-encrypted-messages-feature-thumbnail-1965276-640x360.jpg?v=0d985d39f30c0548885e26d84e710785"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Elon Musk takes aim at ChatGPT with launch of artificial intelligence firm xAI"
+    excerpt: "Musk has said on several occasions that the development of AI should be paused and that the sector needs regulation."
+    publishedDateTime: 2023-07-12T18:53:00Z
+    webUrl: "https://nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/"
+    ampWebUrl: "https://nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 68
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/elon-misk-xai.jpg?quality=75&strip=all&1689166555&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Elon Musk's New ChatGPT Competitor Boosts AI-Related Crypto Tokens"
     excerpt: "Tokens such as AGIX and FET saw modest bump after Musk announced new Artificial Intelligence (AI) company \"xAI\" to take on ChatGPT."
