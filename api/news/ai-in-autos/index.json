@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -218,7 +218,7 @@
       "originalUrl": "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -249,6 +249,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-how-much-should-we-fear-artificial-intelligence.md",
+      "title": "How much should we fear artificial intelligence?",
+      "excerpt": "How much should we fear artificial intelligence? on facebook (opens in a new window) How much should we fear artificial intelligence? on linkedin (opens in a new window)",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/6e775538-00a0-450e-8bba-33e1c13ebc6b",
+      "originalUrl": "https://www.ft.com/content/6e775538-00a0-450e-8bba-33e1c13ebc6b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F5b8ca4e1-e9cb-4b66-8c72-4a322a16ee90?source=next-opengraph&fit=scale-down&width=900",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-as-writers-actors-fight-for-ai-protections-artificial-intelligence-screenplay-competition-opens-quickly-closes.md",
+      "title": "As Writers & Actors Fight For AI Protections, Artificial Intelligence Screenplay Competition Opens & Quickly Closes",
+      "excerpt": "Scriptapalooza, a screenplay competition company, launched, and then quickly closed its Artificial Intelligence Screenplay Competition after a furor from writers. It comes as the writers are ...",
+      "sourceUrl": null,
+      "webUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/",
+      "originalUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1512881796.jpg?w=1024",
+          "width": 1024,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/amp/",
+      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/amp/",
+      "publishedDateTime": "2023-07-07T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline.com",
+        "domain": "deadline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -294,6 +380,102 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-the-top-artificial-intelligence-etfs-have-a-common-ingredient.md",
+      "title": "The Top Artificial-Intelligence ETFs Have a Common Ingredient",
+      "excerpt": "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest funds with AI in their name: the iShares Robotics and Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-812729?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-testing-real-driverless-cars-in-a-virtual-environment.md",
+      "title": "Testing real driverless cars in a virtual environment",
+      "excerpt": "Researchers have developed new software to aid in the development, evaluation and demonstration of safer autonomous, or driverless, vehicles. Called the Vehicle-in-Virtual-Environment (VVE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230706124531.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230706124531.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -969,6 +1151,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-nation-presses-the-accelerator-on-driverless-vehicles.md",
+      "title": "Nation presses the accelerator on driverless vehicles",
+      "excerpt": "A passenger travels in a driverless car at Baidu Technology ... \"Thanks to the convergence of machine learning and artificial intelligence, big data, mobility and advanced sensors, the autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202306/29/649cbee9a310bf8a1d231853.jpeg",
+          "width": 668,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-one-mans-quest-to-ban-teslas-full-self-driving-and-take-on-elon-musk.md",
       "title": "One Man’s Quest to Ban Tesla’s Full Self Driving and Take on Elon Musk",
       "excerpt": "The Dawn Project’s Dan O’Dowd paid for a Super Bowl ad and conducts regular tests to show that Tesla’s FSD technology is dangerous and should be outlawed.",
@@ -998,49 +1223,6 @@
       "provider": {
         "name": "Motor Trend",
         "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-nation-presses-the-accelerator-on-driverless-vehicles.md",
-      "title": "Nation presses the accelerator on driverless vehicles",
-      "excerpt": "Driverless road-paving vehicles operate in Hefei, Anhui province. [LIU YUCAI/FOR CHINA DAILY] Tech advances, policy support point road to the future. Driverless vehicles may sound",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202306/29/649cbee9a310bf8a1d231853.jpeg",
-          "width": 668,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1255,161 +1437,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-neil-chilson-on-the-future-of-artificial-intelligence.md",
-      "title": "Neil Chilson on the Future of Artificial Intelligence",
-      "excerpt": "Neil Chilson talked about the future of artificial intelligence. Javascript must be enabled in order to access C-SPAN videos. *This text was compiled from uncorrected Closed Captioning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?528950-3/neil-chilson-future-artificial-intelligence",
-      "originalUrl": "https://www.c-span.org/video/?528950-3/neil-chilson-future-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-artificial-intelligence-risks-ethics-and-future.md",
-      "title": "Artificial Intelligence: Risks, Ethics and Future",
-      "excerpt": "With great power comes great responsibility, despite the numerous advantages that AI evolution brings to the world. It could pose profound risks to society if not handled properly. Along with other global/societal risks i.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
-      "originalUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/",
-      "publishedDateTime": "2023-06-27T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-artificial-intelligence-now-being-used-in-grandparent-scam-what-you-need-to-know.md",
-      "title": "Artificial intelligence now being used in Grandparent Scam. What you need to know",
-      "excerpt": "If it wasn’t bad enough that scammers target grandparents, trying to pull on their heartstrings with a panicked call from a \"grandchild\" in trouble, now artificial intelligence is involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain.md",
-      "title": "UTEP researchers construct self-driving boat that maps underwater terrain",
-      "excerpt": "Researchers at the University of Texas at El Paso have constructed a “fully autonomous boat” that can make it easier for scientists to study underwater",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/",
-      "originalUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ktsm.com/wp-content/uploads/sites/38/2023/06/Autonomous-Boat_5-1.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/",
-      "cdnAmpWebUrl": "https://www-ktsm-com.cdn.ampproject.org/c/s/www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/",
-      "publishedDateTime": "2023-06-27T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsChannel 9 - KTSM",
-        "domain": "ktsm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

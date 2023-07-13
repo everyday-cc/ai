@@ -103,6 +103,22 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Wipro up 1%; company to invest $1 billion in AI over 3 years"
+    excerpt: "The Bengaluru-headquartered company also said that it will accelerate investments in startups through Wipro Ventures."
+    publishedDateTime: 2023-07-13T04:53:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/markets/wipro-up-1-company-to-invest-1-billion-in-ai-over-3-years-10949671.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/wipro-up-1-company-to-invest-1-billion-in-ai-over-3-years-10949671.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/wipro-up-1-company-to-invest-1-billion-in-ai-over-3-years-10949671.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/stocks_market-stock_stock.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Wipro launches ai360, will invest $1 billion into AI the next three years"
     excerpt: "IT major Wipro announced the launch of ai360 service and plans to invest $1 billion in artificial intelligence over the next three years. The move follows Tata Consultancy Services' announcement to train 25,"
     publishedDateTime: 2023-07-12T03:36:00Z
@@ -226,6 +242,6 @@ related:
       domain: businesstimes.com.sg
     quality: 19
 
-secured: "D+fKYqE7CTOFyRS2OJemarnNvfpWRDSOcncYM3LbwYr/xscdf/Kztu5oyX9qryNrs3xPTTBwTRPjnSixM/A4Sdy2qreK96TQmgsbmmnVvZXs3DMXOQj8RrcGKSgrWcimSgir1aWpogpqerj8xVs6v8SZZQkjcScDE9zp1wdIAHjHgzOcfVid5Bzdm5Qoe9ol7kW3WS9Pz4zcnj8HxZFnItCejlipkeKCMYkRm8gMNHUAb0oMD9z8WaM1ju8mjgDiQMlE3iHcxjf8+4kfezUYaCbmp058Xh0z0egBRm+MVVBEFq85jXneMwbcJvka44EG3N0QeepQAxG8B6xnZwvVWG2ThzbrIsTSB7rYrCqDd9E=;yvFx+QmNWicCYTr0KDnN9Q=="
+secured: "9HCI7M+paNnqxqG0zmgN/L8fTNAhGSTUePVA0BPLHeR9xqcyXmLWtqJXHiftPUKczf9tEh2Go1rzj29wzoOam75HyO6w5j5mKpatpEQlamXQupd06KGjjnaMlTFLDyQgJi3psMIgRCRKHp3IfH2QeTdfkNb46BgkVgA+giteUMycEJQkblp3I5NV0zefqqEwrH5WqLjuF4Dq+gzcOarVpUY7IWDSHClg+yThWxCqUwmpEAwx42/J6idyeHVJvsFfbXQH+fevri6zT7RddXjoYCgWNqLpWuJwxAn+AvyhOUFQhG1kMVu+E21Y4cvYs4lmuMtxA35FKRpgxY9NrlMMnhWt/fqd8xUJV0eBb8KVmunN5WJWj4PG4czbT+y/D48yGhyBlhUxu2TJdvHhsqk1ujL12YmQTx65LMd6wJvuQX8KXBhqAP0rJapesaSz2O28PTPdixHN7I/7ijBqYRWmUOzKekYpXqsQcsOtjs+A9Nz/Xdb8GpSS4jguNOgTGMmXKUPEe7o6HnxRAWPRzz28IQ==;REtmt7U10Ld35xtPvAZ2+g=="
 ---
 

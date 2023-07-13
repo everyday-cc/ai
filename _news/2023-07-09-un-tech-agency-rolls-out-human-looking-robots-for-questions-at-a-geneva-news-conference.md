@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humanoid robots take questions at a Geneva news conference"
-    excerpt: "The International Telecommunication Union invited reporters to ask robots questions on Friday at an event meant to spark discussion about the future of artificial intelligence. BERLIN -- A United ..."
-    publishedDateTime: 2023-07-08T11:07:00Z
-    webUrl: "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
-    ampWebUrl: "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 59
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "UN Tech Agency Rolls Out Human-looking Robots For Questions At A Geneva News Conference"
     excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
     publishedDateTime: 2023-07-11T07:40:00Z

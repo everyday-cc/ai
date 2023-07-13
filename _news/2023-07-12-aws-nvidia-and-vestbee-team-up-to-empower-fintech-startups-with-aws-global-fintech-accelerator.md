@@ -68,6 +68,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "A new fintech startup accelerator programme was introduced by PayU, Amazon, and Chiratae Ventures"
+    excerpt: "A new fintech startup accelerator programme was introduced by PayU, Amazon, and Chiratae Ventures - A new fintech accelerator programme called “inFINity” for early-stage Indian startups launched by"
+    publishedDateTime: 2023-07-13T03:11:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/a-new-fintech-startup-accelerator-programme-was-introduced-by-payu-amazon-and-chiratae-ventures-nid-224064-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 11
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/4z8Sh1DY.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "New accelerator programme for fintech startups in India launched"
     excerpt: "FINity accelerator is a 45-day programme that brings together and supports the growth of early-stage fintech startups by providing access to mentorship from leading industry experts, curated resources,"
     publishedDateTime: 2023-07-12T10:30:00Z

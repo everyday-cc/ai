@@ -150,15 +150,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
-    excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
-    publishedDateTime: 2023-07-08T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 72
   - title: "Generative AI in Healthcare Market Size is Expanding Around USD 21.74 Billion by 2032"
     excerpt: "As per Precedence Research, the U.S. generative AI in healthcare market size will reach at USD 8.7 billion by 2032. Generative AI, refers to a class of artificial intelligence"
     publishedDateTime: 2023-07-10T07:47:00Z

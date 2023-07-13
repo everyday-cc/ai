@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nation presses the accelerator on driverless vehicles"
-excerpt: "Driverless road-paving vehicles operate in Hefei, Anhui province. [LIU YUCAI/FOR CHINA DAILY] Tech advances, policy support point road to the future. Driverless vehicles may sound"
-publishedDateTime: 2023-06-29T01:36:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html"
-webUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9.html"
+excerpt: "A passenger travels in a driverless car at Baidu Technology ... \"Thanks to the convergence of machine learning and artificial intelligence, big data, mobility and advanced sensors, the autonomous ..."
+publishedDateTime: 2023-06-29T07:45:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
+webUrl: "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 445
     isCached: true
 
-secured: "L/Df9bgUCgA6RPUqPdkKJpDXlLp53Cv976wrM5xi8XUu9ShkCXy+tETQRSi6DDKU4OtDMLXErRw7Di7SynsPN24Fdc95Lbzzi3NEzvZr9sx0QXjrWwlXXhQFq1BkdQr8Vc2oIqyfUVvoFfwtOJ+/XolznWmi/nzJLp+iSWCNA2V7iKuYBs9WTv2+bzsiaYVLtlt8kGv8B0FjuXgIiuZw5l5GupXFirHPqWKj+gly7JUQZD0h8gRQul7lt46h9Ecf2eMg5QAhrgB8ic2NhFt1oyCKavdfrlmdvDfoT6hwnqemRc1CKz4xlULn4dccmOSuGk+ciuU/AiyHFJTPbYk54x5w7Kgdqh+iNXRT2rDXvCg=;WCN/FK+AcFt+i5TGkQGAKw=="
+secured: "u+bFXMGL5QqpiwzLq6D0Gq97uGYVkMEVwkvsSyyAuXYQXHeuC18lh/BtTPfPf2Wv3Cgw7juRNzJz3FC2g+lJ7EkaphiZSftdX8+Tyv8rbK/jwY0poSl8F8ourC2iXMmRM0JlAHDaIL/Uohz6vjS7dlJOnTmuRuUlMRjJyL9nNkeBhhvsNNChg2QP+YLzRql2ZVLIXFIuOcGWZmomX8UcBDR9EhdOUhqUm05aWGdvRB+sqR83U1AI7b1sl++y8OdnguVHxW1vlv9M0j/ob0c5kjxL8njP/9TB4FJP3c0RVmCl/FCEXTDwDmiTecFJu6+14hv2VmXUmWYo6s395Naig+NQpu629QEmwjSipiwd63o=;1iGhZH/wsGKAH+fodulJjw=="
 ---
 

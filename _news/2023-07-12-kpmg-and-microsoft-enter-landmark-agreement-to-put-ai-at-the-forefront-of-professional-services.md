@@ -178,6 +178,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 30
+  - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
+    excerpt: "Developers get future-ready with Microsoft Cloud certifications; build innovative solutions to accelerate inclusive growth for IndiaBengaluru, January 2,"
+    publishedDateTime: 2023-07-13T03:39:00Z
+    webUrl: "https://www.inferse.com/610126/microsoft-celebrates-future-ready-champions-of-code-with-over-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 17
 
 secured: "90YOl7EnEz+EfaNkS3DBmt5P2hYn4Cz2v+wwtEshPb1x9YVm22hj+crHRiEEk750Goftl2t8216v5sIOPENwv45FyDdLSLLQCoj1h71cWYj2MuI3bB6m6y3vBDy0IIuhq8Q7TAoT6VYlUsd4NeoN9I+1yptIl7Av8DLQWYt+wyw7OC16gpeVbkU8K7rCuPyV+bORbiEbFx36rYl7bcRnQnUFIE1QATbUjtRdrERcV7sULor7sOp6Rp0d5Js6NK4ey2MUPnWGJMY/R5oT3ypFqU8qawslFvZrkEdrKhq8JOvDCALsOe/I45sUETyczUewQzVJko7kreBCG7ZI3soo1yWLXvRV/Nd/9RpkPnqmTAk=;4slRflIjLRqZrQ33A4M05g=="
 ---

@@ -59,6 +59,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "A new fintech startup accelerator programme was introduced by PayU, Amazon, and Chiratae Ventures"
+    excerpt: "A new fintech startup accelerator programme was introduced by PayU, Amazon, and Chiratae Ventures - A new fintech accelerator programme called “inFINity” for early-stage Indian startups launched by"
+    publishedDateTime: 2023-07-13T03:11:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/a-new-fintech-startup-accelerator-programme-was-introduced-by-payu-amazon-and-chiratae-ventures-nid-224064-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 11
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/4z8Sh1DY.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "AWS, NVIDIA and Vestbee team up to empower Fintech Startups with AWS Global Fintech Accelerator"
     excerpt: "AWS has launched its brand new program AWS Global Fintech Accelerator in collaboration with NVIDIA and Vestbee that will equip fintech startups with tools, resources and a wide network of top experts,"
     publishedDateTime: 2023-07-11T17:49:00Z

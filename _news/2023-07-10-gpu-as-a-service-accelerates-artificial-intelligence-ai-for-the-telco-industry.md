@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://ee.cdnartwhere.eu/wp-content/uploads/2023/07/2023-07-10-GPU-as-a-Service-AI-Innovation-scaled.jpg"
         width: 1080
         height: 754
+        isCached: true
+  - title: "Intel Launches AI Accelerator Chip in China"
+    excerpt: "US chipmaker Intel has launched a second-generation artificial intelligence accelerator chipset for the Chinese market. Habana Gaudi2 can be used to accelerate AI training and interface, the Santa Clara-based firm announced on July 11."
+    publishedDateTime: 2023-07-13T03:08:00Z
+    webUrl: "https://www.yicaiglobal.com/news/intel-launches-ai-accelerator-chip-in-china"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 54
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/27871284174533.jpg"
+        width: 770
+        height: 510
         isCached: true
   - title: "Activeport, Radian Arc Expand Relationship to Accelerate AI Deployment in Telecoms"
     excerpt: "ActivePort and Radian Arc are excited to announce an expanded relationship that will accelerate AI deployment within the telecommunications industry."

@@ -174,6 +174,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 22
+  - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
+    excerpt: "Developers get future-ready with Microsoft Cloud certifications; build innovative solutions to accelerate inclusive growth for IndiaBengaluru, January 2,"
+    publishedDateTime: 2023-07-13T03:39:00Z
+    webUrl: "https://www.inferse.com/610126/microsoft-celebrates-future-ready-champions-of-code-with-over-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 17
 
 secured: "fDfuDHtNUiwHY7c6TxeZW6divyR78dHNx6qUmPf78vKgY2QDLKpB9y7tiOEsjYH4TRJon3IeJsKu2F3VTKy8lJDp4dBFIg1CHbLloFRSynk+Xk9iCuhSm4vKzrIp109yFsXIgdbzfLFwox9fFm0eQdaNPw8zXvwS9xGG/UkL86XmfusqxGWBOPTeTx5cu/Ia0Ne7ZjoELXSEfeH3iR7WO/ENMNhYamTnH3yDD2mWulomaTTeDkB9rN7WxjOX5wWqwtBiFeH5KA4c7M5vZJ7C73BYpxq2RfR2imSubqHTDt2uguDTbBlDZa+3pzJdTho5vDSyKfKr1FadgD2edZj4XmfXand6NJPmBivsFX6PtK4=;PitotN54rR1sy3xc/OcLMA=="
 ---

@@ -49,6 +49,22 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "Chipotle Unveils ‘Autocado’ Robot Developed by Vebu That Peels and Cores Avocados for Guacamole"
+    excerpt: "Called \"Autocado,\" Chipotle unveiled Wednesday a new avocado processing collaborative robot (cobotic) that helps cut, core, and peel avocados before they are hand mashed to create its signature guacamole."
+    publishedDateTime: 2023-07-13T04:03:00Z
+    webUrl: "https://www.techtimes.com/articles/293731/20230713/chipotle-autocado-robot-vebu-peels-cores-avocados-guacamole.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293731/20230713/chipotle-autocado-robot-vebu-peels-cores-avocados-guacamole.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293731/20230713/chipotle-autocado-robot-vebu-peels-cores-avocados-guacamole.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 47
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431501/chipotle-unveils-autocado-robot-developed-by-vebu-that-peels-and-cores-avocados-for-guacamole.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Chipotle is Testing a Robot that Can Cut, Core, and Peel Avocados"
     excerpt: "Now, Chipotle is testing an “avocado processing cobotic” prototype that can cut, core, and peel avocadoes before they’re hand mashed into guacamole. Called “Autocado,” the model was developed in collaboration with Vebu,"
     publishedDateTime: 2023-07-12T15:11:00Z

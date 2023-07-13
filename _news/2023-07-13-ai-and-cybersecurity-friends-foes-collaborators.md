@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-colla
 webUrl: "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-collaborators/"
 type: article
 quality: 69
-heat: 110
+heat: 109
 published: true
 
 provider:

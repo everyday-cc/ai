@@ -115,6 +115,20 @@ related:
       name: Fortune
       domain: fortune.com
     quality: 37
+  - title: "Elon Musk unveils new AI company to rival ChatGPT and unlock the secrets of the universe"
+    excerpt: "Twitter owner, Tesla, and SpaceX CEO Elon Musk has announced a new AI company that will rival ChatGPT and unlock the universe's secrets."
+    publishedDateTime: 2023-07-13T05:45:00Z
+    webUrl: "https://www.tweaktown.com/news/92319/elon-musk-unveils-new-ai-company-to-rival-chatgpt-and-unlock-the-secrets-of-universe/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 28
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92319_165_elon-musk-announces-new-company_full.png"
+        width: 1500
+        height: 914
+        isCached: true
   - title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
     excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
     publishedDateTime: 2023-07-12T18:37:00Z
@@ -125,6 +139,6 @@ related:
       domain: nydailynews.com
     quality: 11
 
-secured: "smrBcYjEWwZVH9dtEH78tM05b2IKkn+BQg3q/m94FOTFuad0kyjPaRTW0xRaRubuTYzMUOZC3Kn+YKH+DcKbXY3jA+t1SX8Z0Sb2tb1sDX9tFhtdlGph3ke/bDdRuvtmp5sAb5eJ05uQuebTQoTWzS6l2Xf+nSD91NBZtS3Cyg0W5UHLpUP2Dy7UvAqm6MnykdXp1UHDXSeMt24E1nHn4Tpf0W9GnFGt9vlXsNYONMA1bN9EbJUGZ3uRANLTBk9xgSUPfVE72mW3AkH9XQQHuiF41SxFVnqdtzNaYn1nssjcxuYEDtFq/l3SG2pCyeXoLjbOrB4ioFTmMy15VqMMW963iATVIbfwkNgdITakO3k=;lvXqq610q+7WFIEzkU5TjA=="
+secured: "edqq14kkpgzJNuz7JNzvUZe+hgS9Ow3zIVWMSaLpH+fg5Xf7nBeP6Zvu00z6x/rF9Fw6L/eMvn4Gu48/FkrGMERUBrat6vA3+l7SlD3cmFCqKazual98sHttXCDWoPkAOhOVhnW09WE3oSUD6j3xu55fdv3y/IC/sBOu6rcI6tgQOFAd7+Kp9xWuWPspqx2Apb0cnZOrQYQNvZAhayLxZ/jxZkyKH7/SNgJ585T2Lin0VImn0R22d4Gv9eni8nsLbgrZxRipoETcGUzjnb/boo1X2JYGehWb4W8TUfLP5jFmP/FxjNCLEMhNMDaxbvk8u64YRayirBji0JM7uFC7hf57hWnYUAC7n6AMVpenEElL2J20qaDjFJi1ykc58iscGDoTzGfTOXGurU03nRwKAws9zEVziSH8HRt6oljJtT5yJ2uyn+K+b1dDKf5lp2QXp+ZeUJDHnFeeWqoyz+fBu1X1sedi7MjzvkFqB8qgY63xSTsKC6/vENCyWK5KKDYNHPEfCADND/eZPXb6LCE5Eg==;i2EdRlNyI07DIg+Ppnwnyw=="
 ---
 

@@ -117,6 +117,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Service Robotics - India"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$116.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.45%, resulting in a market volume of US$317 ..."
+    publishedDateTime: 2023-07-12T09:30:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/india"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9S0SE/0wW1tdXG4miu2KMoVU6bYlVtFRcjSKVK+3TNQXC4ZltGETHjkv+4D7mxvP5NMEYd44OgWWKoVGy+IiTP/OO8n9i5ZkFM21rUCXaTNH0bP9lG5t6DZn1kWt6RO8aDjFZytqZMZzCTctQrjOr5tS4u/i++BswqHQp7oJy7pTIp93hoan/70mhdRwlgqOEtxAoEjuxIidwjHDZs2D3HKMHMhuF2S4V43nYYU2llDbyMDcl5EpbYOFJYjYkCyH/zzrP0KXXM10GcTktk3MZ57NKJ84Z1rYrI15C1ub/D1vam1Z/1TvmAX+GSSsxHQKnjup5w6xczAUdLybERAacdFsaKKFi3aixJzdNQt6Sns=;krjAcgM447qQMwTv1F0+jg=="
 ---

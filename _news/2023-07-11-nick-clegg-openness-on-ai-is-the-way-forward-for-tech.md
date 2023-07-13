@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Will Generative AI Take Away Startup Jobs?"
+    excerpt: "But, jobs were still more or less safe. However, today, with the popularity of ChatGPT and generative AI and the rise of startup ecosystem, 'AI taking away jobs' is no longer a debate inside the four walls of institutions, it seems to have become a reality."
+    publishedDateTime: 2023-07-13T05:31:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/will-generative-ai-take-away-startup-jobs/455743"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1689225286-pexels-ono-kosuki-5999786.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Why learning the language of humans is key to enable generative AI for automation"
     excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
     publishedDateTime: 2023-07-12T23:42:00Z
@@ -121,15 +135,6 @@ related:
         width: 411
         height: 292
         isCached: true
-  - title: "The Next Platform for AI-Generated Art: Your Bicep"
-    excerpt: "Twelve days before last Christmas, Marina Rosa, an artificial intelligence engineer in São Paulo, Brazil, walked into a neighborhood tattoo parlor and laid her left arm on the table. Rosa then asked artist Nadine Guerra to give her a tattoo made up of various elements,"
-    publishedDateTime: 2023-07-08T12:59:00Z
-    webUrl: "https://www.theinformation.com/articles/the-next-platform-for-ai-generated-art-your-bicep"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
   - title: "3 Lessons from State Street's Move Into Generative Artificial Intelligence"
     excerpt: "Relieve genuine customer pain, bring world-class skills to solve the problem, partner to close the capability gap."
     publishedDateTime: 2023-07-09T08:08:00Z

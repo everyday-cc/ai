@@ -140,15 +140,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
-    excerpt: "The search giant is fine-tuning chatbot technology via medical licensing exams."
-    publishedDateTime: 2023-07-08T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-bb7c2db8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 72
   - title: "7 Best AI Art Generators of 2023"
     excerpt: "This is a comprehensive list of the best AI generators. Explore the advanced technology that transforms imagination into stunning artworks."
     publishedDateTime: 2023-07-11T16:40:00Z

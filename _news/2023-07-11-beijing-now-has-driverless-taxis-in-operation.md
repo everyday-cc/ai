@@ -67,6 +67,20 @@ related:
         width: 1198
         height: 813
         isCached: true
+  - title: "China Now Has Driverless Taxis"
+    excerpt: "The future is here – driverless taxis are now roaming the streets of Beijing. According to a press release from the head office of the Beijing High-Level Autonomous Driving Demonstration Area, as of Friday,"
+    publishedDateTime: 2023-07-13T05:05:00Z
+    webUrl: "https://www.thatsmags.com/china/post/36186/beijing-now-has-driverless-taxis-in-operation"
+    type: article
+    provider:
+      name: thatsmags.com
+      domain: thatsmags.com
+    quality: 39
+    images:
+      - url: "https://www.thatsmags.com/image/view/202307/52541689064370__pic.jpg"
+        width: 704
+        height: 460
+        isCached: true
   - title: "Self-Driving VW ID. Buzz Will Start Testing In The US"
     excerpt: "As part of its future expansion strategy into more US cities, Volkswagen has announced its plans to conduct tests on self-driving microbuses in Austin, Texas. The brand will utilize the autonomous technology developed by Mobileye to operate a fleet of ten all-electric ID."
     publishedDateTime: 2023-07-08T18:50:00Z

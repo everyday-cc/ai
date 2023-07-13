@@ -199,40 +199,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-11-australian-corporates-join-ai-chips-race.md",
-      "title": "Australian corporates join AI chips race",
-      "excerpt": "Corporate Australia has joined the global race to get its hands on advanced computer chips, a leading indicator of artificial intelligence and machine learning development, a top internet ser­vices company says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp",
-      "cdnAmpWebUrl": "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp",
-      "publishedDateTime": "2023-07-11T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-11-how-google-translate-used-ai-to-decipher-the-worlds-oldest-language-in-minutes.md",
       "title": "How Google Translate used AI to decipher the world's oldest language in minutes",
       "excerpt": "Akkadian, the language of the Akkadian Empire that thrived in present-day Iraq during the 24th to 22nd centuries BCE, poses unique challenges for translation.",
@@ -272,6 +238,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference.md",
+      "title": "UN Tech Agency Rolls Out Human-looking Robots For Questions At A Geneva News Conference",
+      "excerpt": "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11",
+      "originalUrl": "https://www.businesstoday.in/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202307/w-9-ai-robots-steal-the-show-at-un-sixteen_nine.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstoday.in/amp/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11",
+      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11",
+      "publishedDateTime": "2023-07-11T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -438,7 +447,7 @@
       "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -890,7 +899,7 @@
       "originalUrl": "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1044,7 +1053,7 @@
       "originalUrl": "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {

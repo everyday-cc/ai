@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Could AI-powered robot 'companions' combat human loneliness?"
+    excerpt: "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic. A new report maps some of the ethical considerations, and urges stakeholders to come together to rapidly develop guidelines for trust,"
+    publishedDateTime: 2023-07-13T02:56:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/07/230712165129.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "AI-enhanced companion robots may help alleviate the loneliness epidemic in future"
     excerpt: "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities."
     publishedDateTime: 2023-07-12T23:24:00Z

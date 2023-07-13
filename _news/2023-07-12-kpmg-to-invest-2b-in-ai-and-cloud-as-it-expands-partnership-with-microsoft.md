@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expand
 webUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: SiliconANGLE
@@ -38,20 +38,6 @@ related:
       - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/07/Moveworks-feature-image-5-30.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Ihis Inks Mou With Microsoft To Deepen Collaboration And Trailblaze Generative Ai And Cloud Innovation In Healthcare"
-    excerpt: "Secure GPT for Healthcare Professionals powered by Azure OpenAI Service to generate insights and automate tasks for greater efficiency in healthcar"
-    publishedDateTime: 2023-07-08T11:32:00Z
-    webUrl: "https://menafn.com/1106571871/Ihis-Inks-Mou-With-Microsoft-To-Deepen-Collaboration-And-Trailblaze-Generative-Ai-And-Cloud-Innovation-In-Healthcare"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?522220"
-        width: 375
-        height: 250
         isCached: true
 
 secured: "ev7XmTk0T7hXihWfK34G66W0guE37LY9V7yvnrh5O5+M0PId5IrPhiw4g4W1AT685hHQiao1zMJ58opjFo45mPoTVPgFEf008qZJDqyQtWSCqz96lrUqwvZ92fjQAjNP1pmrPUoMBxS29DaPlRDoDe1xCaqPRWr/xp2De+S1x8MzZ9tviW9RME7bJl6nVKABfYWGOtLkF05Nz6iI7KPLl1ExO7fucFSoxVp/rBPTrd2JDy0jnaBc7zWrtN5vXMqfbn/z5Bd1aP6laA03d0fwW1t4BlBwBBdcWIM9RmmxHXQV7OZosh4/Nm4w9QcSadCvUJH5ievY6a16wHWpqtF2qK/0/pY4SROmtCujC+IsQ9AQjDtk2yP24ecnld5+ue2pIX5u25M2BFelo8AR+px+i+7IERELHUZ4Hh7HfAlfEvaDAhd79J5cLLWFx4xzyETKBZzoK2SYPEIfYGZClwggHXsb80+kghjyoa4+7Id+Zkhrrt95gscm3VOR00QLzMl+n+vMtkmCeWKAnXT+eX7WEg==;X2noMNGZ309gRodDHXXcDw=="

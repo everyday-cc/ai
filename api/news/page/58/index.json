@@ -2,6 +2,143 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-06-05-kamala-harris-cant-be-trusted-with-ai-regulation.md",
+      "title": "Kamala Harris can't be trusted with AI regulation",
+      "excerpt": "Kamala Harris can't be trusted with AI regulation. Rules for rapidly growing area of technology must be handled by a panel of experts, not the vice president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/kamala-harris-trusted-ai-regulation",
+      "originalUrl": "https://www.foxnews.com/opinion/kamala-harris-trusted-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ae47cfb-0ff2-4000-b4e9-82221f06ab82/9f95aea3-6934-4191-bb44-8d65520bf590/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/kamala-harris-trusted-ai-regulation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-trusted-ai-regulation.amp",
+      "publishedDateTime": "2023-06-04T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence.md",
+      "title": "AI Anxiety: How These 20 Jobs Will Be Transformed By Generative Artificial Intelligence",
+      "excerpt": "We explore how generative artificial intelligence will transform twenty jobs across industries and how to embrace these changes and thrive in an AI-driven world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647d767e5317b4aee4d81907/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-06-04T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-rishi-sunak-to-lobby-joe-biden-for-uk-leadership-role-in-ai-development.md",
+      "title": "Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development",
+      "excerpt": "Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development on facebook (opens in a new window) Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/7c30ea28-2895-44c2-9a2d-c31ea7fa27e7",
+      "originalUrl": "https://www.ft.com/content/7c30ea28-2895-44c2-9a2d-c31ea7fa27e7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-duet-ai-for-google-workspace-what-is-it-and-how-does-it-work.md",
       "title": "Duet AI for Google Workspace: What is it and how does it work?",
       "excerpt": "Google has unveiled a new basket of features for its suite of apps, collectively called Duet AI for Workspace. Here's how to use it.",
@@ -1017,153 +1154,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-security-news-this-week-ai-is-being-used-to-turbocharge-scams.md",
-      "title": "Security News This Week: AI Is Being Used to ‘Turbocharge’ Scams",
-      "excerpt": "Plus: Amazon’s Ring was ordered to delete algorithms, North Korea’s failed spy satellite, and a rogue drone “attack” isn’t what it seems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/security-roundup-ai-scams-voice-cloning/",
-      "originalUrl": "https://www.wired.com/story/security-roundup-ai-scams-voice-cloning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/647a58662cc57777ec67f04a/191:100/w_1280,c_limit/AI-Is-Being-Used-to-%E2%80%98Turbocharge%E2%80%99-Scams-Security-GettyImages-683670662.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-these-robot-hands-can-be-controlled-from-anywhere-in-the-world.md",
-      "title": "These robot hands can be controlled from anywhere in the world",
-      "excerpt": "Finally, once I step on a paddle, I’m in control of the 4.3kg robot arms. It doesn’t take too long to get used to, as it’s super intuitive. So, if I suddenly drop my hands, they don’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/?ico=mosaic_tag",
-      "originalUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/?ico=mosaic_tag",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/06/PXL_20230531_100224994.TS_exported_8841_1685715913256-912f-e1685716238144.jpg?quality=90&strip=all&zoom=1&resize=600%2C570",
-          "width": 600,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/amp/",
-      "publishedDateTime": "2023-06-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-robot-takeover-not-quite-heres-what-ai-doomsday-would-look-like.md",
-      "title": "Robot takeover? Not quite. Here’s what AI doomsday would look like",
-      "excerpt": "Experts say the fallout from powerful AI will be less a nuclear bomb and more a creeping deterioration of society",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e5f4d936222873ba23161480fa267f6fb1ead285/0_0_5700_3800/master/5700.jpg?width=620&quality=85&auto=format&fit=max&s=046b8e059d1da3cb12fcb51f8c497ce0",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
-      "publishedDateTime": "2023-06-03T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

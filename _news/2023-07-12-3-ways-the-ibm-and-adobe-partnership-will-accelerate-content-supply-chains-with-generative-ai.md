@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will
 webUrl: "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/"
 type: article
 quality: 108
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/gen%20ai%20govt.jpg"
         width: 999
         height: 563
+        isCached: true
+  - title: "Consultancies have started using generative AI"
+    excerpt: "Your next business strategy may be shaped by generative AI, with KPMG and other management consultancies embracing a technology that, new research shows, executives are racing to implement regardless of ongoing concerns about its accuracy and security."
+    publishedDateTime: 2023-07-13T03:03:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/consultancies-have-started-using-generative-ai.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/kpmg-generative-ai.jpg"
+        width: 1036
+        height: 583
         isCached: true
 
 secured: "nD1hX6SquEqKYY7VAqQLPo9ybqaVn2rcKuvOiWw7+W+rv/+qt1z2Guwk5ubASszFC7hc6MHTu7n1ilsv4M2TW3iW4VzTVPGi9LDtSW/+CLGXsdRLsz5HWP3jNa7W7rB4UPR58pnDhg+EiP8VaEX87h2plxgTn4mdUhBnjWQKGWneId12G57/kizB7gTznF5ff0xH41LEN7QBfjxJBgSgmJPs2STGgeaSzAuv96umeEz7pxszxFJgTtbxZy0M3sF4a9xxiChej4+8+VsUiwnGjhUWCqnvyarRUYawUwQApg0JSVoAYio6pgurYp0Gxpbc3K61AWw/xlYxRQKBKcNcnRb554izS14BpZTcwomgWek=;s534AVL3379hS33cv2zBuw=="

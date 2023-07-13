@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-12-oee-vs-teep-whats-the-difference.md",
+      "title": "OEE vs. TEEP: What’s the difference?",
+      "excerpt": "OEE and TEEP are two related KPIs that are used to help prevent losses by measuring and improving the performance of equipment and production lines.\nThe post OEE vs. TEEP: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/oee-vs-teep/",
+      "originalUrl": "https://www.ibm.com/blog/oee-vs-teep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T06:04:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator.md",
       "title": "PayU, AWS India And Chiratae Ventures To Launch Fintech Accelerator",
       "excerpt": "At AWS, we offer the broadest and deepest set of innovation tools, including machine learning (ML) and artificial intelligence (AI) capabilities, to help fintechs transform their ideas into tangible solutions to drive financial inclusion, and optimize ...",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -97,7 +139,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/12/3-strategies-for-accountable-ai-usage-in-b2b-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -296,7 +338,7 @@
       "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -339,7 +381,7 @@
       "originalUrl": "https://www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 213,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -422,49 +464,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-kpmg-to-invest-2b-in-ai-and-cloud-as-it-expands-partnership-with-microsoft.md",
-      "title": "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft",
-      "excerpt": "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/",
-      "originalUrl": "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg",
-          "width": 2000,
-          "height": 1143,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -819,7 +818,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1068,7 +1067,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 376,
+      "heat": 366,
       "tags": null,
       "images": null,
       "content": "\r\n",

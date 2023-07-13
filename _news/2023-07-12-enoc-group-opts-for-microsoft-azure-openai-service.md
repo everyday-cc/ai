@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt?amp=1"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -175,6 +175,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 22
+  - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
+    excerpt: "Developers get future-ready with Microsoft Cloud certifications; build innovative solutions to accelerate inclusive growth for IndiaBengaluru, January 2,"
+    publishedDateTime: 2023-07-13T03:39:00Z
+    webUrl: "https://www.inferse.com/610126/microsoft-celebrates-future-ready-champions-of-code-with-over-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 17
 
 secured: "pFf4MK4D5hTOzMFxzlosNgqbYyXgRpqvrt6nLdJzmOrmFCw5nrWvZAt1Ze0PcdbOFcJDQYhSCl4Hbm82EC+lxcs8ZjXI9Stc/cbmINO+zFQHgw3rbU4STgl1EdONzY9bPul5tfml3X7bDLuTd/gYCJkNbMSaTlsNQG5oxnEUB1jxMDwx930uNNgwtufTWbiWUJzZgKVViRIR9L2I1glx28eBc4ueiuOw6nqMUIbxdcH9JSkz0+E3GT0xThg2tgqUskZPAUVKVM14Kz3xoWSfB6gBPTvkGUDxNcgluGtOiFZ2GvYTeVtrYeWK0R+FkdXWBLbnTCFH5rhBSwzoRq/W+9/WI16TaiWvsFcjnbchLs8=;EzqUNrHfu7oMcQNlXfgqyA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2023/07/12/research-robots-arti
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Could AI-powered robot 'companions' combat human loneliness?"
+    excerpt: "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic. A new report maps some of the ethical considerations, and urges stakeholders to come together to rapidly develop guidelines for trust,"
+    publishedDateTime: 2023-07-13T02:56:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/07/230712165129.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "AI-powered companion robots could end loneliness in older adults"
     excerpt: "New report finds robots are a solution for the millions of isolated people who have no other solutions but will require measuring index and regulations."
     publishedDateTime: 2023-07-12T17:10:00Z

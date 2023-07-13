@@ -10,7 +10,7 @@
       "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -298,40 +298,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-11-australian-corporates-join-ai-chips-race.md",
-      "title": "Australian corporates join AI chips race",
-      "excerpt": "Corporate Australia has joined the global race to get its hands on advanced computer chips, a leading indicator of artificial intelligence and machine learning development, a top internet ser­vices company says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp",
-      "cdnAmpWebUrl": "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp",
-      "publishedDateTime": "2023-07-11T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-11-inside-googles-big-ai-shuffle-and-how-it-plans-to-stay-competitive-with-google-deepmind-ceo-demis-hassabis.md",
       "title": "Inside Google’s big AI shuffle — and how it plans to stay competitive, with Google DeepMind CEO Demis Hassabis",
       "excerpt": "The buzz around AI has moved from science research to chatbots, but Google DeepMind’s CEO says it’s all relevant to progress.",
@@ -490,7 +456,7 @@
       "originalUrl": "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1470,6 +1436,60 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-microsoft-is-developing-cutting-edge-ai-chips-to-close-the-gap-with-aws-internal-documents-show.md",
+      "title": "Microsoft is developing cutting-edge AI chips to 'close the gap' with AWS, internal documents show",
+      "excerpt": "Documents released during the Federal Trade Commission's lawsuit against Microsoft confirm the company is working on its own AI chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6",
+      "originalUrl": "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/649f0139fd8a3e00191220d5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
       ]
     }
   ],

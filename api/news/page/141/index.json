@@ -2,6 +2,144 @@
   "page": 141,
   "value": [
     {
+      "path": "_news/2023-04-15-amazon-web-services-joins-other-tech-giants-in-ai-race.md",
+      "title": "Amazon Web Services Joins Other Tech Giants in AI Race",
+      "excerpt": "The Amazon Web Services unit on Thursday announced two of its own large-language models, one designed to generate text, and another that could help power web search personalization, among other things.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/d8cb57a/2147483647/strip/true/crop/2827x1474+0+164/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F8f%2F3ccec57142619f6048f4696f6d00%2Fbiz-cpt-ai-amazon-dmt.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race?_amp=true",
+      "publishedDateTime": "2023-04-14T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-3-thrilling-robotics-stocks-for-aggressive-investors-to-buy.md",
+      "title": "3 Thrilling Robotics Stocks for Aggressive Investors to Buy",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The buzz surrounding generative artificial intelligence (AI) this year is",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs.md",
+      "title": "Hype grows over “autonomous” AI agents that loop GPT-4 outputs",
+      "excerpt": "Since the launch of OpenAI's GPT-4 API last month to beta testers, a loose group of developers have been experimenting with making agent-like (\"agentic\") implementations of the AI model that attempt to carry out multistep tasks with as little human intervention as possible.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/homebrew_agi_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/amp/",
+      "publishedDateTime": "2023-04-14T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers.md",
       "title": "Zoom’s Virtual Agent Brings AI-Powered Resolutions To Contact Centers",
       "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, looks at how generative AI chatbots are becoming critical to customer satisfaction and uncovering how Zoom developed its bot codenamed Zoe.",
@@ -1039,153 +1177,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-this-generative-ai-startup-wants-to-help-content-creators-in-the-storyboarding-process.md",
-      "title": "This generative AI startup wants to help content creators in the storyboarding process",
-      "excerpt": "(Storia AI screenshot) What would Marcel the Shell look like in Balenciaga shoes? That’s one prompt a startup developing generative artificial intelligence tools for filmmakers and TV show ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/this-generative-ai-startup-wants-to-help-content-creators-in-the-storyboarding-process/",
-      "originalUrl": "https://www.geekwire.com/2023/this-generative-ai-startup-wants-to-help-content-creators-in-the-storyboarding-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-05-at-1.29.36-PM.png",
-          "width": 571,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-the-most-valuable-object-to-sink-with-the-titanic-was-a-colossal-neoclassical-painting-heres-the-paintings-unusual-backstory.md",
-      "title": "The Most Valuable Object to Sink With the Titanic Was a Colossal Neoclassical Painting. Here’s the Painting’s Unusual Backstory",
-      "excerpt": "Merry-Joseph Blondel's little-known 19th century Neoclassical work had the highest insurance claim of any single item. Learn about it here.",
-      "sourceUrl": null,
-      "webUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910",
-      "originalUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.artnet.com/app/news-upload/2023/04/Willy-Stoewer_Titanic_1912-scaled.jpg",
-          "width": 2560,
-          "height": 1742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910/amp-page",
-      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910/amp-page",
-      "publishedDateTime": "2023-04-13T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Artnet",
-        "domain": "artnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-meet-the-worlds-least-ambitious-ai.md",
-      "title": "Meet the World’s Least Ambitious AI",
-      "excerpt": "“People want to have consent to having technology used on them,” Margaret Mitchell, a co-author of the response and an AI-ethics researcher at Hugging Face, told me. “And there aren’t good ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2023/04/generative-ai-playing-chess-martin-bot/673697/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/04/generative-ai-playing-chess-martin-bot/673697/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/w27VJFP0-GwD-Rdtsx13ENmwaJA=/0x43:2000x1085/1200x625/media/img/mt/2023/04/Chess_layers_2/original.gif",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

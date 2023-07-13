@@ -2,6 +2,152 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-06-27-ai-regulation-is-coming-to-the-us-albeit-slowly.md",
+      "title": "AI Regulation Is Coming To The U.S., Albeit Slowly",
+      "excerpt": "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/",
+      "originalUrl": "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/",
+      "publishedDateTime": "2023-06-27T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-will-ai-really-destroy-humanity.md",
+      "title": "Will AI Really Destroy Humanity?",
+      "excerpt": "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/will-ai-really-destroy-humanity-c7c6eb2e",
+      "originalUrl": "https://www.barrons.com/news/will-ai-really-destroy-humanity-c7c6eb2e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP1075391273045126903995874226896604482966---1.jpg",
+          "width": 768,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c6eb2e",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c6eb2e",
+      "publishedDateTime": "2023-06-27T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud.md",
+      "title": "Snowflake expands Microsoft partnership to bring generative AI to its data cloud",
+      "excerpt": "and leverage integrations with Azure OpenAI and Microsoft Cognitive Services.” Also read: Snowflake’s stock advances toward best winning streak in 19 months The cloud-based data-management ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
+      "originalUrl": "https://www.marketwatch.com/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-572807/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
+      "publishedDateTime": "2023-06-27T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-journeying-towards-a-two-person-delivery-network-digital-twin.md",
       "title": "Journeying towards a ‘two-person delivery network’ digital twin",
       "excerpt": "Optimizing and improving the supply chain to support a positive customer experience is a priority for any retailer.\nThe post Journeying towards a ‘two-person delivery network’ digital twin appeared first on IBM Blog.\n",
@@ -1023,152 +1169,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation.md",
-      "title": "Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation",
-      "excerpt": "Learn how Yanfeng Auto works with advanced technology and technical experts to accelerate its own data-driven digital transformation.\nThe post Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/",
-      "originalUrl": "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T11:52:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ai-will-change-software-development-in-massive-ways-says-mongodb-cto.md",
-      "title": "AI will change software development in massive ways, says MongoDB CTO",
-      "excerpt": "AI, especially the generative sort, is going to \"let developers write code at the quality and the speed and the completeness that we've always wanted to,\" says Mark Porter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
-      "originalUrl": "https://www.zdnet.com/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e1f3b2050f61238595de2449c3501e9161f73f0c/2023/06/26/a1a9ef9c-51e1-472c-8d00-50976872ae9a/mark-porter-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
-      "publishedDateTime": "2023-06-26T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-how-resilient-is-your-data-in-the-cloud.md",
-      "title": "How resilient is your data in the cloud?",
-      "excerpt": "IBM Storage Protect for Cloud ensures that your data has been scanned for threats and that a clean copy of that data is safely backed up.\nThe post How resilient is your data in the cloud? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-resilient-is-your-data-in-the-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/how-resilient-is-your-data-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/chileargentina_194_getty_getty.xl_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:43:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

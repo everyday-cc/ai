@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Is Not the Solution to Better Customer Experiences in Australia … Yet"
+    excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
+    publishedDateTime: 2023-07-13T02:22:00Z
+    webUrl: "https://www.techrepublic.com/article/au-report-customer-experience/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 68
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71123-customer-service-ai.jpeg"
+        width: 1400
+        height: 889
+        isCached: true
   - title: "Australian corporates join AI chips race"
     excerpt: "Corporate Australia has joined the global race to get its hands on advanced computer chips, a leading indicator of artificial intelligence and machine learning development, a top internet ser­vices company says."
     publishedDateTime: 2023-07-11T08:41:00Z
@@ -36,6 +50,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 54
+  - title: "Automation, Efficiency, Insights: Freshworks Leverages Generative AI to Transform Customer Experiences"
+    excerpt: "There’s a revolution happening in the customer service industry and generative AI is at the heart of this transformation. Luckily for support agents around the world, Freshworks has been leading by testing and integrating AI into its products for the last five years."
+    publishedDateTime: 2023-07-11T20:35:00Z
+    webUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-insights-freshworks-leverages-generative-ai-to-transform-customer-experiences/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 51
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/two_women_coding-1024x683-1.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI Is Not the Solution to the Customer Experience in Australia … Yet"
     excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
     publishedDateTime: 2023-07-11T18:22:00Z
@@ -45,15 +73,34 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
-  - title: "Tech Giants Race to Incorporate AI in China’s Offices"
-    excerpt: "AI integration is fueling fierce competition among tech giants like Kingsoft Office, Baidu, and Alibaba, who are developing their own ChatGPT-like models."
-    publishedDateTime: 2023-07-10T04:31:00Z
-    webUrl: "https://www.sixthtone.com/news/1013271"
+  - title: "Why AI is only 10% of the secret sauce in customer experience"
+    excerpt: "The authors describe what it means to integrate AI tools and what it takes to continually experiment to improve and refine customer journeys."
+    publishedDateTime: 2023-07-10T02:10:00Z
+    webUrl: "https://www.smartcompany.com.au/plus/why-ai-10-secret-sauce-customer-experience/"
     type: article
     provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 19
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 39
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/07/ux-indonesia-w00FkE6e8zE-unsplash-1.jpg?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A fraudulent presentation of Australia’s Indigenous Voice"
+    excerpt: "Indigenous Affairs minister Linda Burney’s address to the National Press Club was based on the assertion, contrary to all historical experience, that the Voice would provide “practical” solutions to the appalling social conditions impacting the Aboriginal population."
+    publishedDateTime: 2023-07-10T04:45:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/07/10/gpot-j10.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 24
+    images:
+      - url: "https://www.wsws.org/asset/f25dc09f-d0a8-4f14-a043-b97f5c276272?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "nPyohnujEKS27ZrmrAkXFv32A1XqNGRz/5dqA2nUl2iyk9RNl21o0IrWQASBjS8VPce0DayyIGWa5+QBlrWjyYCDP55pCQrta58UgLgIK324UCnKJYZb56aQwL4/rNEyjZ2yGfU8AJP68CnuiQMV6OcLPB/MOwwcPfZ66xxbKYL1Zta6pDEB0qyQWqpUnJHgRCi/SnMrceQeO4ZBKdeLgDEgn3O9Hx1d/aCF3DHeOTQT4m/cz+kNMJusr92/2+VvjdLJSW3vsZDsce5lJIRMZ42VMy+LEs7TKQL0FXJhNG6Dlqh04a6zwjN7IvsFb980sztvXrdCBpwoYRyDLgUbNLtPPCymcKJA+GWkBpy82QRA3ACi9XuMW4hX92pzIgLLsGk3D6uiltLPcrgQ9zVd/z05FiSALb/5ztmMQolXSZMgroDoJDn5kGYhVubyaGvQ0OQ8wjJCqnhbNqBMKHj4M9UEMrOz9Q/q3pyQbJviZwPfsmjXaFLFiaFQmj5cDHsOsO3wiBE8bPzI2GTuUJ7AXA==;t4ivna72hgXVW67NCF/+lQ=="
 ---

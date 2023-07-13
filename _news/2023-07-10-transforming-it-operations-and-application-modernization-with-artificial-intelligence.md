@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/transforming-it-operations-and-applicatio
 webUrl: "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/"
 type: article
 quality: 92
-heat: 292
+heat: 312
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NTT’s vision for AI adoption — and why collaboration is key"
+    excerpt: "Explore NTT's approach to gen AI adoption, sustainable AI practices and why collaboration is a competitive advantage."
+    publishedDateTime: 2023-07-13T05:09:00Z
+    webUrl: "https://venturebeat.com/ai/ntts-vision-for-ai-adoption-and-why-collaboration-is-key/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM0153.jpg?w=1200&strip=all"
+        width: 1200
+        height: 739
+        isCached: true
   - title: "The transformational impact of AI"
     excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
     publishedDateTime: 2023-07-12T03:26:00Z
@@ -112,6 +126,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 55
+  - title: "AI-driven Facial Recognition: Repression And Innovation"
+    excerpt: "Researchers reported that the regime employs AI-powered facial recognition technology to suppress dissent while advancing its capabilities in China"
+    publishedDateTime: 2023-07-13T05:34:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-facial-recognition-repression-and-innovation"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 54
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-AI-tocracy-01-press_0.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "How AI is transforming Hollywood, and why its at the center of contract negotiations"
     excerpt: "The AI company Metaphysic is immortalizing actors through data capture, allowing them to appear in future films without ever being on set."
     publishedDateTime: 2023-07-10T23:59:00Z

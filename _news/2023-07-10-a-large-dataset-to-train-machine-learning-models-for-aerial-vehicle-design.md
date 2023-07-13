@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-veh
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.amp"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "New Dataset to Train Machine Learning Models for Aerial Vehicle Design"
+    excerpt: "Designing and deploying aircrafts is a long and arduous process, but it might be sped up by deep learning models helping developers identify the most promising solutions or potential flaws with a specific aircraft."
+    publishedDateTime: 2023-07-13T04:00:00Z
+    webUrl: "https://i-hls.com/archives/119878"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 54
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2023/07/circle-gcb12fc399_1280.jpg"
+        width: 1280
+        height: 877
+        isCached: true
   - title: "Machine learning startup Deci open-sources tool to analyze AI training dataset health"
     excerpt: "Deep learning automation startup Deci AI Ltd. today announced the launch of a free and open-source artificial intelligence tool that can profile datasets for model training purposes. The company said in its announcement that DataGradients enables data scientists quickly to generate insights on datasets they’re planning to use to train new AI models,"
     publishedDateTime: 2023-07-12T13:00:00Z

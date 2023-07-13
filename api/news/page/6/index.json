@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-08-human-looking-robots-take-questions-at-a-geneva-news-conference.md",
+      "title": "Human-looking robots take questions at a Geneva news conference",
+      "excerpt": "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "originalUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "publishedDateTime": "2023-07-07T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 7 Chicago",
+        "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
       "title": "Odd News Roundup: AI robots could play future role as companions in care homes",
       "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
@@ -925,6 +968,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-07-as-writers-actors-fight-for-ai-protections-artificial-intelligence-screenplay-competition-opens-quickly-closes.md",
+      "title": "As Writers & Actors Fight For AI Protections, Artificial Intelligence Screenplay Competition Opens & Quickly Closes",
+      "excerpt": "Scriptapalooza, a screenplay competition company, launched, and then quickly closed its Artificial Intelligence Screenplay Competition after a furor from writers. It comes as the writers are ...",
+      "sourceUrl": null,
+      "webUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/",
+      "originalUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1512881796.jpg?w=1024",
+          "width": 1024,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/amp/",
+      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/amp/",
+      "publishedDateTime": "2023-07-07T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline.com",
+        "domain": "deadline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai.md",
       "title": "3 Red-Hot Nasdaq Stocks That Are Leading Industrial Automation, Robotics, and AI",
       "excerpt": "Here's why PTC, Cognex, and Luminar are three red-hot Nasdaq stocks worth looking at today. Image source: . Invest in the industrial software that powers automation, A",
@@ -1092,101 +1178,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023.md",
-      "title": "Artificial Intelligence In Manufacturing: Four Use Cases You Need To Know In 2023",
-      "excerpt": "Discover how AI-powered cobots, 3D printing enhancements, futuristic generative designs, and predictive maintenance are revolutionizing the manufacturing industry in 2023",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a7a60f5e9eb3b27b9b888f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/",
-      "publishedDateTime": "2023-07-06T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications.md",
-      "title": "Kerala HC to implement machine learning system to verify bail applications",
-      "excerpt": "Kochi: For the first time in India, Kerala HC is all set to implement a machine learning system for checking bail pleas. From July 10, bail applications will be verified via a special software and will be accepted only in the prescribed format.",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "originalUrl": "https://english.mathrubhumi.com/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/image/contentid/policy:1.7199899:1677896574/Untitled.png?$p=10e8aa4&f=16x9&w=1080&q=0.8",
-          "width": 871,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/amp/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "publishedDateTime": "2023-07-06T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "english.mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

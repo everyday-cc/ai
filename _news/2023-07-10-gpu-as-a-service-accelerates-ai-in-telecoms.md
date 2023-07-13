@@ -55,6 +55,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Intel Launches AI Accelerator Chip in China"
+    excerpt: "US chipmaker Intel has launched a second-generation artificial intelligence accelerator chipset for the Chinese market. Habana Gaudi2 can be used to accelerate AI training and interface, the Santa Clara-based firm announced on July 11."
+    publishedDateTime: 2023-07-13T03:08:00Z
+    webUrl: "https://www.yicaiglobal.com/news/intel-launches-ai-accelerator-chip-in-china"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 54
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/27871284174533.jpg"
+        width: 770
+        height: 510
+        isCached: true
   - title: "Activeport, Radian Arc Expand Relationship to Accelerate AI Deployment in Telecoms"
     excerpt: "ActivePort and Radian Arc are excited to announce an expanded relationship that will accelerate AI deployment within the telecommunications industry."
     publishedDateTime: 2023-07-11T01:33:00Z

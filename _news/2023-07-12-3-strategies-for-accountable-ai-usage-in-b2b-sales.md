@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/12/3-strategies-for-accountable-ai-usage-in-b2b-sales/amp/"
 type: article
 quality: 106
-heat: 117
+heat: 116
 published: true
 
 provider:

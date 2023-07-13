@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://images.wsj.net/im-812729?width=600"

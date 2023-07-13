@@ -116,6 +116,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Wipro up 1%; company to invest $1 billion in AI over 3 years"
+    excerpt: "The Bengaluru-headquartered company also said that it will accelerate investments in startups through Wipro Ventures."
+    publishedDateTime: 2023-07-13T04:53:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/markets/wipro-up-1-company-to-invest-1-billion-in-ai-over-3-years-10949671.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/wipro-up-1-company-to-invest-1-billion-in-ai-over-3-years-10949671.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/wipro-up-1-company-to-invest-1-billion-in-ai-over-3-years-10949671.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/stocks_market-stock_stock.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Wipro launches ai360, will invest $1 billion into AI the next three years"
     excerpt: "IT major Wipro announced the launch of ai360 service and plans to invest $1 billion in artificial intelligence over the next three years. The move follows Tata Consultancy Services' announcement to train 25,"
     publishedDateTime: 2023-07-12T03:36:00Z

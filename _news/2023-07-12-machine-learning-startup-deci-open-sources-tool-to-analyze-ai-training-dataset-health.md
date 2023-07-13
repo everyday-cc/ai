@@ -41,6 +41,20 @@ related:
         width: 1410
         height: 628
         isCached: true
+  - title: "New Dataset to Train Machine Learning Models for Aerial Vehicle Design"
+    excerpt: "Designing and deploying aircrafts is a long and arduous process, but it might be sped up by deep learning models helping developers identify the most promising solutions or potential flaws with a specific aircraft."
+    publishedDateTime: 2023-07-13T04:00:00Z
+    webUrl: "https://i-hls.com/archives/119878"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 54
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2023/07/circle-gcb12fc399_1280.jpg"
+        width: 1280
+        height: 877
+        isCached: true
 
 secured: "AhiWRtBmYSDM3kLh2xITzkqFD5UPCjv4SdYiyuQGFk/CQWG4BS/iYzbUhQjkVEEYgBIDxCZ705ZUKj/MrdQj/Rhumcj5jCBzNHbnWmF8oMuMahmwv9/YExOyUgiYP5t986zAx/tG9MzTwf1oIP8sRRxV1RzDLl0MEZ+T2yECARWoBxIth/64j6bG5oH5elHzi1okixr7079UDP491Q+BNddtmLy4GMzozV8ON9JY44BPWQXDsytJghgpjH/B9JOVLg6DLhM7DiezxFq/nYt4KAp1rmHODg5o/nsVYHxBXSJdLkeklEsYVerxPeAXmJhl+YU4rzAparJjfxaS/HoIUqGUlYWLRgeL+pEv3wZZhEaq80eJA6e1lJ1BCelzInDykU5jLUYqB6ueEmpD+H5C4yrm/5XG2YkXYeTzdv8sag/Voo+PSTKn1OxHowc9mizt6EAy0x/SBHVuNVYY2vfvxoKUi5QexNrP56ooLqibU6V/7ZYv9SF3xvKIbIzurbopajWcfcQ2LreDb49NyzZV7g==;tOoV3POAZU5UquEBRFfwRg=="
 ---

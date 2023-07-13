@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-13-ai-is-not-the-solution-to-better-customer-experiences-in-australia-yet.md",
+      "title": "AI Is Not the Solution to Better Customer Experiences in Australia … Yet",
+      "excerpt": "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/au-report-customer-experience/",
+      "originalUrl": "https://www.techrepublic.com/article/au-report-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71123-customer-service-ai.jpeg",
+          "width": 1400,
+          "height": 889,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-ai-and-cybersecurity-friends-foes-collaborators.md",
       "title": "AI and cybersecurity: Friends, foes, collaborators",
       "excerpt": "Johnson and Johnson CISO Gary Harbison talks the opportunities, risks and fears of AI in cybersecurity at this week's VentureBeat Transform.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-collaborators/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1413,49 +1465,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-meta-scientist-yann-lecun-says-ai-wont-destroy-jobs-forever.md",
-      "title": "Meta scientist Yann LeCun says AI won't destroy jobs forever",
-      "excerpt": "Prof LeCun now works as the chief AI scientist at Meta, the parent company of Facebook, Instagram and ... It would be a huge mistake to keep AI research \"under lock and key\", he added.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-65886125",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-65886125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1232B/production/_130093547_ai-index-meta.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-65886125",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65886125",
-      "publishedDateTime": "2023-06-16T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
