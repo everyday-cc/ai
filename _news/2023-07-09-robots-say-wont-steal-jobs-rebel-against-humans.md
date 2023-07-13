@@ -58,15 +58,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Robots say they have no plans to steal jobs or rebel against humans"
-    excerpt: "nine of the most advanced humanoid robots have told an artificial intelligence summit in Geneva. In what was described as “the world’s first human-robot press conference”, one robot, Sophia, said humanoid robots had the potential to lead with “a ..."
-    publishedDateTime: 2023-07-08T13:58:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/08/robots-say-no-plans-steal-jobs-rebel-against-humans"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
 
 secured: "bOVJW/2yGJajCx4jCEj9UpHabrinEOTzdlopC/zyzpDwScxvdAMcHN0bWj7Mei4H369hP3ioGQ4QgQaqndhENnZ9Q+44l5IHbfh7guH9dJPCJxGVEAuW4MWE0w/TvScxOxRKfwgVRH7qYbupDHS+Y9qvesnFlXBj0OsLM17WPk4OfYStrQXWRAU/x9+hh+3BlsPQPXr34COgvLZQL6z3gVYi7qIQ5ATkPLwmFwKB03KkKwJFzVbuO5z9yiizBX+qqfOSKghw8tjgXDcREsNuri0AJDeNwkBQmN+S8yk41DojttqcsnNdzYDOaz3mRyY7guBwR6t1lyheY6/Z3O0QMzbJT6DXO0Z4MwjrJt5eRTrn7BLL1hixiF2GYeLB4rRjWJrTVzfKyYL9dLsi7/zvzan9GIs4QW2qx95SvuksF9fl9nO6d7XZlmq6UIj9J4Ex4eM8aGFFZAwErx+qKXNtTl8E7bwqV4JwBzRbVjaVyE4IlFCgj0bxF2/FrGVHd2BgAMU/7dUt1Rtureex4gws6w==;XnIiSqiPk6WwelWNe2Cg/g=="
 ---

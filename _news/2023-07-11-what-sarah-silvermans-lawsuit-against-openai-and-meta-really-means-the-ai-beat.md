@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-o
 webUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/"
 type: article
 quality: 64
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://healthcaredesignmagazine.com/wp-content/uploads/2019/06/iriz1ktx_400x400.jpg"
         width: 320
         height: 320
+        isCached: true
+  - title: "Big Tech: Elon Musk announces AI start-up, Sarah Silverman sues OpenAI and Bill Gates comments on AI"
+    excerpt: "We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn and work."
+    publishedDateTime: 2023-07-13T07:49:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/drive/1650/102599604"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 22
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/0f0d9c84ed54eb8ef0ee3741ffee36e5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=402&width=862&height=485"
+        width: 862
+        height: 485
         isCached: true
   - title: "How Sarah Silverman might save us from AI like ChatGPT"
     excerpt: "Sarah Silverman is one of the authors suing OpenAI and Meta for infringing copyright while training ChatGPT-like generative AI."

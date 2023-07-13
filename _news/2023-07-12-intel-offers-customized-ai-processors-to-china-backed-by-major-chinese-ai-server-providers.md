@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230712PD206/ai-china-intel.html"
 webUrl: "https://www.digitimes.com/news/a20230712PD206/ai-china-intel.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel's customized Gaudi 2 chips for China very likely to be made by TSMC 7 nm process"
+    excerpt: "Intel unveiled its Gaudi 2 China Special Edition deep learning processor in Beijing on July 11 and received almost unanimous praise from Chinese media outlets. In addition to mentioning the most significant advantage of Gaudi 2 over Nvidia's AI GPUs lies in its \"higher price/performance ratio,"
+    publishedDateTime: 2023-07-13T06:35:00Z
+    webUrl: "https://www.digitimes.com/news/a20230713PD206/china-intel-tsmc-7nm-ai-semiconductor.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 31
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230713pd206_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Intel launches Habana Gaudi 2 deep learning accelerator card for Chinese market"
     excerpt: "Intel has announced the launch of the Habana Gaudi 2, a deep learning accelerator card designed specifically for the Chinese market."
     publishedDateTime: 2023-07-12T12:06:00Z

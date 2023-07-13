@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-12T13:48:00Z
 originalUrl: "https://venturebeat.com/security/vendict-emerges-with-9-5m-in-funding-to-automate-security-compliance-with-generative-ai/"
 webUrl: "https://venturebeat.com/security/vendict-emerges-with-9-5m-in-funding-to-automate-security-compliance-with-generative-ai/"
 type: article
-quality: 55
+quality: 77
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - AI
   - AI in Security
+  - Microsoft AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_highly_stylized_simple_and_colorful_vector_illustration_0f7bc113-4c90-47be-8b04-f1eaf825d8ff.png?w=1200&strip=all"
+    width: 1200
+    height: 672
+    isCached: true
 
 related:
   - title: "Vendict Launches Generative AI In $47 Billion Security And Compliance Market"
@@ -40,6 +47,6 @@ related:
         height: 512
         isCached: true
 
-secured: "qs0wWzPHMXWjeIvKPILNXcaICVT4TWzDXsvgaZ1d5XPmJJ1brju5RMm0Kn3RCZn2sUI6ivEmAuqmVc5cHCKl4JhBrpk6ZvrT3Nu00lXjIJYRslf4sVybSvWYvtQbVBeYxr5mHccBlCOlnjt5cDbOTNrd4KwTc3TwSJuhKsPFHBQ2J5ZE9qA8oIIB8HI/r+O73gEIphGqlceoVsu5tqTm0cIh/nx5Bvbh85Eq7Uf1vR8GBhtdw/OXOYJDbicUOeLy7y/oB7VZskEKn2KGz2MpedQ2868uz0QXOs+pPa2eCcKjWXfa+mpbxFJT7wjEXmOYx3+E8qgKuj0fLXXrjyTZKYFKRbmRQH7AYQ7XBZcJRxw=;Qz6Lr87TMu7Caz+bHy0kmA=="
+secured: "o1rNOhCSelXFfSSmM7UnNhRmuArlSDCQYMWjtRn//QlXIxo1tgHNS1BmUwjNaP5UqL8XfsFu/ATo0SqBC1Fb5WkDr24M6Sxwm2a8H478DRWF0S4icybmdJuEhhEjm4woYuV1wKFTkqggFcItfdjmQ+cUpQdeadlPMgNsokaKnecrZ8bFK/Z5kGeNX90Wq2wgzEkz/8u/nd5m1NGKyZOPdx0+CAxqUrvIICzMoSzdVSEVmGGW/R1INv7Z5drskRhBI1PM4KOYO/0eLFCjRzqr5qR0S11gL7X8RcKNpIBbtyotJOmQqEDo9+1CI5mYQ5VTE62dpnVZbZcNMWUgAgjzY+13SMBAFFIQ/wNTqHK3mMQ=;AKnWQoa/ibhD7LOSbYyStQ=="
 ---
 

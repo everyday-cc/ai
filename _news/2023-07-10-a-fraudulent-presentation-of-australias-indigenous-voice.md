@@ -25,6 +25,90 @@ images:
     isCached: true
 
 related:
+  - title: "AI Industrial Robotics - Australia"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$138.30m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.79%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-10T00:52:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/australia"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Industrial Robotics - Europe"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$2.50bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.34%, resulting in a market volume of US$6 ..."
+    publishedDateTime: 2023-07-10T14:14:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Service Robotics - Italy"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$114.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.09%, resulting in a market volume of US$288 ..."
+    publishedDateTime: 2023-07-10T09:28:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/italy"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Industrial Robotics - Russia"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$58.19m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.56%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-10T19:50:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/russia"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Service Robotics - France"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$171.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.38%, resulting in a market volume of US$413 ..."
+    publishedDateTime: 2023-07-11T07:38:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/france"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Service Robotics - India"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$116.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.45%, resulting in a market volume of US$317 ..."
+    publishedDateTime: 2023-07-12T09:30:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/india"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Is Not the Solution to Better Customer Experiences in Australia … Yet"
     excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
     publishedDateTime: 2023-07-13T02:22:00Z
@@ -50,20 +134,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 54
-  - title: "Automation, Efficiency, Insights: Freshworks Leverages Generative AI to Transform Customer Experiences"
-    excerpt: "There’s a revolution happening in the customer service industry and generative AI is at the heart of this transformation. Luckily for support agents around the world, Freshworks has been leading by testing and integrating AI into its products for the last five years."
-    publishedDateTime: 2023-07-11T20:35:00Z
-    webUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-insights-freshworks-leverages-generative-ai-to-transform-customer-experiences/"
+  - title: "AI Industrial Robotics - India"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$162.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-12T09:30:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/india"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/two_women_coding-1024x683-1.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Statista
+      domain: statista.com
+    quality: 49
   - title: "AI Is Not the Solution to the Customer Experience in Australia … Yet"
     excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
     publishedDateTime: 2023-07-11T18:22:00Z
@@ -73,20 +152,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
-  - title: "Why AI is only 10% of the secret sauce in customer experience"
-    excerpt: "The authors describe what it means to integrate AI tools and what it takes to continually experiment to improve and refine customer journeys."
-    publishedDateTime: 2023-07-10T02:10:00Z
-    webUrl: "https://www.smartcompany.com.au/plus/why-ai-10-secret-sauce-customer-experience/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 39
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/07/ux-indonesia-w00FkE6e8zE-unsplash-1.jpg?resize=1200,630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Would you like AI with that? Australia’s first restaurant generated by artificial intelligence is coming"
     excerpt: "Are humans still needed for restaurant development? Sydney hospitality group Applejack found out through a national competition."
     publishedDateTime: 2023-07-12T06:52:00Z

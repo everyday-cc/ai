@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Intel's customized Gaudi 2 chips for China very likely to be made by TSMC 7 nm process"
+    excerpt: "Intel unveiled its Gaudi 2 China Special Edition deep learning processor in Beijing on July 11 and received almost unanimous praise from Chinese media outlets. In addition to mentioning the most significant advantage of Gaudi 2 over Nvidia's AI GPUs lies in its \"higher price/performance ratio,"
+    publishedDateTime: 2023-07-13T06:35:00Z
+    webUrl: "https://www.digitimes.com/news/a20230713PD206/china-intel-tsmc-7nm-ai-semiconductor.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 31
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230713pd206_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Intel offers customized AI processors to China, backed by major Chinese AI server providers"
     excerpt: "As the US seeks to tighten export controls on AI chips to China, Intel held a press conference in Beijing on the July 11, announcing the launch of the deep learning processor Habana Gaudi 2 in the Chinese market."
     publishedDateTime: 2023-07-12T04:06:00Z

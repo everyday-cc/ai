@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2023/07/12/research-robots-arti
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/"
 type: article
 quality: 69
-heat: 99
+heat: 100
 published: true
 
 provider:

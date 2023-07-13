@@ -77,6 +77,20 @@ related:
         width: 320
         height: 320
         isCached: true
+  - title: "Big Tech: Elon Musk announces AI start-up, Sarah Silverman sues OpenAI and Bill Gates comments on AI"
+    excerpt: "We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn and work."
+    publishedDateTime: 2023-07-13T07:49:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/drive/1650/102599604"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 22
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/0f0d9c84ed54eb8ef0ee3741ffee36e5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=402&width=862&height=485"
+        width: 862
+        height: 485
+        isCached: true
 
 secured: "wX9rDZY/0b8rw8lkgvWeVee5ldjfVy0FTZ8VJ65SGdkvTM9icMspocXen1VxsavARFRDk7kOc4lKRH8gyOpuBKOaHvEBEUXa7/nvgcl/kI/Qsrm6p7AGGXP50HYmbz44hXhEH07FUwMeB//zfjaycmIyAU4+AN6BP0bC3cNV3Lv3Xj2CARZl3Dw7cbVb/njG4zxH0+i7cY+uM5wFEsSYSReatY8v4MbPsRcaGUC6VIZ4JRDVZfqAgiUAl9g1sFc4QX5/XuJoaDQDLlQuss5l/kMgxEcYFUrSuePSoPAlMd8p3lwjMbFvzTIiF+3NWV2tGIHvqf76yRxKJMxbgLUFrTld6ITzVrIrQLZDPL109YDrCSwp7P/uL0e5VTxZZS4cXaTMZh+NrJKRbQ9ZqRnFk2ZWx6ILAGXGsbNLfZFCQ+oCwYkYDi/FwNXv/jgGJVgYMmsILJ72amDUO+gVMIhFTpbMY/5ggnIg+e60Ta6p1lwDTfUtWq1z34GXInQAAi00s4bGcLWpuC9emGVxNDejhw==;ssY2aheLRmm5m+UAHLYxPA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-12/google-s-ai-cha
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-12/google-s-ai-chatbot-is-trained-by-humans-who-say-they-re-overworked-underpaid-and-frustrated"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,59 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Google’s AI Chatbot Bard Gets Belated European Release"
+    excerpt: "Alphabet Inc.’s Google released its Bard chatbot to users in the European Union and Brazil, and said the artificial intelligence tool can now generate responses in more than 40 languages, including Chinese,"
+    publishedDateTime: 2023-07-13T07:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-chatbot-bard-gets-belated-european-release"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_aVjVRzw3SQ/v0/1200x837.jpg"
+        width: 1200
+        height: 837
+        isCached: true
+  - title: "Anthropic releases Claude 2, its second-gen AI chatbot"
+    excerpt: "Anthropic, the AI startup founded by ex-OpenAI execs, has released its newest chatbot, Claude 2. It's ostensibly improved in several ways."
+    publishedDateTime: 2023-07-11T13:30:00Z
+    webUrl: "https://techcrunch.com/2023/07/11/anthropic-releases-claude-2-the-second-generation-of-its-ai-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "Anthropic releases upgrade Claude 2 AI chatbot with improved safety and coding ability"
+    excerpt: "Claude 2, an upgrade over Claude 1.3, is now available as a beta chat experience for users in the United States and the United Kingdom. The chatbot is also available for business access through an application programming interface at the same price as the previous model."
+    publishedDateTime: 2023-07-11T16:17:00Z
+    webUrl: "https://siliconangle.com/2023/07/11/anthropic-releases-upgrade-claude-2-ai-chatbot-improved-safety-coding-ability/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/claude-anthropic-image.png"
+        width: 2880
+        height: 1620
+        isCached: true
+  - title: "Google Bard now in Europe, supports 40+ languages, pinning chats, and more"
+    excerpt: "Google is giving Bard its \"biggest expansion to date\" by coming to Europe and Brazil, as well as supporting additional"
+    publishedDateTime: 2023-07-13T07:01:00Z
+    webUrl: "https://9to5google.com/2023/07/13/google-bard-europe/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 22
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-bard-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "4ptA5QDNVC/WQLsJhF2jmZqy6Y69Ej5d/lN+iVjyngAm6dM524A2UZfmZKfXEkdlVIO1seJ3WDMFx99jft4reta1BQ6NlLBwuhKQaBWu9wehZuY//i53hx58Demp7o2Fb2zjOgsOAKqB9wiJNPCALIgACWu0gltVVNFErQKHQU/OkFtdyezqqTLgagzrcy8g5mdLlYI4fccpRYv/eslP0ggH1t1YOK410q6y5xR0A5WC/FU9XL2Yakl+3CxZ+STQsYJOCWrkla60pevn+UohZumexQ3PvLNI9GVrYWyUwgb/HPgTduffxXsDaCqFHe8ltlSFtFkVr60OXU4+Sb2HHQi/3FUpaZPKEGV47ub8xdH7iGEL9KZ/or/GYJH2pYawmbmDC7rOL2kwPWexLBFLmFyX7qMLK28J6URcO/vSXCc17pWEqq6GzCidilb9nqVmIgAofljsR5i6aROQob81npmcltZYzNBxmNGxDay7zmVyPYDzz9QpjxD30iFWvHPdQA9e674f/AV3wEG8bZ9uOg==;7w2v93vr9b9vd3S/7LHNJQ=="
 ---

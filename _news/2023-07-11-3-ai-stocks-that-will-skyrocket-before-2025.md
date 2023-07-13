@@ -38,6 +38,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Why These 3 Stocks Are the Best Ways to Play AI Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Goldman Sachs recently asserted “that AI adoption could"
+    publishedDateTime: 2023-07-11T16:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-stocks-are-the-best-ways-to-play-ai-right-now-1032438538"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Looking for Biotech AI Stocks? 3 Names That Will Benefit From the AI Boom"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI is coming to biotech in a big way. From protein folding to drug screening,"
     publishedDateTime: 2023-07-09T00:43:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 type: article
 quality: 116
-heat: 366
+heat: 356
 published: true
 
 provider:
@@ -39,22 +39,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The week in AI: Generative AI spams up the web"
-    excerpt: "This week in AI, a startup for SEO-optimized, AI-generated web content, OpenAI releases GPT-4 to the public, and a smart intubator."
-    publishedDateTime: 2023-07-08T15:01:00Z
-    webUrl: "https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/"
-    ampWebUrl: "https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/ETH-zurich-pixar-smoke.jpg?resize=1200,600"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Generative AI Will Shape The Future Of IT. Here’s Why."
     excerpt: "IT organizations willing to embrace generative AI have the potential to be among the first to reap its transformative benefits."

@@ -7,7 +7,7 @@ originalUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-2023
 webUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Robots say they have no plans to steal jobs or rebel against humans"
-    excerpt: "nine of the most advanced humanoid robots have told an artificial intelligence summit in Geneva. In what was described as “the world’s first human-robot press conference”, one robot, Sophia, said humanoid robots had the potential to lead with “a ..."
-    publishedDateTime: 2023-07-08T13:58:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/08/robots-say-no-plans-steal-jobs-rebel-against-humans"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
   - title: "Robots say won’t steal jobs, rebel against humans"
     excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us."
     publishedDateTime: 2023-07-08T18:42:00Z

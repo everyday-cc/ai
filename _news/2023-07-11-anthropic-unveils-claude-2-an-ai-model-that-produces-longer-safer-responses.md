@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-
 webUrl: "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-that-produces-longer-safer-responses/"
 type: article
 quality: 66
-heat: 126
+heat: 106
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anthropic releases Claude 2, its second-gen AI chatbot"
-    excerpt: "Anthropic, the AI startup founded by ex-OpenAI execs, has released its newest chatbot, Claude 2. It's ostensibly improved in several ways."
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://techcrunch.com/2023/07/11/anthropic-releases-claude-2-the-second-generation-of-its-ai-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "AI Startup Anthropic Releases a New Version of Its ChatGPT Rival, Claude"
     excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, has released a new version of its AI bot, named Claude."
     publishedDateTime: 2023-07-11T13:30:00Z
@@ -69,20 +60,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/documents_case_load.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "Anthropic releases upgrade Claude 2 AI chatbot with improved safety and coding ability"
-    excerpt: "Claude 2, an upgrade over Claude 1.3, is now available as a beta chat experience for users in the United States and the United Kingdom. The chatbot is also available for business access through an application programming interface at the same price as the previous model."
-    publishedDateTime: 2023-07-11T16:17:00Z
-    webUrl: "https://siliconangle.com/2023/07/11/anthropic-releases-upgrade-claude-2-ai-chatbot-improved-safety-coding-ability/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/claude-anthropic-image.png"
-        width: 2880
-        height: 1620
         isCached: true
   - title: "Antrophic Announces Second Generation AI Chatbot: Claude 2"
     excerpt: "Over the past two months, leading companies have rigorously tested Antrophic's AI models, creating a waitlist of over 350,000 people wanting access to Claude's API."

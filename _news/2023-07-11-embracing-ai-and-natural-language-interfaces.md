@@ -39,6 +39,22 @@ related:
         width: 1150
         height: 900
         isCached: true
+  - title: "AI is the next front in the culture war"
+    excerpt: "Artificial intelligence has become the latest battleground between left and right. It's not like social media. It's an innovation that needs to be handled in each industry."
+    publishedDateTime: 2023-07-13T06:00:00Z
+    webUrl: "https://www.foxnews.com/opinion/ai-next-front-culture-war"
+    ampWebUrl: "https://www.foxnews.com/opinion/ai-next-front-culture-war.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-next-front-culture-war.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65005a2b-1ca5-4161-b171-6d919e481c94/362427db-94c2-4411-8415-4ede681c9547/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "szKQmMnNaiCsaphcrYBP6P0xG76vIPuBx6VfL51w138epqI0Z+5huk2/d5pt61QZLJ6tU5SvDkITBfOcI/wPFQI4lYqK+vUxt//moGzVFNvBCFAOHpem8IMv8TkBp4s2xulJ/FY+ikkTt39TpCn9Af/CDDb1Xk0SqCIpFKfRSeIXquKwG2491hoJy67+JA4HxbQ3jv9qMhk/jkituKu/ZueBgK+TaMd5bCzy9SCgYRgPeJlOiifd5ZPMJXQfrRgrolotz6GscDCDcHxEJeVr22CuZq0nqn63b9eKgosGuq7oVjH2WN0CuWV77dtx53mWmyL3CAOEsDn8qY5kCefRoNpnVSV1e3YP3hjhiPrx2EA=;4t9pTnaOdF7GbgzHtCQU9A=="
 ---

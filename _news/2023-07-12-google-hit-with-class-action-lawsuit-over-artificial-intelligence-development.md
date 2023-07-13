@@ -3,8 +3,8 @@ category: news
 title: "Google hit with class-action lawsuit over artificial intelligence development"
 excerpt: "The complaint against Google was filed on behalf of eight anonymous users representing millions of Internet users and copyright holders."
 publishedDateTime: 2023-07-12T14:22:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/07/12/google-alphabet-class-action-lawsuit-ai.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/07/12/google-alphabet-class-action-lawsuit-ai.html"
+originalUrl: "https://www.bizjournals.com/sanjose/news/2023/07/12/google-alphabet-class-action-lawsuit-ai.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/12/google-alphabet-class-action-lawsuit-ai.html"
 type: article
 quality: 14
 heat: -1
@@ -65,6 +65,6 @@ related:
         height: 432
         isCached: true
 
-secured: "NmtESjvzbgeA1R+7xv/IQq1nfGKy78uKxBn9e7BSBrasmBCnqJMw29871tFgesnzwGdo2M6T1sR4ZThjZnlD448aYYu+4UrST43z6FhpnrAK5OZ5mR4AU1qh4eDIAyC37Lc6Kk1prU+F+rfo9uq7DDgoBrSx3dfX+g2xhpdcJyu39svwMifnEvOq1AgwLtqaaEwVsbyVXwc2zYSlat0xSs/kiOw6h0XpLT2UuyUlSKYk7DNs5HjTfYBRqpqd8vsWsalYTSoRb0sR6n5MW+f3oEOSYc4+xbuHqnZ6vQ2+T5W6ZyTu7zkwNDVhZZrYpQAnLjlNo+zaw3mxOKPKesUBPLtcV5OtqIEiJOLVHknsh8CC3jFd+N/seqfVBnxcKghMI+AySPVbxXcXmoQii/C8W2ekFF0SI7DkWbPkhWn+akk2JfD5NI8bS9Z8n7gSw+S/1Jk9tt5cpHppeElT0bj963FMdbpJ+pCTBaWGdrOglY4BtrS79fhM0iKgxZ8mLzFjZhhqcsGy13oFb/e+X3PMpA==;UWk4hnaE1wRJe9NSC8PoUg=="
+secured: "Jz4XjwxUVph4CToXEAc5XN4lUSqM6LtlN+o2Z5Izlw8ePk6MdyLiJZLGfOlI0FkM2Sqlp8M1TJR8YjKh72I4YvzROWxTUUhPH8PAnH+3dkXDhjH3lQ4WkCjMuvPCmlwMdEd+KRkWKoalsBiZ4iC4P0ndDbmCjCvU430wDKvB1oNuG+YWDPx8ER3bOtniTqYNkJHiMFx8+rmvPG2Po6FLiK52oUXcWdgZ00WU18HE1c+myeh8MvvOnlfy/qdYjil4IgTxuyzsIhqHSCEVLSxju9GCPZ6HpQJmbASobj3HiDjNae/4j05Fh5S/U9UHR7B3GWaZf/l3gykYZG5NCqkqqPpgBE9nyUFdVhtlIySnN9SIe6CKa7BVOVA6YV4skwKiSC3VDZGXS6iP04SKBtwkM1XPnPKvktDX4F2iTf3SKKD0QknIMm+vjRh7Ef0VoXt/iiwOKTEWxOZNaihs+4Jo1qXoa4Nkzq40Sy2i92uq6PRnJYc21QjAIwUqmVIFtmQrWlV9d0cGkOHG3lcMnCcYEw==;wUvr62hMcUgtm2vgwFY/eA=="
 ---
 

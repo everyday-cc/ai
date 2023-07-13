@@ -46,6 +46,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Why These 3 Stocks Are the Best Ways to Play AI Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Goldman Sachs recently asserted “that AI adoption could"
+    publishedDateTime: 2023-07-11T16:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-stocks-are-the-best-ways-to-play-ai-right-now-1032438538"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "/YGfUTmLhvoFST7ezjsMP5QIl8iOoHsFY5xdljLbbkH5ot3kHLOn9rLnE/doRFdFGFclRA1lZX7AHTJVV/BAIZPyJ4nlTqCKqjTqYedKulLRwyXiFj7Hq1JD7QCwuMJm1POL+QRNaABclaq6N8fSa1DiI3QLAu/DZc/RNWm17Jdjw84WjCyaMuxJqHN89qDRcLOI5bf/bsLX1C+6/gNtwb4hHjYKuF5m/mq3zYMljYCs7dEQj8tKBGQ3Vc+5L3iWCbrOye5cOIkiBV6n8JnAp0kfHzkIkz8kWA+g9pSKSdsbRIgb1cZE6A4sChqT1ujpJtB5gQID/K730X6E+GmPfSgOs91Ig0hppJKk7dXm3DPIhk92cFwZ8lviWDHvHcsWyaKt24aQ/KdzAPMUMtFZXZTL1Iw88HKSbEBSoFO9bIY0EeYE1CpZmauCqMJrL8Z//YdudET7ap/xxaHipKPnrsN1lk5nBclNM79c5kZxUCgAuxyHJT6SJPxgQTXGoFBHOWEuf+MRoYDJBJbBtM5OmA==;81eqdPBIifPnjRH2OfQ4jA=="
 ---

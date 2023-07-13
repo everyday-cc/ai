@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Are You Getting Scammed Through AI Voice Swindles? 4 Safeguards You Need To Know"
-    excerpt: "According to a new report by the Identity Theft Resource Center (ITRC), “80% of identity theft victims are due to scams, and thieves are becoming more sophisticated in their quests to steal personal identifying information (PII) from victims with 61% of them being conducted through AI voice.”"
-    publishedDateTime: 2023-07-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwasik/2023/07/08/are-you-getting-scammed-through-ai-voice-swindles-4-safeguards-you-need-to-know/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6481f0a20bd1d57b30595934/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 836
-        isCached: true
   - title: "Antidote to AI hype"
     excerpt: "AI is a powerful technology that can have significant impacts on various aspects of society, such as the economy, politics, security and ethics. Therefore, it is important to have a check-and-balance system as AI expands exponentially to ensure its innovative but safe and ethical use."
     publishedDateTime: 2023-07-12T07:40:00Z

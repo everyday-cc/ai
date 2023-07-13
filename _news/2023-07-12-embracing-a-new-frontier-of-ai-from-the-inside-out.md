@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI is the next front in the culture war"
+    excerpt: "Artificial intelligence has become the latest battleground between left and right. It's not like social media. It's an innovation that needs to be handled in each industry."
+    publishedDateTime: 2023-07-13T06:00:00Z
+    webUrl: "https://www.foxnews.com/opinion/ai-next-front-culture-war"
+    ampWebUrl: "https://www.foxnews.com/opinion/ai-next-front-culture-war.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-next-front-culture-war.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65005a2b-1ca5-4161-b171-6d919e481c94/362427db-94c2-4411-8415-4ede681c9547/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Embracing AI And Natural Language Interfaces"
     excerpt: "In 2022, the natural language processing (NLP) market was estimated to be worth $15.7 billion, and by 2027, it is anticipated to reach a value of over $49 billion. NLP is a field of artificial intelligence (AI) that enables computers to understand ..."
     publishedDateTime: 2023-07-11T12:01:00Z

@@ -165,6 +165,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "KPMG and Microsoft agree to focus on AI"
+    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernisation,"
+    publishedDateTime: 2023-07-13T07:16:00Z
+    webUrl: "https://it-online.co.za/2023/07/13/kpmg-and-microsoft-agree-to-focus-on-ai/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory LONDON and REDMOND, Wash. —  — KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
     publishedDateTime: 2023-07-11T22:00:00Z

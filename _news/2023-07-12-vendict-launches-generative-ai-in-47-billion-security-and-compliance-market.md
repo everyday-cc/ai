@@ -39,7 +39,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 55
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_highly_stylized_simple_and_colorful_vector_illustration_0f7bc113-4c90-47be-8b04-f1eaf825d8ff.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "QQEh85DHXU2XSvDKOx7g90ZlDA8Au/AU/XwL5Lwv83M24TZetvvLzoTXcIPrQSlhOwAN8J+rxhPo9Hv6ec8Kgr3+yqs0Q+5Cnt4GhDgp0VfWhesqPim68pI9E0m1ZLmdXxIGp2BoRuJ5Kx38vIKchbx3xmB4lo6eMPV1QKHcM4U9dcO0+bQWBjwdlaJEfK3nt0VsacgFW70FEqM655OAZs8CqiY4uFmPbFmXAcyt2KWAJAPxEL0uVHQrADy7r7c0k1fLZbBAABU+hqB/JcMeIf1rtLIeEOf+ZWdwEarkI+5/+NGh5JbP+mqIX8MelEsvdOCB/KQG2WJR0Km4R/ScfpakTpt3xdqmT3n1DqdGJ8I=;VYS6Cr7aYpfZ/xhU3UMIIw=="
 ---

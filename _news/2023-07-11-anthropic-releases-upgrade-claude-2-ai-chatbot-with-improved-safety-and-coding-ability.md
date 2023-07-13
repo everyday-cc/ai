@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Anthropic unveils Claude 2, an AI model that produces longer, safer responses"
-    excerpt: "Anthropic announced the release of Claude 2, a more capable version of its AI model Claude that produces longer and safer conversations."
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-that-produces-longer-safer-responses/"
+  - title: "Google’s AI Chatbot Bard Gets Belated European Release"
+    excerpt: "Alphabet Inc.’s Google released its Bard chatbot to users in the European Union and Brazil, and said the artificial intelligence tool can now generate responses in more than 40 languages, including Chinese,"
+    publishedDateTime: 2023-07-13T07:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-chatbot-bard-gets-belated-european-release"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_In_the_colorful_Pop_Art_style_of_Peter_Max_a_straigh_1c3c4cd3-510d-462a-a737-4c24e517e012.png?w=1200&strip=all"
-        width: 735
-        height: 588
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_aVjVRzw3SQ/v0/1200x837.jpg"
+        width: 1200
+        height: 837
+        isCached: true
+  - title: "Google’s AI Chatbot Is Trained by Humans Who Say They’re Overworked, Underpaid and Frustrated"
+    excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes"
+    publishedDateTime: 2023-07-12T10:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-12/google-s-ai-chatbot-is-trained-by-humans-who-say-they-re-overworked-underpaid-and-frustrated"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 56
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTnywOOoJLm8/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Anthropic releases Claude 2, its second-gen AI chatbot"
     excerpt: "Anthropic, the AI startup founded by ex-OpenAI execs, has released its newest chatbot, Claude 2. It's ostensibly improved in several ways."
@@ -47,47 +61,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "AI Startup Anthropic Releases a New Version of Its ChatGPT Rival, Claude"
-    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, has released a new version of its AI bot, named Claude."
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-11/ai-startup-anthropic-releases-a-new-version-of-its-chatgpt-rival-claude"
+  - title: "Google Bard now in Europe, supports 40+ languages, pinning chats, and more"
+    excerpt: "Google is giving Bard its \"biggest expansion to date\" by coming to Europe and Brazil, as well as supporting additional"
+    publishedDateTime: 2023-07-13T07:01:00Z
+    webUrl: "https://9to5google.com/2023/07/13/google-bard-europe/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 46
-  - title: "Anthropic’s ‘friendly’ AI chatbot, Claude, is now available for more people to try"
-    excerpt: "Claude, the AI chatbot that Anthropic bills as easier to talk to, is finally available for more people to try. The company has announced that everyone in the US and UK can test out the new version of its conversational bot,"
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://www.theverge.com/2023/7/11/23790254/anthropic-claude-chatbot-ai-available-beta"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 41
-  - title: "Google-backed Anthropic startup upgrades its Claude AI"
-    excerpt: "Anthropic, an artificial intelligence startup backed by Google, has widened consumer access to its chat program Claude and upgraded underlying technology that the company says makes \"Claude 2\" better at tasks such computer coding and arithmetic."
-    publishedDateTime: 2023-07-12T00:04:00Z
-    webUrl: "https://www.itnews.com.au/news/google-backed-anthropic-startup-upgrades-its-claude-ai-597867"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 37
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 22
     images:
-      - url: "https://i.nextmedia.com.au/News/documents_case_load.jpg"
-        width: 1254
-        height: 836
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-bard-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Antrophic Announces Second Generation AI Chatbot: Claude 2"
-    excerpt: "Over the past two months, leading companies have rigorously tested Antrophic's AI models, creating a waitlist of over 350,000 people wanting access to Claude's API."
-    publishedDateTime: 2023-07-11T17:11:00Z
-    webUrl: "https://www.techtimes.com/articles/293665/20230711/antrophic-announces-second-generation-ai-chatbot-claude-2.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 19
 
 secured: "L5NsiJ89CfevgqTCgJMN3xFCpZ+aZodASj6MuZPWN+1fO12WAXKglVw+2TCgbeZGPZ1KmMl+ImrRG1DYXTO1aKij9Pjq7oUiCi7e8nHjHBDqnfYDh2x/1LcHdMofNNrEn/WGYcJhZaZ5BrkNz/IUABT5zwHJLZn/NRDQnrnDh/83lAcdB44v7W9+pqcyRnLJ3l41jwwPezCnHlZUHlEdnrRerVH9O237tYdK5CoA3TfiI0EoRNVy7m1wJ5DnDHWSqRTpInEDBcROCCKTkCdPlvYgEN7bAYLh3FNqxiImSloYqKwSXRX/s3si58MYS4mewAudZv3o4ISkBqox/tkTleqNkoL2M/a4nMKqOclgx0A=;i7QUpAMEEh09mo412FfMTQ=="
 ---

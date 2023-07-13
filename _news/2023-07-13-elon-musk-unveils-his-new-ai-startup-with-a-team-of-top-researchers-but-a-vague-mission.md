@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
-excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI"
-publishedDateTime: 2023-07-12T21:34:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
-webUrl: "https://abcnews.go.com/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
+excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
+publishedDateTime: 2023-07-13T01:38:00Z
+originalUrl: "https://apnews.com/article/elon-musk-artificial-intelligence-ai-xai-2e626553cf6333f642fb02fe247707ca"
+webUrl: "https://apnews.com/article/elon-musk-artificial-intelligence-ai-xai-2e626553cf6333f642fb02fe247707ca"
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Business/wirestory_2e626553cf6333f642fb02fe247707ca_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://dims.apnews.com/dims4/default/f5d81aa/2147483647/strip/true/crop/4626x2602+0+241/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2Fd5%2Fa5bc3119d8e81249b025114377a9%2Fad7d8018b7b1405faeaeb2abf4bb08aa"
+    width: 1440
+    height: 810
     isCached: true
 
 related:
@@ -36,6 +34,6 @@ related:
       domain: wsj.com
     quality: 47
 
-secured: "CTBwN8V28fsr3KxapglYKmXHjtlnCAwrFBf7oDk0G4VQbt9dmXhWu0zh5JXTsib0+G21GMzGu35KTuRw1s0mf13LTMGYLqOUdj0QybgvzWXbJ51cXUGPo4eWgVhB6AOqpa1Om1OAWNd9tnZScYZMcG6O4evXFYIjYdoUsw1KytVHyu7McsSGczZUS09UmgehGRFOaoDv9iZhGq8p5m6dbrXMOQ9Tt4EUi3uPtbwA6Boga6h+KBzjsEdUP4aGYWJvOhuiE+9piMsHFINYgIcfKT+avJAjQoHOAXhmXvkGEAmY7yAQuFEIJInAw1ZpVFty5Bs3pmVl8jNx0xRe1IujzFm9T7MdAt5VkZ5zCqjw4/I=;naf43wnrQ+romOv1jcGvgw=="
+secured: "fjITeK9zKCQPIKqRJ2mzIt/Jvs/1Cvbw5kMDwgZ9/Zq+4b19hwmjB9jAVU9WFJJc2EuLPIj++cr0KXs/yuciNRZ5D1QrTaK7LKLqZLcmVBaE6T1TSSdAR2zmUSB4OIA/iZIzRMEnNkRDcQXzCAUKlTqPBeyzCUWfEVdde4LnrdNPRiwmT7BE1lxmpF+Go1r7tDOIBesbVpAIIY8aIbhwXjVCJlgNCKyECtw53wM02a/PTV5ZWLR9vHOuAhrvU1drf7+/LAj2iLcrtDGpm+S16tCK969VZaelj+VVlyOkDPoHiYGh9GvPP9occaEx4+YxbScPwYZOKLNYt6sTYmoecbcJDXT4jaVCp2QivYRHaVQ=;cgRoNpvv4inS9pL5yKdIng=="
 ---
 
