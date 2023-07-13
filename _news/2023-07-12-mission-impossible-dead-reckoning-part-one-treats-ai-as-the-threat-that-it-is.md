@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-par
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://images.wsj.net/im-813952/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Opinion: AI is an existential threat, just not the way you think"
-    excerpt: "Worries peaked in May 2023 when the nonprofit research and advocacy organization Center for AI Safety released a one-sentence statement: \"Mitigating the risk of extinction from A.I. should be a global priority alongside other societal-scale risks,"
-    publishedDateTime: 2023-07-08T16:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/jul/08/opinion-ai-is-an-existential-threat-just-not-the/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2023/07/06/102856675_AI-illustration-Getty-web_t800_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
         isCached: true
 
 secured: "TSCTeLwmbVFRItNOv1htHJ/X1CO3GzoA6B53A6aS8ZzBg+7EwZ2gh3oaqOoM+ZtTRgbXnW1oaMOIF/JhI2+bJ+sCGtnubUOiD9rto8UGOPtIlpBtR/1I6c4oMsolNg84tldNVH+qodBqzhlb74/5HSEng0ekEGNnQgn/rEKEiV3FF5bWTmNHqSkDnFnNqeqRKDAxe6bIh6qEbu71ifShztX3k9zo2ldXLHeu8+wVMz6Jqn3nJiP/rZOtIiJYSrflFm0SLs9av6Uda2EUaEgQNzFk28Wqa3DfDNQtvEE3iLfm82KGprTXtSf0kizrA4yrW4hOd5Ur6EuUsSbJYY0b6a6DeJuqrSuDy2L/8azwFBrgpvgV3cRU5vz1R9FUNGgSx+4AlPjlmLxb+DmSpwcTapT3/sEXXp9E+yODPNKxA8OQt26LAtZeJeT4aZ+5aQejgD2iCeCaC0jpT6KWK6ro26DgLxLY53PA497TR92fJRT1rCvgxZTabDFUFFPx6Af5/q2gDfHOR3XaS95Rle5/ww==;TK6KqyvdL2cKoGz9xCuLYA=="

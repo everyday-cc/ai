@@ -89,20 +89,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "AI robots can run world better"
-    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
-    publishedDateTime: 2023-07-08T16:00:00Z
-    webUrl: "https://manilastandard.net/news/top-stories/314348091/ai-robots-can-run-world-better.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 54
-    images:
-      - url: "https://manilastandard.net/wp-content/uploads/2023/07/ai-robot.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
     publishedDateTime: 2023-07-11T03:40:00Z

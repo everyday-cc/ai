@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How generative AI tools like ChatGPT can revolutionize web accessibility"
-    excerpt: "ChatGPT's ability to handle complex conversations can lead to more effective communication and accessibility for those with disabilities."
-    publishedDateTime: 2023-07-08T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-tools-like-chatgpt-can-revolutionize-web-accessibility/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1270805299.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Elon Musk announces xAI, a new artificial intelligence company to rival ChatGPT"
     excerpt: "Elon Musk on Wednesday announced the formation of a new company focused on artificial intelligence called x.AI"
     publishedDateTime: 2023-07-12T17:17:00Z

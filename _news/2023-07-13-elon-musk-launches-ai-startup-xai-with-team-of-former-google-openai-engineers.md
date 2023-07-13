@@ -51,6 +51,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "Elon Musk’s new AI startup xAI to take on OpenAI’s ChatGPT"
+    excerpt: "Elon Musk announced his long awaited AI based venture on Twitter on July 12. During an hour-long Twitter spaces event, Musk announced the formation of xAI, the AI startup, \"to understand reality\". xAI’s company website mentions that the goal of xAI is to \"understand the true nature of the universe.\""
+    publishedDateTime: 2023-07-13T08:21:00Z
+    webUrl: "https://www.afaqs.com/news/digital/elon-musks-new-ai-startup-xai-to-take-on-openais-chatgpt"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2Ff120fcc3-d6af-4564-88b3-2eb71408c3cb%2FMultiple_Promotion_secured_1st_position_with_51__share_of_Ad_Space_followed_by_Discount_Promotion___.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "pu4Fup6qsoetPttdFS+KVrkX6NgLw20QXF8+x/k8NBC260gaDCkHqOWXKSNvYgsizN0dis2X5oXUiae18tvFvNvy2cku9bDgNHmED2rO+XNFDi5oVrXfV41S5moZwMxthtVAbMTgLAz9XcLU3S35eYl6+zaINosPJsqcck6XQSxYjNzqNCA+ncOKi96OvnDUbQLzMb/ykyFRbCYiQRljS04Zko1bvxmf2CBIYiqtzd4UopKn1Z5Cu03qlGkT6fX0UJmPVDJZtns4P3YhqM0KSFrZIwLdCQTmj2j+gY813UiTvlyR0SoGTqdDZD4EcOWqivtc0eiR320fG7RCE4Y5caI6/DRIWg3N8v9pElMRVvZzOZgGtQBvLQWn+HZl6clpyScw/nhTxjYsrRDQ/rcCURSZi8S5lH9l9prtQNYAw4CbgGhzYxgLAEOZf0UCazp1yEyzjl1StKkGpF5poNkKscTEGcbLVg/Kk49HNnBOT7LqDwF2T1n4Aa5MiFrPlT1lcaz2xerV4OYan20lulBv9w==;h2vtUjCcvceWvH1LMAz5ZQ=="
 ---

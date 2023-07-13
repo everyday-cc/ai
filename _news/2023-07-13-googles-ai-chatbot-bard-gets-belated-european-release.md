@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-cha
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-chatbot-bard-gets-belated-european-release"
 type: article
 quality: 67
-heat: 107
+heat: 119
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTnywOOoJLm8/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Indian startup Dukaan lays off 90% of its support staff, replaces it with AI chatbot"
+    excerpt: "We had to layoff 90% of our support team because of this AI chatbot. Tough? Yes. Necessary? Absolutely. The results? Time to first response went from 1m 44s to INSTANT! Resolution time went from 2h 13m to 3m 12s Customer support costs reduced by ~85% Here's how's we did it 🧵 Also Read: Suumit Shah’s decision comes at a time when the internet is divided on the subject of AI taking over jobs,"
+    publishedDateTime: 2023-07-13T09:36:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 50
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-14.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Anthropic releases Claude 2, its second-gen AI chatbot"
     excerpt: "Anthropic, the AI startup founded by ex-OpenAI execs, has released its newest chatbot, Claude 2. It's ostensibly improved in several ways."
@@ -80,6 +96,6 @@ related:
         height: 628
         isCached: true
 
-secured: "bK1BtJAznu+jVKMxjOnrkWm2pfUD4K11loa9SA/Iy4b+On1daOTBHaiYv7vwb8hsGt7ezI7ks4UVc1kv22IEzx+ABXDb5Z8z4NAH2YpIgIh3pa1rZ12JQzfB1A4p6DXe9HQgzjM+ul9vfq1IUn7nrKMnC9kWs7vh34yzR92WbvltoHN2I6xC1keSv6FqkPfT0k8Nf1LkzT+avahtvSRRVRUSjwswH6aeT7kvckmPNQilycosmoUIRfyLRYzRpWSh02huh+2oQFDHS4iHTWXqYJmNijWCx083DOuDKrVC7nYW6C/i4qdbsgLmqnZdWG1nbkkxnYUeDrO2Lnm5f5euh3ZHGiUcfz+FSqwsRrYqa1A=;8xNENJ7okrg2sBiPPeoABw=="
+secured: "xCZa0Xk/xx8ZJBB5OQBLr00w/BWGYjSjbpoZjW5vw3010q37wbfaZ/tWsEmUFY703gQZp2HfEAn9jOHOJpKVEtw9nEmhx5aWT3P4OX9JKlWparMFGN3kGaM+BslbXpHfHJeOURLHA776GUSPA2p78J6YPpKv9ymWfFwkpOcwocJa03TK2H+dEfHBnkk1tpITQGGgPixnTYgAvmEnudznwrk7DBs6to1WSrjNnDoBWBwc3HTC0eanGQH8l/0MSXGttZSVGF3GcpM1v0gh++ieLnIwbFTJxsT7SkTPKrEQKYrq92gz3ZOCfAtkK17bsEnot86WDGuloYFrhkBQW4NVerTTwRB2mKyPF/9vp1X+8gn8mmuRmZx3mEcPr+F28AopGpRVS3VfNc5QgPY4aICcs96UxcpixJcGb4TTkkO9kRn3QTmWyA8oL9xmmRk5hvHkzzNfGY5JY5f5RN7/kj1SK7Mb/UNI7AdcZm8Ff9PDPhVw7azOctzFUApEnfc21DKSViVWkRugb8iZQ0l88v6wXg==;WYSuBSUZ1ssCeI526fm29w=="
 ---
 

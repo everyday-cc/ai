@@ -24,16 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Launches xAI, His New Artificial-Intelligence Company"
-    excerpt: "Musk has been recruiting researchers to try to create a rival to OpenAI, the AI company behind the viral chatbot ChatGPT."
-    publishedDateTime: 2023-07-12T18:19:00Z
-    webUrl: "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a"
+  - title: "MIT Research Scientist Asks If AI Can Become Conscious, Elon Musk Says..."
+    excerpt: "The researcher posted this query in response to the first tweet by Elon Musk's new artificial intelligence startup, xAI."
+    publishedDateTime: 2023-07-13T09:13:00Z
+    webUrl: "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373"
+    ampWebUrl: "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/2023-06/hhoa66ag_elon-musk-at-viva-technology-conference-paris_625x300_19_June_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
 
-secured: "fjITeK9zKCQPIKqRJ2mzIt/Jvs/1Cvbw5kMDwgZ9/Zq+4b19hwmjB9jAVU9WFJJc2EuLPIj++cr0KXs/yuciNRZ5D1QrTaK7LKLqZLcmVBaE6T1TSSdAR2zmUSB4OIA/iZIzRMEnNkRDcQXzCAUKlTqPBeyzCUWfEVdde4LnrdNPRiwmT7BE1lxmpF+Go1r7tDOIBesbVpAIIY8aIbhwXjVCJlgNCKyECtw53wM02a/PTV5ZWLR9vHOuAhrvU1drf7+/LAj2iLcrtDGpm+S16tCK969VZaelj+VVlyOkDPoHiYGh9GvPP9occaEx4+YxbScPwYZOKLNYt6sTYmoecbcJDXT4jaVCp2QivYRHaVQ=;cgRoNpvv4inS9pL5yKdIng=="
+secured: "YoB85tkQJciA5fKX3BcDVNZrsvYZgVZ0kn2B4PpnUtDSTDXMBzFp08wY2Uhe28+hQ5zEVQ5E3Ocngsj61HbqLYD9yrjQIpcu13nidV/q380TikA2EWrNUOWSJUS8hIltDFHRDJNpFSeegjbTK0zNipC1gtQdF1a3Qk9bET+pp0sdKR8EGOogK2i9kc3Bp/GnAXM7I1cbI5W732WdWGS47wbCGgf1yi4GNYhOReAFcFf7+wssf58Ml/iPbsoYK+jw4ZbfWnur90eGWQ9tQMhck07CoXrMDsThQJ+cnqi6xyEH34PcFnjQklhsMHrI+pIlS9cl8IWB9uECJJQcH9O7zbQklKwJQ2Yq/bgwS5EJhG8VmFnn8ID6befUG55xBXX4LHA4Xrx9q/3tXEEZEyjOPjrTp7xqLkP//ulrya5+bOnZeVQwgG+ieirDOKzFRG8kwMKPn5jQy3vVUyNUMX1ZE5Pj5UuylciIZotP3SGyIoN8nAugBniB+pLSfPCrmeXA3Bv5z/Zub3PWg3/4XFnx9Q==;fTYvBtzm0UMJFpPOiMtEKQ=="
 ---
 

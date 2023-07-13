@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-cou
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://static.timesofisrael.com/www/uploads/2023/07/AP23188470818991-640x400.jpg"
         width: 640
         height: 400
-        isCached: true
-  - title: "AI robots can run world better"
-    excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the"
-    publishedDateTime: 2023-07-08T16:00:00Z
-    webUrl: "https://manilastandard.net/news/top-stories/314348091/ai-robots-can-run-world-better.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 54
-    images:
-      - url: "https://manilastandard.net/wp-content/uploads/2023/07/ai-robot.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "AI robots tell UN conference they could run the world"
     excerpt: "Some of the most advanced humanoid robots were at the United Nations’ AI for Good Global Summit in Geneva, joining around 3,000 experts in the field to try to harness the power of AI and channel it into being used to solve some of the world’s most pressing problems,"

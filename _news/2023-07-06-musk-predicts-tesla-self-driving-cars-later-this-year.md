@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Musk Predicts Tesla Self-driving Cars 'Later This Year'"
-excerpt: "Electric car giant Tesla is set to realise fully autonomous vehicles \"later this year\", CEO Elon Musk said Thursday, in the billionaire's latest forecast for the long-anticipated milestone."
-publishedDateTime: 2023-07-06T07:34:00Z
-originalUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
-webUrl: "https://www.barrons.com/news/musk-predicts-tesla-self-driving-cars-later-this-year-bd3ed61b"
+title: "Musk predicts Tesla self-driving cars 'later this year'"
+excerpt: "I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai."
+publishedDateTime: 2023-07-06T03:39:00Z
+originalUrl: "https://www.rfi.fr/en/business-and-tech/20230706-musk-predicts-tesla-self-driving-cars-later-this-year"
+webUrl: "https://www.rfi.fr/en/business-and-tech/20230706-musk-predicts-tesla-self-driving-cars-later-this-year"
+ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20230706-musk-predicts-tesla-self-driving-cars-later-this-year"
+cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20230706-musk-predicts-tesla-self-driving-cars-later-this-year"
 type: article
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Radio France Internationale
+  domain: www.rfi.fr
 
 topics:
   - AI in Autos
   - AI
 
-secured: "eCriByvzP3+AEyJuCmrOES0vfYduPy5ToGvV1Vsoi5Ihuq/nlnqZIjxKeW54bQ2dsshashYa9yqS1oxH6aunQksu5oi8LHZtQsq53UzkwPOt1+qiRZdmuByrZFgtMvJfXNDuTfyI+k7NsTL/jZB4GI4UhEbgpp5Yh/Jy6JiHl2U2ylQbMbOe9gVLQBWGqDCdJrorz2tEQ4J2v2TKW3CSWb3LfKVC1FvtO4a/zozFgx4XAflUlnTl41cJT6brelGqrcqRhMrIxNFDHF/otTM9MgLF/YjSVFbXcs218stUDwTMPtuBUOGp6sKtWwi7jDXAvxSwnz3csvN3QYL1b8O3f+OqE5PoStKEUGH8m83WUVTm7a35/89HkcQLgu5QsQhsVt5LcuLdUIfi0vXAGppw2ZifCvJt8F8msKSY7a/j+8nGOEH4sdPxOhhhyQREeVJOsf28ByiAfgKRyz7DBB3nHi/xPJ+6lWmJFYxd1Ym9nT9kgd2M0ZajRXusX2SQ2mKAX+ZsGWVt7tuiY2g9PJ8qAA==;TTP55CvfuA6EPwqQg6v/yA=="
+images:
+  - url: "https://s.rfi.fr/media/display/3ea8b5cc-1bae-11ee-b855-005056a90321/w:1280/p:16x9/90f81fa89c63d18158509247c2231fa2329ddf66.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "wVeLuxkhevPum83KE8D042TntMNipRK9gf+2JQ4p926hRQ4pirqLovvAqh5BOwJUM6lwSB7PxQM0b7dLP9j6OUuKFdy71Pbr3ogk2wu/VxDwDs+TI4fZqbhs1qYbee+JWJiEPBHHBtZOiF8IH/bYPcYnXwJ8BDgtMrVySE8N/jy6OsGKdY5jZP2lGDYJSNeRu0Ve9xGCYqdzasoerT9Eg8fixX2sGGaopVY3kuu9g/RdZzbcuwNqr2N3DDMXq2LX0GIsuteGyWnwGK9H/1SE8huPmnPur6Ni9XYdt+fy6NFohDB1pcUFUbNyVAu2O9j+nEuKvOdBJlX5xJG/qlHCIEx08XSpMTmutyXM163nrAw=;LHlAm+jM6KHUeen2PR/AOA=="
 ---
 

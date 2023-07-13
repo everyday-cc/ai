@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-12T16:01:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/neuroxess-documents-its-multiple-achievements-in-brain-computer-interface-research-at-the-2023-world-artificial-intelligence-conference-1032441326"
 webUrl: "https://markets.businessinsider.com/news/stocks/neuroxess-documents-its-multiple-achievements-in-brain-computer-interface-research-at-the-2023-world-artificial-intelligence-conference-1032441326"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mma.prnewswire.com/media/2150256/image_5024953_28848121.jpg"

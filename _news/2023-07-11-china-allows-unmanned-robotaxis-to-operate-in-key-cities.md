@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/news/china-allows-unmanned-robotaxis-to-
 webUrl: "https://www.just-auto.com/news/china-allows-unmanned-robotaxis-to-operate-in-key-cities/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless robotaxi services launched in Shanghai's Pudong district"
-    excerpt: "Driverless robotaxi services were launched in designated areas of Shanghai's Pudong New Area as the district's first batches of licenses for the commercialization of autonomous driving were issued on Saturday at the sixth World Artificial Intelligence Conference."
-    publishedDateTime: 2023-07-08T15:16:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html"
+  - title: "Robotaxis progress comes at slow-and-steady pace. Emphasis on slow."
+    excerpt: "The demise of self-driving startup Argo AI has overshadowed the ongoing efforts of others who are pushing for wider deployment of robotaxi networks. Waymo, Cruise and Baidu already have commercial operations."
+    publishedDateTime: 2023-07-12T12:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/08/64a96db8a310bf8a1d23afb6.jpeg"
-        width: 634
-        height: 422
-        isCached: true
+      name: Automotive News
+      domain: autonews.com
+    quality: 4
 
 secured: "c6KMzNNiv6b3GamWXSSd+zfE7L9hMVN/185lZZhXxihtBWBtfDYvoHt0xWhqlSiffvzAAooE9aTovtlcRF/vqgwpkthU2kQAS11Pkbyadx0QVym9uLsAVoQdQs2lJF2+5IYN8+WCAfocXafepcp+3pbqRmeW6jqDLG+dvVoULBFgUcevsVm2BMSspmqSo9dhHNmv6IUkjvTFLIQfWjCytxIHAMAk5lBGc7qOEK6O0lrdj+1U+zJKkjK56lDr34aynORRvtYd18gYjfjIC/p0OpPRpyFlMQQ7uRF/+v7DW9GRGcW9NyF3PJMYelBVkAfAJ1vv+AuF6dReD2KP2sBqIdh+MuRVxrqJvreSCXbPTDVI15FAFjtyTeBVzQAzuamHxhExyMQUZy4Z0dw5bHylg1zsCUNSHM0QRTYxUIR0hjsFPIPh9MhYJxYHbnqbc4DEchnTSfFK9jIHDKBQk2phKP3th5VGIKAPYkAplgI4sb07E8RkLOgBmBjwnvV9xQk3NcDcOWj+aCTtYX079tCbQA==;9HIH4IPubAF+t949x2r4Uw=="
 ---

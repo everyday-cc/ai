@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-wipro-commits-1-bil
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/lite/"
 type: article
 quality: 72
-heat: 222
+heat: 223
 published: true
 
 provider:

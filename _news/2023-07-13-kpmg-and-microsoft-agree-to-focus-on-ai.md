@@ -35,6 +35,22 @@ related:
         width: 898
         height: 599
         isCached: true
+  - title: "KPMG, Microsoft enter AI alliance"
+    excerpt: "The companies forge a new multi-year cloud and AI alliance to supercharge accelerate innovation across audit, tax and advisory."
+    publishedDateTime: 2023-07-13T08:53:00Z
+    webUrl: "https://www.itweb.co.za/content/5yONP7Er21zMXWrb"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/5yONP7Er21zMXWrb"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONP7Er21zMXWrb"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/07/Satya-Nadella-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft, Teradata team up to offer VantageCloud Lake on Azure for AI solutions"
     excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
     publishedDateTime: 2023-07-11T18:08:00Z

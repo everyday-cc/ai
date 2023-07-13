@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Indian startup Dukaan lays off 90% of its support staff, replaces it with AI chatbot"
+    excerpt: "We had to layoff 90% of our support team because of this AI chatbot. Tough? Yes. Necessary? Absolutely. The results? Time to first response went from 1m 44s to INSTANT! Resolution time went from 2h 13m to 3m 12s Customer support costs reduced by ~85% Here's how's we did it 🧵 Also Read: Suumit Shah’s decision comes at a time when the internet is divided on the subject of AI taking over jobs,"
+    publishedDateTime: 2023-07-13T09:36:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 50
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-14.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Anthropic releases Claude 2, its second-gen AI chatbot"
     excerpt: "Anthropic, the AI startup founded by ex-OpenAI execs, has released its newest chatbot, Claude 2. It's ostensibly improved in several ways."
     publishedDateTime: 2023-07-11T13:30:00Z
@@ -77,6 +93,6 @@ related:
         height: 1620
         isCached: true
 
-secured: "yPu9Hxf7QxjUJavDgvVg9CM5PT2HxnIZ4mA4zmeH6ydK6Vh8WxbUlkhEmZl0Zuarb1HLYqfxfH6BsTZmWJAkUv+mvXRgp48d8fQEYsulv5TeIuIiIHNt5icbIxiGs/PbjkinsYJtmM7gMcThboJZyB4qY931rKEcs1fxj+BtyI/EnBYyxKZ/9BGnnZc6qjaep6k+3WSUOU/bLoDFFHuxiLtsaOvIaNwAIZ5uJlHkPOfwaWq+K4tyWilEQQWGvSAF/0RZeyo7vi2qwdQvDKovMtNUMZF/1nQfDLWINNH6qQlWabHEfvGZvYXbW2MFtvipMQ2HDI//MyA+yuRzVIq5rOmG/Z3wKqsoLq2FFUvtLus=;qGX5wTNsxoycVubRYC7HUQ=="
+secured: "tTUYOvEBnyg4hzfJ4oQjxXIqbhUjrXwzeG1sSuzM+/M5z4aSonVvqd+5lTK3P2FWucSPU97fBhro8PqM8hxDwXfK2+GICsGUMcFgcLwbqGcioRmSHMYm6NmQJbJhq+wpjbZ7FYtLddanNVo2dMLCu1KJ9OhVA+UsscHbElMOw9JuOyh7hCEPNFTrjR2WwVJhpjLZKVtygZpTU9HsCbrvLrgojN6X/9nkf1vJfE6xv/GT+y0doseLlnlboED6Y5S/o58edDv06WLzIcKYzd8CHTBjg0MEK3jbtFnXv4WAYqZ7GTsv4/APwjc9fG2Wbw15cpkzZeMVH0fm0d3RAp9goeawLnBn4ikgggVBSCxelSgWjAzyHx1TXugQ4SKJGuVAS3xD6d8U5Ug2BazouikySWcTuiDRJxukmP9loe7IG4fDu+16sx0PFzmfvvplpPQAc7b4s0oDJDtRSCRqm3uRGwWa7kgf1lqAGSbVha+2vGvVDggtuvuQgFTR58oajh4kOOQngf/sBiIeT2v/PTi42g==;DekWHG2A1rOZdOZiOG+qFg=="
 ---
 

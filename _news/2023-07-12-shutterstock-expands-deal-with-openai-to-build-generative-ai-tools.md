@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-ope
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "Elon Musk’s new AI startup xAI to take on OpenAI’s ChatGPT"
+    excerpt: "Elon Musk announced his long awaited AI based venture on Twitter on July 12. During an hour-long Twitter spaces event, Musk announced the formation of xAI, the AI startup, \"to understand reality\". xAI’s company website mentions that the goal of xAI is to \"understand the true nature of the universe.\""
+    publishedDateTime: 2023-07-13T08:21:00Z
+    webUrl: "https://www.afaqs.com/news/digital/elon-musks-new-ai-startup-xai-to-take-on-openais-chatgpt"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2Ff120fcc3-d6af-4564-88b3-2eb71408c3cb%2FMultiple_Promotion_secured_1st_position_with_51__share_of_Ad_Space_followed_by_Discount_Promotion___.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Lk1RG6L+rVtiAWPhy4mh9H3UXDvsA8Fj0XhahdaIMUkDa0mS23DoLix1nGCjPrSSFA6lOJWSbLRL31SZui7Vl/k3GmisDynUXWrwEkbnZ7xLrHioa4YKoOQF+vTH1rBhw8QksnlhOtfWLBPadZ0sB5Z9Zs8DwWQkK9P9MfoKeWyI8Yyx0sh4FjtI74N/zzQc47UIvg1ETanT6jLIRPcALGvgFkELRP/tK+OwgyyfkZTTVXX11gjNJZO8M/fpkWOYsa3PcSUb1S1ur4/FF5V1iCgwv4fXTGvNZQFI6m+g1MZtFmCJjGdt92awJ9QTpfbYa4kCoHAD/ICWthDHssmj0wDeXstEW0kN3mhtuXsvjDdhwKk3necv6ajjykTGYUjL9Fc9h+0YsJrsWUEqiAhX6HcRwMB2irlR25Di4W9MM0CONaO5IDfKeWM1yz+nweUWEP6hHlc73ESm6c0bZ2sKzYM6B4dENv/ehu1/J+f+veUFZbCckvwMsdvBzdH/E13YwPC4gNwBK/HiBoNjcW/+FA==;rBrIpBGiBITD+gX+Y64veQ=="
 ---

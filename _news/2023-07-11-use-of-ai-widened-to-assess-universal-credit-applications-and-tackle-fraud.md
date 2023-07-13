@@ -117,6 +117,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "User-driven AI automation - a path to efficiency and job satisfaction"
+    excerpt: "The transformatve power of AI and automation goes far beyond technology - business users play a vital role. Acumatica's Doug Johnson explores the emergence of business process experts, and the different levels of AI-driven automation."
+    publishedDateTime: 2023-07-13T09:51:00Z
+    webUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction"
+    ampWebUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2015-08/automatino-engineers.jpg"
+        width: 729
+        height: 373
+        isCached: true
   - title: "UM Industries: Revolutionary Tech Company Transforming Education, Healthcare, and Finance with AI"
     excerpt: "UM Industries, a trailblazing tech company, is revolutionizing education, healthcare, and finance through artificial intelligence. Their transformative solutions include TutorGeniusAI for accessible tutoring,"
     publishedDateTime: 2023-07-11T18:28:00Z
