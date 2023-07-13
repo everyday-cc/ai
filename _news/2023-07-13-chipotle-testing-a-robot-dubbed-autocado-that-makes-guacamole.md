@@ -107,6 +107,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Chipotle testing 'Autocado' robot to cut guac-making time in half"
+    excerpt: "If Chipotle wasn't fast enough for you already, the popular restaurant chain is getting some help from a new robot. The company has teamed up with Vebu Labs to develop its new \"Autocado\" machine, which is estimated to cut guacamole prep time in half."
+    publishedDateTime: 2023-07-13T15:27:00Z
+    webUrl: "https://www.aol.com/news/chipotle-testing-autocado-robot-cut-152751514.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chipotle is testing the 'Autocado', a robot to help make guacamole in its restaurants"
     excerpt: "an \"autonomous kitchen assistant that integrates culinary traditions with artificial intelligence to make tortilla chips.\" According to a news release, Chippy, created by Miso Robotics, is trained to replicate Chipotle's exact recipe to cook chips to ..."
     publishedDateTime: 2023-07-12T17:35:00Z

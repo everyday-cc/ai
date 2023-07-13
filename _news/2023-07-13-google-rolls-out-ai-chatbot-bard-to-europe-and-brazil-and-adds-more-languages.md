@@ -3,12 +3,10 @@ category: news
 title: "Google rolls out AI chatbot Bard to Europe and Brazil and adds more languages"
 excerpt: "Google says it’s rolling out its AI-powered chatbot Bard across Europe and in Brazil, expanding its availability to hundreds of millions more users"
 publishedDateTime: 2023-07-13T10:17:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206488"
-webUrl: "https://abcnews.go.com/Technology/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206488"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206488"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206488"
+originalUrl: "https://abcnews.go.com/Business/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206487"
+webUrl: "https://abcnews.go.com/Business/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206487"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -108,6 +106,6 @@ related:
         height: 628
         isCached: true
 
-secured: "lVFbtIX/PaUlumkcelyJDRf1j1MyvKUQf9e7ckTOJUoaFpbS1FWWj1n+1FH7GhZfs4BY7ugk2aZe0hZ+btpRxRGnIymHozyfks8IcUSIBFxqhwFTsa92r1GgK+ysw4i2LGJIYH7E9Wervf6B81CzqKZSKLZgOwzKg1Mm/cT4/E6uRZ9LpUNsVy5wogBoLBaaFGH94K+vEHXoEHGkZZsSiCmr6xzUFsdl7vTvQsVi6tp50HoHGoTwR8UJvW/lu9SZAGJV3sKtkeD8VDkcfkY/kogT4Xr4JhpUR5/cavDXvMQKEDzFPsJKxINWpK3z1b3owyT7u7XXBghysMIoaUza1w45lNrrWdU2Bx/EQpmbAHA=;AXyLXaBnyit4LMhx4W+e0g=="
+secured: "UH1pKTk+4itgnva4ohpBbcXy27ST1NBkBiV4TYs8a31G7oHUIneWgFGeaOw+8c0ue62DfHtOi0jRaltVe+QyaUvNBVpdvKQjncZ1QQgEEhgtqLpgC3FII0enrbAAKBX9/YrUayX86xZ8ltSSZgj/002qZzSiMBBKLkvf7ICMhmsreWmBToOT6+bF1xQOyXrtSt8/Z+4u4W3tvSwnv5feUr1T/4xSWoFKziLgp12W/3UESjVTuCdYxtPTSFCwOCON0HwsBDFoCBM0JutxOlJ0r1Tk+TWuToXt8zoGoLLCwj1j63PnA7QHqjZDSIxj2ChD6+q8Z4BhTGwSXA4sdE4o+MqDcgSaHG8fJwYSguLlnao=;LW6lXTBSTL5B9DQw0brUXg=="
 ---
 

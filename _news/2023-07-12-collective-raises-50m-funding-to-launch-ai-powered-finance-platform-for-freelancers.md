@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered
 webUrl: "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "'Solopreneur' finance platform Collective raises $50m for AI"
+    excerpt: "US fintech Collective has raised US$50m from investors to integrate more AI tools into its platform for self-employed business owners – or 'solopreneurs'"
+    publishedDateTime: 2023-07-13T16:10:00Z
+    webUrl: "https://fintechmagazine.com/articles/solopreneur-finance-platform-collective-raises-50m-for-ai"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://assets.bizclikmedia.net/320/2c76d7f87aacacbcf0c4e511d4de7d89:4946421f9bba5b626f784e1047a05a10/collective-founders-group-photo-scaled.jpg"
+        width: 319
+        height: 241
+        isCached: true
   - title: "Gamercraft raises $5 Million for AI-powered skill- gaming platform"
     excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Gamercraft has raised $5 million in funding for its AI-competitive gaming platform for skill-based console and PC gaming."
     publishedDateTime: 2023-07-10T13:15:00Z

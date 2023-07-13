@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "It's not too late: Best Amazon Prime Day deals on Samsung tech that you can still shop"
+    excerpt: "If you're looking for a new Samsung smartphone or earbuds, you can find some great deals on Amazon now. The Amazon Prime Day 2023 sale is technically over, but Amazon is still offering a number of deep discounts on top-rated Samsung products, including smart TVs, smartphones and robot vacuums."
+    publishedDateTime: 2023-07-13T17:46:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-deals-on-samsung-tech-you-can-still-get-2023-07-13/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-deals-on-samsung-tech-you-can-still-get-2023-07-13/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-deals-on-samsung-tech-you-can-still-get-2023-07-13/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 36
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/08/d3d0d5ff-f9e4-4dbb-bf81-1b02b3150c60/thumbnail/1200x630/6c8b6e6c38713df157a140b06c21385a/samsungheader.png?v=867e41af7e860d9286e5bd7e91ee0db8"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9Eq3KKU3571kn+u1O1NAZzN0hda4eneel58wGdfq1TgFoOamEL6EjRXORbjeGKDnZDw2/BPdvLHr2vQMUaawgkbwpbiR2Y2kD5WFG6riW5m8CIQlZLmZV/40MVOPeO3DImfhAwjG0H9VzSqUQPDQUxaAVP3peiJR89gq003/BbU/EUqw5Vmjb1/ck7ZCyeJiOCOQbaq7HxiJ1+tnyZleb9pdIlfTs6LUrTUAkDPyXUWzx5GlvsNVm9viccVugZI7eBDL6y6z0z/P5bHJasTQzCtIYPxVdEciKX1G3tGON1zGqkjEMNl5d4HB6hUMONTqfA/jX31ov6MEFut74SIHd8gaSumxJ9e+GsiuJKyIBek=;bu9fzKvwuUWdL1f0ZBbAGg=="
 ---

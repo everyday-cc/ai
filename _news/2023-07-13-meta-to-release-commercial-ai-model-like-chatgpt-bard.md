@@ -123,6 +123,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Elon Musk launches his own AI company to compete with ChatGPT"
+    excerpt: "Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
+    publishedDateTime: 2023-07-13T15:59:00Z
+    webUrl: "https://abcnews.go.com/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Business/elon-musk-rt-gmh-230713_1689261684208_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Setapp introduces a ChatGPT assistant & other AI tools into its service"
     excerpt: "App subscription service Setapp has introduced new features powered by artificial intelligence, including an assistant, better search, and a new toolkit collection."
     publishedDateTime: 2023-07-13T14:14:00Z
@@ -192,6 +208,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "QzV1OpMTTOYnp9W0QOjeJcLPSs4TKI6EcbmR7VM7Ydj1mXfJH5+v1Y6Ioh53VywBwaVas8EWxLhoNwEZW6xAbxcFWTvnG++bpxbHjS++xrWwVn1SoPagZV2J0cOR8p0WMJnq6WNY3xarKqr2uOg0r5eKGolJ2E/Ys2XX4p2LVXxrZAhrssMNuAihRrYi/d3BfxSX2gbGFxac6iYSVP8Wod6Hy1WJo03TcrJeVnaSuc3UQhWnoGy3/I/EDotk5gAmy+wb9g3WJbkzsrINnEPKW7fJv6y8wXwwVeahuYx6mEvQgG7CsYe2iuVU5lIV2kfnkymqXU4xZECMMZvVPL8ie8S9r8gv4Mjw8QU3S4RZxBw=;0Hm7SxmGbv25uNtEncAcQg=="
+secured: "n5rWSu8RaY6S5i+AG4PQLi3t2D4fgrTvNZD1vtrY8HiVklUpPv97umrkqxvMQ5RAvg8VP6VNMR+zYiOSMy5fQwfBfb0qcDkgj5XO1Ximvq0rl0QMcrkbw8u61UiFcdacJHX5tMMaQA+bL9e62sZ0ET6249UbADrRuYReehm3RmfgDeeWqgxDGD2N5R1QJ5MwcL/eCBQ6bNYiBo/dENgJuz55lcF3GbWqNkV9cHNJgI24H0Rsl0Lso/NG32C+X7tSLkNb9M5XUeTCQqadbwCObzYcCXSRBBN10g0HGTyfe5oKLM2xYahQ5Qcp0Zy/l8nFOfmrINcsVKu2OgNTwdYMg+5m89Tgx4LzmVCv2VOCrH3+Zv35mds5PsdYMQu4YX6eFQaCvS7hGNufM94pbxFm6e96DcSkW7HTPUMyYLmCjCS2wj+SAAxyShgwIXCON4rGNIqSr6FDAR25p6KtFbo/pSi3AthX6foCnbZlW/uoqk46VNkoljLwLIohSEodKfQb3Z7IAyIBWHOL3BqHpsY8HA==;1g21Bg0yEVbd8hQq/RPk2w=="
 ---
 

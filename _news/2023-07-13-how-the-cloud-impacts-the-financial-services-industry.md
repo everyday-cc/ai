@@ -26,14 +26,21 @@ images:
 
 related:
   - title: "Advanced Authentication in Financial Services Markets - Global Opportunity Analysis and Industry Forecasts, 2021-2022 & 2023-2031"
-    excerpt: "DUBLIN, July 13, 2023 /PRNewswire/ -- The \"Advanced Authentication in Financial Services Market By Type, By Enterprise Size, By Authentication Method: Global Opportunity Analysis and Industry Forecast, 2021-2031\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2023-07-13T15:27:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/13/9848122.htm"
+    excerpt: "The \"Advanced Authentication in Financial Services Market By Type, By Enterprise Size, By Authentication Method: Global Opportunity Analysis and Industry Forecast, 2021-2031\""
+    publishedDateTime: 2023-07-13T15:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33218049/advanced-authentication-in-financial-services-markets-global-opportunity-analysis-and-industry-for"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33218049"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33218049"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "mT2QslfOZVWSYv3xt9qft1KK5OQLM7TUrkRViyP7UyUuZ4lrTCQd8uZEf4s3KtGJemAgOpkJZjn6faBPTn53GyRRQ0Ns3HoAZfcN0o3FpgbkmT42AkcIwtmT3cSXQU+fLKJEC0+gJt/0xS8KnN/FTj91rcHHtjZP12pKrCxKrFixo/lcRg8adh6o7HVBFuKj8s8xqYAW9mrhpuPSBRx4O1JY4pFG+TOdPlWOvIVRZDfV3vixeajQ0YjKqs8Q+RFdZuVSBPB4ROyuQ0L3h4zYPmBDQgU7j6u2BfBz4qIYT/U1fA4kBIS292KVhfyv222gsE/Z3oVIvDpYnnfgSExp4cYfDvnCczssT/sgHmBPzk4=;z1u5pP29Fs6aCqIE4Co1cg=="
 ---

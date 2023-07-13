@@ -99,6 +99,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Chipotle testing 'Autocado' robot to cut guac-making time in half"
+    excerpt: "If Chipotle wasn't fast enough for you already, the popular restaurant chain is getting some help from a new robot. The company has teamed up with Vebu Labs to develop its new \"Autocado\" machine, which is estimated to cut guacamole prep time in half."
+    publishedDateTime: 2023-07-13T15:27:00Z
+    webUrl: "https://www.aol.com/news/chipotle-testing-autocado-robot-cut-152751514.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chipotle Testing A Robot, Dubbed \"Autocado,\" That Makes Guacamole"
     excerpt: "Chipotle Mexican Grill's new robot can make guacamole in half the time human workers need to prepare the dish, the restaurant chain said in unveiling the device on Wednesday."
     publishedDateTime: 2023-07-13T12:51:00Z
@@ -118,6 +132,6 @@ related:
       domain: usatoday.com
     quality: 12
 
-secured: "Yw6gN6Xke8wlwCcIKltOQ2NniS1Ca77kEu1nVBQMOY8NZGnpuqpF8Ko1oXdhNeDPTTT8hibVrMaKD2L7aoLeZW4WqmIBnBmvgu5xte6+ltmsXQ+S6KBYwDoEDYEX8VunlVVxny/+Aaz8IeDxywqLZjcrI3wsB3AQ8TbVbaoteReiOAN5QNZxujBPvFK3sWtb43HCJk4YfXbwYSeFqoOYsX6g6gEpBy2Tmk4z4WTlhVMgY9zWGCGmKH4y32GUBVBOzKhqR8RAOJQvVqa7WuDHUNsHqbBXQ2kaidoqwSUBvqB1jGqmUBN1rKkLjg9LFG9jjIJRjRFDxxcNo2KOBwPOziCIaBoo7V7exGM17ry7Txs=;D0jb+7Pwzv13lta+fA68vw=="
+secured: "BItX8rYEYdZUdP6ynW5EK6I538edQ30quG6I2jqEzIPbC9Ie8IM9/buG6qrjjXBVsxCK3YlHdDqlcjpteZ2y8TJHoXqpPQNENfJ8ioc6pyCRT9o7RMgbDqxRiNkBFTfloVuziw4tTeAriPEoZqmIlqmyv/2z5RGq0bdCvcrtbLoNJfSZVHf8vCRsAk+htYdn6ENX3KYoo2QR2UbxUciqfzoeM+NPy5cxtMabGthx/uVQZY6+4QGBaGHgTxNsfe++QJMb73INkuCR8OUAMu9oEHt0eOqB2fg0LR2XwXr3vOnejNQPAJYdU+3Bl2RGZLYzS+zxYbvrr1hvRxMGRPwhAMtxOTwNOOnxyBF/vXTFmabTPcx6QSn5CwW2LlTFr/pwk32ACQrEZNBrG7PmY+WtPZfe0Zp7Tp6htJiFIk50sbK4kHBXpWDsMpWEHLCETfnHzVza8mnq81k7PQFhY0TMLYGAicoCQq+Mg75lInMLyxPy1lFIFO+cgZcdLKHXtGP+KhsGL33DPLRh5htwZBw9LA==;XEiQzzDRPGDkAIsZVe/1VQ=="
 ---
 

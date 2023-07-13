@@ -65,6 +65,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "OpenAI strikes deal with AP to pay for using its news in training AI"
+    excerpt: "OpenAI will pay the Associated Press for direct access to its archive of news stories in order to train its AI chatbots."
+    publishedDateTime: 2023-07-13T16:28:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/07/13/openai-chatgpt-pay-ap-news-ai/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NRSTZQV2CPQGOHARXZZV42UL4I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "SEcIeYqFudL9lJ0AH9/hFa86PBd7ZhT4p9byNfuLH3TyAu2eflS6Y/tgHwBF9ZNjr/c/jlHOWFolYIGo4ZUQPLGtxcrvavrY1qxpCtONWsny49cysw1STgrN9p8VVTZiAilR9Tvvvk9NRpqEloG1NY/3CpIYsAcI5DzKsVUGwDdf6/OvRHyHO1I9VzXmbLIAabEg6MK/Iicm6/7lxWslisI+Swa+SV3Iv8q/X1U9gIGFEGCoKcYvLwO/Q4ZcjXqh5887Ls+uTZOuM2ij4b6JcUou/1lo1fVaRv7/I/7MFgn34CyRmEfZQisezuxx5eKZxaG6BEXiNY5/+dMSfVK6UAmSJrUJ4jeCq6kEoAPw2Pql5yYYfL9WH7bghRWdbIN+b93OkaaVUPWsZVtPBWrTlW/pApNNbHmoYRYNtBR7Dqvx5F7ga8lqvcvC8Vcy+PSfZ6sLPESHEu5uTRfwKSC6zKsGN2ieVXlMiUJhPI5J/apgKsIF/nqaEtv9mf58stK2jKKTfXdkYyNcmj4e/GggIw==;gao3zFI//ohCKd6qlPnKTw=="
 ---

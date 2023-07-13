@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intell
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "gdQXOg8wyWrO8CQ6D3e4JVNXD4+LkAC1Si8HKGBGa7ytxBh9kkjRw+dWyfBaHUlKTuWsM5MDUJCylNy2HOtDUrd6NDi6UntX90rf6FVTBDBo4cavpjgr3mg91OsC0ctV/qLkJ8P5km8mfeO/Z5510OWPeTNgYoHMO1mIVyDflpK3IvSDKn8+D00JYfmkd5UOoOzDSr5fn+T5FsUGcBEz506z9NJqjhJU5ZNQsXu9QzRDndHiJE4XS01VdscUC3DCk+ZX6qNSgrdIZBj7M5kQjI6huK6e+yi4WH9x7cWmx6ogIw1xTrFI650UWL0Ru8fTfbfjQuCd/Owv0HDYfjGiJriHWrueRRQjWYo5bT/BP0k=;SkQ2IUEdeEuIkI3KCRa/Rw=="
+secured: "1T3oOZZC9NkEy76Uqw80GEWz5VwQmlBlav5pUJpOPy5xtd1StltTbTN2oytW+mkfb44xQhK2kS3+jtMRQMTM7YOvplzpc1K0JkDYf+OY9qndiWqUGD3HYsWOdctrT2Hi3Nf8s2q6uVxrr/vubaw5Fs7Xotj1xuLlcqqWWpn8MklabPNE8FoZvgFFrDh2nIkVdTjkQSGPvt8PKrO3I1sLpmMYI8r8KANY20iwSsePi8yhVXLGy52YvNsGPT8bmxNySYT+vBJIeE4zXu+sptuMA9b/N8Jx61cbjAUI1F/4uvZEdulP7FkwKpcEywPILd6WSTm9wG1KSGWIuPUIXFbcux4WrgCmw9zG9u6APwzVnUXcmOefgJ4LVqWfxUTRvdtz/gPUAWDT4LltmQUsKyuZ5wRnm1/ZyuQtFSy6Zd0XGOj4ltb5zmymOPl0vNHq2Y8qzGX6GFgar16BR+sSAT2O5nDR/eE1TA40w6zFKalfhA5GjMB9u0D9r7BEPH+V/fedXNGksdyChi3JXIFXX9aPVg==;BB2AZUDPN6peK2cyMRZtiA=="
 ---
 

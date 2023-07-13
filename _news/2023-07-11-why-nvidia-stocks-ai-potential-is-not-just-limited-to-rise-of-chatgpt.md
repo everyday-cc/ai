@@ -64,6 +64,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "3 Semiconductor Stocks That AI Is Loving in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductors devices are crucial to the modern digital economy. These tiny"
+    publishedDateTime: 2023-07-13T17:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-semiconductor-stocks-that-ai-is-loving-in-july-1032445531"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Best Artificial Intelligence Stocks To Buy Now? 2 For Your July 2023 List"
     excerpt: "Artificial Intelligence (AI) has grown and transformed significantly in recent years. This is all thanks to amazing innovations in fields such as machine learning, deep learning, and computer vision."
     publishedDateTime: 2023-07-09T16:15:00Z

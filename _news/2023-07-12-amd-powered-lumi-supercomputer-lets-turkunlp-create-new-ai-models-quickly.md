@@ -6,9 +6,9 @@ publishedDateTime: 2023-07-12T13:00:00Z
 originalUrl: "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/"
 webUrl: "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: VentureBeat
@@ -21,7 +21,14 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
-secured: "33w24ccTbssWHo2anLaxxhW+dpsPl/fcvIajd1opGZI60PLw4ypkrkAszJYp94WJGwQ+WxfGQD5SupHoaKLXjNGb2RIjyIfDl7WlJYogeEF71pXegGwmOtCrscZEYU5RjYEGLEV92Rjs4IShEWop0uNUV48F4R/FdSl8U03Wuv3fG7lJftvY1Kd3Eu3MAK0hx3v4s36Mon2U3gNT0nI/2gAgcSEkc4I3Z3FAlN6MsahiTu9QrOnOiH3mb/B9RVH7LsO/PASQRt0FpdSoe0upn467LsRr5ZJcqnjXtYk+KYpDi0U8Qk3GagqMRMQauK/zQFDuVs8TSW9aD8URk83IGKWQctJyruuPncDRtQnKzGmGNp6tuuwBPszd5BYhKDBbKUZr65gG0LG3tCunanrd5ubdlr4jriLG2Sto/0pVxDnmaKjwRGyHzr3e4UV1d9HvswyFjGlSfqcQQKKYtHRTz0ke9KpYbE1rMNGF08tZkXpoPxJ4WAeyKIBNdreAi3rq/X8QRiurH01+66Ob9DgQZQ==;L72viGdQpsbZdUIBJlWz2w=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/07/lumi-2.jpg?w=1200&strip=all"
+    width: 1200
+    height: 634
+    isCached: true
+
+secured: "fujSt7p8pdGdIGZtW9ApXDFKGiFbISyrtNhhzESdGuvxANEz60Dq9luyx1wfE1hesfYWFdov8GrMDk7bBkvdtYQmhMv3+YMaCSQRKNUNxUkN/H673RJEw99PVa47FHJJoxXTDgM+ZB3a6hjWfGctDCP7D0wkRPcUZdpvQB6LLEI2oFm2EzeSGazyGpc73iTpCUK2JoUSZggrIBxmvDmbl84CmILjpTZD+XXQxFAOkst0go2HiFmhZI0OA1e6p6Bk9nu2J9mh0fOChzkxxU+/efkzbxNFxe2WWpN8I9OLFva0RCghCkk+oF8XgrPgqQpys2r853ZXO/lOWLJkqcRpvGXiKESpv4wYBE5RioB0hz4=;N45H4zjQb1Ej3W0NYVaj8A=="
 ---
 

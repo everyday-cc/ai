@@ -36,6 +36,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI Is for Real but Investments May Be Frothy"
+    excerpt: "Companies large and small that are in the artificial-intelligence space have seen their share prices soar in recent months. Experts urge caution."
+    publishedDateTime: 2023-07-13T17:42:00Z
+    webUrl: "https://www.thestreet.com/investing/artificial-intelligence-real-investments-frothy"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "jLlAl+1cdYN30fc123uYVKT0tlc9zQ1KIMtpxXgzFOrdKAXo47bCetJrGvfh4Z6H5WDQ95GkZYcLcktMPgHSN84c30W85fpoMk7wjJEza4jFYHlMd/oLqm2gzVyJNpKlyb6asTKfUhs/d6WI0kxAKsrijfXosJtGPjtBKwiJk6Nd5wVHxyq33lCr/RL0NrHGBS+W3Sgw4spvwGW5mlf4/W5jCt5JoX/DYclyQU6MVoTsjDd0llD9NQtPXyMrfbR5xrhncQ95BAKkzyrjzGQ+v1adLbAsuk3fkRTQGmtlzeeBQ4y2L41Vo6/K5fLG52J18IS8J2ZY0oV41OjUCoqyvJmOlEFXbX2yWcD/EiNgbqT/IHiWmO9v0QSmuHrQwBjAb2UD82P21cYoZYVODhQtTEQXzv8SwhmgpmkZyaf+y3ZFi5MaVXryZQGYT5xYp2ldWiVx6HtXMIrxJ7Kp00ORPmQuoHmh9uiH6H7TCx/B/vXzgjp8gnT3OYpASjQL09OlePl//srNJxopPfFuLpwiog==;EbLN8C6OA8mLmatEV/Sfzg=="
 ---

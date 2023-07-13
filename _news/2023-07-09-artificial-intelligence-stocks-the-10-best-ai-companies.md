@@ -7,7 +7,7 @@ originalUrl: "https://wtop.com/news/2023/07/artificial-intelligence-stocks-the-1
 webUrl: "https://wtop.com/news/2023/07/artificial-intelligence-stocks-the-10-best-ai-companies-16/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Looking for Biotech AI Stocks? 3 Names That Will Benefit From the AI Boom"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI is coming to biotech in a big way. From protein folding to drug screening,"
-    publishedDateTime: 2023-07-09T00:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/looking-for-biotech-ai-stocks-3-names-that-will-benefit-from-the-ai-boom-1032433236"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
 
 secured: "x6kH+8gIFJ2R1EtInY6UpcArAUQTWmkzQBz5M/00TmIPBWdtQN4PwbkvnYaWPv+65HJcrRsWWqYEQ15pNZgwaj3sziDUCktO6/KvDFklXqSyYg5xd6IANsb58y23YohNaWd/OL4MK9trgffJgssIiUWfqcPWaOJ1Ljjog+wvXf735wlOpsI/GXYmNv5TJ9lRvJoKo5HpKxMZSx84CyoFGoZeNbbnGA3g8PanjQdXQsNL2WWPpajXPezpZ0rS9wrBoPCsh6QI0QB3LfXoQkg+Q5SDyXc9uqNu/Wi50KBIFPzXlSPN3VBOM4KRLC6rHTimITSqlGZovvgTffYGfKTJDEP6t5FpywKKOeoE0+BFKoU=;xHYIUaqwoAuhMnEvEF7Gzg=="
 ---

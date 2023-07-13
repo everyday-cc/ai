@@ -1,29 +1,27 @@
 ---
 category: news
-title: "AI for business: A conversation with IBM Canada’s McCann and Attaie"
+title: "AI for business: A conversation with IBM Canada's McCann and Attaie"
 excerpt: "IBM Corp. is no newbie when it comes to artificial intelligence (AI). Its Watson system, which caught the public’s eye in 2011 when it won on the television game show Jeopardy, has been used for everything from chatbots to assisting in medical research to (I kid you not) concocting recipes for poutine."
-publishedDateTime: 2023-07-10T19:42:00Z
-originalUrl: "https://www.itbusiness.ca/news/ai-for-business-a-conversation-with-ibm-canadas-mccann-and-attaie/125520"
-webUrl: "https://www.itbusiness.ca/news/ai-for-business-a-conversation-with-ibm-canadas-mccann-and-attaie/125520"
-ampWebUrl: "https://www.itbusiness.ca/news/ai-for-business-a-conversation-with-ibm-canadas-mccann-and-attaie/125520?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ai-for-business-a-conversation-with-ibm-canadas-mccann-and-attaie/125520?amp=1"
+publishedDateTime: 2023-07-10T17:39:00Z
+originalUrl: "https://thestarphoenix.com/technology/ai-for-business-a-conversation-with-ibm-canadas-mccann-and-attaie"
+webUrl: "https://thestarphoenix.com/technology/ai-for-business-a-conversation-with-ibm-canadas-mccann-and-attaie"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: The StarPhoenix
+  domain: thestarphoenix.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2023/07/Think-Toronto-logo-scaled1.jpg"
-    width: 2000
-    height: 1513
+  - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/07/think-toronto-logo-1024x775-1.jpg"
+    width: 1000
+    height: 750
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 1937
         isCached: true
 
-secured: "wpPFSEVGTKzdXD2vOJDf0o/LL6xz+0XzJlMbpCukbyjIMyPcIsta6cfHphxjGzbtgbiUSiv6z2/FemmG9VQzYLiDyJLzCYYDeU5hYChsPDsZ2C9PkE6iK57vUk9BfRV9AHkQr7UegdGsw0qHxJ/GXJ7VazYuwB779WzB6rkw3IcdKKi/wzaceEJkPUacn9Upv7pbegVBnKhq+VI79I+2kr50yEUJzepP4UT5EGJhbTaMBIXcduzN15ZGRVIjm5wOT+FQ3R9K8lNJKdQgOzBFk96XL+rXSp+bILZbpTe+33QsseIdp9svm4uSA0qTKSVzRafjMaEEWwtzn/dQWqr7trRws9GB1cuggiYGjWFx6L4KJXJ+latDeRtNSVN6W8AvADx8gqH9A95iwL+0vaMnYmWTYrHqRktaEjvbays3L+vORby5jW5Yq0xi2Zk156MWlPfGiarQ4iZ80vHLHShRSxnntXPh7X/5p5fpGmoy2YnwL5Z/wEfkHl3JWleYY6ev7Js8cwb+LzRe8eGEPc1Dkw==;iizMoVYX2eVAdZj9PlK/jA=="
+secured: "DW9uaxZtDuO//50ySEL3fukU5boS/0fO6cLwnDsbDkcoucIqZuP2jlq6vlSe0t/BpdO3vZhyenEg3grnBJDtacWLl7MXuno3RRBmXeE0O/hTze2zdAjHk9TMH5Akqh4259VKYVcJHGHzzXh+ZvyQ7yWoubria2rD1CRNbjyVBSRYuue4vtC3B2P314cCQh7bDcwKF22nKX35YrBjIwTDqxLa0xrwWUDZQy6cPw46Pi40BuwfpsJ/IZwYFlfXjezjBlBOjrR4oSzfkCRhrNsxrkKSQBlYLWfHm32ilFQLF+sEpTd8FgQ9456Ob5Y0iEXBhx4++MBemUeiIWJq1TwzbJFIUN1B0ph0GkZwv0wksb0=;Vc2+pvrFqXwe+zK+5AsNDg=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 898
         height: 599
         isCached: true
+  - title: "KPMG to invest $2 billion in AI in expanded partnership with Microsoft"
+    excerpt: "KPMG has pledged a $2 billion investment in Microsoft Cloud and AI services over the next five years to streamline workforce efficiency."
+    publishedDateTime: 2023-07-13T17:11:00Z
+    webUrl: "https://venturebeat.com/ai/kpmg-to-invest-2-billion-in-ai-in-expanded-partnership-with-microsoft/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/KPMG-AI.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "KPMG, Microsoft enter AI alliance"
     excerpt: "The companies forge a new multi-year cloud and AI alliance to supercharge accelerate innovation across audit, tax and advisory."
     publishedDateTime: 2023-07-13T08:53:00Z
@@ -173,6 +187,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
+    excerpt: "Availability on Microsoft's cloud computing platform will facilitate safe and accurate Generative AI applications. NEW YORK,  /PRNewswire/ -- Pinecone, the vector dat"
+    publishedDateTime: 2023-07-13T17:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pinecone-speed-up-generative-ai-microsoft-azure-azure-/2023/07/13/9848149.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 40
   - title: "KPMG and Microsoft agree to focus on AI"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernisation,"
     publishedDateTime: 2023-07-13T07:16:00Z

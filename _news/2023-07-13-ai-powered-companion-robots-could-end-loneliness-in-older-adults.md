@@ -71,6 +71,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI Robots Could Play Future Role as Companions in Care Homes"
+    excerpt: "Scientists like Nadia Magnenat Thalmann at Switzerland's University of Geneva think artificial intelligence (AI)-powered social robots could help care for the sick and aged in the future. Thalmann served as a model for Nadine, an android that produces human-like gestures and expressions."
+    publishedDateTime: 2023-07-13T16:36:00Z
+    webUrl: "https://cacm.acm.org/news/274608-ai-robots-could-play-future-role-as-companions-in-care-homes/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 34
 
 secured: "sQOTQ+NWYh42mljjwgfIZDvsyjtTnww96q/qm04bqcnsBxBgAG6QD40dEOcNyBQ96Y+YaaEJiHsLWtu/ufg0ccaAthVaWXXyqx0po/rc+utjNe8AB+OMirf1eIzP8K9ic+eX/l35uXHH7SzI8URgQ73GACPWtzhveFaNHTaBzIurhtLjt6nhKqiHpICYAh9cxEbMEveMj92MQ5aOh5ztHCP+v6DJU0/4W34eWJmiQxPEwqDPw5uselswkt/5xKxcy6WYi6e5+KFpGTUDmLzh0dnJn5kOC1UiClZ0hy30fQt/w5Yqev3xODJcUAKBFRu2DhzxSdemZ6bv/zjrVs/EaKJDFJ9dL20Rid2YMaKTu/3VttwhmciCPCF2da5op8VgK7if1b/t7Yqd8jynsqHqqb+9HgWwRwbfynLMo3l01zFaN2bE9EjvRmAVul23mx6NTMORmJud6J9dlriVp4vOyZ9R9TyEqPcXVGL7qr4PslYqAimf4ikCPOUmcEL/aTnciMrHqogyhVec1fUwHvgGMg==;76RfnQqjyuCTl2b3Lt+igA=="
 ---

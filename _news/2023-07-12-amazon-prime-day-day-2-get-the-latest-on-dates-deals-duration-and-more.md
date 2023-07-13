@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "It's not too late: Best Amazon Prime Day deals on Samsung tech that you can still shop"
+    excerpt: "If you're looking for a new Samsung smartphone or earbuds, you can find some great deals on Amazon now. The Amazon Prime Day 2023 sale is technically over, but Amazon is still offering a number of deep discounts on top-rated Samsung products, including smart TVs, smartphones and robot vacuums."
+    publishedDateTime: 2023-07-13T17:46:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-deals-on-samsung-tech-you-can-still-get-2023-07-13/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-deals-on-samsung-tech-you-can-still-get-2023-07-13/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-deals-on-samsung-tech-you-can-still-get-2023-07-13/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 36
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/08/d3d0d5ff-f9e4-4dbb-bf81-1b02b3150c60/thumbnail/1200x630/6c8b6e6c38713df157a140b06c21385a/samsungheader.png?v=867e41af7e860d9286e5bd7e91ee0db8"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon Prime Day 2023 Lightning Deal: Score this Eufy Robovac and mop combo for 54% off before this deal ends"
     excerpt: "This 4.4-star-rated Shark IQ Robot vacuum (RV912S) cleans your whole home in neat rows. It lacks the advanced smarts of more expensive robot vacuums, but this is one of the most affordable robot vacuums with a self-emptying base you'll find. This Shark model comes with a 45-day capacity cleaning base."
     publishedDateTime: 2023-07-12T15:48:00Z

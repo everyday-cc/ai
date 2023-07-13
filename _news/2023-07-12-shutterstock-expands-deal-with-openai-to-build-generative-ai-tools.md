@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-ope
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2Ff120fcc3-d6af-4564-88b3-2eb71408c3cb%2FMultiple_Promotion_secured_1st_position_with_51__share_of_Ad_Space_followed_by_Discount_Promotion___.png?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 675
+        isCached: true
+  - title: "OpenAI strikes deal with AP to pay for using its news in training AI"
+    excerpt: "OpenAI will pay the Associated Press for direct access to its archive of news stories in order to train its AI chatbots."
+    publishedDateTime: 2023-07-13T16:28:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/07/13/openai-chatgpt-pay-ap-news-ai/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NRSTZQV2CPQGOHARXZZV42UL4I.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "Lk1RG6L+rVtiAWPhy4mh9H3UXDvsA8Fj0XhahdaIMUkDa0mS23DoLix1nGCjPrSSFA6lOJWSbLRL31SZui7Vl/k3GmisDynUXWrwEkbnZ7xLrHioa4YKoOQF+vTH1rBhw8QksnlhOtfWLBPadZ0sB5Z9Zs8DwWQkK9P9MfoKeWyI8Yyx0sh4FjtI74N/zzQc47UIvg1ETanT6jLIRPcALGvgFkELRP/tK+OwgyyfkZTTVXX11gjNJZO8M/fpkWOYsa3PcSUb1S1ur4/FF5V1iCgwv4fXTGvNZQFI6m+g1MZtFmCJjGdt92awJ9QTpfbYa4kCoHAD/ICWthDHssmj0wDeXstEW0kN3mhtuXsvjDdhwKk3necv6ajjykTGYUjL9Fc9h+0YsJrsWUEqiAhX6HcRwMB2irlR25Di4W9MM0CONaO5IDfKeWM1yz+nweUWEP6hHlc73ESm6c0bZ2sKzYM6B4dENv/ehu1/J+f+veUFZbCckvwMsdvBzdH/E13YwPC4gNwBK/HiBoNjcW/+FA==;rBrIpBGiBITD+gX+Y64veQ=="

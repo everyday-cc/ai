@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-wipro-commits-1-bil
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/lite/"
 type: article
 quality: 72
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -149,6 +149,22 @@ related:
       - url: "https://c.ndtvimg.com/2023-02/i7gp8vt8_wipro_640x480_22_February_23.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Artificial Intelligence game to strategic investments: Key things that Wipro's chairman Rishad Premji said in 77th AGM"
+    excerpt: "Wipro's chairman, Rishad Premji, highlighted the company's investment in AI and its plans to integrate AI into all platforms and solutions, while also emphasizing the importance of strong governance."
+    publishedDateTime: 2023-07-13T15:38:00Z
+    webUrl: "https://www.livemint.com/companies/news/artificial-intelligence-game-to-strategic-investments-key-things-that-wipros-chairman-rishad-premji-said-in-77th-agm-11689260870955.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/artificial-intelligence-game-to-strategic-investments-key-things-that-wipros-chairman-rishad-premji-said-in-77th-agm/amp-11689260870955.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/artificial-intelligence-game-to-strategic-investments-key-things-that-wipros-chairman-rishad-premji-said-in-77th-agm/amp-11689260870955.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 50
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/13/600x338/2-0-547279161-rishadpremji-0_1680595244962_1689262533680.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions"
     excerpt: "According to Delaporte, Wipro ai360 is meant to empower the company's talent pool and \"be ubiquitous across all operations and processes,\" as well as"

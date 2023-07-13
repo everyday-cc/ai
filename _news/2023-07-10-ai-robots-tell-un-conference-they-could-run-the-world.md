@@ -73,22 +73,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Human-looking robots tell UN they could run world better, but won’t rebel"
-    excerpt: "Robots tell UN summit humans should proceed with caution when embracing rapidly-developing potential of artificial intelligence and admit they can't -- yet -- grasp human emotions"
-    publishedDateTime: 2023-07-08T23:55:00Z
-    webUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/"
-    ampWebUrl: "https://www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/human-looking-robots-tell-un-they-could-run-world-better-but-wont-rebel/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 58
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2023/07/AP23188470818991-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
     publishedDateTime: 2023-07-11T03:40:00Z

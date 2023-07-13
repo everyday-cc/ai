@@ -166,6 +166,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Artificial Intelligence game to strategic investments: Key things that Wipro's chairman Rishad Premji said in 77th AGM"
+    excerpt: "Wipro's chairman, Rishad Premji, highlighted the company's investment in AI and its plans to integrate AI into all platforms and solutions, while also emphasizing the importance of strong governance."
+    publishedDateTime: 2023-07-13T15:38:00Z
+    webUrl: "https://www.livemint.com/companies/news/artificial-intelligence-game-to-strategic-investments-key-things-that-wipros-chairman-rishad-premji-said-in-77th-agm-11689260870955.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/artificial-intelligence-game-to-strategic-investments-key-things-that-wipros-chairman-rishad-premji-said-in-77th-agm/amp-11689260870955.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/artificial-intelligence-game-to-strategic-investments-key-things-that-wipros-chairman-rishad-premji-said-in-77th-agm/amp-11689260870955.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 50
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/13/600x338/2-0-547279161-rishadpremji-0_1680595244962_1689262533680.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Wipro eyes new opportunities with $1B investment in AI"
     excerpt: "The Indian IT consulting firm launches its ai360 platform, alongside a three-year $1 billion plan that includes training its 250,000 employees on the fundamentals of artificial intelligence."
     publishedDateTime: 2023-07-12T12:01:00Z

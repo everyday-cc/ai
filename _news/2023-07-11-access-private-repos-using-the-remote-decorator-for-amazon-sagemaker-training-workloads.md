@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/access-private-repos
 webUrl: "https://aws.amazon.com/blogs/machine-learning/access-private-repos-using-the-remote-decorator-for-amazon-sagemaker-training-workloads/"
 type: article
 quality: 95
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1020
     height: 509
     isCached: true
+
+related:
+  - title: "Effectively solve distributed training convergence issues with Amazon SageMaker Hyperband Automatic Model Tuning"
+    excerpt: "Recent years have shown amazing growth in deep learning neural networks (DNNs). This growth can be seen in more accurate models and even opening new possibilities with generative AI: large language models (LLMs) that synthesize natural language, text-to-image generators, and more. These increased capabilities"
+    publishedDateTime: 2023-07-13T16:03:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/effectively-solve-distributed-training.jpg"
+        width: 1022
+        height: 511
+        isCached: true
 
 secured: "CxaH+kORDWpq8TntDiMsoKuzfv8mK3sIFtwI56kRxJQstzhhY2LuDIocTIkPUkUsb5Kr6wRVALGbNIey2SFKH93Yr/ZSK+1i+8em5UBgOm4keyyoqg36sL3aRvmFAKj9i0bzdAbDmVi4WTB9lmbcVF9w1eaPFH4B4h/wJDgNt6zWT2ah64ixj3jzN+AphPiI3A5qs9/w6R16vwFewnEhK7hkLqfYJx4bS5hl+uDO4JfkmlC/Sc803rWPpM4dovckluG2HtFvS+CEJENqr0JhcrWwbnOMelPEHaiKW1zD9HAyuTbApm+/X7mIfMLouMQ9DS9bSiWtf2e0P7c4hUhVwedcGfcWUfTY5F9XAYIhGB4=;gY76utG3k2+7PZNzh8LoHw=="
 ---

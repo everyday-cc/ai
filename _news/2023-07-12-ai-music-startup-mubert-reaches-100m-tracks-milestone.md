@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-12T13:01:00Z
 originalUrl: "https://musically.com/2023/07/12/ai-music-startup-mubert-reaches-100m-tracks-milestone/"
 webUrl: "https://musically.com/2023/07/12/ai-music-startup-mubert-reaches-100m-tracks-milestone/"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI
 
-secured: "9F0PDnsNKBZ4PW/GttgSUdo6mfmxnDUbMfnl7bHSosaGlf4sLcn9GncxiGpmd4mUGE5A5Zs9C80CQYDCN7BvnVG6R6KGPDFy5m26vKwdLcTNl/QUrV0/WgjYkglyRqMTE7PdDKaYGFuYhk8KRGJPP0kZDJseT8upPLujY3ZL1ylYVxBmMuEL+P2cQKY9dPOedlLn5/l8lprILi005YEu6UxcnD91teNDMI7TRzgDZMRR31lgqRGG1he6qKfbMCqz+NXh0wLO87O3hZBFgqhuLvxTUlRKC8Rg/tgan6HbOGr/d5R7ob/FR/JY97an8cIlTRK/IruAG5/oCHnPj3l5ltDmR0n55FIDByMsLlQXn08=;k5VzV+n80MCzoZZn+eNh0Q=="
+images:
+  - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/07/muberty.jpg?fit=1200%2C769&#038;ssl=1"
+    width: 1200
+    height: 769
+    isCached: true
+
+secured: "VC3UJZSMIrFL15beU3Ohm6OudNT4+yKT43CSclDFcMBMIARmHLorcAsbq+Dl45xjOQ8G+7ddRsGBEpBjpofKeWex88GdmKRoisTP9J0IAyZ+fAzqn2hBNukrhJYMMXHKnpTO8f8YRgpaNba+Jn7W1rNDtec9xguyiywhKQ9rp3bYDDyVGYvzoCxtkqism2cXVfHEJxZiycwbmS+KTkhtPTykM4u02uKc/zgle0k8gEUX5Z2G73U/XkRup+hqgQDEvbbQky0u5grwEVj85coTeuIJLiaopkIlWrtHJArqo8ucmk2ENMZFEk+TO1wUuUWTZPREk0z9Ifs7Sej+DvgIdzI2aVMox7N/Dq91HOLmz8Y=;+HFMThgf8EVEzagYTGPW+A=="
 ---
 

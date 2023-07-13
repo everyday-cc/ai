@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-de
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:
@@ -50,6 +50,6 @@ related:
       domain: futurism.com
     quality: 0
 
-secured: "pRKWkCGsxr2bkPP6HXOeoo9r9SnJmdzMMK6AB4yittpf7J6eooAsfZM8WQYPbT7FNqhXwJEg0gf5FQROw4NuvtoZHEOhB77muG0JH4kcKJ6/srYJvKIz23tXU5qMBo4Mutr8o8ZS6EKN4u0kFH37SZW4FOvWrR9rtBz7UPOJzOdBo/sRATMVFqEqbWeLqDJiavxpNT/S05tmVRKjbgpxHnV4vIpSOeU+eDxd0yYqB3dik2/REsaeTLvr/yQYlDd0TwqWNy/jjE0LKjSDAwLFOmvAL2yg/oVIsJmpAUjJxIp6/aO9pAJWjScxiSGFQWtYME2bkI4vkcmhYBJHaMAP5kNZtyyRHPESPE7Jxa8PcZ8=;OB094AvLixJSjObxrsIeVA=="
+secured: "E49fTLEehpsvUiZ87ZEkwtnV7p8l8Af3HCPJH7OzAWy8byfBMG1ZAqK4x+jJHaD7WKoLDRy5yAdYVxn7A0ELRjvRuqR3HF7kePXgl83gJ/9PH+1gR/6uKiuN/To77ue3UaIftyTpXazxe20uR0VHS/eyCLjF4hitQbrJ09io7lG8nmAuq3uKdPxwx0s6i+5pf4XcqfR23mEvUSRp1WAPahUaMzehgMCITLLNT/TF2Fn6NtinEZauvqwCDvIkY+RFYuhU7lkm7NpXmLagOnOcKd98St51mcPZ4M9vebyTTyhqZeaAnWwpfwW9r8YCUdE5I1vMgOSC1ZM4V6x6rZGAh2+W9zIc5rm06YPF/k/vl6D4CscalmV8KKr3Ik89Qy30urMw2gpj2XpC4rtp5JUzpOgNXAWdRdgyuQobxsFwgZHNPeI86m42QQbbnK7dGNLsrJ3OC/HN4bf5bjy+C55YPqfsJ5ara7FLt2JGnehNsK43Q+qGIV4j1U0JW6ujzu3zRKRAPuW+iHF4nMvna47zOQ==;Pp89yNS9R9paeZJS9d11sw=="
 ---
 
