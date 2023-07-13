@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-29-hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms.md",
+      "title": "HPE Brings AI-as-a-Service to the Enterprise with Its GreenLake for LLMs",
+      "excerpt": "HPE introduced new GreenLake for Large Language Models, a service-based offering backed its Cray supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649ca472b50dadc6316aa41f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/",
+      "publishedDateTime": "2023-06-28T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace.md",
       "title": "Kyvos announces availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace",
       "excerpt": "Azure users can accelerate analytics on massive data without the hassle of managing software and infrastructure. SAN FRANCISCO, June 28, 2023",
@@ -1367,41 +1420,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
-      "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
-      "excerpt": "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integra",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230621956382/en/PowerSchool-Announces-Collaboration-with-Microsoft-Azure-OpenAI-Service-to-Provide-Personalized-Learning-at-Scale-in-K-12-Education/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230621956382/en/PowerSchool-Announces-Collaboration-with-Microsoft-Azure-OpenAI-Service-to-Provide-Personalized-Learning-at-Scale-in-K-12-Education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/oee-vs-teep/"
 webUrl: "https://www.ibm.com/blog/oee-vs-teep/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "Data integrity vs. data quality: Is there a difference?"
+    excerpt: "Data quality and integrity are vital to a data-driven organization that employs analytics for business decisions, offers self-service data access for internal stakeholders and provides data offerings to customers.\nThe post Data integrity vs. data quality: Is there a difference? appeared first on IBM"
+    publishedDateTime: 2023-07-13T12:30:00Z
+    webUrl: "https://www.ibm.com/blog/data-integrity-vs-data-quality-is-there-a-difference/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "AtYRZTNoV7D702A+NAiHYdXvGNk4RmKxtuk4ncK7HJQ32cza4tZ15+7BGAEYKUXMin+pcRcvVs5lOK8CSYCUXlm59hvIs2Kixkpbnnkj2bhfxFnYNRgsbP3Bc8Lgv/l2eV+papQM1zs3nfmy4pY5iGT/rrOxjkgHyWNjS62TveztGbGh1PW3wBBKbrmB8r/qve1hUYzHyMFFgsE9oRlcEf0eFPS9FY+qhb+kkG2ASom37D16/cgNwxsVNfMXDljjvI9IkqcKSTxhUoQxpJ4gp1vU4YhwduKFqqAedthHvJw17zG9GnQxYxNdc9PPNoLRA5Osqnod7cvjwF+P3E9eRI42r12fm19p5giwzXsro2Q=;enKMcu5Trivp8nagW+hZkQ=="
 ---

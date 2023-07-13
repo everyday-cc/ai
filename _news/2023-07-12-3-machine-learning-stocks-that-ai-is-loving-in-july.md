@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The 7 Best Robotics Stocks to Buy in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robots play an increasingly large role in our lives, whether we realize it or"
+    publishedDateTime: 2023-07-13T14:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-in-july-1032445069"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
     publishedDateTime: 2023-07-11T10:31:00Z

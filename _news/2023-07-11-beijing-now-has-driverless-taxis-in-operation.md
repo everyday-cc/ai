@@ -67,6 +67,15 @@ related:
         width: 1198
         height: 813
         isCached: true
+  - title: "What enterprises can learn about data infrastructure from Cruise driverless cars"
+    excerpt: "As AI permeates more aspects of business and society, Cruise's lessons on robust data infrastructure will only grow more relevant."
+    publishedDateTime: 2023-07-13T12:01:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/what-enterprises-can-learn-about-data-infrastructure-from-cruise-driverless-cars/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 44
   - title: "China Now Has Driverless Taxis"
     excerpt: "The future is here – driverless taxis are now roaming the streets of Beijing. According to a press release from the head office of the Beijing High-Level Autonomous Driving Demonstration Area, as of Friday,"
     publishedDateTime: 2023-07-13T05:05:00Z

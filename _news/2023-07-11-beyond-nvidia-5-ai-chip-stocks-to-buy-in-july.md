@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-
 webUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -33,6 +33,15 @@ related:
     excerpt: "Nvidia’s chips help power the elaborate large language models used to train and run machine learning models, especially for deep learning, a subset of machine learning that involves complex neural networks. Nvidia also offers software platforms ..."
     publishedDateTime: 2023-07-12T14:01:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-that-ai-is-loving-in-july-1032441297"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "The 7 Best Robotics Stocks to Buy in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robots play an increasingly large role in our lives, whether we realize it or"
+    publishedDateTime: 2023-07-13T14:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-in-july-1032445069"
     type: article
     provider:
       name: Business Insider

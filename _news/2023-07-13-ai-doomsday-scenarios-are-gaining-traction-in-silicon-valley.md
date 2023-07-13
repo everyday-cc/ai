@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-13/ai-doomsday-sce
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 670
     isCached: true
+
+related:
+  - title: "GENAI SUB SIGNS $6 MILLION DOLLAR PURCHASE AGREEMENT WITH SILICON VALLEY AI CUSTOMER"
+    excerpt: "Ryan Selby, CEO of the Company, commented \"This Purchase Agreement marks a significant milestone for GenAI and reflects our commitment to generating revenue and delivering value for our shareholders. We will continue to source and develop customer relationships to further our MAI Cloud™ platform.\""
+    publishedDateTime: 2023-07-13T15:01:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/13/9847999.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "WzZShvOt9Kqj6Ehm9xFuJExCaK4QiikX6PYd1HIkGjSX3Sn6Pqga9ZG8v1Mb0ykQBj8T/I+WK6yWM4Wa3LdWU+OOWjwMovX2gMMTFXJKzIUqD65iUAqumyzLVRu1ONqeMzIYG/TgdiFruKEhUQd4doO4EEep7A+Fsdmzi/fknHpZoewaKY8fvhtMwNtdo53g4YhNvhG9w4UlgT3n07L2akmQRu6QLTSr69xlm6auydwL1ikQgRi+7iHyMKamlWfYUGxGI7Wpdm6aTK0K8oeD6qECshO28/NTp9JBu1wfIozes7oNDtqWZzB1JrF2Vh4Lj2l1o4uYVRmUhsZWPO3pjvLZ+Q7aXJ/xgnyDm5pZ9buTXUK9s0v7w8kAOTsTFENuAsZjCWullB5g+qXA4mSp5w7JtwkEP/kYD9GCeX+EAM9VLCB9x6uizF0cDCGUkDF3XYvEGdYe5OZWzWBmy+K7HEnDgNJVj6qdXAwOhVxZh3UbOBDY2xXRA7kxtbGYVufn9C2kaBCFJ+Ewhq4wdS2Nyw==;Hu+UU5s7wYZtbAI1Q5CYIg=="
 ---

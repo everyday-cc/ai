@@ -73,6 +73,15 @@ related:
         width: 715
         height: 720
         isCached: true
+  - title: "Unveiling The Power Of AI In Cybersecurity: Three Questions CISOs Should Be Asking"
+    excerpt: "2023 may go down in history as the year of artificial intelligence (AI)—or at least the year when business leaders and consumers alike became obsessed with generative AI tools like ChatGPT. Cybersecurity vendors are not immune to the hype. At the 2023 RSA conference, nearly every keynote included discussion on AI."
+    publishedDateTime: 2023-07-13T12:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/13/unveiling-the-power-of-ai-in-cybersecurity-three-questions-cisos-should-be-asking/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
   - title: "Truist prepares to use IBM's quantum computers for cybersecurity and AI"
     excerpt: "The Charlotte bank plans to use quantum computing to stiffen cybersecurity, to run more advanced AI applications and to create new commercial use cases alongside IBM engineers."
     publishedDateTime: 2023-07-12T18:49:00Z

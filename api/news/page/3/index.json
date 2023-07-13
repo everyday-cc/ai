@@ -2,6 +2,306 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-12-discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.md",
+      "title": "Discord bans AI-generated child sex abuse material and teen dating",
+      "excerpt": "SAN FRANCISCO — Discord’s head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107269952-16891123952021-03-31t175917z_1515270024_rc2hmm9fq8tq_rtrmadp_0_discord-audio.jpeg?v=1689112496",
+          "width": 3500,
+          "height": 2233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "publishedDateTime": "2023-07-11T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-shutterstock-expands-deal-with-openai-to-build-generative-ai-tools.md",
+      "title": "Shutterstock expands deal with OpenAI to build generative AI tools",
+      "excerpt": "Shutterstock has expanded its strategic deal with OpenAI to build new generative AI tools, the companies announced.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/",
+      "originalUrl": "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/openai-getty.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/amp/",
+      "publishedDateTime": "2023-07-11T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-lisa-su-believes-ai-will-soon-be-an-integral-part-of-chip-design.md",
+      "title": "Lisa Su believes AI will soon be an integral part of chip design",
+      "excerpt": "According to a recent survey, the so-called AI revolution is turning out to be quite depressing for many executives in the tech space. There are growing",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html",
+      "originalUrl": "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-how-ai-can-make-gaming-better-for-all-players.md",
+      "title": "How AI can make gaming better for all players",
+      "excerpt": "The project was inspired by Lancy Carr, a quadriplegic video game streamer who utilizes a head-tracking mouse as part of his gaming setup. After his existing hardware was lost in a fire, Google stepped in to create an open source,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/",
+      "originalUrl": "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1387724979-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/",
+      "publishedDateTime": "2023-07-11T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-access-private-repos-using-the-remote-decorator-for-amazon-sagemaker-training-workloads.md",
+      "title": "Access private repos using the @remote decorator for Amazon SageMaker training workloads",
+      "excerpt": "As more and more customers are looking to put machine learning (ML) workloads in production, there is a large push in organizations to shorten the development lifecycle of ML code. Many organizations prefer writing their ML code in a production-ready style in the form of Python methods and classes as",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/access-private-repos-using-the-remote-decorator-for-amazon-sagemaker-training-workloads/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/access-private-repos-using-the-remote-decorator-for-amazon-sagemaker-training-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/11/acces-private-repos-remote-decorator.jpg",
+          "width": 1020,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T09:25:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
+      "title": "Age of AI: Everything you need to know about artificial intelligence",
+      "excerpt": "To begin with, let’s just make sure we’re all on the same page: what is AI? Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "originalUrl": "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-07-11T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-will-ai-take-your-job-27-of-jobs-in-wealthy-countries-at-high-risk-report-says.md",
       "title": "Will AI Take Your Job? 27% Of Jobs In Wealthy Countries At High Risk, Report Says.",
       "excerpt": "Jobs at high-risk of being replaced by AI include construction, transportation and farming, according to a new report.",
@@ -441,7 +741,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -544,7 +844,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/trends/how-google-translate-used-ai-to-translate-the-worlds-oldest-language-in-minutes-10938201.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -926,304 +1226,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat.md",
-      "title": "What Sarah Silverman’s lawsuit against OpenAI and Meta really means | The AI Beat",
-      "excerpt": "Sarah Silverman is suing OpenAI and Meta for copyright infringement. Here's what this LLM lawsuit really means.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/bigstock-LOS-ANGELES-NOV-Sarah-Si-268982926.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-how-to-run-large-ai-models-on-an-edge-device.md",
-      "title": "How To Run Large AI Models On An Edge Device",
-      "excerpt": "Large language models (LLMs) are a type of AI model that can be used for a variety of tasks, such as natural language processing (NLP) and machine translation. However, LLMs can be computationally expensive to train and run. There are several techniques ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-ai-models-on-an-edge-device/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-ai-models-on-an-edge-device/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6fd7cb1ebfd68d09b887b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-ai-models-on-an-edge-device/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/07/10/how-to-run-large-ai-models-on-an-edge-device/amp/",
-      "publishedDateTime": "2023-07-10T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
-      "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "Robots and artificial intelligence (AI) are expected to play a key role in nursing practice in the future. In this regard, researchers from Japan ask whether intelligent machines can replace humans as nurses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-inside-googles-big-ai-shuffle-and-how-it-plans-to-stay-competitive-with-google-deepmind-ceo-demis-hassabis.md",
-      "title": "Inside Google’s big AI shuffle — and how it plans to stay competitive, with Google DeepMind CEO Demis Hassabis",
-      "excerpt": "The buzz around AI has moved from science research to chatbots, but Google DeepMind’s CEO says it’s all relevant to progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/23778745/demis-hassabis-google-deepmind-ai-alphafold-risks",
-      "originalUrl": "https://www.theverge.com/23778745/demis-hassabis-google-deepmind-ai-alphafold-risks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/YplCPWLGEe8tmfSGj2nBwBlGZBs=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24761299/AParkin_DHassabis_Decoder_071123.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-nvidia-to-beat-ai-chip-sales-expectations-for-rest-of-2023-says-morgan-stanley.md",
-      "title": "Nvidia to Beat AI Chip Sales Expectations for Rest of 2023, Says Morgan Stanley",
-      "excerpt": "The Wall Street firm's technology analysts reiterated an Overweight rating for Nvidia shares. The firm’s price target for the chip maker is still $500.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-ai-chip-sales-expectations-2023-morgan-stanley-4cdcff8c",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-chip-sales-expectations-2023-morgan-stanley-4cdcff8c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-814188/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-chip-sales-expectations-2023-morgan-stanley-4cdcff8c",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-chip-sales-expectations-2023-morgan-stanley-4cdcff8c",
-      "publishedDateTime": "2023-07-10T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-wildfire-detection-startup-pano-ai-extends-its-20m-series-a-with-another-17m.md",
-      "title": "Wildfire detection startup Pano AI extends its $20M Series A with another $17M",
-      "excerpt": "Pano says its high-definition remote-controllable cameras are actively monitoring more than 6 million acres of land.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/10/pano-series-a-extension/",
-      "originalUrl": "https://techcrunch.com/2023/07/10/pano-series-a-extension/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/PanoAI-Large.jpeg?resize=1200,735",
-          "width": 1200,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/10/pano-series-a-extension/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/10/pano-series-a-extension/amp/",
-      "publishedDateTime": "2023-07-10T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

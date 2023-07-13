@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Chipotle introduces guacamole prep robot, Autocado"
-excerpt: "On Wednesday, Chipotle unveiled the avocado processing prototype it named Autocado, created in collaboration with the automation solutions company, Vebu."
-publishedDateTime: 2023-07-12T12:04:00Z
-originalUrl: "https://www.aol.com/finance/chipotle-introduces-guacamole-prep-robot-120407318.html"
-webUrl: "https://www.aol.com/finance/chipotle-introduces-guacamole-prep-robot-120407318.html"
+excerpt: "On Wednesday, Chipotle unveiled the avocado processing prototype it named Autocado, created in collaboration with the automation solutions company Vebu."
+publishedDateTime: 2023-07-12T15:04:00Z
+originalUrl: "https://www.aol.com/chipotle-introduces-guacamole-prep-robot-120407318.html"
+webUrl: "https://www.aol.com/chipotle-introduces-guacamole-prep-robot-120407318.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/dqsHSiaQkeQooBeK9k9l0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_finance_433/b679ce55998c362d97ac7a41f6342a01"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Chipotle Debuts New Guacamole-Making Robot, Autocado"
@@ -93,14 +99,14 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Chipotle testing a robot, dubbed \"Autocado,\" that makes guacamole"
-    excerpt: "Autocado, created by robotics and automation firm Vebu Labs of California with collaboration from Chipotle, stacks a group of avocados vertically then removes their skin and core. The remaining flesh is dropped into a stainless steel bowl that a Chipotle worker takes and uses as the base for a batch of guacamole."
-    publishedDateTime: 2023-07-12T18:23:00Z
-    webUrl: "https://www.cbsnews.com/news/chipotle-avocado-robot-guacamole-autocado/"
+  - title: "Chipotle Testing A Robot, Dubbed \"Autocado,\" That Makes Guacamole"
+    excerpt: "Chipotle Mexican Grill's new robot can make guacamole in half the time human workers need to prepare the dish, the restaurant chain said in unveiling the device on Wednesday."
+    publishedDateTime: 2023-07-13T12:51:00Z
+    webUrl: "https://www.newson6.com/story/64aff33409d6b8072583aed3/chipotle-testing-a-robot-dubbed-autocado-that-makes-guacamole"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: News on 6
+      domain: newson6.com
     quality: 19
   - title: "Chipotle is testing the 'Autocado', a robot to help make guacamole in its restaurants"
     excerpt: "an \"autonomous kitchen assistant that integrates culinary traditions with artificial intelligence to make tortilla chips.\" According to a news release, Chippy, created by Miso Robotics, is trained to replicate Chipotle's exact recipe to cook chips to ..."
@@ -112,6 +118,6 @@ related:
       domain: usatoday.com
     quality: 12
 
-secured: "DVekGZODigBKR0ERWWwnSgMheghVo5quziGLIzORPN/bG2axG6UvWlEihVI9eL/ygEJA0rdqEVxBu9pRdQOHgxq5yiWzt/lSAgVMOSHYpDthOgA2UO/E25+RPUSvHjoAswxqbY75lQSsBIT+cZQlSX05s1qbgcIDqiABG4tRjYrEtvBo/sxgVRQVbRlWukGDf2OZ5BJC/6HYsjnCEo2O88vdYASmVSOOFeMtfOnHk/3QN0zNEPueigG33JAo5pvPWVyA2GODJFhiblaXfmsE3U5bCFt9Lpvur8U7piSnotfaIeCQCiBIcRPEROm5H9SrXJA02Ud8IJP3uIbp+hZ/JrRHtrqBnE9oNXb+U0ICIErPbGcMgvx12Qe+yr+cfH4+TZGs1Xv7hSPSpOJyHEAkSUtq2IWgDDxxIr/PkFwzFbDIuuAMQc7+rOhLhfGsip5zVFCRonL97doRXKtzZcaHRaHApH9eJjvynSWlFM0v3nIAuJoj5zfkDdtEvZ2mZMejOe+4cYFsvYYG2VwbW80e6Q==;pbfcNMVLkRnkw0LlqKmlAA=="
+secured: "Yw6gN6Xke8wlwCcIKltOQ2NniS1Ca77kEu1nVBQMOY8NZGnpuqpF8Ko1oXdhNeDPTTT8hibVrMaKD2L7aoLeZW4WqmIBnBmvgu5xte6+ltmsXQ+S6KBYwDoEDYEX8VunlVVxny/+Aaz8IeDxywqLZjcrI3wsB3AQ8TbVbaoteReiOAN5QNZxujBPvFK3sWtb43HCJk4YfXbwYSeFqoOYsX6g6gEpBy2Tmk4z4WTlhVMgY9zWGCGmKH4y32GUBVBOzKhqR8RAOJQvVqa7WuDHUNsHqbBXQ2kaidoqwSUBvqB1jGqmUBN1rKkLjg9LFG9jjIJRjRFDxxcNo2KOBwPOziCIaBoo7V7exGM17ry7Txs=;D0jb+7Pwzv13lta+fA68vw=="
 ---
 

@@ -2,13 +2,13 @@
 category: news
 title: "AI Won’t Really Kill Us All, Will It?"
 excerpt: "or that go against human ethics. Charlie Warzel: A sort of a meme of this that has been around for a long time is called “the paper clip–maximizer problem.” You tell a sentient artificial intelligence, “We want you to build as many paper clips as ..."
-publishedDateTime: 2023-07-13T09:08:00Z
-originalUrl: "https://www.theatlantic.com/politics/archive/2023/07/ai-wont-really-kill-us-all-will-it/674648/"
-webUrl: "https://www.theatlantic.com/politics/archive/2023/07/ai-wont-really-kill-us-all-will-it/674648/"
+publishedDateTime: 2023-07-13T13:14:00Z
+originalUrl: "https://www.theatlantic.com/podcasts/archive/2023/07/ai-wont-really-kill-us-all-will-it/674648/"
+webUrl: "https://www.theatlantic.com/podcasts/archive/2023/07/ai-wont-really-kill-us-all-will-it/674648/"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: The Atlantic
@@ -21,12 +21,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://cdn.theatlantic.com/thumbor/stgMYfF1WIUXFe-q1HFPX2UcpmQ=/0x43:2000x1085/1200x625/media/img/mt/2023/07/AI_Doomers_illo_horiz/original.jpg"
-    width: 1200
-    height: 625
-    isCached: true
 
 related:
   - title: "AI May Kill Us All, but It’ll Never Write a Good Movie"
@@ -46,6 +40,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Kerxi8Xw8TbLUVVx7CIM/f+vgUuEV5o1psT78ebU7t7+jDBGiTtPZnitRFV54zBXxSnsquO6zM7QbVYcqawr4dHYCdmxXca1urpKBXW/9PKabdSdg07DOc3qhuUocY3ZlaAfL4ty1PTILZR4a4mgpA3URG1fC4OtjSg8JESq7Ntoxt3fL/CiRgNU2HXikM5f8p1fKCjWExp9tU8qcPU5rogRhFmLHMjvy+spKonw+sfYotpTCeHPxkSKO+LIGuvRJ0aGzUoy2BMCgAZK5bOPx5Q2MV5GqnkXLNa4bRQHtGxfL/V2LL4K/2BDHGv9ZWrON9j1mDWPp6IFvHUxLjmBioX9o2Txfe1kkJFTl2xAbg8=;pxFdUg5zbxh8N+NMFqnjig=="
+secured: "A8FxRHOhGq+KFuTTnQi13qX/BJfAbcNuMUJrmoW2bAZr7aqkiXcOYZGTWD29MTiGc+QAeQD/LAg77xYXSzDmxvPu1hM/VFlsDnQaxJLY50Wt9quq6PX6ZLJmhj4ToT2TEsdf+Mn94vcXKtRfjqaeM0K3sj/xGa24l9gII91YInsBTAKIiR4kJCnOzGbYbMfSEZvqzVRfYsUnnoQ75e4j50aPNDkpmn7QsLydenrf6V01gK4a3nIxdx1S/BtaAzfMvY+owKdQyNQqq9i+U0Y56Yvuap4xNVABiGYo1BNWu206JksecJSNDjE7aoxEJStyhxt8DFaSfZt9Ws5Hp0jZR1dMA5gNWRNvAGsdcsztpaQ=;v5tRJPuIy8+vYG8orYAz7w=="
 ---
 

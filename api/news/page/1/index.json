@@ -2,6 +2,262 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-13-artificial-intelligence-opens-three-new-routes-to-career-advancement.md",
+      "title": "Artificial Intelligence Opens Three New Routes To Career Advancement",
+      "excerpt": "These are the ways today’s managers and professionals need to meet the challenges and opportunities of artificial intelligence head-on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/",
+      "publishedDateTime": "2023-07-13T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-google-bard-is-stepping-up-its-ai-game-with-these-new-features.md",
+      "title": "Google Bard is stepping up its AI game with these new features",
+      "excerpt": "Google has been adding new features to Bard since its underwhelming launch in order to improve user experience. In its latest update, Google largely expanded Bard's language and country availability and also added many new features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-bard-is-stepping-up-its-ai-game-with-these-new-features/",
+      "originalUrl": "https://www.zdnet.com/article/google-bard-is-stepping-up-its-ai-game-with-these-new-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5d8a385c294055d02b6a0b90b82082f78bbe21ba/2023/07/13/8b39386d-1358-43cb-b437-e45a79cae9bc/screenshot-2023-07-13-at-10-27-41-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-bard-is-stepping-up-its-ai-game-with-these-new-features/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-bard-is-stepping-up-its-ai-game-with-these-new-features/",
+      "publishedDateTime": "2023-07-13T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-michigan-robotics-smart-40-successfully-completes-phase-1-commissioning.md",
+      "title": "Michigan Robotics SMART 4.0 Successfully Completes Phase 1 Commissioning",
+      "excerpt": "ANN ARBOR, MI / ACCESSWIRE / July 13, 2023 / The University of Michigan and Applied Dynamics International (ADI) are pleased to announce the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/michigan-robotics-smart-4-0-successfully-completes-phase-1-commissioning-1032445075",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/michigan-robotics-smart-4-0-successfully-completes-phase-1-commissioning-1032445075",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/767472/ce19b10d890832abfcc71a73bf3f.jpg",
+          "width": 697,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-elon-musk-launches-ai-startup-as-he-warns-of-a-terminator-future.md",
+      "title": "Elon Musk launches AI startup as he warns of a ‘terminator future’",
+      "excerpt": "Tesla boss says xAI will be ‘pro-humanity’ and admits development of large systems cannot be paused",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=5b79594e39003269b2ff492348e38061",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
+      "publishedDateTime": "2023-07-13T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-rising-data-center-costs-linked-to-ai-demands.md",
+      "title": "Rising Data Center Costs Linked to AI Demands",
+      "excerpt": "Energy usage associated with running AI number-crunching is fast becoming a key driver of rising data center bills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/rising-data-center-costs-linked-to-ai-demands-fc6adc0e",
+      "originalUrl": "https://www.wsj.com/articles/rising-data-center-costs-linked-to-ai-demands-fc6adc0e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-816176/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-focus-ai-startups-bringing-dollars-but-lean-workforces-to-ailing-san-francisco.md",
       "title": "Focus: AI startups bringing dollars but lean workforces to ailing San Francisco",
       "excerpt": "In a frenzy unseen since the birth of social media in the early 2000s, investors are pouring billions into generative AI and fueling a startup boom in San Francisco.",
@@ -10,7 +266,7 @@
       "originalUrl": "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -34,57 +290,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-launches-ai-startup-and-warns-of-a-terminator-future.md",
-      "title": "Elon Musk launches AI startup and warns of a ‘terminator future’",
-      "excerpt": "Tesla boss says xAI will be ‘pro-humanity’ and admits development of large systems cannot be paused",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=5b79594e39003269b2ff492348e38061",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
-      "publishedDateTime": "2023-07-13T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -155,58 +360,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-ai-wont-really-kill-us-all-will-it.md",
-      "title": "AI Won’t Really Kill Us All, Will It?",
-      "excerpt": "or that go against human ethics. Charlie Warzel: A sort of a meme of this that has been around for a long time is called “the paper clip–maximizer problem.” You tell a sentient artificial intelligence, “We want you to build as many paper clips as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/politics/archive/2023/07/ai-wont-really-kill-us-all-will-it/674648/",
-      "originalUrl": "https://www.theatlantic.com/politics/archive/2023/07/ai-wont-really-kill-us-all-will-it/674648/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/stgMYfF1WIUXFe-q1HFPX2UcpmQ=/0x43:2000x1085/1200x625/media/img/mt/2023/07/AI_Doomers_illo_horiz/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-asking-the-clergy-is-artificial-intelligence-a-help-or-hindrance-to-faith.md",
       "title": "Asking the Clergy: Is artificial intelligence a help or hindrance to faith?",
       "excerpt": "Since the OpenAI ChatGPT program was launched in the fall, it has gone viral, with even a Long Island rabbi using it to “plagiarize” a sermon. This week’s clergy discuss the religious implications of the technology, which uses artificial intelligence (AI) to generate text after a user enters a prompt.",
@@ -245,6 +398,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-could-ai-powered-robot-companions-combat-human-loneliness.md",
+      "title": "Could AI-powered robot 'companions' combat human loneliness?",
+      "excerpt": "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-19.jpg",
+          "width": 2880,
+          "height": 2243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
+      "publishedDateTime": "2023-07-13T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -299,7 +495,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-chatbot-bard-gets-belated-european-release",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -316,6 +512,108 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-13T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley.md",
+      "title": "AI Doomsday Scenarios Are Gaining Traction in Silicon Valley",
+      "excerpt": "To say that some of his visions for the end of the world are unpopular would be a gross understatement; they’re on par with the prophecy that the world would end in 2012. That prediction was based on a questionable interpretation of an ancient text, as well as a dearth of supportive evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifBRMHGK.dqE/v0/1200x670.jpg",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-musk-believes-china-is-on-team-humanity-when-it-comes-to-ai.md",
+      "title": "Musk Believes China Is on ‘Team Humanity’ When It Comes to AI",
+      "excerpt": "Elon Musk said he believes that China is “on Team Humanity” and would be willing to work with the international community on common guidelines for artificial intelligence — a technology he described as “a civilizational risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-china-is-on-team-humanity-when-it-comes-to-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-china-is-on-team-humanity-when-it-comes-to-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iENBQmN8PKBI/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T18:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Bloomberg L.P.",
@@ -448,49 +746,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-report-robots-with-artificial-intelligence-might-offer-real-human-companionship.md",
-      "title": "Report: Robots with artificial intelligence might offer real human companionship",
-      "excerpt": "Companion robots paired with artificial intelligence could one day help alleviate loneliness among isolated people, according to new research published Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
-      "originalUrl": "https://www.upi.com/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/5821689194493/2023/1/1acca51c47c52ff10817f3b95463593d/v1.5/Report-Robots-with-artificial-intelligence-might-offer-real-human-companionship.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
-      "publishedDateTime": "2023-07-12T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-amds-ai-chips-could-be-a-multibillion-dollar-opportunity-analyst-says.md",
       "title": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says",
       "excerpt": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says. Cowen says investors should overlook any short-term softness in Advanced Micro Devices’s business and",
@@ -542,7 +797,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-collaborators/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -741,7 +996,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -895,7 +1150,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -979,265 +1234,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai.md",
-      "title": "3 ways the IBM and Adobe partnership will accelerate content supply chains with generative AI",
-      "excerpt": "We&#8217;re delighted about the recent unveiling of IBM and Adobe&#8217;s dynamic partnership to help brands accelerate their content supply chains using generative AI. Our longstanding partnership with Adobe allows us to offer an unparalleled range of services to meet the evolving needs of the marketing",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-12-at-12.23.43-PM.png",
-          "width": 2064,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T09:30:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-if-artificial-intelligences-boost-to-productivity-disappoints-heres-how-to-invest.md",
-      "title": "If artificial intelligence's boost to productivity disappoints, here's how to invest",
-      "excerpt": "\"AI stocks are priced today for a rapidly fading world of 2% bond yields, low costs of capital, easy globalization, and friendly inflation.\"",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7cb50994fce90018f7b6f7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7?amp",
-      "publishedDateTime": "2023-07-12T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-chipotle-debuts-new-guacamole-making-robot-autocado.md",
-      "title": "Chipotle Debuts New Guacamole-Making Robot, Autocado",
-      "excerpt": "The prototype, which was developed with food automation lab Vebu, is currently being tested at the Chipotle Cultivate Center in Irvine, California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
-      "originalUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b35e30d9fe4a9f625b9409/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/",
-      "publishedDateTime": "2023-07-12T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-introducing-notebooklm.md",
-      "title": "Introducing NotebookLM",
-      "excerpt": "We’re rolling out NotebookLM, an experimental offering from Google Labs to summarize information, complex ideas and brainstorm new connections.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/notebooklm-google-ai/",
-      "originalUrl": "https://blog.google/technology/ai/notebooklm-google-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_IO_social_share.width-1300.jpg",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/notebooklm-google-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/notebooklm-google-ai/amp/",
-      "publishedDateTime": "2023-07-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-and-countering-chinese-deepfakes.md",
-      "title": "Fox News Artificial Intelligence Newsletter: AI Air Force wingman and countering Chinese deepfakes",
-      "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes",
-      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.amp",
-      "publishedDateTime": "2023-07-12T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

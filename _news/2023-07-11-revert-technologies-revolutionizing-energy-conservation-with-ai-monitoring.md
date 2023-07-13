@@ -199,6 +199,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How To Implement AI, The Catalyst For Supply Chain Transformation"
+    excerpt: "In order to excel in the world of machine learning, it's essential to become an organizational learning machine."
+    publishedDateTime: 2023-07-13T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/13/how-to-implement-ai-the-catalyst-for-supply-chain-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
     excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
     publishedDateTime: 2023-07-10T20:26:00Z

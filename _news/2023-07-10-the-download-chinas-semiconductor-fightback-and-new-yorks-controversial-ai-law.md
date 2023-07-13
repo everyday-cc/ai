@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "The Download: cleaning up shipping, and Elon Musk’s new AI startup"
+    excerpt: "1 Elon Musk has unveiled his new startup, xAI But his chances of overtaking OpenAI any time soon are slim. ( Wired $) + The new company will rely on Tesla for a lot of its resources. ( WP $) + Anthropic’s new chatbot is here. ( The Guardian)"
+    publishedDateTime: 2023-07-13T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/13/1076194/the-download-cleaning-up-shipping-and-elon-musks-new-ai-startup/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
   - title: "The Download: Bill Gates isn’t scared of AI, and net-zero shipping goals"
     excerpt: "Four months after the Afghan government fell to the Taliban, 22-year-old Asad Asadullah had settled into a new routine. In his hometown in Afghanistan’s northern Samangan province, the former computer science student started and ended each day glued to his laptop screen."
     publishedDateTime: 2023-07-12T12:10:00Z

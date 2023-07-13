@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-c
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-china-is-on-team-humanity-when-it-comes-to-ai"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Tech Digest daily roundup: Musk launches ‘pro-humanity’ AI startup, xAI"
+    excerpt: "Elon Musk has launched xAI, an artificial intelligence startup that will be “pro-humanity” to avoid the most apocalyptic AI scenarios."
+    publishedDateTime: 2023-07-13T14:17:00Z
+    webUrl: "https://www.techdigest.tv/2023/07/tech-digest-daily-roundup-musk-launches-pro-humanity-ai-startup-xai.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2023/07/Renault-Scenic.webp?resize=675%2C447&#038;ssl=1"
+        width: 675
+        height: 447
+        isCached: true
 
 secured: "dsAwQBD9Z6mlVmFWTzDPsv7I0B+D23P/ap2giVy5iuBu1NaKgwMfcb+sKLAPxE3L7r9ocEedFPCwMtpKSKkQsozeJHm1wr4H882e/gMs6Ohe9xC7KtEYmelLvw/9UozBtYMQaF5ewNP2EYhvLqB0/y4V8ZI0QncHh3iWb5z7BqbI/+RqrMs9lP/5MaxzDQZf5Im5Ijhm7ymjy/oSrdKZ52RCr4UwP1wuXi98VFCjtgD684pxxdS+fpXnFSvGWsE8XnyZfGXdjYM/K8vba1TLRTmIE/yZmCNz7kqolJnMGFi5D4ubCFglX291CZndHvqPwTVynXjuwlhWQHKIGukb7+m55v4kXkHoOemAafE9MUY=;kJssbLMfS+MJleButhrb4g=="
 ---

@@ -35,6 +35,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Yes, you can still score a Prime Day deal on a robot vacuum the day after Amazon Prime Day 2023"
+    excerpt: "Jet Bot AI+ robot vacuum with object recognition, $664 (reduced from $1,299) Best iRobot vacuum deal: iRobot Roomba j7 robot vacuum, $399 (reduced from $650) The experts at CBS Essentials have rounded up the best robot vacuum deals."
+    publishedDateTime: 2023-07-13T15:39:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-13/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-13/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-13/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 49
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=867e41af7e860d9286e5bd7e91ee0db8"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "56% off: ECOVACS's robot vacuum cleaner with mop drops to just £219"
     excerpt: "it gets the job done carefully and more efficiently giving you peace of mind. And better still, this clever bot also mops your floors. Using an innovative electronic water pump and reservoir, the robot cleaner has four levels of water flow (ultra high ..."
     publishedDateTime: 2023-07-12T09:06:00Z

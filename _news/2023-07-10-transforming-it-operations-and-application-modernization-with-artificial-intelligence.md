@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/transforming-it-operations-and-applicatio
 webUrl: "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/"
 type: article
 quality: 92
-heat: 322
+heat: 332
 published: true
 
 provider:
@@ -190,6 +190,15 @@ related:
     excerpt: "Exploring London's Emergence as the Global Nexus of Crypto, AI, and Tech Innovation: Balancing Tradition, Regulation, and Disruptive Potential."
     publishedDateTime: 2023-07-09T12:00:00Z
     webUrl: "https://www.forbes.com/sites/digital-assets/2023/07/09/crypto-and-ai-innovation-the-london-attraction/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "How To Implement AI, The Catalyst For Supply Chain Transformation"
+    excerpt: "In order to excel in the world of machine learning, it's essential to become an organizational learning machine."
+    publishedDateTime: 2023-07-13T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/13/how-to-implement-ai-the-catalyst-for-supply-chain-transformation/"
     type: article
     provider:
       name: Forbes

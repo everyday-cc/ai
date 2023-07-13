@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/how-google-translate-used-a
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/how-google-translate-used-ai-to-translate-the-worlds-oldest-language-in-minutes-10938201.html/amp"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Terrible Downside of AI Language Translation"
+    excerpt: "To me, AI’s scariest aspect is the so-called Singularity—the threat of a runaway intelligence explosion leaving humanity in the dust. But today’s state of the art in artificial intelligence is already auguring in smaller but still shattering scenarios."
+    publishedDateTime: 2023-07-13T14:03:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/j7xWIjU2vpPvmgjtQF496l0oHro=/0x43:2000x1085/1200x625/media/img/mt/2023/07/languages_illo_horiz/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "USC researchers use AI to help translate Bible into very rare languages"
     excerpt: "an AI-powered technology to help streamline the highly technical process of biblical translation. Combining Hermjakob’s long experience with natural language processing technologies and Mathew ..."
     publishedDateTime: 2023-07-10T10:59:00Z

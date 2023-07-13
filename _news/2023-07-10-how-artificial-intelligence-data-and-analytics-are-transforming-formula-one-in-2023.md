@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -29,6 +29,26 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "New and Improved Deep Learning-Supported Behavioural Analytics - Wavesys Global's Behavior Analysis Systems for Law Enforcement"
+    excerpt: "Wavesys Global recently released the latest version of Behavioral Analytics (v2.1.0), which introduces a new WVCAbehaviour license with several new algorithms. These algorithms offer alerts on behavior/ motion such as fighting,"
+    publishedDateTime: 2023-07-13T12:13:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2522142-new-and-improved-deep-learning-supported-behavioural-analytics---wavesys-globals-behavior-analysis-systems-for-law-enforce"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 0
+  - title: "Simplifi® And Hub71 Startup Lune Partner To Drive Transformative Data Enrichment And Analytics Services To Businesses In Menap"
+    excerpt: "SimpliFi, a Cards as a Service (CaaS) platform for MENA and Pakistan, and Lune, a transaction data enrichment and analytics compa"
+    publishedDateTime: 2023-07-13T13:47:00Z
+    webUrl: "https://menafn.com/1106597481/Simplifi-And-Hub71-Startup-Lune-Partner-To-Drive-Transformative-Data-Enrichment-And-Analytics-Services-To-Businesses-In-Menap"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "Nd0VZLAzjFEZq3FANntM/5TWEyAYO8T4APeMKE5YttvBjfXxOuoWZgbwp2nK5BlK7gurRK+80TaRBzdTW374Z+f1TwsXlSQEwFf9YqsxC3ylyJugmoJwwvum/h+MUPxCzTbNCBUNZe+T5A+kPJbodL32XzilPjlA0zqvJUPjqlM+0HYGdUvZb0R9HXiL5r3H7Lu2bnAwK/0u03UBbvEm33kz21dj8UFRiTKEAQq0f1cNIQetQd9/BiCDaLAVo21eB+2y5S1ytY/3p8Is7wonu0/I+AJi261M9Zk7Pk7pcmE0b1hO6EalHv5qz8YbtNq22/OlYIrmqV61MLDLmT+Fq+DYQf6f9iypMwGoZHxaCCdc3a7o9KckO48dYGmaVN3yAFDnLuFVI8UZF3aOfBcNLURW6rT91GsvABqJiDrRhIM+y2OiETnwuqsakPqDixucoMspwDxDpaslgnDhmxgXt7xelnlzHZhAansaT9DWmBA+Dz/zvJTVQwjRnIoMyHjftvMSCNgH+Rb5j64541qodA==;kZid8vEzoyzj0VlnwAJ/hw=="
 ---

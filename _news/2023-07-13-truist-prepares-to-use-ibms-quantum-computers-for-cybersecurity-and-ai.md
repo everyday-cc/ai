@@ -77,6 +77,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Unveiling The Power Of AI In Cybersecurity: Three Questions CISOs Should Be Asking"
+    excerpt: "2023 may go down in history as the year of artificial intelligence (AI)—or at least the year when business leaders and consumers alike became obsessed with generative AI tools like ChatGPT. Cybersecurity vendors are not immune to the hype. At the 2023 RSA conference, nearly every keynote included discussion on AI."
+    publishedDateTime: 2023-07-13T12:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/13/unveiling-the-power-of-ai-in-cybersecurity-three-questions-cisos-should-be-asking/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
 
 secured: "jtVLYZRxCF2HNcmsZrIwlOCCPCtnuACG2PzMNQrtrNVpJWkku1I21tYw5ZdHwSyw3ZPMN/MhMYHJz68NILpu8tDPK+Axk49KFwddnqA95um011QOkBtJHVBdY/8x7phxu5jbCLFwpVevo6ZOHf8xvvt3biaoItNoUU3OCWVlzPVnS/AjBHJMe+VfcvcE7DF0UKBMG6wYpM+QsHSB2pjP7MulLG49vNBvGmq7aesKlB0q9DzJCxWvF2kIyLMsuk6GSZNYiu+rv5hPphSiKQv6u+tQx0xBP3Oy2/kh8LBcn3SDUrvZlFXXr7m9YdikwUw/2BJrW/YT1jxSdm1UoblA9tyy37laXEEOUYCXInfIUetftRndqrV14Yuik6/Z6cDdOlkQDe5chf0SLht6Kv3olgDpkVRW+To8yjj5DwnhuhZqACuI4hjzOj/cI/GSZ+XbNUXcP6gUmmq1f5dYP+juze085mHw9/U9u8Z9k7/SNo28cLmFBRnglXS4aTDTWJmRdc19ao9XC7HIP7MYcmqslA==;tNd9F9YM5SCJin0Wohz6+w=="
 ---

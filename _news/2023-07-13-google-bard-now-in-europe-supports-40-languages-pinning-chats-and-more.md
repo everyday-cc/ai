@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google rolls out AI chatbot Bard to Europe and Brazil and adds more languages"
+    excerpt: "Google says it’s rolling out its AI-powered chatbot Bard across Europe and in Brazil, expanding its availability to hundreds of millions more users"
+    publishedDateTime: 2023-07-13T10:17:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206488"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206488"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206488"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 54
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_718684c77171b2680280b7b915eefdda_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Indian startup Dukaan lays off 90% of its support staff, replaces it with AI chatbot"
     excerpt: "We had to layoff 90% of our support team because of this AI chatbot. Tough? Yes. Necessary? Absolutely. The results? Time to first response went from 1m 44s to INSTANT! Resolution time went from 2h 13m to 3m 12s Customer support costs reduced by ~85% Here's how's we did it 🧵 Also Read: Suumit Shah’s decision comes at a time when the internet is divided on the subject of AI taking over jobs,"
     publishedDateTime: 2023-07-13T09:36:00Z

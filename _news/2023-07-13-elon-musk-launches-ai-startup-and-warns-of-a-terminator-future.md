@@ -1,16 +1,14 @@
 ---
 category: news
 title: "Elon Musk launches AI startup and warns of a ‘terminator future’"
-excerpt: "Tesla boss says xAI will be ‘pro-humanity’ and admits development of large systems cannot be paused"
-publishedDateTime: 2023-07-13T10:08:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future?ref=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future"
+excerpt: "Tesla boss claims xAI will be ‘pro-humanity’ and says development of large systems unlikely to be paused"
+publishedDateTime: 2023-07-13T11:45:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future?ref=upstract.com"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -22,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=5b79594e39003269b2ff492348e38061"
-    width: 620
-    height: 372
-    isCached: true
 
 related:
   - title: "Elon Musk launches AI startup as he warns of a ‘terminator future’"
@@ -61,6 +53,6 @@ related:
         height: 312
         isCached: true
 
-secured: "RhLMnRKqTktFZgu8qkYAgO2aW1jRPAJMABW8exKjdadbQbjrXGVIRlgJ3Oipa6+xJcHYVB3ayfywtpJqsXfv26F/2eLvdurGd3GPWVspcbdzF5+9DiGeOsN0DV0/43puTc2FqBbeQy6k3P4qoFdSzMIfddBBQNdcxJwie8uERaoQ+gXq+bGPQvjqvoKW4qhqe6ltfdEVpuq84Fep9sLuCNgMcmkc2p9RtDSMr8G/EHzd2STmUVR0CPMIXiQ14XaGw1S2XtG9k2mPmtGmNphfaUP732AZVnExa5cuNw8HDW3vBQW2BFP/2MksumQbZi2TeaKjlT0sd38BiXjbvzWQO/Etu4RQaYb7JkTzMXFKOdA=;GbleCGdXYlWKHNOPxVrypA=="
+secured: "oSrD3kIyvLnwIiYwjwQbUc6iBiaNQV/0Dgclw0vyG9y7HsT7zbVez/h7in5O7Nv2B35LkeP0+Zv+oxCBYWdd0qPHy7mk7mbp1woYwF7NEPc6+C9qW/FNxoxZKsx+5aFalKSiZw0dB2VPlxN9Ee3nKxnCUsEv5Qj/DlLH4Jg/GFHD+EEYazJrDBSw+HUboo7gXWKlm56mWfQhmaMK5/p2xEWieAjprmn9Q9FgHxZGxsOFO6cgCA5jgbIXpwqBqZrTx7Q7p2XJ7MtnM9jeIym3f26B+VKhLEXanCJJAF0M7yZTq/54yVV2UxFoqN/GAd06IxtxTgph1qnglU9Cmc/G5Q4GBq0N4B3yDYq547R3RFPZ6NWbbR0f5zHxnOWt1wL/Te2Yeq+ZGwADqOq3vM1lGqUtx8Y368tNEtHM/RuD8Pa8ESwJMbIGrdrgAswhnR98t/0PuiqS7u0DcLsITBMlFYwTEsBYF6TuxQZ4j4+2jUjKHXagWZIN/XTIsnXUBbCzOL4QFejGOnb1Uu8AHl7DZw==;ezTBYtsDe83GGcLabiD61A=="
 ---
 

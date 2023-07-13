@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google rolls out AI chatbot Bard to Europe and Brazil and adds more languages"
+    excerpt: "Google says it’s rolling out its AI-powered chatbot Bard across Europe and in Brazil, expanding its availability to hundreds of millions more users"
+    publishedDateTime: 2023-07-13T10:17:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206488"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206488"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206488"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 54
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_718684c77171b2680280b7b915eefdda_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Anthropic releases Claude 2, its second-gen AI chatbot"
     excerpt: "Anthropic, the AI startup founded by ex-OpenAI execs, has released its newest chatbot, Claude 2. It's ostensibly improved in several ways."
     publishedDateTime: 2023-07-11T13:30:00Z

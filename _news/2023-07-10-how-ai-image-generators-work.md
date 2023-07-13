@@ -52,15 +52,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "St. Pete man launches new dating app that uses artificial intelligence"
-    excerpt: "A man in St. Pete just launched an app that uses Artificial Intelligence as users' wingman on dating apps. \"I came up with the idea late last year, and I thought this would be a really powerful tool for some for people that are using dating apps because the dating market's very competitive,"
-    publishedDateTime: 2023-07-08T19:08:00Z
-    webUrl: "https://www.fox13news.com/news/st-pete-man-launches-new-dating-app-that-uses-artificial-intelligence"
+  - title: "Crawlers, search engines and the sleaze of generative AI companies"
+    excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
+    publishedDateTime: 2023-07-13T15:32:00Z
+    webUrl: "https://searchengineland.com/crawlers-search-engines-generative-ai-companies-429389"
     type: article
     provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 17
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 21
 
 secured: "jH+m5zaGqDcNNhxBGOihfgjA8R5+K8UdpBOzbNJ6YwOYRY/hqH8oiPhVaNLjhfXKSbig6kGVQq5zImsZ3EcF1iZPL2xcKOXLLjQhbgCGvxTPl+W4FfcGaY29cJkiYIAKb7eKzOyPO+fVqbXoOS5fuJji89spO8WYQ3qKD++hahS9gVC4NOuWdVnNOqUyuHlSaO5HeRiNmf8CHnQFfejsN8+M1cgSmIZxCjEfJAMUBp8D1teXyEL6mrYjFtCRmxGBQIfhd1gpeThtnV8PBBUc6SU/ITpqNgdFPVtqsDer51ZknZZ6S9ly7K3HqXfu9FBiwWXNBvpMQGF0oq7EEMZ6jedmCVmH2yC5ky7HMyg3KKA=;PXfO1ZxsV7YCr8E0YloI/g=="
 ---

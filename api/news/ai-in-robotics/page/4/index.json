@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-23-robocat-a-self-learning-agent-developed-by-google-deepmind-is-set-to-revolutionise-robotics.md",
+      "title": "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics",
+      "excerpt": "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/06/RoboCat.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
+      "publishedDateTime": "2023-06-23T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-googles-deepmind-unveils-ai-robot-that-can-teach-itself-without-supervision.md",
       "title": "Google’s DeepMind unveils AI robot that can teach itself without supervision",
       "excerpt": "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ...",
@@ -1305,58 +1349,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-ai-quadruped-robot-market-share-and-forecast-till-2030.md",
-      "title": "AI Quadruped Robot Market Share and Forecast till 2030",
-      "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (XiaoMi, Sony, Boston Dynamics, Petoi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-quadruped-robot-market-share-and-forecast-till-2030-2023-06-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-quadruped-robot-market-share-and-forecast-till-2030-2023-06-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

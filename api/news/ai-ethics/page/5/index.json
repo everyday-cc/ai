@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-05-07-the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai.md",
-      "title": "The Rise of the Machines: Assessing The Ethical Risks of Machine Learning And AI",
-      "excerpt": "As the world progresses towards digitalization, more people are adopting Artificial Intelligence (AI). The pandemic has accelerated this adoption. There are predictions that computers and robots will become more",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
-      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75476733.cms",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-05-07-ai-ethics-by-design-is-the-way-ahead-to-protect-privacy.md",
       "title": "AI Ethics by Design Is the Way Ahead to Protect Privacy",
       "excerpt": "With the growing dominance of AI and concerns over its responsible use, is it time to move toward AI ethics by design? Sameer Ahirrao, founder of Ardent Privacy,",
@@ -1469,6 +1425,40 @@
         "AI Ethics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up.md",
+      "title": "Big Tech cuts AI ethics teams even as development ramps up",
+      "excerpt": "Microsoft, Google and Amazon's Twitch are among the tech companies that are scaling back their AI ethics teams At the same time that tech behemoths are accelerating the development of AI products ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20230424264/big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230424264/big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

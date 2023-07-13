@@ -23,6 +23,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "The EU wants to regulate Artificial Intelligence. What impact could that have on the industry?"
+    excerpt: "As Europe’s executive branch discusses how to regulate Artificial Intelligence, tech leaders are debating the potential impacts of stricter rules."
+    publishedDateTime: 2023-07-13T12:57:00Z
+    webUrl: "https://www.euronews.com/next/2023/07/13/the-eu-wants-to-regulate-artificial-intelligence-what-impact-could-that-have-on-the-indust"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 7
+
 secured: "mKJoxd81sRYuUF5uhvUwrgS/pzGRw1shF+cMXHeaGOL/TAvAG3nsZVqPgW9IC6/gMrmgzcgbdtBDhyqmWkK4JvVRL3CWNFzJN9fH0CjH95WjnUbg5y+ypU/w0iq9ANxeFG7DZVXqWY/2cS5HIyImjDce5x0QuCJFSKaCVcYRYQlvLe2XUypeMbu9Q+5r/siAqGRz5jAr+fCEGt3XcDnJVP4N5Qd5zHt1vyPAR995MkilF5+HIWW0PQDLYddRRDr9tLANBs8YBKUH28/IX8kwbCsddZPw3fQ7zcoaQrK9ne83opTDeOTTj7MeKtyldBBQ/oHvHyYl+ubt/+ba5AyLrUBIQrn+zsFnHn6j0hA1MSWF770QRaxKWvSCNidgYes3BU+cmrA9dcgyThg2QG6nDJyGWuaS03bI/WbzkGUPEJrV5U5KNsLfodOu6NsNrDOuoYHWi4tIkJHtJUC783Fw0RIxZrJIIwf+/Ju5Nf/ZeQpSIt0tzok8UIs3atzra5Lh6H65gSXXZXAMh7VHmiechQ==;uOEjTpDiDRr+yX73yYMCrg=="
 ---
 

@@ -46,6 +46,15 @@ related:
       name: AlphaGalileo
       domain: alphagalileo.org
     quality: 4
+  - title: "Researchers develop self-sensing electric artificial muscles"
+    excerpt: "In a study published recently in Advanced Intelligent Systems, researchers from Queen Mary University of London have made significant advancements in the field of bionics with the development of a new type of electric variable-stiffness artificial muscle that possesses self-sensing capabilities."
+    publishedDateTime: 2023-07-13T13:13:00Z
+    webUrl: "https://techxplore.com/news/2023-07-self-sensing-electric-artificial-muscles.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
 
 secured: "Fi+A/zbdC3rWfqD8x31BUrogfvejTJebQwOI6jvb8heOkK2VhWjXWTjqailHUxOnbD+3od9qLbu9FexnZMb1XMcJm5ghhcLzgRxxd6Ns54I8s7Tnpan54hchnh9rcc7EDfpvbDUKQZ4ihZMbbngm/jMyUVwBFhHeOx+suYWjQn4jNGpqIIwfC1A6Ixxnd8Y0F7OaArWP3tVm2yyTwPRNP0t6RqfH/omHVW3pY9cvTGxh2m56a3ApclDeUJXUOTJCyKGLBlIyJ54XddaUUknsIVAMENj3iEAWk5wTt/JdyuzsmawshIBCfhhLt3Sz4gb0UJ1koTNbpxR/gVeWoO2D82SkUonkpY2X7hnKACoUOro=;jULPE/Fbes5vJS5O6dV7WA=="
 ---

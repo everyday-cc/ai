@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Researchers develop self-sensing electric artificial muscles"
+    excerpt: "In a study published recently in Advanced Intelligent Systems, researchers from Queen Mary University of London have made significant advancements in the field of bionics with the development of a new type of electric variable-stiffness artificial muscle that possesses self-sensing capabilities."
+    publishedDateTime: 2023-07-13T13:13:00Z
+    webUrl: "https://techxplore.com/news/2023-07-self-sensing-electric-artificial-muscles.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
 
 secured: "/JVr4fKVYtljZnbPuT1IYvuz3tn3/64SNQYyqUMxLFzkISYMgn9ThTsHkgoq8axYAWfT17lbqVfiqqqVVNsw7F0TfbzCcgTelDkT8Mp+e5GLYOwVFoEdk/g4il2/0/vUzcXyUxRFmj7CjId/Xv1T3PzkduICtPdlBpyQaVHvpHvcUJXymrurB0CKl+JYyJSWdO/tS+R0ADF8ze+d+jZKvjeJNaSnIcLcKmDY7lgdE3pIP1JkJxOiUqkVxEwZ6ZhFrq8RjxkNLUGJS15wxihOOKF55oUfScLlFEWca5qjJgSeALT0MqEbm6Ip1KtFJnLrG/XxgZSCCqmNzn3cLQ7ZfybGf+Hm5xVeUo1yYau0by4J4x+pFPj6JrvKYOngOl3VEDfhT9Ip9KwFzpzaBUf8pdCOj26jkqPmOPmZNbAV11XyfTvfoeBs23JWUeUqs6xrkZN9PRBLgjilCKiawil97gnhHX+lpn27ninw6FmZfz9VKR71HrHW8K76HAUdiYtdX1IVtjlHotawdvDDYuCebQ==;fYUhUx6nJsYut3WTECOAqw=="
 ---

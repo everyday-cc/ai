@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "VentureBeat Transform Day 2: Embracing partnerships for generative AI success"
+    excerpt: "Industry experts cited human-centric design and business partnerships among the important themes for successful integration of generative AI."
+    publishedDateTime: 2023-07-13T14:44:00Z
+    webUrl: "https://venturebeat.com/ai/venturebeat-transform-day-2-embracing-partnerships-for-generative-ai-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/cytonn-photography-n95VMLxqM2I-unsplash.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Future of AI Regulation: How Can We Get it Right?"
     excerpt: "The EU AI Act is a sensible starting point but it is by no means the gold standard for AI regulation and there are concerns around the EU’s highly prescriptive legislative framework."
     publishedDateTime: 2023-07-12T22:06:00Z

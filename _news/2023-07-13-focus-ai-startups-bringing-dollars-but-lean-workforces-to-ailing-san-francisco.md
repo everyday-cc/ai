@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-startups-bringing-dollars-le
 webUrl: "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -72,16 +72,7 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "San Francisco group placing traffic cones on self-driving cars to disable them"
-    excerpt: "The Safe Street Rebels, known for advocating for pedestrian safety and public transit usage, are calling their protest the \"Week of Cone.\""
-    publishedDateTime: 2023-07-08T19:31:00Z
-    webUrl: "https://abc7.com/san-francisco-driverless-car-cones-sf-robotaxi-waymo-cruise/13478843/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 0
 
-secured: "CfTKlDXkzU/vju5V2nTbJQ7ZlH/kKxwV2pJ1kPO2CgNk82tMOmVEelvN4NYg/1kZLg6eUEHiaTC+PA7KKcCpAl32RguJ10CyuOFYkD7699Qx4rQF62cYm+OF1B/9A+gDijf2mr8RGtnh/DLsg/M3AjAn6Imny/d6ghsHcU0uGTgMl8c/FvvZ+0BeOpI4iYZ4nBUolApPmH6HWPB9WuEFTwiXk5xAOumqlNyTO726+QQNXH4/YIG1hha81QKSrPHD37sVMPQCeDql28ON7SzvDMZiNSrv4/uXHagl9e5XAYplIgF1hqHH7nqKJ1eIU9OlXbWs+G+560NYKfEyXZLmzdk8r7w0IIkGBefVZOFlQEM=;UQDh1VJDi832UnUkTrrurg=="
+secured: "KYsyyQOalf1cCXK+6LmRmLOsZUa8Wm5zWXE43REww7PYbCmwVYGITA0s2yfAMo4TBhVaQiNAWHCZ2pJv415lZfjK0hEM52fsP+jKUKQpC75lNs7t76VguAq5++SOIZNti5PSzZTDWBg1PWRX0I/yWLtZJ+fhIK7K0m6hxrPspewXlsiO/6y0B3nttx5baj9duRHTSoDpbTwdZAyG8yRemNRgDB61fN7S4MVzOFQVr9H1pbeu/QJtyVGfvhyEDmoLClw9CybPOdm5SuUYBz9UE0EU1Bpf0UcYFUu2Zye5XQpP6ya27gE0X8DVc1X8J59cNtwuvdaHBojINYVHxosktuTNcmO8Y0hB0VdK22hvHEjIr06ENcZhrBtbXZZnc7bFL6q94p35d1jowxbT2ktiMQ6P+2f77VT7mJFG5ACojJYD32OrpYDHtR03aOl52m2waC8dovyV5LPU0Dts+WiGvl9PgN9cGu1FGlrGzLLWs0T1jZPV848vY4b6c1bDkmShGhH8soio7HHxC3gmSgnFcg==;9L4lVAkDkPttsFseUKYWug=="
 ---
 

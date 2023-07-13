@@ -2,6 +2,393 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-06-07-asia-ex-china-is-asleep-at-the-ai-wheel.md",
+      "title": "Asia (ex China) Is Asleep At The AI Wheel",
+      "excerpt": "A huge swathe of the the Asian region appears unmoved with what looks like momentous shifts in the global economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/",
+      "originalUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647ec23eacf21e7eed595938/0x0.jpg?format=jpg&crop=2778,1564,x0,y35,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/amp/",
+      "publishedDateTime": "2023-06-06T23:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips: Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed",
+      "sourceUrl": null,
+      "webUrl": "https://www.butlereagle.com/20230607/ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
+      "originalUrl": "https://www.butlereagle.com/20230607/ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.bte.navigacloud.com/?uuid=421d77fa-01ca-5865-a123-72a4084e2877&function=cover&type=preview&source=false&width=1600&height=1085",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Butler Eagle",
+        "domain": "butlereagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-black-mirror-creator-tried-to-get-artificial-intelligence-to-write-an-episode-but-it-was-sht.md",
+      "title": "‘Black Mirror’ Creator Tried To Get Artificial Intelligence To Write An Episode, But It Was ‘Sh*t’",
+      "excerpt": "The hit Netflix show’s creator, Charlie Brooker, enlisted ChatGPT to help draft an episode ahead of the Season 6 premiere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b?ncid=engmodushpmg00000004",
+      "originalUrl": "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b?ncid=engmodushpmg00000004",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/647fc1e22700003300f61766.jpeg?cache=vvqce6l0lz&ops=1200_630",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b/amp",
+      "publishedDateTime": "2023-06-06T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes.md",
+      "title": "FBI warns of increasing use of AI-generated deepfakes in sextortion schemes",
+      "excerpt": "The FBI on Monday warned of the increasing use of artificial intelligence to generate phony videos for use in sextortion schemes that attempt to harass minors and non-consulting adults or coerce them into paying ransoms or complying with other demands.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/face-in-silicon-1-800x574.jpg",
+          "width": 800,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/amp/",
+      "publishedDateTime": "2023-06-06T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025.md",
+      "title": "Samsung's auto chip to power Hyundai Motor's infotainment starting in 2025",
+      "excerpt": "Samsung said on Wednesday that it will be supplying its latest automotive processor to Hyundai Motor for the auto giant's new in-vehicle infotainment (IVI) systems launching in 2025. It is the South Korean tech giant's first collaboration on automotive semiconductors with Hyundai Motor, one of the largest automobile manufacturers in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/",
+      "originalUrl": "https://www.zdnet.com/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/30051b27a5691c27ffed11025cd6578511214c0b/2023/03/14/a12d42bd-3fda-484f-b3cf-248c22f59c8d/gettyimages-1133517091.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/",
+      "publishedDateTime": "2023-06-06T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-machine-learning-and-data-sciences-for-financial-markets.md",
+      "title": "Machine Learning and Data Sciences for Financial Markets",
+      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
+      "originalUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-microsoft-has-no-shame-bing-spit-on-my-chrome-search-with-a-fake-ai-answer.md",
+      "title": "Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer",
+      "excerpt": "I typed “Chrome” into the Microsoft Edge search bar. I was greeted with a full-screen Microsoft Bing AI chatbot window, which promptly told me it was searching for... Bing features. I get it to work on a different computer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot",
+      "originalUrl": "https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-alphadev-discovers-faster-sorting-algorithms.md",
+      "title": "AlphaDev discovers faster sorting algorithms",
+      "excerpt": "In our paper published today in Nature, we introduce AlphaDev, an artificial intelligence (AI) system that uses reinforcement learning to discover enhanced computer science algorithms – surpassing those honed by scientists and engineers over decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
+      "originalUrl": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807d68d425bdd22cc43233_Copy%20of%20alphadev_01_06_crops_crop5_0114%20(1).png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-optimising-computer-systems-with-more-generalised-ai-tools.md",
       "title": "Optimising computer systems with more generalised AI tools",
       "excerpt": "Based on reinforcement learning, our AI models AlphaZero and MuZero have achieved superhuman performance winning games. Now, they’re expanding their capabilities to help optimise resources in data centres and advance video compression – and most recently, our specialised version of AlphaZero, called",
@@ -786,396 +1173,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-arrange-your-transcripts-into-paragraphs-with-amazon-transcribe.md",
-      "title": "Arrange your transcripts into paragraphs with Amazon Transcribe",
-      "excerpt": "Amazon Transcribe is a speech recognition service that generates transcripts from video and audio files in multiple supported languages and accents. It comes with a rich set of features, including automatic language identification, multi-channel and multi-speaker support, custom vocabularies, and transcript",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/arrange-transcripts-in-paragraphs.jpg",
-          "width": 1024,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T09:28:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know.md",
-      "title": "Instagram may be getting its own AI chatbot soon. Here's what we know",
-      "excerpt": "Instagram's chatbot is very similar in purpose and design to Snapchat's My AI. Since Snapchat's feature has not been well received, it's interesting to see that Instagram is following in its footsteps. Whether this will become a useful feature or be quickly forgotten remains to be seen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
-      "originalUrl": "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/731fa999b2b078dba0f7ffd929234df150b9a7bd/2023/06/06/0d67eed7-716a-47da-bb16-4b86e1f196b8/gettyimages-1256994567-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
-      "publishedDateTime": "2023-06-06T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-cloudera-charts-a-path-toward-responsible-ai-at-scale.md",
-      "title": "Cloudera Charts A Path Toward Responsible AI At Scale",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead explains why the Cloudera Data Platform is well-positioned for the new world of enterprise AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647e53226b36a6fb3b57d5cb/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/amp/",
-      "publishedDateTime": "2023-06-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-cnets-new-guidelines-for-ai-journalism-met-with-union-pushback.md",
-      "title": "CNET's new guidelines for AI journalism met with union pushback",
-      "excerpt": "The storied tech publication is promising to disclose when artificial intelligence generates a portion of a story's text, but that's about it..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/cnets-new-guidelines-for-ai-journalism-met-with-union-pushback-152311269.html",
-      "originalUrl": "https://www.engadget.com/cnets-new-guidelines-for-ai-journalism-met-with-union-pushback-152311269.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/FNkV5GWhrrwid6LSrTZmbA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/862feb40-f403-11ed-b5ff-0f7c20b860cc.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud.md",
-      "title": "Cisco Shows Breakthrough Innovation Towards AI-First Security Cloud",
-      "excerpt": "Cisco launches new security service edge (SSE) solution to enable superior hybrid work experiences and dramatically simplify access",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud-1032373587",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud-1032373587",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/813707/Cisco_v2_Logo.jpg",
-          "width": 400,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-10-companies-using-artificial-intelligence-ai-in-a-compelling-way.md",
-      "title": "10 Companies Using Artificial Intelligence (AI) in a Compelling Way",
-      "excerpt": "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-usd-402-billion-growth-in-automotive-voice-recognition-system-market-size-industry-analysis-market-trends-market-growth-opportunities.md",
-      "title": "USD 4.02 Billion Growth in Automotive Voice Recognition System Market Size - Industry Analysis, Market Trends, Market Growth, Opportunities",
-      "excerpt": "Automotive voice recognition system refers to the concept of using speech recognition technology in vehicles. The technology is gaining traction among consumers across the globe due to its growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32740680/usd-4-02-billion-growth-in-automotive-voice-recognition-system-market-size-industry-analysis-marke",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32740680/usd-4-02-billion-growth-in-automotive-voice-recognition-system-market-size-industry-analysis-marke",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32740680",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32740680",
-      "publishedDateTime": "2023-06-06T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-challenge-for-in-home-healthcare-clients.md",
-      "title": "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients",
-      "excerpt": "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

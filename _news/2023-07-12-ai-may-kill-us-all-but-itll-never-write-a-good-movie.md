@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vanityfair.com/hollywood/2023/07/ai-may-kill-us-all-but-
 cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2023/07/ai-may-kill-us-all-but-itll-never-write-a-good-movie/amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -29,18 +29,13 @@ images:
 related:
   - title: "AI Won’t Really Kill Us All, Will It?"
     excerpt: "or that go against human ethics. Charlie Warzel: A sort of a meme of this that has been around for a long time is called “the paper clip–maximizer problem.” You tell a sentient artificial intelligence, “We want you to build as many paper clips as ..."
-    publishedDateTime: 2023-07-13T09:08:00Z
-    webUrl: "https://www.theatlantic.com/politics/archive/2023/07/ai-wont-really-kill-us-all-will-it/674648/"
+    publishedDateTime: 2023-07-13T13:14:00Z
+    webUrl: "https://www.theatlantic.com/podcasts/archive/2023/07/ai-wont-really-kill-us-all-will-it/674648/"
     type: article
     provider:
       name: The Atlantic
       domain: theatlantic.com
-    quality: 69
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/stgMYfF1WIUXFe-q1HFPX2UcpmQ=/0x43:2000x1085/1200x625/media/img/mt/2023/07/AI_Doomers_illo_horiz/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
+    quality: 49
 
 secured: "+7LGTTXfmlaYB4eFAkR02TrAy20PX8/RKtrCnax7ZVUKKc8c993lIKJAibajacgZV4wqgc/gtcZbou+Sr4kmrsP2fZ6yTIkjdUeUPZ4j9RD/k0ZVJPO89R1rkNvfJ9zbkk/vlSBnffMtkP8KCTyYMNsbraXR/kwUI01Dw4zb9J70DNfLjPoZSBcNtsrG9M2PkLKInVyIZRNbFqmud/qINFYhHKQ9kUfnppbNrh5HDeoAMs+qmxM1kOUtxLVabNKj/zXEYExCjaokX+1RHNMBFs9+WLZFBwOYiQc7rsHgIdHXBPhTSHCuaWwAWc2DjT6KOcybPaQgrXj4vMrTjhGBpDkQFzA18yyl9UAM+bkWRf0=;u/A+25/ksf+KI4FGQnb2ww=="
 ---

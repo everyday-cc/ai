@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nation presses the accelerator on driverless vehicles"
-excerpt: "In August, China released its first national draft guideline on the use of self-driving vehicles for public transportation. That month, authorities in Wuhan, Hubei province, and Yongchuan district, Chongqing, granted Baidu the first permits issued in China to charge fares for fully driverless ride-hailing services in designated areas."
-publishedDateTime: 2023-06-29T01:36:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_1.html"
-webUrl: "https://global.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_1.html"
+excerpt: "A passenger travels in a driverless car at Baidu Technology ... \"Thanks to the convergence of machine learning and artificial intelligence, big data, mobility and advanced sensors, the autonomous ..."
+publishedDateTime: 2023-06-29T07:45:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
+webUrl: "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 445
     isCached: true
 
-secured: "+RzFspnj5hmtTXqzX3nG5IARzyUX1snKJpLnk8heUsKKeyZ8ftf/MPODKQReiuzoWTLZFbS5CLQogM3+rUbZNzBX2C5xkNRDGwk4swkxrhMfgent3bOsAHJPjHVpZ6XWq/I4Oii41jycaxoXvmE1EozYYlyVKjWJ3kEpBeoF0GtO2Toq7T9e9LFwsaZ7NDLZKpsfMR/kaLS4chmKKY6JplHEBQvvbeeNfjd+smuqDsnmCB+GrjCOn7CQ0VJeepECfWwkkYf+ObN+zugTOqxAO4ErQnMY1nAfs78IM0evtEK7hnwgwh3qagGwbbvpgbDZUZdQMaqfQ229JQHY5qioUg6+wFCzEv/1Y9PDYvUZRg4=;1TYezP+JlJNm3JqHJMyFtw=="
+secured: "CA1QJsPY+T/rrR8iPnQB7caKaBNaD4u3MQqL8xxzSgDxHuv7DpWaKei4mzNBM78qZY0zqVxhpjNNdv4Hr1f9qglobfM3jM5hFzH2UZf0xVRkGVZZ2O81XbtYqRxDy4OB3IaQ4RUGkrfiMHADscT7/Uayd1qG4wEHo/8JkQQTuphvLzGv9C5cnPYJGJwE7YOjmEF4gHw797RSdY1hosOzrzYZF/dvR+sTRCxEx58RQEb9YEBZYIvcBD0pHolB759eiRtbJZZoQsjymss5Bbdaql/HTBkZBhS9oh/d3jSiz09dvdY9ut7MIsNpHYfjGlL12AUnX9JWUoWSnWbCdReyxRo4lvEN+KYgr/YNNpp6HCY=;aS1NEvQ2sf9BZ7gF4lik9Q=="
 ---
 

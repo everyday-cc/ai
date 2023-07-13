@@ -2,6 +2,290 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-09-mark-zuckerberg-concealed-his-kids-faces-on-instagram-should-you.md",
+      "title": "Mark Zuckerberg concealed his kids’ faces on Instagram. Should you?",
+      "excerpt": "When Mark Zuckerberg shared a photo on Instagram of his family on July 4, two things stuck out: the billionaire CEO wore a striped souvenir cowboy hat, and the faces of his children were replaced with happy face emojis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230707152522-03-mark-zuckerberg-0524-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/09/tech/mark-zuckerberg-emoji-kids-faces/index.html",
+      "publishedDateTime": "2023-07-09T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-09-robots-vows-not-to-erase-human-role-at-ai-forum.md",
+      "title": "Robots vows not to erase human role at AI Forum",
+      "excerpt": "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/node/1525829",
+      "originalUrl": "https://www.albawaba.com/node/1525829",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/node/1525829",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829",
+      "publishedDateTime": "2023-07-09T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-09-ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover.md",
+      "title": "AI anxiety: The top 20 professions bracing for the robot takeover",
+      "excerpt": "A recent study has revealed the professions most concerned about being replaced by artificial intelligence (AI). The study, 'AI Anxiety: The Top 20 Professions Bracing for the Robot Takeover',",
+      "sourceUrl": null,
+      "webUrl": "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/",
+      "originalUrl": "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=d3c486b1-1b3d-5c2c-be50-172687391156&function=fit&type=preview",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/amp/",
+      "publishedDateTime": "2023-07-08T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-how-new-ai-tools-can-transform-customer-engagement-and-retention.md",
+      "title": "How new AI tools can transform customer engagement and retention",
+      "excerpt": "New technologies present new opportunities, but hard work is needed to gain the benefits of AI and ML as cookies and third-party data go away.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/ai-tools-help-businesses-reimagine-reach-out-to-customers/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/ai-tools-help-businesses-reimagine-reach-out-to-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_new_artificial_intelligence_tools_helping_businesses_re_5dfab3ec-f116-4eca-9cb0-5909738ad7d0.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-these-are-the-3-biggest-fears-about-ai-and-heres-how-worried-you-should-be-about-them.md",
+      "title": "These are the 3 biggest fears about AI — and here's how worried you should be about them",
+      "excerpt": "Abhishek Gupta, founder of the Montreal AI Ethics Institute, said the prospect of AI-induced job losses was the most \"realistic, immediate, and perhaps pressing\" existential threat. \"We need to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6",
+      "originalUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a81e878ed31300199e1096?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp",
+      "publishedDateTime": "2023-07-08T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-ai-industrial-robotics-denmark.md",
+      "title": "AI Industrial Robotics - Denmark",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$112.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.82%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-humanoid-robots-take-questions-at-a-geneva-news-conference.md",
       "title": "Humanoid robots take questions at a Geneva news conference",
       "excerpt": "The International Telecommunication Union invited reporters to ask robots questions on Friday at an event meant to spark discussion about the future of artificial intelligence. BERLIN -- A United ...",
@@ -903,299 +1187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-speeding-up-shipping.md",
-      "title": "Amazon CEO Andy Jassy on making AI chips, Prime Video spend, speeding up shipping",
-      "excerpt": "Amazon CEO Andy Jassy spoke with CNBC for a wide-ranging interview about AI, Prime Video, and more. Here were some of the key takeaways (comments edited for brevity and clarity):… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
-      "originalUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0716-GW-Summit-2021105-1.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-scientists-build-a-system-that-can-generate-ai-models-for-biology-research.md",
-      "title": "Scientists build a system that can generate AI models for biology research",
-      "excerpt": "Automated machine-learning (AutoML) systems are still in a relatively nascent stage of development, with current usage primarily focused on image and text recognition, but largely unused in subfields of biology, points out first co-author and Jameel Clinic ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/scientists-build-a-sys.jpg",
-          "width": 900,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-scientists-generate-ai-biology.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-scientists-generate-ai-biology.amp",
-      "publishedDateTime": "2023-07-07T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-what-is-a-knowledge-worker-and-what-do-they-do.md",
-      "title": "What is a knowledge worker and what do they do?",
-      "excerpt": "A knowledge worker is a professional who generates value for the organization with their expertise, critical thinking and interpersonal skills. \nThe post What is a knowledge worker and what do they do? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-a-knowledge-worker-and-what-do-they-do/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-a-knowledge-worker-and-what-do-they-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T06:55:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-the-best-shows-on-amazon-prime-right-now-july-2023.md",
-      "title": "The best shows on Amazon Prime right now (July 2023)",
-      "excerpt": "With new shows always coming to Amazon, there’s lots to pique your curiosity. Want to see something fresh and new? Check out the exciting and unique new comedy I’m a Virgo, which has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/07/the-horror-of-dolores-roach.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "publishedDateTime": "2023-07-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-corporate-communicators-take-ai-away-from-it.md",
-      "title": "Corporate Communicators: Take AI Away From IT",
-      "excerpt": "Communicators and creators are the ones who will ultimately benefit the most from generative AI. They must take responsibility for its proper implementation and socialization throughout the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporate-communicators-take-ai-away-from-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporate-communicators-take-ai-away-from-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c58f6ceb44797f5bf9d82d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporate-communicators-take-ai-away-from-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporate-communicators-take-ai-away-from-it/amp/",
-      "publishedDateTime": "2023-07-07T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers.md",
-      "title": "AI, trust, and data security are key issues for finance firms and their customers",
-      "excerpt": "Financial services customers are switching providers for a better digital experience. In the past year alone, 25% of customers switched banks. Here's why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers/",
-      "originalUrl": "https://www.zdnet.com/article/ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/14614b36017b30cb496b233eb87c87f2060412a9/2023/07/06/e2fbda31-37bc-4c7f-8943-8b107068f25c/gettyimages-1333980443.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers/",
-      "publishedDateTime": "2023-07-07T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI in Security"
       ]
     }
   ],

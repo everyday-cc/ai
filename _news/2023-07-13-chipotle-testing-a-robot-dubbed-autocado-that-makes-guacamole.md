@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Chipotle testing a robot, dubbed \"Autocado,\" that makes guacamole"
-excerpt: "Autocado, created by robotics and automation firm Vebu Labs of California with collaboration from Chipotle, stacks a group of avocados vertically then removes their skin and core. The remaining flesh is dropped into a stainless steel bowl that a Chipotle worker takes and uses as the base for a batch of guacamole."
-publishedDateTime: 2023-07-12T18:23:00Z
-originalUrl: "https://www.cbsnews.com/news/chipotle-avocado-robot-guacamole-autocado/"
-webUrl: "https://www.cbsnews.com/news/chipotle-avocado-robot-guacamole-autocado/"
+title: "Chipotle Testing A Robot, Dubbed \"Autocado,\" That Makes Guacamole"
+excerpt: "Chipotle Mexican Grill's new robot can make guacamole in half the time human workers need to prepare the dish, the restaurant chain said in unveiling the device on Wednesday."
+publishedDateTime: 2023-07-13T12:51:00Z
+originalUrl: "https://www.newson6.com/story/64aff33409d6b8072583aed3/chipotle-testing-a-robot-dubbed-autocado-that-makes-guacamole"
+webUrl: "https://www.newson6.com/story/64aff33409d6b8072583aed3/chipotle-testing-a-robot-dubbed-autocado-that-makes-guacamole"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: News on 6
+  domain: newson6.com
 
 topics:
   - AI in Robotics
@@ -65,6 +65,20 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Chipotle introduces guacamole prep robot, Autocado"
+    excerpt: "On Wednesday, Chipotle unveiled the avocado processing prototype it named Autocado, created in collaboration with the automation solutions company Vebu."
+    publishedDateTime: 2023-07-12T15:04:00Z
+    webUrl: "https://www.aol.com/chipotle-introduces-guacamole-prep-robot-120407318.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/dqsHSiaQkeQooBeK9k9l0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_finance_433/b679ce55998c362d97ac7a41f6342a01"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chipotle is Testing a Robot that Can Cut, Core, and Peel Avocados"
     excerpt: "Now, Chipotle is testing an “avocado processing cobotic” prototype that can cut, core, and peel avocadoes before they’re hand mashed into guacamole. Called “Autocado,” the model was developed in collaboration with Vebu,"
     publishedDateTime: 2023-07-12T15:11:00Z
@@ -93,15 +107,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Chipotle introduces guacamole prep robot, Autocado"
-    excerpt: "On Wednesday, Chipotle unveiled the avocado processing prototype it named Autocado, created in collaboration with the automation solutions company, Vebu."
-    publishedDateTime: 2023-07-12T12:04:00Z
-    webUrl: "https://www.aol.com/finance/chipotle-introduces-guacamole-prep-robot-120407318.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
   - title: "Chipotle is testing the 'Autocado', a robot to help make guacamole in its restaurants"
     excerpt: "an \"autonomous kitchen assistant that integrates culinary traditions with artificial intelligence to make tortilla chips.\" According to a news release, Chippy, created by Miso Robotics, is trained to replicate Chipotle's exact recipe to cook chips to ..."
     publishedDateTime: 2023-07-12T17:35:00Z
@@ -112,6 +117,6 @@ related:
       domain: usatoday.com
     quality: 12
 
-secured: "oPkh6mfHEoX4HOvHdUNe68I1MsAws059T6VQo4zQoNGuOK7tTkeZn1VA37NPYvhMAQBpsBEkm9Vz+AAwwUo+NDL3qzCRCe54UXNd+RZiJ4YVZzUadeF1Qmyivkn1t+LQrrc+7NlG1etlfxKMEZtl7zXOstFheCJPj8m35ecl3nmo3eqNMj0n+p8dGT5DflRRX4p4Yy9+a8sydIGw8DjIgsghTSe/FY/YODxRmDW45aV9UYnJPEPwMkvlBIpZSX8Dggxra5v8L1pJIikPfp/P5NvqqKsJQOS1B/FrzfblIsR9xS9su4PK/ICeS8nCGdVze2oqHL66C/QYC7WYR4uTDDywEOSIMiPsBEsc6iKtiiJ02ieMI5BYJRU5hso1Tb0YorAQ0ejog2GyvSKUvEEBkJI1gajU7xIGEzwDM6lZG5lfPaPQWH6+UFihRAF5q4CWTEGgrhyx4t5btIYMlfLVWW/QcVubmPbmkRgRLTGKqIhMz8Zi4P4Xd97pXfclTJm7onDBSwYkcAEghweMCgrd+g==;XxUwZ+cz+ZuOdyW9oKTIdA=="
+secured: "lnj6DcMPPqeQjx+rfjHv3SJsho8yMGSpRW6Aic1PJYUpV9g51QmbxSBpHHbovFw8ikljPHglVtr+ghS0PoM63dqqpaUKKnvDAEsrZkfoj5/HcwX5UtW+3S/0XHx58H7OfYPSAEPfEJdgWv74YaTBlqHwXCRllmQgGVkjXjymvmKjUPre3QS6PticnoHHZF8kt3wWirREQ2ESO5kXXUKCUWkjw6z31SuQp+0d7LvSwPICj1MBR+dLvCUOiiAEFj+je9Yn1Bfq8SNsh9eiS1thaSJtgUOXwJZGYjjgxEWnXGYAMYrD9ni8c2nKrNF1hwdxdJ4xFdwieTlU47F6pgNhwVG0xBPyWB1PvY1Xc7LGaWJ3Syak8sYy0NYTcR5GC+3xUetjD+XfnwtrGvM00iLp49CVhFfsXud4WgloUEsG8zI9/T7ikP99wioFSk/0ggz3l829mQCdnjTe6+iIFylLZN+d6iJWUUrhKC/Z9L35a5Qg/durmeDkliy696yLVULBzju9tB9nsap0/OCbENBMzw==;4jvUQdiof2WU8AmGfHVNuQ=="
 ---
 

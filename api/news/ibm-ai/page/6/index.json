@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-09-ibm-brings-back-watson-as-ai-heats-up.md",
+      "title": "IBM brings back Watson as AI heats up",
+      "excerpt": "IBM has unveiled WatsonX, the next generation of the company's AI system. Matthias Balk/picture alliance via Getty Images Watson, the artificial intelligence created by IBM more than a decade ago, is ready for its encore as interest in artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/",
+      "originalUrl": "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1039870520-e1683644169196.jpg?w=840",
+          "width": 840,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/09/ibm-brings-back-watson-ai/amp/",
+      "publishedDateTime": "2023-05-09T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai-upgrade.md",
       "title": "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade",
       "excerpt": "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir",
@@ -1369,57 +1421,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-21T07:13:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-the-cfo-at-the-forefront-of-innovation.md",
-      "title": "The CFO: at the forefront of innovation",
-      "excerpt": "Historically, the Chief Financial Officer (CFO) role had been strictly focused on accounting for financial information. These days, there&#8217;s a need &#8212; and even some pressure &#8212; for CFOs to evolve their scope and influence the innovation agenda within their enterprises. For starters, they",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
-      "originalUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Screenshot-2023-04-20-at-5.45.24-PM.png",
-          "width": 1940,
-          "height": 1170,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

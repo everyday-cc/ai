@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/2023/07/12/1076168/the-download-b
 webUrl: "https://www.technologyreview.com/2023/07/12/1076168/the-download-bill-gates-isnt-scared-of-ai-and-net-zero-shipping-goals/"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "The Download: cleaning up shipping, and Elon Musk’s new AI startup"
+    excerpt: "1 Elon Musk has unveiled his new startup, xAI But his chances of overtaking OpenAI any time soon are slim. ( Wired $) + The new company will rely on Tesla for a lot of its resources. ( WP $) + Anthropic’s new chatbot is here. ( The Guardian)"
+    publishedDateTime: 2023-07-13T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/13/1076194/the-download-cleaning-up-shipping-and-elon-musks-new-ai-startup/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
   - title: "The Download: China’s semiconductor fightback, and New York’s controversial AI law"
     excerpt: "On July 3, the Chinese Ministry of Commerce announced that the export of gallium and germanium, two elements used in producing chips, solar panels, and fiber optics, will soon be heavily restricted. Exports of the materials will need to be approved by the government, and Western companies that rely on them could have a hard time securing a supply."
     publishedDateTime: 2023-07-10T12:10:00Z

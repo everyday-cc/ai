@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-13-report-robots-with-artificial-intelligence-might-offer-real-human-companionship.md",
-      "title": "Report: Robots with artificial intelligence might offer real human companionship",
-      "excerpt": "Companion robots paired with artificial intelligence could one day help alleviate loneliness among isolated people, according to new research published Wednesday.",
+      "path": "_news/2023-07-13-michigan-robotics-smart-40-successfully-completes-phase-1-commissioning.md",
+      "title": "Michigan Robotics SMART 4.0 Successfully Completes Phase 1 Commissioning",
+      "excerpt": "ANN ARBOR, MI / ACCESSWIRE / July 13, 2023 / The University of Michigan and Applied Dynamics International (ADI) are pleased to announce the",
       "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
-      "originalUrl": "https://www.upi.com/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/michigan-robotics-smart-4-0-successfully-completes-phase-1-commissioning-1032445075",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/michigan-robotics-smart-4-0-successfully-completes-phase-1-commissioning-1032445075",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/5821689194493/2023/1/1acca51c47c52ff10817f3b95463593d/v1.5/Report-Robots-with-artificial-intelligence-might-offer-real-human-companionship.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.accesswire.com/users/newswire/images/767472/ce19b10d890832abfcc71a73bf3f.jpg",
+          "width": 697,
+          "height": 465,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
-      "publishedDateTime": "2023-07-12T14:12:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T07:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-could-ai-powered-robot-companions-combat-human-loneliness.md",
+      "title": "Could AI-powered robot 'companions' combat human loneliness?",
+      "excerpt": "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-19.jpg",
+          "width": 2880,
+          "height": 2243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
+      "publishedDateTime": "2023-07-13T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +92,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -543,7 +595,7 @@
       "originalUrl": "https://www.techguide.com.au/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1299,49 +1351,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-robot-can-detect-gas-pipe-leaks.md",
-      "title": "Robot Can Detect Gas Pipe Leaks",
-      "excerpt": "Aging, failing underground pipes carrying natural gas can be notoriously difficult to troubleshoot. Now, a self-propelled robot developed by MIT researchers promises to detect leaks quickly and accurately. The most recent gas pipe explosion happened in New ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/robot-can-detect-gas-pipe-leaks",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/robot-can-detect-gas-pipe-leaks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/GasLeakRobot-2.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

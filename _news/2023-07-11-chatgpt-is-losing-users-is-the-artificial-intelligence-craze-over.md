@@ -102,19 +102,69 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk launches new AI start-up to rival ChatGPT"
-    excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
-    publishedDateTime: 2023-07-13T06:50:00Z
-    webUrl: "https://www.unilad.com/technology/news/elon-musk-ai-start-up-chatgpt-rival-567258-20230713"
+  - title: "Meta set to release a commercial AI model like Bard and ChatGPT"
+    excerpt: "Elon Musk, in a separate development, has recently launched a new AI company named xAI, with a mission to understand the true nature of the universe. The xAI includes members with prior experience at prominent AI organizations such as Microsoft Research,"
+    publishedDateTime: 2023-07-13T14:25:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
     type: article
     provider:
-      name: unilad
-      domain: unilad.com
-    quality: 39
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
     images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/blt949ea8e16e463049/blt56b009cc86ae0881/64af9bde4e4310fc8ce7eba7/eloai.png"
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/ai-freepik-1689257776.jpg"
+        width: 360
+        height: 202
+        isCached: true
+  - title: "Meta to release commercial AI model like ChatGPT, Bard"
+    excerpt: "This is in contrast to competitors such as OpenAI, whose latest model GPT-4 is a so-called black box, meaning that the data and code used to build the model are not accessible to third parties."
+    publishedDateTime: 2023-07-13T14:31:00Z
+    webUrl: "https://www.thestatesman.com/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard-1503200144.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard-1503200144.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard-1503200144.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 59
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2023/02/9821ae2f64fe1e0dfea0fe0c41b9015b-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Setapp introduces a ChatGPT assistant & other AI tools into its service"
+    excerpt: "App subscription service Setapp has introduced new features powered by artificial intelligence, including an assistant, better search, and a new toolkit collection."
+    publishedDateTime: 2023-07-13T14:14:00Z
+    webUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service"
+    ampWebUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/55375-112485-setapp-xl.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The FTC Is Investigating ChatGPT, the First Major Regulatory Hurdle for AI"
+    excerpt: "The FTC is examining whether OpenAI's chatbot has provided false information about individuals and whether it has leaked private personal data."
+    publishedDateTime: 2023-07-13T15:38:00Z
+    webUrl: "https://www.barrons.com/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 55
+    images:
+      - url: "https://images.barrons.com/im-816486/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "LGBTQ+ consumers skeptical AI like ChatGPT will improve their financial experiences, Achieve survey finds"
     excerpt: "Wide-ranging survey on the personal finance experiences and challenges of the LGBTQ+ community reveals access to financial opportunities is"
@@ -125,6 +175,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "Elon Musk launches new AI start-up to rival ChatGPT"
+    excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
+    publishedDateTime: 2023-07-13T06:39:00Z
+    webUrl: "https://www.unilad.com/technology/news/elon-musk-ai-start-up-chatgpt-rival-825619-20230713"
+    type: article
+    provider:
+      name: unilad
+      domain: unilad.com
+    quality: 19
+  - title: "ChatGPT maker investigated by US regulators over AI risks"
+    excerpt: "The US Federal Trade Commission has launched a wide-ranging investigation into ChatGPT maker OpenAI, as Washington’s top antitrust regulator turns its attention to artificial intelligence."
+    publishedDateTime: 2023-07-13T15:48:00Z
+    webUrl: "https://www.ft.com/content/8ce04d67-069b-4c9d-91bf-11649f5adc74"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "6wdGlmh4O53tkSUsOlkPCiNc2lFKWyyrlmWPQ8OmidLD0a5PET0BGow2APCK60OnwiQUpovaWGTUr5ZgfhUiE21mui6bBj3Zd3PP1rREBRi4WZBDo1jPTtwVtiall6du+o7oZ97iLW6gbTgE/wChTnqsy95oqTm32qIjTmNF9En7j+oNG8TnET3B8OsB3yTEp3TV0ZKUwLxnCrM30RSOEf863Uq8M0J8py4EtLI2uCB9dw8fXILfEdtoARqu4k3jOMKeuNuJFsNjJpgTQXBdXZPx8hIavgQPBnzDkpuVuFOUUM3L1WAm24BRF9y7kS43KazEn/F8fCe1R153uKX/MYbG4jWKWulxji4e4QJba/wi1z4WadSA7wwdoTrKa1dgZurYyzRpAv7jv0lIVknqVBpzz6Q6pPMpMS5Dwkfvrp8tNXmgS10tUIkmc88xBz7FSQkIRgIV7fZQDgWvIefQJ9uRdHdTjGd+XMo+4lxcFrHjtDOIMFrMTy00L/qxeeP5e54EL26mDIs64ahRY848Hw==;uKwsYxtnkMFsZwKfdMxvKg=="
 ---

@@ -2,6 +2,384 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-05-08-china-is-developing-ai-without-us-chips-heres-how.md",
+      "title": "China is developing AI without US chips: Here's how",
+      "excerpt": "The report revealed that local Chinese companies are working on ways to develop AI with weaker semiconductors along with combinations of chips to stop the reliance on one type of hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
+      "originalUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/945d6562-7cc8-4c63-9ad5-3bc1eacd921a.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
+      "publishedDateTime": "2023-05-08T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers.md",
+      "title": "MakeMyTrip Adds AI Voice Chat to Lure More India Travelers",
+      "excerpt": "India’s largest online travel-booking service is rolling out a voice chat service powered by artificial intelligence, becoming the country’s first major company to harness recent advances in generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVQ2b33ZQBzI/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move.md",
+      "title": "Baidu to Unveil Own Smartphone Next Week in Surprise AI Move",
+      "excerpt": "The Beijing-based internet firm’s Xiaodu unit, similar to Amazon.com Inc. ’s Alexa division, will unveil its first smartphone product next week, a spokesperson said. Xiaodu has developed smart speakers running Baidu’s own DuerOS software, which the company describes as a conversational artificial intelligence system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-08/baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/baidu-to-unveil-own-smartphone-next-week-in-surprise-ai-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3HYc4yxYT1g/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-best-speech-to-text-apps-of-2023.md",
+      "title": "Best speech-to-text apps of 2023",
+      "excerpt": "However, speech-to-text is moving more and more into the mainstream as office work can now routinely be completed more simply and easily by using voce-recognition software, rather than having to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
+      "originalUrl": "https://www.techradar.com/news/best-speech-to-text-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-we-know-that-ai-is-sexist-and-racist-is-it-also-ageist-resisting-the-allure-of-techno-solutionism-in-aged-care-provision.md",
+      "title": "We know that AI is sexist and racist — is it also ageist? Resisting the allure of techno-solutionism in aged-care provision",
+      "excerpt": "AI should be implemented in aged care as part ... The ABC’s Religion and Ethics portal is home to religious reporting & analysis, ethical discussion & philosophical discovery, and inspiring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/religion/ai-is-sexist-and-racist-but-is-it-also-ageist/102316098",
+      "originalUrl": "https://www.abc.net.au/religion/ai-is-sexist-and-racist-but-is-it-also-ageist/102316098",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/6eef0016680bc7720af095e9fd8b5bbf?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+          "width": 862,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity-in-exciting-and-frightening-ways.md",
+      "title": "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways",
+      "excerpt": "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "originalUrl": "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "publishedDateTime": "2023-05-07T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-the-geopolitics-of-ai-chips-will-define-the-future-of-ai.md",
+      "title": "The Geopolitics Of AI Chips Will Define The Future Of AI",
+      "excerpt": "The most important and widely used AI chip in the world today, Nvidia’s A100 GPU, has transistors that are 7 nanometers wide. Google’s latest tensor processing unit (TPU)—the most credible alternative to Nvidia GPUs— likewise uses 7-nanometer technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645743bb6563f17e999c02fa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/",
+      "publishedDateTime": "2023-05-07T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-5g-mobile-subscriptions-to-rise-to-55-billion-in-2027.md",
+      "title": "5G mobile subscriptions to rise to 5.5 billion in 2027",
+      "excerpt": "G mobile subscriptions is expected to rise from 1.7 billion at the end of 2022 to 5.5 billion in 2027 occupying a total share of 48%, according to data and analytics company GlobalData. GlobalData’s 5G - Thematic Report reveals 5G penetration will rise from 53% at the end of 2022 to 162% in the",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/your-it-news/5g/5g-mobile-subscriptions-to-rise-to-5-5-billion-in-2027.html",
+      "originalUrl": "https://itwire.com/your-it-news/5g/5g-mobile-subscriptions-to-rise-to-5-5-billion-in-2027.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/550ff7c44167a7738f6e2181f116ebe2_L.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-the-jobs-ai-wont-take-yet.md",
       "title": "The jobs AI won't take yet",
       "excerpt": "Since the start of the industrial revolution ... And that could be dire, says Martin Ford, author of Rule of the Robots: How Artificial Intelligence Will Transform Everything. “It's not just that this would happen to individuals, but it could be pretty ...",
@@ -802,392 +1180,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-buffett-and-munger-talk-ai-robotics-and-more-at-berkshire-hathaways-annual-meeting.md",
-      "title": "Buffett and Munger Talk AI, Robotics, and More at Berkshire Hathaway's Annual Meeting",
-      "excerpt": "There is no denying that Pandora's box has been opened for AI. A UBS study noted that OpenAI's ChatGPT reached over 100 million monthly active users (MAU) in January 2023 after launching on Nov. 30, 2022, making it the fastest application to cross the 100 million MAU mark. It then passed 1 billion monthly page visits to its website in February.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/06/buffett-munger-ai-robotics-berkshire-meeting-2023/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/06/buffett-munger-ai-robotics-berkshire-meeting-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/731359/berkshire-hathaway-ceo-warren-buffett.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-3-robotics-stocks-to-buy-for-futuristic-growth-potential.md",
-      "title": "3 Robotics Stocks to Buy for Futuristic Growth Potential",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The robot revolution is well underway and only growing in size and scope.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-buy-for-futuristic-growth-potential-1032299072",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-buy-for-futuristic-growth-potential-1032299072",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos.md",
-      "title": "Google Reportedly Upgrading Search With AI Chatbot, TikTok Videos",
-      "excerpt": "According to the Wall Street Journal, the search engine is planning to add AI prompts that will pop up in response to queries that can’t be easily answered by traditional web results, as well as swipe-through video clips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos",
-      "originalUrl": "https://www.pcmag.com/news/google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01rDZGzDgqaHe7cTh5kJj9Z-1.fit_lim.size_1200x630.v1683393323.jpg",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems.md",
-      "title": "Good bot, bad bot: Using AI and ML to solve data quality problems",
-      "excerpt": "Bots (both good and bad) will soon constitute an even larger share of internet traffic. How to fight them with AI and ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/",
-      "originalUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_a_good_chatbot_and_a_bad_chatbot._Colorful_futuristic_te_ed17e50e-3d48-4de3-b5d3-f1f04adb84f4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/amp/",
-      "publishedDateTime": "2023-05-06T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-the-best-way-to-avoid-a-down-round-is-to-found-an-ai-startup.md",
-      "title": "The best way to avoid a down round is to found an AI startup",
-      "excerpt": "In fact, new data from Carta, which provides cap table management and other services, indicates that AI-focused startups are outperforming their larger peer group at both the seed and Series A stage.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/06/ai-startups-q1-investments/",
-      "originalUrl": "https://techcrunch.com/2023/05/06/ai-startups-q1-investments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-america-forgot-about-ibm-watson-is-chatgpt-next.md",
-      "title": "America Forgot About IBM Watson. Is ChatGPT Next?",
-      "excerpt": "In early 2011, Ken Jennings looked like humanity’s last hope. Watson, an artificial intelligence created by the tech giant IBM, had picked off lesser Jeopardy players before the show’s all ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/rM09fLf4J3qOZe6sbPJlqlPYlfI=/0x102:4792x2598/1200x625/media/img/mt/2023/05/IBM_Watson_/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-worlds-top-ai-researchers-debate-the-technologys-next-steps.md",
-      "title": "World’s Top AI Researchers Debate the Technology’s Next Steps",
-      "excerpt": "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849",
-      "originalUrl": "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-777121/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-buffett-shares-good-news-on-profits-ai-thoughts-at-meeting.md",
-      "title": "Buffett shares good news on profits, AI thoughts at meeting",
-      "excerpt": "Warren Buffett's company said its first-quarter profits soared along with the paper value of its investment portfolio",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_125f7fd2fc2830d74fb8f246727fedcd_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
-      "publishedDateTime": "2023-05-06T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -68,16 +68,7 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "San Francisco group placing traffic cones on self-driving cars to disable them"
-    excerpt: "The Safe Street Rebels, known for advocating for pedestrian safety and public transit usage, are calling their protest the \"Week of Cone.\""
-    publishedDateTime: 2023-07-08T19:31:00Z
-    webUrl: "https://abc7.com/san-francisco-driverless-car-cones-sf-robotaxi-waymo-cruise/13478843/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 0
 
-secured: "EbJROJCLyb4diwNfeyE/FggzX61Nr8tdnGZEiPT42lBkGOikT/2otyIZyM9CGXD8XT+0zK2OKbxxhPRZgoyM9BvmEe0zYexjaD6vx9mR+AfL18Z71s+/cqoWAoQwufhBxDRghE1uDJLzIbAZ0umd0hgmjkGmu8xG8YnpqTg5KP1S+p2vQb69d8K7IkZl67cX7DUpnft9G2Wwg6CJsHA2ygWm3lAPjT04mvDEOPcPYXC6SzhQWJ+hoomQzFtB8SDG+fAR1LShvkTTDEKdTJArPuafT3EcaTeGh3YvS2UaU4uvRaHsQw4ty4unhU93m7Om7ma3Ns3V4jbL88MjzIzl77EYzbj7hQiHIexvepEf0os=;Tmk/77zzM9l68/EJDBQoAg=="
+secured: "kJA/k0Pocql8/RU4jnpJLv73b03n5KBUrIRPJP5ni/RTKQ5a0CulTWmUDrb4Q/N+ng2sjYBX0vZu3I6QvC3EnoZXSGi/RYQ7ebslD+kpVuH4Zdr/f8y+wm6+H8EBnNYLGTwRFbjv4jdgvQ/k9+LEszS9nPQmldahKTgukntehm4814CcKa/gzNPwWH4me6OcjTL0Fl4+aGQbyXfWIlOpqDmIzXGff93YClbWwy0eRvKKIvZG1geUJNNE39CrdN/jP+FNkksQ02wS6Jd/+oL5xWz/UI5JPLMsIsiOjAHQk0gdMOdPgc6AP66MyM4sKUfqouW7/URuA9ppFuLU7CzFm0jqJrbnf/XhTGJpYGfjIrTaxC8xN+cX6OWxFSQkRvNh9QhHJ6MOJbgP+gOooSmxg8lC3V8xUbfDRueXUA5v7hQd+ezQZfgzXKQnVBaYHwz+kbOD5hf66MN2An0JJI57vg5VJ1copE2bRp60Ysdmx9cxtmQbjHsELIOEMmW2oZwFQpSHN+TDkuDNCf+iCeUZ+A==;NvqE/pic7fi86awhfapuZA=="
 ---
 
