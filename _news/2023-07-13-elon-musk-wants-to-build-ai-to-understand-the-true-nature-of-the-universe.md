@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-und
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/"
 type: article
 quality: 85
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       name: Fortune
       domain: fortune.com
     quality: 37
+  - title: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT"
+    excerpt: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT - SiliconANGLE"
+    publishedDateTime: 2023-07-13T00:30:00Z
+    webUrl: "https://siliconangle.com/2023/07/12/elon-musk-leading-new-ai-startup-aims-understand-universe-compete-chatgpt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/muskhappy.jpg"
+        width: 763
+        height: 600
+        isCached: true
   - title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
     excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
     publishedDateTime: 2023-07-12T18:37:00Z

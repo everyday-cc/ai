@@ -63,15 +63,6 @@ related:
         width: 1110
         height: 400
         isCached: true
-  - title: "Illinois motorcycle group opposed to self-driving cars and upcoming testing"
-    excerpt: "An Illinois motorcycle group is raising a red flag over planned testing of self-driving cars this summer. Tesla is hiring temporary test drivers around the country, including in Elgin, who will be paid to drive their vehicles and report on their performance."
-    publishedDateTime: 2023-07-12T19:05:00Z
-    webUrl: "https://www.thecentersquare.com/illinois/article_167f76c2-20e4-11ee-b1e8-ebcb0483dd3d.html"
-    type: article
-    provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 2
   - title: "San Francisco group placing traffic cones on self-driving cars to disable them"
     excerpt: "The Safe Street Rebels, known for advocating for pedestrian safety and public transit usage, are calling their protest the \"Week of Cone.\""
     publishedDateTime: 2023-07-08T19:31:00Z
@@ -80,15 +71,6 @@ related:
     provider:
       name: ABC7
       domain: abc7.com
-    quality: 0
-  - title: "Annoyed Residents Disabling Self-Driving Cars by Placing Traffic Cones on Their Hoods"
-    excerpt: "By placing traffic cones on self-driving cars' hoods, activists are turning them into useless hunks of metal and plastic."
-    publishedDateTime: 2023-07-11T19:44:00Z
-    webUrl: "https://futurism.com/the-byte/trapping-self-driving-cars-traffic-cones"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
     quality: 0
 
 secured: "TRd3ckFfKw4kfCmG8Hy6jnctUzabK+v3+vUmhmZldvnoED2xBtvOUnvhj0suD8fdle0fJoqxdqc8DA1Psm8huZ7I8gS58rIUyFqDIuPyKK2GU2ohBWO1nGLTkswIF7OW42LTXB1/8bGRYoWsNaz/Ndac6hocf8YNXXB4mEa90Qsol21fBD3zfb6p7kaxRn4iGwP9m97RBJPpYSIBGEi704Tgg1NdaakcStj/jhHFaSzg//KSwRumSzgIuJH3bPOXfbXRghW7FqP0IFaIxbHxvk86koi3Op3cmu7I6GGdiGTb6zDV6qIN88IrT0s2Q/+4qIDXOVbQeSewJ+Q8nyvXjX/gzLu9vPANco510dklqW3QAL3LSx1rPFqFz+6R/Tc2G7u51kDXW1Y8ByVpUo5hpinALakv7JcopMzMDyr4uDzUx7cvRguJ6c27R8vWq+PSML0hSqqeLfNU0aH8A35+PMADLWgMUafDyFJBAPk6i+3Dgg+ZQaMUzXW0710Gr5JYKd7RZ7KAbXBYUECCLiEMNA==;jJf9FRmRVj11719hcsI9aA=="

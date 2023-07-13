@@ -101,6 +101,20 @@ related:
       name: Fortune
       domain: fortune.com
     quality: 37
+  - title: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT"
+    excerpt: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT - SiliconANGLE"
+    publishedDateTime: 2023-07-13T00:30:00Z
+    webUrl: "https://siliconangle.com/2023/07/12/elon-musk-leading-new-ai-startup-aims-understand-universe-compete-chatgpt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/muskhappy.jpg"
+        width: 763
+        height: 600
+        isCached: true
   - title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
     excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
     publishedDateTime: 2023-07-12T18:37:00Z
@@ -111,6 +125,6 @@ related:
       domain: nydailynews.com
     quality: 11
 
-secured: "wngHigaGEC4y2vhwrVGK0SCIDTX6mY9cDrva1m6xw8vtcpiHH/P4wV4Aszq+bQTdaqyklXSej8VaahP9ZP+sUJKfCYF84b5LoLreIU63gsjYXr2YgOQtaa0qZWioFEnVFYpaFEskDBFxIINmBQ+aBs7SBswu+tokTQy7w6JrBPTuBqb5Bixay8L4MaBcClD9QOblsUTfgugixLbsmdVJCmvWYF3VSqwxqpkyHYiiYJH1RI2tzVCqW9sjcGuRKjgI5Jzj6dZyFtHupJttHGIoXf8muc69riuHzhdP3G9isVI0F9LCmeeFsG+49cm8/RGBDKF5i2yIdrbQAkAixolTXfAri/NPFRAhQCJeAFrHqq8=;bh1lRCj0/BsUktcs3ABb0A=="
+secured: "Vzoi3UEEiCOQGL9h7etsbYaVPu0lb4tdT6MsAOcY1SnCJmPn1W71xYdYq4FQ3I6zvszHgimWWrpHAdWS9dh/gVYw591exEKdrO8zq+KGexMUDiF5PcMHNLH1a9ujCHgulSDzD1JTnSQuk2FGdWCj8+HXdvePtY+J1P/CPoKf9gSghZTjGvkqYXHHdFebmMJ5/U7siIVXqXQaBa0+idQJg+Kt9HyfY/PMZemKEfpr6cfZPsa/Bf059iohwFYo/5+9UmuPgslmE3ZAck6OsKzQIq/QGbNxWQ2QM7zQlrGnMYjPlw6VH3+mmvzFEplStK6TVpPlcz03RxGcapiTMddOP+zJHHESxsQaXgDHgYeWVsuNWiXHGysymaEaFWIyWlMUPEmUCT4zlCZx9bzenKESL0Pf+7MattTdbRgPjBAAQkNt5vC01Hljw5SKJfl5eIFIEMkaxHtyBAQfukCw+a95lxmXfp1Y+iv/cU0aYMTbNXhMem2OutFkFeMYCV9kfO2Sg+zLy0QqysQTN+H6Oq2ZXQ==;Nkqzd0UrIj5WUPmCUbNA6Q=="
 ---
 

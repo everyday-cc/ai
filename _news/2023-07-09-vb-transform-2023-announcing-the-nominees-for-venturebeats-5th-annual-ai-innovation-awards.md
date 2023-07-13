@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Announcing the winners of VentureBeat’s 5th Annual Women in AI awards"
+    excerpt: "The winners were presented with the awards by VentureBeat’s Sharon Goldman, senior AI writer, and Gina Joseph, chief strategy officer. Joseph emphasized the importance of the aw"
+    publishedDateTime: 2023-07-13T00:30:00Z
+    webUrl: "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/VBDM0091.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "aHkwq9iAPbgO5kUJPZjbhIC/hkYaCChADpt/aWc+3N4uodPSOHYUlUXc2tjPyj/Y2qusSL1Z8WJ79Hyf8W+VfgD6LGgeU4h7t/mhpCpu306S2k0tZAUZFvDStufy5cXS7MfZd6tcwvSbi7LjGx0sz0cARKYGYqzno0bmodDSdaKcQdQMGuEM9xi0Q9MpTYb18SSFP2M7RRZekoIDRkPtF6hCxyOYk7QPtZtD8Gw0/29KOJgkLDotEvlA9suNl55YyUlm9Kfrn3TU8O9zqljPx/Rc3xpFH8Rcvb5kQpffOqeaEcIms2zxDXnl6dVOpyzKMyKrZjmLuwXAhTX1ixEeEWuux+izXcEm5/QLpj59mZ4=;sZ8aNLzKmwJK9EpqbR48yQ=="
 ---

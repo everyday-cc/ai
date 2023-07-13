@@ -7,8 +7,8 @@ originalUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-2023
 webUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: LADbible
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots say they won't steal jobs, rebel against humans"
-    excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans' jobs or rebel against us."
-    publishedDateTime: 2023-07-08T08:02:00Z
-    webUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906"
-    ampWebUrl: "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 74
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/08/eaai-robtt.jpg"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "AI robot asked 'will you rebel against humans'?"
-    excerpt: "A number of humanoid robots were asked questions at the AI For Good UN summit, including whether they would rebel against their creators. The field of Artificial Intelligence has seen significant developments in recent years, but with it there have been concerns over its expanding abilities and how to regulate it."
-    publishedDateTime: 2023-07-08T08:16:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/technology-66141835"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 54
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/33C4/production/_130325231_p0fzqs3d.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "No plan to steal jobs or rebel against humans, says robots"
     excerpt: "At an artificial intelligence (AI) summit in Switzerland, nine of the most advanced humanoid robots stated they have no plans to steal the jobs of humans or rebel against their creators but desire to make the world their playground."
     publishedDateTime: 2023-07-10T15:26:00Z
@@ -79,20 +49,6 @@ related:
       - url: "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2023/07/question-for-robot-reuters.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "AI Robot Gives A Side-Eye, Snarky Response When Asked If It Will Rebel Against Humans"
-    excerpt: "An A.I.-powered robot's response to the question if it would go against humans has drawn mixed reactions from the attendees of a U.N. summit."
-    publishedDateTime: 2023-07-11T05:25:00Z
-    webUrl: "https://www.ibtimes.com/ai-robot-gives-side-eye-snarky-response-when-asked-if-it-will-rebel-against-humans-3704406"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 47
-    images:
-      - url: "https://d.ibtimes.com/en/full/4471404/humanoid-ai-robot-ameca-engineered-arts-attended-un-artificial-intelligence-summit-geneva.jpg"
-        width: 768
-        height: 511
         isCached: true
   - title: "Robots say they have no plans to steal jobs or rebel against humans"
     excerpt: "nine of the most advanced humanoid robots have told an artificial intelligence summit in Geneva. In what was described as “the world’s first human-robot press conference”, one robot, Sophia, said humanoid robots had the potential to lead with “a ..."

@@ -41,6 +41,20 @@ related:
         width: 1400
         height: 884
         isCached: true
+  - title: "IBM considers in-house AI chip to save cost on operating its Watsonx"
+    excerpt: "IBM said it is considering utilizing its in-house AI chip this time around, which could help lower the operating cost of the platform."
+    publishedDateTime: 2023-07-13T00:15:00Z
+    webUrl: "https://techwireasia.com/2023/07/ai-chip-by-ibm-could-save-operating-costs-for-watsonx/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 71
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_2301582847-1-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "IBM’s watsonx begins its official rollout"
     excerpt: "IBM has announced that watsonx is generally available and has begun its rollout to enterprises. Watsonx is an AI and data platform that was first unveiled by IBM at the IBM Think conference in May. Watsonx consists of three parts: watsonx.ai, which is a ..."
     publishedDateTime: 2023-07-11T20:06:00Z
@@ -79,6 +93,6 @@ related:
       domain: techradar.com
     quality: 49
 
-secured: "kyBdk0DORcQ+mP0tMtj1vVHV89Any+0TMcTcpDvA3Hhf4CrmJHePElSdD7pHo1AG2BqMLIjst1Pc1N0zFg6V32/otc0X4oGHiXmbPE0PbGKV8hnIQlFQLXA4XdPxs+fGsge3CQ1oz2knUZyZtF1LYGl+SF58qTJsA6fAqTmNzEthoRY33sm5/3wWZ0AzjBpkoYRogW+KlHE7Naa46veGjaztsAzkA3c3N9XoaWz4X1eeJXgJ7SoL+GwL9kaba0jbT7Bowaca77k33x17gHjV05Gy5q8TiggLO+BWziX1fj47WeI6b1oLaHY6UXEhDR5+1WprR7I4xQDzhV1BMnV3G7g9Vv7bStc47VBVsM7IxB4=;SyQr4vHHKJnAKJLof1/H3w=="
+secured: "6+D6WIuqh6LO8cDoNezM2OCXSX/QH8n66BtnmEs1iOgh95mDl2bCHMXye6YHEcpAvq9lxDJwl+zhPJMtETpVwBnJsEfHzNL1olh8KiViu0zsMM5l573UYQttenLSoTaRa6/T6q1A/a8P+ZUR2R52bid6DtkSnY0DZp0aVlmugiJDug1+n9dGvfrlohGp207BqBMReM1W9ezyOGlYtLD8ftfbb/Dv6U9M5/VeZVD4V1L2BbfqsGipQQBZ8fMUigQmgHOIx1j87cQjWAtvsAreFaUMrxsFg/sZQyZpnlPVut15wm0x8KU4VH/Is+HPRpIhAAUU1footDmVlAp9hLP41/ASBEM1/ougO2z0P4z12IN/rUwjHtbMmPrr10qP6JDJxCVM9BtrvG7jtXUB0PbCA/JbcXEdz1ae8zntLHLZrb0AqWcGtE5hvfA+CtD1B10YdynE1vw6R0WksJZJqJ3VbCFT//n6I7IlTnXFz60e0PrsIFw3FcGlkkRN3g2jQSTEUBAKWbwoot9d+6Pa1VLzMg==;WnGybvRowTNa8qnUPcQZhQ=="
 ---
 

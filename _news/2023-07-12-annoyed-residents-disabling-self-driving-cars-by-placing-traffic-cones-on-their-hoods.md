@@ -19,49 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Why are people putting traffic cones on self-driving cars in San Francisco?"
-    excerpt: "Self-driving cars have become a consistent presence on the streets of San Francisco, but not everyone is happy about it. A group of protesters called Safe Street Rebel has taken to stopping the vehicles in their tracks by placing orange traffic cones on their hoods,"
-    publishedDateTime: 2023-07-12T21:59:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco?_amp=true"
+  - title: "U.S. to decide on GM request to deploy self-driving cars"
+    excerpt: "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls."
+    publishedDateTime: 2023-07-12T19:59:00Z
+    webUrl: "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 42
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/0605953/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F44%2Fcf%2Ffc5dca444eab88d7941e527fcb8e%2Ftraffic-cone.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Can AI save commercial real estate in San Francisco?"
-    excerpt: "When MosaicML, a generative AI platform company, decided to upgrade its office space, its CEO and co-founder, Naveen Rao, was set on San Francisco, even though he lives in Southern California. “Everyone is talking about doom and gloom,"
-    publishedDateTime: 2023-07-10T14:00:00Z
-    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/10/can-ai-save-commercial-real-estate-in-san-francisco/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 39
-    images:
-      - url: "https://krdo.b-cdn.net/2023/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xYTI0NjU0ODZmZjUyYTExZWYzNjM1ZmRhYjAzMjkyZg-L19wYWdlcy9oXzAzYjdlY2I3ZmI3NDJkZmVjNzRkY2UzODgyM2RjYmM4-300.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Upset Citizens Attempt to Impede Self-Driving Cars With Orange Cones; Waymo & Cruise Seem to Confirm this Works"
-    excerpt: "Whether they're pranksters or protesters, citizens say they are stopping automated vehicles by placing cones on the hood of the car. Waymo & Cruise threaten legal remedy."
-    publishedDateTime: 2023-07-09T18:14:00Z
-    webUrl: "https://hoodline.com/2023/07/upset-citizens-attempt-to-impede-self-driving-cars-with-orange-cones-waymo-cruise-seem-to-confirm-this-works/"
-    type: article
-    provider:
-      name: Hoodline
-      domain: hoodline.com
-    quality: 19
-    images:
-      - url: "https://img.hoodline.com/2023/07/waymo-cone.jpg?max-h=400&w=1110&fit=crop&crop=faces,center"
-        width: 1110
-        height: 400
+      - url: "https://image.cnbcfm.com/api/v1/image/107254059-1686311076798-gettyimages-1497020055-dsc02825_rsqpkpku.jpeg?v=1689198866"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Illinois motorcycle group opposed to self-driving cars and upcoming testing"
     excerpt: "An Illinois motorcycle group is raising a red flag over planned testing of self-driving cars this summer. Tesla is hiring temporary test drivers around the country, including in Elgin, who will be paid to drive their vehicles and report on their performance."
@@ -72,24 +44,6 @@ related:
       name: The Center Square
       domain: thecentersquare.com
     quality: 2
-  - title: "San Francisco group placing traffic cones on self-driving cars to disable them"
-    excerpt: "The Safe Street Rebels, known for advocating for pedestrian safety and public transit usage, are calling their protest the \"Week of Cone.\""
-    publishedDateTime: 2023-07-08T19:31:00Z
-    webUrl: "https://abc7.com/san-francisco-driverless-car-cones-sf-robotaxi-waymo-cruise/13478843/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 0
-  - title: "Anti Self-Driving Activists Are Fighting Back After a Car Caused Several Concerning Collisions"
-    excerpt: "Protestors in San Francisco are interfering with autonomous vehicles as they look to reduce the number of cars on the road."
-    publishedDateTime: 2023-07-11T18:53:00Z
-    webUrl: "https://www.thestreet.com/electric-vehicles/anti-self-driving-activists-are-fighting-back-after-a-car-caused-several-concerning-collisions"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 0
 
 secured: "gWDvssWiCmuOqMImFCH5WGUoK9rRmn5clILWw8yaqLcrF8NhpTF0ImUeX3cx0iklq2etKYAQWrSmuuwa4j6GzE7zQleUdLKi46FI+QAWC2lvetv9HJIyj6GDsGQ8j8Q93rEs6GkfVQv2TN2zhFUA/Rcv2sJhrKzRfhqE0S/K6BrPiphgy2RyXf9vy5uoTN54SR3H7s7pO6pi3sRJQwJB/xcDdzj/yGOCnX3ThhnG9wu4jVY//1w/3cZOUv8sWvQjoRo6rxjczKqLSdEoFKRUf3JdccCvDhAV//f5yFWmjJjAJrmr6j2YCuoeEyIatV8NW8C3oHzbZTYjwylnVa7NlHEIFKDXp4oQjiVVEc2/3Er4hHownjYp2wE6bvzVnifJi+55/UOhpqDfSRvQCG/2DPrdxhqY2hL4MXVoBP0NM07bIJrneIcwoS98ctUanrIU1kuKAiK33IIKvSJ7YMmY7aZOmoE+4iB3kgny/BipquTQ6u915h9Pyc2zlCKrLmsM0q9PNKlVN2MJ80+S5Fardw==;o8HC9wfmV2h2ozBLWhdDpA=="
 ---
