@@ -2,6 +2,314 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-14-this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch.md",
+      "title": "This Week In XR: Musk Launches X.ai, Meta Threads Blasts Off, Roblox VR Launch",
+      "excerpt": "This Week in XR is also a podcast hosted by the author of this column, Ted Schilowitz, Futurist, Paramount Global, and Rony Abovitz, founder of Magic Leap. This week our guest is Shawn Frayne, CEO of 3D monitor LookingGlass. We can be found on Spotify, iTunes, and YouTube.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b0533f306f9dc55aee1981/0x0.jpg?format=jpg&crop=3404,1914,x0,y406,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/amp/",
+      "publishedDateTime": "2023-07-13T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-building-out-generative-ai-models-insights-from-mosaicml.md",
+      "title": "Building out generative AI models: Insights from MosaicML",
+      "excerpt": "MosaicML, which helps enterprises train and deploy LLMs and other gen AI, was just acquired in late June by data lakehouse and AI company Databricks for an incredible $1.3 billion. The startup released its MPT-7B model in May, which cost $200,000 to build.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/making-the-most-of-generative-ai-for-specific-use-cases-insights-from-mosaicml/",
+      "originalUrl": "https://venturebeat.com/ai/making-the-most-of-generative-ai-for-specific-use-cases-insights-from-mosaicml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/TVBM3155-e1689277685916.jpg?fit=750%2C500&#038;strip=all",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-actors-say-hollywood-studios-want-their-ai-replicas-for-free-forever.md",
+      "title": "Actors say Hollywood studios want their AI replicas — for free, forever",
+      "excerpt": "During today’s press conference in which Hollywood actors confirmed that they were going on strike, Duncan Crabtree-Ireland, SAG-AFTRA’s chief negotiator, revealed a proposal from Hollywood studios that sounds ripped right out of a Black Mirror episode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights",
+      "originalUrl": "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/EOBvakgKZaoIGZu_qy6UzPlSD_s=/0x0:1422x750/1200x628/filters:focal(941x379:942x380)/cdn.vox-cdn.com/uploads/chorus_asset/file/24693367/black_mirror_s6.jpeg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-bank-of-america-is-using-ai-and-metaverse-to-train-new-hires.md",
+      "title": "Bank of America Is Using AI and Metaverse to Train New Hires",
+      "excerpt": "When you arrive at Bank of America’s new-employee boot camp at the New York Hilton Midtown, you’ll find a VR headset waiting for you. Slide it on, and you’ll be confronted with an angry customer, frustrated over a mix-up with their account.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivytSQi0mxQc/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how.md",
+      "title": "Most workers want to use generative AI to advance their careers but don't know how",
+      "excerpt": "Out of the respondents in the survey, 54% of workers believe generative AI will advance their careers. 65% believe that generative AI will allow them to focus on more strategic work. Despite the optimistic look, the workers felt like they don't have the right skill set to properly use generative AI or take full advantage of the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "originalUrl": "https://www.zdnet.com/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1f4d5350a413ee7e0b3ef4615bcf2645f1051a85/2023/07/13/1e816a08-2525-4e48-b0d8-8a1f61eee348/gettyimages-1256306440.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "publishedDateTime": "2023-07-13T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-how-ai-startup-runway-is-trying-to-make-content-creation-faster-and-easier-according-to-its-cofounder.md",
+      "title": "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder",
+      "excerpt": "Filmmakers and creators have been using the startup Runway to make video editing more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
+      "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ae71ff8ed31300199e8f90?width=1200&format=jpeg",
+          "width": 480,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-researchers-investigate-ethical-side-of-ai-impacts-on-meaningful-work.md",
       "title": "Researchers investigate ethical side of AI impacts on meaningful work",
       "excerpt": "Artificial intelligence threatens to dramatically change the work we do and how our workplaces operate. Macquarie University researchers examine some vital ethical questions raised by this new technology.",
@@ -148,7 +456,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -200,7 +508,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -251,7 +559,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-bard-is-stepping-up-its-ai-game-with-these-new-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -290,58 +598,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-michigan-robotics-smart-40-successfully-completes-phase-1-commissioning.md",
-      "title": "Michigan Robotics SMART 4.0 Successfully Completes Phase 1 Commissioning",
-      "excerpt": "ANN ARBOR, MI / ACCESSWIRE / July 13, 2023 / The University of Michigan and Applied Dynamics International (ADI) are pleased to announce the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/michigan-robotics-smart-4-0-successfully-completes-phase-1-commissioning-1032445075",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/michigan-robotics-smart-4-0-successfully-completes-phase-1-commissioning-1032445075",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/767472/ce19b10d890832abfcc71a73bf3f.jpg",
-          "width": 697,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -405,7 +661,7 @@
       "originalUrl": "https://www.wsj.com/articles/rising-data-center-costs-linked-to-ai-demands-fc6adc0e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -550,6 +806,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-mit-research-scientist-asks-if-ai-can-become-conscious-elon-musk-says.md",
+      "title": "MIT Research Scientist Asks If AI Can Become Conscious, Elon Musk Says...",
+      "excerpt": "The researcher posted this query in response to the first tweet by Elon Musk's new artificial intelligence startup, xAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373",
+      "originalUrl": "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-06/hhoa66ag_elon-musk-at-viva-technology-conference-paris_625x300_19_June_23.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1",
+      "publishedDateTime": "2023-07-13T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-asking-the-clergy-is-artificial-intelligence-a-help-or-hindrance-to-faith.md",
       "title": "Asking the Clergy: Is artificial intelligence a help or hindrance to faith?",
       "excerpt": "Since the OpenAI ChatGPT program was launched in the fall, it has gone viral, with even a Long Island rabbi using it to “plagiarize” a sermon. This week’s clergy discuss the religious implications of the technology, which uses artificial intelligence (AI) to generate text after a user enters a prompt.",
@@ -643,7 +942,7 @@
       "originalUrl": "https://phys.org/news/2023-07-ai-species-extinction-cascades.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -932,299 +1231,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-amds-ai-chips-could-be-a-multibillion-dollar-opportunity-analyst-says.md",
-      "title": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says",
-      "excerpt": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says. Cowen says investors should overlook any short-term softness in Advanced Micro Devices’s business and",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amd-stock-price-ai-chips-5d261e92",
-      "originalUrl": "https://www.barrons.com/articles/amd-stock-price-ai-chips-5d261e92",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-815626/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-stock-price-ai-chips-5d261e92",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-stock-price-ai-chips-5d261e92",
-      "publishedDateTime": "2023-07-12T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-ai-and-cybersecurity-friends-foes-collaborators.md",
-      "title": "AI and cybersecurity: Friends, foes, collaborators",
-      "excerpt": "Johnson and Johnson CISO Gary Harbison talks the opportunities, risks and fears of AI in cybersecurity at this week's VentureBeat Transform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-collaborators/",
-      "originalUrl": "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-collaborators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/CARR8793-e1689187348855.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-us-to-decide-on-gm-request-to-deploy-self-driving-cars.md",
-      "title": "U.S. to decide on GM request to deploy self-driving cars",
-      "excerpt": "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107254059-1686311076798-gettyimages-1497020055-dsc02825_rsqpkpku.jpeg?v=1689198866",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "publishedDateTime": "2023-07-12T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx.md",
-      "title": "How eBay is using generative AI, computer vision to enhance CX",
-      "excerpt": "By using generative AI throughout its platform, eBay aims to streamline the purchasing process for both buyers and sellers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx/",
-      "originalUrl": "https://venturebeat.com/ai/how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-artificial-intelligence-powers-a-new-era-in-construction.md",
-      "title": "Artificial Intelligence Powers A New Era In Construction",
-      "excerpt": "Exploring the transformative role of Artificial Intelligence in reshaping construction processes, from enhancing operational efficiency to improving on-site safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/",
-      "originalUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aeea4ea7246c2a9be9bcff/0x0.jpg?format=jpg&width=1200",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/",
-      "publishedDateTime": "2023-07-12T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe.md",
-      "title": "Elon Musk wants to build AI to ‘understand the true nature of the universe’",
-      "excerpt": "Twitter CEO Elon Musk is founding an organization, xAI, to build AI to \"understand the true nature of the universe.\"",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
-      "originalUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258742140.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/",
-      "publishedDateTime": "2023-07-12T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

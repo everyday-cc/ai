@@ -82,6 +82,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Elon Musk forms his own artificial intelligence company xAI to compete with OpenAI's ChatGPT"
+    excerpt: "OpenAI, the nonprofit AI research company that released the widely popular AI language model ChatGPT in November 2022, was established in 2015 to advance AI technology for the benefit of humanity, unconstrained by a need to generate a financial return, according an introductory statement on the company's website."
+    publishedDateTime: 2023-07-13T18:20:00Z
+    webUrl: "https://www.houstonchronicle.com/news/houston-texas/trending/article/elon-musk-ai-startup-launch-18198516.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 21
 
 secured: "z5sPbbZjRyHfBqcPSDQWhBrH/gL3oAPec9vyk4N+YrL4DrKdLKE0iPW5509ALVgOIRqs/LTh8BXyfYdf0s8NSqSQjiHFOrfnOagsB+vPU+mSDKZhH4b0WadywSxzcszQKu92gl1u7v1LF/Y+xXdsl8t8UEhDDpEJb+9Ecqmeyjdx59lim6lzABevjONoH17AZPPbX7qRGfAMUmdnoeFTPaNcGxiVc2xyu/L8Mqw8fmtErzpefkG5wD9yZdcdTJU24ilucHtoBDdZrx7LIgQ+A9KQJtM4OdLQGtEs6iMO37eqot05/yF/MoWD3Y0HODDHrnahP1s8iRUC1Pfo9Jn45hEHWrcktSvZmtvbuMWMBCk0MPIzosLZE+RFhZ1T3mDs5jXfGwxjjwOTdY3Q30jWEG3G2p0AdBtsRDtju3Pj9mwrhDIxACrfEOrv5Cy8lkPLXeqwSTys8eJVeu6ZCvOC2fcKsnK6bNHu3CrmWRUUhXKKGjFizs/9UOESvh8NdyDutJyZr82Eumj7bMmiJAzOBQ==;Tsnk7k/mteTS33CUx+a2Mw=="
 ---

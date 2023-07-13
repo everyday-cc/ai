@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI for business: A conversation with IBM Canada's McCann and Attaie"
+  - title: "AI for business: A conversation with IBM Canada’s McCann and Attaie"
     excerpt: "IBM Corp. is no newbie when it comes to artificial intelligence (AI). Its Watson system, which caught the public’s eye in 2011 when it won on the television game show Jeopardy, has been used for everything from chatbots to assisting in medical research to (I kid you not) concocting recipes for poutine."
-    publishedDateTime: 2023-07-10T17:39:00Z
-    webUrl: "https://thestarphoenix.com/technology/ai-for-business-a-conversation-with-ibm-canadas-mccann-and-attaie"
+    publishedDateTime: 2023-07-10T19:42:00Z
+    webUrl: "https://www.itbusiness.ca/news/ai-for-business-a-conversation-with-ibm-canadas-mccann-and-attaie/125520"
     type: article
     provider:
-      name: The StarPhoenix
-      domain: thestarphoenix.com
-    quality: 39
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/07/think-toronto-logo-1024x775-1.jpg"
-        width: 1000
-        height: 750
-        isCached: true
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 19
 
 secured: "OdoDvsy7n3j4vxNtNc9cwpXPyWt7XgXL/Pn0nwoOTb9lJ/NQjTShQj4UuBGGHPb9117MIZfu5qXOORu08f2r01IFpQOdY3ZweWbxhYBGdvs5Nb0j8LERYjQrssNUXJgS68mUjfNMHu4CjYuwl6OGh2Hq7VeWwpaiYe4p/UIZtYRzgR3qxiFqS1tUtFrhxff3rU54ijc+YKf9wismN916HI5M3QTXlg8eGHm/FkgKuFUfkNyboX+H35QWbJL1ArwkopgJmjQYgGuD5eTwF485khn3kX1TODZ1cCW4yJZavM4IXuF7On0zK8VOl5TTU7ZZ6qHwFp1/Fb31BfOzsnzH2MdN6NAUBUbxn+9t9zo1IVReXjZlIRg3mMiGHzNM8v7GZdFLhI3nNWT6rOHrZKHNPYNPKbbgPce0CUjHINE1is4qmErePIzrrxEFsNIUsjpVpCHOxlPWiA90GhOoxKpYQ7YXW9dH5UDvzRFWWh9MKZ4a/yzhbhfrzH8Up8GpqnhsdrW2olSDElfHCxcNHFha5g==;NRO0kkdIWIgMgbE5TzYb8A=="
 ---

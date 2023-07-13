@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodl
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 600
     isCached: true
 
-secured: "aZwOtgg6gU0OcpySmBRcq3oJw7HwVgXruepDOdrmXjnkIX1rmLkeMr3Smp5++GCxmsFikzicOVeeQcQX8qJSD9JsKxfaQjFJqNb/Gow/zSW/Qf12ewp69DiIp5q+nCvxNDwNC5Z1MlubMRavU9HAEgrYsCUqHtTT5FrOBeRtMEDZ/0XdH8CYTgW4o/j5xDHl5rDqjrLrbkOly/qq+EwGIeuM77Wx78OB1zEREOFxl7pKGMy8Drf10/Lm8m6HPu5jI9UiKs6KMR2asIZB3WGeubxc5se6vbj2htanyK9Ka/TpoewxOK2zGZdfVWwJS7TcDhozKURBUrCjPkhg+3aVoP4I4Qe5/BGNQ7Yc7N9NQ+E=;kKc+AoTkh6tf745dIhtkJw=="
+related:
+  - title: "Stable Doodle Uses AI to Transform Your Drawings Into Works of Art"
+    excerpt: "If you have aspirations of being an artist without the talent or perhaps the time to back it up, AI might be able to help. Clipdrop today launched Stable Doodle, which transforms even the most mundane of doodles into a work of art."
+    publishedDateTime: 2023-07-13T20:39:00Z
+    webUrl: "https://www.pcmag.com/news/stable-doodle-uses-ai-to-transform-your-drawings-into-works-of-art"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07HHjZ1eQfEaUA9N5GvFDGw-5.fit_lim.size_1200x630.v1689279868.png"
+        width: 1120
+        height: 630
+        isCached: true
+
+secured: "JOLew+c5G4F9BtwbsLzuSuNBTCdCDsKHPzvwVex6Nmu0j9CbX6bS5Wx5L7drabu8vdWLO2AxvlsigcJVlJXvpFiWhita21slw2MlSskfKaVkq5fKW+R9kLvRAQ2viArmnc7kncVD584zISHayBDYTILaDRLffvOmld5LSrcFGaOqTtOJUdfCTfEZP1ymocTMndt2JibIKqkgS9dgt+Xr8kUNdWPne45zgTyAH7d+I7f6kuSaxQRGU/JiuQwaBd0TVQAsQc3+VmaPZLIj8xYnX91JiF4nGWmuA8AtgqUn/nw8pRDkBGecze4Fhj7AVPPOe+pW9bBQ+AWPqV4w4H658F5PugpDVP7OWPBmBEwobe20RSMpTyBBpNupOe3CdQZ5vQomUPP87Av8TzGr7uXayU1JFV5Dyh6L0n4kkiYdv8m5AC4hk5c3rit6VPSl5P1JFRpzWVfUwd8xbR0KiZKKjzE1S6S0ZvcVtFzAoqeaIAkndj0/PXE3K9wclewh2v0nfxrYNQRiZUqd1bIY7cBfgA==;Pgn++G6TO1b1NOa4CgjOkw=="
 ---
 

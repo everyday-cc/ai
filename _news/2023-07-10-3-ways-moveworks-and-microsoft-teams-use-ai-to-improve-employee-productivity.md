@@ -43,6 +43,20 @@ related:
         width: 2000
         height: 1143
         isCached: true
+  - title: "Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks"
+    excerpt: "Facebook and Microsoft continue their dominance as the most impersonated brands"
+    publishedDateTime: 2023-07-13T20:42:00Z
+    webUrl: "https://www.darkreading.com/endpoint/facebook-and-microsoft-are-the-most-impersonated-brands-in-phishing-attacks"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
 
 secured: "EpNSIL0lb8w5IADLC2bLJPuB6oV9udy38FKaqgo+LGsIZ9ZLf+DSBpfbdkbWxKxO8RJiBQcuavHEbJGjDDFnbm2SYSmR3gpJk1gNOkhZ1Ke5CuCEOF5Kx7ZtT9xjTcopst5Na22PiAYCEa240O7NhrrxGjrNTbv0wDK3L2XvBwZJiXE7o0ucEQNR44aO6PkodfKM5mU9zvbPki1Et9faErjr/6L6RKnkhTwI2dzTvjjF1bopGD3RbABNpmamJ8Vumw3mrHwYQsqOYr5aiCFCrjRkbmsuOOhty6CIoNachHunyidaLjsnSXKH6XHuwcP9dCmiScYIzywNOAVVY5fQZhesdFQmk9OKdaPlG8HdR025lPNTDAzUdY89MMxVMclaJx34JsLG/qsfE4+hgOf1q6IFR+SM2s8PSnUwFqDlBmr5B72zrFObivg/Dob8a5wqdgogpfBazJV9khNUjx3WlqUEe6u0mQFmSl9aVX74DQBzrfa6N39CYR9NnCHXAWj9HrAXuIN16zlVEvxtz2OJTg==;2trfhPDzd8l4YJ24nMjn6g=="
 ---

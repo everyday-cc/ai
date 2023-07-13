@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The code breakers: Harnessing the power of AI to understand what animals say"
+    excerpt: "An international group of experts argue that tackling the long-standing challenge of decoding the communication systems of whales, crows, bats, and other animals is coming within reach, following breath-taking advances in artificial intelligence (AI) research."
+    publishedDateTime: 2023-07-13T18:52:00Z
+    webUrl: "https://phys.org/news/2023-07-code-breakers-harnessing-power-ai.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 16
 
 secured: "3DOOl6DsoIXn7GYBmcbYCSsLEcj2LJdN6J0AefE0PExSFNOkmX6SbbSsV/xoOnPCQVs+sj8plvzmPUZJUiIxX7ZMzGtM/z0f94ZIz0Wr2Eg/LbGp613CXbB9+w0qp/X6+rvYAiyrmK35QLTGs5w+WIZyee+4/jnHPQbdQaFbyLI4gAkq1d0bfAI5olGYK6dYllyKs7uhg1xurrgrrYy+PhBR7e7xWOmuLVJHaxTxIQsnDU1FL8BKVEiwHtjTYGA7sp05bcgXv8jX8ei5gFU/qq0Gj2huo3sH6SsMCjm8yThyH1AGT0MAnxdkds8TFoCoL2xSYyjQdCCU1a8fWCq2ER2b+SAjHWL8cNYGHNzWk9WnciTnQtSta/d1ps5S1Sp6qimlDymXlvbeaAPoI6H00YKrPXZx/jj+uEwc/b/D3vFteI0YcNrUTydfaxGtJF2qMPGE9UoJyv1aXOz9DL6uSQkAqw5cr/mBEShpJV6j5QnyjP4u4SmJiAGrHrOaONFFU9WnpTlm+BOdaNjFApcGWg==;Dn+5x5WBVmryNFRvqCKuOg=="
 ---

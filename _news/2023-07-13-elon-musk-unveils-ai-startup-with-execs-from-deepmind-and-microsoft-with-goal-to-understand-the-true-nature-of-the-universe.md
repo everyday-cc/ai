@@ -65,6 +65,15 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 64
+  - title: "Elon Musk Launches Artificial Intelligence Company xAI: What to Know"
+    excerpt: "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do."
+    publishedDateTime: 2023-07-13T18:09:00Z
+    webUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
   - title: "Elon Musk Announces New AI Company With Mission to 'Understand Reality'"
     excerpt: "Elon Musk announced his newest AI business, xAI, on Wednesday. The company's main goal is to comprehend the universe's underlying principles. Competent professionals who have previously worked at renowned AI companies like DeepMind,"
     publishedDateTime: 2023-07-12T18:12:00Z

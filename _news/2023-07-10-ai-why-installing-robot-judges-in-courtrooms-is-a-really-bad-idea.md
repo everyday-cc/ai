@@ -7,8 +7,8 @@ originalUrl: "https://theconversation.com/ai-why-installing-robot-judges-in-cour
 webUrl: "https://theconversation.com/ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-208718"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Conversation
@@ -39,6 +39,15 @@ related:
         width: 496
         height: 324
         isCached: true
+  - title: "AI: Why installing 'robot judges' in courtrooms is a really bad idea"
+    excerpt: "Science fiction's visions of the future include many versions of artificial intelligence (AI), but relatively few examples where software replaces human judges. For once, the real world seems to be changing in ways that are not predicted in stories."
+    publishedDateTime: 2023-07-13T17:50:00Z
+    webUrl: "https://techxplore.com/news/2023-07-ai-robot-courtrooms-bad-idea.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 34
 
 secured: "SnxBjKafWbyDXwGRSBEFsVDE9g3Twhh765uOeZ1Lz1aCtf5iHrsL8g+MEWdNmpGrvanReBRTe9F1U+1lDNVUVoo6mNCGuR5hfiwdRXkYWgOko9eI8Jm9XLegAi7EhXWv8aKCNrqSr2Ro/DqjjW3YS8aIekMzTz3TW33HBipJYAk1WN/BBy/DfvWDIPEnhHNMVZv7GwDZvfqGXSUFXjSVJFpjkv/byaFehg+sS3gZCzdD7Hnyb1/zs17pDKW6g6Nx1fjIp8qRQecfHXl6Sgt9fjaujl7+CRNTWELW0oq0U8f9KQRLs7a568Pks8HeTgQQU47WQ0vV9bC09b5wd8cux2UGvTyyE41ZozSQzENY9p04LV6Wq+TN4QsjZFAiEYJJMhmiMfxKjY3Ljr3aYUidGLmSFmn3FIZzOlyJgBCFds49rAA9uNW+6y04HwkVB9HBDrc+xDv3xSssmXMjV6KCURqLVJ5koun8acnRzA4cHZpiw5jagypTW5qcOtiMu1Kor3TpHaeJILRxBntXqCErQA==;T72XWkkYx/sAUWbzVjUfdg=="
 ---

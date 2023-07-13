@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Elon Musk unveils new AI startup with team of top researchers"
+    excerpt: "The startup, xAI, formally launched on Wednesday and its goal “is to understand the true nature of the universe.”"
+    publishedDateTime: 2023-07-13T21:34:00Z
+    webUrl: "https://www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/"
+    ampWebUrl: "https://www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/amp/"
+    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/amp/"
+    type: article
+    provider:
+      name: NewsNation
+      domain: newsnationnow.com
+    quality: 59
+    images:
+      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/07/64b00804ca5782.83734212.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Elon Musk unveils his new artificial intelligence startup"
     excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
     publishedDateTime: 2023-07-12T21:51:00Z
@@ -106,6 +122,15 @@ related:
         width: 613
         height: 400
         isCached: true
+  - title: "Elon Musk Announces xAI Artificial Intelligence Startup"
+    excerpt: "After asking everyone else to please stop making AI, Musk has announced the formation of his own artificial intelligence startup called xAI. The company's goal, articulated in Musk's signature overconfident bravado,"
+    publishedDateTime: 2023-07-13T18:25:00Z
+    webUrl: "https://www.extremetech.com/science/elon-musk-announces-xai-artificial-intelligence-startup"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "Elon Musk unveils AI startup with a team of top researchers but a vague mission"
     excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
     publishedDateTime: 2023-07-12T21:23:00Z

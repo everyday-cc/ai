@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-cou
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
         width: 970
         height: 546
         isCached: true
+  - title: "Meet the AI human-like robots that can do our jobs"
+    excerpt: "Current breakthroughs in AI are key to the revolution in ‘human’ androids, explains Robert Waugh. Some of them are already employed"
+    publishedDateTime: 2023-07-13T16:32:00Z
+    webUrl: "https://www.independent.co.uk/news/long_reads/ai-human-like-robots-jobs-androids-b2374052.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 34
   - title: "MBtv-Robots test their mettle at RoboCup, the world’s largest AI competition"
     excerpt: "From football matches to first aid workshops, robots test their abilities at RoboCup, the world's largest artificial intelligence competition, being"
     publishedDateTime: 2023-07-10T17:46:00Z

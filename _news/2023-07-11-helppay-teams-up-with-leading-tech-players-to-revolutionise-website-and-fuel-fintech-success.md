@@ -34,6 +34,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Construction Fintech Startup Trunk Tools Announces Launch with $9.9M in Seed Funding"
+    excerpt: "Trunk Tools, a construction-focused fintech startup that addresses the skilled labor shortage by helping workers get paid faster, announced its launch out of stealth with $9.9 million in seed funding."
+    publishedDateTime: 2023-07-13T18:31:00Z
+    webUrl: "https://www.constructiondive.com/press-release/20230713-construction-fintech-startup-trunk-tools-announces-launch-with-99m-in-se/"
+    type: article
+    provider:
+      name: Construction Dive
+      domain: constructiondive.com
+    quality: 0
 
 secured: "uw40aqL2GI7KAmmCX6IkzZ9TR+6mJ5rACcSpqtwIHYaOgXAfdVUshr6Qbg2VAEL4bvjLbJOq2mXQsnpLE7nqs0xeJP+Nj2ejCNlYbWXkP61hXhr8SyJEowFYhIyON+TT09fbyUW+IOkOk3H2QAehjPZumdHA3fLeetc35r9z19Z3dRx3Er3J+Kx7Mi5XplMtT1rHyv2UeO/maVz3tMR+9p3hnex72SVOal084AldQGYqZH336UyWm1/1XH9af8zTkjPPsBluxVxIM2ceSRKSBu7Tqk0bPjTtNW7ovmes4lKeowHyA4yqqe4TWUn6dnHNYYKCB9Vfv4+DlriA129koFHAGiEi8YEjO/pSkuKazVY=;2Lvs9EItYOQXZBXgA7ej7A=="
 ---

@@ -46,6 +46,15 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "Google drops two new big AI announcements: a better Bard and new NotebookLM service"
+    excerpt: "A massive update to its large language model (LLM) as well as the unveiling of Google NotebookLM, an AI-powered note-taking service."
+    publishedDateTime: 2023-07-13T18:23:00Z
+    webUrl: "https://venturebeat.com/ai/google-drops-two-new-big-ai-announcements-a-better-bard-and-new-notebooklm-service/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
 
 secured: "9ze7fTyoygZizjtvYrhyeuwnDk3Nfd44z60f6nNtaLRb1/ZmLAR7r6CeVqfpxbcmO4AFVNhBjUBqsfJ1ZADIvRYRfgkyzu/TnCbFPmyXO2IHc9kr4mFisLArLKvfaoOIStvmmyu0WynGf0ckDubQVZT0PeOG5K9xJ20BwpwqSR+XCamyK9bDk32PnlZLaJ7gAX+U4mTzoYlKUiy1mTuET8lFcHq1oq5OXWZ7ARu0imcmRFzfRlfcGdh8l3If1VLBhHZTJnDCu29wl3BOekA1cq4c+rG8QTQAMasft9RoYaHGg6hxByiIFni89AiCcBHcmBSqmesA5EapJWfkicAdoVrU0GaHScmebVD2t2tDQJc=;y1xEao1gyzc3246aQ7MJLw=="
 ---

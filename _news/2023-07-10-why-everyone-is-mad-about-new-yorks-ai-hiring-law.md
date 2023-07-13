@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
+    publishedDateTime: 2023-07-13T19:22:00Z
+    webUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Antidote to AI hype"
     excerpt: "AI is a powerful technology that can have significant impacts on various aspects of society, such as the economy, politics, security and ethics. Therefore, it is important to have a check-and-balance system as AI expands exponentially to ensure its innovative but safe and ethical use."
     publishedDateTime: 2023-07-12T07:40:00Z

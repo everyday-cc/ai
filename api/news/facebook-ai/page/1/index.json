@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-14-how-ai-startup-runway-is-trying-to-make-content-creation-faster-and-easier-according-to-its-cofounder.md",
+      "title": "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder",
+      "excerpt": "Filmmakers and creators have been using the startup Runway to make video editing more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
+      "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ae71ff8ed31300199e8f90?width=1200&format=jpeg",
+          "width": 480,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-mit-research-scientist-asks-if-ai-can-become-conscious-elon-musk-says.md",
+      "title": "MIT Research Scientist Asks If AI Can Become Conscious, Elon Musk Says...",
+      "excerpt": "The researcher posted this query in response to the first tweet by Elon Musk's new artificial intelligence startup, xAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373",
+      "originalUrl": "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-06/hhoa66ag_elon-musk-at-viva-technology-conference-paris_625x300_19_June_23.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1",
+      "publishedDateTime": "2023-07-13T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-ai-and-cybersecurity-friends-foes-collaborators.md",
       "title": "AI and cybersecurity: Friends, foes, collaborators",
       "excerpt": "Johnson and Johnson CISO Gary Harbison talks the opportunities, risks and fears of AI in cybersecurity at this week's VentureBeat Transform.",
@@ -115,7 +210,7 @@
       "originalUrl": "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1379,93 +1474,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-global-artificial-intelligence-in-accounting-market-latest-trends-and-developments-research-2023-2030.md",
-      "title": "Global Artificial Intelligence in Accounting Market: Latest Trends and Developments Research 2023-2030",
-      "excerpt": "No. of Report Pages: [100] | \"Global Artificial Intelligence in Accounting Market Outlook and Top Companies Growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-accounting-market-latest-trends-and-developments-research-2023-2030-2023-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-accounting-market-latest-trends-and-developments-research-2023-2030-2023-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition.md",
-      "title": "Facebook Parent Company Meta Uses Bible Translations To Train Artificial Intelligence In Speech Recognition",
-      "excerpt": "The artificial intelligence arm of Facebook parent company Meta has turned to widely translated religious texts like the Bible to provide data for its Massively Multilingual Speech project, which aims to expand text-to-speech and speech-to-text technology to underserved languages.",
-      "sourceUrl": null,
-      "webUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition",
-      "originalUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/586d154f03596e5605562ea7/1686861909051-3NPADGDTEKDDVYNEYHWT/image-asset.jpeg?format=500w",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition?format=amp",
-      "cdnAmpWebUrl": "https://religionunplugged-com.cdn.ampproject.org/c/s/religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition?format=amp",
-      "publishedDateTime": "2023-06-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Religion Unplugged",
-        "domain": "religionunplugged.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

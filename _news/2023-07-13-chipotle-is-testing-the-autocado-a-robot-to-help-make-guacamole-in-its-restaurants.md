@@ -49,6 +49,15 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
+    excerpt: "Your Chipotle guacamole may soon be prepared by a robot. Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring, and peeling avocados."
+    publishedDateTime: 2023-07-13T14:23:00Z
+    webUrl: "https://www.cnn.com/2023/07/13/business/chipotle-avocado-robot-guacamole/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 49
   - title: "Chipotle Unveils ‘Autocado’ Robot Developed by Vebu That Peels and Cores Avocados for Guacamole"
     excerpt: "Called \"Autocado,\" Chipotle unveiled Wednesday a new avocado processing collaborative robot (cobotic) that helps cut, core, and peel avocados before they are hand mashed to create its signature guacamole."
     publishedDateTime: 2023-07-13T04:03:00Z

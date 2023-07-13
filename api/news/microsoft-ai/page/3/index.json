@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-22-microsoft-azure-openai-lets-enterprises-feed-corporate-secrets-to-chatgpt.md",
+      "title": "Microsoft Azure OpenAI lets enterprises feed corporate secrets to ChatGPT",
+      "excerpt": "ChatGPT, which was introduced to Azure OpenAI Service in May, by default keeps records of all conversations, including queries and AI responses. Remember that when feeding it internal sensitive information – crooks love vacuuming up credentials to ChatGPT accounts and thus access to any chat histories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
+      "originalUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/05/10/new_azure_icon.jpg",
+          "width": 980,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/",
+      "publishedDateTime": "2023-06-21T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
       "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
       "excerpt": "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integra",
@@ -1344,40 +1387,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-cognitive-computing-market-revenue-is-expected-to-increase-by-usd-2395-billion-by-2032-says-acumen-research-and-consulting.md",
-      "title": "Cognitive Computing Market revenue is expected to increase by USD 239.5 Billion by 2032 Says Acumen Research and Consulting",
-      "excerpt": "Key Companies Profiled IBM Corporation, Google Inc., Microsoft Corporation, Accenture PLC, Amazon Web Services Inc., Palantir Technologies Inc., Hewlett Packard ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g32789900/cognitive-computing-market-revenue-is-expected-to-increase-by-usd-239-5-billion-by-2032-says-acume",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g32789900/cognitive-computing-market-revenue-is-expected-to-increase-by-usd-239-5-billion-by-2032-says-acume",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

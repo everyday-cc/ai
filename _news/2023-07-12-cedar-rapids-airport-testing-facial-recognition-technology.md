@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-
 cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lawsuit Highlights Legal Risks of Facial Recognition Tech"
+    excerpt: "Multiple Minnesota law enforcement agencies face a civil rights lawsuit over the use of facial recognition technology in an arrest. However, the government denies facial recognition led to the arrest."
+    publishedDateTime: 2023-07-13T20:23:00Z
+    webUrl: "https://www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech"
+    ampWebUrl: "https://www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2899f4a/2147483647/strip/true/crop/770x402+0+95/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F74%2F9055ea2dd0d0f5fc70d551696745%2Ffacial.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "New facial recognition technology at DTW allows flyers to get through security without a boarding pass"
     excerpt: "When you come into Detroit Metro Airport, check in with your airline, and then head over to security you may notice that TSA has added a new technology making the travel experience a little smoother."
     publishedDateTime: 2023-07-12T09:19:00Z

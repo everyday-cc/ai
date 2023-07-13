@@ -48,20 +48,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How AI image-generators work"
-    excerpt: "Today “ generative AI ” models put brush to virtual paper: publicly available apps, such as Midjourney and OpenAI’s DALL-E, create images in seconds based on text prompts. The final products often dupe humans."
-    publishedDateTime: 2023-07-10T16:09:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2023/07/10/how-ai-image-generators-work"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230715_BLP501.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "PT3BKbpaJVzG0zI9cCIZ9SV3BbL+47Ml+YStvPB1MJuOrPaQyuQVtioei/hmpNGVveet7AIXXcijSvkUuGrTcOC6gAawTtPP+tpd7Kz76Jqn5heCRMLRY5r77z0l3dZsvNw25wQxHyKp7B2NH6lwIMdYT6C0EdvyHS8NAgrXnGqHNAPGqFibw5vfdfflUg9t3TiFYPe3OwUDfqjB3mH22tL1OhUKUCe3353YwIZOo49Nshax66dHqSqv1Sn9UT0t5STTrDwCCLYPNZCFq9DELs8mXf8qh2lsbFomDqE7+2aIFUfa9I+vb42njmFzBYEfaun+uEaesEL8+UDFIZUA8td81ZzvyRI4OBiptWnNWRwdv6PDlu03NU0jvEesyaxXpCo+Yt7Dys5QFnWpd/dXKtalpAJZnP9fnsT5CkMfIFijmHfMUfvjoqpu57ulHnBElD74+GS0bN4kAF6ihEmv9+a2bGNEs7JUZ4/4Qx501XEpxongoN0ugTccGAR9Oz1YrJHwkmVVq/ugthB/X4NgGQ==;sCEuWqt3derqaQoabUvDUw=="
 ---

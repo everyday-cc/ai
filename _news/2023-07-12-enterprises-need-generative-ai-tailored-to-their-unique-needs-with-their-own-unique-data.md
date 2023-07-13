@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-t
 webUrl: "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/"
 type: article
 quality: 90
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/EMJcPYKmycaMXxGydkuN2K-1200-80.jpg"
         width: 1200
         height: 934
+        isCached: true
+  - title: "Assembly Software Brings Generative AI to its Case Management Platform With NeosAI"
+    excerpt: "NeosAI, currently in beta, aims to bring new capabilities to Assembly Software’s case management platform Neos such as automatic document generation and audio and video transcription."
+    publishedDateTime: 2023-07-13T20:16:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/07/13/assembly-software-brings-generative-ai-to-its-case-management-platform-with-neosai/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 33
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/07/NeosAI-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "+qwpZkQfA7LC2E1VwMSybEMDYZHxmeYSwHY21DRYiL5rFBldow+LIHGPA9YuLXNMCOPSjmd4Z4fs7PNZwKSWBczINEafxF2r8gBJny+w1hmCL//wVkLvkqErO3KNBL8SMUoXSp/jXGvTKQTwPEYWbAV4bl84Z3x4xpHU6VCqw5+TSk3lEehX1B57m3a9QjktQsqVEEb1wzDNylV33uiAwlvN1ubYUEsSw41/6PJJtlDtZuSOW0G2u5El/mbt3SqQALauahkGJcp0kBkt7/UwuLrL4WHT5n6Ckb+jXoY5JGIAaSxYRPsL2UD4DVEBf/isaCYY+7S1hxR03mhGE4Vv64vJNC9/P6WCoCNPnRoc8ws=;0zsaeyu3yIuclbnMDevOpw=="

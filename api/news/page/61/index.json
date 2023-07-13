@@ -2,6 +2,375 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-06-02-the-existential-threat-from-ai-and-from-humans-misusing-it.md",
+      "title": "The existential threat from AI – and from humans misusing it",
+      "excerpt": "Letters: Roger Haines writes that there is no evidence of AI sentience, while Prof Paul Huxley recalls Asimov’s laws of robotics, and Phyl Hyde says fears of AI are being overblown",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/89ad267be88983be00a29d56b9a48965dfd6aff3/0_0_3235_1942/master/3235.jpg?width=620&quality=85&auto=format&fit=max&s=e090c8964c3e679e4404ffb46a0a3627",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it",
+      "publishedDateTime": "2023-06-02T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence.md",
+      "title": "How to thrive in a new era of AI with trust and confidence",
+      "excerpt": "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-when-do-grandmaster-nightfall-strikes-start-for-season-of-the-deep.md",
+      "title": "When do Grandmaster Nightfall strikes start for Season of The Deep?",
+      "excerpt": "Want to know when Grandmaster Nightfall strikes start for Season of The Deep? If you’ve reached the late-game in Destiny 2 and are looking for a challenge, a Grandmaster Nightfall is among the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogamer.com/guides/grandmaster-nightfall-strikes-season-of-the-deep-start/",
+      "originalUrl": "https://www.videogamer.com/guides/grandmaster-nightfall-strikes-season-of-the-deep-start/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots.md",
+      "title": "7 ways you didn't know you can use Bing Chat and other AI chatbots",
+      "excerpt": "You can also use Bing Chat to generate unique drinks from fun prompts. For example, at a Bing press event in NYC, the company had a smoothie bar that used Bing Chat to make smoothies according to your favorite TV character.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
+      "originalUrl": "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8647ff8681b655b1556ed0e26907c10c6472ad79/2023/06/01/c92eb6e5-9691-45b3-9ad4-66599a5aa3df/gettyimages-1479076604.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
+      "publishedDateTime": "2023-06-02T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-ai-terminologies-101-how-attention-mechanism-is-transforming-deep-learning.md",
+      "title": "AI TERMINOLOGIES 101: How Attention Mechanism is Transforming Deep Learning",
+      "excerpt": "As machine learning and deep learning continue to revolutionize various industries, several innovative techniques and methodologies have been developed to optimize these learning processes. One of these techniques is the Attention Mechanism. In essence ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/06/understanding-attention-mechanism-in-deep-learning",
+      "originalUrl": "https://yourstory.com/2023/06/understanding-attention-mechanism-in-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Screenshot2023-06-02at6-1685709549095.png?fm=png&auto=format",
+          "width": 2134,
+          "height": 1058,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence.md",
+      "title": "A Quantum Leap In AI: IonQ Aims To Create Quantum Machine Learning Models At The Level Of General Human Intelligence",
+      "excerpt": "At some point, quantum systems will more easily handle the ongoing exponential growth in data compared to classical computers, which may struggle to keep up. Theoretically, at some point in the not-too-distant future,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6479fa2e14cc95f64c13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
+      "publishedDateTime": "2023-06-02T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-massrobotics-recognizes-2-women-for-their-robotics-accomplishments.md",
+      "title": "MassRobotics recognizes 2 women for their robotics accomplishments",
+      "excerpt": "This inaugural MassRobotics Robotics Medal award was presented to Nancy Amato for her research on the algorithmic foundations of motion planning and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/massrobotics-recognizes-2-women-for-their-robotics-accomplishments/",
+      "originalUrl": "https://www.therobotreport.com/massrobotics-recognizes-2-women-for-their-robotics-accomplishments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/massrobotics-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-fears-of-ai-are-greatly-exaggerated.md",
+      "title": "Fears Of AI Are Greatly Exaggerated",
+      "excerpt": "Of course there are the usual worker concerns about wages, but fears have also been expressed of how ChatGPT and like AI applications will replace writers. Apart from Hollywood’s concerns, there are also more widespread job fears.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/",
+      "originalUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6107edfcfc8e877cae7a6fed/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/",
+      "publishedDateTime": "2023-06-02T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-ai-in-fintech-market-to-reach-usd-391-billion-at-a-1690-cagr-by-2032-market-research-future-mrfr.md",
       "title": "AI in Fintech Market to Reach USD 39.1 Billion, at a 16.90% CAGR By 2032 - Market Research Future (MRFR)",
       "excerpt": "New York, USA, June 02, 2023 (GLOBE NEWSWIRE) -- According to the research report published by Market Research Future (MRFR), \"AI in Fintech Market Information By Component, By Deployment Mode ...",
@@ -748,410 +1117,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-what-are-ai-chips-and-why-are-they-hot.md",
-      "title": "What are AI chips and why are they hot?",
-      "excerpt": "SAN FRANCISCO >> The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/",
-      "originalUrl": "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.staradvertiser.com/wp-content/uploads/2023/06/web1_13859247-13f3b5a518ca4bafaefc4d7ce03ff410.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/",
-      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/",
-      "publishedDateTime": "2023-06-01T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Honolulu Star-Advertiser",
-        "domain": "staradvertiser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations.md",
-      "title": "OpenAI found a way to make AI models more logical and avoid hallucinations",
-      "excerpt": "The creation of false information has led to widespread concerns about the dissemination of misinformation and its potential negative consequences. In a new research post, OpenAI shares that it may have found a way to make AI models act more logically and avoid hallucinations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "originalUrl": "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/dd3e7e04d52ada5ef30e6114a2d7e5e1747c90fd/2023/06/01/2df7ccbe-245b-426a-95df-d9ec5ff9cad3/gettyimages-1460653515.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "publishedDateTime": "2023-06-01T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-baidus-145m-ai-fund-signals-chinas-push-for-ai-self-reliance.md",
-      "title": "Baidu’s $145M AI fund signals China’s push for AI self-reliance",
-      "excerpt": "China, in order to reduce dependence on the U.S. technological foundation, has been pursuing its own large language models that match OpenAI's GPT models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/",
-      "originalUrl": "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1061811420.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/amp/",
-      "publishedDateTime": "2023-06-01T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-your-evening-briefing-ai-is-sweeping-across-wall-street.md",
-      "title": "Your Evening Briefing: AI Is Sweeping Across Wall Street",
-      "excerpt": "JPMorgan is advertising for more AI roles than rivals. Morgan Stanley bankers are, well, “experimenting.” Unsurprisingly, the AI revolution is unfolding rapidly on Wall Street as wider interest grows in the evolving technology and its likely impact on business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-evening-briefing-new-ai-jobs-are-sweeping-across-wall-street",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-evening-briefing-new-ai-jobs-are-sweeping-across-wall-street",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1_ZOx4vSljQ/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-is-trending-in-google-searches-but-its-not-yet-to-the-peak-reached-by-bitcoin-in-2017.md",
-      "title": "'AI' is trending in Google searches — but it's not yet to the peak reached by Bitcoin in 2017",
-      "excerpt": "Interest in AI is at an all-time high on Google searches, an Alliance Bernstein analyst notes. But it's still not as popular as Bitcoin at its height.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6477bb1b085acb0018ff14ed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5?amp",
-      "publishedDateTime": "2023-06-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains.md",
-      "title": "Broadcom Suffers Sales Slowdown, Even as It Points to AI Gains",
-      "excerpt": "Broadcom Inc., one of the world’s biggest chipmakers, said that artificial intelligence spending is helping fuel sales, but not enough to offset a broader post-pandemic slowdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZW6Tmm1CFkM/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-humanoid-robot-imagines-nightmare-ai-scenario.md",
-      "title": "Humanoid robot 'imagines' nightmare AI scenario",
-      "excerpt": "A UK-based company has made a humanoid robot that can have conversations almost as natural as human beings and make facial expressions. Almond Li has more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
-      "originalUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20230601&i=OV661501062023RP1&r=OV661501062023RP1&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-spurs-scientists-calling-to-fast-track-consciousness-research.md",
-      "title": "AI Spurs Scientists Calling To Fast-Track Consciousness Research",
-      "excerpt": "Now we’re in this pickle because we don’t want the AI system running the IRS to suddenly get creative one day,” says Mason only half-jokingly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/",
-      "originalUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6477ccd6f0f14cbe8aa62ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/amp/",
-      "publishedDateTime": "2023-06-01T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: NDTV
@@ -35,6 +35,15 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
+    quality: 9
+  - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal"
+    publishedDateTime: 2023-07-13T19:08:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/07/12/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 9
 
 secured: "fw81R58nOn9kWyz10lo1os+6NAU8xm9Nie+s8BY9FPFO8Hgj1UIV8vzxpydbSDT1MPyItW7x5e1UG8CnPz+nJ59kXLXaHOnM/K8t8oRiDxlQzi89+W8L/zBtRJCiFSdg9LxL3VJaRa77ZXzJC3fQTKePHQ0yFrLs9o8vDAkVNUzCi6KSFiLC1dScVdHb5g+x7gVJTuwcBmgwAl4TzZey2v2ppjXhtUktqU9HTT2qChhiufpR9UxWHo/gde01+o7WCl00lcAMogG0z2uWUJ64C/lXennruaOGU8otl3RFI55Kgzw1ETmeljQjm6zSXnWvwYA+pdOz/gwFhnsM/7XqdN1DbdgKnKFm9KU3/fReC78=;U8MpbRogg1rfFCUWAHF/yQ=="

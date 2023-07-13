@@ -42,6 +42,22 @@ related:
         width: 800
         height: 544
         isCached: true
+  - title: "Lawsuit Highlights Legal Risks of Facial Recognition Tech"
+    excerpt: "Multiple Minnesota law enforcement agencies face a civil rights lawsuit over the use of facial recognition technology in an arrest. However, the government denies facial recognition led to the arrest."
+    publishedDateTime: 2023-07-13T20:23:00Z
+    webUrl: "https://www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech"
+    ampWebUrl: "https://www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2899f4a/2147483647/strip/true/crop/770x402+0+95/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F74%2F9055ea2dd0d0f5fc70d551696745%2Ffacial.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "S5ttp6arqi1ugY8YKHo1PBcOMq+XWjJNAIHtB1a2lduZ86iY+6/mKUwKd07N8I0fPGhx0hPkJ4l4TqTsLKs2o+Vp+KbFMWIbUdp9ZzlI1InbdCsW2SEr6S6hyIwl9VDP3XUJT9YfcBWMfKv+AJPXP1WRZ6yNH61Z7busS6iULK6mP+FmrU6fYi4NDMl8qKUQHBqdhaxsej7wP6r4F4L5/cmVhJA0Zz4anDxhWjtBTECbCGanbBwaOVwQw6Ma/56cFiijuWi0Fmw1wd8iiG3qfJsYZ1a4TfN7kl3Mo8itSNXs96vO9yopIGQfdsVcSPHjlgALuJVNLx2+n0kgnqecoVhk9JwYrFJJn2wUz6i4RIw=;NQigL014NxWscVcKnA1tLw=="
 ---

@@ -23,17 +23,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Weather forecasting is having an AI moment"
-    excerpt: "Using AI to predict weather has a big advantage: it’s fast. Traditional forecasting models are big, complex computer algorithms based on atmospheric physics and take hours to run. AI models can create forecasts in just seconds."
-    publishedDateTime: 2023-07-11T09:58:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/11/1076067/weather-forecasting-is-having-an-ai-moment/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
-
 secured: "KHrjtfyS9ZQyUjyAJlTB16tGsZhxAw2B07kJNs+NLbJh+jVke7HuJlW/WZyTEK5tIz36+SqsLYKj4SXaPUyFxGqtFJ5zmg2ZfJgUSCHY0CBT8z+7vOGdAJouXh0svPxSD6QBubdM5RnWcAULDGo2xcepmSHDWjtb8sEdORU1xBFF0+GypV2i/2vzlqgr3Y/l3hc7HKg56aKL760NXIUvHpdHQR5+ENjwxdUiIqWWPw5UfTOUcTZweMQDTWOsuiGfB3QpRsHQKr7iez6y5xaLOunXFN2HYIE/Dp0Eff6Ps21W3md85EiaPvlrCBYKNCQ4BU6388G/BulzIS1pGbxuk6BYWgWN0COCzWl4K8Y9NryYEb4U/S9y8Mp2t4wGQr3hwN9MzSpxdGjQ3c7VIVW84HlJ/cgv5jt2ZNWiUhj9lfJN4peESKigg8FxtNWyuX4F7+N+i6QMVWMzTWEk9F0KEx5tSot1HHtbge0cUyka09kiQEWUI55Y6odh9yY3/lbCfwWXOW8GQ6mHAVjxhyGwLQ==;5Vj+nVmTnoqB5hQet2JDSQ=="
 ---
 

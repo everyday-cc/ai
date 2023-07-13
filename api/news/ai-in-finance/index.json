@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-14-bank-of-america-is-using-ai-and-metaverse-to-train-new-hires.md",
+      "title": "Bank of America Is Using AI and Metaverse to Train New Hires",
+      "excerpt": "When you arrive at Bank of America’s new-employee boot camp at the New York Hilton Midtown, you’ll find a VR headset waiting for you. Slide it on, and you’ll be confronted with an angry customer, frustrated over a mix-up with their account.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivytSQi0mxQc/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator.md",
       "title": "PayU, AWS India And Chiratae Ventures To Launch Fintech Accelerator",
       "excerpt": "At AWS, we offer the broadest and deepest set of innovation tools, including machine learning (ML) and artificial intelligence (AI) capabilities, to help fintechs transform their ideas into tangible solutions to drive financial inclusion, and optimize ...",
@@ -54,7 +106,7 @@
       "originalUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1309,41 +1361,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-machine-learning-helps-researchers-identify-hit-songs-with-97-accuracy.md",
-      "title": "Machine learning helps researchers identify hit songs with 97% accuracy",
-      "excerpt": "They also applied machine learning to the neural responses to the first minute of the songs. In this case, hits were correctly identified with a success rate of 82%. “This means that streaming services ... of any commercial or financial relationships ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/992481",
-      "originalUrl": "https://www.eurekalert.org/news-releases/992481",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

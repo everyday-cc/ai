@@ -24,43 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Upwork Launches New Generative AI Tools and Services Hub"
-    excerpt: "Upwork is launching a new generative AI tools and services hub. Discover more about Upwork's latest news with our article."
-    publishedDateTime: 2023-07-11T14:40:00Z
-    webUrl: "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/"
+  - title: "Most workers want to use generative AI to advance their careers but don't know how"
+    excerpt: "Out of the respondents in the survey, 54% of workers believe generative AI will advance their careers. 65% believe that generative AI will allow them to focus on more strategic work. Despite the optimistic look, the workers felt like they don't have the right skill set to properly use generative AI or take full advantage of the new technology."
+    publishedDateTime: 2023-07-13T19:52:00Z
+    webUrl: "https://www.zdnet.com/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/05/Upwork-Laptop.jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/1f4d5350a413ee7e0b3ef4615bcf2645f1051a85/2023/07/13/1e816a08-2525-4e48-b0d8-8a1f61eee348/gettyimages-1256306440.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Freshworks unveils new generative AI enhancements across product lines"
-    excerpt: "The new predictive and assistive generative AI capabilities embedded within Freshworks solutions and platform go beyond content generation and help support agents, sellers, marketers, IT teams and leaders become more efficient."
-    publishedDateTime: 2023-07-11T05:29:00Z
-    webUrl: "https://www.retailbiz.com.au/online-retailing/freshworks-unveils-new-generative-ai-enhancements-across-product-lines/"
-    type: article
-    provider:
-      name: retailbiz.com.au
-      domain: retailbiz.com.au
-    quality: 39
-    images:
-      - url: "https://www.retailbiz.com.au/wp-content/uploads/2023/07/WEB-ONLY-Freshworks-unveils-new-generative-AI-enhancements-across-product-lines-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Crawlers, search engines and the sleaze of generative AI companies"
-    excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
-    publishedDateTime: 2023-07-13T15:32:00Z
-    webUrl: "https://searchengineland.com/crawlers-search-engines-generative-ai-companies-429389"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 21
 
 secured: "jH+m5zaGqDcNNhxBGOihfgjA8R5+K8UdpBOzbNJ6YwOYRY/hqH8oiPhVaNLjhfXKSbig6kGVQq5zImsZ3EcF1iZPL2xcKOXLLjQhbgCGvxTPl+W4FfcGaY29cJkiYIAKb7eKzOyPO+fVqbXoOS5fuJji89spO8WYQ3qKD++hahS9gVC4NOuWdVnNOqUyuHlSaO5HeRiNmf8CHnQFfejsN8+M1cgSmIZxCjEfJAMUBp8D1teXyEL6mrYjFtCRmxGBQIfhd1gpeThtnV8PBBUc6SU/ITpqNgdFPVtqsDer51ZknZZ6S9ly7K3HqXfu9FBiwWXNBvpMQGF0oq7EEMZ6jedmCVmH2yC5ky7HMyg3KKA=;PXfO1ZxsV7YCr8E0YloI/g=="
 ---

@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "3 Artificial Intelligence Stocks That AI Is Loving in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology"
+    publishedDateTime: 2023-07-13T19:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "The 7 Best Robotics Stocks to Buy in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robots play an increasingly large role in our lives, whether we realize it or"
     publishedDateTime: 2023-07-13T14:05:00Z

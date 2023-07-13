@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/notebooklm-google-ai/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/notebooklm-google-ai/amp/"
 type: article
 quality: 94
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Google drops two new big AI announcements: a better Bard and new NotebookLM service"
+    excerpt: "A massive update to its large language model (LLM) as well as the unveiling of Google NotebookLM, an AI-powered note-taking service."
+    publishedDateTime: 2023-07-13T18:23:00Z
+    webUrl: "https://venturebeat.com/ai/google-drops-two-new-big-ai-announcements-a-better-bard-and-new-notebooklm-service/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
 
 secured: "UccQana45amxT4uKJFfeUod8tgc9BsGQdIZpf4/I+KPyMaQiiB5UpdO00duxzVShlo+rm2HOn0dB1LO/xxRzYMGuJZYLKXd2ikYsQ+TdgGQbCbPZRqJYGqXr9W2/qDRbvutVvPtBVLhWgYVD7JaxZss1+Ir//TpDHVYdBmdgwEoDhdjMzEjip8XFG4SRBa0sbffxCCdkMpBgsdYYZKtDvfsoQNCRzrjqvTyxvaKchs0uiNwGoiNopGSLUmc6S53159O5DgCL5ulXn6SrZoWfBrFgNQMxBbWNXNj5nhq8kt9lawYlIYS6YjnolROIbkm4eIBzC2Z1oX+MJ2M7IXcvK1Ch9aWqHXEh7QxlLKK8bTg=;v463owfVoOjORraVmklvsg=="
 ---

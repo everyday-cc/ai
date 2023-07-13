@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/upwork-launches-generative-ai
 webUrl: "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.retailbiz.com.au/wp-content/uploads/2023/07/WEB-ONLY-Freshworks-unveils-new-generative-AI-enhancements-across-product-lines-.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "How AI image-generators work"
-    excerpt: "Today “ generative AI ” models put brush to virtual paper: publicly available apps, such as Midjourney and OpenAI’s DALL-E, create images in seconds based on text prompts. The final products often dupe humans."
-    publishedDateTime: 2023-07-10T16:09:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2023/07/10/how-ai-image-generators-work"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230715_BLP501.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Crawlers, search engines and the sleaze of generative AI companies"
     excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"

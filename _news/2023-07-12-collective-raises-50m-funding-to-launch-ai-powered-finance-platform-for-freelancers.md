@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered
 webUrl: "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Nvidia invests $50M in Recursion to boost AI platform for drug discovery"
+    excerpt: "While relatively modest in size, the investment from Nvidia could help prove Recursion’s datasets give discovery platforms a speed-to-clinic edge."
+    publishedDateTime: 2023-07-13T21:04:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/nvidia-invests-50m-in-recursion-to-boost-ai-platform-for-drug-discovery/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 38
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/07/GettyImages-1258974271.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "DGTm8QTUsGpW+3k99drhegpTFMOKzu0EL28OnBwMbmv7f1+yae7lpmvBBoeWM++TIlbedFibe7RFtxCT5rIXR+MYrEKxSADiVSRshMlJtbOO/v+vUceqSvd3UO/q5X4BLhmMCkvpYP9Mexy/AE+WalE5CXwiGN7x52L49skmUsy5CfsWfQBikrmtTqx3k21O20KAKhtif/leNVG69vYJDpU4bVb394iVr/J+Z5seOyFA+rTsPgA7CZcxqiMKvmjClkEn76qRCeXI88UT8fK7V0mCy44kDTyveFk6Vf7amVY9Hy0uW7L5Lr5xp/x7GVLuX3gSnWzutgtyxn+CzpBIRTxmPrI+D6Cmbj6+Q8pJG9DvtDiSAqppnYKNKPQ4yem8PUBI9NyAFGqq87r5xI9I68NgjMPg1/AgXya6/wf9Tk7lO8NChnMRPd5p7TuXf4wixhJ/I4RUfmqmev99ruBrQiXALYYeJiwBb7b2iY1MpqDov4G0qrsUigTC3ynYQQq15KGIpek+9vUiCf+7nl8GMA==;O5lvxW4OT7WE1injyCIl4w=="
 ---

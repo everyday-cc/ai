@@ -109,6 +109,15 @@ related:
         width: 970
         height: 546
         isCached: true
+  - title: "Meet the AI human-like robots that can do our jobs"
+    excerpt: "Current breakthroughs in AI are key to the revolution in ‘human’ androids, explains Robert Waugh. Some of them are already employed"
+    publishedDateTime: 2023-07-13T16:32:00Z
+    webUrl: "https://www.independent.co.uk/news/long_reads/ai-human-like-robots-jobs-androids-b2374052.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 34
   - title: "The Rise of AI Humanoid Robots: Could They Run the World Better Than Humans?"
     excerpt: "A group of AI-powered humanoid robots made a surprising claim during a United Nations summit: they could potentially run the world more effectively than humans. However, the robots also acknowledged the importance of proceeding with caution when it comes to the rapid development of artificial intelligence (AI) and its potential,"
     publishedDateTime: 2023-07-11T10:38:00Z

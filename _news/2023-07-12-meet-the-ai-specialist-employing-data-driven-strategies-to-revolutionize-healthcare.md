@@ -78,22 +78,6 @@ related:
         width: 1200
         height: 950
         isCached: true
-  - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
-    excerpt: "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT."
-    publishedDateTime: 2023-07-09T01:59:00Z
-    webUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry-11688826355124.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/in-battle-with-microsoft-google-bets-on-medical-ai-program-to-crack-healthcare-industry/amp-11688826355124.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 86
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/08/600x338/FRANCE-TECH--20_1687369878193_1688826420617.JPG"
-        width: 600
-        height: 337
-        isCached: true
   - title: "What Types of AI Are Being Used in Healthcare?"
     excerpt: "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold."
     publishedDateTime: 2023-07-11T16:29:00Z
@@ -107,6 +91,22 @@ related:
     quality: 76
     images:
       - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1388388759.jpg?itok=4rnom0Sy"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "How Does the AI Bill of Rights Impact Healthcare?"
+    excerpt: "The White House’s Blueprint for an AI Bill of Rights provides guidance on ethical and health equity concerns in healthcare as the industry aims to reduce repetitive tasks and boost clinical efficiency with AI."
+    publishedDateTime: 2023-07-13T20:41:00Z
+    webUrl: "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon"
+    ampWebUrl: "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 76
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1468430468.jpg?itok=5eEFlLKP"
         width: 1440
         height: 500
         isCached: true

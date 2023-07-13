@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 934
         isCached: true
+  - title: "Assembly Software Brings Generative AI to its Case Management Platform With NeosAI"
+    excerpt: "NeosAI, currently in beta, aims to bring new capabilities to Assembly Software’s case management platform Neos such as automatic document generation and audio and video transcription."
+    publishedDateTime: 2023-07-13T20:16:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/07/13/assembly-software-brings-generative-ai-to-its-case-management-platform-with-neosai/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 33
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/07/NeosAI-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "TNSsPbPCr5H3RO7qnezH15L1vZBO1FXeBWmWoNuS/QCOU3hI5WG6832tiqvjyxd2JussAfuGUYTPubA2IWZg6ktMKjnvN3ZyRNtmvExG3Lc6U8PBWzsUjWCxKEBLLds/hVB19zCExU1Gl1sWvhrw6Ry7GuRdR+jrR3bnUk/prRkQxniJMw1M+/9jyqlgHVGPO9N8vBDX5oiP/viDeDhtG0zKz4zp7CDfIlstfaiY8fZ3kBpa7LW1U8eZLhQtg67xMsFLexEgy0plBX38FqlXCFQIdqcbeGDt9CTKqMJOEKBtKlA5LTVs4GNOf2cxV3AR+6v3bnGYwWb3avEvW+OR9laKPYWGsGOa5sHjEJnHKhsZ1cexTPTSVEDX3qQdxQYJD1EheoL91bmmujtODJRNvi26yVosNZEhrHmlRiK5WbyYwE+uIUvBryhtWrw5YtnrnEYDn6HMMvS3+vYFtM0NsLBFfgaCknK/yOhK7fXoDbYg7Gtcx3uvulxHMxg5JxfgZMJ7F3vAWEDQwhYRZiYsTw==;PuZ5Iv+OrPsCDXqu+0V+bw=="
 ---

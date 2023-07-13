@@ -107,20 +107,20 @@ related:
         height: 202
         isCached: true
   - title: "Meta to release commercial AI model like ChatGPT, Bard"
-    excerpt: "This is in contrast to competitors such as OpenAI, whose latest model GPT-4 is a so-called black box, meaning that the data and code used to build the model are not accessible to third parties."
-    publishedDateTime: 2023-07-13T14:31:00Z
-    webUrl: "https://www.thestatesman.com/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard-1503200144.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard-1503200144.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard-1503200144.html/amp"
+    excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in"
+    publishedDateTime: 2023-07-13T14:01:00Z
+    webUrl: "https://glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard"
+    ampWebUrl: "https://glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard?amp=1"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
+      name: glamsham.com
+      domain: glamsham.com
     quality: 59
     images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2023/02/9821ae2f64fe1e0dfea0fe0c41b9015b-1.jpg"
+      - url: "https://glamsham.com/wp-content/uploads/2023/07/Skill-Lync.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
   - title: "Elon Musk launches his own AI company to compete with ChatGPT"
     excerpt: "Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
@@ -188,6 +188,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "Open AI is being investigated by the FTC over data and privacy concerns. It could be ChatGPT's biggest threat yet."
+    excerpt: "The Federal Trade Commission opened an investigation into OpenAI's privacy and data-collection practices to determine whether it deceived consumers."
+    publishedDateTime: 2023-07-13T19:30:00Z
+    webUrl: "https://www.businessinsider.com/openai-ftc-investigation-chatgpt-data-privacy-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
   - title: "Elon Musk launches new AI start-up to rival ChatGPT"
     excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
     publishedDateTime: 2023-07-13T06:39:00Z
@@ -206,6 +215,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "ChatGPT in the Crosshairs: How the EU's AI Act May Affect Your Use of Generative AI"
+    excerpt: "just as cloud-based applications today rely on AWS and Azure. This creates a power imbalance when downstream AI providers cannot effectively mitigate the risks of an AI system without holding OpenAI or other big tech companies accountable for product ..."
+    publishedDateTime: 2023-07-13T19:27:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/chatgpt-in-the-crosshairs-how-the-eu-s-6938556/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 13
 
 secured: "XQcoD6JzRvAr0H9q8p6vhER+sLT54fK0l0STwDyu1v6465F5699N7YV/XahOiyyCJkmFvfm7Taw1F331JQ2oqnyeMZ/BxfrH/VVyhnlr+utslIqC/Obq2YHGkLEyXHzIeqiWaJ/a2jqIJuTirPsWmNVOQU3HTx+KfV4+sHsQQRWBCRS63G4tOlX6g0RTa1X3gPyW5eWPNWboDyNOrEa0GzVcqx4mOpWruGa8hEbSmIO7GCz1mJHA+jUIt8Yvu0Y5TBinBmG2D3+Msi+fKpuFwCA1N2T7A/Mdv94/NeVFkPt/XP0Gecx7ko7kN5v/E9PQNo1q8KovspfZgO4Xl6fmk81ZvJnchFb+OMDe1U8Z8Pw=;R9UwwRiSVdSbfvD3WC4LFw=="
 ---

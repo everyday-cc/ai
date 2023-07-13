@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
 type: article
 quality: 81
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -111,20 +111,20 @@ related:
         height: 202
         isCached: true
   - title: "Meta to release commercial AI model like ChatGPT, Bard"
-    excerpt: "This is in contrast to competitors such as OpenAI, whose latest model GPT-4 is a so-called black box, meaning that the data and code used to build the model are not accessible to third parties."
-    publishedDateTime: 2023-07-13T14:31:00Z
-    webUrl: "https://www.thestatesman.com/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard-1503200144.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard-1503200144.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard-1503200144.html/amp"
+    excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in"
+    publishedDateTime: 2023-07-13T14:01:00Z
+    webUrl: "https://glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard"
+    ampWebUrl: "https://glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard?amp=1"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
+      name: glamsham.com
+      domain: glamsham.com
     quality: 59
     images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2023/02/9821ae2f64fe1e0dfea0fe0c41b9015b-1.jpg"
+      - url: "https://glamsham.com/wp-content/uploads/2023/07/Skill-Lync.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
   - title: "Elon Musk launches his own AI company to compete with ChatGPT"
     excerpt: "Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
@@ -192,6 +192,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "Open AI is being investigated by the FTC over data and privacy concerns. It could be ChatGPT's biggest threat yet."
+    excerpt: "The Federal Trade Commission opened an investigation into OpenAI's privacy and data-collection practices to determine whether it deceived consumers."
+    publishedDateTime: 2023-07-13T19:30:00Z
+    webUrl: "https://www.businessinsider.com/openai-ftc-investigation-chatgpt-data-privacy-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
   - title: "Elon Musk launches new AI start-up to rival ChatGPT"
     excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
     publishedDateTime: 2023-07-13T06:39:00Z
@@ -210,6 +219,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "ChatGPT in the Crosshairs: How the EU's AI Act May Affect Your Use of Generative AI"
+    excerpt: "just as cloud-based applications today rely on AWS and Azure. This creates a power imbalance when downstream AI providers cannot effectively mitigate the risks of an AI system without holding OpenAI or other big tech companies accountable for product ..."
+    publishedDateTime: 2023-07-13T19:27:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/chatgpt-in-the-crosshairs-how-the-eu-s-6938556/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 13
 
 secured: "xDRv5r1a2NhOlIUTFt8xnYinASKE+pW1GXIID1wLDAVsz4wxHJco1ngBM0prFrCOKB5/HBddzdhtY7Ullwu/IZT17OYtcbcnG6J+bJJCYPDsBcCidReq/v5KG3tuHCqZVs1ygJFZjYh1F+z60WH0xlOnNxlh5YKs+QkVcla2k5eQOdZvrONHbpjqFrvHbK+Ogmbx7stKgkEsniRyN4WmFdACYTj9tBq7olfLg+X79ebL1SGrNEm4Wun/4fHyo7vWJkhk5PQuejUlIxMWFTJYxPFg2+HD+NPpZ5sGRx4ZFQYap7DkJkeOkItdKhXQYBhlID57ERbrRcCL5CpV20MqB8k7lRuZWoC7LxrSDKLglr5pRiASF008oy4loHKLpdUr6nAPmxBxXb+Zxlzj9MITHU3GXxwRyXbFCTWEWE5kdZRljVEDmsHuStcuVG1HuXiDPI50eNEErllkAQQaR4mXOvJ7tKGnqHeiKINaDJ3juWrcwZBghuZiNayUvF4kf9+3MuIeAjA3mAwwCWaMMPGPrA==;OifM4OlZ7XE7G+YqHTWpPg=="
 ---

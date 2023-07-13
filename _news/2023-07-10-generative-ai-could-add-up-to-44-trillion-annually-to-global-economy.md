@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-could-add-up-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Which generative AI companies could be on the fast-track to IPO?"
+    excerpt: "Generative AI solutions are flooding the market because of Microsoft, Google and OpenAI building up an emerging supply line of artificial intelligence companies on the way to IPO."
+    publishedDateTime: 2023-07-13T20:34:00Z
+    webUrl: "https://www.foxbusiness.com/markets/generative-ai-companies-could-be-fast-track-ipo"
+    ampWebUrl: "https://www.foxbusiness.com/markets/generative-ai-companies-could-be-fast-track-ipo.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/generative-ai-companies-could-be-fast-track-ipo.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/What-5-AI-companies-are-ripe-for-investment.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Quantum generative AI startup raises $4.8M, documents show"
     excerpt: "A Harvard University spinout raised approximately $4.8 million as part of a planned $20 million raise, a new regulatory document revealed."
     publishedDateTime: 2023-07-10T18:26:00Z

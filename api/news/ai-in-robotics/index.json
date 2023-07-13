@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -103,58 +103,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-michigan-robotics-smart-40-successfully-completes-phase-1-commissioning.md",
-      "title": "Michigan Robotics SMART 4.0 Successfully Completes Phase 1 Commissioning",
-      "excerpt": "ANN ARBOR, MI / ACCESSWIRE / July 13, 2023 / The University of Michigan and Applied Dynamics International (ADI) are pleased to announce the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/michigan-robotics-smart-4-0-successfully-completes-phase-1-commissioning-1032445075",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/michigan-robotics-smart-4-0-successfully-completes-phase-1-commissioning-1032445075",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/767472/ce19b10d890832abfcc71a73bf3f.jpg",
-          "width": 697,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -209,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -445,7 +393,7 @@
       "originalUrl": "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -476,6 +424,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea.md",
+      "title": "AI: why installing ‘robot judges’ in courtrooms is a really bad idea",
+      "excerpt": "This year, it emerged that a New York lawyer had used ChatGPT to write submissions to a court, only to discover that it cited cases that do not exist. This indicates that these types of tools are not capable of replacing lawyers yet, and in fact, may never be.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-208718",
+      "originalUrl": "https://theconversation.com/ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-208718",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/536086/original/file-20230706-29-7etinn.jpg?ixlib=rb-1.1.0&rect=9%2C85%2C2994%2C1494&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
