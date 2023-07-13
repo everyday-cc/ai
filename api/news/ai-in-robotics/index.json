@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-13-could-ai-powered-robot-companions-combat-human-loneliness.md",
-      "title": "Could AI-powered robot 'companions' combat human loneliness?",
-      "excerpt": "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities.",
+      "path": "_news/2023-07-13-report-robots-with-artificial-intelligence-might-offer-real-human-companionship.md",
+      "title": "Report: Robots with artificial intelligence might offer real human companionship",
+      "excerpt": "Companion robots paired with artificial intelligence could one day help alleviate loneliness among isolated people, according to new research published Wednesday.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
+      "webUrl": "https://www.upi.com/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
+      "originalUrl": "https://www.upi.com/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-19.jpg",
-          "width": 2880,
-          "height": 2243,
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/5821689194493/2023/1/1acca51c47c52ff10817f3b95463593d/v1.5/Report-Robots-with-artificial-intelligence-might-offer-real-human-companionship.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
-      "publishedDateTime": "2023-07-13T01:34:00-07:00",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
+      "publishedDateTime": "2023-07-12T14:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "UPI",
+        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -587,7 +587,7 @@
       "originalUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {

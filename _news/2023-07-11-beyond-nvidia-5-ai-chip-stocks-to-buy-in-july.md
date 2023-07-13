@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-
 webUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
     publishedDateTime: 2023-07-11T10:31:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stocks-ai-potential-is-not-just-limited-to-rise-of-chatgpt-1032437318"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "7 Blue-Chip Stocks to Sell in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chip stocks are some of the most popular equities that you can buy. But"
+    publishedDateTime: 2023-07-13T10:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-to-sell-in-july-1032443938"
     type: article
     provider:
       name: Business Insider

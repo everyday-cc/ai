@@ -50,15 +50,6 @@ related:
       name: Odisha TV
       domain: odishatv.in
     quality: 54
-  - title: "Robots say won’t steal jobs, rebel against humans"
-    excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us."
-    publishedDateTime: 2023-07-08T18:42:00Z
-    webUrl: "https://www.thedailystar.net/news/world/news/robots-say-wont-steal-jobs-rebel-against-humans-3364466"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 34
 
 secured: "D75tl/of1U9qyaLMTyVXB7nxS5eGHglvFmyHey5RCgywrolnBs0si8M3QOcdaL1YeZAyE9RpWUNoBdvBYFl2SoYYlnHhPY9P6K1Wg3DAj+f19FfN2npfjXXrlhBZhUHWtd0ZUG66UbjsSqhKrtlNp1bVAb7K3iXVOgzVC2bneIOcGnpqjJpRGwXrltx3Mvt/SFSIxrVJYSHT6LxzBHygoMLSIWOy8HYNbcM7BAIvLb5zV8NXsK4oYKMLikfoJ29uqQfZQJrbzprK5V9DzEJLPxw7M+U0XC68zaOScrEqDS6lAtkj7/ZYMYAwSFF1di2cIvGZYwZpnBF1TnI2s93UPRPcwWupI9U6CwCbKc8GjvgXZoLnxb/heZYdzxEtXRRTt8YeHP2qtT74zN5KChCD+aFd/G0CQmBd6NS3AVSTkVVrHaQR4S0mF+YwwNeQzjPQ5+fb9s5jn6iPC/svhgu+hKqQNgG0CE1JozuGlwC751GUeFbVsbrpAjptvXO/UPTcsRreN/gGns1aDaGxLkGQPQ==;eEFc3HyYgsavz0TFhrKDTw=="
 ---

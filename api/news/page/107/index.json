@@ -2,6 +2,197 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2023-05-05-how-ai-and-llms-are-streamlining-financial-services.md",
+      "title": "How AI And LLMs Are Streamlining Financial Services",
+      "excerpt": "As AI becomes increasingly sophisticated and widely adopted, we can anticipate even more innovation in the fintech sector, leading to smarter, more efficient financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64542fab9410055126fb7277/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/amp/",
+      "publishedDateTime": "2023-05-05T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-data-governance-and-regulating-data-in-agriculture.md",
+      "title": "Data governance and regulating data in agriculture",
+      "excerpt": "While data governance and regulation continue to become a growing concern, with discussions around how data is collected by platforms and corporations to ensure personal information isn’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332",
+      "originalUrl": "https://www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-11-at-11.34.56-AM.png",
+          "width": 1224,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332?amp=1",
+      "publishedDateTime": "2023-05-05T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-microsoft-is-helping-finance-amds-expansion-into-ai-chips.md",
+      "title": "Microsoft Is Helping Finance AMD’s Expansion Into AI Chips",
+      "excerpt": "Microsoft Corp. is working with Advanced Micro Devices Inc. on the chipmaker's expansion into artificial intelligence processors, according to people with knowledge of the situation, part of a multipronged strategy to secure more of the highly coveted components.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 488,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/05/05/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683254919434_1683254950133.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "publishedDateTime": "2023-05-05T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-the-uks-antitrust-agency-is-going-after-big-techs-ai-models-now.md",
+      "title": "The UK's antitrust agency is going after Big Tech's AI models now",
+      "excerpt": "Just a week after thwarting Microsoft's attempt to shell out $68.7 billion for video game maker Activision Blizzard, the UK's antitrust agency Competition and Markets Authority (CMA) announced that it will launch a review of the artificial intelligence landscape in Britain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "originalUrl": "https://www.zdnet.com/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3ab8ef325c6e33edbf20cbedb830b8b735fdc5db/2023/05/05/68674ef7-3674-4257-a864-b0364eb1edac/gettyimages-1388879870.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "publishedDateTime": "2023-05-05T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-meta-platforms-scoops-up-ai-networking-chip-team-from-graphcore.md",
       "title": "Meta Platforms scoops up AI networking chip team from Graphcore",
       "excerpt": "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.",
@@ -1032,186 +1223,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-white-house-big-tech-bosses-told-to-protect-public-from-ai-risks.md",
-      "title": "White House: Big Tech bosses told to protect public from AI risks",
-      "excerpt": "Tech bosses were summoned to the White House on Thursday and told they must protect the public from the dangers of Artificial Intelligence (AI). Sundar Pichai of Google, Satya Nadella of Microsoft, and OpenAI's Sam Altmann were told they had a \"moral\" duty to safeguard society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-65489163",
-      "originalUrl": "https://www.bbc.com/news/business-65489163",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/E7CC/production/_129604395_aigetty.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-65489163.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65489163.amp",
-      "publishedDateTime": "2023-05-04T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-ai-could-enable-10000-robot-led-microbe-experiments-per-day.md",
-      "title": "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day",
-      "excerpt": "An artificial intelligence system enables robots to conduct autonomous scientific experiments ... two microbes associated with oral health—with no baseline information to start with. Bacteria consume some combination of the 20 amino acids needed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973",
-      "originalUrl": "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372973/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973-640x360.jpg?cb=20230505",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-amazons-ai-is-helping-the-police-watch-you.md",
-      "title": "Amazon's AI Is Helping the Police Watch You",
-      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-need-to-improve-surgical-robotics-focus-on-the-motion-control.md",
-      "title": "Need to Improve Surgical Robotics? Focus on the Motion Control",
-      "excerpt": "They aren’t built with off-the-shelf motion technology. To develop advanced, differentiated robotics, motion control companies are developing high-performance, custom motion control products. A wide range of motors and specifically designed equipment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/need-improve-surgical-robotics-focus-motion-control",
-      "originalUrl": "https://www.designnews.com/automation/need-improve-surgical-robotics-focus-motion-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/AdobeStock_447506276.jpeg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

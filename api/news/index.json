@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-13-focus-ai-startups-bringing-dollars-but-lean-workforces-to-ailing-san-francisco.md",
+      "title": "Focus: AI startups bringing dollars but lean workforces to ailing San Francisco",
+      "excerpt": "In a frenzy unseen since the birth of social media in the early 2000s, investors are pouring billions into generative AI and fueling a startup boom in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/",
+      "originalUrl": "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/gXYoMFAb5zxeAnOH6AbLYw3Pgq4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WQEPLSIBTRNXLOF4FHF44S2LRM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-elon-musk-launches-ai-startup-and-warns-of-a-terminator-future.md",
+      "title": "Elon Musk launches AI startup and warns of a ‘terminator future’",
+      "excerpt": "Tesla boss says xAI will be ‘pro-humanity’ and admits development of large systems cannot be paused",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=5b79594e39003269b2ff492348e38061",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
+      "publishedDateTime": "2023-07-13T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-the-looming-addiction-crisis-fueled-by-ai.md",
       "title": "The looming addiction crisis fueled by AI",
       "excerpt": "Online pill services are using AI to turbocharge the same aggressive marketing tactics that drove the opioid epidemic.",
@@ -53,21 +155,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-could-ai-powered-robot-companions-combat-human-loneliness.md",
-      "title": "Could AI-powered robot 'companions' combat human loneliness?",
-      "excerpt": "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities.",
+      "path": "_news/2023-07-13-ai-wont-really-kill-us-all-will-it.md",
+      "title": "AI Won’t Really Kill Us All, Will It?",
+      "excerpt": "or that go against human ethics. Charlie Warzel: A sort of a meme of this that has been around for a long time is called “the paper clip–maximizer problem.” You tell a sentient artificial intelligence, “We want you to build as many paper clips as ...",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
+      "webUrl": "https://www.theatlantic.com/politics/archive/2023/07/ai-wont-really-kill-us-all-will-it/674648/",
+      "originalUrl": "https://www.theatlantic.com/politics/archive/2023/07/ai-wont-really-kill-us-all-will-it/674648/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-19.jpg",
-          "width": 2880,
-          "height": 2243,
+          "url": "https://cdn.theatlantic.com/thumbor/stgMYfF1WIUXFe-q1HFPX2UcpmQ=/0x43:2000x1085/1200x625/media/img/mt/2023/07/AI_Doomers_illo_horiz/original.jpg",
+          "width": 1200,
+          "height": 625,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,13 +177,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
-      "publishedDateTime": "2023-07-13T01:34:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T02:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-asking-the-clergy-is-artificial-intelligence-a-help-or-hindrance-to-faith.md",
+      "title": "Asking the Clergy: Is artificial intelligence a help or hindrance to faith?",
+      "excerpt": "Since the OpenAI ChatGPT program was launched in the fall, it has gone viral, with even a Long Island rabbi using it to “plagiarize” a sermon. This week’s clergy discuss the religious implications of the technology, which uses artificial intelligence (AI) to generate text after a user enters a prompt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/long-island/li-life/asking-the-clergy-havib8ih",
+      "originalUrl": "https://www.newsday.com/long-island/li-life/asking-the-clergy-havib8ih",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/ace/c:NjZkNGJkM2YtZjRiYi00:NDFiMjA5/landscape/1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/long-island/li-life/asking-the-clergy-havib8ih",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/li-life/asking-the-clergy-havib8ih",
+      "publishedDateTime": "2023-07-13T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -91,7 +245,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -295,6 +448,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-report-robots-with-artificial-intelligence-might-offer-real-human-companionship.md",
+      "title": "Report: Robots with artificial intelligence might offer real human companionship",
+      "excerpt": "Companion robots paired with artificial intelligence could one day help alleviate loneliness among isolated people, according to new research published Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
+      "originalUrl": "https://www.upi.com/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/5821689194493/2023/1/1acca51c47c52ff10817f3b95463593d/v1.5/Report-Robots-with-artificial-intelligence-might-offer-real-human-companionship.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/",
+      "publishedDateTime": "2023-07-12T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-amds-ai-chips-could-be-a-multibillion-dollar-opportunity-analyst-says.md",
       "title": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says",
       "excerpt": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says. Cowen says investors should overlook any short-term softness in Advanced Micro Devices’s business and",
@@ -346,7 +542,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-collaborators/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -398,7 +594,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -596,7 +792,7 @@
       "originalUrl": "https://www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -950,7 +1146,7 @@
       "originalUrl": "https://blog.google/technology/ai/notebooklm-google-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1042,213 +1238,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-nvidia-is-looking-to-expand-its-silicon-empire-as-it-rides-the-ai-boom-the-chipmaker-is-in-discussions-for-a-stake-in-the-uks-arm.md",
-      "title": "Nvidia is looking to expand its silicon empire as it rides the AI boom - the chipmaker is in discussions for a stake in the UK's Arm",
-      "excerpt": "Nvidia is in discussions to acquire a stake in UK-based chip designer Arm before it goes public. The world's top chipmaker previously tried to acquire the same firm in 2020 – before US competition authorities blocked the move.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ae8e768ed31300199e9336?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7?amp",
-      "publishedDateTime": "2023-07-12T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-ai-drug-discovery-firm-recursion-surges-following-50-million-nvidia-investment.md",
-      "title": "AI Drug Discovery Firm Recursion Surges Following $50 Million Nvidia Investment",
-      "excerpt": "The latest sign of investors’ unrelenting demand for all things artificial intelligence related: a record rally in drug discovery firm Recursion Pharmaceuticals Inc. following an investment from Nvidia Corp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-12/ai-drug-discovery-firm-recursion-rxrx-surges-after-nvidia-nvda-investment",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-12/ai-drug-discovery-firm-recursion-rxrx-surges-after-nvidia-nvda-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3nhawbzVYEY/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-vendict-launches-generative-ai-in-47-billion-security-and-compliance-market.md",
-      "title": "Vendict Launches Generative AI In $47 Billion Security And Compliance Market",
-      "excerpt": "Vendict announces the world’s first generative AI software that speaks the language of security and compliance teams",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/12/vendict-launches-generative-ai-in-47-billion-security-and-compliance-market/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/12/vendict-launches-generative-ai-in-47-billion-security-and-compliance-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aeb515cdc08314c58a3d01/0x0.jpg?format=jpg&width=1200",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/12/vendict-launches-generative-ai-in-47-billion-security-and-compliance-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/12/vendict-launches-generative-ai-in-47-billion-security-and-compliance-market/amp/",
-      "publishedDateTime": "2023-07-12T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-dutch-startup-taps-ai-and-robotics-to-automate-ev-charging.md",
-      "title": "Dutch startup taps AI and robotics to automate EV charging",
-      "excerpt": "Rocsys has created a robotic arm guided by AI-powered computer vision technology that can convert any charger into an autonomous one.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging",
-      "originalUrl": "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Frocsys-autonomous-charger-EV-robotics.jpg&signature=b2e4e462ae986df71fc72aeaefe70deb",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

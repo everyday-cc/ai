@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-27-artificial-intelligence-frequently-asked-questions-about-ai.md",
+      "title": "Artificial intelligence: Frequently asked questions about AI",
+      "excerpt": "The advancement of artificial intelligence is progressing at a breakneck pace. While the technology is changing rapidly, the basic principles behind AI aren't new. Artificial intelligence has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered",
+      "originalUrl": "https://www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99c2d3f0-ca52-4098-9181-5c055a78fc88/280113b3-7fc9-4279-a467-a3ad7e69045b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered.amp",
+      "publishedDateTime": "2023-04-27T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-elon-musks-past-statements-about-self-driving-safety-could-feasibly-be-deepfakes-tesla-lawyers-told-court.md",
       "title": "Elon Musk's past statements about self-driving safety could feasibly be deepfakes, Tesla lawyers told court",
       "excerpt": "Tesla is facing a lawsuit over the death of an Apple engineer. The judge ordered Elon Musk to be interviewed under oath about his past statements.",
@@ -1352,49 +1405,6 @@
         "Machine Learning",
         "Facebook AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-artificial-intelligence-has-its-own-challenges.md",
-      "title": "Artificial intelligence has its own challenges",
-      "excerpt": "The use of AI is a complex subject with many legal and ethical complications. Artificial intelligence-generated content can also result in copyright infringement and legal disputes. Furthermore ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailypioneer.com/2023/columnists/artificial-intelligence-has-its-own-challenges.html",
-      "originalUrl": "https://www.dailypioneer.com/2023/columnists/artificial-intelligence-has-its-own-challenges.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailypioneer.com/uploads/2023/story/images/big/artificial-intelligence-has-its-own-challenges-2023-04-21.jpg",
-          "width": 1000,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Pioneer",
-        "domain": "dailypioneer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

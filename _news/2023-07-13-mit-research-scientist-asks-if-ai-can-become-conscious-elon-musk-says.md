@@ -29,18 +29,15 @@ images:
 related:
   - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
     excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
-    publishedDateTime: 2023-07-13T01:38:00Z
-    webUrl: "https://apnews.com/article/elon-musk-artificial-intelligence-ai-xai-2e626553cf6333f642fb02fe247707ca"
+    publishedDateTime: 2023-07-12T21:16:00Z
+    webUrl: "https://www.seattletimes.com/business/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/"
+    ampWebUrl: "https://www.seattletimes.com/business/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/?amp=1"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 29
-    images:
-      - url: "https://dims.apnews.com/dims4/default/f5d81aa/2147483647/strip/true/crop/4626x2602+0+241/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2Fd5%2Fa5bc3119d8e81249b025114377a9%2Fad7d8018b7b1405faeaeb2abf4bb08aa"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "fw81R58nOn9kWyz10lo1os+6NAU8xm9Nie+s8BY9FPFO8Hgj1UIV8vzxpydbSDT1MPyItW7x5e1UG8CnPz+nJ59kXLXaHOnM/K8t8oRiDxlQzi89+W8L/zBtRJCiFSdg9LxL3VJaRa77ZXzJC3fQTKePHQ0yFrLs9o8vDAkVNUzCi6KSFiLC1dScVdHb5g+x7gVJTuwcBmgwAl4TzZey2v2ppjXhtUktqU9HTT2qChhiufpR9UxWHo/gde01+o7WCl00lcAMogG0z2uWUJ64C/lXennruaOGU8otl3RFI55Kgzw1ETmeljQjm6zSXnWvwYA+pdOz/gwFhnsM/7XqdN1DbdgKnKFm9KU3/fReC78=;U8MpbRogg1rfFCUWAHF/yQ=="
 ---

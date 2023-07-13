@@ -22,7 +22,7 @@ related:
   - title: "Machine Learning Helps Identify the Cause of an Old Phenomenon in Meat Tenderness"
     excerpt: "Researchers have used machine learning algorithms to explain how an enzyme responsible for meat tenderness works at the molecular level."
     publishedDateTime: 2023-07-12T08:22:00Z
-    webUrl: "https://www.technologynetworks.com/applied-sciences/news/machine-learning-helps-identify-the-cause-of-an-old-phenomenon-in-meat-tenderness-376032"
+    webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-helps-identify-the-cause-of-an-old-phenomenon-in-meat-tenderness-376032"
     type: article
     provider:
       name: technologynetworks

@@ -7,7 +7,7 @@ originalUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-2023
 webUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Robots say won’t steal jobs, rebel against humans"
-    excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us."
-    publishedDateTime: 2023-07-08T18:42:00Z
-    webUrl: "https://www.thedailystar.net/news/world/news/robots-say-wont-steal-jobs-rebel-against-humans-3364466"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 34
 
 secured: "oeQP281soK38IGH08s5FytWUT7rHT10a0Y8ALSmT5Xs8kulKgPfbOpO7o3rTqDDSPudJ4bF/TrABygSUTouj4w3Rc0GSnkaXqGgUOXM1qvE5COEcgb965U9QQoa04zuZOmned6SOGj6otCwPU/sMl8qpNVEYLgqkdtrr/bbf0nK678WAUlhV1nJgFOs3oh8ehZ6O9QtjD7KCCO0z059INTcF5s3aqzWvn2hqAmpYyUWTFOKuzETfgk1WOmEgzQ61gAMzaNLOUBs8e4QzGv+NAJWUlGoPSj9IFGWfYN/pnz7CCAENHEGVkZwfrgtcMS46afjaIUjM0T+b4nTXEyX0AtFGuNAN8Z6SO750MbpzuS8=;V+CQHoHjyslwaMTPNwewNw=="
 ---

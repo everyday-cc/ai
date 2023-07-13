@@ -2,26 +2,22 @@
 category: news
 title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
 excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
-publishedDateTime: 2023-07-13T01:38:00Z
-originalUrl: "https://apnews.com/article/elon-musk-artificial-intelligence-ai-xai-2e626553cf6333f642fb02fe247707ca"
-webUrl: "https://apnews.com/article/elon-musk-artificial-intelligence-ai-xai-2e626553cf6333f642fb02fe247707ca"
+publishedDateTime: 2023-07-12T21:16:00Z
+originalUrl: "https://www.seattletimes.com/business/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/"
+webUrl: "https://www.seattletimes.com/business/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/"
+ampWebUrl: "https://www.seattletimes.com/business/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/?amp=1"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
-
-images:
-  - url: "https://dims.apnews.com/dims4/default/f5d81aa/2147483647/strip/true/crop/4626x2602+0+241/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2Fd5%2Fa5bc3119d8e81249b025114377a9%2Fad7d8018b7b1405faeaeb2abf4bb08aa"
-    width: 1440
-    height: 810
-    isCached: true
 
 related:
   - title: "MIT Research Scientist Asks If AI Can Become Conscious, Elon Musk Says..."
@@ -41,6 +37,6 @@ related:
         height: 738
         isCached: true
 
-secured: "YoB85tkQJciA5fKX3BcDVNZrsvYZgVZ0kn2B4PpnUtDSTDXMBzFp08wY2Uhe28+hQ5zEVQ5E3Ocngsj61HbqLYD9yrjQIpcu13nidV/q380TikA2EWrNUOWSJUS8hIltDFHRDJNpFSeegjbTK0zNipC1gtQdF1a3Qk9bET+pp0sdKR8EGOogK2i9kc3Bp/GnAXM7I1cbI5W732WdWGS47wbCGgf1yi4GNYhOReAFcFf7+wssf58Ml/iPbsoYK+jw4ZbfWnur90eGWQ9tQMhck07CoXrMDsThQJ+cnqi6xyEH34PcFnjQklhsMHrI+pIlS9cl8IWB9uECJJQcH9O7zbQklKwJQ2Yq/bgwS5EJhG8VmFnn8ID6befUG55xBXX4LHA4Xrx9q/3tXEEZEyjOPjrTp7xqLkP//ulrya5+bOnZeVQwgG+ieirDOKzFRG8kwMKPn5jQy3vVUyNUMX1ZE5Pj5UuylciIZotP3SGyIoN8nAugBniB+pLSfPCrmeXA3Bv5z/Zub3PWg3/4XFnx9Q==;fTYvBtzm0UMJFpPOiMtEKQ=="
+secured: "9dyBBjRfygzwgCL6RTmrdSIN6/uQ8zKdKPLFF+etP6tnIJH18igeWEqJbiZl2i2wSapBKe3Shd9VWavQEhdSUMGHeDo7ZJ4fjqlJvtvFa8YuOPdvtw1ZcI6W0feKxGj92eWF05OgSzXV2su5ucma1M7u9blJT/k11VTTzFgO0ea/s/F73vZSUFznTGslyatH51VqqONKh1r7TWsrcuef4WN4TxuukNLJ+4Oaaq3jzBFQiTb+CWEP5C8Y/qewR56nZxSPHFKEsIMfUIpKEQxjUvkulr4QE/802+H95ZGX/SP86AddR2GXWdpVhIUayjIj4YCmPpLJGK5P4s2nb/as1zW029ocmxRQESlwblfOed2E33T2CcIMr0Emu1fZdhqjAF0AZoN19ikUFQLRSlWLCE/7RAJ1UUWvCIZWBpIgW9mYiOublTbuo7I3GTUkLff3TmWjGRE5aPwJ6q5CGEdKGJVNOfzqXtoCZLCWZEyROpPmHts1Z0e2I0Zi9HXkA9OKGV77q0U5fAFWXFVU8IiPbw==;jsV6URJVQ7jMBkcif1Vx/g=="
 ---
 

@@ -66,6 +66,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "UK Government Criticized Over Use OF AI To Evaluate Benefits Claims"
+    excerpt: "The UK government is coming under fire for using AI to assess applications for social security benefits. The Department of Work and Pensions (DWP) has said it plans to use AI to identify patterns in claims that could indicate error or fraud as part of plans to cut £1.3 billion from the benefits bill this year and nex."
+    publishedDateTime: 2023-07-13T10:41:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64afd4a805dcc645cc534a09/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 950
+        isCached: true
   - title: "In Battle With Microsoft, Google Bets on Medical AI Program to Crack Healthcare Industry"
     excerpt: "Google’s rivals have moved quickly to incorporate AI advances into patient interactions. Microsoft, the largest investor in OpenAI and its closest business partner, in April teamed up with the health software company Epic to build tools that can automatically draft messages to patients using the algorithms behind ChatGPT."
     publishedDateTime: 2023-07-09T01:59:00Z
@@ -293,6 +309,20 @@ related:
       - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/11/aurak-july11-main1-750.ashx?h=450&w=750&hash=FB6CDB5C048B02786A0B9B8F36406971"
         width: 750
         height: 450
+        isCached: true
+  - title: "Smartglasses in healthcare: why design matters"
+    excerpt: "Smartglasses have been used in the logistics sector for some time. Increasingly, their use in the healthcare sector is also being discussed. Unlike in logistics, however, healthcare professions depend on trusting interaction with patients."
+    publishedDateTime: 2023-07-13T11:14:00Z
+    webUrl: "https://healthcare-in-europe.com/en/news/smartglasses-healthcare-design.html"
+    type: article
+    provider:
+      name: healthcare-in-europe.com
+      domain: healthcare-in-europe.com
+    quality: 39
+    images:
+      - url: "https://healthcare-in-europe.com/media/story/28469/rect-01-smartglasses.jpg"
+        width: 400
+        height: 240
         isCached: true
   - title: "The Impact of AI on the Real Estate Market"
     excerpt: "In their words, “that genie is out the bottle, and the only thing that will determine whether it will be good or ill will be the wishes we make.” But AI does not only serve the good; fraudsters will instruct AI to do their bidding as well,"

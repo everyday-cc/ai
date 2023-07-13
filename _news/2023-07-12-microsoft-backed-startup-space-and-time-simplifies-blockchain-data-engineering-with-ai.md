@@ -47,6 +47,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Hive Blockchain Shifts Focus to AI, Rebrands as Hive Digital Technologies"
+    excerpt: "Prominent crypto mining firm Hive Blockchain has rebranded itself to Hive Digital Technologies as the company shifts focuse toward artificial intelligence."
+    publishedDateTime: 2023-07-13T09:58:00Z
+    webUrl: "https://cryptonews.com/news/hive-blockchain-shifts-focus-ai-rebrands-as-hive-digital-technologies.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 38
+    images:
+      - url: "https://cimg.co/news/119510/317699/opengraph.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Art of Intelligence: Unraveling the Potential of Blockchain and AI"
     excerpt: "In this captivating blog, we explore the remarkable potential that emerges when Blockchain and Artificial Intelligence (AI) converge. We uncover how this fusion revolutionizes industries, enhances security and privacy,"
     publishedDateTime: 2023-07-11T12:38:00Z

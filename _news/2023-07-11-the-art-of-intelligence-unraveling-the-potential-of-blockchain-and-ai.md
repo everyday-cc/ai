@@ -51,6 +51,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Hive Blockchain Shifts Focus to AI, Rebrands as Hive Digital Technologies"
+    excerpt: "Prominent crypto mining firm Hive Blockchain has rebranded itself to Hive Digital Technologies as the company shifts focuse toward artificial intelligence."
+    publishedDateTime: 2023-07-13T09:58:00Z
+    webUrl: "https://cryptonews.com/news/hive-blockchain-shifts-focus-ai-rebrands-as-hive-digital-technologies.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 38
+    images:
+      - url: "https://cimg.co/news/119510/317699/opengraph.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "PS38owtI+UZF9FWw4zU0njozT+wdWwwr3PJPa9xSMYsAzxdlDhdJkXXH85urnkXvt+dKyhnSjG5AhNzPUXN8jWYl+mbK8FuzueW68vb/coZ2t7H3LiM6LQCOtxEQ19/1TOF2TLMUyJSY7YfE9jnSCqVQjJ9wWPTYNdCr2TUayJ5dbTBvhtBG9WJovXZQKuwHDOnTk6n8srB3cRmGLLD3HoVtFzTiTHEU309MQ5jAsL4rOhGB5SmDzf2V6PNJV6V1aGdNRlzptFw3nh+K+b456h5uCF1KrbHGVie3h79uAfP+lTxy6smd1CtSPOKkFJbxaP0//R5VqincxzrbqNjLiQZj1BpxbBqhxvYQZqrESnyEofoIwfdAemGcFRMZmnTYWuWu6Fc5ZpEouJYCqAsdkTilSoy1vM036l5syK0fZxI/kKchYLVRR1E5Y4TA5w+HCGZHHtOM8y40COesVle9wAT+X6EWXQW597p/eabrkPmXhorQUFZpCP2G2FtKc8AxTtwOTTPi2t4D0x9PYOCXyQ==;F8OliYz2ImGpb+bMgUedvw=="
 ---

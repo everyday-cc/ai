@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Focus: AI startups bringing dollars but lean workforces to ailing San Francisco"
+    excerpt: "In a frenzy unseen since the birth of social media in the early 2000s, investors are pouring billions into generative AI and fueling a startup boom in San Francisco."
+    publishedDateTime: 2023-07-13T10:24:00Z
+    webUrl: "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 63
+    images:
+      - url: "https://www.reuters.com/resizer/gXYoMFAb5zxeAnOH6AbLYw3Pgq4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WQEPLSIBTRNXLOF4FHF44S2LRM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Why are people putting traffic cones on self-driving cars in San Francisco?"
     excerpt: "Self-driving cars have become a consistent presence on the streets of San Francisco, but not everyone is happy about it. A group of protesters called Safe Street Rebel has taken to stopping the vehicles in their tracks by placing orange traffic cones on their hoods,"
     publishedDateTime: 2023-07-12T21:59:00Z
@@ -49,29 +63,20 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Upset Citizens Attempt to Impede Self-Driving Cars With Orange Cones; Waymo & Cruise Seem to Confirm this Works"
-    excerpt: "Whether they're pranksters or protesters, citizens say they are stopping automated vehicles by placing cones on the hood of the car. Waymo & Cruise threaten legal remedy."
-    publishedDateTime: 2023-07-09T18:14:00Z
-    webUrl: "https://hoodline.com/2023/07/upset-citizens-attempt-to-impede-self-driving-cars-with-orange-cones-waymo-cruise-seem-to-confirm-this-works/"
+  - title: "AI startups bringing dollars but lean workforces to ailing San Francisco"
+    excerpt: "In a frenzy unseen since the birth of social media in the early 2000s, investors are pouring billions into generative AI and fueling a startup boom in San Francisco. But the rapid growth of the artificial-intelligence business may not be a panacea for the city's economic and commercial real-estate woes,"
+    publishedDateTime: 2023-07-13T10:02:00Z
+    webUrl: "https://www.aol.com/news/ai-startups-bringing-dollars-lean-100204173.html"
     type: article
     provider:
-      name: Hoodline
-      domain: hoodline.com
-    quality: 19
+      name: AOL
+      domain: aol.com
+    quality: 36
     images:
-      - url: "https://img.hoodline.com/2023/07/waymo-cone.jpg?max-h=400&w=1110&fit=crop&crop=faces,center"
-        width: 1110
-        height: 400
+      - url: "https://media.zenfs.com/en/aol_reuters_29/4faf491ed04837594a511c5197858422"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Anti Self-Driving Activists Are Fighting Back After a Car Caused Several Concerning Collisions"
-    excerpt: "Protestors in San Francisco are interfering with autonomous vehicles as they look to reduce the number of cars on the road."
-    publishedDateTime: 2023-07-11T18:53:00Z
-    webUrl: "https://www.thestreet.com/electric-vehicles/anti-self-driving-activists-are-fighting-back-after-a-car-caused-several-concerning-collisions"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 0
 
 secured: "wCpPWtG8gwKYcezsPQksm8vek+q5KCOHDK+THA/rVfkdTtNU3kKDh59lRU/aVBU7tQfYt2rdkKAn6v03a017zzXho7QTzd8eZoR4cQNgSyiIlWiIWI0D+7IpMR5ioz0AlOyCLp6HhHdAs0vLGy4lq3aDYSeF8sUbbVAimLE2YEpWDSbYDQA9ZAoO7X9Dcj1+9fF/EIp+RndaIeCOqJg1ff5uhkxqCYUOT1oZNkliQGA7EFMHtS2txSFjbWhHJc0UKTDjq6SmVLK1HYSbCdw/KwzQqq1gfvvFO3g0SlfudeLRGFnObt+ObRjIDzh296O0WyFn4+1AmSE8VoHoNidftMKWp1KG5a6v0mR15B18IxYE/m170UJ2NmJdDodFYkZR5Cqnnx3J16/rGpaELbm+sxHx4AW4qyegVHK6+kxirTbHlU1AvxbnJUecQ2h4nJJKma5qrbS+xSvL8QIlKBaVvbBl//j9i+YYn7HLELQF4o6mFVsnf/RaU1inSlCpummvt/AXVQGEjr8RD8CHnLCgDg==;cUPy9iCVRDAtuiYWBIaR2w=="
 ---

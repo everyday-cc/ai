@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-
 webUrl: "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 704
         height: 460
         isCached: true
-  - title: "Self-Driving VW ID. Buzz Will Start Testing In The US"
-    excerpt: "As part of its future expansion strategy into more US cities, Volkswagen has announced its plans to conduct tests on self-driving microbuses in Austin, Texas. The brand will utilize the autonomous technology developed by Mobileye to operate a fleet of ten all-electric ID."
-    publishedDateTime: 2023-07-08T18:50:00Z
-    webUrl: "https://carbuzz.com/news/self-driving-vw-id-buzz-will-start-testing-in-the-us"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 4
   - title: "Volkswagen to Start Testing Its Adorable Self-Driving Vans"
     excerpt: "Volkswagen says it will start testing two of its self-driving ID Buzz electric vans in Austin by the end of July."
     publishedDateTime: 2023-07-09T13:50:00Z

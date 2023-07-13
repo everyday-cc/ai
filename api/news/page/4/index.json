@@ -2,6 +2,203 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-10-ai-robots-could-run-the-world-better-than-humans-robots-tell-un-summit.md",
+      "title": "AI robots could run the world better than humans, robots tell UN summit",
+      "excerpt": "But the social robots said they felt humans should proceed with caution when embracing the rapidly developing potential of artificial intelligence. And they admitted that they cannot – yet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
+      "originalUrl": "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/08/49797bd1-2046-4240-90b6-5ea0f3e0b6c8_10de0f05.jpg?itok=R2R0MPcb&v=1688757382",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
+      "publishedDateTime": "2023-07-10T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study.md",
+      "title": "Programs to detect AI discriminate against non-native English speakers, shows study",
+      "excerpt": "Over half of essays written by people were wrongly flagged as AI-made, with implications for students and job applicants",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b88015612ca63ada3cab75fb784fe4bca50cb929/0_13_4552_2732/master/4552.jpg?width=620&quality=85&auto=format&fit=max&s=c4a7a982291554dcd25bac1dfcafd264",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study",
+      "publishedDateTime": "2023-07-10T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-generative-ai-could-add-up-to-44-trillion-annually-to-global-economy.md",
+      "title": "Generative AI could add up to $4.4 trillion annually to global economy",
+      "excerpt": "Here are the key forecasts on the impact of GenAI across all industry sectors from the latest McKinsey report on the subject.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/08dc8082ba347b4ebfafc03ee986b18b030ddbf9/2023/07/10/d34ffadf-8beb-4bbd-86e9-7c128dbb87e9/gettyimages-1494143619.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/",
+      "publishedDateTime": "2023-07-10T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-a-large-dataset-to-train-machine-learning-models-for-aerial-vehicle-design.md",
+      "title": "A large dataset to train machine learning models for aerial vehicle design",
+      "excerpt": "Designing reliable aircraft can be both challenging and time-consuming, as it often entails several steps and analyses. Deep learning models could potentially help to speed up aircraft design and deployment,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-large-dataset-to-tra.jpg",
+          "width": 1410,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.amp",
+      "publishedDateTime": "2023-07-10T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-the-future-of-aiand-everything-elseis-hybrid.md",
       "title": "The Future Of AI—And Everything Else—Is Hybrid",
       "excerpt": "Qualcomm recently released a white paper titled, \"The Future of AI is Hybrid.\" In this piece we explore why role edge has to play with AI and why AI will be Hybrid.",
@@ -113,7 +310,7 @@
       "originalUrl": "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -363,7 +560,7 @@
       "originalUrl": "https://www.zdnet.com/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -782,7 +979,7 @@
       "originalUrl": "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1029,195 +1226,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-tsmc-records-high-sales-amid-increased-demand-for-ai-tools-and-chips.md",
-      "title": "TSMC Records High Sales amid Increased Demand for AI Tools and Chips",
-      "excerpt": "TSMC is also expanding a factory under construction in Arizona to develop better chips for iPhones and subsequently drive sales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/tsmc-sales-ai-tools-chips/",
-      "originalUrl": "https://www.coinspeaker.com/tsmc-sales-ai-tools-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/07/tsmc-sales-ai-tools-chips.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coinspeaker.com/tsmc-sales-ai-tools-chips/amp/",
-      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/tsmc-sales-ai-tools-chips/amp/",
-      "publishedDateTime": "2023-07-10T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-struck-capitals-founder-discusses-his-foray-into-ai-investing.md",
-      "title": "Struck Capital’s Founder Discusses His Foray Into AI Investing",
-      "excerpt": "Venture capitalist Adam Struck spoke with WSJ Pro about his approach to deals in the buzzy artificial intelligence sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/struck-capitals-founder-discusses-his-foray-into-ai-investing-86190f0a",
-      "originalUrl": "https://www.wsj.com/articles/struck-capitals-founder-discusses-his-foray-into-ai-investing-86190f0a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-813830/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-35-into-ai-food-ordering-app-lily.md",
-      "title": "Nextgen Food Robotics Integrates Large Language Model (LLM) through GPT-3.5 into AI Food Ordering App, Lily",
-      "excerpt": "Nextgen Food Robotics Corp (NEO: NGRB) (OTC:NGRBF) (FSE: A3D48V) (the \"Company\" or \"NextGen\"), a company exploring the implementation of artificial intelligence (\"AI\")",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33159832/nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-3-5-into-ai-food-ordering-ap",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33159832/nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-3-5-into-ai-food-ordering-ap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33159832",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159832",
-      "publishedDateTime": "2023-07-10T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-how-to-create-a-website-with-ai.md",
-      "title": "How To Create A Website With AI",
-      "excerpt": "Hostinger’s AI website builder only needs three pieces of information to generate a website for you: the name of your company, the type of website you want and a short description of what your company does. Based on this information, the AI creates a website including suitable texts, images and other relevant content, such as online shop products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/",
-      "originalUrl": "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2023/07/CreateAASiteWIthAI-1-scaled.jpg",
-          "width": 2560,
-          "height": 1677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Could AI-powered robot 'companions' combat human loneliness?"
-excerpt: "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities."
-publishedDateTime: 2023-07-13T08:34:00Z
-originalUrl: "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html"
-webUrl: "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html"
-ampWebUrl: "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp"
+excerpt: "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic. A new report maps some of the ethical considerations, and urges stakeholders to come together to rapidly develop guidelines for trust,"
+publishedDateTime: 2023-07-13T02:56:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/07/230712165129.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/07/230712165129.htm"
 type: article
-quality: 74
-heat: 104
-published: true
+quality: 64
+heat: -1
+published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-19.jpg"
-    width: 2880
-    height: 2243
-    isCached: true
 
 related:
   - title: "Report: Robots with artificial intelligence might offer real human companionship"
@@ -72,6 +68,6 @@ related:
         height: 480
         isCached: true
 
-secured: "R0WEmVgiYwWSqoL558DYbOrnCv7pdUiCbLPBHuuExuA/KNihwTvjwkYKjssR6zzRTBjMefOyfdIy0IZ/bHviPvVHDKrIryjTpUW+id9mqI1aEjgOimlBPDIU/KiAGIhNcKZJCXjgC8NNNEpx21qS2ajYPuXfnN1KATdv+6bcYcDXmaZ+PhvbvqUJedkCztHjvPoWbKHFI0rSsPykxVKoP6ML+f7d/XLuVGVhH1DlH550Z/wF67Hg71bNFpNWMNFikLpv4DQHn1t8Q0OkXzw6TbM2ofRIGSgil+j1sSGe9VDjhFLuCp6YJsmGH6i8VTkWypUBTksO9S+X0l5uQyxfCD0PfFVhhKerYb8/mIPchsM=;csV9gyiknYNTfdk5WUB2qA=="
+secured: "7iF6EalQ+BwWuumTnbi0AZt3UAzQyNo/41ctrIbNMnMWOcWBUSD4sCe5Qr2bc2/yCqb98nj+6PjIWdXCT+LamXtwMPgbjdrSrj1Gk1/M5nDlEKWHO5cnsgTeu8TU7tjJQ72vZTkVcUqsrODs8Ae4BV8E+ZKtZd/Iyq82UIyGgzPLNkPulTHQTE4Cmh/eOCG+GjKZty7kBOKwg2225v5ytyTAEmggAzD9LKXZQ49Q8BK0XUswnBCC8ZwP5uYaefrYuuyKPcykLUfUA6X+w8FAxXXjyMXxl40WpncWDyKlkFLlwloz0pDiORoXIB2VSZDjdXtXaWhB/WrO+KS3HlOkhbgd85BWYXZhsUeltkTG3mQ=;1CGXk20bf1FXN5DMGHYv/Q=="
 ---
 

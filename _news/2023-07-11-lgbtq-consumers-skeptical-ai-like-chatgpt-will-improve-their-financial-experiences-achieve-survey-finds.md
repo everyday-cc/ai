@@ -112,6 +112,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Elon Musk launches new AI start-up to rival ChatGPT"
+    excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
+    publishedDateTime: 2023-07-13T06:50:00Z
+    webUrl: "https://www.unilad.com/technology/news/elon-musk-ai-start-up-chatgpt-rival-567258-20230713"
+    type: article
+    provider:
+      name: unilad
+      domain: unilad.com
+    quality: 39
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/blt949ea8e16e463049/blt56b009cc86ae0881/64af9bde4e4310fc8ce7eba7/eloai.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "xFA0FUrxzyZeEL3Z7YDLnewotSWMksoQjMaNU21Stmxe813YhxNsTA0hRld+zBm7neopGOSh/pd4TmVJAXGmFbqLgzrn9owMc6FZSGWEy9rbYOaphNAGleeez9QxDP2YEUQzVFFkA05Lw2F0HpVcqtkzwF3pUa8jER9VW14LDbhjXYzgPzUhaEm2XUTqfap87LcdjEsT5UCeMWL3X/4tPklpxjz1ER5E7bfH7Y4ELmP23OqRfBIchqTIvDNup5Vh912cWOC9qkyJFGl/gDezpOXeIO4xEjpGaJ+dP/FSXDRLpG8xhV3du0aSFBFO6jTPyaXl9/6cLrW/sm+guAx7XYG6Uql1NY7fmmCZ1aX2eQs=;w8HzvQtudkrvWXuJV+RuOQ=="
 ---

@@ -24,6 +24,7 @@ topics:
   - AI Hardware
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"

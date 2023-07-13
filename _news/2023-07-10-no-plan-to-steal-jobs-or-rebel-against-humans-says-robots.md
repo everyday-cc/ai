@@ -49,15 +49,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Robots say won’t steal jobs, rebel against humans"
-    excerpt: "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us."
-    publishedDateTime: 2023-07-08T18:42:00Z
-    webUrl: "https://www.thedailystar.net/news/world/news/robots-say-wont-steal-jobs-rebel-against-humans-3364466"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 34
 
 secured: "jEH2pCbzvp3GswcMO+13IdzWEriwxeYEtco/DJ3/85J/RSzwTiqvlMGoF72iVnx1rAtFLtjS6gqg2IfUpqZYSKEZ5o0Qi5DhZqiF0K3eWFlNmdKxWgCMsdigMLVdyAyojD4ezt4u0ENQLT7Eix5ccJRuvMzA14mRbT6sI6qHXelDbdNAzH94n7AbL6u9R2vmLbQE8FgkkhlolGpYvLPfSJd1p/Wbo41LIEj4439l/BMYS5NU4l3FebpyRW+1v+8WHoqgJNC2dJnxsIS99B3sf4I4cRLxvqI0sBygYNcC0Sd9oV88lTxRw8YE24/rUcKsWyQ/Jc9cqJDepdftFqE//rvfKOGkTNq5fAUHUnTInNY=;lutVdeKopRJCJr7qBEpq5A=="
 ---

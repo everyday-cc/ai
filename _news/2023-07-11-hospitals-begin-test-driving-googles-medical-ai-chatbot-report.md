@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Millions of users are flocking to an AI-powered chatbot that lets them chat with famous figures like Elon Musk and Mario"
+    excerpt: "Character.AI has around a dozen versions of Elon Musk that users can chat with, including a \"kind, gassy, proud\" unicorn."
+    publishedDateTime: 2023-07-13T10:58:00Z
+    webUrl: "https://www.businessinsider.com/characterai-artificial-intelligence-chatbot-mimics-mario-elon-musk-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/characterai-artificial-intelligence-chatbot-mimics-mario-elon-musk-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/characterai-artificial-intelligence-chatbot-mimics-mario-elon-musk-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://i.insider.com/64afe049c22d1a0019453fd9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google is testing AI chatbot that can answer medical questions: Report"
     excerpt: "Med-PaLM 2 has been in testing at the Mayo Clinic research hospital – a non-profit organisation based in the US, among others, since April. The report noted that Google believes the LLM will be useful in places where there is “limited access to doctors”."
     publishedDateTime: 2023-07-10T02:01:00Z

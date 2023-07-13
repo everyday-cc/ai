@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-13T06:10:00Z
 originalUrl: "https://www.historyextra.com/period/21st-century/artificial-intelligence-historical-threat-how-recent/"
 webUrl: "https://www.historyextra.com/period/21st-century/artificial-intelligence-historical-threat-how-recent/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.immediate.co.uk/production/volatile/sites/7/2023/07/webreadyAmendedAIFinal2HughCowling-8d3b826.jpg?quality=90&resize=620,414"

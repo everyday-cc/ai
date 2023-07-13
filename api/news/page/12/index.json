@@ -2,6 +2,186 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-07-04-renatus-robotics-raises-2m-in-seed-funding-for-autonomous-logistics-solutions.md",
+      "title": "Renatus Robotics raises $2M in seed funding for autonomous logistics solutions",
+      "excerpt": "Renatus Robotics Inc., a logistics startup, has announced the successful closing of its initial seed round. The company secured $2 million in funding from e-commerce logistics company e-LogiT Co., ltd.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/",
+      "originalUrl": "https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/renatus-warehouse-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-how-ai-is-transforming-waste-management-recycling.md",
+      "title": "How AI Is Transforming Waste Management, Recycling",
+      "excerpt": "While some view AI as a threat, environmental advocates see it as a powerful tool for resolving waste problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "originalUrl": "https://www.techtimes.com/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/430858/how-ai-transforms-waste-management-recycling.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293344/20230703/ai-transforms-waste-management-recycling.htm",
+      "publishedDateTime": "2023-07-03T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-how-to-enable-face-recognition-on-galaxy-z-flip-4.md",
+      "title": "How To Enable Face Recognition on Galaxy Z Flip 4",
+      "excerpt": "The facial recognition security feature of your Samsung Galaxy Z Flip 4 allows for device unlocks just by looking at the phone display. This can also be used by certain apps to verify your identity.",
+      "sourceUrl": null,
+      "webUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-flip-4-1229932",
+      "originalUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-flip-4-1229932",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thedroidguy.com/wp-content/uploads/2022/11/How-To-Enable-Face-Recognition-on-Galaxy-Z-Flip-4.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Droid Guy",
+        "domain": "thedroidguy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact.md",
+      "title": "How Public Health Agencies Are Harnessing AI And Advanced Analytics For Transformative Impact",
+      "excerpt": "In recent years health agencies like CDC have leveraged data and analytics to enhance their capabilities and become more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a2f741ef05b2265d8aa488/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/03/how-public-health-agencies-are-harnessing-ai-and-advanced-analytics-for-transformative-impact/amp/",
+      "publishedDateTime": "2023-07-03T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-amd-ai-chips-are-nearly-as-fast-as-nvidias-mosaicml-says.md",
       "title": "AMD AI chips are nearly as fast as Nvidia's, MosaicML says",
       "excerpt": "As Nvidia's recent surge in market capitalization clearly demonstrates, the AI industry is in desperate need of new hardware to train large language models (LLMs) and",
@@ -997,196 +1177,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-musicians-revolt-against-facial-recognition-technology.md",
-      "title": "Musicians revolt against facial recognition technology",
-      "excerpt": "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
-      "originalUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg",
-          "width": 620,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-leonardo-da-vinci-inside-a-genius-mind.md",
-      "title": "Leonardo da Vinci: Inside a genius mind",
-      "excerpt": "28 institutions from around the world  join forces to showcase Leonardo da Vinci's unparalleled legacy, blending art, science, and AI innovation",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/",
-      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/amp/",
-      "publishedDateTime": "2023-07-03T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-build-accelerated-ai-apps-for-npus-with-olive.md",
-      "title": "Build accelerated AI apps for NPUs with Olive",
-      "excerpt": "Microsoft’s open-source, hardware-aware optimization tool for ONNX models is an essential part of its AI application development tool chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
-      "originalUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
-      "publishedDateTime": "2023-07-03T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-ais-impact-on-cost-savings-productivity-and-jobs.md",
-      "title": "AI’s impact on cost savings, productivity, and jobs",
-      "excerpt": "While short-sighted companies may look to AI to cut jobs and costs, smart companies will use AI to increase productivity and agility. Just as they did with open source and cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html",
-      "originalUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-526811863-100648031-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html",
-      "publishedDateTime": "2023-07-03T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
