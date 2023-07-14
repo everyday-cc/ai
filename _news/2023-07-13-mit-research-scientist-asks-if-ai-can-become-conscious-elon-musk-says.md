@@ -28,14 +28,21 @@ images:
 
 related:
   - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
-    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
-    publishedDateTime: 2023-07-13T01:38:00Z
-    webUrl: "https://apnews.com/article/elon-musk-artificial-intelligence-ai-xai-2e626553cf6333f642fb02fe247707ca"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI"
+    publishedDateTime: 2023-07-12T21:34:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_2e626553cf6333f642fb02fe247707ca_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
     excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal"
     publishedDateTime: 2023-07-13T19:08:00Z

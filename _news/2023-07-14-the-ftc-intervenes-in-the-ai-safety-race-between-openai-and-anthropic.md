@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -162,6 +162,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 46
+  - title: "Google AI Boss Says New System Will Be More Powerful Than OpenAI"
+    excerpt: "According to Google DeepMind CEO Demis Hassibis, Google has an ultra-powerful large language model (LLM) on the way — and it may blow OpenAI's existing systems like the ones powering ChatGPT out ..."
+    publishedDateTime: 2023-07-11T17:28:00Z
+    webUrl: "https://futurism.com/the-byte/google-ai-new-system-openai"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/google-ai-new-system-openai.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Musk unveils xAI in new bid to rival startup OpenAI"
     excerpt: "Elon Musk, who was involved with OpenAI, has criticized the startup since he left the board in 2018, especially after it created a for-profit arm the following year."
     publishedDateTime: 2023-07-13T18:37:00Z
@@ -248,6 +262,6 @@ related:
       domain: techstory.in
     quality: 12
 
-secured: "Tbg+pAA2XtiwQ977Zt5fW3+Mq0YRK0mJ5mgloLBk6dQPjhwtj+Jt6TXNTTA1zckDUf7rIkrsIw/50nIy0nVMLH8lPudZT0Ir0N38zvWnLYafOaw9PG4tJXeMO2ErXQvxZ/LxMRp3FazvgC516F74Hz7G51dgfaO2ymg79PtM+newHBBjsEy2ZtBC7fIVphWiNTlY6HX7kw2iFA1embK3BpcXen164Bh3Lr01FWy/q4vpFi8LvsCu7emZ3EDtqc148YKHyFPsKu6yx7qH5dsFrFTWWsTN/i2yQQtfV85Um5M2BbgosiedxEjVIDLSjmYD3z+ViqUdR4rU1xDaHwMsHaV5Z9RrAOET9klBVXWiXf8=;xIE2Q42niZmWA5tIsQuq1w=="
+secured: "eyx0D+owo8kZjIBEZ34ylEsq7zJAEE6S+Rv9MKFLcptveEjI2Oxgq23mpAAp8drcB0GZO/e0a62KZWqn6LwMK4f+DB/Y1EaXUEKCmCdtFl32lYq3mrZqdT5XnF7RGQIU1LAxqVTRxNyNz41cZGV7zOGxi3PVY+4vb62FynxSmMRoGCgmDDI6VorJIWL0KK6onvNcyWxMl4//QzsIlmFzv9KdyyBWpQpg7tE7XzKzBEkdgSnbPHXMD/781JBaR5yhBtKGjpGvpkgGh0bCUh3Yc+c3ip6J7iKHNpYG3sg6u1P0u702lrpQfmzCmxj3IWep20/7ZTitjWo0FEYPF3eeEsLsK71T3cda9ZkB64ZUBzWdkxUA92WQMegh6Ai29A8XrhOrsBnfY4h9qfCCvZmoRj/XEgXGGTBsBtFORquji+Uxab2ofLTNP6/YDZgVqjv8y7xuKvMvZSp68db9vwZ2TrWQMeinFz8ua4kMleZuIQkxxEBBkrIyCaEjmpXUJ3AMDGT1KjSW+MYs2+PgXqpt1w==;zdryEZxVQCOON2qc8I48zQ=="
 ---
 

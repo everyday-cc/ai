@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "China takes major step in regulating generative AI services like ChatGPT"
-    excerpt: "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT."
-    publishedDateTime: 2023-07-14T08:03:00Z
-    webUrl: "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 86
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230714011428-china-generative-ai-regulation-intl-hnk.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Threads beat ChatGPT to 100 million users but the AI app is way more consequential"
     excerpt: "Mark Zuckerberg's new Twitter copycat app has attracted 100 million users in less than a week, but its rise is less significant that ChatGPT's growth."
     publishedDateTime: 2023-07-10T15:38:00Z
@@ -98,36 +82,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/elon-misk-xai.jpg?quality=75&strip=all&1689166555&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "China says generative AI rules to apply only to products for the public"
-    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
-    publishedDateTime: 2023-07-14T00:36:00Z
-    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Does Generative AI herald the end of an era or the start of a new chapter in marketing?"
-    excerpt: "Despite concerns about job losses and potential changes in the marketing industry, generative AI is a great asset for the marketing team, rather than a threat. Generative AI presents unparalleled opportunities to accelerate creativity,"
-    publishedDateTime: 2023-07-10T03:17:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 66
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101624579,imgsize-800807,width-1200,height=765,overlay-etbrandequity/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "Elon Musk's New ChatGPT Competitor Boosts AI-Related Crypto Tokens"
     excerpt: "Tokens such as AGIX and FET saw modest bump after Musk announced new Artificial Intelligence (AI) company \"xAI\" to take on ChatGPT."
@@ -225,15 +179,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
-    publishedDateTime: 2023-07-11T10:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stocks-ai-potential-is-not-just-limited-to-rise-of-chatgpt-1032437318"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "ChatGPT Is Losing Users. Is The Artificial Intelligence Craze Over?"
     excerpt: "The decline in usage of ChatGPT would indicate that artificial intelligence a fad that is now trending down. Is that a useful data point or should we ignore it?"
     publishedDateTime: 2023-07-11T12:00:00Z
@@ -256,6 +201,20 @@ related:
       - url: "https://www.canindia.com/wp-content/uploads/2022/07/meta-office.jpg"
         width: 1540
         height: 800
+        isCached: true
+  - title: "China takes major step in regulating generative AI services like ChatGPT"
+    excerpt: "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT. The Cyberspace Administration of China,"
+    publishedDateTime: 2023-07-14T14:03:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/14/china-takes-major-step-in-regulating-generative-ai-services-like-chatgpt/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 38
+    images:
+      - url: "https://krdo.b-cdn.net/2023/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0wMDBkMmFjNDUwN2QwNTgzYTI1MDYxNWMxYjFiNDRkYw-L19wYWdlcy9oXzFkMmRkNGJlNjViM2Y1OTczYjg3YWVkYjQzZDg5YzQ1-300-scaled.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Elon Musk launches his own AI company to compete with ChatGPT"
     excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
@@ -280,29 +239,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
-  - title: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT"
-    excerpt: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT - SiliconANGLE"
-    publishedDateTime: 2023-07-13T00:30:00Z
-    webUrl: "https://siliconangle.com/2023/07/12/elon-musk-leading-new-ai-startup-aims-understand-universe-compete-chatgpt/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/muskhappy.jpg"
-        width: 763
-        height: 600
-        isCached: true
-  - title: "How Sarah Silverman might save us from AI like ChatGPT"
-    excerpt: "Sarah Silverman is one of the authors suing OpenAI and Meta for infringing copyright while training ChatGPT-like generative AI."
-    publishedDateTime: 2023-07-11T17:30:00Z
-    webUrl: "https://bgr.com/tech/how-sarah-silverman-might-save-us-from-ai-like-chatgpt/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
   - title: "Elon Musk launches new AI start-up to rival ChatGPT"
     excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
     publishedDateTime: 2023-07-13T06:39:00Z
@@ -321,6 +257,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "ChatGPT and the Future of Health Care"
+    excerpt: "In the past year, discussion of digital health and, specifically, the impact of artificial intelligence (AI) has made headlines. Digital health refers to the use of technology, such as mobile devices,"
+    publishedDateTime: 2023-07-14T13:43:00Z
+    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/chatgpt-future-health-care-medicine/"
+    type: article
+    provider:
+      name: psychiatryadvisor.com
+      domain: psychiatryadvisor.com
+    quality: 4
 
 secured: "YtcZlwdlUxldWYkirUfuJpqs9MK0VQWhKKY+5D614mOKyYF3O12grxyTX6H2pAy9AoTyAC/F9qt7bdOdlSaN+sr72XzhxicUMqvmW2383Np8Jam1RXXxPMXCp+6/L4NbVCFR5rKfncZUrsKCfqEmr7aLCgh/5fiHyehvmwb5C6R0uBug6SXfO05uPcIvb6WSvFPR/90RqXsIE8qsERnjAsx6F1BfQVKZ8sUQ812iteX9DE9kKadBH7rs+7hLjoXzdXtPAFvgm49O/IuOgxqMZ4u4Pd2XSHhKUv6WBPTNYiky1HrPnuRKyxGsTe8w/OXaNNIM9bjVcvuU/Gw43GKipvyKowsmLiDbve4vvrORcP4=;drCS0mIzCjnG7pwJ4MMXqA=="
 ---

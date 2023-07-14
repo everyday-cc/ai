@@ -94,11 +94,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screenshot-2023-07-14-at-10.26.42-AM.png?w=1200&strip=all"
         width: 875
         height: 467
+        isCached: true
+  - title: "How Walmart’s Emerging Tech team is transforming retail with conversational AI"
+    excerpt: "Conversational AI use cases at Walmart include shopping assistance, customer care automation, and improving associate productivity."
+    publishedDateTime: 2023-07-14T15:57:00Z
+    webUrl: "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming-retail-with-conversational-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/VB-Transform-2023-banner.jpg?w=1200&strip=all"
+        width: 1200
+        height: 660
         isCached: true
   - title: "The transformational impact of AI"
     excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
@@ -261,6 +275,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How AI is shaping our world: Reflections on World AI Appreciation Day 2023"
+    excerpt: "World AI Appreciation Day highlights AI's transformative impact on cybersecurity and data management since the 1950s."
+    publishedDateTime: 2023-07-14T17:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/world-ai-day-2023-how-ai-is-reshaping-our-world/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 37
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/14072023_WorldAIAppreciationDay2023.png"
+        width: 1189
+        height: 669
+        isCached: true
   - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
     excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
     publishedDateTime: 2023-07-11T19:22:00Z
@@ -354,6 +382,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XL2vbWutjyf7NW3n3us78eoxUplz0SqUZ7TRkFmnudzKTs84yVrW27rnwt1lJ6guYM9/32OavQs83E1NTjzXJDhhczVjyUh0dpbITYN6mFmCFjEl5UdtanA4kCQCngbHc21UpjUGpvQ5THpLMO0Amw22f3bk4iqWhZvd/UCs5+v3n5bRPAj83GNGCPoekqdtV5VKJ/0pvNPQ5ObRCecgoJ8yAUJxwkavL7ALugvLDLdRiwxXulfFSD1QqXhzVywTwwqMpssjPdqIRvNDons2HlTwpquK7b6MVEWX5J1NNZL+1zuuliMTxRiS5j9RKUezdi6jv4tYIAmMoXmImmy1NO5id/i9c/CJHDrbThMIswk=;IHb6Mcn5k32Bm6ktaraHAQ=="
+secured: "7Ul7Ku6F9QgQnmbKj5psYIr7rt2cw/eF0qMBRX38uVgvap8xRXnTe6U6m8WDHU81PY3NRbZ9/yMfUOUSmXAThQ8l2imJiwGkxAnOl+EHnjdEo/KngIYmGoN3AuOG6LOuprx9XZk/R6os3dMo4MiTJy36YuvR60DsII0qULSy/fHDOD0mPaBMTvwsOpFcR/M4SV2Di9RVDSYHjEs8xIb/VcafF/vDFuuP+PU3MtK75g1I/R214dNhCAa1xv774h2qdlKJDXYkXxGuGrt0ZrkMq/Vk9mLzGkJPhDSZuPc6gv8tLD7huFFYB+0XXBL1fD8vouUhq66eGcl2iAIfvaGOEo9p75RIugCAuS+fB7TpJqutz2SJYX6q9bNnfrywrndFJ3IFWnLVyknIm+Q3irujy8PFKGT5c97eml6CsKrlEC3u9UiY6aYz5KNU7VCeKpIwlp395Bwqq6MOWO++CcMy1eeut8N8I6dsuyfRJicRrdy6SlW4cSdUiM5udMe72qg7UKp8Qfx9WciO6YyBRg5Y9Q==;v78xU7bS/FUE095fVYUBUA=="
 ---
 

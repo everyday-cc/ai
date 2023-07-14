@@ -35,6 +35,20 @@ related:
         width: 720
         height: 484
         isCached: true
+  - title: "Behavioral Health Workers at Legacy’s Unity Center File for Union Recognition"
+    excerpt: "Fifty-seven employees at Legacy Health’s Unity Center for Behavioral Health in Portland filed for union recognition with the National Labor Relations Board this week , according to a press release from the Oregon Nurses Association. Per the release, the group includes crisis intervention specialists, counselors, therapists, and social workers."
+    publishedDateTime: 2023-07-14T09:41:00Z
+    webUrl: "https://oregonbusiness.com/behavioral-health-workers-at-legacys-unity-center-file-for-union-recognition/"
+    type: article
+    provider:
+      name: Oregon Business
+      domain: oregonbusiness.com
+    quality: 21
+    images:
+      - url: "https://h5a8b6k7.stackpathcdn.com/wp-content/uploads/2023/07/ea73ceecb671de32e93f6de8cd34eb30.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Voice hinges on national mood and values: Can Australia get out of its own way to vote for constitutional recognition?"
     excerpt: "Overcoming the ‘us and them’ rhetoric in the referendum debate to enshrine an Indigenous Voice in the Australian constitution is possible, according to Linda Burney, who argues history is calling for meaningful action to close the gap."
     publishedDateTime: 2023-07-12T07:34:00Z

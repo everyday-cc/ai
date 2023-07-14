@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.com/news/technology-66200334.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -30,16 +30,46 @@ images:
     isCached: true
 
 related:
-  - title: "Which jobs are under threat from artificial intelligence?"
-    excerpt: "The explosion in artificial intelligence capability is a direct threat to the employment of many. But which jobs are most at risk from AI? More"
-    publishedDateTime: 2023-07-10T14:15:00Z
-    webUrl: "https://www.yourlifechoices.com.au/technology/which-jobs-are-under-threat-from-artificial-intelligence/"
+  - title: "The Black Mirror plot about AI that worries actors"
+    excerpt: "If that sounds like the plot of an episode of Charlie Brooker's Black Mirror, that's because it is. US media has been quick to point out that the recent series six episode \"Joan Is Awful\" sees Hollywood star Salma Hayek grapple with the discovery that her AI likeness can by used by a production company without her knowledge."
+    publishedDateTime: 2023-07-14T16:06:00Z
+    webUrl: "https://www.bbc.com/news/technology-66200334?at_bbc_team=editorial&at_ptr_name=twitter&at_link_type=web_link&at_link_id=7FA42462-224D-11EE-AB00-4FA65B3BE886&at_link_origin=BBCNews&at_campaign_type=owned&at_format=link"
+    ampWebUrl: "https://www.bbc.com/news/technology-66200334.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp"
     type: article
     provider:
-      name: yourlifechoices.com.au
-      domain: yourlifechoices.com.au
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F3A0/production/_130386326_603b6ad4-fac6-440d-aa8a-6aeb338788ad.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Through the Black Mirror: \"Joan Is Awful\" and AI Malpractice"
+    excerpt: "\"Joan Is Awful\" follows Joan – played by Annie Murphy – a manager who sits below the board at a tech company and has to make one of her employees redundant despite the ramifications of this on the company's recent green initiative pledge."
+    publishedDateTime: 2023-07-10T15:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/07/10/9845155.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/2150333/IDTechEx.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "AI and the human factor"
+    excerpt: "Artificial intelligence (AI) still needs people to be able to function properly. This is the word from Peter Blignaut, manager: pre-sales at SAP South Africa, who points out that computers can do nothing without instruction."
+    publishedDateTime: 2023-07-10T13:52:00Z
+    webUrl: "https://it-online.co.za/2023/07/10/ai-and-the-human-factor/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
     quality: 19
 
-secured: "rhqSS7JNQOgSy2G4OwpKIQasTVjdzA2RSxKyZQL++wu8JW36wwCp+ydd+tHnRv6C3yvaES6NPANMgwWPmLAWlv/ornP1e8cF74PZ2baI3K+HsWth01V06IvwhYYwmUOCDar4RXToGL127lATli25p/maaw9AbVEFLTSAA8nNqdpo/20t2f70bvoVb1kjlXOn7vuhGTjHbkVq4sX+VpoXC1KY7ICm8hqDoW/n14AvC9Y5txyysN4M/XHJsolAOcxF9eIAr7mAUo50Fxo77/PAjgxcqTKkht1RMeDfzHGIy5eow0+/0S0TdJVPu1BVk6heq5kFEeY/L2whXHRslbnBLp5dTEPT7o0tsrscBX24buA=;ZWIdeClsOO6JUDpiR2VRbg=="
+secured: "Yidtp9ltWSlbXS7GcaoBymWaQ/Q/8ZZULzjhhNendSXdReB6Li0EicM8yOOWKsu1r7iAqdtVtt91BMBcbm4l2Tmgt9QzfP8r2cqOzYgUcKa6LgkG3ImKUqDYzs3jmNAYgVJDWIx45EXSmwdOiaDSdckslIuH7I3yi+7b4on5/ICz6jdcw8Wyu0EmM8/ECK3+LnChjZOhrjaEQ+xGU52chdmvT/+twxsyDRA26uMQ7983hE+wG1sKv66wseqHBC3cQCSt1IuzWDYK60Yp5Q4X0eM2BOBg8IhoxF2QoKAOeezr/Q00PLBsowHIKBxvGc85pk0xY3nt5BAoCETAsv5UJ+m9Uux9xu/w8kY8T2H9H5gL0jrfcVIiV9klA8l7m2+UZonguBF44zzjERfnP2A9UOEqFUxlA5jOgFefHJ2kQkE8j3nHtmDG40FX/9sURBH5EtnoSwAYp7eHSYEfU9T9VsWM+PBOgzgyIpocxi5lc/oyKPZzVFzmTpdGDmQVA3VbLoeTty8tNPE73MKKaJbfBw==;bzEw1g2c1+Q480JOo6YVsg=="
 ---
 

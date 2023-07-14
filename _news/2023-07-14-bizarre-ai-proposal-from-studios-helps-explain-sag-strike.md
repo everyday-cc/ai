@@ -56,6 +56,20 @@ related:
         width: 1177
         height: 662
         isCached: true
+  - title: "Hollywood's AI Proposal: Cloning an Actor's Likeness and Using It Forever"
+    excerpt: "Hollywood actors are striking partly because the big studios allegedly floated a controversial AI proposal for background actors."
+    publishedDateTime: 2023-07-14T15:30:00Z
+    webUrl: "https://www.pcmag.com/news/hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05UVqeIZBS68CskksBnJeLB-1.fit_lim.size_1200x630.v1689344605.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "U9Tx/cqu7Bo4ux6F2+9P+4mhB3nGUZ0kXQbJ+HX7fkW1v4Ede+NJnvma67+WHAQHDP5yHLxa0YoNCvBLr1nJPn4dY4n+vo4Gv+WVQvCKTmtFmo+VZXoTK8wHmX4biqrnlnQI2U0urdZ72J5peNZSBQ1OA9sIyzwSrUFGtBJ2KOyYGLA+9KxPwC2yHMcpxbDgf+RFAbUFAnsFmTMVtG9zhhJ93wCr9MNxWfp0ogIkJGY/5mlZicUsqwGc2b9ztru4npIIOHFT1UegOUmQr37UsQtheOna4JJadDL8wJhNeJoDZoQUyOlP3sYvviw/bvj7S6gF1V5hJZIB4xEh0LGFPTxARWhqy8zKcROrKU0PvktXX3Xf9aUvmVzSs0uNyob9Z0SIHmqMeaMD8iIwcjYgjtI4uGFRkP5/QxZloCO2XuCkPDYJ0EjE/qST6ONEh0n/h5j763N0VHsh5NlpUUFYHQr3Dbzn9PokdULj0NSlENjQ8CB46ztE6wbZXg7haSGHFDZC+gxKViKCBCNbBC99Zg==;pjoDcOouxNknGe+DO2wolA=="
 ---

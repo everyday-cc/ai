@@ -39,6 +39,15 @@ related:
         width: 960
         height: 600
         isCached: true
+  - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
+    excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
+    publishedDateTime: 2023-07-14T17:46:00Z
+    webUrl: "https://www.finextra.com/blogposting/24551/fintech-disrupted-the-financial-industry-now-ai-is-disrupting-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "boIOrrM76WEby6MJ/gWxz7FOK4Ww4g59po4x34RJLvSOjWnTse/Fx+z+6Hu9kv7stq88uFiS36iOwQCIHKWWuupx931HyV5SLfiJy+yb7IpiVJx/U5tnmJwYeBoPLqh8CBiwDOl4nCf22mCeWAwf2M13dvQ8wY9kYB1UHZEHC3dUPJrtm+Jwem505dRfeNZqu+iUpNTvtF1p3BhouyfJiOHVcF6qV6RqOsMesOmKJb/3RRGzShkbWVBDKeeCRgSF57vBivTlU9RgN68XOlqEVX2ADyBTdUWNjWOt1x9Ypi69qWf4cz/IukE3fD+OMa+Omr+ahIbZfidtMn48OLES5bizlYXc3/puJK/Sllhk8XCp7thRQFaLXMRuI1ATSI7F/omOVvLh01BhVaQqJN825/jNMUfg7mvT2YASn+2FVRG+UeKP7PxxXb6HFQZNHufkWxngQ2zQx11zQwyGG8lRc489MGWOJPIXq1zRTfhQnhpqNi/kJXIDEiPLdIMRdHMscfF8t+O1kcutC3ls9Y1kkQ==;9t5SnavYWLMBnB5ZdJY/vg=="
 ---

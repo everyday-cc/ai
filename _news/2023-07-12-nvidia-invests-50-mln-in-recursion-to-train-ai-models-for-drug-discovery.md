@@ -69,6 +69,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 11
+  - title: "StockWatch: After $50M from Nvidia, Investors Bullish on Recursion"
+    excerpt: "The appetites of biotech investors for companies expanding in artificial intelligence show no signs of slowing any time soon, as reflected by the stock surge enjoyed by Recursion Pharmaceuticals after Nvidia invested $50 million in the AI-focused drug developer."
+    publishedDateTime: 2023-07-14T16:34:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/stockwatch-after-50m-from-nvidia-investors-bullish-on-recursion/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 4
 
 secured: "H8SddcKhVJHfFbpqVZp3F9bkqV1idNAZaLvzmPg6J1K6t+rfVaG7L8Flaz2BgCF15Eb0jNhwfdcYcoux1bWrZv4buv8/0joHR4Hm0WuPQamwnO0rH1tJCc17BKnZ7Vm7Tui3WKsw/2pW+Jy+mi2a8+BAbJlsSKxZudYililpE2XoW1DVSyO9aOFYCefqR1pkKpdKKcAcZ3+DuhzfndU/WzwUMw08n1gdnFSyL9LFP0zTPROyiDRcrDud8mdeV6XeT6fSMBatquG1qtv52Zxfiz25+f83CZW67iU2zMfSyqb+zzHuIkOb3Ap8tjnRc6beNK8y2pnbFhogiHLCKq91dzsIOddeNJaAs9HUvcUkFi1vWj52QC3UtIh/BcFrwEHxHj6k72PDW3+dtmEhwJVR864Nde09OV2SCf4f65ideeMqkfFzPktlJ9xR6uaOJKUomo25m09J+NcsGH56sNkShvow1+EZfvezlbZtD5NqqYutTt3Ui86HpGOTufmpm/QqzNvjbu1Ia6UpOvN5E1MUkw==;ZM+GCW++p3QSJ3xpBcEeng=="
 ---

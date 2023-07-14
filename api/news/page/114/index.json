@@ -2,6 +2,137 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2023-05-03-new-artificial-intelligence-tool-can-diagnose-colon-cancer.md",
+      "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
+      "excerpt": "A new artificial intelligence (AI) model developed by Harvard Medical School and Taiwan’s National Cheng Kung University could provide much-needed clarity to clinicians presenting prognoses and deciding on therapies for patients with colon cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/pressreach-2023-5-3-new-artificial-intelligence-tool-can-diagnose-colon-cancer",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/pressreach-2023-5-3-new-artificial-intelligence-tool-can-diagnose-colon-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-amd-reports-a-steep-decline-in-pc-chip-sales-but-theres-an-epyc-silver-lining.md",
+      "title": "AMD Reports A Steep Decline In PC Chip Sales But There's An EPYC Silver Lining",
+      "excerpt": "Despite some big losses, AMD CEO Dr. Lisa Su remained upbeat with an eye on 'significant growth opportunities' if the company sticks to its game plan.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "originalUrl": "https://hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61530/content/AMD_Dr_Lisa_Su_EPYC_Hero.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "publishedDateTime": "2023-05-03T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-charmhealth-democratizes-generative-ai-use-across-clinical-workflows-in-healthcare-establishments-and-verticals.md",
+      "title": "CharmHealth Democratizes Generative AI Use Across Clinical Workflows in Healthcare Establishments and Verticals",
+      "excerpt": "CharmHealth integrates search and summarize features, including auto-generating chart note components, note summaries, referral letters, lab result queries, and other features. Clinical virtual assistant features such as auto-suggestion of diagnosis codes and treatment plans are also being rolled out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/charmhealth-democratizes-generative-ai-use-across-clinical-workflows-in-healthcare-establishments-and-verticals-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/charmhealth-democratizes-generative-ai-use-across-clinical-workflows-in-healthcare-establishments-and-verticals-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-sap-signs-ibm-watson-deal-chatgpt-showstopper-waits-in-the-wings.md",
       "title": "SAP signs IBM Watson deal, ChatGPT showstopper waits in the wings",
       "excerpt": "Watson is a question-answering system developed by IBM in the Noughties. SAP said the Watson-powered system would help managers and employees in the find answers across various SAP business applications, having already been deployed in SAP Concur, the expense management application.",
@@ -1056,135 +1187,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-deep-learning-pioneer-geoffrey-hinton-has-quit-google.md",
-      "title": "Deep learning pioneer Geoffrey Hinton has quit Google",
-      "excerpt": "Hinton will be speaking at EmTech Digital on Wednesday. Geoffrey Hinton, a VP and engineering fellow at Google and a pioneer of deep learning who developed some of the most important techniques at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
-      "originalUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515042.jpeg?w=2845",
-          "width": 2845,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/",
-      "publishedDateTime": "2023-05-02T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-new-course-steeps-humanities-and-social-science-graduate-students-in-machine-learning.md",
-      "title": "New course steeps humanities and social science graduate students in machine learning",
-      "excerpt": "The course, taught by Sarah-Jane Leslie, the Class of 1943 Professor of Philosophy, offers a primer on “deep learning” for graduate students. The class assumes the students have no extensive knowledge of calculus or linear algebra, nor any prior ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.princeton.edu/news/2023/05/02/deep-learning-princetons-graduate-school",
-      "originalUrl": "https://www.princeton.edu/news/2023/05/02/deep-learning-princetons-graduate-school",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2023/05/MachineLearning_3000x1688_bookFinal_0.jpg?itok=gRmwODxT",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Princeton University",
-        "domain": "princeton.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-hollywood-screenwriters-dont-want-robots-taking-their-jobs-either.md",
-      "title": "Hollywood screenwriters don’t want robots taking their jobs, either",
-      "excerpt": "The thousands of WGA scribes who went on strike this week are concerned in part about the rise of AI — and how the major studios might tap the technology going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
-      "originalUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230502-NYC-Hollywood-Writers-Strike-ac-536p-6e2e6a.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82543",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543",
-      "publishedDateTime": "2023-05-02T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Automation, Efficiency, Insights: Freshworks Leverages Generative AI to Transform Customer Experiences"
-    excerpt: "There’s a revolution happening in the customer service industry and generative AI is at the heart of this transformation. Luckily for support agents around the world, Freshworks has been leading by testing and integrating AI into its products for the last five years."
-    publishedDateTime: 2023-07-11T20:35:00Z
-    webUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-insights-freshworks-leverages-generative-ai-to-transform-customer-experiences/"
+  - title: "A varied life boosts the brain's functional networks"
+    excerpt: "That experiences leave their trace in the connectivity of the brain has been known for a while, but a pioneering study now shows how massive these effects really are. The findings in mice provide unprecedented insights into the complexity of large-scale neural networks and brain plasticity."
+    publishedDateTime: 2023-07-12T03:03:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/07/230711133136.htm"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/two_women_coding-1024x683-1.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "A Varied Life Boosts the Brain’s Functional Networks"
+    excerpt: "The findings in mice provide unprecedented insights into the complexity of large-scale neural networks and brain plasticity. Moreover, they could pave the way for new brain-inspired artificial intelligence methods."
+    publishedDateTime: 2023-07-11T13:23:00Z
+    webUrl: "https://idw-online.de/de/news817644"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 19
 
 secured: "dv1Rfoa3Ldjv8rP3LfF7EA69ul/xz5wyXTEX2RTqfuRB73leoVtRC5kntrYVbovAA/VMZXDFoGFo1ONPSf2yWahwEzVNUaBgCeSNXMUDeeiCCmLh4NH4GOHWGLtZoMHIdiQ8N496m0tNMRmyyv4hYrMUUK8eovRJblw6Fo3R9YZuCR2mu8htH+NmSF9EtmTAQa81C4/T0PbH90kl1IG+qLvQ5WBdW7NmH+qLvdrk5tYplzfm1BcsiTkgCuEx8ESOjItGFuLmtrkpBz3LZXgMiueFwUppVPGoQMsUCBOLn6Htih7F1it8fEIQRuen9m6KT2HkzXFIBQZF38ld5gPoWZeqyODTamsXph6cQQ4GerA=;xefq+ZARmbC1MvX6TujRow=="
 ---

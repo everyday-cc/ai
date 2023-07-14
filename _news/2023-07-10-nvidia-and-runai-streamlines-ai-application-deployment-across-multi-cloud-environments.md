@@ -65,6 +65,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "StockWatch: After $50M from Nvidia, Investors Bullish on Recursion"
+    excerpt: "The appetites of biotech investors for companies expanding in artificial intelligence show no signs of slowing any time soon, as reflected by the stock surge enjoyed by Recursion Pharmaceuticals after Nvidia invested $50 million in the AI-focused drug developer."
+    publishedDateTime: 2023-07-14T16:34:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/stockwatch-after-50m-from-nvidia-investors-bullish-on-recursion/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 4
 
 secured: "fPoZyh2SWC68rchS12W4LrhCh8SeOWEQ8JWA+M7vcnPCC9aFwtLgM6kNBubmkYfN/hnK8WGE0IYUQgEvdivOPfPXf42CwSXEedFpHuXvlRdJnWGzqF4N8qat1Q5pAaBSGLKTH+91eDQn43iEs+AL6WYpz18NX41N+CBnM8GhVGlAfzbzNl2wuIgqNpZnseQI9xesHK91UDbi3lfuhwqj1kcAa9YFAjaC6W46ZCQshA4OHrr6fmSHrVw1mftXdMzjQa4S9WzSsSzrIR6xcn1WuHYmWzuqMt5VCelxCsiZzDV1Y1Omi+t8rMwH55JlAUSHVBe+owPOqIrYvztNj7zUT/lDX8XfBMy7/510L7E3XQvUHpuKAyNY1mnH3FO+SrA8NJ0+HXwbA8YqEXsuz8T4w577xfP9yMxNC74e2MZAiSnccaEaFTTa+ttzQf07ubNwda0vv4C/pGmg3k9RQw7UA3msGZ0rnb/AJgByrzOjmWF/G9fOgQxVLPGvjNhsKarclg5KclXFJPdujTFNVwjL0g==;VVVT38RMdnLGHldHtG406g=="
 ---

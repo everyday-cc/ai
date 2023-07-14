@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-cha
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-chatbot-bard-gets-belated-european-release"
 type: article
 quality: 67
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -28,35 +28,89 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s AI Chatbot Is Trained by Humans Who Say They’re Overworked, Underpaid and Frustrated"
-    excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes"
-    publishedDateTime: 2023-07-12T10:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-12/google-s-ai-chatbot-is-trained-by-humans-who-say-they-re-overworked-underpaid-and-frustrated"
+  - title: "AI Industrial Robotics - Europe"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$2.50bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.34%, resulting in a market volume of US$6 ..."
+    publishedDateTime: 2023-07-10T14:14:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 56
+      name: Statista
+      domain: statista.com
+    quality: 69
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTnywOOoJLm8/v0/1200x800.jpg"
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Indian startup Dukaan lays off 90% of its support staff, replaces it with AI chatbot"
-    excerpt: "We had to layoff 90% of our support team because of this AI chatbot. Tough? Yes. Necessary? Absolutely. The results? Time to first response went from 1m 44s to INSTANT! Resolution time went from 2h 13m to 3m 12s Customer support costs reduced by ~85% Here's how's we did it 🧵 Also Read: Suumit Shah’s decision comes at a time when the internet is divided on the subject of AI taking over jobs,"
-    publishedDateTime: 2023-07-13T09:36:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/lite/"
+  - title: "AI Service Robotics - Italy"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$114.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.09%, resulting in a market volume of US$288 ..."
+    publishedDateTime: 2023-07-10T09:28:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/italy"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 50
+      name: Statista
+      domain: statista.com
+    quality: 69
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-14.png"
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "AI Industrial Robotics - Russia"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$58.19m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.56%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-10T19:50:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/russia"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Service Robotics - France"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$171.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.38%, resulting in a market volume of US$413 ..."
+    publishedDateTime: 2023-07-11T07:38:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/france"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Service Robotics - India"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$116.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.45%, resulting in a market volume of US$317 ..."
+    publishedDateTime: 2023-07-12T09:30:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/india"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Two new ultrasound systems to address healthcare challenges in Europe"
+    excerpt: "Canon Medical announces the commercial availability of its two latest ultrasound systems, Aplio flex and Aplio go, in Europe."
+    publishedDateTime: 2023-07-11T09:48:00Z
+    webUrl: "https://healthcare-in-europe.com/en/news/canon-new-ultrasound-systems-aplio-flex-go.html"
+    type: article
+    provider:
+      name: healthcare-in-europe.com
+      domain: healthcare-in-europe.com
+    quality: 39
+    images:
+      - url: "https://healthcare-in-europe.com/media/story/28460/rect-01-aplio-flex-aplio-go.jpg"
+        width: 400
+        height: 240
         isCached: true
   - title: "Google rolls out AI chatbot Bard to Europe and Brazil and adds more languages"
     excerpt: "Google says it’s rolling out its AI-powered chatbot Bard across Europe and in Brazil, expanding its availability to hundreds of millions more users"

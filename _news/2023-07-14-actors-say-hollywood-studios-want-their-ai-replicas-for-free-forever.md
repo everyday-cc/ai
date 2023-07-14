@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strik
 webUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "AI worries spread from UN and OECD to Hollywood"
+    excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."
+    publishedDateTime: 2023-07-14T17:15:00Z
+    webUrl: "https://www.ft.com/content/ff29c447-4f9b-4a6b-b009-c224d0eee139"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "ZoUEtIt9x+KLqTxDfCGR7Owyrf6Ef12J0uR/UQ1Yf6+2TMyTdxqAUG8H7KT4uvhrx6KttIqrk0gRlc1X1pm3qfH5bREsxQhtTp83NsYnSU3afDCpZ8KKyb8cVsCUOuIJf/DtzEbw1c4hF2xAwc7iUsO6B/8EFn5XZSSsiWHmwBxDjzf1rEeJtlq9e0d+futUIeSjxkbKeoGVGLfZr8dUznA1nUa3lnSLyfPaZ5nX7BDdnm94L+kzvqJuQ6uKWhW/LBAOabaqXFnsF7FhpR5JSW76ouApw5/O0x+jEa9oH82TpsUIYIOOq5S5XQNojYb81r6mhnHofQ90NTx1VODlUzirpUAjWHj6Dz7mPf9v+y4=;oxyBjYBultnuaUDGWIWw2A=="
 ---

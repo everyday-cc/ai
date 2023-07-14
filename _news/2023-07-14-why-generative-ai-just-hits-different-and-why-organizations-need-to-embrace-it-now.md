@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-14T14:45:00Z
 originalUrl: "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/"
 webUrl: "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screenshot-2023-07-14-at-10.26.42-AM.png?w=1200&strip=all"
@@ -99,6 +100,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM0153.jpg?w=1200&strip=all"
         width: 1200
         height: 739
+        isCached: true
+  - title: "How Walmart’s Emerging Tech team is transforming retail with conversational AI"
+    excerpt: "Conversational AI use cases at Walmart include shopping assistance, customer care automation, and improving associate productivity."
+    publishedDateTime: 2023-07-14T15:57:00Z
+    webUrl: "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming-retail-with-conversational-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/VB-Transform-2023-banner.jpg?w=1200&strip=all"
+        width: 1200
+        height: 660
         isCached: true
   - title: "The transformational impact of AI"
     excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
@@ -261,6 +276,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How AI is shaping our world: Reflections on World AI Appreciation Day 2023"
+    excerpt: "World AI Appreciation Day highlights AI's transformative impact on cybersecurity and data management since the 1950s."
+    publishedDateTime: 2023-07-14T17:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/world-ai-day-2023-how-ai-is-reshaping-our-world/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 37
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/14072023_WorldAIAppreciationDay2023.png"
+        width: 1189
+        height: 669
+        isCached: true
   - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
     excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
     publishedDateTime: 2023-07-11T19:22:00Z
@@ -354,6 +383,6 @@ related:
         height: 675
         isCached: true
 
-secured: "aLsxbT/48EDOSEhJsmFo3+MZrvfmUI11pnKvJ3SfHbj95RBzV+Ugg0hdlbbeGejNRQtH+dcL/+Ojxu2nmO7F8Oj3Ko31HAnnzqcHTCIXC+FfvLtcNKQ0R8IGRisp3o9appMNI3czBmte+Sv1x0p9P3m1OiOYjr/6TqBWW6VQGztGxkP2hM7SFvB9zYm4O7jxFd8UpYms4Velmrkw3wQ99f0np/mHRbC/2p/FvunWkXF6WUNaOTjZ/qLYgl8Q5xoyFVkCrQAj220Mdl6qOvXj+hwdPiB9VZaZ2BzQMroRy0Z3KOClJrMsXKpiMzxitcOGTANyy84MpKyIjOt/Bnb63vGFsdUsnSRM2cvPGoQvglI=;ZUB72EmTcH5a9Dh6rhdmWQ=="
+secured: "DwG08yBLRhHdpzHP6tKXcZSMkAU/Znu/BomDPIDLXsJ3/FbeG//KHW5wWtfggBXyGm+SYItTeNe1FGWxRoezZil9J7gvKaxfdx7vdHFqoQAK5/tcnGW5nu9Yy516lmpraAewO54Zd+VqxN48cAkN1K6LEV9sTrrPTMv73Z7+JfOiP5H2T1WdHfGRYftEF8kUX0SU5iZPtwdw38q6aj4fZ5+82olakwT/vtgzYnTsQo0XdJWOC23AbK1BvxYURZIana56Od97urbUu21CbtdveS7zJnw5IVL2DlmGmUEcnO7XvxnkVXRCY5Uz9bc0dhTchQhURqnMBMgET6zetGocQ7AY17jA4lWjrTrPEzAcCHuhDG4HjXNKPvzu2DqCEOTIoHikoUIVKv51AFE6FmLF9b/M+CEcH9WQlHeFWIuvUd/DhA4ChWr03TkKsL01f8gxBYy5uaIe4ATwvSyqTlto5mg/v7iJf6jCnNMfC2VUhVtEzbIEoi2cFp2PbOANtYSiICqQSS1pr4/jxH0NtjI2Iw==;+/w4Vrmh7tPd4/Oisr6FkA=="
 ---
 

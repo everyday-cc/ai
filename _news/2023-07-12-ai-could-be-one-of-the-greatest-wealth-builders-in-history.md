@@ -170,6 +170,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "3 Biotech Stocks Using AI to Change Healthcare Forever"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The past year provided a peek into the future of biotech and healthcare."
+    publishedDateTime: 2023-07-14T15:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-biotech-stocks-using-ai-to-change-healthcare-forever-1032448046"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "AI And Other Technology Can End The Great Healthcare Paper Chase"
     excerpt: "One area ripe for change is the labor-intensive practice of \"chart-chasing.\" This manual review of paper charts, folder by folder, is a burden to both healthcare plans and providers. Worse, it is often conducted under the pressure of regulatory or third-party deadlines."
     publishedDateTime: 2023-07-11T11:00:00Z

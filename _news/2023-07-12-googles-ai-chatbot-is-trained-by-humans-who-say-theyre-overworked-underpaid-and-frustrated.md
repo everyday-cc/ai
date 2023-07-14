@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-12/google-s-ai-cha
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-12/google-s-ai-chatbot-is-trained-by-humans-who-say-they-re-overworked-underpaid-and-frustrated"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -28,63 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s AI Chatbot Bard Gets Belated European Release"
-    excerpt: "Alphabet Inc.’s Google released its Bard chatbot to users in the European Union and Brazil, and said the artificial intelligence tool can now generate responses in more than 40 languages, including Chinese,"
-    publishedDateTime: 2023-07-13T07:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-chatbot-bard-gets-belated-european-release"
+  - title: "Google’s AI contractors say they are underpaid, overworked, and ‘scared’"
+    excerpt: "According to a Bloomberg report, the labor conditions allegedly have grown only more frantic as companies continue their 'AI arms race.'"
+    publishedDateTime: 2023-07-13T16:00:00Z
+    webUrl: "https://www.popsci.com/technology/google-bard-contractors/"
+    ampWebUrl: "https://www.popsci.com/technology/google-bard-contractors/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-bard-contractors/?amp"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Popular Science
+      domain: popsci.com
+    quality: 56
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_aVjVRzw3SQ/v0/1200x837.jpg"
-        width: 1200
-        height: 837
-        isCached: true
-  - title: "Indian startup Dukaan lays off 90% of its support staff, replaces it with AI chatbot"
-    excerpt: "We had to layoff 90% of our support team because of this AI chatbot. Tough? Yes. Necessary? Absolutely. The results? Time to first response went from 1m 44s to INSTANT! Resolution time went from 2h 13m to 3m 12s Customer support costs reduced by ~85% Here's how's we did it 🧵 Also Read: Suumit Shah’s decision comes at a time when the internet is divided on the subject of AI taking over jobs,"
-    publishedDateTime: 2023-07-13T09:36:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 50
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-14.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google rolls out AI chatbot Bard to Europe and Brazil and adds more languages"
-    excerpt: "Google says it’s rolling out its AI-powered chatbot Bard across Europe and in Brazil, expanding its availability to hundreds of millions more users"
-    publishedDateTime: 2023-07-13T10:17:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206487"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 34
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_718684c77171b2680280b7b915eefdda_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Google Bard now in Europe, supports 40+ languages, pinning chats, and more"
-    excerpt: "Google is giving Bard its \"biggest expansion to date\" by coming to Europe and Brazil, as well as supporting additional"
-    publishedDateTime: 2023-07-13T07:01:00Z
-    webUrl: "https://9to5google.com/2023/07/13/google-bard-europe/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 22
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-bard-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://www.popsci.com/uploads/2023/07/13/Depositphotos_273649336_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "4ptA5QDNVC/WQLsJhF2jmZqy6Y69Ej5d/lN+iVjyngAm6dM524A2UZfmZKfXEkdlVIO1seJ3WDMFx99jft4reta1BQ6NlLBwuhKQaBWu9wehZuY//i53hx58Demp7o2Fb2zjOgsOAKqB9wiJNPCALIgACWu0gltVVNFErQKHQU/OkFtdyezqqTLgagzrcy8g5mdLlYI4fccpRYv/eslP0ggH1t1YOK410q6y5xR0A5WC/FU9XL2Yakl+3CxZ+STQsYJOCWrkla60pevn+UohZumexQ3PvLNI9GVrYWyUwgb/HPgTduffxXsDaCqFHe8ltlSFtFkVr60OXU4+Sb2HHQi/3FUpaZPKEGV47ub8xdH7iGEL9KZ/or/GYJH2pYawmbmDC7rOL2kwPWexLBFLmFyX7qMLK28J6URcO/vSXCc17pWEqq6GzCidilb9nqVmIgAofljsR5i6aROQob81npmcltZYzNBxmNGxDay7zmVyPYDzz9QpjxD30iFWvHPdQA9e674f/AV3wEG8bZ9uOg==;7w2v93vr9b9vd3S/7LHNJQ=="

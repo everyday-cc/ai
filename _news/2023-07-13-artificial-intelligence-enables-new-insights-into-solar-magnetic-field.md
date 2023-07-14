@@ -35,7 +35,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 57
+    quality: 59
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-60.jpg"
         width: 699

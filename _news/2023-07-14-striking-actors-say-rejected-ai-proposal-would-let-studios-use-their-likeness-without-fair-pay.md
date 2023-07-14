@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/striking-actors-say-rejected-ai-proposa
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64b0ef566fd25ebd02ee197f/0x0.jpg?format=jpg&crop=1177,662,x0,y1,safe&width=1200"
         width: 1177
         height: 662
+        isCached: true
+  - title: "Hollywood's AI Proposal: Cloning an Actor's Likeness and Using It Forever"
+    excerpt: "Hollywood actors are striking partly because the big studios allegedly floated a controversial AI proposal for background actors."
+    publishedDateTime: 2023-07-14T15:30:00Z
+    webUrl: "https://www.pcmag.com/news/hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05UVqeIZBS68CskksBnJeLB-1.fit_lim.size_1200x630.v1689344605.jpg"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "J2W4y3fVqY4u4+0vQcRPeYsz8kI9s93sLhT7qtvMsOLA0bOf65wDpbEZOjfbahDKkhrEYPCBOni+uevgpocHa/uKRU5qBe4PP1BEzFBTWvIpYnhhLSkBLAoGKweyx/XsDAl01YizEp0FLOpJo2oNgP0jDHtdzw+I/jnYAJalPJYOXnyFci2HSBOMPHmfuJG+aZEW1Zm5tjDOOfhzv6iOGdyXNd1WvaAbB2Zc246pkWeLJT/+kuuiJl/1Hpx4xioNfj8cxh0Vdv1CaLRYgG4jWpG4o+aGzFNbTAe2+hsDZg2oWuH1i+qG9WEdfcossBK4DAuZgUg0tMKRUsy6KA9J46oBzPm2+/4gjAwevRUnKrlWTU5jnDpm3yQU0zEi1E9rMq3FOV3U3bb7+UkPKTsq/JAUKP/f/yniUE2K3SlkSpt8T4ryJX61SJfZmcZa0dmmFD+JKFNc29/r5QdEcFRyn2seBxk7n566n0CBz2EyameiJt0uxwn1Qgc+BKB7urkung+nf4FIPRcATgnpkhZF8Q==;X3myubqOOOacP9zufmpQMw=="

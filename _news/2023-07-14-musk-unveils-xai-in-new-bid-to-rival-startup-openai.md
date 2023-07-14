@@ -168,6 +168,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 46
+  - title: "Google AI Boss Says New System Will Be More Powerful Than OpenAI"
+    excerpt: "According to Google DeepMind CEO Demis Hassibis, Google has an ultra-powerful large language model (LLM) on the way — and it may blow OpenAI's existing systems like the ones powering ChatGPT out ..."
+    publishedDateTime: 2023-07-11T17:28:00Z
+    webUrl: "https://futurism.com/the-byte/google-ai-new-system-openai"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/google-ai-new-system-openai.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google-backed Anthropic startup upgrades its Claude AI"
     excerpt: "Anthropic, an artificial intelligence startup backed by Google, has widened consumer access to its chat program Claude and upgraded underlying technology that the company says makes \"Claude 2\" better at tasks such computer coding and arithmetic."
     publishedDateTime: 2023-07-12T00:04:00Z

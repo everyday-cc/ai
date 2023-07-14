@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-12/ai-drug-discove
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-12/ai-drug-discovery-firm-recursion-rxrx-surges-after-nvidia-nvda-investment"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 11
+  - title: "StockWatch: After $50M from Nvidia, Investors Bullish on Recursion"
+    excerpt: "The appetites of biotech investors for companies expanding in artificial intelligence show no signs of slowing any time soon, as reflected by the stock surge enjoyed by Recursion Pharmaceuticals after Nvidia invested $50 million in the AI-focused drug developer."
+    publishedDateTime: 2023-07-14T16:34:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/stockwatch-after-50m-from-nvidia-investors-bullish-on-recursion/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 4
 
 secured: "xRSZF86+/+v69xzwfKAwUALznC9yI1i90jATWN2LL9NjYRCSL4Pka+DZKTxVPviMtDy7iODFgtiG7ATioE3DDOxIjhi4lniPmP3XCvjCK3Ip04MDulY8QI30t3d0dep6wkrWxBDRoZVrx/3nPUW71jTrr8puMiEJsfdGhGgA+QuRXtlbStwUY3bVs881KAB/D1Q/bqxZn6quau5TI1wa60p7QU85bmLk4ahDawMP1A+h7inkAvBXd5/RHiAj1ZED++q1jD1J8b9j432cX+X4PileRN7w5aRreSDMJO1RtFDbTzMfol2hOTsGLqlEHgPJaucORcI4Vi7tH2+5llAb30vhExisVK2eXfkXijIYf8Q=;IYdocDxs8tQVdm2dico5cA=="
 ---

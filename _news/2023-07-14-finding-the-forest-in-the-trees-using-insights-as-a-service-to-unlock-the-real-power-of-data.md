@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/finding-
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/finding-the-forest-in-the-trees-using-insights-as-a-service-to-unlock-the-real-power-of-data/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Yifei Wang's Interdisciplinary Expertise Transforms Multiple Industries Using Machine Learning And Data Science"
+    excerpt: "Machine learning and data science are pivotal forces that are reshaping many aspects of modern life. Those techniques are not just enhancing efficiency and decision-making, but they are also crafting creative and inventive solutions to complex challenges,"
+    publishedDateTime: 2023-07-14T16:17:00Z
+    webUrl: "https://www.benzinga.com/general/23/07/33233448/yifei-wangs-interdisciplinary-expertise-transforms-multiple-industries-using-machine-learning-and-da"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33233448"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33233448"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/07/14/shutterstock_435613807.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KoUZ5WQ2qzw9ZbajsKgikdd8IOtVM82hG0aF/HzhQKVEZJ+lqz/MROD1/sWkuSX97spYUCf0YaG1alTaBzgLg8YKGDHI9+Vk5VHuK10SEWX3beJGeO9tMBDNINl0LoMqhIt9PR3ibAXVxpDfjmy2jhgGpOmJkVzlhkdb1MRBwtPXXqFRxKwUpmYBugkyZEk3Z4Uh0Si1DqDrKVJX7MPSL8WUorxqs8UFPkl3uScCrEMAzL+8Voi4A6OeGvGZo6k5wusEb7glpqh8KKULqwX7z26yJW12Ikl9uEjcT1R+DHmpD7rgDeeVveX5MbzXaHgMN/EyZmVbA4wBw05u/7GisLoulOXls58Yr6xBhfmQVbE0PARbMOB6xxSqZqjAIITACFWvo/N/mvr+NHMEblzvX7/smYkOgOTsH11nu5NhyJDYjpkoCzvoiFOL9X6Z60fD8g9Ree2AZ8hOX3+TxVdwUkpTyI8iifNaqKROWV2BmlZcWRJBUETRLxkOAm5+JZ4Gm7b+a/3MB+B7s4T46oikDA==;rxBjneVBCZ3rai8XzYv/+Q=="
 ---

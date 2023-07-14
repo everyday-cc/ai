@@ -10,7 +10,7 @@
       "originalUrl": "https://gizmodo.com/sarah-silverman-sues-chatgpt-and-meta-over-ai-training-1850621182",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -34,6 +34,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-threads-beat-chatgpt-to-100-million-users-but-the-ai-app-is-way-more-consequential.md",
+      "title": "Threads beat ChatGPT to 100 million users but the AI app is way more consequential",
+      "excerpt": "Mark Zuckerberg's new Twitter copycat app has attracted 100 million users in less than a week, but its rise is less significant that ChatGPT's growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ac17138ed31300199e4552?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp",
+      "publishedDateTime": "2023-07-10T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -299,6 +350,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-ai-industrial-robotics-europe.md",
+      "title": "AI Industrial Robotics - Europe",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$2.50bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.34%, resulting in a market volume of US$6 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -636,7 +730,7 @@
       "originalUrl": "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 342,
+      "heat": 362,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1116,102 +1210,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023.md",
-      "title": "How Artificial Intelligence, Data And Analytics Are Transforming Formula One In 2023",
-      "excerpt": "Artificial intelligence (AI) is driving a wave of disruption, transforming car design, race performance and fan experience alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aba876bdd5adff4391cf1d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/amp/",
-      "publishedDateTime": "2023-07-09T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales.md",
-      "title": "Save up to 43 per cent on an ECOVACS DEEBOT robot vacuum in the Prime Day sales",
-      "excerpt": "It’s Amazon’s Prime Day and there has never been a better time to purchase an ECOVACS DEEBOT robot vacuum/mop or the WINBOT W1 Pro window cleaner. If you’ve been on the fence about purchasing a robot vacuum or perhaps couldn’t fit one into your budget,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techguide.com.au/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "originalUrl": "https://www.techguide.com.au/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techguide.com.au/wp-content/uploads/2023/07/3-AIVI-3.0-e1688971217992-450x300.jpeg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "cdnAmpWebUrl": "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "publishedDateTime": "2023-07-09T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Guide",
-        "domain": "techguide.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -174,6 +174,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "3 Biotech Stocks Using AI to Change Healthcare Forever"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The past year provided a peek into the future of biotech and healthcare."
+    publishedDateTime: 2023-07-14T15:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-biotech-stocks-using-ai-to-change-healthcare-forever-1032448046"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Health care providers say artificial intelligence could transform medicine"
     excerpt: "Doctors at Mass General Brigham are using generative AI to record patient visits instead of typing in notes. Doctors say the technology not only saves them hours in administrative work, allowing them more time with patients, but they are able to focus on a patient’s social cues during appointments."
     publishedDateTime: 2023-07-14T00:20:00Z

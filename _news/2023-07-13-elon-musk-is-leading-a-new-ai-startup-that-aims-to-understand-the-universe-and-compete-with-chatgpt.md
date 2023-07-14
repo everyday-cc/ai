@@ -24,303 +24,143 @@ images:
     isCached: true
 
 related:
-  - title: "China takes major step in regulating generative AI services like ChatGPT"
-    excerpt: "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT."
-    publishedDateTime: 2023-07-14T08:03:00Z
-    webUrl: "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
+  - title: "Elon Musk wants to build AI to ‘understand the true nature of the universe’"
+    excerpt: "Twitter CEO Elon Musk is founding an organization, xAI, to build AI to \"understand the true nature of the universe.\""
+    publishedDateTime: 2023-07-12T17:04:00Z
+    webUrl: "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/"
+    ampWebUrl: "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 86
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230714011428-china-generative-ai-regulation-intl-hnk.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Threads beat ChatGPT to 100 million users but the AI app is way more consequential"
-    excerpt: "Mark Zuckerberg's new Twitter copycat app has attracted 100 million users in less than a week, but its rise is less significant that ChatGPT's growth."
-    publishedDateTime: 2023-07-10T15:38:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/64ac17138ed31300199e4552?width=1200&format=jpeg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258742140.jpg?resize=1200,800"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Has ChatGPT failed, does it signal failure of Artificial Intelligence as well?"
-    excerpt: "It is an indication that the AI and ChatGPT have peaked in just six months and are now falling. But many people believe that the Chat GPT is a small part of Artificial Intelligence and its slowing down does not indicate failure of the AI."
-    publishedDateTime: 2023-07-11T17:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/us/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well/articleshow/101676991.cms"
-    ampWebUrl: "https://m.economictimes.com/news/international/us/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well/amp_articleshow/101676991.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well/amp_articleshow/101676991.cms"
+  - title: "Elon Musk launches new AI company to 'understand the true nature of the universe'"
+    excerpt: "In April, Musk also shared his intention to create a new AI model called TruthGPT. In an interview with Tucker Carlson, Musk described the new model as a \"maximum truth-seeking AI that tries to understand the nature of the universe,\" wording that mirrored the press release's description of xAI."
+    publishedDateTime: 2023-07-12T20:29:00Z
+    webUrl: "https://www.zdnet.com/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 68
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-205650,msid-101677112/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Elon Musk announces xAI, a new artificial intelligence company to rival ChatGPT"
-    excerpt: "Elon Musk on Wednesday announced the formation of a new company focused on artificial intelligence called x.AI"
-    publishedDateTime: 2023-07-12T17:17:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
-    ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 68
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/13/87161d19-8c3f-4df4-a590-941c017ad967/thumbnail/1200x630/3b5d57cb4fee03f165853faa1a855a19/cbsn-fusion-elon-musk-announces-new-twitter-ceo-encrypted-messages-feature-thumbnail-1965276-640x360.jpg?v=0d985d39f30c0548885e26d84e710785"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Elon Musk takes aim at ChatGPT with launch of artificial intelligence firm xAI"
-    excerpt: "Musk has said on several occasions that the development of AI should be paused and that the sector needs regulation."
-    publishedDateTime: 2023-07-12T18:53:00Z
-    webUrl: "https://nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/"
-    ampWebUrl: "https://nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 68
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/elon-misk-xai.jpg?quality=75&strip=all&1689166555&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "China says generative AI rules to apply only to products for the public"
-    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
-    publishedDateTime: 2023-07-14T00:36:00Z
-    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Does Generative AI herald the end of an era or the start of a new chapter in marketing?"
-    excerpt: "Despite concerns about job losses and potential changes in the marketing industry, generative AI is a great asset for the marketing team, rather than a threat. Generative AI presents unparalleled opportunities to accelerate creativity,"
-    publishedDateTime: 2023-07-10T03:17:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 66
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101624579,imgsize-800807,width-1200,height=765,overlay-etbrandequity/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Elon Musk's New ChatGPT Competitor Boosts AI-Related Crypto Tokens"
-    excerpt: "Tokens such as AGIX and FET saw modest bump after Musk announced new Artificial Intelligence (AI) company \"xAI\" to take on ChatGPT."
-    publishedDateTime: 2023-07-12T17:13:00Z
-    webUrl: "https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/"
-    ampWebUrl: "https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/?outputType=amp"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/?outputType=amp"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 59
-    images:
-      - url: "https://www.coindesk.com/resizer/tBu9OHF5BKIkOH8pJytphVkNALo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Y64QHXJPTVFJPPHBPUVNXX4CSE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Meta set to release a commercial AI model like Bard and ChatGPT"
-    excerpt: "Elon Musk, in a separate development, has recently launched a new AI company named xAI, with a mission to understand the true nature of the universe. The xAI includes members with prior experience at prominent AI organizations such as Microsoft Research,"
-    publishedDateTime: 2023-07-13T14:25:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/ai-freepik-1689257776.jpg"
-        width: 360
-        height: 202
-        isCached: true
-  - title: "Meta to release commercial AI model like ChatGPT, Bard"
-    excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in"
-    publishedDateTime: 2023-07-13T14:01:00Z
-    webUrl: "https://glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard"
-    ampWebUrl: "https://glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 59
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/Skill-Lync.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Elon Musk launches his own AI company to compete with ChatGPT"
-    excerpt: "Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
-    publishedDateTime: 2023-07-13T15:59:00Z
-    webUrl: "https://abcnews.go.com/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/Business/elon-musk-rt-gmh-230713_1689261684208_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Setapp introduces a ChatGPT assistant & other AI tools into its service"
-    excerpt: "App subscription service Setapp has introduced new features powered by artificial intelligence, including an assistant, better search, and a new toolkit collection."
-    publishedDateTime: 2023-07-13T14:14:00Z
-    webUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service"
-    ampWebUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/55375-112485-setapp-xl.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/127d718f3042e0f13286895e4877a0725bddee3b/2023/07/12/c4c902fd-89fe-474b-87d7-661b3566a7eb/gettyimages-1246506636.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "The FTC Is Investigating ChatGPT, the First Major Regulatory Hurdle for AI"
-    excerpt: "The FTC is examining whether OpenAI's chatbot has provided false information about individuals and whether it has leaked private personal data."
-    publishedDateTime: 2023-07-13T15:38:00Z
-    webUrl: "https://www.barrons.com/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
+  - title: "Elon Musk launches new AI startup, says will work closely with Tesla"
+    excerpt: "Elon Musk announced the launch of a new artificial intelligence startup, xAI, with the goal of “understanding the universe.”"
+    publishedDateTime: 2023-07-12T17:49:00Z
+    webUrl: "https://electrek.co/2023/07/12/elon-musk-launches-xai-startup-work-closely-with-tesla/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 55
+      name: Electrek
+      domain: electrek.co
+    quality: 64
+  - title: "Elon Musk Launches Artificial Intelligence Company xAI: What to Know"
+    excerpt: "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do."
+    publishedDateTime: 2023-07-13T18:09:00Z
+    webUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
+  - title: "Elon Musk Announces New AI Company With Mission to 'Understand Reality'"
+    excerpt: "Elon Musk announced his newest AI business, xAI, on Wednesday. The company's main goal is to comprehend the universe's underlying principles. Competent professionals who have previously worked at renowned AI companies like DeepMind,"
+    publishedDateTime: 2023-07-12T18:12:00Z
+    webUrl: "https://www.techtimes.com/articles/293717/20230712/elon-musk-announces-new-ai-company-mission-understand-reality.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293717/20230712/elon-musk-announces-new-ai-company-mission-understand-reality.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293717/20230712/elon-musk-announces-new-ai-company-mission-understand-reality.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 61
     images:
-      - url: "https://images.barrons.com/im-816486/social"
-        width: 1280
-        height: 640
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431486/elon-musk-announces-new-ai-company-with-mission-to-understand-reality.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
-    publishedDateTime: 2023-07-11T10:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stocks-ai-potential-is-not-just-limited-to-rise-of-chatgpt-1032437318"
+  - title: "Elon Musk forms new AI company in effort to 'understand reality'"
+    excerpt: "Elon Musk is starting a new artificial intelligence company, the Billionaire confirmed in a social media post Wednesday."
+    publishedDateTime: 2023-07-12T20:14:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "ChatGPT Is Losing Users. Is The Artificial Intelligence Craze Over?"
-    excerpt: "The decline in usage of ChatGPT would indicate that artificial intelligence a fad that is now trending down. Is that a useful data point or should we ignore it?"
-    publishedDateTime: 2023-07-11T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/richardkestenbaum/2023/07/11/chatgpt-is-losing-users-is-the-artificial-intelligence-craze-over/"
+      name: UPI
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4101689191585/2023/1/e662462498a31d48e525316758705af4/v1.5/Elon-Musk-forms-new-AI-company-in-effort-to-understand-reality.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Musk announces new AI company that seeks to “understand the universe”"
+    excerpt: "Elon Musk formally announced the formation of xAI, a company aimed at understanding \"the true nature of the universe\" that will draw from a heavy bench of industry veterans to take on OpenAI's popular chatbot ChatGPT."
+    publishedDateTime: 2023-07-12T19:20:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/07/musk-announces-new-ai-company-that-seeks-to-understand-the-universe/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 47
-  - title: "Meta to release commercial AI model like ChatGPT, Bard"
-    excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in order to compete with Microsoft-backed OpenAI’s ChatGPT and Google’s AI experiment Bard,"
-    publishedDateTime: 2023-07-14T00:40:00Z
-    webUrl: "https://www.canindia.com/meta-to-release-commercial-ai-model-like-chatgpt-bard-6/"
+  - title: "Musk Unveils New AI Startup"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal \"is to understand the true nature of the universe."
+    publishedDateTime: 2023-07-13T14:56:00Z
+    webUrl: "https://www.manufacturing.net/operations/news/22867237/musk-unveils-new-ai-startup"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 39
     images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/07/meta-office.jpg"
-        width: 1540
-        height: 800
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/07/AP23193758715762.64b0073613ede.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C39%2C1920%2C1080&w=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Elon Musk launches his own AI company to compete with ChatGPT"
-    excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
-    publishedDateTime: 2023-07-13T23:42:00Z
-    webUrl: "https://www.abccolumbia.com/2023/07/13/elon-musk-launches-his-own-ai-company-to-compete-with-chatgpt/"
+  - title: "Elon Musk unveils A.I. startup with execs from DeepMind and Microsoft, with goal to ‘understand the true nature of the universe’"
+    excerpt: "On a website unveiled Wednesday xAI said its team will be led by Musk and staffed by executives who have worked at a broad range of companies at the forefront of artificial intelligence, including Google’s DeepMind, Microsoft Corp. and Tesla Inc., as ..."
+    publishedDateTime: 2023-07-12T18:53:00Z
+    webUrl: "https://fortune.com/2023/07/12/elon-musk-ai-startup-xai-deepmind-microsoft-executives/"
     type: article
     provider:
-      name: ABC Columbia
-      domain: abccolumbia.com
+      name: Fortune
+      domain: fortune.com
     quality: 37
+  - title: "Elon Musk unveils new AI company to rival ChatGPT and unlock the secrets of the universe"
+    excerpt: "Twitter owner, Tesla, and SpaceX CEO Elon Musk has announced a new AI company that will rival ChatGPT and unlock the universe's secrets."
+    publishedDateTime: 2023-07-13T05:45:00Z
+    webUrl: "https://www.tweaktown.com/news/92319/elon-musk-unveils-new-ai-company-to-rival-chatgpt-and-unlock-the-secrets-of-universe/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 28
     images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2023/07/g/t/wirestory-2e626553cf6333f642fb02fe247707ca-16x9-992.jpg"
-        width: 992
-        height: 558
+      - url: "https://static.tweaktown.com/news/9/2/92319_165_elon-musk-announces-new-company_full.png"
+        width: 1500
+        height: 914
         isCached: true
-  - title: "LGBTQ+ consumers skeptical AI like ChatGPT will improve their financial experiences, Achieve survey finds"
-    excerpt: "Wide-ranging survey on the personal finance experiences and challenges of the LGBTQ+ community reveals access to financial opportunities is"
-    publishedDateTime: 2023-07-11T12:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lgbtq-consumers-skeptical-ai-like-chatgpt-will-improve-their-financial-experiences-achieve-survey-finds-1032437350"
+  - title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
+    excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
+    publishedDateTime: 2023-07-12T18:37:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-elon-musk-launches-xai-artificial-intelligence-company-20230712-glof4oikdraszf2vpnti4dpqmy-story.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-  - title: "How Sarah Silverman might save us from AI like ChatGPT"
-    excerpt: "Sarah Silverman is one of the authors suing OpenAI and Meta for infringing copyright while training ChatGPT-like generative AI."
-    publishedDateTime: 2023-07-11T17:30:00Z
-    webUrl: "https://bgr.com/tech/how-sarah-silverman-might-save-us-from-ai-like-chatgpt/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
-  - title: "Elon Musk launches new AI start-up to rival ChatGPT"
-    excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
-    publishedDateTime: 2023-07-13T06:39:00Z
-    webUrl: "https://www.unilad.com/technology/news/elon-musk-ai-start-up-chatgpt-rival-825619-20230713"
-    type: article
-    provider:
-      name: unilad
-      domain: unilad.com
-    quality: 19
-  - title: "ChatGPT maker investigated by US regulators over AI risks"
-    excerpt: "The US Federal Trade Commission has launched a wide-ranging investigation into ChatGPT maker OpenAI, as Washington’s top antitrust regulator turns its attention to artificial intelligence."
-    publishedDateTime: 2023-07-13T15:48:00Z
-    webUrl: "https://www.ft.com/content/8ce04d67-069b-4c9d-91bf-11649f5adc74"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "ChatGPT in the Crosshairs: How the EU's AI Act May Affect Your Use of Generative AI"
-    excerpt: "just as cloud-based applications today rely on AWS and Azure. This creates a power imbalance when downstream AI providers cannot effectively mitigate the risks of an AI system without holding OpenAI or other big tech companies accountable for product ..."
-    publishedDateTime: 2023-07-13T19:27:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/chatgpt-in-the-crosshairs-how-the-eu-s-6938556/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 13
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 11
 
 secured: "edqq14kkpgzJNuz7JNzvUZe+hgS9Ow3zIVWMSaLpH+fg5Xf7nBeP6Zvu00z6x/rF9Fw6L/eMvn4Gu48/FkrGMERUBrat6vA3+l7SlD3cmFCqKazual98sHttXCDWoPkAOhOVhnW09WE3oSUD6j3xu55fdv3y/IC/sBOu6rcI6tgQOFAd7+Kp9xWuWPspqx2Apb0cnZOrQYQNvZAhayLxZ/jxZkyKH7/SNgJ585T2Lin0VImn0R22d4Gv9eni8nsLbgrZxRipoETcGUzjnb/boo1X2JYGehWb4W8TUfLP5jFmP/FxjNCLEMhNMDaxbvk8u64YRayirBji0JM7uFC7hf57hWnYUAC7n6AMVpenEElL2J20qaDjFJi1ykc58iscGDoTzGfTOXGurU03nRwKAws9zEVziSH8HRt6oljJtT5yJ2uyn+K+b1dDKf5lp2QXp+ZeUJDHnFeeWqoyz+fBu1X1sedi7MjzvkFqB8qgY63xSTsKC6/vENCyWK5KKDYNHPEfCADND/eZPXb6LCE5Eg==;i2EdRlNyI07DIg+Ppnwnyw=="
 ---

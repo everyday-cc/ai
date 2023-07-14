@@ -35,14 +35,21 @@ related:
         height: 738
         isCached: true
   - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
-    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
-    publishedDateTime: 2023-07-13T01:38:00Z
-    webUrl: "https://apnews.com/article/elon-musk-artificial-intelligence-ai-xai-2e626553cf6333f642fb02fe247707ca"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI"
+    publishedDateTime: 2023-07-12T21:34:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_2e626553cf6333f642fb02fe247707ca_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "O6+N8tfOK64aDM8islgwR6GweheSGLDl3tBhbFw3OAANJLpq+j3V9rExsRIzq60V4Fjg2qIXpWaUuedF4OYGP8DR7G2ET4fBJ6seRPAKgCxy7jh6GOevVRi7fYjTAffPuaYqJk1k4CyF3NIbRSI6UM4wTyA1Gnl3Cn8RtG5XnTEfJHX8sym+Z5LBgfTCc9FeWh3SaXl3dMRxo7ADwXQ23FQdylzWLf7mS5W/EnkgYjY1AC1SP0TAg3QqJITEZRbd51Zed+8mn1f+o4kKUGqBDJ1yfcxdZgwDcO/qbvdHnlAnjdMDaqjBwuv6HUcRmyPAp2l1RnDowZjqb0QR0Sl3p0MxABPC25JbbSjPxwY78j2EaLrsmeRtTKfooKqAFS3tx1AeCrqHW8GS/ZD5Ah4ak5M0N+j+yI9c6JSbYdH7y1bYB6+ecC2PEV2ytIFmQ88kXnqnX6wCODaGBRf1n0MqEGz8z7XOlH+Ir4DMqPTkL2tK5iAVBndh1TM9hBKoyzZyuW1QemNSV8Dnk1oBNavyZg==;tmFJ82LCXpEFYhBz+cXqFg=="
 ---

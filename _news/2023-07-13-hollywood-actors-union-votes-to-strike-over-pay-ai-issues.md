@@ -63,6 +63,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "AI worries spread from UN and OECD to Hollywood"
+    excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."
+    publishedDateTime: 2023-07-14T17:15:00Z
+    webUrl: "https://www.ft.com/content/ff29c447-4f9b-4a6b-b009-c224d0eee139"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "WH1yAC4nQO4r/sVGM5rhyiuwuqeRJjFmY8twyr2W3SItP/a2PnsdmL7VkE1lJgGA9ySXBvPq8UyFZZ3N14EUil+1QVWguAMeelAfoOshG6jl8wMY4ZOuY0N30eKIFH7YyJC8vYLW7WHbbFmbB2XXHH5dBMHmsGt97Mhawocli1siN00btJ70gVYLl+IpWOWXOpQE+ABoRNndx/rQnk4Iv/qNd5Ik3obzvcO1h26YjCZ6JYtpOsv4zDPRdb4pDXJsxqDWN/oXIPV06pGWk/LojnKyy1JZtPO4/GQLmc2HsFXj0O3nEUBXhE6Nsqlv7RKM37zV1KoE1Mr8Svy5srbHWxtHi5KzwUZzoiMozKD4RRE=;vGR4BIQTD2GxEiT+tOlVrQ=="
 ---

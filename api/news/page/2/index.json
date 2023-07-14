@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-07-14-amazon-microsoft-and-google-cloud-services-bet-heavily-on-ai-but-do-their-customers-even-want-it.md",
-      "title": "Amazon, Microsoft and Google cloud services bet heavily on AI, but do their customers even want it?",
-      "excerpt": "\"AI\" may be the two most frequently spoken letters in business this year, but the technology is not as high a priority as one might think when it comes",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
-      "originalUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-816626/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
-      "publishedDateTime": "2023-07-13T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-building-out-generative-ai-models-insights-from-mosaicml.md",
       "title": "Building out generative AI models: Insights from MosaicML",
       "excerpt": "MosaicML, which helps enterprises train and deploy LLMs and other gen AI, was just acquired in late June by data lakehouse and AI company Databricks for an incredible $1.3 billion. The startup released its MPT-7B model in May, which cost $200,000 to build.",
@@ -113,7 +61,7 @@
       "originalUrl": "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -938,6 +886,48 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot.md",
+      "title": "Indian startup Dukaan lays off 90% of its support staff, replaces it with AI chatbot",
+      "excerpt": "We had to layoff 90% of our support team because of this AI chatbot. Tough? Yes. Necessary? Absolutely. The results? Time to first response went from 1m 44s to INSTANT! Resolution time went from 2h 13m to 3m 12s Customer support costs reduced by ~85% Here's how's we did it 🧵 Also Read: Suumit Shah’s decision comes at a time when the internet is divided on the subject of AI taking over jobs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/",
+      "originalUrl": "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-14.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-indian-startup-dukaan-lays-off-90-of-its-support-staff-replaces-it-with-ai-chatbot-3168709/lite/",
+      "publishedDateTime": "2023-07-13T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-the-looming-addiction-crisis-fueled-by-ai.md",
       "title": "The looming addiction crisis fueled by AI",
       "excerpt": "Online pill services are using AI to turbocharge the same aggressive marketing tactics that drove the opioid epidemic.",
@@ -1117,57 +1107,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-googles-ai-chatbot-bard-gets-belated-european-release.md",
-      "title": "Google’s AI Chatbot Bard Gets Belated European Release",
-      "excerpt": "Alphabet Inc.’s Google released its Bard chatbot to users in the European Union and Brazil, and said the artificial intelligence tool can now generate responses in more than 40 languages, including Chinese,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-chatbot-bard-gets-belated-european-release",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-chatbot-bard-gets-belated-european-release",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_aVjVRzw3SQ/v0/1200x837.jpg",
-          "width": 1200,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley.md",
       "title": "AI Doomsday Scenarios Are Gaining Traction in Silicon Valley",
       "excerpt": "To say that some of his visions for the end of the world are unpopular would be a gross understatement; they’re on par with the prophecy that the world would end in 2012. That prediction was based on a questionable interpretation of an ancient text, as well as a dearth of supportive evidence.",
@@ -1215,6 +1154,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-ai-is-not-the-solution-to-better-customer-experiences-in-australia-yet.md",
+      "title": "AI Is Not the Solution to Better Customer Experiences in Australia … Yet",
+      "excerpt": "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/au-report-customer-experience/",
+      "originalUrl": "https://www.techrepublic.com/article/au-report-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71123-customer-service-ai.jpeg",
+          "width": 1400,
+          "height": 889,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

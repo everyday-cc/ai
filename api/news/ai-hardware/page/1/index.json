@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -103,58 +103,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-the-last-word-on-ai-and-the-atom-bomb.md",
-      "title": "The Last Word on AI and the Atom Bomb",
-      "excerpt": "I’m old enough to have cowered under my school desk. Decades later I learned physics from the bomb guys. What I’m mainly hearing now is echoes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
-      "originalUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64b09f9d57ff6ec62db8a8b5/191:100/w_1280,c_limit/ideas_ai_oppenheimer.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -560,7 +508,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1491,6 +1439,59 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-build-accelerated-ai-apps-for-npus-with-olive.md",
+      "title": "Build accelerated AI apps for NPUs with Olive",
+      "excerpt": "Microsoft’s open-source, hardware-aware optimization tool for ONNX models is an essential part of its AI application development tool chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
+      "originalUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
+      "publishedDateTime": "2023-07-03T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

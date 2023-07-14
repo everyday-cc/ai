@@ -2,6 +2,103 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-07-teslas-optimus-robot-fuses-self-driving-tech-with-mind-blowing-humanlike-capabilities.md",
+      "title": "Tesla's Optimus robot fuses self-driving tech with mind-blowing humanlike capabilities",
+      "excerpt": "Tesla is developing a robot that can take over your daily chores and errands, but what does this mean for us as humans? Kurt \"CyberGuy\" Knutsson explains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities",
+      "originalUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548995ea-53a7-4f7b-a9aa-de824d7a91d8/0c6dffc3-5cf9-477c-89fa-1c8433580e0a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities.amp",
+      "publishedDateTime": "2023-06-07T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-powerful-object-recognition-for-diverse-applications-using-ai-and-robotics.md",
+      "title": "Powerful object recognition for diverse applications using AI and robotics",
+      "excerpt": "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news815664",
+      "originalUrl": "https://idw-online.de/de/news815664",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
+          "width": 498,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-global-public-relation-robots-market-report-2023-increasing-applications-of-artificial-intelligence-bolsters-growth.md",
       "title": "Global Public Relation Robots Market Report 2023: Increasing Applications of Artificial Intelligence Bolsters Growth",
       "excerpt": "Global Market Size, Forecast, Insights, Segmentation, and Competitive Landscape with Impact of COVID-19 & Russia-Ukraine War\" report",
@@ -1265,92 +1362,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-we-asked-an-ai-chatbot-to-analyze-the-results-of-our-ai-survey.md",
-      "title": "We asked an AI chatbot to analyze the results of our AI survey",
-      "excerpt": "This special series explores the evolving relationship between humans and machines, examining the ways that robots ... people will start learning less and rely on the bot.” “AI will have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/we-asked-an-ai-chatbot-to-analyze-the-results-of-our-ai-survey/",
-      "originalUrl": "https://www.geekwire.com/2023/we-asked-an-ai-chatbot-to-analyze-the-results-of-our-ai-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Hundreds of robots are on display this week at the International Conference on Robotics and Automation in London.",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_ed20e4ee-d21b-5a74-91e7-8b0930805c1f.html",
-      "originalUrl": "https://omaha.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_ed20e4ee-d21b-5a74-91e7-8b0930805c1f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed20e4ee-d21b-5a74-91e7-8b0930805c1f/6477381b0b5c5.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

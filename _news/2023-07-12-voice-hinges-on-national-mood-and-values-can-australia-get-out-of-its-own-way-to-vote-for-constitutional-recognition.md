@@ -35,6 +35,20 @@ related:
         width: 720
         height: 484
         isCached: true
+  - title: "Behavioral Health Workers at Legacy’s Unity Center File for Union Recognition"
+    excerpt: "Fifty-seven employees at Legacy Health’s Unity Center for Behavioral Health in Portland filed for union recognition with the National Labor Relations Board this week , according to a press release from the Oregon Nurses Association. Per the release, the group includes crisis intervention specialists, counselors, therapists, and social workers."
+    publishedDateTime: 2023-07-14T09:41:00Z
+    webUrl: "https://oregonbusiness.com/behavioral-health-workers-at-legacys-unity-center-file-for-union-recognition/"
+    type: article
+    provider:
+      name: Oregon Business
+      domain: oregonbusiness.com
+    quality: 21
+    images:
+      - url: "https://h5a8b6k7.stackpathcdn.com/wp-content/uploads/2023/07/ea73ceecb671de32e93f6de8cd34eb30.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "‘They’ve been robbed into this solution’: Viewers divided over gas station requiring facial recognition for entry"
     excerpt: "A viral repost of a video showing a gas station in Portland requiring face ID for entry is stirring debate on TikTok."
     publishedDateTime: 2023-07-14T12:28:00Z

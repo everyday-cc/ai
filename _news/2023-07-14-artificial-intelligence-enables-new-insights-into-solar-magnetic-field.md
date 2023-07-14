@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2023-07-artificial-intelligence-enables-insights-
 ampWebUrl: "https://phys.org/news/2023-07-artificial-intelligence-enables-insights-solar.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-artificial-intelligence-enables-insights-solar.amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-60.jpg"
@@ -41,6 +42,6 @@ related:
         height: 720
         isCached: true
 
-secured: "VvHrFKmCT6AOEFhDjXX5k8w6GVgZh1l1wAMTBRcY7yNxHlkKlY0hRUVxCVN7InCs6VaKWVOEXKVM/LeWfnVIyzRnQOquEZ38G/lxpccdtaUKRU+TBzR/oPlXqXL6//6BR1WlFLnTkjZ+kDHsw5cpdXFu93zPw2xy/4NiVJeZAf72WMSPCiV+PDzdscb4HGld2nflDE2vLi6WBh3EWgjXIQO/Axh7GMSl4Gwta8P+OcqPMrtSqGkySWmmzCBogH4AQ4fd17iNhqS8Z+zLXlp8HPOanx4QaLYMVaR6QPNCTjAaiK8gkklgKnFCe9c1wSFDeHfpXRkfIXnl/3h+zOQFqi24i8ivHfDgv644N5TM7LI=;SrhE33V/Zyo1xLo/+g/nKg=="
+secured: "MlObYpUt9hDlg9rDYTZiGl+gAgcnQF3K1qFFcj2s4K7QVDc4FUQXIxqp8BtAbV6G4yzbhBEESssyCmQjGvcwQDyhSJDTvU12My77KnWNA+j4nx2ZsuyW2Llig3raV+S8R9m/BIUOuTHX/s9+PhERM9EypEpbMRgJTkYNQd0E8bjpFj7pYS3sxkZPfMoFgNAZO2/5xjkSqt6WO7DzGiWvcs2cfKFgeb9pnukNMvRAWNGSjpEtbHOjKlGyPZNAyS2oqTeyVLLEdHmP6NZ1cXjziPjbtgXwYsEoa12RQfW2GNjpikdW7JT4LFxZY+JcHlbegHodVNjvZEArYN/H0YKhallKXmwhHGwgFEu8387QFMJsVKntbXEzwyCidVPfCBP6gYMiC44QlvI7ZKsy6UmKaiIL8tWxWpoRYk56RgqVh4+VvQ6BikKXMqrHjssteOObkBdGxPFnEXPMTQHJp1VvYDpP8oPhQ9Lejy33fef64d7Ktlvu0IwMNZTrWRGDjbod81rpoxXhy5jmSNESPR5YOQ==;BzNCWgCQsw3krh/SL7MLbA=="
 ---
 

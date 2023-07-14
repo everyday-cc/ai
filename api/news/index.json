@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-14-the-black-mirror-plot-about-ai-that-worries-actors.md",
+      "title": "The Black Mirror plot about AI that worries actors",
+      "excerpt": "If that sounds like the plot of an episode of Charlie Brooker's Black Mirror, that's because it is. US media has been quick to point out that the recent series six episode \"Joan Is Awful\" sees Hollywood star Salma Hayek grapple with the discovery that her AI likeness can by used by a production company without her knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-66200334?at_bbc_team=editorial&at_ptr_name=twitter&at_link_type=web_link&at_link_id=7FA42462-224D-11EE-AB00-4FA65B3BE886&at_link_origin=BBCNews&at_campaign_type=owned&at_format=link",
+      "originalUrl": "https://www.bbc.com/news/technology-66200334?at_bbc_team=editorial&at_ptr_name=twitter&at_link_type=web_link&at_link_id=7FA42462-224D-11EE-AB00-4FA65B3BE886&at_link_origin=BBCNews&at_campaign_type=owned&at_format=link",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F3A0/production/_130386326_603b6ad4-fac6-440d-aa8a-6aeb338788ad.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-66200334.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp",
+      "publishedDateTime": "2023-07-14T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
       "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
       "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
@@ -97,7 +148,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -173,57 +224,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-why-are-actors-so-worried-about-ai.md",
-      "title": "Why are actors so worried about AI?",
-      "excerpt": "The strike comes after US actors' union the Screen Actors Guild failed to reach an agreement on increased safeguarding around AI rights. The union warned that \"artificial intelligence poses an existential threat to creative professions\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66200334",
-      "originalUrl": "https://www.bbc.com/news/technology-66200334",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6F20/production/_130384482_gettyimages-1401980646.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-66200334.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp",
-      "publishedDateTime": "2023-07-14T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -491,58 +491,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-14-the-last-word-on-ai-and-the-atom-bomb.md",
-      "title": "The Last Word on AI and the Atom Bomb",
-      "excerpt": "I’m old enough to have cowered under my school desk. Decades later I learned physics from the bomb guys. What I’m mainly hearing now is echoes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
-      "originalUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64b09f9d57ff6ec62db8a8b5/191:100/w_1280,c_limit/ideas_ai_oppenheimer.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-kpmg-is-making-a-2-billion-bet-on-ai-its-another-example-of-big-changes-that-are-coming-to-the-workplace.md",
       "title": "KPMG is making a $2 billion bet on AI. It's another example of big changes that are coming to the workplace.",
       "excerpt": "KPMG advises businesses around the world. It's teaming with Microsoft to bring AI to more of them. Get ready for the new tech to spread even faster.",
@@ -677,57 +625,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-china-takes-major-step-in-regulating-generative-ai-services-like-chatgpt.md",
-      "title": "China takes major step in regulating generative AI services like ChatGPT",
-      "excerpt": "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 306,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230714011428-china-generative-ai-regulation-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
-      "publishedDateTime": "2023-07-14T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -981,6 +878,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-14-china-says-generative-ai-rules-to-apply-only-to-products-for-the-public.md",
+      "title": "China says generative AI rules to apply only to products for the public",
+      "excerpt": "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/",
+      "originalUrl": "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay.md",
       "title": "Striking actors say rejected 'AI proposal' would let studios use their likeness without fair pay",
       "excerpt": "On Thursday, leaders at the Screen Actors Guild-American Federation of Television and Radio Artists announced that the group was going on strike after negotiations with Hollywood studios fell apart. According to the Alliance of Motion Picture of Television Producers,",
@@ -989,7 +937,7 @@
       "originalUrl": "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1214,6 +1162,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-amazon-microsoft-and-google-cloud-services-bet-heavily-on-ai-but-do-their-customers-even-want-it.md",
+      "title": "Amazon, Microsoft and Google cloud services bet heavily on AI, but do their customers even want it?",
+      "excerpt": "\"AI\" may be the two most frequently spoken letters in business this year, but the technology is not as high a priority as one might think when it comes",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
+      "originalUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-816626/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
+      "publishedDateTime": "2023-07-13T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

@@ -54,6 +54,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "How Sarah Silverman might save us from AI like ChatGPT"
+    excerpt: "Sarah Silverman is one of the authors suing OpenAI and Meta for infringing copyright while training ChatGPT-like generative AI."
+    publishedDateTime: 2023-07-11T17:30:00Z
+    webUrl: "https://bgr.com/tech/how-sarah-silverman-might-save-us-from-ai-like-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
 
 secured: "f2W/lETInu1xeKdwtLdYgNdZkneFfrD3tanLL32oMVM/yllAUulokfyjMobp/x+pQADY6BlTIgos7aBilPBlRD3PVmsdAOtE+KxPOPg+qmLDCo8Da1nhmRF3SrnVPUFRG9XYWpQDmMrovdBl5Qw+7fqcCvcF46RdO2pbS8qXhGktbmd9/IiE7kgAa7gIDlIfOCzjlanuUWg+aNZ4zev2fF6gkKKWlBwuxbUaY8XIS2MvN+N7sBNKyfPuoZgeZBwLNXnl4uUO3gS5QI8uzmC6ylNiHrOIc4nanvggkyfv/UFDHwo4ff7Zw7XxR2rBV0EkwFJz+USH6uNeT4N89SP7DcAjAlPy+Q+dg20V0dp6Wl8=;hbuZ5+wW2EgY49netqN0GQ=="
 ---

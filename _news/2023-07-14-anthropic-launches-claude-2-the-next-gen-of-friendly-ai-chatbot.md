@@ -158,6 +158,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 46
+  - title: "Google AI Boss Says New System Will Be More Powerful Than OpenAI"
+    excerpt: "According to Google DeepMind CEO Demis Hassibis, Google has an ultra-powerful large language model (LLM) on the way — and it may blow OpenAI's existing systems like the ones powering ChatGPT out ..."
+    publishedDateTime: 2023-07-11T17:28:00Z
+    webUrl: "https://futurism.com/the-byte/google-ai-new-system-openai"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/google-ai-new-system-openai.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Musk unveils xAI in new bid to rival startup OpenAI"
     excerpt: "Elon Musk, who was involved with OpenAI, has criticized the startup since he left the board in 2018, especially after it created a for-profit arm the following year."
     publishedDateTime: 2023-07-13T18:37:00Z
@@ -244,6 +258,6 @@ related:
       domain: techstory.in
     quality: 12
 
-secured: "zhX9Aj6pTFnvOiKDsINn5Te4nVevTMxdwdO3s6/cCXX/nRC3yn/Lfc0bfVPYaB8w+aJCq3v1t5oOMm8hI2Si/eb5e88E0SW6h9Y6ik3zWVBvrW1SIqwe+8RsoRFlJXYlCAnTynnByMribGi5jDe3u77C84KkXpcVsqn5Vo4bLJJJMcMkzkZmJBBtebkzNA6ggk/L5ifKGaQDf5S5as+1lN2Sq7tFLcN+6KAsZ5izsRaE+FBElsEylPxIZiQPr2fAaKy7GFRIanHFUy34/YHBuvFNbLRPJE7wtiZNNrUhsnPB3+1J6amaAt8s/sci+aRRqpYtoCCidlll4xlxKGTTujJwlkd22BxHbPudDJVQr2E=;JA7/B1wn4/ZtstXN0bDioA=="
+secured: "Lfv8MvAjcNrSrDXvS3G9PJ1nl+UqN/zK5fJN5zUSO2QZXlXI6AIfBe4NHsXAtzNNPBR+0PVhC/oClLcEUsbwEWPmsAGAvu7b5hC5o/1TJPTvmHRWQ9Kjh1KRY+GnA3PNMvpZLQWw8Y5b8CSPeIWlf9dsk4bCXKiWehjXTlxkqq5L5WYDDY0N9mEiXqpEiCkR5uzJ+Xn1LWgxKvEkOX3HkiodpyGfWl8s7Y/cI8R6Vmf+MM2LPahPLpmsE0UBsDbn1MHXRQ0FYPLiu2bHrB3+VG3/pR5O0cX6lkivnN2hLbntT59Tw3E851sa20oLPSgVRoZN8SyMIwttEu4Rcx0AquA7a9YpXE6PGEfPnuBcv+/cLqbueramtNszpg1PKQxRf2juFiFzdHda0rHNbzBrRz/5hFp4HaIMEB6qG+IqWB/TemQ7sYCFginF/IR0CG+LK9z2esWomNQZWXqWRmTWv6S23oY+++kI7OHs/Ns9mwsZRG2xa6JP3dwf4LhUI/BS5MdR5AZqdhjCRzl+Eonvcg==;qM+7w2US7CJns7ze+xUebg=="
 ---
 

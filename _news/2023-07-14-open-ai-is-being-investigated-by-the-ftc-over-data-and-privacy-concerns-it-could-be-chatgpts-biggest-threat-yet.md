@@ -169,6 +169,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 46
+  - title: "Google AI Boss Says New System Will Be More Powerful Than OpenAI"
+    excerpt: "According to Google DeepMind CEO Demis Hassibis, Google has an ultra-powerful large language model (LLM) on the way — and it may blow OpenAI's existing systems like the ones powering ChatGPT out ..."
+    publishedDateTime: 2023-07-11T17:28:00Z
+    webUrl: "https://futurism.com/the-byte/google-ai-new-system-openai"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/google-ai-new-system-openai.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Musk unveils xAI in new bid to rival startup OpenAI"
     excerpt: "Elon Musk, who was involved with OpenAI, has criticized the startup since he left the board in 2018, especially after it created a for-profit arm the following year."
     publishedDateTime: 2023-07-13T18:37:00Z

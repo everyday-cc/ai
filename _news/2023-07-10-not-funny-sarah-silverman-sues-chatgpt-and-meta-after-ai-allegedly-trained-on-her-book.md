@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/sarah-silverman-sues-chatgpt-and-meta-over-ai-
 webUrl: "https://gizmodo.com/sarah-silverman-sues-chatgpt-and-meta-over-ai-training-1850621182"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 862
         height: 485
         isCached: true
+  - title: "How Sarah Silverman might save us from AI like ChatGPT"
+    excerpt: "Sarah Silverman is one of the authors suing OpenAI and Meta for infringing copyright while training ChatGPT-like generative AI."
+    publishedDateTime: 2023-07-11T17:30:00Z
+    webUrl: "https://bgr.com/tech/how-sarah-silverman-might-save-us-from-ai-like-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
 
 secured: "xju8kDvk+1PnlxvLBsKm1eXkRFL6GTIp99sl6jjw0Uq/RvtuKynoal9GkrlhtWFuZAoQk1EnSARMbxKJWWHFZWhZv7zp3xqUj7ebo8SsST1xhP+Obfhn8wVt6XjM6kqeNNZCZUP8UHI4MhUWqee8F/6mDcV6syk12qUXzuND89hJb9SnyLvobMz0RpJazfnIfu0aJjdbKYcxPvJtCdp/AjhTHGdtZbPRP7bOt1GAfkad4IqDCFjoKT0IR1y7ib5h5fTrkyXvbTb33PJpaove64ZdZ8oT/C1CzFK5bkqz8w9QIslmgP9KKEcxoWj4jiKmKGig/z2YZsmpfqKMAAdPmRMuIiLJK1rK3KESERNzhA0YQRN6aFGiY+TDJnH1b25YSIiJPWu5RkqE77UvpHgCtwZI0y/Lnp6VV0R2NWQtb3e/UawkzhG9Cr8CBtK2Ruq785occGwOec90ne5oDP3NBpErAOZKGDbNE0r1OEaf92I+Oc6D9mFNZDW3OmWVOQ3wJcrUTh2cJdu+pHrvdtx/nQ==;n2WnoJOzPrsvEUuq20Eitw=="
 ---
