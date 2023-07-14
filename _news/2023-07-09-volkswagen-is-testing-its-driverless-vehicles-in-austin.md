@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-
 webUrl: "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
         width: 704
         height: 460
         isCached: true
-  - title: "Volkswagen to Start Testing Its Adorable Self-Driving Vans"
-    excerpt: "Volkswagen says it will start testing two of its self-driving ID Buzz electric vans in Austin by the end of July."
-    publishedDateTime: 2023-07-09T13:50:00Z
-    webUrl: "https://futurism.com/the-byte/volkswagen-testing-self-driving-vans-texas"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 4
 
 secured: "4xV1uqS8pEM6GEMnbvXeRGdxWjVsMUqym46JtaCNOQ4oGiIrwPvxrl5glu+t7lCbwNjkIwVxEB4Mgk0iZuWvSIIAaHAuoFS8AilEP7SKBq0jT8iBdgx9VfJrOJniADmdilINXlPk5mLASvkfTxmZ51TVce7eEtZK4yR/f2eALCE17NOqdtxfpFY0CGrfKVMzVTz6tWw1/YT+yZva6k+e9kSkzGeebxcBznFwOcMYh9x1j6J0RAgJ9lqoeY4+IiIJkZIzB7CI2yYHW1FUbsCQTnHHWZWHdcw1dTBA307u7qZaPDyttqBpWswa5Z5zC7N+KVzY29+QoictLx0eml8cRoXVyI9F+ccFM358JXfisHeP+s/iZjZvFFMJYUvKc/QVscSMb7Utv204+8MeONyHYBVTkVOizwaPAcq12ThAipeiAJV6GDYJDPPsY/baXdAHD0+/U3DseQOCELrckZ0WbD6+HeIPc5UYqkUzB6ec+GuAX3G/02yP1tjKinidu2QDQSMQS82Mh4yiUAcwfmyQoQ==;mWLqYPWFO5vgR/PlgbGfQg=="
 ---

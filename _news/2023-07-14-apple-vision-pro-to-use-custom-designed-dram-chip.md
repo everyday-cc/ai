@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/business/apple-vision-pro-to-use-custom
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html/amp"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Vision Pro headset to feature custom-designed DRAM chip: Know what it means?"
+    excerpt: "Apple Vision Pro AR headset features visionOS, the world's first spatial operating system that allows users to interact with digital content as if it were physically present in their surroundings."
+    publishedDateTime: 2023-07-14T06:36:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 55
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/apple-vision-pro-dram-chip-1689315790.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "Apple’s Vision Pro Headset to Use Custom-Designed Low Latency DRAM Chip Made by SK Hynix"
     excerpt: "Apple's Vision Pro headset will use a new type of dynamic random access memory, or DRAM, that has been custom designed to work with Apple's R1 input processing chip."
     publishedDateTime: 2023-07-11T12:22:00Z
@@ -59,6 +75,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Ki4hdlNOm1kkrfedinDTuaGBOm22cYpnQNEyBdqIY87UlRbmzw/sSBQvuWnF1H0H3HJKdiPNP6yAjO007gQs4jt+LJb9PMhLFR7r5+GBX50HXtRmLqw0EoJ6Hicysm3vTGBjBB1a5OpoNCil2W3AXJ0XUM6WzpQRAIYXdsHvFeFFozDU3TjET3fNQ5vcI6kU6lnAbTzEA9nEGeCItlt9LZGn+lb8XHfUq6RSkwZ5O0XDXB9QePSJIlIQ/tkTZIYxs+z4VqziTCbjZYA9YaywNxnnGIF+3gZS5YGPP8r3qF/BGreSemrEPfg0VNZ4ggD2eM7JNyQ33u5EZ/0ZG3CJqwWK4e5yCaejq3V55vZuyr0=;nUmtRDq038YLlASLK0F8Kw=="
+secured: "6qLwalFy96AV9Y3AZRNjS/4AySjJqxyIa2mLrY2UF8ynqaZjwimpUzMFKgNgwZpXLZyALZuSWn5FMbKH4o5zMUkISNndcyzeL2/Og+XdO6YhZFMfuwjOqVaI8X4jLPBuVgueu5CQO7eWbMeSnEG4m/4Ie5p51iLpZs+iSk6j6n4Xu+fVEUHAhtNoleveKxvxHip7E2k1+txhZ7B8QrSYYNiGpdTFfwJwQBnaddSFM3iUERCrTz5xhP8PT+3gAZWFb4EJ5jSxBDiX5nH4Wfh6gUCLMJ5jmxumhWD3kcPNkfc7dRmzUpswb4CW68OEcj+xs6oToQESMaLPJ7po0fQ+/Oa5PbjL62Efp72taBueGre3aE2ySraL7E1hazxgprDcdmLevMOoDMSI53xhJENSOeyAz0sPMKEeaAurCUv2R+Kh1G4ZYDke/ss8YZzGrHvGIM0+s2C44KjhGjqwTQiHu6xTO0KPxUuqperHN93gVQFbVj87Dy5+6inSvQVv4KZrxxLBl+8bCPUmg4ivMrdMpw==;ihCmEzwYXdU2iEBCUGirZg=="
 ---
 

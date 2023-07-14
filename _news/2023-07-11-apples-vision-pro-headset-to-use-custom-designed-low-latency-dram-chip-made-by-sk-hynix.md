@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apple Vision Pro headset to feature custom-designed DRAM chip: Know what it means?"
+    excerpt: "Apple Vision Pro AR headset features visionOS, the world's first spatial operating system that allows users to interact with digital content as if it were physically present in their surroundings."
+    publishedDateTime: 2023-07-14T06:36:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 55
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/apple-vision-pro-dram-chip-1689315790.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "Apple Vision Pro to use custom-designed DRAM Chip"
     excerpt: "Apple's upcoming AR (augmented reality) headset Vision Pro will reportedly feature a new type of dynamic random access memory (DRAM) that has been custom designed to support Apple's R1"
     publishedDateTime: 2023-07-13T16:01:00Z

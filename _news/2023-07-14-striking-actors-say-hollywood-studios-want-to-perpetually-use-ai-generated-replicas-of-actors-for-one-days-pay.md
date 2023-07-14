@@ -1,0 +1,66 @@
+---
+category: news
+title: "Striking Actors Say Hollywood Studios Want To Perpetually Use AI-Generated Replicas Of Actors For One Day’s Pay"
+excerpt: "In their proposal studios want to gain ownership of a background actor’s image and likeness and “use it for the rest of eternity” without any consent in return for a day’s pay, the striking actors alleged."
+publishedDateTime: 2023-07-14T06:47:00Z
+originalUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/"
+webUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/"
+ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
+type: article
+quality: 67
+heat: -1
+published: false
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64b0ef566fd25ebd02ee197f/0x0.jpg?format=jpg&crop=1177,662,x0,y1,safe&width=1200"
+    width: 1177
+    height: 662
+    isCached: true
+
+related:
+  - title: "Striking actors say rejected 'AI proposal' would let studios use their likeness without fair pay"
+    excerpt: "On Thursday, leaders at the Screen Actors Guild-American Federation of Television and Radio Artists announced that the group was going on strike after negotiations with Hollywood studios fell apart. According to the Alliance of Motion Picture of Television Producers,"
+    publishedDateTime: 2023-07-14T00:02:00Z
+    webUrl: "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+    ampWebUrl: "https://www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/LCBOe1tGVBIEz4dd9flfVQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/c08c39b0-21d5-11ee-a7f6-516698f83aed.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Bizarre AI proposal from studios helps explain SAG strike"
+    excerpt: "SAG-AFTRA, the union representing actors, made the historic move after negotiations with the big movie studios fell through. It is the first actor strike in decades, with commercial actors last striking in 2000 and film and theatrical actors last going on strike in 1986."
+    publishedDateTime: 2023-07-13T22:26:00Z
+    webUrl: "https://mashable.com/article/sag-aftra-actors-strike-ai-streaming"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/051y08YyuZwfipkeXy2CO0L/hero-image.fill.size_1200x675.v1689284649.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "7wKjFVe5kbwj0bS9onXo2tNAwLHKuPOELgbcewUrO7j8sq1z/wD0xE0dIPF1luFY0q48SQLwspQt7nHk4chXVBgrRQccZ+hKnCL2xVgE5JsuFI9sowoYhdVrNSoOyoCeDeQ6DhNIiEl7QkxgOsJg3dOb3o2eaFlna0Hnn6ABUKEnud/C7NvneAsilX+Gs656nURw1FA/AOgWgJn/SP7FuEOPrXLcQFtdFYB845UhPK1st8ZTnKGF00449OqyzXyl0E6/DhdNCJ+YNcLUB9UjyLpzT6gzdPfuf9kN5JdpqDUxhrWEuaVJAAUl3FZSKfYqj9oD9Bd7h7vS+tFZ/yIGJT+ozstfI/XB1/Ss+0XCdpw=;n80cWogmj4SOI/gv34uJ3g=="
+---
+

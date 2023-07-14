@@ -45,22 +45,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Will Robotics Automation & AI Take Our Jobs?"
-    excerpt: "There's a big concern about robotics automation and artificial intelligence. We think it's a $150 trillion question: Will AI take our jobs?"
-    publishedDateTime: 2023-07-09T14:59:00Z
-    webUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/"
-    ampWebUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
-    cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
-    type: article
-    provider:
-      name: Banyan Hill Publishing
-      domain: banyanhill.com
-    quality: 89
-    images:
-      - url: "https://banyanhill.com/wp-content/uploads/2023/07/shutterstock_151615517-scaled.jpg"
-        width: 2560
-        height: 2560
-        isCached: true
   - title: "Networking Startups Jump On Cloud Costs And AI"
     excerpt: "Other cloud networking startups are also going after AI. DriveNets recently announced that its Network Cloud-AI solution, which uses cloud-based Ethernet-based networking to boost the performance of AI clouds, is in trials with major hyperscalers."
     publishedDateTime: 2023-07-12T20:25:00Z

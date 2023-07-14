@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/national/ai-machine-learning-being-cons
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu-news-301564/amp"
 type: article
 quality: 68
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI, machine learning being considered for inclusion in college curricula: CM Sukhu"
-    excerpt: "Read more about AI, machine learning being considered for inclusion in college curricula: CM Sukhu on Devdiscourse"
-    publishedDateTime: 2023-07-09T13:29:00Z
-    webUrl: "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu"
-    ampWebUrl: "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 68
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_16_07_12_1951489.png?width=1280"
-        width: 1280
-        height: 723
-        isCached: true
 
 secured: "ar6bZ+/9I84o78bRohji0Xugo35gB0LVZ9i29DZAEC0PVee5UrsTgqHNa5htLW/T6Bd6n1ZRMoA0QYnNA77zxGuMGnCPxCqyHX1mbTORrAxThO6x4rRYNlRSzrF3nwR153vtrCXvPvbq419VeO9pnyw16TjstnkCVftCRAOn6KClL+cmMZG4LbufLfqkdLQNQLqbxDSg7SBXoaX0412LBDHRnSVWcjxaYA2cZswihYfzc6VLCtAAoDcLn8RDNLusIUFH8szoHeeTmS7oSZ5GkJDlKbHTDP/ircMNXfny4sufwwc8/Zd8vtiwWSIBZTJzL9UDDi/udex36XDIzmBFYOd2K328/dSEn9ib/AkzysppkdMpgD3tTEesSnS4peCc8mhrejRyIHKI88APB+QebLxTMuhkKahL2+f6tvj/qTQCSsmzDrEkC1iTet86vPe75aB8w86wqVK2SprQ9YPY2r8j+em/VlEMs4jKL+IkY3XguCTcjX7GdmS0NEtFx+O9FIsxf5OKUMndDf/pNksi5Q==;TjPbRVRuOAsPxNaOioqHzQ=="
 ---

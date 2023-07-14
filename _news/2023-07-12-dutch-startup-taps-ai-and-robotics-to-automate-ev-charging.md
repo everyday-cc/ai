@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-autom
 webUrl: "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will Robotics Automation & AI Take Our Jobs?"
-    excerpt: "There's a big concern about robotics automation and artificial intelligence. We think it's a $150 trillion question: Will AI take our jobs?"
-    publishedDateTime: 2023-07-09T14:59:00Z
-    webUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/"
-    ampWebUrl: "https://banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
-    cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/will-robotics-automation-ai-take-our-jobs/amp/"
-    type: article
-    provider:
-      name: Banyan Hill Publishing
-      domain: banyanhill.com
-    quality: 89
-    images:
-      - url: "https://banyanhill.com/wp-content/uploads/2023/07/shutterstock_151615517-scaled.jpg"
-        width: 2560
-        height: 2560
-        isCached: true
   - title: "How AI And Automation Are Transforming The World"
     excerpt: "Artificial intelligence holds revolutionizing potential across industries. Generally, AI can be divided into two categories: automation and augmentation. By automating, we can eliminate the need for human labor, and by augmenting, we can use AI to enhance the intelligence and performance of human beings."
     publishedDateTime: 2023-07-10T14:15:00Z

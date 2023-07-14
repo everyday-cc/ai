@@ -228,6 +228,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Indian startup lays off 90% staff for AI bot to focus on profitability"
+    excerpt: "Dukaan, an Indian E-commerce startup, has laid off 90% of its customer support team with an artificial intelligence (AI) chatbot. The founder and CEO Sumit Shah informed on Tuesday that the decision was to prioritise profitability,"
+    publishedDateTime: 2023-07-14T04:11:00Z
+    webUrl: "https://www.tbsnews.net/world/global-economy/indian-startup-lays-90-staff-ai-bot-focus-profitability-665014"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 37
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2021/08/12/1200x-1.jpg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "India’s Wipro commits US$1 billion investment into AI"
     excerpt: "INDIAN IT services provider Wipro said on Wednesday (Jul 12) it planned to invest US$1 billion into artificial intelligence (AI) over the next three years. Read more at The Business Times."
     publishedDateTime: 2023-07-12T04:54:00Z

@@ -117,6 +117,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Meta’s Own AI Bot: Zuckerberg May Soon Release Its Own AI Chatbot Rival To Bard And ChatGPT"
+    excerpt: "Additionally, Meta's Founder and CEO, Mark Zuckerberg, along with other executives, have hinted at their intention to create multiple AI chatbots for individuals, advertisers, and businesses across Meta's platforms, namely Instagram, WhatsApp, and Facebook. These chatbots will be powered by Meta's LLMs."
+    publishedDateTime: 2023-07-14T06:09:00Z
+    webUrl: "https://in.mashable.com/tech/56336/metas-own-ai-bot-zuckerberg-may-soon-release-its-own-ai-chatbot-rival-to-bard-and-chatgpt"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 59
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/untitled-design-1_d8b9.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google testing new medical AI chatbot that can answer your medical queries"
     excerpt: "According to the WSJ, an internal email that it was able to access stated that Google thinks its modified approach can be especially useful in nations with “more limited access to doctors.” Med-PaLM 2 was trained on a selected collection of demos from medical experts,"
     publishedDateTime: 2023-07-10T09:52:00Z

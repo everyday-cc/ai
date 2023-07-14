@@ -9,8 +9,8 @@ ampWebUrl: "https://fox40.com/news/washington-dc-bureau/washington-tackles-poten
 cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/washington-dc-bureau/washington-tackles-potential-risks-of-ai/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: FOX40 News
@@ -35,6 +35,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 31
+  - title: "Herzog heads to Washington during delicate time for US-Israel relations"
+    excerpt: "Herzog is to meet US President Joe Biden, Vice President Kamal Harris, and Secretary of State Antony Blinken and address a joint session of Congress."
+    publishedDateTime: 2023-07-14T07:02:00Z
+    webUrl: "https://www.jpost.com/israel-news/politics-and-diplomacy/article-749970"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 24
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/543531"
+        width: 690
+        height: 407
+        isCached: true
 
 secured: "BmtI6XlCMGRc8W1fNe/dgT6GTSQegLDHWVO6zhIiYAbp/cj0tUkhNxwBmCwsViEaA0xPkTU68+vMmGvynFD/nkkgy01KIJMI256s/GOOQAsXHIo1NKvybygP6xMm29DgzyHtuFMeLY3LKbwy/2Oci3O6OIli+iiPegjDSekKYUzkQpQhz4rNtPjIZS8JM33kIBnT0JK4L3Y+lPiRagUzb1VNyowWICSO0Zwq7Gm5VyMjVeuMpM5mBmpw/gGyNMSz3CPSTtm2DT/x29elWLpp1upaMbkjFnmmrr+9vA/hHTKdmxiJHeXGoJ3gIA1DS0Ey0J/cA1UPIR9mDsncLKQRIa2uo7gGI1UGAzRzX2eUcyg=;AQjAyZo+m+v40Z48DxRI1g=="
 ---

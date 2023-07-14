@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/most-workers-want-to-use-ge
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Experts want to give AI human ‘souls’ so they don’t kill us all"
+    excerpt: "Some experts believe the alignment problem can be fixed by making AIs more human — but others say that will just make things much worse."
+    publishedDateTime: 2023-07-14T05:55:00Z
+    webUrl: "https://cointelegraph.com/magazine/ai-human-digital-souls-agi-alignment-problem-replika/"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://cointelegraph.com/magazine/wp-content/uploads/2023/07/magazine-Creating-AI-souls-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "How AI image-generators work"
     excerpt: "Today “ generative AI ” models put brush to virtual paper: publicly available apps, such as Midjourney and OpenAI’s DALL-E, create images in seconds based on text prompts. The final products often dupe humans."
     publishedDateTime: 2023-07-10T16:09:00Z

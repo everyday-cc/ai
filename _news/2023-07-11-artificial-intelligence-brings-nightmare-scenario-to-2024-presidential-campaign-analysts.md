@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-11T14:09:00Z
 originalUrl: "https://www.usnews.com/news/the-report/articles/2023-07-07/artificial-intelligence-brings-nightmare-scenario-to-2024-presidential-campaign-analysts"
 webUrl: "https://www.usnews.com/news/the-report/articles/2023-07-07/artificial-intelligence-brings-nightmare-scenario-to-2024-presidential-campaign-analysts"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 secured: "lOEXCRlwpxH166xp/KcG+DlNZv4y0xsny4puRqyutcS38sd7dF76nv7ivEZpQRdXFfO7mSxJO7CaTaUg2GjsVSQ2B00fTmq4fZagyyabuEFLcSptDwGOKS4GkPhJ8mlXV1nAmF43eZhd9htSurPAh1T6+wByLzd3aikX8XQsPeWMOvf2cCJuZFIx09OS47g5ZNG3BoFXsuudo9Jid7PSUHu0jbv8Yuice6V9tBA2Wh+NZw7HVOSs12ptNm3Jrb+SW2Wcj0A2qHXT06O4X16I9VeT9x6GjrFRkPlx2W4y/K5U01EtdsPY3hC3XmFbvmldyuxQNmWi6r8ZpxU/dEgnKDxs1qJ3Bw34vIBRBokawFQ=;4LSmIP5M8hRQ4WJ5PbG2Ng=="
 ---

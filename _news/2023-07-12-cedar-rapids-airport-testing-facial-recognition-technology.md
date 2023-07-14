@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-
 cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/6ab229f/2147483647/strip/true/crop/4633x2432+0+328/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff9%2F24%2Fb859a1f340c29a90130bffbd5b5d%2Fap21026578874851.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Bunnings denies reintroducing facial recognition technology amid privacy investigation"
+    excerpt: "Bunnings has been accused of switching its facial recognition software back on after a customer noticed the controversial technology was mentioned on a sign outside a store in Melbourne."
+    publishedDateTime: 2023-07-14T06:55:00Z
+    webUrl: "https://www.sbs.com.au/news/article/bunnings-denies-reintroducing-facial-recognition-technology-amid-privacy-investigation/11m26l1of"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 31
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/6a4ae0c/2147483647/strip/true/crop/4926x2771+1+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fe2%2Fde%2F75a7fe7945f8ab513196e9a5d2bc%2F20151022001191074980-original.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "WWhYGKXt45xoaAqFhwS89CmpM2H8axIvfJYL2jtSR7078mqciQStu0frKckfJHYNC1EYog7oUjaSvS/O2FnmMuxBF3PSixL55+hP8y2I9tWrW5bhWCH6m4uFnm068PymGu0LqiUkeWnXtcoxzE3ZZ8xc4GsHts1pseFo/R1fSvQ4s4eh3zvPvdnNVurYimb/v+GGtFQJT5ke+YiOcCSQVNB1dUNbldJn9o9Rzs8/VpAl1ghkG/26sZUtRLdqnMwiRPmnN0XLDJ1wEqRnPESgHrxZHqGY4AUAAWE4rtu6XDWf/8RSz9eGB3gC08ZeampNpsv0LICe66Y5Km0OlOJeAKLO4ANV/jqchBw2FA4uputK4Vp0Ra+pi6NecBouCeuL3xxIVFSeG27aECj/8AiyC5y4AS4K+ObnMRNswP+xIduha8sKs1m9KNNU8c1aGJoUtswG7+gTXqzHOXmpNbFw6qWsqP30HOHMfQA3WTT77dCQQgxm0CikxElYzvsCib+6y5rrzIh+EKyxA/MUKUI2vA==;zatl0CdzSZIOFxS1y9irVQ=="

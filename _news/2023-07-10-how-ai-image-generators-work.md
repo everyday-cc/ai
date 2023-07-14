@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Experts want to give AI human ‘souls’ so they don’t kill us all"
+    excerpt: "Some experts believe the alignment problem can be fixed by making AIs more human — but others say that will just make things much worse."
+    publishedDateTime: 2023-07-14T05:55:00Z
+    webUrl: "https://cointelegraph.com/magazine/ai-human-digital-souls-agi-alignment-problem-replika/"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://cointelegraph.com/magazine/wp-content/uploads/2023/07/magazine-Creating-AI-souls-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "jH+m5zaGqDcNNhxBGOihfgjA8R5+K8UdpBOzbNJ6YwOYRY/hqH8oiPhVaNLjhfXKSbig6kGVQq5zImsZ3EcF1iZPL2xcKOXLLjQhbgCGvxTPl+W4FfcGaY29cJkiYIAKb7eKzOyPO+fVqbXoOS5fuJji89spO8WYQ3qKD++hahS9gVC4NOuWdVnNOqUyuHlSaO5HeRiNmf8CHnQFfejsN8+M1cgSmIZxCjEfJAMUBp8D1teXyEL6mrYjFtCRmxGBQIfhd1gpeThtnV8PBBUc6SU/ITpqNgdFPVtqsDer51ZknZZ6S9ly7K3HqXfu9FBiwWXNBvpMQGF0oq7EEMZ6jedmCVmH2yC5ky7HMyg3KKA=;PXfO1ZxsV7YCr8E0YloI/g=="
 ---

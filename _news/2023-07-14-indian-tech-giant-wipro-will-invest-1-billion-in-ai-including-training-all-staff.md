@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
 type: article
 quality: 81
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -218,6 +218,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Indian startup lays off 90% staff for AI bot to focus on profitability"
+    excerpt: "Dukaan, an Indian E-commerce startup, has laid off 90% of its customer support team with an artificial intelligence (AI) chatbot. The founder and CEO Sumit Shah informed on Tuesday that the decision was to prioritise profitability,"
+    publishedDateTime: 2023-07-14T04:11:00Z
+    webUrl: "https://www.tbsnews.net/world/global-economy/indian-startup-lays-90-staff-ai-bot-focus-profitability-665014"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 37
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2021/08/12/1200x-1.jpg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Sapphire Venture plans to invest over $1 billion in enterprise AI startups"
     excerpt: "Sapphire Venture plans to invest over $1 billion in AI enterprise startups, doubling down on the technology's adoption by companies across the world, its president Jai Das said at the Reuters Momentum conference in Austin on Tuesday."
     publishedDateTime: 2023-07-11T17:15:00Z
@@ -242,6 +256,6 @@ related:
       domain: businesstimes.com.sg
     quality: 19
 
-secured: "5KP0x1k7d3R6CG0n50IN3QIkOMixIiEnMWSgRId9aBuPDXSkxhkNzRDjVO9HGZ6t25lHoA4vUYZVQPnxGhUn7BhNq6RwrrdCMQFgp8pnk78vNCC2ejQzB9TAIN5ETJvEeJlx/CBKJa+JQ2fnzyL+/v5AsloccHszsCV4BLw430p7IL7fg7MVc1m/SrAJ9EanYVatg2hg7A0z6jliXKJVb28DAPkVI14nWsH4ED4ukFSFjCmTH+z15bFhdd7KMdo+zkYlr72SadT2xVRnqnOUSxpUNbJak17kwirtabjHzJmuxN7iF3VO3DFNfTVvENppx7yEbj+58EUCNTWmKz4VLcyJtFVFFcOHTRdghhVkeEQ=;dY4MPAZ/IN5RA1up0chI8Q=="
+secured: "Y0R7hzOhMOXjRAwsczz9WcSRzwuU7x+fXxC7Gdl/KqGL7bxmy7u4zRfwqb774xkMGp0eHfd968sgJChcE629x0iaUPcfUr2uxsLMc8455zuGfDHBrb+BxAw0NhkgRQrYLrq3eR+/rsqGifkQtgr/gJv4Ppq9F71Bvfw8KsCbgh142+CRfmt8mAuxiglVxWqkxPRgtw2VqB+C1yyYEwqu3VnKWMb9rcE5nVJIQUsFKvOzWNOgaMFx/t0/J6c7IbSNeWgpg7Okg3nsjfiAIEDqQsfLmY63aiDEWQz6oXAhXVligcZoNaPrC6TWMZ14b6JrqE5m4Tq+ws+jHuPRpzAlPentzLjzlR7QYsUJPD7LDilD+QeyNOn2r8xbGPDU1Z9yQ0m1z7GncaiMMNaBSsr5LpIJo4sZ6Q0DQXfD+SFs5UMg289MArhVGv63QtZlDEyCb2D/eZAcK694uO/tvHAu+OLiso+aASq769c94/fqWxy/a/SUCFN6++HLCXXEQwVN607f1EgHWD0JUsTJMIKsZQ==;E03uj2C9fTeZggBU/letcQ=="
 ---
 

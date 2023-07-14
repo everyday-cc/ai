@@ -8,8 +8,8 @@ webUrl: "https://www.pbs.org/newshour/show/how-militaries-are-using-artificial-i
 ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-militaries-are-using-artificial-intelligence-on-and-off-the-battlefield"
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-militaries-are-using-artificial-intelligence-on-and-off-the-battlefield"
 type: article
-quality: 55
-heat: 65
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/07/AI-1024x576.jpg"

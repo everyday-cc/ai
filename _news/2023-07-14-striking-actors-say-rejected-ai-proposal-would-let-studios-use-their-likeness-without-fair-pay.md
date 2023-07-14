@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/striking-actors-say-rejected-ai-proposa
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,7 +44,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Striking Actors Say Hollywood Studios Want To Perpetually Use AI-Generated Replicas Of Actors For One Day’s Pay"
+    excerpt: "In their proposal studios want to gain ownership of a background actor’s image and likeness and “use it for the rest of eternity” without any consent in return for a day’s pay, the striking actors alleged."
+    publishedDateTime: 2023-07-14T06:47:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b0ef566fd25ebd02ee197f/0x0.jpg?format=jpg&crop=1177,662,x0,y1,safe&width=1200"
+        width: 1177
+        height: 662
+        isCached: true
 
-secured: "XXLcY/9twENhu6ZelTDWsMgiUAkSwPPssqpuHFxHm2GWbxARAk8jKwTqO1glDOCfD+ggwNtfUCd5sSVq5My1DXQelpWRfrjtG1wxVn5rkso8R7II6l0C8N2b5ymWWQk+jUFQvXjYGfCatdCFV1gNsACSS2ic1Xke9rpBShGvl1B7wsQbZc4Eu4wkmvzjhVp3z7RzJpZZGbtjXsNP4jCM0ve4PrxQxBODXk1aq5d/c1gfjW6m1M3xsx/kMar30lZ0XjOwmaOGMRs5FDDgcRbbxcfvcBfW5Zhn64ImFtHG2TsdVmCxxGy0bpcSCfLVbgqARhZ+Bsl9/i+klKLIMJbqYqu/xe/X8ydA9kodov7084g=;XYpgeFrvnUCfVggIHnLu8g=="
+secured: "J2W4y3fVqY4u4+0vQcRPeYsz8kI9s93sLhT7qtvMsOLA0bOf65wDpbEZOjfbahDKkhrEYPCBOni+uevgpocHa/uKRU5qBe4PP1BEzFBTWvIpYnhhLSkBLAoGKweyx/XsDAl01YizEp0FLOpJo2oNgP0jDHtdzw+I/jnYAJalPJYOXnyFci2HSBOMPHmfuJG+aZEW1Zm5tjDOOfhzv6iOGdyXNd1WvaAbB2Zc246pkWeLJT/+kuuiJl/1Hpx4xioNfj8cxh0Vdv1CaLRYgG4jWpG4o+aGzFNbTAe2+hsDZg2oWuH1i+qG9WEdfcossBK4DAuZgUg0tMKRUsy6KA9J46oBzPm2+/4gjAwevRUnKrlWTU5jnDpm3yQU0zEi1E9rMq3FOV3U3bb7+UkPKTsq/JAUKP/f/yniUE2K3SlkSpt8T4ryJX61SJfZmcZa0dmmFD+JKFNc29/r5QdEcFRyn2seBxk7n566n0CBz2EyameiJt0uxwn1Qgc+BKB7urkung+nf4FIPRcATgnpkhZF8Q==;X3myubqOOOacP9zufmpQMw=="
 ---
 

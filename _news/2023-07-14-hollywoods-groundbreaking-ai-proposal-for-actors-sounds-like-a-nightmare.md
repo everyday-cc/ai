@@ -42,19 +42,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Hollywood on strike: The future of AI in the entertainment industry:5 Things podcast"
-    excerpt: "AI technology has emerged as a sticking point for workers in the entertainment industry. Without guardrails, writers and actors say AI can put them out of a job."
-    publishedDateTime: 2023-07-09T14:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2023/07/09/hollywood-on-strike-the-future-of-ai-in-the-entertainment-industry/70394275007/"
+  - title: "Hollywood actors union votes to strike over pay, AI issues"
+    excerpt: "The television/theatrical/streaming contracts of the Hollywood actors union SAG-AFTRA expired late Wednesday. The national board is scheduled to vote Thursday on whether to strike."
+    publishedDateTime: 2023-07-13T11:23:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 30
+      name: UPI
+      domain: upi.com
+    quality: 57
     images:
-      - url: "https://www.gannett-cdn.com/authoring/images/motleyfool/2023/05/22/USAT/70244984007-a-human-like-head-with-lines-of-ai-computer-code-reflected-off-the-surface-and-projected-on-the-nearby-wall.jpeg?auto=webp&crop=2101,1188,x0,y213&format=pjpg&width=1200"
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6041689244370/2023/1/13d24c8becf0402a502b60ae5afdf5b8/v1.5/Citing-studio-greed-Hollywood-actors-union-votes-to-strike-over-pay-AI-issues.jpg"
         width: 1200
-        height: 679
+        height: 800
         isCached: true
 
 secured: "LKvF4Bw3MMm6EyvwIs0bnpRp695s3lA7xT78TWG4M5Q1Nw1XPqvGw0MS5L1MnnzODrUBJVJD3sPU5yEEKE3gCGRLaqvEvuUd6Aam9yuWioMOn9D1VK0F67tNlXP2AC2KBFrP3VNapdGgxtw2ZUoKgXzodzfrqH52FuWAwe2/xSfq6oXReXqoOyIV+4c8ySVyvL5Ufo4V3VwYPxzeg5aIsWVOZvGN3XExFC25bexWNHN2LQW3UFmSFgJlZPI1m80xKh0hm5zxrQUdvvvxNxPLErYUOgDmGhZWVGbU3x2Ew9OOyidEz4pPDNxBoOiIt8yyE9J5R9RsCMlO5r0KYPLKlsOQDvVxQGnBJSGw+3yPlmGSft94F2jI/tlE+h5mCLebb1+my0e5c1nXjB5H/zIUMvJ8fnPWAHUhE0OJQRZ3nLLbh9XkJg6g/nRMe/QNWzPOQcHuyhUWRPayGSSEMkO96G/8+uHBZ2sK+5NYYQVAOxNR7GuPPxrZYFTf3utiOA/LvWpbDtB1GtULYZVcOB4dXA==;uJWxUh0BFHPsdnEFnvFrKA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodl
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

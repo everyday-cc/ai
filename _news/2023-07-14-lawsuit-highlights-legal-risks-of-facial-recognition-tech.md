@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bunnings denies reintroducing facial recognition technology amid privacy investigation"
+    excerpt: "Bunnings has been accused of switching its facial recognition software back on after a customer noticed the controversial technology was mentioned on a sign outside a store in Melbourne."
+    publishedDateTime: 2023-07-14T06:55:00Z
+    webUrl: "https://www.sbs.com.au/news/article/bunnings-denies-reintroducing-facial-recognition-technology-amid-privacy-investigation/11m26l1of"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 31
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/6a4ae0c/2147483647/strip/true/crop/4926x2771+1+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fe2%2Fde%2F75a7fe7945f8ab513196e9a5d2bc%2F20151022001191074980-original.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "J63oEf5MZBDdEE2rxTSk0+kKiwuZogMJMuns6BxLjpjScuLK1esB7hffdrrRgvPukoJZOdSWZ6pCJ5ElDN4H0A/FkCZT+A+xVq4I64gd6PyR201Sa3p+1f8ZUGMLum1CtWsqC9aFbfijlrWT0QHAWdzbsCNf/9bGc6XBokZfZAsXFhP1bGxMfv0ANzSuuOWbIgsZtMq6ibzfKqSXhwTrvxRY1iK+dYQvwdV+LtKKUVY4e5zABKR1ZO7eX1om+nb2CxKiPvH+HyYrWf/8auI7tqx2DSxw9TfWiUJBaM54r9CSdQmGYzvp41XalPMm7B1YoiBXjp6RJj27N8feIT50qYfiL42xOPAWFv4CAnDKQtc4Yz4crbUbjJaqumkyODvBX6weOwCIxUXkpwYBIatnSQhED4xqmCIWqPwuOkC632A7G+K9cAiML+BU3w1cNwIhOcG/03YBNmx+9fEIeJU3VhwHlhAYs9voyd5b3Em8o5lFrWy7s0ct+ABv9P+weqHkFcoxuzV6jsd7L1MWgTfboQ==;ks74/gsnIvobH1fvNtgv1A=="
 ---
