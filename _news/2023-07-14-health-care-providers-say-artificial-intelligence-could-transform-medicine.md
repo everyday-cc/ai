@@ -8,7 +8,7 @@ webUrl: "https://www.wcvb.com/article/health-care-providers-say-artificial-intel
 ampWebUrl: "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
 cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://kubrick.htvapps.com/vidthumb/d2da9836-1c08-410a-bf51-c3a491e807e6/1ea45c1b-a217-4615-ae61-f537adb0c5c8.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
@@ -374,6 +375,6 @@ related:
       domain: baystreet.ca
     quality: 19
 
-secured: "iRhRoZYzgN/tPYY+/ruAFNEH+fGXAsr+zbnxeoqBNcq4epY07z6v8v3e8UthnxkFRDEjzD7gFpXlrxc2yDjuzCLIyK8wiFLTXSSZIEmx4RZg2aURkwijtaVw/ePFcRogBPBpOwbuRe0++sO+BRYu4gjVkM/zQY4uo18FCIykaKtG8ys5X3Ouky6UR43LKPZW+IrSo7GmM7bMO0jVGAkmGNOHbAVjKUPoJ9j37g2FXT69/xQZGlBaPUl1nCrUHsERvi1CSzs3/JrNRYmpieN9xqxDkx/Bd/RYXj6SBlo/5PdNyc8INzOGBNn3OysJWlwRBEcRp45aU3YqfCXN0vzDHzrwLBDckXY8CXSAZfIytsM=;KoLW9mIC9gzb8djvHBed4A=="
+secured: "BM5IDkhC7Ngs36kvNdPs2MeUg1OkvBWwZ1YpE8YPxnIsjykNPsqZQ7DUD7hVwqmWEWiRGSxLlmu6B8lfwnV7n+PXXh1dyv8OMKKGgskm8J3VVo8NQZ7SqHZj4fsaPDn8a3G/AsFz1Q9viWfppqBuLjlhT4SV9VZBVABP1wPdzQNlUxzX+olEXT9hWFrLhO9ID9jphDJIrBA3ENvDro//LREjHwiOj4VxPNL8nGhylUp6BPXZxaSdHrP8JshFRxMbru1YUHslncRV3BeUOIYxoLacTMO1+5w1HUNRsYmqW6p6uhfZ/WnM4WcU4K3jhp5qVyFJ1v3zy/GyMpAWU4nBPGvyjK5qOhHNLyxUo0jsk0/WxJQNy3Dwl8evrUiiQ3cyHJk7Y8H2mE/tdNprTpc35LxWSOYhLDGfPaPg5/8uXJX2TvbUgfKnAXDFvDHOz8yZva00p9kdSb46z/V9J54u2KAaqp58SF9cDFFbhqyqnWU/H+MmOuRLUWQdNIAsk3LPeePxEKxlhxw9WZkdbkjgtA==;5jm+DsP0LR29I536zH9qhQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-wa
 webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft"
-    excerpt: "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,"
-    publishedDateTime: 2023-07-12T00:17:00Z
-    webUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
-        width: 2000
-        height: 1143
-        isCached: true
   - title: "Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks"
     excerpt: "Facebook and Microsoft continue their dominance as the most impersonated brands"
     publishedDateTime: 2023-07-13T20:42:00Z

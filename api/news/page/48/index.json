@@ -2,57 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2023-06-13-paul-mccartney-ai-has-enabled-a-final-beatles-song.md",
-      "title": "Paul McCartney: AI has enabled a “final” Beatles song",
-      "excerpt": "BBC Radio 4's Today program aired an interview with Paul McCartney in which he announced that thanks to AI technology, a \"final Beatles record\" has been finished and will be released later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/beatles_ai_hero_4-800x457.jpg",
-          "width": 800,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/amp/",
-      "publishedDateTime": "2023-06-13T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-13-the-australian-ai-governance-debate-starts-to-heat-up.md",
       "title": "The Australian AI governance debate starts to heat up",
       "excerpt": "Australian ministers debate whether implementing regulations for AI will address the challenges caused by a lack of skilled AI talent.",
@@ -1186,6 +1135,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-openai-deepmind-and-anthropic-to-give-uk-early-access-to-ai-models-for-safety-research.md",
+      "title": "OpenAI, DeepMind, and Anthropic to give UK early access to AI models for safety research",
+      "excerpt": "The UK has been ahead of other countries in AI safety and regulations, and this announcement comes with the creation of an AI Taskforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/",
+      "originalUrl": "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/383bbbdcbc8cc7077514430dab2072839d7dc9cd/2023/06/12/ef66201a-11c7-4071-a1be-1b603f993b6b/pm.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

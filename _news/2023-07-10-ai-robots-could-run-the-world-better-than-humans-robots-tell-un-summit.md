@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-cou
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.sciencealert.com/images/2023/07/HumanoidRobotPortrait.jpg"
         width: 1024
         height: 415
-        isCached: true
-  - title: "At a UN Summit, AI Robots Just Said That They Could Run the World Much Better Than Us"
-    excerpt: "Ever wondered what a group of robots would say about humans in a press conference? Well, you don't need to wonder anymore. At a United Nations summit earlier this week, a panel of artificial intelligence (AI)-powered humanoids just banded together to tell us a thing or two about the future of AI technology."
-    publishedDateTime: 2023-07-09T09:30:00Z
-    webUrl: "https://www.esquiremag.ph/culture/tech/artificial-intelligence-humanoid-robots-united-nations-ai-summit-a00203-20230709"
-    type: article
-    provider:
-      name: esquiremag
-      domain: esquiremag.ph
-    quality: 47
-    images:
-      - url: "http://images.summitmedia-digital.com/esquiremagph/images/2022/07/29/shutterstock-235214128-1-1656294336.jpg"
-        width: 970
-        height: 546
         isCached: true
   - title: "Meet the AI human-like robots that can do our jobs"
     excerpt: "Current breakthroughs in AI are key to the revolution in ‘human’ androids, explains Robert Waugh. Some of them are already employed"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/hiring-hands2b.jpeg?w=3000"
         width: 3000
         height: 1688
-        isCached: true
-  - title: "Human-looking robots take questions at event about the future of AI"
-    excerpt: "A U.N. technology agency assembled a group of robots that physically resembled humans at a news conference. The International Telecommunication Union invited reporters to ask them questions on Friday"
-    publishedDateTime: 2023-07-09T10:38:00Z
-    webUrl: "https://www.gjsentinel.com/human-looking-robots-take-questions-at-event-about-the-future-of-ai/article_2898ef52-a434-5074-891b-4978853dac4d.html"
-    type: article
-    provider:
-      name: The Grand Junction Daily Sentinel
-      domain: gjsentinel.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/f/24/f24bbfc5-e7ad-57c9-acfa-1bf36f1f6e36/64aacba43bde5.image.jpg?crop=1780%2C935%2C0%2C114&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."

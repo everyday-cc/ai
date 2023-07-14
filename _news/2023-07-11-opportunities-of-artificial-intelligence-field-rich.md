@@ -195,7 +195,7 @@ related:
     provider:
       name: WCVB Channel 5 Boston
       domain: wcvb.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://kubrick.htvapps.com/vidthumb/d2da9836-1c08-410a-bf51-c3a491e807e6/1ea45c1b-a217-4615-ae61-f537adb0c5c8.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200

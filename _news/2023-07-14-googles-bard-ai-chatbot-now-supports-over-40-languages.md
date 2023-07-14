@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google’s Bard AI Chatbot Adds More Languages to Take on ChatGPT"
+    excerpt: "The latest version will also include a privacy hub for all users."
+    publishedDateTime: 2023-07-13T06:00:00Z
+    webUrl: "https://www.wsj.com/articles/googles-bard-ai-chatbot-adds-more-languages-to-take-on-chatgpt-a2acfc5b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-816148/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Millions of users are flocking to an AI-powered chatbot that lets them chat with famous figures like Elon Musk and Mario"
     excerpt: "Character.AI has around a dozen versions of Elon Musk that users can chat with, including a \"kind, gassy, proud\" unicorn."
     publishedDateTime: 2023-07-13T10:58:00Z

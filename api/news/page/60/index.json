@@ -2,50 +2,6 @@
   "page": 60,
   "value": [
     {
-      "path": "_news/2023-06-04-academic-warns-against-using-ai-as-therapy-tool-points-to-security-risks.md",
-      "title": "Academic warns against using AI as therapy tool, points to security risks",
-      "excerpt": "The artificial intelligence (AI) technology is not mature enough to allow the use of ChatGPT in psychotherapy or counseling, he said, urging people with mental health issues to seek help from a psychiatrist or therapist. “Some people who are going ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.taipeitimes.com/News/taiwan/archives/2023/06/05/2003801002",
-      "originalUrl": "https://www.taipeitimes.com/News/taiwan/archives/2023/06/05/2003801002",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.taipeitimes.com/images/2023/06/05/p03-230605-327.jpg",
-          "width": 800,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-04T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Taipei Times",
-        "domain": "taipeitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-06-04-google-is-using-machine-learning-models-to-speed-up-gmail-search.md",
       "title": "Google is using machine learning models to speed up Gmail search",
       "excerpt": "Millions of users around the world rely on Gmail as their primary email service. And it's no mystery that the sheer number of emails sent and",
@@ -1170,6 +1126,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-google-opposed-a-shareholder-proposal-asking-for-more-transparency-around-its-ai-algorithms.md",
+      "title": "Google opposed a shareholder proposal asking for more transparency around its AI algorithms",
+      "excerpt": "During Alphabet's 2023 shareholder meeting,Trillium Asset Management proposed asking the search giant for more accountability on its AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6",
+      "originalUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6460f406d391de0019bdd0f7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6?amp",
+      "publishedDateTime": "2023-06-02T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/softwarereviews-re
 webUrl: "https://markets.businessinsider.com/news/stocks/softwarereviews-reveals-the-top-enterprise-architecture-tools-powered-by-artificial-intelligence-1032438974"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Google Reveals Its AI-Powered Search Engine to Answer Your Questions"
+    excerpt: "Spread the loveIn a significant leap forward for search engine technology, Google has unveiled its latest artificial intelligence (AI)-powered search engine designed to provide users with more accurate and relevant answers to their questions."
+    publishedDateTime: 2023-07-14T01:21:00Z
+    webUrl: "https://www.thetechedvocate.org/google-reveals-its-ai-powered-search-engine-to-answer-your-questions/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/l-intro-1620307704-660x400.jpg"
+        width: 660
+        height: 400
+        isCached: true
 
 secured: "zNvGYn85c8uT79C5lEQhDbe9NChqqHQD237DEs4SuKL65dzpx1F+AxYPtV6Q+hcz33DLjt/6xaZh4kksidGllMwNL8C6t/MQvjMxL3uTGfnRiEaUgekPs9KrB3UyUjEtbDEPmmV0tAqt6Lf9O+Xg4SKG5L0oXHYe5ljngib/vq+OWUxQJdqm2RHo1DkFNV1cGDeR+Akefj1cAoVn33/xWqaW/8cYR2owfwL5XMOJjWRGanbK+FxnFgsQFttMGqvP3Je8iVpjtROUDeX5JAACoGIW6rMlUlCzRon0v1Dm6b1CJ9JLAcU+z0XcsKOXK/NKNDPO78Vs6MEeymAMLpBuMHmmy3wqYhEFN8xdjPPhbWSTgOq2JOZV/O24P7NnHsWY2phAOPzYXOEnsdAHfE7dnexKx3Eemw6UsliHsUmOMghHQxVvmjHCUw/vLHZEPm5p4Du+PbAHekWQe1+XEzxM2POdOZFoBkZipzjgVFdGJt+A9yBpn0KQtLxq77vkQKY0nnO/t4znAaTZ55SraDAuvA==;NizwM9SE4PQwpG7zFN13cg=="
 ---

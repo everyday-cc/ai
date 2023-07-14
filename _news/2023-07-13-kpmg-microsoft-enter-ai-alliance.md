@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon, Microsoft and Google cloud services bet heavily on AI, but do their customers even want it?"
+    excerpt: "\"AI\" may be the two most frequently spoken letters in business this year, but the technology is not as high a priority as one might think when it comes"
+    publishedDateTime: 2023-07-13T21:01:00Z
+    webUrl: "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 90
+    images:
+      - url: "https://images.mktw.net/im-816626/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Enoc Group opts for Microsoft Azure OpenAI Service"
     excerpt: "UAE - Enoc Group, a leading integrated oil and gas player, intents to work with Microsoft to integrate Microsoft Azure OpenAI Service into its business operations leveraging ChatGPT AI capabilities. This will deliver insights to its businesses that improve ..."
     publishedDateTime: 2023-07-12T05:51:00Z
@@ -43,6 +59,22 @@ related:
         width: 898
         height: 599
         isCached: true
+  - title: "On AI: Microsoft Copilot Is Going To Be Huge. Here Are 6 Critical Things Every Business Owner Should Know."
+    excerpt: "Microsoft Copilot is going to be huge. Here are 6 critical things every business owner should know about Microsoft Copilot"
+    publishedDateTime: 2023-07-12T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/"
+    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64aeac3d7cda7d0a1b8a3d01/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 710
+        isCached: true
   - title: "KPMG to invest $2 billion in AI in expanded partnership with Microsoft"
     excerpt: "KPMG has pledged a $2 billion investment in Microsoft Cloud and AI services over the next five years to streamline workforce efficiency."
     publishedDateTime: 2023-07-13T17:11:00Z
@@ -51,7 +83,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/KPMG-AI.png?w=1200&strip=all"
         width: 1200
@@ -84,20 +116,6 @@ related:
       - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/06/250087_SCI_Entra_T1_Moment_Blog_230601_Blog_Security_NoText_1280x720-1.png"
         width: 720
         height: 720
-        isCached: true
-  - title: "Tech Mahindra aims to transform knowledge search with integration with Microsoft Azure OpenAI"
-    excerpt: "Tech Mahindra’s Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility in a unique way,"
-    publishedDateTime: 2023-07-10T15:40:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=159549"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 58
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
-        width: 772
-        height: 594
         isCached: true
   - title: "AWS, Microsoft, Google Battle For $169B Cloud Services Market: IDC"
     excerpt: "IDC reports cloud market share data showing AWS, Alibaba, IBM, Microsoft and Google Cloud leading the global $169 billion public cloud foundational services market."
@@ -141,6 +159,20 @@ related:
         width: 1452
         height: 823
         isCached: true
+  - title: "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft"
+    excerpt: "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,"
+    publishedDateTime: 2023-07-12T00:17:00Z
+    webUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
+        width: 2000
+        height: 1143
+        isCached: true
   - title: "Azure: Our AI Platform – Stories – Microsoft"
     excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
     publishedDateTime: 2023-07-11T05:18:00Z
@@ -159,20 +191,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 45
-  - title: "Microsoft, KPMG enhance AI collaboration with $12 billion in prospective growth opportunities"
-    excerpt: "In an era where technology is rapidly advancing, companies are constantly seeking ways to stay ahead of the curve and embrace the power of AI to drive growth"
-    publishedDateTime: 2023-07-12T14:06:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-kpmg-enhance-ai-collaboration-with-12-billion-in-prospective-growth-opportunities/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 43
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/Artificial-Intelligence-AI.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
     excerpt: "Availability on Microsoft's cloud computing platform will facilitate safe and accurate Generative AI applications. NEW YORK,  /PRNewswire/ -- Pinecone, the vector dat"
     publishedDateTime: 2023-07-13T17:48:00Z
@@ -223,15 +241,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 22
-  - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
-    excerpt: "Developers get future-ready with Microsoft Cloud certifications; build innovative solutions to accelerate inclusive growth for IndiaBengaluru, January 2,"
-    publishedDateTime: 2023-07-13T03:39:00Z
-    webUrl: "https://www.inferse.com/610126/microsoft-celebrates-future-ready-champions-of-code-with-over-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 17
 
 secured: "yu029BxHqIP73zPL0AtUDQKv2WRqmYEC6+kixc/HqqBTRZwnUlag7kCTmiZ3xhRpSGZ5Hc3X/u7Q/pv60jPrdPFqGSdD1eExnnkkRBe0PbYyPv67xMuD/pxLeK5nHIxdM8/2wcH46t2srCjmdtieDfei+qsWGEI6Qa/iwpYgEjI+epL+75QsSdC6MyhdY2BzW1BEbIOIAYJwH9vJM+fbeJCJVsKsD6sJ6B6tCQXKpCcmMjbUoz6DJRqCXIZGIdnBfzRiLnmxpuCop2uLiuGWKgnORDXuJjn/uyJJV+oFvU7P6kcE47mrgKhyfm5mXxgakAY7PNdAQ5YD0sAi7o+trkf1wI0qJXBA6BqtZ60ee9g=;b0cw8Izb1DMQpPc/FRJ+ng=="
 ---

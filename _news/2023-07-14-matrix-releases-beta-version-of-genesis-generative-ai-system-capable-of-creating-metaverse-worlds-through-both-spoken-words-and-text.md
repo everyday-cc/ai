@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta To Release Commercial Version of AI"
+    excerpt: "Meta will make its open-source language model LLaMA more widely available and customizable by companies in an effort to catch up with artificial intelligence rivals."
+    publishedDateTime: 2023-07-13T18:37:00Z
+    webUrl: "https://www.investopedia.com/meta-to-release-commercial-version-ai-7560608"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 39
+    images:
+      - url: "https://www.investopedia.com/thmb/WEdPnle0UBJgMvXiGc6X7t4vmi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1349793571-2a575ce3fe704e0aa5142c6996bbc5bc.jpg"
+        width: 1500
+        height: 993
+        isCached: true
 
 secured: "f9XZo8+lfkhPfEt2iZHOblrmQmBvGPruDGY4Tpx1B1InDpCaNx1jrng2fo/hNXhk5moNRIxeA6WL/oIkHI4ykxF8wyNqmzywJMZPQXeUkDOf1tcs17dVIcTvNCtl+d+BArPOCvdG7/NjZhgyM+bES4lPxNRl9Ary37PesQ//jdXM85ar0N0tUHnjdwGEq7RaGdsdf3eAAWqGIK78YBGZFef9M32M7f4NtKNSGTz0XOybB6o6Q4sv06XrwNCxms4MyITbWxsvXkDlRCAY1ivKxVkB5yZj4DddkUPUyqCVfvrwDKMmsko8QPTshfw6+VnTDPUTz27uLIlEU4E6amRHuA/oQzwhvTdbZjvO26CqRmelL1CMx9WEf1Bg4UziWcauTmYDJ/WNe93oxB2RJhcE+HgyXypDXUDF3KDMoGYcA2JH+cGXjYTMDBK3Y4PzbP/JrLVAhfcs/5FgWWvm0TH+p58ZWQjo/kNjVIzm0xuRhkCuYJGH2U/DWGkKcOr++5e0uN8TzUa8o75haYNELjGo6g==;JP0ghOUZCCeYfRW0bmmhgA=="
 ---

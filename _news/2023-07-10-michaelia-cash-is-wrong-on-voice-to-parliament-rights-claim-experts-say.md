@@ -24,22 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Michael Chaney pays a price for Voice advocacy"
-    excerpt: "The Wesfarmers chairman has not commented on the Advance Australia ad that ran in this newspaper, which our publisher has since said “should not have run”."
-    publishedDateTime: 2023-07-09T10:00:00Z
-    webUrl: "https://www.afr.com/rear-window/michael-chaney-pays-a-price-for-voice-advocacy-20230709-p5dmu7"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2165%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_87/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/97644d38381805cf4127e1f6fd591bf7a0bb94ac"
-        width: 1200
-        height: 628
-        isCached: true
-
 secured: "aazDXE5BSWx8tlViAzQD/YGjxK1Nsv8VGfW8tuyzAm9P0yeIxUxXmvemTIeZY25g3CVKUq/iXULGTUCoNEMXBjcVLs991gbSkgRlaJCWQRrSetyu1doBVeWNN+WZqUowbog96E8PoBwJH0R/rxqz7ieL4FS7rTRRynCbBOeDJNw32ay/hSotu/fcjvjBafUqR65YYT5PSDFwD3WGcGTNJGc9auMtYJamBjkxpHEY67CtvgESXnd7wuYnqyICbvjobVDs3c1GdCEw7bIgo93Z8sfRGKtJ50Le8gw33ejAMW+Gq4IbTKV6sMGwblNdJMygdm6xweDi0NrkSafubyvn1jJWAv2noqGqIlJ4Gx5/mJE=;RkPQIsYJWaf8Q9keX+nFYA=="
 ---
 

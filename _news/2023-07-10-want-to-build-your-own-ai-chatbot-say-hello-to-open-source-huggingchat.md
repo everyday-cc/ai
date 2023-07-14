@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/want-to-build-your-own-ai-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/8f89d44a5ec05644c6771739820cbf0f63f6a093/hub/2023/06/28/b65a809e-bdf9-4ed1-a9e9-33d039e7c579/ai-text-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google’s Bard AI Chatbot Adds More Languages to Take on ChatGPT"
+    excerpt: "The latest version will also include a privacy hub for all users."
+    publishedDateTime: 2023-07-13T06:00:00Z
+    webUrl: "https://www.wsj.com/articles/googles-bard-ai-chatbot-adds-more-languages-to-take-on-chatgpt-a2acfc5b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-816148/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Google's Bard AI Chatbot Now Supports Over 40 Languages"
     excerpt: "Google made its Bard AI chatbot available to the public in May, during Google I/O 2023, but only in English, Japanese and Korean to start, with more promised. Two months later, the tech giant's ChatGPT competitor now supports more than 40 total languages."

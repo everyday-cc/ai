@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-c
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-china-is-on-team-humanity-when-it-comes-to-ai"
 type: article
 quality: 67
-heat: 87
+heat: 89
 published: true
 
 provider:

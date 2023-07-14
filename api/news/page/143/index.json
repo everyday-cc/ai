@@ -2,58 +2,6 @@
   "page": 143,
   "value": [
     {
-      "path": "_news/2023-04-14-nvidias-top-ai-chips-are-selling-for-more-than-40000-on-ebay.md",
-      "title": "Nvidia's top A.I. chips are selling for more than $40,000 on eBay",
-      "excerpt": "The H100, Nvidia's latest flagship AI chip, was announced last year and is currently being shipped to data centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1681490885",
-          "width": 2949,
-          "height": 1966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "publishedDateTime": "2023-04-14T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-14-microsoft-stock-is-easily-your-best-ai-bet-for-2023.md",
       "title": "Microsoft Stock Is Easily Your Best AI Bet for 2023",
       "excerpt": "That’s okay, though, as it’s not too late to take a position in Microsoft (NASDAQ:MSFT) stock. No doubt about it — Microsoft will continue to push the boundaries in the generative AI field this year,",
@@ -1181,6 +1129,49 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-amazon-unveils-new-tools-for-building-generative-artificial-intelligence.md",
+      "title": "Amazon unveils new tools for building generative artificial intelligence",
+      "excerpt": "Company says artificial intelligence, machine learning have been its focus for over 20 years American technology and e-commerce firm Amazon on Thursday announced new tools for building with generative artificial intelligence (AI) on its cloud computing platform Amazon Web Services (AWS).",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeturk.com/en/amazon-unveils-new-tools-for-building-generative-artificial-intelligence/news-73876",
+      "originalUrl": "https://www.timeturk.com/en/amazon-unveils-new-tools-for-building-generative-artificial-intelligence/news-73876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timeturk.com/resim/detay/7/73876.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Timeturk",
+        "domain": "timeturk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

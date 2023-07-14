@@ -104,20 +104,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Human-looking robots take questions at event about the future of AI"
-    excerpt: "A U.N. technology agency assembled a group of robots that physically resembled humans at a news conference. The International Telecommunication Union invited reporters to ask them questions on Friday"
-    publishedDateTime: 2023-07-09T10:38:00Z
-    webUrl: "https://www.gjsentinel.com/human-looking-robots-take-questions-at-event-about-the-future-of-ai/article_2898ef52-a434-5074-891b-4978853dac4d.html"
-    type: article
-    provider:
-      name: The Grand Junction Daily Sentinel
-      domain: gjsentinel.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/f/24/f24bbfc5-e7ad-57c9-acfa-1bf36f1f6e36/64aacba43bde5.image.jpg?crop=1780%2C935%2C0%2C114&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Says It'll Scrape Everything You Post Online for AI"
     excerpt: "Previously, Google said the data would be used “for language models,” rather than “AI models,” and where the older policy just mentioned Google Translate, Bard and Cloud AI now make an appearance. This is an unusual clause for a privacy policy."
     publishedDateTime: 2023-07-10T16:44:00Z

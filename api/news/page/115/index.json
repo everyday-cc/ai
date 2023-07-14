@@ -2,58 +2,6 @@
   "page": 115,
   "value": [
     {
-      "path": "_news/2023-05-02-best-fintech-app-development-companies-in-the-usa.md",
-      "title": "Best Fintech App Development Companies in the USA",
-      "excerpt": "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-02-financialbuzzcom-recruiters-implement-ai-powered-solutions-to-ease-processes.md",
       "title": "FinancialBuzz.com: Recruiters Implement AI-Powered Solutions to Ease Processes",
       "excerpt": "Inc. (AWS) to deliver artificial intelligence (AI) solutions designed to solve customers' critical business challenges across a variety of industries, including defense and intelligence as well as ...",
@@ -1206,6 +1154,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-were-in-the-aol-phase-of-artificial-intelligence-tech-ceo-says-as-industry-raves-about-ai.md",
+      "title": "We're in the AOL phase of artificial intelligence, tech CEO says, as industry raves about A.I.",
+      "excerpt": "Sachin Dev Duggal, CEO of Builder.ai, said we've only just begun to see what's possible with AI and that the space is in need of a reality check.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107231609-1682534718265-gettyimages-1252206786-AFP_33DW899.jpeg?v=1683004914",
+          "width": 7944,
+          "height": 5296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
+      "publishedDateTime": "2023-05-01T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }
