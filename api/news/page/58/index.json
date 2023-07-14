@@ -2,6 +2,349 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-06-07-san-antonio-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "San Antonio Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
+      "excerpt": "San Antonio is one of 28+ cities selected to host camps across the US in Fall 2023. The San Antonio Bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4th.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/06/9827710.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/06/9827710.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so.md",
+      "title": "Should AI come to your doctor's office? OpenAI's co-founder thinks so",
+      "excerpt": "This healthcare provider is trying out AI-assisted 'hands-free charting' to generate notes and visit summaries -- with impressive results, at least in time savings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/",
+      "originalUrl": "https://www.zdnet.com/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ba1422fba425e7bcbbf9e17c84169ceab5f1d38d/2023/06/06/e77e9997-e41e-4d49-9348-fcef291cf247/gettyimages-1013435444.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/",
+      "publishedDateTime": "2023-06-06T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-governments-worldwide-rush-to-place-regulations-on-artificial-intelligence-a-rapidly-growing-technology.md",
+      "title": "Governments worldwide rush to place regulations on artificial intelligence, a rapidly growing technology",
+      "excerpt": "Artificial intelligence continues to become more powerful, and governments across the world are looking to regulate the technology. Here's what different countries are doing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology",
+      "originalUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18095c3e-bc3a-4467-93fd-fbf40bb6ed4e/4488e10c-7119-406e-bfbb-9043f630b039/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp",
+      "publishedDateTime": "2023-06-06T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-why-ai-wasnt-mentioned-at-all-during-apples-big-wwdc-presentation.md",
+      "title": "Why AI wasn't mentioned at all during Apple's big WWDC presentation",
+      "excerpt": "AI. Here's why Tim Cook was mum on the term other Big Tech CEOs are loving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6",
+      "originalUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/647f51b89fcce6001935925d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp",
+      "publishedDateTime": "2023-06-06T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-arrange-your-transcripts-into-paragraphs-with-amazon-transcribe.md",
+      "title": "Arrange your transcripts into paragraphs with Amazon Transcribe",
+      "excerpt": "Amazon Transcribe is a speech recognition service that generates transcripts from video and audio files in multiple supported languages and accents. It comes with a rich set of features, including automatic language identification, multi-channel and multi-speaker support, custom vocabularies, and transcript",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/arrange-transcripts-in-paragraphs.jpg",
+          "width": 1024,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T09:28:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know.md",
+      "title": "Instagram may be getting its own AI chatbot soon. Here's what we know",
+      "excerpt": "Instagram's chatbot is very similar in purpose and design to Snapchat's My AI. Since Snapchat's feature has not been well received, it's interesting to see that Instagram is following in its footsteps. Whether this will become a useful feature or be quickly forgotten remains to be seen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
+      "originalUrl": "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/731fa999b2b078dba0f7ffd929234df150b9a7bd/2023/06/06/0d67eed7-716a-47da-bb16-4b86e1f196b8/gettyimages-1256994567-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
+      "publishedDateTime": "2023-06-06T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-cloudera-charts-a-path-toward-responsible-ai-at-scale.md",
+      "title": "Cloudera Charts A Path Toward Responsible AI At Scale",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead explains why the Cloudera Data Platform is well-positioned for the new world of enterprise AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e53226b36a6fb3b57d5cb/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/amp/",
+      "publishedDateTime": "2023-06-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-cnets-new-guidelines-for-ai-journalism-met-with-union-pushback.md",
       "title": "CNET's new guidelines for AI journalism met with union pushback",
       "excerpt": "The storied tech publication is promising to disclose when artificial intelligence generates a portion of a story's text, but that's about it..",
@@ -804,334 +1147,6 @@
         "Facebook AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-we-could-have-only-two-years-to-rein-in-ai-warns-rishi-sunaks-adviser.md",
-      "title": "We could have only two years to rein in AI, warns Rishi Sunak’s adviser",
-      "excerpt": "Matt Clifford, Rishi Sunak's adviser on technology, said that unless AI producers are regulated on a global scale, there could be 'very powerful' systems that humans could struggle to control.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/",
-      "originalUrl": "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/06/SEI_158285913-097a.jpg?quality=90&strip=all&zoom=1&resize=600%2C399",
-          "width": 600,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/amp/",
-      "publishedDateTime": "2023-06-06T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-ai-driven-security-processors-on-a-single-chip.md",
-      "title": "AI-Driven Security Processors On A Single Chip",
-      "excerpt": "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip",
-      "originalUrl": "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg",
-          "width": 1024,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electronicsforu",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-house-democrat-bill-would-force-labeling-of-ai-use.md",
-      "title": "House Democrat bill would force labeling of AI use",
-      "excerpt": "Rep. Nancy Mace told Fox News Digital she agrees with the bill's intent but does not find it to be the 'best solution'",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/house-democrat-bill-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/politics/house-democrat-bill-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01b2467c-e906-47f1-b89c-f0941fbfe408/af430678-3518-4af0-b4c1-30530089dd9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-democrat-bill-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-democrat-bill-artificial-intelligence.amp",
-      "publishedDateTime": "2023-06-05T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-global-image-recognition-in-retail-market-set-for-growth-says-report.md",
-      "title": "Global image recognition in retail market set for growth, says report",
-      "excerpt": "According to a report by Research and Markets, the increasing use of image recognition applications is expected to drive the demand for image recognition in the retail market going forward and image recognition in retail market is expected to grow to $4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
-      "originalUrl": "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retail4growth.com/public/thumbs/viewpoints/2023/06/1060/r4g-Thumbnail-research5_440_851.jpg",
-          "width": 715,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.retail4growth.com/viewpoints/lite/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
-      "cdnAmpWebUrl": "https://www-retail4growth-com.cdn.ampproject.org/c/s/www.retail4growth.com/viewpoints/lite/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
-      "publishedDateTime": "2023-06-05T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "retail4growth",
-        "domain": "retail4growth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-ai-software-helped-convict-coventry-paedophile-police-say.md",
-      "title": "AI software helped convict Coventry paedophile, police say",
-      "excerpt": "Advanced AI software was crucial in proving a paedophile groomed and sexually abused young girls, police reveal in a new TV programme. The conviction of Luke Cassidy, 29, from Coventry, has been documented by BBC Two's Forensics: The Real CSI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-65813102.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-65813102.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/8713/production/_129997543_joward.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-65813102.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-coventry-warwickshire-65813102.amp",
-      "publishedDateTime": "2023-06-05T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-ai-for-value-investors-megacap-tech-etn-dlr.md",
-      "title": "AI For Value Investors: MegaCap Tech, ETN & DLR",
-      "excerpt": "No doubt, the big news on the individual stock front was the euphoria surrounding just about any stock having anything to do with artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/",
-      "originalUrl": "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647e71f5e8e43bc88257b388/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/amp/",
-      "publishedDateTime": "2023-06-05T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-aws-announces-general-availability-of-amazon-security-lake.md",
-      "title": "AWS Announces General Availability of Amazon Security Lake",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization’",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
-      "originalUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
-      "publishedDateTime": "2023-06-05T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

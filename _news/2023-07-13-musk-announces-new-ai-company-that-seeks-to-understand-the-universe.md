@@ -164,6 +164,15 @@ related:
       name: New York Daily News
       domain: nydailynews.com
     quality: 11
+  - title: "Web fans excited as Elon Musk launches new company, xAI, to understand ‘true nature of the universe’"
+    excerpt: "SpaceX, and owner of Twitter, Elon Musk, recently announced the debut of xAI, his new AI company. The company’s goal is to “understand the true nature of the universe,” as stated on its website. Musk,"
+    publishedDateTime: 2023-07-14T18:00:00Z
+    webUrl: "https://www.cweb.com/web-fans-excited-as-elon-musk-launches-new-company-xai-to-understand-true-nature-of-the-universe/"
+    type: article
+    provider:
+      name: cweb
+      domain: cweb.com
+    quality: 4
 
 secured: "WcppDMRh3fn66+lOVhTzgTGlY6cfQr37SeWA5axuZ3nUa9KVwhirg1mRVdP1H8JhwPxo7jJpWzTGgfmVpz78ZVAWA+UoeJ6s8DtdNPRymo/iQ3eXML/isMjiBaz/D6N+8esiYQlbBIhggxBBiX1DkrqJxpOueNtP8VbUGzwiN4aQaERiZioxvlrK2hJE30t4wFfkX0ZREi3NCF3uoSb22xo+GquSCV13nKZPwL2HcSyQhXVsVN5G7eNSDL+QEM4i3+/hq6UN7OlXELUTKBtWmswvrkHqJPOFu0ctJBnCl6EaIIqSQBv0slBgC+Z0iGDo97RuVZGO2JBctx2hS0lDKyI2RK8mqIRzEIO5hiS+YdeVAXjEvsLQ/ZqzRFzrPHAmZ8hWv+NEMfpFeFj3OmbXM4b+ATrXMBS65PzzDqljB/Y/HjzGkc9fOS+DrJZ49wUJaKYxEkboExTVpAYIaqs98eOFp1UkxQqR20DxbfecTnnGW0ktJhU41m32tMjVH85SsppA+0TuCUX/yNZx3QK6XA==;PDJ+Ngz5GBQLjKPbNURdjQ=="
 ---

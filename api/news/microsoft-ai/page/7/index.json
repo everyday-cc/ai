@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-08-makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible.md",
+      "title": "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible",
+      "excerpt": "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible - Leading online travel company MakeMyTrip said it has collaborated with Microsoft to make travel planning",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconindia.com/news/general/makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible-nid-222799-cid-1.html",
+      "originalUrl": "https://www.siliconindia.com/news/general/makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible-nid-222799-cid-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconindia.com/news/newsimages/fW35MAc4.jpg",
+          "width": 570,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconIndia",
+        "domain": "siliconindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m.md",
       "title": "Natural Language Processing For Healthcare And Life Sciences Market Projected to Show Strong Growth by 2030| Microsoft, Google, IBM, 3M",
       "excerpt": "The Global Natural Language Processing For Healthcare And Life Sciences Market research report gives an essential outline",
@@ -1485,58 +1528,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-microsoft-is-ending-windows-10-updates.md",
-      "title": "Microsoft Is Ending Windows 10 Updates",
-      "excerpt": "Attila is a Staff Writer for CNET, covering software, apps and services with a focus on virtual ... to protect their privacy online and Microsoft is finished with major updates to Windows 10 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/microsoft-is-ending-windows-10-updates/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/microsoft-is-ending-windows-10-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/7cba03e614d3c08239c138b83b52c8fddabef463/hub/2015/07/29/6c89a30d-005e-4f79-8ea4-8e2466731af2/microsoft-windows-10-start-screen-7179.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-is-ending-windows-10-updates/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-is-ending-windows-10-updates/",
-      "publishedDateTime": "2023-04-27T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

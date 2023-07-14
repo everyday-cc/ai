@@ -34,20 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "ESG Fintech to Play Critical Role in Net-Zero Journey"
-    excerpt: "As the world races to achieve net-zero carbon emissions, the financial services sector is facing the challenge of reducing its financed emissions. Against this backdrop, ESG fintech, which leverages data and technology for environmental,"
-    publishedDateTime: 2023-07-10T03:49:00Z
-    webUrl: "https://fintechnews.sg/75674/green-fintech/esg-fintech-to-play-critical-role-in-net-zero-journey/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/ESG-Fintech-to-Play-Critical-Role-in-Net-Zero-Journey.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "FINEXPO Brings FinTech Industry Leaders and Enthusiasts Together at FinTech Festival Asia 2023"
     excerpt: "FINEXPO, the world's leading event organiser, announced today that it is hosting its first-ever FinTech Festival Asia (FTF Asia) on 27 and 28 September 2023 at the Royal Paragon Hall in Bangkok, Thailand."
     publishedDateTime: 2023-07-10T10:15:00Z

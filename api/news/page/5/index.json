@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-11-the-benefits-of-ai-in-healthcare.md",
+      "title": "The benefits of AI in healthcare",
+      "excerpt": "AI is used in healthcare for everything from answering patient questions to assisting with surgeries and developing new pharmaceuticals.\nThe post The benefits of AI in healthcare appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
+      "originalUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 386,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T07:31:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-best-amazon-prime-day-2023-deals-on-robot-vacuums-that-are-50-off.md",
       "title": "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off",
       "excerpt": "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums.",
@@ -333,6 +377,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-chinese-chipmakers-rally-behind-initiative-to-develop-ai-industry-standard.md",
+      "title": "Chinese chipmakers rally behind initiative to develop AI industry standard",
+      "excerpt": "China's AI chip development is no match for the high-performance AI GPUs from NVIDIA and AMD. However, facing tightening export sanctions from the US government, Chinese authorities have rallied the collective efforts of the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230710PD204/ai-chips-china.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230710PD204/ai-chips-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230710pd204_files/1_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -890,7 +977,7 @@
       "originalUrl": "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1126,101 +1213,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea.md",
-      "title": "AI: why installing ‘robot judges’ in courtrooms is a really bad idea",
-      "excerpt": "This year, it emerged that a New York lawyer had used ChatGPT to write submissions to a court, only to discover that it cited cases that do not exist. This indicates that these types of tools are not capable of replacing lawyers yet, and in fact, may never be.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-208718",
-      "originalUrl": "https://theconversation.com/ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-208718",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/536086/original/file-20230706-29-7etinn.jpg?ixlib=rb-1.1.0&rect=9%2C85%2C2994%2C1494&q=45&auto=format&w=1356&h=668&fit=crop",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-teslas-self-driving-tech-is-probably-worthless-in-the-resale-market-short-seller-jim-chanos-says.md",
-      "title": "Tesla's self-driving tech is probably worthless in the resale market, short-seller Jim Chanos says",
-      "excerpt": "\"The current value of the $TSLA \"Full Self Driving\" package is probably close to zero in the retail market. #RealityCheck,\" the veteran short-seller tweeted.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-elon-musk-fsd-self-driving-tech-worthless-jim-chanos-2023-7",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-elon-musk-fsd-self-driving-tech-worthless-jim-chanos-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ac1c818ed31300199e4625?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/tesla-elon-musk-fsd-self-driving-tech-worthless-jim-chanos-2023-7?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/tesla-elon-musk-fsd-self-driving-tech-worthless-jim-chanos-2023-7?amp",
-      "publishedDateTime": "2023-07-10T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

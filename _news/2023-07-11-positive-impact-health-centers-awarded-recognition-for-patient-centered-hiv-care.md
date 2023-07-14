@@ -24,6 +24,17 @@ images:
     height: 660
     isCached: true
 
+related:
+  - title: "Net Health expands work with national wound care centers"
+    excerpt: "Pittsburgh-based Net Health announced a new strategic agreement with a national wound care center. Financial terms of the agreement between privately held Net Health and Healogics weren’t disclosed."
+    publishedDateTime: 2023-07-14T19:57:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2023/07/14/net-health-healogics-wound-care.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+
 secured: "0fOgDZ0QIJDXcGmCJKUZkUmVDY1UsABojeJNUiuAg3JeWXXOvVnNyUMOC7C/CUwyQqgjdGO0L6oGjzwsvApy0MyS/0VdRmL45D/V8+Er9oFKg64RQLRj1BsnJmbNwPjUt5sfN7Wkd8fY+YhrTIOpQbtmdsLTKUugMRoSWM/SnAsd0bMQ1I/KqM9gFfNDJyT+XDgIjfaSJTEw68skID1+9qvkCWgsB7zRkEUMO35YEloBp/hV6fhnWTF+5DuDZds7+MtDYFeN13myGI+XlA/HxIcxOBfXOxCenFylzr8trgvldBMzxMllaa6tAQpE09Wp8Lk9+dwPFYhlSMr5adPfu4oI7EQDIUq8X1HPH3eycbLVmMLlY9gZE/e05/czMmsC99EN75D/aGGh+3opgEJX+gIcCkZ0Bgy7VzaVQAQt9qR5j4fXJjaC+Lbw3phWmYWO7v+knOQckRoF8wbAvaazmU6HVTyiAeQ9YY2OLDo3WmdCDVD24/N5mhwBpY5KAq2E5n/3+o3XmHjX3+npfXpsjw==;lOzflmy6P7vBbN+7L1WeUw=="
 ---
 

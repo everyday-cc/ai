@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-15-podcast-tesla-people-mover-leaks-cybertruck-body-elon-ai-startup-and-more.md",
+      "title": "Podcast: Tesla people-mover leaks, Cybertruck body, Elon AI startup, and more",
+      "excerpt": "On the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/07/14/podcast-tesla-people-mover-leaks-cybertruck-body-elon-ai-startup-and-more/",
+      "originalUrl": "https://electrek.co/2023/07/14/podcast-tesla-people-mover-leaks-cybertruck-body-elon-ai-startup-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-14T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod.md",
       "title": "Is this a leaked video of Tesla's rumored self-driving Las Vegas passenger pod?",
       "excerpt": "A YouTuber posted a video showing what he said was an early prototype of Tesla's rumored people-mover. It spread across the internet this week.",
@@ -1366,49 +1418,6 @@
       "provider": {
         "name": "中国日报网",
         "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-one-mans-quest-to-ban-teslas-full-self-driving-and-take-on-elon-musk.md",
-      "title": "One Man’s Quest to Ban Tesla’s Full Self Driving and Take on Elon Musk",
-      "excerpt": "The Dawn Project’s Dan O’Dowd paid for a Super Bowl ad and conducts regular tests to show that Tesla’s FSD technology is dangerous and should be outlawed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
-      "originalUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/2023/06/002-tsla-fsd-test-dan-odowd-testing-with-ross-gerbe.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
-      "publishedDateTime": "2023-06-28T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
         "images": null,
         "publishers": null,
         "authors": null

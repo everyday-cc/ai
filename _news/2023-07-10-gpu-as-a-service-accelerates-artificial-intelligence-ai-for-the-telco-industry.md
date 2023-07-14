@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/amp/"
 type: article
 quality: 85
-heat: 145
+heat: 115
 published: true
 
 provider:
@@ -55,34 +55,6 @@ related:
         width: 1080
         height: 754
         isCached: true
-  - title: "Intel Launches AI Accelerator Chip in China"
-    excerpt: "US chipmaker Intel has launched a second-generation artificial intelligence accelerator chipset for the Chinese market. Habana Gaudi2 can be used to accelerate AI training and interface, the Santa Clara-based firm announced on July 11."
-    publishedDateTime: 2023-07-13T03:08:00Z
-    webUrl: "https://www.yicaiglobal.com/news/intel-launches-ai-accelerator-chip-in-china"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 54
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/07/27871284174533.jpg"
-        width: 770
-        height: 510
-        isCached: true
-  - title: "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
-    excerpt: "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ..."
-    publishedDateTime: 2023-07-10T06:19:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/2149923/A_new_era_of_AI_Innovation.jpg?p=facebook"
-        width: 2423
-        height: 1269
-        isCached: true
   - title: "Activeport, Radian Arc Expand Relationship to Accelerate AI Deployment in Telecoms"
     excerpt: "ActivePort and Radian Arc are excited to announce an expanded relationship that will accelerate AI deployment within the telecommunications industry."
     publishedDateTime: 2023-07-11T01:33:00Z
@@ -97,15 +69,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "ActivePort: A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
-    excerpt: "ActivePort and Radian Arc join forces to enable high-performance AI. SYDNEY, July 10, 2023 /PRNewswire/ -- ActivePort (ASX:ATV) and Radian Arc are excited to announce an expanded relationship"
-    publishedDateTime: 2023-07-10T01:59:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-07/59529727-activeport-a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 22
 
 secured: "7DY7BeoRz2UbYiZEq7XoIrBvhh9RcAKvDjzkpMIQBogkhlNGIVh9JP38N+ZUGwHs806wHWtKTh/19C9LsMfKEPTkJErmXEdWxXj5v+KtdmXSSBEmqZfusdtY8LWXEJ+EcZuoRIZJ2moAvV+A3G+l+3uvLwHKC7Uv5t2L43RDR+GkfJTDl9dfcwI55AZU95jrZvxQ7ykmHvy1x+xJ5ifxWu29Eh3KQs3lPwL4Hp0MqdczGXlT3z3pBat4DHwLWmS+TLFOZL+E0ex7VfVQWIuMAu6J891iSCTdJGYi2q+tsUsgfruWqHX+S1utxSXzFAYa88R38lnExLqHWcecjI3dIWySJ5F8V3wJcpzvqZOsHZtDHcX7miJDgySczg8ziGTrfI3tk28WUyBlGzLm9zJyJ3ci0jEgTOLgEAGmrEgMwavUA1+kF+afdNb8+H9Z8Qu1d+6XlnzUzcGLgcic0kJKJVLLNcOLD6BFVRkgRbZzyni8KTL6eevPTp5LaznhZJNdDMp/xqvbsC08VzpaOKdV/g==;WAD4IrGiULfOH/+68xqR1A=="
 ---

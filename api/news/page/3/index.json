@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-13-ai-is-not-the-solution-to-better-customer-experiences-in-australia-yet.md",
+      "title": "AI Is Not the Solution to Better Customer Experiences in Australia … Yet",
+      "excerpt": "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/au-report-customer-experience/",
+      "originalUrl": "https://www.techrepublic.com/article/au-report-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71123-customer-service-ai.jpeg",
+          "width": 1400,
+          "height": 889,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-musk-believes-china-is-on-team-humanity-when-it-comes-to-ai.md",
       "title": "Musk Believes China Is on ‘Team Humanity’ When It Comes to AI",
       "excerpt": "Elon Musk said he believes that China is “on Team Humanity” and would be willing to work with the international community on common guidelines for artificial intelligence — a technology he described as “a civilizational risk.",
@@ -493,7 +545,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1174,57 +1226,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/",
       "publishedDateTime": "2023-07-12T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-the-four-ms-to-empower-strategic-workplace-ai.md",
-      "title": "The Four M’s To Empower Strategic Workplace AI",
-      "excerpt": "The Four M’s — Multiplier, Magic, Mistakes, And Mayhem — Help Frame Your Workplace AI Strategy",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aea72e8479cd74c78a3cff/0x0.png?format=png&width=1200",
-          "width": 1050,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/amp/",
-      "publishedDateTime": "2023-07-12T06:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

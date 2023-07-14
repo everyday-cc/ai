@@ -101,22 +101,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google is testing AI chatbot that can answer medical questions: Report"
-    excerpt: "Med-PaLM 2 has been in testing at the Mayo Clinic research hospital – a non-profit organisation based in the US, among others, since April. The report noted that Google believes the LLM will be useful in places where there is “limited access to doctors”."
-    publishedDateTime: 2023-07-10T02:01:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-that-can-answer-medical-questions-report/articleshow/101618423.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-that-can-answer-medical-questions-report/amp_articleshow/101618423.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-is-testing-ai-chatbot-that-can-answer-medical-questions-report/amp_articleshow/101618423.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-101618423,imgsize-8578,width-800/101618423.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Google testing new medical AI chatbot that can answer your medical queries"
     excerpt: "According to the WSJ, an internal email that it was able to access stated that Google thinks its modified approach can be especially useful in nations with “more limited access to doctors.” Med-PaLM 2 was trained on a selected collection of demos from medical experts,"
     publishedDateTime: 2023-07-10T09:52:00Z

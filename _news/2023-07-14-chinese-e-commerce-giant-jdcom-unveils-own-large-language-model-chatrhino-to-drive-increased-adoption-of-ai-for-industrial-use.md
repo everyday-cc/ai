@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3227583/chinese-e-comme
 webUrl: "https://www.scmp.com/tech/big-tech/article/3227583/chinese-e-commerce-giant-jdcom-unveils-own-large-language-model-chatrhino-drive-increased-adoption"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese chipmakers rally behind initiative to develop AI industry standard"
+    excerpt: "China's AI chip development is no match for the high-performance AI GPUs from NVIDIA and AMD. However, facing tightening export sanctions from the US government, Chinese authorities have rallied the collective efforts of the industry,"
+    publishedDateTime: 2023-07-11T06:15:00Z
+    webUrl: "https://www.digitimes.com/news/a20230710PD204/ai-chips-china.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 52
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230710pd204_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Intel offers customized AI processors to China, backed by major Chinese AI server providers"
     excerpt: "As the US seeks to tighten export controls on AI chips to China, Intel held a press conference in Beijing on the July 11, announcing the launch of the deep learning processor Habana Gaudi 2 in the Chinese market."
     publishedDateTime: 2023-07-12T04:06:00Z

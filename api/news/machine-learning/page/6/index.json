@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-23-some-neural-networks-learn-language-like-humans.md",
+      "title": "Some Neural Networks Learn Language Like Humans",
+      "excerpt": "We preselected all newsletters you had before unsubscribing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html#!",
+      "originalUrl": "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-can-artificial-intelligence-ever-be-truly-creative.md",
       "title": "Can Artificial Intelligence Ever Be Truly Creative?",
       "excerpt": "When Jane Goodall discovered chimpanzees using tools — bending sticks into just the right shape to penetrate a termite mound, drawing out the insects like fish on a hook — she caused an outcry. “The Toolmaker” could no longer be our species’ special title and people had a collective identity crisis.",
@@ -1326,51 +1360,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-cedars-sinai-launches-center-for-artificial-intelligence-research-and-education.md",
-      "title": "Cedars-Sinai Launches Center for Artificial Intelligence Research and Education",
-      "excerpt": "The center’s efforts will focus on developing new AI and machine learning algorithms for personalized medicine, genomics, and other healthcare research.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education",
-      "originalUrl": "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education",
-        "AI in Healthcare"
       ]
     }
   ],

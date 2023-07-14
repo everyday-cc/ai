@@ -66,6 +66,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Could movie studios use AI to replicate an actor's image and use it forever?"
+    excerpt: "AI has made its way into nearly all of our favorite art forms including music, visual art, and now possibly even films. According to SAG-AFTRA, AI makes it possible for background performers' images and likenesses to be used forever."
+    publishedDateTime: 2023-07-14T19:39:00Z
+    webUrl: "https://www.zdnet.com/article/could-movie-studios-use-ai-to-replicate-an-actors-image-and-use-it-forever/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 44
+  - title: "Hollywood actors strike over use of AI in films and other issues"
+    excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
+    publishedDateTime: 2023-07-14T19:38:00Z
+    webUrl: "https://www.newscientist.com/article/2375009-hollywood-actors-strike-over-use-of-ai-in-films-and-other-issues/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/14185559/SEI_164100721.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "AI worries spread from UN and OECD to Hollywood"
     excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."
     publishedDateTime: 2023-07-14T17:15:00Z

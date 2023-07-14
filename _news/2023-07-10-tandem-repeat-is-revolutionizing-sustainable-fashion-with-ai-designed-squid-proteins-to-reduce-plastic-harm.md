@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/10/tandem-repeat-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/10/tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm/amp/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Forbes
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Amazon's Affordable AI Revolution: Unleashing Creativity with Low-Cost Cloud Computing"
+    excerpt: "In the rapidly evolving world of artificial intelligence (AI), Amazon is making waves with its low-cost cloud computing services,..|News Track"
+    publishedDateTime: 2023-07-12T06:46:00Z
+    webUrl: "https://english.newstracklive.com/news/amazons-affordable-ai-revolution-unleashing-creativity-with-lowcost-cloud-computing-sc71-nu378-ta318-1284219-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 11
 
 secured: "DOq82G851Q3h5KazuXc1dOHSpwDl6+SmZdkXzfgYZFqjdcH8Ajh2vyrW0VoFR+iExxb47XbZ6yZmJQpji9l8acvQR7v0VtC1o+orlqey7w3gFHOXHI9X9OpeGhmWK6opcpRmNyEbWjtroq8SayFH7pfPm5U+ycWirqIuK68uxRRiNGcgjtTbAzIcHC5lbZIr0Oblsi9gWdE+kHvxdyhrWMN/KPkPvt9+zUlNLSI4WdiuNJ7abzGlDHZWOE7fU3G+tOB33ajk+Stdv3gsoqF51lHcZZvgAU9n2lk2SZlibMAHxxq5uELUtCp57yioe5CXHRQoObvLx+U0IQavRvwRRVUfDYxYE1GaYBivhTRO5Ag=;G1SdRmhNVrafOCKE/JVjTQ=="
 ---

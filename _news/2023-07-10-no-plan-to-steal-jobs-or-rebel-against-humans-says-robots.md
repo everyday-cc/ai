@@ -9,8 +9,8 @@ ampWebUrl: "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-a
 cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Odisha TV
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AI robots say they have no plans to steal people’s jobs"
-    excerpt: "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an"
-    publishedDateTime: 2023-07-10T01:13:00Z
-    webUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710"
-    type: article
-    provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 54
-    images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3bbac8804ae9effd/64ab5b509ead61410cfd5d19/Screen_Shot_2023-07-10_at_11.12.59_am.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Robots promise they won’t steal jobs, rebel against humans"
     excerpt: "GENEVA (Reuters) -Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us. But, in the world’s first human-robot press conference,"
     publishedDateTime: 2023-07-10T16:01:00Z
@@ -49,15 +35,20 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Why These 3 Stocks Are the Best Ways to Play AI Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Goldman Sachs recently asserted “that AI adoption could"
-    publishedDateTime: 2023-07-11T16:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-stocks-are-the-best-ways-to-play-ai-right-now-1032438538"
+  - title: "AI Robot Gives A Side-Eye, Snarky Response When Asked If It Will Rebel Against Humans"
+    excerpt: "An A.I.-powered robot's response to the question if it would go against humans has drawn mixed reactions from the attendees of a U.N. summit."
+    publishedDateTime: 2023-07-11T05:25:00Z
+    webUrl: "https://www.ibtimes.com/ai-robot-gives-side-eye-snarky-response-when-asked-if-it-will-rebel-against-humans-3704406"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 47
+    images:
+      - url: "https://d.ibtimes.com/en/full/4471404/humanoid-ai-robot-ameca-engineered-arts-attended-un-artificial-intelligence-summit-geneva.jpg"
+        width: 768
+        height: 511
+        isCached: true
 
 secured: "jEH2pCbzvp3GswcMO+13IdzWEriwxeYEtco/DJ3/85J/RSzwTiqvlMGoF72iVnx1rAtFLtjS6gqg2IfUpqZYSKEZ5o0Qi5DhZqiF0K3eWFlNmdKxWgCMsdigMLVdyAyojD4ezt4u0ENQLT7Eix5ccJRuvMzA14mRbT6sI6qHXelDbdNAzH94n7AbL6u9R2vmLbQE8FgkkhlolGpYvLPfSJd1p/Wbo41LIEj4439l/BMYS5NU4l3FebpyRW+1v+8WHoqgJNC2dJnxsIS99B3sf4I4cRLxvqI0sBygYNcC0Sd9oV88lTxRw8YE24/rUcKsWyQ/Jc9cqJDepdftFqE//rvfKOGkTNq5fAUHUnTInNY=;lutVdeKopRJCJr7qBEpq5A=="
 ---

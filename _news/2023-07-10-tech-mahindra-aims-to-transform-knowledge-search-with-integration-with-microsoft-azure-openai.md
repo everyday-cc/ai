@@ -36,6 +36,15 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 84
+  - title: "Microsoft soars toward a record high after UBS turns bullish amid AI enthusiasm"
+    excerpt: "Microsoft's stock surged toward a record after UBS turned bullis, citing enthusiasm around pending artificial-intelligence catalysts."
+    publishedDateTime: 2023-07-14T12:53:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-upgraded-to-buy-from-neutral-at-ubs-on-cloud-stabilization-ai-catalysts-2eaff8ea"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
   - title: "Microsoft, KPMG enhance AI collaboration with $12 billion in prospective growth opportunities"
     excerpt: "In an era where technology is rapidly advancing, companies are constantly seeking ways to stay ahead of the curve and embrace the power of AI to drive growth"
     publishedDateTime: 2023-07-12T14:06:00Z

@@ -73,34 +73,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
-  - title: "Why AI is only 10% of the secret sauce in customer experience"
-    excerpt: "The authors describe what it means to integrate AI tools and what it takes to continually experiment to improve and refine customer journeys."
-    publishedDateTime: 2023-07-10T02:10:00Z
-    webUrl: "https://www.smartcompany.com.au/plus/why-ai-10-secret-sauce-customer-experience/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 39
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/07/ux-indonesia-w00FkE6e8zE-unsplash-1.jpg?resize=1200,630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A fraudulent presentation of Australia’s Indigenous Voice"
-    excerpt: "Indigenous Affairs minister Linda Burney’s address to the National Press Club was based on the assertion, contrary to all historical experience, that the Voice would provide “practical” solutions to the appalling social conditions impacting the Aboriginal population."
-    publishedDateTime: 2023-07-10T04:45:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/07/10/gpot-j10.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 24
-    images:
-      - url: "https://www.wsws.org/asset/f25dc09f-d0a8-4f14-a043-b97f5c276272?rendition=1600x900"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "nPyohnujEKS27ZrmrAkXFv32A1XqNGRz/5dqA2nUl2iyk9RNl21o0IrWQASBjS8VPce0DayyIGWa5+QBlrWjyYCDP55pCQrta58UgLgIK324UCnKJYZb56aQwL4/rNEyjZ2yGfU8AJP68CnuiQMV6OcLPB/MOwwcPfZ66xxbKYL1Zta6pDEB0qyQWqpUnJHgRCi/SnMrceQeO4ZBKdeLgDEgn3O9Hx1d/aCF3DHeOTQT4m/cz+kNMJusr92/2+VvjdLJSW3vsZDsce5lJIRMZ42VMy+LEs7TKQL0FXJhNG6Dlqh04a6zwjN7IvsFb980sztvXrdCBpwoYRyDLgUbNLtPPCymcKJA+GWkBpy82QRA3ACi9XuMW4hX92pzIgLLsGk3D6uiltLPcrgQ9zVd/z05FiSALb/5ztmMQolXSZMgroDoJDn5kGYhVubyaGvQ0OQ8wjJCqnhbNqBMKHj4M9UEMrOz9Q/q3pyQbJviZwPfsmjXaFLFiaFQmj5cDHsOsO3wiBE8bPzI2GTuUJ7AXA==;t4ivna72hgXVW67NCF/+lQ=="
 ---

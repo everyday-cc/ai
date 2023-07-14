@@ -436,7 +436,7 @@
       "originalUrl": "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -576,6 +576,40 @@
       ]
     },
     {
+      "path": "_news/2023-07-10-no-plan-to-steal-jobs-or-rebel-against-humans-says-robots.md",
+      "title": "No plan to steal jobs or rebel against humans, says robots",
+      "excerpt": "At an artificial intelligence (AI) summit in Switzerland, nine of the most advanced humanoid robots stated they have no plans to steal the jobs of humans or rebel against their creators but desire to make the world their playground.",
+      "sourceUrl": null,
+      "webUrl": "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094",
+      "originalUrl": "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp",
+      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp",
+      "publishedDateTime": "2023-07-10T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha TV",
+        "domain": "odishatv.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-ai-industrial-robotics-europe.md",
       "title": "AI Industrial Robotics - Europe",
       "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$2.50bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.34%, resulting in a market volume of US$6 ...",
@@ -584,7 +618,7 @@
       "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1318,49 +1352,6 @@
       "provider": {
         "name": "devdiscourse",
         "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-ai-robots-at-un-reckon-they-could-run-the-world-better.md",
-      "title": "AI Robots At UN Reckon They Could Run The World Better",
-      "excerpt": "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
-      "originalUrl": "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg",
-          "width": 768,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
-      "publishedDateTime": "2023-07-07T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null

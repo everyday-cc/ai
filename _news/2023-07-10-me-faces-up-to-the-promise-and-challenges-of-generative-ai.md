@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Enterprises Are Not Going To Miss The Fourth Wave Of AI"
+    excerpt: "IBM announced its Watsonx software development stack back in May, and today it is starting to ship it to customers. We wanted to know exactly what the heck it is. And so we reached out to Sriram Raghavan,"
+    publishedDateTime: 2023-07-14T20:17:00Z
+    webUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://www.nextplatform.com/wp-content/uploads/2023/07/ibm-watsonx-logo-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Assembly Software Brings Generative AI to its Case Management Platform With NeosAI"
     excerpt: "NeosAI, currently in beta, aims to bring new capabilities to Assembly Software’s case management platform Neos such as automatic document generation and audio and video transcription."
     publishedDateTime: 2023-07-13T20:16:00Z

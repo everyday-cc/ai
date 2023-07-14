@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Industrial Robotics - Mexico"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$105.80m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.53%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-14T17:39:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/mexico"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google’s AI Chatbot Bard Gets Belated European Release"
     excerpt: "Alphabet Inc.’s Google released its Bard chatbot to users in the European Union and Brazil, and said the artificial intelligence tool can now generate responses in more than 40 languages, including Chinese,"
     publishedDateTime: 2023-07-13T07:01:00Z

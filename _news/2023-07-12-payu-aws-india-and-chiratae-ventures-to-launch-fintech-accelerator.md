@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698"
 type: article
 quality: 51
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "5 APAC Companies Make 2023 Top AI Fintech Companies List"
-    excerpt: "Fintech Global, an online platform providing information and media services focusing on the fintech industry, has released its third edition of AIFintech100, an annual selection of the top companies leveraging AI to revolutionize financial services."
-    publishedDateTime: 2023-07-10T03:36:00Z
-    webUrl: "https://fintechnews.sg/75924/ai/5-apac-companies-make-2023-top-ai-fintech-companies-list/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/5-APAC-Companies-Make-2023-Top-AI-Fintech-Companies-List.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "PayU, AWS India and Chiratae Ventures to launch fintech accelerator for early-stage start-ups"
     excerpt: "The 45-day program offers mentorship, resources, AWS credits, and access to PayU's payment solutions. Selected start-ups to receive training, mentorship, and up to $25K in AWS credits"
     publishedDateTime: 2023-07-12T10:47:00Z

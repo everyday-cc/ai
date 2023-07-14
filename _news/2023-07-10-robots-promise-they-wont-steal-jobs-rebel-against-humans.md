@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI robots say they have no plans to steal people’s jobs"
-    excerpt: "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an"
-    publishedDateTime: 2023-07-10T01:13:00Z
-    webUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710"
-    type: article
-    provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 54
-    images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3bbac8804ae9effd/64ab5b509ead61410cfd5d19/Screen_Shot_2023-07-10_at_11.12.59_am.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "No plan to steal jobs or rebel against humans, says robots"
     excerpt: "At an artificial intelligence (AI) summit in Switzerland, nine of the most advanced humanoid robots stated they have no plans to steal the jobs of humans or rebel against their creators but desire to make the world their playground."
     publishedDateTime: 2023-07-10T15:26:00Z
@@ -50,15 +36,20 @@ related:
       name: Odisha TV
       domain: odishatv.in
     quality: 54
-  - title: "Why These 3 Stocks Are the Best Ways to Play AI Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Goldman Sachs recently asserted “that AI adoption could"
-    publishedDateTime: 2023-07-11T16:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-stocks-are-the-best-ways-to-play-ai-right-now-1032438538"
+  - title: "AI Robot Gives A Side-Eye, Snarky Response When Asked If It Will Rebel Against Humans"
+    excerpt: "An A.I.-powered robot's response to the question if it would go against humans has drawn mixed reactions from the attendees of a U.N. summit."
+    publishedDateTime: 2023-07-11T05:25:00Z
+    webUrl: "https://www.ibtimes.com/ai-robot-gives-side-eye-snarky-response-when-asked-if-it-will-rebel-against-humans-3704406"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 47
+    images:
+      - url: "https://d.ibtimes.com/en/full/4471404/humanoid-ai-robot-ameca-engineered-arts-attended-un-artificial-intelligence-summit-geneva.jpg"
+        width: 768
+        height: 511
+        isCached: true
 
 secured: "D75tl/of1U9qyaLMTyVXB7nxS5eGHglvFmyHey5RCgywrolnBs0si8M3QOcdaL1YeZAyE9RpWUNoBdvBYFl2SoYYlnHhPY9P6K1Wg3DAj+f19FfN2npfjXXrlhBZhUHWtd0ZUG66UbjsSqhKrtlNp1bVAb7K3iXVOgzVC2bneIOcGnpqjJpRGwXrltx3Mvt/SFSIxrVJYSHT6LxzBHygoMLSIWOy8HYNbcM7BAIvLb5zV8NXsK4oYKMLikfoJ29uqQfZQJrbzprK5V9DzEJLPxw7M+U0XC68zaOScrEqDS6lAtkj7/ZYMYAwSFF1di2cIvGZYwZpnBF1TnI2s93UPRPcwWupI9U6CwCbKc8GjvgXZoLnxb/heZYdzxEtXRRTt8YeHP2qtT74zN5KChCD+aFd/G0CQmBd6NS3AVSTkVVrHaQR4S0mF+YwwNeQzjPQ5+fb9s5jn6iPC/svhgu+hKqQNgG0CE1JozuGlwC751GUeFbVsbrpAjptvXO/UPTcsRreN/gGns1aDaGxLkGQPQ==;eEFc3HyYgsavz0TFhrKDTw=="
 ---

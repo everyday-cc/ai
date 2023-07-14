@@ -25,87 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "GPU-as-a-Service Accelerates Artificial Intelligence AI for the Telco Industry"
-    excerpt: "ActivePort & Radian Arc make a strategic business alliance to enable high-performance AI. ActivePort & Radian Arc are excited to reveal their extended partnership."
-    publishedDateTime: 2023-07-10T14:05:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/amp/"
+  - title: "Another player heats up generative AI race as China introduces interim laws"
+    excerpt: "JD.com launches its large language model ChatRhino, which it says hits 100 billion parameters, amid new regulations in China to manage generative AI services."
+    publishedDateTime: 2023-07-14T20:21:00Z
+    webUrl: "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 85
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/07/GPU-as-a-Service-Accelerates-Artificial-Intelligence-AI-for-the-Telco.jpg"
-        width: 1500
-        height: 844
+      - url: "https://www.zdnet.com/a/img/resize/5813572f96db2e0e3458338634da98a4e755da51/2023/07/14/c7681ad0-9274-40c9-a00f-f9e631f86420/gettyimages-1399940008.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Top 11 AI as a Service Companies 2023"
-    excerpt: "Google also provides a suite of AI services through its Google Cloud Platform (GCP). This includes pre-trained models, APIs, and tools for natural language processing, computer vision, speech recognition, translation, recommendation systems, and more."
-    publishedDateTime: 2023-07-10T20:37:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/aiaas-companies/"
+  - title: "China says generative AI rules to apply only to products for the public"
+    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
+    publishedDateTime: 2023-07-14T00:36:00Z
+    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 77
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/07/ew-ai-as-a-service-companies.png"
-        width: 1400
-        height: 900
+      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "GPU-as-a-Service accelerates AI in telecoms"
-    excerpt: "ActivePort and Radian Arc join forces to enable high-performance AI via GPU-as-a-Service and easy deployment of models within their networks."
-    publishedDateTime: 2023-07-10T11:35:00Z
-    webUrl: "https://www.eenewseurope.com/en/gpu-as-a-service-accelerates-ai-in-telecoms/"
+  - title: "Setapp introduces a ChatGPT assistant & other AI tools into its service"
+    excerpt: "App subscription service Setapp has introduced new features powered by artificial intelligence, including an assistant, better search, and a new toolkit collection."
+    publishedDateTime: 2023-07-13T14:14:00Z
+    webUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service"
+    ampWebUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
     type: article
     provider:
-      name: eeNews Europe
-      domain: eenewseurope.com
-    quality: 54
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
     images:
-      - url: "https://ee.cdnartwhere.eu/wp-content/uploads/2023/07/2023-07-10-GPU-as-a-Service-AI-Innovation-scaled.jpg"
-        width: 1080
-        height: 754
+      - url: "https://photos5.appleinsider.com/gallery/55375-112485-setapp-xl.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
-    excerpt: "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ..."
-    publishedDateTime: 2023-07-10T06:19:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/2149923/A_new_era_of_AI_Innovation.jpg?p=facebook"
-        width: 2423
-        height: 1269
-        isCached: true
-  - title: "Activeport, Radian Arc Expand Relationship to Accelerate AI Deployment in Telecoms"
-    excerpt: "ActivePort and Radian Arc are excited to announce an expanded relationship that will accelerate AI deployment within the telecommunications industry."
-    publishedDateTime: 2023-07-11T01:33:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32668-activeport-radian-arc-expand-relationship-to-accelerate-ai-deployment-in-telecoms"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 33
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/172087b57efd6b830fa11653ae2b93ea.jpg?t=20230711_012957"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "ActivePort: A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
-    excerpt: "ActivePort and Radian Arc join forces to enable high-performance AI. SYDNEY, July 10, 2023 /PRNewswire/ -- ActivePort (ASX:ATV) and Radian Arc are excited to announce an expanded relationship"
-    publishedDateTime: 2023-07-10T01:59:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-07/59529727-activeport-a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 22
 
 secured: "53Vj9amR5J30nEuRcB9qfu1j7u6RHoDtiBVzDtHVIO0bK9QJm2BO8H5B54mztOGFtjQIF2GaEXkWC8w8lyMDUmEC2EJc4QZV9QDQptaIa0fZeCiXUIXWHP3lSi7wJw0e/hNB6LausciKlZNEoNBpTeXDgiMQd1wPuy83tIO1AIBPXnzIdiEYBNUx4UAy6v/dmlRR5pli+LbLwhbGDhwyJ3RPXlL+BlT6Wb+FpDJjFhdqpSpRBeWAhku1nUvkiX/2X969p3kZVDJMLKwEUIsaQ2ExEB69EYrFhM13Q989gohoIGytr3DYXzVdb38Uu3Blkw40BJXGcbYC3TT91jklhx+qm+K79KZykA13n5OXTLTE5F+pdBgywcv7R0ykUIUO1cwTdXN3KSmzDEdpVyFaFXAgVXlbIT8Rj7PGX/7lTIHU7jn1P2qSVrOmQOHNXUnDRnfXkkc5gM4RYs4HO+mcUn14XL8tN70blHft8+vMDtUX1FqRJWDtcCZDs1QpcdaZicly5UVX8BPK+0d72XTp8w==;JLTyCt4gJj3iX5E9Jhj9aw=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-14-amazon-microsoft-and-google-cloud-services-bet-heavily-on-ai-but-do-their-customers-even-want-it.md",
+      "title": "Amazon, Microsoft and Google cloud services bet heavily on AI, but do their customers even want it?",
+      "excerpt": "\"AI\" may be the two most frequently spoken letters in business this year, but the technology is not as high a priority as one might think when it comes",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
+      "originalUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-816626/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
+      "publishedDateTime": "2023-07-13T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-building-out-generative-ai-models-insights-from-mosaicml.md",
       "title": "Building out generative AI models: Insights from MosaicML",
       "excerpt": "MosaicML, which helps enterprises train and deploy LLMs and other gen AI, was just acquired in late June by data lakehouse and AI company Databricks for an incredible $1.3 billion. The startup released its MPT-7B model in May, which cost $200,000 to build.",
@@ -61,7 +113,7 @@
       "originalUrl": "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1154,58 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-ai-is-not-the-solution-to-better-customer-experiences-in-australia-yet.md",
-      "title": "AI Is Not the Solution to Better Customer Experiences in Australia … Yet",
-      "excerpt": "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/au-report-customer-experience/",
-      "originalUrl": "https://www.techrepublic.com/article/au-report-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71123-customer-service-ai.jpeg",
-          "width": 1400,
-          "height": 889,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

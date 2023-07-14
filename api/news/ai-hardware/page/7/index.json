@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-22-supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-reduces-data-center-power-costs-by-up-to.md",
+      "title": "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%",
+      "excerpt": "Liquid Cooled Large Scale AI Training Infrastructure Delivered as a Total Rack Integrated Solution to Accelerate Deployment, Increase Performance, and Reduce Total Cost to the Environment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-meta-is-developing-its-own-ai-chip-heres-hoping-it-goes-better-than-the-metaverse.md",
+      "title": "Meta is developing its own AI chip - here's hoping it goes better than the Metaverse",
+      "excerpt": "Meta has announced the development of a new chip, specifically designed to run AI models. The company is known for its family of apps including Facebook, Whatsapp and Instagram – and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/meta-is-developing-its-own-ai-chip-heres-hoping-it-goes-better-than-the-metaverse",
+      "originalUrl": "https://www.techradar.com/news/meta-is-developing-its-own-ai-chip-heres-hoping-it-goes-better-than-the-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zaTtzPgujXeNSbkNxLYiJX-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-20T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-new-meta-ai-chip-to-power-the-metaverse-and-create-a-new-virtual-world.md",
       "title": "New Meta AI Chip to Power the Metaverse and Create a New Virtual World",
       "excerpt": "Meta, the parent company of Facebook, Instagram, and WhatsApp, is developing its own AI chip to power its next-generation AI applications. The chip, called the Meta Training and Inference Accelerator (MTIA),",
@@ -1345,101 +1431,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-how-a-toronto-computer-chip-maker-is-providing-the-better-brains-ai-runs-on.md",
-      "title": "How a Toronto computer chip maker is providing the better brains AI runs on",
-      "excerpt": "From its downtown Toronto HQ, Untether is designing the computer chips that run artificial intelligence programs more efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "originalUrl": "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/star-chevron-16x9.png.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "publishedDateTime": "2023-05-13T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market.md",
-      "title": "AI-Run ETF Dumps Apple In Favor Of This Chip Stock And Hints At New Opportunity Brewing In Market",
-      "excerpt": "QRAFT AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM) had a 7.96% of its portfolio’s weight in Apple in April but sold the entire stake in May. Incidentally, Apple was the fund's top holding in April.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market-1032323317",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market-1032323317",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/artificial_intelligence_as_stock_picker.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

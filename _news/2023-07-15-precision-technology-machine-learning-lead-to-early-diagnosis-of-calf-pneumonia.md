@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Precision technology, machine learning lead to early diagnosis of calf pneumonia"
-excerpt: "Monitoring dairy calves with precision technologies based on the 'internet of things,' or IoT, leads to the earlier diagnosis of calf-killing bovine respiratory disease, according to a new study. The novel approach -- a result of crosscutting -- will offer dairy producers an opportunity to improve the economies of their farms,"
-publishedDateTime: 2023-07-14T17:50:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/07/230714131136.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/07/230714131136.htm"
+excerpt: "Monitoring dairy calves with precision technologies based on the \"internet of things,\" or IoT, leads to the earlier diagnosis of calf-killing bovine respiratory disease, according to a new study. The novel approach—a result of crosscutting collaboration by a team of researchers from Penn State,"
+publishedDateTime: 2023-07-14T17:38:00Z
+originalUrl: "https://phys.org/news/2023-07-precision-technology-machine-early-diagnosis.html"
+webUrl: "https://phys.org/news/2023-07-precision-technology-machine-early-diagnosis.html"
 type: article
-quality: 44
-heat: 44
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "HJWgD61ZY50hNTrK3ibtuEpOtBkDLRXmD2EW5qprqor6rdEQi9OIpgsbxr5LiBKMBDPHZpkHvarylfo/LfWUYEHmqDOXeKTAjZgLlsBpil62wfxuHZRBDc7r6HPKaxl2EvD1Bl2/2YoVrtFFENQPATnBHUjHXLBNxH7Q5b+1OLX8K3yHuZq3RUWHlLcw05CVwVFW3cVhVBo08YZFyHXvjqm628rKEFAAC2lkuMD1GmT3kGNK+qONG809xtS+/aGqjkYKacWt9/cWik+1+Hkydb2LQiXjSbtfZWCFaI3RYy1aiQykFtXacA//rfYVGXGQvclQ6yOuF0sDfNc9qt+Jy5aXJkFMYQNE8cQQqbeGoC0=;RfEI0S/8o5pgBOsNg/CQZg=="
+secured: "luJi7r7efTLQilRYf1Fk6shhbJ2Wc7Q24KG6rlzeSLrkPEKyYx8ngvVpZl18ozwAW0jy96uYgbKvpAMxDVmPc2NhTXY/XFfOQn8qSifJmy7A+1Wj9k3g/E5dWRmOOTfxzrwkdtL6UZOo+Zbdgiekpy3lB316ZdXpVSbpfTJMW9nDi+Ss+9TwC0s+9/wUtSha/4eO0HnrGpdD5/wtkXJRD2Cap59YuC/kN7Rp+6XzlV5Dha+pgsOOU3b+cCPbMbORzVbilnNl35satjTsgJfIp0ps3vGWugUWrRzBP8qO/3q0vk4XL/rNbFuVvftIEvjQYmmc3LA8qCFVc8FNy4NrSVHAE1DxtMKByFoVAqt74V4UQrOad6yGygxwReeariQhnqz1qVzgPwrLuLdklzndkU+aAWmxVXI60kTMCk0RJaybPN0e4KDAOAmhICbphblIx+zyWvQFh51ZE9DiSsmVA9peNcqwgkt77u8ka+U2TsnpF7JtYuSHH+BoxA+pog7cT3BlU1kiecH4sx02tn+Y+Q==;GdJkXvuPGdBQ6B9t2H04jQ=="
 ---
 

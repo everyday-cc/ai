@@ -36,6 +36,15 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 84
+  - title: "Microsoft soars toward a record high after UBS turns bullish amid AI enthusiasm"
+    excerpt: "Microsoft's stock surged toward a record after UBS turned bullis, citing enthusiasm around pending artificial-intelligence catalysts."
+    publishedDateTime: 2023-07-14T12:53:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-upgraded-to-buy-from-neutral-at-ubs-on-cloud-stabilization-ai-catalysts-2eaff8ea"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
   - title: "Tech Mahindra aims to transform knowledge search with integration with Microsoft Azure OpenAI"
     excerpt: "Tech Mahindra’s Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility in a unique way,"
     publishedDateTime: 2023-07-10T15:40:00Z

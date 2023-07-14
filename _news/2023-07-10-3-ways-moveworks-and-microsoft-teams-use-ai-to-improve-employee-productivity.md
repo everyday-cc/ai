@@ -7,8 +7,8 @@ originalUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-wa
 webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Microsoft
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook and Microsoft Are the Most Impersonated Brands in Phishing Attacks"
+    excerpt: "Vade's Phishing and Malware Report Reveals Phishing Volumes Increased by More Than 54% in H1 2023SAN FRANCISCO, July 13, 2023 /PRNewswire/ --"
+    publishedDateTime: 2023-07-13T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-and-microsoft-are-the-most-impersonated-brands-in-phishing-attacks-1032444526"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks"
     excerpt: "Facebook and Microsoft continue their dominance as the most impersonated brands"
     publishedDateTime: 2023-07-13T20:42:00Z

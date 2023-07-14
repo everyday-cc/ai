@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-cou
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/1dc3a963-18dc-48a8-9af3-bfd14282f792.jpg"
         width: 740
         height: 492
-        isCached: true
-  - title: "AI robots tell UN conference they could run the world"
-    excerpt: "Some of the most advanced humanoid robots were at the United Nations’ AI for Good Global Summit in Geneva, joining around 3,000 experts in the field to try to harness the power of AI and channel it into being used to solve some of the world’s most pressing problems,"
-    publishedDateTime: 2023-07-10T01:53:00Z
-    webUrl: "https://www.brecorder.com/news/40251725"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 54
-    images:
-      - url: "https://i.brecorder.com/large/2023/07/64ab15d61998d.jpg"
-        width: 800
-        height: 480
         isCached: true
   - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."

@@ -23,45 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "AI robots say they have no plans to steal people’s jobs"
-    excerpt: "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an"
-    publishedDateTime: 2023-07-10T01:13:00Z
-    webUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710"
+  - title: "3 AI Stocks with Double-Up Potential over the Next 12 Months"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors are actively seeking AI stocks as businesses increasingly utilize"
+    publishedDateTime: 2023-07-11T16:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-double-up-potential-over-the-next-12-months-1032438508"
     type: article
     provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 54
-    images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3bbac8804ae9effd/64ab5b509ead61410cfd5d19/Screen_Shot_2023-07-10_at_11.12.59_am.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "No plan to steal jobs or rebel against humans, says robots"
-    excerpt: "At an artificial intelligence (AI) summit in Switzerland, nine of the most advanced humanoid robots stated they have no plans to steal the jobs of humans or rebel against their creators but desire to make the world their playground."
-    publishedDateTime: 2023-07-10T15:26:00Z
-    webUrl: "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094"
-    ampWebUrl: "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp"
-    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "3 Doomed AI Stocks Destined for Disaster"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Venturing into the intricate world of artificial intelligence (AI) stocks can"
+    publishedDateTime: 2023-07-14T12:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-doomed-ai-stocks-destined-for-disaster-1032447370"
     type: article
     provider:
-      name: Odisha TV
-      domain: odishatv.in
-    quality: 54
-  - title: "Robots promise they won’t steal jobs, rebel against humans"
-    excerpt: "GENEVA (Reuters) -Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans’ jobs or rebel against us. But, in the world’s first human-robot press conference,"
-    publishedDateTime: 2023-07-10T16:01:00Z
-    webUrl: "https://www.eastidahonews.com/2023/07/robots-promise-they-wont-steal-jobs-rebel-against-humans/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 Battery Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to artificial intelligence, there’s no guarantee of"
+    publishedDateTime: 2023-07-10T17:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-battery-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032435640"
     type: article
     provider:
-      name: East Idaho News
-      domain: eastidahonews.com
-    quality: 54
-    images:
-      - url: "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2023/07/question-for-robot-reuters.jpg"
-        width: 900
-        height: 600
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "hVpko2ZiAzJMTIM18MAWisILix76f7PjJlDho9JsWoyZrvRPt1TzYmWHaQhzlBBNovwGC2tZHoBIySfJuEzLH3IYxJvDiaBlJ7pIJ2oJ+GF/l1P5bIhGWZeEp4S12ALaYuIxQ0uOSON/bWHmIZLLqTI9gBI9sxzn9DYG5dOEy/ghjMBJ0MOBLJhmbw16THyrHpCxVGHm4/un8jo3zH1thz+v3VpR383sP3K1TK23owb4NN/OwlEdCFBjYAnwjmkccgj1JNKMIzZB0YbHXpsvP/OONznHFCovQJb0s/OLYLFwl27ofv9bd1RQPEmOcKwcal/3ETRdlel4GCphOpFLDJdxga9utbmTNUKlBnWWL+FvjIjBuq/T9VzNqbd2yNgSD42uQHdxUXHeMhrYaPh/k/C/uVJVTE3glAsdA/PYH+ndqArziMqStM4jQLcWSEOb1L43VeI1tiWOCrCNo3Ec5nwyOFh4UrroMf79YY22SAotjm0hDJBAjHQzvgyqBYR1MZVfMLcjOj35j47xevJ/Bw==;sqTNnl41Wweuc4zbsLhfug=="
 ---

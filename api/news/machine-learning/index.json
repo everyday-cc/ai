@@ -237,6 +237,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-10-researchers-use-machine-learning-to-identify-high-risk-surgery-patients.md",
+      "title": "Researchers use machine learning to identify high-risk surgery patients",
+      "excerpt": "Researchers and physicians at the University of Pittsburgh and UPMC used machine learning to create and deploy an accurate and flexible model for predicting patients at high-risk for complications after surgery,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-machin-1.jpg",
+          "width": 1454,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp",
+      "publishedDateTime": "2023-07-10T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-09-liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training.md",
       "title": "Liquid Neural Networks, A New Idea That Allows AI To Learn Even After Training",
       "excerpt": "Daniela Rus currently serves as the Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. She has made significant contributions to areas such as autonomous vehicles,",
@@ -1343,41 +1386,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology.md",
-      "title": "GeoX Partners with Insurity to Provide P&C Insurers with Enhanced Risk Assessment Using Machine Vision and Deep Learning Technology",
-      "excerpt": "From there, insurers can use the deep learning technology to accurately predict the properties ... For a limited time, Insurity is offering its customers discounted pricing for GeoX services. To learn more about Insurity’s partnership with GeoX and ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology",
-      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

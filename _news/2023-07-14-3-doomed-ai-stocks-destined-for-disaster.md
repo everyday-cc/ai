@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Why These 3 Stocks Are the Best Ways to Play AI Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Goldman Sachs recently asserted “that AI adoption could"
+    publishedDateTime: 2023-07-11T16:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-stocks-are-the-best-ways-to-play-ai-right-now-1032438538"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "3 Battery Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to artificial intelligence, there’s no guarantee of"
     publishedDateTime: 2023-07-10T17:54:00Z

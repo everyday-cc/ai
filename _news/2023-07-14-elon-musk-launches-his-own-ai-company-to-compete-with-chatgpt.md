@@ -152,22 +152,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Setapp introduces a ChatGPT assistant & other AI tools into its service"
-    excerpt: "App subscription service Setapp has introduced new features powered by artificial intelligence, including an assistant, better search, and a new toolkit collection."
-    publishedDateTime: 2023-07-13T14:14:00Z
-    webUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service"
-    ampWebUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/55375-112485-setapp-xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The FTC Is Investigating ChatGPT, the First Major Regulatory Hurdle for AI"
     excerpt: "The FTC is examining whether OpenAI's chatbot has provided false information about individuals and whether it has leaked private personal data."
     publishedDateTime: 2023-07-13T15:38:00Z
@@ -238,6 +222,15 @@ related:
     provider:
       name: unilad
       domain: unilad.com
+    quality: 19
+  - title: "Musk's xAI seeks to be alternative to ChatGPT"
+    excerpt: "Elon Musk, who has hinted for months that he wants to build an alternative to the popular ChatGPT artificial intelligence chatbot, announced the formation of what he's calling xAI, whose"
+    publishedDateTime: 2023-07-14T06:42:00Z
+    webUrl: "https://richmond.com/musks-xai-seeks-to-be-alternative-to-chatgpt/article_a3b2ce6e-cd90-560a-9fc5-1e468f056d63.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
     quality: 19
   - title: "ChatGPT maker investigated by US regulators over AI risks"
     excerpt: "The US Federal Trade Commission has launched a wide-ranging investigation into ChatGPT maker OpenAI, as Washington’s top antitrust regulator turns its attention to artificial intelligence."

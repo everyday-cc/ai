@@ -552,6 +552,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-11-chinese-chipmakers-rally-behind-initiative-to-develop-ai-industry-standard.md",
+      "title": "Chinese chipmakers rally behind initiative to develop AI industry standard",
+      "excerpt": "China's AI chip development is no match for the high-performance AI GPUs from NVIDIA and AMD. However, facing tightening export sanctions from the US government, Chinese authorities have rallied the collective efforts of the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230710PD204/ai-chips-china.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230710PD204/ai-chips-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230710pd204_files/1_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-inside-googles-big-ai-shuffle-and-how-it-plans-to-stay-competitive-with-google-deepmind-ceo-demis-hassabis.md",
       "title": "Inside Google’s big AI shuffle — and how it plans to stay competitive, with Google DeepMind CEO Demis Hassabis",
       "excerpt": "The buzz around AI has moved from science research to chatbots, but Google DeepMind’s CEO says it’s all relevant to progress.",
@@ -710,7 +753,7 @@
       "originalUrl": "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -805,7 +848,7 @@
       "originalUrl": "https://www.coinspeaker.com/tsmc-sales-ai-tools-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -838,6 +881,40 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry.md",
+      "title": "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry",
+      "excerpt": "ActivePort and Radian Arc join forces to enable high-performance AI. The collaboration aims to leverage Radian Arc's AMD-based GPU platform, already installed in a rapidly expanding network of 50 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-09T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1386,112 +1463,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-nvidia-and-amd-weapons-of-ai-chip-war.md",
-      "title": "Nvidia and AMD: Weapons of AI Chip War",
-      "excerpt": "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/07/larx-kla-amat.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 995,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-build-accelerated-ai-apps-for-npus-with-olive.md",
-      "title": "Build accelerated AI apps for NPUs with Olive",
-      "excerpt": "Microsoft’s open-source, hardware-aware optimization tool for ONNX models is an essential part of its AI application development tool chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
-      "originalUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
-      "publishedDateTime": "2023-07-03T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

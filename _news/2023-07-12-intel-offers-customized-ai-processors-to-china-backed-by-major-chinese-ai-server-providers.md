@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese chipmakers rally behind initiative to develop AI industry standard"
+    excerpt: "China's AI chip development is no match for the high-performance AI GPUs from NVIDIA and AMD. However, facing tightening export sanctions from the US government, Chinese authorities have rallied the collective efforts of the industry,"
+    publishedDateTime: 2023-07-11T06:15:00Z
+    webUrl: "https://www.digitimes.com/news/a20230710PD204/ai-chips-china.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 52
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230710pd204_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Chinese e-commerce giant JD.com unveils own large language model, ChatRhino, to drive increased adoption of AI for industrial use"
     excerpt: "JD.com’s ChatRhino LLM is expected to offer targeted solutions across a range of industries, from retail and logistics to finance and healthcare."
     publishedDateTime: 2023-07-14T08:00:00Z

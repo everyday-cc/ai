@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-pat
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Model Accurately Identifies High-Risk Surgical Patients"
+    excerpt: "Opens in a new tab or window Share on Twitter. Opens in a new tab or window Share on LinkedIn. Opens in a new tab or window A machine learning model trained, tested, and evaluated with data from 1,477,561 patients was accurate at identifying those who were ..."
+    publishedDateTime: 2023-07-13T21:20:00Z
+    webUrl: "https://www.medpagetoday.com/surgery/generalsurgery/105468"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 38
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/105xxx/105468.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Machine learning model flags patients with high risk of surgical complications"
     excerpt: "The machine learning model identifies patients for surgical prehabilitation to avoid complications and cut healthcare costs."
     publishedDateTime: 2023-07-10T17:22:00Z

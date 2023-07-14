@@ -34,20 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "ESG Fintech to Play Critical Role in Net-Zero Journey"
-    excerpt: "As the world races to achieve net-zero carbon emissions, the financial services sector is facing the challenge of reducing its financed emissions. Against this backdrop, ESG fintech, which leverages data and technology for environmental,"
-    publishedDateTime: 2023-07-10T03:49:00Z
-    webUrl: "https://fintechnews.sg/75674/green-fintech/esg-fintech-to-play-critical-role-in-net-zero-journey/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/ESG-Fintech-to-Play-Critical-Role-in-Net-Zero-Journey.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "HelpPay teams up with leading tech players to revolutionise website and fuel FinTech success"
     excerpt: "Revium leverages Storyblok to develop a simple, intuitive, cost-effective user experience for HelpPay in just over three weeks. HelpPay, the profit-for-purpose Australian fintech on a mission to empower individuals to pay someone's bill and provide assistance to those in need,"
     publishedDateTime: 2023-07-11T03:29:00Z

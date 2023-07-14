@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Enterprises Are Not Going To Miss The Fourth Wave Of AI"
+    excerpt: "IBM announced its Watsonx software development stack back in May, and today it is starting to ship it to customers. We wanted to know exactly what the heck it is. And so we reached out to Sriram Raghavan,"
+    publishedDateTime: 2023-07-14T20:17:00Z
+    webUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://www.nextplatform.com/wp-content/uploads/2023/07/ibm-watsonx-logo-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "M&E Faces up to the Promise and Challenges of Generative AI"
     excerpt: "It is, of course, something that has been around since the 1950s but since the end of last year, coverage has ranged from the serious to hysterical, particularly over its latest manifestation, generative AI (Gen AI)."
     publishedDateTime: 2023-07-10T15:33:00Z

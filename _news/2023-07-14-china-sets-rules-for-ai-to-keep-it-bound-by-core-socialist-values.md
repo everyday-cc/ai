@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/world/2023/07/14/china-ai-regulatio
 webUrl: "https://www.washingtonpost.com/world/2023/07/14/china-ai-regulations-chatgpt-socialist/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,31 +22,6 @@ images:
     width: 1440
     height: 960
     isCached: true
-
-related:
-  - title: "China says generative AI rules to apply only to products for the public"
-    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
-    publishedDateTime: 2023-07-14T00:36:00Z
-    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Generative AI Guide For SEO Practitioners"
-    excerpt: "As FOMO and uncertainty about generative AI spread, I’m getting two sorts of questions about the technology’s impacts on SEO: 1) speculation about generative AI’s"
-    publishedDateTime: 2023-07-11T17:56:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2023/07/11/generative-ai-guide-for-seo-practitioners/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "T4VQBhdluU8ZdPVJCrNU5KIeYWypnzf7/D19PcvdLKifVJ85j2+LvEXWh2Qm5/pGOAYHhlGgmMZNNSUPcppJGLAydYMspGCVinC4wTQRiiyn0ZmScTN7AZsn38z2BKE39gymWYTJ/RoUaCC2BAAZwhbFjQW4xoZf8zKfYFDRnm0MTDD9z8aTCl7QxCctZzg3vbFERXRf5K8RzpLx7C3nNf3zLvzdKO2VhU9Q7/A5I7M9KdtyGxeHDFwcVv3GC4CjKtwZ3SDBfSs0ALa78RrZfRBX4xn78nAgU0du5YVhqgADSXcSppgEYUP81uwWYFqnW13mGhseHIMs2Qdidn9qZ1mtLvvjSPT8hz8bTwrhwezJulRYv03HIam+OggjilVGTSuDpMLKbL98FLBXTJnz5kgUtHj8qLSsqDGCl5TlH+rTJgJF+tc3D8O7cEdxm+czyLaDXXKtTuWsEqOpFrHuCykToXBDc647Wa8L9FamG25I1uko3OYYpJemvX45Rj9VmquHoAGodFJRJFUWNuy/lw==;Wj5yXmNIKqxCj/yRBzGwpg=="
 ---

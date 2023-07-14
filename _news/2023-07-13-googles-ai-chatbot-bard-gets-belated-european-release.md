@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Industrial Robotics - Mexico"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$105.80m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.53%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-14T17:39:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/mexico"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Two new ultrasound systems to address healthcare challenges in Europe"
     excerpt: "Canon Medical announces the commercial availability of its two latest ultrasound systems, Aplio flex and Aplio go, in Europe."
     publishedDateTime: 2023-07-11T09:48:00Z

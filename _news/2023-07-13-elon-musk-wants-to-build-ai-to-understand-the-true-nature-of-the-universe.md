@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-und
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/"
 type: article
 quality: 85
-heat: 195
+heat: 205
 published: true
 
 provider:
@@ -165,6 +165,15 @@ related:
       name: New York Daily News
       domain: nydailynews.com
     quality: 11
+  - title: "Web fans excited as Elon Musk launches new company, xAI, to understand ‘true nature of the universe’"
+    excerpt: "SpaceX, and owner of Twitter, Elon Musk, recently announced the debut of xAI, his new AI company. The company’s goal is to “understand the true nature of the universe,” as stated on its website. Musk,"
+    publishedDateTime: 2023-07-14T18:00:00Z
+    webUrl: "https://www.cweb.com/web-fans-excited-as-elon-musk-launches-new-company-xai-to-understand-true-nature-of-the-universe/"
+    type: article
+    provider:
+      name: cweb
+      domain: cweb.com
+    quality: 4
 
 secured: "Jqy4YRfddHCaULuNl3L6cGHArxdl98X/Bhe3AIiZEF06jYJoPYU/1p4V/jm/6iE/NN4v2Pennv2eqNGzSSFSTkaGsbygdEnNH4HphhIMHZhiyW4Rhpoji8MpYjVMQ/juGHdBSB/VqSMj0rod6+gIyIWCdXZ+xL2el00qu89nr4SXzpxyK/7rYoIfXrZzMSg8lksMNF6QIzzW+h8DvTkxKhG2oK7cKYlpAA2HVvLUsVgnGyDkQXrHMWK+WdX/mEEEyBgzgeXwNS7b3/luqOA7z/ICwg+fCsGHh6UtlE0jDiSRO1ywuAEcCiHBw/mXc2/DGf1ji0K6Q22meMVAjgCyjxaBm2b9fEfRTiY8NBS7n6Q=;YylqfKwASiUB6MuSZwg3Ng=="
 ---
