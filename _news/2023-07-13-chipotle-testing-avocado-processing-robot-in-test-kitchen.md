@@ -44,13 +44,13 @@ related:
   - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
     excerpt: "Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring and peeling avocados."
     publishedDateTime: 2023-07-13T21:46:00Z
-    webUrl: "https://www.wcvb.com/article/chipotle-autocado-robot/44537138"
-    ampWebUrl: "https://www.wcvb.com/amp/article/chipotle-autocado-robot/44537138"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/chipotle-autocado-robot/44537138"
+    webUrl: "https://www.kcra.com/article/chipotle-autocado-robot/44537138"
+    ampWebUrl: "https://www.kcra.com/amp/article/chipotle-autocado-robot/44537138"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/chipotle-autocado-robot/44537138"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
+      name: kcra.com
+      domain: kcra.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9uzs10ahvtym5hawwtnme5ntm4zdg4otnlngjkn2uymdq0mzmyogyzytk5odg-l19wywdlcy9oxzg3njnlyze5n2vkogewnwu3mtq0ymzim2fiyjuwndu1-jpg-64b071b63cb16.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"

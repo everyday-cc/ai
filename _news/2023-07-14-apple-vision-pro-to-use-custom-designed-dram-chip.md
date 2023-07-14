@@ -2,19 +2,17 @@
 category: news
 title: "Apple Vision Pro to use custom-designed DRAM Chip"
 excerpt: "Apple's upcoming AR (augmented reality) headset Vision Pro will reportedly feature a new type of dynamic random access memory (DRAM) that has been custom designed to support Apple's R1 input processing chip."
-publishedDateTime: 2023-07-14T04:43:00Z
-originalUrl: "https://www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html"
-webUrl: "https://www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html"
-ampWebUrl: "https://www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html/amp"
+publishedDateTime: 2023-07-14T08:16:00Z
+originalUrl: "https://www.thenewsminute.com/article/apple-vision-pro-use-custom-designed-dram-chip-179739"
+webUrl: "https://www.thenewsminute.com/article/apple-vision-pro-use-custom-designed-dram-chip-179739"
 type: article
-quality: 61
-heat: 91
-published: true
+quality: 41
+heat: -1
+published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: The News Minute
+  domain: thenewsminute.com
 
 topics:
   - Computer Vision
@@ -22,7 +20,7 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2022/07/da70c6b48d3db7ecab7139fd06f407e0-2.jpg"
+  - url: "https://www.thenewsminute.com/sites/default/files/apple_1200x800.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -75,6 +73,6 @@ related:
         height: 720
         isCached: true
 
-secured: "6qLwalFy96AV9Y3AZRNjS/4AySjJqxyIa2mLrY2UF8ynqaZjwimpUzMFKgNgwZpXLZyALZuSWn5FMbKH4o5zMUkISNndcyzeL2/Og+XdO6YhZFMfuwjOqVaI8X4jLPBuVgueu5CQO7eWbMeSnEG4m/4Ie5p51iLpZs+iSk6j6n4Xu+fVEUHAhtNoleveKxvxHip7E2k1+txhZ7B8QrSYYNiGpdTFfwJwQBnaddSFM3iUERCrTz5xhP8PT+3gAZWFb4EJ5jSxBDiX5nH4Wfh6gUCLMJ5jmxumhWD3kcPNkfc7dRmzUpswb4CW68OEcj+xs6oToQESMaLPJ7po0fQ+/Oa5PbjL62Efp72taBueGre3aE2ySraL7E1hazxgprDcdmLevMOoDMSI53xhJENSOeyAz0sPMKEeaAurCUv2R+Kh1G4ZYDke/ss8YZzGrHvGIM0+s2C44KjhGjqwTQiHu6xTO0KPxUuqperHN93gVQFbVj87Dy5+6inSvQVv4KZrxxLBl+8bCPUmg4ivMrdMpw==;ihCmEzwYXdU2iEBCUGirZg=="
+secured: "UDAR/t/FkMYYZ6c4FzeOsSxmo1u0aKgbC0dWGvifbWodL07HYmT++Xg9kScwLZnAElVXzmf5eOVBgjRlUhHb3ZMb4gnj+wASu8VpPjSFChWkazXnHCzo0pDA8NJLsP8wj1AwhKO8ZaeKKmG4LlELlkvrXQ//T0dtl8xHyd0To3f2oXDHKxNQc37FGZqR1ocYGzAY87+I6aw3QkkCGxRd6edYrig/8srRqVxdBtANwTn5T7twuYvb5U5m+++3xCIsM09V9c0ppblNYKf9rLhyn22u08QNhuOwaaFQQ/fFlKCBjKvMUbtCFajK+4ZZnZ+SC9FNE2R2WyM8MkVB28rD4ClWsYDpO8d06xgqNige0/4=;ai6reoHmdwIZBXYk0JwoSg=="
 ---
 

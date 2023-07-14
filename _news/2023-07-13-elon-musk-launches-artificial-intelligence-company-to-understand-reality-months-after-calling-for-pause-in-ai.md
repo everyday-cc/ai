@@ -146,20 +146,6 @@ related:
         width: 1500
         height: 914
         isCached: true
-  - title: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT"
-    excerpt: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT - SiliconANGLE"
-    publishedDateTime: 2023-07-13T00:30:00Z
-    webUrl: "https://siliconangle.com/2023/07/12/elon-musk-leading-new-ai-startup-aims-understand-universe-compete-chatgpt/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/muskhappy.jpg"
-        width: 763
-        height: 600
-        isCached: true
 
 secured: "MwERRfKO/+2N0b2I+vDMS88OaAN9ojVsnoxzxCkD0NrATPzTPcnnibNgik48pX4im/vPEHU/UTBOtQgrQUOn5dLQWJZ6g+IaazhSEChL8+pyASzvhOiaM+77D6HUNGDUgFG3xVgYnGn2Mw7VScfNbjNIKNTeJFrXdk9BPacreEkzO0X0bsO2M+41e06o2DIesau1Q9zUPCoDcBEunRvgNUiHoPJrtaLP/HF8BFFhB6FeKOukNmOhwpjroVQImEI5y/rwdVin/+9mYNDN0I+sFfdjkDogdKUlP7zJT62x2QG8GDqCZ9DpxnR56SB+/PVmBtA3HCRoQdkJk1KzOB/LRx+6HXF/ZdspfU+SG35lsltxdghTx13nxbsJEDQEWEVEQZkI/t0hLdZTV5+BI7kEZV/gkEb7BL4X5tVsObh8zWxQQFuBAG+Q97ropSRI7ffaEm5cVHCx+pH7fI3CPA00aPt32kUYDWTgE4l84AYLg2qR9ja32V3a0+b4e720SUXu14L86G6pFnXa1Ts+84GG6A==;91tDpMVh+KL+SiIcNrlgAw=="
 ---

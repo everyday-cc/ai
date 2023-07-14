@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel offers customized AI processors to China, backed by major Chinese AI server providers"
-    excerpt: "As the US seeks to tighten export controls on AI chips to China, Intel held a press conference in Beijing on the July 11, announcing the launch of the deep learning processor Habana Gaudi 2 in the Chinese market."
-    publishedDateTime: 2023-07-12T04:06:00Z
-    webUrl: "https://www.digitimes.com/news/a20230712PD206/ai-china-intel.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 29
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230712pd206_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Intel launches Habana Gaudi 2 deep learning accelerator card for Chinese market"
     excerpt: "Intel has announced the launch of the Habana Gaudi 2, a deep learning accelerator card designed specifically for the Chinese market."
     publishedDateTime: 2023-07-12T12:06:00Z

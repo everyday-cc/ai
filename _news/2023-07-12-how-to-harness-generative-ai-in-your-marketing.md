@@ -106,6 +106,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Meta Launching Its Own Generative AI To Compete With ChatGPT and Google"
+    excerpt: "Meta (Facebook) is all set to release a commercial version of its own artificial intelligence model in line with OpenAI's ChatGPT and Google's Bard"
+    publishedDateTime: 2023-07-14T10:26:00Z
+    webUrl: "https://www.indianweb2.com/2023/07/meta-launching-its-own-generative-ai-to.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 39
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FT0Uew9kxKabym8o1iIGycg4mUfByuIM-giCSBwKkP7OP-Bj3RXXVJDZWlS9IeMlJiOdv3JX1OxDwZts4h5Ercs9wZtxtra1TIbWPyea2ObKtAbB1ujyZxFpzqv2swuhif7VfAAT6pRzusnDI3Fy2T2bOGDHWCM51WxnYM57tMV5WU3QJCNIxyvjATs/s16000/Untitled%20design.png"
+        width: 1000
+        height: 620
+        isCached: true
 
 secured: "BmvRVOEU1leR58ieo7v4wkvq4BpLpmWsEEAzl1yNgsJq5kA5+PIIwGsgV4ptTc6oY5HtnRD2G2zefLmO7CcdfWHc84UfZXbLS3zEp1Kduz5bZqITJ7LN/qgiv0QdMxba5KYZg2a68HUzx4oIOXlTWImgBFMpNEA1RsWWNZahaWEHCc6FmoL7I5VV9u15B1qXfgNgqJdIm/mKKQPWpEzQyYWG3cSSxRjuZSB12FdHcNTje99doz2sSbjamBXHgR1nZoT1GKCnpWyeUETNP3LpwCEI9Z1NbfIV39VaBZZrHfXTbSjU52/tNlenBxYnqt50VfKFTQapLHysuFojK7nrRBLcSyVO+mbVKSMAU+94XNcA+EPRhQB0tWQXQFPwPvrwKaPamF/wRvmf7qKJ1mlS44Py8dYrLNKOqbovAz5Dfe7XkglLrjand6ncGM55MOzpcnkHSHDTptu4zgqLAdzoX0SJTIAOMD70vSmnTUmMHY7WgFb/44CB3589D34hwsQmgczjxoJtP4zLmYm0/FxCYw==;f6KbFW100oYE31A/YS569A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://businessday.ng/news/article/artificial-intelligence-firm-p
 webUrl: "https://businessday.ng/news/article/artificial-intelligence-firm-pushes-financial-inclusion-in-africa-with-new-app/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,34 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing - Southern Africa"
+    excerpt: "Value in the Natural Language Processing market is projected to reach US$219.00m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 19.39%, resulting in a market volume ..."
+    publishedDateTime: 2023-07-10T01:35:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/southern-africa"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition - Southern Africa"
+    excerpt: "Value in the Speech Recognition market is projected to reach US$63.24m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 20.54%, resulting in a market volume of US$233 ..."
+    publishedDateTime: 2023-07-10T01:35:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/southern-africa"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision - Southern Africa"
     excerpt: "Value in the Computer Vision market is projected to reach US$203.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.99%, resulting in a market volume of US$609.10m ..."
     publishedDateTime: 2023-07-10T01:35:00Z

@@ -19,78 +19,308 @@ topics:
   - AI
 
 related:
-  - title: "What Sarah Silverman’s lawsuit against OpenAI and Meta really means | The AI Beat"
-    excerpt: "Sarah Silverman is suing OpenAI and Meta for copyright infringement. Here's what this LLM lawsuit really means."
-    publishedDateTime: 2023-07-10T21:02:00Z
-    webUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/"
+  - title: "China takes major step in regulating generative AI services like ChatGPT"
+    excerpt: "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT."
+    publishedDateTime: 2023-07-14T08:03:00Z
+    webUrl: "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: CNN
+      domain: cnn.com
+    quality: 86
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/bigstock-LOS-ANGELES-NOV-Sarah-Si-268982926.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230714011428-china-generative-ai-regulation-intl-hnk.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Not Funny: Sarah Silverman Sues ChatGPT and Meta After AI Allegedly Trained on Her Book"
-    excerpt: "Silverman is joined by authors Christopher Golden and Richard Kadrey in the lawsuit against OpenAI’s ChatGPT and Meta’s LLaMA."
-    publishedDateTime: 2023-07-10T15:40:00Z
-    webUrl: "https://gizmodo.com/sarah-silverman-sues-chatgpt-and-meta-over-ai-training-1850621182"
+  - title: "Threads beat ChatGPT to 100 million users but the AI app is way more consequential"
+    excerpt: "Mark Zuckerberg's new Twitter copycat app has attracted 100 million users in less than a week, but its rise is less significant that ChatGPT's growth."
+    publishedDateTime: 2023-07-10T15:38:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/64ac17138ed31300199e4552?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Has ChatGPT failed, does it signal failure of Artificial Intelligence as well?"
+    excerpt: "It is an indication that the AI and ChatGPT have peaked in just six months and are now falling. But many people believe that the Chat GPT is a small part of Artificial Intelligence and its slowing down does not indicate failure of the AI."
+    publishedDateTime: 2023-07-11T17:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/us/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well/articleshow/101676991.cms"
+    ampWebUrl: "https://m.economictimes.com/news/international/us/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well/amp_articleshow/101676991.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well/amp_articleshow/101676991.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 68
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-205650,msid-101677112/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Elon Musk announces xAI, a new artificial intelligence company to rival ChatGPT"
+    excerpt: "Elon Musk on Wednesday announced the formation of a new company focused on artificial intelligence called x.AI"
+    publishedDateTime: 2023-07-12T17:17:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
+    ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 68
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/13/87161d19-8c3f-4df4-a590-941c017ad967/thumbnail/1200x630/3b5d57cb4fee03f165853faa1a855a19/cbsn-fusion-elon-musk-announces-new-twitter-ceo-encrypted-messages-feature-thumbnail-1965276-640x360.jpg?v=0d985d39f30c0548885e26d84e710785"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Elon Musk takes aim at ChatGPT with launch of artificial intelligence firm xAI"
+    excerpt: "Musk has said on several occasions that the development of AI should be paused and that the sector needs regulation."
+    publishedDateTime: 2023-07-12T18:53:00Z
+    webUrl: "https://nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/"
+    ampWebUrl: "https://nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 68
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/elon-misk-xai.jpg?quality=75&strip=all&1689166555&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "China says generative AI rules to apply only to products for the public"
+    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
+    publishedDateTime: 2023-07-14T00:36:00Z
+    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Does Generative AI herald the end of an era or the start of a new chapter in marketing?"
+    excerpt: "Despite concerns about job losses and potential changes in the marketing industry, generative AI is a great asset for the marketing team, rather than a threat. Generative AI presents unparalleled opportunities to accelerate creativity,"
+    publishedDateTime: 2023-07-10T03:17:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 66
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101624579,imgsize-800807,width-1200,height=765,overlay-etbrandequity/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Elon Musk's New ChatGPT Competitor Boosts AI-Related Crypto Tokens"
+    excerpt: "Tokens such as AGIX and FET saw modest bump after Musk announced new Artificial Intelligence (AI) company \"xAI\" to take on ChatGPT."
+    publishedDateTime: 2023-07-12T17:13:00Z
+    webUrl: "https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/"
+    ampWebUrl: "https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/?outputType=amp"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
     quality: 59
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/35b4daa9c6a52ba49177fdd475cbff9d.jpg"
+      - url: "https://www.coindesk.com/resizer/tBu9OHF5BKIkOH8pJytphVkNALo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Y64QHXJPTVFJPPHBPUVNXX4CSE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Meta set to release a commercial AI model like Bard and ChatGPT"
+    excerpt: "Elon Musk, in a separate development, has recently launched a new AI company named xAI, with a mission to understand the true nature of the universe. The xAI includes members with prior experience at prominent AI organizations such as Microsoft Research,"
+    publishedDateTime: 2023-07-13T14:25:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/ai-freepik-1689257776.jpg"
+        width: 360
+        height: 202
+        isCached: true
+  - title: "Meta to release commercial AI model like ChatGPT, Bard"
+    excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in"
+    publishedDateTime: 2023-07-13T14:01:00Z
+    webUrl: "https://glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard"
+    ampWebUrl: "https://glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/07/Skill-Lync.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Elon Musk launches his own AI company to compete with ChatGPT"
+    excerpt: "Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
+    publishedDateTime: 2023-07-13T15:59:00Z
+    webUrl: "https://abcnews.go.com/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Business/elon-musk-rt-gmh-230713_1689261684208_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Setapp introduces a ChatGPT assistant & other AI tools into its service"
+    excerpt: "App subscription service Setapp has introduced new features powered by artificial intelligence, including an assistant, better search, and a new toolkit collection."
+    publishedDateTime: 2023-07-13T14:14:00Z
+    webUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service"
+    ampWebUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/55375-112485-setapp-xl.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Sarah Silverman sues OpenAI and Meta claiming AI training infringed copyright"
-    excerpt: "US comedian and two other authors say artificial intelligence models used their work without permission"
-    publishedDateTime: 2023-07-10T12:31:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/10/sarah-silverman-sues-openai-meta-copyright-infringement"
+  - title: "The FTC Is Investigating ChatGPT, the First Major Regulatory Hurdle for AI"
+    excerpt: "The FTC is examining whether OpenAI's chatbot has provided false information about individuals and whether it has leaked private personal data."
+    publishedDateTime: 2023-07-13T15:38:00Z
+    webUrl: "https://www.barrons.com/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
+      name: Barron's
+      domain: barrons.com
+    quality: 55
     images:
-      - url: "https://i.guim.co.uk/img/media/577cdd44c75e672b4fa0f8d34e365956c238dc05/521_15_4449_2670/master/4449.jpg?width=620&quality=85&auto=format&fit=max&s=bca6624c1fc1e4ad6a043cc213b0eb59"
-        width: 620
-        height: 372
+      - url: "https://images.barrons.com/im-816486/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Mount Sinai Launches Center For Ophthalmic Artificial Intelligence And Human Health"
-    excerpt: "The Icahn School of Medicine at Mount Sinai established the Center for Ophthalmic Artificial Intelligence and Human Health in New York."
-    publishedDateTime: 2023-07-11T15:20:00Z
-    webUrl: "https://healthcaredesignmagazine.com/news/mount-sinai-launches-center-for-ophthalmic-artificial-intelligence-and-human-health/"
+  - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
+    publishedDateTime: 2023-07-11T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stocks-ai-potential-is-not-just-limited-to-rise-of-chatgpt-1032437318"
     type: article
     provider:
-      name: HCD Magazine
-      domain: healthcaredesignmagazine.com
-    quality: 48
-    images:
-      - url: "https://healthcaredesignmagazine.com/wp-content/uploads/2019/06/iriz1ktx_400x400.jpg"
-        width: 320
-        height: 320
-        isCached: true
-  - title: "Big Tech: Elon Musk announces AI start-up, Sarah Silverman sues OpenAI and Bill Gates comments on AI"
-    excerpt: "We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn and work."
-    publishedDateTime: 2023-07-13T07:49:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/drive/1650/102599604"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "ChatGPT Is Losing Users. Is The Artificial Intelligence Craze Over?"
+    excerpt: "The decline in usage of ChatGPT would indicate that artificial intelligence a fad that is now trending down. Is that a useful data point or should we ignore it?"
+    publishedDateTime: 2023-07-11T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/richardkestenbaum/2023/07/11/chatgpt-is-losing-users-is-the-artificial-intelligence-craze-over/"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 22
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Meta to release commercial AI model like ChatGPT, Bard"
+    excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in order to compete with Microsoft-backed OpenAI’s ChatGPT and Google’s AI experiment Bard,"
+    publishedDateTime: 2023-07-14T00:40:00Z
+    webUrl: "https://www.canindia.com/meta-to-release-commercial-ai-model-like-chatgpt-bard-6/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 39
     images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/0f0d9c84ed54eb8ef0ee3741ffee36e5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=402&width=862&height=485"
-        width: 862
-        height: 485
+      - url: "https://www.canindia.com/wp-content/uploads/2022/07/meta-office.jpg"
+        width: 1540
+        height: 800
         isCached: true
+  - title: "Elon Musk launches his own AI company to compete with ChatGPT"
+    excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
+    publishedDateTime: 2023-07-13T23:42:00Z
+    webUrl: "https://www.abccolumbia.com/2023/07/13/elon-musk-launches-his-own-ai-company-to-compete-with-chatgpt/"
+    type: article
+    provider:
+      name: ABC Columbia
+      domain: abccolumbia.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2023/07/g/t/wirestory-2e626553cf6333f642fb02fe247707ca-16x9-992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "LGBTQ+ consumers skeptical AI like ChatGPT will improve their financial experiences, Achieve survey finds"
+    excerpt: "Wide-ranging survey on the personal finance experiences and challenges of the LGBTQ+ community reveals access to financial opportunities is"
+    publishedDateTime: 2023-07-11T12:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lgbtq-consumers-skeptical-ai-like-chatgpt-will-improve-their-financial-experiences-achieve-survey-finds-1032437350"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+  - title: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT"
+    excerpt: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT - SiliconANGLE"
+    publishedDateTime: 2023-07-13T00:30:00Z
+    webUrl: "https://siliconangle.com/2023/07/12/elon-musk-leading-new-ai-startup-aims-understand-universe-compete-chatgpt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/muskhappy.jpg"
+        width: 763
+        height: 600
+        isCached: true
+  - title: "Elon Musk launches new AI start-up to rival ChatGPT"
+    excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
+    publishedDateTime: 2023-07-13T06:39:00Z
+    webUrl: "https://www.unilad.com/technology/news/elon-musk-ai-start-up-chatgpt-rival-825619-20230713"
+    type: article
+    provider:
+      name: unilad
+      domain: unilad.com
+    quality: 19
+  - title: "ChatGPT maker investigated by US regulators over AI risks"
+    excerpt: "The US Federal Trade Commission has launched a wide-ranging investigation into ChatGPT maker OpenAI, as Washington’s top antitrust regulator turns its attention to artificial intelligence."
+    publishedDateTime: 2023-07-13T15:48:00Z
+    webUrl: "https://www.ft.com/content/8ce04d67-069b-4c9d-91bf-11649f5adc74"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "ChatGPT in the Crosshairs: How the EU's AI Act May Affect Your Use of Generative AI"
+    excerpt: "just as cloud-based applications today rely on AWS and Azure. This creates a power imbalance when downstream AI providers cannot effectively mitigate the risks of an AI system without holding OpenAI or other big tech companies accountable for product ..."
+    publishedDateTime: 2023-07-13T19:27:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/chatgpt-in-the-crosshairs-how-the-eu-s-6938556/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 13
 
 secured: "wX9rDZY/0b8rw8lkgvWeVee5ldjfVy0FTZ8VJ65SGdkvTM9icMspocXen1VxsavARFRDk7kOc4lKRH8gyOpuBKOaHvEBEUXa7/nvgcl/kI/Qsrm6p7AGGXP50HYmbz44hXhEH07FUwMeB//zfjaycmIyAU4+AN6BP0bC3cNV3Lv3Xj2CARZl3Dw7cbVb/njG4zxH0+i7cY+uM5wFEsSYSReatY8v4MbPsRcaGUC6VIZ4JRDVZfqAgiUAl9g1sFc4QX5/XuJoaDQDLlQuss5l/kMgxEcYFUrSuePSoPAlMd8p3lwjMbFvzTIiF+3NWV2tGIHvqf76yRxKJMxbgLUFrTld6ITzVrIrQLZDPL109YDrCSwp7P/uL0e5VTxZZS4cXaTMZh+NrJKRbQ9ZqRnFk2ZWx6ILAGXGsbNLfZFCQ+oCwYkYDi/FwNXv/jgGJVgYMmsILJ72amDUO+gVMIhFTpbMY/5ggnIg+e60Ta6p1lwDTfUtWq1z34GXInQAAi00s4bGcLWpuC9emGVxNDejhw==;ssY2aheLRmm5m+UAHLYxPA=="
 ---

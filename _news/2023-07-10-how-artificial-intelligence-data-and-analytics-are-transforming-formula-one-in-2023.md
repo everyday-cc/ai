@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amcor's Lift-Off Winner, Greyparrot, to Advance AI-powered Waste Analytics"
+    excerpt: "Greyparrot deploys cutting-edge AI computer vision systems in resource recovery facilities, which monitor and sort through large waste flows at scale."
+    publishedDateTime: 2023-07-14T11:44:00Z
+    webUrl: "https://www.waste360.com/recycling/amcors-lift-winner-greyparrot-advance-ai-powered-waste-analytics"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 35
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/GREYPARROTFEAT.png"
+        width: 1540
+        height: 800
+        isCached: true
   - title: "New and Improved Deep Learning-Supported Behavioural Analytics - Wavesys Global's Behavior Analysis Systems for Law Enforcement"
     excerpt: "Wavesys Global recently released the latest version of Behavioral Analytics (v2.1.0), which introduces a new WVCAbehaviour license with several new algorithms. These algorithms offer alerts on behavior/ motion such as fighting,"
     publishedDateTime: 2023-07-13T12:13:00Z

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Vision Pro to use custom-designed DRAM Chip"
-    excerpt: "Apple's upcoming AR (augmented reality) headset Vision Pro will reportedly feature a new type of dynamic random access memory (DRAM) that has been custom designed to support Apple's R1 input processing chip."
-    publishedDateTime: 2023-07-14T04:43:00Z
-    webUrl: "https://www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html"
-    ampWebUrl: "https://www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 61
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2022/07/da70c6b48d3db7ecab7139fd06f407e0-2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Apple Vision Pro headset to feature custom-designed DRAM chip: Know what it means?"
     excerpt: "Apple Vision Pro AR headset features visionOS, the world's first spatial operating system that allows users to interact with digital content as if it were physically present in their surroundings."
     publishedDateTime: 2023-07-14T06:36:00Z
@@ -73,6 +57,20 @@ related:
       - url: "https://www.mactrast.com/wp-content/uploads/2023/06/Apple-WWCD23-Vision-Pro-glass-230605_big.jpg.large_.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Apple Vision Pro to use custom-designed DRAM Chip"
+    excerpt: "Apple's upcoming AR (augmented reality) headset Vision Pro will reportedly feature a new type of dynamic random access memory (DRAM) that has been custom designed to support Apple's R1 input processing chip."
+    publishedDateTime: 2023-07-14T08:16:00Z
+    webUrl: "https://www.thenewsminute.com/article/apple-vision-pro-use-custom-designed-dram-chip-179739"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 41
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/apple_1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "cDY1ckvNcwEE03XamdJbPr+qcbaMoeaiC2Of58wl5LMeZZlDJ4C3yqiipbfvtKiljxK01sjEIfi2lhp8/eiOE/7qHf2c7jHP8swb8SK9ZIwF3kjchr3hRE7D8MllBmPsakJfI5CfgGRoKPeDj9PgkebHLrGqkjJlKOQ3ql+oMMOcuXtcJavv0E9QN12MQ37SXej9ckgkzWYa//GBSYL+HrXcT0BE3m6BEkBvkcEVUMwbwq4za0uzmCcTX3Y2ZcVtFaPYH/OxYnssWpV/9OupcjzHzj4S9UelWG5aJRfcWvBXGcQnfuuHivxAUzS6FYvpZufc3jpAE3Bd1Os2Te9uRTbw2I2nMAHc5SZyn2sKj/S73fW3KvlYnWy5F+ubZYSDtYbiio0gpbD/LuOd4jMxvGjMMZXEzKdQBh0TLs5KH4Uy38StfG6V5+gaaQvxbObQ+oYsLvFDd9iz86ngdqxl569DYRo2C93eP6Df6i3OgtFP5CsB4C4IkVRNxVeXaCHhI3IB7NqWKuUGz36hOl9WKw==;LXzlU9MLHPR30afpFzfe0Q=="

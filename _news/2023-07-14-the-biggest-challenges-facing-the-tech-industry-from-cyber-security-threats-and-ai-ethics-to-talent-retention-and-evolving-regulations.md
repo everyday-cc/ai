@@ -42,21 +42,21 @@ related:
         width: 1200
         height: 792
         isCached: true
-  - title: "How AI is reshaping the rules of business"
-    excerpt: "How teams can keep employees engaged in the AI-accelerated transformation of their careers and businesses amid pending regulation"
-    publishedDateTime: 2023-07-09T17:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-business/"
+  - title: "Asia Falling Behind The Ai Regulation Race"
+    excerpt: "In 2023, the EU Parliament debated the Artificial Intelligence (AI) Act, China publicly commented on draft generative AI rules and US industry leade"
+    publishedDateTime: 2023-07-14T11:00:00Z
+    webUrl: "https://menafn.com/1106602709/Asia-Falling-Behind-The-Ai-Regulation-Race"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106092"
+        width: 363
+        height: 250
         isCached: true
 
-secured: "3djH0YfykEiL5iPl5/tuyWeup2UzbeWPvVkWi2LA0AINSLT1Vn+1nrrIc+XCR/b7wf+zUMTcGc8fRzruNUxBWt4Iz8P220wYqWfQ/Jdh9meeK3kYq8XAgqfz5fu4/IAY6w44JPexcZMz+gHA11Jc39MD4tYKl81mu5w1Blo4sMKe/LPA8gA6adEUB9EZuK0NfIS11Y78K5WUm3BKvo8p2E7mmvDYUvQrP0j9RP7Qpfv53S5elW6FkpQ33fkbY3Kb1qBKTX2+ehy97DlXTqnR/ZAo/IvEZZYaWCxdYKcljT5ho9UfJ0GigeSIhO3rdpiY/oQ41TXBGRGwJrRdUX9apgdNWP/4fxgLgzWrFQay45g=;uzqmytRbzH4cBcQZFhoFnA=="
+secured: "3JVSKYxb3jzuDFeLQF3zXU0OjkprZRl2MDe7ukMsPmvzPfDljuqAkg6xnU1iVWhyeM0VK8ybujC+ls0Bbz5LDlDuSQwG9H0vtB/UhQfe99mxER/HaV34T27UjhAwm2lhjdmWcdaAymZji0h4SlcqAQMmv2mM462zE5z672QWsg1koE3ZMu2OjIw/95Tu5B5GssERDRz3beAQSCBza3bVuurKO38lOnQHWnfI2pt1Z5rAou2eGTSbaG+ZwElR09fjAGEaNvG9ULy1RX0UKeJCCqjN+bbRf4qc9tj8S+5rzBWpyI3r0ft0g7cax+oFUWJCZGXNP8DsUJjuBoxPY4L8gvPisuYAk8mJBb28Ms5eYvgpC4y9NHVANk0YVPWKiJ0rINoCDbseGKn4+4/CJz57u8QK72h+ZI7xBRGugmrkyxY1AEfwXzJSxRUdcodeG3Y7RCJLg/+TtyNZd1R2ahm0joCXSPiHoiXJCOSsvkqqUK5kxq7lsclrhZsVBf5GYGFKmbN+DefR2qqwk0gYaVKTiQ==;73sq5xZTTNA5c1dJphjXiQ=="
 ---
 

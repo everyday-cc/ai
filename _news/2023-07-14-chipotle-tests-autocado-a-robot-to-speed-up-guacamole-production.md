@@ -3,18 +3,18 @@ category: news
 title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
 excerpt: "Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring and peeling avocados."
 publishedDateTime: 2023-07-13T21:46:00Z
-originalUrl: "https://www.wcvb.com/article/chipotle-autocado-robot/44537138"
-webUrl: "https://www.wcvb.com/article/chipotle-autocado-robot/44537138"
-ampWebUrl: "https://www.wcvb.com/amp/article/chipotle-autocado-robot/44537138"
-cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/chipotle-autocado-robot/44537138"
+originalUrl: "https://www.kcra.com/article/chipotle-autocado-robot/44537138"
+webUrl: "https://www.kcra.com/article/chipotle-autocado-robot/44537138"
+ampWebUrl: "https://www.kcra.com/amp/article/chipotle-autocado-robot/44537138"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/chipotle-autocado-robot/44537138"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: kcra.com
+  domain: kcra.com
 
 topics:
   - AI in Robotics
@@ -157,6 +157,6 @@ related:
       domain: usatoday.com
     quality: 12
 
-secured: "+W1WX1NSSl21NnhOsUeiV+Crhjc+a6ZxAkpbP1UtTJmKHBLyLUZMn7pduQcI0/sCa6w1CM8N6JZPcjYRf0LEwtfoqkdg2yrrHoLBLydsfCj1ig4qp//LOq8EORG6Aiwy9D1hGGKYD+GIil8nSVWLCTdVi92zklLJmkh2tpUFppp5lJI7tBg4T8D/imDVzRM0t5b/u1f5ncihB19/9x+tkoP8ybFNi+Qv4RmFox40wcFKS4JDbwXCsVXTRdNaZGi6X3c2SEcjfTb3O6ZpSqwUOGwOCKKgKQyT3GmJlQUY1H5SiAp/aH4TRR/1LChxoJ4ra9niDJ76eLWsQQ3EZ3XFe3wKb/ImsZJmowbdHclbMLz7R/zBsLv6QHj58cpopze+EC2lrdzT8pjDIaCSvUYCAzgmNW/ZFLmp7H/xxr3xGthInka4N+l7pW13hSeDFHaMo6ZzTmlNqkmtFiwnF6XncpjTisN4ZYke/YnzRWEliqPH2d1EdJYDIsvJUBKDXSJx9VHKic1LSW+aOZ7JKjzw4Q==;X7LXbO2j0oaADXov0FkGiA=="
+secured: "Eh0ZdTCPpM69nWuLCz31m9wktEcaNca1d5/TxxAXKxBF70RBNgiLQyd2/9HbGvMoTp8OAXSiusvAnpXGAVETnvCIwbnTCETr0PeN6ArNQBzggqhPgkL3eaaEA1hnlcKI3gOJ4tkmxhhKDhHY0Rlrh5Ws1JQLT8Ad/tejbxbPg62ZubHvzWtxrFfI8dtUSDGFSH8vU2tIAKWeusB6jFCmJKzqlyv3+3IwOEWEpDflUWjWAZfyIabRMlflDzMREdg8W4r/Ev9n7tn/a1r6DLDRd/lH0pbFNNP6nKX+SCZx7OpvcNHe85ilV0/QfhtgEs1iGq4QKfcdLXGgXncgCVKAiiKTmOo8f8G4HKqgBn9nHwo=;IUxlRqOIl+jVSlWEq07fMg=="
 ---
 

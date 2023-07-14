@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33208806"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33208806"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -27,33 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "2030, Artificial Intelligence (Ai) In Fintech Market Size 2023 | Swot And Pestal Analysis | New Report Of 116 Pages"
-    excerpt: "Artificial Intelligence (AI) in Fintech market size is expected to expand at a CAGR of 28.6% during the forecast per"
-    publishedDateTime: 2023-07-14T05:28:00Z
-    webUrl: "https://menafn.com/1106601738/2030-Artificial-Intelligence-Ai-In-Fintech-Market-Size-2023-Swot-And-Pestal-Analysis-New-Report-Of-116-Pages"
+  - title: "Artificial Intelligence (AI) Camera Market to Grow at a CAGR…"
+    excerpt: "The artificial intelligence (AI) camera market size is estimated to grow at a CAGR of 12.04% between 2022 and 2027. The market size is forecast to increase by USD 6,498.16 million, according to Technavio."
+    publishedDateTime: 2023-07-14T11:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-camera-market-grow-a-cagr-/2023/07/14/9848444.htm"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?836492"
-        width: 371
-        height: 250
+      - url: "https://mma.prnewswire.com/media/2153664/Technavio_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Investing In Fintech - A Closer Look At The Opportunities"
-    excerpt: "The fintech industry has experienced remarkable growth and has become a key player in reshaping the financial landscape. Fintech, short for financia"
-    publishedDateTime: 2023-07-11T03:12:00Z
-    webUrl: "https://menafn.com/1106581655/Investing-In-Fintech-A-Closer-Look-At-The-Opportunities"
+  - title: "Artificial Intelligence Market To Grow Rapidly At A Cagr Of 20.2% By 2030 | Datam Intelligence"
+    excerpt: "On May 23, 2023, Google announced that it will be launching Product Studio, Google's new generative AI tool that allows Google Shopping merchants to quickly edit and customize their product images for free."
+    publishedDateTime: 2023-07-14T11:30:00Z
+    webUrl: "https://menafn.com/1106603038/Artificial-Intelligence-Market-To-Grow-Rapidly-At-A-Cagr-Of-202-By-2030-Datam-Intelligence"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 24
+    quality: 27
     images:
-      - url: "https://menafn.com/updates/pr/2023-07/10/C_9861cimage_story.png"
-        width: 960
-        height: 600
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910908"
+        width: 437
+        height: 250
         isCached: true
   - title: "Autonomous Vehicles Market Size is expected to grow at a CAGR of 8.7% between 2023 and 2033"
     excerpt: "In 2023, the autonomous vehicles market size is expected to be worth US$ 30,539.0 million. The revenue from sales of autonomous vehicles is anticipated to reach around 70,331.5 million by 2033, growing at a CAGR of 8."

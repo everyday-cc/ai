@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
-    excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
-    publishedDateTime: 2023-07-09T18:16:00Z
-    webUrl: "https://menafn.com/1106574082/From-Banks-To-Bitcoin-How-Fintech-Is-Shaping-The-Economy"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
   - title: "Kovo HealthTech appoints FinTech veteran Eddie Chan as CTO"
     excerpt: "Kovo HealthTech Corporation (TSX-V:KOVO) has announced the appointment of financial technology (FinTech) innovator Eddie Chan as its chief"
     publishedDateTime: 2023-07-11T11:33:00Z

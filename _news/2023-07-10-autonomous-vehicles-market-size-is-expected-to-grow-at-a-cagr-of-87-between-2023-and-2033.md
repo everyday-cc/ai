@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Camera Market to Grow at a CAGR…"
+    excerpt: "The artificial intelligence (AI) camera market size is estimated to grow at a CAGR of 12.04% between 2022 and 2027. The market size is forecast to increase by USD 6,498.16 million, according to Technavio."
+    publishedDateTime: 2023-07-14T11:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-camera-market-grow-a-cagr-/2023/07/14/9848444.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/2153664/Technavio_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "FinTech Market to Grow Rapidly at a CAGR of 20.3% by 2030 | DataM Intelligence"
     excerpt: "DataM Intelligence 4market Research\"The Global FinTech Market reached USD 140.1 billion in 2022 and is expected to reach USD 610.0 billion by 2030 and is expected to grow with a CAGR"
     publishedDateTime: 2023-07-13T01:36:00Z
@@ -41,33 +55,19 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "2030, Artificial Intelligence (Ai) In Fintech Market Size 2023 | Swot And Pestal Analysis | New Report Of 116 Pages"
-    excerpt: "Artificial Intelligence (AI) in Fintech market size is expected to expand at a CAGR of 28.6% during the forecast per"
-    publishedDateTime: 2023-07-14T05:28:00Z
-    webUrl: "https://menafn.com/1106601738/2030-Artificial-Intelligence-Ai-In-Fintech-Market-Size-2023-Swot-And-Pestal-Analysis-New-Report-Of-116-Pages"
+  - title: "Artificial Intelligence Market To Grow Rapidly At A Cagr Of 20.2% By 2030 | Datam Intelligence"
+    excerpt: "On May 23, 2023, Google announced that it will be launching Product Studio, Google's new generative AI tool that allows Google Shopping merchants to quickly edit and customize their product images for free."
+    publishedDateTime: 2023-07-14T11:30:00Z
+    webUrl: "https://menafn.com/1106603038/Artificial-Intelligence-Market-To-Grow-Rapidly-At-A-Cagr-Of-202-By-2030-Datam-Intelligence"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 32
+    quality: 27
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?836492"
-        width: 371
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910908"
+        width: 437
         height: 250
-        isCached: true
-  - title: "Investing In Fintech - A Closer Look At The Opportunities"
-    excerpt: "The fintech industry has experienced remarkable growth and has become a key player in reshaping the financial landscape. Fintech, short for financia"
-    publishedDateTime: 2023-07-11T03:12:00Z
-    webUrl: "https://menafn.com/1106581655/Investing-In-Fintech-A-Closer-Look-At-The-Opportunities"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/10/C_9861cimage_story.png"
-        width: 960
-        height: 600
         isCached: true
 
 secured: "zF0462goFm34vkYeRGed9XqQ+FJPJDizUom3wY+uoNpFqslM/QVsmAXe37tRYhBu6K73UiJ8hQ87nQas1ciCjlNm0fN1ctvoVqYK3WIVhF00ipSFpNUGDexAR6V607B1oL8ggTl135rrnEG75PDhhg9lMM1AVFWosp2l/SOS3Q1shnot3EbXe7c7AFd8El6hhG+TpUXmpUWAsMYddnm+pWGOPJJOR+DBIqhwNU3JfiNi14cKQSx3RnuG4mCYxguxbkYnZJjVQd7r/tMIGCAfnt1Quj7b4wl73U+nVjlyGDf2iDSbZXR+cvLKavsP7Jckh4KTnDVli3br9VUffxrmA7VmL+fgbm+phzmqyW+kv8g=;LiinV+BWJPXQemICGoY+aQ=="

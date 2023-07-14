@@ -27,7 +27,7 @@ related:
     provider:
       name: Lifehacker
       domain: lifehacker.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/89764f56afe857e7b1db3fc669460310.png"
         width: 1200

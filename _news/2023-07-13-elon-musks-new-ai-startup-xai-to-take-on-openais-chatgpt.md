@@ -81,6 +81,17 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "Musk unveils xAI in new bid to rival startup OpenAI"
+    excerpt: "Elon Musk, who was involved with OpenAI, has criticized the startup since he left the board in 2018, especially after it created a for-profit arm the following year."
+    publishedDateTime: 2023-07-13T18:37:00Z
+    webUrl: "https://www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/"
+    ampWebUrl: "https://www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "OpenAI strikes deal with AP to pay for using its news in training AI"
     excerpt: "OpenAI will pay the Associated Press for direct access to its archive of news stories in order to train its AI chatbots."
     publishedDateTime: 2023-07-13T16:28:00Z

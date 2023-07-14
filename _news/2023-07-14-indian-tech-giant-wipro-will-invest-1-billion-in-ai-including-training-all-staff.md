@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
 type: article
 quality: 81
-heat: 241
+heat: 251
 published: true
 
 provider:
@@ -155,6 +155,22 @@ related:
       - url: "https://c.ndtvimg.com/2023-02/i7gp8vt8_wipro_640x480_22_February_23.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Wipro, which is hiring in NC, to invest $1B in AI, staff training"
+    excerpt: "Wipro, one of India’s top providers of software services which also is hiring in North Carolina, wants everyone on staff to know how to use artificial intelligence. Here's what's happening."
+    publishedDateTime: 2023-07-14T11:50:00Z
+    webUrl: "https://wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/"
+    ampWebUrl: "https://wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/12/artificial-intelligence-g85614e566_1920-e1672408920584.jpg"
+        width: 1881
+        height: 1060
         isCached: true
   - title: "AI Industrial Robotics - India"
     excerpt: "Value in the AI Industrial Robotics market is projected to reach US$162.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$ ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14151_16890894716486738.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Meta Launching Its Own Generative AI To Compete With ChatGPT and Google"
+    excerpt: "Meta (Facebook) is all set to release a commercial version of its own artificial intelligence model in line with OpenAI's ChatGPT and Google's Bard"
+    publishedDateTime: 2023-07-14T10:26:00Z
+    webUrl: "https://www.indianweb2.com/2023/07/meta-launching-its-own-generative-ai-to.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 39
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FT0Uew9kxKabym8o1iIGycg4mUfByuIM-giCSBwKkP7OP-Bj3RXXVJDZWlS9IeMlJiOdv3JX1OxDwZts4h5Ercs9wZtxtra1TIbWPyea2ObKtAbB1ujyZxFpzqv2swuhif7VfAAT6pRzusnDI3Fy2T2bOGDHWCM51WxnYM57tMV5WU3QJCNIxyvjATs/s16000/Untitled%20design.png"
+        width: 1000
+        height: 620
         isCached: true
   - title: "How to Harness Generative AI in Your Marketing"
     excerpt: "Both agree that AI isn’t likely to outshine the human brain’s unique ability to take leaps of intuition or engage in truly strategic thinking. Nevertheless, AI’s impact isn’t trifling and needs to be taken seriously,"

@@ -161,6 +161,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Wipro, which is hiring in NC, to invest $1B in AI, staff training"
+    excerpt: "Wipro, one of India’s top providers of software services which also is hiring in North Carolina, wants everyone on staff to know how to use artificial intelligence. Here's what's happening."
+    publishedDateTime: 2023-07-14T11:50:00Z
+    webUrl: "https://wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/"
+    ampWebUrl: "https://wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/12/artificial-intelligence-g85614e566_1920-e1672408920584.jpg"
+        width: 1881
+        height: 1060
+        isCached: true
   - title: "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions"
     excerpt: "According to Delaporte, Wipro ai360 is meant to empower the company's talent pool and \"be ubiquitous across all operations and processes,\" as well as"
     publishedDateTime: 2023-07-12T15:30:00Z

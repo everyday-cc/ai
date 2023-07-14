@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Vision Pro to use custom-designed DRAM Chip"
-    excerpt: "Apple's upcoming AR (augmented reality) headset Vision Pro will reportedly feature a new type of dynamic random access memory (DRAM) that has been custom designed to support Apple's R1 input processing chip."
-    publishedDateTime: 2023-07-14T04:43:00Z
-    webUrl: "https://www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html"
-    ampWebUrl: "https://www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 61
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2022/07/da70c6b48d3db7ecab7139fd06f407e0-2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Apple Vision Pro headset to feature custom-designed DRAM chip: Know what it means?"
     excerpt: "Apple Vision Pro AR headset features visionOS, the world's first spatial operating system that allows users to interact with digital content as if it were physically present in their surroundings."
     publishedDateTime: 2023-07-14T06:36:00Z
@@ -73,6 +57,20 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2023/07/13/1364654-apple-vision-pro.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Apple Vision Pro to use custom-designed DRAM Chip"
+    excerpt: "Apple's upcoming AR (augmented reality) headset Vision Pro will reportedly feature a new type of dynamic random access memory (DRAM) that has been custom designed to support Apple's R1 input processing chip."
+    publishedDateTime: 2023-07-14T08:16:00Z
+    webUrl: "https://www.thenewsminute.com/article/apple-vision-pro-use-custom-designed-dram-chip-179739"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 41
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/apple_1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "acQPEJnGckXrt9EvagyTzCzhcPLljswgb+W14oGrSjMGz7BGiUgYVsaV7brwNU0X+rC8MpkBBMZdLJaFc1y03nkBtV5AmHPJNSWQT5xau0O6s/iPfZwt125q5Dgpu5z4U7AEvt6IB/Xsvxp8NR0gt+lpQ2SW39hMknGWaAsRq1J8KFgbA/LSCE38pZHocaBYAKc424gaEfzsB3NZG1zwsz+zZxdL3SrKI1XpKxqieGKqqVcecMesI6uFsXsBMwLCc7KdRdl4oH3ID0IMh27t8WyzdUqK8QfcsifdbVQbjtSh9q1gNggI4Wo+a+uoAXYoZoe4yCXTPFAsH3ZwJsdvL72S2qrccpti0EVwLqdeMX/IeJBH81PxWAdxeytCLC8GyPjiS0Mvbzdtvo65HE0o0QTii2C584Aq6Wb+iMiqMwu4Le+vGezBIsFIH0ZOB/75mXHdeakz/yZbVZM5FppjnKsUVsXknccn3BZYpkKaTHsmCHSrRZKiFeTKnjoL8JJlrTw7BHqqCDyzUGlMJKviQg==;4b2VbingNxxhy+SwDL3m0g=="

@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is reshaping the rules of business"
-    excerpt: "How teams can keep employees engaged in the AI-accelerated transformation of their careers and businesses amid pending regulation"
-    publishedDateTime: 2023-07-09T17:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-business/"
+  - title: "Asia Falling Behind The Ai Regulation Race"
+    excerpt: "In 2023, the EU Parliament debated the Artificial Intelligence (AI) Act, China publicly commented on draft generative AI rules and US industry leade"
+    publishedDateTime: 2023-07-14T11:00:00Z
+    webUrl: "https://menafn.com/1106602709/Asia-Falling-Behind-The-Ai-Regulation-Race"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106092"
+        width: 363
+        height: 250
         isCached: true
   - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
     excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"

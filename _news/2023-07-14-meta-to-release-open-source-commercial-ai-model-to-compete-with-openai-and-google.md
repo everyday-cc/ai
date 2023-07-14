@@ -71,6 +71,17 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "Musk unveils xAI in new bid to rival startup OpenAI"
+    excerpt: "Elon Musk, who was involved with OpenAI, has criticized the startup since he left the board in 2018, especially after it created a for-profit arm the following year."
+    publishedDateTime: 2023-07-13T18:37:00Z
+    webUrl: "https://www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/"
+    ampWebUrl: "https://www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "Elon Musk’s new AI startup xAI to take on OpenAI’s ChatGPT"
     excerpt: "Elon Musk announced his long awaited AI based venture on Twitter on July 12. During an hour-long Twitter spaces event, Musk announced the formation of xAI, the AI startup, \"to understand reality\". xAI’s company website mentions that the goal of xAI is to \"understand the true nature of the universe.\""
     publishedDateTime: 2023-07-13T08:21:00Z
@@ -109,6 +120,6 @@ related:
       domain: houstonchronicle.com
     quality: 21
 
-secured: "/8FYzRx3gZ3JAvAKUIQzE4/xF+J/2iK+Zcc+wF1HAT+6H+1HT7OutwvivwZ4rwgcskMDFQZy6KadR+jUynLiI5FYRn5U9l+4iWBtGXQ6OYp/Fl07Ii5wn4pkshR/m9OYIgmLsfl/uKTgD97YqYVEi2yVBdF5XxsLFP7+5C3EEEpA7+Yfwod9bimW7YiEcc+Ek33xmsFjdyYKdp1IQPSnJfaiZY55FTf4VpkJeLyGnSHIgo0J57nGLJfBR4KGt9bZJim2S5dEptR/emqbMaa6xOAE8rBKG1iQYEX9Bv4h9LwuS70L+BV0a9ecV5+/uOo5mP9DcAANXtMo6zN8+Y4JsFGvQutL0Cd6XQu8qG8yogU=;S+ZDh9FKxYLX3sA76Num1w=="
+secured: "jXO+L0rLS2JZ6cJvElvqL61EVjZ6mX32Vp/EWtUOb2ZCuGcF7ntPKJk8pq004i8gvYj92ZD5zmsiZO5c3ZeuwlBdZ+28k54tYqHUlBEV8/GX01PSfySvi8RhRtFi92w0MnPT8LBxRGYWNKh0BEUQbM38zxRw133YLZrCKFokDZIc1DlEksyByNn+Uj+wnhldmp1BXRaJwd50o9NbV5ZnhvFIUZIbVMYu8Z10e27MK2EvPyqPhfOJbQLDQpZm8zODe71axPvBs0iZNvjaywHjAnJqAVyVzVdGQrJDjxnrNW5zz6OPdDHuDz9LQmx9HzkzeVTNH1OCsKXzZ1EkQDCPxRjZIkc5ljag3ePc02AWmf+UvKjjAFzIrXTyTC7aBcWhYwqS5cOk8pAmvjABsKC5Lh/vgt7IG8zDYGIX8zBWBVkXxMVaQdbZbwNcI+MlFYl/kB+JFwYkdE0YL7GeB3Amj6P989CO7wzQeEwaQZpl9UQlTIhmb5mjrOiaGDG7HBZeapGplVtweoEGn0QMNgYakg==;pL6iKSUfn2wf0uDeXpPFOA=="
 ---
 

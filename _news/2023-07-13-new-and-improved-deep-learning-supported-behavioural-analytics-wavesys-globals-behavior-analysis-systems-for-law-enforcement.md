@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amcor's Lift-Off Winner, Greyparrot, to Advance AI-powered Waste Analytics"
+    excerpt: "Greyparrot deploys cutting-edge AI computer vision systems in resource recovery facilities, which monitor and sort through large waste flows at scale."
+    publishedDateTime: 2023-07-14T11:44:00Z
+    webUrl: "https://www.waste360.com/recycling/amcors-lift-winner-greyparrot-advance-ai-powered-waste-analytics"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 35
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/GREYPARROTFEAT.png"
+        width: 1540
+        height: 800
+        isCached: true
   - title: "Simplifi® And Hub71 Startup Lune Partner To Drive Transformative Data Enrichment And Analytics Services To Businesses In Menap"
     excerpt: "SimpliFi, a Cards as a Service (CaaS) platform for MENA and Pakistan, and Lune, a transaction data enrichment and analytics compa"
     publishedDateTime: 2023-07-13T13:47:00Z

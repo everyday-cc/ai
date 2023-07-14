@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-13T17:00:00Z
 originalUrl: "https://lifehacker.com/what-people-are-getting-wrong-this-week-artificial-int-1850634769"
 webUrl: "https://lifehacker.com/what-people-are-getting-wrong-this-week-artificial-int-1850634769"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/89764f56afe857e7b1db3fc669460310.png"

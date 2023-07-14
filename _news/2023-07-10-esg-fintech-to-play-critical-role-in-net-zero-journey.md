@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "From Banks To Bitcoin - How Fintech Is Shaping The Economy"
-    excerpt: "The financial technology industry , known as fintech, has emerged as a powerful force reshaping the global economy. Fintech refers to using technolo"
-    publishedDateTime: 2023-07-09T18:16:00Z
-    webUrl: "https://menafn.com/1106574082/From-Banks-To-Bitcoin-How-Fintech-Is-Shaping-The-Economy"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
   - title: "China’s Hundsun Recovers After Fintech Firm Refutes Rumor That Ant Will Follow It Into Financial Software"
     excerpt: "Shares in Hundsun Technologies halted their precipitous decline today after the Chinese fintech software developer said that rumors that Chinese fintech giant Ant Financial Services Group is preparing to branch into financial IT software in direct competition with Hundsun are not true."
     publishedDateTime: 2023-07-12T07:22:00Z

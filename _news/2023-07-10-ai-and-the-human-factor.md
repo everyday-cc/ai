@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The pros and cons of AI and how we must stay human"
-    excerpt: "AI is going to impact your life significantly and soon. The World Economic Forum says a quarter of jobs will be impacted over just the next five years as a result of technology and digitalisation. So where does this leave leaders and their teams?"
-    publishedDateTime: 2023-07-14T09:34:00Z
-    webUrl: "https://www.thehrdirector.com/business-news/digitalisation/pros-cons-ai-must-stay-human/"
+  - title: "The Last Word on AI and the Atom Bomb"
+    excerpt: "I’m old enough to have cowered under my school desk. Decades later I learned physics from the bomb guys. What I’m mainly hearing now is echoes."
+    publishedDateTime: 2023-07-14T10:00:00Z
+    webUrl: "https://www.wired.com/story/last-word-ai-atom-bomb/"
     type: article
     provider:
-      name: theHRDIRECTOR
-      domain: thehrdirector.com
-    quality: 39
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://www.thehrdirector.com/wp-content/uploads/2021/01/Digital-Technology-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://media.wired.com/photos/64b09f9d57ff6ec62db8a8b5/191:100/w_1280,c_limit/ideas_ai_oppenheimer.jpg"
+        width: 1280
+        height: 670
         isCached: true
 
 secured: "CpIpV0YlSQmLNInJYvd+IIV8XDOKFvB+GyN2S+F1wiWjP6WLIMNweNr1jDXeINkMpXaG1Ijdz2UsplGk0XpXiRqjZs56qinm9jWKCKQyiOLDAuK4mvOfxvvDvJatme5skrNF9vpPotYF8WPCA66U5jqRjc7ioFrdBD3FfdKzGUjF2BQ/4F9ER20sBv6G9YrbJRz7/o35/VlmGeYdAvCEkBgU9kctIndaTkihv9r+WVWvzQHAYKrvCKFkM6QTg6izsRG3+4fNiNyDRaSkuOdFxZI5GzhmF4b7562sBFCEjNJfptn44YsiiXKvjYj1GoXdq/Qh/Rxn4nUsWUUrDCA5iImSeQyE7pb0cKAPv9nniMR3k+wVnpdckGLOyDIcQl03UeQC8t9JFn9SZO9qc+1U0VYp4gvNW+DTRLYeY41ZeMr77svltQbxssw3XC1Z7Vhwd9ubXNUhfq7rNZhKApc58GKGPHKyvhejz03rjee0sR4+JqNKLIwzFbrygQfVaxkaHNOxOBi6dg3JTSS2sC3K1A==;L8s2qfhycLg//GeFQApIvA=="

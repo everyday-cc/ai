@@ -244,6 +244,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Artificial intelligence can augment healthcare"
+    excerpt: "Experts say generative artificial intelligence (AI) has the potential to revolutionise healthcare as a whole. It has the potential to improve patient"
+    publishedDateTime: 2023-07-14T09:34:00Z
+    webUrl: "https://health-e.org.za/2023/07/14/artificial-intelligence-can-augment-healthcare/"
+    type: article
+    provider:
+      name: health-e
+      domain: health-e.org.za
+    quality: 54
+    images:
+      - url: "https://health-e.org.za/wp-content/uploads/2023/01/logo_size_invert-1.jpg"
+        width: 598
+        height: 233
+        isCached: true
   - title: "Meet The AI Specialist Employing Data-driven Strategies To Revolutionize Healthcare"
     excerpt: "The utilization of data analytics stands to revolutionize the delivery of healthcare services by enhancing drug discovery, bolstering patient adherence, reducing physician burnout and patient out of pocket expenses,"
     publishedDateTime: 2023-07-12T07:21:00Z
@@ -339,15 +353,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "GE HealthCare survey: AI faces skepticism in the medical care business"
-    excerpt: "AI in healthcare is facing skepticism, even as wider AI use faces scrutiny and a rush to regulation in the US."
-    publishedDateTime: 2023-07-09T18:00:00Z
-    webUrl: "https://www.aol.com/ge-healthcare-survey-ai-faces-150026709.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
   - title: "55% of medical professionals say AI isn't ready for healthcare"
     excerpt: "Medical professionals are still skeptical about AI use in healthcare, with 55% stating that the technology is not ready for medical use."
     publishedDateTime: 2023-07-10T18:18:00Z
