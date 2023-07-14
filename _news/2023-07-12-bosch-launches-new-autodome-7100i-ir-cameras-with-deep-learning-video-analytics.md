@@ -3,8 +3,8 @@ category: news
 title: "Bosch launches new AUTODOME 7100i (IR) cameras with deep learning video analytics"
 excerpt: "Bosch Video Analytics helps security professionals to address a variety of challenges and delivers value beyond security.It offers a menu of Video Analytics that deliver highly-accurate data,"
 publishedDateTime: 2023-07-12T07:06:00Z
-originalUrl: "https://www.sourcesecurity.com/news/bosch-launches-autodome-7100i-ir-cameras-co-289-ga-npr.1689142624.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/bosch-launches-autodome-7100i-ir-cameras-co-289-ga-npr.1689142624.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/news/bosch-launches-autodome-7100i-ir-cameras-co-289-ga-npr.1689142624.html"
+webUrl: "https://www.sourcesecurity.com/news/bosch-launches-autodome-7100i-ir-cameras-co-289-ga-npr.1689142624.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/bosch-launches-autodome-7100i-ir-cameras-co-289-ga-npr.1689142624.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/bosch-launches-autodome-7100i-ir-cameras-co-289-ga-npr.1689142624.html"
 type: article
@@ -20,6 +20,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "YHz/AeNRmfHH/cz1Pi30aZ4wosaEoaQO0gbC9nLTPRQtKjEEAGmFFWBMda7Qepstp1YijlZCzgwpVZyRkbX22eOTr2AJx0S8UQSa4egEL95MdbS4BW4pvc8ZXDaxikzYgnbz/1n5K+QNdIdzkJjuAMxGuFw/qDungkokpEVvsT5mFXa39UMIM3QNU1G9ezAXXoWnTKQY0/Y2TNFmC32mB5p7V5KmN5NcPC10GeukmYIyrk8Ol8Xm0jXogLL5Eizn0NTCYxoBNaATJ7pGOK77HpUHt2mie0H89mweoOFxD4Iq+hnA2u81v4L9sYOywK27CZmGj5t5eiojgYXXuFW9Rd2JwZeZpX4UeraRRGF1shU3B1iSG6lxwEGzCw9SeeRru2/N31SYa8tSCdCJxWSTY2x5rgLAJ+4YwLBu0rbwUrdKHlCquFOFb7YrMDjcDP/JR5JbiKWBZy4di1vOx8WJfApijoiMEkjAPPzgsgkQQZZKOHNK2clYQTf4P+WkbKt/rYvG7ROP/7n/RCzXif4kog==;uuGYIoURtZJrey3zmMDwcg=="
+secured: "eqKtSzBQvpCO3Gqbp+fbpTpTTS/DFXjJz/BoAbNBkifyd8J4c95aDqfgJyydPfbv3+FVHBToEVMk/wnQ1FSjYmNN6B3FZFbtmv4LwSgrUJxPaHYCdzbZvSAx6ZCQg8RG5PgF9tnQrVkiKmkKgtyku7f3OaiK/mYrHAPs+tYTCh8ZOsQNWHBT9HVrRTmAlOGPb6XN6lgI48+TFOGZHEpY98vLZvdugqcYsDa3Q+Vgk4wMJhHZ1Km0TQKzdxlXxJPEMqrDbBuRfjZlqlR/G/88BUOnWVKP1sBsY88wknSOyHKf9g5yFFQZM336GCxJqwbGyyTaZ8jpQAumIJn1qN1XJAsck1/j2vWJSmsW/DPtuQQvvl8LAsS/iwNk7F2LdJV0R28YGO0sG9YDMM90j56YQPB3WmFS3X9U20VeHWKWTaqJuGJNEKcDMrNbQliQjSvplihif3RVSP1MLg1yEjGzsQuaED53eOBJgTVJyFvz0e28ZaRkzpTsdMgV9GIY4csuzHfg8vOFLEgS4gaGvfj89g==;JyfmcBvqUrcTsJ9gjP5s+A=="
 ---
 

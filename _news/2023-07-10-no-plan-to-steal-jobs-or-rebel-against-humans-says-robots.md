@@ -49,6 +49,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Why These 3 Stocks Are the Best Ways to Play AI Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Goldman Sachs recently asserted “that AI adoption could"
+    publishedDateTime: 2023-07-11T16:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-stocks-are-the-best-ways-to-play-ai-right-now-1032438538"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "jEH2pCbzvp3GswcMO+13IdzWEriwxeYEtco/DJ3/85J/RSzwTiqvlMGoF72iVnx1rAtFLtjS6gqg2IfUpqZYSKEZ5o0Qi5DhZqiF0K3eWFlNmdKxWgCMsdigMLVdyAyojD4ezt4u0ENQLT7Eix5ccJRuvMzA14mRbT6sI6qHXelDbdNAzH94n7AbL6u9R2vmLbQE8FgkkhlolGpYvLPfSJd1p/Wbo41LIEj4439l/BMYS5NU4l3FebpyRW+1v+8WHoqgJNC2dJnxsIS99B3sf4I4cRLxvqI0sBygYNcC0Sd9oV88lTxRw8YE24/rUcKsWyQ/Jc9cqJDepdftFqE//rvfKOGkTNq5fAUHUnTInNY=;lutVdeKopRJCJr7qBEpq5A=="
 ---

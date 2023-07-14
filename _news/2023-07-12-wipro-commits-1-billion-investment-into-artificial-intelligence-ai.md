@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-wipro-commits-1-bil
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/lite/"
 type: article
 quality: 72
-heat: 232
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Indian tech giant Wipro will invest $1 billion in AI, including training all staff"
+    excerpt: "Wipro, one of India's top providers of software services, wants everyone on staff to know how to use artificial intelligence."
+    publishedDateTime: 2023-07-14T04:20:00Z
+    webUrl: "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 81
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230713221815-wipro-ai-investment-restricted.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Wipro to spend $1 billion to train entire staff in artificial intelligence"
     excerpt: "Wipro Ltd, India's third-largest software services company, on Wednesday announced a USD 1 billion spending plan to train its entire 2.5 lakh employees in artificial intelligence and integrate the technology into its product offerings."
     publishedDateTime: 2023-07-12T10:08:00Z
@@ -55,20 +71,6 @@ related:
       - url: "https://www.reuters.com/resizer/fHpNwdkVZUla20Myt2ZPpxsf7H0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XNBC2CNZXZIFVCPNYT5EUAKBVI.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "KPMG Plans $2 Billion Investment in AI and Cloud Services"
-    excerpt: "An expanded partnership with Microsoft is expected to bring in $12 billion in revenue for KPMG over five years, the Big Four accounting firm said."
-    publishedDateTime: 2023-07-11T19:50:00Z
-    webUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-815234/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "India's Wipro commits $1bln investment into AI"
     excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
@@ -150,22 +152,15 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Artificial Intelligence game to strategic investments: Key things that Wipro's chairman Rishad Premji said in 77th AGM"
-    excerpt: "Wipro's chairman, Rishad Premji, highlighted the company's investment in AI and its plans to integrate AI into all platforms and solutions, while also emphasizing the importance of strong governance."
-    publishedDateTime: 2023-07-13T15:38:00Z
-    webUrl: "https://www.livemint.com/companies/news/artificial-intelligence-game-to-strategic-investments-key-things-that-wipros-chairman-rishad-premji-said-in-77th-agm-11689260870955.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/artificial-intelligence-game-to-strategic-investments-key-things-that-wipros-chairman-rishad-premji-said-in-77th-agm/amp-11689260870955.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/artificial-intelligence-game-to-strategic-investments-key-things-that-wipros-chairman-rishad-premji-said-in-77th-agm/amp-11689260870955.html"
+  - title: "AI Industrial Robotics - India"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$162.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-12T09:30:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/india"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 50
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/13/600x338/2-0-547279161-rishadpremji-0_1680595244962_1689262533680.jpg"
-        width: 600
-        height: 338
-        isCached: true
+      name: Statista
+      domain: statista.com
+    quality: 49
   - title: "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions"
     excerpt: "According to Delaporte, Wipro ai360 is meant to empower the company's talent pool and \"be ubiquitous across all operations and processes,\" as well as"
     publishedDateTime: 2023-07-12T15:30:00Z
@@ -232,20 +227,6 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/cffe022dc8d35ca2bc3d7072aac20950"
         width: 800
         height: 543
-        isCached: true
-  - title: "Quantexa commits to AI with $155M investment and new agnostic large language model"
-    excerpt: "The seven-year-old company also previewed its generative AI technology, Q Assist, alongside its investment plans. Quantexa started as a provider of artificial intelligence-based fraud detection tools for the financial services industry but has more recently rebranded itself as a “decision intelligence” platform and expanded into industries such as insurance,"
-    publishedDateTime: 2023-07-09T23:13:00Z
-    webUrl: "https://siliconangle.com/2023/07/09/quantexa-commits-ai-155m-investment-new-agnostic-large-language-model/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/quantexa.png"
-        width: 1111
-        height: 481
         isCached: true
   - title: "India’s Wipro commits US$1 billion investment into AI"
     excerpt: "INDIAN IT services provider Wipro said on Wednesday (Jul 12) it planned to invest US$1 billion into artificial intelligence (AI) over the next three years. Read more at The Business Times."

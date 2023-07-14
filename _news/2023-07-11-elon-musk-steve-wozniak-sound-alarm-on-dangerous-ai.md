@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -107,6 +107,22 @@ related:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2023/07/web1_13991615-ad7d8018b7b1405faeaeb2abf4bb08aa.jpg"
         width: 760
         height: 507
+        isCached: true
+  - title: "Elon Musk launches AI startup xAI"
+    excerpt: "Musk said this was part of efforts to build 'safer AI'"
+    publishedDateTime: 2023-07-14T05:52:00Z
+    webUrl: "https://www.exchange4media.com/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 57
+    images:
+      - url: "https://exchange4media.gumlet.com/news-photo/128561-musk.webp?w=500"
+        width: 500
+        height: 271
         isCached: true
   - title: "Elon Musk launches xAI, his new artificial intelligence startup"
     excerpt: "ELON MUSK IS finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched yesterday and its goal “is to understand the true nature of the universe”."

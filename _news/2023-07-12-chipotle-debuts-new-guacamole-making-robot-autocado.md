@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2023/07/Autocado-featured.jpg"
         width: 700
         height: 500
+        isCached: true
+  - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
+    excerpt: "Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring and peeling avocados."
+    publishedDateTime: 2023-07-13T21:46:00Z
+    webUrl: "https://www.wcvb.com/article/chipotle-autocado-robot/44537138"
+    ampWebUrl: "https://www.wcvb.com/amp/article/chipotle-autocado-robot/44537138"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/chipotle-autocado-robot/44537138"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9uzs10ahvtym5hawwtnme5ntm4zdg4otnlngjkn2uymdq0mzmyogyzytk5odg-l19wywdlcy9oxzg3njnlyze5n2vkogewnwu3mtq0ymzim2fiyjuwndu1-jpg-64b071b63cb16.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
     excerpt: "Your Chipotle guacamole may soon be prepared by a robot. Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring, and peeling avocados."

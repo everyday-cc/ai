@@ -43,15 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "VB Transform 2023: Announcing the nominees for VentureBeat’s 5th Annual AI Innovation Awards"
-    excerpt: "As enterprise technical decision makers from the artificial intelligence (AI) and data community get ready for VentureBeat’s flagship event VB Transform, we are excited to announce the nominees for the 5th annual AI Innovation Awards."
-    publishedDateTime: 2023-07-09T12:06:00Z
-    webUrl: "https://venturebeat.com/ai/vb-transform-2023-announcing-the-nominees-for-venturebeats-5th-annual-ai-innovation-awards/"
+  - title: "Announcing the winners of VentureBeat’s 5th Annual AI Innovation Awards"
+    excerpt: "Capping two days of hearing from enterprise AI and data executives and leaders during the VB Transform 2023 conference in San Francisco was the announcement of the winners of the 5th annual AI Innovation Awards. This year’s conference and the awards were centered on “Get Ahead of the Generative AI Revolution.”"
+    publishedDateTime: 2023-07-14T04:04:00Z
+    webUrl: "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-ai-innovation-awards/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 42
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/VBDM0139-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ockO3OuUGFwLfGapz5uzZtTiL/lFjC6+SmQj09wlyP8BkTdTb6c8nTUH+j9OyATAnshG+DxgPGyVSZ6CWqig7D0Qb3xK62/pxk+WT8Zb+lKGQr++TADgYKcqmwija/24pJYH7MpmPMFDY7ZmVGKbpPNqzFVv8lU3U18dfURYe86pDdzPxG+3ZdoJ6RMN7T+gdu/FTzsHy7sm/n5CSZl3aABZZOm0/iKpIMUySPh/Ge1NJYgX8oLOwoJ1pbeSXvT8FpmmpXJh1YNrJf5Kpf+sPDy6GhSnjRT32SYeYR1E/++BOVKpamCdfGYY1QqCz/+UpIryR+EqUa1cnYEulxUShcXpyzO0gkjZFreFfX9VGfvUFUax99VdISP9nYef2yAQbe6XWEwspOFFWvBYcYKiYuJnccvjX13gwt/bPIysk6GJDslZibvYvQ73vnKnCVPr13V7HgNlWKisYQ1ZCqBvhMdzVOckxFWgoj0B3+3cFR9mdUtqo5ANmv7rbp8gbj1St+QaqA+Q7RHPbMuMm4Ys1w==;urFMROe3AVZnBO4tswAzsg=="
 ---

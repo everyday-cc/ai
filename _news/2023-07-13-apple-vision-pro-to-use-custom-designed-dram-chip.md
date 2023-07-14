@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Vision Pro to use custom-designed DRAM Chip"
+    excerpt: "Apple's upcoming AR (augmented reality) headset Vision Pro will reportedly feature a new type of dynamic random access memory (DRAM) that has been custom designed to support Apple's R1 input processing chip."
+    publishedDateTime: 2023-07-14T04:43:00Z
+    webUrl: "https://www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html"
+    ampWebUrl: "https://www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/apple-vision-pro-to-use-custom-designed-dram-chip-1503200314.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 61
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2022/07/da70c6b48d3db7ecab7139fd06f407e0-2.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Apple’s Vision Pro Headset to Use Custom-Designed Low Latency DRAM Chip Made by SK Hynix"
     excerpt: "Apple's Vision Pro headset will use a new type of dynamic random access memory, or DRAM, that has been custom designed to work with Apple's R1 input processing chip."
     publishedDateTime: 2023-07-11T12:22:00Z

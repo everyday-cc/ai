@@ -41,6 +41,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "2030, Artificial Intelligence (Ai) In Fintech Market Size 2023 | Swot And Pestal Analysis | New Report Of 116 Pages"
+    excerpt: "Artificial Intelligence (AI) in Fintech market size is expected to expand at a CAGR of 28.6% during the forecast per"
+    publishedDateTime: 2023-07-14T05:28:00Z
+    webUrl: "https://menafn.com/1106601738/2030-Artificial-Intelligence-Ai-In-Fintech-Market-Size-2023-Swot-And-Pestal-Analysis-New-Report-Of-116-Pages"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?836492"
+        width: 371
+        height: 250
+        isCached: true
   - title: "Autonomous Vehicles Market Size is expected to grow at a CAGR of 8.7% between 2023 and 2033"
     excerpt: "In 2023, the autonomous vehicles market size is expected to be worth US$ 30,539.0 million. The revenue from sales of autonomous vehicles is anticipated to reach around 70,331.5 million by 2033, growing at a CAGR of 8."
     publishedDateTime: 2023-07-10T05:09:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-2023
 webUrl: "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Why These 3 Stocks Are the Best Ways to Play AI Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Goldman Sachs recently asserted “that AI adoption could"
+    publishedDateTime: 2023-07-11T16:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-stocks-are-the-best-ways-to-play-ai-right-now-1032438538"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "oeQP281soK38IGH08s5FytWUT7rHT10a0Y8ALSmT5Xs8kulKgPfbOpO7o3rTqDDSPudJ4bF/TrABygSUTouj4w3Rc0GSnkaXqGgUOXM1qvE5COEcgb965U9QQoa04zuZOmned6SOGj6otCwPU/sMl8qpNVEYLgqkdtrr/bbf0nK678WAUlhV1nJgFOs3oh8ehZ6O9QtjD7KCCO0z059INTcF5s3aqzWvn2hqAmpYyUWTFOKuzETfgk1WOmEgzQ61gAMzaNLOUBs8e4QzGv+NAJWUlGoPSj9IFGWfYN/pnz7CCAENHEGVkZwfrgtcMS46afjaIUjM0T+b4nTXEyX0AtFGuNAN8Z6SO750MbpzuS8=;V+CQHoHjyslwaMTPNwewNw=="
 ---

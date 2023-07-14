@@ -178,15 +178,6 @@ related:
         width: 943
         height: 629
         isCached: true
-  - title: "Crypto And AI Innovation: The London Attraction"
-    excerpt: "Exploring London's Emergence as the Global Nexus of Crypto, AI, and Tech Innovation: Balancing Tradition, Regulation, and Disruptive Potential."
-    publishedDateTime: 2023-07-09T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/07/09/crypto-and-ai-innovation-the-london-attraction/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
     excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
     publishedDateTime: 2023-07-10T20:26:00Z
@@ -260,6 +251,20 @@ related:
       - url: "https://images.ctfassets.net/2chiqpnroeav/7eLSSlhbIn89ev2TYbkA20/dd6604ee05455e5deeb2e2200b69306a/Identity_Verification_image_1__credits_Checkout.com.png"
         width: 1198
         height: 674
+        isCached: true
+  - title: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety"
+    excerpt: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety - Elon Musk, the renowned billionaire entrepreneur and CEO of Tesla, SpaceX, and Twitter, officially launched"
+    publishedDateTime: 2023-07-14T04:49:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/elon-musk-introduces-xai-an-ai-startup-with-an-emphasis-on-innovation-and-safety-nid-224089-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 32
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/tGq21I0V.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab"
     excerpt: "Collaboration Creates Opportunities to Leverage Modern Advancements in Cloud Optimization and Artificial Intelligence for Ongoing Platform Development Strategic Partnership Allows Asure Opportunity to Provide Customers with Unprecedented,"

@@ -26,53 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "5 Artificial Intelligence apps you can use for your sports training and fitness"
-    excerpt: "AI in sports is gaining traction across the business, with applications ranging from post-game analysis to in-game activity and even the fan experience."
-    publishedDateTime: 2023-07-09T11:06:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp"
+  - title: "How To Create A Website With AI"
+    excerpt: "Hostinger’s AI website builder only needs three pieces of information to generate a website for you: the name of your company, the type of website you want and a short description of what your company does. Based on this information, the AI creates a website including suitable texts, images and other relevant content, such as online shop products."
+    publishedDateTime: 2023-07-10T07:18:00Z
+    webUrl: "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Sports-AI-workout-app-fitness-trainer-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2023/07/CreateAASiteWIthAI-1-scaled.jpg"
+        width: 2560
+        height: 1677
         isCached: true
-  - title: "5 Top AI Tools You Can Use To Make Money"
-    excerpt: "Tech companies, social media influencers and e-commerce sellers have discovered how to earn money using artificial intelligence tools -- and now, so can you. Whether you're a digital content"
-    publishedDateTime: 2023-07-12T23:24:00Z
-    webUrl: "https://www.aol.com/5-top-ai-tools-money-202404899.html"
-    ampWebUrl: "https://www.aol.com/amphtml/5-top-ai-tools-money-202404899.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/5-top-ai-tools-money-202404899.html"
+  - title: "What Creatives Have to Gain from AI"
+    excerpt: "Generative AI isn’t perfect, but even at its current stage of development, it helps us to speak in languages that we couldn’t before."
+    publishedDateTime: 2023-07-12T16:30:00Z
+    webUrl: "https://www.rollingstone.com/culture-council/articles/what-creatives-have-gain-from-ai-1234786369/"
+    ampWebUrl: "https://www.rollingstone.com/culture-council/articles/what-creatives-have-gain-from-ai-1234786369/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/what-creatives-have-gain-from-ai-1234786369/amp/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Rolling Stone
+      domain: rollingstone.com
     quality: 59
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/OLEUfJnAA9_fbxcy7EG7xA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/a24760a8eb4337b11d17de00818eba4f"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Sioux Falls workshop on using AI for your business"
-    excerpt: "Artificial Intelligence has been making headlines and waves across the globe over the past year, as more people learn how to best use the technology."
-    publishedDateTime: 2023-07-14T03:14:00Z
-    webUrl: "https://www.keloland.com/news/local-news/sioux-falls-workshop-on-using-ai-for-your-business/"
-    ampWebUrl: "https://www.keloland.com/news/local-news/sioux-falls-workshop-on-using-ai-for-your-business/amp/"
-    cdnAmpWebUrl: "https://www-keloland-com.cdn.ampproject.org/c/s/www.keloland.com/news/local-news/sioux-falls-workshop-on-using-ai-for-your-business/amp/"
-    type: article
-    provider:
-      name: KELOLAND News
-      domain: keloland.com
-    quality: 57
-    images:
-      - url: "https://www.keloland.com/wp-content/uploads/sites/103/2023/07/snapshot-2023-07-13T221051.777.jpg?w=1280"
-        width: 1280
-        height: 720
+      - url: "https://www.rollingstone.com/wp-content/uploads/2023/07/what_creatives_have_to_gain_from_ai.jpg?w=1600&h=900&crop=1"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "u92yiQLZReQZu+ttVThpzrJV3oYdF9AlN3EH59XWI9VfDHdhRtfgE+Pq7jqfn40EGDN3FoizkTjBy7CYZsPFDOzJ+0IH1kL3F+raa1vOv9US269t5o1l5EDm+DKCBH0qhwRMHRvpRrWAD0vcJOrx7GYlUvfWVu/2cE2ddGDGtfwFPdfSkyHnXHzhHWCH5eQP2RXIONToYQvzed1Qj+Ae5V6SFxtsPHDrq287BVw8/InATis5gl6n03l5sbK4xFRkd80tfx/U6feGQLSD5TCWfGTWbc3KRzfo3NpzBXfYfAoju8SAanViQwj+7IgY+JKanSKPa5xDBVlcHxW1xs9m9exNrjE43GSdkufST7Cd9uSC62gw3nAbpLib7Rjec7gxjI1XEbSIRVDVi6UkestJnFij3A6AT3V2LybcP6L9gbOU9dSY8UuSpVwn/GMJgia/E8TuCGXxiZVvsj396pBIrHFuxsMuyFwA+b6d4Z5Rlha3y90BQL5BrrutqjE68axyNvGXZwQ7nOCqSi8oi/SRpw==;6g5Je904aWA8wK2o6I0njg=="

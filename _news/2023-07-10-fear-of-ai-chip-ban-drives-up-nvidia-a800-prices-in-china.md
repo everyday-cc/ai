@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel joins Nvidia in tackling the US ban with an AI chip for China"
+    excerpt: "Intel is producing a modified version of its AI chip – the Habana division's Guadi 2 – for the Chinese market."
+    publishedDateTime: 2023-07-14T04:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/intel-joins-nvidia-in-tackling-the-us-ban-with-an-ai-chip-for-china/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_398463883-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "lUMNCJyh5d8vtDkGL9xCdHnyu4Qczh/atWsezRGywoSVmuWE9P3gATDpm9O8XCByZVPSbYnNJBnpokhRykxqQ5jsFXDqre1jJszuuYnUZ7O7GoMzWdfJ/AZMvN7bbAZ1akFQDS/IuHYejau6yX9ov/FX+9Yqrxk/9ZLmwsFY82a4C4LNUX1SpMtqC0dCBrIhjMw3UYsBAURXj+wdaiJfC1LedNlW0Otn+2ss8h48OG5ag/7CGKiZNT2G/Vt6mqIxLVjDjzktVH0FiEdf5WpdTqD4iePI/UVb8kjMFDVFkbw7q+KzI+zx3OaAMso2Oc/MIFq+julVgXZZNCTvRQq5hpy/ll2hTLgSqa8h2+MYoPRmtZgPGDYj4Ce0NMoBpj8gCMM31K5LjyAHSWO4WCpql4ejhT6+Vl8j6jxLfaNs78+LAqlrX/okYzqyPH3lquyQauzmgkts/SEfaaP7OEOX1D2CeHIk8uuWH2pCxiKaFA+BLjLhQKGPDZHW1HwTkibtcHl1Z/Ns8/jkPr4Kbh28Yw==;qkdH69wGx20Fep7iiP8aSg=="
 ---

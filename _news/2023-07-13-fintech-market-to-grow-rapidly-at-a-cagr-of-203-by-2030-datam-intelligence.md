@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "2030, Artificial Intelligence (Ai) In Fintech Market Size 2023 | Swot And Pestal Analysis | New Report Of 116 Pages"
+    excerpt: "Artificial Intelligence (AI) in Fintech market size is expected to expand at a CAGR of 28.6% during the forecast per"
+    publishedDateTime: 2023-07-14T05:28:00Z
+    webUrl: "https://menafn.com/1106601738/2030-Artificial-Intelligence-Ai-In-Fintech-Market-Size-2023-Swot-And-Pestal-Analysis-New-Report-Of-116-Pages"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?836492"
+        width: 371
+        height: 250
+        isCached: true
   - title: "Investing In Fintech - A Closer Look At The Opportunities"
     excerpt: "The fintech industry has experienced remarkable growth and has become a key player in reshaping the financial landscape. Fintech, short for financia"
     publishedDateTime: 2023-07-11T03:12:00Z

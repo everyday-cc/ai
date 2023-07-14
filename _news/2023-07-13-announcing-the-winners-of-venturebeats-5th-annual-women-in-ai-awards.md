@@ -43,15 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "VB Transform 2023: Announcing the nominees for VentureBeat’s 5th Annual AI Innovation Awards"
-    excerpt: "As enterprise technical decision makers from the artificial intelligence (AI) and data community get ready for VentureBeat’s flagship event VB Transform, we are excited to announce the nominees for the 5th annual AI Innovation Awards."
-    publishedDateTime: 2023-07-09T12:06:00Z
-    webUrl: "https://venturebeat.com/ai/vb-transform-2023-announcing-the-nominees-for-venturebeats-5th-annual-ai-innovation-awards/"
+  - title: "Announcing the winners of VentureBeat’s 5th Annual AI Innovation Awards"
+    excerpt: "Capping two days of hearing from enterprise AI and data executives and leaders during the VB Transform 2023 conference in San Francisco was the announcement of the winners of the 5th annual AI Innovation Awards. This year’s conference and the awards were centered on “Get Ahead of the Generative AI Revolution.”"
+    publishedDateTime: 2023-07-14T04:04:00Z
+    webUrl: "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-ai-innovation-awards/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 42
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/VBDM0139-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "FAJSFNGHkETZsSFUUGwfa7CljwQ4AtRtezHQX0DJu20jKFtk7rCIffj5yqh+xm0GSkFv2bXzfzzApQrTP2e7W3jcu4YLwaR6g7nrDTj6JRPeRUJkijjVBkNpMPRqh2Kh2WsFSHEYCzoKvRZK8wrRmwfAr9hcy24RmTTSlkxdSXbudKsXGhdfv7xdnA5NbIaSjl3/49qRcZJtVWCWRsaBtkwGCQM8/uPt6kufX/DQRbbJj067GL6Hf95pISj4lSpdj4aVc/TrHFoRqiK1EjMI6Yrhn459iPWcPWW4+a9Uk1gy++UEXbc4tnAW/fIOGr/KJkVHOs6eT97LXxot+0seyMGXH1IxZ7OLHcZrULXOLbwjQrbqfMBSn3xgUhfuP336Z8sD5e7FvPfHV3/YD7tZSDitAdKtpueHq2Qn0yMhyiBSz0RU47rKd5jVal6wr5uftvfuJidey49XX/DGQGZvnqTCK11JB8Vl8MWZnGii4y0LYk5ozBLpmGem1czLbYk6PdaXonKmnnI3xs0F1oWAtg==;wgnY+SXzxI9BfeFdDSn5Vw=="
 ---

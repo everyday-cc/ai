@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Infinite Canvas raises $6M in funding, launches AI-powered Discord game"
+    excerpt: "UGC studio Infinite Canvas has raised $6 million in new funding, which it's putting towards GenAI projects such as new game CreatureCraft."
+    publishedDateTime: 2023-07-14T05:19:00Z
+    webUrl: "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/banner_black_teal.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Gamercraft raises $5 Million for AI-powered skill- gaming platform"
     excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Gamercraft has raised $5 million in funding for its AI-competitive gaming platform for skill-based console and PC gaming."
     publishedDateTime: 2023-07-10T13:15:00Z

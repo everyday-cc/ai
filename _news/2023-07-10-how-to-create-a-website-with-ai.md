@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/au/business/software/how-to-create-
 webUrl: "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.rollingstone.com/wp-content/uploads/2023/07/what_creatives_have_to_gain_from_ai.jpg?w=1600&h=900&crop=1"
         width: 1600
         height: 900
+        isCached: true
+  - title: "How Framer and other AI tools can help you build your own website"
+    excerpt: "Artificial intelligence tools can now help you build a website based on your text prompts. Framer is one of them—here's how to use it."
+    publishedDateTime: 2023-07-11T14:31:00Z
+    webUrl: "https://www.popsci.com/diy/use-ai-to-build-website/"
+    ampWebUrl: "https://www.popsci.com/diy/use-ai-to-build-website/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/diy/use-ai-to-build-website/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/07/11/how-to-build-a-website-with-ai.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "4rXJMHO9ScrumaO0hKclhsmulCXfLUWEGHEuLL6d6NNnNYAW7GMfwuI4UtJ3/I0VqjOagdEhe4zSFoR36uI7JFgh/70Dp+s4HSw3dbmlGQv4yXk4s/7XHw4ch7HFqPLU/7ygr3xdWKhIyG8tFqHNCqhI6wAc1pBNWfYc2NuZ4RyUDKh9oszJ4eI6zLRwCIIgOOeQB7KTB8HWWfzg6Hl6Jn5wujubfivNDMzSg6Cij8uzbWUI092+Itc/vh8gE6avSX0cZ1mlPSc7BTwDIHyppI6qiIUQfhrqJWjNXkI1yPBwhCoDb3FovMRP8jdm6L8aQ9ATwFIG6fyEet4iNPppdcMcuWIB528Hwlh1n9BMLU7vzyAdzkNO8ch2Kx/VshHicz2gOu+4Q2nINa7IJ/Z645OimAoGaONWNyEyN5xnultU0gesmeG/w4VepslA7gBMlhBaonyyfx7LyS63dCQiOBCRsr7T6x4zePdyuX2PFML2/6fzF6K+fR922Bwos32s6UgAkpY+w26ZTy2uX1BL5g==;uDlpoobbtVl5BEcE74dQ/w=="

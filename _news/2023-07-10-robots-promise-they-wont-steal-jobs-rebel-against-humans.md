@@ -50,6 +50,15 @@ related:
       name: Odisha TV
       domain: odishatv.in
     quality: 54
+  - title: "Why These 3 Stocks Are the Best Ways to Play AI Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Goldman Sachs recently asserted “that AI adoption could"
+    publishedDateTime: 2023-07-11T16:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-stocks-are-the-best-ways-to-play-ai-right-now-1032438538"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "D75tl/of1U9qyaLMTyVXB7nxS5eGHglvFmyHey5RCgywrolnBs0si8M3QOcdaL1YeZAyE9RpWUNoBdvBYFl2SoYYlnHhPY9P6K1Wg3DAj+f19FfN2npfjXXrlhBZhUHWtd0ZUG66UbjsSqhKrtlNp1bVAb7K3iXVOgzVC2bneIOcGnpqjJpRGwXrltx3Mvt/SFSIxrVJYSHT6LxzBHygoMLSIWOy8HYNbcM7BAIvLb5zV8NXsK4oYKMLikfoJ29uqQfZQJrbzprK5V9DzEJLPxw7M+U0XC68zaOScrEqDS6lAtkj7/ZYMYAwSFF1di2cIvGZYwZpnBF1TnI2s93UPRPcwWupI9U6CwCbKc8GjvgXZoLnxb/heZYdzxEtXRRTt8YeHP2qtT74zN5KChCD+aFd/G0CQmBd6NS3AVSTkVVrHaQR4S0mF+YwwNeQzjPQ5+fb9s5jn6iPC/svhgu+hKqQNgG0CE1JozuGlwC751GUeFbVsbrpAjptvXO/UPTcsRreN/gGns1aDaGxLkGQPQ==;eEFc3HyYgsavz0TFhrKDTw=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 2560
         height: 1677
         isCached: true
+  - title: "How Framer and other AI tools can help you build your own website"
+    excerpt: "Artificial intelligence tools can now help you build a website based on your text prompts. Framer is one of them—here's how to use it."
+    publishedDateTime: 2023-07-11T14:31:00Z
+    webUrl: "https://www.popsci.com/diy/use-ai-to-build-website/"
+    ampWebUrl: "https://www.popsci.com/diy/use-ai-to-build-website/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/diy/use-ai-to-build-website/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/07/11/how-to-build-a-website-with-ai.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "GK2Y33EFR6jsNw5fVpQFDBDxoQoWjT9BM+tWPfiJ0BlkK5UmrR/yM1iR9nR27urmTKhp1K0KG9ubmXhLe3aeDwRq+TgstgBvUnMCTa4QZoVoOjsmGMoF9I6M4AURJzWie9TKZLLIYdmihz5pwo4ZUNcYidjrYJZgY3ntyEeYAmQrDd29HgnN6mn1Ib/sYUfr0W1YdAUJQ5AnKAqvGJDz2fCM4y6VSA0lmYoan8zQTLesxuGFqEPAOLYIr/z8ggc6auic9h59pl52GtEOTrP77l+0ir0b45UQjeBbIM2ebMBYhHlkmXx9k+6lUtG1Z+8+WBuvuR5hDGvDkySHW7IKv6McTeCfMLawI9O/3fBgh2fX1lIXM3A72qj2NJvn0q6skKRciTcPzs16Dadt1ug0mAqDiymxjNMurwJxclyH9lDu6V+pWB2B/b/yrKX06b2dhPGNftyFhbKOpU2rlhyjHr4lLCEh0GOeGY1ti29y7u/l2jvJ2PSBlHZ+emS5rNlQtfHmNXpOE4s+jbbhJMw56w==;hlVKON2PAw7OrVXt25ZF6w=="
 ---

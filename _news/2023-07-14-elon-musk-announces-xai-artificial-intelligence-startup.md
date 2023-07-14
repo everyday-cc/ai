@@ -113,6 +113,22 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Elon Musk launches AI startup xAI"
+    excerpt: "Musk said this was part of efforts to build 'safer AI'"
+    publishedDateTime: 2023-07-14T05:52:00Z
+    webUrl: "https://www.exchange4media.com/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 57
+    images:
+      - url: "https://exchange4media.gumlet.com/news-photo/128561-musk.webp?w=500"
+        width: 500
+        height: 271
+        isCached: true
   - title: "Elon Musk launches xAI, his new artificial intelligence startup"
     excerpt: "ELON MUSK IS finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched yesterday and its goal “is to understand the true nature of the universe”."
     publishedDateTime: 2023-07-13T05:53:00Z

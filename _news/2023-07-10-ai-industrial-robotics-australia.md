@@ -7,7 +7,7 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-ro
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/australia"
 type: article
 quality: 69
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -120,15 +120,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 54
-  - title: "AI Industrial Robotics - India"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$162.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$ ..."
-    publishedDateTime: 2023-07-12T09:30:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/india"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 49
   - title: "AI Is Not the Solution to the Customer Experience in Australia … Yet"
     excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
     publishedDateTime: 2023-07-11T18:22:00Z
