@@ -41,22 +41,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
-    excerpt: "ActivePort and Radian Arc join forces to enable high-performance AI. The collaboration aims to leverage Radian Arc's AMD-based GPU platform, already installed in a rapidly expanding network of 50 ..."
-    publishedDateTime: 2023-07-10T01:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33159070"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159070"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 68
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "GPU-as-a-Service accelerates AI in telecoms"
     excerpt: "ActivePort and Radian Arc join forces to enable high-performance AI via GPU-as-a-Service and easy deployment of models within their networks."
     publishedDateTime: 2023-07-10T11:35:00Z
@@ -84,6 +68,20 @@ related:
       - url: "http://img.yicaiglobal.com/src/image/2023/07/27871284174533.jpg"
         width: 770
         height: 510
+        isCached: true
+  - title: "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
+    excerpt: "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ..."
+    publishedDateTime: 2023-07-10T06:19:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/2149923/A_new_era_of_AI_Innovation.jpg?p=facebook"
+        width: 2423
+        height: 1269
         isCached: true
   - title: "Activeport, Radian Arc Expand Relationship to Accelerate AI Deployment in Telecoms"
     excerpt: "ActivePort and Radian Arc are excited to announce an expanded relationship that will accelerate AI deployment within the telecommunications industry."

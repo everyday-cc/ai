@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-d
 webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-double-up-potential-over-the-next-12-months-1032438508"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -24,6 +24,15 @@ topics:
   - Facebook AI
 
 related:
+  - title: "3 Doomed AI Stocks Destined for Disaster"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Venturing into the intricate world of artificial intelligence (AI) stocks can"
+    publishedDateTime: 2023-07-14T12:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-doomed-ai-stocks-destined-for-disaster-1032447370"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "3 Battery Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to artificial intelligence, there’s no guarantee of"
     publishedDateTime: 2023-07-10T17:54:00Z

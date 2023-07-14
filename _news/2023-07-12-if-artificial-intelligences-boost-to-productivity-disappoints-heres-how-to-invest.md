@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7?amp"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Headroom Partners with Visual Collaboration Platform Lucid Software to Boost Productivity with AI-Powered Video Conferencing"
+    excerpt: "Headroom, a startup offering embedded AI-powered video conferencing technology, announces its integration with Lucid Software, the leader in visual collaboration software, to enhance the workplace collaboration experience by allowing Lucid users to hold Headroom virtual meetings directly inside the Lucid Visual Collaboration Suite."
+    publishedDateTime: 2023-07-14T15:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/14/9848600.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "eFDWX2Z1hntNymIFghW/AZrGwzSEYhn4GzM4y7KhwkKRxg2tf1iy2jGnAhrmCSbQXWevlW3hraVNsHIxiwSWA/ra0Y5uDbR64JS8I7HEELv/VW+RVpsRggo5AKKmCNf5S14JcGtDltAbEGq3Rzwm184IUiS8BFTcpu1z2aye4EywXCzSFeN3LF4M6AB4h75KoCSGJBQXCgynRzFZVRibGR4YU/j336XHIgnaWT8ZtuHX/sbj5YEP+1D0mS4OpBJ55pFooEOgs7l9EDvpF4cJUZXSDTd0HXkc+NhmBmwgoFFUa5RDywaB1uuQ+YwHKZu9y2fIWMmX7Unt2bXGGsL5aNLEQIPndyxmAIPceOY7NCQOGxTI+aTkcY/nB1RQgRY19zVA2GIdoDZo1NH2aZc/PMbFhlUdJlQfQttnk1IDQON6neWS84E+SOUvgz45oRrPhIpuADLYNjSzuJSS32K4dnGpmfcTOYst2wxMAkX4Ak9g9NfjhWAFqGeCPTqArNtLmRzHVym1cp5UcmDPBrRYQw==;KtqT/PaswP/AZFct6DXBpQ=="
 ---

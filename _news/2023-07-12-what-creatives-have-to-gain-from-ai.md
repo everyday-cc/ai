@@ -57,6 +57,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Train AI models with your own data to mitigate risks"
+    excerpt: "Foundation models provide a good platform from which organizations can build on for control of their artificial intelligence training data."
+    publishedDateTime: 2023-07-14T08:14:00Z
+    webUrl: "https://www.zdnet.com/article/train-ai-models-with-your-own-data-to-mitigate-risks/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "GK2Y33EFR6jsNw5fVpQFDBDxoQoWjT9BM+tWPfiJ0BlkK5UmrR/yM1iR9nR27urmTKhp1K0KG9ubmXhLe3aeDwRq+TgstgBvUnMCTa4QZoVoOjsmGMoF9I6M4AURJzWie9TKZLLIYdmihz5pwo4ZUNcYidjrYJZgY3ntyEeYAmQrDd29HgnN6mn1Ib/sYUfr0W1YdAUJQ5AnKAqvGJDz2fCM4y6VSA0lmYoan8zQTLesxuGFqEPAOLYIr/z8ggc6auic9h59pl52GtEOTrP77l+0ir0b45UQjeBbIM2ebMBYhHlkmXx9k+6lUtG1Z+8+WBuvuR5hDGvDkySHW7IKv6McTeCfMLawI9O/3fBgh2fX1lIXM3A72qj2NJvn0q6skKRciTcPzs16Dadt1ug0mAqDiymxjNMurwJxclyH9lDu6V+pWB2B/b/yrKX06b2dhPGNftyFhbKOpU2rlhyjHr4lLCEh0GOeGY1ti29y7u/l2jvJ2PSBlHZ+emS5rNlQtfHmNXpOE4s+jbbhJMw56w==;hlVKON2PAw7OrVXt25ZF6w=="
 ---

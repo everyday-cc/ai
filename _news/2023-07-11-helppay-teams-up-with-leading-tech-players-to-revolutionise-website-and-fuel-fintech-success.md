@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/guest-articles/company-news/helppay-teams-up-wi
 webUrl: "https://itwire.com/guest-articles/company-news/helppay-teams-up-with-leading-tech-players-to-revolutionise-website-and-fuel-fintech-success.html"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -25,24 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing HipFinity: Pioneering Fintech and Payment Solutions, Exceeding Expectations with an Unmatched Customer Focus"
-    excerpt: "Born out of an unwavering dedication to service, HipFinity couples a visionary perspective on payment technology with groundbreaking Fintech solutions. Our credo centers on comprehending our client's unique requirements and existing pain points,"
-    publishedDateTime: 2023-07-11T18:45:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/11/9846476.htm"
+  - title: "Why These 7 Stocks Are the Best Ways to Play Fintech Right Now"
+    excerpt: "Thomas Niel, contributor for InvestorPlace.com, has been writing single-stock analysis for web-based publications since 2016. The post Why These 7 Stocks Are the Best Ways to Play Fintech Right Now appeared first on InvestorPlace."
+    publishedDateTime: 2023-07-12T20:27:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-these-7-stocks-are-the-best-ways-to-play-fintech-right-now"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Construction Fintech Startup Trunk Tools Announces Launch with $9.9M in Seed Funding"
-    excerpt: "Trunk Tools, a construction-focused fintech startup that addresses the skilled labor shortage by helping workers get paid faster, announced its launch out of stealth with $9.9 million in seed funding."
-    publishedDateTime: 2023-07-13T18:31:00Z
-    webUrl: "https://www.constructiondive.com/press-release/20230713-construction-fintech-startup-trunk-tools-announces-launch-with-99m-in-se/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "ESG Fintech to Play Critical Role in Net-Zero Journey"
+    excerpt: "As the world races to achieve net-zero carbon emissions, the financial services sector is facing the challenge of reducing its financed emissions. Against this backdrop, ESG fintech, which leverages data and technology for environmental,"
+    publishedDateTime: 2023-07-10T03:49:00Z
+    webUrl: "https://fintechnews.sg/75674/green-fintech/esg-fintech-to-play-critical-role-in-net-zero-journey/"
     type: article
     provider:
-      name: Construction Dive
-      domain: constructiondive.com
-    quality: 0
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/ESG-Fintech-to-Play-Critical-Role-in-Net-Zero-Journey.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "FINEXPO Brings FinTech Industry Leaders and Enthusiasts Together at FinTech Festival Asia 2023"
+    excerpt: "FINEXPO, the world's leading event organiser, announced today that it is hosting its first-ever FinTech Festival Asia (FTF Asia) on 27 and 28 September 2023 at the Royal Paragon Hall in Bangkok, Thailand."
+    publishedDateTime: 2023-07-10T10:15:00Z
+    webUrl: "https://financialit.net/news/fintech-startups/finexpo-brings-fintech-industry-leaders-and-enthusiasts-together-fintech"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 12
+    images:
+      - url: "https://financialit.net/sites/default/files/bfsi_11200x628-px.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "China’s Hundsun Recovers After Fintech Firm Refutes Rumor That Ant Will Follow It Into Financial Software"
+    excerpt: "Shares in Hundsun Technologies halted their precipitous decline today after the Chinese fintech software developer said that rumors that Chinese fintech giant Ant Financial Services Group is preparing to branch into financial IT software in direct competition with Hundsun are not true."
+    publishedDateTime: 2023-07-12T07:22:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinas-hundsun-recovers-after-fintech-firm-refutes-rumor-that-ant-will-follow-it-into-financial-software"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 7
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/27796777983685.jpg"
+        width: 770
+        height: 510
+        isCached: true
 
 secured: "uw40aqL2GI7KAmmCX6IkzZ9TR+6mJ5rACcSpqtwIHYaOgXAfdVUshr6Qbg2VAEL4bvjLbJOq2mXQsnpLE7nqs0xeJP+Nj2ejCNlYbWXkP61hXhr8SyJEowFYhIyON+TT09fbyUW+IOkOk3H2QAehjPZumdHA3fLeetc35r9z19Z3dRx3Er3J+Kx7Mi5XplMtT1rHyv2UeO/maVz3tMR+9p3hnex72SVOal084AldQGYqZH336UyWm1/1XH9af8zTkjPPsBluxVxIM2ceSRKSBu7Tqk0bPjTtNW7ovmes4lKeowHyA4yqqe4TWUn6dnHNYYKCB9Vfv4+DlriA129koFHAGiEi8YEjO/pSkuKazVY=;2Lvs9EItYOQXZBXgA7ej7A=="
 ---

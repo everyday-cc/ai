@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market to Grow Rapidly at a CAGR of 20.2% by 2030 | DataM Intelligence"
+    excerpt: "The global artificial intelligence market growth is driven by the increasing need for automation and the rising demand for personalization. Also, the"
+    publishedDateTime: 2023-07-14T11:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33228915/artificial-intelligence-market-to-grow-rapidly-at-a-cagr-of-20-2-by-2030-datam-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33228915"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33228915"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "FinTech Market to Grow Rapidly at a CAGR of 20.3% by 2030 | DataM Intelligence"
     excerpt: "DataM Intelligence 4market Research\"The Global FinTech Market reached USD 140.1 billion in 2022 and is expected to reach USD 610.0 billion by 2030 and is expected to grow with a CAGR"
     publishedDateTime: 2023-07-13T01:36:00Z
@@ -41,20 +57,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence Market To Grow Rapidly At A Cagr Of 20.2% By 2030 | Datam Intelligence"
-    excerpt: "On May 23, 2023, Google announced that it will be launching Product Studio, Google's new generative AI tool that allows Google Shopping merchants to quickly edit and customize their product images for free."
-    publishedDateTime: 2023-07-14T11:30:00Z
-    webUrl: "https://menafn.com/1106603038/Artificial-Intelligence-Market-To-Grow-Rapidly-At-A-Cagr-Of-202-By-2030-Datam-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910908"
-        width: 437
-        height: 250
-        isCached: true
   - title: "Autonomous Vehicles Market Size is expected to grow at a CAGR of 8.7% between 2023 and 2033"
     excerpt: "In 2023, the autonomous vehicles market size is expected to be worth US$ 30,539.0 million. The revenue from sales of autonomous vehicles is anticipated to reach around 70,331.5 million by 2033, growing at a CAGR of 8."
     publishedDateTime: 2023-07-10T05:09:00Z
@@ -70,6 +72,6 @@ related:
         height: 300
         isCached: true
 
-secured: "3V+rjqsXpd/S4+fpLnR3exEDIbA86CFidrIZOFsYnRh60SISFOVUDSZ/G9WWbqNzxGJm8VZcg9Rb/vAW1SP+tI1b5g2hzG/NAIXvNsdkaoqBorYeZrQ1ju0No/LeYYz1OXp4xr56Wnxu59P35y/cTL6xEUoSMHxbqZhDSlBY33dGgIx7SiFpeg7DnDxtoYsri6hOgXyB7cv3RgrDfWkAKTSiiCCZ3RUVtUiuYApaqYmOC2gompVNKXFkz3I0CkQA6bJyDHrMG8jUY28Nl3+k5xKGCjwfRz3wsZARIBUKON6hXjI/zgzAU+fW8X/9qp+d30Xr0iH+0DK5H3PZ6UGaX6iFJa7nMm9E04WnxrxEtVU=;i1h8lapLNEaYaEmu0CidIA=="
+secured: "0tqkw3wY9Dp/l/CqAdVPLp+UPd2RCuyeE+rezvu9rtPB1YWskui8TlauDoC9hUnGgF4o+kUc7haQcqvxpmAdy3DoLjhExO0vBab7laGqp6HMLTVH7ihwfSUgBy/iMennqS9G9YzAJ+dwp9kHSbXJz5CfOBfNOni+qfexYHQfdPlCcsOzCMxWoFCGX5LCpNoQdVpMqLiPZUMko/TUYa/zpLL+Jj9fzSv2bc9R3SeYTF0WkCkZVwO176NY7U/hb9KeYrpD4/a/QK7tbC0tYtQwbn3Waeioe2kZAV6b4kt+g01iUmTyz5lVntIEsVBiRylNTwsePPIKhcWGLAQxosnIKAnCLXXccTxRV1XKv4zgeFU9nL13aRexF4GgQ+AJTodQKDAuILyzonWh7KL9V48j2h4fRgJEfsQfNvD/hz6Xf2oIjE9VYAoA6evc+qlKJJ+0vIOx7orKIRKQNVOhELVpzp5AcPy/TEm5IVHZIzGQWkHbCYMH7oSbMBH1d3oWcMv/Qcpdvv4wC7jTpaUA9oCYQg==;HT5sg999HvRa3r/OUWox5Q=="
 ---
 

@@ -39,6 +39,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Artificial Intelligence Market to Grow Rapidly at a CAGR of 20.2% by 2030 | DataM Intelligence"
+    excerpt: "The global artificial intelligence market growth is driven by the increasing need for automation and the rising demand for personalization. Also, the"
+    publishedDateTime: 2023-07-14T11:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33228915/artificial-intelligence-market-to-grow-rapidly-at-a-cagr-of-20-2-by-2030-datam-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33228915"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33228915"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "FinTech Market to Grow Rapidly at a CAGR of 20.3% by 2030 | DataM Intelligence"
     excerpt: "DataM Intelligence 4market Research\"The Global FinTech Market reached USD 140.1 billion in 2022 and is expected to reach USD 610.0 billion by 2030 and is expected to grow with a CAGR"
     publishedDateTime: 2023-07-13T01:36:00Z
@@ -54,20 +70,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Artificial Intelligence Market To Grow Rapidly At A Cagr Of 20.2% By 2030 | Datam Intelligence"
-    excerpt: "On May 23, 2023, Google announced that it will be launching Product Studio, Google's new generative AI tool that allows Google Shopping merchants to quickly edit and customize their product images for free."
-    publishedDateTime: 2023-07-14T11:30:00Z
-    webUrl: "https://menafn.com/1106603038/Artificial-Intelligence-Market-To-Grow-Rapidly-At-A-Cagr-Of-202-By-2030-Datam-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910908"
-        width: 437
-        height: 250
         isCached: true
 
 secured: "zF0462goFm34vkYeRGed9XqQ+FJPJDizUom3wY+uoNpFqslM/QVsmAXe37tRYhBu6K73UiJ8hQ87nQas1ciCjlNm0fN1ctvoVqYK3WIVhF00ipSFpNUGDexAR6V607B1oL8ggTl135rrnEG75PDhhg9lMM1AVFWosp2l/SOS3Q1shnot3EbXe7c7AFd8El6hhG+TpUXmpUWAsMYddnm+pWGOPJJOR+DBIqhwNU3JfiNi14cKQSx3RnuG4mCYxguxbkYnZJjVQd7r/tMIGCAfnt1Quj7b4wl73U+nVjlyGDf2iDSbZXR+cvLKavsP7Jckh4KTnDVli3br9VUffxrmA7VmL+fgbm+phzmqyW+kv8g=;LiinV+BWJPXQemICGoY+aQ=="

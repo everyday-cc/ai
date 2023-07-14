@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anthropic releases Claude 2, its second-gen AI chatbot"
-    excerpt: "Anthropic, the AI startup founded by ex-OpenAI execs, has released its newest chatbot, Claude 2. It's ostensibly improved in several ways."
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://techcrunch.com/2023/07/11/anthropic-releases-claude-2-the-second-generation-of-its-ai-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Google rolls out AI chatbot Bard to Europe and Brazil and adds more languages"
     excerpt: "Google says it’s rolling out its AI-powered chatbot Bard across Europe and in Brazil, expanding its availability to hundreds of millions more users"
     publishedDateTime: 2023-07-13T10:17:00Z
@@ -91,20 +82,6 @@ related:
       - url: "https://s.abcnews.com/images/International/wirestory_718684c77171b2680280b7b915eefdda_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Anthropic releases upgrade Claude 2 AI chatbot with improved safety and coding ability"
-    excerpt: "Claude 2, an upgrade over Claude 1.3, is now available as a beta chat experience for users in the United States and the United Kingdom. The chatbot is also available for business access through an application programming interface at the same price as the previous model."
-    publishedDateTime: 2023-07-11T16:17:00Z
-    webUrl: "https://siliconangle.com/2023/07/11/anthropic-releases-upgrade-claude-2-ai-chatbot-improved-safety-coding-ability/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/claude-anthropic-image.png"
-        width: 2880
-        height: 1620
         isCached: true
 
 secured: "tTUYOvEBnyg4hzfJ4oQjxXIqbhUjrXwzeG1sSuzM+/M5z4aSonVvqd+5lTK3P2FWucSPU97fBhro8PqM8hxDwXfK2+GICsGUMcFgcLwbqGcioRmSHMYm6NmQJbJhq+wpjbZ7FYtLddanNVo2dMLCu1KJ9OhVA+UsscHbElMOw9JuOyh7hCEPNFTrjR2WwVJhpjLZKVtygZpTU9HsCbrvLrgojN6X/9nkf1vJfE6xv/GT+y0doseLlnlboED6Y5S/o58edDv06WLzIcKYzd8CHTBjg0MEK3jbtFnXv4WAYqZ7GTsv4/APwjc9fG2Wbw15cpkzZeMVH0fm0d3RAp9goeawLnBn4ikgggVBSCxelSgWjAzyHx1TXugQ4SKJGuVAS3xD6d8U5Ug2BazouikySWcTuiDRJxukmP9loe7IG4fDu+16sx0PFzmfvvplpPQAc7b4s0oDJDtRSCRqm3uRGwWa7kgf1lqAGSbVha+2vGvVDggtuvuQgFTR58oajh4kOOQngf/sBiIeT2v/PTi42g==;DekWHG2A1rOZdOZiOG+qFg=="

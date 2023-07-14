@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strik
 webUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Hollywood Actors Strike Will Revolutionize the AI Fight"
+    excerpt: "Bold-faced names like Meryl Streep and the halting of production could give artificial intelligence a whole new level of awareness."
+    publishedDateTime: 2023-07-14T13:00:00Z
+    webUrl: "https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "ZoUEtIt9x+KLqTxDfCGR7Owyrf6Ef12J0uR/UQ1Yf6+2TMyTdxqAUG8H7KT4uvhrx6KttIqrk0gRlc1X1pm3qfH5bREsxQhtTp83NsYnSU3afDCpZ8KKyb8cVsCUOuIJf/DtzEbw1c4hF2xAwc7iUsO6B/8EFn5XZSSsiWHmwBxDjzf1rEeJtlq9e0d+futUIeSjxkbKeoGVGLfZr8dUznA1nUa3lnSLyfPaZ5nX7BDdnm94L+kzvqJuQ6uKWhW/LBAOabaqXFnsF7FhpR5JSW76ouApw5/O0x+jEa9oH82TpsUIYIOOq5S5XQNojYb81r6mhnHofQ90NTx1VODlUzirpUAjWHj6Dz7mPf9v+y4=;oxyBjYBultnuaUDGWIWw2A=="
 ---

@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "The Role Of Generative AI And Smart Data Extraction In Accounts Payable Automation"
+    excerpt: "A fundamental use case for generative AI within AP automation is its capacity to extract and process data from invoices."
+    publishedDateTime: 2023-07-14T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b001d6688702d8dcee1991/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "NTT’s vision for AI adoption — and why collaboration is key"
     excerpt: "Explore NTT's approach to gen AI adoption, sustainable AI practices and why collaboration is a competitive advantage."
     publishedDateTime: 2023-07-13T05:09:00Z
@@ -80,6 +96,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM0153.jpg?w=1200&strip=all"
         width: 1200
         height: 739
+        isCached: true
+  - title: "Why generative AI just hits different – and why organizations need to embrace it now"
+    excerpt: "Learn how gen AI burst onto the scene, why it's not going anywhere and why business leaders need to embrace it, in this VB Transform panel."
+    publishedDateTime: 2023-07-14T14:45:00Z
+    webUrl: "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screenshot-2023-07-14-at-10.26.42-AM.png?w=1200&strip=all"
+        width: 875
+        height: 467
         isCached: true
   - title: "The transformational impact of AI"
     excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"

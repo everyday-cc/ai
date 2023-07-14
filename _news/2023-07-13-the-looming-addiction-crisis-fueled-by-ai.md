@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-adderall-targeted-advertising-opi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AI, Automation And The Global Productivity Crisis"
+    excerpt: "As the workforce is stretched to accomplish more with fewer resources, the use of AI combined with intelligent automation will drive business agility."
+    publishedDateTime: 2023-07-14T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/ai-automation-and-the-global-productivity-crisis/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "1Gw43VEN2AJsRK2sKBvYFH+nSkC8OcZofCNvc22+V0d449UDdGt6gxV2MliW8+DYyL4cPKb+kdV4Se+k51wedxU1csbO3oFe/j+QL+Yr2CEgts2ZmbzCcJ/AwMqvwVVyRzR0qZ0iMZT7Cpk2F1O+JrJ8cJek6/W5cZWGzbePJHOYgkITr9MHw0ZmFMDboByUwjvkcR6VkZmgjtwoKfSHgiiSnmlNSRu2ABUGPVNJMjO5pNKdUi8ZsYz+y/khI/a5KqY1C81+ncRy5DF/FT91M/zPZrEVQCa2sWTEl3/Kktfx53J2Vwg3JK16uJLWe45gEX2wtOtFDCGrjdlEpspXQD+UOk4A6f46unEKjBpXCphzwWEi7Tnb7rXvHCwmWJ6Wqk50ozKqbuInEu2XdFC3wLcH+/15z8qwnb/CCuA0hf14EsGKVowFp3E1U/K5Q1Wk5yiD7fvQkS6LuIO5CPZOiRJdNVvgxZXQH756IZTWT2Gs3NwVMGrcpMAPdB4rM1ExvKsHFuVnuIE0ChojkR9Wiw==;3bDg7LwAkJ/XD6Kz9cIlwA=="
 ---

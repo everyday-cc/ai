@@ -68,29 +68,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anthropic releases Claude 2, its second-gen AI chatbot"
-    excerpt: "Anthropic, the AI startup founded by ex-OpenAI execs, has released its newest chatbot, Claude 2. It's ostensibly improved in several ways."
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://techcrunch.com/2023/07/11/anthropic-releases-claude-2-the-second-generation-of-its-ai-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "Anthropic releases upgrade Claude 2 AI chatbot with improved safety and coding ability"
-    excerpt: "Claude 2, an upgrade over Claude 1.3, is now available as a beta chat experience for users in the United States and the United Kingdom. The chatbot is also available for business access through an application programming interface at the same price as the previous model."
-    publishedDateTime: 2023-07-11T16:17:00Z
-    webUrl: "https://siliconangle.com/2023/07/11/anthropic-releases-upgrade-claude-2-ai-chatbot-improved-safety-coding-ability/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/claude-anthropic-image.png"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "Google Bard now in Europe, supports 40+ languages, pinning chats, and more"
     excerpt: "Google is giving Bard its \"biggest expansion to date\" by coming to Europe and Brazil, as well as supporting additional"
     publishedDateTime: 2023-07-13T07:01:00Z

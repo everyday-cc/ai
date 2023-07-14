@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/au/business/software/how-to-create-
 webUrl: "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Train AI models with your own data to mitigate risks"
+    excerpt: "Foundation models provide a good platform from which organizations can build on for control of their artificial intelligence training data."
+    publishedDateTime: 2023-07-14T08:14:00Z
+    webUrl: "https://www.zdnet.com/article/train-ai-models-with-your-own-data-to-mitigate-risks/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "4rXJMHO9ScrumaO0hKclhsmulCXfLUWEGHEuLL6d6NNnNYAW7GMfwuI4UtJ3/I0VqjOagdEhe4zSFoR36uI7JFgh/70Dp+s4HSw3dbmlGQv4yXk4s/7XHw4ch7HFqPLU/7ygr3xdWKhIyG8tFqHNCqhI6wAc1pBNWfYc2NuZ4RyUDKh9oszJ4eI6zLRwCIIgOOeQB7KTB8HWWfzg6Hl6Jn5wujubfivNDMzSg6Cij8uzbWUI092+Itc/vh8gE6avSX0cZ1mlPSc7BTwDIHyppI6qiIUQfhrqJWjNXkI1yPBwhCoDb3FovMRP8jdm6L8aQ9ATwFIG6fyEet4iNPppdcMcuWIB528Hwlh1n9BMLU7vzyAdzkNO8ch2Kx/VshHicz2gOu+4Q2nINa7IJ/Z645OimAoGaONWNyEyN5xnultU0gesmeG/w4VepslA7gBMlhBaonyyfx7LyS63dCQiOBCRsr7T6x4zePdyuX2PFML2/6fzF6K+fR922Bwos32s6UgAkpY+w26ZTy2uX1BL5g==;uDlpoobbtVl5BEcE74dQ/w=="
 ---

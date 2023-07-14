@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Sarah Silverman’s lawsuit against OpenAI and Meta really means | The AI Beat"
-    excerpt: "Sarah Silverman is suing OpenAI and Meta for copyright infringement. Here's what this LLM lawsuit really means."
-    publishedDateTime: 2023-07-10T21:02:00Z
-    webUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/bigstock-LOS-ANGELES-NOV-Sarah-Si-268982926.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Not Funny: Sarah Silverman Sues ChatGPT and Meta After AI Allegedly Trained on Her Book"
     excerpt: "Silverman is joined by authors Christopher Golden and Richard Kadrey in the lawsuit against OpenAI’s ChatGPT and Meta’s LLaMA."
     publishedDateTime: 2023-07-10T15:40:00Z
@@ -67,20 +53,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/577cdd44c75e672b4fa0f8d34e365956c238dc05/521_15_4449_2670/master/4449.jpg?width=620&quality=85&auto=format&fit=max&s=bca6624c1fc1e4ad6a043cc213b0eb59"
         width: 620
         height: 372
-        isCached: true
-  - title: "Mount Sinai Launches Center For Ophthalmic Artificial Intelligence And Human Health"
-    excerpt: "The Icahn School of Medicine at Mount Sinai established the Center for Ophthalmic Artificial Intelligence and Human Health in New York."
-    publishedDateTime: 2023-07-11T15:20:00Z
-    webUrl: "https://healthcaredesignmagazine.com/news/mount-sinai-launches-center-for-ophthalmic-artificial-intelligence-and-human-health/"
-    type: article
-    provider:
-      name: HCD Magazine
-      domain: healthcaredesignmagazine.com
-    quality: 48
-    images:
-      - url: "https://healthcaredesignmagazine.com/wp-content/uploads/2019/06/iriz1ktx_400x400.jpg"
-        width: 320
-        height: 320
         isCached: true
 
 secured: "f2W/lETInu1xeKdwtLdYgNdZkneFfrD3tanLL32oMVM/yllAUulokfyjMobp/x+pQADY6BlTIgos7aBilPBlRD3PVmsdAOtE+KxPOPg+qmLDCo8Da1nhmRF3SrnVPUFRG9XYWpQDmMrovdBl5Qw+7fqcCvcF46RdO2pbS8qXhGktbmd9/IiE7kgAa7gIDlIfOCzjlanuUWg+aNZ4zev2fF6gkKKWlBwuxbUaY8XIS2MvN+N7sBNKyfPuoZgeZBwLNXnl4uUO3gS5QI8uzmC6ylNiHrOIc4nanvggkyfv/UFDHwo4ff7Zw7XxR2rBV0EkwFJz+USH6uNeT4N89SP7DcAjAlPy+Q+dg20V0dp6Wl8=;hbuZ5+wW2EgY49netqN0GQ=="

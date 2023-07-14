@@ -268,6 +268,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 19
+  - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
+    excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."
+    publishedDateTime: 2023-07-14T12:03:00Z
+    webUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 13
 
 secured: "zV4WFdUK7qapoqadJVj4KMRGsM0WcXyRFBwebqo0zkeCF3ocjehttm5+jMdB3TlNDtmDZjko9CWtYf3h3uix+raxWA2LzrrHj3Mmdz9Xe/jyhgZaH98sVcPF53vr5/cdPg8l9tio1mi/AVj4F7xD/VgPOuL7pAN0q2dwRDjcQ2nN8y+yTwDuMMV7y8E8SOh9pTNDgITyELF2Eu6TF5EfhUmlAp3sgDHBGlzzeMo4SRzeU99ytDTs71xITpxPDPCNdbqV4gkzb9KjLXl65xGU5p/3NJUrC8V0u1eWGIFlwkJ1GOauxKhk1LousqmEvO30zmtibTci81wi944LJsXeswqAv9yvetNYjZKr25Dg3KtbFahS16CK+NG/KQixklBZpNzm+VTttoXnql/jdjUzQp8cDAakeBnMNZx2JIMNhzBDK9uf384CceZsF4yAYpa5ruxWktsoKXAsaADchHQ9jy/doj6MNW00NnRkzRdeUv4svU/yFRFcTL3p8yF+kBw7P5AKfMYM2zAaIcb+CL4Irg==;Cc+ce3bg8zz4dTNZtCDLnA=="
 ---

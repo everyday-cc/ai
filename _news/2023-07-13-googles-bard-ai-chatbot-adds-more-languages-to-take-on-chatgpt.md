@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT and Bard Get New AI Chatbot Rival: Anthropic Debuts Claude 2"
-    excerpt: "The chatbot is available now in open beta in the US and UK, and Anthoripc said it plans to make Claude 2 globally available in the coming months. If you're interested in seeing how Claude 2 compares with other publicly available chatbots like ChatGPT, Bard or Microsoft's Bing, head to Claude.ai ."
-    publishedDateTime: 2023-07-11T17:17:00Z
-    webUrl: "https://www.cnet.com/tech/computing/chatgpt-and-bard-get-new-ai-chatbot-rival-anthropic-debuts-claude-2/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/8f89d44a5ec05644c6771739820cbf0f63f6a093/hub/2023/06/28/b65a809e-bdf9-4ed1-a9e9-33d039e7c579/ai-text-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google's Bard AI Chatbot Now Supports Over 40 Languages"
     excerpt: "Google made its Bard AI chatbot available to the public in May, during Google I/O 2023, but only in English, Japanese and Korean to start, with more promised. Two months later, the tech giant's ChatGPT competitor now supports more than 40 total languages."
     publishedDateTime: 2023-07-13T23:38:00Z
@@ -180,15 +166,6 @@ related:
         width: 506
         height: 325
         isCached: true
-  - title: "Anthropic Launches Claude 2, a $4.1 Billion AI Chatbot Competitor to OpenAI’s ChatGPT"
-    excerpt: "Anthropic, a startup founded by former research executives from OpenAI, has entered the AI arms race with the debut of its new AI chatbot, Claude 2."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://techstory.in/anthropic-launches-claude-2-a-4-1-billion-ai-chatbot-competitor-to-openais-chatgpt/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 12
 
 secured: "M7MQgTYm95hAmGAj7cef3L5rcNVySdpEdcwPolOpUID2ldwRX0BTEl9mnwSR9ecadhhurTZDy7kO8WAGwhA5lJS/jbYQZ5xfu6glQjVIALYSRitg/NI07HRySFoMeVMkCMUOKrpS92n9hO3TW4F5PVLRy22rEa1oQVdDGK8Tes/mVBrFSbBTpkqua6w6AMnFe9lA1j1JfXfUqwQuxbQzDxD/WxACDVdf/0xlJuoefA7FNDaMmWQ+wqhNn4Yyc29jermeAgHxApfXxnTghBOE/oAE0btL5S0RllzjF4dafD0VAt/A8LcwCFp8MeZUFhJZGuEsqVdKK7iLIpcmOGl7OZwZ/vRXeh49R54FXPONlU55JYC6c/pRRz6RfoG21f1XfHN6KVdLvh38YSixsFqNoLq0PVt/chTBYFhLFwifFhJQp7RUR6RT79pglnxnZel+LyJFkwtjdZ9KQ10pBw4GPeJlCgS2UDB70XssdVjHfEXFfpE+V4TJ2v8PlZBdhdBdnhZhLjSIC03ZhgffTW5y8g==;Ob/ylKHLf0CiI3xaU/i2uQ=="
 ---

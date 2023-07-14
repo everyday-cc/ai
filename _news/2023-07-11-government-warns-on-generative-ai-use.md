@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How generative AI can democratize content creation across the enterprise"
+    excerpt: "Learn why content creation and productivity is one of gen AI's most transformative powers in this VB Transform 2023 panel."
+    publishedDateTime: 2023-07-14T13:26:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-democratize-content-creation-across-the-enterprise/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
   - title: "Consultancies have started using generative AI"
     excerpt: "Your next business strategy may be shaped by generative AI, with KPMG and other management consultancies embracing a technology that, new research shows, executives are racing to implement regardless of ongoing concerns about its accuracy and security."
     publishedDateTime: 2023-07-13T03:03:00Z

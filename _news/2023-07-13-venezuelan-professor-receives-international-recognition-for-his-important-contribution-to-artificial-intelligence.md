@@ -36,6 +36,15 @@ related:
       name: The Mandarin
       domain: themandarin.com.au
     quality: 0
+  - title: "‘They’ve been robbed into this solution’: Viewers divided over gas station requiring facial recognition for entry"
+    excerpt: "A viral repost of a video showing a gas station in Portland requiring face ID for entry is stirring debate on TikTok."
+    publishedDateTime: 2023-07-14T12:28:00Z
+    webUrl: "https://www.dailydot.com/news/jacksons-gas-station-facial-recognition/"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 0
 
 secured: "CdvB/rZWha9sk7bwDtXe2iqKghhUhkxpGKmffc+O8PmAT2FvgD1Ydke6sYTwQzTW0PmdCVp404wE8q5tGtNK3ZQj5/3YvQdFOnKpKWlqvlk2xx6YpFlP9yUwx+b7fDBajcQhb9zEsxvgnPP24PROcSsGwCCj9lCLfEDP5Vj+x8b3XUszuuXbKiMFMWWkH0aZDHiic7jUsw0ZGyg8MTnVLb0JYNBWhwH9+sWwKxEUvfcKLocRWtmvnfbuKhBcFLU9+XBTfhOBpJJFMhrD++3qbXdNatp68+akv6X630OE4zc2Y6xfGeLOD7v+MwHwEYsfyGij8wUucARDVP4C4ctHbUp1HZPTRUtUZ+HsCFwxT5cnsK/cv5rYOmazw9yXJkQnT8z/isbGqolwgUsAIJvyLOx9d0P0lTxsrNY9SQ+zFSlPQqzuS/gau4u1G+KV2s3C17qEkzy66r1Xfnzz6+gy2VYsHTG57/XkQedq0YQdqEMpoKEZSOBLU/s8MbkfhkjimNDHz6E+HnSNarB8RnR/XA==;n3OUNN7TE1lpDltcXK3PRA=="
 ---

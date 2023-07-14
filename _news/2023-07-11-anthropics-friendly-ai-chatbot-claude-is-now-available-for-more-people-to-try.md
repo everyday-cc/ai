@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/7/11/23790254/anthropic-claude-chatb
 webUrl: "https://www.theverge.com/2023/7/11/23790254/anthropic-claude-chatbot-ai-available-beta"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -22,43 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Anthropic unveils Claude 2, an AI model that produces longer, safer responses"
-    excerpt: "Anthropic announced the release of Claude 2, a more capable version of its AI model Claude that produces longer and safer conversations."
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-that-produces-longer-safer-responses/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_In_the_colorful_Pop_Art_style_of_Peter_Max_a_straigh_1c3c4cd3-510d-462a-a737-4c24e517e012.png?w=1200&strip=all"
-        width: 735
-        height: 588
-        isCached: true
-  - title: "AI Startup Anthropic Releases a New Version of Its ChatGPT Rival, Claude"
-    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, has released a new version of its AI bot, named Claude."
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-11/ai-startup-anthropic-releases-a-new-version-of-its-chatgpt-rival-claude"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 46
-  - title: "Google-backed Anthropic startup upgrades its Claude AI"
-    excerpt: "Anthropic, an artificial intelligence startup backed by Google, has widened consumer access to its chat program Claude and upgraded underlying technology that the company says makes \"Claude 2\" better at tasks such computer coding and arithmetic."
-    publishedDateTime: 2023-07-12T00:04:00Z
-    webUrl: "https://www.itnews.com.au/news/google-backed-anthropic-startup-upgrades-its-claude-ai-597867"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/documents_case_load.jpg"
-        width: 1254
-        height: 836
-        isCached: true
   - title: "Antrophic Announces Second Generation AI Chatbot: Claude 2"
     excerpt: "Over the past two months, leading companies have rigorously tested Antrophic's AI models, creating a waitlist of over 350,000 people wanting access to Claude's API."
     publishedDateTime: 2023-07-11T17:11:00Z

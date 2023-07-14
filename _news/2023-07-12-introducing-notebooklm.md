@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/notebooklm-google-ai/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/notebooklm-google-ai/amp/"
 type: article
 quality: 94
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
+  - title: "Google NotebookLM AI notebook launches"
+    excerpt: "Google, in its ongoing quest to amplify learning through advanced technology, unveiled a selection of AI first experiments at this year's Google I/O"
+    publishedDateTime: 2023-07-14T11:50:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-notebooklm-ai-notebook/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "UccQana45amxT4uKJFfeUod8tgc9BsGQdIZpf4/I+KPyMaQiiB5UpdO00duxzVShlo+rm2HOn0dB1LO/xxRzYMGuJZYLKXd2ikYsQ+TdgGQbCbPZRqJYGqXr9W2/qDRbvutVvPtBVLhWgYVD7JaxZss1+Ir//TpDHVYdBmdgwEoDhdjMzEjip8XFG4SRBa0sbffxCCdkMpBgsdYYZKtDvfsoQNCRzrjqvTyxvaKchs0uiNwGoiNopGSLUmc6S53159O5DgCL5ulXn6SrZoWfBrFgNQMxBbWNXNj5nhq8kt9lawYlIYS6YjnolROIbkm4eIBzC2Z1oX+MJ2M7IXcvK1Ch9aWqHXEh7QxlLKK8bTg=;v463owfVoOjORraVmklvsg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-emp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Will Impact the Future of Your Work?"
+    excerpt: "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where."
+    publishedDateTime: 2023-07-12T10:37:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-will-impact-future-work/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Will AI Impact the Future of Your Work?"
     excerpt: "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where."
     publishedDateTime: 2023-07-13T01:59:00Z
@@ -58,6 +72,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Build a Winning AI Strategy for Your Business"
+    excerpt: "As an example, PwC is using Azure OpenAI Service to expand and scale its own AI offerings while also helping clients in industries like insurance or healthcare reimagine their businesses by leveraging the power of generative AI. CarMax is using it to ..."
+    publishedDateTime: 2023-07-14T12:08:00Z
+    webUrl: "https://hbr.org/2023/07/build-a-winning-ai-strategy-for-your-business"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 19
 
 secured: "yI/cr/V50QCWXTgIIf36gPXHi/qzlOMVL56DXC3ZkBLZDmZzYGrzrbm0gYQBCwEewhjqUxliCuzfAiWpcDkEDoKA+SjyVHedwCvcdR7FreUVycXSLOm/OQsUNFoLRV8BZpcLk9WqG5trSiT9+/2h223pXb7/I/h2lNrVB2wVA9jwL2Mx2M9NyGw1xKRo1D8EB9nIlaBt5DfzTPc2Zv/RatfPRAZaHhBmt8JKsiM8cqD0GyYdGeWJr/njzD0koeFZkCzMECQfLE5Ap0YImQ/J1KqM1ko8nJtITtC5Y7IXO0NTHB//GokB6IfnLPT0J5+tw+1TylvUJlcy14T2GcG1HmOk8y67KpjBJEI5EqNd4/c=;mmJJHuA45Rwt+0b2AQokBg=="
 ---

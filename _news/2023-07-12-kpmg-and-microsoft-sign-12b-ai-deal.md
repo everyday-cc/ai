@@ -145,6 +145,20 @@ related:
         width: 611
         height: 457
         isCached: true
+  - title: "The cloud uses massive amounts of energy. Generative AI will be way worse. A Microsoft data center veteran warns big changes are coming."
+    excerpt: "Generative AI workloads will use up to three times more energy than traditional cloud computing task. Data centers will need radical revamps."
+    publishedDateTime: 2023-07-14T14:14:00Z
+    webUrl: "https://www.businessinsider.com/ai-data-centers-energy-cloud-microsoft-chatpgt-amazon-google-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://i.insider.com/64b06c7e29e5fd00190eedf2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "KPMG to work closely with Microsoft on AI, investing $2 billion"
     excerpt: "KPMG will work more closely with Microsoft around AI solutions. To put the money where its mouth is, it will also invest 1.8 billion euros ($2 billion) in"
     publishedDateTime: 2023-07-12T14:01:00Z
@@ -232,6 +246,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 30
+  - title: "Microsoft rises as UBS upgrades, citing stabilizing cloud spending, AI catalysts"
+    excerpt: "Microsoft (MSFT) shares rose 1.5% in pre-market trading on Friday after investment firm UBS upgraded the tech giant. Read for more."
+    publishedDateTime: 2023-07-14T11:41:00Z
+    webUrl: "https://seekingalpha.com/news/3987638-microsoft-rises-ubs-upgrades-citing-stabilizing-cloud-spending-ai-catalysts"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 29
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory LONDON and REDMOND, Wash. —  — KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
     publishedDateTime: 2023-07-11T22:00:00Z

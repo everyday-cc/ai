@@ -267,6 +267,15 @@ related:
         width: 800
         height: 543
         isCached: true
+  - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
+    excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."
+    publishedDateTime: 2023-07-14T12:03:00Z
+    webUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 13
 
 secured: "MN8/O2kt3mGp3GVr8GQ4SK4/tEGqFO9I5YPkZVYu8CAzw0j1850fT8tQgN93vNBVMHn44u2XR8eK6Tvj7jpAVk4aEI1O1Ya/o+saV6O6eIbxtONSAI7w/L28pWzIWUz7TT7ATS3YbmjHhB4hBwdoNxrmALKMBU/hS5bAgvUMyqtj+jiQHt84or+/9EIj5OEQeaGlG2Mwf/+0y0hkwaIuVanUBVYdogKGYzZGnDGdnSEJEGZk+wmOQXDeC8EBukpeI6g8eNXGrL3uD46fDsRfPpA4cqgbNbtP/KRlirPn591tpSgnDloO6eM3Xb8/pCXt2q4mOKV/P6lL9LuQP6qCx4KJ5e13Gk5hhgeVGP7oYYjav45ODKBuiL8QUElSOUkPpvpJvrAi75HCmjElp7eaiw4fmREauiUmYBWMlWiXAY43P1ldbs1QsNXS6MNvgNHnFxp07tz2GSKxej0LyKjsLmut4NCy4I+wToaxj21HrGlOoqp8GCIgJfr5LCW9AmiwAQr36O7UG9wAtz8MnPfbIQ==;appNC0rBt4rneRT0Lgkytg=="
 ---

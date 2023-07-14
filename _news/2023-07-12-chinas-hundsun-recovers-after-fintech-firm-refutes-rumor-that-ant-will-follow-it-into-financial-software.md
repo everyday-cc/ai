@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Why These 7 Stocks Are the Best Ways to Play Fintech Right Now"
+    excerpt: "Thomas Niel, contributor for InvestorPlace.com, has been writing single-stock analysis for web-based publications since 2016. The post Why These 7 Stocks Are the Best Ways to Play Fintech Right Now appeared first on InvestorPlace."
+    publishedDateTime: 2023-07-12T20:27:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-these-7-stocks-are-the-best-ways-to-play-fintech-right-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "ESG Fintech to Play Critical Role in Net-Zero Journey"
     excerpt: "As the world races to achieve net-zero carbon emissions, the financial services sector is facing the challenge of reducing its financed emissions. Against this backdrop, ESG fintech, which leverages data and technology for environmental,"
     publishedDateTime: 2023-07-10T03:49:00Z
@@ -39,15 +48,34 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Kovo HealthTech appoints FinTech veteran Eddie Chan as CTO"
-    excerpt: "Kovo HealthTech Corporation (TSX-V:KOVO) has announced the appointment of financial technology (FinTech) innovator Eddie Chan as its chief"
-    publishedDateTime: 2023-07-11T11:33:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1020368/kovo-healthtech-appoints-fintech-veteran-eddie-chan-as-cto-1020368.html?region=ca"
+  - title: "HelpPay teams up with leading tech players to revolutionise website and fuel FinTech success"
+    excerpt: "Revium leverages Storyblok to develop a simple, intuitive, cost-effective user experience for HelpPay in just over three weeks. HelpPay, the profit-for-purpose Australian fintech on a mission to empower individuals to pay someone's bill and provide assistance to those in need,"
+    publishedDateTime: 2023-07-11T03:29:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/helppay-teams-up-with-leading-tech-players-to-revolutionise-website-and-fuel-fintech-success.html"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 4
+      name: ITWire
+      domain: itwire.com
+    quality: 13
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/12722a034931467110a716e727dbd43c_M.jpg"
+        width: 375
+        height: 282
+        isCached: true
+  - title: "FINEXPO Brings FinTech Industry Leaders and Enthusiasts Together at FinTech Festival Asia 2023"
+    excerpt: "FINEXPO, the world's leading event organiser, announced today that it is hosting its first-ever FinTech Festival Asia (FTF Asia) on 27 and 28 September 2023 at the Royal Paragon Hall in Bangkok, Thailand."
+    publishedDateTime: 2023-07-10T10:15:00Z
+    webUrl: "https://financialit.net/news/fintech-startups/finexpo-brings-fintech-industry-leaders-and-enthusiasts-together-fintech"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 12
+    images:
+      - url: "https://financialit.net/sites/default/files/bfsi_11200x628-px.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "aVUVrU9GESM0upjETD/4MMKY4WLtN/XoKrPIljQipcdfgANUO+/lROMjX3RR0wS8sjUoWiWsd6SYDUn90q4dFkbgelo8oVseR0NZMzx1HFeA9ZciDbZ4ZZ4vz0O9+G3ojY4nHRuzjqB1rxC9+GJ4IW/Qmq00oUvOXvF4hC2cLUcV1vF7Vfx3n7/J848lpeBMeLy5oI8Ij+GvxLX2MHVBKJE4F1clPHcdroVnxxznbSf8d404QR10m9XIUlE0ioEvSOC4LLkTuBNq4l/M6vdVAUv/VIWtnHcgj3B9zUHZpoctrVB/cYHHVOkoWcshi6Lx0CLr4zWZ/Jz9+DmqpODdh2txbmgxmtxurcYh6Lrd31mhQ5qpw2LY6Y79xatj1WbwsKUANBueg9GxT6TMA+vlPIj9GdKNv5mbOaaSkGaUGuy1+ObFkQlkzAFbRouZGG2rdAGqekaMVc52xJ+O0FbIvJttu9iywZojfip9/kvVcgnsukKzcA/22yG1gITicfLyRpMs69MSHJ3duxsN9Fas8A==;/LhLOPR6zUsHzBiV9Esz/Q=="
 ---

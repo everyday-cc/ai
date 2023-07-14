@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will
 webUrl: "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/"
 type: article
 quality: 108
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How generative AI can democratize content creation across the enterprise"
+    excerpt: "Learn why content creation and productivity is one of gen AI's most transformative powers in this VB Transform 2023 panel."
+    publishedDateTime: 2023-07-14T13:26:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-democratize-content-creation-across-the-enterprise/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
   - title: "Government warns on generative AI use"
     excerpt: "Positioned as a baseline policy that will evolve over time, the Digital Transformation Agency’s (DTA’s) new Interim Guidance for Agencies on Government Use of Generative AI Platforms outlines four core principles that delineate its perception of the key risks posed by generative AI technologies."
     publishedDateTime: 2023-07-11T01:04:00Z

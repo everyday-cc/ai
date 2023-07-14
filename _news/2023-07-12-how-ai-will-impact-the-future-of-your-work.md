@@ -30,22 +30,59 @@ images:
     isCached: true
 
 related:
-  - title: "AI Will Change Your Work Significantly: Here’s How To Respond"
-    excerpt: "AI will shift things fundamentally—including the content of work, the work available and who’s doing it. You’ll need to be aware, ready and responsive to what’s coming."
-    publishedDateTime: 2023-07-09T21:53:00Z
-    webUrl: "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/"
-    ampWebUrl: "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/"
+  - title: "The Four M’s To Empower Strategic Workplace AI"
+    excerpt: "The Four M’s — Multiplier, Magic, Mistakes, And Mayhem — Help Frame Your Workplace AI Strategy"
+    publishedDateTime: 2023-07-12T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64aa095b9866235e854c321c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 751
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64aea72e8479cd74c78a3cff/0x0.png?format=png&width=1200"
+        width: 1050
+        height: 788
         isCached: true
+  - title: "How Will AI Impact the Future of Your Work?"
+    excerpt: "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where."
+    publishedDateTime: 2023-07-13T01:59:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-will-impact-future-work/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Artificial Intelligence Empowers Zero Trust"
+    excerpt: "Technology is constantly evolving and changing how industries operate. Zero-trust security is making big waves in the world of cybersecurity. Many businesses quickly adopted this practice to have peace of mind while their employees work safely from anywhere."
+    publishedDateTime: 2023-07-10T15:55:00Z
+    webUrl: "https://www.unite.ai/how-artificial-intelligence-empowers-zero-trust/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/07/how-ai-empowers-zero-trust-feature-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Build a Winning AI Strategy for Your Business"
+    excerpt: "As an example, PwC is using Azure OpenAI Service to expand and scale its own AI offerings while also helping clients in industries like insurance or healthcare reimagine their businesses by leveraging the power of generative AI. CarMax is using it to ..."
+    publishedDateTime: 2023-07-14T12:08:00Z
+    webUrl: "https://hbr.org/2023/07/build-a-winning-ai-strategy-for-your-business"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 19
 
 secured: "b8ON30AlxMO7wuKnb7hoBn8nRCEo9ZIHBmgMd0qoqbMBb5jQwlLUk9QVRIhRw9vci9ZFLf7HR05HrGBGgu9btVft0K0RoFacBh7z7/cYE0++DfXNQ93kHSoL5okmMrb8pIqZxh+6BAcshe2PdOcNKdV5ef5k9T9JTgPGzUQ1yxgAecC0N2065z2aq7wT6ECuHZYB+9bwKK2ctuTOouE+1N8esJYRi7+yuibzn2s3731KhCUEU4Qcv4IeQ3VTQNgV39cEK7z7llPRkXh0psfhL7ymTiKNQVAiH7GEdybKSiliuOYjrVH3v8RPvMXhYp4ltIgA1fMNVl/znc5EiZArlDNMcQCNurtt9Fa7gqKuVTqohy/XF8joI6VZlAPVBUze/P2FSQIp4dyXuUjqf5fMzep8EzkXz8eJpvOanSr2dWGs0QDhnee5ZnVMkONsMefO5o2ts+vOLXijt345UBlTLMSQAIXTFV4HtyUlpxlU+JApbqJSx/h/wx8IaL+uy0dYhYv0xkmtKGZwJUDNQqv+rA==;h+cIDCwXWu26rhAxwciM1Q=="
 ---

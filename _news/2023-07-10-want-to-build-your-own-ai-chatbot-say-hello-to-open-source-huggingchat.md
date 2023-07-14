@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/want-to-build-your-own-ai-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
 type: article
 quality: 87
-heat: 197
+heat: 177
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
     quality: 87
     images:
       - url: "https://www.zdnet.com/a/img/resize/be693b341c663a1ecd39552f641f931b5ce02e84/2023/07/12/6e44cc52-e730-4f9f-8352-7defa46b1116/gettyimages-1210454294.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT and Bard Get New AI Chatbot Rival: Anthropic Debuts Claude 2"
-    excerpt: "The chatbot is available now in open beta in the US and UK, and Anthoripc said it plans to make Claude 2 globally available in the coming months. If you're interested in seeing how Claude 2 compares with other publicly available chatbots like ChatGPT, Bard or Microsoft's Bing, head to Claude.ai ."
-    publishedDateTime: 2023-07-11T17:17:00Z
-    webUrl: "https://www.cnet.com/tech/computing/chatgpt-and-bard-get-new-ai-chatbot-rival-anthropic-debuts-claude-2/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/8f89d44a5ec05644c6771739820cbf0f63f6a093/hub/2023/06/28/b65a809e-bdf9-4ed1-a9e9-33d039e7c579/ai-text-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -180,15 +166,6 @@ related:
         width: 506
         height: 325
         isCached: true
-  - title: "Anthropic Launches Claude 2, a $4.1 Billion AI Chatbot Competitor to OpenAI’s ChatGPT"
-    excerpt: "Anthropic, a startup founded by former research executives from OpenAI, has entered the AI arms race with the debut of its new AI chatbot, Claude 2."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://techstory.in/anthropic-launches-claude-2-a-4-1-billion-ai-chatbot-competitor-to-openais-chatgpt/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 12
 
 secured: "/bkeYUnZVSkCX4kwLdW4LmmivvkyDzTzxpapyKJ083l5gATUeIiunBOfJzOcAYj8dYL/ydmDagyVhlUyDAvyQ/x1g1F6+Qn4cDNgVJZAVJK+QssQ0MxZ7cVfnHwMc4Wdp4VIhOzsD7mJzfIiFEV15N9Q3Se244Sv9mnBIZ6B0Wtu1gv25w0sg1vhJ1J4tTVKKj7EXAqlTwMSjNhnlOYQg74mV7bsPP2VGAaxfehTHj7Kpt4POjAjU/EChrAwo/zH4WgfkGuP1YILYSHCNu5urQWD5fgEV4TGRiip/rBBu/CNiVKFPaBWQkFiwW5KSVpHlMs04bk2rM77asc0o2+PEi4Q3Iz4LkdrfMKIda9hMWM=;+rDBsvHBfPwjyY1/Q1Y7CA=="
 ---

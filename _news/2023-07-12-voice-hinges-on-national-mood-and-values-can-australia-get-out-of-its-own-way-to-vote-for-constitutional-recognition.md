@@ -35,6 +35,15 @@ related:
         width: 720
         height: 484
         isCached: true
+  - title: "‘They’ve been robbed into this solution’: Viewers divided over gas station requiring facial recognition for entry"
+    excerpt: "A viral repost of a video showing a gas station in Portland requiring face ID for entry is stirring debate on TikTok."
+    publishedDateTime: 2023-07-14T12:28:00Z
+    webUrl: "https://www.dailydot.com/news/jacksons-gas-station-facial-recognition/"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 0
 
 secured: "865wHK3Y9wGq6XXHFmH9CUWVbI4CxGACUl8oSnKFG9iLSuVWs/YqhfCDuNCtkkWUoKxkOglKikR2c7AxtICpYkEF9ZTft+OOqbvt+mWAGKbJwfPQpvO3i7hkKvcqzsom/SmsqtWpK9DkhK+g0CSiavlu2m6hfqYnX3NCO1k1MUwkAYZcy1xbondOaa9A1f4XHHmcu4yHaCq8sJJzD6DqlPJh9xSTCNGKBEEfykKo2yNoJ/3b6USY3sZ2nH7jXkag6YbNOCXrUqr3l4AUmxazdkUnE6UstzBFkfVoc8gC+OrLml4uUgTHV0m9CP2LNd/IKKYmBITRBfSMynWvC2nsq4yICXpjcvxYhY6l9yogpyY=;7QEz865eo/FQGSW7Vu/6Ig=="
 ---

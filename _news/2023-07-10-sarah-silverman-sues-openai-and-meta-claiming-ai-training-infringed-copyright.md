@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Sarah Silverman’s lawsuit against OpenAI and Meta really means | The AI Beat"
-    excerpt: "Sarah Silverman is suing OpenAI and Meta for copyright infringement. Here's what this LLM lawsuit really means."
-    publishedDateTime: 2023-07-10T21:02:00Z
-    webUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/bigstock-LOS-ANGELES-NOV-Sarah-Si-268982926.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Not Funny: Sarah Silverman Sues ChatGPT and Meta After AI Allegedly Trained on Her Book"
     excerpt: "Silverman is joined by authors Christopher Golden and Richard Kadrey in the lawsuit against OpenAI’s ChatGPT and Meta’s LLaMA."
     publishedDateTime: 2023-07-10T15:40:00Z
@@ -57,20 +43,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/35b4daa9c6a52ba49177fdd475cbff9d.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Mount Sinai Launches Center For Ophthalmic Artificial Intelligence And Human Health"
-    excerpt: "The Icahn School of Medicine at Mount Sinai established the Center for Ophthalmic Artificial Intelligence and Human Health in New York."
-    publishedDateTime: 2023-07-11T15:20:00Z
-    webUrl: "https://healthcaredesignmagazine.com/news/mount-sinai-launches-center-for-ophthalmic-artificial-intelligence-and-human-health/"
-    type: article
-    provider:
-      name: HCD Magazine
-      domain: healthcaredesignmagazine.com
-    quality: 48
-    images:
-      - url: "https://healthcaredesignmagazine.com/wp-content/uploads/2019/06/iriz1ktx_400x400.jpg"
-        width: 320
-        height: 320
         isCached: true
   - title: "Big Tech: Elon Musk announces AI start-up, Sarah Silverman sues OpenAI and Bill Gates comments on AI"
     excerpt: "We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn and work."

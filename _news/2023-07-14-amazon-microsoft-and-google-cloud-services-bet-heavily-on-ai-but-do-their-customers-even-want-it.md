@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tec
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3"
 type: article
 quality: 90
-heat: 260
+heat: 280
 published: true
 
 provider:
@@ -135,6 +135,20 @@ related:
         width: 611
         height: 457
         isCached: true
+  - title: "The cloud uses massive amounts of energy. Generative AI will be way worse. A Microsoft data center veteran warns big changes are coming."
+    excerpt: "Generative AI workloads will use up to three times more energy than traditional cloud computing task. Data centers will need radical revamps."
+    publishedDateTime: 2023-07-14T14:14:00Z
+    webUrl: "https://www.businessinsider.com/ai-data-centers-energy-cloud-microsoft-chatpgt-amazon-google-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://i.insider.com/64b06c7e29e5fd00190eedf2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "KPMG and Microsoft sign $12B AI deal"
     excerpt: "KPMG and Microsoft have signed a US$12-billion agreement to develop custom artificial intelligence tools over the next five years."
     publishedDateTime: 2023-07-11T23:42:00Z
@@ -236,6 +250,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 30
+  - title: "Microsoft rises as UBS upgrades, citing stabilizing cloud spending, AI catalysts"
+    excerpt: "Microsoft (MSFT) shares rose 1.5% in pre-market trading on Friday after investment firm UBS upgraded the tech giant. Read for more."
+    publishedDateTime: 2023-07-14T11:41:00Z
+    webUrl: "https://seekingalpha.com/news/3987638-microsoft-rises-ubs-upgrades-citing-stabilizing-cloud-spending-ai-catalysts"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 29
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory LONDON and REDMOND, Wash. —  — KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
     publishedDateTime: 2023-07-11T22:00:00Z

@@ -58,6 +58,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Gaming CEO Shares Nightmare Scenario Of Using AI To Spy On Devs"
+    excerpt: "The AI chatbot would then apparently scan the information for warning signs that could be used to help identify “potential problematic players on the team.” Nichiporchik took issue with how the presentation was framed by WhyNowGaming,"
+    publishedDateTime: 2023-07-14T15:35:00Z
+    webUrl: "https://kotaku.com/tinybuild-hello-neighbor-chatgpt-ai-burnout-hr-monitor-1850640875"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f5c219ce31b5c5a8c1efd724952c882e.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "az8OhS1uM9swgGd3G0hhqLPqrwRQQ4q9CZNmmS1RPbOFrt1VJaPVbcRWIw48CxC/zy9vhxe1SbX9bBtdqWt1YtT7+p1cGpXb57ItpBc77qzkKUV4XZgz/NB4cxa6RG8+cTerTqR48Y+EGqZAX1j6TWJnEkxnhZaD4DW0qAo+VZmTtZGePVTUKCX0Tj6nUhXs00Ko/nj8o0rnfrHmqnSGkeJ1rre46W3/RFDGiBcZTN5qEEwzIEXsYKNq3SP8KpaeseE4uzI2zrtgF5LPXpRYBpDqdme5Ny3HSkqEsRpoT7OfCfH7ppneQJXw62QprOvCm4VVUHaDeJGvKtTHJTe2TCuybyC0sGtcnkNOibtntREn4QW/Lc9a0JHoxaR/qn5qGAZ60yEDw5aytqTEbnBVaw6DHoTRM5XazRybL6KnhRCpXNDh7AwVfzdl6clNLbvazd9J2DvdUe/nppjZHIkrzxlnGG7VlAc1QfXo21oKL0QFK9pxe98Km4wJt5EVHavUFE6Q7mjUO/32uDrR8TfwBw==;zayQTVvoLkFwcmm6X+iVPQ=="
 ---

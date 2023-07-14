@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/07/11/9846476.htm"
 webUrl: "https://it.tmcnet.com/news/2023/07/11/9846476.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "HelpPay teams up with leading tech players to revolutionise website and fuel FinTech success"
-    excerpt: "Revium leverages Storyblok to develop a simple, intuitive, cost-effective user experience for HelpPay in just over three weeks. HelpPay, the profit-for-purpose Australian fintech on a mission to empower individuals to pay someone's bill and provide assistance to those in need,"
-    publishedDateTime: 2023-07-11T03:29:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/helppay-teams-up-with-leading-tech-players-to-revolutionise-website-and-fuel-fintech-success.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 13
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/12722a034931467110a716e727dbd43c_M.jpg"
-        width: 375
-        height: 282
-        isCached: true
   - title: "Construction Fintech Startup Trunk Tools Announces Launch with $9.9M in Seed Funding"
     excerpt: "Trunk Tools, a construction-focused fintech startup that addresses the skilled labor shortage by helping workers get paid faster, announced its launch out of stealth with $9.9 million in seed funding."
     publishedDateTime: 2023-07-13T18:31:00Z

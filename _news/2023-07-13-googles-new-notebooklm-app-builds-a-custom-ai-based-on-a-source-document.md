@@ -71,6 +71,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
+  - title: "Google NotebookLM AI notebook launches"
+    excerpt: "Google, in its ongoing quest to amplify learning through advanced technology, unveiled a selection of AI first experiments at this year's Google I/O"
+    publishedDateTime: 2023-07-14T11:50:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-notebooklm-ai-notebook/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "9ze7fTyoygZizjtvYrhyeuwnDk3Nfd44z60f6nNtaLRb1/ZmLAR7r6CeVqfpxbcmO4AFVNhBjUBqsfJ1ZADIvRYRfgkyzu/TnCbFPmyXO2IHc9kr4mFisLArLKvfaoOIStvmmyu0WynGf0ckDubQVZT0PeOG5K9xJ20BwpwqSR+XCamyK9bDk32PnlZLaJ7gAX+U4mTzoYlKUiy1mTuET8lFcHq1oq5OXWZ7ARu0imcmRFzfRlfcGdh8l3If1VLBhHZTJnDCu29wl3BOekA1cq4c+rG8QTQAMasft9RoYaHGg6hxByiIFni89AiCcBHcmBSqmesA5EapJWfkicAdoVrU0GaHScmebVD2t2tDQJc=;y1xEao1gyzc3246aQ7MJLw=="
 ---

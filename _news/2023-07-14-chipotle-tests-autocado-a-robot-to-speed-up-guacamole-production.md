@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
-excerpt: "Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring and peeling avocados."
-publishedDateTime: 2023-07-13T21:46:00Z
-originalUrl: "https://www.kcra.com/article/chipotle-autocado-robot/44537138"
-webUrl: "https://www.kcra.com/article/chipotle-autocado-robot/44537138"
-ampWebUrl: "https://www.kcra.com/amp/article/chipotle-autocado-robot/44537138"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/chipotle-autocado-robot/44537138"
+excerpt: "Your Chipotle guacamole may soon be prepared by a robot. Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring and peeling avocados."
+publishedDateTime: 2023-07-14T02:39:00Z
+originalUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/13/chipotle-tests-autocado-a-robot-to-speed-up-guacamole-production/"
+webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/13/chipotle-tests-autocado-a-robot-to-speed-up-guacamole-production/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: kcra.com
-  domain: kcra.com
+  name: KRDO
+  domain: krdo.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9uzs10ahvtym5hawwtnme5ntm4zdg4otnlngjkn2uymdq0mzmyogyzytk5odg-l19wywdlcy9oxzg3njnlyze5n2vkogewnwu3mtq0ymzim2fiyjuwndu1-jpg-64b071b63cb16.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-    width: 1200
-    height: 675
+  - url: "https://krdo.b-cdn.net/2023/07/Screenshot-2023-07-13-034224-375x225.jpg"
+    width: 375
+    height: 225
     isCached: true
 
 related:
@@ -157,6 +155,6 @@ related:
       domain: usatoday.com
     quality: 12
 
-secured: "Eh0ZdTCPpM69nWuLCz31m9wktEcaNca1d5/TxxAXKxBF70RBNgiLQyd2/9HbGvMoTp8OAXSiusvAnpXGAVETnvCIwbnTCETr0PeN6ArNQBzggqhPgkL3eaaEA1hnlcKI3gOJ4tkmxhhKDhHY0Rlrh5Ws1JQLT8Ad/tejbxbPg62ZubHvzWtxrFfI8dtUSDGFSH8vU2tIAKWeusB6jFCmJKzqlyv3+3IwOEWEpDflUWjWAZfyIabRMlflDzMREdg8W4r/Ev9n7tn/a1r6DLDRd/lH0pbFNNP6nKX+SCZx7OpvcNHe85ilV0/QfhtgEs1iGq4QKfcdLXGgXncgCVKAiiKTmOo8f8G4HKqgBn9nHwo=;IUxlRqOIl+jVSlWEq07fMg=="
+secured: "VeTK/x7ghbCeP7diDlMjzseJOfYyfazWy79O4yhqWw5d53EXqRM6uFmSOKM88U+EBHYqsfRbUnfCRi3T5NBtkhxSU3h/uxecB0q1Rrg0OUWJOv6VCdhxCiGW9m6rKCkYIgbLB3wDx1SCX9tUnV24dmrwqZ7tjb/YsU1vi7EIBHsZaG5TwoLJKRuzx+SR0/zpixLrHuI9AWKiR7HoUWuwTEakgA33bcPv0E3gYsC0/EpRjHPh7qPkUNLQ/8a3927jXXHUzCGRLaNhO2OfaCctmyfhmrPc0fMPubrM8krOPJ+T1XMbG1HSmSErfMQBKyBzY8E/aw8V4/WfjStQUEc+xoriz3ZL03M9yipEk3j8CTo=;rYagRCcGA4y3iRCxOkhM5w=="
 ---
 

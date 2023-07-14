@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Don't Pause, Act: How to Unlock AI's Vast Potential by Driving More Trustworthy and Responsible AI"
+    excerpt: "While the pace of recent advancements has been breathtaking, some of the biggest AI advances just over the horizon could be even more profound."
+    publishedDateTime: 2023-07-14T13:31:00Z
+    webUrl: "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872"
+    ampWebUrl: "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 73
+    images:
+      - url: "https://d.newsweek.com/en/full/2257353/keyboard.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Embracing responsibility with explainable AI"
     excerpt: "Why it's incumbent on humans to be able to explain and understand how AI models come to the inferences that they do"
     publishedDateTime: 2023-07-11T22:38:00Z

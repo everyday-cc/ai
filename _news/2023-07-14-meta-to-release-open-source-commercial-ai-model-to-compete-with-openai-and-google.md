@@ -30,21 +30,79 @@ images:
     isCached: true
 
 related:
-  - title: "Shutterstock expands deal with OpenAI to build generative AI tools"
-    excerpt: "Shutterstock has expanded its strategic deal with OpenAI to build new generative AI tools, the companies announced."
-    publishedDateTime: 2023-07-11T17:52:00Z
-    webUrl: "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/"
-    ampWebUrl: "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/amp/"
+  - title: "The FTC Intervenes In The AI Safety Race Between OpenAI And Anthropic"
+    excerpt: "The FTC is especially interested in risks posed by generative AI chatbots such as ChatGPT to personal reputations and personal information."
+    publishedDateTime: 2023-07-14T15:28:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/openai-getty.jpg?resize=1200,800"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b168b0534828c95c24807b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 848
+        isCached: true
+  - title: "ChatGPT and Bard Get New AI Chatbot Rival: Anthropic Debuts Claude 2"
+    excerpt: "The chatbot is available now in open beta in the US and UK, and Anthoripc said it plans to make Claude 2 globally available in the coming months. If you're interested in seeing how Claude 2 compares with other publicly available chatbots like ChatGPT, Bard or Microsoft's Bing, head to Claude.ai ."
+    publishedDateTime: 2023-07-11T17:17:00Z
+    webUrl: "https://www.cnet.com/tech/computing/chatgpt-and-bard-get-new-ai-chatbot-rival-anthropic-debuts-claude-2/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/8f89d44a5ec05644c6771739820cbf0f63f6a093/hub/2023/06/28/b65a809e-bdf9-4ed1-a9e9-33d039e7c579/ai-text-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Anthropic unveils Claude 2, an AI model that produces longer, safer responses"
+    excerpt: "Anthropic announced the release of Claude 2, a more capable version of its AI model Claude that produces longer and safer conversations."
+    publishedDateTime: 2023-07-11T13:30:00Z
+    webUrl: "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-that-produces-longer-safer-responses/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_In_the_colorful_Pop_Art_style_of_Peter_Max_a_straigh_1c3c4cd3-510d-462a-a737-4c24e517e012.png?w=1200&strip=all"
+        width: 735
+        height: 588
+        isCached: true
+  - title: "What Sarah Silverman’s lawsuit against OpenAI and Meta really means | The AI Beat"
+    excerpt: "Sarah Silverman is suing OpenAI and Meta for copyright infringement. Here's what this LLM lawsuit really means."
+    publishedDateTime: 2023-07-10T21:02:00Z
+    webUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/bigstock-LOS-ANGELES-NOV-Sarah-Si-268982926.jpg?w=1200&strip=all"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Anthropic launches Claude 2, the next-gen of 'friendly' AI chatbot"
+    excerpt: "Anthropic, the company founded by former OpenAI research executives, has released the next generation of their conversational"
+    publishedDateTime: 2023-07-14T15:13:00Z
+    webUrl: "https://www.androidheadlines.com/2023/07/anthropic-launches-claude-2-ai-chatbot.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/07/anthropic-launches-claude-2-ai-chatbot.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/anthropic-launches-claude-2-ai-chatbot.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/03/Anthropic-claude-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Elon Musk Launches AI Startup xAI With Team of Former Google, OpenAI Engineers"
     excerpt: "Billionaire Elon Musk 's xAI on Wednesday announced the formation of the artificial intelligence (AI) startup with the launch of its website, unveiling a team made up of engineers who have worked at companies from Alphabet -owned Google to Microsoft and OpenAI."
@@ -62,6 +120,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mount Sinai Launches Center For Ophthalmic Artificial Intelligence And Human Health"
+    excerpt: "The Icahn School of Medicine at Mount Sinai established the Center for Ophthalmic Artificial Intelligence and Human Health in New York."
+    publishedDateTime: 2023-07-11T15:20:00Z
+    webUrl: "https://healthcaredesignmagazine.com/news/mount-sinai-launches-center-for-ophthalmic-artificial-intelligence-and-human-health/"
+    type: article
+    provider:
+      name: HCD Magazine
+      domain: healthcaredesignmagazine.com
+    quality: 48
+    images:
+      - url: "https://healthcaredesignmagazine.com/wp-content/uploads/2019/06/iriz1ktx_400x400.jpg"
+        width: 320
+        height: 320
+        isCached: true
+  - title: "Anthropic releases Claude 2, its second-gen AI chatbot"
+    excerpt: "Anthropic, the AI startup founded by ex-OpenAI execs, has released its newest chatbot, Claude 2. It's ostensibly improved in several ways."
+    publishedDateTime: 2023-07-11T13:30:00Z
+    webUrl: "https://techcrunch.com/2023/07/11/anthropic-releases-claude-2-the-second-generation-of-its-ai-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Book authors sue OpenAI and Meta over text used to train AI"
     excerpt: "On Friday, the Joseph Saveri Law Firm filed US federal class-action lawsuits on behalf of Sarah Silverman and other authors against OpenAI and Meta, accusing the companies of illegally using copyrighted material to train AI language models such as ChatGPT and LLaMA."
     publishedDateTime: 2023-07-10T19:42:00Z
@@ -71,6 +152,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "AI Startup Anthropic Releases a New Version of Its ChatGPT Rival, Claude"
+    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, has released a new version of its AI bot, named Claude."
+    publishedDateTime: 2023-07-11T13:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-11/ai-startup-anthropic-releases-a-new-version-of-its-chatgpt-rival-claude"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 46
   - title: "Musk unveils xAI in new bid to rival startup OpenAI"
     excerpt: "Elon Musk, who was involved with OpenAI, has criticized the startup since he left the board in 2018, especially after it created a for-profit arm the following year."
     publishedDateTime: 2023-07-13T18:37:00Z
@@ -82,6 +172,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Google-backed Anthropic startup upgrades its Claude AI"
+    excerpt: "Anthropic, an artificial intelligence startup backed by Google, has widened consumer access to its chat program Claude and upgraded underlying technology that the company says makes \"Claude 2\" better at tasks such computer coding and arithmetic."
+    publishedDateTime: 2023-07-12T00:04:00Z
+    webUrl: "https://www.itnews.com.au/news/google-backed-anthropic-startup-upgrades-its-claude-ai-597867"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/documents_case_load.jpg"
+        width: 1254
+        height: 836
+        isCached: true
   - title: "Elon Musk’s new AI startup xAI to take on OpenAI’s ChatGPT"
     excerpt: "Elon Musk announced his long awaited AI based venture on Twitter on July 12. During an hour-long Twitter spaces event, Musk announced the formation of xAI, the AI startup, \"to understand reality\". xAI’s company website mentions that the goal of xAI is to \"understand the true nature of the universe.\""
     publishedDateTime: 2023-07-13T08:21:00Z
@@ -110,15 +214,38 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Elon Musk forms his own artificial intelligence company xAI to compete with OpenAI's ChatGPT"
-    excerpt: "OpenAI, the nonprofit AI research company that released the widely popular AI language model ChatGPT in November 2022, was established in 2015 to advance AI technology for the benefit of humanity, unconstrained by a need to generate a financial return, according an introductory statement on the company's website."
-    publishedDateTime: 2023-07-13T18:20:00Z
-    webUrl: "https://www.houstonchronicle.com/news/houston-texas/trending/article/elon-musk-ai-startup-launch-18198516.php"
+  - title: "Anthropic releases upgrade Claude 2 AI chatbot with improved safety and coding ability"
+    excerpt: "Claude 2, an upgrade over Claude 1.3, is now available as a beta chat experience for users in the United States and the United Kingdom. The chatbot is also available for business access through an application programming interface at the same price as the previous model."
+    publishedDateTime: 2023-07-11T16:17:00Z
+    webUrl: "https://siliconangle.com/2023/07/11/anthropic-releases-upgrade-claude-2-ai-chatbot-improved-safety-coding-ability/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 21
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/claude-anthropic-image.png"
+        width: 2880
+        height: 1620
+        isCached: true
+  - title: "Open AI is being investigated by the FTC over data and privacy concerns. It could be ChatGPT's biggest threat yet."
+    excerpt: "The Federal Trade Commission opened an investigation into OpenAI's privacy and data-collection practices to determine whether it deceived consumers."
+    publishedDateTime: 2023-07-13T19:30:00Z
+    webUrl: "https://www.businessinsider.com/openai-ftc-investigation-chatgpt-data-privacy-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
+  - title: "Anthropic Launches Claude 2, a $4.1 Billion AI Chatbot Competitor to OpenAI’s ChatGPT"
+    excerpt: "Anthropic, a startup founded by former research executives from OpenAI, has entered the AI arms race with the debut of its new AI chatbot, Claude 2."
+    publishedDateTime: 2023-07-11T19:22:00Z
+    webUrl: "https://techstory.in/anthropic-launches-claude-2-a-4-1-billion-ai-chatbot-competitor-to-openais-chatgpt/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 12
 
 secured: "jXO+L0rLS2JZ6cJvElvqL61EVjZ6mX32Vp/EWtUOb2ZCuGcF7ntPKJk8pq004i8gvYj92ZD5zmsiZO5c3ZeuwlBdZ+28k54tYqHUlBEV8/GX01PSfySvi8RhRtFi92w0MnPT8LBxRGYWNKh0BEUQbM38zxRw133YLZrCKFokDZIc1DlEksyByNn+Uj+wnhldmp1BXRaJwd50o9NbV5ZnhvFIUZIbVMYu8Z10e27MK2EvPyqPhfOJbQLDQpZm8zODe71axPvBs0iZNvjaywHjAnJqAVyVzVdGQrJDjxnrNW5zz6OPdDHuDz9LQmx9HzkzeVTNH1OCsKXzZ1EkQDCPxRjZIkc5ljag3ePc02AWmf+UvKjjAFzIrXTyTC7aBcWhYwqS5cOk8pAmvjABsKC5Lh/vgt7IG8zDYGIX8zBWBVkXxMVaQdbZbwNcI+MlFYl/kB+JFwYkdE0YL7GeB3Amj6P989CO7wzQeEwaQZpl9UQlTIhmb5mjrOiaGDG7HBZeapGplVtweoEGn0QMNgYakg==;pL6iKSUfn2wf0uDeXpPFOA=="
 ---

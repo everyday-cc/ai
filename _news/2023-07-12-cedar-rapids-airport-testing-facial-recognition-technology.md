@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-
 cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vaping advocates fight for recognition: Bill fails to differentiate harm reduction from smoking"
+    excerpt: "The debate around vaping and its regulation is ongoing. Advocates argue that vaping can play a crucial role in harm reduction and smoking cessation efforts. They believe that regulating vaping based on its harm profile, rather than applying blanket restrictions, would be a more sensible approach."
+    publishedDateTime: 2023-07-14T14:01:00Z
+    webUrl: "https://www.iol.co.za/sunday-tribune/lifestyle/vaping-advocates-fight-for-recognition-bill-fails-to-differentiate-harm-reduction-from-smoking-b2866000-8b42-45f5-b300-193d784417d0"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 7
 
 secured: "WWhYGKXt45xoaAqFhwS89CmpM2H8axIvfJYL2jtSR7078mqciQStu0frKckfJHYNC1EYog7oUjaSvS/O2FnmMuxBF3PSixL55+hP8y2I9tWrW5bhWCH6m4uFnm068PymGu0LqiUkeWnXtcoxzE3ZZ8xc4GsHts1pseFo/R1fSvQ4s4eh3zvPvdnNVurYimb/v+GGtFQJT5ke+YiOcCSQVNB1dUNbldJn9o9Rzs8/VpAl1ghkG/26sZUtRLdqnMwiRPmnN0XLDJ1wEqRnPESgHrxZHqGY4AUAAWE4rtu6XDWf/8RSz9eGB3gC08ZeampNpsv0LICe66Y5Km0OlOJeAKLO4ANV/jqchBw2FA4uputK4Vp0Ra+pi6NecBouCeuL3xxIVFSeG27aECj/8AiyC5y4AS4K+ObnMRNswP+xIduha8sKs1m9KNNU8c1aGJoUtswG7+gTXqzHOXmpNbFw6qWsqP30HOHMfQA3WTT77dCQQgxm0CikxElYzvsCib+6y5rrzIh+EKyxA/MUKUI2vA==;zatl0CdzSZIOFxS1y9irVQ=="
 ---

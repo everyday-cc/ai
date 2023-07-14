@@ -53,20 +53,6 @@ related:
       name: Statista
       domain: statista.com
     quality: 49
-  - title: "How Machine Learning Is Supercharging The Industry"
-    excerpt: "In the mortgage industry, staying ahead of the curve is crucial to success—which can be a problem when the industry itself is filled with new daily twists and turns. Thankfully, the increasing use of automated technologies can help mortgage organizations stay ahead of these curves,"
-    publishedDateTime: 2023-07-09T20:17:00Z
-    webUrl: "https://nationalmortgageprofessional.com/news/how-machine-learning-supercharging-industry"
-    type: article
-    provider:
-      name: nationalmortgageprofessional.com
-      domain: nationalmortgageprofessional.com
-    quality: 39
-    images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/styles/article_image/public/2023-07/McLain-Lynne_WEB.jpg?itok=yQ-ovpcO"
-        width: 400
-        height: 400
-        isCached: true
   - title: "HR using AI on the QT"
     excerpt: "A Gartner, survey of 105 HR leaders revealed that just five per cent of HR leaders report their function has already implemented generative AI, while another nine per cent reported they are currently conducting generative AI pilots. Gartner HR practice VP ..."
     publishedDateTime: 2023-07-12T08:13:00Z

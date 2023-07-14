@@ -53,22 +53,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
-    excerpt: "Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring and peeling avocados."
-    publishedDateTime: 2023-07-13T21:46:00Z
-    webUrl: "https://www.kcra.com/article/chipotle-autocado-robot/44537138"
-    ampWebUrl: "https://www.kcra.com/amp/article/chipotle-autocado-robot/44537138"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/chipotle-autocado-robot/44537138"
-    type: article
-    provider:
-      name: kcra.com
-      domain: kcra.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9uzs10ahvtym5hawwtnme5ntm4zdg4otnlngjkn2uymdq0mzmyogyzytk5odg-l19wywdlcy9oxzg3njnlyze5n2vkogewnwu3mtq0ymzim2fiyjuwndu1-jpg-64b071b63cb16.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Chipotle Unveils ‘Autocado’ Robot Developed by Vebu That Peels and Cores Avocados for Guacamole"
     excerpt: "Called \"Autocado,\" Chipotle unveiled Wednesday a new avocado processing collaborative robot (cobotic) that helps cut, core, and peel avocados before they are hand mashed to create its signature guacamole."
     publishedDateTime: 2023-07-13T04:03:00Z
@@ -140,6 +124,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
+    excerpt: "Your Chipotle guacamole may soon be prepared by a robot. Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring and peeling avocados."
+    publishedDateTime: 2023-07-14T02:39:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/13/chipotle-tests-autocado-a-robot-to-speed-up-guacamole-production/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/07/Screenshot-2023-07-13-034224-375x225.jpg"
+        width: 375
+        height: 225
         isCached: true
   - title: "Chipotle Testing A Robot, Dubbed \"Autocado,\" That Makes Guacamole"
     excerpt: "Chipotle Mexican Grill's new robot can make guacamole in half the time human workers need to prepare the dish, the restaurant chain said in unveiling the device on Wednesday."

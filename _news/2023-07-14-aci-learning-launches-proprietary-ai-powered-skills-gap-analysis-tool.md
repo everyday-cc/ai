@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 902
         isCached: true
+  - title: "Payment Asia launches AI-powered processing service"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-14T11:29:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/payment-asia-launches-ai-powered-processing-service/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 19
 
 secured: "wmwIc52QWCDtZJqX2Q+rjGQGctoi9EtPca9vODExTX/UHOi86PzqPhTH/o1ekTwCBWOX8fPFT8g/h9z2veRCJ4yvHwG3DSd1xqK6xht5IrO2+NcckZRs/FmHqnU/SBM2yBwHZB5PAzolaHTCpFupS52h4QQlN2M+fpQahjHnuqU07hvlDm6Ufh0hq3bRIY3c6oriXUH8bcaaEGglTn0mkbFwRVzlDP+HXwicV4FAyg5/VMsxanIi4rZOBnFtUZG9R8QTMl+JooaBLFPNpgTik2SH9I3ya814P7GUfIB0SFrlEwzDokvWD33VE+zQKDpTrsDKrj7zzbQmSLl6fBsxwLrNldH2TKyCMakH4YKByH4=;iE/WvET0sxtJp+v/52KhOA=="
 ---

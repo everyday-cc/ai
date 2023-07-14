@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Headroom Partners with Visual Collaboration Platform Lucid Software to Boost Productivity with AI-Powered Video Conferencing"
+    excerpt: "Headroom, a startup offering embedded AI-powered video conferencing technology, announces its integration with Lucid Software, the leader in visual collaboration software, to enhance the workplace collaboration experience by allowing Lucid users to hold Headroom virtual meetings directly inside the Lucid Visual Collaboration Suite."
+    publishedDateTime: 2023-07-14T15:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/14/9848600.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "0QQP3Ncn1+S0UUlS+ebNYXdcpXZezgJMTZW2RF4oGjnhy48FArq6nionQ6Goxadi1h6kCECSl7/JPqUVqhWc8cDd2pLxh1KUGBToYVQtyuoVPk37yg4XwdiRqjvJeeGz/8m0camVd1cK57EzSTFFO2fIlE8wHgaMywqwsShBTPPMqjxLrHz7m6r0iaLMPnxqV6PfuiPmSrpCcWMkr77KkjojhVm9x/BfOsFGKXyt5c8LlH0vBtvaSdg/h+0G0JWGjwfw7AezqKQtaWiuR6TBmqP+2LEcelvHeOZoiAcM3BOyOpdd+wTh508EruBuuCjW8JWyeAxEqiKhaa96oW2l2O7EwzgR1+Kg6U6SK1+Nxi2SH2tudcKSONBV1jMG2sMRyugRIVs7rdhXgUVeYHIJPeYCo/K9RDCuAB8vjRay58UVPFkRbJmkvRExqNbfV+wLXKN0+NgOLpED2lese/fR5MFe5h0Rw2sbve0mPL626hso6F0SDSBFaqb9GYmef4pU3scBbr3qCpOi8y7VB0x3mw==;D09Fd/sf/xGJVUOFG+rAJA=="
 ---
