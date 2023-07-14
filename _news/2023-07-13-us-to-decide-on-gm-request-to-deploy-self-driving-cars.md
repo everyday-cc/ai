@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-de
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

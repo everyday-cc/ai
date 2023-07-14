@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Hollywood's 'Groundbreaking' AI Proposal for Actors Sounds Like a Nightmare"
+    excerpt: "SAG-AFTRA said that AMPTP's AI plan included scanning background actors and using their likeness \"for the rest of eternity.\""
+    publishedDateTime: 2023-07-13T22:45:00Z
+    webUrl: "https://gizmodo.com/sag-aftra-ai-actors-strike-amptp-ceos-likeness-image-1850638409"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 65
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/acbbd1a48a2600009a805233b0cc9ad8.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "7clUnUTlv6kQDbI98XIRd+OAGNiTgJkp11LBVUWdX4R1npvi+Tua/D6lD/xXUXg/IFBWXSQvTWciEUHMyJ9yeGmksGP1L7xMAVk+dsV7bdiQ2SMkVpnN0W/uwKzBYpiiPZJEXQBE1pUWci8Wa2GjJLKTIMLu2SAZV5nlHLz+KL9ch4j8QaBWhxFgDsP9vpGb/6iDY5kzogeenIM1phffqqkPl30F/CkhKGQG76GE6zaQdHYdITRXjZHfoUFqMxAXvNdTvPBMkZxcual+PXoDQPaaHen0jzA5wZHtzEHbim7ls7g/dJ/rwVWr1C8BnYzOIsemWNReg2Mpmww3UXIoyXOkajAdh+cBB90L+IEWa0DQbnArnuPLW84gjW9oy0xvfeNTIcAs2jwJL3KlMQo0ggVRpbk+873UX5c7tSJe0+9XSXJ0hhTZ/1E4jadoRsGDyfMk76UkJF5nxijtvpHdqW8rlF+TCmIkwSWRp40uJxu/QpZBGGm5IltWvluRFm0rDok2CAwVZ4m0b8zYYFEpOA==;OcnscoaV/cXrYVYlNRibHA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businesstoday.in/amp/bt-tv/video/un-tech-agency-rolls-ou
 cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/bt-tv/video/un-tech-agency-rolls-out-human-looking-robots-for-questions-at-a-geneva-news-conference-389176-2023-07-11"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Business Today
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
-    excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
-    publishedDateTime: 2023-07-09T05:28:00Z
-    webUrl: "https://www.mariettatimes.com/wire/?ID=297029"
-    type: article
-    provider:
-      name: The Marietta Times
-      domain: mariettatimes.com
-    quality: 31
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.mariettatimes.com/images/2016/09/15131252/mt_fb.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "UN tech agency rolls out human-looking robots for questions at a Geneva news conference"
     excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference Friday, inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
     publishedDateTime: 2023-07-10T13:37:00Z

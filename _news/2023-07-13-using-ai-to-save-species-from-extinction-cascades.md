@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-07-ai-species-extinction-cascades.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-ai-species-extinction-cascades.amp"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: Phys.org
@@ -26,29 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI at the Cannes Lions; from attention to intimacy"
-    excerpt: "After a week in Cannes during which a lot was spoken about artificial intelligence and its potential impact, Nick Pringle, Chief Creative Officer at R/GA EMEA, reflects on what we learned, how AI is currently being used,"
-    publishedDateTime: 2023-07-11T11:32:00Z
-    webUrl: "https://shots.net/news/view/ai-at-the-cannes-lions-from-attention-to-intimacy"
+  - title: "Phone scammers are using artificial intelligence to mimic voices"
+    excerpt: "Scammers can use software to recreate a loved one's voice and make it sound like they're in distress. They then ask for large sums of money."
+    publishedDateTime: 2023-07-12T19:12:00Z
+    webUrl: "https://www.cbsnews.com/news/artificial-intelligence-phone-scam-fake-voice/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-phone-scam-fake-voice/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-phone-scam-fake-voice/"
     type: article
     provider:
-      name: shots
-      domain: shots.net
-    quality: 39
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
     images:
-      - url: "https://d17mj1ha1c2g57.cloudfront.net/v1/uxYfSbbwBYdNEdUDfpTWs544mO4/1200x630%23/80/shotsmag/production/clips/54bdca8e-f44f-4484-a757-0e2b5f5ae15f/gettyimages-sb10063846l-001.jpg?v=1&quality=70&format=jpeg"
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/11/02c3571f-e66b-4596-b9b3-3acb0880bb18/thumbnail/1200x630/04438267693e1ed7117b30f5b54cd64a/1689116974188.jpg?v=b9ad248140817530b57bedd1355bcccb"
         width: 1200
         height: 630
         isCached: true
-  - title: "WingAI app uses artificial intelligence to revolutionize online dating experience"
-    excerpt: "Dating in the digital age can be a daunting task, with the challenge of striking up a conversation with a complete<a class=\"excerpt-read-more\" href=\" More"
-    publishedDateTime: 2023-07-10T11:21:00Z
-    webUrl: "https://wsvn.com/news/local/florida/wingai-app-uses-artificial-intelligence-to-revolutionize-online-dating-experience/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 27
 
 secured: "az8OhS1uM9swgGd3G0hhqLPqrwRQQ4q9CZNmmS1RPbOFrt1VJaPVbcRWIw48CxC/zy9vhxe1SbX9bBtdqWt1YtT7+p1cGpXb57ItpBc77qzkKUV4XZgz/NB4cxa6RG8+cTerTqR48Y+EGqZAX1j6TWJnEkxnhZaD4DW0qAo+VZmTtZGePVTUKCX0Tj6nUhXs00Ko/nj8o0rnfrHmqnSGkeJ1rre46W3/RFDGiBcZTN5qEEwzIEXsYKNq3SP8KpaeseE4uzI2zrtgF5LPXpRYBpDqdme5Ny3HSkqEsRpoT7OfCfH7ppneQJXw62QprOvCm4VVUHaDeJGvKtTHJTe2TCuybyC0sGtcnkNOibtntREn4QW/Lc9a0JHoxaR/qn5qGAZ60yEDw5aytqTEbnBVaw6DHoTRM5XazRybL6KnhRCpXNDh7AwVfzdl6clNLbvazd9J2DvdUe/nppjZHIkrzxlnGG7VlAc1QfXo21oKL0QFK9pxe98Km4wJt5EVHavUFE6Q7mjUO/32uDrR8TfwBw==;zayQTVvoLkFwcmm6X+iVPQ=="
 ---

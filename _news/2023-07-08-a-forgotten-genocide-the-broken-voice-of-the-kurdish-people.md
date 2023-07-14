@@ -1,14 +1,11 @@
 ---
 category: news
-title: "A forgotten genocide, the broken voice of the Kurdish people"
+title: "'A forgotten genocide, the broken voice of the Kurdish people'"
 excerpt: "This book plunges us into the heart of the tragedy of a people whose existence was denied in 1923 by the signatories of the Treaty of Lausanne."
-publishedDateTime: 2023-07-08T12:59:00Z
-originalUrl: "https://www.kurdistan24.net/en/opinion/31879-A-forgotten-genocide,-the-broken-voice-of-the-Kurdish-people"
-webUrl: "https://www.kurdistan24.net/en/opinion/31879-A-forgotten-genocide,-the-broken-voice-of-the-Kurdish-people"
+publishedDateTime: 2023-07-08T16:57:00Z
+originalUrl: "https://www.kurdistan24.net/en/opinion/31879-%27A-forgotten-genocide,-the-broken-voice-of-the-Kurdish-people%27"
+webUrl: "https://www.kurdistan24.net/en/opinion/31879-%27A-forgotten-genocide,-the-broken-voice-of-the-Kurdish-people%27"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
   name: Kurdistan 24
@@ -18,6 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "v1hlvMBf1244qtwTqAiG6VDPtna8nUsHkYH+/2J28u1M/ZuCU1qtIxiAcWgJ9Xovlchd871qsaW+EgSh/yCx6yv/M76T0B1mWsJRh/CRCdxAoRERA4xhiDPfJM+dsxDJqGS48mbvZrMb9V1ew+dT382o3TAV+AsZX1znppyfp3IsRigbOloEjT4akXCPhnfzBmV+g0AAa1R88z5lCffyF1Ho0lwSu1uULIg449qicIi/yVqYTT53D/dvSVzY+80cNiYtUoFkJtI3xwj7aCFUbZiPXLc8+NulLRxv9OZ/HpOLgOIZGGAe5g4Qf5/WejUYijHTkj/pgNLGBnlltxZ/g7CHXXlacHTbDBwQnLswkUOxImZmUTHAty3f0U1Rf8F30ou2WhLB5Ysn79p9htccP2/SA/UNJZv4a0IREh6upk1cgJLQpI9fUVOyzafryVigY7ljYRwWfE6j0UYrKGQUIhublBY5mjGLQ8Pmn4gYSfjJY4Y5QUZ4iCPxKjx868EMQQi6zhdg8Dk6ax+YGrt5UA==;uFaQmmISGsy3nW/oUj2/iQ=="
+secured: "ZnF8PYGRfnUknsxM2+x3sZvY4dqm5R1DPZyvvimYynVCQxvj5imSxq6RWFd02Qe8Og3u7rFfrZ8Q6w0K3mZfaHLwn4PTi4dtZKqQk5dyvI6e1+rM65jpWvlSM7FsCKCwXy55aeQ8ZxDw8i8YUXNtOtWYB5WkGQOxUv7gggw4IbUyRctoPFSu7PPWFIzgAyyarGyRJNhJ1r7+eMjUAuJlrtHdShludlM7kH4at4+l1blHiJ0ITbzGgMYAjH5x3H49acmnDIAQRAeTJCI+lPl5at0U8jHu0dJLnH3tMPKjjGoQpnb4SQiGbX7gVoJVQCIT20m6fwNWcOek26+KvWlOuBBcnsQF/7JoUWYXukieF4KsQmVmQSXAmtgiAcWIS2JjN7HydCdKziOIr/u1WI2H4MrrJGFfyt5212GIXiX9lh9tL4+yiJO5qQXFXKMshw+39QIgG28ha+sUPxTAdutPAiFcCmHGLHbMUYExstn0yfJr+5qk3pl7XNhunT0HqlZSEcg2PTSiRiSgERYKWDh6uQ==;R+9t2nU4fKIvkXHBtR2OfQ=="
 ---
 

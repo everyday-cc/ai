@@ -49,15 +49,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
-  - title: "Weather forecasting is having an AI moment"
-    excerpt: "Using AI to predict weather has a big advantage: it’s fast. Traditional forecasting models are big, complex computer algorithms based on atmospheric physics and take hours to run. AI models can create forecasts in just seconds."
-    publishedDateTime: 2023-07-11T09:58:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/11/1076067/weather-forecasting-is-having-an-ai-moment/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "3yJ3LzOWYgTsvIdH6j4epVvvgQ9DIHlL3PA0BQWEfikenGXYv8NW9Kt4KnCxbUNgtttycsgAgsaJHsEoQ1zEnV5eQykUzd3PXAl3nR01emVTFKH4nwS6wJWptBoJODLicTyzvJUGASK/zyzMlX0dQw9lnM3a1JHAuvqLEEcBQc7kmivyLR17HTQcwFbE2VMgN7Opd94/zdTNDQZ2TdSfUfVkNtm3qk1Ar+yo0Q2uIzUqxI59s3Ip2yz8z5VkrJl0wot0Kxb1Aeplvc/g4HcYH26E7fdKNdTZxXGtcOEhuum7Di670WiNgK9ztTFhkl/7ZMgJPGv1hmjyAeITXTxxRyx0f2k5gsbBdPJ1ZQ9u9RElwKFqO0IShWJhip5SyFrDOdA5cN0LEsgumy1zl4y9RmW7g0EuDjMrx8WWvI4t2RLTG0l4HsX8N03CcGOt+sxVAXOmcESK8wbh2rZSeTb0jxIxWruwPuOaxWK7Jj2/6O60Vxal9mSbI6tToSNYfT/89pHhaq63woCbNLtN2KA0Rw==;tZj1Edfqnp8QaGGk06eJDw=="
 ---

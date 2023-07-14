@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strik
 webUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Hollywood's 'Groundbreaking' AI Proposal for Actors Sounds Like a Nightmare"
+    excerpt: "SAG-AFTRA said that AMPTP's AI plan included scanning background actors and using their likeness \"for the rest of eternity.\""
+    publishedDateTime: 2023-07-13T22:45:00Z
+    webUrl: "https://gizmodo.com/sag-aftra-ai-actors-strike-amptp-ceos-likeness-image-1850638409"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 65
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/acbbd1a48a2600009a805233b0cc9ad8.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Hollywood on strike: The future of AI in the entertainment industry:5 Things podcast"
     excerpt: "AI technology has emerged as a sticking point for workers in the entertainment industry. Without guardrails, writers and actors say AI can put them out of a job."
     publishedDateTime: 2023-07-09T14:12:00Z
