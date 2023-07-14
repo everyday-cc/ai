@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/glaze-artificial-intelligence-artist
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/glaze-artificial-intelligence-artists-intellectual-property-midjourney-openai-stability-2023-7?amp"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,38 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "KPMG is making a $2 billion bet on AI. It's another example of big changes that are coming to the workplace."
+    excerpt: "KPMG advises businesses around the world. It's teaming with Microsoft to bring AI to more of them. Get ready for the new tech to spread even faster."
+    publishedDateTime: 2023-07-14T09:03:00Z
+    webUrl: "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/64b072df29e5fd00190eeee9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "KPMG Plans $2 Billion Investment in AI and Cloud Services"
+    excerpt: "An expanded partnership with Microsoft is expected to bring in $12 billion in revenue for KPMG over five years, the Big Four accounting firm said."
+    publishedDateTime: 2023-07-11T19:50:00Z
+    webUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-815234/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "4LEfHbKlh/JtSjD/xAo5M/iM0lUrfvIPG15a0ZWSZj/MmdVq/OEbbNdbkz5rWFg/kyDWsCDJpafgNOm84sQnKg0AUtsr7wW0TbJ15Yx2XOc/GnxmyXy2VDUVYiO/m/uHGQyxjLe1UwdT2Q9aK5e3m5nKV/HEkQppn/0Vx+d1O+fIxHml9ZJTnUm4AihJ+zDA/wJRb9klcDmPJ2waJvp1u2Rvo40dxa5iMLsGpAu9qic/83d4QQ8HSMkPyYfrQdvh8gyWKolnl8G5kmgsD/W7HPKGBuHjvUn3Dx2OiJrUVOSMCKeEGF9zYWzciLgQ9orrqhX9fE+kV4FIacPPMvexqM1+t2cNr6AC9ETFAPm0qn7JbdiEkBt3ydXRxKTJutTDyB5c9TqqRyR4hx3JoaCz/0POyLmyOH5kl9v675FwdRo/JWLDf0cgGF1W6pRVi+C5iSur9yXHUKKOQdMs6lh5K5MjDp2Oh7LldMiACQ8ItbW+86LuFNvB5Lj5DrC46dBp3TI3WtWQUtrig7k8draM8Q==;s2OYZW21MA8e2bU/OvRDEQ=="
 ---

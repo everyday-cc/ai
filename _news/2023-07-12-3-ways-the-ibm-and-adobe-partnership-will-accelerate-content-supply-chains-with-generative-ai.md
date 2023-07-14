@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will
 webUrl: "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/"
 type: article
 quality: 108
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "The new high-paying jobs in generative AI"
+    excerpt: "The push to adopt generative AI in the cloud will lead to new roles and needed skills, and enterprises will likely pay top dollar."
+    publishedDateTime: 2023-07-14T09:12:00Z
+    webUrl: "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/10/jobs-sign_interview_job-search_now-hiring-100774984-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Generative AI will improve efficiencies and spark creativity in the workplace"
     excerpt: "The possibilities of generative AI are yet to be fully understood, but we already know it can support efficiency, creativity and learning."
     publishedDateTime: 2023-07-12T00:06:00Z

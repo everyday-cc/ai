@@ -42,6 +42,22 @@ related:
         width: 2064
         height: 958
         isCached: true
+  - title: "The new high-paying jobs in generative AI"
+    excerpt: "The push to adopt generative AI in the cloud will lead to new roles and needed skills, and enterprises will likely pay top dollar."
+    publishedDateTime: 2023-07-14T09:12:00Z
+    webUrl: "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/10/jobs-sign_interview_job-search_now-hiring-100774984-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Government warns on generative AI use"
     excerpt: "Positioned as a baseline policy that will evolve over time, the Digital Transformation Agency’s (DTA’s) new Interim Guidance for Agencies on Government Use of Generative AI Platforms outlines four core principles that delineate its perception of the key risks posed by generative AI technologies."
     publishedDateTime: 2023-07-11T01:04:00Z

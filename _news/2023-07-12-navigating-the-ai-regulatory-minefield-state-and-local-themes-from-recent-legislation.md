@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
+    excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
+    publishedDateTime: 2023-07-14T08:40:00Z
+    webUrl: "https://ifamagazine.com/the-biggest-challenges-facing-the-tech-industry-from-cyber-security-threats-and-ai-ethics-to-talent-retention-and-evolving-regulations/"
+    type: article
+    provider:
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 38
+    images:
+      - url: "https://ifamagazine.com/wp-content/uploads/2023/07/SmartSearchs-Jade-Kirk-Enterprise-Business-Development-Manager.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "3NIKTJheX+kSeiLs9Eb9jSWCH9MRheXtn7NlcwU+txx8kqi/Xhn7lLrXBk8If01B2kE7Sh0DLldlH1zRH5lHaW0fQFfC0DdXlf+BcDMkNZeXgy72eajUJUKVqWdY++e2VAK/pvgJyu5Eay6pkIdrbTLKTLewyvOwPvzgvp/WS88N8g4envIohXG2YIjKRr2RF79p9kJekMt6edGO5Znf7aI/HdKuHhuT+CyBCJX/7Uj0WUoS8hu+C40RKs11RlSeTpmRtOEYdOxG/grVSjmQwJfV8KUe2R0un3neoJzqazhzEH1KauAI9d9z73kdQkZq7GGEvCtBlQ/gcCx6edvMowimvj/jbJSP6rdKSKEaN2w=;LgMjpBi9oLLrAiRRyqlWJA=="

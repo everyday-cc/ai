@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-phone-scam-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-phone-scam-fake-voice/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CBS News
@@ -41,6 +41,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-save-speci.jpg"
         width: 2880
         height: 2415
+        isCached: true
+  - title: "AI scam calls imitating familiar voices are a growing problem—here's how they work"
+    excerpt: "Scam calls using AI to mimic voices of people you might know are being used to exploit unsuspecting members of the public. These calls use what's known as generative AI, which refers to systems capable of creating text,"
+    publishedDateTime: 2023-07-13T19:30:00Z
+    webUrl: "https://techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-scam-calls-imitatin.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "/Td37PF8fvJiItJx9LvsOO+zlhO+owHbGUi9FMM9qqPMKPLP4+tQA0iIGyzLxb/lNZSD37eNIIFECaliOmlEhWhuj2PVv0xYiyOQlWukOpI7hJny0bE7McAMnR8WSW0XjE7+ZaHPlFCb86WdFKrZbN5KccvxL0Y2sAmGuEljj8ksSM+8CrXHAumFeteTJG94PrKfnQTx37Bl0bi8AaTE8V68+L9+GEgViQlLvwyNNpBAAkHP19z4Kpj4yoPmKcZpaqklWGz4A9u89NDOhiihv1p5sFJ90uokSCs//wi+pUHMQvyWxKECfZLP9i4ZXylec7wmKR2ajGMwfJ74ZLC2+lvgY99XWhewLl8Vs87P/bcCS0ht3i0KF9v2X15/eR7UuWTKXNPdjDBJkwMH13DplMwOdb85jic1Fxpv2WhbgfPURHDHICNKKlk1JR6yo6fcNpVCvqcxsSyqayEW/X/iUMTM6PmHJhN0baWe3+C0lxPXZv7Q3xPcACg3mgmvuJ8Cwi9DSWqC5iiyxkuGVE0LRA==;dQXgG696L//IJA644/9sMA=="

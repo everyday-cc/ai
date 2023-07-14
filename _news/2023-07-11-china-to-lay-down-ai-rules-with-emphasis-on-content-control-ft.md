@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/china-lay-down-ai-rules-with-em
 webUrl: "https://www.reuters.com/technology/china-lay-down-ai-rules-with-emphasis-content-control-ft-2023-07-11/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "China says generative AI rules to apply only to products for the public"
-    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
-    publishedDateTime: 2023-07-14T00:36:00Z
-    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
+  - title: "This AI-powered content creation tool is now only $40 for life"
+    excerpt: "TL;DR: As of July 14, get the Write Bot AI content creator Lifetime Pro Subscription for just $39.99 — that's a 92% discount."
+    publishedDateTime: 2023-07-14T09:00:00Z
+    webUrl: "https://sea.mashable.com/creative-software/25125/this-ai-powered-content-creation-tool-is-now-only-40-for-life"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: sea.mashable
+      domain: mashable.com
+    quality: 69
     images:
-      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
+      - url: "https://sm.mashable.com/t/mashable_sea/deal/t/this-ai-po/this-ai-powered-content-creation-tool-is-now-only-40-for-lif_3uf9.1200.jpg"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
 
 secured: "ow6MBLqXEWisgaWjKwiCRAnI+14sW0s7CN+glP0slyEs9VdA9yNJq20JCeqfmL9JDB1ABZ+bsGEGydIhUNw/WoEgCNXBB49diaFXdHbs2c1xZdF8MmLoB4qSdtAohviQVJH906iyRQFOo4iD+Sbzgk3EkcI50zi1pJPp5SqEZGNTYW+w5V++NRkRpdFNe2No3r1+EUkFEbIjfrA6b7uVVFqdjpOw5skDQAgg4u3+jkdj/UXh7dSgQoFxQWm++bZgRA/NN0wcZizwYH/zBtfH5Vjq9Vhk/cyFvYABwFT4WyUvkGsdut3i9zNtwudlT7sU6gJqdMgulixe4dFRpptiAaleCgf7m2zMzsNl9wLNJ6s=;vqm+W6+BsOzFOgFd5JPlKA=="

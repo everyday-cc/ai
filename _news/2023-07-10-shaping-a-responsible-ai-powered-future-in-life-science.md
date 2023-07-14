@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shapin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Revolution in AI powered by Transformer Architecture"
+    excerpt: "Introduction: The field of machine learning is constantly evolving, with groundbreaking discoveries that push the boundaries of what is possible. One such discovery that has captivated the attention of researchers and developers alike is the transformer architecture."
+    publishedDateTime: 2023-07-14T07:21:00Z
+    webUrl: "https://techbullion.com/the-revolution-in-ai-powered-by-transformer-architecture/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "vUrUieR+F1SkdLJ0Z+9N0cx66p47cYdcvvdRH/jzJYtQY+tUhQKVbxcXSMSrooOSImcjVBz5qOoxk2kYaZdO56GvwlVCNYQMCbkVJFKgTbf0GPYite/dEaCXJuk6DQfcUY55KQ1eH44jVmogzKH6GEG3t+j7DXe7Q42yLKLDkQ9E/mzxS8czkH56dEp9Ihh/aS9Pv6N3L72zgp42vcdAV2oLsom9Z+CsdQ7Drwsiw2gBaXk1RxWeyKgiHdwChf8c2iHW3286nJJY/wFjlAxcQ8nhib8St5Dhp82y1MwVbqUHCiF2HgfB20UKvgZbc4sdZ0FnAaHsSckWHYHF+u2hAdMcnaFneiimN/sMcKRULzk=;mscbz4T1jP4jlnxvw2+Y9g=="
 ---

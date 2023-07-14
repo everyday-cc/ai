@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta to release open-source commercial AI model to compete with OpenAI and Google"
+    excerpt: "Developers could use the open-source LLM to build generative AI applications, like ChatGPT, for startups or established businesses."
+    publishedDateTime: 2023-07-14T09:47:00Z
+    webUrl: "https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/3cb1369242d9b94a61c6c6fb17422e9fc7bec91d/2023/06/09/bd65c844-cb3b-4d00-842d-a37b9fd63337/meta.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Book authors sue OpenAI and Meta over text used to train AI"
     excerpt: "On Friday, the Joseph Saveri Law Firm filed US federal class-action lawsuits on behalf of Sarah Silverman and other authors against OpenAI and Meta, accusing the companies of illegally using copyrighted material to train AI language models such as ChatGPT and LLaMA."
     publishedDateTime: 2023-07-10T19:42:00Z

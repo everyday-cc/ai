@@ -207,6 +207,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "China takes major step in regulating generative AI services like ChatGPT"
+    excerpt: "Hong Kong (CNN) — China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT."
+    publishedDateTime: 2023-07-14T08:03:00Z
+    webUrl: "https://keyt.com/news/2023/07/14/china-takes-major-step-in-regulating-generative-ai-services-like-chatgpt/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 38
+    images:
+      - url: "https://keyt.b-cdn.net/2023/07/0713-WEB-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
   - title: "LGBTQ+ consumers skeptical AI like ChatGPT will improve their financial experiences, Achieve survey finds"
     excerpt: "Wide-ranging survey on the personal finance experiences and challenges of the LGBTQ+ community reveals access to financial opportunities is"
     publishedDateTime: 2023-07-11T12:27:00Z

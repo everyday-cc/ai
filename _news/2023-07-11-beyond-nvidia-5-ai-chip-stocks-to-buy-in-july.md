@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-
 webUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Best Artificial Intelligence Stocks To Buy Now? 2 For Your July 2023 List"
-    excerpt: "Artificial Intelligence (AI) has grown and transformed significantly in recent years. This is all thanks to amazing innovations in fields such as machine learning, deep learning, and computer vision."
-    publishedDateTime: 2023-07-09T16:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-now-2-for-your-july-2023-list"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
 
 secured: "+IdzRvEJoYUmAPQ1QIdS0T2u8iEU9235akSDeI/t7up70nk9saNuuFG4krtqH4IWGk1KLe+/fvkRsJcNDGgu1O2JeqFJzMDWy3nFhcs2p36NHUUl2HYDM1NP1nH9emsSSOHiJybYcp7WEOGrLmYv7a+yBzgbuj0nMOSz2RI42UandjUvaCLEkkhlPANDmghd3+tzqkSCcesJqBPRhv0qrJZ68QZRoiaGhnzYwh0cvVA58A0zbhfCDxwH9rks2wItJTl39I8pQJmtrR8MulhGTnlsYpNB0rB7jWoHYm3xzah0cveNKqAa6vGolTTeqC9rE80yeudML67rr3MKYg+1aJZk9NoLVe+tllHM0qs6PjQ=;crdjFVHu0l/sQNIbifnpow=="
 ---

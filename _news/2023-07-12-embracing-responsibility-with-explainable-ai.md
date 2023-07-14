@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Revolution in AI powered by Transformer Architecture"
+    excerpt: "Introduction: The field of machine learning is constantly evolving, with groundbreaking discoveries that push the boundaries of what is possible. One such discovery that has captivated the attention of researchers and developers alike is the transformer architecture."
+    publishedDateTime: 2023-07-14T07:21:00Z
+    webUrl: "https://techbullion.com/the-revolution-in-ai-powered-by-transformer-architecture/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "wZx1CH1VX5CLxmNF9UWJ6kI9LmtqwpJAMhmVC6cEe1HkETfzDAnmPE1KlNnyfULuT8G9+1xPB98UCnYH9JJizUCnzt/zg1I9tx+Z0sRvZN55ioiYzyHZ2UJ0RqVJs6rx4rmgngNCrJP/UihXZYy0ot9BbER/EORko29TGPkmXZlzjWb3iR7IPf2CDg3R2rWwxiuAOdRI20pK9Duv+B1pyoIlRPhKAcKAN5foblcu9nqWSJp0W4iFTIKJQT9FWvyWLDDMX7VSYhVRv1aZ7Y8c4I/qAcJbkRlD4BBvEhogvmOejLI7L17xBZLaEdj1UBzYqNgwwc6a/9rlrT+jrW8dwPBHkGOWcblEMTcWvklN7mPahsGpBs9I67wAsaiS6Udc1HMJliSpAYJQOPBndcn2Pw82OgMUjejV/tShTpWaTyCLZJzUUI+2Dp1SRtVpH5/XQgJYYuMUlj4QTfPA12IREHHppYnnbUfb8msgDCsI+HX19ooJMafDu84X8Tg4Sq0mtiI7VyiOADH+LypHFI0naQ==;fb88Vz7IfHARLVdUD5aftg=="
 ---

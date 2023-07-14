@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-coming-for
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ai-bpo.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Amazon touts its low-cost cloud computing in generative AI race"
-    excerpt: "A key way that Amazon's cloud division aims to set itself apart from rivals perceived to have a leg up on artificial intelligence is by competing on price, an executive said on Tuesday. The AI models behind a viral chatbot like ChatGPT require immense computing power to train and operate,"
-    publishedDateTime: 2023-07-12T07:11:00Z
-    webUrl: "https://www.aol.com/news/amazon-touts-low-cost-cloud-001132828.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/352c695b9611de4579999da1626fca1f"
-        width: 800
-        height: 533
         isCached: true
   - title: "Nick Clegg: Openness on AI is the way forward for tech"
     excerpt: "But, ultimately, openness is the best antidote to the fears surrounding AI. It allows for collaboration, scrutiny and iteration. And it gives businesses, start-ups and researchers access to tools they could never build themselves, backed by computing power they can’t otherwise access, opening up a world of social and economic opportunities."

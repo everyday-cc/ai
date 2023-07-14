@@ -24,35 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Most workers want to use generative AI to advance their careers but don't know how"
-    excerpt: "Out of the respondents in the survey, 54% of workers believe generative AI will advance their careers. 65% believe that generative AI will allow them to focus on more strategic work. Despite the optimistic look, the workers felt like they don't have the right skill set to properly use generative AI or take full advantage of the new technology."
-    publishedDateTime: 2023-07-13T19:52:00Z
-    webUrl: "https://www.zdnet.com/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/"
+  - title: "Kakao ups its game in generative AI with Karlo 2.0, an AI image generator"
+    excerpt: "Kakao Brain, an AI unit of Korean tech firm Kakao, launched Karlo 2.0, an AI-powered tool that can produce images from prompts."
+    publishedDateTime: 2023-07-13T11:59:00Z
+    webUrl: "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/"
+    ampWebUrl: "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
     images:
-      - url: "https://www.zdnet.com/a/img/resize/1f4d5350a413ee7e0b3ef4615bcf2645f1051a85/2023/07/13/1e816a08-2525-4e48-b0d8-8a1f61eee348/gettyimages-1256306440.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/이미지-카카오브레인-초거대-AI-이미지-생성-모델-‘칼로-2.0-공개_230710.png?resize=1200,581"
         width: 1200
-        height: 675
+        height: 581
         isCached: true
-  - title: "Experts want to give AI human ‘souls’ so they don’t kill us all"
-    excerpt: "Some experts believe the alignment problem can be fixed by making AIs more human — but others say that will just make things much worse."
-    publishedDateTime: 2023-07-14T05:55:00Z
-    webUrl: "https://cointelegraph.com/magazine/ai-human-digital-souls-agi-alignment-problem-replika/"
+  - title: "Amazon touts its low-cost cloud computing in generative AI race"
+    excerpt: "A key way that Amazon's cloud division aims to set itself apart from rivals perceived to have a leg up on artificial intelligence is by competing on price, an executive said on Tuesday. The AI models behind a viral chatbot like ChatGPT require immense computing power to train and operate,"
+    publishedDateTime: 2023-07-12T07:11:00Z
+    webUrl: "https://www.aol.com/news/amazon-touts-low-cost-cloud-001132828.html"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://cointelegraph.com/magazine/wp-content/uploads/2023/07/magazine-Creating-AI-souls-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://media.zenfs.com/en/aol_reuters_29/352c695b9611de4579999da1626fca1f"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "jH+m5zaGqDcNNhxBGOihfgjA8R5+K8UdpBOzbNJ6YwOYRY/hqH8oiPhVaNLjhfXKSbig6kGVQq5zImsZ3EcF1iZPL2xcKOXLLjQhbgCGvxTPl+W4FfcGaY29cJkiYIAKb7eKzOyPO+fVqbXoOS5fuJji89spO8WYQ3qKD++hahS9gVC4NOuWdVnNOqUyuHlSaO5HeRiNmf8CHnQFfejsN8+M1cgSmIZxCjEfJAMUBp8D1teXyEL6mrYjFtCRmxGBQIfhd1gpeThtnV8PBBUc6SU/ITpqNgdFPVtqsDer51ZknZZ6S9ly7K3HqXfu9FBiwWXNBvpMQGF0oq7EEMZ6jedmCVmH2yC5ky7HMyg3KKA=;PXfO1ZxsV7YCr8E0YloI/g=="

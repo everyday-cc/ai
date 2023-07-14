@@ -7,8 +7,8 @@ originalUrl: "https://www.thestar.com.my/business/business-news/2023/07/11/drive
 webUrl: "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Star
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen Is Testing Its Driverless Vehicles in Austin"
-    excerpt: "Volkswagen's autonomous driving program kicks off in Austin, Texas, this month with two all-electric ID. Buzz vehicles."
-    publishedDateTime: 2023-07-09T16:57:00Z
-    webUrl: "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04zsyA3dJ4DvBc0sOcGH1XJ-2.fit_lim.size_1200x630.v1688921824.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Driverless taxis to start paid service in capital"
-    excerpt: "On Friday, authorities in Beijing made a policy decision to allow eligible companies to operate driverless taxis without safety supervisors on board and charge passengers for the rides, marking a definite step in commercialization of intelligent transportation."
-    publishedDateTime: 2023-07-09T16:41:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/10/WS64aad722a310bf8a75d6e165.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/09/64aad722a310bf8a1d23b54c.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "What enterprises can learn about data infrastructure from Cruise driverless cars"
     excerpt: "As AI permeates more aspects of business and society, Cruise's lessons on robust data infrastructure will only grow more relevant."
     publishedDateTime: 2023-07-13T12:01:00Z
