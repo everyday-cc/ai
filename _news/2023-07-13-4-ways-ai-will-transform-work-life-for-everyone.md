@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-13T13:48:00Z
 originalUrl: "https://www.ph-creative.com/blog/posts/4-ways-ai-will-transform-work-life-for-everyone/"
 webUrl: "https://www.ph-creative.com/blog/posts/4-ways-ai-will-transform-work-life-for-everyone/"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
-secured: "TcYPrCyW+Vp7TnPD8RHSUry51j2LgIZKWH6v9MXmMa7d+CfMdZ0zp4ysjk8llF5ePbA8X0NSYryHsewNjnbwD0SjI/LP/NGoxWZ5h4HoDrIYi3/iFSLaI1mtntQgJBEhZNM24YMaTjdyn6mE53+ZYw9AkKnA30hmHTLYH2pygaeqT5EobAKZWyBmFtJkoyoo/QyzIbMg+lpW1gN4CfVibtPvDhE1iExC5p6gX4OCUOLU/xQJLgoqCnycWJDbPJIdr6wlXA9BpuPFqY0OqREfVp6GxwsnL+IQdKp+wupN72RTMrnfgUGzJZRTV45Poxa4fHl6iqWFONERA63wuPd5nF5bP25e+ukFiq7pfESNePAoyRCcbz419GfQFpGlBxpEzc9hIMUqp0cCva8ah0KXJbli26ltAMeBWysE6XAeehXIl/URv4g4r/Ayag2sxmTlyTOI8umnMXT9n7fwWRGA/RZt8EnSRwSvc1WBaKpy6PVGTiSP61B5SpCX9VJ7OL9KpbHP82pcS40lHbRBRYrAJQ==;xWx5JXdBV8LS32mfVWkt+g=="
+images:
+  - url: "https://www.ph-creative.com/media/3185/untitled-design-3.png?anchor=center&mode=crop&width=1200&height=630&quality=100"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "pw+yZYtzaPzBPftQtn3xQhHqNT8XpTJZ1jEPl9zfkHeHv7cq1eDC8qalPnnwlVf3uC4AGLBJsvmVHkR5eKR6u7OfpMy7Gpo5s7E9riOKAHociL+nmhtb1KTlvFD2KtofYK0mEJhqU4cjc2x8u8WQDambdnCVVQ//1MVE8LESZx/BFPQIBj9gQ8AL/iAR11armMvvb4TUrbyuErAnoZdBMFuUb+5AJENOA2s9YwKc3a2yKLH8PFQDSitYpC4Ep8IscqI84SfDpSaa6qnE51yBLo2QiED5MIHsSjgtKGOwlAfYc+GKKhg0gto0ExKWgWvn+1hhH/7hF7CfMYm5qvpXBLVA983goocv7C62izcm9bc=;yidV0q2jNHl5PM0oZ+xmXw=="
 ---
 

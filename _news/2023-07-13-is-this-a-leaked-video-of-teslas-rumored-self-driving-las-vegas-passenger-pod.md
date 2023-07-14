@@ -1,0 +1,72 @@
+---
+category: news
+title: "Is this a leaked video of Tesla's rumored self-driving Las Vegas passenger pod?"
+excerpt: "A YouTuber posted a video showing what he said was an early prototype of Tesla's rumored people-mover. It spread across the internet this week."
+publishedDateTime: 2023-07-13T16:05:00Z
+originalUrl: "https://www.autoblog.com/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
+webUrl: "https://www.autoblog.com/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
+ampWebUrl: "https://www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
+cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
+type: article
+quality: 55
+heat: 85
+published: true
+
+provider:
+  name: Autoblog
+  domain: autoblog.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/3a0ae35eb02048eb8a6ca77a13999005"
+    width: 1062
+    height: 597
+    isCached: true
+
+related:
+  - title: "Jury chosen in trial of Las Vegas police officer accused of stealing $165k in trio of casino heists"
+    excerpt: "A jury was seated Monday afternoon in the trial of a Las Vegas police officer accused of stealing nearly $165,000 in a trio of casino heists"
+    publishedDateTime: 2023-07-10T23:34:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 30
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_93a8060eeb7d98a9f528f9d5ca8104aa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Las Vegas police officer accused of stealing nearly $165k in a trio of casino heists to face jurors"
+    excerpt: "A Las Vegas police officer accused of stealing nearly $165,000 in a trio of casino heists is scheduled to face a jury this week. Jury selection began Monday in the trial that’s expected to"
+    publishedDateTime: 2023-07-10T20:03:00Z
+    webUrl: "https://www.mcall.com/2023/07/10/las-vegas-police-officer-accused-of-stealing-nearly-165k-in-a-trio-of-casino-heists-to-face-jurors/"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 10
+    images:
+      - url: "https://www.mcall.com/wp-content/uploads/2023/07/Vegas_Officer_Casino_Heists_69459.jpg?w=1024&#038;h=687"
+        width: 1024
+        height: 686
+        isCached: true
+  - title: "Las Vegas officer accused of stealing nearly $165k in a trio of casino heists to face jurors"
+    excerpt: "Jury selection is under way in the trial for a Las Vegas police officer accused of stealing nearly $165,000 in a series of casino heists. Prosecutors have painted Caleb Rogers as a gambling addict who"
+    publishedDateTime: 2023-07-12T04:17:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jul/10/las-vegas-police-officer-set-to-go-on-trial-over-1/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 0
+
+secured: "cGifvZAMAWANuClrOus58m7QOTREdxhD7R/3tqynfnvH1wE9KwswJMIv8UrFqCUqxnOFv8xgygs1Gs/s8Ojjp0Rzq6MoGvBIv0cy8Tw6ok6y5GJ56ug/8BClnMlSfdcBGuJwEHyr5yCje0VGeHjJ0RY3euW3lvfTOc6bj5PTd+K9Zxs9U/KttVO4ULivuSihhyTn7/lQWyqB0t91oiIP2IOpCWzI3n2fZXYfXmWM+z9YSeedjO+01gIVA/5DW3Fz3y1G7+6yzOsbEWBSabLTl4yYnQKLb2g/lQNQeAnG9thIu8gPHXoAA8LeZSxhzUnKp/znE4tgKbg4fFKRjOcVIJiXJTbK64LX/Je7K4T4ETY=;RtyIfSOzUr2M2F3/H9NreA=="
+---
+

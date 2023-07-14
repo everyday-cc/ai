@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is this a leaked video of Tesla's rumored self-driving Las Vegas passenger pod?"
+    excerpt: "A YouTuber posted a video showing what he said was an early prototype of Tesla's rumored people-mover. It spread across the internet this week."
+    publishedDateTime: 2023-07-13T16:05:00Z
+    webUrl: "https://www.autoblog.com/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 55
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/3a0ae35eb02048eb8a6ca77a13999005"
+        width: 1062
+        height: 597
+        isCached: true
   - title: "Jury chosen in trial of Las Vegas police officer accused of stealing $165k in trio of casino heists"
     excerpt: "A jury was seated Monday afternoon in the trial of a Las Vegas police officer accused of stealing nearly $165,000 in a trio of casino heists"
     publishedDateTime: 2023-07-10T23:34:00Z

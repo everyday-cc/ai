@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-c
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-china-is-on-team-humanity-when-it-comes-to-ai"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ask Not What AI Will Do To Humanity"
+    excerpt: "Recent discussions about AI address its potential harm to humanity. A more nuanced discussion about AI’s conceivable impact will likely be more helpful. Capitalizing on what distinguishes us from AI may provide the wisdom necessary to optimize our future."
+    publishedDateTime: 2023-07-12T00:06:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-of-intimacy/202307/ask-not-what-ai-will-do-to-humanity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-07/Moor%20Studio%3AShutterstock_2259493033%20copy.jpg?itok=_T5lxd0M"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Tech Digest daily roundup: Musk launches ‘pro-humanity’ AI startup, xAI"
     excerpt: "Elon Musk has launched xAI, an artificial intelligence startup that will be “pro-humanity” to avoid the most apocalyptic AI scenarios."
     publishedDateTime: 2023-07-13T14:17:00Z

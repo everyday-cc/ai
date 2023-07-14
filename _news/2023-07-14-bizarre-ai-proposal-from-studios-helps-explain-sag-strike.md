@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/sag-aftra-actors-strike-ai-streaming"
 webUrl: "https://mashable.com/article/sag-aftra-actors-strike-ai-streaming"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     height: 675
     isCached: true
 
-secured: "PW/brnxEwCHZLNqZLQ+GaoCN4T5UZRJ0bLXh8mYeBMYlzrjJZjHWq4u6Dc7pAi4kN/wgu/ytUgKJpV6NqEuxTC3EUh8UGjnFJlfZ7dVfad57tYHL4rUocDWXxHMh6ZQq/rTmp0w5YEOZTtSyswqWSfPMi9KBsdJzsGyNt+VFPqdeXIABH+kb7H0fOXh+DDhNFyzug0NPtLlhqu3R6+boWlJdnZh37HiVp67RIsdQj9L2akRdAN1K48jBoq/4BT8prWGR2hTDGsbZGF3RjFQrEDu+00Gi3IICBzCQ2dyVLyXQyW6/w8Zy+UAMK5mDpJp4H9sDUgm+tnKEQ0omz8OmglokH4wL5tJQ5CbTTIKXrbo=;lA5g1ndhU3YSuy5kL91FFg=="
+related:
+  - title: "Striking actors say rejected 'AI proposal' would let studios use their likeness without fair pay"
+    excerpt: "On Thursday, leaders at the Screen Actors Guild-American Federation of Television and Radio Artists announced that the group was going on strike after negotiations with Hollywood studios fell apart. According to the Alliance of Motion Picture of Television Producers,"
+    publishedDateTime: 2023-07-14T00:02:00Z
+    webUrl: "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+    ampWebUrl: "https://www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/LCBOe1tGVBIEz4dd9flfVQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/c08c39b0-21d5-11ee-a7f6-516698f83aed.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "U9Tx/cqu7Bo4ux6F2+9P+4mhB3nGUZ0kXQbJ+HX7fkW1v4Ede+NJnvma67+WHAQHDP5yHLxa0YoNCvBLr1nJPn4dY4n+vo4Gv+WVQvCKTmtFmo+VZXoTK8wHmX4biqrnlnQI2U0urdZ72J5peNZSBQ1OA9sIyzwSrUFGtBJ2KOyYGLA+9KxPwC2yHMcpxbDgf+RFAbUFAnsFmTMVtG9zhhJ93wCr9MNxWfp0ogIkJGY/5mlZicUsqwGc2b9ztru4npIIOHFT1UegOUmQr37UsQtheOna4JJadDL8wJhNeJoDZoQUyOlP3sYvviw/bvj7S6gF1V5hJZIB4xEh0LGFPTxARWhqy8zKcROrKU0PvktXX3Xf9aUvmVzSs0uNyob9Z0SIHmqMeaMD8iIwcjYgjtI4uGFRkP5/QxZloCO2XuCkPDYJ0EjE/qST6ONEh0n/h5j763N0VHsh5NlpUUFYHQr3Dbzn9PokdULj0NSlENjQ8CB46ztE6wbZXg7haSGHFDZC+gxKViKCBCNbBC99Zg==;pjoDcOouxNknGe+DO2wolA=="
 ---
 

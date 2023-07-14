@@ -175,19 +175,19 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "The impact of artificial intelligence in the edtech industry"
-    excerpt: "AI makes administrative work in the EdTech sector simpler, resulting in increased operational effectiveness. Routine questions are automated by chatbots and virtual assistants, which provide quick answers and frees up staff time."
-    publishedDateTime: 2023-07-09T07:16:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-impact-of-artificial-intelligence-in-the-edtech-industry-3161299/lite/"
+  - title: "Health care providers say artificial intelligence could transform medicine"
+    excerpt: "Doctors at Mass General Brigham are using generative AI to record patient visits instead of typing in notes. Doctors say the technology not only saves them hours in administrative work, allowing them more time with patients, but they are able to focus on a patient’s social cues during appointments."
+    publishedDateTime: 2023-07-14T00:20:00Z
+    webUrl: "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
+    ampWebUrl: "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 55
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-08T175203.653.jpg"
+      - url: "https://kubrick.htvapps.com/vidthumb/d2da9836-1c08-410a-bf51-c3a491e807e6/1ea45c1b-a217-4615-ae61-f537adb0c5c8.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
         isCached: true

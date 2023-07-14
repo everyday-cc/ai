@@ -83,6 +83,20 @@ related:
         width: 770
         height: 510
         isCached: true
+  - title: "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
+    excerpt: "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ..."
+    publishedDateTime: 2023-07-10T06:19:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/2149923/A_new_era_of_AI_Innovation.jpg?p=facebook"
+        width: 2423
+        height: 1269
+        isCached: true
   - title: "ActivePort: A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
     excerpt: "ActivePort and Radian Arc join forces to enable high-performance AI. SYDNEY, July 10, 2023 /PRNewswire/ -- ActivePort (ASX:ATV) and Radian Arc are excited to announce an expanded relationship"
     publishedDateTime: 2023-07-10T01:59:00Z

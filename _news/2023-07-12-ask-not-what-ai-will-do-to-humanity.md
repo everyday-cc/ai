@@ -26,31 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "Robots vows not to erase human role at AI Forum"
-    excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
-    publishedDateTime: 2023-07-09T08:54:00Z
-    webUrl: "https://www.albawaba.com/node/1525829"
-    ampWebUrl: "https://www.albawaba.com/amp/node/1525829"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829"
+  - title: "Musk Believes China Is on ‘Team Humanity’ When It Comes to AI"
+    excerpt: "Elon Musk said he believes that China is “on Team Humanity” and would be willing to work with the international community on common guidelines for artificial intelligence — a technology he described as “a civilizational risk."
+    publishedDateTime: 2023-07-13T01:33:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-china-is-on-team-humanity-when-it-comes-to-ai"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 74
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iENBQmN8PKBI/v1/1200x800.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "AI and the human factor"
-    excerpt: "Artificial intelligence (AI) still needs people to be able to function properly. This is the word from Peter Blignaut, manager: pre-sales at SAP South Africa, who points out that computers can do nothing without instruction."
-    publishedDateTime: 2023-07-10T13:52:00Z
-    webUrl: "https://it-online.co.za/2023/07/10/ai-and-the-human-factor/"
+  - title: "Tech Digest daily roundup: Musk launches ‘pro-humanity’ AI startup, xAI"
+    excerpt: "Elon Musk has launched xAI, an artificial intelligence startup that will be “pro-humanity” to avoid the most apocalyptic AI scenarios."
+    publishedDateTime: 2023-07-13T14:17:00Z
+    webUrl: "https://www.techdigest.tv/2023/07/tech-digest-daily-roundup-musk-launches-pro-humanity-ai-startup-xai.html"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2023/07/Renault-Scenic.webp?resize=675%2C447&#038;ssl=1"
+        width: 675
+        height: 447
+        isCached: true
 
 secured: "gfNLjbTpDR79DVBsr8vx/yv5b/StzNKUAcm5jpWHZNqoeQb1Xyc5BYketuDGwndPvNiJ+QlFR7+fuhlaTZ88C/CepWrgZ6ocfWF96pX0spV6A83g7cVOss5vX8aW7KHhwZH0xMJ14TSFrVDbMXxLgrsXS3lg2mq+cxsBpQ35SuIirx2wgZ4+CvERMpWebezC4s9DdVZwwMgadcj3lKHaXjq0Z3bS0jyabtFBz0B4BtdQfoVQs58Y1xWNmZcZRKmBYj1qJmah6TwSB+hhSGTtXbxyzlhxl5ksuNQkIUtWP23Li2PR1zRoCIbStDBCBEmyotVx770sVdO71eLxIQeY/9/M5eyz1nDWQvKr7b9qgNQ=;jFwxUGIjrxo0/oMiDrLSng=="
 ---

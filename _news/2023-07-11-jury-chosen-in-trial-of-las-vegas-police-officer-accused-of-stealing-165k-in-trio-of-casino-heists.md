@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/las-vegas-police-officer-set
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is this a leaked video of Tesla's rumored self-driving Las Vegas passenger pod?"
+    excerpt: "A YouTuber posted a video showing what he said was an early prototype of Tesla's rumored people-mover. It spread across the internet this week."
+    publishedDateTime: 2023-07-13T16:05:00Z
+    webUrl: "https://www.autoblog.com/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 55
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/3a0ae35eb02048eb8a6ca77a13999005"
+        width: 1062
+        height: 597
+        isCached: true
   - title: "Las Vegas police officer accused of stealing nearly $165k in a trio of casino heists to face jurors"
     excerpt: "A Las Vegas police officer accused of stealing nearly $165,000 in a trio of casino heists is scheduled to face a jury this week. Jury selection began Monday in the trial that’s expected to"
     publishedDateTime: 2023-07-10T20:03:00Z

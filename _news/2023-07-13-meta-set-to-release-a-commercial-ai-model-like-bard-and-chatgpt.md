@@ -180,6 +180,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Meta to release commercial AI model like ChatGPT, Bard"
+    excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in order to compete with Microsoft-backed OpenAI’s ChatGPT and Google’s AI experiment Bard,"
+    publishedDateTime: 2023-07-14T00:40:00Z
+    webUrl: "https://www.canindia.com/meta-to-release-commercial-ai-model-like-chatgpt-bard-6/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 39
+    images:
+      - url: "https://www.canindia.com/wp-content/uploads/2022/07/meta-office.jpg"
+        width: 1540
+        height: 800
+        isCached: true
   - title: "Elon Musk launches his own AI company to compete with ChatGPT"
     excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
     publishedDateTime: 2023-07-13T23:42:00Z

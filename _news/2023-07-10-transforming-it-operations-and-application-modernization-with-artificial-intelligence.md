@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/transforming-it-operations-and-applicatio
 webUrl: "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/"
 type: article
 quality: 92
-heat: 332
+heat: 322
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647df0780fbdf1afcd13b283/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 738
-        isCached: true
-  - title: "Robots highlight potential and cooperation at AI Forum ensuring human collaboration"
-    excerpt: "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv"
-    publishedDateTime: 2023-07-09T08:54:00Z
-    webUrl: "https://www.albawaba.com/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
-    ampWebUrl: "https://www.albawaba.com/amp/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/robots-highlight-potential-and-cooperation-ai-forum-ensuring-human-collaboration-1525829"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 68
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM"
-        width: 1200
-        height: 800
         isCached: true
   - title: "NTT’s vision for AI adoption — and why collaboration is key"
     excerpt: "Explore NTT's approach to gen AI adoption, sustainable AI practices and why collaboration is a competitive advantage."

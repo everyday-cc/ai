@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "http://img.yicaiglobal.com/src/image/2023/07/27871284174533.jpg"
         width: 770
         height: 510
+        isCached: true
+  - title: "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
+    excerpt: "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ..."
+    publishedDateTime: 2023-07-10T06:19:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/2149923/A_new_era_of_AI_Innovation.jpg?p=facebook"
+        width: 2423
+        height: 1269
         isCached: true
   - title: "Activeport, Radian Arc Expand Relationship to Accelerate AI Deployment in Telecoms"
     excerpt: "ActivePort and Radian Arc are excited to announce an expanded relationship that will accelerate AI deployment within the telecommunications industry."
