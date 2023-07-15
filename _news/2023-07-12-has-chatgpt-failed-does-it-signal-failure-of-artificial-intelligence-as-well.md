@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "China takes major step in regulating generative AI services like ChatGPT"
+    excerpt: "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT."
+    publishedDateTime: 2023-07-14T08:03:00Z
+    webUrl: "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 86
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230714011428-china-generative-ai-regulation-intl-hnk.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Threads beat ChatGPT to 100 million users but the AI app is way more consequential"
     excerpt: "Mark Zuckerberg's new Twitter copycat app has attracted 100 million users in less than a week, but its rise is less significant that ChatGPT's growth."
     publishedDateTime: 2023-07-10T15:38:00Z
@@ -154,6 +170,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
+    publishedDateTime: 2023-07-11T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stocks-ai-potential-is-not-just-limited-to-rise-of-chatgpt-1032437318"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "ChatGPT Is Losing Users. Is The Artificial Intelligence Craze Over?"
     excerpt: "The decline in usage of ChatGPT would indicate that artificial intelligence a fad that is now trending down. Is that a useful data point or should we ignore it?"
     publishedDateTime: 2023-07-11T12:00:00Z
@@ -176,20 +201,6 @@ related:
       - url: "https://www.canindia.com/wp-content/uploads/2022/07/meta-office.jpg"
         width: 1540
         height: 800
-        isCached: true
-  - title: "China takes major step in regulating generative AI services like ChatGPT"
-    excerpt: "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT. The Cyberspace Administration of China,"
-    publishedDateTime: 2023-07-14T14:03:00Z
-    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/14/china-takes-major-step-in-regulating-generative-ai-services-like-chatgpt/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 38
-    images:
-      - url: "https://krdo.b-cdn.net/2023/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0wMDBkMmFjNDUwN2QwNTgzYTI1MDYxNWMxYjFiNDRkYw-L19wYWdlcy9oXzFkMmRkNGJlNjViM2Y1OTczYjg3YWVkYjQzZDg5YzQ1-300-scaled.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Elon Musk launches his own AI company to compete with ChatGPT"
     excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
@@ -214,6 +225,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT"
+    excerpt: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT - SiliconANGLE"
+    publishedDateTime: 2023-07-13T00:30:00Z
+    webUrl: "https://siliconangle.com/2023/07/12/elon-musk-leading-new-ai-startup-aims-understand-universe-compete-chatgpt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/muskhappy.jpg"
+        width: 763
+        height: 600
+        isCached: true
+  - title: "How Sarah Silverman might save us from AI like ChatGPT"
+    excerpt: "Sarah Silverman is one of the authors suing OpenAI and Meta for infringing copyright while training ChatGPT-like generative AI."
+    publishedDateTime: 2023-07-11T17:30:00Z
+    webUrl: "https://bgr.com/tech/how-sarah-silverman-might-save-us-from-ai-like-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
   - title: "Elon Musk launches new AI start-up to rival ChatGPT"
     excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
     publishedDateTime: 2023-07-13T06:39:00Z
@@ -250,15 +284,6 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 13
-  - title: "ChatGPT and the Future of Health Care"
-    excerpt: "In the past year, discussion of digital health and, specifically, the impact of artificial intelligence (AI) has made headlines. Digital health refers to the use of technology, such as mobile devices,"
-    publishedDateTime: 2023-07-14T13:43:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/chatgpt-future-health-care-medicine/"
-    type: article
-    provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 4
 
 secured: "XQcoD6JzRvAr0H9q8p6vhER+sLT54fK0l0STwDyu1v6465F5699N7YV/XahOiyyCJkmFvfm7Taw1F331JQ2oqnyeMZ/BxfrH/VVyhnlr+utslIqC/Obq2YHGkLEyXHzIeqiWaJ/a2jqIJuTirPsWmNVOQU3HTx+KfV4+sHsQQRWBCRS63G4tOlX6g0RTa1X3gPyW5eWPNWboDyNOrEa0GzVcqx4mOpWruGa8hEbSmIO7GCz1mJHA+jUIt8Yvu0Y5TBinBmG2D3+Msi+fKpuFwCA1N2T7A/Mdv94/NeVFkPt/XP0Gecx7ko7kN5v/E9PQNo1q8KovspfZgO4Xl6fmk81ZvJnchFb+OMDe1U8Z8Pw=;R9UwwRiSVdSbfvD3WC4LFw=="
 ---

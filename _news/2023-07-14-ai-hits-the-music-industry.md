@@ -279,6 +279,20 @@ related:
         width: 598
         height: 233
         isCached: true
+  - title: "AI not yet a game-changer for healthcare hackers"
+    excerpt: "Hackers are hitting healthcare targets as hard as ever, and now researchers say the emergence of generative AI will make future attacks even easier for adversaries – eventually."
+    publishedDateTime: 2023-07-14T23:29:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/ai-not-yet-a-game-changer-for-healthcare-hackers"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 54
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2023/07/0714_chatgpt.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Meet The AI Specialist Employing Data-driven Strategies To Revolutionize Healthcare"
     excerpt: "The utilization of data analytics stands to revolutionize the delivery of healthcare services by enhancing drug discovery, bolstering patient adherence, reducing physician burnout and patient out of pocket expenses,"
     publishedDateTime: 2023-07-12T07:21:00Z

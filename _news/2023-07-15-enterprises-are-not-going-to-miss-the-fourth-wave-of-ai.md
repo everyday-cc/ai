@@ -8,7 +8,7 @@ webUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-mi
 ampWebUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.nextplatform.com/wp-content/uploads/2023/07/ibm-watsonx-logo-1024x1024.jpg"
@@ -79,6 +80,6 @@ related:
         height: 633
         isCached: true
 
-secured: "42fn2/4IWIdz5tLpWo/RybGPdC7Gz4culUqnEebr+KZR33dwhOca/YSdlXzXxmQ7gNwG8pUPI1B5NteVuJnTXO8QIvVn7m56ReLojYkYlMF4MbyZvopgQ5+25jRRXwpEYIK5wcmbusi7xV6wGdLsls7L8HJHPwWc47n5GfTc8O0YVXwmZyu69TDlK2StaASXDZkatQo8RV8fmxwpZt0OuNBRTCqjZkL2Mc0Np+lHFqf9rLqCtg9dAEnFoZ6Z2jZZ7c7H5wqjKDHqiQlfhXHMBnvvQSqnAMXURNXPl/867sFEis8y4Ktf5VcVyvxBA2N9TlrXVFqpKKZOUIMnWmeGDAznRPNf5vhLQudNcRHMRmY=;Mft4BE6/jx3DPuwMXvh04w=="
+secured: "dCpJbLjtFVUHoX3bcLI50thARU4c06VqA29zYrAQYi9hxJhrV8aBCZ+9P3mIgqvb3YmgQQPrOSCInxB77JmMx7q6HXNGL//IWqUhP7XPO3pilVl7kwrKdu+Agb1fMtlejOQlOID42erX+u0CDNyx/7KZoYNKPFqnk5rptcbNquZEZzNKW+mu20oiuyhJYSkGy8cUjpYRAltgG2lbZAGkrlzXklC/mTeXdXXy4/1tqKvIyvylLbKXRhmtuU354RY90z6PMq+ygtmQf+Rbf6/zoOt4ULeO1gQM1yybqP1aonBJwAfy6gg0DiTzVxOSawl6RFatZjsaEGiw4pfjTNNqPlWynYSAN9z9KT8kmXcZl4UsjEH2olJAaUxvHoQnWTDPDM02jmSekxbJ/AMLajnovHPzq4nmU2hgANGonVmT6xvhgn7adWFwn9cwA3oyoFJSUb8pdeFHHIfxTBr4k32Fs7tZp/A3NHuwi1okSIJPAGkpIxTn//YABEqfsBC9UeBtGl5EBRd6c9iVtLwk2rWdbg==;aeyuYnO9t48Jw7M5zhBn/g=="
 ---
 

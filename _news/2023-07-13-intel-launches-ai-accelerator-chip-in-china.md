@@ -35,7 +35,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://www.zdnet.com/a/img/resize/5813572f96db2e0e3458338634da98a4e755da51/2023/07/14/c7681ad0-9274-40c9-a00f-f9e631f86420/gettyimages-1399940008.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
@@ -70,6 +70,20 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/55375-112485-setapp-xl.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Amazon touts its low-cost cloud computing in generative AI race"
+    excerpt: "A key way that Amazon's cloud division aims to set itself apart from rivals perceived to have a leg up on artificial intelligence is by competing on price, an executive said on Tuesday. The AI models behind a viral chatbot like ChatGPT require immense computing power to train and operate,"
+    publishedDateTime: 2023-07-12T07:11:00Z
+    webUrl: "https://www.aol.com/news/amazon-touts-low-cost-cloud-001132828.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/352c695b9611de4579999da1626fca1f"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "53Vj9amR5J30nEuRcB9qfu1j7u6RHoDtiBVzDtHVIO0bK9QJm2BO8H5B54mztOGFtjQIF2GaEXkWC8w8lyMDUmEC2EJc4QZV9QDQptaIa0fZeCiXUIXWHP3lSi7wJw0e/hNB6LausciKlZNEoNBpTeXDgiMQd1wPuy83tIO1AIBPXnzIdiEYBNUx4UAy6v/dmlRR5pli+LbLwhbGDhwyJ3RPXlL+BlT6Wb+FpDJjFhdqpSpRBeWAhku1nUvkiX/2X969p3kZVDJMLKwEUIsaQ2ExEB69EYrFhM13Q989gohoIGytr3DYXzVdb38Uu3Blkw40BJXGcbYC3TT91jklhx+qm+K79KZykA13n5OXTLTE5F+pdBgywcv7R0ykUIUO1cwTdXN3KSmzDEdpVyFaFXAgVXlbIT8Rj7PGX/7lTIHU7jn1P2qSVrOmQOHNXUnDRnfXkkc5gM4RYs4HO+mcUn14XL8tN70blHft8+vMDtUX1FqRJWDtcCZDs1QpcdaZicly5UVX8BPK+0d72XTp8w==;JLTyCt4gJj3iX5E9Jhj9aw=="

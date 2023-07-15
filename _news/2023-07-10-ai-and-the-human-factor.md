@@ -19,51 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The Black Mirror plot about AI that worries actors"
-    excerpt: "If that sounds like the plot of an episode of Charlie Brooker's Black Mirror, that's because it is. US media has been quick to point out that the recent series six episode \"Joan Is Awful\" sees Hollywood star Salma Hayek grapple with the discovery that her AI likeness can by used by a production company without her knowledge."
-    publishedDateTime: 2023-07-14T16:06:00Z
-    webUrl: "https://www.bbc.com/news/technology-66200334?at_bbc_team=editorial&at_ptr_name=twitter&at_link_type=web_link&at_link_id=7FA42462-224D-11EE-AB00-4FA65B3BE886&at_link_origin=BBCNews&at_campaign_type=owned&at_format=link"
-    ampWebUrl: "https://www.bbc.com/news/technology-66200334.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp"
+  - title: "The Last Word on AI and the Atom Bomb"
+    excerpt: "I’m old enough to have cowered under my school desk. Decades later I learned physics from the bomb guys. What I’m mainly hearing now is echoes."
+    publishedDateTime: 2023-07-14T10:00:00Z
+    webUrl: "https://www.wired.com/story/last-word-ai-atom-bomb/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F3A0/production/_130386326_603b6ad4-fac6-440d-aa8a-6aeb338788ad.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Why are actors so worried about AI?"
-    excerpt: "The strike comes after US actors' union the Screen Actors Guild failed to reach an agreement on increased safeguarding around AI rights. The union warned that \"artificial intelligence poses an existential threat to creative professions\"."
-    publishedDateTime: 2023-07-14T13:40:00Z
-    webUrl: "https://www.bbc.com/news/technology-66200334"
-    ampWebUrl: "https://www.bbc.com/news/technology-66200334.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6F20/production/_130384482_gettyimages-1401980646.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Through the Black Mirror: \"Joan Is Awful\" and AI Malpractice"
-    excerpt: "\"Joan Is Awful\" follows Joan – played by Annie Murphy – a manager who sits below the board at a tech company and has to make one of her employees redundant despite the ramifications of this on the company's recent green initiative pledge."
-    publishedDateTime: 2023-07-10T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/10/9845155.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/2150333/IDTechEx.jpg"
-        width: 400
-        height: 225
+      - url: "https://media.wired.com/photos/64b09f9d57ff6ec62db8a8b5/191:100/w_1280,c_limit/ideas_ai_oppenheimer.jpg"
+        width: 1280
+        height: 670
         isCached: true
 
 secured: "CpIpV0YlSQmLNInJYvd+IIV8XDOKFvB+GyN2S+F1wiWjP6WLIMNweNr1jDXeINkMpXaG1Ijdz2UsplGk0XpXiRqjZs56qinm9jWKCKQyiOLDAuK4mvOfxvvDvJatme5skrNF9vpPotYF8WPCA66U5jqRjc7ioFrdBD3FfdKzGUjF2BQ/4F9ER20sBv6G9YrbJRz7/o35/VlmGeYdAvCEkBgU9kctIndaTkihv9r+WVWvzQHAYKrvCKFkM6QTg6izsRG3+4fNiNyDRaSkuOdFxZI5GzhmF4b7562sBFCEjNJfptn44YsiiXKvjYj1GoXdq/Qh/Rxn4nUsWUUrDCA5iImSeQyE7pb0cKAPv9nniMR3k+wVnpdckGLOyDIcQl03UeQC8t9JFn9SZO9qc+1U0VYp4gvNW+DTRLYeY41ZeMr77svltQbxssw3XC1Z7Vhwd9ubXNUhfq7rNZhKApc58GKGPHKyvhejz03rjee0sR4+JqNKLIwzFbrygQfVaxkaHNOxOBi6dg3JTSS2sC3K1A==;L8s2qfhycLg//GeFQApIvA=="

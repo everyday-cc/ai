@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon touts its low-cost cloud computing in generative AI race"
-    excerpt: "A key way that Amazon's cloud division aims to set itself apart from rivals perceived to have a leg up on artificial intelligence is by competing on price, an executive said on Tuesday. The AI models behind a viral chatbot like ChatGPT require immense computing power to train and operate,"
-    publishedDateTime: 2023-07-12T07:11:00Z
-    webUrl: "https://www.aol.com/news/amazon-touts-low-cost-cloud-001132828.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/352c695b9611de4579999da1626fca1f"
-        width: 800
-        height: 533
-        isCached: true
   - title: "How AI image-generators work"
     excerpt: "Today “ generative AI ” models put brush to virtual paper: publicly available apps, such as Midjourney and OpenAI’s DALL-E, create images in seconds based on text prompts. The final products often dupe humans."
     publishedDateTime: 2023-07-10T16:09:00Z

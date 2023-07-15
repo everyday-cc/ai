@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Feds Rallying For More Self-Driving Cars While Public Fight Back With Street Cones"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) is proposing an alternative regulatory route to accelerate the development of autonomous driving. The \"AV STEP\" allows companies to deploy more self-driving vehicles,"
+    publishedDateTime: 2023-07-14T22:42:00Z
+    webUrl: "https://carbuzz.com/news/feds-rallying-for-more-self-driving-cars-while-public-fight-back-with-street-cones"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 18
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/1600/1158000/0/1158031.jpg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Annoyed Residents Disabling Self-Driving Cars by Placing Traffic Cones on Their Hoods"
     excerpt: "By placing traffic cones on self-driving cars' hoods, activists are turning them into useless hunks of metal and plastic."
     publishedDateTime: 2023-07-11T19:44:00Z

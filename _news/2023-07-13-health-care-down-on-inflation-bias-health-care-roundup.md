@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/health-care-down-on-inflation-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Fear of AI chip ban drives up Nvidia A800 prices in China"
-    excerpt: "The Biden Administration's ban on the sale of high-end AI chips to China has driven the prices of Nvidia A800 chips to skyrocket in China."
-    publishedDateTime: 2023-07-10T06:44:00Z
-    webUrl: "https://www.digitimes.com/news/a20230710PD210/china-ai-ic-manufacturing-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230710pd210_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "prz7XwRuhu/cGbKEawESMshd6KCDDMwnWfLfyUrSiQOb+4xbFmF9SmPpAlbfg9jqG5RcQdeWACKMtErMc36VLohP89/4c4r8977B7W2J9PkTJju5sQzetYVl7YUpq57MxmkGS5HqaWGxlQrM98an2KyB5TDtgqiQR99Yh7wGaaqYQKd6nM5O2unaf/keU8c/34s8lsJqnjUR75n9hp3GJaHZjnx1jwgZHbMPXyn0DyYr9gnnyqmKguQgxS+hDf0bjI67UIM1rQdx5CGHoMXFkl+kBST0XQzSadDtR22gO3tpILNp/Rjue8KhneDmjLzF3s922tOWCCslf29fQAmj8Kw3O0ErgS/QSFrBAUfJ4tdTosv+D+IW95VGnBZQMhGl12FSvwqDsVhlM41Q88MqWm25ZkGTsLJ+s2sliCuV1qhQiUBQ9QTy2P1166+duAcRo2XAVrmkLgBjPH6vkP+mFupb300ZHDbmicfrY93prn+xVZ9L35aSEb8YLjiMqFtwN+XuTUtAXazQ3p4J4Rbcag==;RQhbkJe2Mn5Y4/IEGy4sDA=="
 ---

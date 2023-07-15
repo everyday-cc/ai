@@ -258,6 +258,20 @@ related:
         width: 800
         height: 543
         isCached: true
+  - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
+    excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."
+    publishedDateTime: 2023-07-14T12:03:00Z
+    webUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 33
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/14/image/jpeg/HdGuCtkRWMdQDpbu6Vp8AZzW6cFE1gwlqPCJxjAm.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "India’s Wipro commits US$1 billion investment into AI"
     excerpt: "INDIAN IT services provider Wipro said on Wednesday (Jul 12) it planned to invest US$1 billion into artificial intelligence (AI) over the next three years. Read more at The Business Times."
     publishedDateTime: 2023-07-12T04:54:00Z
@@ -267,15 +281,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 19
-  - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
-    excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."
-    publishedDateTime: 2023-07-14T12:03:00Z
-    webUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 13
 
 secured: "yHAkZPnGJH27Q81fY5qsOzUZ2RV67O4HfJkTjhqe77Koc2ToaEIkhkX8Gbw7xvvyPpqJDu9s0NLFCCve3Q5cLTZCc1u/vDWnbynSJc9feu2mTpg5AmfF1C0TYAHg6E78uBkgLjAsYSx9RbQQKrAmKs9Fyb4ShaWAe+bCCAKDhrfxNqj0/w7Vda155tLOMqho4zlRBzjZbErrgQYiOW/jtrfilIDE0CQNs2p0aJ9avCLr/EpMKh0QC//mafEVumc0oUFXxy3j2McV1FvbNz58RN4mpon9q0SE1svMo+wDT8MlizmGTRYxYD+Ha/F2QE7h8sgrIuD+1luNbVuc15Mx2qBlDll0OxZXIgUvaC1lUWs=;QsFJvgjoFF6Ze4E8BijgUQ=="
 ---

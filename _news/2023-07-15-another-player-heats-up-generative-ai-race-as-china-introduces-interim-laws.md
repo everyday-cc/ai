@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/another-player-heats-up-generative-ai-rac
 ampWebUrl: "https://www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/5813572f96db2e0e3458338634da98a4e755da51/2023/07/14/c7681ad0-9274-40c9-a00f-f9e631f86420/gettyimages-1399940008.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -75,7 +76,21 @@ related:
         width: 770
         height: 510
         isCached: true
+  - title: "Amazon touts its low-cost cloud computing in generative AI race"
+    excerpt: "A key way that Amazon's cloud division aims to set itself apart from rivals perceived to have a leg up on artificial intelligence is by competing on price, an executive said on Tuesday. The AI models behind a viral chatbot like ChatGPT require immense computing power to train and operate,"
+    publishedDateTime: 2023-07-12T07:11:00Z
+    webUrl: "https://www.aol.com/news/amazon-touts-low-cost-cloud-001132828.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/352c695b9611de4579999da1626fca1f"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "tognJR6dqsOUxfhVxuqfTQM30fSPEfKeRjn1JJr8pBXLINwj1ncWfYJwvspuFwgKJmIiHL6iV3lOY1eBQEBAWE0T1Aiao4tWiYECs5tZPIg903lWQZzfCNXLooAqHRkxD1AWuQlRmGO6vZjd86xVni0uKrJ3SJ0E39WSkb/Ni4ESe6PloWwvDKoa2tbwiTjMMgqs0oYbpKTi5ReQq0PjR/ewR0cLQCFKGVGidnQZsPQMlfrRHZo6hVeZP93TF8xas65GkbwBolDyjEAfWOZutbkHAmZ+nNo1d0FYQXuQrRfg1dub2c+HEodSIqs0ZQD9ldGPc+XuYaOVdtqA89wWnTmS+Cd/uwbMmpUpSzdqxUo=;FBcav2mGiBzkbJ+HkrT2Gg=="
+secured: "b/zCSJHfbebZqJFc990QEQK2ImJA13R2fICDN3saOqyIs55JBRFQzcTjsfoaxwbNHWQhkAPBQUR/NqKnzbnakMHboVcfQ0Xhz9JJUP7J4DQkg+2UVkdEh8ROySnUkdaPCSFMNp6bSsr7jSIX8wwI+vjuIDh/VmDzdrPObjuB/xhrPpoWmXuXVmd9tiNWJPOAwN0CHDtn+xDYIHHxH5t5s5y3mUa2MSsObjKeZTmawR2oS+KatKCDs3bzfmRvU7aC8khNGVwzrG9AguKOSRa+dOvwgHfB+xFl8tQGoash3YGmUJ+b4m6/p8+0YdErMifwJvGgQx7spG2AquZ6WE6uPCDUi8PBu/INTrxNy1sbqpDMaCOvdpt+HQGkO7BYeYZXnUsJw5OfX11qfL8ogNRnR8vpzjFOcUtdP/L9QtBer9nMflD0u+nhbjPgr4z0hqUHPZp8rEZmbtXV+iPajK3iml16Ks26Pchy5WnH/Nq/tHpWAh4luTS3LAX2DFRo7iDtOmWLBnXMhhTUu9cx0GkiyA==;zHAc12998RFYkFOpoT4MKg=="
 ---
 

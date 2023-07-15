@@ -27,7 +27,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://g.foolcdn.com/editorial/images/739438/man-in-specs-holding-a-smartphone.jpg"
         width: 2120

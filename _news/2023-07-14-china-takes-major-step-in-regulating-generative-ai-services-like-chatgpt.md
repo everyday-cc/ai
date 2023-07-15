@@ -1,27 +1,32 @@
 ---
 category: news
 title: "China takes major step in regulating generative AI services like ChatGPT"
-excerpt: "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT. The Cyberspace Administration of China,"
-publishedDateTime: 2023-07-14T14:03:00Z
-originalUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/14/china-takes-major-step-in-regulating-generative-ai-services-like-chatgpt/"
-webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/14/china-takes-major-step-in-regulating-generative-ai-services-like-chatgpt/"
+excerpt: "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT."
+publishedDateTime: 2023-07-14T08:03:00Z
+originalUrl: "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
+webUrl: "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
 type: article
-quality: 38
-heat: -1
-published: false
+quality: 86
+heat: 286
+published: true
 
 provider:
-  name: KRDO
-  domain: krdo.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://krdo.b-cdn.net/2023/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0wMDBkMmFjNDUwN2QwNTgzYTI1MDYxNWMxYjFiNDRkYw-L19wYWdlcy9oXzFkMmRkNGJlNjViM2Y1OTczYjg3YWVkYjQzZDg5YzQ1-300-scaled.jpg"
-    width: 1200
-    height: 675
+  - url: "https://media.cnn.com/api/v1/images/stellar/prod/230714011428-china-generative-ai-regulation-intl-hnk.jpg?c=16x9&q=w_800,c_fill"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -169,6 +174,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
+    publishedDateTime: 2023-07-11T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stocks-ai-potential-is-not-just-limited-to-rise-of-chatgpt-1032437318"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "ChatGPT Is Losing Users. Is The Artificial Intelligence Craze Over?"
     excerpt: "The decline in usage of ChatGPT would indicate that artificial intelligence a fad that is now trending down. Is that a useful data point or should we ignore it?"
     publishedDateTime: 2023-07-11T12:00:00Z
@@ -215,6 +229,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT"
+    excerpt: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT - SiliconANGLE"
+    publishedDateTime: 2023-07-13T00:30:00Z
+    webUrl: "https://siliconangle.com/2023/07/12/elon-musk-leading-new-ai-startup-aims-understand-universe-compete-chatgpt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/muskhappy.jpg"
+        width: 763
+        height: 600
+        isCached: true
+  - title: "How Sarah Silverman might save us from AI like ChatGPT"
+    excerpt: "Sarah Silverman is one of the authors suing OpenAI and Meta for infringing copyright while training ChatGPT-like generative AI."
+    publishedDateTime: 2023-07-11T17:30:00Z
+    webUrl: "https://bgr.com/tech/how-sarah-silverman-might-save-us-from-ai-like-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
   - title: "Elon Musk launches new AI start-up to rival ChatGPT"
     excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
     publishedDateTime: 2023-07-13T06:39:00Z
@@ -251,16 +288,7 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 13
-  - title: "ChatGPT and the Future of Health Care"
-    excerpt: "In the past year, discussion of digital health and, specifically, the impact of artificial intelligence (AI) has made headlines. Digital health refers to the use of technology, such as mobile devices,"
-    publishedDateTime: 2023-07-14T13:43:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/chatgpt-future-health-care-medicine/"
-    type: article
-    provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 4
 
-secured: "lnGMxaVokstvP/1vJKIViRngMu714h4QvQnPoRLtd3hb5K2PtTzfcbN3KwycLPQ2n7kdXEkXKm2A7YP+v2VJGvU1lVdUo9YDjyLQ34CJU5KS2nB1iLNGb/YSsR7Dr3Wz7l0rmMFJ7jzZYqHEFNsl+DvZVHrP6BInhNxS5SVLGdK+aZUgPvR3LpmRmIbvkyEVYzGFAEN2PzE63Xsj6Xi1Q6PA7seriegeekvQMdCKPXCDLDoUuSQ8YXkOe5ZPk3tmSvrDWaSgU+MAPhfKDYNtu9Nkkf7ijf4pSGqtR81raVCFRUjyM10NoAB1+wbCJs5cPLbgwROztxnnFvzjRPIzYpcxHVxxr8lxyklcLBO14AA=;1gJM6zA5oVW4S62hdtSJ/A=="
+secured: "cuVD0/6abf80nhctlx3AnyMcbKWK+8IvvXcHDElKB5tpuwGC91ECFnXwI21BY6WW0XSD4iVi7U5DNANTzl9vR6wITTkYfmjiR2n+rVMnv3zDGTRfSmLwtweqgnY8IEzakXZrkn+w/pnVCuyNQlU7FE/QB8rqvbQXWO1ZpoJqkK8qldGL6aHd21CSoYLjUDepunTsTn8eP+eX/xeyOhEpfeM0s41M3SBJiibFyqvMtXPFuL3QsD3c8WqFeAdXfLnW3Bi5KbeDVgE2cT9/o9DFe3qhSmSyR6Sq2aczHCIbX/e1IEOUJgVAvIr6XPMgxu1YgexmG7i2mIMYHkaJXxUQcvADwUAh1AP2EtHVtzrqLdM=;7zsj1ABU0mJEWXanJlZRJQ=="
 ---
 

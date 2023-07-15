@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-camera-
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-camera-market-grow-a-cagr-/2023/07/14/9848444.htm"
 type: article
 quality: 54
-heat: 84
+heat: 75
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Autonomous Vehicles Market Size is expected to grow at a CAGR of 8.7% between 2023 and 2033"
-    excerpt: "In 2023, the autonomous vehicles market size is expected to be worth US$ 30,539.0 million. The revenue from sales of autonomous vehicles is anticipated to reach around 70,331.5 million by 2033, growing at a CAGR of 8."
-    publishedDateTime: 2023-07-10T05:09:00Z
-    webUrl: "https://www.fmiblog.com/2023/07/10/autonomous-vehicles-market-size-is-expected-to-grow-at-a-cagr-of-8-7-between-2023-and-2033/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 14
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/07/Ferrovanadium.jpg"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "0tqkw3wY9Dp/l/CqAdVPLp+UPd2RCuyeE+rezvu9rtPB1YWskui8TlauDoC9hUnGgF4o+kUc7haQcqvxpmAdy3DoLjhExO0vBab7laGqp6HMLTVH7ihwfSUgBy/iMennqS9G9YzAJ+dwp9kHSbXJz5CfOBfNOni+qfexYHQfdPlCcsOzCMxWoFCGX5LCpNoQdVpMqLiPZUMko/TUYa/zpLL+Jj9fzSv2bc9R3SeYTF0WkCkZVwO176NY7U/hb9KeYrpD4/a/QK7tbC0tYtQwbn3Waeioe2kZAV6b4kt+g01iUmTyz5lVntIEsVBiRylNTwsePPIKhcWGLAQxosnIKAnCLXXccTxRV1XKv4zgeFU9nL13aRexF4GgQ+AJTodQKDAuILyzonWh7KL9V48j2h4fRgJEfsQfNvD/hz6Xf2oIjE9VYAoA6evc+qlKJJ+0vIOx7orKIRKQNVOhELVpzp5AcPy/TEm5IVHZIzGQWkHbCYMH7oSbMBH1d3oWcMv/Qcpdvv4wC7jTpaUA9oCYQg==;HT5sg999HvRa3r/OUWox5Q=="

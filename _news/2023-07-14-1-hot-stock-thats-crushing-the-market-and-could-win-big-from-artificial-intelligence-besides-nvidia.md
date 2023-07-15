@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-14T11:00:00Z
 originalUrl: "https://www.fool.com/investing/2023/07/14/1-hot-stock-thats-crushing-the-market-and-could-wi/"
 webUrl: "https://www.fool.com/investing/2023/07/14/1-hot-stock-thats-crushing-the-market-and-could-wi/"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/739438/man-in-specs-holding-a-smartphone.jpg"

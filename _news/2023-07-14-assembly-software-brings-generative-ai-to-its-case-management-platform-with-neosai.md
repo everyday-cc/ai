@@ -58,7 +58,7 @@ related:
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.nextplatform.com/wp-content/uploads/2023/07/ibm-watsonx-logo-1024x1024.jpg"
         width: 1024

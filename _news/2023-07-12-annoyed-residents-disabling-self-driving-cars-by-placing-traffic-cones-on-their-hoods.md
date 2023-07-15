@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Feds Rallying For More Self-Driving Cars While Public Fight Back With Street Cones"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) is proposing an alternative regulatory route to accelerate the development of autonomous driving. The \"AV STEP\" allows companies to deploy more self-driving vehicles,"
+    publishedDateTime: 2023-07-14T22:42:00Z
+    webUrl: "https://carbuzz.com/news/feds-rallying-for-more-self-driving-cars-while-public-fight-back-with-street-cones"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 18
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/1600/1158000/0/1158031.jpg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Illinois motorcycle group opposed to self-driving cars and upcoming testing"
     excerpt: "An Illinois motorcycle group is raising a red flag over planned testing of self-driving cars this summer. Tesla is hiring temporary test drivers around the country, including in Elgin, who will be paid to drive their vehicles and report on their performance."
     publishedDateTime: 2023-07-12T19:05:00Z

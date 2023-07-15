@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-bard-is-stepping-up-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-bard-is-stepping-up-its-ai-game-with-these-new-features/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

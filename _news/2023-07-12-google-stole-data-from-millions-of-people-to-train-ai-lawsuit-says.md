@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/google-ai-lawsuit/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-ai-lawsuit/?amp"
 type: article
 quality: 57
-heat: 89
+heat: 87
 published: true
 
 provider:

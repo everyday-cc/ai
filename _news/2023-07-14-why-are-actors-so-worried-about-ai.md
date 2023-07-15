@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.com/news/technology-66200334.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: BBC
@@ -31,43 +31,43 @@ images:
 
 related:
   - title: "The Black Mirror plot about AI that worries actors"
-    excerpt: "If that sounds like the plot of an episode of Charlie Brooker's Black Mirror, that's because it is. US media has been quick to point out that the recent series six episode \"Joan Is Awful\" sees Hollywood star Salma Hayek grapple with the discovery that her AI likeness can by used by a production company without her knowledge."
+    excerpt: "The strike comes after US actors' union the Screen Actors Guild failed to reach an agreement on increased safeguarding around AI rights. The union warned that \"artificial intelligence poses an existential threat to creative professions\"."
     publishedDateTime: 2023-07-14T16:06:00Z
-    webUrl: "https://www.bbc.com/news/technology-66200334?at_bbc_team=editorial&at_ptr_name=twitter&at_link_type=web_link&at_link_id=7FA42462-224D-11EE-AB00-4FA65B3BE886&at_link_origin=BBCNews&at_campaign_type=owned&at_format=link"
-    ampWebUrl: "https://www.bbc.com/news/technology-66200334.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp"
+    webUrl: "https://www.bbc.co.uk/news/technology-66200334"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-66200334.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66200334.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 87
+      domain: bbc.co.uk
+    quality: 57
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F3A0/production/_130386326_603b6ad4-fac6-440d-aa8a-6aeb338788ad.jpg"
         width: 1024
         height: 576
         isCached: true
-  - title: "Through the Black Mirror: \"Joan Is Awful\" and AI Malpractice"
-    excerpt: "\"Joan Is Awful\" follows Joan – played by Annie Murphy – a manager who sits below the board at a tech company and has to make one of her employees redundant despite the ramifications of this on the company's recent green initiative pledge."
-    publishedDateTime: 2023-07-10T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/10/9845155.htm"
+  - title: "What's next for artificial intelligence?"
+    excerpt: "We're continuing our exploration into artificial intelligence with another Tech Talk conversation about what the technology could revolutionize next."
+    publishedDateTime: 2023-07-14T21:36:00Z
+    webUrl: "https://listen.sdpb.org/science/2023-07-14/whats-next-for-artificial-intelligence"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
+      name: South Dakota Public Broadcasting
+      domain: sdpb.org
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/2150333/IDTechEx.jpg"
-        width: 400
-        height: 225
+      - url: "https://npr.brightspotcdn.com/dims4/default/891c89c/2147483647/strip/true/crop/1640x861+0+32/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2Fee%2F08256fb4434abef861f6c29f1095%2Fblack-flatlay-photo-motivational-finance-quote-facebook-cover-1.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI and the human factor"
-    excerpt: "Artificial intelligence (AI) still needs people to be able to function properly. This is the word from Peter Blignaut, manager: pre-sales at SAP South Africa, who points out that computers can do nothing without instruction."
-    publishedDateTime: 2023-07-10T13:52:00Z
-    webUrl: "https://it-online.co.za/2023/07/10/ai-and-the-human-factor/"
+  - title: "Which jobs are under threat from artificial intelligence?"
+    excerpt: "The explosion in artificial intelligence capability is a direct threat to the employment of many. But which jobs are most at risk from AI? More"
+    publishedDateTime: 2023-07-10T14:15:00Z
+    webUrl: "https://www.yourlifechoices.com.au/technology/which-jobs-are-under-threat-from-artificial-intelligence/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
+      name: yourlifechoices.com.au
+      domain: yourlifechoices.com.au
     quality: 19
 
 secured: "Yidtp9ltWSlbXS7GcaoBymWaQ/Q/8ZZULzjhhNendSXdReB6Li0EicM8yOOWKsu1r7iAqdtVtt91BMBcbm4l2Tmgt9QzfP8r2cqOzYgUcKa6LgkG3ImKUqDYzs3jmNAYgVJDWIx45EXSmwdOiaDSdckslIuH7I3yi+7b4on5/ICz6jdcw8Wyu0EmM8/ECK3+LnChjZOhrjaEQ+xGU52chdmvT/+twxsyDRA26uMQ7983hE+wG1sKv66wseqHBC3cQCSt1IuzWDYK60Yp5Q4X0eM2BOBg8IhoxF2QoKAOeezr/Q00PLBsowHIKBxvGc85pk0xY3nt5BAoCETAsv5UJ+m9Uux9xu/w8kY8T2H9H5gL0jrfcVIiV9klA8l7m2+UZonguBF44zzjERfnP2A9UOEqFUxlA5jOgFefHJ2kQkE8j3nHtmDG40FX/9sURBH5EtnoSwAYp7eHSYEfU9T9VsWM+PBOgzgyIpocxi5lc/oyKPZzVFzmTpdGDmQVA3VbLoeTty8tNPE73MKKaJbfBw==;bzEw1g2c1+Q480JOo6YVsg=="

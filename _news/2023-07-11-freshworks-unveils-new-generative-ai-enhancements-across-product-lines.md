@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "At New York Actors Strike Picket Lines, Artificial Intelligence and Residuals Are Top of Mind"
+    excerpt: "\"If we don't deal with streaming now, if we don't deal with AI now, there's not going to be any turning back,\" actress Susan Sarandon said on Friday, as demonstrators showed up at Netflix, Warner Bros."
+    publishedDateTime: 2023-07-14T23:31:00Z
+    webUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/"
+    ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/amp/"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/amp/"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 46
+    images:
+      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/IMG_7802-H-2023.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Crawlers, search engines and the sleaze of generative AI companies"
     excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
     publishedDateTime: 2023-07-13T15:32:00Z

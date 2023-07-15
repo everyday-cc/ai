@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integ
 webUrl: "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AMD's Lisa Su sees \"AI-first chip designer\""
-    excerpt: "To what extent can artificial intelligence (AI) support and assist in chip design? Following recent examples of AI-assisted chip design in both China and the United States, there is a comparison between Nvidia CEO Jensen Huang's statement in late May,"
-    publishedDateTime: 2023-07-10T06:44:00Z
-    webUrl: "https://www.digitimes.com/news/a20230710PD211/ai-amd-chips+components-design.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230710pd211_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "AMD CEO Lisa Su says using AI to design chips will dominate the market going forward"
     excerpt: "It's AI Inception, or something, as we move towards a future where AI models will end up designing the AI hardware that AI models use."
     publishedDateTime: 2023-07-12T06:26:00Z

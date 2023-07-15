@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2023/07/Autocado-featured.jpg"
         width: 700
         height: 500
+        isCached: true
+  - title: "Chipotle Gets Some Help in the Kitchen—a Robot"
+    excerpt: "The fast-food company is developing a robot to help make the guacamole. It’s not alone. White Castle, McDonald’s, and Starbucks have similar projects. But it isn’t easy."
+    publishedDateTime: 2023-07-14T23:15:00Z
+    webUrl: "https://www.barrons.com/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035"
+    ampWebUrl: "https://www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-817005/social"
+        width: 1279
+        height: 640
         isCached: true
   - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
     excerpt: "Your Chipotle guacamole may soon be prepared by a robot. Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring, and peeling avocados."

@@ -275,7 +275,12 @@ related:
     provider:
       name: Interesting Engineering
       domain: interestingengineering.com
-    quality: 13
+    quality: 33
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/14/image/jpeg/HdGuCtkRWMdQDpbu6Vp8AZzW6cFE1gwlqPCJxjAm.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "MN8/O2kt3mGp3GVr8GQ4SK4/tEGqFO9I5YPkZVYu8CAzw0j1850fT8tQgN93vNBVMHn44u2XR8eK6Tvj7jpAVk4aEI1O1Ya/o+saV6O6eIbxtONSAI7w/L28pWzIWUz7TT7ATS3YbmjHhB4hBwdoNxrmALKMBU/hS5bAgvUMyqtj+jiQHt84or+/9EIj5OEQeaGlG2Mwf/+0y0hkwaIuVanUBVYdogKGYzZGnDGdnSEJEGZk+wmOQXDeC8EBukpeI6g8eNXGrL3uD46fDsRfPpA4cqgbNbtP/KRlirPn591tpSgnDloO6eM3Xb8/pCXt2q4mOKV/P6lL9LuQP6qCx4KJ5e13Gk5hhgeVGP7oYYjav45ODKBuiL8QUElSOUkPpvpJvrAi75HCmjElp7eaiw4fmREauiUmYBWMlWiXAY43P1ldbs1QsNXS6MNvgNHnFxp07tz2GSKxej0LyKjsLmut4NCy4I+wToaxj21HrGlOoqp8GCIgJfr5LCW9AmiwAQr36O7UG9wAtz8MnPfbIQ==;appNC0rBt4rneRT0Lgkytg=="
 ---

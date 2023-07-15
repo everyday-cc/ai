@@ -276,6 +276,20 @@ related:
         width: 598
         height: 233
         isCached: true
+  - title: "AI not yet a game-changer for healthcare hackers"
+    excerpt: "Hackers are hitting healthcare targets as hard as ever, and now researchers say the emergence of generative AI will make future attacks even easier for adversaries – eventually."
+    publishedDateTime: 2023-07-14T23:29:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/ai-not-yet-a-game-changer-for-healthcare-hackers"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 54
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2023/07/0714_chatgpt.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "The best AI art generators in July 2023"
     excerpt: "How do the best AI art generators work? AI art generators work by employing learned data. Developers of the models feed countless images into them, with which the artificial intel"
     publishedDateTime: 2023-07-10T16:00:00Z

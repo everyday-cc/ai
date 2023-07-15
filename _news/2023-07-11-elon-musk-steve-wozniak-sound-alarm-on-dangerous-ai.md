@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8785c0c6-4a74-4cd4-b103-fa0a946381cf/82df48b7-1fbc-4426-a89c-205a97e7dfae/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Elon Musk Will Train His AI Project Using Your Tweets"
+    excerpt: "Musk sheds more light on his plans for xAI, a new startup to counter OpenAI's ChatGPT and Google's Bard. 'We are definitely the competition,' he says."
+    publishedDateTime: 2023-07-14T22:28:00Z
+    webUrl: "https://www.pcmag.com/news/elon-musk-will-train-his-ai-project-using-your-tweets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05uyfAeIkPGBdn2DgIKTtUU-1.fit_lim.size_1200x630.v1689369120.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Elon Musk launches new AI company called xAI"
     excerpt: "Elon Musk, the CEO of Tesla and SpaceX and owner of Twitter, has announced the launch of a new AI company called xAI."

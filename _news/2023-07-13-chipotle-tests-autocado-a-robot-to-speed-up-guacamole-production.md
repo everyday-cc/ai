@@ -53,6 +53,22 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "Chipotle Gets Some Help in the Kitchen—a Robot"
+    excerpt: "The fast-food company is developing a robot to help make the guacamole. It’s not alone. White Castle, McDonald’s, and Starbucks have similar projects. But it isn’t easy."
+    publishedDateTime: 2023-07-14T23:15:00Z
+    webUrl: "https://www.barrons.com/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035"
+    ampWebUrl: "https://www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-817005/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Chipotle Unveils ‘Autocado’ Robot Developed by Vebu That Peels and Cores Avocados for Guacamole"
     excerpt: "Called \"Autocado,\" Chipotle unveiled Wednesday a new avocado processing collaborative robot (cobotic) that helps cut, core, and peel avocados before they are hand mashed to create its signature guacamole."
     publishedDateTime: 2023-07-13T04:03:00Z

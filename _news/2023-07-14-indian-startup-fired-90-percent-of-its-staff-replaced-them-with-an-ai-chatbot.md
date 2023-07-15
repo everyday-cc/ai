@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-14T12:03:00Z
 originalUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
 webUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/14/image/jpeg/HdGuCtkRWMdQDpbu6Vp8AZzW6cFE1gwlqPCJxjAm.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Indian tech giant Wipro will invest $1 billion in AI, including training all staff"
@@ -276,6 +282,6 @@ related:
       domain: businesstimes.com.sg
     quality: 19
 
-secured: "ICKIlBMALj/1ZNgzSccH/Rw8HMst7QYyva+xCqnKvWIIIvDLBCM3+DbwqDaFCbcRa1htqYeSJvqdoG4VB9FyW5NNGELhO/PEURBF1Or/7fV+XbVeMkeyQ5Puj4bJAiPsejg8/yt/wm+msm2P8BBBr50aYBvJG5YUhs5ER1Rnz6zwWeQSf38qolndcrfpASglPR48ROsJsypxrWLSJLsGKnNOSTYTic5DBZ8xOE5WSQjN2zwtpZSnlW22GmNqdrEWOVKREf+8A3ODdD0wxPxThM+TP/xpW5GLA3jU1Q09d3/VuQOKWe7RGML9k16Yft5+ApZZY/KjZj2nNxAnpxlnguvkOmlok4K5ecNsaBg2Tsg=;7gKItq8JWwO49NaoRxjS+Q=="
+secured: "d6bUrstp9sAW5HJWTCfzCeclJF9ISApK9IcNkUU+XOw4C3YhukM5kOjyEfBE1YiEB3y22FJqma+zV+niLWzh4UW67T77ZP0P2jzDiklZE9xEs1dkhCI7oY/bIDHHiFYm217JTxPi1QtgONb7KHBDDiM92cwM4vPmmb21kGC1+ihPyELI02Q8JdB/M32GIlMpBI6SthRdSkg9OADmyiHofVCQeP8I+etdBL6F7sgOozmkixAk/QUuVKjgDZ8qWcwOiPPsnKN1TN6YivpHYAf6O8Px+NdL/kXC+opVTQjI5F+uKW6ELBN+BtBbRmRONvoIyxxzcklbiLEIau28LAB/Z6dQUvpThqCsFQ5Xzcc9PkU=;0JBzMzNSzmnQJyse1JH0hw=="
 ---
 

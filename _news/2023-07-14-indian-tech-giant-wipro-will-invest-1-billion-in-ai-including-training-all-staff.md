@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
 type: article
 quality: 81
-heat: 261
+heat: 262
 published: true
 
 provider:
@@ -262,6 +262,20 @@ related:
         width: 800
         height: 543
         isCached: true
+  - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
+    excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."
+    publishedDateTime: 2023-07-14T12:03:00Z
+    webUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 33
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/14/image/jpeg/HdGuCtkRWMdQDpbu6Vp8AZzW6cFE1gwlqPCJxjAm.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "India’s Wipro commits US$1 billion investment into AI"
     excerpt: "INDIAN IT services provider Wipro said on Wednesday (Jul 12) it planned to invest US$1 billion into artificial intelligence (AI) over the next three years. Read more at The Business Times."
     publishedDateTime: 2023-07-12T04:54:00Z
@@ -271,15 +285,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 19
-  - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
-    excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."
-    publishedDateTime: 2023-07-14T12:03:00Z
-    webUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 13
 
 secured: "Y0R7hzOhMOXjRAwsczz9WcSRzwuU7x+fXxC7Gdl/KqGL7bxmy7u4zRfwqb774xkMGp0eHfd968sgJChcE629x0iaUPcfUr2uxsLMc8455zuGfDHBrb+BxAw0NhkgRQrYLrq3eR+/rsqGifkQtgr/gJv4Ppq9F71Bvfw8KsCbgh142+CRfmt8mAuxiglVxWqkxPRgtw2VqB+C1yyYEwqu3VnKWMb9rcE5nVJIQUsFKvOzWNOgaMFx/t0/J6c7IbSNeWgpg7Okg3nsjfiAIEDqQsfLmY63aiDEWQz6oXAhXVligcZoNaPrC6TWMZ14b6JrqE5m4Tq+ws+jHuPRpzAlPentzLjzlR7QYsUJPD7LDilD+QeyNOn2r8xbGPDU1Z9yQ0m1z7GncaiMMNaBSsr5LpIJo4sZ6Q0DQXfD+SFs5UMg289MArhVGv63QtZlDEyCb2D/eZAcK694uO/tvHAu+OLiso+aASq769c94/fqWxy/a/SUCFN6++HLCXXEQwVN607f1EgHWD0JUsTJMIKsZQ==;E03uj2C9fTeZggBU/letcQ=="
 ---

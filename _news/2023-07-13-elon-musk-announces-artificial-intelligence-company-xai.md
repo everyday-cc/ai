@@ -61,6 +61,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Elon Musk Will Train His AI Project Using Your Tweets"
+    excerpt: "Musk sheds more light on his plans for xAI, a new startup to counter OpenAI's ChatGPT and Google's Bard. 'We are definitely the competition,' he says."
+    publishedDateTime: 2023-07-14T22:28:00Z
+    webUrl: "https://www.pcmag.com/news/elon-musk-will-train-his-ai-project-using-your-tweets"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05uyfAeIkPGBdn2DgIKTtUU-1.fit_lim.size_1200x630.v1689369120.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Elon Musk launches new AI company called xAI"
     excerpt: "Elon Musk, the CEO of Tesla and SpaceX and owner of Twitter, has announced the launch of a new AI company called xAI."
     publishedDateTime: 2023-07-12T17:39:00Z

@@ -34,20 +34,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
-  - title: "AMD's Lisa Su sees \"AI-first chip designer\""
-    excerpt: "To what extent can artificial intelligence (AI) support and assist in chip design? Following recent examples of AI-assisted chip design in both China and the United States, there is a comparison between Nvidia CEO Jensen Huang's statement in late May,"
-    publishedDateTime: 2023-07-10T06:44:00Z
-    webUrl: "https://www.digitimes.com/news/a20230710PD211/ai-amd-chips+components-design.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230710pd211_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "AMD's Lisa Su says AI Will Dominate Chip Design"
     excerpt: "Lisa Su, CEO of AMD, believes that AI-enabled tools will dominate chip design as the complexity of processors continues to rise"
     publishedDateTime: 2023-07-11T06:54:00Z

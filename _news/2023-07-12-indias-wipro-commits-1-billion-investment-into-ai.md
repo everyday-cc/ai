@@ -259,6 +259,20 @@ related:
         width: 800
         height: 543
         isCached: true
+  - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
+    excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."
+    publishedDateTime: 2023-07-14T12:03:00Z
+    webUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 33
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/14/image/jpeg/HdGuCtkRWMdQDpbu6Vp8AZzW6cFE1gwlqPCJxjAm.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "India’s Wipro commits US$1 billion investment into AI"
     excerpt: "INDIAN IT services provider Wipro said on Wednesday (Jul 12) it planned to invest US$1 billion into artificial intelligence (AI) over the next three years. Read more at The Business Times."
     publishedDateTime: 2023-07-12T04:54:00Z
@@ -268,15 +282,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 19
-  - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
-    excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."
-    publishedDateTime: 2023-07-14T12:03:00Z
-    webUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 13
 
 secured: "MpXsfUZepsO65mOYOhJ4YWKYsqkpeac3RPG6b8ubdheOctJm5/rUSHkFTtwBQuztRfdWR7qAU1nJeuncGoVrw4qcPUQYkY932cCkbeJGGDF6iaLqIqGenwj3YZ1eR4dWmqHt+wYlaVRq0OFHrt/BWSeYtTpMI42sukPtyA8rj1fyyIglpfC5w6gFSDQYDtHcweTfZUhUDmM+wLf7GiUhjJRcA4HI9LkZEbC5dubyYgWg8nCouRULzQ4lhN6y7tbRrOLdYYx2XIEU6UvEoGL0K0cq9zuP81Le6HUmf7cX0piTxojOWlx9yFEKiGKnY9c0H4bhQnKNy2mpRUWWTQv0hz4/lgGic5NsonbMhqQBwWNebwKZBCNsCv7T4pqCOSvYzNZ0fKKCCuPlaSgHZ+DFDUJir+rGnTpKDmHf7M2F+rMHinbZ2nqw447hfBSrMC5BKy88JbungtaoagbaLwzI2sJXwOOU5Wb8NstAPmZ04YSVCPicFfMbViOODYOA4mVVmm4HqrjNGH65hdK1Swke7g==;07FskIE2PFdIJ7C+Bph7Iw=="
 ---

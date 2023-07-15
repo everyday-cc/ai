@@ -20,21 +20,21 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Save up to 43 per cent on an ECOVACS DEEBOT robot vacuum in the Prime Day sales"
-    excerpt: "It’s Amazon’s Prime Day and there has never been a better time to purchase an ECOVACS DEEBOT robot vacuum/mop or the WINBOT W1 Pro window cleaner. If you’ve been on the fence about purchasing a robot vacuum or perhaps couldn’t fit one into your budget,"
-    publishedDateTime: 2023-07-10T05:44:00Z
-    webUrl: "https://www.techguide.com.au/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/"
-    ampWebUrl: "https://www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/"
-    cdnAmpWebUrl: "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/"
+  - title: "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off"
+    excerpt: "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums."
+    publishedDateTime: 2023-07-11T13:23:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
     type: article
     provider:
-      name: Tech Guide
-      domain: techguide.com.au
-    quality: 72
+      name: CBS News
+      domain: cbsnews.com
+    quality: 61
     images:
-      - url: "https://www.techguide.com.au/wp-content/uploads/2023/07/3-AIVI-3.0-e1688971217992-450x300.jpeg"
-        width: 450
-        height: 300
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=758b39f312cc5ee6054d0eb9bad6c0cd"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Yes, you can still score a Prime Day deal on a robot vacuum the day after Amazon Prime Day 2023"
     excerpt: "Jet Bot AI+ robot vacuum with object recognition, $664 (reduced from $1,299) Best iRobot vacuum deal: iRobot Roomba j7 robot vacuum, $399 (reduced from $650) The experts at CBS Essentials have rounded up the best robot vacuum deals."
@@ -52,19 +52,67 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "56% off: ECOVACS's robot vacuum cleaner with mop drops to just £219"
-    excerpt: "it gets the job done carefully and more efficiently giving you peace of mind. And better still, this clever bot also mops your floors. Using an innovative electronic water pump and reservoir, the robot cleaner has four levels of water flow (ultra high ..."
-    publishedDateTime: 2023-07-12T09:06:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-12290103/ecovacs-amazon-prime-day-robot-vacuum-sale-2023.html"
+  - title: "Amazon Prime Day, Day 2: Get the latest on dates, deals, duration and more"
+    excerpt: "An Amazon Prime membership costs $14.99 per month (plus taxes) or $139 per year. It includes much more than access to Prime Day deals: You get free, two-day shipping on most Amazon products (and free same-day delivery in some areas), access to TV shows and movies on Amazon Prime Video plus special deals at Whole Food Market and more."
+    publishedDateTime: 2023-07-12T10:25:00Z
+    webUrl: "https://www.cbsnews.com/essentials/amazon-prime-day-2023-is-here-get-the-latest-on-dates-deals-duration-and-more-7-12/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2023-is-here-get-the-latest-on-dates-deals-duration-and-more-7-12/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2023-is-here-get-the-latest-on-dates-deals-duration-and-more-7-12/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 39
+      name: CBS News
+      domain: cbsnews.com
+    quality: 42
     images:
-      - url: "https://i.dailymail.co.uk/1s/2023/07/12/09/73119831-0-image-a-32_1689150378229.jpg"
-        width: 636
-        height: 382
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/03/23/34c582b1-19f6-41be-ba69-c0ff2b62eb6b/thumbnail/1200x630/797f673b033164ff6863589d01b687ac/when-is-prime-day-2022-main.jpg?v=0d985d39f30c0548885e26d84e710785"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "I test robot vacuums for a living — here’s 3 deals I recommend for Prime Day"
+    excerpt: "What separates the iRobot Roomba j7+ from the crowd is its intelligence. With built-in object recognition, it can learn and report on its encounters. In fact, iRobot has introduced a Pet Owner Official Process, (P.O.O.P), which guarantees a replacement ..."
+    publishedDateTime: 2023-07-11T00:13:00Z
+    webUrl: "https://www.tomsguide.com/deals/i-test-robot-vacuums-for-a-living-heres-3-deals-i-recommend-for-prime-day"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 38
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/t8SDvoiLRZNEouBTTAbA5Y-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "It's not too late: Best Amazon Prime Day deals on Samsung tech that you can still shop"
+    excerpt: "If you're looking for a new Samsung smartphone or earbuds, you can find some great deals on Amazon now. The Amazon Prime Day 2023 sale is technically over, but Amazon is still offering a number of deep discounts on top-rated Samsung products, including smart TVs, smartphones and robot vacuums."
+    publishedDateTime: 2023-07-13T17:46:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-deals-on-samsung-tech-you-can-still-get-2023-07-13/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-deals-on-samsung-tech-you-can-still-get-2023-07-13/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-deals-on-samsung-tech-you-can-still-get-2023-07-13/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 36
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/08/d3d0d5ff-f9e4-4dbb-bf81-1b02b3150c60/thumbnail/1200x630/6c8b6e6c38713df157a140b06c21385a/samsungheader.png?v=867e41af7e860d9286e5bd7e91ee0db8"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amazon Prime Day 2023 Lightning Deal: Score this Eufy Robovac and mop combo for 54% off before this deal ends"
+    excerpt: "This 4.4-star-rated Shark IQ Robot vacuum (RV912S) cleans your whole home in neat rows. It lacks the advanced smarts of more expensive robot vacuums, but this is one of the most affordable robot vacuums with a self-emptying base you'll find. This Shark model comes with a 45-day capacity cleaning base."
+    publishedDateTime: 2023-07-12T15:48:00Z
+    webUrl: "https://www.cbsnews.com/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 25
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/12/40920161-5ecd-4108-a38c-b5f89a6c5a43/thumbnail/1200x630/753b0a41084b277adc8756d4d1c313ad/eufy-robovac-header.png?v=0d985d39f30c0548885e26d84e710785"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Best Amazon Prime Day 2023 deals on robot vacuums"
     excerpt: "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums."

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 581
         isCached: true
-  - title: "Amazon touts its low-cost cloud computing in generative AI race"
-    excerpt: "A key way that Amazon's cloud division aims to set itself apart from rivals perceived to have a leg up on artificial intelligence is by competing on price, an executive said on Tuesday. The AI models behind a viral chatbot like ChatGPT require immense computing power to train and operate,"
-    publishedDateTime: 2023-07-12T07:11:00Z
-    webUrl: "https://www.aol.com/news/amazon-touts-low-cost-cloud-001132828.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/352c695b9611de4579999da1626fca1f"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "jH+m5zaGqDcNNhxBGOihfgjA8R5+K8UdpBOzbNJ6YwOYRY/hqH8oiPhVaNLjhfXKSbig6kGVQq5zImsZ3EcF1iZPL2xcKOXLLjQhbgCGvxTPl+W4FfcGaY29cJkiYIAKb7eKzOyPO+fVqbXoOS5fuJji89spO8WYQ3qKD++hahS9gVC4NOuWdVnNOqUyuHlSaO5HeRiNmf8CHnQFfejsN8+M1cgSmIZxCjEfJAMUBp8D1teXyEL6mrYjFtCRmxGBQIfhd1gpeThtnV8PBBUc6SU/ITpqNgdFPVtqsDer51ZknZZ6S9ly7K3HqXfu9FBiwWXNBvpMQGF0oq7EEMZ6jedmCVmH2yC5ky7HMyg3KKA=;PXfO1ZxsV7YCr8E0YloI/g=="
 ---

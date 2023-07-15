@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/upwork-launches-generative-ai
 webUrl: "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "At New York Actors Strike Picket Lines, Artificial Intelligence and Residuals Are Top of Mind"
+    excerpt: "\"If we don't deal with streaming now, if we don't deal with AI now, there's not going to be any turning back,\" actress Susan Sarandon said on Friday, as demonstrators showed up at Netflix, Warner Bros."
+    publishedDateTime: 2023-07-14T23:31:00Z
+    webUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/"
+    ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/amp/"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/amp/"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 46
+    images:
+      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/IMG_7802-H-2023.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Freshworks unveils new generative AI enhancements across product lines"
     excerpt: "The new predictive and assistive generative AI capabilities embedded within Freshworks solutions and platform go beyond content generation and help support agents, sellers, marketers, IT teams and leaders become more efficient."
     publishedDateTime: 2023-07-11T05:29:00Z

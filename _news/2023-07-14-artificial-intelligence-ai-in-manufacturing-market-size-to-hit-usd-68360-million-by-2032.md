@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33232796"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33232796"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,22 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "2032, Global Artificial Intelligence (AI) in Drug Discovery Market Revenue Report"
+    excerpt: "The Global Artificial Intelligence (AI) In Drug Discovery Market is rapidly expanding due to its potential to revolutionize the pharmaceutical industry. AI enables the analysis of vast amounts of data at an unprecedented speed,"
+    publishedDateTime: 2023-07-14T22:10:00Z
+    webUrl: "https://menafn.com/1106604755/2032-Global-Artificial-Intelligence-AI-in-Drug-Discovery-Market-Revenue-Report"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/14/pr_10566_38d925a8_image_story.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "kLFmR5fmp9PGNiaVxCOPKOadoEO4ux8C1sbwmYVeO9p5LPAPOCyaK0DDf/ZG26a5GShpNPHmP3zDH5x7B4P8E9pDZdsI2SMtPKbpE8kp/P74f7rsBW3jAcQOA8wOtlrfKKSYnZXyfqceH2wVgZljUlO50w1c4dhf1zu+DX0zzG8HU5EEqaFS+R4oP4BWbSZ53Arlmn1e31CpTwEMDkJrUJ655IHgZnKogkGvRo0BQfiiGKBh4657O9OPHT9uV0wrTa4Cw5vaKzmpeSFrpVZm7jwGW7pqwozjKbSQOze7aXVlQc/WO/wPA3JdclgRriqz7aqtnXqIcxd3hlPzfXBMJCINxBwOd3sYGtgl7M/LNY8=;R+Y1MJZz10NnuiG1ZcOJ0A=="
 ---
