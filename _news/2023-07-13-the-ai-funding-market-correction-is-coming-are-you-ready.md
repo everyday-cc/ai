@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Finance Transformation: Unleashing the Power of AI and Analytics in Manufacturing"
-    excerpt: "With the advent of artificial intelligence (AI), manufacturing finance is undergoing a remarkable revolution, enabling organizations to make more informed decisions, improve operational efficiency, and drive sustainable growth."
-    publishedDateTime: 2023-07-11T00:35:00Z
-    webUrl: "https://www.ibtimes.com/finance-transformation-unleashing-power-ai-analytics-manufacturing-3703828"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 51
-    images:
-      - url: "https://d.ibtimes.com/en/full/4471523/deloitte-consulting-llp.png"
-        width: 943
-        height: 629
-        isCached: true
 
 secured: "x57vdHsU811xd3Pt+qtMPOZly5By+2vG2Os1HIE+1HiuxO9nryaqeNzcxH7HIN5egN2FP6cmlERtjdK9xYKQzHISQ1dU0OvvyJdAiW5NiHQnFWB+QUAD8Vwd6wl6gcvllWQ6l9Yg7b4k2+xrbrij5828ihoZVKDl6Vdz/ugTELrjsJF+rj7zvyBCENImIVYx84SifcgRE9B4S4JX8z4N6rYpOJa2A4qMOAHq60BY2mKguZvP90b15sI7Qwp7X9wOsW351E7f4sFOXilLFLu9djQPGQeTi1n/r0XGUg65ktbn1E1ePdN2NWlDe2z3zVSlCfzABBLseAAVla33L353B8ISXsB0X931Qy6Xn57fiXihg0ihf7EpQZdduiE3UHmna9Lwle1eK0V/rfy+ZC7iL18swJH3vQRmEQDE9dpXaHdbZIuCB+VGTIays+7Pl4YbXeOQZiCnlqO792lbiDEfhYm++VXnTw8FR9UAM464Fw4b65U34AjRS4OeEIk7tOdSEnQFpk9uPTcVoqCVrq6CHw==;+yvwIx4W9l0cXZ1TWT8ifA=="
 ---

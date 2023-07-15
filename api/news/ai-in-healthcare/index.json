@@ -91,49 +91,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-14-researchers-use-artificial-intelligence-to-accelerate-access-to-covid-19-treatment.md",
-      "title": "Researchers use artificial intelligence to accelerate access to COVID-19 treatment",
-      "excerpt": "To address an emerging issue in health care delivery, researchers from Emory University's School of Medicine and Georgia Institute of Technology are exploring how artificial intelligence (AI) can offer a way to increase efficiency of diagnoses and treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-access-covid-treatment.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-access-covid-treatment.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/coviddata.jpg",
-          "width": 1920,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-access-covid-treatment.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-access-covid-treatment.amp",
-      "publishedDateTime": "2023-07-13T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-health-care-down-on-inflation-bias-health-care-roundup.md",
       "title": "Health Care Down on Inflation Bias -- Health Care Roundup",
       "excerpt": "Health-care companies ticked down as traders rotated into sectors with more to gain from a moderation in inflation. Health-care providers and drug makers",
@@ -1372,6 +1329,40 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023-artificial-intelligence-breakthrough-awards.md",
+      "title": "IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards",
+      "excerpt": "NYSE:IQV) IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2023/06/27/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2023/06/27/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

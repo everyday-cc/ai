@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk, Steve Wozniak Sound Alarm On Dangerous AI"
-    excerpt: "Elon Musk and Steve Wozniak, the co-founder of Apple (AAPL), sounded the alarm last week about the perils of AI experiments. Their Future of Life petition is nearing 20,000 signatures. Aggressive investors should buy Ark Genomic Revolution (ARKG). Let me explain."
-    publishedDateTime: 2023-07-10T23:52:00Z
-    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ac98a90ef5570e89534a0b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Elon Musk Announces Artificial Intelligence Company xAI"
-    excerpt: "There's no word on what the company will actually do, beyond its goal to \"understand the true nature of the universe.\""
-    publishedDateTime: 2023-07-12T21:29:00Z
-    webUrl: "https://www.cnet.com/tech/elon-musk-announces-artificial-intelligence-company-xai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://www.cnet.com/a/img/resize/a0d2e51b4e919ee49297946dc9fda07dac69b681/hub/2023/07/12/51a17895-547c-46ec-b4a7-39e3c78bd937/elon-musk-gettyimages-1258889149.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Elon Musk introduces xAI, a new artificial intelligence company"
     excerpt: "Elon Musk's artificial intelligence company, xAI, received its official introduction on Wednesday, with the billionaire saying it aimed to 'understand reality.'"
     publishedDateTime: 2023-07-12T20:47:00Z
@@ -100,37 +70,21 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Elon Musk unveils new AI startup with team of top researchers"
-    excerpt: "The startup, xAI, formally launched on Wednesday and its goal “is to understand the true nature of the universe.”"
-    publishedDateTime: 2023-07-13T21:34:00Z
-    webUrl: "https://www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/"
-    ampWebUrl: "https://www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/amp/"
-    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/amp/"
+  - title: "MIT Research Scientist Asks If AI Can Become Conscious, Elon Musk Says..."
+    excerpt: "The researcher posted this query in response to the first tweet by Elon Musk's new artificial intelligence startup, xAI."
+    publishedDateTime: 2023-07-13T09:13:00Z
+    webUrl: "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373"
+    ampWebUrl: "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1"
     type: article
     provider:
-      name: NewsNation
-      domain: newsnationnow.com
-    quality: 59
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
     images:
-      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/07/64b00804ca5782.83734212.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Elon Musk unveils his new artificial intelligence startup"
-    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
-    publishedDateTime: 2023-07-12T21:51:00Z
-    webUrl: "https://www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 57
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/07/web1_13991615-ad7d8018b7b1405faeaeb2abf4bb08aa.jpg"
-        width: 760
-        height: 507
+      - url: "https://c.ndtvimg.com/2023-06/hhoa66ag_elon-musk-at-viva-technology-conference-paris_625x300_19_June_23.jpg"
+        width: 1200
+        height: 738
         isCached: true
   - title: "Elon Musk launches AI startup xAI"
     excerpt: "Musk said this was part of efforts to build 'safer AI'"
@@ -148,29 +102,61 @@ related:
         width: 500
         height: 271
         isCached: true
-  - title: "Elon Musk launches xAI, his new artificial intelligence startup"
-    excerpt: "ELON MUSK IS finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched yesterday and its goal “is to understand the true nature of the universe”."
-    publishedDateTime: 2023-07-13T05:53:00Z
-    webUrl: "https://www.thejournal.ie/elon-musk-xai-6117265-Jul2023/"
+  - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI"
+    publishedDateTime: 2023-07-12T21:34:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/elon-musk-unveils-new-ai-startup-team-top-101186737"
     type: article
     provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 52
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
     images:
-      - url: "https://img2.thejournal.ie/article/6117265/river/?height=400&version=6117269"
-        width: 613
-        height: 400
+      - url: "https://s.abcnews.com/images/Business/wirestory_2e626553cf6333f642fb02fe247707ca_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Elon Musk Announces xAI Artificial Intelligence Startup"
-    excerpt: "After asking everyone else to please stop making AI, Musk has announced the formation of his own artificial intelligence startup called xAI. The company's goal, articulated in Musk's signature overconfident bravado,"
-    publishedDateTime: 2023-07-13T18:25:00Z
-    webUrl: "https://www.extremetech.com/science/elon-musk-announces-xai-artificial-intelligence-startup"
+  - title: "Elon Musk Launches xAI, His New Artificial-Intelligence Company"
+    excerpt: "Musk has been recruiting researchers to try to create a rival to OpenAI, the AI company behind the viral chatbot ChatGPT."
+    publishedDateTime: 2023-07-12T18:19:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Elon Musk Will Feed xAI Twitter Data To Train Its Language Model And Develop Artificial General Intelligence"
+    excerpt: "Elon Musk has unveiled his own AI company, xAI, which will train on Twitter data. Could Musk’s decision about implementing “Read Limits” on Tweets be related to this development?"
+    publishedDateTime: 2023-07-15T05:53:00Z
+    webUrl: "https://www.gizbot.com/tech-biz/elon-musk-feed-xai-twitter-data-train-language-model-and-build-artificial-general-intelligence-086260.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/elon-musk-feed-xai-twitter-data-train-language-model-and-build-artificial-general-intelligence-086260.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/elon-musk-feed-xai-twitter-data-train-language-model-and-build-artificial-general-intelligence-086260.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 40
+    images:
+      - url: "https://www.gizbot.com/img/2023/07/elon-musk-tweets-twitter-xai-data-scraping-1689400352.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Musk launches AI company while Twitter flounders"
+    excerpt: "The new company spun up by Elon Musk will seek to provide an AI alternative to ChatGPT, one that will be \"truth seeking.\""
+    publishedDateTime: 2023-07-13T07:47:00Z
+    webUrl: "https://htxt.co.za/2023/07/13/musk-launches-ai-company-while-twitter-flounders/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 39
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2022/12/elon-musk-giga-texas.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "xAI New Artificial Intelligence Company By Elon Musk"
     excerpt: "Elon Musk has announced the formation of a new artificial intelligence company xAI. Company was announced on twitter by Elon Musk."
     publishedDateTime: 2023-07-14T07:28:00Z
@@ -194,6 +180,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Big Tech: Elon Musk announces AI start-up, Sarah Silverman sues OpenAI and Bill Gates comments on AI"
+    excerpt: "We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn and work."
+    publishedDateTime: 2023-07-13T07:49:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/drive/1650/102599604"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 22
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/0f0d9c84ed54eb8ef0ee3741ffee36e5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=402&width=862&height=485"
+        width: 862
+        height: 485
+        isCached: true
   - title: "Elon Musk launches a new AI startup ‘xAI’"
     excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
     publishedDateTime: 2023-07-12T19:13:00Z
@@ -203,6 +203,24 @@ related:
       name: Invezz
       domain: invezz.com
     quality: 17
+  - title: "The Download: cleaning up shipping, and Elon Musk’s new AI startup"
+    excerpt: "1 Elon Musk has unveiled his new startup, xAI But his chances of overtaking OpenAI any time soon are slim. ( Wired $) + The new company will rely on Tesla for a lot of its resources. ( WP $) + Anthropic’s new chatbot is here. ( The Guardian)"
+    publishedDateTime: 2023-07-13T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/13/1076194/the-download-cleaning-up-shipping-and-elon-musks-new-ai-startup/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
+  - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal"
+    publishedDateTime: 2023-07-13T19:08:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/07/12/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 9
 
 secured: "HGcyqQ+fhzY5xWZrhOP3bblbnAhimf+ZoLgk2g0SzfIjCJjnvxyJZIyl29wXVW+cPG3JjE5YKxEuRBDYK4s8oWZZQPkxg4bNxOiLyVFP/5cZN95CWbY/TYD0Y61fznemkeSg1bvsOGPEpF570knZbFwqUAl2me4YwB0IV8UwEimFIjTfRG7xDMRsx9PQ9PzHVF3ma+KttIV60nZvag3WJuCgW5gNySe/mGwMb1ob+66fv4Mmwe9xor3lJsg1h03toQ5U08zW7BIY0itNNwuEgUiAXaw4M/NKU+bCcvXjKuCKjulR28nZ1rMIip8reFB2D1RA7ujbiUkpef5Tu5pWybHoyqm+2YyheZs7iqS4mKTQZGcYWw08POJrGl1aoyfFJzd3dlY3CUoptEAft3PuZC18pVMGxBUDGT1dgvGmVMi7mnmmc/MGWm+7R0v/oCbz1fFIVa0Zy4rg3kWJKJmqhNmP/aZbUDJ9/60KTvc8pjzpTU1M9UhKcXKqXx2qFTo0LJRlSHTBmOWcKaKPpCaAPQ==;C2+GShDr0bCohzQgmNE8wA=="
 ---

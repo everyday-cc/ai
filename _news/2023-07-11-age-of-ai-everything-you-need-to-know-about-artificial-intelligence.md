@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14151_16890894716486738.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "AI versus AI: Human extinction might just be collateral damage"
+    excerpt: "As computer scientists have warned us, the algorithms behind AI systems are capable of inexplicable mistakes and \"hallucinations\" — seemingly reasonable results that are entirely illusionary."
+    publishedDateTime: 2023-07-15T12:00:00Z
+    webUrl: "https://www.salon.com/2023/07/15/ai-versus-ai-the-risk-of-nuclear-as-collateral-damage-is-real_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 39
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/07/missiles_1434662965.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "CKQ47UmlKkR1FJHN1LtHfmRXtAzDLAB8W3Ipp6QmgnCE0PPWiAnHLkAqWqi95KPvN+ZEsoik2yDz6iB/oWeJ3EVeBZUUXXa6WMDovukDiMLjO5O1Ph8EpTEoOaUTjByCCrPIQFDPDjvv05KO7P7DXy8SCFmMsKRqbekxlCGuChaoCb/AEK9DYWhKqE2Ixp4muBC1+kE309OzeICx5Fs4WBVnjI9CWj0s8UilK948Gjicycwae9laiEjtqntThQ7aqP56iEdt+F8Pn45G6NCFG0JwvlkIScLEerLro36P84yY0Hk9XYZww2hTJpfa6BHC1VP0mQh8UvUUxkKn7E0BABWd1f5deITZ+HFWK3gMDE4=;pmzs3rKz6O/4qXa0ikeWYQ=="

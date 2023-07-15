@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-05-11-better-ai-stock-nvidia-vs-amd.md",
-      "title": "Better AI Stock: Nvidia vs. AMD",
-      "excerpt": "Grand View Research forecasts the generative AI market to clock annual growth ... a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/10/better-ai-stock-nvidia-vs-amd/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/10/better-ai-stock-nvidia-vs-amd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/731445/chatbot-smartphone-person.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-mark-zuckerbergs-not-so-secret-plan-to-join-the-ai-race.md",
       "title": "Mark Zuckerberg’s not-so-secret plan to join the AI race",
       "excerpt": "No one outside the company knows exactly what the recommendation algorithms powering your Facebook feed look like, for instance. But its AI research department is relatively open. The department ...",
@@ -1469,6 +1417,49 @@
         "Facebook AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-software-didnt-eat-the-world.md",
+      "title": "Software Didn’t Eat the World",
+      "excerpt": "This article was co-published with Understanding AI, a newsletter that explores how ... some of them to eventually be as big as Google or Facebook. After all, they thought, industries like ...",
+      "sourceUrl": null,
+      "webUrl": "https://slate.com/technology/2023/04/artificial-intelligence-jobs-software-eating-the-world-andreessen-economy.html",
+      "originalUrl": "https://slate.com/technology/2023/04/artificial-intelligence-jobs-software-eating-the-world-andreessen-economy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://compote.slate.com/images/8a774cc3-3f71-4654-8687-e34438293495.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+          "width": 1560,
+          "height": 1040,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slate",
+        "domain": "slate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

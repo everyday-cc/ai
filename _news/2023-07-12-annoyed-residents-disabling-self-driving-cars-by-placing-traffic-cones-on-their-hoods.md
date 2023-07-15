@@ -49,15 +49,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "Illinois motorcycle group opposed to self-driving cars and upcoming testing"
-    excerpt: "An Illinois motorcycle group is raising a red flag over planned testing of self-driving cars this summer. Tesla is hiring temporary test drivers around the country, including in Elgin, who will be paid to drive their vehicles and report on their performance."
-    publishedDateTime: 2023-07-12T19:05:00Z
-    webUrl: "https://www.thecentersquare.com/illinois/article_167f76c2-20e4-11ee-b1e8-ebcb0483dd3d.html"
-    type: article
-    provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 2
 
 secured: "gWDvssWiCmuOqMImFCH5WGUoK9rRmn5clILWw8yaqLcrF8NhpTF0ImUeX3cx0iklq2etKYAQWrSmuuwa4j6GzE7zQleUdLKi46FI+QAWC2lvetv9HJIyj6GDsGQ8j8Q93rEs6GkfVQv2TN2zhFUA/Rcv2sJhrKzRfhqE0S/K6BrPiphgy2RyXf9vy5uoTN54SR3H7s7pO6pi3sRJQwJB/xcDdzj/yGOCnX3ThhnG9wu4jVY//1w/3cZOUv8sWvQjoRo6rxjczKqLSdEoFKRUf3JdccCvDhAV//f5yFWmjJjAJrmr6j2YCuoeEyIatV8NW8C3oHzbZTYjwylnVa7NlHEIFKDXp4oQjiVVEc2/3Er4hHownjYp2wE6bvzVnifJi+55/UOhpqDfSRvQCG/2DPrdxhqY2hL4MXVoBP0NM07bIJrneIcwoS98ctUanrIU1kuKAiK33IIKvSJ7YMmY7aZOmoE+4iB3kgny/BipquTQ6u915h9Pyc2zlCKrLmsM0q9PNKlVN2MJ80+S5Fardw==;o8HC9wfmV2h2ozBLWhdDpA=="
 ---

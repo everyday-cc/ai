@@ -276,6 +276,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 29
+  - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
+    excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
+    publishedDateTime: 2023-07-15T17:21:00Z
+    webUrl: "https://www.inferse.com/616214/microsofts-annual-ability-summit-exploring-the-technology-people-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "90YOl7EnEz+EfaNkS3DBmt5P2hYn4Cz2v+wwtEshPb1x9YVm22hj+crHRiEEk750Goftl2t8216v5sIOPENwv45FyDdLSLLQCoj1h71cWYj2MuI3bB6m6y3vBDy0IIuhq8Q7TAoT6VYlUsd4NeoN9I+1yptIl7Av8DLQWYt+wyw7OC16gpeVbkU8K7rCuPyV+bORbiEbFx36rYl7bcRnQnUFIE1QATbUjtRdrERcV7sULor7sOp6Rp0d5Js6NK4ey2MUPnWGJMY/R5oT3ypFqU8qawslFvZrkEdrKhq8JOvDCALsOe/I45sUETyczUewQzVJko7kreBCG7ZI3soo1yWLXvRV/Nd/9RpkPnqmTAk=;4slRflIjLRqZrQ33A4M05g=="
 ---

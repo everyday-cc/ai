@@ -2,100 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2023-07-08-best-artificial-intelligence-ai-stock-c3ai-vs-sentinelone.md",
-      "title": "Best Artificial Intelligence (AI) Stock: C3.ai vs. SentinelOne",
-      "excerpt": "Fool.com contributor Parkev Tatevosian compares two leading artificial intelligence stocks to determine which is the better buy. *Stock prices used were the afternoon prices of July 5, 2023. The video was published on July 7, 2023. Parkev Tatevosian ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/08/best-artificial-intelligence-ai-stock-c3ai-vs-sent/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/08/best-artificial-intelligence-ai-stock-c3ai-vs-sent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/738947/c3ai-vs-sentinel-one.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-08T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-robots-say-they-wont-steal-jobs-rebel-against-humans.md",
-      "title": "Robots say they won't steal jobs, rebel against humans",
-      "excerpt": "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans' jobs or rebel against us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906",
-      "originalUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/08/eaai-robtt.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp",
-      "publishedDateTime": "2023-07-08T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-08-pope-francis-launches-a-guide-to-using-artificial-intelligence.md",
       "title": "Pope Francis launches a guide to using artificial intelligence",
       "excerpt": "There are more and more voices that are warning about the use and consequences of artificial intelligence. They are often the voices of tech entrepreneurs like Elon Musk or the experts involved in their development.",
@@ -1180,6 +1086,101 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-the-us-army-is-looking-for-help-from-ai-to-predict-what-its-enemies-will-do-minutes-or-even-hours-before-they-do-it.md",
+      "title": "The US Army is looking for help from AI to predict what its enemies will do minutes or even hours before they do it",
+      "excerpt": "The project is driven by concerns that human intelligence analysts won't be able to keep up with the increasing complexity of warfare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/us-army-wants-to-use-ai-to-predict-enemy-actions-2023-7",
+      "originalUrl": "https://www.businessinsider.com/us-army-wants-to-use-ai-to-predict-enemy-actions-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a730744cc8540019cba9c7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/us-army-wants-to-use-ai-to-predict-enemy-actions-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-army-wants-to-use-ai-to-predict-enemy-actions-2023-7?amp",
+      "publishedDateTime": "2023-07-07T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-moh-agency-microsoft-to-develop-ai-tool-to-help-healthcare-workers-in-singapore.md",
+      "title": "MOH agency, Microsoft to develop AI tool to help healthcare workers in Singapore",
+      "excerpt": "SINGAPORE – Healthcare professionals in Singapore will have an artificial intelligence (AI) tool to help them get quick and accurate answers to questions about care protocols for medical conditions or subsidies available to patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore",
+      "originalUrl": "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/hzhospital070723_0.jpg?VersionId=DmWmvyy8TAXRSC55NTAwkREwOC2gKdiw&h=40abc946",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

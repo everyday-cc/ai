@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "I test robot vacuums for a living — here’s 3 deals I recommend for Prime Day"
-    excerpt: "What separates the iRobot Roomba j7+ from the crowd is its intelligence. With built-in object recognition, it can learn and report on its encounters. In fact, iRobot has introduced a Pet Owner Official Process, (P.O.O.P), which guarantees a replacement ..."
-    publishedDateTime: 2023-07-11T00:13:00Z
-    webUrl: "https://www.tomsguide.com/deals/i-test-robot-vacuums-for-a-living-heres-3-deals-i-recommend-for-prime-day"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 38
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/t8SDvoiLRZNEouBTTAbA5Y-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "It's not too late: Best Amazon Prime Day deals on Samsung tech that you can still shop"
     excerpt: "If you're looking for a new Samsung smartphone or earbuds, you can find some great deals on Amazon now. The Amazon Prime Day 2023 sale is technically over, but Amazon is still offering a number of deep discounts on top-rated Samsung products, including smart TVs, smartphones and robot vacuums."
     publishedDateTime: 2023-07-13T17:46:00Z

@@ -113,6 +113,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "AI versus AI: Human extinction might just be collateral damage"
+    excerpt: "As computer scientists have warned us, the algorithms behind AI systems are capable of inexplicable mistakes and \"hallucinations\" — seemingly reasonable results that are entirely illusionary."
+    publishedDateTime: 2023-07-15T12:00:00Z
+    webUrl: "https://www.salon.com/2023/07/15/ai-versus-ai-the-risk-of-nuclear-as-collateral-damage-is-real_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 39
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/07/missiles_1434662965.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "w+X8JmNSHIiR10Bw4TMdWlY3Pzq/B+A9hIKAV4NBlhir01Kafvkmz69VN15jD2I/bAOj1jmXPfm+vAIs30fxqcAtuynzO1gdD1Ps22C28hHCXIVgXuQ8rA4PF1BqaUm8XF0cJg8alRGEXK80FO07sslj7sDgOP0YOuHTsYaxfB5SSpafNLuYg/nXXlgq5wlMIceELNQAbBNSofYahxNArKh5d/Q3UiihIFMh9bBKvmQ3UBUGw3p6AKHs4IekMdMVYiJ8iqJHDznBFyqqUeeFTrtryyn4S/3QdeOQ610/4jZr3aAU8p7apgZRglnDcTF27HXqD61ig1lBkCDiNvWPaFfYticfIg7jXOyHAu47AbM+B/olDrT14LzFEGy8NJgg7A0SBT9H3E6zLpzfJ+S2MIrI6dfCSZ/Y/3vzLE2LBYD/uH7gxoVkYZ5GlSjQAHBXqNadzN7gC9oxGziMzWitSJtnUDf92SDGMWDCwQHPDXqo+ta1l3fzUlploaIxw6u+h+ZpAYpKk1vVfOXfdNGkuQ==;Oj9vl56B415QBBA4H79vDw=="
 ---

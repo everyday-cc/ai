@@ -9,8 +9,8 @@ ampWebUrl: "https://www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-te
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Autoblog
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jury chosen in trial of Las Vegas police officer accused of stealing $165k in trio of casino heists"
-    excerpt: "A jury was seated Monday afternoon in the trial of a Las Vegas police officer accused of stealing nearly $165,000 in a trio of casino heists"
-    publishedDateTime: 2023-07-10T23:34:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 30
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_93a8060eeb7d98a9f528f9d5ca8104aa_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Las Vegas officer accused of stealing nearly $165k in a trio of casino heists to face jurors"
     excerpt: "Jury selection is under way in the trial for a Las Vegas police officer accused of stealing nearly $165,000 in a series of casino heists. Prosecutors have painted Caleb Rogers as a gambling addict who"
     publishedDateTime: 2023-07-12T04:17:00Z

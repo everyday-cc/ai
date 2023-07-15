@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/2023/07/12/1076168/the-download-b
 webUrl: "https://www.technologyreview.com/2023/07/12/1076168/the-download-bill-gates-isnt-scared-of-ai-and-net-zero-shipping-goals/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The Download: cleaning up shipping, and Elon Musk’s new AI startup"
-    excerpt: "1 Elon Musk has unveiled his new startup, xAI But his chances of overtaking OpenAI any time soon are slim. ( Wired $) + The new company will rely on Tesla for a lot of its resources. ( WP $) + Anthropic’s new chatbot is here. ( The Guardian)"
-    publishedDateTime: 2023-07-13T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/13/1076194/the-download-cleaning-up-shipping-and-elon-musks-new-ai-startup/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "K6LUwPNquYgW+smLor47kZCn0W6/xP2W6bmJs0pdl4k04owCouOPgan4ttszijaGkv6M29EtWxwdvaOK+r2+/H+KWvKBkaF1hXfIxWSoncKvzm3Mw9SEys//r/aZkmikF7cwU1dHJliu1RwPOAixNoAc2UgcV+9S5x8il0eOpYqejw7buNXVyHJbKJG0vo96UeUJ1z2Gm8HRHxpS3ZQEDcOM3VtVymYr65Y8jepKi8qyJWWpip4/cmucNRbJ/MATObt+EC9mS5RX6DMD+JecpZNfTRDQm9Wimru67VedGdQ5RJ6ehfAXzjvfcgZ0/k4C+R04N+4LtlkIwgGrHmL7TahvHZafqw1p14KGsKlUiaERYQmY1yAzMJPKYeEXittStpmpgY6wlQ9vBiykaRRUvR9cI47KrNqhwsUijHlq0mwiMLuJmlDDxY2TpPc+D8WoX2h7rER/aMPA8qnZorGZTcjEKnBtkh6K5OR8wqTpguH+hwb0ZIP0wMWf8dRxA0R0qwPd+ZWrP5izqXHeYYPp6Q==;UgF3Lvt5sfvO3QTL5y9GQg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://sea.mashable.com/creative-software/25125/this-ai-powered-c
 webUrl: "https://sea.mashable.com/creative-software/25125/this-ai-powered-content-creation-tool-is-now-only-40-for-life"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China to lay down AI rules with emphasis on content control - FT"
-    excerpt: "The Cyberspace Administration of China aims to create a system that will force companies to gain a licence before they can release generative artificial intelligence systems, the Financial Times said on Tuesday,"
-    publishedDateTime: 2023-07-10T23:31:00Z
-    webUrl: "https://www.reuters.com/technology/china-lay-down-ai-rules-with-emphasis-content-control-ft-2023-07-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/1-uz5M-2tioUygxn0RSw_7gka2s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ADNV3GZHVNNKRPFHSWQGUXYUWU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Checkout.com is taking on identity verification with video-based AI-powered solution"
     excerpt: "Checkout.com is launching ‘Identity Verification’ to improve customer onboarding by using artificial intelligence to verify customers in under two minutes. The new identity verification process is video-based and uses AI trained on billions of data points labelled by ID fraud experts."
     publishedDateTime: 2023-07-11T05:57:00Z

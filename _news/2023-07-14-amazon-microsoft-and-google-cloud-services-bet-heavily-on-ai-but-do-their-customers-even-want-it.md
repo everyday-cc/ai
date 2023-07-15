@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tec
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3"
 type: article
 quality: 90
-heat: 290
+heat: 300
 published: true
 
 provider:
@@ -277,6 +277,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 22
+  - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
+    excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
+    publishedDateTime: 2023-07-15T17:21:00Z
+    webUrl: "https://www.inferse.com/616214/microsofts-annual-ability-summit-exploring-the-technology-people-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "jeTdNcGq8TYV0DAtLqLpAFSCl+DSWThNGHJASU5KuQmnXQExtLde6osUNUN79nXs4/XICFkquKn0g9VEDmd1LlUwz8a5BaF4A+1I65BtjMBsiQ1q1XIBQ0Shf4WLGHOdkIKUd3EN5RjkpoOJ41unBy3C7eE/J/SvIvmuVkrNg2CK8qzqLiYuSRLU2AuVQ/OSyuRq32FZXAy9au795/FP3TId2aOCAPk6Rmw0shEuZPqHS3ddh8L9EmluvA1xMzMmsRVbIDIBTz6/7KLSJ0lBnqHMoROt6MTe9zn2Y1DVrB7zg3PyIMhdHdxwZG6eNH8KaLQsKHlmXoBe5uMd3zO44vEb/2rwndbcOAwkKO7w1wZuIQM2SJLWOpS1iXBciajlKqcnsPWsh5h5aApxCO8eKfQVwLgXzyBUPJbB2v2T+VswgT1XzU/iyVqVmpEl9VHnuCnY9BUwaSJa5mB/FTDHlgcxFw+6SO7xQDiNVXgsPGZ34XkKgA6s5zu8re1h6snySqCdnbY+F3wiOmd2WSIBzQ==;S+nJmHtgNXXGP4ULQWfgsA=="
 ---

@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk, Steve Wozniak Sound Alarm On Dangerous AI"
-    excerpt: "Elon Musk and Steve Wozniak, the co-founder of Apple (AAPL), sounded the alarm last week about the perils of AI experiments. Their Future of Life petition is nearing 20,000 signatures. Aggressive investors should buy Ark Genomic Revolution (ARKG). Let me explain."
-    publishedDateTime: 2023-07-10T23:52:00Z
-    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/"
+  - title: "Elon Musk wants to build AI to ‘understand the true nature of the universe’"
+    excerpt: "Twitter CEO Elon Musk is founding an organization, xAI, to build AI to \"understand the true nature of the universe.\""
+    publishedDateTime: 2023-07-12T17:04:00Z
+    webUrl: "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/"
+    ampWebUrl: "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ac98a90ef5570e89534a0b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258742140.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true
@@ -56,51 +56,55 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk introduces xAI, a new artificial intelligence company"
-    excerpt: "Elon Musk's artificial intelligence company, xAI, received its official introduction on Wednesday, with the billionaire saying it aimed to 'understand reality.'"
-    publishedDateTime: 2023-07-12T20:47:00Z
-    webUrl: "https://www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company"
-    ampWebUrl: "https://www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company.amp"
+  - title: "Elon Musk launches new AI company to 'understand the true nature of the universe'"
+    excerpt: "In April, Musk also shared his intention to create a new AI model called TruthGPT. In an interview with Tucker Carlson, Musk described the new model as a \"maximum truth-seeking AI that tries to understand the nature of the universe,\" wording that mirrored the press release's description of xAI."
+    publishedDateTime: 2023-07-12T20:29:00Z
+    webUrl: "https://www.zdnet.com/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 72
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8785c0c6-4a74-4cd4-b103-fa0a946381cf/82df48b7-1fbc-4426-a89c-205a97e7dfae/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.zdnet.com/a/img/resize/127d718f3042e0f13286895e4877a0725bddee3b/2023/07/12/c4c902fd-89fe-474b-87d7-661b3566a7eb/gettyimages-1246506636.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Elon Musk Will Train His AI Project Using Your Tweets"
-    excerpt: "Musk sheds more light on his plans for xAI, a new startup to counter OpenAI's ChatGPT and Google's Bard. 'We are definitely the competition,' he says."
-    publishedDateTime: 2023-07-14T22:28:00Z
-    webUrl: "https://www.pcmag.com/news/elon-musk-will-train-his-ai-project-using-your-tweets"
+  - title: "Elon Musk launches new AI startup, says will work closely with Tesla"
+    excerpt: "Elon Musk announced the launch of a new artificial intelligence startup, xAI, with the goal of “understanding the universe.”"
+    publishedDateTime: 2023-07-12T17:49:00Z
+    webUrl: "https://electrek.co/2023/07/12/elon-musk-launches-xai-startup-work-closely-with-tesla/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05uyfAeIkPGBdn2DgIKTtUU-1.fit_lim.size_1200x630.v1689369120.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Elon Musk launches new AI company called xAI"
-    excerpt: "Elon Musk, the CEO of Tesla and SpaceX and owner of Twitter, has announced the launch of a new AI company called xAI."
-    publishedDateTime: 2023-07-12T17:39:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/elon-musk-launches-new-ai-company-called-xai-3367456"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/elon-musk-launches-new-ai-company-called-xai-3367456?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/elon-musk-launches-new-ai-company-called-xai-3367456?amp"
+      name: Electrek
+      domain: electrek.co
+    quality: 64
+  - title: "Elon Musk Launches Artificial Intelligence Company xAI: What to Know"
+    excerpt: "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do."
+    publishedDateTime: 2023-07-13T18:09:00Z
+    webUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 64
+  - title: "Elon Musk Announces New AI Company With Mission to 'Understand Reality'"
+    excerpt: "Elon Musk announced his newest AI business, xAI, on Wednesday. The company's main goal is to comprehend the universe's underlying principles. Competent professionals who have previously worked at renowned AI companies like DeepMind,"
+    publishedDateTime: 2023-07-12T18:12:00Z
+    webUrl: "https://www.techtimes.com/articles/293717/20230712/elon-musk-announces-new-ai-company-mission-understand-reality.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293717/20230712/elon-musk-announces-new-ai-company-mission-understand-reality.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293717/20230712/elon-musk-announces-new-ai-company-mission-understand-reality.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 61
     images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/12/zoom_virtual_background-7.jpg?itok=D9Q53H29"
-        width: 750
-        height: 393
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431486/elon-musk-announces-new-ai-company-with-mission-to-understand-reality.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Elon Musk unveils new AI startup with team of top researchers"
     excerpt: "The startup, xAI, formally launched on Wednesday and its goal “is to understand the true nature of the universe.”"
@@ -118,21 +122,37 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Elon Musk launches AI startup xAI"
-    excerpt: "Musk said this was part of efforts to build 'safer AI'"
-    publishedDateTime: 2023-07-14T05:52:00Z
-    webUrl: "https://www.exchange4media.com/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
+  - title: "Elon Wants to Master the Universe With xAI"
+    excerpt: "The name of his latest venture plays into all sorts of Elon tropes, from using the letter X to announcing it on a date that adds up to 42, the number that “Hitchhiker's Guide to the Galaxy” author Douglas Adams cryptically offered as the single answer to the meaning of life."
+    publishedDateTime: 2023-07-14T22:41:00Z
+    webUrl: "https://tech.hindustantimes.com/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
     type: article
     provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/07/14/1600x900/Elon-Musk-Artificial-Intelligence-0_1689332861988_1689332882200.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Elon Musk forms new AI company in effort to 'understand reality'"
+    excerpt: "Elon Musk is starting a new artificial intelligence company, the Billionaire confirmed in a social media post Wednesday."
+    publishedDateTime: 2023-07-12T20:14:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
     quality: 57
     images:
-      - url: "https://exchange4media.gumlet.com/news-photo/128561-musk.webp?w=500"
-        width: 500
-        height: 271
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4101689191585/2023/1/e662462498a31d48e525316758705af4/v1.5/Elon-Musk-forms-new-AI-company-in-effort-to-understand-reality.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Elon Musk launches xAI, his new artificial intelligence startup"
     excerpt: "ELON MUSK IS finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched yesterday and its goal “is to understand the true nature of the universe”."
@@ -148,61 +168,81 @@ related:
         width: 613
         height: 400
         isCached: true
-  - title: "Elon Musk Announces xAI Artificial Intelligence Startup"
-    excerpt: "After asking everyone else to please stop making AI, Musk has announced the formation of his own artificial intelligence startup called xAI. The company's goal, articulated in Musk's signature overconfident bravado,"
-    publishedDateTime: 2023-07-13T18:25:00Z
-    webUrl: "https://www.extremetech.com/science/elon-musk-announces-xai-artificial-intelligence-startup"
+  - title: "Musk announces new AI company that seeks to “understand the universe”"
+    excerpt: "Elon Musk formally announced the formation of xAI, a company aimed at understanding \"the true nature of the universe\" that will draw from a heavy bench of industry veterans to take on OpenAI's popular chatbot ChatGPT."
+    publishedDateTime: 2023-07-12T19:20:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/07/musk-announces-new-ai-company-that-seeks-to-understand-the-universe/"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
-  - title: "xAI New Artificial Intelligence Company By Elon Musk"
-    excerpt: "Elon Musk has announced the formation of a new artificial intelligence company xAI. Company was announced on twitter by Elon Musk."
-    publishedDateTime: 2023-07-14T07:28:00Z
-    webUrl: "https://www.dqindia.com/xai-new-artificial-intelligence-company-by-elon-musk/"
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "Musk Unveils New AI Startup"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal \"is to understand the true nature of the universe."
+    publishedDateTime: 2023-07-13T14:56:00Z
+    webUrl: "https://www.manufacturing.net/operations/news/22867237/musk-unveils-new-ai-startup"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 34
-  - title: "Elon Musk unveils AI startup with a team of top researchers but a vague mission"
-    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
-    publishedDateTime: 2023-07-12T21:23:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jul/12/elon-musk-unveils-xai-his-ai-startup-team-top-rese/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 33
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/12/Elon_Musk_Artificial_Intelligence_15762--36428_c0-193-4626-2891_s1200x700.jpg?cf687ec812ddc3aaad4fc12cb4b60f92acbe28a8"
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/07/AP23193758715762.64b0073613ede.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C39%2C1920%2C1080&w=1200"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
-  - title: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety"
-    excerpt: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety - Elon Musk, the renowned billionaire entrepreneur and CEO of Tesla, SpaceX, and Twitter, officially launched"
-    publishedDateTime: 2023-07-14T04:49:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/elon-musk-introduces-xai-an-ai-startup-with-an-emphasis-on-innovation-and-safety-nid-224089-cid-19.html"
+  - title: "Elon Musk wants to master the universe with xAI"
+    excerpt: "Elon Musk announced xAI, a new AI company, on Wednesday with the goal of understanding the true nature of the universe. He's assembled a team of AI researchers, many of whom have left Google, and has access to data and powerful chips from Tesla."
+    publishedDateTime: 2023-07-15T11:02:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 32
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
+  - title: "Elon Musk unveils A.I. startup with execs from DeepMind and Microsoft, with goal to ‘understand the true nature of the universe’"
+    excerpt: "On a website unveiled Wednesday xAI said its team will be led by Musk and staffed by executives who have worked at a broad range of companies at the forefront of artificial intelligence, including Google’s DeepMind, Microsoft Corp. and Tesla Inc., as ..."
+    publishedDateTime: 2023-07-12T18:53:00Z
+    webUrl: "https://fortune.com/2023/07/12/elon-musk-ai-startup-xai-deepmind-microsoft-executives/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 37
+  - title: "Elon Musk unveils new AI company to rival ChatGPT and unlock the secrets of the universe"
+    excerpt: "Twitter owner, Tesla, and SpaceX CEO Elon Musk has announced a new AI company that will rival ChatGPT and unlock the universe's secrets."
+    publishedDateTime: 2023-07-13T05:45:00Z
+    webUrl: "https://www.tweaktown.com/news/92319/elon-musk-unveils-new-ai-company-to-rival-chatgpt-and-unlock-the-secrets-of-universe/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 28
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/tGq21I0V.jpg"
-        width: 570
-        height: 367
+      - url: "https://static.tweaktown.com/news/9/2/92319_165_elon-musk-announces-new-company_full.png"
+        width: 1500
+        height: 914
         isCached: true
-  - title: "Elon Musk launches a new AI startup ‘xAI’"
-    excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
-    publishedDateTime: 2023-07-12T19:13:00Z
-    webUrl: "https://invezz.com/news/2023/07/12/elon-musk-launches-ai-startup-xai/"
+  - title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
+    excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
+    publishedDateTime: 2023-07-12T18:37:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-elon-musk-launches-xai-artificial-intelligence-company-20230712-glof4oikdraszf2vpnti4dpqmy-story.html"
     type: article
     provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 17
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 11
+  - title: "Web fans excited as Elon Musk launches new company, xAI, to understand ‘true nature of the universe’"
+    excerpt: "SpaceX, and owner of Twitter, Elon Musk, recently announced the debut of xAI, his new AI company. The company’s goal is to “understand the true nature of the universe,” as stated on its website. Musk,"
+    publishedDateTime: 2023-07-14T18:00:00Z
+    webUrl: "https://www.cweb.com/web-fans-excited-as-elon-musk-launches-new-company-xai-to-understand-true-nature-of-the-universe/"
+    type: article
+    provider:
+      name: cweb
+      domain: cweb.com
+    quality: 4
 
 secured: "VwJ1+O62TsO5qpSOFLvZ3PtH4UIWFg26kG93Ah3ADnzsljhUbLnZX2x0F4d+CKt9Wzuf/Qy3TNUXLnwxnEJYTIqpCV3r5YufGy3fBKn3nI3tPGxQmnOo8YTGEYiF4vuq/6tt2BqAir9RHCicGYYQ8fRG2okqnxl67+JhbtR3YYJiMpz69Wua/adUMgc6OBKTSTrL0WhgvjJSmi7BNXXu0v2wa/WfZklV2okv8mZST2TtPa6x/eEvgMhG9ghm595kxN7VQsOQZpO1VfE/vFBdwpjHycok7L1vvtIGuLKAHeanSLOU9ParpPqohV4wJuH2dV0gK6oIF8bk+crO3eNIaMZixnkz9BeFJd69mmhUx0o=;jg0aeErqLMTe+YfKFR2Hfw=="
 ---

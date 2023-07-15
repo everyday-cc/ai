@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "I test robot vacuums for a living — here’s 3 deals I recommend for Prime Day"
-    excerpt: "What separates the iRobot Roomba j7+ from the crowd is its intelligence. With built-in object recognition, it can learn and report on its encounters. In fact, iRobot has introduced a Pet Owner Official Process, (P.O.O.P), which guarantees a replacement ..."
-    publishedDateTime: 2023-07-11T00:13:00Z
-    webUrl: "https://www.tomsguide.com/deals/i-test-robot-vacuums-for-a-living-heres-3-deals-i-recommend-for-prime-day"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 38
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/t8SDvoiLRZNEouBTTAbA5Y-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "It's not too late: Best Amazon Prime Day deals on Samsung tech that you can still shop"
     excerpt: "If you're looking for a new Samsung smartphone or earbuds, you can find some great deals on Amazon now. The Amazon Prime Day 2023 sale is technically over, but Amazon is still offering a number of deep discounts on top-rated Samsung products, including smart TVs, smartphones and robot vacuums."
     publishedDateTime: 2023-07-13T17:46:00Z
@@ -147,6 +133,6 @@ related:
       domain: oregonlive.com
     quality: 18
 
-secured: "XcN1fhCHxpZGMK9PEys3Tig57wzb5qMztkwb9yGu27pZcdvKoeH5/MxYAIGe8u1VE3eCrjaRYFHEVkQAdYqkamjujCBdE3Cg0Uym933ao91bcyTQLozf8bhT9pXWwwFDJhBI776qP9Ymqe04qeTITPS+G9fe9rriPAnRmAFi59hJw0fa6niTwtzwrg4d/Loc7ahGUnHHo3cYeDorhTLHFu98Lz8/F9jn6rtYLToY5LOGVCXuLnPu1jIKk6Rqm91umeDiqMuGacku2HEvYipBowTJiOH01Z7Wxe5w5moOzm2oT3W4Z0Tk+ndc0T05/pSnOljMxh5C/QOizDZJXwmN0NjE58L37pMbshYbAhynInU=;bZZEBxJOTv0KtNyCEBOzKA=="
+secured: "R2+t714mdKQ32Y46Bo6miJ6RXPsFfn8jj/glkpDwhAkWC7/acblyDkWIZum92+Ay3w5biSK1I/QYzuSMPfuYVQ43Ce+BJoVsw0+8MT97tBtzsafLn4yJyaBmq83C+tekgdf5L8XwR+1BRbvJNH/vvidCWtOTB1tmOt6oPVN1rDTOCI559DJ0MRupYYKXM+nbHTphxrR7wjSyQrvO/qgh/HwIK3/oYm5EChmM/PdeRm3Ux2yXW1ilBokYz+acdT9TgvzgMLT2ZsJeCGjhUCsS2Lg27jZB2Q0gKgoI/Z8rk2g5UUdlnp6puv6rM6kfRy1sOJDQqzEDqLFyXsqrFuApZtcOnTrSQ0h5D58X/kcIixI=;LF+01mUHX0a8k5kCHQIRNg=="
 ---
 

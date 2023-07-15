@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Exploring institutions for global AI governance"
-    excerpt: "New white paper investigates models and functions of international institutions that could help manage opportunities and mitigate risks of advanced AI. Growing awareness of the global impact of advanced artificial intelligence (AI) has inspired public discussions about the need for international governance"
-    publishedDateTime: 2023-07-11T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/exploring-institutions-for-global-ai-governance"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 69
   - title: "HR using AI on the QT"
     excerpt: "A Gartner, survey of 105 HR leaders revealed that just five per cent of HR leaders report their function has already implemented generative AI, while another nine per cent reported they are currently conducting generative AI pilots. Gartner HR practice VP ..."
     publishedDateTime: 2023-07-12T08:13:00Z

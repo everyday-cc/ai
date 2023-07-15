@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2023/07/14/podcast-tesla-people-mover-leaks-cybertruck-body-elon-ai-startup-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod.md",
-      "title": "Is this a leaked video of Tesla's rumored self-driving Las Vegas passenger pod?",
-      "excerpt": "A YouTuber posted a video showing what he said was an early prototype of Tesla's rumored people-mover. It spread across the internet this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/",
-      "originalUrl": "https://www.autoblog.com/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/3a0ae35eb02048eb8a6ca77a13999005",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/",
-      "publishedDateTime": "2023-07-13T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-us-to-decide-on-gm-request-to-deploy-self-driving-cars.md",
       "title": "U.S. to decide on GM request to deploy self-driving cars",
       "excerpt": "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls.",
@@ -105,7 +62,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1409,6 +1366,49 @@
       "provider": {
         "name": "CoinTelegraph",
         "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-nation-presses-the-accelerator-on-driverless-vehicles.md",
+      "title": "Nation presses the accelerator on driverless vehicles",
+      "excerpt": "A passenger travels in a driverless car at Baidu Technology ... \"Thanks to the convergence of machine learning and artificial intelligence, big data, mobility and advanced sensors, the autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202306/29/649cbee9a310bf8a1d231853.jpeg",
+          "width": 668,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

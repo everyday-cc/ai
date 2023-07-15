@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "A new dawn for generative AI shaping the business landscape"
-    excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
-    publishedDateTime: 2023-07-10T23:59:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-ai-business-transformation-leads-to-an-unprecedented-leap/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/NEC-is-redefining-customer-experience-by-creating-customized-generative-AI-solutions-that-can-unlock-novel-business-value-scaled.jpg"
-        width: 2560
-        height: 1703
-        isCached: true
 
 secured: "PT3BKbpaJVzG0zI9cCIZ9SV3BbL+47Ml+YStvPB1MJuOrPaQyuQVtioei/hmpNGVveet7AIXXcijSvkUuGrTcOC6gAawTtPP+tpd7Kz76Jqn5heCRMLRY5r77z0l3dZsvNw25wQxHyKp7B2NH6lwIMdYT6C0EdvyHS8NAgrXnGqHNAPGqFibw5vfdfflUg9t3TiFYPe3OwUDfqjB3mH22tL1OhUKUCe3353YwIZOo49Nshax66dHqSqv1Sn9UT0t5STTrDwCCLYPNZCFq9DELs8mXf8qh2lsbFomDqE7+2aIFUfa9I+vb42njmFzBYEfaun+uEaesEL8+UDFIZUA8td81ZzvyRI4OBiptWnNWRwdv6PDlu03NU0jvEesyaxXpCo+Yt7Dys5QFnWpd/dXKtalpAJZnP9fnsT5CkMfIFijmHfMUfvjoqpu57ulHnBElD74+GS0bN4kAF6ihEmv9+a2bGNEs7JUZ4/4Qx501XEpxongoN0ugTccGAR9Oz1YrJHwkmVVq/ugthB/X4NgGQ==;sCEuWqt3derqaQoabUvDUw=="
 ---

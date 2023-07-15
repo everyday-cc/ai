@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Commentary: Should the AI doctor see you now?"
-    excerpt: "The promise of artificial intelligence is that it will transform productivity. Nowhere is that needed more than in healthcare."
-    publishedDateTime: 2023-07-14T04:00:00Z
-    webUrl: "https://www.todayonline.com/commentary/commentary-should-ai-doctor-see-you-now-2211286"
+  - title: "Wimbledon 2023: How artificial intelligence is changing tennis"
+    excerpt: "BBC Sport's Liam Loftus takes a look at how artificial intelligence is changing the future of tennis. Follow Wimbledon coverage across, BBC iPlayer, BBC Sounds & the BBC Sport website & app."
+    publishedDateTime: 2023-07-15T08:31:00Z
+    webUrl: "https://www.bbc.com/sport/av/tennis/66183190"
     type: article
     provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 39
+      name: BBC
+      domain: bbc.com
+    quality: 67
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--bDGGNvBN--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/07/14/20230714-freepik-comdoc.jpg?itok=Afj5-Itz"
-        width: 1200
-        height: 676
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/102D0/production/_130365266_p0g0jf7n.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "AI on the Path to the Finals: IBM Serves an Ace by Bringing Generative AI to Wimbledon"
+    excerpt: "New IBM AI Draw Analysis and AI Commentary features are here for tennis fans enjoying their Wimbledon experiences."
+    publishedDateTime: 2023-07-14T17:42:00Z
+    webUrl: "https://www.techzone360.com/topics/techzone/articles/2023/07/14/456474-ai-the-path-the-finals-ibm-serves-an.htm"
+    ampWebUrl: "https://www.techzone360.com/topics/techzone/articles/2023/07/14/456474-ai-the-path-the-finals-ibm-serves-an.htm/amp"
+    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/s/www.techzone360.com/topics/techzone/articles/2023/07/14/456474-ai-the-path-the-finals-ibm-serves-an.htm/amp"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 31
 
 secured: "d0gita4oY7KKxQklSC2tRc2GtXCqrJmc8TZYgEiV+tQbMUEt2gHj3ncMCd7m6L8ZGkWdGfnsuTP0DKUxteDvA+9cXjNysMYIqYZ78Ftu90pCSwFUQoW7yuRXp6h9484O9sSC4V/KHJbK+LKJhBMJ1NMCCizAIwYKuuAvV4KrOmwpXy2T/UI0FIhs98zMsFja4X0lern2eaaMhm6m5VDzccTvZ3QxILQ6w2owMRiltvXXE74QjtrBEChczkg/uznGuLYwQXo8AJxY7CPtBMZo5H8fCMqoBnT9UXhgsNK1oW9qtyV2P4bSJkwG/Q6nMpmZAHv5EVX6f233RUoUzoDf7q7ikAV9MjH9eQBXrfa+4s8=;ssgN5z6wVOVXMjNntZr00g=="
 ---

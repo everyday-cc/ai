@@ -211,49 +211,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-mit-research-scientist-asks-if-ai-can-become-conscious-elon-musk-says.md",
-      "title": "MIT Research Scientist Asks If AI Can Become Conscious, Elon Musk Says...",
-      "excerpt": "The researcher posted this query in response to the first tweet by Elon Musk's new artificial intelligence startup, xAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373",
-      "originalUrl": "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-06/hhoa66ag_elon-musk-at-viva-technology-conference-paris_625x300_19_June_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1",
-      "publishedDateTime": "2023-07-13T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-ai-is-not-the-solution-to-better-customer-experiences-in-australia-yet.md",
       "title": "AI Is Not the Solution to Better Customer Experiences in Australia … Yet",
       "excerpt": "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions.",
@@ -1489,6 +1446,51 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-ai-will-it-help-humanity-or-doom-it.md",
+      "title": "AI: Will it help humanity or doom it?",
+      "excerpt": "In order to better understand AI’s promises and perils, Angelus spoke to two Catholics who have tracked the technology’s rise from different places.",
+      "sourceUrl": null,
+      "webUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/",
+      "originalUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://angelusnews.com/wp-content/uploads/2023/06/Ureneck-1-1024x689.jpg",
+          "width": 1024,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/amp/",
+      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/faith/artificial-intelligence-welter-vukov/amp/",
+      "publishedDateTime": "2023-06-26T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Angelus",
+        "domain": "angelusnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
       ]
     }
   ],

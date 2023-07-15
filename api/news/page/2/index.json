@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-14-china-takes-major-step-in-regulating-generative-ai-services-like-chatgpt.md",
+      "title": "China takes major step in regulating generative AI services like ChatGPT",
+      "excerpt": "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 316,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230714011428-china-generative-ai-regulation-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
+      "publishedDateTime": "2023-07-14T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means.md",
       "title": "Apple Vision Pro headset to feature custom-designed DRAM chip: Know what it means?",
       "excerpt": "Apple Vision Pro AR headset features visionOS, the world's first spatial operating system that allows users to interact with digital content as if it were physically present in their surroundings.",
@@ -445,7 +496,7 @@
       "originalUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 290,
+      "heat": 300,
       "tags": null,
       "images": [
         {
@@ -738,49 +789,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-14-researchers-use-artificial-intelligence-to-accelerate-access-to-covid-19-treatment.md",
-      "title": "Researchers use artificial intelligence to accelerate access to COVID-19 treatment",
-      "excerpt": "To address an emerging issue in health care delivery, researchers from Emory University's School of Medicine and Georgia Institute of Technology are exploring how artificial intelligence (AI) can offer a way to increase efficiency of diagnoses and treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-access-covid-treatment.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-access-covid-treatment.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/coviddata.jpg",
-          "width": 1920,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-access-covid-treatment.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-access-covid-treatment.amp",
-      "publishedDateTime": "2023-07-13T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-amd-and-massrobotics-announce-winners-of-the-amd-robotics-innovation-challenge.md",
       "title": "AMD and MassRobotics Announce Winners of the AMD Robotics Innovation Challenge",
       "excerpt": "MassRobotics, in collaboration with AMD, is pleased to announce the AMD Robotics Innovation Challenge winners.",
@@ -820,49 +828,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod.md",
-      "title": "Is this a leaked video of Tesla's rumored self-driving Las Vegas passenger pod?",
-      "excerpt": "A YouTuber posted a video showing what he said was an early prototype of Tesla's rumored people-mover. It spread across the internet this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/",
-      "originalUrl": "https://www.autoblog.com/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/3a0ae35eb02048eb8a6ca77a13999005",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/07/13/is-this-a-leaked-video-of-teslas-rumored-self-driving-las-vegas-passenger-pod/",
-      "publishedDateTime": "2023-07-13T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1216,6 +1181,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years.md",
+      "title": "Chinese robotics firm Fourier aims for mass production of humanoid robots in two years",
+      "excerpt": "Chinese tech startup Fourier Intelligence has set a goal of achieving mass production deliveries of humanoid robots within two years.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
+      "originalUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

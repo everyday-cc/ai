@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/07/14/podcast-tesla-people-mover-leaks-cy
 webUrl: "https://electrek.co/2023/07/14/podcast-tesla-people-mover-leaks-cybertruck-body-elon-ai-startup-and-more/"
 type: article
 quality: 81
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Elon Musk Announces xAI Artificial Intelligence Startup"
+    excerpt: "After asking everyone else to please stop making AI, Musk has announced the formation of his own artificial intelligence startup called xAI. The company's goal, articulated in Musk's signature overconfident bravado,"
+    publishedDateTime: 2023-07-13T18:25:00Z
+    webUrl: "https://www.extremetech.com/science/elon-musk-announces-xai-artificial-intelligence-startup"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
 
 secured: "tpX0Xv7TAcUMa+dxKllPbJtVy8q5D8qT4RwwEnUFT8xbfndJyzLXdiqzHKx/C0WWRwEbuNZSwLpdt99j6pQDYpd/W5Sa0kbIxNBJxjlIIoFgYKiFJKYbQDpV+4iJ3PW6ObqJKb2dhmikkDDtEfxTQrVtc5vhd29AyhG8BviLSbRTyePUYxtjoWmIyQ3d9Ge4m47gyDPKFdy1iaf9Mj2hdFN3fo7NntM5sYgeipeHhBHQgq2N29/aSutmrthqat7XtMsuZFh3lhvp+ETqAUz/g9u2s8QEegJBTrqO1ZyLry0VHd3CPYM6Yc+bma1OVNZPQ/480fYtSTEnwrOs7V7EiDMKuiBhkxC06YZ6nU5b1RnxbeNPwbT5bu1QUNvtc3AftSTaRHNMr1RwhTLnh9yowjZKyzIZbzwbqT0Yd0gCINuxRU3WpXaA73j/hxiXuBH91BuLgF3vRAUp3mcrBOcBuZRNklYrvlTSDmyfYl07xsoi4iZapZ1cLZEBSCxs8KgrkmgBidTWFgHBD7wNjMTy/Q==;aaxlVh6y6Sv4naKVHOsgoQ=="
 ---

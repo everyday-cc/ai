@@ -2,101 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-07-07-the-us-army-is-looking-for-help-from-ai-to-predict-what-its-enemies-will-do-minutes-or-even-hours-before-they-do-it.md",
-      "title": "The US Army is looking for help from AI to predict what its enemies will do minutes or even hours before they do it",
-      "excerpt": "The project is driven by concerns that human intelligence analysts won't be able to keep up with the increasing complexity of warfare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/us-army-wants-to-use-ai-to-predict-enemy-actions-2023-7",
-      "originalUrl": "https://www.businessinsider.com/us-army-wants-to-use-ai-to-predict-enemy-actions-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a730744cc8540019cba9c7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/us-army-wants-to-use-ai-to-predict-enemy-actions-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-army-wants-to-use-ai-to-predict-enemy-actions-2023-7?amp",
-      "publishedDateTime": "2023-07-07T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-moh-agency-microsoft-to-develop-ai-tool-to-help-healthcare-workers-in-singapore.md",
-      "title": "MOH agency, Microsoft to develop AI tool to help healthcare workers in Singapore",
-      "excerpt": "SINGAPORE – Healthcare professionals in Singapore will have an artificial intelligence (AI) tool to help them get quick and accurate answers to questions about care protocols for medical conditions or subsidies available to patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore",
-      "originalUrl": "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/hzhospital070723_0.jpg?VersionId=DmWmvyy8TAXRSC55NTAwkREwOC2gKdiw&h=40abc946",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-07-07-data-security-why-a-proactive-stance-is-best.md",
       "title": "Data security: Why a proactive stance is best",
       "excerpt": "Threats to your data are everywhere. But with a proactive approach to data security, organizations can fight them.\nThe post Data security: Why a proactive stance is best appeared first on IBM Blog.\n",
@@ -1156,6 +1061,102 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai.md",
+      "title": "Rise Of The Robots: UN Tries To Tackle 'Mind-blowing' Growth Of AI",
+      "excerpt": "The mind-blowing growth of artificial intelligence poses many questions that have no answers yet, the United Nations admitted Thursday at its AI summit, attended by some exceptionally life-like humanoid robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "originalUrl": "https://www.barrons.com/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/rise-of-the-robots-un-tries-to-tackle-mind-blowing-growth-of-ai-31334488",
+      "publishedDateTime": "2023-07-06T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-generative-ais-secret-sauce-data-scraping-comes-under-attack.md",
+      "title": "Generative AI’s secret sauce — data scraping— comes under attack",
+      "excerpt": "Data scraping of the internet for massive amounts of data could be described as generative AI's secret sauce. Experts say the current blowback is unsurprising.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/",
+      "originalUrl": "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-06T120228.476.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Ethics"
       ]
     }
   ],

@@ -272,6 +272,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 22
+  - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
+    excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
+    publishedDateTime: 2023-07-15T17:21:00Z
+    webUrl: "https://www.inferse.com/616214/microsofts-annual-ability-summit-exploring-the-technology-people-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "H12Kj3b0sGjWUO/ZosLfyrjJC6g70UYWnjicrm0Ck/AbHMMMTA2TcCAPlvSpTmVfbJik1lV+Bl7otPmftSsL+T4iD22m6YJU/x9rcW6G4Comc7ycsRg5SqLQygz3grwmzqqz2kkH9NEqFiIMJKzUraGE2hsvep1V9CtfvaIHcLLUzBkY9Elq2mv3vi001517Ie0ECJhH5rPgFMxHBM6s7ES21/RNMRAsDWcNRvCyxHmSw5coXcndY+GxDK+osfpBSEGL49Hg0/0Ig/DYzeY8s2zrYp+R05eVomnKqQavXBpwRhRy23wBLvDrdiK0kj/ujWoyWFQaFEx5S2g6ugrXc563wRZRJjg4ZLufi6+YqTqvPAbu8MgO7XNr/F2i4V77lUzPaBbdK917cUcnb2Z+gajWsatLTIl11GmbHK8gvRuosTLa0b0XhnwX47KukUK1KhSoH9fesWPPtl+sokm35BdUfa/4hnUuvfz+GUISigfZQL08onQ5xhfWQ3ZWoNbIvFrikMVwJAmNXRgMIdtEBg==;MrhIRMO+vKJ0fhNICVct8w=="
 ---

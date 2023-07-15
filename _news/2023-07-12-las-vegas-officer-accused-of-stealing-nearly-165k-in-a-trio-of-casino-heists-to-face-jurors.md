@@ -35,22 +35,6 @@ related:
         width: 1062
         height: 597
         isCached: true
-  - title: "Jury chosen in trial of Las Vegas police officer accused of stealing $165k in trio of casino heists"
-    excerpt: "A jury was seated Monday afternoon in the trial of a Las Vegas police officer accused of stealing nearly $165,000 in a trio of casino heists"
-    publishedDateTime: 2023-07-10T23:34:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/las-vegas-police-officer-set-trial-165k-stolen-100996994"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 30
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_93a8060eeb7d98a9f528f9d5ca8104aa_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "Ib84PpjfSkxNZgSCqFohbNTz8wX3Pgf++eOH9bqa3PSXsMn9gqgKQFewNGPb6X6eA1ccauns7VE3p4Hj+1tqfIzU4RwUoQjb6vHE3pESdjIHktTaupCGiJ0p/h9KagFHawIgT9Lm33Sz2mTehvYubqtzOhKXDMPO6gZJ97+8SYQk4CtK4c5kLsXivHaok6cGS9DtCmGG+4xRBLz0QGJJgmMX+P0AP9+c7hNfVOhQAUyctDr1EA3oHrDs/cOagknUHcTpNA8/kuLA3c1FJ0btFcM+0myKckUcUh1Bl2iqg5jFwQ9b0oti67F7/ZaKVUfAJfz7V4Ll9LyIaGYsjZz0IZ0Gu+pb2vu6phc3scLAPXhqdfNPluRg/X1KCca5bF/AM9mjHlTu3pj6uIhlcem0KFPVM3WldIPSTdJsM+hLSyMe5+CquMXDS1H3zAVnnCnuzHbNuxNy2I+W4nhQPeqLQ025iWAg2/gNZLP1z3bxuucyPO0C5E8hhD5/8SHyn1mYc6QOSZQemgiDTTAPJ1lBJw==;PkdneoQKs+CcZZfaXyZ+xA=="
 ---

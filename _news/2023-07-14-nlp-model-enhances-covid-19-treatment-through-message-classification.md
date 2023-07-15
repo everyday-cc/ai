@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 875
         isCached: true
-  - title: "Emory, Georgia Tech use artificial intelligence to accelerate access to COVID-19 treatment"
-    excerpt: "A new study published in JAMA Open Network assessed how a specific type of AI, called natural language processing (NLP), can speed up the time between a patient-initiated message, a physician response,"
-    publishedDateTime: 2023-07-10T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/995244"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 9
 
 secured: "in3+B7q3ufnxo+AFkE7ARRqSzT/M2DkfOdyJklJjkcNu4bMYA43N2Q6m3Fgmw2BL7cMt0n/v226axOgMDdqrxbB3sfH1lZ2gS+SbnXYxNSVNkQi6M/DHN7hkle0ekWpDNaWbvXBSpw28PBtw9gOWCqy6qq1BvmJyZadnf9s7yfTOonZSTiRI/ezOI80g86YxmCMkbZ9eOR3E75RhvJD60X6lzoSL7mgHskBzxt+5AtR/DjlPWcCjFQVw54HxhCFVTa0gfgjRC9Sz/e0QRCvCJ/J7mZsYwf4/pcmqpDxY8JEHf17pRPF9TedCy8cR7c/sahpXdR3WAFDjLJv9sj33o1tNbaBhhi3SBq1vCucz1LKZnRfadCIjEFcwUE9Ycz2vErIm9Z9/M5hLrUAasGy1jDyF7ySYBRl0mBSx2yrhpg129W/tS6AoZCbPsp6gi0K8x9qQB87D1jLtrWrW5SmuBPm5WSLgMQUHV2JyiJBLiVaVZS59RosqbDttg1owQH3ySbnVLJ/K9apbuPZHWt4mjQ==;IAKgPRrPYlTmgXQCrYcD3w=="
 ---

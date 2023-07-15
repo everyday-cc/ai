@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "China to lay down AI rules with emphasis on content control - FT"
-    excerpt: "The Cyberspace Administration of China aims to create a system that will force companies to gain a licence before they can release generative artificial intelligence systems, the Financial Times said on Tuesday,"
-    publishedDateTime: 2023-07-10T23:31:00Z
-    webUrl: "https://www.reuters.com/technology/china-lay-down-ai-rules-with-emphasis-content-control-ft-2023-07-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/1-uz5M-2tioUygxn0RSw_7gka2s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ADNV3GZHVNNKRPFHSWQGUXYUWU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "/W1n6ikHToigM7MF/Ir59yCW3XtxjFCNsoDQ9X6CmbRcBW2f0Tvhqese/SlnzgQRO72fxlFKKvogueMXcozeW7Vx5+fHbI53d3agziYmCqIEFVFRuuz15orV1iYVuGliTz5JgqyEXyLEQqoS1FcqNdJ3BQ09G4GbFaWFM9MHKJ8TfdjQqPq7oWAyjcUFX5+Cys/2l/k6v5aUp9zvi9hPZZCG+mSEFfoFBZaLHziYwMAE/IOxQuxIQXugiucL3yjA49QZy12xVvQli0Jr5/9vyfTpeYqIl85Y/kmeB2ma5PCekkCehvkWC5+QRpun7O5Nu9Qf7FvFv6XEoGuu19vKW9rqydYC6mL3DGVeyU8j/zE=;yPCyapf+4q8dgC/WnT29lw=="
 ---

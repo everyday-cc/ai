@@ -114,6 +114,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI versus AI: Human extinction might just be collateral damage"
+    excerpt: "As computer scientists have warned us, the algorithms behind AI systems are capable of inexplicable mistakes and \"hallucinations\" — seemingly reasonable results that are entirely illusionary."
+    publishedDateTime: 2023-07-15T12:00:00Z
+    webUrl: "https://www.salon.com/2023/07/15/ai-versus-ai-the-risk-of-nuclear-as-collateral-damage-is-real_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 39
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/07/missiles_1434662965.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Y4JoqIXw+pHDnAFEBcYLYNdXHuKggDE/+B4qdbbgYrL5ToGTcmY5rn9OPtwG9kGEAuGdSUY38yQP26WJYIDTCR+51482dryKhm0XlmHHNjtJ0lZBXx3YcbEGBcVriN4yLMn7vJwwb+YZwMMnm1k4XeBtMh5Pwh+RQRSAmDQAngVGZyPXLhcVxsyBQ/XRR9GTslJNmYh82nR8v2+TumpKvHyuFeFWWpDPWbdo5NUG+lOcG572//XxEZHbyf6omj3V9ArpRUYPMivR5F9zWb7evG/2ertCuj/lAaOT6WEye4zrjfgUb9E4f/K+n/2Bk+9hibABqT+U/fcyhFH+MkKCwl1bSzk3+9U3YSyp/gU96d1Zru5+8/9ZXI6fXBy5DBllXL9mn1etdupiFFl90AZV+VEf6NdYuWw+yWjpGLSzXBju/q9cEo8UQjLk/g1XURoEjSFo9dSLOl7exF8Lt0MuouA9j3RbKpE0f88olnqTB1TOK9GcffJjAwkU5Hn+1DO+gLd5hbxplhdxsBiRSC8h9g==;w4LwfSUA6JtwGkx7kKmtqg=="
 ---

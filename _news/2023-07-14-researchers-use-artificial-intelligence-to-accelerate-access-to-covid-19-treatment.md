@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-artificial-intelligence-acces
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-access-covid-treatment.amp"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Medical Xpress
@@ -41,15 +41,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Emory, Georgia Tech use artificial intelligence to accelerate access to COVID-19 treatment"
-    excerpt: "A new study published in JAMA Open Network assessed how a specific type of AI, called natural language processing (NLP), can speed up the time between a patient-initiated message, a physician response,"
-    publishedDateTime: 2023-07-10T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/995244"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 9
 
 secured: "LaEjtaLamChmFDMxzUF0mhOzrfaZnogNIgtz/vTB7WEdZl0OqrpxnmRDsvjCzMcehgwhQGL22v6AieJMXDwXQ/1hZJp2VfxVUQDa2DJpGO3wpW6X5qjowR9n52/D+q/hM6FLwxpiELOHQXuMT4j+Axdv0z1JHtzbjLNQmelAF9+PBLxmJw8UdnFQ0ZvS1g7brGmmmQA7IaIt+pvR+6WwDi6bkJi3qlrYHF7JmnL2sjWXE1MLHx+fgui4HS07l72xrotIzIb5AcYmqIeiXE0cKyYFFJ5h9vwu3M1av/xqK3LtMFdXa1M6eEBZZxSQxGedKZcSKHHwZbSFbmtnmas9rUnTHKoRLAKxtic6TKu9BZ4zOXGUf+hNLjMAd9hdAK0b/t13Qj3QKBHTeAEaeRhHhYOyfeueRIO2SJy8sqii9PvBNl9/TmE2miegHHCgXhRLdy7L9MrTpLW+ZkfqqXm+3hH8hbcqmBY7LQJliF/ENi4S0kgaVsdVFmNyYi19xc3RLSPQakZbrYXSJhjvl2NLzw==;nvg++6OL9dlASefA9OEzQA=="
 ---

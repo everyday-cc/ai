@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring institutions for global AI governance"
-    excerpt: "New white paper investigates models and functions of international institutions that could help manage opportunities and mitigate risks of advanced AI. Growing awareness of the global impact of advanced artificial intelligence (AI) has inspired public discussions about the need for international governance"
-    publishedDateTime: 2023-07-11T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/exploring-institutions-for-global-ai-governance"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 69
   - title: "AI Industrial Robotics - France"
     excerpt: "Value in the AI Industrial Robotics market is projected to reach US$238.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.67%, resulting in a market volume of US$ ..."
     publishedDateTime: 2023-07-11T07:38:00Z

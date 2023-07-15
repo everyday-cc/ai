@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "I test robot vacuums for a living — here’s 3 deals I recommend for Prime Day"
-    excerpt: "What separates the iRobot Roomba j7+ from the crowd is its intelligence. With built-in object recognition, it can learn and report on its encounters. In fact, iRobot has introduced a Pet Owner Official Process, (P.O.O.P), which guarantees a replacement ..."
-    publishedDateTime: 2023-07-11T00:13:00Z
-    webUrl: "https://www.tomsguide.com/deals/i-test-robot-vacuums-for-a-living-heres-3-deals-i-recommend-for-prime-day"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 38
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/t8SDvoiLRZNEouBTTAbA5Y-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon Prime Day 2023 Lightning Deal: Score this Eufy Robovac and mop combo for 54% off before this deal ends"
     excerpt: "This 4.4-star-rated Shark IQ Robot vacuum (RV912S) cleans your whole home in neat rows. It lacks the advanced smarts of more expensive robot vacuums, but this is one of the most affordable robot vacuums with a self-emptying base you'll find. This Shark model comes with a 45-day capacity cleaning base."
     publishedDateTime: 2023-07-12T15:48:00Z
