@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7?amp"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://images.wsj.net/im-815234/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Artists are losing the battle against AI. Glaze, a tool that's found a way to trick algorithms, is giving them a fighting chance."
-    excerpt: "Artists are worried AI will steal their futures if they advertise their work online. Researchers say they have the solution, but it's not perfect."
-    publishedDateTime: 2023-07-11T02:59:00Z
-    webUrl: "https://www.businessinsider.com/glaze-artificial-intelligence-artists-intellectual-property-midjourney-openai-stability-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/glaze-artificial-intelligence-artists-intellectual-property-midjourney-openai-stability-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/glaze-artificial-intelligence-artists-intellectual-property-midjourney-openai-stability-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/646df6bb6f9a4800187358c3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "cM2sqi/JL4XyykYff60TynhkN4dRHtyLXK1zInHN52PVo2z03wSL4GMw491Qt6YcdSWVO1qNdztnfcKzvAr/zRTGnG04NLxJld/yP+ScFOy1T/9cZ2BYx8dWpvGAujG8ZjA6wOtHt4rztk1UmJ5f4hdbBgDunaOo6HrfJvb7hdK5dP1xSOwsJrKE86CUVdzjYcJATBbBoZXPU5xqfiQUG1RtPwrI82tZCjs7dCzwLwQOxl+I2mlQFlc0RsANbJjZ/0V+dk0n5KoMlp55QJXTDvmbH66oIyRXjpMIf0HjiXJ0SXjC+U3a9uclZP4uR5QYagIAbYF5mIIwSK3KH1arCk7FIQW/VzbbX1M1avGgGfC8b1ETXUXZjPKFOT7uS9novOZ1xqsYizPH2O75u0ZkAM6ctC/OZ1/wJTQV6abViP+/XRO+0kzHG4rnLhzZHGlKtLKrocLtSaEUQIejtQ0iy37SNpwkzDHFFQ3llt/x5ongSsb8U8wjELRR+7Qf6CTxZNX3gx+6uMaA0UCi1wQZ6A==;jlTA6/LAZH/JzIWJ/KDiuQ=="

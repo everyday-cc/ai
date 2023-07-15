@@ -87,20 +87,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Government warns on generative AI use"
-    excerpt: "Positioned as a baseline policy that will evolve over time, the Digital Transformation Agency’s (DTA’s) new Interim Guidance for Agencies on Government Use of Generative AI Platforms outlines four core principles that delineate its perception of the key risks posed by generative AI technologies."
-    publishedDateTime: 2023-07-11T01:04:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/government-warns-on-generative-ai-use.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/gen%20ai%20govt.jpg"
-        width: 999
-        height: 563
-        isCached: true
 
 secured: "mLr1hOjwrAvuiB8Rm0MGGR/QTTwknAj2Qc3E0nfckemrsh9+EinAvVNw/jJQs0+eM+d5GOZ/9CcHxHBT4JS1LcmRkZK8HlEupWg5Licr5lC88PSuei2W5sMHlX/9lXTnD7OJgnaYJb4e5OpsFgDsdnPfkLk5HZT6xQRUar1A/CkYwy4yOZftJDg7OTUaSqKI5yqAZfO92tDn93sAYYSsMCzkBTS9fpHQaQVzl4CIfhlmaI2mHr9FfVZC/7aTtV74qwr50lnrmGkjkVd6Z7HHbRcvLafjz1OXasn4N5HINUWvIyPZz3E+x7rKnrJCsoOVak9tn+Xdn2sXsa2z0NdycTm/rXZ9m+0GhlV5aCS0nUU=;KNHEYzp32zYQz5+E/JDcNw=="
 ---

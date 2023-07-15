@@ -39,20 +39,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 90
-  - title: "This week in data: How to do generative AI the right way"
-    excerpt: "In this week's video, Bruno explains how to do gen AI right, how you can mind the R.A.F.T., and what's happening at VentureBeat Transform."
-    publishedDateTime: 2023-07-11T03:07:00Z
-    webUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-do-generative-ai-the-right-way/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_artificial_intelligence_technology_coming_out_of_a_compu_53e4a63c-a4cc-46a1-989a-6b3bc275a023.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Enterprises Are Not Going To Miss The Fourth Wave Of AI"
     excerpt: "IBM announced its Watsonx software development stack back in May, and today it is starting to ship it to customers. We wanted to know exactly what the heck it is. And so we reached out to Sriram Raghavan,"
     publishedDateTime: 2023-07-14T20:17:00Z

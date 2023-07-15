@@ -40,6 +40,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "How Law Firms Can Utilize Artificial Intelligence for Marketing"
+    excerpt: "Artificial Intelligence will revolutionize law firm marketing forever. Law firms are now (or should be) leveraging the potential of AI in order to enhance their marketing efforts. By harnessing the capabilities of AI,"
+    publishedDateTime: 2023-07-13T14:58:00Z
+    webUrl: "https://www.law.com/2023/07/13/how-law-firms-can-utilize-artificial-intelligence-for-marketing/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 56
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2022/04/Artificial-intelligence_3-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "9iEPIZRv90PqwJLpB2fQyGfjO2y1g5JFxdRKa3MCMArUTeoG7DQCF1OkNPYHp3oeeNzgSVoerTxcXtwrWKZLKCSlYgI77dkM22DdBdI3ADdG1RB7A6xau8gI++dcng4Lrxc3iLcjRwdiqDFASogHQIa3fV/Em7l07s3SiXsTwXoJU8lsOfn3B2iAAAuVUgpHCYg7HyZC1F1UxxDc4M4qWiLGmUHSGfvGbBor0+OYeNVMMrd6vDeMQbZJvRuhNLvMoSAIlbfOer93dEmKvCh0h7FihE5F2L6h8/vswBzPGQAooHPJP8obHcgVPiVHO+uJOXBoZiuldVQ340d9+08anFnEqGZ/GbqBZwawybRWFAvmHRZp3rTWxyddmvIPH2q1HrbtzFwZ6EDWZFJgjyzPN55Mvg1G+/9bqBeU4AGGb4ByFZTh7X3LdW23T7e8WUz8rf1OvQy+vyC8rVt4yDlcWeL3+lyuenTesTWgnNQJUp4BHMTDrp5JNGKvLiczkj2ZUzU3XP2i6pYRWgsh+5fK4Q==;Y/ljHa3idDqtu39lsk33zQ=="
 ---

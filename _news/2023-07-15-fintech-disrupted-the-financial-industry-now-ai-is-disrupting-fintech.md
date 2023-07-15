@@ -33,20 +33,6 @@ related:
         width: 2500
         height: 2500
         isCached: true
-  - title: "Investing In Fintech - A Closer Look At The Opportunities"
-    excerpt: "The fintech industry has experienced remarkable growth and has become a key player in reshaping the financial landscape. Fintech, short for financia"
-    publishedDateTime: 2023-07-11T03:12:00Z
-    webUrl: "https://menafn.com/1106581655/Investing-In-Fintech-A-Closer-Look-At-The-Opportunities"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/10/C_9861cimage_story.png"
-        width: 960
-        height: 600
-        isCached: true
 
 secured: "UHWSrj5KzdV1S6gHpl4MEoaQdVkztiTUqLLudCtSIPB3SF4cyyQMTuFzAKBVDQablmmWnILqYrak0nN0R5dZfOMq1mvXYrYQ2wWBBBJPKEWkmbrfUCrhMxMLfwNacXKES6eJlNJDA006BMGCF903Q0e69KE2AvLH/8tSQqVZMkvenENDdcL4jFt7QizRVk2ET3ajteG1jPHzt+qnwrazIqhL5chs2FWLNnmf/+b0Ma/foX02+u5Y2yUSh5lZyYHMBbk+3/k/1eRsYjefYLWcYS0aSC7toZXpgsaRSj9E482GzgAA9hg5xxT5fSDY2IJ0DB6cwzfjmBNsQ3iAzG8G7fxncTh6aD43LZ9/aCq+4Sg=;dElZn5JC9AxSaVziwU3c9w=="
 ---

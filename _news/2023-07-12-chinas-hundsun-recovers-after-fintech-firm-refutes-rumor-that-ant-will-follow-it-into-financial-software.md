@@ -34,20 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "HelpPay teams up with leading tech players to revolutionise website and fuel FinTech success"
-    excerpt: "Revium leverages Storyblok to develop a simple, intuitive, cost-effective user experience for HelpPay in just over three weeks. HelpPay, the profit-for-purpose Australian fintech on a mission to empower individuals to pay someone's bill and provide assistance to those in need,"
-    publishedDateTime: 2023-07-11T03:29:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/helppay-teams-up-with-leading-tech-players-to-revolutionise-website-and-fuel-fintech-success.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 13
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/12722a034931467110a716e727dbd43c_M.jpg"
-        width: 375
-        height: 282
-        isCached: true
 
 secured: "aVUVrU9GESM0upjETD/4MMKY4WLtN/XoKrPIljQipcdfgANUO+/lROMjX3RR0wS8sjUoWiWsd6SYDUn90q4dFkbgelo8oVseR0NZMzx1HFeA9ZciDbZ4ZZ4vz0O9+G3ojY4nHRuzjqB1rxC9+GJ4IW/Qmq00oUvOXvF4hC2cLUcV1vF7Vfx3n7/J848lpeBMeLy5oI8Ij+GvxLX2MHVBKJE4F1clPHcdroVnxxznbSf8d404QR10m9XIUlE0ioEvSOC4LLkTuBNq4l/M6vdVAUv/VIWtnHcgj3B9zUHZpoctrVB/cYHHVOkoWcshi6Lx0CLr4zWZ/Jz9+DmqpODdh2txbmgxmtxurcYh6Lrd31mhQ5qpw2LY6Y79xatj1WbwsKUANBueg9GxT6TMA+vlPIj9GdKNv5mbOaaSkGaUGuy1+ObFkQlkzAFbRouZGG2rdAGqekaMVc52xJ+O0FbIvJttu9iywZojfip9/kvVcgnsukKzcA/22yG1gITicfLyRpMs69MSHJ3duxsN9Fas8A==;/LhLOPR6zUsHzBiV9Esz/Q=="
 ---

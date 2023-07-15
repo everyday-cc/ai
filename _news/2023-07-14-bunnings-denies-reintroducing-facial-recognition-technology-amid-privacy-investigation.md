@@ -73,12 +73,12 @@ related:
         isCached: true
   - title: "AI facial recognition tech brings ‘airport-style security’ to UK stores, says human rights group"
     excerpt: "A rising number of British stores are using a facial recognition system powered by artificial intelligence to identify repeat shoplifters in what one human rights group has called the spread of “airport-style security” on the high street."
-    publishedDateTime: 2023-07-15T13:06:00Z
-    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
+    publishedDateTime: 2023-07-15T07:06:00Z
+    webUrl: "https://ktvz.com/news/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 40
   - title: "Editorial: Merkley and the challenge of facial recognition technology"
     excerpt: "Oregon Sen. Jeff Merkley has given us all a somewhat depressing lesson in facial recognition technology. The Democrat walked up to one of the new Transportation Safety Administration facial scanners and here’s the resulting headline from The Washington Post: “You can say no to a TSA face scan. But even a senator had trouble.”"

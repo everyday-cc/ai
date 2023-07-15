@@ -2,6 +2,135 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2023-05-16-facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias.md",
+      "title": "Facial recognition technology raises concerns over misidentification, implicit bias",
+      "excerpt": "Using artificial intelligence can save you precious time. Whether you need a grocery list or to sort through thousands of job applicants, there’s likely a bot that can get it done.",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/",
+      "originalUrl": "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nbc-2.com/wp-content/uploads/2023/05/NBC2-AI-facial-recognition.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/amp/",
+      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/amp/",
+      "publishedDateTime": "2023-05-15T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
+      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
+      "excerpt": "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
+      "originalUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg",
+          "width": 2560,
+          "height": 1708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1",
+      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1",
+      "publishedDateTime": "2023-05-15T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston.com",
+        "domain": "boston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right.md",
+      "title": "Fmr. Google CEO says no one in government can get AI regulation 'right'",
+      "excerpt": "OpenAI CEO Sam Altman is slated to testify before Congress as lawmakers seek to determine how to regulate the rapidly evolving technology. On Meet the Press Reports, former Google CEO Eric Schmidt says there's \"no one in the government\" who can get regulation right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right-174442053869",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right-174442053869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684184943076_now_mtp_clip_reports_230515_1920x1080-hqq020.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174442053869",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174442053869",
+      "publishedDateTime": "2023-05-15T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-amazon-vp-in-charge-of-the-astro-home-robot-leaves-after-less-than-2-years-leaked-email-shows.md",
       "title": "Amazon VP in charge of the Astro home robot leaves after less than 2 years, leaked email shows",
       "excerpt": "Ken Washington is the latest high-profile executive to leave Lab126, the Amazon hardware unit that created the Kindle and other devices.",
@@ -1076,160 +1205,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs.md",
-      "title": "How Has Generative AI Changed The Business Landscape For Young Entrepreneurs?",
-      "excerpt": "The current hype and potential opportunities surrounding AI mean many entrepreneurs are eager to get involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645e4bcb5ad71bb98fa69866/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/",
-      "publishedDateTime": "2023-05-15T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform.md",
-      "title": "Goldman Sachs Is A Surprising New Entrant In The AI Race With New AI Social Media Platform",
-      "excerpt": "The move isn’t completely out of nowhere, given Goldman Sachs recently released a report on the future of work alongside AI. The study predicted AI could increase the global GDP by $7 trillion and increase productivity by 1.5 percentage points in just ten years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646212fda0c32776abcef342/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/amp/",
-      "publishedDateTime": "2023-05-15T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-artificial-intelligence-voice-market-till-2030.md",
-      "title": "Artificial Intelligence Voice Market Till 2030",
-      "excerpt": "The Global Artificial Intelligence Voice market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

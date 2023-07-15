@@ -2,17 +2,17 @@
 category: news
 title: "AI facial recognition tech brings ‘airport-style security’ to UK stores, says human rights group"
 excerpt: "A rising number of British stores are using a facial recognition system powered by artificial intelligence to identify repeat shoplifters in what one human rights group has called the spread of “airport-style security” on the high street."
-publishedDateTime: 2023-07-15T13:06:00Z
-originalUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
-webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
+publishedDateTime: 2023-07-15T07:06:00Z
+originalUrl: "https://ktvz.com/news/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
+webUrl: "https://ktvz.com/news/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
 type: article
 quality: 40
 heat: -1
 published: false
 
 provider:
-  name: KRDO
-  domain: krdo.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - Facebook AI
@@ -100,6 +100,6 @@ related:
       domain: iol.co.za
     quality: 7
 
-secured: "c8w0ykmM1OJjX+d/fhkLIloKMVcQWUo1N4cThIAQ+jd0a6yn8sCSkES+YYwws9rpjtH8g41bzrpUJGQtr68+FW0GnjeCbCPFKZjMa43/LQLlmfK1waEK/InOFPpZg73rXwSBVBe5g0KY3A7VCHQolkKlQ2xAAEJfKt9ytHqJ7QekyHIAeAPpOzxrtnM3wPd9un/KPMR30gmhKu8y2P0cZreyn1hZlTBOnoHnECjn9tgXif7bwgVRN+gJQbJAgEHmMZisiShxIa6FASIyv87/NRANAsVFlk5rlwY81kPA+CVKP4XjJG+KypyYWDRQknniIA149qVbuCE92N6zKpvbJIWwEWNF7LXnyq3Nn/2P+bA=;HTlbZLOMJZjsVjqA2qsNyA=="
+secured: "PTAYKjjPGN6VeTaQ44l+gPZbo1JCliqJMZ65DvODYVMCQI1bOnR9MyCgmhCw/efU7VNICV4ZiJq6OZXqQbcUoI8BQ5PZAt6PLQYRSp+4bNXD1gFDrreWOLREmQw+bratY5jZBJPL2+wKHoVIhqzEq+Av1udGyhAG3f74aOvuMMxcgr0J6f0cYfZEPGo9Qzi3d/evJ3RjH44kbwinIqraxgG1XOXgsrR8EWdMR6ONhGOuqCYRLto9S9owlRbzPXRt4Eg/wD49MD42/KWUynWm/kk1sbNwe3JUIgCZK2251u8dkrE02pj9xUJn54C+ZPA8CfWsJgni4VSprVfUvslngEmNfqQRq7OGXqctRihZLSY=;WcHC3H+lc9S0z+hHlWqkWw=="
 ---
 

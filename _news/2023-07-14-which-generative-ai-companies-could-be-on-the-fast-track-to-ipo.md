@@ -41,6 +41,20 @@ related:
         width: 2119
         height: 1415
         isCached: true
+  - title: "AI won’t be a winner-takes-all market"
+    excerpt: "The AI heard ’round the world has put the machine intelligence sector back in the spotlight."
+    publishedDateTime: 2023-07-15T19:03:00Z
+    webUrl: "https://siliconangle.com/2023/07/15/ai-wont-winner-takes-market/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/AI-Rising-Tide-.jpeg.crdownload.jpeg"
+        width: 10984
+        height: 7897
+        isCached: true
 
 secured: "baTEL5OLHKlRab6WzS0Fk3aIAy2xbLUHQCViEhP630Q05SCflQUWDYUQkVTNZvf/TjjDYcPNNs5XzGAZbARQlDCacnOERPv6EVZyV3FyvPU2Pz7PQrENdvkLKQvrzJl3yjIwyVihuw7NDpmtB14/pyQlUabNVY/pdE1NGJeS2ZBTCaHgHSns8yb47ZjUEpBZcecKstNzxZ+rsqgF6bm0zj8hK5E5M5at1+w92ru91hvofeBBMIXHxBEqIZ+o6G9XxQgeXUR4/HEckzx4ETSk2Ypf3CJ9xP+VP/gyk8AEbWyOt+VBIpdztcxrl4aqoSdQ29ybwWGZXtnpd1n3Uum8AWS9K04oySSTt2tTlQasoB16m5VPuffqq6rrUM4bYXDRUryUxoT0Qcrkv9qs+A5ImGWyO7OP3ZmI9ifvo5WquMAAH4vtbZYeoy01MO07mdZaXxIMoavDNWrYRSjxfxxhZRdqWkHWVFJ/u9/TgY+f2aEJecdmev01Q6OxB6QOoCPevmSvCNLqoVX95OhRRFsuWQ==;hZ/4Nvr5OGkBP5JYmikJfg=="
 ---

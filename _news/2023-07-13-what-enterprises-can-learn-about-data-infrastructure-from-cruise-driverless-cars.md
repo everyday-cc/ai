@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/what-enterprises-can-l
 webUrl: "https://venturebeat.com/data-infrastructure/what-enterprises-can-learn-about-data-infrastructure-from-cruise-driverless-cars/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Driverless taxis to start paid service in Beijing"
-    excerpt: "BEIJING: A larger fleet of driverless taxis will soon be available for hire in the capital city as the Office of the Beijing High-Level Autonomous Driving Demonstration Zone has decided to launch the commercial operation of autonomous vehicles and expand their serviceable area."
-    publishedDateTime: 2023-07-11T01:21:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/11/2170762.jpeg"
-        width: 1198
-        height: 813
-        isCached: true
   - title: "Beijing Now has Driverless Taxis in Operation"
     excerpt: "Since Friday, July 7, driverless taxis have been operating in Beijing. According to a press release from the head office of the Beijing High-Level Autonomous Driving Demonstration Area, the self-driving taxis are currently operating commercially as part of a testing phase,"
     publishedDateTime: 2023-07-11T08:52:00Z

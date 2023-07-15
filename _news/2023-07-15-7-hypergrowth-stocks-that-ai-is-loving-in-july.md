@@ -36,24 +36,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Next Challengers Joining Nvidia in the AI Chip Revolution"
-    excerpt: "The company has emerged as the hardware victor during the early days of the artificial-intelligence revolution. Who else in the chip world can cash in, too?"
-    publishedDateTime: 2023-07-11T02:00:00Z
-    webUrl: "https://www.wsj.com/articles/the-next-challengers-joining-nvidia-in-the-ai-chip-revolution-e0055485"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-814042/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "3 Artificial Intelligence Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology"
     publishedDateTime: 2023-07-13T19:29:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+  - title: "7 Blue-Chip Stocks That AI Is Loving in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I used Bard AI to help recommend blue-chip stocks for July. Right"
+    publishedDateTime: 2023-07-15T19:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719"
     type: article
     provider:
       name: Business Insider

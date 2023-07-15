@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "HelpPay teams up with leading tech players to revolutionise website and fuel FinTech success"
-    excerpt: "Revium leverages Storyblok to develop a simple, intuitive, cost-effective user experience for HelpPay in just over three weeks. HelpPay, the profit-for-purpose Australian fintech on a mission to empower individuals to pay someone's bill and provide assistance to those in need,"
-    publishedDateTime: 2023-07-11T03:29:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/helppay-teams-up-with-leading-tech-players-to-revolutionise-website-and-fuel-fintech-success.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 13
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/12722a034931467110a716e727dbd43c_M.jpg"
-        width: 375
-        height: 282
-        isCached: true
   - title: "China’s Hundsun Recovers After Fintech Firm Refutes Rumor That Ant Will Follow It Into Financial Software"
     excerpt: "Shares in Hundsun Technologies halted their precipitous decline today after the Chinese fintech software developer said that rumors that Chinese fintech giant Ant Financial Services Group is preparing to branch into financial IT software in direct competition with Hundsun are not true."
     publishedDateTime: 2023-07-12T07:22:00Z

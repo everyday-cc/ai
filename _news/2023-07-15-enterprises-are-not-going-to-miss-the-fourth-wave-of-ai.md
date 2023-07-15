@@ -37,20 +37,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 90
-  - title: "This week in data: How to do generative AI the right way"
-    excerpt: "In this week's video, Bruno explains how to do gen AI right, how you can mind the R.A.F.T., and what's happening at VentureBeat Transform."
-    publishedDateTime: 2023-07-11T03:07:00Z
-    webUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-do-generative-ai-the-right-way/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_artificial_intelligence_technology_coming_out_of_a_compu_53e4a63c-a4cc-46a1-989a-6b3bc275a023.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Why generative AI just hits different – and why organizations need to embrace it now"
     excerpt: "Learn how gen AI burst onto the scene, why it's not going anywhere and why business leaders need to embrace it, in this VB Transform panel."
     publishedDateTime: 2023-07-14T14:45:00Z

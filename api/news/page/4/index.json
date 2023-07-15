@@ -10,7 +10,7 @@
       "originalUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -211,19 +211,19 @@
     {
       "path": "_news/2023-07-12-fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-and-countering-chinese-deepfakes.md",
       "title": "Fox News Artificial Intelligence Newsletter: AI Air Force wingman and countering Chinese deepfakes",
-      "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+      "excerpt": "'HERE TO STAY': The Air Force is training artificial intelligence to operate drones and other aircraft and act as wingmen to pilots in the future. Experimentation lead Matthew \"Rico\" Niemiec stated that the Air Force is working fast to determine the competitive edge for the modern warfighter. Continue reading…",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes",
-      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes",
+      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.print",
+      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.print",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -231,9 +231,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.amp",
-      "publishedDateTime": "2023-07-12T08:34:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T08:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -256,7 +256,6 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -476,7 +475,7 @@
       "originalUrl": "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -769,7 +768,7 @@
       "originalUrl": "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 130,
       "tags": null,
       "images": null,
       "content": "\r\n",

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Investing In Fintech - A Closer Look At The Opportunities"
-    excerpt: "The fintech industry has experienced remarkable growth and has become a key player in reshaping the financial landscape. Fintech, short for financia"
-    publishedDateTime: 2023-07-11T03:12:00Z
-    webUrl: "https://menafn.com/1106581655/Investing-In-Fintech-A-Closer-Look-At-The-Opportunities"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/10/C_9861cimage_story.png"
-        width: 960
-        height: 600
-        isCached: true
   - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
     excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
     publishedDateTime: 2023-07-14T17:46:00Z

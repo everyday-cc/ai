@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-camera-
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-camera-market-grow-a-cagr-/2023/07/14/9848444.htm"
 type: article
 quality: 54
-heat: 85
+heat: 86
 published: true
 
 provider:

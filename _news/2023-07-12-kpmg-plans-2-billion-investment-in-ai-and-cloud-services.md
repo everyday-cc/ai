@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artists are losing the battle against AI. Glaze, a tool that's found a way to trick algorithms, is giving them a fighting chance."
-    excerpt: "Artists are worried AI will steal their futures if they advertise their work online. Researchers say they have the solution, but it's not perfect."
-    publishedDateTime: 2023-07-11T02:59:00Z
-    webUrl: "https://www.businessinsider.com/glaze-artificial-intelligence-artists-intellectual-property-midjourney-openai-stability-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/glaze-artificial-intelligence-artists-intellectual-property-midjourney-openai-stability-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/glaze-artificial-intelligence-artists-intellectual-property-midjourney-openai-stability-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/646df6bb6f9a4800187358c3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "esW9R2xYULtbEGVTetJqdDOKU8iLsAKFh8T26wLoQCkpwZ+qWGZQrHj8pUAgUv4pEFtGyuREAxk47vhbAXrOMwXpRE7vsruvfZO+aiJvfQxHm7fqY8BIbRuP4SFvlE4lorFLYHnr+2IxK9KPlrOah3QYrf+1JAE0S+wFRJEnVGDRlw0nkFblZQdzYrlayw1WLvQ3bJ+wWdj+Bw3jUDpKJhXvggxvr3mGjpTsZAw3PKZNLyN4Cl5+tIaYJ19bL6MdX4uxJxOgTaoGWOeoTd7R4AXjDkBB53KtXxiRudSEHJGdNtulH8D/PHe8uw5N+ZaRtn8OmNX0BDpxXfFljVBfVcj8X9d2CcXHOjSmkcJOcRXWIqiHlt8rF2WzuV8xFClHNpmSRmzdgGbg+PFA4s+d2jvIVuGvd+B2Q5+BMbkjThxu5VanEz5MmBxCs+ZkZ8FHBdNF/JMsVcmTK1bmktVqjXKCgyDDINkgUiM5ZHkkfCkNDKhmBo7TRxzbMkeEfGFspOppmA4lokEwe2COZUyrpg==;nbNZJ2ER3We8paq0C+m5gw=="
 ---

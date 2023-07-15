@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "New Startup Looks To Blend AI And Nuclear Energy"
+    excerpt: "OpenAI's founder, Sam Altman, foresees a future where AI and nuclear energy work together to tackle the energy demands of AI operations and help solve the global energy trilemma."
+    publishedDateTime: 2023-07-15T21:00:00Z
+    webUrl: "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.html"
+    ampWebUrl: "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 57
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-07-14_0fjd7wmdfp.jpg"
+        width: 718
+        height: 300
+        isCached: true
 
 secured: "xTwBkCWQOqXbOl4tipWbJqUGc6yYTD8liTiFKbt9xbq80Rq/vtcgatkPsqfx0nrBBaTxAaaDYJcFf1U+F+PmetRnIpj5FNhZeIZbwJCXHPFXGSNcCvZancjRtKu7Bv8EckjghHvaqxTjRO6hFj8L0PqdJ86GbUiRFACNbZrpumZ1DcgxKT8SIZfuGCZ4NzHC6jwoYAWMBCTdrGZ1EIVJKm9zIlUEM4DVOA0RM+LJmLV16M9qcb9dO2Zq0F9QD/rIwOgRq3sb2sVKLrBV3MMrvEIsn7KUxjROnAQcThCupLFE9yqE0L8N879lfypkJ/M+wnp33YTexdduD/SO7ZN/ZooZ0Yv/mqqUmXJoKSbSAsc=;vxr+5Np5HebS5fCAqgZfnw=="
 ---

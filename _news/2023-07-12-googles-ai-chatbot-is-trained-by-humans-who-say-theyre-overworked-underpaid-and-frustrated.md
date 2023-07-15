@@ -143,22 +143,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hospitals begin test driving Google’s medical AI chatbot: report"
-    excerpt: "Google has begun working with several hospitals, including the Mayo Research Clinic, to begin incorporating the tech giant's Med-PaLM 2 AI chatbot to provide healthcare advice."
-    publishedDateTime: 2023-07-11T01:44:00Z
-    webUrl: "https://www.foxbusiness.com/technology/hospitals-begin-test-driving-googles-medical-ai-chatbot-report"
-    ampWebUrl: "https://www.foxbusiness.com/technology/hospitals-begin-test-driving-googles-medical-ai-chatbot-report.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hospitals-begin-test-driving-googles-medical-ai-chatbot-report.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 57
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Indian startup Dukaan lays off 90% of its support staff, replaces it with AI chatbot"
     excerpt: "We had to layoff 90% of our support team because of this AI chatbot. Tough? Yes. Necessary? Absolutely. The results? Time to first response went from 1m 44s to INSTANT! Resolution time went from 2h 13m to 3m 12s Customer support costs reduced by ~85% Here's how's we did it 🧵 Also Read: Suumit Shah’s decision comes at a time when the internet is divided on the subject of AI taking over jobs,"
     publishedDateTime: 2023-07-13T09:36:00Z

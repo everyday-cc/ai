@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless taxis to start paid service in Beijing"
-    excerpt: "BEIJING: A larger fleet of driverless taxis will soon be available for hire in the capital city as the Office of the Beijing High-Level Autonomous Driving Demonstration Zone has decided to launch the commercial operation of autonomous vehicles and expand their serviceable area."
-    publishedDateTime: 2023-07-11T01:21:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/11/2170762.jpeg"
-        width: 1198
-        height: 813
-        isCached: true
   - title: "What enterprises can learn about data infrastructure from Cruise driverless cars"
     excerpt: "As AI permeates more aspects of business and society, Cruise's lessons on robust data infrastructure will only grow more relevant."
     publishedDateTime: 2023-07-13T12:01:00Z

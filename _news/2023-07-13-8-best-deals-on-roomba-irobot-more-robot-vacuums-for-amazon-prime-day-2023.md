@@ -132,6 +132,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 19
+  - title: "The 42 Best Amazon Prime Day Fashion Deals"
+    excerpt: "From savings on cult-favorite beauty products to price drops on Amazon's most coveted tech essentials, now really is the prime time to get your shop on (and save big while you're at it)."
+    publishedDateTime: 2023-07-12T08:50:00Z
+    webUrl: "https://www.popsugar.com/fashion/amazon-prime-day-fashion-deals-2023-49212950"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 4
 
 secured: "vgVRQi6InvcWAosnudON4VRwtoAQc/b0vCue9y45HoAXGuxk+b9ijN+wSpF16Gt+Fs/jcoaWVMM75U3g8jQiwy+3c1dr4yXDBbWcqIq0fLUNI02XgpQJXxzwC3GtXguZr+Dio6pSqLlru40VhuXCdZYfBqZC+9lHsHXjW6rblj4mIx1CCQukYLYH9KpppnEekbnk4aLwBwvLEDQpsKX4NrzeKDjYl18j91MmBD+nhGCTJpRgNUsn+jz3LawU1Ewh3DL5GV/PG3CqAtmAgER/EovwL+rPIdo3vnVcWPM0fyVduDwvtJOtmrRyavo+bLNJCwROG5H3QBQn4CNvRbQ+oGgZok6LUUoS6Vn+7bxM17gY8+b61DJd80kUF6XzrpZXdcmFyeUQH0gocQSZjW1SovRXyqTblGytcDqTuEV6HtdkHc78tCatlPpaGpV0rnCFCK+tzJlAHTE277VEiiECYhL06sZp4F1bfpRDequq+gas5X4IWIomeKHAEOOZZjWH4o9NLrk76rwW6qMJ79VMtg==;sFlCZZrFZjzmouj3ZJyHlA=="
 ---

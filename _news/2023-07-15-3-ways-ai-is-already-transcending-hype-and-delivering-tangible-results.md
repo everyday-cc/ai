@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-
 webUrl: "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

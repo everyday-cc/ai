@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Simulator startup aims to make self-driving cars safe"
+    excerpt: "Morai has worked with leading AV developers both at home and abroad, including AWS, Nvidia, SoftBank and Ansys, as well as Hyundai Motor, Samsung Electronics, Naver Cloud and Hanwha Aerospace."
+    publishedDateTime: 2023-07-15T21:00:00Z
+    webUrl: "https://koreajoongangdaily.joins.com/2023/07/16/business/industry/Korea-Game-Changer-Morai/20230716060006448.html"
+    type: article
+    provider:
+      name: 중앙일보
+      domain: joins.com
+    quality: 39
+    images:
+      - url: "https://koreajoongangdaily.joins.com/data/photo/2023/07/16/5570c04a-0e70-4571-9fa8-9e3f60f348ad.jpg"
+        width: 560
+        height: 425
+        isCached: true
   - title: "Annoyed Residents Disabling Self-Driving Cars by Placing Traffic Cones on Their Hoods"
     excerpt: "By placing traffic cones on self-driving cars' hoods, activists are turning them into useless hunks of metal and plastic."
     publishedDateTime: 2023-07-11T19:44:00Z

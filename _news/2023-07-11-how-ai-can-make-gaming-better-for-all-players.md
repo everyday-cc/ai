@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Law Firms Can Utilize Artificial Intelligence for Marketing"
+    excerpt: "Artificial Intelligence will revolutionize law firm marketing forever. Law firms are now (or should be) leveraging the potential of AI in order to enhance their marketing efforts. By harnessing the capabilities of AI,"
+    publishedDateTime: 2023-07-13T14:58:00Z
+    webUrl: "https://www.law.com/2023/07/13/how-law-firms-can-utilize-artificial-intelligence-for-marketing/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 56
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2022/04/Artificial-intelligence_3-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "How artificial intelligence can aid urban development"
     excerpt: "Artificial intelligence can be a game-changer in modernizing urban development, especially when it comes to transportation infrastructure"
     publishedDateTime: 2023-07-12T07:54:00Z

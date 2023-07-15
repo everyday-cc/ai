@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-de
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
 type: article
 quality: 61
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
       name: Oregonian
       domain: oregonlive.com
     quality: 18
+  - title: "The 42 Best Amazon Prime Day Fashion Deals"
+    excerpt: "From savings on cult-favorite beauty products to price drops on Amazon's most coveted tech essentials, now really is the prime time to get your shop on (and save big while you're at it)."
+    publishedDateTime: 2023-07-12T08:50:00Z
+    webUrl: "https://www.popsugar.com/fashion/amazon-prime-day-fashion-deals-2023-49212950"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 4
 
 secured: "9xA/YfSNIkAUUAJ6bGCMdVarIkwOTt6qJcIBDodnvdTcSMFFbUHrlAD/bsWFylMxgXGzup9v5pKqsNFwj28mRtqJIlJSU3X5PFESMttiq4VwZZXKDjJ2zm0BETjP3bBaBUNunfRSGodXaCCoJtct0o5tJ0eYcfiHD0Bv7BcwxDww+WpCqWwKcWJT9B1YAcpccFv8GyUGdhscGmnUtFcVeOcnKOnRkKDNI18AJtiKoSJB1E3ALguxfalAO31NqZnTfH/QbZ30tHRERavT0Jf9GsafmywSOJ0PWyl438l27IMaUF4jROnxwESaqNvPloG4nalbmZ7B77XZK9HS6vYvTKDcVpauPiyMjVJeQWXlS0g04E7xuni428HNXY6hF/nb1YGsj5nFI+OcXBjlDObBQ9VGaqcrM5rkU4aj3ZWJsrrDVt487+tsP9AcVjFmmFLyXGr1w7atgnqMl7Zc4Rv8/oyBZeVWnErn8BwLRkGQjWPXBZqIOuNh+ZP5MBv3BDr9Ybjdc+NNLLWISfeTjbBQGQ==;3d569z1YSQVOAbBNgj/Yww=="
 ---

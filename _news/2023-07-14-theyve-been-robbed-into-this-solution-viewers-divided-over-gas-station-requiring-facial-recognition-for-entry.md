@@ -35,6 +35,20 @@ related:
         width: 720
         height: 484
         isCached: true
+  - title: "Rockford caregiver receives major national recognition"
+    excerpt: "Keri Lacorazza has been a caregiver for over 20 years, but receiving the National Caregiver of the Year Award was a shock, she says."
+    publishedDateTime: 2023-07-14T21:11:00Z
+    webUrl: "https://www.mystateline.com/video/rockford-caregiver-receives-major-national-recognition/8819533/"
+    type: article
+    provider:
+      name: WTVO
+      domain: mystateline.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2023/07/GettyImages-1471435526.jpg?w=2000&#038;ssl=1"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Behavioral Health Workers at Legacy’s Unity Center File for Union Recognition"
     excerpt: "Fifty-seven employees at Legacy Health’s Unity Center for Behavioral Health in Portland filed for union recognition with the National Labor Relations Board this week , according to a press release from the Oregon Nurses Association. Per the release, the group includes crisis intervention specialists, counselors, therapists, and social workers."
     publishedDateTime: 2023-07-14T09:41:00Z

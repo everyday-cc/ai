@@ -132,6 +132,15 @@ related:
       name: Oregonian
       domain: oregonlive.com
     quality: 18
+  - title: "The 42 Best Amazon Prime Day Fashion Deals"
+    excerpt: "From savings on cult-favorite beauty products to price drops on Amazon's most coveted tech essentials, now really is the prime time to get your shop on (and save big while you're at it)."
+    publishedDateTime: 2023-07-12T08:50:00Z
+    webUrl: "https://www.popsugar.com/fashion/amazon-prime-day-fashion-deals-2023-49212950"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 4
 
 secured: "XDVZ/v0MhhNae8TuAmM/YxL1uw6/QYnuKSy/loBTVVRfaQ6TfxYVZsdU4+GRaFTJJf9XOEsfxcGOOTJC4Ief7cmqrft2Zt5iEN1C32U1P6NNN7LVgvvxneqWgVLlN7e6dWYZttzBUKD019TBeJhQgSDJIaFweKDm4KEenYC89V0875Y+I+TXfF4diaS6cphD9uYaoahpCkWJKF9bKSXBGhsfX0odhA56sCu+oZPCaF+pttKqh4DKyz9Bgw7yqyuOKcDPIspJO4XEkr8ivsv+WnpjkcOzcxB1CZUAtQdhjDaHSPxGjdl/rC+CZ9p/eexJPFqFCVyDYRGi6gvaH2kyDbO7eg9u6dh2B7FXHPKIin4OGhBvpifnhqfYWHkZQox5wUYNvV5HERQEByW5Wkz0yjkjGfc9l6xGbPCbW90xc0NZ/BLfIlPOzhBHISfSULHbeQZNuau1wOcYHPaQI+rbLMxwnVfmL49NG5WJKJooEJEblLqgWQ9BkDxV3+fQ+uwo5bXMruJnHnB5PFyYtENPTw==;xXyLsEl/TTGhq2bqrdKWAQ=="
 ---

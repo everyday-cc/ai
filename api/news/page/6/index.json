@@ -2,92 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-07-11-us-senators-to-get-classified-white-house-ai-briefing-tuesday.md",
-      "title": "US senators to get classified White House AI briefing Tuesday",
-      "excerpt": "The White House will brief senators Tuesday on artificial intelligence in a classified setting as lawmakers consider adopting legislative safeguards on the fast-moving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/us-senators-get-classified-white-house-ai-briefing-tuesday-2023-07-10/",
-      "originalUrl": "https://www.reuters.com/world/us/us-senators-get-classified-white-house-ai-briefing-tuesday-2023-07-10/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/uPDM2NKKmcR1TMaHooZ1PCIZeiQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TAOE7IVTAJLQVFQ2275V5B5HOI.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws.md",
-      "title": "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS",
-      "excerpt": "Highlights: Modernize with new technologies: Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-07-11-announcing-the-nominees-for-venturebeats-5th-annual-women-in-ai-awards.md",
       "title": "Announcing the nominees for VentureBeat’s 5th Annual Women in AI awards",
       "excerpt": "VentureBeat announces the nominees for the 5th annual Women in AI Awards. The winners will be announced at VentureBeat Transform on July 12.",
@@ -193,6 +107,50 @@
         "Microsoft AI",
         "Machine Learning",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws.md",
+      "title": "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS",
+      "excerpt": "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -347,7 +305,7 @@
     {
       "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
       "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
+      "excerpt": "More information: Tomohide Ibuki et al, Possibilities and ethical issues of entrusting nursing tasks to robots and artificial intelligence, Nursing Ethics (2023). DOI: 10.1177/09697330221149094",
       "sourceUrl": null,
       "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
       "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
@@ -383,9 +341,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Ethics",
         "AI",
-        "AI Ethics"
+        "AI in Robotics"
       ]
     },
     {
@@ -772,6 +730,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-best-amazon-prime-day-2023-furniture-deals.md",
+      "title": "Best Amazon Prime Day 2023 furniture deals",
+      "excerpt": "But don't worry, you don't have to go through pages of Amazon products to find these great deals. The experts at CBS Essentials have found the best furniture items on sale now during Prime Day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-furniture-deals-at-amazon-2023-07-10/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-furniture-deals-at-amazon-2023-07-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
