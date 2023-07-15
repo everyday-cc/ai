@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-cou
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://c.ndtvimg.com/2023-07/3ise4dbo_air-robot_625x300_10_July_23.jpg"
         width: 1200
         height: 738
-        isCached: true
-  - title: "The UN holds a robot press conference about the state of AI"
-    excerpt: "The robots were posed questions by journalists from around the world regarding their future roles in leadership, collaboration with humans and potentially replacing human labor in the workforce."
-    publishedDateTime: 2023-07-10T14:15:00Z
-    webUrl: "https://cointelegraph.com/news/un-holds-ai-robot-press-conference"
-    ampWebUrl: "https://cointelegraph.com/news/un-holds-ai-robot-press-conference/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/un-holds-ai-robot-press-conference/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/1dc3a963-18dc-48a8-9af3-bfd14282f792.jpg"
-        width: 740
-        height: 492
         isCached: true
   - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."

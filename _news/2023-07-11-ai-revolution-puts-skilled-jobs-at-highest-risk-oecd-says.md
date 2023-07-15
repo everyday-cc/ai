@@ -74,6 +74,20 @@ related:
         width: 728
         height: 381
         isCached: true
+  - title: "Will Generative AI Take Away Startup Jobs?"
+    excerpt: "But, jobs were still more or less safe. However, today, with the popularity of ChatGPT and generative AI and the rise of startup ecosystem, 'AI taking away jobs' is no longer a debate inside the four walls of institutions, it seems to have become a reality."
+    publishedDateTime: 2023-07-13T05:31:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/will-generative-ai-take-away-startup-jobs/455743"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1689225286-pexels-ono-kosuki-5999786.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "New Study Shows Artificial Intelligence Growth Puts 27% Of Jobs At High Risk Of Becoming Fully Automated"
     excerpt: "According to the Organisation for Economic Co-operation and Development (OECD), 27% of jobs could be automated by AI in the years to come. The organization added that there's little evidence to date that AI is cutting into the job market but that this could change as the AI revolution continues to grow."
     publishedDateTime: 2023-07-12T15:09:00Z

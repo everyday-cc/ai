@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-24-red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud.md",
+      "title": "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud",
+      "excerpt": "Red Hat, Inc. today announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/",
+      "originalUrl": "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-what-is-smart-transportation.md",
       "title": "What is smart transportation?",
       "excerpt": "From traffic jams to seamless journeys— exploring the promise of smart transportation.\nThe post What is smart transportation? appeared first on IBM Blog.\n",
@@ -1356,49 +1390,6 @@
       "provider": {
         "name": "Fox Business",
         "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering.md",
-      "title": "IBM stressing accuracy of responses in launch of upgraded AI offering",
-      "excerpt": "IBM’s initial AI program Watson was created to beat humans at the gameshow “Jeopardy!,” but have now updated the AI offering. The new Watsonx program boasts an AI development studio that ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
-      "originalUrl": "https://thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/05/AP20282510496271-e1683647978224.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
-      "publishedDateTime": "2023-05-09T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revoluti
 ampWebUrl: "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 77
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/soft-robotics-revoluti.jpg"

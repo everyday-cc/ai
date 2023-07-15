@@ -7,7 +7,7 @@ originalUrl: "https://insidebitcoins.com/news/ypredict-ai-crypto-enters-7th-pres
 webUrl: "https://insidebitcoins.com/news/ypredict-ai-crypto-enters-7th-presale-stage-raises-3m-as-investors-rush-in-ahead-of-11-price-rise"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Google’s AI Advancements and promise is why investors are pouring into InQubeta presale"
+    excerpt: "In the realm of AI advancements, Google has long been at the forefront, driving innovation and pushing the boundaries of what is possible. These developments have caught the attention of investors who recognize the potential and promise of AI technology."
+    publishedDateTime: 2023-07-15T07:18:00Z
+    webUrl: "https://cyprus-mail.com/2023/07/15/googles-ai-advancements-and-promise-is-why-investors-are-pouring-into-inqubeta-presale/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 31
+    images:
+      - url: "https://cyprus-mail.com/wp-content/uploads/2023/07/qubeta-ai.png"
+        width: 778
+        height: 498
+        isCached: true
 
 secured: "QqIouqK1zmW31M+/tEKofgUkL6huoLvJiJ2An02ZiBW8pCEZXdWMQSDQxEVbbyZ11D7OfWXk+wk6o6F7WjeUtt+trBscktxi7H9wt7lwFgrQVmC7iLATlDMrLKk4A7ttXNfXGsF+jtZ58bgFAcSAia8zqXsx1OxVtzCiaF9C+morIMF+We+ZkIyikm41SIiZKB9FTrJMu07u7zunlsf+v8CBIaxZeinrg2SKjlmEIZYh0VnlagZ/8YCwvVTcTV5NLXPxxy1ZWpNoZyBKnuHSCsQfNl1IgguEXbfk422GJcKvVYx0WUErYYz8vfJOByKMVDHbokbrnAkolY4HbL2Ei7pPLZyfHfCDKtZHn2se3DK4HK5k95buspmkb5+aQogx3RBz/+WzwPU0Tb8hNuXbpJZptzC1RNFT+NeID9gYVT4LNbqU/d0FD7XKwwJINixnswN0vCwOlziN0PcwwaiXZELrIGXfgFE/YiuJ7ENWghi/9gfbYIdvFVMaIUChW6I3FafY2OtnADunmKJjBrYcgg==;bDWEKhxLDJliT4eEWqwFrg=="
 ---

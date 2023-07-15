@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How Can Humans Best Use AI?"
+    excerpt: "The relationship between humans and animals is a useful framework for how we might use AI in a constructive way."
+    publishedDateTime: 2023-07-15T07:33:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b2499aad6c87b3d2248079/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Black Mirror plot about AI that worries actors"
     excerpt: "The strike comes after US actors' union the Screen Actors Guild failed to reach an agreement on increased safeguarding around AI rights. The union warned that \"artificial intelligence poses an existential threat to creative professions\"."
     publishedDateTime: 2023-07-14T16:06:00Z
@@ -56,15 +72,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Which jobs are under threat from artificial intelligence?"
-    excerpt: "The explosion in artificial intelligence capability is a direct threat to the employment of many. But which jobs are most at risk from AI? More"
-    publishedDateTime: 2023-07-10T14:15:00Z
-    webUrl: "https://www.yourlifechoices.com.au/technology/which-jobs-are-under-threat-from-artificial-intelligence/"
-    type: article
-    provider:
-      name: yourlifechoices.com.au
-      domain: yourlifechoices.com.au
-    quality: 19
 
 secured: "+UL1P3tSUmtk7N8h3PfY9LburD92F2D3CatSQ96MHQyljLfTviP2rNn18AIsVsebRfMqqbFjPoFsXugaVcnM3yILMehRs5gfTqQcYG8w7lZzVKkV4W/MlypSUeZ7CFtHQjGf7TLn0i+iO3hPRJQlJ/SjbpazBa6gxXqwQ0yGL5f2oBm3kbadioGlAnidVvVG6A+oQbIGS6WuHUpDw8FN4czKllvuUIU9AlcT1rhG24JFbFNsbavRpgJXjlwPz3WEd31b9KO3qdJ8X0oEzhOsmQ78Znkh2rO5T2tfU2/j+9wOjkF3VZjzs9QEu914dnH1feSOlQJ3fdNziM0XERrYcf74uqJ3GZHlmYRJhGHN4KBP9pn/geq6jEM1CbLux1iqgSAgktDd9O1VUST9uHNcQ0VLx5zf47paNeoVYy3bgK3WFcEtJZtxDLrNPGmol40kMe5E418PEZC8dBNdGc3M+n8h16UNY1O/E1LJfJ0flgHgblld3RvpzSaiwsghQbZ9MBc8PdjCiUk1+93uPz+yzQ==;zU8CHUQrLg+o+hbDOlb7Jg=="
 ---

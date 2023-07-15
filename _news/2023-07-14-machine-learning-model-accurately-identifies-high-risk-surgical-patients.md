@@ -7,7 +7,7 @@ originalUrl: "https://www.medpagetoday.com/surgery/generalsurgery/105468"
 webUrl: "https://www.medpagetoday.com/surgery/generalsurgery/105468"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use machine learning to identify high-risk surgery patients"
-    excerpt: "Researchers and physicians at the University of Pittsburgh and UPMC used machine learning to create and deploy an accurate and flexible model for predicting patients at high-risk for complications after surgery,"
-    publishedDateTime: 2023-07-10T14:25:00Z
-    webUrl: "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-machin-1.jpg"
-        width: 1454
-        height: 628
-        isCached: true
   - title: "Machine learning model flags patients with high risk of surgical complications"
     excerpt: "The machine learning model identifies patients for surgical prehabilitation to avoid complications and cut healthcare costs."
     publishedDateTime: 2023-07-10T17:22:00Z

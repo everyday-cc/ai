@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/google-ai-lawsuit/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-ai-lawsuit/?amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 620
         height: 432
         isCached: true
-  - title: "Google hit with class-action lawsuit over artificial intelligence development"
-    excerpt: "The complaint against Google was filed on behalf of eight anonymous users representing millions of Internet users and copyright holders."
-    publishedDateTime: 2023-07-12T14:22:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/12/google-alphabet-class-action-lawsuit-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "BxOs9fmnobq/PceqhVsgFhT1TMU/FK4EwEnsKVMtb2bYGFe6mtcQYff7kIGf1J/u6Phbmcw0wX9P1hFqlU0lSK9g8SNY9MEV5yFoR7ClDvKvSF1P8xOsk2OshIfgmgWEYtDtjxSHzZiW8n8wfaNULm7aBi0mxXf5XFtMII9PPfJWVS38YP5NzWYREncgbC9sxOOY5tBwoEloT9cOolrGtgCG9BIw0JxpF59Pim0B42avKNu9JcTZCi7+7de6VcMP5BO7CJ9iKSHsoCUW0BE2LcTEP7GqZNqLlnsn4AkKJBxgvKffFkhPXBXg0FMPQ7S/blvHYz7mW8SHXqwDQGJBXCqfTBYlCE5ETI3hv3NJfRg0UBxmWsvB+nA2r5WcVCNl0jD7Wm5w+Pu6ZALVV+JM5MgxFhIwKGGad52CTOMLY91hZ5LK8S4FzIeh6ngCTt5pSYBPcdytmrkS2WsEzjDAcAKxaXvDqtVXFXKCPEL5oZrnSFhpaV6gyohGzaiquFZsm/NQiCgN7xIaNLqaqCDTsw==;RTgds2q6yfHrn9rv6XGc4g=="
 ---

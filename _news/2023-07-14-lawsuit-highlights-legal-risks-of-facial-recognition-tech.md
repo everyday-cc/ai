@@ -43,6 +43,20 @@ related:
         width: 800
         height: 544
         isCached: true
+  - title: "AI facial recognition tech brings ‘airport-style security’ to UK stores, says human rights group"
+    excerpt: "London (CNN) — A rising number of British stores are using a facial recognition system powered by artificial intelligence to identify repeat shoplifters in what one human rights group has called the spread of “airport-style security” on the high street."
+    publishedDateTime: 2023-07-15T07:28:00Z
+    webUrl: "https://ktvz.com/news/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 60
+    images:
+      - url: "https://ktvz.b-cdn.net/2023/03/osKcX94i-News-BG-NC21-logo-1200x675-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New facial recognition technology at DTW allows flyers to get through security without a boarding pass"
     excerpt: "When you come into Detroit Metro Airport, check in with your airline, and then head over to security you may notice that TSA has added a new technology making the travel experience a little smoother."
     publishedDateTime: 2023-07-12T09:19:00Z

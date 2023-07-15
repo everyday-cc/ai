@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-30-nvidias-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.md",
-      "title": "Nvidia’s new Grace Hopper superchip to fuel its DGX GH200 AI supercomputer",
-      "excerpt": "The DGX GH200 AI supercomputer is targeted toward developing and supporting large language models. Google Cloud, Meta, and Microsoft already have access to it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html",
-      "originalUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/05/nvidia-dgx-gh200-100941527-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html",
-      "publishedDateTime": "2023-05-30T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-30-soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai.md",
       "title": "SOXQ ETF: Front-Row Exposure to Semiconductor Stocks and AI",
       "excerpt": "On the other hand, I also wouldn’t want to not have exposure to these names, as AI is clearly here to stay and is just getting started on disrupting many industries. Thus, my strategy (not financial advice) with an ETF like this would be to start a ...",
@@ -1477,6 +1434,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-synopsys-lays-out-the-benefits-of-ai.md",
+      "title": "Synopsys Lays Out The Benefits Of AI",
+      "excerpt": "Synopsys User Group Meeting, CEO Aart de Geuss explains the industry dynamics in an engineering world transformed by AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-the-benefits-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-the-benefits-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/610c09324c07cf985ccf31d5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-the-benefits-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-the-benefits-of-ai/amp/",
+      "publishedDateTime": "2023-05-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

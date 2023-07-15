@@ -196,20 +196,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Meta Launching Its Own Generative AI To Compete With ChatGPT and Google"
-    excerpt: "Meta (Facebook) is all set to release a commercial version of its own artificial intelligence model in line with OpenAI's ChatGPT and Google's Bard"
-    publishedDateTime: 2023-07-14T10:26:00Z
-    webUrl: "https://www.indianweb2.com/2023/07/meta-launching-its-own-generative-ai-to.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 39
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FT0Uew9kxKabym8o1iIGycg4mUfByuIM-giCSBwKkP7OP-Bj3RXXVJDZWlS9IeMlJiOdv3JX1OxDwZts4h5Ercs9wZtxtra1TIbWPyea2ObKtAbB1ujyZxFpzqv2swuhif7VfAAT6pRzusnDI3Fy2T2bOGDHWCM51WxnYM57tMV5WU3QJCNIxyvjATs/s16000/Untitled%20design.png"
-        width: 1000
-        height: 620
-        isCached: true
   - title: "Meta to release commercial AI model like ChatGPT, Bard"
     excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in order to compete with Microsoft-backed OpenAI’s ChatGPT and Google’s AI experiment Bard,"
     publishedDateTime: 2023-07-14T00:40:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-yo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-your-job-27-of-jobs-in-wealthy-countries-at-high-risk-report-says/amp/"
 type: article
 quality: 81
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.reuters.com/resizer/Gklh_c7w8grlDfVyA8u-KzLYFZg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L4VK72FSCFLAXE4XALVNRQSNOA.jpg"
         width: 728
         height: 381
+        isCached: true
+  - title: "Will Generative AI Take Away Startup Jobs?"
+    excerpt: "But, jobs were still more or less safe. However, today, with the popularity of ChatGPT and generative AI and the rise of startup ecosystem, 'AI taking away jobs' is no longer a debate inside the four walls of institutions, it seems to have become a reality."
+    publishedDateTime: 2023-07-13T05:31:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/will-generative-ai-take-away-startup-jobs/455743"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1689225286-pexels-ono-kosuki-5999786.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "AI revolution puts skilled jobs at highest risk, OECD says"
     excerpt: "Law, medicine and finance sectors could be among most affected, according to organisation’s employment outlook"

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 type: article
 quality: 116
-heat: 376
+heat: 386
 published: true
 
 provider:
@@ -318,6 +318,20 @@ related:
       - url: "https://healthcare-in-europe.com/media/story/28469/rect-01-smartglasses.jpg"
         width: 400
         height: 240
+        isCached: true
+  - title: "A Mid-Year Analysis of AI"
+    excerpt: "The past six months of 2023 have been a notable period for advancements in artificial intelligence (AI) and generative AI in particular. This article includes a review of the implications that AI h"
+    publishedDateTime: 2023-07-14T19:17:00Z
+    webUrl: "https://www.natlawreview.com/article/mid-year-analysis-ai"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/Generative%20AI%20Artificial%20Intelligence%20Intellectual%20Property_2_0.jpg?itok=dSBPKUDO"
+        width: 500
+        height: 271
         isCached: true
   - title: "The Impact of AI on the Real Estate Market"
     excerpt: "In their words, “that genie is out the bottle, and the only thing that will determine whether it will be good or ill will be the wishes we make.” But AI does not only serve the good; fraudsters will instruct AI to do their bidding as well,"

@@ -65,15 +65,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 17
-  - title: "Versus unveils VersusLM, a powerful AI constellation for interactive content creation"
-    excerpt: "The VersusLM AI constellation applies a generative AI to derive context and generate a layered output that includes the core elements of the VersusGame content format – A video or an animated sequence explaining the topic (a brief synopsis) with a corresponding future event state expressed with a question (the prediction game)."
-    publishedDateTime: 2023-07-10T14:20:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/10/9844995.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "bnWq9hEnuhXYWxE7dvP1CC9wYLEqJJay86LqEi5F9J0KB+HoJ3ki+xN5MV489yBoWYXNx7O7TC5aZSJQneZaebjMUQweFHWDVmk4DjULZQIbL1wMB5NezORvBWOKBLb8aFwg2fwa5FY8EhfGxLNEBnqxlWkD3rD2imuFd587s8GRUQru3TUlg8VkTG2SlZdv1PDgoVf8frU4G39JuZWrvPBkn6XEdUo5Yset1fA6jgkeSHwAgI7jrtBT1QF4JrGrWwE1cp5rgrQ8YAFtw8IOkEBMTiNbTPQvYQBvy01oWIeiWF9LFWdbonIWsuyCK7luztRzH0uKo+efHLWdCUUHZbPNTHZEK3SsoHOea2eBH94=;TXOz3TM5IVu1C+BQYX8YRQ=="
 ---

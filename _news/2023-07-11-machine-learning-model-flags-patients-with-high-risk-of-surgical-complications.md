@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use machine learning to identify high-risk surgery patients"
-    excerpt: "Researchers and physicians at the University of Pittsburgh and UPMC used machine learning to create and deploy an accurate and flexible model for predicting patients at high-risk for complications after surgery,"
-    publishedDateTime: 2023-07-10T14:25:00Z
-    webUrl: "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-machin-1.jpg"
-        width: 1454
-        height: 628
-        isCached: true
   - title: "Machine Learning Model Accurately Identifies High-Risk Surgical Patients"
     excerpt: "Opens in a new tab or window Share on Twitter. Opens in a new tab or window Share on LinkedIn. Opens in a new tab or window A machine learning model trained, tested, and evaluated with data from 1,477,561 patients was accurate at identifying those who were ..."
     publishedDateTime: 2023-07-13T21:20:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/07/14/podcast-tesla-people-mover-leaks-cy
 webUrl: "https://electrek.co/2023/07/14/podcast-tesla-people-mover-leaks-cybertruck-body-elon-ai-startup-and-more/"
 type: article
 quality: 81
-heat: 81
+heat: 83
 published: true
 
 provider:

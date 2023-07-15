@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/generative-artificial-intelli
 webUrl: "https://www.techrepublic.com/article/generative-artificial-intelligence-for-hiring/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,115 +22,38 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI is coming for your job. Here are 4 reasons to get excited"
-    excerpt: "Any discussion on the impact of generative AI usually comes with a debate about the potential loss of jobs. But while some estimates suggest AI could lead to the automation of more than 25% of jobs, the research also suggests that fast-emerging technologies could lead to new opportunities for employees."
-    publishedDateTime: 2023-07-10T14:55:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
+  - title: "Generative AI Guide For SEO Practitioners"
+    excerpt: "As FOMO and uncertainty about generative AI spread, I’m getting two sorts of questions about the technology’s impacts on SEO: 1) speculation about generative AI’s"
+    publishedDateTime: 2023-07-11T17:56:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/07/11/generative-ai-guide-for-seo-practitioners/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b0072dba480b7e46c6d881d98d732b4aa5678a55/2023/07/10/d5970d20-a245-4559-947c-0e9f787c0604/gettyimages-1258096414.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Will Generative AI Take Away Startup Jobs?"
-    excerpt: "But, jobs were still more or less safe. However, today, with the popularity of ChatGPT and generative AI and the rise of startup ecosystem, 'AI taking away jobs' is no longer a debate inside the four walls of institutions, it seems to have become a reality."
-    publishedDateTime: 2023-07-13T05:31:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/will-generative-ai-take-away-startup-jobs/455743"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "After affirmative action ruling, what role can AI play in hiring?"
+    excerpt: "While 48% of hiring managers admit to having bias, 68% think that AI could be the key to removing it from the hiring process."
+    publishedDateTime: 2023-07-10T20:10:00Z
+    webUrl: "https://www.benefitnews.com/news/ai-could-keep-companys-diverse-following-supreme-courts-affirmative-action-decision"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1689225286-pexels-ono-kosuki-5999786.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Why learning the language of humans is key to enable generative AI for automation"
-    excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
-    publishedDateTime: 2023-07-12T23:42:00Z
-    webUrl: "https://venturebeat.com/ai/why-learning-the-language-of-humans-is-key-to-enable-generative-ai-for-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM1294-e1689200748872.jpg?w=1200&strip=all"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "NTT’s CFO says energy consumption and pricing are top challenges for enterprise generative AI"
-    excerpt: "The telecom giant is focused on research to solve the growing energy needs of edge-based computing to power local AI systems."
-    publishedDateTime: 2023-07-12T21:41:00Z
-    webUrl: "https://venturebeat.com/ai/ntts-cfo-says-energy-consumption-and-pricing-are-top-challenges-for-enterprise-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM9993.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "A new dawn for generative AI shaping the business landscape"
-    excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
-    publishedDateTime: 2023-07-10T23:59:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-ai-business-transformation-leads-to-an-unprecedented-leap/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
+      name: Employee Benefit News
+      domain: benefitnews.com
     quality: 39
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/NEC-is-redefining-customer-experience-by-creating-customized-generative-AI-solutions-that-can-unlock-novel-business-value-scaled.jpg"
-        width: 2560
-        height: 1703
+      - url: "https://arizent.brightspotcdn.com/dims4/default/9331602/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F98%2Ff5%2F13d922504f9fb6347efa8696c14d%2Fpexels-tima-miroshnichenko-5439439.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Generative AI Eating Away Jobs: BPO Sector Isn’t Scared"
-    excerpt: "With nearly 4 million Indians employed in the BPO sector, the impact on jobs could be significant due to generative AI, however, industry experts think otherwise"
-    publishedDateTime: 2023-07-11T06:22:00Z
-    webUrl: "https://analyticsindiamag.com/generative-ai-eating-away-jobs-bpo-sector-isnt-scared/"
+  - title: "Healthcare execs should plan ahead for safe use of generative AI, McKinsey says"
+    excerpt: "Generative artificial intelligence could lessen providers’ documentation workloads and more easily connect beneficiaries with their health plans, according to the consultancy."
+    publishedDateTime: 2023-07-13T18:45:00Z
+    webUrl: "https://www.healthcaredive.com/news/Healthcare-execs-should-plan-ahead-generative-AI-McKinsey/687174/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ai-bpo.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Nick Clegg: Openness on AI is the way forward for tech"
-    excerpt: "But, ultimately, openness is the best antidote to the fears surrounding AI. It allows for collaboration, scrutiny and iteration. And it gives businesses, start-ups and researchers access to tools they could never build themselves, backed by computing power they can’t otherwise access, opening up a world of social and economic opportunities."
-    publishedDateTime: 2023-07-11T04:00:00Z
-    webUrl: "https://www.ft.com/content/ac3b585a-ce50-43d1-b71d-14dfe6dce999?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
-  - title: "Generative AI revolution: Here’s where theCUBE analysts see the tech going next"
-    excerpt: "But with summer tech events season in full gear, examples of AI integration today are around virtually every corner. A year full of hype kicked off with a massive amount of attention and buzz around OpenAI LP’s ChatGPT setting a record with an estimated 100 million monthly active users in January,"
-    publishedDateTime: 2023-07-10T18:24:00Z
-    webUrl: "https://siliconangle.com/2023/07/10/generative-ai-revolution-heres-thecube-analysts-see-tech-going-next-generativeai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 13
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 30
 
 secured: "g6aFTiDXGFQYURkruEPNnZwgXF+QK4fsRp42oGKdLsymPTMqZ4yH6tQ1Ta9Hzp5sdB1lMp5Nv2Uw61BwlIWwZ8jGinMaD5r7Ew1Iw/p6JQqM6AXVwWEC8Vk5ts0YoDzdZ4Yl1uM0VRXw9roJpkZZiG/cZQjhUCc4ZjZGB/Wms39y0bWpZy1x82vcEvXuBMZvWPezPP52haSNlCYHY77o5wf3oI9ZqcFjBtfpOiCI5SBto75XP8k8SzrOzFIxQyBqdLyk6TGl5HJ40Mo+RRODuhWMeDGAM3r/zqgRB9F0xeKQdH8pNoDyyOQP5qfEodF4tdZVQ26AZzu9LkeUP46Jfx5joq7rCQpiKBjRpkK33K8KzySu+z95W7vjlJc4zxebMwUkUirGn04+7mMNizUU3T9pwXvdABzuxCfiIoBgyYeoqt7QZ5szQPiZMm3sW5RLBQh/TEsYeEONSqCBbXWmyuRggvNhHQXyCDZmJzNmxILn+UzpTD8pSHqzKUkVqFGQi/ZYefANgXDxyWlr1gsjcQ==;bkrAVXEs68ng7OQijxSQOg=="
 ---

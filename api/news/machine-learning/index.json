@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-14-new-ml-benchmarks-show-best-algorithms-for-training-chatbots.md",
-      "title": "New ML benchmarks show best algorithms for training chatbots",
-      "excerpt": "As quickly as AI and ML have grown, MLCommons has been updating its MLPerf Training benchmarks. The latest revision, Training version 3.0, adds testing for training large language models (LLM), specifically for GPT-3, the LLM used in ChatGPT. This is the first revision of the benchmark to include such testing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.html",
-      "originalUrl": "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/29/19/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-large-100935023-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html",
-      "publishedDateTime": "2023-07-14T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-artificial-intelligence-powers-a-new-era-in-construction.md",
       "title": "Artificial Intelligence Powers A New Era In Construction",
       "excerpt": "Exploring the transformative role of Artificial Intelligence in reshaping construction processes, from enhancing operational efficiency to improving on-site safety.",
@@ -54,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -150,7 +106,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -191,6 +147,62 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-top-11-ai-as-a-service-companies-2023.md",
+      "title": "Top 11 AI as a Service Companies 2023",
+      "excerpt": "Google also provides a suite of AI services through its Google Cloud Platform (GCP). This includes pre-trained models, APIs, and tools for natural language processing, computer vision, speech recognition, translation, recommendation systems, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/aiaas-companies/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/aiaas-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/07/ew-ai-as-a-service-companies.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI"
       ]
     },
     {

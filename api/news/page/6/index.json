@@ -2,6 +2,94 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-11-ai-industrial-robotics-russia.md",
+      "title": "AI Industrial Robotics - Russia",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$58.19m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.56%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/russia",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/russia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
+      "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
+      "excerpt": "Robots and artificial intelligence (AI) are expected to play a key role in nursing practice in the future. In this regard, researchers from Japan ask whether intelligent machines can replace humans as nurses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-inside-googles-big-ai-shuffle-and-how-it-plans-to-stay-competitive-with-google-deepmind-ceo-demis-hassabis.md",
       "title": "Inside Google’s big AI shuffle — and how it plans to stay competitive, with Google DeepMind CEO Demis Hassabis",
       "excerpt": "The buzz around AI has moved from science research to chatbots, but Google DeepMind’s CEO says it’s all relevant to progress.",
@@ -159,7 +247,7 @@
       "originalUrl": "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -527,6 +615,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-2-reasons-the-ai-revolution-will-enhance-our-quality-of-life.md",
+      "title": "2 Reasons The AI Revolution Will Enhance Our Quality Of Life",
+      "excerpt": "As capable as our brains are, there are many things AI can do better than a human. A 2023 study found that participants were unable to tell apart tweets written by GPT-3 and those by a human. We can focus on the little improvements generative AI like ChatGPT, Midjourney, and others are bringing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/pexels-michelangelo-buonarroti-8728557.jpg?itok=O-nUwU6k",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life?amp",
+      "publishedDateTime": "2023-07-10T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1067,143 +1198,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-what-is-vibration-analysis-and-how-can-it-help-optimize-predictive-maintenance.md",
-      "title": "What is vibration analysis and how can it help optimize predictive maintenance?",
-      "excerpt": "Vibration analysis is a powerful diagnostic tool for identifying, monitoring and preventing mechanical failures in rotating and reciprocating machinery.\nThe post What is vibration analysis and how can it help optimize predictive maintenance? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/vibration-analysis/",
-      "originalUrl": "https://www.ibm.com/blog/vibration-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T06:06:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-how-to-improve-employee-experience-and-your-bottom-line.md",
-      "title": "How to improve employee experience (and your bottom line)",
-      "excerpt": "In a nutshell, employee experience refers to the totality of interactions employees have with their organization. \nThe post How to improve employee experience (and your bottom line) appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T06:01:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development.md",
-      "title": "As AI Becomes Mainstream, Who Will Remain In The Fourth Stage Of Technological Business Development?",
-      "excerpt": "The future belongs to those who can effectively harness the power of technologies, including AI, to solve real problems and create new opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b51b21f424212056aa415/0x0.jpg?format=jpg&crop=1392,783,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/",
-      "publishedDateTime": "2023-07-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

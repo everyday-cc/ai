@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-12/ai-drug-discove
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-12/ai-drug-discovery-firm-recursion-rxrx-surges-after-nvidia-nvda-investment"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "AMD: Unlocking AI Potential At A Fraction Of Nvidia's Price"
-    excerpt: "Advanced Micro Devices, Inc. is a viable alternative to Nvidia Corporation in the AI market and its valuation is more attractive than NVDA. Click for more on AMD."
-    publishedDateTime: 2023-07-10T13:38:00Z
-    webUrl: "https://seekingalpha.com/article/4616068-amd-unlocking-ai-potential-at-a-fraction-of-nvidias-price"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
   - title: "StockWatch: After $50M from Nvidia, Investors Bullish on Recursion"
     excerpt: "The appetites of biotech investors for companies expanding in artificial intelligence show no signs of slowing any time soon, as reflected by the stock surge enjoyed by Recursion Pharmaceuticals after Nvidia invested $50 million in the AI-focused drug developer."
     publishedDateTime: 2023-07-14T16:34:00Z

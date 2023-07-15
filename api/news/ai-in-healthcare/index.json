@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
+      "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
+      "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/soft-robotics-revoluti.jpg",
+          "width": 640,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
+      "publishedDateTime": "2023-07-14T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68360-million-by-2032.md",
       "title": "Artificial Intelligence (AI) in Manufacturing Market Size To Hit USD 68,360 Million By 2032",
       "excerpt": "The global artificial intelligence (AI) in manufacturing market size was valued at USD 3,800 million in 2022. Artificial intelligence (AI) in manufacturing units is adopted to",
@@ -150,7 +194,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 376,
+      "heat": 386,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -280,6 +324,49 @@
       "topics": [
         "AI",
         "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-2-reasons-the-ai-revolution-will-enhance-our-quality-of-life.md",
+      "title": "2 Reasons The AI Revolution Will Enhance Our Quality Of Life",
+      "excerpt": "As capable as our brains are, there are many things AI can do better than a human. A 2023 study found that participants were unable to tell apart tweets written by GPT-3 and those by a human. We can focus on the little improvements generative AI like ChatGPT, Midjourney, and others are bringing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/pexels-michelangelo-buonarroti-8728557.jpg?itok=O-nUwU6k",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life?amp",
+      "publishedDateTime": "2023-07-10T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "AI in Healthcare"
       ]
     },
@@ -1287,74 +1374,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023-artificial-intelligence-breakthrough-awards.md",
-      "title": "IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards",
-      "excerpt": "NYSE:IQV) IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2023/06/27/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2023/06/27/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-quralis-and-unlearn-announce-collaboration-to-accelerate-and-optimize-als-clinical-trials-with-generative-artificial-intelligence-technologies.md",
-      "title": "QurAlis and Unlearn Announce Collaboration to Accelerate and Optimize ALS Clinical Trials With Generative Artificial Intelligence Technologies",
-      "excerpt": "Collaboration will leverage Unlearn's AI-powered digital twins in QurAlis' clinical trials for their leading ALS therapies CAMBRIDGE, Mass. and SAN FRANCISCO,  /PRNewswire/ -- QurAlis Corporation, a clinical-stage biotechnology company developing breakthrough precision medicines for amyotrophic lateral sclerosis (ALS) and other neurodegenerative diseases with genetically validated targets,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/27/9839450.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/27/9839450.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

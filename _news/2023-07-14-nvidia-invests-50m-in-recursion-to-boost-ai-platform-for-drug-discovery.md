@@ -67,15 +67,6 @@ related:
         width: 319
         height: 241
         isCached: true
-  - title: "Gamercraft raises $5 Million for AI-powered skill- gaming platform"
-    excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Gamercraft has raised $5 million in funding for its AI-competitive gaming platform for skill-based console and PC gaming."
-    publishedDateTime: 2023-07-10T13:15:00Z
-    webUrl: "https://venturebeat.com/games/gamercraft-raises-5-million-for-ai-powered-competitive-gaming/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "zSkScyDgIKKx+9Sz0ms/V6earhzhfhhZbJvWFWNJ+UfsMqVdBPbENod3NLhS4crXpHZWtXdpThGps31IhlCcrCS8c4cZK23z7UG0ksutdsI5fH7EE3IxnZYCeMPoJxINo05on3MIkXOu6T2zQRycsFUfp6XSwNdPtPcpY/uX/oCq9DoOnw/meRyhszC/8msp1Wl8wLTnA7Cd935oSwm4SwT9L9CZTb9m1QxVGCFPhlS50BKTilBHX0ZuvMeUzBbqFKXpzMZoqZJkM7gqELUdKhWOebxMO6vV8OfvXERGwRmb90ts/291QQ3N4j2kiwWMcYv1VTr/uPGU5y1SffwuO9Fa+e7yN+etiu7Z9CIlwyx3DNRYW6SPz37ucFojQ7LbOuP/11vQoH7zBpAeA4iTcTZNpEspZarFJv2e/vUeQ5TPioYyeDK7Kx0iLvBJ4+XTAtfvuIubGn2G7Hua9oi72ActDW/D9jY7RaiuQ64HgRV1BshTKbZgUZbViBipxQBTVPVZlsA3/5U3lSPyR7B+qg==;XhnLS3dJmn2uhIsWSrumaQ=="
 ---

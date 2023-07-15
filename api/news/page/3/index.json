@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-07-13-the-looming-addiction-crisis-fueled-by-ai.md",
-      "title": "The looming addiction crisis fueled by AI",
-      "excerpt": "Online pill services are using AI to turbocharge the same aggressive marketing tactics that drove the opioid epidemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7",
-      "originalUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ac50bf8ed31300199e5355?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp",
-      "publishedDateTime": "2023-07-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-mit-research-scientist-asks-if-ai-can-become-conscious-elon-musk-says.md",
       "title": "MIT Research Scientist Asks If AI Can Become Conscious, Elon Musk Says...",
       "excerpt": "The researcher posted this query in response to the first tweet by Elon Musk's new artificial intelligence startup, xAI.",
@@ -181,6 +130,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-google-tests-its-new-ai-medical-chatbot-at-mayo-clinic.md",
+      "title": "Google tests its new AI medical chatbot at Mayo Clinic",
+      "excerpt": "If a current Google test goes well, your next hospital visit might involve a little assistance from artificial intelligence (AI). According to recent reports, Google has been using its Med-PaLM-2 chatbot at the Mayo Clinic since April.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-tests-its-new-ai-medical-chatbot-at-mayo-clinic/",
+      "originalUrl": "https://www.zdnet.com/article/google-tests-its-new-ai-medical-chatbot-at-mayo-clinic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/be693b341c663a1ecd39552f641f931b5ce02e84/2023/07/12/6e44cc52-e730-4f9f-8352-7defa46b1116/gettyimages-1210454294.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-tests-its-new-ai-medical-chatbot-at-mayo-clinic/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-tests-its-new-ai-medical-chatbot-at-mayo-clinic/",
+      "publishedDateTime": "2023-07-13T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley.md",
       "title": "AI Doomsday Scenarios Are Gaining Traction in Silicon Valley",
       "excerpt": "To say that some of his visions for the end of the world are unpopular would be a gross understatement; they’re on par with the prophecy that the world would end in 2012. That prediction was based on a questionable interpretation of an ancient text, as well as a dearth of supportive evidence.",
@@ -213,6 +213,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-ntts-vision-for-ai-adoption-and-why-collaboration-is-key.md",
+      "title": "NTT’s vision for AI adoption — and why collaboration is key",
+      "excerpt": "Explore NTT's approach to gen AI adoption, sustainable AI practices and why collaboration is a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ntts-vision-for-ai-adoption-and-why-collaboration-is-key/",
+      "originalUrl": "https://venturebeat.com/ai/ntts-vision-for-ai-adoption-and-why-collaboration-is-key/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/TVBM0153.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -375,60 +426,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-top-6-ai-trends-2023.md",
-      "title": "Top 6 AI Trends 2023",
-      "excerpt": "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/05/top-generative-ai-apps-tools.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI Ethics"
       ]
     },
     {
@@ -766,7 +763,7 @@
       "originalUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -974,7 +971,7 @@
       "originalUrl": "https://www.popsci.com/technology/google-ai-lawsuit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1171,7 +1168,7 @@
       "originalUrl": "https://blog.google/technology/ai/notebooklm-google-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 134,
       "tags": null,
       "images": [
         {

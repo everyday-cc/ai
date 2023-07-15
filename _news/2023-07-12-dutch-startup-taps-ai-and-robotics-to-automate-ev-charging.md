@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-autom
 webUrl: "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI And Automation Are Transforming The World"
-    excerpt: "Artificial intelligence holds revolutionizing potential across industries. Generally, AI can be divided into two categories: automation and augmentation. By automating, we can eliminate the need for human labor, and by augmenting, we can use AI to enhance the intelligence and performance of human beings."
-    publishedDateTime: 2023-07-10T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/how-ai-and-automation-are-transforming-the-world/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/how-ai-and-automation-are-transforming-the-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/how-ai-and-automation-are-transforming-the-world/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Networking Startups Jump On Cloud Costs And AI"
     excerpt: "Other cloud networking startups are also going after AI. DriveNets recently announced that its Network Cloud-AI solution, which uses cloud-based Ethernet-based networking to boost the performance of AI clouds, is in trials with major hyperscalers."
     publishedDateTime: 2023-07-12T20:25:00Z

@@ -132,20 +132,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "China, AI and Earnings: What Investors Need to Know Right Now"
-    excerpt: "The battle for rare earth and critical minerals is alive and well and is spreading into a 'chip war.' China, artificial intelligence and the upcoming earnings season are on my mind, after a holiday shortened week and a whole bunch of jobs data,"
-    publishedDateTime: 2023-07-10T14:00:00Z
-    webUrl: "https://realmoney.thestreet.com/markets/china/china-ai-earnings-what-investors-need-to-know-right-now-16128321"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 39
-    images:
-      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/6d5263cc-488b-11e8-a89a-a7c6266bff86.png"
-        width: 1152
-        height: 768
-        isCached: true
   - title: "Applicability of AI and Robots to Nursing"
     excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
     publishedDateTime: 2023-07-11T15:38:00Z

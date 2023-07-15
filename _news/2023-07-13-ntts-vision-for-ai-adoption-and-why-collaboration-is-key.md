@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/ntts-vision-for-ai-adoption-and-why-col
 webUrl: "https://venturebeat.com/ai/ntts-vision-for-ai-adoption-and-why-collaboration-is-key/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,31 @@ images:
     width: 1200
     height: 739
     isCached: true
+
+related:
+  - title: "NTT’s CFO says energy consumption and pricing are top challenges for enterprise generative AI"
+    excerpt: "The telecom giant is focused on research to solve the growing energy needs of edge-based computing to power local AI systems."
+    publishedDateTime: 2023-07-12T21:41:00Z
+    webUrl: "https://venturebeat.com/ai/ntts-cfo-says-energy-consumption-and-pricing-are-top-challenges-for-enterprise-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM9993.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AP, Open AI agree to share select news content and technology in new collaboration"
+    excerpt: "The Associated Press and OpenAI have reached an agreement to share access to select news content and technology as they examine potential use cases for generative AI in news products and services."
+    publishedDateTime: 2023-07-13T13:05:00Z
+    webUrl: "https://www.ap.org/press-releases/2023/ap-open-ai-agree-to-share-select-news-content-and-technology-in-new-collaboration"
+    type: article
+    provider:
+      name: Associated Press
+      domain: ap.org
+    quality: 15
 
 secured: "BP5JcpmFe1ehV7mdO02NeXVlCJQfL+mPUaV+lXFw25gR8Mkh3e2R9LvPPq9pXKpe4OT9cv6SIR5UfLl+WAO9uCtHldtmP9njRjCiyt8G/aqbyr9vdR+AJMOZuYR64u9nFosSknPzotHVngUGQUwCPfqMIEdvibPH7kHSR/U86dZVoslVAfG1fdvCs5NhMp6SjcMlAM/xMUDF8N2zhC5G+4GXyQTrlur1bhucSkWm/y3zx+ZFz0+pZgmGTMqJ3AhokGuDcSbqI+UJilUvvGd/qHxtx065LMuXeRsFFOiI9dAF63LZOnNuaQ2V2Dpjg/BSzK6AHln53BbIKr3HYFoCx/wMPhKGxUxUu3niCJJ013w=;AUS1HHTwvI70hVHhbpLQFw=="
 ---

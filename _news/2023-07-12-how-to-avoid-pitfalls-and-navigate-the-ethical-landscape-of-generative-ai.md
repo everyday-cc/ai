@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-
 webUrl: "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -45,15 +45,34 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Practical Ways to Navigate the AI Hysteria"
-    excerpt: "AI inputs, outputs, and work must be humanly readable, auditable, and understandable to fix mistakes. AI must not be designed to manipulate people or organizations, have no surveillance, or be used as a strategy for widespread job displacement. AI must protect individual privacy and eliminate bias to create a level playing field."
-    publishedDateTime: 2023-07-10T13:34:00Z
-    webUrl: "https://www.newsweek.com/practical-ways-navigate-ai-hysteria-1811594"
+  - title: "Why learning the language of humans is key to enable generative AI for automation"
+    excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
+    publishedDateTime: 2023-07-12T23:42:00Z
+    webUrl: "https://venturebeat.com/ai/why-learning-the-language-of-humans-is-key-to-enable-generative-ai-for-automation/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 49
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM1294-e1689200748872.jpg?w=1200&strip=all"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "A new dawn for generative AI shaping the business landscape"
+    excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
+    publishedDateTime: 2023-07-10T23:59:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-ai-business-transformation-leads-to-an-unprecedented-leap/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/NEC-is-redefining-customer-experience-by-creating-customized-generative-AI-solutions-that-can-unlock-novel-business-value-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
   - title: "Crawlers, search engines and the sleaze of generative AI companies"
     excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
     publishedDateTime: 2023-07-13T15:32:00Z

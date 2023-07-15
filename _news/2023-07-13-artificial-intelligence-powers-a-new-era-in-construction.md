@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 17
-  - title: "Versus unveils VersusLM, a powerful AI constellation for interactive content creation"
-    excerpt: "The VersusLM AI constellation applies a generative AI to derive context and generate a layered output that includes the core elements of the VersusGame content format – A video or an animated sequence explaining the topic (a brief synopsis) with a corresponding future event state expressed with a question (the prediction game)."
-    publishedDateTime: 2023-07-10T14:20:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/10/9844995.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "5DQnrhM5AaD0ff+Vd4VShEyzP5TS2m1N6fu8v9TZYp30h0rViUjvwijpGIEBXWOcw212ZJlpAvcNfZqj9SSwtdj3tIpm+YHYTRskL4Wz60oQbWbXevsfNW64oSqqkR5NfTbTtP/fJ9zGpVe//W2HKS2xpGehn/caaU7RAKYtdi0dx5yjF/bll76cIxCNt4kITX0vARQmdwZXy+LBwD4aDya9u64uk7M4DUG9zfbIzlUJgY2Ff/PN1o618nlj6CCVSEt3a0Zh43jiyhrdlKRiWhDqDyfMvTQqKBZSX3B4pD17VEftxXl32qpQgo0BRglh/7IdHMjqqQfOtMP0Xq6N2oxH+Wi7AsfAqSOofRvequbjwxaq9JBsjs20TsXp2jwZdQ3s3giqS4CwI2uti21YWtiQzFAjopAqjw0oVcXlm+AiQvCn8znWJId2sVSlpYghcTmPN8u7z5/sdfHNRNN5hE/JKp/oZ45yo6YicR411HnFQt133oRTs1EPTV926ozgEEpLLCAzGfa/Dy10AjWSag==;EsLTc1i8tux+cNHLZ2HYzA=="
 ---

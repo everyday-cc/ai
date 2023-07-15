@@ -50,15 +50,34 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Practical Ways to Navigate the AI Hysteria"
-    excerpt: "AI inputs, outputs, and work must be humanly readable, auditable, and understandable to fix mistakes. AI must not be designed to manipulate people or organizations, have no surveillance, or be used as a strategy for widespread job displacement. AI must protect individual privacy and eliminate bias to create a level playing field."
-    publishedDateTime: 2023-07-10T13:34:00Z
-    webUrl: "https://www.newsweek.com/practical-ways-navigate-ai-hysteria-1811594"
+  - title: "Why learning the language of humans is key to enable generative AI for automation"
+    excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
+    publishedDateTime: 2023-07-12T23:42:00Z
+    webUrl: "https://venturebeat.com/ai/why-learning-the-language-of-humans-is-key-to-enable-generative-ai-for-automation/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 49
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM1294-e1689200748872.jpg?w=1200&strip=all"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "A new dawn for generative AI shaping the business landscape"
+    excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
+    publishedDateTime: 2023-07-10T23:59:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-ai-business-transformation-leads-to-an-unprecedented-leap/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/NEC-is-redefining-customer-experience-by-creating-customized-generative-AI-solutions-that-can-unlock-novel-business-value-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
 
 secured: "PT3BKbpaJVzG0zI9cCIZ9SV3BbL+47Ml+YStvPB1MJuOrPaQyuQVtioei/hmpNGVveet7AIXXcijSvkUuGrTcOC6gAawTtPP+tpd7Kz76Jqn5heCRMLRY5r77z0l3dZsvNw25wQxHyKp7B2NH6lwIMdYT6C0EdvyHS8NAgrXnGqHNAPGqFibw5vfdfflUg9t3TiFYPe3OwUDfqjB3mH22tL1OhUKUCe3353YwIZOo49Nshax66dHqSqv1Sn9UT0t5STTrDwCCLYPNZCFq9DELs8mXf8qh2lsbFomDqE7+2aIFUfa9I+vb42njmFzBYEfaun+uEaesEL8+UDFIZUA8td81ZzvyRI4OBiptWnNWRwdv6PDlu03NU0jvEesyaxXpCo+Yt7Dys5QFnWpd/dXKtalpAJZnP9fnsT5CkMfIFijmHfMUfvjoqpu57ulHnBElD74+GS0bN4kAF6ihEmv9+a2bGNEs7JUZ4/4Qx501XEpxongoN0ugTccGAR9Oz1YrJHwkmVVq/ugthB/X4NgGQ==;sCEuWqt3derqaQoabUvDUw=="
 ---

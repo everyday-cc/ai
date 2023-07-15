@@ -25,117 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Industrial Robotics - Europe"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$2.50bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.34%, resulting in a market volume of US$6 ..."
-    publishedDateTime: 2023-07-10T14:14:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe"
+  - title: "Google's Bard AI now supports 40 languages, including Malayalam"
+    excerpt: "Mumbai: In a significant development, Google has rolled out new updates to its AI-experimental chatbot Bard to support 40 languages, a massive advancement in the quest to reach out to every nook and c"
+    publishedDateTime: 2023-07-15T06:12:00Z
+    webUrl: "https://english.mathrubhumi.com/features/technology/google-s-bard-now-supports-40-languages-including-malayalam-1.8732710"
+    ampWebUrl: "https://english.mathrubhumi.com/amp/features/technology/google-s-bard-now-supports-40-languages-including-malayalam-1.8732710"
+    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/features/technology/google-s-bard-now-supports-40-languages-including-malayalam-1.8732710"
     type: article
     provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
+      name: english.mathrubhumi
+      domain: mathrubhumi.com
+    quality: 59
     images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Industrial Robotics - Russia"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$58.19m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.56%, resulting in a market volume of US$ ..."
-    publishedDateTime: 2023-07-10T19:50:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/russia"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Service Robotics - France"
-    excerpt: "Value in the AI Service Robotics market is projected to reach US$171.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.38%, resulting in a market volume of US$413 ..."
-    publishedDateTime: 2023-07-11T07:38:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/france"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Service Robotics - India"
-    excerpt: "Value in the AI Service Robotics market is projected to reach US$116.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.45%, resulting in a market volume of US$317 ..."
-    publishedDateTime: 2023-07-12T09:30:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/india"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Industrial Robotics - Mexico"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$105.80m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.53%, resulting in a market volume of US$ ..."
-    publishedDateTime: 2023-07-14T17:39:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/mexico"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google’s AI Chatbot Bard Gets Belated European Release"
-    excerpt: "Alphabet Inc.’s Google released its Bard chatbot to users in the European Union and Brazil, and said the artificial intelligence tool can now generate responses in more than 40 languages, including Chinese,"
-    publishedDateTime: 2023-07-13T07:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-chatbot-bard-gets-belated-european-release"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_aVjVRzw3SQ/v0/1200x837.jpg"
-        width: 1200
-        height: 837
-        isCached: true
-  - title: "Two new ultrasound systems to address healthcare challenges in Europe"
-    excerpt: "Canon Medical announces the commercial availability of its two latest ultrasound systems, Aplio flex and Aplio go, in Europe."
-    publishedDateTime: 2023-07-11T09:48:00Z
-    webUrl: "https://healthcare-in-europe.com/en/news/canon-new-ultrasound-systems-aplio-flex-go.html"
-    type: article
-    provider:
-      name: healthcare-in-europe.com
-      domain: healthcare-in-europe.com
-    quality: 39
-    images:
-      - url: "https://healthcare-in-europe.com/media/story/28460/rect-01-aplio-flex-aplio-go.jpg"
-        width: 400
-        height: 240
-        isCached: true
-  - title: "Google rolls out AI chatbot Bard to Europe and Brazil and adds more languages"
-    excerpt: "Google says it’s rolling out its AI-powered chatbot Bard across Europe and in Brazil, expanding its availability to hundreds of millions more users"
-    publishedDateTime: 2023-07-13T10:17:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206487"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 34
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_718684c77171b2680280b7b915eefdda_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://english.mathrubhumi.com/image/contentid/policy:1.8416625:1679575736/WhatsApp%20Image%202023-03-23%20at%206.18.53%20PM.jpeg?$p=20d2278&f=16x9&w=1080&q=0.8"
+        width: 1080
+        height: 607
         isCached: true
 
 secured: "tTUYOvEBnyg4hzfJ4oQjxXIqbhUjrXwzeG1sSuzM+/M5z4aSonVvqd+5lTK3P2FWucSPU97fBhro8PqM8hxDwXfK2+GICsGUMcFgcLwbqGcioRmSHMYm6NmQJbJhq+wpjbZ7FYtLddanNVo2dMLCu1KJ9OhVA+UsscHbElMOw9JuOyh7hCEPNFTrjR2WwVJhpjLZKVtygZpTU9HsCbrvLrgojN6X/9nkf1vJfE6xv/GT+y0doseLlnlboED6Y5S/o58edDv06WLzIcKYzd8CHTBjg0MEK3jbtFnXv4WAYqZ7GTsv4/APwjc9fG2Wbw15cpkzZeMVH0fm0d3RAp9goeawLnBn4ikgggVBSCxelSgWjAzyHx1TXugQ4SKJGuVAS3xD6d8U5Ug2BazouikySWcTuiDRJxukmP9loe7IG4fDu+16sx0PFzmfvvplpPQAc7b4s0oDJDtRSCRqm3uRGwWa7kgf1lqAGSbVha+2vGvVDggtuvuQgFTR58oajh4kOOQngf/sBiIeT2v/PTi42g==;DekWHG2A1rOZdOZiOG+qFg=="

@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Gamercraft raises $5 Million for AI-powered skill- gaming platform"
-    excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Gamercraft has raised $5 million in funding for its AI-competitive gaming platform for skill-based console and PC gaming."
-    publishedDateTime: 2023-07-10T13:15:00Z
-    webUrl: "https://venturebeat.com/games/gamercraft-raises-5-million-for-ai-powered-competitive-gaming/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Nvidia invests $50M in Recursion to boost AI platform for drug discovery"
     excerpt: "While relatively modest in size, the investment from Nvidia could help prove Recursion’s datasets give discovery platforms a speed-to-clinic edge."
     publishedDateTime: 2023-07-13T21:04:00Z

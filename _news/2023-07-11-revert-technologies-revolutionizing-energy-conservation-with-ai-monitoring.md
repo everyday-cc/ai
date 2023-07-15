@@ -34,6 +34,20 @@ related:
         width: 800
         height: 544
         isCached: true
+  - title: "AI facial recognition tech brings ‘airport-style security’ to UK stores, says human rights group"
+    excerpt: "London (CNN) — A rising number of British stores are using a facial recognition system powered by artificial intelligence to identify repeat shoplifters in what one human rights group has called the spread of “airport-style security” on the high street."
+    publishedDateTime: 2023-07-15T07:28:00Z
+    webUrl: "https://ktvz.com/news/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 60
+    images:
+      - url: "https://ktvz.b-cdn.net/2023/03/osKcX94i-News-BG-NC21-logo-1200x675-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lawsuit Highlights Legal Risks of Facial Recognition Tech"
     excerpt: "Multiple Minnesota law enforcement agencies face a civil rights lawsuit over the use of facial recognition technology in an arrest. However, the government denies facial recognition led to the arrest."
     publishedDateTime: 2023-07-13T20:23:00Z

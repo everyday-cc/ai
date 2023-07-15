@@ -54,20 +54,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Can AI save commercial real estate in San Francisco?"
-    excerpt: "When MosaicML, a generative AI platform company, decided to upgrade its office space, its CEO and co-founder, Naveen Rao, was set on San Francisco, even though he lives in Southern California. “Everyone is talking about doom and gloom,"
-    publishedDateTime: 2023-07-10T14:00:00Z
-    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/10/can-ai-save-commercial-real-estate-in-san-francisco/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 39
-    images:
-      - url: "https://krdo.b-cdn.net/2023/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xYTI0NjU0ODZmZjUyYTExZWYzNjM1ZmRhYjAzMjkyZg-L19wYWdlcy9oXzAzYjdlY2I3ZmI3NDJkZmVjNzRkY2UzODgyM2RjYmM4-300.jpg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "kJA/k0Pocql8/RU4jnpJLv73b03n5KBUrIRPJP5ni/RTKQ5a0CulTWmUDrb4Q/N+ng2sjYBX0vZu3I6QvC3EnoZXSGi/RYQ7ebslD+kpVuH4Zdr/f8y+wm6+H8EBnNYLGTwRFbjv4jdgvQ/k9+LEszS9nPQmldahKTgukntehm4814CcKa/gzNPwWH4me6OcjTL0Fl4+aGQbyXfWIlOpqDmIzXGff93YClbWwy0eRvKKIvZG1geUJNNE39CrdN/jP+FNkksQ02wS6Jd/+oL5xWz/UI5JPLMsIsiOjAHQk0gdMOdPgc6AP66MyM4sKUfqouW7/URuA9ppFuLU7CzFm0jqJrbnf/XhTGJpYGfjIrTaxC8xN+cX6OWxFSQkRvNh9QhHJ6MOJbgP+gOooSmxg8lC3V8xUbfDRueXUA5v7hQd+ezQZfgzXKQnVBaYHwz+kbOD5hf66MN2An0JJI57vg5VJ1copE2bRp60Ysdmx9cxtmQbjHsELIOEMmW2oZwFQpSHN+TDkuDNCf+iCeUZ+A==;NvqE/pic7fi86awhfapuZA=="
 ---

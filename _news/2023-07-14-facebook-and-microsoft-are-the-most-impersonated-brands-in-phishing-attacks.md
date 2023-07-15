@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 ways Moveworks and Microsoft Teams use AI to improve employee productivity"
-    excerpt: "Moveworks on Microsoft Teams uses conversational AI to help enterprises improve employee productivity and free up IT and HR staff. Learn more."
-    publishedDateTime: 2023-07-10T15:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 51
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/07/Moveworks-feature-image-5-30.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facebook and Microsoft Are the Most Impersonated Brands in Phishing Attacks"
     excerpt: "Vade's Phishing and Malware Report Reveals Phishing Volumes Increased by More Than 54% in H1 2023SAN FRANCISCO, July 13, 2023 /PRNewswire/ --"
     publishedDateTime: 2023-07-13T15:00:00Z

@@ -2,11 +2,11 @@
 category: news
 title: "At New York Actors Strike Picket Lines, Artificial Intelligence and Residuals Are Top of Mind"
 excerpt: "\"If we don't deal with streaming now, if we don't deal with AI now, there's not going to be any turning back,\" actress Susan Sarandon said on Friday, as demonstrators showed up at Netflix, Warner Bros."
-publishedDateTime: 2023-07-15T00:16:00Z
-originalUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/?ref=biztoc.com"
-webUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/?ref=biztoc.com"
-ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/?ref=biztoc.com&amp"
-cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/?ref=biztoc.com&amp"
+publishedDateTime: 2023-07-15T07:16:00Z
+originalUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/"
+webUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/"
+ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/amp/"
+cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/amp/"
 type: article
 quality: 46
 heat: -1
@@ -55,6 +55,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "+semHftH+x70g0n49HO8DD3eeQluzVJ8lOFWAvU62goRdpLaTS0BEpHm6vzygqVtuWOx2bbScvY6DgCIjXFeXyIfN6ljMNqveYRSJi5qwY5l/YfnlLhGXjYv8p8D18/v+P8xGjRUK8kGdGylQHZXNr3a+YzZXH64McNMa3YIdmIt8QUQKdCrnQ9DPc2Id+keV1En/tyUqy+tuvIGkiLFPXLzr//uRWIgKM2Ztiht+LbL3fGUBXPAw6vx+bIb/TihNEXbFGHec+09/4GbIlYYChG3OAwwH/3GY1HteAWVBo45f1LFHmmZne/hVmNSnP0E2qF4GGjcwDiOsUJxEnGivap8qobIVU9KNjPOiN/Bv9k=;cP0TPqoJcSaCuXCg/Ks7Og=="
+secured: "//lW5cA2qMIP1gMmLYm9jhsxUYHDAx8CSpYtkf1ZDW72qZ3GkUjJUogM8k6gY/p/2qyjk3IUAoQ6GvJJzXn60riEJoh69tyJaKmpJ2VSmIsLhxYC1B0yhHDiLx3/EDqHkAtL6odM/5/oKyd35olszlWMzSGH7DHIcf4y6U7DfpBiR3EyG2hGb0QfdsoMeEavhfanoPqdf37GRLR8bV4/SrWR/GWqCTmHk2rJyUJalh31n6oaMjst6A7DKrpehxmZ985VXAa0i4oeUmbSYAuA7MdFzKjrDD8ESGw3nmP6K3GXSt8QNE8ycy/v7lgZKXhjMcrLFZCQB9jKWsFZN9nHl2dQsHRL2dPZQQCssXQ3PFQ=;pwao5CTKMwLhSaP/g747Dg=="
 ---
 
