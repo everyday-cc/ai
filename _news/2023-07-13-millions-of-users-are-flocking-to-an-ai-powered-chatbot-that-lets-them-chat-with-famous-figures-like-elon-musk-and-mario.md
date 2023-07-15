@@ -119,22 +119,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google testing new medical AI chatbot that can answer your medical queries"
-    excerpt: "According to the WSJ, an internal email that it was able to access stated that Google thinks its modified approach can be especially useful in nations with “more limited access to doctors.” Med-PaLM 2 was trained on a selected collection of demos from medical experts,"
-    publishedDateTime: 2023-07-10T09:52:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/google-ai.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Hospitals begin test driving Google’s medical AI chatbot: report"
     excerpt: "Google has begun working with several hospitals, including the Mayo Research Clinic, to begin incorporating the tech giant's Med-PaLM 2 AI chatbot to provide healthcare advice."
     publishedDateTime: 2023-07-11T01:44:00Z
@@ -150,20 +134,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "A technophobe’s guide to AI chatbots"
-    excerpt: "While the risks are real, it’s becoming increasingly clear that systems like ChatGPT aren’t going anywhere. Are you ready to use them?"
-    publishedDateTime: 2023-07-10T09:36:00Z
-    webUrl: "https://www.bostonglobe.com/2023/07/10/business/chatbot-how-to-guide/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 41
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/lInsVZvcgByOEC5BwwZlXcUgmlo=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JR4WWV5YKFH3BKCY7QYAYM4ODE.jpg"
-        width: 506
-        height: 325
         isCached: true
 
 secured: "CLzU45VUnCvISAEFetl7cL8uXBJhhU91x5XUR+94k+bGsmC+ReI/h2iRgLv1WPaX93RmcN2y5gjfmoYJIaorW+267hv7PeEf+gxz82VN945p7zUuHcnlPbBAYwwmZBjZw+g7a4xBAozRE0hK8CsfRqYdkA/AjjNNzzEUlfQe1iLmNR8YCT6jmXjQd9sJTsmoDJU71BmfdtI5JRhrFlC/8xvIPQRR7BlvjfxLEzKAZv9dQWGQZKnciPBRgjLs6Go+vmxR1FFCjTYRJcJBu4a5fmAtrMbXRlSTHGf7PnQnfzDRpd8N3y2AUCU5FpEpRcJDdni7MK+Hz2F1/a6JYZnZiATSYsFzP1kHM2dAiUIk9wY=;LN0Tkmx4ef6qJ04b0btuKw=="

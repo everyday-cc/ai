@@ -7,7 +7,7 @@ originalUrl: "https://cacm.acm.org/news/274580-chip-makers-stack-chiplets-like-l
 webUrl: "https://cacm.acm.org/news/274580-chip-makers-stack-chiplets-like-lego-blocks-to-drive-ai"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "To Drive AI, Chip Makers Stack ‘Chiplets’ Like Lego Blocks"
-    excerpt: "Some industry executives call the technology one of the most significant advances since the dawn of the integrated circuit more than 60 years ago."
-    publishedDateTime: 2023-07-10T10:44:00Z
-    webUrl: "https://www.wsj.com/articles/to-drive-ai-chip-makers-stack-chiplets-like-lego-blocks-6cee6ed0"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-812430/social"
-        width: 1279
-        height: 640
-        isCached: true
 
 secured: "4lvx6sYBUQqIj6P4fZ5xNWee6r8g81fon4RtAZ1WzIPoTOpy+VgoASSgSP9tm+TX/arCC4YqzSoyLgZbuSsnD3KUt8uxriGaixs1t3NH9kiuKdLCluomY9M/DaBUGYIHj4EM8yv6/ZlutIwtdm/ZdwLPS1vUJOJQ5lVxkafG4a4oeoNT/aa1S211NwgsRvcrMCqDuu3sWzyWME3v5RbiT0dLMPQxewshLFnOR6toaYsLNEe0naTeJ1mVOnnrZShrzLT2DEDkUHGQyChsvMOMO7ld9JMEYgC/2l4IrbgnhkTioAL+ytz9XzvbKa+jo/dXUEZWwnFLoNwTFDsuCOah0YqnFde4T2b7zhy2BGIXYxfpwJ2XYpXyrO/Z3wpBLJSnjadJSHiONC0iFYZ1EHuX8JjruYp520IALhamPdv9MKYUGYxgz+RgHfjzdH6a0jm+k7iWrhY0HCybYOumbM4MTHpsJ9AD71gBsrS6L4DFkoo+iEH+hu0rvtdLhHYXVnoDmg1/E+S3m7bmtuxBLGIk7g==;jIkYp3cd4bWjMJH/dqfPHA=="
 ---

@@ -55,15 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Crawlers, search engines and the sleaze of generative AI companies"
-    excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
-    publishedDateTime: 2023-07-13T15:32:00Z
-    webUrl: "https://searchengineland.com/crawlers-search-engines-generative-ai-companies-429389"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 21
 
 secured: "FqLj38+tuv3BcWJ8pRobg5R+ayJwuWmvtzQsssxtnQ/Qkl9CUUrXZs+2Tfn7A9er01YnOdlin60tiC8lqcabyt8bZENl/0AlGomfFp+/Kq4UzhKDrLqTw0kOmPY7ZZr6S4ZNhAqbpJ/UGNlb1uyZHUkUih0ShCcDfI7BHdLODHv9+jCcNlHMxicuvc7WLwoPAtXiBsha59/3ghvw212FEwwt7TS9B35n4Mqmxhe1MmO81TSs1xEcfx//CNEF484EdiRifZUYI0ZG1WaLgbNA32hzB5MOdxt+QuZuC3M+wCUUz6wM0EsSFESgeQ64csVcCyK5RSTvbxqqbeDy3feKhCku28Q5bDm//duRMfrG3B4=;d/ZY/BgKmIRhXS7hT9klTA=="
 ---

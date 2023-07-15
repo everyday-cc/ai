@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "A creepy collective of nine AI-based robots showcased at UN news conference"
+    excerpt: "As one of the world's leading institutions for ICT technology, the ITU is naturally highly interested in artificial intelligence and the increasingly prevalent new generation of"
+    publishedDateTime: 2023-07-10T14:17:00Z
+    webUrl: "https://www.techspot.com/news/99335-creepy-collective-nine-ai-based-robots-showcased-un.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 82
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-10-image-10.jpg"
+        width: 2000
+        height: 1308
+        isCached: true
   - title: "UN Tech Agency Rolls Out Human-looking Robots For Questions At A Geneva News Conference"
     excerpt: "A United Nations technology agency assembled a group of robots that physically resembled humans at a news conference inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence."
     publishedDateTime: 2023-07-11T07:40:00Z
@@ -41,6 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AP, Open AI agree to share select news content and technology in new collaboration"
+    excerpt: "The Associated Press and OpenAI have reached an agreement to share access to select news content and technology as they examine potential use cases for generative AI in news products and services."
+    publishedDateTime: 2023-07-13T13:05:00Z
+    webUrl: "https://www.ap.org/press-releases/2023/ap-open-ai-agree-to-share-select-news-content-and-technology-in-new-collaboration"
+    type: article
+    provider:
+      name: Associated Press
+      domain: ap.org
+    quality: 15
 
 secured: "tslBx99Z9mCZFle9Pffrbtgd0E6yaz+F2ocDRn6ulc5bfZaACTuf6zDB84w5FE7+xjL6F1CTR0Ycg7d8Pdvoh5QnEuhrqtdRsikVPt9wfKf5N4jkxDtSdm58qpQ3xSRdKMoRJ6U4KKARlMZKriENYS00VdzaKIniINN0IQybqt6JYq+EnpAV6qoaoUDBmsGzmAQBEWTsE5LejkHBW+n7eBs8MT3p0VvHH6808u5R8AX0q2mjnK1wQPvL0pbfAtQK+XA+FWaXZDllZ0m4+leMsiOB4VWaft1/3+/7uSw9m9Uaqom1q14uNs079xHhee0Isr4KCLwmJCVetLxv2zpAkQPbYHB61cN9SxseMksbttVt0GGIBHbMY+2D2fD8hhBG6odq+6DSLsd7hwOQDwusHN0PIwsvxhpVeKVPHV68jH400MkGQ/5F0BTt+FcOqPwkKB0AYdfarv9dYM22hxy/9yoYdLYHxXGiwxB7YFVB7rbMED4vJ3PrYK/zGslUtrh7iMhp+ibaywQ57kjom4z+6A==;/7fAhTJUNfuPkhWUnNtOPw=="
 ---

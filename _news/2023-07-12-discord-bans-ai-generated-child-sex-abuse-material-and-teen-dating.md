@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/02WIBj3c88ILOeyym8bZmf3/hero-image.fill.size_1200x675.v1689153934.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Navigating data governance, transparency and trust in a generative AI world"
+    excerpt: "While generative AI is democratizing analytics, it's also adding a new level of legal complexity and trust issues."
+    publishedDateTime: 2023-07-12T21:11:00Z
+    webUrl: "https://venturebeat.com/ai/navigating-data-governance-transparency-and-trust-in-a-generative-ai-world/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR7411.jpg?w=1200&strip=all"
+        width: 1200
+        height: 684
         isCached: true
 
 secured: "hozSSl2SQwu/66HxvH8e8DTTzaPcnX8haW3qXC8nNd9NoYszdX2QEWXBY1hvCTCD5EwssXECo8tVYUZDGqY4mg9to4Ew2Ap46NtV8VyZWc0hPM9FhBT6yQNJWWXFNKTR+0BTsi9U1a4QSEwx28i6iYUkdp91mzH6zmIVrnPIITjYScy9ZGxK5uaje0yp5INEeIAV/mFXF5kzi8jzumiwiKbFTimi12mK+8NXecKMIPue0FQOZuuDnREs0hwvwlroTnoCpuO59ZUwjvB0wXujvBxW/Hiy/aTCImuEgIwqQ/iSx2Is/14P09HfN+eVOwiA34hICVn/QyfQ4wZfjlV2slcopn2r86/da1ldXcq5oJAZFhZp8NyNYLGONFaAcfkFB8wVYu3/UZn5dj/qJs3qWi+VtHh7zvHHOi7QnRI27VVYSGMtr/FwsSri5DPaBsNBq2Z9TJoUL/B8jQcba3AV17iGtxXBKYNECNWABfRYNpR+p2Bk/2ZviSijyFnqjSogk0CDr86F5mNyznEbgASRww==;jDkuclk03cVePEYicMXlbw=="

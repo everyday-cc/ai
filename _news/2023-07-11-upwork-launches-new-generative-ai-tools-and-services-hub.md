@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/upwork-launches-generative-ai
 webUrl: "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Crawlers, search engines and the sleaze of generative AI companies"
-    excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
-    publishedDateTime: 2023-07-13T15:32:00Z
-    webUrl: "https://searchengineland.com/crawlers-search-engines-generative-ai-companies-429389"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 21
 
 secured: "snYeBkwYYsqcRIfobbIN1O9zd0xy/up9J2BgfduyJ6ZWYNEj6cDs6MI3jHfZI3lDx6XDklqbzN+H72Ckp28dbjjGB5wNkLUnbuM7auvc1dYmZhdb8Jd35ftTS8cR9vU2R0OXDKrqV4o1atkskAPcO2lOQy30TzYrnwDImlXrtEGOs1tq/ue/vuUsD9N04LTFTLoW4YM6XJBI3c7JWdzag9ng+PGbpX37uFLRDx/ZKhjgxEt1uj5CpemRTOFwSHYbtDMGSr5xyGF5U24aE6UCKDA0y2p4z2Hy5LPaftROufhocnROfm0U+a+e4YocEWN62gDKhKJgFMoyCpYwuNvBkwl3YW/BG3zN7vxbWUxDWhYVm+4pdxDEvAvxeFXYwptUuO2XKRR9yYrcDLYRTYzONq8AtBaTvDdE4fxTlMAAKRHQg3CSDMSOpu9R/rXCbyQ9vKqmdfdZh9REyAJBRE1giqVgyc8Hdqyfrh2vVE35ewzgASu3Iy5VVkBgGqrohigvgA8mltCB2nBD4r4Xy9T17w==;dmBZJbnXrkFH8BNIPyfk5w=="
 ---

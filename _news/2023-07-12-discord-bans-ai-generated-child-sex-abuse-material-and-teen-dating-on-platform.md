@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Navigating data governance, transparency and trust in a generative AI world"
+    excerpt: "While generative AI is democratizing analytics, it's also adding a new level of legal complexity and trust issues."
+    publishedDateTime: 2023-07-12T21:11:00Z
+    webUrl: "https://venturebeat.com/ai/navigating-data-governance-transparency-and-trust-in-a-generative-ai-world/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR7411.jpg?w=1200&strip=all"
+        width: 1200
+        height: 684
+        isCached: true
 
 secured: "ZxUGoYwBOy15mPIOdzzTZRPth6szZttC2mUvb05tRXDPzjLxWzg1ipWA5VPh2qeoRGFXvx+VTngUYhXsy+z7EyreXchWxNA5SbdEwV1ZCnmzVsjfeDOpWSWy7e/CpaygGexgflKDFFgOMk5KPyZAss+qmVevBCymkjx71pdXMd38JeBEQSsOZ6kbtfqdr+8uyjAvLrkOR4nIXokBLr7xmHojvFwpC84tMyCwUfKX+6lPOrO2DEFMETmgXhra9Yp+dhqbYdCPO4EWZUG4f7f7Gmcn5HqffIRdkeEV0s1J57d/hkl6JKVw13efQ5Iba8zflAiMbMJqk7jgK2XLL6zFNZg5Ay0D4MSJ9cVW0tAvTwtAMhGsNWamQhOxZKMQHZXOwsqRJugIK4nHEshjwg9risS+gqgjBWCNIqPjdgk7Szwi7vWW2H6QlN0DaofcflroG0Bmh+kH6qpfdK+MtyUVqzC1RWQa8zS0NLzz1gjFnDpQXY1OhmOuyv8tdC+HwrGXMBKbZr376HXz8JbC6Z7jnA==;aoWWz8WGNKCLX8QEerAaLA=="
 ---

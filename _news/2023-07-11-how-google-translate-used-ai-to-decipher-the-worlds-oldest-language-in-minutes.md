@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/how-google-translate-used-a
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/how-google-translate-used-ai-to-translate-the-worlds-oldest-language-in-minutes-10938201.html/amp"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/j7xWIjU2vpPvmgjtQF496l0oHro=/0x43:2000x1085/1200x625/media/img/mt/2023/07/languages_illo_horiz/original.jpg"
         width: 1200
         height: 625
-        isCached: true
-  - title: "USC researchers use AI to help translate Bible into very rare languages"
-    excerpt: "an AI-powered technology to help streamline the highly technical process of biblical translation. Combining Hermjakob’s long experience with natural language processing technologies and Mathew ..."
-    publishedDateTime: 2023-07-10T10:59:00Z
-    webUrl: "https://religionnews.com/2023/07/05/usc-researchers-use-ai-to-help-translate-bible-into-very-rare-languages/"
-    type: article
-    provider:
-      name: Religion News Service
-      domain: religionnews.com
-    quality: 54
-    images:
-      - url: "https://religionnews.com/wp-content/uploads/2023/07/webRNS-Bible-Languages1.jpg"
-        width: 1600
-        height: 705
         isCached: true
 
 secured: "xsT4dxPFPXcW416/dNcxwfVWXLoV2s9BZ6m3xh9YdnYpljGgfcsF7Dyw5bw6zUu4L0t73WM4NaYXxOWwenPoUXmpRyXhGGl9Cugp+JOwdC246YAFE4sd1pQk8AS2X7NxuP0OHxiU2ZgSoX4nT94w5o7mkzgpiSsnJfIuRnldikireTZIVMxp6UzPBZz5qJ5eY8cLTZIulgNDfzEmbXXoBmdh1HdAoUSQKutFPVrqN9wXgaAl+fD1iciowXUqxh/IAu3lIcQ4pAZtccwLpNtb3fNCa+J7ZxWdy9YpO5GgycRuWqe6ShtaLc5N/7xAeUEwgqfvWtxRhX61Wb3/jhxvvqRtVbHxm54tempmbLN1ZFFDTSZewhH2Mq3DL7HP+SmBAQLacur3yG4RhFekCKmu4+sj8JTlIiIXj/1RmJqVf++vED1Oq5qAvd08LB913T0/BM6yJDayqaUTHhgrReBU/k7/Y5jk+LFUzkyQuuJu4eJx+PFaaCsj+3T0t+yGu0+tUw2EucWzpFcghmplffCTjg==;97vm57+jiUHxsUcCUXV1pA=="

@@ -33,20 +33,6 @@ related:
         width: 375
         height: 282
         isCached: true
-  - title: "FINEXPO Brings FinTech Industry Leaders and Enthusiasts Together at FinTech Festival Asia 2023"
-    excerpt: "FINEXPO, the world's leading event organiser, announced today that it is hosting its first-ever FinTech Festival Asia (FTF Asia) on 27 and 28 September 2023 at the Royal Paragon Hall in Bangkok, Thailand."
-    publishedDateTime: 2023-07-10T10:15:00Z
-    webUrl: "https://financialit.net/news/fintech-startups/finexpo-brings-fintech-industry-leaders-and-enthusiasts-together-fintech"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 12
-    images:
-      - url: "https://financialit.net/sites/default/files/bfsi_11200x628-px.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "China’s Hundsun Recovers After Fintech Firm Refutes Rumor That Ant Will Follow It Into Financial Software"
     excerpt: "Shares in Hundsun Technologies halted their precipitous decline today after the Chinese fintech software developer said that rumors that Chinese fintech giant Ant Financial Services Group is preparing to branch into financial IT software in direct competition with Hundsun are not true."
     publishedDateTime: 2023-07-12T07:22:00Z

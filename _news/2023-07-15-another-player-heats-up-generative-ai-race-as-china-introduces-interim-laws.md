@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/another-player-heats-up-gen
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
 type: article
 quality: 89
-heat: 129
+heat: 131
 published: true
 
 provider:

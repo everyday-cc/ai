@@ -29,101 +29,110 @@ images:
     isCached: true
 
 related:
-  - title: "Are We Going Too Far By Allowing Generative AI To Control Robots, Worriedly Asks AI Ethics And AI Law"
-    excerpt: "Generative AI such as ChatGPT is increasingly being used to control robots. This bodes for concern since the AI might produce faulty instructions and endanger humans."
-    publishedDateTime: 2023-07-10T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/"
+  - title: "Generative AI is coming for your job. Here are 4 reasons to get excited"
+    excerpt: "Any discussion on the impact of generative AI usually comes with a debate about the potential loss of jobs. But while some estimates suggest AI could lead to the automation of more than 25% of jobs, the research also suggests that fast-emerging technologies could lead to new opportunities for employees."
+    publishedDateTime: 2023-07-10T14:55:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ab64847d894a41bf534a0b/0x0.jpg?format=jpg&crop=2557,1917,x116,y106,safe&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/b0072dba480b7e46c6d881d98d732b4aa5678a55/2023/07/10/d5970d20-a245-4559-947c-0e9f787c0604/gettyimages-1258096414.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 900
+        height: 675
         isCached: true
-  - title: "How to avoid pitfalls and navigate the ethical landscape of generative AI"
-    excerpt: "We still have a lot to figure out. That was my impression of a Transform 2023 panel that drilled into the ethics of generative AI."
-    publishedDateTime: 2023-07-12T15:30:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/"
+  - title: "Will Generative AI Take Away Startup Jobs?"
+    excerpt: "But, jobs were still more or less safe. However, today, with the popularity of ChatGPT and generative AI and the rise of startup ecosystem, 'AI taking away jobs' is no longer a debate inside the four walls of institutions, it seems to have become a reality."
+    publishedDateTime: 2023-07-13T05:31:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/will-generative-ai-take-away-startup-jobs/455743"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/ethics-3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 769
-        isCached: true
-  - title: "A creepy collective of nine AI-based robots showcased at UN news conference"
-    excerpt: "As one of the world's leading institutions for ICT technology, the ITU is naturally highly interested in artificial intelligence and the increasingly prevalent new generation of"
-    publishedDateTime: 2023-07-10T14:17:00Z
-    webUrl: "https://www.techspot.com/news/99335-creepy-collective-nine-ai-based-robots-showcased-un.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-10-image-10.jpg"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1689225286-pexels-ono-kosuki-5999786.jpg?format=pjeg&auto=webp"
         width: 2000
-        height: 1308
+        height: 1333
         isCached: true
-  - title: "Navigating data governance, transparency and trust in a generative AI world"
-    excerpt: "While generative AI is democratizing analytics, it's also adding a new level of legal complexity and trust issues."
-    publishedDateTime: 2023-07-12T21:11:00Z
-    webUrl: "https://venturebeat.com/ai/navigating-data-governance-transparency-and-trust-in-a-generative-ai-world/"
+  - title: "Why learning the language of humans is key to enable generative AI for automation"
+    excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
+    publishedDateTime: 2023-07-12T23:42:00Z
+    webUrl: "https://venturebeat.com/ai/why-learning-the-language-of-humans-is-key-to-enable-generative-ai-for-automation/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 65
+    quality: 62
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR7411.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM1294-e1689200748872.jpg?w=1200&strip=all"
         width: 1200
-        height: 684
+        height: 799
         isCached: true
-  - title: "Applicability of AI and Robots to Nursing"
-    excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
-    publishedDateTime: 2023-07-11T15:38:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14151"
+  - title: "Should I Use Generative AI for Hiring?"
+    excerpt: "Generative AI like ChatGPT can enhance, not replace, human decision-making like any other hiring tool, according to industry experts."
+    publishedDateTime: 2023-07-10T18:05:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-artificial-intelligence-for-hiring/"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 47
+  - title: "A new dawn for generative AI shaping the business landscape"
+    excerpt: "NEC's is revolutionizing the customer journey with generative AI solutions, capable of adapting to technological changes and business value."
+    publishedDateTime: 2023-07-10T23:59:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-ai-business-transformation-leads-to-an-unprecedented-leap/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
     quality: 39
     images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14151_16890894716486738.jpg"
-        width: 1000
-        height: 563
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/NEC-is-redefining-customer-experience-by-creating-customized-generative-AI-solutions-that-can-unlock-novel-business-value-scaled.jpg"
+        width: 2560
+        height: 1703
         isCached: true
-  - title: "Meta Launching Its Own Generative AI To Compete With ChatGPT and Google"
-    excerpt: "Meta (Facebook) is all set to release a commercial version of its own artificial intelligence model in line with OpenAI's ChatGPT and Google's Bard"
-    publishedDateTime: 2023-07-14T10:26:00Z
-    webUrl: "https://www.indianweb2.com/2023/07/meta-launching-its-own-generative-ai-to.html"
+  - title: "Generative AI Eating Away Jobs: BPO Sector Isn’t Scared"
+    excerpt: "With nearly 4 million Indians employed in the BPO sector, the impact on jobs could be significant due to generative AI, however, industry experts think otherwise"
+    publishedDateTime: 2023-07-11T06:22:00Z
+    webUrl: "https://analyticsindiamag.com/generative-ai-eating-away-jobs-bpo-sector-isnt-scared/"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FT0Uew9kxKabym8o1iIGycg4mUfByuIM-giCSBwKkP7OP-Bj3RXXVJDZWlS9IeMlJiOdv3JX1OxDwZts4h5Ercs9wZtxtra1TIbWPyea2ObKtAbB1ujyZxFpzqv2swuhif7VfAAT6pRzusnDI3Fy2T2bOGDHWCM51WxnYM57tMV5WU3QJCNIxyvjATs/s16000/Untitled%20design.png"
-        width: 1000
-        height: 620
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ai-bpo.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "How to Harness Generative AI in Your Marketing"
-    excerpt: "Both agree that AI isn’t likely to outshine the human brain’s unique ability to take leaps of intuition or engage in truly strategic thinking. Nevertheless, AI’s impact isn’t trifling and needs to be taken seriously,"
-    publishedDateTime: 2023-07-12T08:45:00Z
-    webUrl: "https://slator.com/how-to-harness-generative-ai-in-your-marketing/"
+  - title: "Nick Clegg: Openness on AI is the way forward for tech"
+    excerpt: "But, ultimately, openness is the best antidote to the fears surrounding AI. It allows for collaboration, scrutiny and iteration. And it gives businesses, start-ups and researchers access to tools they could never build themselves, backed by computing power they can’t otherwise access, opening up a world of social and economic opportunities."
+    publishedDateTime: 2023-07-11T04:00:00Z
+    webUrl: "https://www.ft.com/content/ac3b585a-ce50-43d1-b71d-14dfe6dce999?shareType=nongift"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 36
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "Generative AI revolution: Here’s where theCUBE analysts see the tech going next"
+    excerpt: "But with summer tech events season in full gear, examples of AI integration today are around virtually every corner. A year full of hype kicked off with a massive amount of attention and buzz around OpenAI LP’s ChatGPT setting a record with an estimated 100 million monthly active users in January,"
+    publishedDateTime: 2023-07-10T18:24:00Z
+    webUrl: "https://siliconangle.com/2023/07/10/generative-ai-revolution-heres-thecube-analysts-see-tech-going-next-generativeai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 13
 
 secured: "7BdCGAwydMn7YCiBAGZVKg7V6Anhv7EqlSD+jr4vp4lfCo5thZtNk2v61lul9s7fsPYiC5gS2WAFYuUS76TgBUHS6FNpI7OgEDSFrCyRcl65Gjtx29QOSBEwRog/h1rg7S1zb1PRQHxPAePpXLH7T6yLs4t0Xp/47lHsdhgqbfPVlkk4pwr+jL1uMeUjzYlPeywaBmzFKYt+HsuhQe8djRghhq6hj8mWH82nLAKrKxsYUs5PRqDS4wzOTdwMkYQ3Z5INImxg5VOFej4DI+tWqpC6NZCCNafABAUt5QevIF5cTimbcY98CZXplmZVGiSOVL/f6YBAf9eYI53OsH+oo4KefGL12j1m4iKfl9n9tFmmCy9YTyGJ0HGPCrnmkDsYiFJsZoBii0a2HsJoo2+b7ViDHaMRoeO6ey5JT+ovqj6mix7vsWrnxxfG9hqs4aADSdxlT2rUlilug9OUt/A28sxBphIyL67hm0JBn5EjPA9HUsy7ELt9OdvEqzgx6p01KxT351zgyZsE0XEXZoIBhA==;Jr3Bkq87iPPWQQ9SQ0XTlw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-adderall-targeted-advertising-opi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

@@ -39,6 +39,20 @@ related:
         width: 1199
         height: 828
         isCached: true
+  - title: "What's all the buzz about AI? Here's what we know for Jacksonville health care"
+    excerpt: "The UF College of Medicine-Jacksonville has adopted an artificial intelligence-based computer software to use in breast and prostate cancer diagnoses."
+    publishedDateTime: 2023-07-14T16:34:00Z
+    webUrl: "https://www.aol.com/finance/whats-buzz-ai-heres-know-090516223.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/GMmXFi1UBsPd4RuPufI0UA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://media.zenfs.com/en/the-florida-times-union/b1ee2c0c7896e6a31ee311abfae25b82"
+        width: 1199
+        height: 828
+        isCached: true
 
 secured: "yALb+kSXX9hQpcrPRVKzOX/8zH146Te/ToA8yvwFCFyDSWYaxDlfKVLSIzWGles6/rR9SdYccyWvqgShWQODQGT9/ymRgnZ6/S33sXOfRkP9OJ3TXaWnilHynp4F10yJT/uC/VIABQLU4oYi/0jPObhtktmcz4gIJ9a2iI0EgzaCBNL6gbdG306lWs7gZ96RCPn0knYiW34gWTeTqLb/RirwzpAKV4kJxZyQtP0uLLE7Bytn+89CedfxG6CxhjbLLdpIUKBro+CqDCbMmhKur2a6aT+R/fOfijyiTRW1aXrIPgNgRvyr0xTH0fsNhptTVlcHfTEUppsmz2XTPZwXMKlnpk8AZ1CdkIjccwKeooCFfFH6s5BanEDrFA1K4YNvRNqp975H3nqezEnJkyY7HO7wha3bHg4oxWB5QiWtl2JSiFuT7hOoJqKmHpoLgF3egbU8bmeKvfX43lmnnc8lDhYqUZ2Fh17ChAr25X0p+DRXaEUQb1wnByrVSuZ3zMGdfJv3KwJ0Fj2DR/iZ1cM42g==;2CVtQwIfcrpZNUFHYIPLbw=="
 ---

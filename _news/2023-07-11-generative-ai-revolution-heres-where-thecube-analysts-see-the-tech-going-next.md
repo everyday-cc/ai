@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "NTT’s CFO says energy consumption and pricing are top challenges for enterprise generative AI"
+    excerpt: "The telecom giant is focused on research to solve the growing energy needs of edge-based computing to power local AI systems."
+    publishedDateTime: 2023-07-12T21:41:00Z
+    webUrl: "https://venturebeat.com/ai/ntts-cfo-says-energy-consumption-and-pricing-are-top-challenges-for-enterprise-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM9993.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Should I Use Generative AI for Hiring?"
     excerpt: "Generative AI like ChatGPT can enhance, not replace, human decision-making like any other hiring tool, according to industry experts."
     publishedDateTime: 2023-07-10T18:05:00Z
@@ -112,22 +126,6 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
         width: 619
         height: 377
-        isCached: true
-  - title: "Enterprise hits and misses - generative AI wants to take your job, but will it? Edge computing has traction, and (almost) nobody likes Meta's Threads"
-    excerpt: "This week - generative AI is coming for your job - or is it? Fresh data sharpens the enterprise AI pursuit. Informed Buyers look for new sources of influence, while edge computing may have more customer attention than AI."
-    publishedDateTime: 2023-07-10T09:32:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-generative-ai-wants-take-your-job-will-it-edge-computing-has-traction"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-generative-ai-wants-take-your-job-will-it-edge-computing-has-traction?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-generative-ai-wants-take-your-job-will-it-edge-computing-has-traction?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 20
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
-        width: 411
-        height: 292
         isCached: true
 
 secured: "QOHOgXAeHW4Djs0ll6DxUkpiqNhqXvjWiXMf7gV79N91VmkNleVOmgp1GuN6UuDRS6jzv/lWzc8fGCMvBgFShkayu4L3RCnR6Ch3TbByHQ1o82Gs8F3Ftkhv+ZdqCOzBv739Dymh45pV9sYTLN9vw4xZEbtFqGIA8GNaYx62T+jTAIBhH1vqg/pmuJXeSBREDX48te9EQc00xIgsNRwznIQ0vTmkt+4wGqXau3VQdlJmJGaUUyxbNZSoLcSU8bUuu6iS+Lx/Cs33uOFSNQSCTus6gSBm5FTuX4pY5OlqCpWuQ1ONw5FzodNLccfPrdLB0NaDMI1vRb73nptWO6WohgVR0C5iXRD2WXKg6Nut0BjxNDbtTvCvn7FGkzpzptiZtNLxYw3xhdG/N1KnINvluCkKKqmVBuzg5HlcxBBWaTxX0bpsOoDtBw76hN1/DDGA8CjAteJDlkJP56B73ev+Uh4dObc7H/kLinJ8uCN7119zpRJ3ftZIEfIpMvz+Xw3CGhFeGA2C0ecyRxyO2iA0JQ==;QK+wI5Sw7SRhZzzXyhNkrg=="

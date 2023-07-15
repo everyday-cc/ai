@@ -130,36 +130,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google testing new medical AI chatbot that can answer your medical queries"
-    excerpt: "According to the WSJ, an internal email that it was able to access stated that Google thinks its modified approach can be especially useful in nations with “more limited access to doctors.” Med-PaLM 2 was trained on a selected collection of demos from medical experts,"
-    publishedDateTime: 2023-07-10T09:52:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-google-testing-new-medical-ai-chatbot-that-can-answer-your-medical-queries-3163323/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/google-ai.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "A technophobe’s guide to AI chatbots"
-    excerpt: "While the risks are real, it’s becoming increasingly clear that systems like ChatGPT aren’t going anywhere. Are you ready to use them?"
-    publishedDateTime: 2023-07-10T09:36:00Z
-    webUrl: "https://www.bostonglobe.com/2023/07/10/business/chatbot-how-to-guide/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 41
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/lInsVZvcgByOEC5BwwZlXcUgmlo=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JR4WWV5YKFH3BKCY7QYAYM4ODE.jpg"
-        width: 506
-        height: 325
-        isCached: true
 
 secured: "c7GmfZmsQrlykYZ9KP683kG3SPUrWkH3txg1Wy6Av4nhgi4TIuCXa0TbcFwxCWHMzHnw16tZIGHdHAN27ccPlP/fyXoHBA+bV36BaeiFVS8+I016cQ/hSPDSPi6N75lsyE8LvxEmH5Qr1daIfqWso6Amv/Tsd/Dpdgmc12zG/IBJ+/Les+0Qkaksd+Rw6zJCnI0N+ivG4JQOjBnrRumVhN7NrBMupXD9OW3PxMLklcRtmSgDgvA5DY7voH5mlt/5BW72uD0PnTI9H6GBq1fQJH//+JPXpwcAUbJd+soVbTRSt1u2Z/jCp4R74Nlj5+wUkILNS57vbuj5N/XIKGJfNKOCeHo7Yd4ZCKjFZMXygQaBK8zjcYx4khQc8md3IaXBG6+KaYNdPbwEKCxmpUksCyBtRD5WYLindhIXWGyldfporZUPzoHe5d5EXSdO+zMJsjPniZ7Fb/Q1OIyXFDM92qP2JUbz+Qll9u7txfcylRWnkoDDWEwmoDPRg7YA9s5zID7RMXdQ8IO9z1jdonaQwQ==;J2pQkIZc34hMAzyagEzTmQ=="
 ---

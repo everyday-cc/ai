@@ -48,20 +48,6 @@ related:
         width: 375
         height: 282
         isCached: true
-  - title: "FINEXPO Brings FinTech Industry Leaders and Enthusiasts Together at FinTech Festival Asia 2023"
-    excerpt: "FINEXPO, the world's leading event organiser, announced today that it is hosting its first-ever FinTech Festival Asia (FTF Asia) on 27 and 28 September 2023 at the Royal Paragon Hall in Bangkok, Thailand."
-    publishedDateTime: 2023-07-10T10:15:00Z
-    webUrl: "https://financialit.net/news/fintech-startups/finexpo-brings-fintech-industry-leaders-and-enthusiasts-together-fintech"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 12
-    images:
-      - url: "https://financialit.net/sites/default/files/bfsi_11200x628-px.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "aVUVrU9GESM0upjETD/4MMKY4WLtN/XoKrPIljQipcdfgANUO+/lROMjX3RR0wS8sjUoWiWsd6SYDUn90q4dFkbgelo8oVseR0NZMzx1HFeA9ZciDbZ4ZZ4vz0O9+G3ojY4nHRuzjqB1rxC9+GJ4IW/Qmq00oUvOXvF4hC2cLUcV1vF7Vfx3n7/J848lpeBMeLy5oI8Ij+GvxLX2MHVBKJE4F1clPHcdroVnxxznbSf8d404QR10m9XIUlE0ioEvSOC4LLkTuBNq4l/M6vdVAUv/VIWtnHcgj3B9zUHZpoctrVB/cYHHVOkoWcshi6Lx0CLr4zWZ/Jz9+DmqpODdh2txbmgxmtxurcYh6Lrd31mhQ5qpw2LY6Y79xatj1WbwsKUANBueg9GxT6TMA+vlPIj9GdKNv5mbOaaSkGaUGuy1+ObFkQlkzAFbRouZGG2rdAGqekaMVc52xJ+O0FbIvJttu9iywZojfip9/kvVcgnsukKzcA/22yG1gITicfLyRpMs69MSHJ3duxsN9Fas8A==;/LhLOPR6zUsHzBiV9Esz/Q=="
 ---

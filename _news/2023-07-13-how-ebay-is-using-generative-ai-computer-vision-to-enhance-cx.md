@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-ebay-is-using-generative-ai-compute
 webUrl: "https://venturebeat.com/ai/how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Mastercard, eBay and Capital One talk equitable generative AI and innovation"
+    excerpt: "The Women in AI Breakfast, sponsored by Capital One, kicked off this year’s VB Transform: Get Ahead of the Generative AI Revolution."
+    publishedDateTime: 2023-07-15T02:59:00Z
+    webUrl: "https://venturebeat.com/ai/mastercard-ebay-and-capital-one-talk-equitable-generative-ai-and-innovation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR5068.jpg?w=1200&strip=all"
+        width: 1200
+        height: 669
+        isCached: true
   - title: "SoftBank to build supercomputer for generative AI"
     excerpt: "NHK and Nikkei reported that SoftBank, the telecom subsidiary under SoftBank Group, planned to invest JPY20 billion (US$140 million) and use Nvidia's GPU to build a supercomputer for specialized applications, which will have the highest..."
     publishedDateTime: 2023-07-11T02:09:00Z

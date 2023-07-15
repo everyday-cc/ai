@@ -45,20 +45,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "USC researchers use AI to help translate Bible into very rare languages"
-    excerpt: "an AI-powered technology to help streamline the highly technical process of biblical translation. Combining Hermjakob’s long experience with natural language processing technologies and Mathew ..."
-    publishedDateTime: 2023-07-10T10:59:00Z
-    webUrl: "https://religionnews.com/2023/07/05/usc-researchers-use-ai-to-help-translate-bible-into-very-rare-languages/"
-    type: article
-    provider:
-      name: Religion News Service
-      domain: religionnews.com
-    quality: 54
-    images:
-      - url: "https://religionnews.com/wp-content/uploads/2023/07/webRNS-Bible-Languages1.jpg"
-        width: 1600
-        height: 705
-        isCached: true
 
 secured: "4Nl10azqbPhcPVIA8INGdkTC+ZrHopfTPAInLUPgyvlaOkXDNXexqyepY5nFi+idsgYdzWTTMphvCZlDncvdwnSRbPUq7e0/hWvo1tQWd+LLJTZAd2EalIfP5biejzoXLqwx8Mpo0D6M823QFaFd1nzil6ag0Eo5N2u4SCIUu1iSSHdfnJFlSqCBYiUc192/7xlsiB2q+jQcAoQEmKwZMNLxYm2bQNeGDkLm4JNFaXpHsK5jzQXB1UM3R5BBXMNQy7oytSzmZMPQ73UaQNBAxcO4ygI/ztqpTZW9S8wG7Ac6SqbdpDZ6NQpD2kEorhK12ZlXOGM3fpSlN+VV4mhqJJWhxIOIkLYAJoFniuBQqL7QmI8f0sc9qkvNQralyqu0dpY1jhN7mZpeYZ67ZJ/sj/pEhMv7d+TUxPcoU62gQsM/XcwwGSVwpbZ9jRwWliB2L6RY38T4QR71wpW6jNrUjeaUEqcd1xSOMqUZ5PEKYC396FelL18E4IomFqi5yHUyV4f7kNcgsHcoMC/VatVSNQ==;nimbaAkjfo34fhsRXdZ+5w=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Is AI Taking Over?"
 excerpt: "A leading scientist argues that human beings are soon going to be eclipsed. The crux of the human mind is not intelligence but self-reflection, which often involves inner dialogue. A (G)I is passing the Turing test; we should turn to the Hamlet test: Can A (G)I originate a soliloquy?"
 publishedDateTime: 2023-07-15T00:15:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/double-edged/202307/is-ai-taking-over"
-webUrl: "https://www.psychologytoday.com/us/blog/double-edged/202307/is-ai-taking-over"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/double-edged/202307/is-ai-taking-over?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/double-edged/202307/is-ai-taking-over?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/double-edged/202307/is-ai-taking-over"
+webUrl: "https://www.psychologytoday.com/intl/blog/double-edged/202307/is-ai-taking-over"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/double-edged/202307/is-ai-taking-over?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/double-edged/202307/is-ai-taking-over?amp"
 type: article
 quality: 57
 heat: 57
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "t0fJ/TsVyb+Ut1T4QyhpcOoXvLBxLOkntkTGmq8JRD2ZAczn2u76LDmVyOcQvjYuWoFRurdyGuQWi4T5gV/Gf2XxUlUVDAPKnWDMNg+UFCanq4VsaXHPRCysoQ/FgrPWHbR95BTrkSD8wfnAVs+3l9Xrh9xt4w3N/kVMmeI171GXX4YGJY9zqSAy/BBp+WGbbVenyXtnSeVdmpgy8yaVSHy/PfMTP2VItIwNiXhBBmlyRH6TYwv672KtD/NX1leHkywLtm1X6Y+zcC1Zeyy4ooE9jIZwZqMPq18sqdFR+RJcPTipcrc9hk2XDyMzsacRcYeMEg5OKlgczyEG+PEqDWAQcH3X2jZ4xvHHqsqPsGg=;NQbZ69DE1hEi0L6nFyICGg=="
+secured: "b1r1IlTUj7lEf8P2PMTYdqfZ6RyBzFUeWkaoRirSQAj7o03w8TYNEf/T5eh0AZ7Lx8nNYom9OSHplwHGROAuof0qdIuclsZimfiNmla6jRXH/4+8VafpwLTgl7piXJUt6rUsu+g16c2hy35JBAVQREcI3jEOQtb2lBgsazLtl6/g/jVqETVV1fB8C9pTHCXdBI+bDtQlEs1P/1Q1g8sZL2FX+2D1+iXkmM5Ai5wYYwWyMN11UsxaNOEZWHUk5PY3aO9hDf1TK3OEe3bMg8ozphfLg/HAeKax1WePZfnBc1YxQmqD6csKk6+xVzLI1jotHY2kZsyBP3UEPIHleswkpwxXXYUfoC0PeF42Wkj7w3M=;u2w9q6wFHXSUWwhladvPPg=="
 ---
 

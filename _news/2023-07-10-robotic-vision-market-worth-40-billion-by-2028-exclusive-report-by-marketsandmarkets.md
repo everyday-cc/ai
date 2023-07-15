@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/07/10/9845236.htm"
 webUrl: "https://it.tmcnet.com/news/2023/07/10/9845236.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Artificial Intelligence Market: Massive Growth Expected In Coming Year 2028"
-    excerpt: "Artificial Intelligence Market 2023 Will Give Report Analysis that rapidly arising as one of the [ICT] Sector in the business, by Type (Hardware, Sof"
-    publishedDateTime: 2023-07-10T10:48:00Z
-    webUrl: "https://menafn.com/1106575659/Artificial-Intelligence-Market-Massive-Growth-Expected-In-Coming-Year-2028"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?55488"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "mQ1v6HEVi0wkvUFApgxia6kFqVVXO64MfiI8q1ZSdoBB7WyhkH0MeKPTR/HOy2K/daV+yB2YTA49RkEz++XN2YXWGwRwY+HTw2bjayIY2xEYc8Yjn9GtIsgUfB7kPKJ52spP4lAl0hJUzfZGH2Uxc/b0JoQBFoN6hYqZyWbiis5Bpd9YsC2io8thQcg+mfJwcl5OzJ0WoHRT/KNy2d4W7iq3I9Ol6G+CcdnsQn5zuoOzdxu4UbbDLVmGoZdffiOBHMDvkYr9nHI+MaNFAkJugiSeHL1kBlvWrZE3X38+gDnAogYlT3w9a0TWLyKX9+p6ErShnzyCRT7RlgItdWXQypvwn2Yf1AnAbIGpaBZOC3ctaSTvfu/AJajpn+PEhhgqE/GWoe6aDv31brBp5ObuHZoXbaYCq8lZnETGGhsYPHuJiR8HwsLgfd17y+huBXdgBOI/yb4vv0/xba8BWlRlrz9B+PugGR0zgNukRlP7ldIuz0EhAiK9zOHySn0pLxADpasbjzugfL/WviH1t+14hA==;EAyqS5OAJvw3JVgCpfo7sg=="
 ---

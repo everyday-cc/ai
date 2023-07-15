@@ -25,101 +25,125 @@ images:
     isCached: true
 
 related:
-  - title: "Are We Going Too Far By Allowing Generative AI To Control Robots, Worriedly Asks AI Ethics And AI Law"
-    excerpt: "Generative AI such as ChatGPT is increasingly being used to control robots. This bodes for concern since the AI might produce faulty instructions and endanger humans."
-    publishedDateTime: 2023-07-10T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/"
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "To begin with, let’s just make sure we’re all on the same page: what is AI? Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very ..."
+    publishedDateTime: 2023-07-11T16:10:00Z
+    webUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
+    publishedDateTime: 2023-07-13T19:22:00Z
+    webUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Antidote to AI hype"
+    excerpt: "AI is a powerful technology that can have significant impacts on various aspects of society, such as the economy, politics, security and ethics. Therefore, it is important to have a check-and-balance system as AI expands exponentially to ensure its innovative but safe and ethical use."
+    publishedDateTime: 2023-07-12T07:40:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/07/202_354763.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Daniel_Shin_200_4c6010f899cff.jpg/dims/resize/740/optimize"
+        width: 740
+        height: 870
+        isCached: true
+  - title: "Bill Gates isn’t too scared about AI"
+    excerpt: "“The best reason to believe that we can manage the risks is that we have done it before.”"
+    publishedDateTime: 2023-07-11T17:09:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/GettyImages-1236298089BW.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
+    publishedDateTime: 2023-07-10T19:37:00Z
+    webUrl: "https://techcrunch.com/2023/07/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 51
+  - title: "Google Says It'll Scrape Everything You Post Online for AI"
+    excerpt: "Previously, Google said the data would be used “for language models,” rather than “AI models,” and where the older policy just mentioned Google Translate, Bard and Cloud AI now make an appearance. This is an unusual clause for a privacy policy."
+    publishedDateTime: 2023-07-10T16:44:00Z
+    webUrl: "https://gizmodo.com/google-says-itll-scrape-everything-you-post-online-for-1850601486"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 49
+  - title: "4 Things Job Seekers Must Know About The New Role Of AI In Hiring"
+    excerpt: "As more businesses adopt AI recruitment tools, job seekers must understand how the technology is being used and the ways it might impact their chances of landing a job."
+    publishedDateTime: 2023-07-11T12:27:00Z
+    webUrl: "https://www.forbes.com/sites/bryanrobinson/2023/07/11/4-things-job-seekers-must-know-about-the-new-role-of-ai-in-hiring/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ab64847d894a41bf534a0b/0x0.jpg?format=jpg&crop=2557,1917,x116,y106,safe&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "How to avoid pitfalls and navigate the ethical landscape of generative AI"
-    excerpt: "We still have a lot to figure out. That was my impression of a Transform 2023 panel that drilled into the ethics of generative AI."
-    publishedDateTime: 2023-07-12T15:30:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/"
+    quality: 47
+  - title: "China, AI and Earnings: What Investors Need to Know Right Now"
+    excerpt: "The battle for rare earth and critical minerals is alive and well and is spreading into a 'chip war.' China, artificial intelligence and the upcoming earnings season are on my mind, after a holiday shortened week and a whole bunch of jobs data,"
+    publishedDateTime: 2023-07-10T14:00:00Z
+    webUrl: "https://realmoney.thestreet.com/markets/china/china-ai-earnings-what-investors-need-to-know-right-now-16128321"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/ethics-3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 769
-        isCached: true
-  - title: "A creepy collective of nine AI-based robots showcased at UN news conference"
-    excerpt: "As one of the world's leading institutions for ICT technology, the ITU is naturally highly interested in artificial intelligence and the increasingly prevalent new generation of"
-    publishedDateTime: 2023-07-10T14:17:00Z
-    webUrl: "https://www.techspot.com/news/99335-creepy-collective-nine-ai-based-robots-showcased-un.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-10-image-10.jpg"
-        width: 2000
-        height: 1308
-        isCached: true
-  - title: "Navigating data governance, transparency and trust in a generative AI world"
-    excerpt: "While generative AI is democratizing analytics, it's also adding a new level of legal complexity and trust issues."
-    publishedDateTime: 2023-07-12T21:11:00Z
-    webUrl: "https://venturebeat.com/ai/navigating-data-governance-transparency-and-trust-in-a-generative-ai-world/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR7411.jpg?w=1200&strip=all"
-        width: 1200
-        height: 684
-        isCached: true
-  - title: "NTT’s CFO says energy consumption and pricing are top challenges for enterprise generative AI"
-    excerpt: "The telecom giant is focused on research to solve the growing energy needs of edge-based computing to power local AI systems."
-    publishedDateTime: 2023-07-12T21:41:00Z
-    webUrl: "https://venturebeat.com/ai/ntts-cfo-says-energy-consumption-and-pricing-are-top-challenges-for-enterprise-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM9993.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Meta Launching Its Own Generative AI To Compete With ChatGPT and Google"
-    excerpt: "Meta (Facebook) is all set to release a commercial version of its own artificial intelligence model in line with OpenAI's ChatGPT and Google's Bard"
-    publishedDateTime: 2023-07-14T10:26:00Z
-    webUrl: "https://www.indianweb2.com/2023/07/meta-launching-its-own-generative-ai-to.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 39
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FT0Uew9kxKabym8o1iIGycg4mUfByuIM-giCSBwKkP7OP-Bj3RXXVJDZWlS9IeMlJiOdv3JX1OxDwZts4h5Ercs9wZtxtra1TIbWPyea2ObKtAbB1ujyZxFpzqv2swuhif7VfAAT6pRzusnDI3Fy2T2bOGDHWCM51WxnYM57tMV5WU3QJCNIxyvjATs/s16000/Untitled%20design.png"
-        width: 1000
-        height: 620
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/6d5263cc-488b-11e8-a89a-a7c6266bff86.png"
+        width: 1152
+        height: 768
         isCached: true
-  - title: "How to Harness Generative AI in Your Marketing"
-    excerpt: "Both agree that AI isn’t likely to outshine the human brain’s unique ability to take leaps of intuition or engage in truly strategic thinking. Nevertheless, AI’s impact isn’t trifling and needs to be taken seriously,"
-    publishedDateTime: 2023-07-12T08:45:00Z
-    webUrl: "https://slator.com/how-to-harness-generative-ai-in-your-marketing/"
+  - title: "How AI is Revolutionizing Out-of-Home Advertising"
+    excerpt: "AI is transforming the way brands create and deliver campaigns and also how they measure the effectiveness of their advertising efforts."
+    publishedDateTime: 2023-07-10T16:27:00Z
+    webUrl: "https://www.dmnews.com/how-ai-is-revolutionizing-out-of-home-advertising/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 36
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "Y4JoqIXw+pHDnAFEBcYLYNdXHuKggDE/+B4qdbbgYrL5ToGTcmY5rn9OPtwG9kGEAuGdSUY38yQP26WJYIDTCR+51482dryKhm0XlmHHNjtJ0lZBXx3YcbEGBcVriN4yLMn7vJwwb+YZwMMnm1k4XeBtMh5Pwh+RQRSAmDQAngVGZyPXLhcVxsyBQ/XRR9GTslJNmYh82nR8v2+TumpKvHyuFeFWWpDPWbdo5NUG+lOcG572//XxEZHbyf6omj3V9ArpRUYPMivR5F9zWb7evG/2ertCuj/lAaOT6WEye4zrjfgUb9E4f/K+n/2Bk+9hibABqT+U/fcyhFH+MkKCwl1bSzk3+9U3YSyp/gU96d1Zru5+8/9ZXI6fXBy5DBllXL9mn1etdupiFFl90AZV+VEf6NdYuWw+yWjpGLSzXBju/q9cEo8UQjLk/g1XURoEjSFo9dSLOl7exF8Lt0MuouA9j3RbKpE0f88olnqTB1TOK9GcffJjAwkU5Hn+1DO+gLd5hbxplhdxsBiRSC8h9g==;w4LwfSUA6JtwGkx7kKmtqg=="
 ---

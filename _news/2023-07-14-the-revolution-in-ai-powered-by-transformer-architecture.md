@@ -19,51 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Shaping A Responsible AI-Powered Future In Life Science"
-    excerpt: "Our ethical commitment to harnessing AI's potential responsibly will be instrumental in realizing its promise of a healthier, more equitable future for all."
-    publishedDateTime: 2023-07-10T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/shaping-a-responsible-ai-powered-future-in-life-science/amp/"
+  - title: "SoftwareReviews Reveals the Top Enterprise Architecture Tools Powered by Artificial Intelligence"
+    excerpt: "SoftwareReviews' latest Emotional Footprint report highlights the top-rated enterprise architecture reporting software solutions that focus on"
+    publishedDateTime: 2023-07-11T21:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/softwarereviews-reveals-the-top-enterprise-architecture-tools-powered-by-artificial-intelligence-1032438974"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a812fccab7d777f691cf1d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://mma.prnewswire.com/media/2152091/SoftwareReviews_SoftwareReviews_Reveals_the_Top_Enterprise_Archi.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Don't Pause, Act: How to Unlock AI's Vast Potential by Driving More Trustworthy and Responsible AI"
-    excerpt: "While the pace of recent advancements has been breathtaking, some of the biggest AI advances just over the horizon could be even more profound."
-    publishedDateTime: 2023-07-14T13:31:00Z
-    webUrl: "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872"
-    ampWebUrl: "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1"
+  - title: "Google Reveals Its AI-Powered Search Engine to Answer Your Questions"
+    excerpt: "Spread the loveIn a significant leap forward for search engine technology, Google has unveiled its latest artificial intelligence (AI)-powered search engine designed to provide users with more accurate and relevant answers to their questions."
+    publishedDateTime: 2023-07-14T01:21:00Z
+    webUrl: "https://www.thetechedvocate.org/google-reveals-its-ai-powered-search-engine-to-answer-your-questions/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 73
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
     images:
-      - url: "https://d.newsweek.com/en/full/2257353/keyboard.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Embracing responsibility with explainable AI"
-    excerpt: "Why it's incumbent on humans to be able to explain and understand how AI models come to the inferences that they do"
-    publishedDateTime: 2023-07-11T22:38:00Z
-    webUrl: "https://venturebeat.com/ai/embracing-responsibility-with-explainable-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/l-intro-1620307704-660x400.jpg"
+        width: 660
+        height: 400
         isCached: true
 
 secured: "EBvRZy875pPcKujjfb6pmhf21EKx/wgMe7l8V0ZKIRx+oUzSCccPZPDWrTm7TMgQ9WmIvHnzFCQLKFH2DaZ/90bj0ujK1mzB+eaYrsg56SUrVm7L6FYhfu188hEpNPb01FvCF7D5pXvbdwHFp8amgAoaN5+zWzsoTuoRlafQhwBYZ94H4d3s717iMpkuh6YizmyGxxb/nZWCtMVv+RZ/aZp09hhKsq4JoWXtXu69Y8Y96uB07+4exziMNOGgP4QlnMBzD6HAgqTt1d+J28KrIqzF/jse5mWB9NICV53aJKLfmkf7J5CkAN3qEhTYNdgo1RKxNk+lvQxmp1BhDaVsGbikjV6i644TFRFoB8adA2k=;womx2xBUdn8nBYgOlEJ2bw=="

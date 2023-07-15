@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Galmed to employ OnKai's disruptive Artificial Intelligence (AI) in its Planned Phase 2a Clinical Trial in PSC"
-excerpt: "OnKai's AI models redefine the methodologies and economics of clinical trials"
-publishedDateTime: 2023-07-10T13:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm"
+excerpt: "OnKai's AI models redefine the methodologies and economics of clinical trials TEL AVIV, Israel, July 10, 2023 /PRNewswire/ -- Galmed Pharmaceuticals Ltd. (NASDAQ:GLMD) (\"Galmed\" or the \"Company\"), a"
+publishedDateTime: 2023-07-10T12:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri"
+ampWebUrl: "https://www.benzinga.com/amp/content/33164058"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33164058"
 type: article
-quality: 14
-heat: 14
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "RR9v3MY7GBF8ZTFrSTYw+zm+yS28er9r+1Q5+ZEUUuByHc3II5I+0zUCRfYSy4ztVHQRK236tKe19TZO6ALhVO6/JVT1fbdVir+4/ffWCyNiBgQFB4qmBRjDDm+qDy6ToJZKFtaJ+G+SyFo88KbTo7Mde4bHs/EHcTg68o+myt+qCMiDclCaK8N6lFfaXiLhRBUejgUT+8HZBp4ZoXXCsXJqkfiKINETFOEKqBRe0LYpHuiJ6oODZrPRKMHrAuDhWELlwoaGtt69Gk57gphmaTojSrgV0AWAa5gdK4PXxkEZauO1puBpfojh2GMjQIBNiQu0fZqSGCK5VdNEzSiO8qjU2YO5cgeGbjNFv3WxlzQ=;ruDFSx6qiD5TeWAXcxNNjw=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "yPIqTZEwEYCaqPYiBIE6fjV5yfzQsiHskt9O1C9hJqJkcwXlkrJYYp3TptvMhRkwzWVz70keASVt8g20nNXj3K5vBTe9Wah27qaVU4/iZcVU23CGoZ7d0/x/cb2Nt58MlMPr0D4PtluGxVDQ6yYCvlTqG3lPWX9uumDnU8tosAXKHcyFNGxApAcgPrUoWaWzWqF2CnH946smp355IoXn2baKo2XXLKxq8do4YckRYajPnGPNazggV0Wr0PH5JbjHBA6hbcHR9f7XNeowHrwGUu52Sa4c1pvh0lbjewMxzpvOS51VP3Sc0w0i+qN2wTdF264SQo2ILWL0Zxyalph2C9F3+r5RDJfeRKQN8YDPGsY=;NAyWFEqumVcBzOVDG+lzHw=="
 ---
 

@@ -24,22 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "\"E Don Dey Happen\": Robot Teacher Set to Start Teaching Students at Harvard University"
-    excerpt: "A robot lecturer will start teaching at Harvard University this fall and students maybe about to experience a transformational mode of teaching with the AI."
-    publishedDateTime: 2023-07-10T09:33:00Z
-    webUrl: "https://www.legit.ng/people/1543347-e-don-dey-happen-robot-teacher-start-teaching-students-harvard-university/"
-    type: article
-    provider:
-      name: legit
-      domain: legit.ng
-    quality: 31
-    images:
-      - url: "https://netstorage-legit.akamaized.net/images/5fe0f895a3f4a1b6.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "K9mnvs+JAD3N+wCFh4qbAENYPFDWVxXVx92K3xCT9ossRodHCSnopcabpYkpVX1o2UMNlL3+holdz6jw1Hr0sFDnyiIiNHkPPbbodUTXXeD9KzeAbOcu7h63YknEkJHDzL/Apa2VDmoVMpQOfeCdksj5Tt4Yp4l8JEdppUHvJLrIk2HbtNABq5CMYH8+jtw988RGPyv+1T1bBD0oDMxwRi8WaMdcCjHFe/pKf/Q7H2EOF8OHjcflSM3i0eiWU1cqjvE958nWZpqlqkzKz+msOjVn72KThveYsCqbZpVKAAZz8tU/DIU/4DWMF/46OAfspT1l4JtH5ZCyoPvjvIFO9dBcfEKlAOYtPBNFtKXV3kD0WARC93bXqCJ2P9o/IHnprxcxvF0TWiZjn6MWOpcGRybKX3c9XLN9Dqf+ieFPLrIs9dNVIn2JGowEFZ4KoJn7Yn1BA6o2YODpOnNPm7/XTBi7+Z9KSByO56XMPmpxPG3G1Wq08kfxtMA3VTnWxe3+V6LUtns6gziRu5NkiPJPRQ==;mNmrA7stU8R4lnCDbWszUA=="
 ---
 

@@ -46,6 +46,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "How to Harness Generative AI in Your Marketing"
+    excerpt: "Both agree that AI isn’t likely to outshine the human brain’s unique ability to take leaps of intuition or engage in truly strategic thinking. Nevertheless, AI’s impact isn’t trifling and needs to be taken seriously,"
+    publishedDateTime: 2023-07-12T08:45:00Z
+    webUrl: "https://slator.com/how-to-harness-generative-ai-in-your-marketing/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 36
 
 secured: "E6TzHHf3EkkEvTdryuYYKke9sew8TCbVzADyp41dsunc57y++xvkd9XR58vA7Jx36GRWu0WkUNi+cYY48HkqPEdg9KjKq9/ceGdNPbNTUycW+ziE6+vXdAv4zNYqtFoQb456lF3zhyqZk+8y0ewfvjAKNz3xJzD567pfBok1sPCzzFJR0Y9FUtwiWN3RRFWiFjzil4PeLZyZc/93pHBgEnlKOrjno0oPD527YUMnKgT1ReqaY8WIy8x7eYp8ArJLNqxYsNgsAj32rI7Yxo3OTEG7D2KjuXxIX45cY/Zar2m3wAFExhGGhhDG4GKxILyxCG/8F0P6k3h8+YvZ24qD2WxNJHClONS7/5ajsxshKHdbywWcUu6jlKW4Xmgw2kZFSt5qxNSxbvnxKBs442oHK4EkqzyAKNoERDEL9+ersmhqfrmAfvtEGoDgeRE2m8sFBJmJyfynr0i7o9TW8blKEUyTwa6qw2HbnKVOZjHyNSwWa+r5TsLzW/YVTGoMqMklh2WiKqnpS8mKVEGzS7NF6g==;ZokZ2R4D9AqR4bVWbE+Fog=="
 ---

@@ -34,6 +34,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Mastercard, eBay and Capital One talk equitable generative AI and innovation"
+    excerpt: "The Women in AI Breakfast, sponsored by Capital One, kicked off this year’s VB Transform: Get Ahead of the Generative AI Revolution."
+    publishedDateTime: 2023-07-15T02:59:00Z
+    webUrl: "https://venturebeat.com/ai/mastercard-ebay-and-capital-one-talk-equitable-generative-ai-and-innovation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR5068.jpg?w=1200&strip=all"
+        width: 1200
+        height: 669
+        isCached: true
 
 secured: "rR9kxyRKAoq5gowPgf90rMPF+Xl4WexqyXn+kjax4smHwITkQhXGp4rAgKBDshIKHi5kJSxxXdFIQKH7o1SYnfTJu3U75GCHWJI6b8EuyxNlJfZmiiajlonyehN+g3NjG8yVdgiv0IZndikW1q3tpgtdWM0mqQrCof0fHMgfW4drJNM8MjFf9tU0kTfhAW3CE9FUjdZ8aT7J+BsxPuJJRDJ1WZJYsZcuro7YTUya5Z4rVsn8mQLznHmf4lYTGO9K6jPqB0rFtYesCV0RrGl6vf3L18Zsldz42+8oD+4ALa+9ZYEJZmJvBzl3RRdfNEo3Zxo5ftuslNQm2C2sSnnr8oESHLCzFhhovNcCfiZAFpuiBNhlV0WsndFVhQzTnXTueSCKfPXjFQjmPH1NbEgf4zu8QPcjZnajqVSgogRbHCoO/hf5eTGRoBaYPste3DYTKy4TK05TFt8lFWnAPwCCWoCRnweOd1l84kQYItoaJtfnXJFAOYrlJAWaIqHtRDljyb2J9SpuQFK45CKMVmKs3g==;c8ni3QhUZgOWH7NhW9WnGw=="
 ---

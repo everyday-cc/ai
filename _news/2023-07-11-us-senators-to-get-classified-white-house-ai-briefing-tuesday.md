@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/us/us-senators-get-classified-white-
 webUrl: "https://www.reuters.com/world/us/us-senators-get-classified-white-house-ai-briefing-tuesday-2023-07-10/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senators get first-ever classified briefing on artificial intelligence"
+    excerpt: "This week brought a first on Capitol Hill when senators received their first classified briefing on artificial intelligence as concerns about the technology spread. AI is one of the key issues behind the strike in Hollywood – now involving both writers and actors."
+    publishedDateTime: 2023-07-15T03:14:00Z
+    webUrl: "https://www.msnbc.com/the-last-word/watch/senators-get-first-ever-classified-briefing-on-artificial-intelligence-188520517946"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo188520517946"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo188520517946"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689390779638_n_lw_padilla_230714_1920x1080-v71y6o.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "US senators sound slightly overwhelmed at first-ever classified briefing on artificial intelligence"
     excerpt: "US senators sound slightly overwhelmed at first-ever classified briefing on artificial intelligence - SiliconANGLE"
     publishedDateTime: 2023-07-12T02:42:00Z

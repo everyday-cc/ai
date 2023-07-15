@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/12/vendict-launches-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/12/vendict-launches-generative-ai-in-47-billion-security-and-compliance-market/amp/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "How to Harness Generative AI in Your Marketing"
+    excerpt: "Both agree that AI isn’t likely to outshine the human brain’s unique ability to take leaps of intuition or engage in truly strategic thinking. Nevertheless, AI’s impact isn’t trifling and needs to be taken seriously,"
+    publishedDateTime: 2023-07-12T08:45:00Z
+    webUrl: "https://slator.com/how-to-harness-generative-ai-in-your-marketing/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 36
 
 secured: "QQEh85DHXU2XSvDKOx7g90ZlDA8Au/AU/XwL5Lwv83M24TZetvvLzoTXcIPrQSlhOwAN8J+rxhPo9Hv6ec8Kgr3+yqs0Q+5Cnt4GhDgp0VfWhesqPim68pI9E0m1ZLmdXxIGp2BoRuJ5Kx38vIKchbx3xmB4lo6eMPV1QKHcM4U9dcO0+bQWBjwdlaJEfK3nt0VsacgFW70FEqM655OAZs8CqiY4uFmPbFmXAcyt2KWAJAPxEL0uVHQrADy7r7c0k1fLZbBAABU+hqB/JcMeIf1rtLIeEOf+ZWdwEarkI+5/+NGh5JbP+mqIX8MelEsvdOCB/KQG2WJR0Km4R/ScfpakTpt3xdqmT3n1DqdGJ8I=;VYS6Cr7aYpfZ/xhU3UMIIw=="
 ---

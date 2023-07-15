@@ -75,22 +75,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Why everyone is mad about New York’s AI hiring law"
-    excerpt: "Last week, a law about AI and hiring went into effect in New York City, and everyone is up in arms about it. It’s one of the first AI laws in the country, and so the way it plays out will offer clues about how AI policy and debate might take shape in other cities."
-    publishedDateTime: 2023-07-10T10:59:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/10/1076013/new-york-ai-hiring-law/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/10/1076013/new-york-ai-hiring-law/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/10/1076013/new-york-ai-hiring-law/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/hiring-hands2b.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
     publishedDateTime: 2023-07-10T19:37:00Z
@@ -145,6 +129,20 @@ related:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Applicability of AI and Robots to Nursing"
+    excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
+    publishedDateTime: 2023-07-11T15:38:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14151"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 39
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14151_16890894716486738.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "s6yBUUetKrPuNFFyLRrejfohfQ2ezVzNObDDfSNp3fG99j9p9PmUkL2cXveMXZlc7gbtmnRmds+uI9k0AwoGP8/ooTV2EfeqzR2x7T4UbkWIOMGSqf8B+u/i/FkPd9UFGTx7lQI4Der/pe8oux5s0xqeIb7PzGfiMwvhUz+X9hn5+RhpQJmz/FkpRQg8gTm6Y0ubNlnT7OKczUUQoB8VUyoNxKjEn6MrZRmJCZ1zMzgmNGvvh6iGfcNfBg9YPhotyuErvgoLrkDU2A4fZxUGQHA9vDGPq5DmPtPfWYZ/6VAgdX0PjEnTGrlrd+VrGkGxcB7W84N8vFuJNMps5b5qOWhx68t0oc5vXI830/2yyPI=;6TNgNE74nEOq5RPbv0af5Q=="

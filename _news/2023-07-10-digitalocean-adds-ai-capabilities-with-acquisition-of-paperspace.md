@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-ad
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1000
     height: 562
     isCached: true
-
-related:
-  - title: "DigitalOcean snaps up Paperspace to enhance AI offerings"
-    excerpt: "Paperspace’s high-performance GPU tooling enables small and medium-sized businesses around the globe to test, build, and scale AI models in the cloud."
-    publishedDateTime: 2023-07-10T10:11:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2023/jul/10/digitalocean-snaps-up-paperspace-to-enhance-ai-offerings/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 19
 
 secured: "r9CeXWCW0JPaU5lBfhraUc8UiUYBZWBpgRVB7tBXfXcI27oVmfwZtfi84vSN2rvA/G537huaVNYkD0Szscit+xN6CMifp+KIxX7CXFc9C43wAMVV+GxxVLmdrL4ukW4DQpav5q8E/b+c3HFTi4mXJ/4nQA2RycOgO4WiX7npF7p3/vzzov/Ty6wGUqcT1Bfmjl01aR2nqFaRqHkuabJ6W68TmCto/quhvISULHiq8RKEPsjo0uEtnODhVYjnI4/ZCu7nFjYpGk4Ea4VSCjThylo3+0fQgT7GW58qpJVV1hxVNmZKfUUmwYIxbvtZg/4Nxy6/bBwPybbiirkgt5ea/BtYsHQxoNST/rq3rPPMmdyFCcFKHi5/OSRQvmegWp/Qen3+S30XLoQutNskNQqUBFC/9MZmPlZ15KYAllAzj1gjNj28GAA1T2k/ftNuHe9tCymaJp9sw+11ESh5IWBzgp+Z/oS/NxvfRMgaoZHFslYh2sbN3nK376X55M3171btz5bqscjU2GrmvAwP/x/fjw==;QqnxNgZ6eYuMSAQ5RHCFrw=="
 ---

@@ -39,6 +39,22 @@ related:
         width: 728
         height: 381
         isCached: true
+  - title: "Senators get first-ever classified briefing on artificial intelligence"
+    excerpt: "This week brought a first on Capitol Hill when senators received their first classified briefing on artificial intelligence as concerns about the technology spread. AI is one of the key issues behind the strike in Hollywood – now involving both writers and actors."
+    publishedDateTime: 2023-07-15T03:14:00Z
+    webUrl: "https://www.msnbc.com/the-last-word/watch/senators-get-first-ever-classified-briefing-on-artificial-intelligence-188520517946"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo188520517946"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo188520517946"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689390779638_n_lw_padilla_230714_1920x1080-v71y6o.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "White House, DOD, IC Officials to Brief Senators on Artificial Intelligence"
     excerpt: "Officials from the White House, Intelligence Community and the Department of Defense will hold on Tuesday a classified briefing on artificial intelligence with senators as lawmakers work to advance legislative measures for AI,"
     publishedDateTime: 2023-07-11T09:49:00Z
