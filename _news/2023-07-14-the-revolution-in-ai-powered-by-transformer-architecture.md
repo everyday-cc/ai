@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Artificial Intelligence (AI) – a transformative tool for economic dev’t in Africa"
-    excerpt: "Artificial Intelligence (AI) has emerged as a revolutionary technology that is transforming various aspects of our lives. Its potential for disruption is particularly notable in the economic landscape."
-    publishedDateTime: 2023-07-10T15:11:00Z
-    webUrl: "https://thebftonline.com/2023/07/10/artificial-intelligence-ai-a-transformative-tool-for-economic-devt-in-africa/"
-    ampWebUrl: "https://thebftonline.com/2023/07/10/artificial-intelligence-ai-a-transformative-tool-for-economic-devt-in-africa/?amp"
-    cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/2023/07/10/artificial-intelligence-ai-a-transformative-tool-for-economic-devt-in-africa/?amp"
-    type: article
-    provider:
-      name: business
-      domain: thebftonline.com
-    quality: 69
-    images:
-      - url: "https://thebftonline.com/wp-content/uploads/2023/07/Artificial-Intelligence-AI.jpg"
-        width: 294
-        height: 440
-        isCached: true
   - title: "The transformational impact of AI"
     excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
     publishedDateTime: 2023-07-12T03:26:00Z

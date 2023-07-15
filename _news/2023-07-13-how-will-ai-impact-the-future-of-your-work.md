@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Artificial Intelligence Empowers Zero Trust"
-    excerpt: "Technology is constantly evolving and changing how industries operate. Zero-trust security is making big waves in the world of cybersecurity. Many businesses quickly adopted this practice to have peace of mind while their employees work safely from anywhere."
-    publishedDateTime: 2023-07-10T15:55:00Z
-    webUrl: "https://www.unite.ai/how-artificial-intelligence-empowers-zero-trust/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/07/how-ai-empowers-zero-trust-feature-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Build a Winning AI Strategy for Your Business"
     excerpt: "As an example, PwC is using Azure OpenAI Service to expand and scale its own AI offerings while also helping clients in industries like insurance or healthcare reimagine their businesses by leveraging the power of generative AI. CarMax is using it to ..."
     publishedDateTime: 2023-07-14T12:08:00Z

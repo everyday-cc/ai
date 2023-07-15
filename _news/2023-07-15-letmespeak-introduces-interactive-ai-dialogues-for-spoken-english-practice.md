@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/letmespeak-introdu
 webUrl: "https://markets.businessinsider.com/news/stocks/letmespeak-introduces-interactive-ai-dialogues-for-spoken-english-practice-1032448517"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Programs to detect AI discriminate against non-native English speakers, shows study"
-    excerpt: "Over half of essays written by people were wrongly flagged as AI-made, with implications for students and job applicants"
-    publishedDateTime: 2023-07-10T16:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
-    images:
-      - url: "https://i.guim.co.uk/img/media/b88015612ca63ada3cab75fb784fe4bca50cb929/0_13_4552_2732/master/4552.jpg?width=620&quality=85&auto=format&fit=max&s=c4a7a982291554dcd25bac1dfcafd264"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI plagiarism detectors falsely flag non-native English speakers"
     excerpt: "If you use common English words, the detectors will give a low perplexity score, meaning my essay is likely to be flagged as AI-generated.'"
     publishedDateTime: 2023-07-11T18:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-dawn-project-s
 webUrl: "https://markets.businessinsider.com/news/stocks/the-dawn-project-s-dan-o-dowd-banned-from-advertising-on-twitter-after-his-concerns-over-the-safety-of-tesla-full-self-driving-go-viral-1032436134"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Tesla’s ‘Full Self-Driving’ Is Worthless, Says Short Seller Jim Chanos"
+    excerpt: "Tesla’s Full Self-Driving (FSD) software, an advanced driver assistance add-on to Tesla cars, costs $15,000. But its"
+    publishedDateTime: 2023-07-11T19:20:00Z
+    webUrl: "https://observer.com/2023/07/tesla-full-self-driving-worth-jim-chanos/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 19
 
 secured: "S+mtr2Lf5KXJpjkjxqmwnh/DpyPvcPDP6z2WFoFlRRnz9BXQ74KC84PbnfdG3QIMMEPqjpBDudnbsEJIofCsVDpZ3tyEQeYpx0EV/+jDCrHz2q+Ll2AgaTB3b6CIj6wSSA9G80j+t4CU51eGW2dmgNTcYTatk3eIzK4TiXXS/alcJ3sniDX07wEt946gpTELOjNFQFXwxRIcdPQKtn8SEA/2Ol8Wsu6p/moNWakIQ4rjz73e+fEjlQXVxJc+DgItvOkwr65U7c1R4psGH0kjQX5ibXosa9MJDkMO3JqVN+2oJeyspokQEo4YzJKqk/moOUt1W87KNJCtFtxYtMoHig7PWOYrisKQAYyq5pZmz6w=;Muu1SpxTPeW8vV9C0oDBtA=="
 ---

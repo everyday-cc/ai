@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI robots could run the world better than humans, robots tell UN summit"
-    excerpt: "But the social robots said they felt humans should proceed with caution when embracing the rapidly developing potential of artificial intelligence. And they admitted that they cannot – yet ..."
-    publishedDateTime: 2023-07-10T16:42:00Z
-    webUrl: "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
-    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 104
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/08/49797bd1-2046-4240-90b6-5ea0f3e0b6c8_10de0f05.jpg?itok=R2R0MPcb&v=1688757382"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Panel Of AI-Enabled Humanoid Robots Take Questions From Humans"
-    excerpt: "The world's first human-robot conference was held in Geneva, where a panel of AI-enabled humanoid robots told the United Nations they could eventually run the world better than humans."
-    publishedDateTime: 2023-07-10T15:30:00Z
-    webUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955"
-    ampWebUrl: "https://www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/panel-of-ai-enabled-humanoid-robots-take-questions-from-humans-4194955/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 74
-    images:
-      - url: "https://c.ndtvimg.com/2023-07/3ise4dbo_air-robot_625x300_10_July_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans"
     excerpt: "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans."
     publishedDateTime: 2023-07-11T03:40:00Z
@@ -65,33 +33,6 @@ related:
         width: 1024
         height: 415
         isCached: true
-  - title: "Meet the AI human-like robots that can do our jobs"
-    excerpt: "Current breakthroughs in AI are key to the revolution in ‘human’ androids, explains Robert Waugh. Some of them are already employed"
-    publishedDateTime: 2023-07-13T16:32:00Z
-    webUrl: "https://www.independent.co.uk/news/long_reads/ai-human-like-robots-jobs-androids-b2374052.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 34
-  - title: "MBtv-Robots test their mettle at RoboCup, the world’s largest AI competition"
-    excerpt: "From football matches to first aid workshops, robots test their abilities at RoboCup, the world's largest artificial intelligence competition, being"
-    publishedDateTime: 2023-07-10T17:46:00Z
-    webUrl: "https://www.macaubusiness.com/mbtv-robots-test-their-mettle-at-robocup-the-worlds-largest-ai-competition/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 31
-  - title: "Humanoid Robots Tell UN It's Time For An AI Revolution And Vows Not To Kill Humans"
-    excerpt: "While the humanoids gave the impression they are not out to kill us (yet), some of their answers were more alarming than reassuring."
-    publishedDateTime: 2023-07-11T17:30:00Z
-    webUrl: "https://hothardware.com/news/robots-tell-un-its-time-for-an-ai-revolution"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 28
 
 secured: "QnrJEerZVgyvix3CvDY/cuqG583kEfr/ZRmnbg/oNf7POahDB5J3vmhs6R4sTeP9WONzvWiwPa4AU+n75qXkhWzy5NwCgsTy6mnfWdwr60gRm4ExlWwe0EZPyErB2wlDt3mz9RkP9rwakkvdSqmjkQyOpBYsJA18Pep9Nfe2tMMFsQJ+IC2ttOkiR10LYjwjDbJR3VybdnQ/H351xAqFZ67x/IBTfbgtj1MLdguiYUDpzM/Z52i9fXilnAqUnhDR7mhPkqimzttDDSEooKzW++LAECDOy//o732mNpMCe3Iut49OZRWpETjD+jhTvxEmrl+ht2+3JcYd2qM1AF+PUDnrWRtaEDXPzh+nFpw/cmKnqJD49COE2wcfipsN7YAz8GMGiEA20WSn68+oF3V/B0KFFZT/FK4YB+2ZLKa5N8G3fSzLeSBR2nz/8bgWnycFVQlLy9ASVAtLi7JrkziAEk830it+DLBvFcGR5Ui1TmRipo4OClercJXdtsdoKW2piyGfe99W1lw/WZR9bW4elw==;HpA09Ok4k72tZ5prr/MnrA=="
 ---

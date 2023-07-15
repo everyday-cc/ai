@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/13/elon-musk-launche
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Guardian
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Job losses could be the ‘Terminator’ result of artificial intelligence"
-    excerpt: "With Artificial Intelligence (AI) advancing by leaps and bounds seemingly every day, it’s easy to have a bit of apprehension mixed in with the excitement of seeing what happens"
-    publishedDateTime: 2023-07-10T16:17:00Z
-    webUrl: "https://talkbusiness.net/2023/07/job-losses-could-be-the-terminator-result-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Talk Business
-      domain: talkbusiness.net
-    quality: 37
-    images:
-      - url: "https://talkbusiness.net/wp-content/uploads/2016/07/Computer-Code-44-e1495050344444.jpg"
-        width: 730
-        height: 312
-        isCached: true
   - title: "Elon Musk launches AI startup and warns of a ‘terminator future’"
     excerpt: "Tesla boss claims xAI will be ‘pro-humanity’ and says development of large systems unlikely to be paused"
     publishedDateTime: 2023-07-13T11:45:00Z

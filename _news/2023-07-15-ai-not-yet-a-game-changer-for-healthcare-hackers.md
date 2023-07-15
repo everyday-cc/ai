@@ -178,20 +178,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How five blue-chip firms are dealing with the rise of AI"
-    excerpt: "FTSE 100 companies have shared revealing insights about what breakthroughs in generative AI mean for their businesses"
-    publishedDateTime: 2023-07-10T15:46:00Z
-    webUrl: "https://www.raconteur.net/growth-strategies/how-five-blue-chip-firms-are-handling-the-rise-of-ai/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 54
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2023/06/AI_c-suite_boardroom.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UCSF Health digital chief departs for healthcare AI company"
     excerpt: "Aaron Neinstein, MD, former VP of digital health at UCSF Health, has joined healthcare AI company Notable as chief medical officer."
     publishedDateTime: 2023-07-11T14:01:00Z
@@ -259,20 +245,6 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 48
-  - title: "The best AI art generators in July 2023"
-    excerpt: "How do the best AI art generators work? AI art generators work by employing learned data. Developers of the models feed countless images into them, with which the artificial intel"
-    publishedDateTime: 2023-07-10T16:00:00Z
-    webUrl: "https://www.sciencefocus.com/future-technology/best-ai-art-generators/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 39
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/07/bears-fighting-dragon-611595f.jpg?quality=90&resize=940,400"
-        width: 940
-        height: 400
-        isCached: true
   - title: "Opportunities of Artificial Intelligence field rich"
     excerpt: "World Economic Forum has projected that AI will create 97 million new jobs by 2025. Club that with the fact that ChatGPT, which feeds on AI, got 173 million users in just six months after launching, and we get a picture of how all-pervasive AI is going to get."
     publishedDateTime: 2023-07-11T06:26:00Z

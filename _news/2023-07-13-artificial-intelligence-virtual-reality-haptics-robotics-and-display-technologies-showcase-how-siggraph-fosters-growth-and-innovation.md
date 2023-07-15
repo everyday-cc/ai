@@ -28,7 +28,7 @@ related:
   - title: "AMD and MassRobotics Announce Winners of the AMD Robotics Innovation Challenge"
     excerpt: "MassRobotics, in collaboration with AMD, is pleased to announce the AMD Robotics Innovation Challenge winners."
     publishedDateTime: 2023-07-13T17:11:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics"
+    webUrl: "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles"
     type: article
     provider:
       name: Automation

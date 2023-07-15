@@ -38,20 +38,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Job losses could be the ‘Terminator’ result of artificial intelligence"
-    excerpt: "With Artificial Intelligence (AI) advancing by leaps and bounds seemingly every day, it’s easy to have a bit of apprehension mixed in with the excitement of seeing what happens"
-    publishedDateTime: 2023-07-10T16:17:00Z
-    webUrl: "https://talkbusiness.net/2023/07/job-losses-could-be-the-terminator-result-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Talk Business
-      domain: talkbusiness.net
-    quality: 37
-    images:
-      - url: "https://talkbusiness.net/wp-content/uploads/2016/07/Computer-Code-44-e1495050344444.jpg"
-        width: 730
-        height: 312
-        isCached: true
 
 secured: "oSrD3kIyvLnwIiYwjwQbUc6iBiaNQV/0Dgclw0vyG9y7HsT7zbVez/h7in5O7Nv2B35LkeP0+Zv+oxCBYWdd0qPHy7mk7mbp1woYwF7NEPc6+C9qW/FNxoxZKsx+5aFalKSiZw0dB2VPlxN9Ee3nKxnCUsEv5Qj/DlLH4Jg/GFHD+EEYazJrDBSw+HUboo7gXWKlm56mWfQhmaMK5/p2xEWieAjprmn9Q9FgHxZGxsOFO6cgCA5jgbIXpwqBqZrTx7Q7p2XJ7MtnM9jeIym3f26B+VKhLEXanCJJAF0M7yZTq/54yVV2UxFoqN/GAd06IxtxTgph1qnglU9Cmc/G5Q4GBq0N4B3yDYq547R3RFPZ6NWbbR0f5zHxnOWt1wL/Te2Yeq+ZGwADqOq3vM1lGqUtx8Y368tNEtHM/RuD8Pa8ESwJMbIGrdrgAswhnR98t/0PuiqS7u0DcLsITBMlFYwTEsBYF6TuxQZ4j4+2jUjKHXagWZIN/XTIsnXUBbCzOL4QFejGOnb1Uu8AHl7DZw==;ezTBYtsDe83GGcLabiD61A=="
 ---

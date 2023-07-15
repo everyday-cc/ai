@@ -34,22 +34,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Threads beat ChatGPT to 100 million users but the AI app is way more consequential"
-    excerpt: "Mark Zuckerberg's new Twitter copycat app has attracted 100 million users in less than a week, but its rise is less significant that ChatGPT's growth."
-    publishedDateTime: 2023-07-10T15:38:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-100-million-users-milestone-meta-threads-mark-zuckerberg-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/64ac17138ed31300199e4552?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Has ChatGPT failed, does it signal failure of Artificial Intelligence as well?"
     excerpt: "It is an indication that the AI and ChatGPT have peaked in just six months and are now falling. But many people believe that the Chat GPT is a small part of Artificial Intelligence and its slowing down does not indicate failure of the AI."
     publishedDateTime: 2023-07-11T17:35:00Z

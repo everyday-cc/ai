@@ -3,8 +3,8 @@ category: news
 title: "AMD and MassRobotics Announce Winners of the AMD Robotics Innovation Challenge"
 excerpt: "MassRobotics, in collaboration with AMD, is pleased to announce the AMD Robotics Innovation Challenge winners."
 publishedDateTime: 2023-07-13T17:11:00Z
-originalUrl: "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics"
-webUrl: "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics"
+originalUrl: "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles"
 type: article
 quality: 50
 heat: 70
@@ -54,6 +54,6 @@ related:
         height: 628
         isCached: true
 
-secured: "uUXSoXsIQR+pdVrFd9TVAZSLiQEnH4iV2tsgS6egNx2kl0psNH5He/48LwPK25gTtO2XgEFGQF33CR+80Z1peOl1PJ+MCWXFZuhl7yhV3MVQhjePoH5mXxCTI0lmIZSrOI1a5lt3Mwy5V0bUfh46osKZQRWEBD3vcrR4IlOrfHhJTMRQNqbw99ifHyDUDlD4KLAelMB7EgggbWrqePbzAL0wUiC+h1mRJRG/tq9YSvQTMcASzunUnX5YbaJi6i+VglQO56/NfCqzzkmtx1nqUIzgM0hcECw/0JkYAu2vFbaFkUxmd+syM0ebKFeNHI4YmzuEs8XRjQ7T9y4T2Fsfs2XRYyc35IzSV+4rsAgcs2pGhr3dCUUII9weFZvaD87jtTOOIR0lP11KtD+awXYk9efZLvRJZ/4xKiVcpJCDwPbBKGkT24Diyy52FIE4PqBc4ySmgemJBWXf/72WvEng+IZ8vUdlJXt5vkf7A3oFL1vX4haZGlByTeBsn6bh+uTkelGbHnPxGJHBEhQGqfyImA==;sL74cQbwFYk4QJxVgGkWKw=="
+secured: "Fv8mop5BcHXSmw8jc1aaDR50pco1a7+bnczk3V7u7sHjCiygBo9Nw0KDTSmVd1awl/R/BiTx+pOQHa8ZrDjKM2pIM9Bo4FpyWANg0qxCxsNYjlBxi/WP8HrX2rvJrQYFcxbssB8U1ulBipcwlbnOX+v4GAmQ2FwlqAxDWO1+HNgYXE5ZJEvNvXv3TbnNBLHRRN3P9gsMWpjzpfIqVSnOxREqxTQ4YIm57Rk62KLyWM3YLJUe8TYuCs1mb0Z2wIcD47VZtFPCOt2OoDQl/ynzUkzcPXBfd8S+xaBrXyrNNDrv0+UveHLI/Iz5LMKBiDBDseiglmgDz6cxnfuZMPk+yuSjrnynKz+SgL9RwGEapyo=;6dGh/nxXtQ47elTqSTbOzQ=="
 ---
 

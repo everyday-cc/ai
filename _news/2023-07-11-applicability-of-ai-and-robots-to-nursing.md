@@ -114,15 +114,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 51
-  - title: "Google Says It'll Scrape Everything You Post Online for AI"
-    excerpt: "Previously, Google said the data would be used “for language models,” rather than “AI models,” and where the older policy just mentioned Google Translate, Bard and Cloud AI now make an appearance. This is an unusual clause for a privacy policy."
-    publishedDateTime: 2023-07-10T16:44:00Z
-    webUrl: "https://gizmodo.com/google-says-itll-scrape-everything-you-post-online-for-1850601486"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 49
   - title: "4 Things Job Seekers Must Know About The New Role Of AI In Hiring"
     excerpt: "As more businesses adopt AI recruitment tools, job seekers must understand how the technology is being used and the ways it might impact their chances of landing a job."
     publishedDateTime: 2023-07-11T12:27:00Z
@@ -132,20 +123,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How AI is Revolutionizing Out-of-Home Advertising"
-    excerpt: "AI is transforming the way brands create and deliver campaigns and also how they measure the effectiveness of their advertising efforts."
-    publishedDateTime: 2023-07-10T16:27:00Z
-    webUrl: "https://www.dmnews.com/how-ai-is-revolutionizing-out-of-home-advertising/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 39
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "Y4JoqIXw+pHDnAFEBcYLYNdXHuKggDE/+B4qdbbgYrL5ToGTcmY5rn9OPtwG9kGEAuGdSUY38yQP26WJYIDTCR+51482dryKhm0XlmHHNjtJ0lZBXx3YcbEGBcVriN4yLMn7vJwwb+YZwMMnm1k4XeBtMh5Pwh+RQRSAmDQAngVGZyPXLhcVxsyBQ/XRR9GTslJNmYh82nR8v2+TumpKvHyuFeFWWpDPWbdo5NUG+lOcG572//XxEZHbyf6omj3V9ArpRUYPMivR5F9zWb7evG/2ertCuj/lAaOT6WEye4zrjfgUb9E4f/K+n/2Bk+9hibABqT+U/fcyhFH+MkKCwl1bSzk3+9U3YSyp/gU96d1Zru5+8/9ZXI6fXBy5DBllXL9mn1etdupiFFl90AZV+VEf6NdYuWw+yWjpGLSzXBju/q9cEo8UQjLk/g1XURoEjSFo9dSLOl7exF8Lt0MuouA9j3RbKpE0f88olnqTB1TOK9GcffJjAwkU5Hn+1DO+gLd5hbxplhdxsBiRSC8h9g==;w4LwfSUA6JtwGkx7kKmtqg=="
 ---

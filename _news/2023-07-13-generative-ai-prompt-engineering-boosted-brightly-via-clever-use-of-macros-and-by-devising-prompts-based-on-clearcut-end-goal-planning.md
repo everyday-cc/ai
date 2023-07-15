@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/13/generative-ai-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/13/generative-ai-prompt-engineering-boosted-brightly-via-clever-use-of-macros-and-by-devising-prompts-based-on-clearcut-end-goal-planning/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Keytalk AI’s innovative Prompt Engineering Unleashes Generative AI’s Potential, Disrupting Industry Titans"
-    excerpt: "Is the reign of Apple and Google’s duopoly coming to an end? The rise of the ChatGPT Plugin Store suggests a new era is on the horizon, reshaping all service sectors. With plugins, ChatGPT has overcome its limitation of accessing the live internet,"
-    publishedDateTime: 2023-07-10T15:23:00Z
-    webUrl: "https://techcrunch.com/sponsor/keytalk-ai-company/keytalk-ais-innovative-prompt-engineering-unleashes-generative-ais-potential-disrupting-industry-titans/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/keytalk-1.jpg?resize=1200,789"
-        width: 1200
-        height: 789
-        isCached: true
 
 secured: "fsGQC/NABYa702pszeFFR4XEDEhoWF/VLAl6U7ZHietfgMIkTIk6dasFbNd2hqNHhp3fblzFKWN3h/BIqxHMRANd+flONkmuwG9jKlVLqIyF+TnuhGhkviFtrtmuCEOADq2wOd4jJp6lXZKH7U1++ySP8a3k9UA5YYBfmvsGcJGSyuioTLpBpaOBXZq2vIPEF/MlGHi7xh3PpnhruhU5vQzaLwCPao1PCDqIoj5puYTsjmzaD7xDSeEc51F7vvIJjqLbM0Fcw9zL6a06v15XDXXvk4bV7etBzI/ZoWa/+7+92ImJE0dfDZ2a9tU4+G/prkgNwrvKkXkly1Kn2ikqGFA5Nw2lWbXxc70puQKNIoBvk500eDPx0UX2LwAmzaszGgHbP5/aZzi5aRird9+Zp9ofwBGu1VKgBR3sivMFNtnMjbP0ig2SO7w55j+mnwEZr3zTN10UD/PxTJx3jjK/Jfdj9/wOxXB+TCKMTqEUTpyiVYT/16eJPKHZxLhbH/FELC9CbuTTGGjbqVkbDhpdVA==;gQnXYnR5mGrdtH/HF6l86A=="
 ---

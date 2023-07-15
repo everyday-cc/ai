@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-t
 webUrl: "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/"
 type: article
 quality: 90
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "M&E Faces up to the Promise and Challenges of Generative AI"
-    excerpt: "It is, of course, something that has been around since the 1950s but since the end of last year, coverage has ranged from the serious to hysterical, particularly over its latest manifestation, generative AI (Gen AI)."
-    publishedDateTime: 2023-07-10T15:33:00Z
-    webUrl: "https://www.tvtechnology.com/news/mande-faces-up-to-the-promise-and-challenges-of-generative-ai"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 43
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EMJcPYKmycaMXxGydkuN2K-1200-80.jpg"
-        width: 1200
-        height: 934
         isCached: true
   - title: "Assembly Software Brings Generative AI to its Case Management Platform With NeosAI"
     excerpt: "NeosAI, currently in beta, aims to bring new capabilities to Assembly Software’s case management platform Neos such as automatic document generation and audio and video transcription."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-emp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/12/the-four-ms-to-empower-strategic-workplace-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How Artificial Intelligence Empowers Zero Trust"
-    excerpt: "Technology is constantly evolving and changing how industries operate. Zero-trust security is making big waves in the world of cybersecurity. Many businesses quickly adopted this practice to have peace of mind while their employees work safely from anywhere."
-    publishedDateTime: 2023-07-10T15:55:00Z
-    webUrl: "https://www.unite.ai/how-artificial-intelligence-empowers-zero-trust/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/07/how-ai-empowers-zero-trust-feature-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Build a Winning AI Strategy for Your Business"
     excerpt: "As an example, PwC is using Azure OpenAI Service to expand and scale its own AI offerings while also helping clients in industries like insurance or healthcare reimagine their businesses by leveraging the power of generative AI. CarMax is using it to ..."

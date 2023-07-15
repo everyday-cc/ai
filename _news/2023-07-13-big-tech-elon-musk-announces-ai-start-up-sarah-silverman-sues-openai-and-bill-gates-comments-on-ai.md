@@ -7,7 +7,7 @@ originalUrl: "https://www.abc.net.au/radionational/programs/drive/1650/102599604
 webUrl: "https://www.abc.net.au/radionational/programs/drive/1650/102599604"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 862
     height: 485
     isCached: true
-
-related:
-  - title: "Not Funny: Sarah Silverman Sues ChatGPT and Meta After AI Allegedly Trained on Her Book"
-    excerpt: "Silverman is joined by authors Christopher Golden and Richard Kadrey in the lawsuit against OpenAI’s ChatGPT and Meta’s LLaMA."
-    publishedDateTime: 2023-07-10T15:40:00Z
-    webUrl: "https://gizmodo.com/sarah-silverman-sues-chatgpt-and-meta-over-ai-training-1850621182"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 59
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/35b4daa9c6a52ba49177fdd475cbff9d.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "f2W/lETInu1xeKdwtLdYgNdZkneFfrD3tanLL32oMVM/yllAUulokfyjMobp/x+pQADY6BlTIgos7aBilPBlRD3PVmsdAOtE+KxPOPg+qmLDCo8Da1nhmRF3SrnVPUFRG9XYWpQDmMrovdBl5Qw+7fqcCvcF46RdO2pbS8qXhGktbmd9/IiE7kgAa7gIDlIfOCzjlanuUWg+aNZ4zev2fF6gkKKWlBwuxbUaY8XIS2MvN+N7sBNKyfPuoZgeZBwLNXnl4uUO3gS5QI8uzmC6ylNiHrOIc4nanvggkyfv/UFDHwo4ff7Zw7XxR2rBV0EkwFJz+USH6uNeT4N89SP7DcAjAlPy+Q+dg20V0dp6Wl8=;hbuZ5+wW2EgY49netqN0GQ=="
 ---

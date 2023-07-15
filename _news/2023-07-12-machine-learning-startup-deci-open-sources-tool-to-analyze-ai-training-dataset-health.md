@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A large dataset to train machine learning models for aerial vehicle design"
-    excerpt: "Designing reliable aircraft can be both challenging and time-consuming, as it often entails several steps and analyses. Deep learning models could potentially help to speed up aircraft design and deployment,"
-    publishedDateTime: 2023-07-10T16:24:00Z
-    webUrl: "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 72
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-large-dataset-to-tra.jpg"
-        width: 1410
-        height: 628
-        isCached: true
   - title: "New Dataset to Train Machine Learning Models for Aerial Vehicle Design"
     excerpt: "Designing and deploying aircrafts is a long and arduous process, but it might be sped up by deep learning models helping developers identify the most promising solutions or potential flaws with a specific aircraft."
     publishedDateTime: 2023-07-13T04:00:00Z
@@ -55,6 +39,15 @@ related:
         width: 1280
         height: 877
         isCached: true
+  - title: "Meta to train speech recognition engines on 'clusters' of speakers using new dataset"
+    excerpt: "Meta (formerly Facebook) has developed a new dataset which the company will use to improve the performance of automatic speech recognition (ASR) tools by clustering speech at the \"utterance level\"."
+    publishedDateTime: 2023-07-14T08:11:00Z
+    webUrl: "https://www.punjabnewsexpress.com/technology/news/meta-to-train-speech-recognition-engines-on-clusters-of-speakers-using-new-dataset-215710"
+    type: article
+    provider:
+      name: punjabnewsexpress
+      domain: punjabnewsexpress.com
+    quality: 27
 
 secured: "AhiWRtBmYSDM3kLh2xITzkqFD5UPCjv4SdYiyuQGFk/CQWG4BS/iYzbUhQjkVEEYgBIDxCZ705ZUKj/MrdQj/Rhumcj5jCBzNHbnWmF8oMuMahmwv9/YExOyUgiYP5t986zAx/tG9MzTwf1oIP8sRRxV1RzDLl0MEZ+T2yECARWoBxIth/64j6bG5oH5elHzi1okixr7079UDP491Q+BNddtmLy4GMzozV8ON9JY44BPWQXDsytJghgpjH/B9JOVLg6DLhM7DiezxFq/nYt4KAp1rmHODg5o/nsVYHxBXSJdLkeklEsYVerxPeAXmJhl+YU4rzAparJjfxaS/HoIUqGUlYWLRgeL+pEv3wZZhEaq80eJA6e1lJ1BCelzInDykU5jLUYqB6ueEmpD+H5C4yrm/5XG2YkXYeTzdv8sag/Voo+PSTKn1OxHowc9mizt6EAy0x/SBHVuNVYY2vfvxoKUi5QexNrP56ooLqibU6V/7ZYv9SF3xvKIbIzurbopajWcfcQ2LreDb49NyzZV7g==;tOoV3POAZU5UquEBRFfwRg=="
 ---

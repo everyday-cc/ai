@@ -111,29 +111,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 51
-  - title: "Google Says It'll Scrape Everything You Post Online for AI"
-    excerpt: "Previously, Google said the data would be used “for language models,” rather than “AI models,” and where the older policy just mentioned Google Translate, Bard and Cloud AI now make an appearance. This is an unusual clause for a privacy policy."
-    publishedDateTime: 2023-07-10T16:44:00Z
-    webUrl: "https://gizmodo.com/google-says-itll-scrape-everything-you-post-online-for-1850601486"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 49
-  - title: "How AI is Revolutionizing Out-of-Home Advertising"
-    excerpt: "AI is transforming the way brands create and deliver campaigns and also how they measure the effectiveness of their advertising efforts."
-    publishedDateTime: 2023-07-10T16:27:00Z
-    webUrl: "https://www.dmnews.com/how-ai-is-revolutionizing-out-of-home-advertising/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 39
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/07/julian-hochgesang-pgTUIohxAs8-unsplash.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Applicability of AI and Robots to Nursing"
     excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
     publishedDateTime: 2023-07-11T15:38:00Z

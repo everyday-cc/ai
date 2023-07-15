@@ -33,6 +33,15 @@ related:
       name: Investopedia
       domain: investopedia.com
     quality: 19
+  - title: "Quantum generative AI startup raises $4.8M, documents show"
+    excerpt: "A Harvard University spinout raised approximately $4.8 million as part of a planned $20 million raise, a new regulatory document revealed."
+    publishedDateTime: 2023-07-10T18:26:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/07/10/quantum-startup-raises-4-8m-documents-show.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "uGNlXhSnVKnNsVmNs4FbrEG5VU4+CeCbYhahBnLD7CsiMhcSbC2+qgwq1dLlh8Wvwjt+xeV5W0ojbwLbNK2jGSSrnipvAs+PvYNUw5EnVbGWBQnXflDBogLrCMQYge0Hq0IQ1+KCYeJjkjRL+vyjwrzL5jLuD+9brxBdRCyslQYRomGk23NCvaR6Il3piePIMvAW0rwJlaUSAHsHZJczwpR3yVSXt3r/UHTMRquO3Yg9MIh4bu7UNNf4H0TP0REtsB4L7PwxRLSL+ThZD3rRoFjpaO5Hv6cb5YnSO4gtXutCujNDDaCUs+5UA8PXEN8tgzYm3sCr3UkzjJjnIbDPkxeIAowUn8qAQ+5O7lswRvA=;AA4MGoMHCcwAdWa1OJ10ZQ=="
 ---

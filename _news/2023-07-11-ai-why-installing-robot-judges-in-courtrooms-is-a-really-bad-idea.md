@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/AI-why-installing-robot-judges-in-court
 webUrl: "https://www.econotimes.com/AI-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-1659185"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI: why installing ‘robot judges’ in courtrooms is a really bad idea"
-    excerpt: "This year, it emerged that a New York lawyer had used ChatGPT to write submissions to a court, only to discover that it cited cases that do not exist. This indicates that these types of tools are not capable of replacing lawyers yet, and in fact, may never be."
-    publishedDateTime: 2023-07-10T15:54:00Z
-    webUrl: "https://theconversation.com/ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-208718"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 54
-    images:
-      - url: "https://images.theconversation.com/files/536086/original/file-20230706-29-7etinn.jpg?ixlib=rb-1.1.0&rect=9%2C85%2C2994%2C1494&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "AI: Why installing 'robot judges' in courtrooms is a really bad idea"
     excerpt: "Science fiction's visions of the future include many versions of artificial intelligence (AI), but relatively few examples where software replaces human judges. For once, the real world seems to be changing in ways that are not predicted in stories."
     publishedDateTime: 2023-07-13T17:50:00Z
