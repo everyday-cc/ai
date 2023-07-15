@@ -230,6 +230,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "China publishes generative AI laws as 52% Stage 2 of AltSignals Presale sells out"
+    excerpt: "China has become one of the first nations to regulate the technology that drives well-known services like ChatGPT, having published new regulations for generative AI."
+    publishedDateTime: 2023-07-15T14:43:00Z
+    webUrl: "https://invezz.com/news/2023/07/15/china-publishes-generative-ai-laws-as-52-stage-2-of-altsignals-presale-sells-out/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 34
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/07/china-publishes-generative-ai-laws.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "LGBTQ+ consumers skeptical AI like ChatGPT will improve their financial experiences, Achieve survey finds"
     excerpt: "Wide-ranging survey on the personal finance experiences and challenges of the LGBTQ+ community reveals access to financial opportunities is"
     publishedDateTime: 2023-07-11T12:27:00Z
@@ -279,6 +293,15 @@ related:
     provider:
       name: Richmond
       domain: richmond.com
+    quality: 19
+  - title: "Indian IT services firms doubling down on generative AI applications"
+    excerpt: "Indian IT firms are doubling down on GenAI, with TCS, Wipro and HCL Tech keen to show investors their commitment. TCS plans to create a talent pool of 100K trained associates, Wipro will invest $1B in AI capabilities,"
+    publishedDateTime: 2023-07-15T12:53:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/indian-it-services-firms-doubling-down-on-generative-ai-applications/article67080148.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 19
   - title: "ChatGPT maker investigated by US regulators over AI risks"
     excerpt: "The US Federal Trade Commission has launched a wide-ranging investigation into ChatGPT maker OpenAI, as Washington’s top antitrust regulator turns its attention to artificial intelligence."

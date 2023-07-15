@@ -314,20 +314,6 @@ related:
         width: 500
         height: 271
         isCached: true
-  - title: "The Impact of AI on the Real Estate Market"
-    excerpt: "In their words, “that genie is out the bottle, and the only thing that will determine whether it will be good or ill will be the wishes we make.” But AI does not only serve the good; fraudsters will instruct AI to do their bidding as well,"
-    publishedDateTime: 2023-07-10T21:57:00Z
-    webUrl: "https://dsnews.com/news/07-10-2023/the-impact-of"
-    type: article
-    provider:
-      name: Default Servicing News
-      domain: dsnews.com
-    quality: 37
-    images:
-      - url: "https://dsnews.com/wp-content/uploads/2023/07/AdobeStock_602113162-620x330.jpeg"
-        width: 620
-        height: 330
-        isCached: true
   - title: "Software Company CEO Believes AI Will End Healthcare's Labor-Intensive Paper Chase"
     excerpt: "According to DataLink Software CEO Ashish Kachru, the healthcare industry can learn valuable lessons from other sectors that have embraced technology to streamline processes. Kachru believes that leveraging artificial intelligence (AI),"
     publishedDateTime: 2023-07-11T12:40:00Z

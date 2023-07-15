@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 type: article
 quality: 116
-heat: 356
+heat: 346
 published: true
 
 provider:
@@ -304,20 +304,6 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/Generative%20AI%20Artificial%20Intelligence%20Intellectual%20Property_2_0.jpg?itok=dSBPKUDO"
         width: 500
         height: 271
-        isCached: true
-  - title: "The Impact of AI on the Real Estate Market"
-    excerpt: "In their words, “that genie is out the bottle, and the only thing that will determine whether it will be good or ill will be the wishes we make.” But AI does not only serve the good; fraudsters will instruct AI to do their bidding as well,"
-    publishedDateTime: 2023-07-10T21:57:00Z
-    webUrl: "https://dsnews.com/news/07-10-2023/the-impact-of"
-    type: article
-    provider:
-      name: Default Servicing News
-      domain: dsnews.com
-    quality: 37
-    images:
-      - url: "https://dsnews.com/wp-content/uploads/2023/07/AdobeStock_602113162-620x330.jpeg"
-        width: 620
-        height: 330
         isCached: true
   - title: "AI hits the music industry"
     excerpt: "This is an audio transcript of the FT Weekend podcast episode: ‘AI hits the music industry’"

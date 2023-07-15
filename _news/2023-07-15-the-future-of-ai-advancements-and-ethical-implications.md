@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-ad
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -150,6 +150,41 @@
       ]
     },
     {
+      "path": "_news/2023-07-11-alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws.md",
+      "title": "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS",
+      "excerpt": "Highlights: Modernize with new technologies: Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers.md",
       "title": "AI, trust, and data security are key issues for finance firms and their customers",
       "excerpt": "Financial services customers are switching providers for a better digital experience. In the past year alone, 25% of customers switched banks. Here's why.",
@@ -433,6 +468,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-fintech-in-the-age-of-ai-4-trends-to-watch-out-for.md",
+      "title": "Fintech in the age of AI: 4 trends to watch out for",
+      "excerpt": "The fintech sector has seen rapid growth in India over the past few years and artificial intelligence is likely to have a major role in the space going forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
+      "originalUrl": "https://www.indiatoday.in/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202307/fintech-trends-in-ai-051707-16x9.jpg?VersionId=STUAezWZDWYC2ivXyqLJYze3a3Tk7jpM",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
+      "publishedDateTime": "2023-07-05T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1286,93 +1364,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-5-fintech-industry-challenges-and-how-to-overcome-them.md",
-      "title": "5 FinTech Industry Challenges and How to Overcome Them",
-      "excerpt": "In the ever-evolving landscape of financial technology (FinTech), business owners are navigating a sea of innovation, opportunity, and challenge.",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/blog/fintech/5-fintech-industry-challenges-and-how-overcome-them",
-      "originalUrl": "https://financialit.net/blog/fintech/5-fintech-industry-challenges-and-how-overcome-them",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/financial_it_blog_1920_x_1080_px_1_12.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending.md",
-      "title": "Broadridge Secures Patent for Machine Learning Tech Enhancing Securities Based Lending",
-      "excerpt": "Broadridge's patented machine learning technology delivers actionable ... Powered by decades of financial services expertise and a proven track record of helping wealth managers drive growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32918894/broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32918894/broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32918894",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32918894",
-      "publishedDateTime": "2023-06-20T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

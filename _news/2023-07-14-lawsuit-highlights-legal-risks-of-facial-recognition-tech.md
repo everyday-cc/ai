@@ -43,20 +43,6 @@ related:
         width: 800
         height: 544
         isCached: true
-  - title: "AI facial recognition tech brings ‘airport-style security’ to UK stores, says human rights group"
-    excerpt: "London (CNN) — A rising number of British stores are using a facial recognition system powered by artificial intelligence to identify repeat shoplifters in what one human rights group has called the spread of “airport-style security” on the high street."
-    publishedDateTime: 2023-07-15T07:28:00Z
-    webUrl: "https://ktvz.com/news/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 60
-    images:
-      - url: "https://ktvz.b-cdn.net/2023/03/osKcX94i-News-BG-NC21-logo-1200x675-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "New facial recognition technology at DTW allows flyers to get through security without a boarding pass"
     excerpt: "When you come into Detroit Metro Airport, check in with your airline, and then head over to security you may notice that TSA has added a new technology making the travel experience a little smoother."
     publishedDateTime: 2023-07-12T09:19:00Z
@@ -71,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI facial recognition tech brings ‘airport-style security’ to UK stores, says human rights group"
+    excerpt: "A rising number of British stores are using a facial recognition system powered by artificial intelligence to identify repeat shoplifters in what one human rights group has called the spread of “airport-style security” on the high street."
+    publishedDateTime: 2023-07-15T13:06:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 40
   - title: "Bunnings denies reintroducing facial recognition technology amid privacy investigation"
     excerpt: "Bunnings has been accused of switching its facial recognition software back on after a customer noticed the controversial technology was mentioned on a sign outside a store in Melbourne."
     publishedDateTime: 2023-07-14T06:55:00Z
@@ -85,6 +80,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Editorial: Merkley and the challenge of facial recognition technology"
+    excerpt: "Oregon Sen. Jeff Merkley has given us all a somewhat depressing lesson in facial recognition technology. The Democrat walked up to one of the new Transportation Safety Administration facial scanners and here’s the resulting headline from The Washington Post: “You can say no to a TSA face scan. But even a senator had trouble.”"
+    publishedDateTime: 2023-07-15T12:00:00Z
+    webUrl: "https://www.bendbulletin.com/opinion/editorial-merkley-and-the-challenge-of-facial-recognition-technology/article_10657484-225c-11ee-a67e-f3f107392af9.html"
+    type: article
+    provider:
+      name: The Bulletin
+      domain: bendbulletin.com
+    quality: 19
   - title: "Vaping advocates fight for recognition: Bill fails to differentiate harm reduction from smoking"
     excerpt: "The debate around vaping and its regulation is ongoing. Advocates argue that vaping can play a crucial role in harm reduction and smoking cessation efforts. They believe that regulating vaping based on its harm profile, rather than applying blanket restrictions, would be a more sensible approach."
     publishedDateTime: 2023-07-14T14:01:00Z

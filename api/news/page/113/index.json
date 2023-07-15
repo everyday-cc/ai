@@ -2,6 +2,317 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2023-05-04-artificial-intelligence-market-faces-review-from-uk-watchdog.md",
+      "title": "Artificial intelligence market faces review from UK watchdog",
+      "excerpt": "Britains competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT. The Competition Markets Authority said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/business/2023/05/04/artificial-intelligence-market-faces-review-from-uk-watchdog/",
+      "originalUrl": "https://www.clickondetroit.com/business/2023/05/04/artificial-intelligence-market-faces-review-from-uk-watchdog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-ai-powered-characters-changing-the-game.md",
+      "title": "AI-Powered Characters Changing The Game",
+      "excerpt": "Gamers have been clamoring for better non-player characters for years, and the arrival of conversational AI may finally provide the computing superpower to make it possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64534a81ed2c825a139c02fa/0x0.jpg?format=jpg&width=1200",
+          "width": 961,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
+      "publishedDateTime": "2023-05-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism.md",
+      "title": "UK Police Plan To Use Facial Recognition On Crowds During Coronation, Faces Criticism",
+      "excerpt": "Human rights advocates are concerned that police could use face-scanning technology to target protesters, as they have in the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541",
+      "originalUrl": "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-05/kheealvk_facial-recognition-pixabay-650_625x300_27_May_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1",
+      "publishedDateTime": "2023-05-04T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-inaugural-hackathon-explores-ai-healthcare-solutions.md",
+      "title": "Inaugural hackathon explores AI healthcare solutions",
+      "excerpt": "Abu Dhabi, UAE: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and the Weizmann Institute of Science (WIS) hosted the first-ever Human Phenotype Project Hackathon in Abu Dhabi. The event brought together 24 postgraduate students and researchers from diverse backgrounds to tackle some of the most pressing challenges in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzdkYTE0MDctN2ZmZS00/0/19111f53-5f0c-4db2-b7ea-cf179e886ab8-jfif.jpeg?f=3%3A2",
+          "width": 899,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1?amp=1",
+      "publishedDateTime": "2023-05-04T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-microsoft-confirms-speech-recognition-issues-in-windows-11-22h20-0.md",
+      "title": "Microsoft confirms speech recognition issues in Windows 11 22H20 0",
+      "excerpt": "According to the company, Windows 11 version 22H2 users might experience problems with speech recognition, expressive input, and handwriting after installing KB5022913 (and subsequent releases).",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2022/06/1654151911_windows_vulnerability_story.jpg",
+          "width": 760,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-protecto-boosts-privacy-protection-by-10x-with-lightning-fast-gpu-technology-from-nvidia.md",
+      "title": "Protecto Boosts Privacy Protection by 10x with Lightning-Fast GPU Technology from NVIDIA",
+      "excerpt": "Protecto, a leading provider of privacy intelligence solutions, today announced it has been able to boost the performance of its privacy models on NVI",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230504005083/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230504005083/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-joe-biden-wants-hackers-help-to-keep-ai-chatbots-in-check.md",
+      "title": "Joe Biden Wants Hackers’ Help to Keep AI Chatbots In Check",
+      "excerpt": "The White House will support an event at the Defcon security conference this summer that challenges experts to uncover flaws in generative AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
+      "originalUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6452fde252bb92d7ad7c2fde/master/pass/AI_Biz_GettyImages-1486928284.jpg",
+          "width": 2157,
+          "height": 1618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
+      "publishedDateTime": "2023-05-04T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report.md",
       "title": "Lack of AI and automation adoption hinders employee productivity: Slack report",
       "excerpt": "A new Slack report finds companies that have embraced AI are 90% more likely to report increased productivity levels than those that have not.",
@@ -869,352 +1180,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-police-accused-over-use-of-facial-recognition-at-king-charless-coronation.md",
-      "title": "Police accused over use of facial recognition at King Charles’s coronation",
-      "excerpt": "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "originalUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "publishedDateTime": "2023-05-03T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-we-must-regulate-ai-ftc-chair-khan-says.md",
-      "title": "“We must regulate AI,” FTC Chair Khan says",
-      "excerpt": "Khan pledged to use existing laws to regulate AI in a New York Times op-ed, \"We Must Regulate A.I. Here's How.\" In the piece, she warns of AI risks such as market dominance by large tech firms, collusion,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/lina_khan_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/amp/",
-      "publishedDateTime": "2023-05-03T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-axl-edtech-launches-ai-language-and-marketing-innovations.md",
-      "title": "AXL EdTech Launches AI Language and Marketing Innovations",
-      "excerpt": "AXL EdTech's team shares that its language software is an AI avatar that automatically translates videos with a unique voice simulator that actually replicates the original speaker's voice timbre and lip movements,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-vintras-showcases-its-artificial-intelligence-technology-in-a-demo.md",
-      "title": "Vintra's showcases it's artificial intelligence technology in a demo",
-      "excerpt": "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6326697009112",
-      "originalUrl": "https://www.foxnews.com/video/6326697009112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/280d97bb-9421-4560-a8d3-33fd36867cb4/9c935a5d-5894-4272-adb6-2c41dc0c7a74/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-microsofts-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws.md",
-      "title": "Microsoft's Premium ChatGPT Service Set to Supercharge Azure Growth: Analyst Predicts Even Wider Lead Over AWS",
-      "excerpt": "Microsoft's reportedly upcoming release of premium private ChatGPT service for enterprises should have a positive upwards bias to Horan's already industry-leading FY24E Azure growth of constant currency 24% (+27% USD),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-s-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws-1032288927",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-s-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws-1032288927",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/05/03/openai_0.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-new-breed-of-search-with-ai-assist-combines-vector-database-and-keywords.md",
-      "title": "New breed of search with AI assist combines vector database and keywords",
-      "excerpt": "The AI-enabled NeuralSearch from Algolia can understand the intent and context behind queries and deliver optimized results at lower cost.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/",
-      "originalUrl": "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1396158883.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/",
-      "publishedDateTime": "2023-05-03T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health.md",
-      "title": "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health",
-      "excerpt": "\"AI is transforming the trillion dollar healthcare insurance industry, both the businesses themselves and the care they facilitate,\" said Sri Ambati, CEO and founder of H2O.ai. \"By helping Nippon Life advance their AI initiatives and create better customer experiences,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/05/03/9807216.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/05/03/9807216.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

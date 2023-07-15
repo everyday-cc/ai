@@ -524,6 +524,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-11-ai-service-robotics-france.md",
+      "title": "AI Service Robotics - France",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$171.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.38%, resulting in a market volume of US$413 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/france",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/france",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-ai-industrial-robotics-russia.md",
       "title": "AI Industrial Robotics - Russia",
       "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$58.19m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.56%, resulting in a market volume of US$ ...",
@@ -569,34 +612,34 @@
     {
       "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
       "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "Robots and artificial intelligence (AI) are expected to play a key role in nursing practice in the future. In this regard, researchers from Japan ask whether intelligent machines can replace humans as nurses.",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
+      "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T12:49:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "publishedDateTime": "2023-07-10T12:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -605,10 +648,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Robotics",
         "AI",
-        "AI Ethics",
-        "AI in Robotics"
+        "AI Ethics"
       ]
     },
     {
@@ -1330,49 +1372,6 @@
       "provider": {
         "name": "Al Bawaba News",
         "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover.md",
-      "title": "AI anxiety: The top 20 professions bracing for the robot takeover",
-      "excerpt": "A recent study has revealed the professions most concerned about being replaced by artificial intelligence (AI). The study, 'AI Anxiety: The Top 20 Professions Bracing for the Robot Takeover',",
-      "sourceUrl": null,
-      "webUrl": "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/",
-      "originalUrl": "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=d3c486b1-1b3d-5c2c-be50-172687391156&function=fit&type=preview",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/amp/",
-      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/career-education/ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover/amp/",
-      "publishedDateTime": "2023-07-08T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jamaica Observer",
-        "domain": "jamaicaobserver.com",
         "images": null,
         "publishers": null,
         "authors": null

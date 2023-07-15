@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-20-5-fintech-industry-challenges-and-how-to-overcome-them.md",
+      "title": "5 FinTech Industry Challenges and How to Overcome Them",
+      "excerpt": "In the ever-evolving landscape of financial technology (FinTech), business owners are navigating a sea of innovation, opportunity, and challenge.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/blog/fintech/5-fintech-industry-challenges-and-how-overcome-them",
+      "originalUrl": "https://financialit.net/blog/fintech/5-fintech-industry-challenges-and-how-overcome-them",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/financial_it_blog_1920_x_1080_px_1_12.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending.md",
+      "title": "Broadridge Secures Patent for Machine Learning Tech Enhancing Securities Based Lending",
+      "excerpt": "Broadridge's patented machine learning technology delivers actionable ... Powered by decades of financial services expertise and a proven track record of helping wealth managers drive growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32918894/broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32918894/broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32918894",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32918894",
+      "publishedDateTime": "2023-06-20T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-machine-learning-helps-researchers-identify-hit-songs-with-97-accuracy.md",
       "title": "Machine learning helps researchers identify hit songs with 97% accuracy",
       "excerpt": "They also applied machine learning to the neural responses to the first minute of the songs. In this case, hits were correctly identified with a success rate of 82%. “This means that streaming services ... of any commercial or financial relationships ...",
@@ -1276,101 +1363,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023.md",
-      "title": "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023",
-      "excerpt": "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023 Singapore, 1 June 2023… The Monetary Authority of Singapore (MAS) and Elevandi[1] today announced the theme of the Singapore FinTech Festival (SFF) 2023 – ‘Applications of Artificial Intelligence (AI) in Financial Services’.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/",
-      "originalUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2023/06/SPO.jpg",
-          "width": 624,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/",
-      "publishedDateTime": "2023-06-01T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival.md",
-      "title": "Singapore Regulator Says AI is Focus of Marquee Fintech Festival",
-      "excerpt": "Artificial intelligence will take center stage at Singapore’s annual fintech event in November, underscoring the growing significance of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-01/singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-01/singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id_yFIvm7P3Y/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

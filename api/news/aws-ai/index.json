@@ -196,6 +196,41 @@
       ]
     },
     {
+      "path": "_news/2023-07-11-alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws.md",
+      "title": "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS",
+      "excerpt": "Highlights: Modernize with new technologies: Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-top-11-ai-as-a-service-companies-2023.md",
       "title": "Top 11 AI as a Service Companies 2023",
       "excerpt": "Google also provides a suite of AI services through its Google Cloud Platform (GCP). This includes pre-trained models, APIs, and tools for natural language processing, computer vision, speech recognition, translation, recommendation systems, and more.",
@@ -1398,58 +1433,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk.md",
-      "title": "Define customized permissions in minutes with Amazon SageMaker Role Manager via the AWS CDK",
-      "excerpt": "Machine learning (ML) administrators play a critical role in maintaining the security and integrity of ML workloads. Their primary focus is to ensure that users operate with the utmost security, adhering to the principle of least privilege. However, accommodating the diverse needs of different user personas",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/define-customized-permissions.jpg",
-          "width": 1023,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T13:42:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

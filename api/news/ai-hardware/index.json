@@ -55,7 +55,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 272,
+      "heat": 252,
       "tags": null,
       "images": [
         {
@@ -159,7 +159,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/14/1-beaten-down-stock-that-could-become-a-massive-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -290,6 +290,60 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-top-6-ai-trends-2023.md",
+      "title": "Top 6 AI Trends 2023",
+      "excerpt": "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/05/top-generative-ai-apps-tools.png",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-amds-ai-chips-could-be-a-multibillion-dollar-opportunity-analyst-says.md",
       "title": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says",
       "excerpt": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says. Cowen says investors should overlook any short-term softness in Advanced Micro Devices’s business and",
@@ -341,7 +395,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1367,58 +1421,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-south-korea-wants-to-be-a-top-ai-hub-its-memory-chip-dominance-could-be-an-advantage.md",
-      "title": "South Korea wants to be a top A.I. hub — its memory chip dominance could be an advantage",
-      "excerpt": "South Korea is aiming to become one of the world's top three AI powerhouses by 2027, following closely behind the U.S. and China, according to the nation's \"digital strategy.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107265898-1688357564970-gettyimages-1258636487-AFP_33J733J.jpeg?v=1688615964",
-          "width": 8256,
-          "height": 5504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "publishedDateTime": "2023-07-05T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

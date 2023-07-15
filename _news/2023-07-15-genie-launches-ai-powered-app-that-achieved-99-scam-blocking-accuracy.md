@@ -33,6 +33,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Payment Asia launches AI-powered processing service"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-14T11:29:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/payment-asia-launches-ai-powered-processing-service/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 19
 
 secured: "iV6Gons6HxEoP4MqbdmpRGwFd3Z57d/UWG4VdqRSJu0TAC2c5P2qfSlxNOW8uGP/qHBLPLMfD6WOnVxPxBfzUzdokP9gTMujfXvjwO4R7omBpeXfbfCEchiso6LFPKELIXjgSU/EB9i23h+n+ckDC+wXrmMbkxCtibwuhDWCV7EH5uyevJKJoGU1DEzVbKsDZb8KRYad6WajxSn9f+jcsfryj4128d7jqjWxXuG3EgBA+fbK85InHk0ujvbySqtdlCPhfmCCTjlRgya9284lWLU38jMEn1qpwW32occepYepEFOayQuH1BgUIvN9oi+zYi+EZdjHx0x+CmAlSDxeKtKPvdUuhbmX/nZC8ttaVYY=;P7a1ykxpn18Bs+MySKZFkw=="
 ---

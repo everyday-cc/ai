@@ -102,15 +102,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-07-10T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/07/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
   - title: "Applicability of AI and Robots to Nursing"
     excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
     publishedDateTime: 2023-07-11T15:38:00Z

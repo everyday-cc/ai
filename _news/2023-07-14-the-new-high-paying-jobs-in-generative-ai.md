@@ -68,6 +68,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
+  - title: "This is how generative AI will change the gig economy for the better"
+    excerpt: "Artificial intelligence will augment work and could add more opportunities to the job market rather than tank it, according to tech executive Gali Arnon. While some fear that AI will erase huge numbers of roles, Arnon argues that AI will accelerate the pace of job creation, augment work, and accelerate startup opportunities."
+    publishedDateTime: 2023-07-15T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/this-is-how-generative-ai-will-change-the-gig-economy-for-the-better/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Government warns on generative AI use"
     excerpt: "Positioned as a baseline policy that will evolve over time, the Digital Transformation Agency’s (DTA’s) new Interim Guidance for Agencies on Government Use of Generative AI Platforms outlines four core principles that delineate its perception of the key risks posed by generative AI technologies."
     publishedDateTime: 2023-07-11T01:04:00Z

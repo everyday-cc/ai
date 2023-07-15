@@ -1,45 +1,29 @@
 ---
 category: news
 title: "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice"
-excerpt: "Robots and artificial intelligence (AI) are expected to play a key role in nursing practice in the future. In this regard, researchers from Japan ask whether intelligent machines can replace humans as nurses."
-publishedDateTime: 2023-07-10T19:49:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
+excerpt: "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ..."
+publishedDateTime: 2023-07-10T19:08:00Z
+originalUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
+webUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp"
 type: article
-quality: 90
-heat: 100
-published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
   - AI Ethics
-  - AI in Robotics
 
-related:
-  - title: "Robot nurses, powered by AI – a viable perspective?"
-    excerpt: "Robots and artificial intelligence (AI) are expected to play a key role in nursing practice in the future. In this regard, researchers from Japan ask whether intelligent machines can replace humans as nurses."
-    publishedDateTime: 2023-07-12T11:19:00Z
-    webUrl: "https://healthcare-in-europe.com/en/news/robot-nurses-ai-viable.html"
-    type: article
-    provider:
-      name: healthcare-in-europe.com
-      domain: healthcare-in-europe.com
-    quality: 56
-    images:
-      - url: "https://healthcare-in-europe.com/media/story/28459/rect-01-31347695101-a4bcbdbcf3-k.jpg"
-        width: 400
-        height: 240
-        isCached: true
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
 
-secured: "pcBDhSa3Dm3FfesnDJzAR+HpbI3qBaAdFKCDHpvuVtzwaiHaKQQqtPG/BTVQ+whKxFdgh54DvoAtLKN1qj0f8XUF9GKD5wxrPirs0qV59JDroMdnhr+WiIORg5EbqKMu6vXx9rdoHD88U3+l+yGTXxmzpDqAyRzduPklS2MB7wpUilEC645DWaiUKoYlVfej8fjFisbNZO++MNLp2H3rwskUJVIWuzryqdu6H4E+tjEdMhBthcm7bTXuBYaKDi9HPMvQJ555X8J5B6EGK+62D9/5zeGgJuIP7ReQuPwI3H4+XVWOAX3+V8AGX1j4Qs7VmGnJbiGhNUYfUFX/eW9B6nJFWVap20oftRrTgTMM6Yo=;oGSedkzzaQgtOr4yUPq4aQ=="
+secured: "BssfYmkKgmVdxIrv5h2D5YLXDn0tJqEWT3jvkRCohp1V/i5xUFS3feCt89ht3e9w3zHMBx7a60wG4XjBT5dxqX4/vn1aYtX5oI/VIB0TBTaCY6yaHJASmrf1idtjgaTf+AKGMh5nsNo9mXgS8ZAyYYYizm3QiTQ8ekDx44iCKC3+wZIz/Z0rIflMTJ4IlVFmY+T3iewpmFf+wgxrBD5oY7QBOF+WXpze6/EHtKiGpCWsINB+ij6T9i4zzgEBn71fJmAbAbbwfkSk1IY9Wel4dOVr2wa5CSk1CQDGTqpJCkWXo8ZLOcl2W/GoGtKwRMnRNTeRV/ccusRcG1WjdWMfHytEyUHCUa3Cts551Nefy2M=;1SXDAea0Zskx5tMYDYe82Q=="
 ---
 

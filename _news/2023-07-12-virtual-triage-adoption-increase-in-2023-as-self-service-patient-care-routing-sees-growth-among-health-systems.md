@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "AI’s Increasing Role in the Health Care Delivery System: Key Legal Considerations"
-    excerpt: "No personal services are more important than health care. The use of artificial intelligence (AI), involving machines to perform tasks normally requiring human intelligence, is leading to an expansion"
-    publishedDateTime: 2023-07-10T19:39:00Z
-    webUrl: "https://www.natlawreview.com/article/ai-s-increasing-role-health-care-delivery-system-key-legal-considerations"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 14
 
 secured: "N7WvWDsbe/NBZumzjco0l5SHSugdypJHncDAl5SIO0FiwLXsgjzPREQnB9B98M6uY8l4o8p/6dkDaWYZIlL+TFWQuCdYHy5EIpEfafnzwGN1JxtdW7vHSz1Cz8fm2fmMy4RGOWxFy+1cdyDp4i3lLHWbqQrOyMw2MbJu21cBLmbht/rAmpghrA8fNpZ0d2w7q3KTvhyusi+kyKs9rqWnRApzEOJNcxuuU1HVPT8hk+FULjpkUurgSBSmdJYJ2RWvCrjqbP3J/MdWlQtfkWZkbHB7SBpMHZeLXddaAWNc3iK5Ag6wYx+4WfavVhNVvPLPL5P02JjBXrKBeh5DnZxR3EpyRlNNvXk4MFdARxzg854=;AwNQYMCfXDIBcokgqYoJAA=="
 ---

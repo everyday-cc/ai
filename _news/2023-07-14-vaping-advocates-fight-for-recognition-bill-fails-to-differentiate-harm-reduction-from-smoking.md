@@ -35,20 +35,6 @@ related:
         width: 800
         height: 544
         isCached: true
-  - title: "AI facial recognition tech brings ‘airport-style security’ to UK stores, says human rights group"
-    excerpt: "London (CNN) — A rising number of British stores are using a facial recognition system powered by artificial intelligence to identify repeat shoplifters in what one human rights group has called the spread of “airport-style security” on the high street."
-    publishedDateTime: 2023-07-15T07:28:00Z
-    webUrl: "https://ktvz.com/news/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 60
-    images:
-      - url: "https://ktvz.b-cdn.net/2023/03/osKcX94i-News-BG-NC21-logo-1200x675-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Lawsuit Highlights Legal Risks of Facial Recognition Tech"
     excerpt: "Multiple Minnesota law enforcement agencies face a civil rights lawsuit over the use of facial recognition technology in an arrest. However, the government denies facial recognition led to the arrest."
     publishedDateTime: 2023-07-13T20:23:00Z
@@ -79,6 +65,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI facial recognition tech brings ‘airport-style security’ to UK stores, says human rights group"
+    excerpt: "A rising number of British stores are using a facial recognition system powered by artificial intelligence to identify repeat shoplifters in what one human rights group has called the spread of “airport-style security” on the high street."
+    publishedDateTime: 2023-07-15T13:06:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 40
   - title: "Bunnings denies reintroducing facial recognition technology amid privacy investigation"
     excerpt: "Bunnings has been accused of switching its facial recognition software back on after a customer noticed the controversial technology was mentioned on a sign outside a store in Melbourne."
     publishedDateTime: 2023-07-14T06:55:00Z
@@ -93,6 +88,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Editorial: Merkley and the challenge of facial recognition technology"
+    excerpt: "Oregon Sen. Jeff Merkley has given us all a somewhat depressing lesson in facial recognition technology. The Democrat walked up to one of the new Transportation Safety Administration facial scanners and here’s the resulting headline from The Washington Post: “You can say no to a TSA face scan. But even a senator had trouble.”"
+    publishedDateTime: 2023-07-15T12:00:00Z
+    webUrl: "https://www.bendbulletin.com/opinion/editorial-merkley-and-the-challenge-of-facial-recognition-technology/article_10657484-225c-11ee-a67e-f3f107392af9.html"
+    type: article
+    provider:
+      name: The Bulletin
+      domain: bendbulletin.com
+    quality: 19
 
 secured: "cVL5/9bdADQsM+I5oUN1yjS14KZlwvu9u5DOlq7X7gCdaaPmb8gYSHYq/Yn7O74XmXRopmRST6YhcmVh+eu7ArmiXQV+boSZp9CWk0ddY6x4Nrjzxwybn2jggitiWOKdgt3u8qfc03wdFmLGDUHcKpNsCQa15PN0CYJG+vIogkzYLhDYg2/hMt3Yt0ji99ADckUpAAsNCsUynRlYMeNvPUGwWXXQbrWzArRzPAgwNyE/ngY6zE9GIhYgEFud36Uu0bS2EaNtGhR5AjnmwNd7UCltrUh4UbhSREZzX58yxHxxxWStPCPqtjT1o66QumfnQS4QrMYD96R/+rgZZzKjQyrWyZ74R3wQrgfL/A4bqN/DsEZCsc8jxRcdt+X92TAurJSr5tKKhrfuD66AHEHxdpgJngsQVzh9r90PCPtBQ6NYfJuZ8C7ao/ET0cMf2QK1CU9EbUv6GDdF1D2tqeCd5C2XmAAjypjg2u701anWfzLCv3ya3UF/GslRXktjYB/PCnhSMe0bZ/PIuJN8lok1iA==;6iKyyTLtPqLk9NVlOvi19w=="
 ---

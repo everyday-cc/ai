@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "AI’s Increasing Role in the Health Care Delivery System: Key Legal Considerations"
-    excerpt: "No personal services are more important than health care. The use of artificial intelligence (AI), involving machines to perform tasks normally requiring human intelligence, is leading to an expansion"
-    publishedDateTime: 2023-07-10T19:39:00Z
-    webUrl: "https://www.natlawreview.com/article/ai-s-increasing-role-health-care-delivery-system-key-legal-considerations"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 14
   - title: "Virtual Triage Adoption Increase in 2023 as Self-Service Patient Care Routing Sees Growth Among Health Systems"
     excerpt: "New research of digital patient tools finds online scheduling and AI virtual assistants growth across the top 647 U.S. health systems CHICAGO,  /PRNewswire/ -- Clearstep, a leader in patient-facing digital triage and AI healthcare assistants,"
     publishedDateTime: 2023-07-12T16:26:00Z

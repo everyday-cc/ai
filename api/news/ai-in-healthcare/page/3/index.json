@@ -2,41 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-15-cognitive-stimulation-therapy-cst-and-icst.md",
-      "title": "Cognitive Stimulation Therapy (CST) and iCST",
-      "excerpt": "Saint Louis University’s Geriatric Education Center (GEC) offers cognitive stimulation therapy (CST), a support ... Disclaimer This project is supported by the Health Resources and Services Administration (HRSA) of the U.S. Department of Health and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
-      "originalUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Saint Louis University",
-        "domain": "slu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-06-15-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
       "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
       "excerpt": "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030",
@@ -1348,6 +1313,59 @@
         "AI",
         "AI in Education",
         "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-fostering-international-collaboration-in-ai-in-healthcare.md",
+      "title": "Fostering International Collaboration In AI In Healthcare",
+      "excerpt": "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/",
+      "publishedDateTime": "2023-06-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
         "AI in Robotics"
       ]
     }

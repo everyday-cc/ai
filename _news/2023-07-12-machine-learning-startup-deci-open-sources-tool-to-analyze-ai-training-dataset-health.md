@@ -40,14 +40,19 @@ related:
         height: 877
         isCached: true
   - title: "Meta to train speech recognition engines on 'clusters' of speakers using new dataset"
-    excerpt: "Meta (formerly Facebook) has developed a new dataset which the company will use to improve the performance of automatic speech recognition (ASR) tools by clustering speech at the \"utterance level\"."
-    publishedDateTime: 2023-07-14T08:11:00Z
-    webUrl: "https://www.punjabnewsexpress.com/technology/news/meta-to-train-speech-recognition-engines-on-clusters-of-speakers-using-new-dataset-215710"
+    excerpt: "Meta (formerly Facebook) has developed a new dataset which the company will use to improve the performance of automatic speech recognition (ASR) tools by clustering speech at the"
+    publishedDateTime: 2023-07-14T08:18:00Z
+    webUrl: "https://daijiworld.com/news/newsDisplay?newsID=1099743"
     type: article
     provider:
-      name: punjabnewsexpress
-      domain: punjabnewsexpress.com
-    quality: 27
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 47
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Sankalp-Brochure_nidhi_1.jpg"
+        width: 280
+        height: 250
+        isCached: true
 
 secured: "AhiWRtBmYSDM3kLh2xITzkqFD5UPCjv4SdYiyuQGFk/CQWG4BS/iYzbUhQjkVEEYgBIDxCZ705ZUKj/MrdQj/Rhumcj5jCBzNHbnWmF8oMuMahmwv9/YExOyUgiYP5t986zAx/tG9MzTwf1oIP8sRRxV1RzDLl0MEZ+T2yECARWoBxIth/64j6bG5oH5elHzi1okixr7079UDP491Q+BNddtmLy4GMzozV8ON9JY44BPWQXDsytJghgpjH/B9JOVLg6DLhM7DiezxFq/nYt4KAp1rmHODg5o/nsVYHxBXSJdLkeklEsYVerxPeAXmJhl+YU4rzAparJjfxaS/HoIUqGUlYWLRgeL+pEv3wZZhEaq80eJA6e1lJ1BCelzInDykU5jLUYqB6ueEmpD+H5C4yrm/5XG2YkXYeTzdv8sag/Voo+PSTKn1OxHowc9mizt6EAy0x/SBHVuNVYY2vfvxoKUi5QexNrP56ooLqibU6V/7ZYv9SF3xvKIbIzurbopajWcfcQ2LreDb49NyzZV7g==;tOoV3POAZU5UquEBRFfwRg=="
 ---

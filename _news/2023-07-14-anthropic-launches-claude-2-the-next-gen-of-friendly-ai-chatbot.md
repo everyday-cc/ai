@@ -87,20 +87,6 @@ related:
         width: 735
         height: 588
         isCached: true
-  - title: "What Sarah Silverman’s lawsuit against OpenAI and Meta really means | The AI Beat"
-    excerpt: "Sarah Silverman is suing OpenAI and Meta for copyright infringement. Here's what this LLM lawsuit really means."
-    publishedDateTime: 2023-07-10T21:02:00Z
-    webUrl: "https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/bigstock-LOS-ANGELES-NOV-Sarah-Si-268982926.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Elon Musk Launches AI Startup xAI With Team of Former Google, OpenAI Engineers"
     excerpt: "Billionaire Elon Musk 's xAI on Wednesday announced the formation of the artificial intelligence (AI) startup with the launch of its website, unveiling a team made up of engineers who have worked at companies from Alphabet -owned Google to Microsoft and OpenAI."
     publishedDateTime: 2023-07-12T17:02:00Z
@@ -139,15 +125,6 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 47
-  - title: "Book authors sue OpenAI and Meta over text used to train AI"
-    excerpt: "On Friday, the Joseph Saveri Law Firm filed US federal class-action lawsuits on behalf of Sarah Silverman and other authors against OpenAI and Meta, accusing the companies of illegally using copyrighted material to train AI language models such as ChatGPT and LLaMA."
-    publishedDateTime: 2023-07-10T19:42:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/book-authors-sue-openai-and-meta-over-text-used-to-train-ai/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
     quality: 47
   - title: "AI Startup Anthropic Releases a New Version of Its ChatGPT Rival, Claude"
     excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, has released a new version of its AI bot, named Claude."

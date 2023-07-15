@@ -2,6 +2,202 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-12-embracing-a-new-frontier-of-ai-from-the-inside-out.md",
+      "title": "Embracing A New Frontier Of AI, From The Inside Out",
+      "excerpt": "Every day, we put more than 60 AI models to work to strengthen the products and experiences we’re delivering for members– from optimizing appointment scheduling to quickly connect members with a quality physician in minutes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/",
+      "originalUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ada8fea7497968d8edfb03/0x0.jpg?format=jpg&width=1200",
+          "width": 1150,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/",
+      "publishedDateTime": "2023-07-11T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.md",
+      "title": "Discord bans AI-generated child sex abuse material and teen dating",
+      "excerpt": "SAN FRANCISCO — Discord’s head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107269952-16891123952021-03-31t175917z_1515270024_rc2hmm9fq8tq_rtrmadp_0_discord-audio.jpeg?v=1689112496",
+          "width": 3500,
+          "height": 2233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "publishedDateTime": "2023-07-11T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-shutterstock-expands-deal-with-openai-to-build-generative-ai-tools.md",
+      "title": "Shutterstock expands deal with OpenAI to build generative AI tools",
+      "excerpt": "Shutterstock has expanded its strategic deal with OpenAI to build new generative AI tools, the companies announced.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/",
+      "originalUrl": "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/openai-getty.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/amp/",
+      "publishedDateTime": "2023-07-11T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-lisa-su-believes-ai-will-soon-be-an-integral-part-of-chip-design.md",
+      "title": "Lisa Su believes AI will soon be an integral part of chip design",
+      "excerpt": "According to a recent survey, the so-called AI revolution is turning out to be quite depressing for many executives in the tech space. There are growing",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html",
+      "originalUrl": "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-how-ai-can-make-gaming-better-for-all-players.md",
       "title": "How AI can make gaming better for all players",
       "excerpt": "The project was inspired by Lancy Carr, a quadriplegic video game streamer who utilizes a head-tracking mouse as part of his gaming setup. After his existing hardware was lost in a fire, Google stepped in to create an open source,",
@@ -10,7 +206,7 @@
       "originalUrl": "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -157,7 +353,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -457,7 +653,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 356,
+      "heat": 346,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -777,6 +973,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-11-ai-service-robotics-france.md",
+      "title": "AI Service Robotics - France",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$171.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.38%, resulting in a market volume of US$413 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/france",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/france",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-air-force-showcases-how-artificial-intelligence-will-help-military-dominate-airspace.md",
       "title": "Air Force showcases how artificial intelligence will help military dominate airspace",
       "excerpt": "Artificial intelligence working to help protect national security is \"here to stay,\" and the U.S. Air Force is already showcasing how AI can dominate airspace. \"We need to recognize that AI is here. It's here to stay.",
@@ -970,259 +1209,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-driverless-taxis-to-start-paid-service-in-beijing.md",
-      "title": "Driverless taxis to start paid service in Beijing",
-      "excerpt": "BEIJING: A larger fleet of driverless taxis will soon be available for hire in the capital city as the Office of the Beijing High-Level Autonomous Driving Demonstration Zone has decided to launch the commercial operation of autonomous vehicles and expand their serviceable area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing",
-      "originalUrl": "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2023/07/11/2170762.jpeg",
-          "width": 1198,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai.md",
-      "title": "Elon Musk, Steve Wozniak Sound Alarm On Dangerous AI",
-      "excerpt": "Elon Musk and Steve Wozniak, the co-founder of Apple (AAPL), sounded the alarm last week about the perils of AI experiments. Their Future of Life petition is nearing 20,000 signatures. Aggressive investors should buy Ark Genomic Revolution (ARKG). Let me explain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac98a90ef5570e89534a0b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/",
-      "publishedDateTime": "2023-07-10T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-us-senators-to-get-classified-white-house-ai-briefing-tuesday.md",
-      "title": "US senators to get classified White House AI briefing Tuesday",
-      "excerpt": "The White House will brief senators Tuesday on artificial intelligence in a classified setting as lawmakers consider adopting legislative safeguards on the fast-moving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/us-senators-get-classified-white-house-ai-briefing-tuesday-2023-07-10/",
-      "originalUrl": "https://www.reuters.com/world/us/us-senators-get-classified-white-house-ai-briefing-tuesday-2023-07-10/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/uPDM2NKKmcR1TMaHooZ1PCIZeiQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TAOE7IVTAJLQVFQ2275V5B5HOI.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-announcing-the-nominees-for-venturebeats-5th-annual-women-in-ai-awards.md",
-      "title": "Announcing the nominees for VentureBeat’s 5th Annual Women in AI awards",
-      "excerpt": "VentureBeat announces the nominees for the 5th annual Women in AI Awards. The winners will be announced at VentureBeat Transform on July 12.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/announcing-the-nominees-for-venturebeats-5th-annual-women-in-ai-awards/",
-      "originalUrl": "https://venturebeat.com/ai/announcing-the-nominees-for-venturebeats-5th-annual-women-in-ai-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/womenAI_6.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-top-11-ai-as-a-service-companies-2023.md",
-      "title": "Top 11 AI as a Service Companies 2023",
-      "excerpt": "Google also provides a suite of AI services through its Google Cloud Platform (GCP). This includes pre-trained models, APIs, and tools for natural language processing, computer vision, speech recognition, translation, recommendation systems, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/aiaas-companies/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/aiaas-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/07/ew-ai-as-a-service-companies.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

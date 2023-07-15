@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing the nominees for VentureBeat’s 5th Annual Women in AI awards"
-    excerpt: "VentureBeat announces the nominees for the 5th annual Women in AI Awards. The winners will be announced at VentureBeat Transform on July 12."
-    publishedDateTime: 2023-07-10T21:22:00Z
-    webUrl: "https://venturebeat.com/ai/announcing-the-nominees-for-venturebeats-5th-annual-women-in-ai-awards/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/womenAI_6.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Announcing the winners of VentureBeat’s 5th Annual Women in AI awards"
     excerpt: "The winners were presented with the awards by VentureBeat’s Sharon Goldman, senior AI writer, and Gina Joseph, chief strategy officer. Joseph emphasized the importance of the aw"
     publishedDateTime: 2023-07-13T00:30:00Z

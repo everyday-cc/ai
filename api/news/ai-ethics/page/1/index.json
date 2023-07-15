@@ -10,7 +10,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -85,6 +85,112 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards.md",
+      "title": "Announcing the winners of VentureBeat’s 5th Annual Women in AI awards",
+      "excerpt": "The winners were presented with the awards by VentureBeat’s Sharon Goldman, senior AI writer, and Gina Joseph, chief strategy officer. Joseph emphasized the importance of the aw",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/",
+      "originalUrl": "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/VBDM0091.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-top-6-ai-trends-2023.md",
+      "title": "Top 6 AI Trends 2023",
+      "excerpt": "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/05/top-generative-ai-apps-tools.png",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI Ethics"
       ]
     },
     {
@@ -299,34 +405,34 @@
     {
       "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
       "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "Robots and artificial intelligence (AI) are expected to play a key role in nursing practice in the future. In this regard, researchers from Japan ask whether intelligent machines can replace humans as nurses.",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
+      "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T12:49:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "publishedDateTime": "2023-07-10T12:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -335,10 +441,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Robotics",
         "AI",
-        "AI Ethics",
-        "AI in Robotics"
+        "AI Ethics"
       ]
     },
     {
@@ -1356,110 +1461,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-hr-software.md",
-      "title": "How generative AI is already changing the workplace: Oracle just added it to HR software",
-      "excerpt": "Generative AI-powered features will improve the job posting, search, and hiring processes for HR pros​ and job applicants alike, the company says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cb7e8fe61ddc541ff899e37f15206a20bb3c8b90/2023/06/28/fde1d28f-b5df-42db-8111-ec12a6095501/oracle.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
-      "publishedDateTime": "2023-06-28T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ai-arms-race-this-global-index-ranks-which-nations-dominate-ai-development.md",
-      "title": "AI arms race: This global index ranks which nations dominate AI development",
-      "excerpt": "Although the past few months have seen a surge in AI developments, the global AI arms race has been underway for years. Since 2020, Tortoise Media has produced its annual Global AI Index, which ranks the nations competing for AI dominance -- and the latest rankings are in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-arms-race-this-global-index-ranks-which-nations-are-dominating-ai-development/",
-      "originalUrl": "https://www.zdnet.com/article/ai-arms-race-this-global-index-ranks-which-nations-are-dominating-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2771880621e26c9077d6e2e7e0db4cb2dbaaee8a/2023/06/28/d777c4cd-81cb-44cf-a91e-287d5756ef88/screenshot-2023-06-28-at-10-47-52-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-arms-race-this-global-index-ranks-which-nations-are-dominating-ai-development/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-arms-race-this-global-index-ranks-which-nations-are-dominating-ai-development/",
-      "publishedDateTime": "2023-06-28T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

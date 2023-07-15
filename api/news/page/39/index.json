@@ -2,6 +2,354 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-06-20-can-ai-make-airspace-security-smarter.md",
+      "title": "Can AI Make Airspace Security Smarter?",
+      "excerpt": "The impact of AI on keeping our airspace safe is determined by how well it is designed and what it has been trained on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648c6132caf85eefc9b1e992/0x0.jpg?format=jpg&crop=3033,1707,x0,y156,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/amp/",
+      "publishedDateTime": "2023-06-20T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-ai-vs-professional-translators-which-is-better.md",
+      "title": "AI vs Professional Translators: Which is better?",
+      "excerpt": "The Rise of AI in Translation Services AI technology has made remarkable advancements in recent years, revolutionising various industries, including language translation. Machine translation, a subfield of AI, aims to automatically translate text or speech ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-vs-professional-translators-which-is-better-2023-06-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-vs-professional-translators-which-is-better-2023-06-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization.md",
+      "title": "How Healthcare Can Pioneer Industry-Specific AI For Privacy And Optimization",
+      "excerpt": "As the healthcare sector pioneers ways to use AI within these rules, other sectors will have good reason to follow suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/",
+      "publishedDateTime": "2023-06-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution.md",
+      "title": "Baidu gets upgrade at Morgan Stanley on likely benefit from China's AI evolution",
+      "excerpt": "In effect, the firm expects Baidu's core revenue to reach RMB 151B, driving a 17% CAGR 2022-25, versus 12% CAGR under the firm's base case.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3980904-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution",
+      "originalUrl": "https://seekingalpha.com/news/3980904-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu.md",
+      "title": "Cognitive System & Artificial Intelligence (AI) Systems Market Likely to Boost Future Growth Prospects with Google, Brighterion, Microsoft, Baidu",
+      "excerpt": "The Cognitive System & Artificial Intelligence (AI) Systems Market report contains in-depth information on factors influencing demand, growth, opportunities, challenges, and restraints. It includes comprehensive details on the composition and outlook of global and local industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu-2023-06-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu-2023-06-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-opera-one-offers-an-ai-based-web-browsing-experience.md",
+      "title": "Opera One Offers an AI-Based Web Browsing Experience",
+      "excerpt": "The Opera One web browser is now available to download complete with an integrated AI called Aria. Opera offered an early access developer build of Opera One back in April, but the focus was on demonstrating the modular,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsing-experience",
+      "originalUrl": "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsing-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03tWfDqRAoOVCWepnIXfbXQ-2.fit_lim.size_1200x630.v1687190420.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5.md",
+      "title": "AI Utopia And Dystopia. What Will The Future Have In Store? Artificial Intelligence Series 5 Of 5",
+      "excerpt": "Human Flourishing And A Utopian Future In a utopian future empowered by artificial intelligence ... Here are some ways AI could be beneficial to individuals and society: Healthcare spans beyond internal health. There are also companies such as Coralai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
+      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6478245378a2f7a6b37b69d7/0x0.jpg?format=jpg&width=1200",
+          "width": 649,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/",
+      "publishedDateTime": "2023-06-19T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-amazon-and-the-ai-war-irobot-acquisition-in-focus.md",
       "title": "Amazon And The AI War: iRobot Acquisition In Focus",
       "excerpt": "Amazon is also in talks with AMD (NASDAQ: AMD) to use its new chips, the MI300X. The MI300X is the fastest production-quality AI-centric super chip on the market now. It has more processing power and memory than NVIDIA’s H100 and could dominate the ...",
@@ -843,316 +1191,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-artificial-intelligence-may-eliminate-some-jobs-openai-executive-says.md",
-      "title": "Artificial Intelligence May Eliminate Some Jobs, OpenAI Executive Says",
-      "excerpt": "AI could potentially create some jobs too, the artificial-intelligence company’s chief operating officer, Brad Lightcap, said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-802734/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-far-field-speech-and-voice-recognition-market-worth-69-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
-      "title": "Far-Field Speech and Voice Recognition Market worth $6.9 billion by 2028 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Speech and voice recognition systems must include an audio-playback path. However, an acoustic echo occurs when the audio being played back is picked up by microphone elements and sent back into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32913346/far-field-speech-and-voice-recognition-market-worth-6-9-billion-by-2028-exclusive-report-by-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32913346/far-field-speech-and-voice-recognition-market-worth-6-9-billion-by-2028-exclusive-report-by-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32913346",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32913346",
-      "publishedDateTime": "2023-06-19T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-73-of-consumers-trust-what-generative-ai-wants-us-to-see.md",
-      "title": "73% of consumers trust what generative AI wants us to see",
-      "excerpt": "Eager to use generative artificial intelligence to save effort and time, most consumers trust content created by such tools, including ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "originalUrl": "https://www.zdnet.com/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b3ee67379bffce0c874b5c8b8a44664e3895e0f7/2023/06/19/17423dc3-cd27-4476-bf7e-d899a3679ceb/gettyimages-1490711125.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "publishedDateTime": "2023-06-19T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-with-omni-assist-omnicom-leverages-first-mover-access-to-open-ai-to-accelerate-the-timeline-from-insights-to-outcomes.md",
-      "title": "With Omni Assist, Omnicom Leverages First-Mover Access to Open AI to Accelerate the Timeline from Insights to Outcomes",
-      "excerpt": "Omnicom (NYSE: OMC) today unveiled Omni Assist, the inaugural Generative AI capability enabled by a first-mover partnership with Microsoft. Omnicom is the first agency holding company to have enterprise access to the latest Open AI GPT models.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/19/9834868.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/19/9834868.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-the-voice-referendum-bill-has-now-passed-the-senate-so-heres-everything-you-need-to-know.md",
-      "title": "The Voice Referendum Bill Has Now Passed The Senate So Here’s Everything You Need To Know",
-      "excerpt": "He also insisted the Voice’s purely advisory powers are “not about symbolism” but “about recognition, something that’s far more important”. “Consultation through the Voice is about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pedestrian.tv/news/indigenous-voice-to-parliament-referendum-details/",
-      "originalUrl": "https://www.pedestrian.tv/news/indigenous-voice-to-parliament-referendum-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pedestrian.tv/wp-content/uploads/2023/03/aboriginal-flag.png?quality=75",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PEDESTRIAN.TV",
-        "domain": "pedestrian.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
-      "title": "Nvidia: The chip maker that became an AI superpower",
-      "excerpt": "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-65675027.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp",
-      "publishedDateTime": "2023-06-19T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-5g-was-an-overhyped-technology-bust-lets-learn-our-lesson.md",
-      "title": "5G was an overhyped technology bust. Let’s learn our lesson.",
-      "excerpt": "One lesson is that we can’t trust companies to be honest about how today’s buzzy technologies, including artificial intelligence, driverless cars and the metaverse, will or won’t change our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2023/06/13/5g-didnt-matter/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2023/06/13/5g-didnt-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DT7S27G5CZHJNC6YJHWDVSVEXE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

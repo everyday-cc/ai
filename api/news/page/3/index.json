@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-13-chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years.md",
+      "title": "Chinese robotics firm Fourier aims for mass production of humanoid robots in two years",
+      "excerpt": "Chinese tech startup Fourier Intelligence has set a goal of achieving mass production deliveries of humanoid robots within two years.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
+      "originalUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-the-looming-addiction-crisis-fueled-by-ai.md",
+      "title": "The looming addiction crisis fueled by AI",
+      "excerpt": "Online pill services are using AI to turbocharge the same aggressive marketing tactics that drove the opioid epidemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7",
+      "originalUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ac50bf8ed31300199e5355?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp",
+      "publishedDateTime": "2023-07-13T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-mit-research-scientist-asks-if-ai-can-become-conscious-elon-musk-says.md",
       "title": "MIT Research Scientist Asks If AI Can Become Conscious, Elon Musk Says...",
       "excerpt": "The researcher posted this query in response to the first tweet by Elon Musk's new artificial intelligence startup, xAI.",
@@ -469,6 +563,112 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards.md",
+      "title": "Announcing the winners of VentureBeat’s 5th Annual Women in AI awards",
+      "excerpt": "The winners were presented with the awards by VentureBeat’s Sharon Goldman, senior AI writer, and Gina Joseph, chief strategy officer. Joseph emphasized the importance of the aw",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/",
+      "originalUrl": "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/VBDM0091.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-top-6-ai-trends-2023.md",
+      "title": "Top 6 AI Trends 2023",
+      "excerpt": "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/05/top-generative-ai-apps-tools.png",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI Ethics"
       ]
     },
     {
@@ -1003,203 +1203,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-google-stole-data-from-millions-of-people-to-train-ai-lawsuit-says.md",
-      "title": "Google stole data from millions of people to train AI, lawsuit says",
-      "excerpt": "Google does not own the internet, it does not own our creative works ... or anything else simply because we share it online.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/google-ai-lawsuit/",
-      "originalUrl": "https://www.popsci.com/technology/google-ai-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/07/12/Depositphotos_48051785_L.jpg?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/google-ai-lawsuit/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-ai-lawsuit/?amp",
-      "publishedDateTime": "2023-07-12T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai.md",
-      "title": "3 ways the IBM and Adobe partnership will accelerate content supply chains with generative AI",
-      "excerpt": "We&#8217;re delighted about the recent unveiling of IBM and Adobe&#8217;s dynamic partnership to help brands accelerate their content supply chains using generative AI. Our longstanding partnership with Adobe allows us to offer an unparalleled range of services to meet the evolving needs of the marketing",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-12-at-12.23.43-PM.png",
-          "width": 2064,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T09:30:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-if-artificial-intelligences-boost-to-productivity-disappoints-heres-how-to-invest.md",
-      "title": "If artificial intelligence's boost to productivity disappoints, here's how to invest",
-      "excerpt": "\"AI stocks are priced today for a rapidly fading world of 2% bond yields, low costs of capital, easy globalization, and friendly inflation.\"",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7cb50994fce90018f7b6f7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7?amp",
-      "publishedDateTime": "2023-07-12T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-chipotle-debuts-new-guacamole-making-robot-autocado.md",
-      "title": "Chipotle Debuts New Guacamole-Making Robot, Autocado",
-      "excerpt": "The prototype, which was developed with food automation lab Vebu, is currently being tested at the Chipotle Cultivate Center in Irvine, California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
-      "originalUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b35e30d9fe4a9f625b9409/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/",
-      "publishedDateTime": "2023-07-12T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/integrating-intelligent-automation-advi
 webUrl: "https://venturebeat.com/ai/integrating-intelligent-automation-advice-from-citi-ventures/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
-    excerpt: "Highlights: Modernize with new technologies: Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science ..."
-    publishedDateTime: 2023-07-10T21:42:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 12
 
 secured: "1MyRgRTFeKHiFskZA50nnZ6+OAeheStgBuuXAgopVLBpJsPBdq85rWEbKOkZCXTIE3I2cqifc8ixHVTSKxQGwr/wHVng9ZAmIv/l0mg8bMUrv5TsrSOWI0P69ZLdBxqEq/it+6V4XWmLgwL74y7H8SlDlpVXLx8968P3xN7zBN5qSA5Vm066YSca+h37/wIo8DbtujnVh49BIVwZ/DqfJoBo3972tRUkvfcaycPByy+k5lOnsklhh8Ps4z1lR4lu796KhnhCQENrxhY1I1xHtS/iSkNBfzyIksDJi3Zk1GRBa7GCJDmYACyCVkDKGGPKpaQjv9gmJ/wbaWcQRygotlfCWwslus5lqpd+a13OaPsvu88VFKLFRhuuhrkPPmG3xedcEuVVejwDX2GDSajNqh8HX2MvO6RXAB/WXqads/+oSTz4msooERGpL7miiOIDyf4vjVFrOnI7cEI8zRy4sHlC3LSC1foZ5q00ekmwXkGFtlp40fkoMztXTQzavyuRp6lXi0o3W/UUMstADdNGYw==;lK07V8VKokj7XYZIHmTZrg=="
 ---

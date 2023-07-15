@@ -96,15 +96,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-07-10T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/07/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
   - title: "4 Things Job Seekers Must Know About The New Role Of AI In Hiring"
     excerpt: "As more businesses adopt AI recruitment tools, job seekers must understand how the technology is being used and the ways it might impact their chances of landing a job."
     publishedDateTime: 2023-07-11T12:27:00Z

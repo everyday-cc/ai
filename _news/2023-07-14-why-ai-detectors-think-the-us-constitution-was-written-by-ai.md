@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/07/why-ai-detect
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "A Hitch In Accurate Detection of AI-Written Content"
+    excerpt: "For this study, the Stanford researcher team consisting of James Zou, Eric Wu, Yining Mao, Mert Yuksekgonul, and Weixin Liang analyzed seven commonly used GPT detectors on 88 essays written by American eighth graders from the Hewlett Foundation ASAP dataset and 91 TOEFL (Test of English as a Foreign Language) essays from a Chinese forum."
+    publishedDateTime: 2023-07-15T13:38:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202307/a-hitch-in-accurate-detection-of-ai-written-content"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202307/a-hitch-in-accurate-detection-of-ai-written-content?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202307/a-hitch-in-accurate-detection-of-ai-written-content?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/pic10516.jpg?itok=K3tPhtvK"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "ZyCisZNK0oq6Zc6LsNDZrBsskakn+CbM2g1Rr3SGanPAscqPh5tWjTOSzsWdxqSd5oxWs8equIht7s1RcTYEwlYPZDxHndVnVbzed7/Q3ftvG68hWPL5tizYXHupJQjbAyTB4/vuxoozqjSFdGGqP4Ilqmrhzc/p+32VhgKkJVkJBKq41KVEVA7taXb72Db7lCUXio26GtKuZPu8t5cUuaZ6X91eIsdwpefv+w3EQRnMqFXm2C/O5Bu2FJi3d5ANhx/2j1iPBoLdrGKpiYorArlEAfi3y1HuB9F/12ZxDfPgkJZqDCCUgvE0LbcvtI62QRGfBt6k7sa2Lki5/x2yc3EzGiUNJRkSId82hKK1ijVNq+FhbDBXUiPLM81KK1mPIrRf1lzPhRLxfhiGVDrnXl/0MrCHQv2LFJJW8t1ftt4BZIZJC1RA/zQuA7N8Hg1ssNmG8AbYZ7pz0xAc+u0iZlVJZSrjciqHgaVfPdw5o/x1BCnmKFO+zjff/lV3IiZIR8jP6xlA9yxHJm6QPz804w==;n6vkm96G6IRreKr07XDjQg=="
 ---
