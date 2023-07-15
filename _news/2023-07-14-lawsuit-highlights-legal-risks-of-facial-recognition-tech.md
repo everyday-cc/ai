@@ -85,15 +85,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
-    excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
-    publishedDateTime: 2023-07-10T18:55:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/07/10/revert-technologies-ai-monitoring-for-energy-conservation/70399264007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 15
   - title: "Vaping advocates fight for recognition: Bill fails to differentiate harm reduction from smoking"
     excerpt: "The debate around vaping and its regulation is ongoing. Advocates argue that vaping can play a crucial role in harm reduction and smoking cessation efforts. They believe that regulating vaping based on its harm profile, rather than applying blanket restrictions, would be a more sensible approach."
     publishedDateTime: 2023-07-14T14:01:00Z

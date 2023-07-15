@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Can Humans Best Use AI?"
+    excerpt: "The relationship between humans and animals is a useful framework for how we might use AI in a constructive way."
+    publishedDateTime: 2023-07-15T07:33:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b2499aad6c87b3d2248079/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Why are actors so worried about AI?"
     excerpt: "The strike comes after US actors' union the Screen Actors Guild failed to reach an agreement on increased safeguarding around AI rights. The union warned that \"artificial intelligence poses an existential threat to creative professions\"."
     publishedDateTime: 2023-07-14T13:40:00Z
@@ -37,38 +53,6 @@ related:
     quality: 87
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6F20/production/_130384482_gettyimages-1401980646.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "How Can Humans Best Use AI?"
-    excerpt: "The relationship between humans and animals is a useful framework for how we might use AI in a constructive way."
-    publishedDateTime: 2023-07-15T07:33:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b2499aad6c87b3d2248079/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Black Mirror plot about AI that worries actors"
-    excerpt: "The strike comes after US actors' union the Screen Actors Guild failed to reach an agreement on increased safeguarding around AI rights. The union warned that \"artificial intelligence poses an existential threat to creative professions\"."
-    publishedDateTime: 2023-07-14T16:06:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-66200334"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-66200334.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66200334.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F3A0/production/_130386326_603b6ad4-fac6-440d-aa8a-6aeb338788ad.jpg"
         width: 1024
         height: 576
         isCached: true

@@ -3,11 +3,11 @@ category: news
 title: "What's all the buzz about AI? Here's what we know for Jacksonville health care"
 excerpt: "The UF College of Medicine-Jacksonville has adopted an artificial intelligence-based computer software to use in breast and prostate cancer diagnoses."
 publishedDateTime: 2023-07-14T19:35:00Z
-originalUrl: "https://www.aol.com/entertainment/whats-buzz-ai-heres-know-090516223.html"
-webUrl: "https://www.aol.com/entertainment/whats-buzz-ai-heres-know-090516223.html"
+originalUrl: "https://www.aol.com/sports/whats-buzz-ai-heres-know-090516223.html"
+webUrl: "https://www.aol.com/sports/whats-buzz-ai-heres-know-090516223.html"
 type: article
-quality: 37
-heat: 37
+quality: 35
+heat: -1
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: aol.com
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/GMmXFi1UBsPd4RuPufI0UA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://media.zenfs.com/en/the-florida-times-union/b1ee2c0c7896e6a31ee311abfae25b82"
@@ -55,6 +54,6 @@ related:
         height: 394
         isCached: true
 
-secured: "eQmk9pRgw/JDG5weKmy4b0eBxR0zMIA1RW0W2t45nq+lC2vzwDQ3y6n1ufutK25NMTU7If9nDEbmKRjUjDcdFgSjNPb/RhOBiRu11gyAs3duKnbiHhd0Zj913929DaiDUr/obLbgF8Iu0GJiv9/M7JvyPxIvADqsyjAzOPguil0p7SH7w8S+KsXXi0gkiqj3rzxeXgbpeBT2vGmV65Rcw6HAbv/nkbuXUbtW9qrNsZSbc8tZrMnFIKDzhZ2OHmQB0hIwMgxhogMEPWQEDADN7gxXWxT/VbENp23Pz220wT5nBLJUyFiQwhljZ8b8XSXusA60uz5asmIpXnznqkLqor1aZ9ezEV1tUqcH6hlP3vJbG4zBfq9p7RNUVsPiDZ/6JPRII0xfzFjP7MzF09N/lOJUYgq04PqOvth4ZyBlARwNiavrhNSrtYEDu8IU8LGRx/zC+Rr09cCB/jq4y9GsXxfaWVtnP2fDEmdgquhjHhRtoviEJhNRIWfJxEKcuRA4+/K2vE0pOjwiv6GNVcC5Lg==;czRw6q7NWJg7aT7eJujY2w=="
+secured: "ErsyYUA+NgyrlhF9JRh0m1nzwJCwfOW5joklC51AXg1d6QjgsiPOVK3VvINSID74M5161O3TzBBaRyfpzGc9Zfc86Dvrfx/AFzkD2PH+iduqQpjCB/GEh+C9F+u1ewEQ3aRTxpedwDjkg6Ct/dskjyoiGCTLTMki2OUraVyHuTGxdTRC2AhppV0ttc2565LQq6uqCAXbcA+59snr/NZtAFbuvzo2RB3UNuEkO1tHxSUlGfudMehWpPBWNC7BYtECqUvAwP4Iv/Vi1VQtNM1CgKfq7HmZUTimghetVCPT7kq+5APQ2/PSEpNd1/8HIx9+jAp6bM7SvKW1k/at9hA0dn0yD+V1pv7nF4WDBhqr6uA=;+vXVXyQZC/2Po7y9EwwcCw=="
 ---
 

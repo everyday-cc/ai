@@ -329,15 +329,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "55% of medical professionals say AI isn't ready for healthcare"
-    excerpt: "Medical professionals are still skeptical about AI use in healthcare, with 55% stating that the technology is not ready for medical use."
-    publishedDateTime: 2023-07-10T18:18:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/55-of-medical-professionals-say-ai-isnt-ready-for-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "Software Company CEO Believes AI Will End Healthcare's Labor-Intensive Paper Chase"
     excerpt: "According to DataLink Software CEO Ashish Kachru, the healthcare industry can learn valuable lessons from other sectors that have embraced technology to streamline processes. Kachru believes that leveraging artificial intelligence (AI),"
     publishedDateTime: 2023-07-11T12:40:00Z

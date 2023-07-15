@@ -2,21 +2,17 @@
 category: news
 title: "Wimbledon 2023: How artificial intelligence is changing tennis"
 excerpt: "BBC Sport's Liam Loftus takes a look at how artificial intelligence is changing the future of tennis. Follow Wimbledon coverage across, BBC iPlayer, BBC Sounds & the BBC Sport website & app."
-publishedDateTime: 2023-07-15T08:31:00Z
-originalUrl: "https://www.bbc.com/sport/av/tennis/66183190"
-webUrl: "https://www.bbc.com/sport/av/tennis/66183190"
+publishedDateTime: 2023-07-15T08:42:00Z
+originalUrl: "https://www.bbc.co.uk/sport/av/tennis/66183190"
+webUrl: "https://www.bbc.co.uk/sport/av/tennis/66183190"
 type: article
-quality: 67
-heat: 87
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -28,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI at Wimbledon - The new sound of commentary?"
-    excerpt: "Both male and female-sounding AI commentators are set to feature but the voices will have no human input - they'll be created solely from computers."
-    publishedDateTime: 2023-07-11T23:09:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0g09dnh"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0g09dwj.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI on the Path to the Finals: IBM Serves an Ace by Bringing Generative AI to Wimbledon"
     excerpt: "New IBM AI Draw Analysis and AI Commentary features are here for tennis fans enjoying their Wimbledon experiences."
     publishedDateTime: 2023-07-14T17:42:00Z
@@ -54,6 +36,6 @@ related:
       domain: techzone360.com
     quality: 31
 
-secured: "2rAP1khkHYPUEJ4GQPXCNCUX7ntC+hLbQggUedVnIaA5uK9F8cse5bKbCohpScQoeglWPyeHbjr91x0CrkYf5ODlcB/wEPFsNXS/3KiCkQ1ZxgFAVune5KX2B0eHXnYelVP2guYu8UsOkBLkWxVTs8BglaVQKbu7ny+SLdbY3MspCAwSMqf9ZceWW7gKtWXNXcWYs2nU3RY7nWlA9LOWj+UF7u3lrqRr+4X5tmi4r2k4AupcOzx8q8PLTt6hHJhcWJCb+FU2skAi8c+gkwLFbr45k9wen5fammZqdgxL+5mRAQNKkXyOGZBgmBwr8Dd/Hwu3E0RIyP6d+jcml4HUd+EH2mgy88njooiU+hC9tDM=;6LnZ815VjNYNbkvST38bvw=="
+secured: "1jmfHQ2Bc4IhwH9imPFcpm0/HiZHhxxuKE3utcMIKmfjtlRxhrEWr3UVrJW3BB4kXNaK42dZNrTrMirwgzSXxt65QJQRKjCOfmCTxTAmlhJHUjllXi6wVOqThK3i/n/TniElrPqtObPCwOVQ3vqZxKFhV9oM7k8ZRqL20o+Km5KwG5dOu3/52fCrJDvPke8yXYTKVA95YXizrNZ7HmbO/lW9JUVsTzOXhv7xlfGQFSqaQokm+++qkTxxtWC0tq0P+aovCVh/bEuqQau4+0Lz3MY2MT3dCJ0/+KNoqFpowIq/0rbwr8dkXWEbFKbL0Z6UQ90qGACaawgFt9vUb7sBch114JpSFlzkVl0iWKSMGpk=;wAi4ptAe17l3PPqtzH/1aw=="
 ---
 

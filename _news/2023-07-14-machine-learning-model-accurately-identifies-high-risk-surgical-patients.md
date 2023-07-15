@@ -24,22 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Machine learning model flags patients with high risk of surgical complications"
-    excerpt: "The machine learning model identifies patients for surgical prehabilitation to avoid complications and cut healthcare costs."
-    publishedDateTime: 2023-07-10T17:22:00Z
-    webUrl: "https://www.medicaldesignandoutsourcing.com/machine-learning-model-high-risk-surgical-patients-complications-upmc/"
-    type: article
-    provider:
-      name: Medical Design and Outsourcing
-      domain: medicaldesignandoutsourcing.com
-    quality: 35
-    images:
-      - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2023/07/Operating-room-surgical-procedure-AdobeStock_178073396.jpg"
-        width: 770
-        height: 500
-        isCached: true
-
 secured: "pubxCPKsxM0pbNlSkSCdloLy+rAuG5Tl+iOQ1VHzR4m/KYbKwl5fKUunaat9GqsKgrxzuJw/SHuTNZKhZm9P0pc4Zn6ACAnsWS5D45lsRBmkTwWohtah04Wpdf0NXXxaxn34fhSPY8/E6hC93mdlvHknUV+vMdKM0C6OD+mRpIaGwqw+3DNmFkx4z0pNXh4XiIu3cXtbSt3uiT5sw/IqXpkkuSjbeaGbhTrlFGpw3wjPNdiqcWBdAzsXbWCCipKnvFISfmrSmQrbaxkVPYL7Lfy+8YLoze1W5m7jJu3P5axm7kQsaIXvLvLTYVBAV1h5KHKCwGRATVWW4u3K2RvxUvoiHK014wDfHZ6tUrDYEaI=;MfwMwzu2YXW33rUXv/ibuQ=="
 ---
 

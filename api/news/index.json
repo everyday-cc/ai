@@ -53,21 +53,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-15-wimbledon-2023-how-artificial-intelligence-is-changing-tennis.md",
-      "title": "Wimbledon 2023: How artificial intelligence is changing tennis",
-      "excerpt": "BBC Sport's Liam Loftus takes a look at how artificial intelligence is changing the future of tennis. Follow Wimbledon coverage across, BBC iPlayer, BBC Sounds & the BBC Sport website & app.",
+      "path": "_news/2023-07-15-how-can-humans-best-use-ai.md",
+      "title": "How Can Humans Best Use AI?",
+      "excerpt": "The relationship between humans and animals is a useful framework for how we might use AI in a constructive way.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/av/tennis/66183190",
-      "originalUrl": "https://www.bbc.com/sport/av/tennis/66183190",
+      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/",
+      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/102D0/production/_130365266_p0g0jf7n.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b2499aad6c87b3d2248079/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,16 +75,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-15T01:31:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/",
+      "publishedDateTime": "2023-07-15T00:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -100,7 +100,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -569,57 +570,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-why-are-actors-so-worried-about-ai.md",
-      "title": "Why are actors so worried about AI?",
-      "excerpt": "The strike comes after US actors' union the Screen Actors Guild failed to reach an agreement on increased safeguarding around AI rights. The union warned that \"artificial intelligence poses an existential threat to creative professions\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66200334",
-      "originalUrl": "https://www.bbc.com/news/technology-66200334",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6F20/production/_130384482_gettyimages-1401980646.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-66200334.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp",
-      "publishedDateTime": "2023-07-14T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1136,7 +1086,7 @@
       "originalUrl": "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 296,
       "tags": null,
       "images": [
         {
@@ -1220,6 +1170,57 @@
         "Computer Vision",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-ai-can-help-blind-community-experience-world-in-new-ways-will-lead-to-quality-of-life-changes.md",
+      "title": "AI can help blind community experience world in new ways: 'will lead to quality of life changes'",
+      "excerpt": "A representative from the National Federation of the Blind argued that the greatest obstacle the blind community faces is attitudes and assumptions the general public make of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
+      "originalUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
+      "publishedDateTime": "2023-07-13T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

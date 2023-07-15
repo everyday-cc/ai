@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Elon Musk launches his own AI company to compete with ChatGPT"
-excerpt: "Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
-publishedDateTime: 2023-07-13T15:59:00Z
-originalUrl: "https://abcnews.go.com/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
-webUrl: "https://abcnews.go.com/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
-ampWebUrl: "https://abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
+title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
+excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
+publishedDateTime: 2023-07-15T09:42:00Z
+originalUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
+webUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
+ampWebUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
+cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
 type: article
-quality: 57
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Beebom
+  domain: beebom.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Business/elon-musk-rt-gmh-230713_1689261684208_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -138,6 +139,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk launches his own AI company to compete with ChatGPT"
+    excerpt: "Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
+    publishedDateTime: 2023-07-13T15:59:00Z
+    webUrl: "https://abcnews.go.com/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Business/elon-musk-rt-gmh-230713_1689261684208_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The FTC Is Investigating ChatGPT, the First Major Regulatory Hurdle for AI"
     excerpt: "The FTC is examining whether OpenAI's chatbot has provided false information about individuals and whether it has leaked private personal data."
     publishedDateTime: 2023-07-13T15:38:00Z
@@ -153,22 +170,6 @@ related:
       - url: "https://images.barrons.com/im-816486/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
-    excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
-    publishedDateTime: 2023-07-15T09:42:00Z
-    webUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
-    ampWebUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 55
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
@@ -299,6 +300,6 @@ related:
       domain: jdsupra.com
     quality: 13
 
-secured: "O44aVqsjvfWKXuTENY23+FjW024rSHJf5vfxB1nEc+VcQjEpWkVY/huByNfdOvz5+ld77F0mWeXaceFFCCdRwMEzuBqeMoTzu0BQ6Tbu9p+qPDM2qdRgwGWU2P5f+iuD5zjDBxqoBf6tT6wxfqgCMVw+vmYOZgZOZkR9taCnvTZjokS5ekLOPtoMmFw/K9n4JiGmiwgDQPJZSuModyPGjD1g+JVmxIlZj+aU10g0LkC9FN1oog86A4ugAoaMen0llzbtitIyeDa5XghPJfrymBFuyP3wqoOTnh3iGPZMrg7/Jh1CxXDSA+WdAsyZM9eqn3Ci4duGvRXeLlr2ScwdrTJhopkS16lRVEWQWRdAbg8sZpMyENF7xvwJ7au/BzP94D82jAeShI/PDfsq04hbvgqTVtVGomZgS10mZaxQVADMXXQVp0nWOD0HkvgWqbo++lgKbQnTE9rOoPhNKEAMEAyZbelYZVDLpILLCrHjGywXujtaKNtpQRDX03IYVS2jVgZt57yAy7KHIbem8kn3Xw==;5NTP8B0Ef4b8mCTGaM5DQw=="
+secured: "biwyCT7Jcu0T2HyJucM5GCLqT8bVlcmZyxphvNWNnMrVaIYEty0WPxZnYvJCvMYIHxl9HdjqMjmMUY9dNL3WLa5VciKjXPbVAJlBGdp4XWITvcshKtxCPau/oNgRS830DmeB1kD7fGbXb9HWAnGsUepC6RK28ivTld5xHkkVL7mWo367o+X+aunAax54S+sMTJphjpbe4sXLPuPIv0RLmsEEI11/jrOrSZGawrcTPbWCyXRPrAA4sPUDm1TC8Ngqe5rojCjlh31CiKc9xH5sRbfA9osFQCj89AEQiGoNPMULgJZ9AlRxhvMLVKeM2Io5u8+re9BB9hNmwrI5PeW9NKS587f/9gsDs6XVsWeQp2Y=;Zf3b9TWQRT53/2PSa60O3A=="
 ---
 

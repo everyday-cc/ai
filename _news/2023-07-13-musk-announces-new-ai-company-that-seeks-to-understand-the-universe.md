@@ -134,6 +134,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk wants to master the universe with xAI"
+    excerpt: "Elon Musk announced xAI, a new AI company, on Wednesday with the goal of understanding the true nature of the universe. He's assembled a team of AI researchers, many of whom have left Google, and has access to data and powerful chips from Tesla."
+    publishedDateTime: 2023-07-15T11:02:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "Elon Musk unveils A.I. startup with execs from DeepMind and Microsoft, with goal to ‘understand the true nature of the universe’"
     excerpt: "On a website unveiled Wednesday xAI said its team will be led by Musk and staffed by executives who have worked at a broad range of companies at the forefront of artificial intelligence, including Google’s DeepMind, Microsoft Corp. and Tesla Inc., as ..."
     publishedDateTime: 2023-07-12T18:53:00Z

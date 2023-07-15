@@ -37,6 +37,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Next Challengers Joining Nvidia in the AI Chip Revolution"
+    excerpt: "The company has emerged as the hardware victor during the early days of the artificial-intelligence revolution. Who else in the chip world can cash in, too?"
+    publishedDateTime: 2023-07-11T02:00:00Z
+    webUrl: "https://www.wsj.com/articles/the-next-challengers-joining-nvidia-in-the-ai-chip-revolution-e0055485"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-814042/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "3 Artificial Intelligence Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology"
     publishedDateTime: 2023-07-13T19:29:00Z
@@ -64,6 +78,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Intel joins Nvidia in tackling the US ban with an AI chip for China"
+    excerpt: "Intel is producing a modified version of its AI chip – the Habana division's Guadi 2 – for the Chinese market."
+    publishedDateTime: 2023-07-14T04:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/intel-joins-nvidia-in-tackling-the-us-ban-with-an-ai-chip-for-china/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_398463883-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "3 Blockchain Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I’ve used Google’s Bard AI tool to help identify blockchain stocks"
     publishedDateTime: 2023-07-12T12:39:00Z

@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "NAPA and XBE Launch AI Powered Tool For Asphalt Professionals"
-    excerpt: "At the NAPA mid-year event in Kandas City, MO, the brand new resource for asphalt contractors was revealed to organization members, with the explicit goal of changing the way asphalt pros access and apply data."
-    publishedDateTime: 2023-07-10T18:01:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/article/22866804/napa-national-asphalt-pavement-association-napa-and-xbe-launch-ai-powered-tool-for-asphalt-professionals-artificial-intelligence-midyear-meeting-2023"
+  - title: "Genie Launches AI-Powered App That Achieved 99% Scam Blocking Accuracy"
+    excerpt: "Tech startup, Genie, has officially released its smart AI scam and spam call blocking app. After a successful pilot with over 1,000 users, Genie is ready to launch their AI Powered platform across the US."
+    publishedDateTime: 2023-07-14T17:00:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/07/14/genie-launches-ai-powered-app-that-achieved-99-scam-blocking-accuracy/70414601007/"
     type: article
     provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 39
+      name: USA Today
+      domain: usatoday.com
+    quality: 37
     images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/07/MicrosoftTeams_image__42_.64ac34b490b80.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+      - url: "https://www.gannett-cdn.com/presto/2023/07/14/USAT/0c6a3732-2b51-4991-a58f-3aebc750f6a2-Screen_Shot_2023-07-12_at_6.33.18_PM.png?auto=webp&crop=1275,718,x62,y0&format=pjpg&width=1200"
         width: 1200
-        height: 902
+        height: 676
         isCached: true
 
 secured: "wmwIc52QWCDtZJqX2Q+rjGQGctoi9EtPca9vODExTX/UHOi86PzqPhTH/o1ekTwCBWOX8fPFT8g/h9z2veRCJ4yvHwG3DSd1xqK6xht5IrO2+NcckZRs/FmHqnU/SBM2yBwHZB5PAzolaHTCpFupS52h4QQlN2M+fpQahjHnuqU07hvlDm6Ufh0hq3bRIY3c6oriXUH8bcaaEGglTn0mkbFwRVzlDP+HXwicV4FAyg5/VMsxanIi4rZOBnFtUZG9R8QTMl+JooaBLFPNpgTik2SH9I3ya814P7GUfIB0SFrlEwzDokvWD33VE+zQKDpTrsDKrj7zzbQmSLl6fBsxwLrNldH2TKyCMakH4YKByH4=;iE/WvET0sxtJp+v/52KhOA=="

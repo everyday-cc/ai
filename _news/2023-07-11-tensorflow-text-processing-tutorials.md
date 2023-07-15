@@ -7,7 +7,7 @@ originalUrl: "https://www.tensorflow.org/text/tutorials"
 webUrl: "https://www.tensorflow.org/text/tutorials"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - TensorFlow
   - Google AI
   - AI
-
-related:
-  - title: "TensorFlow text processing guide"
-    excerpt: "The TensorFlow text processing guide documents libraries and workflows for natural language processing (NLP) and introduces important concepts for working with text. KerasNLP is a high-level natural language processing (NLP) library that includes all the ..."
-    publishedDateTime: 2023-07-10T17:03:00Z
-    webUrl: "https://www.tensorflow.org/text/guide/"
-    type: article
-    provider:
-      name: TensorFlow
-      domain: tensorflow.org
-    quality: 56
-    images:
-      - url: "https://www.tensorflow.org/static/images/tf_logo_social.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "oZ+7ZzmR8kbMW1ZIvUtwfLiSYUIYCm6BHR01l2dhpYp8s+v441j2T7qx5Cnj+JqZ/dt5BwDFo26uk1e/vrPHWGeLG4yg/SYnBz96E1AQxKI9sP7Fzd6waUDsaWNEazt0DHXHY4VxVOshxWhot9ELh6uS8dm56cSFsA/SlxbNPsb1oEdSeTs629PbzgYDWhySGP4zUCNTQ1UccRm7jjgj12rGoPASouEsZHSjemuTim10LxPYSFyuMUMaU5GEHvL9KYHr3oqkHiMmtIPI8dA8biUGHWVbRHRJg2+UZZv4uwfrlr4Yjdpmi3Fq8OUcVLSngM2BE8TD5TiQ9NUHrfaFwnTHassR0tHNgtdxDHqIjns=;ByRLcIbQZNgrgmpjTrQWDw=="
 ---

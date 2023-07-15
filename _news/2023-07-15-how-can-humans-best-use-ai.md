@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-be
 ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 109
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64b2499aad6c87b3d2248079/0x0.jpg?format=jpg&width=1200"
@@ -43,22 +44,6 @@ related:
     quality: 87
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6F20/production/_130384482_gettyimages-1401980646.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "The Black Mirror plot about AI that worries actors"
-    excerpt: "The strike comes after US actors' union the Screen Actors Guild failed to reach an agreement on increased safeguarding around AI rights. The union warned that \"artificial intelligence poses an existential threat to creative professions\"."
-    publishedDateTime: 2023-07-14T16:06:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-66200334"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-66200334.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66200334.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F3A0/production/_130386326_603b6ad4-fac6-440d-aa8a-6aeb338788ad.jpg"
         width: 1024
         height: 576
         isCached: true

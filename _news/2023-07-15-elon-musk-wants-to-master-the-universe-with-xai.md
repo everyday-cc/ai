@@ -1,20 +1,23 @@
 ---
 category: news
-title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
-excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
-publishedDateTime: 2023-07-12T18:37:00Z
-originalUrl: "https://www.nydailynews.com/news/national/ny-elon-musk-launches-xai-artificial-intelligence-company-20230712-glof4oikdraszf2vpnti4dpqmy-story.html"
-webUrl: "https://www.nydailynews.com/news/national/ny-elon-musk-launches-xai-artificial-intelligence-company-20230712-glof4oikdraszf2vpnti4dpqmy-story.html"
+title: "Elon Musk wants to master the universe with xAI"
+excerpt: "Elon Musk announced xAI, a new AI company, on Wednesday with the goal of understanding the true nature of the universe. He's assembled a team of AI researchers, many of whom have left Google, and has access to data and powerful chips from Tesla."
+publishedDateTime: 2023-07-15T11:02:00Z
+originalUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece"
+webUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
 type: article
-quality: 11
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: New York Daily News
-  domain: nydailynews.com
+  name: Business Line
+  domain: thehindubusinessline.com
 
 topics:
+  - Google AI
   - AI
 
 related:
@@ -139,17 +142,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk wants to master the universe with xAI"
-    excerpt: "Elon Musk announced xAI, a new AI company, on Wednesday with the goal of understanding the true nature of the universe. He's assembled a team of AI researchers, many of whom have left Google, and has access to data and powerful chips from Tesla."
-    publishedDateTime: 2023-07-15T11:02:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
   - title: "Elon Musk unveils A.I. startup with execs from DeepMind and Microsoft, with goal to ‘understand the true nature of the universe’"
     excerpt: "On a website unveiled Wednesday xAI said its team will be led by Musk and staffed by executives who have worked at a broad range of companies at the forefront of artificial intelligence, including Google’s DeepMind, Microsoft Corp. and Tesla Inc., as ..."
     publishedDateTime: 2023-07-12T18:53:00Z
@@ -173,6 +165,15 @@ related:
         width: 1500
         height: 914
         isCached: true
+  - title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
+    excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
+    publishedDateTime: 2023-07-12T18:37:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-elon-musk-launches-xai-artificial-intelligence-company-20230712-glof4oikdraszf2vpnti4dpqmy-story.html"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 11
   - title: "Web fans excited as Elon Musk launches new company, xAI, to understand ‘true nature of the universe’"
     excerpt: "SpaceX, and owner of Twitter, Elon Musk, recently announced the debut of xAI, his new AI company. The company’s goal is to “understand the true nature of the universe,” as stated on its website. Musk,"
     publishedDateTime: 2023-07-14T18:00:00Z
@@ -183,6 +184,6 @@ related:
       domain: cweb.com
     quality: 4
 
-secured: "MwERRfKO/+2N0b2I+vDMS88OaAN9ojVsnoxzxCkD0NrATPzTPcnnibNgik48pX4im/vPEHU/UTBOtQgrQUOn5dLQWJZ6g+IaazhSEChL8+pyASzvhOiaM+77D6HUNGDUgFG3xVgYnGn2Mw7VScfNbjNIKNTeJFrXdk9BPacreEkzO0X0bsO2M+41e06o2DIesau1Q9zUPCoDcBEunRvgNUiHoPJrtaLP/HF8BFFhB6FeKOukNmOhwpjroVQImEI5y/rwdVin/+9mYNDN0I+sFfdjkDogdKUlP7zJT62x2QG8GDqCZ9DpxnR56SB+/PVmBtA3HCRoQdkJk1KzOB/LRx+6HXF/ZdspfU+SG35lsltxdghTx13nxbsJEDQEWEVEQZkI/t0hLdZTV5+BI7kEZV/gkEb7BL4X5tVsObh8zWxQQFuBAG+Q97ropSRI7ffaEm5cVHCx+pH7fI3CPA00aPt32kUYDWTgE4l84AYLg2qR9ja32V3a0+b4e720SUXu14L86G6pFnXa1Ts+84GG6A==;91tDpMVh+KL+SiIcNrlgAw=="
+secured: "LRPhdtTFYZqZXjqDGeOGWbw5ILDR7cGwNgdlnFZKuz5je1e9OKHRpVXjDwFrdURVnm76hNigsJCNk1umvGeqDqWiP2l0PB/VLtnCuaXJL7B1OVz+L2qurPBpK37p05w29dpxgRBes/dC5NkDfFGp/hrXws1GbWaS3qWk7B+N9xvRNyx6ihFe3/Uxpag6qbCofSKlAcbE1aPAQ23mTyABBPyhrxV50PUajwZUk62Xr0MXSza0JDzqcD+SlQAxfcXj8QRHQuRSVdz6ZJ1YzqDis/himYOeH0SCbdRypbmQI/VReoNorWYYXEDniDYslt0UgplpJp5Wx4us7dqxxL1TLOe4Im5hKE76NR4jhtOM73HF8hhhm2kN56Txdm3y7z0E5ZDif2TWHjqk9wfnjoCQ3IbwDvX3oO9LZW8OdZNOEgTYzyk/viL2VHCWYZ102DLF48/FqXK/6mm/75uC+CPIBTZuUlcduoAQrY+U8a/FOZthcmDQLVluNI9tlEwOgG5+IMtHVxRavA3gsKIKzlovdQ==;5VyPJVKW0tjNxncp7YtpGg=="
 ---
 

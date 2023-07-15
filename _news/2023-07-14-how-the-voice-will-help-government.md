@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Making Voice a referendum on the Labor government"
-    excerpt: "By the referendum on the Voice, No campaigners look likely to have turned it into a referendum on the Albanese government and wokeness."
-    publishedDateTime: 2023-07-10T18:55:00Z
-    webUrl: "https://johnmenadue.com/making-voice-a-referendum-on-the-labor-government/"
-    type: article
-    provider:
-      name: johnmenadue.com
-      domain: johnmenadue.com
-    quality: 4
-
 secured: "mJmTi49CdjzY1TwroIMWVeASyXM4TXojnfZwWTaH+3boK6k4OnBV7v9O+QcVw7zoHN4IfSjlhu5n7myTVfrYaC0dWPcjaXx88HJsCQcmu73XfNDgSPl2Y/2QP714U6WZLjWMlnY88WidlcmKl4QfJQFPlrBHAyqT2ukPNvNXLSASu/bXy4knYZkKSMnHLTpsRzvJChjlQBPm2KTpt6HQdafc6MYthJoj5F1AEf5lRBrGgUmczRLhR0hqnePBu6995l0KveWXOr3o+0spaTYa4vTIW/mIq+9ZuQbLXhp1xUVnJ0zLBtK5K1MCcAbdehMkXTyxswdvq7v0v9sGbvs+1u+GtQrxn4aSbSLJPcP82os=;CBydFAlMjvNPGyUv4s+gwA=="
 ---
 

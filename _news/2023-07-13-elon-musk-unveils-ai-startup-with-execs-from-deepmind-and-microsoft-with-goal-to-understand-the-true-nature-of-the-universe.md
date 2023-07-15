@@ -145,6 +145,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk wants to master the universe with xAI"
+    excerpt: "Elon Musk announced xAI, a new AI company, on Wednesday with the goal of understanding the true nature of the universe. He's assembled a team of AI researchers, many of whom have left Google, and has access to data and powerful chips from Tesla."
+    publishedDateTime: 2023-07-15T11:02:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "Elon Musk unveils new AI company to rival ChatGPT and unlock the secrets of the universe"
     excerpt: "Twitter owner, Tesla, and SpaceX CEO Elon Musk has announced a new AI company that will rival ChatGPT and unlock the universe's secrets."
     publishedDateTime: 2023-07-13T05:45:00Z

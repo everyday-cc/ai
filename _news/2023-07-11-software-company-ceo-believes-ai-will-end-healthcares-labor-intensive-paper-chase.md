@@ -337,15 +337,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "55% of medical professionals say AI isn't ready for healthcare"
-    excerpt: "Medical professionals are still skeptical about AI use in healthcare, with 55% stating that the technology is not ready for medical use."
-    publishedDateTime: 2023-07-10T18:18:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/55-of-medical-professionals-say-ai-isnt-ready-for-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "AI Could Be One of the Greatest Wealth Builders in History"
     excerpt: "Artificial intelligence could be one of the greatest wealth builders in history. That’s according to Matt Higgins, CEO of RSE Ventures, as quoted by CNBC, who added, “Artificial intelligence doesn’t care where you were born,"
     publishedDateTime: 2023-07-12T13:33:00Z
