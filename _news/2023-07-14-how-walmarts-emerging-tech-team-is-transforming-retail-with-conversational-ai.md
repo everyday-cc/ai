@@ -145,6 +145,22 @@ related:
         width: 729
         height: 373
         isCached: true
+  - title: "China to Impose New Regulations for Generative AI"
+    excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
+    publishedDateTime: 2023-07-14T21:10:00Z
+    webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Use of AI widened to assess universal credit applications and tackle fraud"
     excerpt: "Department of Work and Pensions has been warned about potential bias in algorithms by auditor general"
     publishedDateTime: 2023-07-11T15:35:00Z
@@ -381,6 +397,6 @@ related:
         height: 675
         isCached: true
 
-secured: "KSg0M20ajg37v2+GgMGNf19bhlJzjQhgS3RTQpay5lSfc/+QY7IO009RVD0x8LW25s0nK7dEA+2XitjBxboblmQqGJNcBZ5M79vCBnEQ00P0G6aoQmk7Bv0zHpJVnBI/RkVEI+0cSQaKFqbwb41Sdh7ARr2uWyBCO5ZSiSGeyVopJbMgOw91AJq9jZcs3xapkdaQod8uOsg7Ek9AIL7rbGrsdKk033W+tiVxJemEkiVa6UavsbY01Vu8Z8tXYyeb91eDasalSLUsWGiLHSXeU0oXLfOQ8rVgrhMLRzspvs4jER2yaZd/tIB8KwAJQRrJZVEkEKuKGodDB5bwylmVL9X6QrWYFojZdd9LwtqFJm8=;lVLzD7XAFVuFaHxxmCvyRA=="
+secured: "Ii0jSUj0Dg6lfMiQ5hzGVUOvDGnNwc9oQ7CAU3UBQdET7U1tfmAIsgkkbYoY6SkZuM5dTNUiOd/kiNuP4mwpyZnb1HY4+YFig3KxI5Vj5QsP353BCioTJr3whidGhv3Bd/D4SZB+AxYXwa3lRRZ7pvePp7Iq9ayJ1R6dmK/8Wl6b/kdHqji75A8h5CY5vqJIQ7NiWFGzClSt5OvDB3EmoxOJCHq1IYfdXsUcakMHmSiETYUSTr1TxTfIYW+YQFXDlxWo2ppBgA3ypduVTh6U87CktnEnVqVJRNRXxPl53BaZpuFZAj1WxTG9aFAN9gXClMDRdxPFA7QBmgNAYB9oaX3VKLDRzBsk+BHVw+NUvePM1HD2miO4aUbRO8/m3Dk47lmYWVV8USa9PbUowkZKQGgxTIttySiFqwrzrOCe8MPnHK9Wk7WZP6ZSi2E5tD5rgf6TF20wTRVgc5WdKmbRLvUSgFY5qxYuLQsMStNfQR3/2iUUcZKrE8ZhAP5O7ZkOWDU752ZpZhrO2kQsdUzJGA==;TlR8QTIt6M199Wts1fMNyQ=="
 ---
 

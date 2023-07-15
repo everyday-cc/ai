@@ -160,22 +160,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Generative AI in Healthcare Market Size is Expanding Around USD 21.74 Billion by 2032"
-    excerpt: "As per Precedence Research, the U.S. generative AI in healthcare market size will reach at USD 8.7 billion by 2032. Generative AI, refers to a class of artificial intelligence"
-    publishedDateTime: 2023-07-10T07:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33159890/generative-ai-in-healthcare-market-size-is-expanding-around-usd-21-74-billion-by-2032"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33159890"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159890"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 67
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "3 Biotech Stocks Using AI to Change Healthcare Forever"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The past year provided a peek into the future of biotech and healthcare."
     publishedDateTime: 2023-07-14T15:53:00Z

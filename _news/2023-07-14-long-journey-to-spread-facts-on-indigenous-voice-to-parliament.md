@@ -19,20 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Sydney LGBT Museum QTOPIA Says ‘Yes’ To Indigenous Voice To Parliament"
-    excerpt: "Sydney’s Queer Museum Qtopia has voiced support for the implementation of the Uluru Statement from the Heart, in full, and the ‘Yes' Campaign in the upcoming 2023 Australian Indigenous Voice referendum."
-    publishedDateTime: 2023-07-10T08:45:00Z
-    webUrl: "https://www.starobserver.com.au/news/sydney-lgbt-museum-qtopia-says-yes-to-indigenous-voice-to-parliament/224870"
+  - title: "The Indigenous voice to parliament is an opportunity for peace with ourselves and our history"
+    excerpt: "People with good intentions on both sides have launched an ocean of rhetoric and polemical squabbles, debating whether the voice is the best response to structural disadvantage."
+    publishedDateTime: 2023-07-14T09:09:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/whats-in-the-voice-for-us/news-story/53832ba3779b40abc517cb4c33520857"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/whats-in-the-voice-for-us/news-story/53832ba3779b40abc517cb4c33520857?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/whats-in-the-voice-for-us/news-story/53832ba3779b40abc517cb4c33520857?amp"
     type: article
     provider:
-      name: Star Observer
-      domain: starobserver.com.au
-    quality: 24
-    images:
-      - url: "https://www.starobserver.com.au/wp-content/uploads/2023/07/Utopia-1.jpg"
-        width: 1000
-        height: 480
-        isCached: true
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 13
 
 secured: "yarxpT7BW3I/aY8N4BCO/frDzGYELtzWBeFzriJg1MyF9MMpxbYb4ZYlOaLjh4ZTu67YrE0Q0DGG3GmNyhEnfQEYREFANnJAleY6sMw6mvffim7NCQ/o8ttqsPMEl0TxsjHl8So06xOMmheEbzV3iKIo2jyOmvlXM+ZfDbefJP8AyEHRlnC3v/6oVApUoJo0DOf67rS6wR7q9DuNPHI2jEHS/dVEEYuQYTQSaGgB94j7zOrj/RvJHV+Inv3HE9XLAbRGIAX5iSGalhk4u55wEUFvJVdCddv5Mxg9gh1NmBSgIJ31WyPD+0BZKgI4K2ZXxXzCfYg/Dhkl6DNXU+C1VEUxvpDrFw3QzfCBuXw+F7vM+wpu9VrVLI3fhJkFJ6436v/CGC3pTW16Y5T6oKm3x34qUoxQmn1aw928GimySH2wtiVNyHGfPhkVvgNhZYGIAQQZdUeqodQLiRGQEvIhznGpn4dENbtTVWBwCo2qg7iv7IRc2UOLFP4tYd9Hbk5C33XPkwDT9omVlj1ipHKAzg==;7Ri43ewYfzbSZ4sxszS9vg=="
 ---

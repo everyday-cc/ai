@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Using AI to save species from extinction cascades"
-    excerpt: "Algorithms can predict what movies or songs you might like, but they can also predict which species a predator would most likely eat."
-    publishedDateTime: 2023-07-13T07:15:00Z
-    webUrl: "https://phys.org/news/2023-07-ai-species-extinction-cascades.html"
-    ampWebUrl: "https://phys.org/news/2023-07-ai-species-extinction-cascades.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-ai-species-extinction-cascades.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-save-speci.jpg"
-        width: 2880
-        height: 2415
-        isCached: true
   - title: "Gaming CEO Shares Nightmare Scenario Of Using AI To Spy On Devs"
     excerpt: "The AI chatbot would then apparently scan the information for warning signs that could be used to help identify “potential problematic players on the team.” Nichiporchik took issue with how the presentation was framed by WhyNowGaming,"
     publishedDateTime: 2023-07-14T15:35:00Z

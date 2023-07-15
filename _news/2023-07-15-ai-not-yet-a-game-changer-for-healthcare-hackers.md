@@ -160,22 +160,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Generative AI in Healthcare Market Size is Expanding Around USD 21.74 Billion by 2032"
-    excerpt: "As per Precedence Research, the U.S. generative AI in healthcare market size will reach at USD 8.7 billion by 2032. Generative AI, refers to a class of artificial intelligence"
-    publishedDateTime: 2023-07-10T07:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33159890/generative-ai-in-healthcare-market-size-is-expanding-around-usd-21-74-billion-by-2032"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33159890"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159890"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 67
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "3 Biotech Stocks Using AI to Change Healthcare Forever"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The past year provided a peek into the future of biotech and healthcare."
     publishedDateTime: 2023-07-14T15:53:00Z
@@ -403,6 +387,6 @@ related:
       domain: baystreet.ca
     quality: 19
 
-secured: "71EURWMqzUUGEfo4cmbYSZrgRXQmxrp1xyOJAKNsIc1IUntu3+g3MzKatBiAUrzlB8aggqaoKm991PPR9davF9O7+wEkPLD1zW9WMqIkDcnKS3EtYZ9jkk34afX/d2uE4haiTqN/XF6jXOPY3lKtUoJ2E/inTxDWfwUGwnEHwBiiV17nzhBILleS9qd8f6+J56Uz7kHSrA4xiNX0RKxnFJQnNogMueuRUz/PRZSfNWAetzcKAQvnByUQXfDXLxHzNZCLGVcX6RCWpGaOtsnMX5NMC40XmB6ua3d90+8O1zVFg+ZCeGLPZaJjzfzQAq/YYtVb66BvMrHC8x5I8ChROosmm1xrm+eGXUzxWnc8r88=;wx00FXGL6xn5sst1fJxquw=="
+secured: "ixya/xOcwZ5YcJtKK8d2PQE9wUXwpPkZcIbwTT0WhysUhH+wkfQxKCfZFvXe21hIPhd5OoPV43xKGXDLBdEVmCQ2FsKCcK2Wi0csAhUjSnNq3FHxc1JctzX/WXxqOnoP5CaUHhsgi8PkY5tvy9kKeUJWa3+0jflbrbxI0jGMGWT+KmH/Lb8lRatzhQS+hfpYU/JXqt7CqFO1F2fElsf7DAkBcY/cyIanx5i2MORIeke/D8lEHB/24at+1GvP8KBuopm95QTuguXnN/eyxACz+kctWPd3/28DmRc3Q21hznX4P6z4pKVvi56s7zghc+YwOXJqWEvOdZsgm0k3JnTcRgB7MTDCaY114nUkFnF/ql67pNbLSxWnFNwF8caJB6SPbj7d893XBHP4cyw1iaFfM8yfQ2/aL6S5yRcWgISf3x5zs0CAN8W7DhXvRsMRd8noZxFWYl/5S/ydpQPgk9Qx83BC95cKIHaYqknu+svbUAmujbNnSgvoGWAv1591utfPSgnshU3xNeZqqQOkzjmLmg==;cjhpOPa+7I6nRowQQxg+UA=="
 ---
 

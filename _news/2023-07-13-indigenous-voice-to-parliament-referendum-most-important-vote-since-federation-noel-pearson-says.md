@@ -30,22 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Qld not a ‘lost cause’ on the Voice: Pearson"
-    excerpt: "Cape York elder Noel Pearson has not given up on Queensland getting behind the Voice referendum, while Linda Burney says this may be Australia’s only chance to achieve Indigenous constitutional recognition."
-    publishedDateTime: 2023-07-10T08:41:00Z
-    webUrl: "https://www.afr.com/politics/federal/qld-not-a-lost-cause-on-the-voice-pearson-20230710-p5dn14"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.4188%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_665%2C$y_112/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/138c601c9a218017d7d4619375204d27bb820e48"
-        width: 1200
-        height: 628
-        isCached: true
-
 secured: "or+yQ7tsjJeeFRqo/BHYCFg6YznQw1SpH+vXD9uQdzGd6RWfPkdC4RfwP4d1ghIW144KqYRnFEhG/7DJ4kzm05ClgJjZb3qwwTdUXjeZt/mn0kTuJrZrIeNzfhdvYkJpNsIGP6H9FSvCEld3FjJDhODi8tJI2VxOCINgZZqBx7gHNWJIVKsUSYrHfHFJL0Xds3LRYZWf85/fbm5Hk1P3VDtuVk0vkAufwHsFIOYcVDciYYoVFcKLcrIaccMZ2dLhpi057/Xm16iAo3NFiz7Shxn4MeRCWV0tm1zWoVYZApVV1O3e6E7sDsmtltoKULcoz4UsKYqYv48hp57a+Z09fGOn62kNOs11pddv5WVyEYwwAZL8L85F/W8VXgzzGplp1kxOVxlhMayDW3KfsksLnIJIo0zzxWhWWnsLNivYn0xZMRAcpv9oLrEsIcl3AqeV8A8lCpyBtRSox/EFppygNqpfuxjlzMvjnfDrbO4Bwxu1czN4fEq98o2uEjbIPl19AVaGs0VMz6FxRNFYj3demg==;mRev1JZsnMLJb74HajIvrA=="
 ---
 

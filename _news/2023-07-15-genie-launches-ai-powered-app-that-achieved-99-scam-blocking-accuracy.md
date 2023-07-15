@@ -23,17 +23,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "Tool identifies AI-generated academic science writing with over 99% accuracy"
-    excerpt: "Researchers from the University of Kansas have developed a tool capable of identifying artificial intelligence (AI)-generated academic science writing with over 99% accuracy."
-    publishedDateTime: 2023-07-10T08:51:00Z
-    webUrl: "https://insights.globalspec.com/article/20670/tool-identifies-ai-generated-academic-science-writing-with-over-99-accuracy"
-    type: article
-    provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 16
-
 secured: "iV6Gons6HxEoP4MqbdmpRGwFd3Z57d/UWG4VdqRSJu0TAC2c5P2qfSlxNOW8uGP/qHBLPLMfD6WOnVxPxBfzUzdokP9gTMujfXvjwO4R7omBpeXfbfCEchiso6LFPKELIXjgSU/EB9i23h+n+ckDC+wXrmMbkxCtibwuhDWCV7EH5uyevJKJoGU1DEzVbKsDZb8KRYad6WajxSn9f+jcsfryj4128d7jqjWxXuG3EgBA+fbK85InHk0ujvbySqtdlCPhfmCCTjlRgya9284lWLU38jMEn1qpwW32occepYepEFOayQuH1BgUIvN9oi+zYi+EZdjHx0x+CmAlSDxeKtKPvdUuhbmX/nZC8ttaVYY=;P7a1ykxpn18Bs+MySKZFkw=="
 ---
 

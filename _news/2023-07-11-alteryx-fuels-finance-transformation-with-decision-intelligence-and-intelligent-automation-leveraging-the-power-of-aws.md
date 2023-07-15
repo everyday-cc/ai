@@ -155,6 +155,22 @@ related:
         width: 729
         height: 373
         isCached: true
+  - title: "China to Impose New Regulations for Generative AI"
+    excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
+    publishedDateTime: 2023-07-14T21:10:00Z
+    webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Use of AI widened to assess universal credit applications and tackle fraud"
     excerpt: "Department of Work and Pensions has been warned about potential bias in algorithms by auditor general"
     publishedDateTime: 2023-07-11T15:35:00Z

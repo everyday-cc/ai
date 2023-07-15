@@ -41,10 +41,10 @@ related:
         isCached: true
   - title: "At New York Actors Strike Picket Lines, Artificial Intelligence and Residuals Are Top of Mind"
     excerpt: "\"If we don't deal with streaming now, if we don't deal with AI now, there's not going to be any turning back,\" actress Susan Sarandon said on Friday, as demonstrators showed up at Netflix, Warner Bros."
-    publishedDateTime: 2023-07-14T23:31:00Z
-    webUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/"
-    ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/amp/"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/amp/"
+    publishedDateTime: 2023-07-15T00:16:00Z
+    webUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/?ref=biztoc.com"
+    ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/?ref=biztoc.com&amp"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/actors-strike-new-york-sag-aftra-ai-residuals-1235536773/?ref=biztoc.com&amp"
     type: article
     provider:
       name: The Hollywood Reporter

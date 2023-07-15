@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-
 webUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "7 Hypergrowth Stocks That AI Is Loving in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some stocks have skyrocketed year to date. Indeed, shares of some technology"
+    publishedDateTime: 2023-07-14T23:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hypergrowth-stocks-to-buy-1032448493"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "+IdzRvEJoYUmAPQ1QIdS0T2u8iEU9235akSDeI/t7up70nk9saNuuFG4krtqH4IWGk1KLe+/fvkRsJcNDGgu1O2JeqFJzMDWy3nFhcs2p36NHUUl2HYDM1NP1nH9emsSSOHiJybYcp7WEOGrLmYv7a+yBzgbuj0nMOSz2RI42UandjUvaCLEkkhlPANDmghd3+tzqkSCcesJqBPRhv0qrJZ68QZRoiaGhnzYwh0cvVA58A0zbhfCDxwH9rks2wItJTl39I8pQJmtrR8MulhGTnlsYpNB0rB7jWoHYm3xzah0cveNKqAa6vGolTTeqC9rE80yeudML67rr3MKYg+1aJZk9NoLVe+tllHM0qs6PjQ=;crdjFVHu0l/sQNIbifnpow=="
 ---

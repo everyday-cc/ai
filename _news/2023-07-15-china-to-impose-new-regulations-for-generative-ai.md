@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Checkout.com is taking on identity verification with video-based AI-powered solution"
-excerpt: "Checkout.com is launching ‘Identity Verification’ to improve customer onboarding by using artificial intelligence to verify customers in under two minutes. The new identity verification process is video-based and uses AI trained on billions of data points labelled by ID fraud experts."
-publishedDateTime: 2023-07-11T05:57:00Z
-originalUrl: "https://www.altfi.com/article/checkout-com-is-taking-on-identity-verification-with-video-based-ai-powered-solution"
-webUrl: "https://www.altfi.com/article/checkout-com-is-taking-on-identity-verification-with-video-based-ai-powered-solution"
+title: "China to Impose New Regulations for Generative AI"
+excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
+publishedDateTime: 2023-07-14T21:10:00Z
+originalUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
 type: article
-quality: 32
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: altfi
-  domain: altfi.com
+  name: techtimes
+  domain: techtimes.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://images.ctfassets.net/2chiqpnroeav/7eLSSlhbIn89ev2TYbkA20/dd6604ee05455e5deeb2e2200b69306a/Identity_Verification_image_1__credits_Checkout.com.png"
-    width: 1198
-    height: 674
+  - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -155,22 +157,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2015-08/automatino-engineers.jpg"
         width: 729
         height: 373
-        isCached: true
-  - title: "China to Impose New Regulations for Generative AI"
-    excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
-    publishedDateTime: 2023-07-14T21:10:00Z
-    webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Use of AI widened to assess universal credit applications and tackle fraud"
     excerpt: "Department of Work and Pensions has been warned about potential bias in algorithms by auditor general"
@@ -324,6 +310,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 35
+  - title: "Checkout.com is taking on identity verification with video-based AI-powered solution"
+    excerpt: "Checkout.com is launching ‘Identity Verification’ to improve customer onboarding by using artificial intelligence to verify customers in under two minutes. The new identity verification process is video-based and uses AI trained on billions of data points labelled by ID fraud experts."
+    publishedDateTime: 2023-07-11T05:57:00Z
+    webUrl: "https://www.altfi.com/article/checkout-com-is-taking-on-identity-verification-with-video-based-ai-powered-solution"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 32
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/7eLSSlhbIn89ev2TYbkA20/dd6604ee05455e5deeb2e2200b69306a/Identity_Verification_image_1__credits_Checkout.com.png"
+        width: 1198
+        height: 674
+        isCached: true
   - title: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety"
     excerpt: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety - Elon Musk, the renowned billionaire entrepreneur and CEO of Tesla, SpaceX, and Twitter, officially launched"
     publishedDateTime: 2023-07-14T04:49:00Z
@@ -394,6 +394,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/W1n6ikHToigM7MF/Ir59yCW3XtxjFCNsoDQ9X6CmbRcBW2f0Tvhqese/SlnzgQRO72fxlFKKvogueMXcozeW7Vx5+fHbI53d3agziYmCqIEFVFRuuz15orV1iYVuGliTz5JgqyEXyLEQqoS1FcqNdJ3BQ09G4GbFaWFM9MHKJ8TfdjQqPq7oWAyjcUFX5+Cys/2l/k6v5aUp9zvi9hPZZCG+mSEFfoFBZaLHziYwMAE/IOxQuxIQXugiucL3yjA49QZy12xVvQli0Jr5/9vyfTpeYqIl85Y/kmeB2ma5PCekkCehvkWC5+QRpun7O5Nu9Qf7FvFv6XEoGuu19vKW9rqydYC6mL3DGVeyU8j/zE=;yPCyapf+4q8dgC/WnT29lw=="
+secured: "FIFGhocvLSF0wc79wO2q/7BtKbRJVS4IH0liWXUV60Meo9S75ugPbfyLfhGsGF+dp+WGll9p10PpTzvCzGH3PajCjcC0oGMRA/8tlCwAN7zrjm7Rpfg1Xw/b0fHLl/Y9HaWaEWrzYyhRSbSvHU9RspGDG836abwECf6IOT5Eg7QzTRySFxHJW9VpKhw/t/I8t0aUEPTNfQN5P8SudVtJ2fXvVI2BUIQKZxUpmhEyze0Obia0Qqx4KFAw8w9XXrXhiPf0wAa4scY/yVNec/Z80lNyE8AnidXpLaHLiRT9hz+7qLxeGWf+0lCulJmfYHvTorocAI0eudq1p0zLwbQbSTRVWhxPVVHUhoI3Oinox9U=;/PAhPjPq2qVVLMeLnvaVdA=="
 ---
 

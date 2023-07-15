@@ -20,21 +20,19 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Q&A: How AI can help enterprise HR automate employee experiences"
-    excerpt: "Working closely with her company's IT department, STL Chief Human Resources Officer Anjali Byce has continued to experiment with artificial intelligence to automate employee experiences — and keep her finger on the pulse of worker needs."
-    publishedDateTime: 2023-07-10T08:00:00Z
-    webUrl: "https://www.computerworld.com/article/3701949/qa-how-ai-can-help-enterprise-hr-automate-employee-experiences.html"
-    ampWebUrl: "https://www.computerworld.com/article/3701949/qa-how-ai-can-help-enterprise-hr-automate-employee-experiences.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701949/qa-how-ai-can-help-enterprise-hr-automate-employee-experiences.amp.html"
+  - title: "Artificial intelligence is already changing how teachers teach"
+    excerpt: "Mike Harris knew it could take a full day to design a new class he was teaching at a Kansas high school. But before he started last winter, he turned to artificial intelligence, curious about how it might help. He asked ChatGPT to outline a 16-week drama class at a large urban school, using his state’s standards."
+    publishedDateTime: 2023-07-13T19:21:00Z
+    webUrl: "https://www.washingtonpost.com/education/2023/07/13/ai-education-teachers-lesson-plans/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
     images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_1114395200-100942993-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 593
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFLJDHHHKZYKDXJ6I7HGZVSLDI.JPG&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "P0OciMBR0QzabCfLg/CV67AZBL5yPbGcexaE1M2vmbcu2/gZDGruFSap/D2XmgzNcfucSirOp05ggV5liknecGPmdpLLYNKbRHagwwopUyg72viIBe8GTKedDQnUOX5zOtKXDhYH3T3JdI67nlg0tMN901VnWqO2e1v9F+bGCDZr4GwWUnkX3M1nd6h8AKRWNHC0tbDerTfGQ1+5kDlKlMQ2N3wvtP0rrI7GHc9I7FVLdDyYYrA600DHAOewTuxvoorDshJ/THvfLwaVxeZKv8rgwtzZzksSsI+8HlUzOwD2RRuX6ItkuiWSTuRqXkYP0GeBhloxmw+B5oi+EmUNHlvar7vg7D3Ld9VCCc+G7DZ8oGVtDYNFhE5pdHZdNXjKDxR1plF/8Dgc8L2LXe59U81Z6VF/xemSSS1d+c7pzXLJEwhWd8LZAoiEBeGr7yLi/KSDBN17YKfd8bX4q4fkdPO7KZDPYSvy/iUcB/uVRRoTwQ/3ij90FtINeDiIyV1KoJKyTjR1m5kwzPyPhRF9Hg==;PNjQghGTMZ1xZEY9C6PK8Q=="
