@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/integrating-intelligent-automation-advi
 webUrl: "https://venturebeat.com/ai/integrating-intelligent-automation-advice-from-citi-ventures/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
+    excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
+    publishedDateTime: 2023-07-10T20:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
 
 secured: "1MyRgRTFeKHiFskZA50nnZ6+OAeheStgBuuXAgopVLBpJsPBdq85rWEbKOkZCXTIE3I2cqifc8ixHVTSKxQGwr/wHVng9ZAmIv/l0mg8bMUrv5TsrSOWI0P69ZLdBxqEq/it+6V4XWmLgwL74y7H8SlDlpVXLx8968P3xN7zBN5qSA5Vm066YSca+h37/wIo8DbtujnVh49BIVwZ/DqfJoBo3972tRUkvfcaycPByy+k5lOnsklhh8Ps4z1lR4lu796KhnhCQENrxhY1I1xHtS/iSkNBfzyIksDJi3Zk1GRBa7GCJDmYACyCVkDKGGPKpaQjv9gmJ/wbaWcQRygotlfCWwslus5lqpd+a13OaPsvu88VFKLFRhuuhrkPPmG3xedcEuVVejwDX2GDSajNqh8HX2MvO6RXAB/WXqads/+oSTz4msooERGpL7miiOIDyf4vjVFrOnI7cEI8zRy4sHlC3LSC1foZ5q00ekmwXkGFtlp40fkoMztXTQzavyuRp6lXi0o3W/UUMstADdNGYw==;lK07V8VKokj7XYZIHmTZrg=="
 ---

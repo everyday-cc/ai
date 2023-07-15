@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/business/business-news/2023/07/11/drive
 webUrl: "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.thatsmags.com/image/view/202307/52541689064370__pic.jpg"
         width: 704
         height: 460
+        isCached: true
+  - title: "Beijing Allows Driverless Taxis For Commercial Service"
+    excerpt: "The autonomous vehicles will serve the fare-paying public in a 193-square mile area following a series of trials and tests."
+    publishedDateTime: 2023-07-13T17:23:00Z
+    webUrl: "https://www.autorentalnews.com/10202222/driverless-taxis-to-start-paid-service-in-beijing"
+    type: article
+    provider:
+      name: autorentalnews
+      domain: autorentalnews.com
+    quality: 39
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/auto-rental-news/content/news/2023-07/autonomous-vehicle-self-driving--__-1200x630-s.png"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "iIB0KEWvzk1lNU7pDlr/x31XEqj4M8zB8TUHbJJC0hIuxPkQDHm2dJU8CfJ6c2ZoQ9egIfm8d/qhGAqv/VuAIgoazKun07WtRS3+qZ/Fi7TPMGlfW/9ZAsxXEUBJoBGUmJvrCOSp/IJ1rMp8qaEclF1LmWdVsj3laiAhmrzycQayaRfG8gYHx/4tz7wJLBYIAWeSivPsCBv6reZi2jLKSnGuF6/J0KpK7QqivwVnL2jLwXIpRAAaaA8xxbr7/sSPal7fCxbG487RfTzw0sKESL5ZoMUthhgDbmaMk442YzjdXA7DDqCb1zmb6LmGvA6xujLvMs5e7WtjcLtsNiWzksNDVPBYe3THKZb/KVCMAG9ewhBIo/2F4rU9I9TYhXmteG5gc5XyyMAoX8iOQkOfVGJaJf/hNGJ00xAZX0EDu5e7TNhv9DB/YKkmaUECai+V+VgH0L3s6BZ+EAR7SOJ5pDIzD/zQ8EVMimbhLcLHvM6zxFeqUhE7yG9B7wsrZ51Mkcj+V1DfcPzcwLTfSVWDEQ==;j+MDNi8GIyzCZ9Ow4/2v/g=="

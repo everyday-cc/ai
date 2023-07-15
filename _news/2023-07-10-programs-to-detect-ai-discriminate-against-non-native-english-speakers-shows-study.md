@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/10/programs-to-detec
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/10/programs-to-detect-ai-discriminate-against-non-native-english-speakers-shows-study"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "LetMeSpeak Introduces Interactive AI Dialogues for Spoken English Practice"
+    excerpt: "The revolutionary system is set to change the way people learn English.London, England, United Kingdom - July 15, 2023 — LetMeSpeak is proud"
+    publishedDateTime: 2023-07-15T05:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/letmespeak-introduces-interactive-ai-dialogues-for-spoken-english-practice-1032448517"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/1R0DvuruhcVNduQlmWcBxLW9iXx1/1689351692190-0.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "AI plagiarism detectors falsely flag non-native English speakers"
     excerpt: "If you use common English words, the detectors will give a low perplexity score, meaning my essay is likely to be flagged as AI-generated.'"
     publishedDateTime: 2023-07-11T18:00:00Z

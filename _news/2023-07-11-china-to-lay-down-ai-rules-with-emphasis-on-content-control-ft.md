@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Checkout.com is taking on identity verification with video-based AI-powered solution"
+    excerpt: "Checkout.com is launching ‘Identity Verification’ to improve customer onboarding by using artificial intelligence to verify customers in under two minutes. The new identity verification process is video-based and uses AI trained on billions of data points labelled by ID fraud experts."
+    publishedDateTime: 2023-07-11T05:57:00Z
+    webUrl: "https://www.altfi.com/article/checkout-com-is-taking-on-identity-verification-with-video-based-ai-powered-solution"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 32
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/7eLSSlhbIn89ev2TYbkA20/dd6604ee05455e5deeb2e2200b69306a/Identity_Verification_image_1__credits_Checkout.com.png"
+        width: 1198
+        height: 674
+        isCached: true
 
 secured: "ow6MBLqXEWisgaWjKwiCRAnI+14sW0s7CN+glP0slyEs9VdA9yNJq20JCeqfmL9JDB1ABZ+bsGEGydIhUNw/WoEgCNXBB49diaFXdHbs2c1xZdF8MmLoB4qSdtAohviQVJH906iyRQFOo4iD+Sbzgk3EkcI50zi1pJPp5SqEZGNTYW+w5V++NRkRpdFNe2No3r1+EUkFEbIjfrA6b7uVVFqdjpOw5skDQAgg4u3+jkdj/UXh7dSgQoFxQWm++bZgRA/NN0wcZizwYH/zBtfH5Vjq9Vhk/cyFvYABwFT4WyUvkGsdut3i9zNtwudlT7sU6gJqdMgulixe4dFRpptiAaleCgf7m2zMzsNl9wLNJ6s=;vqm+W6+BsOzFOgFd5JPlKA=="
 ---

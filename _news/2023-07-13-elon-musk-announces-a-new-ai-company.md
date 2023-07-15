@@ -42,6 +42,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Finance Transformation: Unleashing the Power of AI and Analytics in Manufacturing"
+    excerpt: "With the advent of artificial intelligence (AI), manufacturing finance is undergoing a remarkable revolution, enabling organizations to make more informed decisions, improve operational efficiency, and drive sustainable growth."
+    publishedDateTime: 2023-07-11T00:35:00Z
+    webUrl: "https://www.ibtimes.com/finance-transformation-unleashing-power-ai-analytics-manufacturing-3703828"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 51
+    images:
+      - url: "https://d.ibtimes.com/en/full/4471523/deloitte-consulting-llp.png"
+        width: 943
+        height: 629
+        isCached: true
   - title: "The AI Funding Market Correction Is Coming. Are You Ready?"
     excerpt: "\"The thinning of the herd is guaranteed,\" Traynor adds, \"because we're seeing so many people chasing the same specific little use cases, whether it is AI document editing, or email clients, or summarization, or AI-powered meeting notes, action items...every single productivity tool.\""
     publishedDateTime: 2023-07-12T18:15:00Z

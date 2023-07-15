@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/au-report-customer-experience
 webUrl: "https://www.techrepublic.com/article/au-report-customer-experience/"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 54
-  - title: "Automation, Efficiency, Insights: Freshworks Leverages Generative AI to Transform Customer Experiences"
-    excerpt: "There’s a revolution happening in the customer service industry and generative AI is at the heart of this transformation. Luckily for support agents around the world, Freshworks has been leading by testing and integrating AI into its products for the last five years."
-    publishedDateTime: 2023-07-11T20:35:00Z
-    webUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-insights-freshworks-leverages-generative-ai-to-transform-customer-experiences/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/two_women_coding-1024x683-1.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI Is Not the Solution to the Customer Experience in Australia … Yet"
     excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
     publishedDateTime: 2023-07-11T18:22:00Z

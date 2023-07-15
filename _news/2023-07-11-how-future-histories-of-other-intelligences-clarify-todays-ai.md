@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jessedamiani/2023/07/11/how-future-hist
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessedamiani/2023/07/11/how-future-histories-of-other-intelligences-clarify-todays-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "The Art of Intelligence: Unraveling the Potential of Blockchain and AI"
+    excerpt: "In this captivating blog, we explore the remarkable potential that emerges when Blockchain and Artificial Intelligence (AI) converge. We uncover how this fusion revolutionizes industries, enhances security and privacy,"
+    publishedDateTime: 2023-07-11T12:38:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2517627-the-art-of-intelligence-unraveling-the-potential-of-blockchain-and-ai"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 19
 
 secured: "QNohR4bFov9k9kFGJWDQaAWymEztWVcickVGRIHqg6uasiUONBfwgEk9sy3kXdyUVLM2zalzl0q+yIFWW56WxRAR0BmnWS1EdiClzOTrtMBifET8NRhdNt0e/u2yJGUFNW64k7Uf9I3wiBbBEUWw4GjO4LWOth+5HLo2YTquGmNJCzTebun6inZ4p/+2mK6uoramaXeK+Ah/saQwdSjLmDHRW67ItVV4VM2LnCooOlYrET1092cpwoSgP7glQNFoSRSI91MPHQ7aDzZJuDAgvsx2puc7zJjGXV7F92XsYMqLJ51g7Y0jydTTNVOqH28j6OPCQ499z5B5RVFkdute+k28rEWQEqbeaank+RJ1XVzQHU3tPB1Kr3zUBHngCLurIvMtmHZU5WD5adAYDNpanox23bJ2Ld+4VWqch0KgONCDSgmuWi5llbTWATvG+qyymYqOMGKJQtOEtYInWJ9vwzLe1VGl3XAe+JMg4igCleYxV+uDW0/Y88xUbzWGNd9HWxMUbAp+t0OLgLCws+ifwQ==;2yXEFbOnlyMNKh/DGtx+4Q=="
 ---

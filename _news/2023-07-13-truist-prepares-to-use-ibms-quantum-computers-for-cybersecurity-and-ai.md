@@ -86,6 +86,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
+  - title: "India, France commit to further deepening cooperation in digital public infrastructure, cybersecurity, startup, AI"
+    excerpt: "The two countries have recognised the rapid advancement and transformation in digital technologies and have agreed to harness their respective strengths and philosophical convergence in their approaches to digitalization,"
+    publishedDateTime: 2023-07-15T03:49:00Z
+    webUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai"
+    ampWebUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 35
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_07_2023_03_50_41_7693228.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "jtVLYZRxCF2HNcmsZrIwlOCCPCtnuACG2PzMNQrtrNVpJWkku1I21tYw5ZdHwSyw3ZPMN/MhMYHJz68NILpu8tDPK+Axk49KFwddnqA95um011QOkBtJHVBdY/8x7phxu5jbCLFwpVevo6ZOHf8xvvt3biaoItNoUU3OCWVlzPVnS/AjBHJMe+VfcvcE7DF0UKBMG6wYpM+QsHSB2pjP7MulLG49vNBvGmq7aesKlB0q9DzJCxWvF2kIyLMsuk6GSZNYiu+rv5hPphSiKQv6u+tQx0xBP3Oy2/kh8LBcn3SDUrvZlFXXr7m9YdikwUw/2BJrW/YT1jxSdm1UoblA9tyy37laXEEOUYCXInfIUetftRndqrV14Yuik6/Z6cDdOlkQDe5chf0SLht6Kv3olgDpkVRW+To8yjj5DwnhuhZqACuI4hjzOj/cI/GSZ+XbNUXcP6gUmmq1f5dYP+juze085mHw9/U9u8Z9k7/SNo28cLmFBRnglXS4aTDTWJmRdc19ao9XC7HIP7MYcmqslA==;tNd9F9YM5SCJin0Wohz6+w=="
 ---

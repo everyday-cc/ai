@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9szwrllwyymzm4zje4yjuzmde3njjknjq0otu4ndcwywe2nzky-l19wywdlcy9ox2m3njq5mja1y2vimdcynmiymdflmdzmmjhkntvhntli-jpg-64aee271999f9.jpg?crop=1.00xw:0.846xh;0,0.0385xh&resize=1200:*"
         width: 1200
         height: 677
+        isCached: true
+  - title: "Finance Transformation: Unleashing the Power of AI and Analytics in Manufacturing"
+    excerpt: "With the advent of artificial intelligence (AI), manufacturing finance is undergoing a remarkable revolution, enabling organizations to make more informed decisions, improve operational efficiency, and drive sustainable growth."
+    publishedDateTime: 2023-07-11T00:35:00Z
+    webUrl: "https://www.ibtimes.com/finance-transformation-unleashing-power-ai-analytics-manufacturing-3703828"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 51
+    images:
+      - url: "https://d.ibtimes.com/en/full/4471523/deloitte-consulting-llp.png"
+        width: 943
+        height: 629
         isCached: true
   - title: "The AI Funding Market Correction Is Coming. Are You Ready?"
     excerpt: "\"The thinning of the herd is guaranteed,\" Traynor adds, \"because we're seeing so many people chasing the same specific little use cases, whether it is AI document editing, or email clients, or summarization, or AI-powered meeting notes, action items...every single productivity tool.\""

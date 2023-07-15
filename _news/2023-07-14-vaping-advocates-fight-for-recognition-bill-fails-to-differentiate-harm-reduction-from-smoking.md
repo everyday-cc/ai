@@ -79,6 +79,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
+    excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
+    publishedDateTime: 2023-07-10T18:55:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/07/10/revert-technologies-ai-monitoring-for-energy-conservation/70399264007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 15
 
 secured: "cVL5/9bdADQsM+I5oUN1yjS14KZlwvu9u5DOlq7X7gCdaaPmb8gYSHYq/Yn7O74XmXRopmRST6YhcmVh+eu7ArmiXQV+boSZp9CWk0ddY6x4Nrjzxwybn2jggitiWOKdgt3u8qfc03wdFmLGDUHcKpNsCQa15PN0CYJG+vIogkzYLhDYg2/hMt3Yt0ji99ADckUpAAsNCsUynRlYMeNvPUGwWXXQbrWzArRzPAgwNyE/ngY6zE9GIhYgEFud36Uu0bS2EaNtGhR5AjnmwNd7UCltrUh4UbhSREZzX58yxHxxxWStPCPqtjT1o66QumfnQS4QrMYD96R/+rgZZzKjQyrWyZ74R3wQrgfL/A4bqN/DsEZCsc8jxRcdt+X92TAurJSr5tKKhrfuD66AHEHxdpgJngsQVzh9r90PCPtBQ6NYfJuZ8C7ao/ET0cMf2QK1CU9EbUv6GDdF1D2tqeCd5C2XmAAjypjg2u701anWfzLCv3ya3UF/GslRXktjYB/PCnhSMe0bZ/PIuJN8lok1iA==;6iKyyTLtPqLk9NVlOvi19w=="
 ---

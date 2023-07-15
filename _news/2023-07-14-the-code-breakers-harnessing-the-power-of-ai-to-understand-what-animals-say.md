@@ -19,31 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "AI For Retailers: The Optimal Path To Tackle Rising Costs And Unlock Competitive Advantage"
-    excerpt: "The case for AI adoption is becoming stronger given the range of benefits it can provide retailers, helping tackle their main challenges and secure structural advantage."
-    publishedDateTime: 2023-07-10T11:41:00Z
-    webUrl: "https://www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/"
-    ampWebUrl: "https://www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/claraludmir/2023/07/10/ai-for-retailers-the-optimal-path-to-tackle-rising-costs-and-unlock-competitive-advantage/amp/"
+  - title: "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder"
+    excerpt: "Filmmakers and creators have been using the startup Runway to make video editing more efficient."
+    publishedDateTime: 2023-07-13T18:09:00Z
+    webUrl: "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a814e80494d0aee64c321a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://i.insider.com/64ae71ff8ed31300199e8f90?width=1200&format=jpeg"
+        width: 480
+        height: 240
         isCached: true
-  - title: "As Retailers Adopt AI, One Thing’s Unchanged: The Value Of Location"
-    excerpt: "Successful retailers are using AI and location data to predict and respond to business disruptions and opportunities, and gaining a competitive edge."
-    publishedDateTime: 2023-07-10T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/esri/2023/07/10/as-retailers-adopt-ai-one-things-unchanged-the-value-of-location/"
+  - title: "Stability AI Cofounder Says Emad Mostaque Tricked Him Into Selling Stake For $100"
+    excerpt: "Cyrus Hodes alleges that Mostaque, the CEO, “fraudulently cheated” him out of a stake that within months was worth $150 million on an undiluted basis."
+    publishedDateTime: 2023-07-13T18:13:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2023/07/13/stability-ai-cofounder-says-emad-mostaque-tricked-him-into-selling-stake-for-100/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
+    quality: 42
 
 secured: "+JC/GLc3JbnM2Abd+AZiroPWnrbFEUxXa/WKJE2GqEVso36tDUo3ca6SrRrFNmSX7x035B78QLCFTBidjRHg5jmNYoBGrv3EQv/BoTiBkB8S7gyxThMJF3kBiDl5xk7AHqBxS426FLSzRFyva6bx6hyRQbMmrpsgUIm7LGqrsm3uLaPBYLTvXLsalg+CZqaNIqsMZeyxZSdC6nZ+f8oYqojXsqdiExeNJSg8HTQ/jDXHLFlIpFzil+X4P86BFeBF7EOtPEHeqRCAwSIls7f8iO0VkBRlCYdGIrGgXjeqaVlu5lGENeFuAM911Zn4uPPQOav0+d3gJ60XS02gpXSHx8kQ28k1vHhQrwO+xi9APw+yaRlxfZ3MoyiSJvKugowuAfYxmnqnwtSCCJ4ZCRB2VNugAO1ks8vptPf3J54a1mXPcDETOlFqcdZZa6wAOXO3YBzzU+SdkhZ/UD3J19W3YCu8SdAbfg7M0y5adTdMFyCVVA7GExOSFvTEIFHr9o4MfS2/NSvIVE7iNlUYCv0urg==;wKQytYWT0xVsV3W7jaqkNg=="
 ---

@@ -23,52 +23,74 @@ topics:
   - AI
 
 related:
-  - title: "What is Web3 and how does blockchain enable it?"
-    excerpt: "Web3is a vision and technology effort&#8212;coupled with economic incentives&#8212;to rebalance economic power in the web across service providers, application developers and consumers. This effort envisages a decentralized, more balanced world. Trust and power are distributed across service providers"
-    publishedDateTime: 2023-07-10T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/"
+  - title: "Beyond Nvidia: 5 AI Chip Stocks to Buy in July"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-07-11T09:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 102
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-06-at-5.12.28-AM.png"
-        width: 2126
-        height: 922
+      - url: "https://g.foolcdn.com/editorial/images/739252/jose-najarro-2023-07-10t183517759.png"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Microsoft-Backed Startup Space and Time Simplifies Blockchain Data Engineering with AI"
-    excerpt: "Data science and engineering is becoming simpler thanks to AI and Space and Time, a Web3 “data warehouse” startup backed by Microsoft"
-    publishedDateTime: 2023-07-11T17:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-backed-startup-space-and-time-simplifies-blockchain-data-engineering-with-ai-1032438649"
+  - title: "3 Artificial Intelligence Stocks That AI Is Loving in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology"
+    publishedDateTime: 2023-07-13T19:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 58
-  - title: "Hive Blockchain Shifts Focus to AI, Rebrands as Hive Digital Technologies"
-    excerpt: "Prominent crypto mining firm Hive Blockchain has rebranded itself to Hive Digital Technologies as the company shifts focuse toward artificial intelligence."
-    publishedDateTime: 2023-07-13T09:58:00Z
-    webUrl: "https://cryptonews.com/news/hive-blockchain-shifts-focus-ai-rebrands-as-hive-digital-technologies.htm"
+    quality: 66
+  - title: "3 Machine Learning Stocks That AI Is Loving in July"
+    excerpt: "Nvidia’s chips help power the elaborate large language models used to train and run machine learning models, especially for deep learning, a subset of machine learning that involves complex neural networks. Nvidia also offers software platforms ..."
+    publishedDateTime: 2023-07-12T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-that-ai-is-loving-in-july-1032441297"
     type: article
     provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 38
-    images:
-      - url: "https://cimg.co/news/119510/317699/opengraph.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "The Art of Intelligence: Unraveling the Potential of Blockchain and AI"
-    excerpt: "In this captivating blog, we explore the remarkable potential that emerges when Blockchain and Artificial Intelligence (AI) converge. We uncover how this fusion revolutionizes industries, enhances security and privacy,"
-    publishedDateTime: 2023-07-11T12:38:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2517627-the-art-of-intelligence-unraveling-the-potential-of-blockchain-and-ai"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "The 7 Best Robotics Stocks to Buy in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robots play an increasingly large role in our lives, whether we realize it or"
+    publishedDateTime: 2023-07-13T14:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-in-july-1032445069"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "7 Blue-Chip Stocks to Sell in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chip stocks are some of the most popular equities that you can buy. But"
+    publishedDateTime: 2023-07-13T10:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-to-sell-in-july-1032443938"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 Semiconductor Stocks That AI Is Loving in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductors devices are crucial to the modern digital economy. These tiny"
+    publishedDateTime: 2023-07-13T17:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-semiconductor-stocks-that-ai-is-loving-in-july-1032445531"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "7 Hypergrowth Stocks That AI Is Loving in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some stocks have skyrocketed year to date. Indeed, shares of some technology"
+    publishedDateTime: 2023-07-14T23:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hypergrowth-stocks-to-buy-1032448493"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "8roP3Wo9QIONIdqA60BVnDcGLg2M0S3jH86Ez5vQikhakJ3byWgOwQsB5k12EJoLiWELQWkgAlgBPC9arK79xyd9nkrx0TkS8q6M5asKQ8pSakY9qj8O39FDCtpjpXzg8pxB2uEJNZFStRZ/fuQpPrn5q7Eg4GiGffjnPd/Ue8It6Il45AZEDEd/FG8mXsJP0/YXSCTCsGQdhPpUJxm693rc/rS5dVVcJNBjBBlXuoyv8wwtA1QyisQMLJTVT2iPqWEDAcVkylLAZt0P5rzKY5v/bOVNTBltitvs2Hua60BhMvKID3O+siuLp4oED6vdaTfae5M23Do/BnevIMPxGMcerti3fyb/gZcor6yU9/80OYDawORki2s8H+Ye/xZtSggof9jdTj4zDAxp473QzIn2oJhZ8clDJlrFcY/495GquykUsdyQ+WA153C9pJ3No+WqXKjeGBhAStT+CyOeA6nTx4umr3IWmAB5DKKNf+pZCusDm0vRZtD2LKnIqUSY1tFAMG1Kmq3zXsDp2vuS0A==;RnHhTxYz1aqpqqfVSdJf6w=="
 ---

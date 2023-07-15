@@ -56,15 +56,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "NVIDIA and Run:ai Streamlines AI Application Deployment Across Multi-Cloud Environments"
-    excerpt: "NVIDIA with Run:ai, will be providing a consistent, full-stack solution that allows developers to build and test their AI applications on GPU-powered on-premises or on-cloud instances."
-    publishedDateTime: 2023-07-10T12:18:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-and-runai-streamlines-ai-application-deployment-across-multi-cloud-environments/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 11
   - title: "StockWatch: After $50M from Nvidia, Investors Bullish on Recursion"
     excerpt: "The appetites of biotech investors for companies expanding in artificial intelligence show no signs of slowing any time soon, as reflected by the stock surge enjoyed by Recursion Pharmaceuticals after Nvidia invested $50 million in the AI-focused drug developer."
     publishedDateTime: 2023-07-14T16:34:00Z

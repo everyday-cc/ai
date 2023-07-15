@@ -136,6 +136,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI is transforming Hollywood, and why its at the center of contract negotiations"
+    excerpt: "The AI company Metaphysic is immortalizing actors through data capture, allowing them to appear in future films without ever being on set."
+    publishedDateTime: 2023-07-10T23:59:00Z
+    webUrl: "https://www.cbsnews.com/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-actors-strike-sag-aftra-metaphysic/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 52
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/10/d9caeee1-9dda-4654-86d1-bf874369e67e/thumbnail/1200x630/c305aa46c205685fcfda15143fb4231c/1689033318103.png?v=758b39f312cc5ee6054d0eb9bad6c0cd"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Hollywood Actors Strike Will Revolutionize the AI Fight"
     excerpt: "Bold-faced names like Meryl Streep and the halting of production could give artificial intelligence a whole new level of awareness."
     publishedDateTime: 2023-07-14T13:00:00Z

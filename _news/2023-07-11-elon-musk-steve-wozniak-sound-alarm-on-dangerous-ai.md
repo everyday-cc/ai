@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -183,6 +183,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/12/Elon_Musk_Artificial_Intelligence_15762--36428_c0-193-4626-2891_s1200x700.jpg?cf687ec812ddc3aaad4fc12cb4b60f92acbe28a8"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety"
+    excerpt: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety - Elon Musk, the renowned billionaire entrepreneur and CEO of Tesla, SpaceX, and Twitter, officially launched"
+    publishedDateTime: 2023-07-14T04:49:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/elon-musk-introduces-xai-an-ai-startup-with-an-emphasis-on-innovation-and-safety-nid-224089-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 32
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/tGq21I0V.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "Elon Musk launches a new AI startup ‘xAI’"
     excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."

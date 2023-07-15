@@ -188,6 +188,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety"
+    excerpt: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety - Elon Musk, the renowned billionaire entrepreneur and CEO of Tesla, SpaceX, and Twitter, officially launched"
+    publishedDateTime: 2023-07-14T04:49:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/elon-musk-introduces-xai-an-ai-startup-with-an-emphasis-on-innovation-and-safety-nid-224089-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 32
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/tGq21I0V.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "kKgqW92bs18Xh4zK+IVrslqlxXHX3bTG06zYlSFg6d+Ft8stntgal0gXhV65m5tkwf0obqlzHbNzcwI9aT6YjTBLLNfH6CSFoZkREdRf4savtxrI7QVbTyKxrCAz4dF145R6J5u7RXvhvCAQ23ixw7adVOcER8kgX/m3wr/3JFtz8xUR3/oLGlsHObDezyd6AUjGdTgOFdyRuecuXw9VquZwHF0BVcoGGYc2GNKX1O3C0QpsTj6tLrWv7vPRJJzvGrmJ1Pr6PXgpSv4YfQgGrcu8L2EdppB6URYOu6j4a4iSglyXfe+qLGVIEcsGG92AdlAflHud6APLzPrjOhixKjztaTEzkg7XfG5uaBR0ISFL/miwpHGyVVe34/Kf34t6Qjc0KAJJGXrBBW64DBFMnBiX1m82/9RdVJ+z/0pN3K144yIPYWM5S6vDgKoWyiPNNV1a9U6wIptVzby28BJwhzttgmniasmPhbDY92vaRJ0MGpLSgDfwUYifxzkgkLVFPStBgEzyD/p6TqYCc+wbNw==;omddCcC8H4zhfVkmCtmr3w=="
 ---

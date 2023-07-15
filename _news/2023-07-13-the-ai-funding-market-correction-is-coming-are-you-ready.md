@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Finance Transformation: Unleashing the Power of AI and Analytics in Manufacturing"
+    excerpt: "With the advent of artificial intelligence (AI), manufacturing finance is undergoing a remarkable revolution, enabling organizations to make more informed decisions, improve operational efficiency, and drive sustainable growth."
+    publishedDateTime: 2023-07-11T00:35:00Z
+    webUrl: "https://www.ibtimes.com/finance-transformation-unleashing-power-ai-analytics-manufacturing-3703828"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 51
+    images:
+      - url: "https://d.ibtimes.com/en/full/4471523/deloitte-consulting-llp.png"
+        width: 943
+        height: 629
+        isCached: true
   - title: "Versus unveils VersusLM, a powerful AI constellation for interactive content creation"
     excerpt: "The VersusLM AI constellation applies a generative AI to derive context and generate a layered output that includes the core elements of the VersusGame content format – A video or an animated sequence explaining the topic (a brief synopsis) with a corresponding future event state expressed with a question (the prediction game)."
     publishedDateTime: 2023-07-10T14:20:00Z

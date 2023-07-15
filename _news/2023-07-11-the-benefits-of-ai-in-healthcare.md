@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 type: article
 quality: 116
-heat: 386
+heat: 376
 published: true
 
 provider:
@@ -24,22 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "The Promise And Challenges Of AI In Healthcare"
-    excerpt: "Fueled by the flashy arrival of OpenAI’s ChatGPT and its newest large language model, GPT-4, the race is on among IT vendors and care providers to use AI to improve everything from triage to patient communications to treatment to discharge."
-    publishedDateTime: 2023-07-10T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/10/the-promise-and-challenges-of-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Generative AI Will Shape The Future Of IT. Here’s Why."
     excerpt: "IT organizations willing to embrace generative AI have the potential to be among the first to reap its transformative benefits."
     publishedDateTime: 2023-07-12T23:42:00Z

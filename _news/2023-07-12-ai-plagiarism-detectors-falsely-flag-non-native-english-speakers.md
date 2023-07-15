@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "LetMeSpeak Introduces Interactive AI Dialogues for Spoken English Practice"
+    excerpt: "The revolutionary system is set to change the way people learn English.London, England, United Kingdom - July 15, 2023 — LetMeSpeak is proud"
+    publishedDateTime: 2023-07-15T05:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/letmespeak-introduces-interactive-ai-dialogues-for-spoken-english-practice-1032448517"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/1R0DvuruhcVNduQlmWcBxLW9iXx1/1689351692190-0.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Programs to detect AI discriminate against non-native English speakers, shows study"
     excerpt: "Over half of essays written by people were wrongly flagged as AI-made, with implications for students and job applicants"
     publishedDateTime: 2023-07-10T16:38:00Z

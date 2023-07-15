@@ -27,372 +27,160 @@ images:
     isCached: true
 
 related:
-  - title: "Transforming IT operations and application modernization with artificial intelligence"
-    excerpt: "Many organizations have embraced the hybrid cloud for its flexibility, scalability and capacity to accelerate market deployment. Hybrid cloud enables businesses worldwide to promote data security and accessibility for various projects and analysis. However, managing multiple hybrid clouds can be a complex"
-    publishedDateTime: 2023-07-10T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/"
+  - title: "Hollywood actors join writers on strike, demanding higher pay and AI protections"
+    excerpt: "In Hollywood, SAG-AFTRA actors joined the Writer’s Guild of America on strike after contract negotiations with Alliance of Motion Picture and Television Producers collapsed, demanding higher pay and AI protections so studios can’t use their images without permission."
+    publishedDateTime: 2023-07-14T23:21:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/hollywood-actors-join-writers-on-strike-demanding-higher-pay-and-ai-protections-188510789532"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188510789532"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188510789532"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 92
-  - title: "AI-Driven Transformation: Insights And Pitfalls"
-    excerpt: "The potential transformative power of artificial intelligence (AI) is undeniable, yet even industry giants are exercising caution as they navigate potential implications."
-    publishedDateTime: 2023-07-11T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/"
-    ampWebUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
+      name: NBC News
+      domain: nbcnews.com
+    quality: 82
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689376796115_nn_dgr_actors_join_writers_on_picket_lines_230714_1920x1080-ugxzy1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Striking actors say rejected 'AI proposal' would let studios use their likeness without fair pay"
+    excerpt: "On Thursday, leaders at the Screen Actors Guild-American Federation of Television and Radio Artists announced that the group was going on strike after negotiations with Hollywood studios fell apart. According to the Alliance of Motion Picture of Television Producers,"
+    publishedDateTime: 2023-07-14T00:02:00Z
+    webUrl: "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+    ampWebUrl: "https://www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/LCBOe1tGVBIEz4dd9flfVQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/c08c39b0-21d5-11ee-a7f6-516698f83aed.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Actors say Hollywood studios want their AI replicas — for free, forever"
+    excerpt: "During today’s press conference in which Hollywood actors confirmed that they were going on strike, Duncan Crabtree-Ireland, SAG-AFTRA’s chief negotiator, revealed a proposal from Hollywood studios that sounds ripped right out of a Black Mirror episode."
+    publishedDateTime: 2023-07-13T20:34:00Z
+    webUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/EOBvakgKZaoIGZu_qy6UzPlSD_s=/0x0:1422x750/1200x628/filters:focal(941x379:942x380)/cdn.vox-cdn.com/uploads/chorus_asset/file/24693367/black_mirror_s6.jpeg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Striking Actors Say Hollywood Studios Want To Perpetually Use AI-Generated Replicas Of Actors For One Day’s Pay"
+    excerpt: "In their proposal studios want to gain ownership of a background actor’s image and likeness and “use it for the rest of eternity” without any consent in return for a day’s pay, the striking actors alleged."
+    publishedDateTime: 2023-07-14T06:47:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ad7ae447783414a7e45d54/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b0ef566fd25ebd02ee197f/0x0.jpg?format=jpg&crop=1177,662,x0,y1,safe&width=1200"
+        width: 1177
+        height: 662
+        isCached: true
+  - title: "Hollywood's AI Proposal: Cloning an Actor's Likeness and Using It Forever"
+    excerpt: "Hollywood actors are striking partly because the big studios allegedly floated a controversial AI proposal for background actors."
+    publishedDateTime: 2023-07-14T15:30:00Z
+    webUrl: "https://www.pcmag.com/news/hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05UVqeIZBS68CskksBnJeLB-1.fit_lim.size_1200x630.v1689344605.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Hollywood's 'Groundbreaking' AI Proposal for Actors Sounds Like a Nightmare"
+    excerpt: "SAG-AFTRA said that AMPTP's AI plan included scanning background actors and using their likeness \"for the rest of eternity.\""
+    publishedDateTime: 2023-07-13T22:45:00Z
+    webUrl: "https://gizmodo.com/sag-aftra-ai-actors-strike-amptp-ceos-likeness-image-1850638409"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 65
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/acbbd1a48a2600009a805233b0cc9ad8.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Our Three-Month Generative AI Transformation: Lessons Learned"
-    excerpt: "While generative AI is capable of incredible feats, leaders should start by thinking critically about how these new capabilities impact their companies’ visions."
-    publishedDateTime: 2023-07-12T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
+  - title: "Actors' strike looms as union looks for protections against AI"
+    excerpt: "The union is looking for protections from artificial intelligence being used to create characters using actors' voices or likenesses. With the writer's guild already on strike, an actors' strike would bring most remaining productions to a halt."
+    publishedDateTime: 2023-07-12T08:40:00Z
+    webUrl: "https://www.cbsnews.com/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
+    ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647df0780fbdf1afcd13b283/0x0.jpg?format=jpg&width=1200"
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/12/34de4efb-2dc9-48a6-ab24-d4c55413979f/thumbnail/1200x630/d6ae7b499d3b21d1680c249295b9bd56/gettyimages-1534509866.jpg?v=0d985d39f30c0548885e26d84e710785"
         width: 1200
-        height: 738
+        height: 630
         isCached: true
-  - title: "The Role Of Generative AI And Smart Data Extraction In Accounts Payable Automation"
-    excerpt: "A fundamental use case for generative AI within AP automation is its capacity to extract and process data from invoices."
-    publishedDateTime: 2023-07-14T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
+  - title: "Hollywood actors union votes to strike over pay, AI issues"
+    excerpt: "The television/theatrical/streaming contracts of the Hollywood actors union SAG-AFTRA expired late Wednesday. The national board is scheduled to vote Thursday on whether to strike."
+    publishedDateTime: 2023-07-13T11:23:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: UPI
+      domain: upi.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b001d6688702d8dcee1991/0x0.jpg?format=jpg&width=1200"
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6041689244370/2023/1/13d24c8becf0402a502b60ae5afdf5b8/v1.5/Citing-studio-greed-Hollywood-actors-union-votes-to-strike-over-pay-AI-issues.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "NTT’s vision for AI adoption — and why collaboration is key"
-    excerpt: "Explore NTT's approach to gen AI adoption, sustainable AI practices and why collaboration is a competitive advantage."
-    publishedDateTime: 2023-07-13T05:09:00Z
-    webUrl: "https://venturebeat.com/ai/ntts-vision-for-ai-adoption-and-why-collaboration-is-key/"
+  - title: "The Hollywood Actors Strike Will Revolutionize the AI Fight"
+    excerpt: "Bold-faced names like Meryl Streep and the halting of production could give artificial intelligence a whole new level of awareness."
+    publishedDateTime: 2023-07-14T13:00:00Z
+    webUrl: "https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM0153.jpg?w=1200&strip=all"
-        width: 1200
-        height: 739
-        isCached: true
-  - title: "Why generative AI just hits different – and why organizations need to embrace it now"
-    excerpt: "Learn how gen AI burst onto the scene, why it's not going anywhere and why business leaders need to embrace it, in this VB Transform panel."
-    publishedDateTime: 2023-07-14T14:45:00Z
-    webUrl: "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screenshot-2023-07-14-at-10.26.42-AM.png?w=1200&strip=all"
-        width: 875
-        height: 467
-        isCached: true
-  - title: "How Walmart’s Emerging Tech team is transforming retail with conversational AI"
-    excerpt: "Conversational AI use cases at Walmart include shopping assistance, customer care automation, and improving associate productivity."
-    publishedDateTime: 2023-07-14T15:57:00Z
-    webUrl: "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming-retail-with-conversational-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/VB-Transform-2023-banner.jpg?w=1200&strip=all"
-        width: 1200
-        height: 660
-        isCached: true
-  - title: "The transformational impact of AI"
-    excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
-    publishedDateTime: 2023-07-12T03:26:00Z
-    webUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai"
-    ampWebUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
-    images:
-      - url: "https://i.tribune.com.pk/media/images/1083504-TalatMasoodNew-1460481455/1083504-TalatMasoodNew-1460481455.JPG"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "User-driven AI automation - a path to efficiency and job satisfaction"
-    excerpt: "The transformatve power of AI and automation goes far beyond technology - business users play a vital role. Acumatica's Doug Johnson explores the emergence of business process experts, and the different levels of AI-driven automation."
-    publishedDateTime: 2023-07-13T09:51:00Z
-    webUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction"
-    ampWebUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2015-08/automatino-engineers.jpg"
-        width: 729
-        height: 373
-        isCached: true
-  - title: "China to Impose New Regulations for Generative AI"
-    excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
-    publishedDateTime: 2023-07-14T21:10:00Z
-    webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Use of AI widened to assess universal credit applications and tackle fraud"
-    excerpt: "Department of Work and Pensions has been warned about potential bias in algorithms by auditor general"
-    publishedDateTime: 2023-07-11T15:35:00Z
-    webUrl: "https://www.theguardian.com/society/2023/jul/11/use-of-artificial-intelligence-widened-to-assess-universal-credit-applications-and-tackle"
-    ampWebUrl: "https://amp.theguardian.com/society/2023/jul/11/use-of-artificial-intelligence-widened-to-assess-universal-credit-applications-and-tackle"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2023/jul/11/use-of-artificial-intelligence-widened-to-assess-universal-credit-applications-and-tackle"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/90172fe6f44d88e93dab2ea89f9d8ccc655493be/0_35_4771_2864/master/4771.jpg?width=620&quality=85&auto=format&fit=max&s=ba23edb60b76b430efeadf4c81c527a3"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "UM Industries: Revolutionary Tech Company Transforming Education, Healthcare, and Finance with AI"
-    excerpt: "UM Industries, a trailblazing tech company, is revolutionizing education, healthcare, and finance through artificial intelligence. Their transformative solutions include TutorGeniusAI for accessible tutoring,"
-    publishedDateTime: 2023-07-11T18:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33189875/um-industries-revolutionary-tech-company-transforming-education-healthcare-and-finance-with-ai"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-  - title: "AI-driven Facial Recognition: Repression And Innovation"
-    excerpt: "Researchers reported that the regime employs AI-powered facial recognition technology to suppress dissent while advancing its capabilities in China"
-    publishedDateTime: 2023-07-13T05:34:00Z
-    webUrl: "https://www.electronicsforu.com/news/ai-driven-facial-recognition-repression-and-innovation"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 54
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-AI-tocracy-01-press_0.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Finance Transformation: Unleashing the Power of AI and Analytics in Manufacturing"
-    excerpt: "With the advent of artificial intelligence (AI), manufacturing finance is undergoing a remarkable revolution, enabling organizations to make more informed decisions, improve operational efficiency, and drive sustainable growth."
-    publishedDateTime: 2023-07-11T00:35:00Z
-    webUrl: "https://www.ibtimes.com/finance-transformation-unleashing-power-ai-analytics-manufacturing-3703828"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 51
-    images:
-      - url: "https://d.ibtimes.com/en/full/4471523/deloitte-consulting-llp.png"
-        width: 943
-        height: 629
-        isCached: true
-  - title: "How To Implement AI, The Catalyst For Supply Chain Transformation"
-    excerpt: "In order to excel in the world of machine learning, it's essential to become an organizational learning machine."
-    publishedDateTime: 2023-07-13T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/13/how-to-implement-ai-the-catalyst-for-supply-chain-transformation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: Wired
+      domain: wired.com
     quality: 47
-  - title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
-    excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
-    publishedDateTime: 2023-07-10T20:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
+  - title: "Hollywood actors strike over use of AI in films and other issues"
+    excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
+    publishedDateTime: 2023-07-14T19:38:00Z
+    webUrl: "https://www.newscientist.com/article/2375009-hollywood-actors-strike-over-use-of-ai-in-films-and-other-issues/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "Google's Speech AI AudioPaLM Performs Translation with Voice Transfer"
-    excerpt: "This work has focused on speech recognition and speech translation, for which the benchmarks are more mature. The establishment of more benchmarks and metrics for generative audio tasks will help to accelerate research further. Several users discussed ..."
-    publishedDateTime: 2023-07-11T13:08:00Z
-    webUrl: "https://www.infoq.com/news/2023/07/google-audiopalm/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2023/07/google-audiopalm/en/headerimage/generatedHeaderImage-1688225808251.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Attacker behaviour, AI and cloud-native applications"
-    excerpt: "With the popularity of cloud-native applications and solutions, ransomware is becoming an unfortunate reality for businesses today."
-    publishedDateTime: 2023-07-11T23:31:00Z
-    webUrl: "https://techwireasia.com/2023/07/attacker-behaviour-ai-and-cloud-native-applications/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_2013901751-1-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Shell Wields AI as Transition Tool"
-    excerpt: "The UK major's global head of artificial intelligence explains how digital technology is helping drive innovation in the complex new energy system."
-    publishedDateTime: 2023-07-11T20:23:00Z
-    webUrl: "https://www.energyintel.com/00000189-44e0-db03-a3ab-76f7292f0000"
-    type: article
-    provider:
-      name: energyintel
-      domain: energyintel.com
-    quality: 39
-    images:
-      - url: "https://energyintel.brightspotcdn.com/dims4/default/ef4ac8c/2147483647/strip/true/crop/882x463+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fenergy-intelligence-brightspot.s3.amazonaws.com%2F46%2F42%2F30ce053140fcb6e690e8d3a85d26%2Fss-1931158067-ai-concept.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How AI is shaping our world: Reflections on World AI Appreciation Day 2023"
-    excerpt: "World AI Appreciation Day highlights AI's transformative impact on cybersecurity and data management since the 1950s."
-    publishedDateTime: 2023-07-14T17:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/world-ai-day-2023-how-ai-is-reshaping-our-world/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
+      name: New Scientist
+      domain: newscientist.com
     quality: 37
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/14072023_WorldAIAppreciationDay2023.png"
-        width: 1189
-        height: 669
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/14185559/SEI_164100721.jpg"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
-    excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://venturebeat.com/ai/revolutionizing-personalization-how-generative-ai-propels-growth-with-ai-driven-customer-insights/"
+  - title: "AI worries spread from UN and OECD to Hollywood"
+    excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."
+    publishedDateTime: 2023-07-14T17:15:00Z
+    webUrl: "https://www.ft.com/content/ff29c447-4f9b-4a6b-b009-c224d0eee139"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
-  - title: "Checkout.com is taking on identity verification with video-based AI-powered solution"
-    excerpt: "Checkout.com is launching ‘Identity Verification’ to improve customer onboarding by using artificial intelligence to verify customers in under two minutes. The new identity verification process is video-based and uses AI trained on billions of data points labelled by ID fraud experts."
-    publishedDateTime: 2023-07-11T05:57:00Z
-    webUrl: "https://www.altfi.com/article/checkout-com-is-taking-on-identity-verification-with-video-based-ai-powered-solution"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 32
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/7eLSSlhbIn89ev2TYbkA20/dd6604ee05455e5deeb2e2200b69306a/Identity_Verification_image_1__credits_Checkout.com.png"
-        width: 1198
-        height: 674
-        isCached: true
-  - title: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety"
-    excerpt: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety - Elon Musk, the renowned billionaire entrepreneur and CEO of Tesla, SpaceX, and Twitter, officially launched"
-    publishedDateTime: 2023-07-14T04:49:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/elon-musk-introduces-xai-an-ai-startup-with-an-emphasis-on-innovation-and-safety-nid-224089-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 32
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/tGq21I0V.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab"
-    excerpt: "Collaboration Creates Opportunities to Leverage Modern Advancements in Cloud Optimization and Artificial Intelligence for Ongoing Platform Development Strategic Partnership Allows Asure Opportunity to Provide Customers with Unprecedented,"
-    publishedDateTime: 2023-07-11T14:43:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 20
-  - title: "ReVert Technologies: Revolutionizing Energy Conservation with AI Monitoring"
-    excerpt: "ReVert Technogies is in the process of launching a new set of power adapters to transform how users consume energy"
-    publishedDateTime: 2023-07-10T18:55:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/07/10/revert-technologies-ai-monitoring-for-energy-conservation/70399264007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 15
-  - title: "OutSystems Unveils its Generative AI Roadmap to Transform the Way Enterprises Develop, Edit and Extend Mission-Critical Applications"
-    excerpt: "Company shares live demos of its new connector for Azure OpenAI, built in partnership with Microsoft, that enables the use of ChatGPT, GPT 4 and other large language models along with OutSystems \"Project Morpheus,"
-    publishedDateTime: 2023-07-11T02:52:00Z
-    webUrl: "https://www.ryt9.com/en/prg/269453"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 8
-    images:
-      - url: "https://www.ryt9.com/img/files/20230711/iq3eab01168176bff0fe54b34fc9a54038.jpg"
-        width: 3584
-        height: 1822
-        isCached: true
-  - title: "Kinetica Now Free Forever in Cloud Hosted Version; Accelerate the Transition to Generative AI with SQL-GPT"
-    excerpt: "Industry-first pricing model includes storage and compute at no cost, with no expiration date; provision in under one minute and get going fast Kinetica Cloud for Dedicated Workloads provides upgrade option for production deployments ARLINGTON,"
-    publishedDateTime: 2023-07-12T12:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/12/9846923.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
-  - title: "Unbabel Launches Next-Generation Language Operations Platform, Offering The First Holistic Approach to Multilingual Communication and Translation"
-    excerpt: "Unbabel, the AI-powered Language Operations (LangOps) platform that helps businesses deliver multilingual customer experience at scale, today announced the release of its new LangOps … Continue Readin"
-    publishedDateTime: 2023-07-12T16:14:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/unbabel-launches-next-generation-language-operations-platform-offering-the-first-holistic-approach-to-multilingual-communication-and-translation/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 0
-    images:
-      - url: "https://multichannelmerchant.com/wp-content/uploads/2023/07/mcm-logo.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "ymJOmu7mMgU4T9upTVkGHEOJ7e5k5k2zOYBTUUU7pqCceu1eSiDYZr7Ey3LpN1GIOz5XkkEygDvikIJPk0RTebQbG7LCH5OdFsXRSAYes6/TS3jCiZ9t1T6gZFp5RGMWQxlzxlM7NMbXbio9ZCjUdBkLwOI9trcKRMFaJZeyqfMUIt9jkkS1d8GNvFxFIlCdBzg07BbmQnpSFpwWag+29o36egnmIbO5viUDs3cUBGkj/fjXKBeAgHXhYahl9+8Vt3FuJmrSckUSS0x3ZvPfzZeobCS0cWA20m/PTSeEyzwsBHEtvprEzEFP0jgmLrMmUt3+fuSOl7ou7jfnh9ehSTXzjTabrV0aWEWGGHoVARCD/wheIupUux+/IlABW1VyMWNe6Rkmz4Lnj/buKFXwroYkuPWYdDcX5YRf1GqGbh4l6171Cv9zCwLjWVa8lWkonnJnM1yWj5SEcZDlRmQrm/p+bnGoyoJxlQtEVmMpx0uW/ZktqeZ1jCjgS76tZSpROLMYg4Q1H0bGL/T/nBxSqw==;+UPHL1zRI9au+dxGR2rBLQ=="
 ---

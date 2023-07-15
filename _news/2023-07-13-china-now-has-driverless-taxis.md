@@ -62,6 +62,20 @@ related:
         width: 704
         height: 460
         isCached: true
+  - title: "Beijing Allows Driverless Taxis For Commercial Service"
+    excerpt: "The autonomous vehicles will serve the fare-paying public in a 193-square mile area following a series of trials and tests."
+    publishedDateTime: 2023-07-13T17:23:00Z
+    webUrl: "https://www.autorentalnews.com/10202222/driverless-taxis-to-start-paid-service-in-beijing"
+    type: article
+    provider:
+      name: autorentalnews
+      domain: autorentalnews.com
+    quality: 39
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/auto-rental-news/content/news/2023-07/autonomous-vehicle-self-driving--__-1200x630-s.png"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "K/JE7pLkQ4RlYBm0Is+/y4SoaA80dfTp1A1233tzd87a0nFRjU8vvcGj6yl38Yvuz/W+PLIGf6aSLG8/uVTes88+zEpfd8J+qNswhxGZN9skGuZbwVb4Uf200QH0Y2N0AKXXEd3JtFi+erpYkdUkykAf5WCabH79e+lWWKzNfOsS+UnCojUJggBub2fGqcXYUNx0V6rsLrwdoWIaJvJSxp/pcjW1CrutF5jODmoyMtlB3BsdTUqkZg9vPuKGcINoZg+QjIa8MxmWgPt8gg35jGi7p6oR6SYjJ57XPmRfwuhN5nZhKDLaekHbSI1DuNjxrsSgISGiJN0bBxSVdbONoCMwml7AtsBrek4WM5PMIpr7A6s+beGXFZjcWcwSfX3A1Md/D7WxubbBmZMYJpqFA8/4KWHXIxCfMRl6Zlm78z58156k8KAQs9TWu0GEh32uYVqqyU+oGW4mb3HFmg2FkkahUt3d914z8SovKTPAp7BU0jHWiIqJzgvyTDmkmFOvlN4VkkiQh2YuyFuFLozTNQ==;IpWU8qTWTQFzqpxUK0kQrA=="
 ---

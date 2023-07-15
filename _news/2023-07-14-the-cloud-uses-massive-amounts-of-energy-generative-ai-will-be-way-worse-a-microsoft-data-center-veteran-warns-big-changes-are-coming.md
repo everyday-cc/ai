@@ -252,6 +252,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 30
+  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
+    excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
+    publishedDateTime: 2023-07-15T05:17:00Z
+    webUrl: "https://www.inferse.com/615174/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 30
   - title: "Microsoft rises as UBS upgrades, citing stabilizing cloud spending, AI catalysts"
     excerpt: "Microsoft (MSFT) shares rose 1.5% in pre-market trading on Friday after investment firm UBS upgraded the tech giant. Read for more."
     publishedDateTime: 2023-07-14T11:41:00Z

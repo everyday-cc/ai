@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 769
         isCached: true
+  - title: "The Role Of Generative AI And Smart Data Extraction In Accounts Payable Automation"
+    excerpt: "A fundamental use case for generative AI within AP automation is its capacity to extract and process data from invoices."
+    publishedDateTime: 2023-07-14T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b001d6688702d8dcee1991/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Practical Ways to Navigate the AI Hysteria"
     excerpt: "AI inputs, outputs, and work must be humanly readable, auditable, and understandable to fix mistakes. AI must not be designed to manipulate people or organizations, have no surveillance, or be used as a strategy for widespread job displacement. AI must protect individual privacy and eliminate bias to create a level playing field."
     publishedDateTime: 2023-07-10T13:34:00Z

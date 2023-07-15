@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-colla
 webUrl: "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-collaborators/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -82,6 +82,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
+  - title: "India, France commit to further deepening cooperation in digital public infrastructure, cybersecurity, startup, AI"
+    excerpt: "The two countries have recognised the rapid advancement and transformation in digital technologies and have agreed to harness their respective strengths and philosophical convergence in their approaches to digitalization,"
+    publishedDateTime: 2023-07-15T03:49:00Z
+    webUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai"
+    ampWebUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 35
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_07_2023_03_50_41_7693228.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Truist prepares to use IBM's quantum computers for cybersecurity and AI"
     excerpt: "The Charlotte bank plans to use quantum computing to stiffen cybersecurity, to run more advanced AI applications and to create new commercial use cases alongside IBM engineers."
     publishedDateTime: 2023-07-12T18:49:00Z

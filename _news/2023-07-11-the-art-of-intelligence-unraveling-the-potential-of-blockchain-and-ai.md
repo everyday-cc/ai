@@ -19,51 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "What is Web3 and how does blockchain enable it?"
-    excerpt: "Web3is a vision and technology effort&#8212;coupled with economic incentives&#8212;to rebalance economic power in the web across service providers, application developers and consumers. This effort envisages a decentralized, more balanced world. Trust and power are distributed across service providers"
-    publishedDateTime: 2023-07-10T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/"
+  - title: "How Future Histories Of ‘Other Intelligences’ Clarify Today’s AI"
+    excerpt: "In 'The Institute for Other Intelligences,' Mashinka Firunts Hakopian combines speculative fiction and media theory to propose equitable futures for intelligent life."
+    publishedDateTime: 2023-07-11T15:02:00Z
+    webUrl: "https://www.forbes.com/sites/jessedamiani/2023/07/11/how-future-histories-of-other-intelligences-clarify-todays-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/jessedamiani/2023/07/11/how-future-histories-of-other-intelligences-clarify-todays-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessedamiani/2023/07/11/how-future-histories-of-other-intelligences-clarify-todays-ai/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 102
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-06-at-5.12.28-AM.png"
-        width: 2126
-        height: 922
-        isCached: true
-  - title: "Microsoft-Backed Startup Space and Time Simplifies Blockchain Data Engineering with AI"
-    excerpt: "Data science and engineering is becoming simpler thanks to AI and Space and Time, a Web3 “data warehouse” startup backed by Microsoft"
-    publishedDateTime: 2023-07-11T17:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-backed-startup-space-and-time-simplifies-blockchain-data-engineering-with-ai-1032438649"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-  - title: "3 Blockchain Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I’ve used Google’s Bard AI tool to help identify blockchain stocks"
-    publishedDateTime: 2023-07-12T12:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-blockchain-stocks-that-ai-is-loving-in-july-1032440991"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Hive Blockchain Shifts Focus to AI, Rebrands as Hive Digital Technologies"
-    excerpt: "Prominent crypto mining firm Hive Blockchain has rebranded itself to Hive Digital Technologies as the company shifts focuse toward artificial intelligence."
-    publishedDateTime: 2023-07-13T09:58:00Z
-    webUrl: "https://cryptonews.com/news/hive-blockchain-shifts-focus-ai-rebrands-as-hive-digital-technologies.htm"
-    type: article
-    provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 38
-    images:
-      - url: "https://cimg.co/news/119510/317699/opengraph.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64aa2cd9902ea2c82ab4def1/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 628
+        height: 675
+        isCached: true
+  - title: "U.S. intelligence chiefs plan for a future where every spy uses AI"
+    excerpt: "U.S. spy agencies are preparing for a future where all of its analysts and spies use artificial intelligence to augment their work rather than rely on traditional tradecraft."
+    publishedDateTime: 2023-07-14T21:53:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jul/14/us-intelligence-chiefs-plan-future-where-every-spy/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 37
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/10/shutterstock_638342005_c0-250-6000-3750_s1200x700.jpeg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "PS38owtI+UZF9FWw4zU0njozT+wdWwwr3PJPa9xSMYsAzxdlDhdJkXXH85urnkXvt+dKyhnSjG5AhNzPUXN8jWYl+mbK8FuzueW68vb/coZ2t7H3LiM6LQCOtxEQ19/1TOF2TLMUyJSY7YfE9jnSCqVQjJ9wWPTYNdCr2TUayJ5dbTBvhtBG9WJovXZQKuwHDOnTk6n8srB3cRmGLLD3HoVtFzTiTHEU309MQ5jAsL4rOhGB5SmDzf2V6PNJV6V1aGdNRlzptFw3nh+K+b456h5uCF1KrbHGVie3h79uAfP+lTxy6smd1CtSPOKkFJbxaP0//R5VqincxzrbqNjLiQZj1BpxbBqhxvYQZqrESnyEofoIwfdAemGcFRMZmnTYWuWu6Fc5ZpEouJYCqAsdkTilSoy1vM036l5syK0fZxI/kKchYLVRR1E5Y4TA5w+HCGZHHtOM8y40COesVle9wAT+X6EWXQW597p/eabrkPmXhorQUFZpCP2G2FtKc8AxTtwOTTPi2t4D0x9PYOCXyQ==;F8OliYz2ImGpb+bMgUedvw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-de
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
 type: article
 quality: 61
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=867e41af7e860d9286e5bd7e91ee0db8"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Save $211 with the Amazon Prime Day Shark AI Ultra Voice Control Robot Vacuum Deal"
+    excerpt: "The Shark AI Ultra Voice Control Robot Vacuum normally runs for $599, but with this Amazon Prime Day deal you can shave $211 off the price. Not only does it provides seriously powerful suction ..."
+    publishedDateTime: 2023-07-11T19:18:00Z
+    webUrl: "https://www.azcentral.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/"
+    type: article
+    provider:
+      name: AZ Central
+      domain: azcentral.com
+    quality: 48
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/07/11/USAT/252ad0e5-8a1f-4f49-a34d-165e1b8f16d3-amazon-prime-day-shark-robot-vacuum-deal.png?auto=webp&crop=2987,1680,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Amazon Prime Day, Day 2: Get the latest on dates, deals, duration and more"
     excerpt: "An Amazon Prime membership costs $14.99 per month (plus taxes) or $139 per year. It includes much more than access to Prime Day deals: You get free, two-day shipping on most Amazon products (and free same-day delivery in some areas), access to TV shows and movies on Amazon Prime Video plus special deals at Whole Food Market and more."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
 type: article
 quality: 86
-heat: 296
+heat: 306
 published: true
 
 provider:
@@ -220,6 +220,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "China Implements Landmark Regulations for AI Services like ChatGPT"
+    excerpt: "China pioneers AI regulation. New guidelines by Cyberspace Administration to oversee generative AI like ChatGPT. Effective August 15"
+    publishedDateTime: 2023-07-15T05:38:00Z
+    webUrl: "https://techstory.in/china-implements-landmark-regulations-for-ai-services-like-chatgpt/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/07/f0c3442c414a7bd1b039829a50849a4e-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Elon Musk launches his own AI company to compete with ChatGPT"
     excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
     publishedDateTime: 2023-07-13T23:42:00Z
@@ -303,6 +317,6 @@ related:
       domain: jdsupra.com
     quality: 13
 
-secured: "cuVD0/6abf80nhctlx3AnyMcbKWK+8IvvXcHDElKB5tpuwGC91ECFnXwI21BY6WW0XSD4iVi7U5DNANTzl9vR6wITTkYfmjiR2n+rVMnv3zDGTRfSmLwtweqgnY8IEzakXZrkn+w/pnVCuyNQlU7FE/QB8rqvbQXWO1ZpoJqkK8qldGL6aHd21CSoYLjUDepunTsTn8eP+eX/xeyOhEpfeM0s41M3SBJiibFyqvMtXPFuL3QsD3c8WqFeAdXfLnW3Bi5KbeDVgE2cT9/o9DFe3qhSmSyR6Sq2aczHCIbX/e1IEOUJgVAvIr6XPMgxu1YgexmG7i2mIMYHkaJXxUQcvADwUAh1AP2EtHVtzrqLdM=;7zsj1ABU0mJEWXanJlZRJQ=="
+secured: "bnZjCTRqdzGmilkBxGi0Qzx/uJu4Xturv471fU09hi+8ou9Bculu6Y1WAsFS/RCPIOkdwztI0/RTXQG8Jhi+YHSJRTd93Vybrn+8zqNZ08eqkwEMa9xGZbq42CP/jdVelyjaKv+qNzfSZjoj+OKFxz/+VfdU4R9SDwfpWzB6aJiy/GI1+079w9xaxFdFuuemtBSNLSrr7bAZ4MWo3e5VdbF97GBRKRC7lQzkBuUcNpXAQ7NlSnqjmjoQcoRjiHNXoFkohrsfnk1qfJr/cMCpIykvHiI16JLdgfVvHwel2AY4ZeP4HqI+TP2sRTkl3LeTmRPXg4THdDdzy8SzGuEyiSfoaCdb0ZXlewhOFDNj5sKmcyzZT3yNdD5PstVj5oaWUesT5hCvdc/gakv7CAG4GXjQu/2UKow6Z2YFpI7G0ahrDiNMl96J5yvcwOK4n+7bXdHyFFqfRU7EA02JSOpwvnEkjnZEhUnwBKj4/5CYoHFiMLW8RLQU4IUV89VIGz0bFW4u8vja2HfDqkz6yS31Ig==;u+FIAazAVs5twIHpiMR5Qw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-block
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CoinTelegraph
@@ -42,6 +42,20 @@ related:
       - url: "https://www.coinspeaker.com/wp-content/uploads/2023/07/hive-blockchain-ai.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Hive Blockchain Shifts Focus to AI, Rebrands as Hive Digital Technologies"
+    excerpt: "Prominent crypto mining firm Hive Blockchain has rebranded itself to Hive Digital Technologies as the company shifts focuse toward artificial intelligence."
+    publishedDateTime: 2023-07-13T09:58:00Z
+    webUrl: "https://cryptonews.com/news/hive-blockchain-shifts-focus-ai-rebrands-as-hive-digital-technologies.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 38
+    images:
+      - url: "https://cimg.co/news/119510/317699/opengraph.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "s6sz84ZRVUDYXoj9+levKE8jTKEdQcAheK4BZtOQZQWm3ZObze0Krj6O9D1wJ9N7kyYTh50sqj346Ahu7R8UhVez7/gl4fAyiHqboya0oFtxdtp5s05e6fA2ivJ1RIw+nmPQSZPNOH3+piUgTz72hroCN9TblSW/Bg0nRh1AqHQLGUYj/91tWTcf0E/88bdfAyXqM/DHtIH38yD/zeALtZGT5IJs2ZPiJYY8kz6kBH20fqiD3J8FoddjLF2qIFzopeLcO9/p+Czm5Sl0MtKSsRg/5Le6LOJ0m0z1vNmiMorFjmVZJQqydcz/kHR1KybE6SZr11d6G0rAUlBP3rq7sugrEaURndfqSpnpWYNsitoVOvb4dVllT315gbVEEuLX8H5nPgDna75/5Mf4EhAXsQeHu08LAL56v+9UKKQEFZlms4xkSwmk2dfZq92uBYEGefxpb7G0JQOVlV4R9GQH3yOKfqhboJY++Ns1eJXsZYpO21Q8fFz+SPJvUvu1iWrg+r8/ii8py3GzapdUi/H1sw==;bBzi/wi3SmvpP0euhHx4JA=="

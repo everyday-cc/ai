@@ -49,20 +49,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "GPU-as-a-Service accelerates AI in telecoms"
-    excerpt: "ActivePort and Radian Arc join forces to enable high-performance AI via GPU-as-a-Service and easy deployment of models within their networks."
-    publishedDateTime: 2023-07-10T11:35:00Z
-    webUrl: "https://www.eenewseurope.com/en/gpu-as-a-service-accelerates-ai-in-telecoms/"
-    type: article
-    provider:
-      name: eeNews Europe
-      domain: eenewseurope.com
-    quality: 54
-    images:
-      - url: "https://ee.cdnartwhere.eu/wp-content/uploads/2023/07/2023-07-10-GPU-as-a-Service-AI-Innovation-scaled.jpg"
-        width: 1080
-        height: 754
-        isCached: true
   - title: "Activeport, Radian Arc Expand Relationship to Accelerate AI Deployment in Telecoms"
     excerpt: "ActivePort and Radian Arc are excited to announce an expanded relationship that will accelerate AI deployment within the telecommunications industry."
     publishedDateTime: 2023-07-11T01:33:00Z

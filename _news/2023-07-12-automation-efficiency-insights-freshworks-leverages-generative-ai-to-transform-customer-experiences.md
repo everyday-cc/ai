@@ -28,54 +28,164 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Not the Solution to Better Customer Experiences in Australia … Yet"
-    excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
-    publishedDateTime: 2023-07-13T02:22:00Z
-    webUrl: "https://www.techrepublic.com/article/au-report-customer-experience/"
+  - title: "AI-Driven Transformation: Insights And Pitfalls"
+    excerpt: "The potential transformative power of artificial intelligence (AI) is undeniable, yet even industry giants are exercising caution as they navigate potential implications."
+    publishedDateTime: 2023-07-11T16:07:00Z
+    webUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/"
+    ampWebUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71123-customer-service-ai.jpeg"
-        width: 1400
-        height: 889
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ad7ae447783414a7e45d54/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Australian corporates join AI chips race"
-    excerpt: "Corporate Australia has joined the global race to get its hands on advanced computer chips, a leading indicator of artificial intelligence and machine learning development, a top internet ser­vices company says."
-    publishedDateTime: 2023-07-11T08:41:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5"
-    ampWebUrl: "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp"
+  - title: "Our Three-Month Generative AI Transformation: Lessons Learned"
+    excerpt: "While generative AI is capable of incredible feats, leaders should start by thinking critically about how these new capabilities impact their companies’ visions."
+    publishedDateTime: 2023-07-12T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647df0780fbdf1afcd13b283/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 738
+        isCached: true
+  - title: "Artificial Intelligence (AI) – a transformative tool for economic dev’t in Africa"
+    excerpt: "Artificial Intelligence (AI) has emerged as a revolutionary technology that is transforming various aspects of our lives. Its potential for disruption is particularly notable in the economic landscape."
+    publishedDateTime: 2023-07-10T15:11:00Z
+    webUrl: "https://thebftonline.com/2023/07/10/artificial-intelligence-ai-a-transformative-tool-for-economic-devt-in-africa/"
+    ampWebUrl: "https://thebftonline.com/2023/07/10/artificial-intelligence-ai-a-transformative-tool-for-economic-devt-in-africa/?amp"
+    cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/2023/07/10/artificial-intelligence-ai-a-transformative-tool-for-economic-devt-in-africa/?amp"
+    type: article
+    provider:
+      name: business
+      domain: thebftonline.com
+    quality: 69
+    images:
+      - url: "https://thebftonline.com/wp-content/uploads/2023/07/Artificial-Intelligence-AI.jpg"
+        width: 294
+        height: 440
+        isCached: true
+  - title: "The transformational impact of AI"
+    excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
+    publishedDateTime: 2023-07-12T03:26:00Z
+    webUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai"
+    ampWebUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: "https://i.tribune.com.pk/media/images/1083504-TalatMasoodNew-1460481455/1083504-TalatMasoodNew-1460481455.JPG"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "User-driven AI automation - a path to efficiency and job satisfaction"
+    excerpt: "The transformatve power of AI and automation goes far beyond technology - business users play a vital role. Acumatica's Doug Johnson explores the emergence of business process experts, and the different levels of AI-driven automation."
+    publishedDateTime: 2023-07-13T09:51:00Z
+    webUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction"
+    ampWebUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2015-08/automatino-engineers.jpg"
+        width: 729
+        height: 373
+        isCached: true
+  - title: "UM Industries: Revolutionary Tech Company Transforming Education, Healthcare, and Finance with AI"
+    excerpt: "UM Industries, a trailblazing tech company, is revolutionizing education, healthcare, and finance through artificial intelligence. Their transformative solutions include TutorGeniusAI for accessible tutoring,"
+    publishedDateTime: 2023-07-11T18:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33189875/um-industries-revolutionary-tech-company-transforming-education-healthcare-and-finance-with-ai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+  - title: "AI-driven Facial Recognition: Repression And Innovation"
+    excerpt: "Researchers reported that the regime employs AI-powered facial recognition technology to suppress dissent while advancing its capabilities in China"
+    publishedDateTime: 2023-07-13T05:34:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-facial-recognition-repression-and-innovation"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
     quality: 54
-  - title: "AI Is Not the Solution to the Customer Experience in Australia … Yet"
-    excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
-    publishedDateTime: 2023-07-11T18:22:00Z
-    webUrl: "https://www.techrepublic.com/article/au-report-customer-experience/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
-  - title: "Would you like AI with that? Australia’s first restaurant generated by artificial intelligence is coming"
-    excerpt: "Are humans still needed for restaurant development? Sydney hospitality group Applejack found out through a national competition."
-    publishedDateTime: 2023-07-12T06:52:00Z
-    webUrl: "https://www.smh.com.au/goodfood/sydney-eating-out/would-you-like-ai-with-that-australia-s-first-restaurant-generated-by-artificial-intelligence-is-coming-20230712-p5dnqz.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 37
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.73828125%2C$multiply_0.7725%2C$ratio_1.5%2C$width_756%2C$x_0%2C$y_126/t_crop_custom/q_86%2Cf_auto/4d9785d6ab8b6887e3cf467b166dfb9d2dbbda48"
-        width: 584
-        height: 389
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-AI-tocracy-01-press_0.jpg"
+        width: 900
+        height: 600
         isCached: true
+  - title: "How To Implement AI, The Catalyst For Supply Chain Transformation"
+    excerpt: "In order to excel in the world of machine learning, it's essential to become an organizational learning machine."
+    publishedDateTime: 2023-07-13T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/13/how-to-implement-ai-the-catalyst-for-supply-chain-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "4 Ways AI will Transform Work Life for Everyone"
+    excerpt: "What does the effect of AI hold for the future of employment? While at RecFest we spoke to futurist Matt O'Neill to find out how we should embrace the new tools at our disposal and what comes"
+    publishedDateTime: 2023-07-13T13:48:00Z
+    webUrl: "https://www.ph-creative.com/blog/posts/4-ways-ai-will-transform-work-life-for-everyone/"
+    type: article
+    provider:
+      name: ph-creative.com
+      domain: ph-creative.com
+    quality: 41
+    images:
+      - url: "https://www.ph-creative.com/media/3185/untitled-design-3.png?anchor=center&mode=crop&width=1200&height=630&quality=100"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Shell Wields AI as Transition Tool"
+    excerpt: "The UK major's global head of artificial intelligence explains how digital technology is helping drive innovation in the complex new energy system."
+    publishedDateTime: 2023-07-11T20:23:00Z
+    webUrl: "https://www.energyintel.com/00000189-44e0-db03-a3ab-76f7292f0000"
+    type: article
+    provider:
+      name: energyintel
+      domain: energyintel.com
+    quality: 39
+    images:
+      - url: "https://energyintel.brightspotcdn.com/dims4/default/ef4ac8c/2147483647/strip/true/crop/882x463+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fenergy-intelligence-brightspot.s3.amazonaws.com%2F46%2F42%2F30ce053140fcb6e690e8d3a85d26%2Fss-1931158067-ai-concept.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
+    excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
+    publishedDateTime: 2023-07-11T19:22:00Z
+    webUrl: "https://venturebeat.com/ai/revolutionizing-personalization-how-generative-ai-propels-growth-with-ai-driven-customer-insights/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 35
+  - title: "The Revolution in AI powered by Transformer Architecture"
+    excerpt: "Introduction: The field of machine learning is constantly evolving, with groundbreaking discoveries that push the boundaries of what is possible. One such discovery that has captivated the attention of researchers and developers alike is the transformer architecture."
+    publishedDateTime: 2023-07-14T07:21:00Z
+    webUrl: "https://techbullion.com/the-revolution-in-ai-powered-by-transformer-architecture/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "i3SwEtAB+9jkPi4jK1khChOmlt//qJ7MbUf5yZ3K3otOsDAHPM++etqbd8cqMd3OZbiv52tCpQZMuOAvC4lbPnczG2rmkHg9RyS95iIMtEA5gd+FZgJfgtneHADyS9OEb4vTmnrcoCI4TrgKoJW+O2ef3TQmJH6WdbMYdeO7eb1FYcGO1qu6PYMvZP6SdZzlmcT2o3FZ+wUNV3uY4RUMOjtCgWb5N7d7WgJG+B25fSV2TvYAAkRUNkNzRuOK8iZZQ4AfGweR5bAmg8pWoBn+Dy9e9LKTxEzONgObI7OG+W1w7PE2OzkxeFPaHkQlvREyvRp7RjfaaK0K5xoYOHIKSu17ESnJ94xgZHKU+CBt79k=;sVilkPkAW2U93OVvbWKaSQ=="
 ---
